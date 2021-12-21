@@ -836,7 +836,7 @@ function pushToGithub() {
 				console.log(`stdout: ${stdout}`);
 
 				/* $ git push */
-				exec('cd ../../; git push origin master', (error, stdout, stderr) => {
+				exec('cd ../../; git push origin main', (error, stdout, stderr) => {
 					if (error) {
 						console.log(`error: ${error.message}`);
 						if(forever) {
