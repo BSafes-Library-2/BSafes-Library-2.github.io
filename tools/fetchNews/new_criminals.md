@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware Gang Has Full Log4Shell Attack Chain<a href="https://threatpost.com/conti-ransomware-gang-has-full-log4shell-attack-chain/177173/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti has become the first professional-grade, sophisticated ransomware group to weaponize Log4j2, now with a full attack chain. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal Over 1.8 Million People's Credit Card Data from Sports Gear Websites<a href="https://gbhackers.com/hackers-stole-over-1-8-million-people-credit-card-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Oct 15, these sites realized that they had been compromised, and on Nov 29, they notified their customers about this data breach in which the hackers have stolen over 1.8 million credit cards data.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

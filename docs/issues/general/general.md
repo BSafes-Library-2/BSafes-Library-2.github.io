@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Companies Impacted by Hive Ransomware in More Than Four Months<a href="https://heimdalsecurity.com/blog/hive-ransomware-group-impacts-hundreds-of-companies-during-more-than-4-months/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to security researchers who gathered data from Hive’s administrator panel, affiliates of the well-known ransomware group managed to breach in more than 4 months over 350 organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Persists Even as High-Profile Attacks Have Slowed<a href="https://www.securityweek.com/ransomware-persists-even-high-profile-attacks-have-slowed?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks surfaced as a national security emergency for the administration after a May attack on Colonial Pipeline, which supplies nearly half the fuel consumed on the East Coast.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

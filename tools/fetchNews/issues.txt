@@ -30,6 +30,7 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://www.bleepingcomputer.com/news/security/fbi-state-hackers-exploiting-new-zoho-zero-day-since-october/
 
 Law
 

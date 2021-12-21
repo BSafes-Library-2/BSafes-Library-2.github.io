@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department indicts Russian hacker for allegedly participating in trading scheme<a href="https://thehill.com//policy/cybersecurity/586601-justice-department-indicts-russian-hacker-for-alleged-participating-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national was indicted and extradited to the United States this week for allegedly hacking into the networks of U.S. groups involved in stock market trading to profit from insider information, the Justice Department announced Monday.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

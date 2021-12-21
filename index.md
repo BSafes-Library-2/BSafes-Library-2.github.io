@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of easy Windows domain takeover via Active Directory bugs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-easy-windows-domain-takeover-via-active-directory-bugs/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Decentralized Finance Protocol Grim Finance Suffers 5x Reentrancy Attack<a href="https://cointelegraph.com/news/defi-protocol-grim-finance-lost-30m-in-5x-reentrancy-hack?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Coin Telegraph
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Belgian defense ministry hacked by attackers exploiting Apache vulnerability<a href="https://thehill.com//policy/cybersecurity/586633-belgian-defense-ministry-hacked-by-attackers-exploiting-apache"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Mobile Network Vulnerabilities Affect All Cellular Generations Since 2G<a href="https://thehackernews.com/2021/12/new-mobile-network-vulnerabilities.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Towards OECD Principles for Government Access to Data: Can Democracies Show the Way?<a href="https://www.lawfareblog.com/towards-oecd-principles-government-access-data-can-democracies-show-way"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkWatchman RAT uses Windows Registry fileless storage mechanism<a href="https://securityaffairs.co/wordpress/125830/malware/darkwatchman-rat.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti Ransomware Gang Has Full Log4Shell Attack Chain<a href="https://threatpost.com/conti-ransomware-gang-has-full-log4shell-attack-chain/177173/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta sues people behind Facebook and Instagram phishing<a href="https://www.bleepingcomputer.com/news/security/meta-sues-people-behind-facebook-and-instagram-phishing/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Steal Over 1.8 Million People's Credit Card Data from Sports Gear Websites<a href="https://gbhackers.com/hackers-stole-over-1-8-million-people-credit-card-data/?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ GB Hackers
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Justice Department indicts Russian hacker for allegedly participating in trading scheme<a href="https://thehill.com//policy/cybersecurity/586601-justice-department-indicts-russian-hacker-for-alleged-participating-in"> Full Text</a>
@@ -198,7 +198,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Compliance for 2022<a href="https://thehackernews.com/2021/12/how-to-see-if-cybersecurity-of-your.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nation-state actors are exploiting Zoho zero-day CVE-2021-44515 since October, FBI warns<a href="https://securityaffairs.co/wordpress/125821/hacking/zoho-zero-day-cve-2021-44515-fbi-alert.html"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: State hackers exploiting new Zoho zero-day since October<a href="https://www.bleepingcomputer.com/news/security/fbi-state-hackers-exploiting-new-zoho-zero-day-since-october/"> Full Text</a>
@@ -250,7 +250,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK's National Crime Agency shares 585 million passwords with Have I Been Pwned<a href="https://therecord.media/the-nca-shares-585-million-passwords-with-have-i-been-pwned/?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Discover Backdoor Deployed on the U.S. Federal Agency's Network<a href="https://thehackernews.com/2021/12/experts-discover-backdoor-deployed-on.html"> Full Text</a>
@@ -282,7 +282,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Belgian defense ministry hit by cyberattack exploiting Log4Shell bug<a href="https://securityaffairs.co/wordpress/125813/cyber-warfare-2/belgian-defense-ministry-hit-cyberattack.html"> Full Text</a>
@@ -302,7 +302,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK govt shares 585 million passwords with Have I Been Pwned<a href="https://www.bleepingcomputer.com/news/security/uk-govt-shares-585-million-passwords-with-have-i-been-pwned/"> Full Text</a>
@@ -318,7 +318,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of Companies Impacted by Hive Ransomware in More Than Four Months<a href="https://heimdalsecurity.com/blog/hive-ransomware-group-impacts-hundreds-of-companies-during-more-than-4-months/?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alleged APT implanted a backdoor in the network of a US federal agency<a href="https://securityaffairs.co/wordpress/125807/apt/backdoor-implanted-on-us-federal-agency-network.html"> Full Text</a>
@@ -354,7 +354,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Log4j vulnerability now used to install Dridex banking malware<a href="https://www.bleepingcomputer.com/news/security/log4j-vulnerability-now-used-to-install-dridex-banking-malware/"> Full Text</a>
@@ -370,7 +370,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Citizen Lab Exposes Cytrox as Vendor Behind 'Predator' iPhone Spyware<a href="https://www.securityweek.com/citizen-lab-exposes-cytrox-vendor-behind-predator-iphone-spyware?&web_view=true"> Full Text</a>
@@ -386,7 +386,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new attack vector exploits the Log4Shell vulnerability on servers locally<a href="https://securityaffairs.co/wordpress/125800/hacking/log4shell-vulnerability-attack-vector.html"> Full Text</a>
@@ -406,7 +406,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile says it blocked 21 billion scam calls this year<a href="https://www.bleepingcomputer.com/news/security/t-mobile-says-it-blocked-21-billion-scam-calls-this-year/"> Full Text</a>
@@ -422,7 +422,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kronos Attack Impacts Payroll Data of 150,000 Sainsbury's Employees<a href="https://www.bbc.com/news/technology-59683889?&web_view=true"> Full Text</a>
@@ -438,7 +438,7 @@ BBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing attacks impersonate Pfizer in fake requests for quotation<a href="https://www.bleepingcomputer.com/news/security/phishing-attacks-impersonate-pfizer-in-fake-requests-for-quotation/"> Full Text</a>
@@ -454,7 +454,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Persists Even as High-Profile Attacks Have Slowed<a href="https://www.securityweek.com/ransomware-persists-even-high-profile-attacks-have-slowed?&web_view=true"> Full Text</a>
@@ -470,7 +470,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop Ransomware Operators Release Stolen Confidential Information Belonging to British Police<a href="https://securityaffairs.co/wordpress/125792/cyber-crime/clop-ransomware-uk-police.html?&web_view=true"> Full Text</a>
@@ -486,7 +486,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2021
+December 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 500,000 Android Users Downloaded a New Joker Malware App from Play Store<a href="https://thehackernews.com/2021/12/over-500000-android-users-downloaded.html"> Full Text</a>

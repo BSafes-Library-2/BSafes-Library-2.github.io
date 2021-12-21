@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of easy Windows domain takeover via Active Directory bugs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-easy-windows-domain-takeover-via-active-directory-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned customers today to patch two Active Directory domain service privilege escalation security flaws that, when combined, allow attackers to easily takeover Windows domains.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mobile Network Vulnerabilities Affect All Cellular Generations Since 2G<a href="https://thehackernews.com/2021/12/new-mobile-network-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed security vulnerabilities in handover, a fundamental mechanism that undergirds modern cellular networks, which could be exploited by adversaries to launch denial-of-service (DoS) and man-in-the-middle (MitM) attacks using low-cost equipment.  The "vulnerabilities in the handover procedure are not limited to one handover case only but they impact all different handover cases and scenarios that are based on unverified measurement reports and signal strength thresholds," researchers Evangelos Bitsikas and Christina Pöpper from the New York University Abu Dhabi said in a&nbsp; new paper . "The problem affects all generations since 2G (GSM), remaining unsolved so far."  Handover , also known as handoff, is a process in telecommunications in which a phone call or a data session is transferred from one&nbsp; cell site &nbsp;(aka base station) to another cell tower without losing connectivity during the transmission. This method is crucial to establishing cellul
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Discover Backdoor Deployed on the U.S. Federal Agency's Network<a href="https://thehackernews.com/2021/12/experts-discover-backdoor-deployed-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.S. federal government commission associated with international rights has been targeted by a backdoor that reportedly compromised its internal network in what the researchers described as a "classic APT-type operation."&nbsp;  "This attack could have given total visibility of the network and complete control of a system and thus could be used as the first step in a multi-stage attack to penetrate this, or other networks more deeply," Czech security company Avast&nbsp; said &nbsp;in a report published last week.   The name of the federal entity was not disclosed, but reports from&nbsp; Ars Technica &nbsp;and&nbsp; The Record &nbsp;tied it to the U.S. Commission on International Religious Freedom ( USCIRF ). Avast said it was making its findings public after unsuccessful attempts to directly notify the agency about the intrusion and through other channels put in place by the U.S. government.  At this stage, only "parts of the attack puzzle" have been uncovered, leaving the door open for
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4j vulnerability now used to install Dridex banking malware<a href="https://www.bleepingcomputer.com/news/security/log4j-vulnerability-now-used-to-install-dridex-banking-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors now exploit the critical Apache Log4j vulnerability named Log4Shell to infect vulnerable devices with the notorious Dridex banking trojan&nbsp;or Meterpreter.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new attack vector exploits the Log4Shell vulnerability on servers locally<a href="https://securityaffairs.co/wordpress/125800/hacking/log4shell-vulnerability-attack-vector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers devised a new attack vector exploiting the Log4Shell vulnerability on servers locally by using a JavaScript WebSocket connection.
+
+
+
+Researchers from cybersecurity firm Blumira devised a new attack vector that relies on a Javascript...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

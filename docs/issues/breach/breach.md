@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Ransomware Operators Release Stolen Confidential Information Belonging to British Police<a href="https://securityaffairs.co/wordpress/125792/cyber-crime/clop-ransomware-uk-police.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach took place in October, Clop ransomware operators gained access to data managed by Dacoll, including that of the PNC, holding the personal information and records of 13 million people.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

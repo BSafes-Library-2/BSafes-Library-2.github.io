@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged APT implanted a backdoor in the network of a US federal agency<a href="https://securityaffairs.co/wordpress/125807/apt/backdoor-implanted-on-us-federal-agency-network.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged APT group planted a backdoor in the network of a U.S. federal government commission associated with international rights.
+
+
+
+Experts spotted a backdoor in the network of an unnamed U.S. federal government commission associated with international...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
