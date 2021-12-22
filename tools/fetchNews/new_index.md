@@ -34,7 +34,487 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PYSA ransomware behind most double extortion attacks in November<a href="https://www.bleepingcomputer.com/news/security/pysa-ransomware-behind-most-double-extortion-attacks-in-november/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts from NCC Group report that ransomware attacks in November 2021 increased over the past month, with double-extortion continuing to be a powerful tool in threat actors' arsenal.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubisoft Discloses Data Breach Involving Customer Information from Just Dance Video Game<a href="https://portswigger.net/daily-swig/ubisoft-confirms-just-dance-video-game-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ubisoft has announced a data breach after unknown actors targeted its popular video game franchise, Just Dance. The firm confirmed that customer information may have been accessed during the incident.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS expands bug bounty program to encourage hunting down Apache vulnerability<a href="https://thehill.com//policy/cybersecurity/586831-dhs-expands-bug-bounty-program-to-encourage-hunting-down-apache"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) is expanding its recently announced bug bounty program for cyber vulnerabilities to include incentives for hackers to hunt down issues related to the Apache logging library log4j vulnerability. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tropic Trooper Cyber Espionage Hackers Targeting Transportation Sector<a href="https://thehackernews.com/2021/12/tropic-trooper-cyber-espionage-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Transportation industry and government agencies related to the sector are the victims of an ongoing campaign since July 2020 by a sophisticated and well-equipped cyberespionage group in what appears to be yet another uptick in malicious activities that are "just the tip of the iceberg."  "The group tried to access some internal documents (such as flight schedules and documents for financial plans) and personal information on the compromised hosts (such as search histories)," Trend Micro researchers Nick Dai, Ted Lee, and Vickie Su  said  in a report published last week.  Earth Centaur, also known by the monikers  Pirate Panda  and Tropic Trooper, is a long-running threat group focused on information theft and espionage that has led targeted campaigns against government, healthcare, transportation, and high-tech industries in Taiwan, the Philippines, and Hong Kong dating all the way back to 2011.   The hostile agents, believed to be a Chinese-speaking actor, are kno
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian national extradited to US for trading on stolen Information<a href="https://securityaffairs.co/wordpress/125865/cyber-crime/russian-national-trading-on-stolen-information.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national was extradited to the US from Switzerland after he was charged for trading information stolen from hacked U.S. companies. 
+
+
+
+The Russian national Vladislav Klyushin (41) was extradited to the United States from Switzerland to face...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2easy now a significant dark web marketplace for stolen data<a href="https://www.bleepingcomputer.com/news/security/2easy-now-a-significant-dark-web-marketplace-for-stolen-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A dark web marketplace named '2easy' is becoming a significant player in the sale of stolen data "Logs" harvested from roughly 600,000 devices infected with information-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Abcbot Botnet Targets Linux Servers Hosted by Alibaba Cloud, Huawei Cloud, Tencent, and Baidu<a href="https://therecord.media/new-abcbot-botnet-goes-after-chinese-cloud-providers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cado Security said in a report that the botnet has targeted servers hosted by Alibaba Cloud, Baidu, Tencent, and Huawei Cloud, echoing previous findings from Trend Micro and Qihoo 360 Netlab.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAE agency put spyware on phone of Jamal Khashoggi's wife prior to murder: report<a href="https://thehill.com//policy/cybersecurity/586792-uae-agency-put-spyware-on-phone-of-jamal-khashoggis-wife-prior-to-murder"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A United Arab Emirates (UAE) agency downloaded spyware from Israeli company NSO Group onto the phone of former reporter Jamal Khashoggi’s wife months before Khashoggi’s murder, new findings published Tuesday concluded.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 7 common Cybersecurity Myths — Busted<a href="https://thehackernews.com/2021/12/top-7-common-cybersecurity-myths-busted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even with the growing awareness about cybersecurity, many myths about it are prevalent. These misconceptions can be a barrier to effective security.   The first step to ensure the security of your business is to separate the false information, myths, and rumors from the truth.  Here, we're busting some common cybersecurity myths. Read on to find out which of the following you thought were true.  Cybersecurity Myths vs. Truths  Myth #1 — Too much security diminishes productivity  There is a common idea that increased security makes it difficult for even employees to access what they need, not just hackers. Strict security policies such as regular monitoring and access control are believed to hinder productivity at work. However, doing away with security may have far-reaching consequences for your business. A successful attack like a  DDoS attack or ransomware can bring your business to a standstill. Employees might not be able to access important files, networks, and information af
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch these 2 Active Directory flaws to prevent the takeover of Windows domains<a href="https://securityaffairs.co/wordpress/125857/security/windows-active-directory-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of a couple of Active Directory flaws fixed with the November 2021 Patch Tuesday updates that could allow takeover of Windows domains.
+
+
+
+Microsoft released an alert on a couple of Active Directory vulnerabilities, that have been fixed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+800K WordPress sites still impacted by critical SEO plugin flaw<a href="https://www.bleepingcomputer.com/news/security/800k-wordpress-sites-still-impacted-by-critical-seo-plugin-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical and high severity security vulnerabilities in the highly popular "All in One" SEO WordPress plugin exposed over 3 million websites to takeover attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Urges Customers to Patch Recent Active Directory Vulnerabilities<a href="https://www.securityweek.com/microsoft-urges-customers-patch-recent-active-directory-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2021-42287 and CVE-2021-42278, the two security errors can be chained to impersonate domain controllers and gain administrative privileges on Active Directory.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secret Backdoors Found in German-made Auerswald VoIP System<a href="https://thehackernews.com/2021/12/secret-backdoors-found-in-german-made.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple backdoors have been discovered during a penetration test in the firmware of a widely used voice over Internet Protocol (VoIP) appliance from Auerswald, a German telecommunications hardware manufacturer, that could be abused to gain full administrative access to the devices.  "Two backdoor passwords were found in the firmware of the  COMpact 5500R PBX ," researchers from RedTeam Pentesting said in a  technical   analysis  published Monday. "One backdoor password is for the secret user ' Schandelah ', the other can be used for the highest-privileged user ' admin .' No way was discovered to disable these backdoors."   The vulnerability has been assigned the identifier  CVE-2021-40859  and carries a critical severity rating of 9.8. Following responsible disclosure on September 10, Auerswald addressed the problem in a firmware update (version 8.2B) released in November 2021. "Firmware Update 8.2B contains important security updates that you
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than 35,000 Java packages impacted by Log4j flaw, Google warns<a href="https://securityaffairs.co/wordpress/125845/security/log4j-java-packages-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google found more than 35,000 Java packages in the Maven Central repository that are impacted by flaws in the Apache Log4j library. 
+
+
+
+The Google Open Source Team scanned the Maven Central Java package repository and found that 35,863 packages (8% of the total)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors steal $80 million per month with fake giveaways, surveys<a href="https://www.bleepingcomputer.com/news/security/threat-actors-steal-80-million-per-month-with-fake-giveaways-surveys/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are estimated to have made $80 million per month by impersonating popular brands asking people to participate in fake surveys or giveaways.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Charming Kitten Enters Israeli Networks via Log4Shell<a href="https://cyware.com/news/iranian-charming-kitten-enters-israeli-networks-via-log4shell-102aa995"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point researchers observed communications between a server used by the Charming Kitten group and targets in Israel.&nbsp;The group is actively taking advantage of a recently disclosed vulnerability in Log4j to carry out attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4j Vulnerability Aftermath<a href="https://securityaffairs.co/wordpress/125842/cyber-crime/log4j-vulnerability-aftermath.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uptycs researchers have observed attacks related to miners, DDOS malware and some variants of ransomware actively leveraging LogforShell flaw in log4j.
+
+
+
+Last week the Log4j vulnerability turned the internet upside down. The impact of the vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers made millions by stealing SEC earning reports<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-made-millions-by-stealing-sec-earning-reports/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national working for a cybersecurity company has been extradited to the U.S. where he is being charged for hacking into computer networks of two U.S.-based filing agents used by multiple companies to file quarterly and annual earnings through the Securities and Exchange Commissions (SEC) system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Sees APTs Exploiting Recent ManageEngine Desktop Central Vulnerability<a href="https://www.securityweek.com/fbi-sees-apts-exploiting-recent-manageengine-desktop-central-vulnerability?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) has released an alert regarding the exploitation of a recent vulnerability, tracked as CVE-2021-44515, in Zoho’s ManageEngine Desktop Central product.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US returns $154 Million in bitcoins stolen by Sony employee<a href="https://www.bleepingcomputer.com/news/security/us-returns-154-million-in-bitcoins-stolen-by-sony-employee/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States has taken legal action to seize and return over $154 million purportedly stolen from Sony Life Insurance Company Ltd, a SONY subsidiary, by an employee in a textbook business email compromise (BEC) attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware Growing at an Accelerated Pace<a href="https://cyware.com/news/hive-ransomware-growing-at-an-accelerated-pace-e626a9b7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report has revealed that the Hive Ransomware-as-a-Service (RaaS) is aggressively expanding its operations, and has targeted hundreds of organizations since its first appearance in June.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Garrett walk-through metal detectors can be remotely manipulated<a href="https://www.bleepingcomputer.com/news/security/garrett-walk-through-metal-detectors-can-be-remotely-manipulated/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two widely used walk-through metal detectors made by Garrett are vulnerable to many remotely exploitable flaws that could severely impair their functionality, thus rendering security checkpoints deficient.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dridex Malware Is Installed With the Help of Log4j Vulnerability<a href="https://heimdalsecurity.com/blog/dridex-malware-installed-with-the-help-of-log4j-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptolaemus, a cybersecurity research firm, has warned that the Log4j vulnerability is currently being used to infect Windows devices with the Dridex Trojan and Linux devices with Meterpreter.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 21H2 adds ransomware protection to security baseline<a href="https://www.bleepingcomputer.com/news/microsoft/windows-10-21h2-adds-ransomware-protection-to-security-baseline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released the final version of security configuration baseline settings for Windows 10, version 21H2, available today from the Microsoft Security Compliance Toolkit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Study finds “serious security risks” in K-12 school apps<a href="https://therecord.media/study-finds-serious-security-risks-in-k-12-school-apps/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many apps used by schools contain features that can lead to the “unregulated and out of control” sharing of student data to advertising firms and other security issues, as per a Me2B Alliance report.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhiteSource Open Source Tool Can Discover Log4j Vulnerabilities<a href="https://securityboulevard.com/2021/12/whitesource-open-source-tool-can-discover-log4j-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhiteSource has made available an open-source tool to detect vulnerable instances of Log4j logging software. The recently disclosed flaw allows attackers to launch an RCE attack via Java applications.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robocalls More Than Doubled in 2021, Cost Victims $30B<a href="https://threatpost.com/robocalls-doubled-2021-30b/177165/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile reported blocking 21 billion scam calls during a record-smashing year for robocalls. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third Log4J Bug Can Trigger DoS; Apache Issues Patch<a href="https://threatpost.com/third-log4j-bug-dos-apache-patch/177159/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new Log4j vulnerability is similar to Log4Shell in that it also affects the logging library, but this DoS flaw has to do with Context Map lookups, not JNDI. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Sues Hackers Behind Facebook, WhatsApp and Instagram Phishing Attacks<a href="https://thehackernews.com/2021/12/meta-sues-hackers-behind-facebook.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook's parent company Meta Platforms on Monday said it has filed a federal lawsuit  in the U.S. state of California against bad actors who operated more than 39,000 phishing websites that impersonated its digital properties to mislead unsuspecting users into divulging their login credentials.  The social engineering scheme involved the creation of rogue webpages that masqueraded as the login pages of Facebook, Messenger, Instagram, and WhatsApp, on which victims were prompted to enter their usernames and passwords that were then harvested by the defendants. The tech giant is also seeking $500,000 from the anonymous actors.   The attacks were carried out using a relay service, Ngrok , that redirected internet traffic to the phishing websites in a manner that concealed the true location of the fraudulent infrastructure. Meta said the volume of these phishing attacks ramped up in volume since March 2021 and that it worked with the relay service to suspend thousands of URLs to the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of easy Windows domain takeover via Active Directory bugs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-easy-windows-domain-takeover-via-active-directory-bugs/"> Full Text</a>
@@ -50,7 +530,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Decentralized Finance Protocol Grim Finance Suffers 5x Reentrancy Attack<a href="https://cointelegraph.com/news/defi-protocol-grim-finance-lost-30m-in-5x-reentrancy-hack?&web_view=true"> Full Text</a>
@@ -66,7 +546,7 @@ Coin Telegraph
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Belgian defense ministry hacked by attackers exploiting Apache vulnerability<a href="https://thehill.com//policy/cybersecurity/586633-belgian-defense-ministry-hacked-by-attackers-exploiting-apache"> Full Text</a>
@@ -82,7 +562,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Mobile Network Vulnerabilities Affect All Cellular Generations Since 2G<a href="https://thehackernews.com/2021/12/new-mobile-network-vulnerabilities.html"> Full Text</a>
@@ -98,7 +578,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Towards OECD Principles for Government Access to Data: Can Democracies Show the Way?<a href="https://www.lawfareblog.com/towards-oecd-principles-government-access-data-can-democracies-show-way"> Full Text</a>
@@ -114,7 +594,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkWatchman RAT uses Windows Registry fileless storage mechanism<a href="https://securityaffairs.co/wordpress/125830/malware/darkwatchman-rat.html"> Full Text</a>
@@ -134,7 +614,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti Ransomware Gang Has Full Log4Shell Attack Chain<a href="https://threatpost.com/conti-ransomware-gang-has-full-log4shell-attack-chain/177173/"> Full Text</a>
@@ -150,7 +630,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta sues people behind Facebook and Instagram phishing<a href="https://www.bleepingcomputer.com/news/security/meta-sues-people-behind-facebook-and-instagram-phishing/"> Full Text</a>
@@ -166,7 +646,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Steal Over 1.8 Million People's Credit Card Data from Sports Gear Websites<a href="https://gbhackers.com/hackers-stole-over-1-8-million-people-credit-card-data/?&web_view=true"> Full Text</a>
@@ -182,7 +662,7 @@ GB Hackers
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Justice Department indicts Russian hacker for allegedly participating in trading scheme<a href="https://thehill.com//policy/cybersecurity/586601-justice-department-indicts-russian-hacker-for-alleged-participating-in"> Full Text</a>
@@ -198,7 +678,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Compliance for 2022<a href="https://thehackernews.com/2021/12/how-to-see-if-cybersecurity-of-your.html"> Full Text</a>
@@ -214,7 +694,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nation-state actors are exploiting Zoho zero-day CVE-2021-44515 since October, FBI warns<a href="https://securityaffairs.co/wordpress/125821/hacking/zoho-zero-day-cve-2021-44515-fbi-alert.html"> Full Text</a>
@@ -234,7 +714,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: State hackers exploiting new Zoho zero-day since October<a href="https://www.bleepingcomputer.com/news/security/fbi-state-hackers-exploiting-new-zoho-zero-day-since-october/"> Full Text</a>
@@ -250,7 +730,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK's National Crime Agency shares 585 million passwords with Have I Been Pwned<a href="https://therecord.media/the-nca-shares-585-million-passwords-with-have-i-been-pwned/?&web_view=true"> Full Text</a>
@@ -266,7 +746,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Discover Backdoor Deployed on the U.S. Federal Agency's Network<a href="https://thehackernews.com/2021/12/experts-discover-backdoor-deployed-on.html"> Full Text</a>
@@ -282,7 +762,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Belgian defense ministry hit by cyberattack exploiting Log4Shell bug<a href="https://securityaffairs.co/wordpress/125813/cyber-warfare-2/belgian-defense-ministry-hit-cyberattack.html"> Full Text</a>
@@ -302,7 +782,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK govt shares 585 million passwords with Have I Been Pwned<a href="https://www.bleepingcomputer.com/news/security/uk-govt-shares-585-million-passwords-with-have-i-been-pwned/"> Full Text</a>
@@ -318,7 +798,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of Companies Impacted by Hive Ransomware in More Than Four Months<a href="https://heimdalsecurity.com/blog/hive-ransomware-group-impacts-hundreds-of-companies-during-more-than-4-months/?&web_view=true"> Full Text</a>
@@ -334,7 +814,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alleged APT implanted a backdoor in the network of a US federal agency<a href="https://securityaffairs.co/wordpress/125807/apt/backdoor-implanted-on-us-federal-agency-network.html"> Full Text</a>
@@ -354,7 +834,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Log4j vulnerability now used to install Dridex banking malware<a href="https://www.bleepingcomputer.com/news/security/log4j-vulnerability-now-used-to-install-dridex-banking-malware/"> Full Text</a>
@@ -370,7 +850,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Citizen Lab Exposes Cytrox as Vendor Behind 'Predator' iPhone Spyware<a href="https://www.securityweek.com/citizen-lab-exposes-cytrox-vendor-behind-predator-iphone-spyware?&web_view=true"> Full Text</a>
@@ -386,7 +866,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new attack vector exploits the Log4Shell vulnerability on servers locally<a href="https://securityaffairs.co/wordpress/125800/hacking/log4shell-vulnerability-attack-vector.html"> Full Text</a>
@@ -406,7 +886,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile says it blocked 21 billion scam calls this year<a href="https://www.bleepingcomputer.com/news/security/t-mobile-says-it-blocked-21-billion-scam-calls-this-year/"> Full Text</a>
@@ -422,7 +902,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kronos Attack Impacts Payroll Data of 150,000 Sainsbury's Employees<a href="https://www.bbc.com/news/technology-59683889?&web_view=true"> Full Text</a>
@@ -438,7 +918,7 @@ BBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing attacks impersonate Pfizer in fake requests for quotation<a href="https://www.bleepingcomputer.com/news/security/phishing-attacks-impersonate-pfizer-in-fake-requests-for-quotation/"> Full Text</a>
@@ -454,7 +934,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Persists Even as High-Profile Attacks Have Slowed<a href="https://www.securityweek.com/ransomware-persists-even-high-profile-attacks-have-slowed?&web_view=true"> Full Text</a>
@@ -470,7 +950,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop Ransomware Operators Release Stolen Confidential Information Belonging to British Police<a href="https://securityaffairs.co/wordpress/125792/cyber-crime/clop-ransomware-uk-police.html?&web_view=true"> Full Text</a>
@@ -486,7 +966,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2021
+December 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 500,000 Android Users Downloaded a New Joker Malware App from Play Store<a href="https://thehackernews.com/2021/12/over-500000-android-users-downloaded.html"> Full Text</a>
