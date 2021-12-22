@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta sues people behind Facebook and Instagram phishing<a href="https://www.bleepingcomputer.com/news/security/meta-sues-people-behind-facebook-and-instagram-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta (formerly known as Facebook) has filed a federal lawsuit in California court to disrupt phishing attacks targeting&nbsp;Facebook, Messenger, Instagram, and WhatsApp&nbsp;users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile says it blocked 21 billion scam calls this year<a href="https://www.bleepingcomputer.com/news/security/t-mobile-says-it-blocked-21-billion-scam-calls-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile says it blocked 21 billion scam, spam, and unwanted robocalls this year through its free Scam Shield robocall and scam protection service, amounting to an average of 1.8 billion scam calls identified or blocked every month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attacks impersonate Pfizer in fake requests for quotation<a href="https://www.bleepingcomputer.com/news/security/phishing-attacks-impersonate-pfizer-in-fake-requests-for-quotation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are conducting a highly targeted phishing campaign impersonating Pfizer to steal business and financial information from victims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

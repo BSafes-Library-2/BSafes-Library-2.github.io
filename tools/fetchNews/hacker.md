@@ -8,6 +8,24 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation-state actors are exploiting Zoho zero-day CVE-2021-44515 since October, FBI warns<a href="https://securityaffairs.co/wordpress/125821/hacking/zoho-zero-day-cve-2021-44515-fbi-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns that zero-day flaw in&nbsp;Zoho's&nbsp;ManageEngine Desktop Central&nbsp;has been under active exploitation by nation-state actors since October.
+
+
+
+The Federal Bureau of Investigation (FBI) revealed that the critical CVE-2021-44515 zero-day vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

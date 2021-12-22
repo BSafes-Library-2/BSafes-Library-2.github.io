@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tropic Trooper Cyber Espionage Hackers Targeting Transportation Sector<a href="https://thehackernews.com/2021/12/tropic-trooper-cyber-espionage-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Transportation industry and government agencies related to the sector are the victims of an ongoing campaign since July 2020 by a sophisticated and well-equipped cyberespionage group in what appears to be yet another uptick in malicious activities that are "just the tip of the iceberg."  "The group tried to access some internal documents (such as flight schedules and documents for financial plans) and personal information on the compromised hosts (such as search histories)," Trend Micro researchers Nick Dai, Ted Lee, and Vickie Su&nbsp; said &nbsp;in a report published last week.  Earth Centaur, also known by the monikers&nbsp; Pirate Panda &nbsp;and Tropic Trooper, is a long-running threat group focused on information theft and espionage that has led targeted campaigns against government, healthcare, transportation, and high-tech industries in Taiwan, the Philippines, and Hong Kong dating all the way back to 2011.   The hostile agents, believed to be a Chinese-speaking actor, are kno
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Charming Kitten Enters Israeli Networks via Log4Shell<a href="https://cyware.com/news/iranian-charming-kitten-enters-israeli-networks-via-log4shell-102aa995"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point researchers observed communications between a server used by the Charming Kitten group and targets in Israel.&nbsp;The group is actively taking advantage of a recently disclosed vulnerability in Log4j to carry out attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

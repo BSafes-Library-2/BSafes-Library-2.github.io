@@ -8,6 +8,66 @@ nav_order: 900015
 
 ## Attack
 ---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decentralized Finance Protocol Grim Finance Suffers 5x Reentrancy Attack<a href="https://cointelegraph.com/news/defi-protocol-grim-finance-lost-30m-in-5x-reentrancy-hack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacker exploited the protocol’s vault contract through five reentrancy loops, which allowed them to fake five additional deposits into a vault while the platform is processing the first deposit.
+</details>
+<div style="text-align: right" markdown="1">
+Coin Telegraph
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgian defense ministry hacked by attackers exploiting Apache vulnerability<a href="https://thehill.com//policy/cybersecurity/586633-belgian-defense-ministry-hacked-by-attackers-exploiting-apache"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Belgium’s Ministry of Defense was recently hacked by attackers exploiting the massive vulnerability in Apache logging library log4j that has become a worldwide security concern, according to multiple reports.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgian defense ministry hit by cyberattack exploiting Log4Shell bug<a href="https://securityaffairs.co/wordpress/125813/cyber-warfare-2/belgian-defense-ministry-hit-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Belgian defense ministry was hit by a cyber attack, it seems that threat actors exploited the Log4Shell vulnerability.
+
+
+
+The Belgian defense ministry confirmed it was hit by a cyberattack, it seems that threat actors exploited the Log4Shell vulnerability....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kronos Attack Impacts Payroll Data of 150,000 Sainsbury's Employees<a href="https://www.bbc.com/news/technology-59683889?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The supermarket chain is understood to have lost about a week's worth of data for its 150,000 employees in the United Kingdom. But it said they would be paid before Christmas.
+</details>
+<div style="text-align: right" markdown="1">
+BBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

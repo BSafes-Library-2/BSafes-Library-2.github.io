@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citizen Lab Exposes Cytrox as Vendor Behind 'Predator' iPhone Spyware<a href="https://www.securityweek.com/citizen-lab-exposes-cytrox-vendor-behind-predator-iphone-spyware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Citizen Lab has discovered another player in the private sector mobile spyware business, fingering a tiny North Macedonia company called Cytrox as the makers of high-end iPhone implants.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

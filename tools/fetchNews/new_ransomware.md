@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PYSA ransomware behind most double extortion attacks in November<a href="https://www.bleepingcomputer.com/news/security/pysa-ransomware-behind-most-double-extortion-attacks-in-november/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts from NCC Group report that ransomware attacks in November 2021 increased over the past month, with double-extortion continuing to be a powerful tool in threat actors' arsenal.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware Growing at an Accelerated Pace<a href="https://cyware.com/news/hive-ransomware-growing-at-an-accelerated-pace-e626a9b7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report has revealed that the Hive Ransomware-as-a-Service (RaaS) is aggressively expanding its operations, and has targeted hundreds of organizations since its first appearance in June.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

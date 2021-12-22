@@ -8,6 +8,112 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch these 2 Active Directory flaws to prevent the takeover of Windows domains<a href="https://securityaffairs.co/wordpress/125857/security/windows-active-directory-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of a couple of Active Directory flaws fixed with the&nbsp;November 2021 Patch Tuesday&nbsp;updates that could allow takeover of Windows domains.
+
+
+
+Microsoft released an alert on a couple of Active Directory vulnerabilities, that have been fixed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Urges Customers to Patch Recent Active Directory Vulnerabilities<a href="https://www.securityweek.com/microsoft-urges-customers-patch-recent-active-directory-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2021-42287 and CVE-2021-42278, the two security errors can be chained to impersonate domain controllers and gain administrative privileges on Active Directory.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secret Backdoors Found in German-made Auerswald VoIP System<a href="https://thehackernews.com/2021/12/secret-backdoors-found-in-german-made.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple backdoors have been discovered during a penetration test in the firmware of a widely used voice over Internet Protocol (VoIP) appliance from Auerswald, a German telecommunications hardware manufacturer, that could be abused to gain full administrative access to the devices.  "Two backdoor passwords were found in the firmware of the&nbsp; COMpact 5500R PBX ," researchers from RedTeam Pentesting said in a&nbsp; technical &nbsp; analysis &nbsp;published Monday. "One backdoor password is for the secret user ' Schandelah ', the other can be used for the highest-privileged user ' admin .' No way was discovered to disable these backdoors."   The vulnerability has been assigned the identifier&nbsp; CVE-2021-40859 &nbsp;and carries a critical severity rating of 9.8. Following responsible disclosure on September 10, Auerswald addressed the problem in a firmware update (version 8.2B) released in November 2021. "Firmware Update 8.2B contains important security updates that you
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than 35,000 Java packages impacted by Log4j flaw, Google warns<a href="https://securityaffairs.co/wordpress/125845/security/log4j-java-packages-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google found more than 35,000 Java packages in the Maven Central repository that are impacted by flaws in the Apache Log4j library. 
+
+
+
+The Google Open Source Team scanned the Maven Central Java package repository and found that 35,863 packages (8% of the total)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Garrett walk-through metal detectors can be remotely manipulated<a href="https://www.bleepingcomputer.com/news/security/garrett-walk-through-metal-detectors-can-be-remotely-manipulated/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two widely used walk-through metal detectors made by Garrett are vulnerable to many remotely exploitable flaws that could severely impair their functionality, thus rendering security checkpoints deficient.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Study finds “serious security risks” in K-12 school apps<a href="https://therecord.media/study-finds-serious-security-risks-in-k-12-school-apps/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many apps used by schools contain features that can lead to the “unregulated and out of control” sharing of student data to advertising firms and other security issues, as per a Me2B Alliance report.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third Log4J Bug Can Trigger DoS; Apache Issues Patch<a href="https://threatpost.com/third-log4j-bug-dos-apache-patch/177159/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new Log4j vulnerability is similar to Log4Shell in that it also affects the logging library, but this DoS flaw has to do with Context Map lookups, not JNDI. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

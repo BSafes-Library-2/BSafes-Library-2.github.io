@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Abcbot Botnet Targets Linux Servers Hosted by Alibaba Cloud, Huawei Cloud, Tencent, and Baidu<a href="https://therecord.media/new-abcbot-botnet-goes-after-chinese-cloud-providers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cado Security said in a report that the botnet has targeted servers hosted by Alibaba Cloud, Baidu, Tencent, and Huawei Cloud, echoing previous findings from Trend Micro and Qihoo 360 Netlab.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

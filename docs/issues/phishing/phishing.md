@@ -11,6 +11,20 @@ nav_order: 900160
 December 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Robocalls More Than Doubled in 2021, Cost Victims $30B<a href="https://threatpost.com/robocalls-doubled-2021-30b/177165/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile reported blocking 21 billion scam calls during a record-smashing year for robocalls. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Meta sues people behind Facebook and Instagram phishing<a href="https://www.bleepingcomputer.com/news/security/meta-sues-people-behind-facebook-and-instagram-phishing/"> Full Text</a>
 </p>
 <details>

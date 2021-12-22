@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 7 common Cybersecurity Myths — Busted<a href="https://thehackernews.com/2021/12/top-7-common-cybersecurity-myths-busted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even with the growing awareness about cybersecurity, many myths about it are prevalent. These misconceptions can be a barrier to effective security.&nbsp;  The first step to ensure the security of your business is to separate the false information, myths, and rumors from the truth.  Here, we're busting some common cybersecurity myths. Read on to find out which of the following you thought were true.  Cybersecurity Myths vs. Truths  Myth #1&nbsp;— Too much security diminishes productivity  There is a common idea that increased security makes it difficult for even employees to access what they need, not just hackers. Strict security policies such as regular monitoring and access control are believed to hinder productivity at work. However, doing away with security may have far-reaching consequences for your business. A successful attack like a&nbsp; DDoS attack or ransomware can bring your business to a standstill. Employees might not be able to access important files, networks, and information af
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors steal $80 million per month with fake giveaways, surveys<a href="https://www.bleepingcomputer.com/news/security/threat-actors-steal-80-million-per-month-with-fake-giveaways-surveys/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are estimated to have made $80 million per month by impersonating popular brands asking people to participate in fake surveys or giveaways.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

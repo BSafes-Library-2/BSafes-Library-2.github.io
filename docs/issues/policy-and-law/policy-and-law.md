@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US returns $154 Million in bitcoins stolen by Sony employee<a href="https://www.bleepingcomputer.com/news/security/us-returns-154-million-in-bitcoins-stolen-by-sony-employee/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States has taken legal action to seize and return over $154 million purportedly&nbsp;stolen from Sony Life Insurance Company Ltd, a SONY subsidiary, by an employee in a textbook&nbsp;business email compromise (BEC) attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Sues Hackers Behind Facebook, WhatsApp and Instagram Phishing Attacks<a href="https://thehackernews.com/2021/12/meta-sues-hackers-behind-facebook.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook's parent company Meta Platforms on Monday said it has filed a federal lawsuit  in the U.S. state of California against bad actors who operated more than 39,000 phishing websites that impersonated its digital properties to mislead unsuspecting users into divulging their login credentials.  The social engineering scheme involved the creation of rogue webpages that masqueraded as the login pages of Facebook, Messenger, Instagram, and WhatsApp, on which victims were prompted to enter their usernames and passwords that were then harvested by the defendants. The tech giant is also seeking $500,000 from the anonymous actors.   The attacks were carried out using a relay service, Ngrok , that redirected internet traffic to the phishing websites in a manner that concealed the true location of the fraudulent infrastructure. Meta said the volume of these phishing attacks ramped up in volume since March 2021 and that it worked with the relay service to suspend thousands of URLs to the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

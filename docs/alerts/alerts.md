@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Actors Exploiting Newly-Identified Zero Day in ManageEngine Desktop Central <a href="https://publications.bsafes.com/docs/fbi/flash-2021-1217-apt-actors-exploiting-newly-identified-zero-day-in-manageengine-desktop-central/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since at least late October 2021, APT actors have been actively exploiting a zero-day, now identified as CVE-2021-44515, on ManageEngine Desktop Central servers. The APT actors were observed compromising Desktop Central servers, dropping a webshell that overrides a legitimate function of Desktop Central, downloading post-exploitation tools, enumerating domain users and groups, conducting network reconnaissance, attempting lateral movement and dumping credentials.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 17, 2021 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

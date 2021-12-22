@@ -8,6 +8,76 @@ nav_order: 900075
 
 ## Government
 ---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Towards OECD Principles for Government Access to Data: Can Democracies Show the Way?<a href="https://www.lawfareblog.com/towards-oecd-principles-government-access-data-can-democracies-show-way"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nascent OECD work to identify principles on government access to data for law enforcement and national security purposes can have important normative significance but also faces political hurdles.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Compliance for 2022<a href="https://thehackernews.com/2021/12/how-to-see-if-cybersecurity-of-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The last several years have seen an ever-increasing number of cyber-attacks, and while the frequency of such attacks has increased, so too has the resulting damage. One needs only to look at&nbsp; CISA's list of significant cyber incidents &nbsp;to appreciate the magnitude of the problem. In May of 2021, for example, a ransomware attack brought down the Colonial Pipeline, causing a serious fuel disruption for much of the United States.  Just last month, a hacking group gained access to call logs and text messages from telecommunications carriers all over the world. These are just two of dozens of cyber-attacks occurring this year.  Because of these and other cyber security incidents, the Department of Homeland Security issues a&nbsp; compulsory directive &nbsp;to federal agencies to better protect federal information systems and the data that they contain against cyber-attack. This directive is based around&nbsp; CISA's catalog of vulnerabilities &nbsp;that are known to pose a significant risk. The directi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: State hackers exploiting new Zoho zero-day since October<a href="https://www.bleepingcomputer.com/news/security/fbi-state-hackers-exploiting-new-zoho-zero-day-since-october/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) says a zero-day vulnerability in&nbsp;Zoho's&nbsp;ManageEngine Desktop Central&nbsp;has been under active exploitation by state-backed hacking groups (also known as APTs or advanced persistent threats) since&nbsp;at least October.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK's National Crime Agency shares 585 million passwords with Have I Been Pwned<a href="https://therecord.media/the-nca-shares-585-million-passwords-with-have-i-been-pwned/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NCA now becomes the second law enforcement agency to officially supply HIBP with hacked passwords after the US Federal Bureau of Investigations began a similar collaboration back in May.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK govt shares 585 million passwords with Have I Been Pwned<a href="https://www.bleepingcomputer.com/news/security/uk-govt-shares-585-million-passwords-with-have-i-been-pwned/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom's National Crime Agency has contributed more than 585 million passwords to the Have I Been Pwned service that lets users check if their login information has leaked online.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
