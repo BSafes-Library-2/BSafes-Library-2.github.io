@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warning: APT Groups Exploit Zero-Day in Zoho Application<a href="https://cyware.com/news/fbi-warning-apt-groups-exploit-zero-day-in-zoho-application-0ee905bc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warned Zoho users against an authentication bypass flaw, in Zoho’s ManageEngine ServiceDesk Plus, being exploited by APT actors since at least October 2021. Searching on the Shodan search engine for exposed ManageEngine Desktop Central revealed 2,980 systems that might be at risk of attack. ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

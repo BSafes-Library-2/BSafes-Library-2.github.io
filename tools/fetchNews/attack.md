@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4j Vulnerability Aftermath<a href="https://securityaffairs.co/wordpress/125842/cyber-crime/log4j-vulnerability-aftermath.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uptycs researchers have observed attacks related to miners, DDOS malware and some variants of ransomware actively leveraging LogforShell flaw in log4j.
+
+
+
+Last week the Log4j vulnerability turned the internet upside down. The impact of the vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

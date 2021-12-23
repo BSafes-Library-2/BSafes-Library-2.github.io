@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Opera browser working on clipboard anti-hijacking feature<a href="https://www.bleepingcomputer.com/news/security/opera-browser-working-on-clipboard-anti-hijacking-feature/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Opera browser team is working on a new clipboard monitoring and protection system called Paste Protection, which aims to prevent content hijacking and snooping.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases Apache Log4j scanner to find vulnerable apps<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-apache-log4j-scanner-to-find-vulnerable-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has announced the release of a scanner for identifying web services impacted by&amp; two Apache Log4j remote code execution vulnerabilities, tracked as CVE-2021-44228 and CVE-2021-45046.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

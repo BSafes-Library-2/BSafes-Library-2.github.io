@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new version of the Abcbot bot targets Chinese cloud providers<a href="https://securityaffairs.co/wordpress/125872/malware/abcbot-botnet-chinese-providers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new botnet named Abcbot hat that mainly targeted Chinese cloud hosting providers over the past months.
+
+
+
+Security researchers discovered a new botnet, named Abcbot, that focused on Chinese cloud hosting providers over the past...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

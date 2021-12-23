@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubisoft discloses unauthorized access to ‘Just Dance’ user data<a href="https://securityaffairs.co/wordpress/125885/data-breach/ubisoft-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Video game company Ubisoft confirmed a security breach that resulted in unauthorized access to 'Just Dance' user data.
+
+
+
+Ubisoft discloses a data breach that resulted in unauthorized access to 'Just Dance' user data.  The security breach was caused...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure App Service flaw exposed customer source code<a href="https://www.bleepingcomputer.com/news/security/microsoft-azure-app-service-flaw-exposed-customer-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw found in Azure App Service, a Microsoft-managed&nbsp;platform for building and hosting web apps, led to the exposure of PHP, Node, Python, Ruby, or Java customer source code for at least four&nbsp;years, since 2017.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA discloses applications impacted by Log4j vulnerability<a href="https://www.bleepingcomputer.com/news/security/nvidia-discloses-applications-impacted-by-log4j-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NVIDIA has released a security advisory detailing what products are affected by the Log4Shell vulnerability that is currently exploited in a wide range of attacks worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

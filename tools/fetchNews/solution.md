@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 21H2 adds ransomware protection to security baseline<a href="https://www.bleepingcomputer.com/news/microsoft/windows-10-21h2-adds-ransomware-protection-to-security-baseline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released the final version of security configuration baseline settings for Windows 10, version 21H2, available today from the Microsoft Security Compliance Toolkit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhiteSource Open Source Tool Can Discover Log4j Vulnerabilities<a href="https://securityboulevard.com/2021/12/whitesource-open-source-tool-can-discover-log4j-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhiteSource has made available an open-source tool to detect vulnerable instances of Log4j logging software. The recently disclosed flaw allows attackers to launch an RCE attack via Java applications.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

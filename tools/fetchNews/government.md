@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS expands bug bounty program to encourage hunting down Apache vulnerability<a href="https://thehill.com//policy/cybersecurity/586831-dhs-expands-bug-bounty-program-to-encourage-hunting-down-apache"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) is expanding its recently announced bug bounty program for cyber vulnerabilities to include incentives for hackers to hunt down issues related to the Apache logging library log4j vulnerability.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAE agency put spyware on phone of Jamal Khashoggi's wife prior to murder: report<a href="https://thehill.com//policy/cybersecurity/586792-uae-agency-put-spyware-on-phone-of-jamal-khashoggis-wife-prior-to-murder"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A United Arab Emirates (UAE) agency downloaded spyware from Israeli company NSO Group onto the phone of former reporter Jamal Khashoggi’s wife months before Khashoggi’s murder, new findings published Tuesday concluded.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

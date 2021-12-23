@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rideshare account hacker faces up to 22 years in prison<a href="https://www.bleepingcomputer.com/news/legal/rideshare-account-hacker-faces-up-to-22-years-in-prison/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A man pleaded guilty to fraudulently opening rideshare and delivery service accounts using stolen identity information sold on dark web marketplaces.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Understanding the Offense’s Systemwide Advantage in Cyberspace<a href="https://www.lawfareblog.com/understanding-offenses-systemwide-advantage-cyberspace"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers in cyberspace have had the systemwide advantage for decades. Reversing this requires both a more nuanced understanding of the offense-defense balance and innovations with leverage that works at scale across the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

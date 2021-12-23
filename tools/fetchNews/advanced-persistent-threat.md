@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Sees APTs Exploiting Recent ManageEngine Desktop Central Vulnerability<a href="https://www.securityweek.com/fbi-sees-apts-exploiting-recent-manageengine-desktop-central-vulnerability?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) has released an alert regarding the exploitation of a recent vulnerability, tracked as CVE-2021-44515, in Zoho’s ManageEngine Desktop Central product.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

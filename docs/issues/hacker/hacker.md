@@ -8,6 +8,21 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp Wears REvil’s Garb to Hide Itself<a href="https://cyware.com/news/evil-corp-wears-revils-garb-to-hide-itself-7db5cccb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a classic impersonation tactic, the Evil Corp group is now believed to be identifying itself as REvil to avoid sanctions imposed on it by the U.S. government.   Even after several attempts of rebranding as a different malware, researchers were able to associate the malware easily with Evil Corp. ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian national extradited to US for trading on stolen Information<a href="https://securityaffairs.co/wordpress/125865/cyber-crime/russian-national-trading-on-stolen-information.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national was extradited to the US from Switzerland after he was charged for trading information stolen from hacked U.S. companies. 
+
+
+
+The Russian national Vladislav Klyushin (41) was extradited to the United States from Switzerland to face...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2easy now a significant dark web marketplace for stolen data<a href="https://www.bleepingcomputer.com/news/security/2easy-now-a-significant-dark-web-marketplace-for-stolen-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A dark web marketplace named '2easy' is becoming a significant player in the sale of stolen data "Logs" harvested from roughly 600,000 devices infected with information-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers made millions by stealing SEC earning reports<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-made-millions-by-stealing-sec-earning-reports/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national working for a cybersecurity company has been extradited to the U.S. where he is being charged for hacking into computer networks of two U.S.-based filing agents used by multiple companies to file quarterly and annual earnings through the Securities and Exchange Commissions (SEC) system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubisoft Discloses Data Breach Involving Customer Information from Just Dance Video Game<a href="https://portswigger.net/daily-swig/ubisoft-confirms-just-dance-video-game-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ubisoft has announced a data breach after unknown actors targeted its popular video game franchise, Just Dance. The firm confirmed that customer information may have been accessed during the incident.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+800K WordPress sites still impacted by critical SEO plugin flaw<a href="https://www.bleepingcomputer.com/news/security/800k-wordpress-sites-still-impacted-by-critical-seo-plugin-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical and high severity security vulnerabilities in the highly popular "All in One" SEO WordPress plugin exposed&nbsp;over&nbsp;3 million websites to&nbsp;takeover attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
