@@ -34,7 +34,457 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Honeypot experiment reveals what hackers want from IoT devices<a href="https://www.bleepingcomputer.com/news/security/honeypot-experiment-reveals-what-hackers-want-from-iot-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​A three-year-long honeypot experiment featuring simulated low-interaction IoT devices of various types and locations gives a clear idea of why actors target specific devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anti-cheating browser extension fails web security examination<a href="https://portswigger.net/daily-swig/anti-cheating-browser-extension-fails-web-security-examination?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Proctorio Google Chrome browser extension was vulnerable to a cross-site scripting (XSS) flaw, researchers at Sector 7, the research division of Dutch security consultancy Computest, discovered.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Harris calls for 'cyber doctrine' to address increasing attacks<a href="https://thehill.com//policy/cybersecurity/586995-harris-calls-for-cyber-doctrine-to-address-increasing-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vice President Harris is calling for a “cyber doctrine” and greater international coordination to address cybersecurity concerns after a year of mounting attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China suspends deal with Alibaba for not sharing Log4j 0-day first with the government<a href="https://thehackernews.com/2021/12/china-suspends-deal-with-alibaba-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China's internet regulator, the Ministry of Industry and Information Technology (MIIT), has temporarily suspended a partnership with Alibaba Cloud, the cloud computing subsidiary of e-commerce giant Alibaba Group, for six months on account of the fact that it failed to promptly inform the government about a critical security vulnerability affecting the broadly used Log4j logging library.  The development was disclosed by  Reuters  and  South China Morning Post , citing a report from 21st Century Business Herald, a Chinese business-news daily newspaper.  "Alibaba Cloud did not immediately report vulnerabilities in the popular, open-source logging framework Apache Log4j2 to China's telecommunications regulator," Reuters said. "In response, MIIT suspended a cooperative partnership with the cloud unit regarding cybersecurity threats and information-sharing platforms."   Tracked as  CVE-2021-44228  (CVSS score: 10.0) and codenamed  Log4Shell  or LogJam, the cata
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Understanding the Offense’s Systemwide Advantage in Cyberspace<a href="https://www.lawfareblog.com/understanding-offenses-systemwide-advantage-cyberspace"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers in cyberspace have had the systemwide advantage for decades. Reversing this requires both a more nuanced understanding of the offense-defense balance and innovations with leverage that works at scale across the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases a scanner to identify web services affected by Apache Log4j flaws<a href="https://securityaffairs.co/wordpress/125892/security/cisa-scanner-log4j-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA release of a scanner for identifying web services affected by two Apache Log4j remote code execution vulnerabilities.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) has announced the release of an open-source scanner for identifying...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Hack DHS’ bug bounty program expands to Log4j security flaws<a href="https://www.bleepingcomputer.com/news/security/hack-dhs-bug-bounty-program-expands-to-log4j-security-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) has announced that the 'Hack DHS' program is now also open to bug bounty hunters willing to track down DHS systems impacted by Log4j vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp Wears REvil’s Garb to Hide Itself<a href="https://cyware.com/news/evil-corp-wears-revils-garb-to-hide-itself-7db5cccb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a classic impersonation tactic, the Evil Corp group is now believed to be identifying itself as REvil to avoid sanctions imposed on it by the U.S. government.   Even after several attempts of rebranding as a different malware, researchers were able to associate the malware easily with Evil Corp. ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Eyes nations warn of cyber threats from Apache vulnerability<a href="https://thehill.com//policy/cybersecurity/586967-five-eyes-nations-warn-of-threats-from-apache-vulnerability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal agencies in the United States, as well as top cybersecurity agencies in the other countries that make up the Five Eyes intelligence alliance, warned Wednesday that hackers are “actively exploiting” a recently uncovered vulnerability in Apache logging library log4j.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubisoft discloses unauthorized access to ‘Just Dance’ user data<a href="https://securityaffairs.co/wordpress/125885/data-breach/ubisoft-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Video game company Ubisoft confirmed a security breach that resulted in unauthorized access to 'Just Dance' user data.
+
+
+
+Ubisoft discloses a data breach that resulted in unauthorized access to 'Just Dance' user data.  The security breach was caused...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rideshare account hacker faces up to 22 years in prison<a href="https://www.bleepingcomputer.com/news/legal/rideshare-account-hacker-faces-up-to-22-years-in-prison/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A man pleaded guilty to fraudulently opening rideshare and delivery service accounts using stolen identity information sold on dark web marketplaces.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warning: APT Groups Exploit Zero-Day in Zoho Application<a href="https://cyware.com/news/fbi-warning-apt-groups-exploit-zero-day-in-zoho-application-0ee905bc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warned Zoho users against an authentication bypass flaw, in Zoho’s ManageEngine ServiceDesk Plus, being exploited by APT actors since at least October 2021. Searching on the Shodan search engine for exposed ManageEngine Desktop Central revealed 2,980 systems that might be at risk of attack. ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PYSA ransomware gang is the most active group in November<a href="https://securityaffairs.co/wordpress/125877/malware/pysa-ranomware-spike-nov-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PYSA and Lockbit were the most active ransomware gangs in the threat landscape in November 2021, researchers from NCC Group report.
+
+
+
+Security researchers from NCC Group reported an increase in ransomware attacks in November 2021 over the past month,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure App Service flaw exposed customer source code<a href="https://www.bleepingcomputer.com/news/security/microsoft-azure-app-service-flaw-exposed-customer-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw found in Azure App Service, a Microsoft-managed platform for building and hosting web apps, led to the exposure of PHP, Node, Python, Ruby, or Java customer source code for at least four years, since 2017.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities in Microsoft Teams could spoof URLs, leak IP addresses<a href="https://portswigger.net/daily-swig/multiple-vulnerabilities-in-microsoft-teams-could-spoof-urls-leak-ip-addresses?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The four findings include an SSRF vulnerability and a URL preview spoofing bug in the web and desktop app, and for Android users, an IP address leak and a DoS vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new version of the Abcbot bot targets Chinese cloud providers<a href="https://securityaffairs.co/wordpress/125872/malware/abcbot-botnet-chinese-providers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new botnet named Abcbot hat that mainly targeted Chinese cloud hosting providers over the past months.
+
+
+
+Security researchers discovered a new botnet, named Abcbot, that focused on Chinese cloud hosting providers over the past...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure App Service flaw exposed customer source code<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-azure-app-service-flaw-exposed-customer-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw found in Azure App Service, a Microsoft-managed platform for building and hosting web apps, led to the exposure of PHP, Node, Python, Ruby, or Java customer source code for at least four years, since 2017.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Government Punishes Alibaba for Not Telling It First About Log4Shell Flaw: Report<a href="https://www.securityweek.com/chinese-government-punishes-alibaba-not-telling-it-first-about-log4shell-flaw-report?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the South China Morning Post, which is owned by Alibaba, the Chinese government is displeased with the fact that it was not informed first about the Log4j vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Opera browser working on clipboard anti-hijacking feature<a href="https://www.bleepingcomputer.com/news/security/opera-browser-working-on-clipboard-anti-hijacking-feature/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Opera browser team is working on a new clipboard monitoring and protection system called Paste Protection, which aims to prevent content hijacking and snooping.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghana Government Agency Exposed Citizens’ Data Due to Cloud Misconfiguration<a href="https://www.hackread.com/ghana-govt-agency-citizens-data-leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed AWS S3 bucket was discovered on September 29, 2021, and Ghana's National Service Secretariate (NSS) and CERT-GH were notified between October 6th and 12th, 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams bug allowing phishing unpatched since March<a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-bug-allowing-phishing-unpatched-since-march/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said it won't fix or is delaying patches for several security flaws impacting Microsoft Teams' link preview feature reported since March 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PYSA Dominated the Ransomware Landscape in November: Report<a href="https://www.securityweek.com/pysa-dominated-ransomware-landscape-november-report?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Until September 2021, PYSA was believed to be targeting Windows systems only, but new evidence was found that the ransomware was getting ready to target Linux machines as well.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dridex malware trolls employees with fake job termination emails<a href="https://www.bleepingcomputer.com/news/security/dridex-malware-trolls-employees-with-fake-job-termination-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Dridex malware phishing campaign is using fake employee termination emails as a lure to open a malicious Excel document, which then trolls the victim with a season's greeting message.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA discloses applications impacted by Log4j vulnerability<a href="https://www.bleepingcomputer.com/news/security/nvidia-discloses-applications-impacted-by-log4j-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NVIDIA has released a security advisory detailing what products are affected by the Log4Shell vulnerability that is currently exploited in a wide range of attacks worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases Apache Log4j scanner to find vulnerable apps<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-apache-log4j-scanner-to-find-vulnerable-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has announced the release of a scanner for identifying web services impacted by& two Apache Log4j remote code execution vulnerabilities, tracked as CVE-2021-44228 and CVE-2021-45046.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Exploit Lets Malware Attackers Bypass Patch for Critical Microsoft MSHTML Flaw<a href="https://thehackernews.com/2021/12/new-exploit-lets-malware-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A short-lived phishing campaign has been observed taking advantage of a novel exploit that bypassed a patch put in place by Microsoft to fix a remote code execution vulnerability affecting the MSHTML component with the goal of delivering Formbook malware.  "The attachments represent an escalation of the attacker's abuse of the CVE-2021-40444 bug and demonstrate that even a patch can't always mitigate the actions of a motivated and sufficiently skilled attacker," SophosLabs researchers Andrew Brandt and Stephen Ormandy  said  in a new report published Tuesday.  CVE-2021-40444  (CVSS score: 8.8) relates to a remote code execution flaw in MSHTML that could be exploited using specially crafted Microsoft Office documents. Although Microsoft addressed the security weakness as part of its September 2021  Patch Tuesday updates , it has been put to use in  multiple attacks  ever since details pertaining to the flaw became public.   That same month, the technology giant  uncov
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Active Directory Bugs Could Let hackers Take Over Windows Domain Controllers<a href="https://thehackernews.com/2021/12/active-directory-bugs-could-let-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is urging customers to patch two security vulnerabilities in Active Directory domain controllers that it  addressed in November  following the availability of a proof-of-concept (PoC) tool on December 12.  The two vulnerabilities — tracked as  CVE-2021-42278  and  CVE-2021-42287  — have a severity rating of 7.5 out of a maximum of 10 and concern a privilege escalation flaw affecting the Active Directory Domain Services (AD DS) component. Credited with discovering and reporting both the bugs is Andrew Bartlett of Catalyst IT.   Active Directory is a  directory service  that runs on Microsoft Windows Server and is used for identity and access management. Although the tech giant marked the shortcomings as " exploitation Less Likely " in its assessment, the public disclosure of the PoC has prompted renewed calls for applying the fixes to mitigate any potential exploitation by threat actors.   While CVE-2021-42278 enables an attacker to tamper with the SAM-Account-Name
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PYSA ransomware behind most double extortion attacks in November<a href="https://www.bleepingcomputer.com/news/security/pysa-ransomware-behind-most-double-extortion-attacks-in-november/"> Full Text</a>
@@ -50,7 +500,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ubisoft Discloses Data Breach Involving Customer Information from Just Dance Video Game<a href="https://portswigger.net/daily-swig/ubisoft-confirms-just-dance-video-game-data-breach?&web_view=true"> Full Text</a>
@@ -66,7 +516,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS expands bug bounty program to encourage hunting down Apache vulnerability<a href="https://thehill.com//policy/cybersecurity/586831-dhs-expands-bug-bounty-program-to-encourage-hunting-down-apache"> Full Text</a>
@@ -82,7 +532,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tropic Trooper Cyber Espionage Hackers Targeting Transportation Sector<a href="https://thehackernews.com/2021/12/tropic-trooper-cyber-espionage-hackers.html"> Full Text</a>
@@ -98,7 +548,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian national extradited to US for trading on stolen Information<a href="https://securityaffairs.co/wordpress/125865/cyber-crime/russian-national-trading-on-stolen-information.html"> Full Text</a>
@@ -118,7 +568,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2easy now a significant dark web marketplace for stolen data<a href="https://www.bleepingcomputer.com/news/security/2easy-now-a-significant-dark-web-marketplace-for-stolen-data/"> Full Text</a>
@@ -134,7 +584,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Abcbot Botnet Targets Linux Servers Hosted by Alibaba Cloud, Huawei Cloud, Tencent, and Baidu<a href="https://therecord.media/new-abcbot-botnet-goes-after-chinese-cloud-providers/?&web_view=true"> Full Text</a>
@@ -150,7 +600,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UAE agency put spyware on phone of Jamal Khashoggi's wife prior to murder: report<a href="https://thehill.com//policy/cybersecurity/586792-uae-agency-put-spyware-on-phone-of-jamal-khashoggis-wife-prior-to-murder"> Full Text</a>
@@ -166,7 +616,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top 7 common Cybersecurity Myths — Busted<a href="https://thehackernews.com/2021/12/top-7-common-cybersecurity-myths-busted.html"> Full Text</a>
@@ -182,7 +632,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patch these 2 Active Directory flaws to prevent the takeover of Windows domains<a href="https://securityaffairs.co/wordpress/125857/security/windows-active-directory-flaws.html"> Full Text</a>
@@ -202,7 +652,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 800K WordPress sites still impacted by critical SEO plugin flaw<a href="https://www.bleepingcomputer.com/news/security/800k-wordpress-sites-still-impacted-by-critical-seo-plugin-flaw/"> Full Text</a>
@@ -218,7 +668,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Urges Customers to Patch Recent Active Directory Vulnerabilities<a href="https://www.securityweek.com/microsoft-urges-customers-patch-recent-active-directory-vulnerabilities?&web_view=true"> Full Text</a>
@@ -234,7 +684,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Secret Backdoors Found in German-made Auerswald VoIP System<a href="https://thehackernews.com/2021/12/secret-backdoors-found-in-german-made.html"> Full Text</a>
@@ -250,7 +700,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More than 35,000 Java packages impacted by Log4j flaw, Google warns<a href="https://securityaffairs.co/wordpress/125845/security/log4j-java-packages-flaws.html"> Full Text</a>
@@ -270,7 +720,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors steal $80 million per month with fake giveaways, surveys<a href="https://www.bleepingcomputer.com/news/security/threat-actors-steal-80-million-per-month-with-fake-giveaways-surveys/"> Full Text</a>
@@ -286,7 +736,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Charming Kitten Enters Israeli Networks via Log4Shell<a href="https://cyware.com/news/iranian-charming-kitten-enters-israeli-networks-via-log4shell-102aa995"> Full Text</a>
@@ -302,7 +752,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Log4j Vulnerability Aftermath<a href="https://securityaffairs.co/wordpress/125842/cyber-crime/log4j-vulnerability-aftermath.html"> Full Text</a>
@@ -322,7 +772,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian hackers made millions by stealing SEC earning reports<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-made-millions-by-stealing-sec-earning-reports/"> Full Text</a>
@@ -338,7 +788,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Sees APTs Exploiting Recent ManageEngine Desktop Central Vulnerability<a href="https://www.securityweek.com/fbi-sees-apts-exploiting-recent-manageengine-desktop-central-vulnerability?&web_view=true"> Full Text</a>
@@ -354,7 +804,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US returns $154 Million in bitcoins stolen by Sony employee<a href="https://www.bleepingcomputer.com/news/security/us-returns-154-million-in-bitcoins-stolen-by-sony-employee/"> Full Text</a>
@@ -370,7 +820,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive Ransomware Growing at an Accelerated Pace<a href="https://cyware.com/news/hive-ransomware-growing-at-an-accelerated-pace-e626a9b7"> Full Text</a>
@@ -386,7 +836,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Garrett walk-through metal detectors can be remotely manipulated<a href="https://www.bleepingcomputer.com/news/security/garrett-walk-through-metal-detectors-can-be-remotely-manipulated/"> Full Text</a>
@@ -402,7 +852,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dridex Malware Is Installed With the Help of Log4j Vulnerability<a href="https://heimdalsecurity.com/blog/dridex-malware-installed-with-the-help-of-log4j-vulnerability/?&web_view=true"> Full Text</a>
@@ -418,7 +868,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 10 21H2 adds ransomware protection to security baseline<a href="https://www.bleepingcomputer.com/news/microsoft/windows-10-21h2-adds-ransomware-protection-to-security-baseline/"> Full Text</a>
@@ -434,7 +884,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Study finds “serious security risks” in K-12 school apps<a href="https://therecord.media/study-finds-serious-security-risks-in-k-12-school-apps/?&web_view=true"> Full Text</a>
@@ -450,7 +900,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2021
+December 21, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhiteSource Open Source Tool Can Discover Log4j Vulnerabilities<a href="https://securityboulevard.com/2021/12/whitesource-open-source-tool-can-discover-log4j-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -466,7 +916,7 @@ Security Boulevard
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Robocalls More Than Doubled in 2021, Cost Victims $30B<a href="https://threatpost.com/robocalls-doubled-2021-30b/177165/"> Full Text</a>
@@ -482,7 +932,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Third Log4J Bug Can Trigger DoS; Apache Issues Patch<a href="https://threatpost.com/third-log4j-bug-dos-apache-patch/177159/"> Full Text</a>
@@ -498,7 +948,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
+December 20, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Sues Hackers Behind Facebook, WhatsApp and Instagram Phishing Attacks<a href="https://thehackernews.com/2021/12/meta-sues-hackers-behind-facebook.html"> Full Text</a>
