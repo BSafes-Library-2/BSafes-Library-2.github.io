@@ -11,6 +11,34 @@ nav_order: 900080
 December 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+PYSA Emerges as Top Ransomware Actor in November<a href="https://threatpost.com/pysa-top-ransomware-november/177242/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Overtaking the Conti ransomware gang, PYSA finds success with government-sector attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose Unpatched Vulnerabilities in Microsoft Teams Software<a href="https://thehackernews.com/2021/12/researchers-disclose-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said it won't be fixing or is pushing patches to a later date for three of the four security flaws uncovered in its Teams business communication platform earlier this March.  The disclosure comes from Berlin-based cybersecurity firm Positive Security, which&nbsp; found &nbsp;that the implementation of the link preview feature was susceptible to a number of issues that could "allow accessing internal Microsoft services, spoofing the link preview, and, for Android users, leaking their IP address, and DoS'ing their Teams app/channels."   Of the four vulnerabilities, Microsoft is said to have addressed only one that results in IP address leakage from Android devices, with the tech giant noting that a fix for the denial-of-service (DoS) flaw will be considered in a future version of the product. The issues were responsibly disclosed to the company on March 10, 2021.   Chief among the flaws is a server-side request forgery ( SSRF ) vulnerability in the endpoint "/urlp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Evil Corp Wears REvil’s Garb to Hide Itself<a href="https://cyware.com/news/evil-corp-wears-revils-garb-to-hide-itself-7db5cccb"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out for Christmas 2021 credential stuffing attacks!<a href="https://www.helpnetsecurity.com/2021/12/23/2021-credential-stuffing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A study by Arkose Labs has revealed that there were over two billion credential stuffing attacks during the last 12 months, growing exponentially during the period from October 2020 to September 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+December 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro Wrestling Tees discloses data breach after credit cards stolen<a href="https://www.bleepingcomputer.com/news/security/pro-wrestling-tees-discloses-data-breach-after-credit-cards-stolen/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular wrestling t-shirt site Pro Wrestling Tees has disclosed a data breach incident that has resulted in the compromise of the financial details of tens of thousands of its customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+4-Year-Old Bug in Azure App Service Exposed Hundreds of Source Code Repositories<a href="https://thehackernews.com/2021/12/4-year-old-bug-in-azure-app-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw has been unearthed in Microsoft's Azure App Service that resulted in the exposure of source code of customer applications written in Java, Node, PHP, Python, and Ruby for at least four years since September 2017.  The vulnerability, codenamed " NotLegit ," was reported to the tech giant by Wiz researchers on October 7, 2021, following which mitigations have been undertaken to fix the information disclosure bug in November. Microsoft&nbsp; said &nbsp;a "limited&nbsp;subset of customers" are at risk, adding "Customers who deployed code to App Service Linux via Local Git after files were already created in the application were the only impacted customers."   The&nbsp; Azure App Service &nbsp;(aka Azure Web Apps) is a cloud computing-based platform for building and hosting web applications. It allows users to deploy source code and artifacts to the service using a local&nbsp; Git &nbsp;repository, or via repositories hosted on GitHub and Bitbucket.   The insecure default be
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

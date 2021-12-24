@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PYSA ransomware gang is the most active group in November<a href="https://securityaffairs.co/wordpress/125877/malware/pysa-ranomware-spike-nov-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PYSA and Lockbit were the most active ransomware gangs in the threat landscape in November 2021, researchers from NCC Group report.
+
+
+
+Security researchers from NCC Group reported an increase in ransomware attacks in November 2021 over the past month,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

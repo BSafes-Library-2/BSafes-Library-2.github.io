@@ -8,6 +8,104 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anti-cheating browser extension fails web security examination<a href="https://portswigger.net/daily-swig/anti-cheating-browser-extension-fails-web-security-examination?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Proctorio Google Chrome browser extension was vulnerable to a cross-site scripting (XSS) flaw, researchers at Sector 7, the research division of Dutch security consultancy Computest, discovered.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Hack DHS’ bug bounty program expands to Log4j security flaws<a href="https://www.bleepingcomputer.com/news/security/hack-dhs-bug-bounty-program-expands-to-log4j-security-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) has announced that the 'Hack DHS' program is now also open to bug bounty hunters willing to track down DHS systems impacted by Log4j vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities in Microsoft Teams could spoof URLs, leak IP addresses<a href="https://portswigger.net/daily-swig/multiple-vulnerabilities-in-microsoft-teams-could-spoof-urls-leak-ip-addresses?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The four findings include an SSRF vulnerability and a URL preview spoofing bug in the web and desktop app, and for Android users, an IP address leak and a DoS vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure App Service flaw exposed customer source code<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-azure-app-service-flaw-exposed-customer-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw found in Azure App Service, a Microsoft-managed&nbsp;platform for building and hosting web apps, led to the exposure of PHP, Node, Python, Ruby, or Java customer source code for at least four&nbsp;years, since 2017.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams bug allowing phishing unpatched since March<a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-bug-allowing-phishing-unpatched-since-march/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said it won't fix or is delaying patches for several security flaws impacting Microsoft Teams' link preview feature reported since March 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Exploit Lets Malware Attackers Bypass Patch for Critical Microsoft MSHTML Flaw<a href="https://thehackernews.com/2021/12/new-exploit-lets-malware-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A short-lived phishing campaign has been observed taking advantage of a novel exploit that bypassed a patch put in place by Microsoft to fix a remote code execution vulnerability affecting the MSHTML component with the goal of delivering Formbook malware.  "The attachments represent an escalation of the attacker's abuse of the CVE-2021-40444 bug and demonstrate that even a patch can't always mitigate the actions of a motivated and sufficiently skilled attacker," SophosLabs researchers Andrew Brandt and Stephen Ormandy&nbsp; said &nbsp;in a new report published Tuesday.  CVE-2021-40444 &nbsp;(CVSS score: 8.8) relates to a remote code execution flaw in MSHTML that could be exploited using specially crafted Microsoft Office documents. Although Microsoft addressed the security weakness as part of its September 2021&nbsp; Patch Tuesday updates , it has been put to use in&nbsp; multiple attacks &nbsp;ever since details pertaining to the flaw became public.   That same month, the technology giant&nbsp; uncov
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Active Directory Bugs Could Let hackers Take Over Windows Domain Controllers<a href="https://thehackernews.com/2021/12/active-directory-bugs-could-let-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is urging customers to patch two security vulnerabilities in Active Directory domain controllers that it&nbsp; addressed in November &nbsp;following the availability of a proof-of-concept (PoC) tool on December 12.  The two vulnerabilities — tracked as&nbsp; CVE-2021-42278 &nbsp;and&nbsp; CVE-2021-42287 &nbsp;— have a severity rating of 7.5 out of a maximum of 10 and concern a privilege escalation flaw affecting the Active Directory Domain Services (AD DS) component. Credited with discovering and reporting both the bugs is Andrew Bartlett of Catalyst IT.   Active Directory is a&nbsp; directory service &nbsp;that runs on Microsoft Windows Server and is used for identity and access management. Although the tech giant marked the shortcomings as " exploitation Less Likely " in its assessment, the public disclosure of the PoC has prompted renewed calls for applying the fixes to mitigate any potential exploitation by threat actors.   While CVE-2021-42278 enables an attacker to tamper with the SAM-Account-Name
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

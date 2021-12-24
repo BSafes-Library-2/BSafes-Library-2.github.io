@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PYSA Dominated the Ransomware Landscape in November: Report<a href="https://www.securityweek.com/pysa-dominated-ransomware-landscape-november-report?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Until September 2021, PYSA was believed to be targeting Windows systems only, but new evidence was found that the ransomware was getting ready to target Linux machines as well.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

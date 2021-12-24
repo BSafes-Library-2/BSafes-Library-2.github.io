@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing campaign targets CoinSpot cryptoexchange 2FA codes<a href="https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-coinspot-cryptoexchange-2fa-codes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign that targets users of the CoinSpot cryptocurrency exchange employs a new theme that revolves around withdrawal confirmations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishers Now Impersonate Pfizer to Target Victims<a href="https://cyware.com/news/phishers-now-impersonate-pfizer-to-target-victims-b5f11c33"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers are using clean PDF attachments with newly registered domains that seem to be valid Pfizer online spaces. Then, they use spawn email accounts for email distribution to bypass email protection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Global Phishing Scam That Cost Victims $80 Million Per Month<a href="https://cyware.com/news/a-global-phishing-scam-that-cost-victims-80-million-per-month-4a34c3bb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the holiday season here, scammers are making use of their best tactics to phish users, and one such phishing scam, probably the biggest in the year, has come to the notice of researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

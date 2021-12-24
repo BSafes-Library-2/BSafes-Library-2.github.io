@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stealthy BLISTER malware slips in unnoticed on Windows systems<a href="https://www.bleepingcomputer.com/news/security/stealthy-blister-malware-slips-in-unnoticed-on-windows-systems/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Examining Log4j Vulnerabilities in Connected Cars and Charging Stations<a href="https://www.trendmicro.com/en_us/research/21/l/examining-log4j-vulnerabilities-in-connected-cars.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA, FBI and NSA Publish Joint Advisory and Scanner for Log4j Vulnerabilities<a href="https://thehackernews.com/2021/12/cisa-fbi-and-nsa-publish-joint-advisory.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AvosLocker ransomware reboots in Safe Mode and installs tools for remote access<a href="https://securityaffairs.co/wordpress/125937/malware/avoslocker-ransomware-safe-mode.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes macOS security flaw behind Gatekeeper bypass<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-macos-security-flaw-behind-gatekeeper-bypass/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Best of Cybersecurity in 2021<a href="https://cyware.com/news/best-of-cybersecurity-in-2021-a9b57d99"> Full Text</a>
@@ -135,7 +135,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IoT SAFE — An Innovative Way to Secure IoT<a href="https://thehackernews.com/2021/12/iot-safe-innovative-way-to-secure-iot.html"> Full Text</a>
@@ -151,7 +151,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks bypass a Microsoft Office patch for CVE-2021-40444 to spread Formbook malware<a href="https://securityaffairs.co/wordpress/125927/malware/ms-office-cve-2021-40444-bypass-malware.html"> Full Text</a>
@@ -171,7 +171,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing campaign targets CoinSpot cryptoexchange 2FA codes<a href="https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-coinspot-cryptoexchange-2fa-codes/"> Full Text</a>
@@ -187,7 +187,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishers Now Impersonate Pfizer to Target Victims<a href="https://cyware.com/news/phishers-now-impersonate-pfizer-to-target-victims-b5f11c33"> Full Text</a>
@@ -203,7 +203,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three trivial bugs in Microsoft Teams Software remain unpatched<a href="https://securityaffairs.co/wordpress/125922/hacking/microsoft-team-unpatched-flaws.html"> Full Text</a>
@@ -223,7 +223,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AvosLocker ransomware reboots in Safe Mode to bypass security tools<a href="https://www.bleepingcomputer.com/news/security/avoslocker-ransomware-reboots-in-safe-mode-to-bypass-security-tools/"> Full Text</a>
@@ -239,7 +239,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Global Phishing Scam That Cost Victims $80 Million Per Month<a href="https://cyware.com/news/a-global-phishing-scam-that-cost-victims-80-million-per-month-4a34c3bb"> Full Text</a>
@@ -255,7 +255,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HackDHS bug bounty program accepts reports of Log4j-related flaws in DHS systems<a href="https://securityaffairs.co/wordpress/125913/security/hack-dhs-bug-bounty-log4j.html"> Full Text</a>
@@ -275,7 +275,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro Wrestling Tees discloses data breach after credit cards stolen<a href="https://www.bleepingcomputer.com/news/security/pro-wrestling-tees-discloses-data-breach-after-credit-cards-stolen/"> Full Text</a>
@@ -291,7 +291,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Card Skimmer Attacks Detected Ahead of Christmas Shopping Season<a href="https://cyware.com/news/new-card-skimmer-attacks-detected-ahead-of-christmas-shopping-season-fbf0044e"> Full Text</a>
@@ -307,7 +307,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in Microsoft Azure App Service exposes customer source code<a href="https://securityaffairs.co/wordpress/125900/hacking/azure-app-service-flaw.html"> Full Text</a>
@@ -327,7 +327,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VK introduces 2FA and plans to make it mandatory in 2022<a href="https://www.bleepingcomputer.com/news/security/vk-introduces-2fa-and-plans-to-make-it-mandatory-in-2022/"> Full Text</a>
@@ -343,7 +343,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch out for Christmas 2021 credential stuffing attacks!<a href="https://www.helpnetsecurity.com/2021/12/23/2021-credential-stuffing-attacks/?&web_view=true"> Full Text</a>
@@ -359,7 +359,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular WordPress platform Flywheel vulnerable to subdomain takeover<a href="https://portswigger.net/daily-swig/popular-wordpress-platform-flywheel-vulnerable-to-subdomain-takeover?&web_view=true"> Full Text</a>
@@ -375,7 +375,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2021
+December 22, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PYSA Emerges as Top Ransomware Actor in November<a href="https://threatpost.com/pysa-top-ransomware-november/177242/"> Full Text</a>
@@ -391,7 +391,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2021
+December 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 All in One SEO Plugin Bug Threatens 3M Websites with Takeovers<a href="https://threatpost.com/all-in-one-seo-plugin-bug-threatens-3m-wordpress-websites-takeovers/177240/"> Full Text</a>
@@ -407,7 +407,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2021
+December 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 4-Year-Old Bug in Azure App Service Exposed Hundreds of Source Code Repositories<a href="https://thehackernews.com/2021/12/4-year-old-bug-in-azure-app-service.html"> Full Text</a>
@@ -423,7 +423,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2021
+December 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Four Bugs in Microsoft Teams Left Platform Vulnerable Since March<a href="https://threatpost.com/microsoft-teams-bugs-vulnerable-march/177225/"> Full Text</a>
@@ -439,7 +439,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2021
+December 22, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Disclose Unpatched Vulnerabilities in Microsoft Teams Software<a href="https://thehackernews.com/2021/12/researchers-disclose-unpatched.html"> Full Text</a>

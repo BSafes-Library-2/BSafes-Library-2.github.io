@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+December 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT SAFE — An Innovative Way to Secure IoT<a href="https://thehackernews.com/2021/12/iot-safe-innovative-way-to-secure-iot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By the end of 2021, there will be 12 billion connected IoT devices, and by 2025, that number will rise to 27 billion .  All these devices will be connected to the internet and will send useful data that will make industries, medicine, and cars more intelligent and more efficient.  However, will all these devices be safe? It's worth asking what you can do to prevent (or at least reduce) becoming a victim of a cybercrime such as data theft or other forms of cybercrime in the future?  Will IoT security ever improve?  In recent years, the number of security vulnerabilities related to the Internet of Things has increased significantly.  Let us start at the very beginning — most IoT devices come with default and publicly disclosed passwords. Moreover, the fact is that there are many cheap and low-capacity Internet of Things devices that lack even the most basic security.  And that's not all — security experts are discovering new critical vulnerabilities every day. Numerous IoT devic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

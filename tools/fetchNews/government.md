@@ -8,6 +8,94 @@ nav_order: 900075
 
 ## Government
 ---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Harris calls for 'cyber doctrine' to address increasing attacks<a href="https://thehill.com//policy/cybersecurity/586995-harris-calls-for-cyber-doctrine-to-address-increasing-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vice President Harris is calling for a “cyber doctrine” and greater international coordination to address cybersecurity concerns after a year of mounting attacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China suspends deal with Alibaba for not sharing Log4j 0-day first with the government<a href="https://thehackernews.com/2021/12/china-suspends-deal-with-alibaba-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China's internet regulator, the Ministry of Industry and Information Technology (MIIT), has temporarily suspended a partnership with Alibaba Cloud, the cloud computing subsidiary of e-commerce giant Alibaba Group, for six months on account of the fact that it failed to promptly inform the government about a critical security vulnerability affecting the broadly used Log4j logging library.  The development was disclosed by&nbsp; Reuters &nbsp;and&nbsp; South China Morning Post , citing a report from 21st Century Business Herald, a Chinese business-news daily newspaper.  "Alibaba Cloud did not immediately report vulnerabilities in the popular, open-source logging framework Apache Log4j2 to China's telecommunications regulator," Reuters said. "In response, MIIT suspended a cooperative partnership with the cloud unit regarding cybersecurity threats and information-sharing platforms."   Tracked as&nbsp; CVE-2021-44228 &nbsp;(CVSS score: 10.0) and codenamed&nbsp; Log4Shell &nbsp;or LogJam, the cata
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases a scanner to identify web services affected by Apache Log4j flaws<a href="https://securityaffairs.co/wordpress/125892/security/cisa-scanner-log4j-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA release of a scanner for identifying web services affected by two Apache Log4j remote code execution vulnerabilities.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) has&nbsp;announced&nbsp;the release of an open-source scanner for identifying...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Eyes nations warn of cyber threats from Apache vulnerability<a href="https://thehill.com//policy/cybersecurity/586967-five-eyes-nations-warn-of-threats-from-apache-vulnerability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal agencies in the United States, as well as top cybersecurity agencies in the other countries that make up the Five Eyes intelligence alliance,&nbsp;warned Wednesday that hackers are “actively exploiting” a recently uncovered vulnerability in Apache logging library log4j.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Government Punishes Alibaba for Not Telling It First About Log4Shell Flaw: Report<a href="https://www.securityweek.com/chinese-government-punishes-alibaba-not-telling-it-first-about-log4shell-flaw-report?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the South China Morning Post, which is owned by Alibaba, the Chinese government is displeased with the fact that it was not informed first about the Log4j vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghana Government Agency Exposed Citizens’ Data Due to Cloud Misconfiguration<a href="https://www.hackread.com/ghana-govt-agency-citizens-data-leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed AWS S3 bucket was discovered on September 29, 2021, and Ghana's National Service Secretariate (NSS) and CERT-GH were notified between October 6th and 12th, 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
