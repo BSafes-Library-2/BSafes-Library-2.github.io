@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+December 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Card Skimmer Attacks Detected Ahead of Christmas Shopping Season<a href="https://cyware.com/news/new-card-skimmer-attacks-detected-ahead-of-christmas-shopping-season-fbf0044e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Christmas holiday shopping season is around the corner and so are the Magecart attackers. Interestingly, these attackers have become more active than ever, with each attack taking place every 16 minutes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

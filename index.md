@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 26, 2021
+December 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French IT services provider Inetum hit by BlackCat ransomware attack<a href="https://securityaffairs.co/wordpress/126022/cyber-crime/inetum-hit-by-blackcat-ransomware.html"> Full Text</a>
@@ -54,7 +54,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 26, 2021
+December 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 346<a href="https://securityaffairs.co/wordpress/126018/breaking-news/security-affairs-newsletter-round-346.html"> Full Text</a>
@@ -74,7 +74,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 26, 2021
+December 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixed macOS flaw that could allow to bypass Gatekeeper security feature<a href="https://securityaffairs.co/wordpress/126004/security/macos-gatekeeper-bypass-2.html"> Full Text</a>
@@ -94,7 +94,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 26, 2021
+December 26, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Spider-Man: No Way Home’ used to spread a cryptominer<a href="https://securityaffairs.co/wordpress/125998/malware/spider-man-no-way-home-cryptominer.html"> Full Text</a>
@@ -114,7 +114,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2021
+December 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Rook Ransomware borrows code from Babuk<a href="https://securityaffairs.co/wordpress/125988/malware/rook-ransomware-based-on-babuk.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2021
+December 25, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Omicron-themed phishing attacks spread Dridex and taunt with funeral helpline<a href="https://securityaffairs.co/wordpress/125976/cyber-crime/dridex-covid-19-omicron-campaign.html"> Full Text</a>
@@ -154,7 +154,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2021
+December 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - December 24th 2021 - No rest for the weary<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-24th-2021-no-rest-for-the-weary/"> Full Text</a>
@@ -170,7 +170,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2021
+December 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Rook Ransomware Feeds Off the Code of Babuk<a href="https://www.sentinelone.com/labs/new-rook-ransomware-feeds-off-the-code-of-babuk/?&web_view=true"> Full Text</a>
@@ -186,7 +186,7 @@ Sentinel One
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2021
+December 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert Details macOS Bug That Could Let Malware Bypass Gatekeeper Security<a href="https://thehackernews.com/2021/12/expert-details-macos-bug-that-could-let.html"> Full Text</a>
@@ -202,7 +202,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2021
+December 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rook ransomware is yet another spawn of the leaked Babuk code<a href="https://www.bleepingcomputer.com/news/security/rook-ransomware-is-yet-another-spawn-of-the-leaked-babuk-code/"> Full Text</a>
@@ -218,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2021
+December 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NVIDIA, HPE Products Affected by Log4j Vulnerabilities<a href="https://www.securityweek.com/nvidia-hpe-products-affected-log4j-vulnerabilities?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2021
+December 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Ransomware Variants Flourish Amid Law Enforcement Actions<a href="https://thehackernews.com/2021/12/new-ransomware-variants-flourish-amid.html"> Full Text</a>
@@ -250,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2021
+December 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global IT services provider Inetum hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/global-it-services-provider-inetum-hit-by-ransomware-attack/"> Full Text</a>
@@ -266,7 +266,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2021
+December 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackable Infusion Pump, Ransomware Risks To Patients<a href="https://cybersecurityventures.com/hackable-infusion-pump-ransomware-risks-to-patients/?&web_view=true"> Full Text</a>
@@ -282,7 +282,7 @@ Cybersecurity Ventures
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2021
+December 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BLISTER Malware Using Code Signing Certificates to Evade Detection<a href="https://thehackernews.com/2021/12/new-blister-malware-using-code-signing.html"> Full Text</a>
@@ -298,7 +298,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2021
+December 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android banking trojan spreads via fake Google Play Store page<a href="https://www.bleepingcomputer.com/news/security/android-banking-trojan-spreads-via-fake-google-play-store-page/"> Full Text</a>
@@ -314,7 +314,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2021
+December 24, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bots are stealing Christmas!<a href="https://www.helpnetsecurity.com/2021/12/24/malicious-automation-trends/?&web_view=true"> Full Text</a>
@@ -330,7 +330,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2021
+December 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blackmagic fixes critical DaVinci Resolve code execution flaws<a href="https://www.bleepingcomputer.com/news/security/blackmagic-fixes-critical-davinci-resolve-code-execution-flaws/"> Full Text</a>
@@ -346,7 +346,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2021
+December 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dridex Omicron phishing taunts with funeral helpline number <a href="https://www.bleepingcomputer.com/news/security/dridex-omicron-phishing-taunts-with-funeral-helpline-number/"> Full Text</a>
@@ -362,7 +362,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2021
+December 24, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fisher Price Chatter Bluetooth Telephone 60G LTE has serious privacy issues<a href="https://securityaffairs.co/wordpress/125967/hacking/fisher-price-chatter-bluetooth-telephone-bugs.html"> Full Text</a>
@@ -382,7 +382,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2021
+December 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of a new stealthy loader tracked as BLISTER<a href="https://securityaffairs.co/wordpress/125958/malware/blister-loader.html"> Full Text</a>
@@ -402,7 +402,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2021
+December 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NVIDIA informs customers of its products affected by Log4j flaws<a href="https://securityaffairs.co/wordpress/125952/security/nvidia-log4shell-impacted-products.html"> Full Text</a>

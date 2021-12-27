@@ -8,6 +8,88 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixed macOS flaw that could allow to bypass Gatekeeper security feature<a href="https://securityaffairs.co/wordpress/126004/security/macos-gatekeeper-bypass-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple recently addressed fixed a flaw in the macOS that could be potentially exploited by an attacker to bypass Gatekeeper security feature.
+
+
+
+Apple recently addressed a vulnerability in the macOS operating system, tracked as CVE-2021-30853, that could...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA, HPE Products Affected by Log4j Vulnerabilities<a href="https://www.securityweek.com/nvidia-hpe-products-affected-log4j-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HPE has identified roughly 60 products that use the vulnerable library and has already published security notices (including patches and mitigations) and security bulletins for them.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackable Infusion Pump, Ransomware Risks To Patients<a href="https://cybersecurityventures.com/hackable-infusion-pump-ransomware-risks-to-patients/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of McAfee ATR threat researchers recently revealed the outcomes of a more than 18-month investigation into security vulnerabilities in medical equipment such as automatic infusion pumps.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Ventures
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blackmagic fixes critical DaVinci Resolve code execution flaws<a href="https://www.bleepingcomputer.com/news/security/blackmagic-fixes-critical-davinci-resolve-code-execution-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Blackmagic Software has recently addressed two security vulnerabilities in the highly popular&nbsp;DaVinci Resolve software that would allow attackers to gain code execution on unpatched systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA informs customers of its products affected by Log4j flaws<a href="https://securityaffairs.co/wordpress/125952/security/nvidia-log4shell-impacted-products.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NVIDIA released a security advisory to inform customers what products are affected by the recently disclosed Log4Shell vulnerability.
+
+
+
+NVIDIA has assessed its products to determine if they are vulnerable to the Log4shell vulnerability in Log4J library.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

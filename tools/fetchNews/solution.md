@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+December 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VK introduces 2FA and plans to make it mandatory in 2022<a href="https://www.bleepingcomputer.com/news/security/vk-introduces-2fa-and-plans-to-make-it-mandatory-in-2022/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VK, Russia's most popular social media platform with 650 million users, is finally introducing two-factor authentication on all its services and plans to make it mandatory in February 2022 for administrators of large communities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

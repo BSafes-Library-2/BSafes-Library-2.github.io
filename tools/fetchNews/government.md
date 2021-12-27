@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI and NSA Publish Joint Advisory and Scanner for Log4j Vulnerabilities<a href="https://thehackernews.com/2021/12/cisa-fbi-and-nsa-publish-joint-advisory.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity agencies from Australia, Canada, New Zealand, the U.S., and the U.K. on Wednesday released a joint advisory in response to widespread exploitation of multiple vulnerabilities in Apache's Log4j software library by nefarious adversaries.  "These vulnerabilities, especially Log4Shell, are severe," the intelligence agencies said in the&nbsp; new &nbsp; guidance . "Sophisticated cyber threat actors are actively scanning networks to potentially exploit&nbsp; Log4Shell ,&nbsp; CVE-2021-45046 , and&nbsp; CVE-2021-45105 &nbsp;in vulnerable systems. These vulnerabilities are likely to be exploited over an extended period."   An attacker can exploit Log4Shell (CVE-2021-44228) by submitting a specially crafted request to a vulnerable system that causes that system to execute arbitrary code. CVE-2021-45046, on the other hand, allows for remote code execution in certain non-default configurations, while CVE-2021-45105 could be leveraged by a remote attacker to cause a denial-of-service (DoS
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

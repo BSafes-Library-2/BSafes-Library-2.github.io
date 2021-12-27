@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+December 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French IT services provider Inetum hit by BlackCat ransomware attack<a href="https://securityaffairs.co/wordpress/126022/cyber-crime/inetum-hit-by-blackcat-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IT services company Inetum Group was hit by a ransomware attack a few days before the Christmas holiday.
+
+
+
+French IT services company Inetum Group was hit by a ransomware attack a few days before the Christmas holiday, but according to the company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global IT services provider Inetum hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/global-it-services-provider-inetum-hit-by-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Less than a week before the Christmas holiday, French IT services company Inetum Group was hit by a ransomware attack that had a limited impact on the business and its customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900072
 
 ## General
 ---
+December 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Best of Cybersecurity in 2021<a href="https://cyware.com/news/best-of-cybersecurity-in-2021-a9b57d99"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2021 marks the end of another eventful year, filled with more pandemic-related pandemonium, bigger cyberattacks, massive digital transformation, and other incidents. However, with this piece, we'd like to share with you the best of events from the year that shaped cyberspace for the better this yea ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

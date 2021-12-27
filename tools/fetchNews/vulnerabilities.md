@@ -8,6 +8,148 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Examining Log4j Vulnerabilities in Connected Cars and Charging Stations<a href="https://www.trendmicro.com/en_us/research/21/l/examining-log4j-vulnerabilities-in-connected-cars.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Charging stations are not the only targets that could be affected by this vulnerability in the automotive industry. Cars’ IVI systems could also be subjected to real threats.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes macOS security flaw behind Gatekeeper bypass<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-macos-security-flaw-behind-gatekeeper-bypass/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has addressed a macOS vulnerability that unsigned and unnotarized script-based apps could exploit to bypass all macOS security protection mechanisms even on fully patched systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks bypass a Microsoft Office patch for CVE-2021-40444 to spread Formbook malware<a href="https://securityaffairs.co/wordpress/125927/malware/ms-office-cve-2021-40444-bypass-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crooks discovered how to bypass the patch for a recent Microsoft Office vulnerability (CVE-2021-40444) and are using it to distribute Formbook malware.
+
+
+
+Cybercriminals have found a way to bypass the patch for a recent Microsoft Office vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three trivial bugs in Microsoft Teams Software remain unpatched<a href="https://securityaffairs.co/wordpress/125922/hacking/microsoft-team-unpatched-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed four vulnerabilities in the Teams business communication software, but Microsoft will not address three of them. 
+
+
+
+Researchers from cybersecurity firm Positive Security discovered four vulnerabilities in the Teams business communication...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HackDHS bug bounty program accepts reports of Log4j-related flaws in DHS systems<a href="https://securityaffairs.co/wordpress/125913/security/hack-dhs-bug-bounty-log4j.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DHS has announced that it is expanding the 'Hack DHS' bug bounty program to report for Log4J impacting its systems. 
+
+
+
+The Department of Homeland Security (DHS) announced that white hat hackers can now report the impact of the Log4J on its systems...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in Microsoft Azure App Service exposes customer source code<a href="https://securityaffairs.co/wordpress/125900/hacking/azure-app-service-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the Microsoft Azure App Service led to the exposure of customer source code for at least four&nbsp;years.
+
+
+
+Early this month, Microsoft has notified a small group of Azure customers that have been impacted by a recently discovered bug,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular WordPress platform Flywheel vulnerable to subdomain takeover<a href="https://portswigger.net/daily-swig/popular-wordpress-platform-flywheel-vulnerable-to-subdomain-takeover?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using a subdomain takeover, attackers can send phishing emails from the legitimate domain, perform cross-site scripting attacks, or even damage the reputation of the brand associated with the domain.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+All in One SEO Plugin Bug Threatens 3M Websites with Takeovers<a href="https://threatpost.com/all-in-one-seo-plugin-bug-threatens-3m-wordpress-websites-takeovers/177240/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical privilege-escalation vulnerability could lead to backdoors for admin access nesting in web servers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four Bugs in Microsoft Teams Left Platform Vulnerable Since March<a href="https://threatpost.com/microsoft-teams-bugs-vulnerable-march/177225/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers exploiting bugs in the “link preview” feature in Microsoft Teams could abuse the flaws to spoof links, leak an Android user’s IP address and launch a DoS attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,66 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Rook Ransomware borrows code from Babuk<a href="https://securityaffairs.co/wordpress/125988/malware/rook-ransomware-based-on-babuk.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently launched ransomware operation, named Rook, made headlines for its announcement claiming a desperate need a lot of money.
+
+
+
+A new ransomware operation named Rook appeared in the threat landscape, it was first reported by researcher Zach Allen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - December 24th 2021 - No rest for the weary<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-24th-2021-no-rest-for-the-weary/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The holiday season is here, but there is no rest for our weary admins as ransomware gangs are still conducting attacks over the Christmas and New Years breaks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rook ransomware is yet another spawn of the leaked Babuk code<a href="https://www.bleepingcomputer.com/news/security/rook-ransomware-is-yet-another-spawn-of-the-leaked-babuk-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware operation named Rook has appeared recently on the cyber-crime space, declaring a desperate need to make "a lot of money" by breaching corporate networks and encrypting devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Variants Flourish Amid Law Enforcement Actions<a href="https://thehackernews.com/2021/12/new-ransomware-variants-flourish-amid.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware groups continue to evolve their tactics and techniques to deploy file-encrypting malware on compromised systems, notwithstanding law enforcement's disruptive actions against the cybercrime gangs to prevent them from victimizing additional companies.  "Be it due to law enforcement, infighting amongst groups or people abandoning variants altogether, the RaaS [ransomware-as-a-service] groups dominating the ecosystem at this point in time are completely different than just a few months ago," Intel 471 researchers&nbsp; said &nbsp;in a report published this month. "Yet, even with the shift in the variants, ransomware incidents as a whole are still on the rise."  Sweeping law enforcement operations&nbsp; undertaken by government agencies &nbsp;in recent months have brought about rapid shifts in the RaaS landscape and turned the tables on ransomware syndicates like Avaddon,&nbsp; BlackMatter ,&nbsp; Cl0p ,&nbsp; DarkSide , Egregor, and&nbsp; REvil , forcing the actors to slow down or shut down th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

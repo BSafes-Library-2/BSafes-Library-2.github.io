@@ -8,6 +8,38 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Omicron-themed phishing attacks spread Dridex and taunt with funeral helpline<a href="https://securityaffairs.co/wordpress/125976/cyber-crime/dridex-covid-19-omicron-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A gang behind a recent Dridex Omicron campaign is moking the victims taunting them with a COVID-19 funeral assistance helpline number.
+
+
+
+Crooks behind a recent Dridex campaign is moking the researchers and victims taunting them with a COVID-19 funeral...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dridex Omicron phishing taunts with funeral helpline number <a href="https://www.bleepingcomputer.com/news/security/dridex-omicron-phishing-taunts-with-funeral-helpline-number/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware distributor for the Dridex banking malware has been toying with victims and researchers over the last few weeks. The latest example is a phishing campaign that taunts victims with a COVID-19 funeral assistance helpline number.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
