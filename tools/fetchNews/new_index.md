@@ -34,7 +34,399 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French IT services provider Inetum hit by BlackCat ransomware attack<a href="https://securityaffairs.co/wordpress/126022/cyber-crime/inetum-hit-by-blackcat-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IT services company Inetum Group was hit by a ransomware attack a few days before the Christmas holiday.
+
+
+
+French IT services company Inetum Group was hit by a ransomware attack a few days before the Christmas holiday, but according to the company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 346<a href="https://securityaffairs.co/wordpress/126018/breaking-news/security-affairs-newsletter-round-346.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixed macOS flaw that could allow to bypass Gatekeeper security feature<a href="https://securityaffairs.co/wordpress/126004/security/macos-gatekeeper-bypass-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple recently addressed fixed a flaw in the macOS that could be potentially exploited by an attacker to bypass Gatekeeper security feature.
+
+
+
+Apple recently addressed a vulnerability in the macOS operating system, tracked as CVE-2021-30853, that could...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Spider-Man: No Way Home’ used to spread a cryptominer<a href="https://securityaffairs.co/wordpress/125998/malware/spider-man-no-way-home-cryptominer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors attempted to take advantage of the interest in the new ' Spider-Man: No Way Home' movie to spread a Monero Cryptominer.
+
+
+
+Threat actors are attempting to capitalize the interest in the release of Spider-Man: No Way Home movie and use it as bait...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Rook Ransomware borrows code from Babuk<a href="https://securityaffairs.co/wordpress/125988/malware/rook-ransomware-based-on-babuk.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently launched ransomware operation, named Rook, made headlines for its announcement claiming a desperate need a lot of money.
+
+
+
+A new ransomware operation named Rook appeared in the threat landscape, it was first reported by researcher Zach Allen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Omicron-themed phishing attacks spread Dridex and taunt with funeral helpline<a href="https://securityaffairs.co/wordpress/125976/cyber-crime/dridex-covid-19-omicron-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A gang behind a recent Dridex Omicron campaign is moking the victims taunting them with a COVID-19 funeral assistance helpline number.
+
+
+
+Crooks behind a recent Dridex campaign is moking the researchers and victims taunting them with a COVID-19 funeral...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - December 24th 2021 - No rest for the weary<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-24th-2021-no-rest-for-the-weary/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The holiday season is here, but there is no rest for our weary admins as ransomware gangs are still conducting attacks over the Christmas and New Years breaks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Rook Ransomware Feeds Off the Code of Babuk<a href="https://www.sentinelone.com/labs/new-rook-ransomware-feeds-off-the-code-of-babuk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new Rook ransomware is primarily delivered via a third-party framework, for example Cobalt Strike; however, delivery via phishing email has also been reported in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Sentinel One
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert Details macOS Bug That Could Let Malware Bypass Gatekeeper Security<a href="https://thehackernews.com/2021/12/expert-details-macos-bug-that-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple recently fixed a security vulnerability in the macOS operating system that could be potentially exploited by a threat actor to "trivially and reliably" bypass a "myriad of foundational macOS security mechanisms" and run arbitrary code.  Security researcher Patrick Wardle  detailed  the discovery in a series of tweets on Thursday. Tracked as CVE-2021-30853 (CVSS score: 5.5), the issue relates to a scenario where a rogue macOS app may circumvent  Gatekeeper  checks, which ensure that only trusted apps can be run and that they have passed an automated process called " app notarization ."  The iPhone maker, crediting Gordon Long of Box with reporting the flaw, said it  addressed the weakness  with improved checks as part of macOS 11.6 updates officially released on September 20, 2021.   "Such bugs are often particularly impactful to everyday macOS users as they provide a means for adware and malware authors to sidestep macOS security mechanisms, …m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rook ransomware is yet another spawn of the leaked Babuk code<a href="https://www.bleepingcomputer.com/news/security/rook-ransomware-is-yet-another-spawn-of-the-leaked-babuk-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware operation named Rook has appeared recently on the cyber-crime space, declaring a desperate need to make "a lot of money" by breaching corporate networks and encrypting devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA, HPE Products Affected by Log4j Vulnerabilities<a href="https://www.securityweek.com/nvidia-hpe-products-affected-log4j-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HPE has identified roughly 60 products that use the vulnerable library and has already published security notices (including patches and mitigations) and security bulletins for them.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Variants Flourish Amid Law Enforcement Actions<a href="https://thehackernews.com/2021/12/new-ransomware-variants-flourish-amid.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware groups continue to evolve their tactics and techniques to deploy file-encrypting malware on compromised systems, notwithstanding law enforcement's disruptive actions against the cybercrime gangs to prevent them from victimizing additional companies.  "Be it due to law enforcement, infighting amongst groups or people abandoning variants altogether, the RaaS [ransomware-as-a-service] groups dominating the ecosystem at this point in time are completely different than just a few months ago," Intel 471 researchers  said  in a report published this month. "Yet, even with the shift in the variants, ransomware incidents as a whole are still on the rise."  Sweeping law enforcement operations  undertaken by government agencies  in recent months have brought about rapid shifts in the RaaS landscape and turned the tables on ransomware syndicates like Avaddon,  BlackMatter ,  Cl0p ,  DarkSide , Egregor, and  REvil , forcing the actors to slow down or shut down th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global IT services provider Inetum hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/global-it-services-provider-inetum-hit-by-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Less than a week before the Christmas holiday, French IT services company Inetum Group was hit by a ransomware attack that had a limited impact on the business and its customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackable Infusion Pump, Ransomware Risks To Patients<a href="https://cybersecurityventures.com/hackable-infusion-pump-ransomware-risks-to-patients/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of McAfee ATR threat researchers recently revealed the outcomes of a more than 18-month investigation into security vulnerabilities in medical equipment such as automatic infusion pumps.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Ventures
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BLISTER Malware Using Code Signing Certificates to Evade Detection<a href="https://thehackernews.com/2021/12/new-blister-malware-using-code-signing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details of an evasive malware campaign that makes use of valid code signing certificates to sneak past security defenses and stay under the radar with the goal of deploying Cobalt Strike and BitRAT payloads on compromised systems.  The binary, a loader, has been dubbed "Blister" by researchers from Elastic Security, with the malware samples having  negligible  to  zero  detections on VirusTotal. As of writing, the infection vector used to stage the attack, as well as the ultimate objectives of the intrusion, remains unknown.   A notable aspect of the attacks is that they leverage a valid code signing certificate issued by  Sectigo . The malware has been observed signed with the certificate in question dating back to September 15, 2021. Elastic said it reached out to the company to ensure that the abused certificates are revoked.  "Executables with valid code signing certificates are often scrutinized to a lesser degree than unsig
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android banking trojan spreads via fake Google Play Store page<a href="https://www.bleepingcomputer.com/news/security/android-banking-trojan-spreads-via-fake-google-play-store-page/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Android banking trojan targeting Itaú Unibanco, a large financial services provider in Brazil with 55 million customers globally, is using a fake Google Play store to spread to devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bots are stealing Christmas!<a href="https://www.helpnetsecurity.com/2021/12/24/malicious-automation-trends/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Past research has shown that attacks originating from China are typically near the top of any botting activity list, but during this time period, China was 6th at only 2.3% of overall bad bot traffic.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blackmagic fixes critical DaVinci Resolve code execution flaws<a href="https://www.bleepingcomputer.com/news/security/blackmagic-fixes-critical-davinci-resolve-code-execution-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Blackmagic Software has recently addressed two security vulnerabilities in the highly popular DaVinci Resolve software that would allow attackers to gain code execution on unpatched systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dridex Omicron phishing taunts with funeral helpline number <a href="https://www.bleepingcomputer.com/news/security/dridex-omicron-phishing-taunts-with-funeral-helpline-number/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware distributor for the Dridex banking malware has been toying with victims and researchers over the last few weeks. The latest example is a phishing campaign that taunts victims with a COVID-19 funeral assistance helpline number.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fisher Price Chatter Bluetooth Telephone 60G LTE has serious privacy issues<a href="https://securityaffairs.co/wordpress/125967/hacking/fisher-price-chatter-bluetooth-telephone-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found serious privacy issues affecting Fisher Price Chatter Bluetooth Telephone, a Bluetooth headset that appears like a classic kids toy. 
+
+
+
+Fisher Price Chatter Bluetooth Telephone has the appearance of a classic kids toy, but it was designed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of a new stealthy loader tracked as BLISTER<a href="https://securityaffairs.co/wordpress/125958/malware/blister-loader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers spotted a campaign that is employing a new stealthy malware tracked as BLISTER that targets windows systems.
+
+
+
+Elastic Security researchers uncovered a malware campaign that leverages a new malware and a stealthy loader tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA informs customers of its products affected by Log4j flaws<a href="https://securityaffairs.co/wordpress/125952/security/nvidia-log4shell-impacted-products.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NVIDIA released a security advisory to inform customers what products are affected by the recently disclosed Log4Shell vulnerability.
+
+
+
+NVIDIA has assessed its products to determine if they are vulnerable to the Log4shell vulnerability in Log4J library.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stealthy BLISTER malware slips in unnoticed on Windows systems<a href="https://www.bleepingcomputer.com/news/security/stealthy-blister-malware-slips-in-unnoticed-on-windows-systems/"> Full Text</a>
@@ -50,7 +442,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Examining Log4j Vulnerabilities in Connected Cars and Charging Stations<a href="https://www.trendmicro.com/en_us/research/21/l/examining-log4j-vulnerabilities-in-connected-cars.html?&web_view=true"> Full Text</a>
@@ -66,7 +458,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA, FBI and NSA Publish Joint Advisory and Scanner for Log4j Vulnerabilities<a href="https://thehackernews.com/2021/12/cisa-fbi-and-nsa-publish-joint-advisory.html"> Full Text</a>
@@ -82,7 +474,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AvosLocker ransomware reboots in Safe Mode and installs tools for remote access<a href="https://securityaffairs.co/wordpress/125937/malware/avoslocker-ransomware-safe-mode.html"> Full Text</a>
@@ -102,7 +494,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes macOS security flaw behind Gatekeeper bypass<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-macos-security-flaw-behind-gatekeeper-bypass/"> Full Text</a>
@@ -118,7 +510,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Best of Cybersecurity in 2021<a href="https://cyware.com/news/best-of-cybersecurity-in-2021-a9b57d99"> Full Text</a>
@@ -135,7 +527,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IoT SAFE — An Innovative Way to Secure IoT<a href="https://thehackernews.com/2021/12/iot-safe-innovative-way-to-secure-iot.html"> Full Text</a>
@@ -151,7 +543,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks bypass a Microsoft Office patch for CVE-2021-40444 to spread Formbook malware<a href="https://securityaffairs.co/wordpress/125927/malware/ms-office-cve-2021-40444-bypass-malware.html"> Full Text</a>
@@ -171,7 +563,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing campaign targets CoinSpot cryptoexchange 2FA codes<a href="https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-coinspot-cryptoexchange-2fa-codes/"> Full Text</a>
@@ -187,7 +579,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishers Now Impersonate Pfizer to Target Victims<a href="https://cyware.com/news/phishers-now-impersonate-pfizer-to-target-victims-b5f11c33"> Full Text</a>
@@ -203,7 +595,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three trivial bugs in Microsoft Teams Software remain unpatched<a href="https://securityaffairs.co/wordpress/125922/hacking/microsoft-team-unpatched-flaws.html"> Full Text</a>
@@ -223,7 +615,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AvosLocker ransomware reboots in Safe Mode to bypass security tools<a href="https://www.bleepingcomputer.com/news/security/avoslocker-ransomware-reboots-in-safe-mode-to-bypass-security-tools/"> Full Text</a>
@@ -239,7 +631,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Global Phishing Scam That Cost Victims $80 Million Per Month<a href="https://cyware.com/news/a-global-phishing-scam-that-cost-victims-80-million-per-month-4a34c3bb"> Full Text</a>
@@ -255,7 +647,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HackDHS bug bounty program accepts reports of Log4j-related flaws in DHS systems<a href="https://securityaffairs.co/wordpress/125913/security/hack-dhs-bug-bounty-log4j.html"> Full Text</a>
@@ -275,7 +667,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro Wrestling Tees discloses data breach after credit cards stolen<a href="https://www.bleepingcomputer.com/news/security/pro-wrestling-tees-discloses-data-breach-after-credit-cards-stolen/"> Full Text</a>
@@ -291,7 +683,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Card Skimmer Attacks Detected Ahead of Christmas Shopping Season<a href="https://cyware.com/news/new-card-skimmer-attacks-detected-ahead-of-christmas-shopping-season-fbf0044e"> Full Text</a>
@@ -307,7 +699,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in Microsoft Azure App Service exposes customer source code<a href="https://securityaffairs.co/wordpress/125900/hacking/azure-app-service-flaw.html"> Full Text</a>
@@ -327,7 +719,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VK introduces 2FA and plans to make it mandatory in 2022<a href="https://www.bleepingcomputer.com/news/security/vk-introduces-2fa-and-plans-to-make-it-mandatory-in-2022/"> Full Text</a>
@@ -343,7 +735,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch out for Christmas 2021 credential stuffing attacks!<a href="https://www.helpnetsecurity.com/2021/12/23/2021-credential-stuffing-attacks/?&web_view=true"> Full Text</a>
@@ -359,7 +751,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2021
+December 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular WordPress platform Flywheel vulnerable to subdomain takeover<a href="https://portswigger.net/daily-swig/popular-wordpress-platform-flywheel-vulnerable-to-subdomain-takeover?&web_view=true"> Full Text</a>
@@ -375,7 +767,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2021
+December 22, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PYSA Emerges as Top Ransomware Actor in November<a href="https://threatpost.com/pysa-top-ransomware-november/177242/"> Full Text</a>
@@ -391,7 +783,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2021
+December 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 All in One SEO Plugin Bug Threatens 3M Websites with Takeovers<a href="https://threatpost.com/all-in-one-seo-plugin-bug-threatens-3m-wordpress-websites-takeovers/177240/"> Full Text</a>
@@ -407,7 +799,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2021
+December 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 4-Year-Old Bug in Azure App Service Exposed Hundreds of Source Code Repositories<a href="https://thehackernews.com/2021/12/4-year-old-bug-in-azure-app-service.html"> Full Text</a>
@@ -423,7 +815,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2021
+December 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Four Bugs in Microsoft Teams Left Platform Vulnerable Since March<a href="https://threatpost.com/microsoft-teams-bugs-vulnerable-march/177225/"> Full Text</a>
@@ -439,7 +831,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2021
+December 22, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Disclose Unpatched Vulnerabilities in Microsoft Teams Software<a href="https://thehackernews.com/2021/12/researchers-disclose-unpatched.html"> Full Text</a>
