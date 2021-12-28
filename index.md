@@ -34,6 +34,425 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP NAS devices hit in surge of ech0raix ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/qnap-nas-devices-hit-in-surge-of-ech0raix-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of QNAP network-attached storage (NAS) devices are reporting attacks on their systems with the eCh0raix ransomware, also known as QNAPCrypt.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Flaws Expose EVlink Electric Vehicle Charging Stations to Remote Hacking<a href="https://www.securityweek.com/new-flaws-expose-evlink-electric-vehicle-charging-stations-remote-hacking?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaws have been found to impact EVlink City (EVC1S22P4 and EVC1S7P4), Parking (EVW2, EVF2, and EVP2PE), and Smart Wallbox (EVB1A) devices, as well as some products that have reached end-of-life.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shutterfly hit by ransomware attack<a href="https://thehill.com//policy/cybersecurity/587397-shutterfly-hit-by-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Photography company Shutterfly announced this week that it had been hit by a ransomware attack that had impacted some services, making it the latest in a string of companies to be targeted by hackers looking for a payout. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Garrett Walk-Through Metal Detectors Can Be Hacked Remotely<a href="https://thehackernews.com/2021/12/garrett-walk-through-metal-detectors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of security flaws have been uncovered in a networking component in Garrett Metal Detectors that could allow remote attackers to bypass authentication requirements, tamper with metal detector configurations, and even execute arbitrary code on the devices.  "An attacker could manipulate this module to remotely monitor statistics on the metal detector, such as whether the alarm has been triggered or how many visitors have walked through," Cisco Talos  noted  in a disclosure publicized last week. "They could also make configuration changes, such as altering the sensitivity level of a device, which potentially poses a security risk to users who rely on these metal detectors."  Talos security researcher Matt Wiseman has been credited with discovering and reporting these vulnerabilities on August 17, 2021. Patches have been released by the vendor on December 13, 2021.   The flaws reside in Garrett  iC Module , which enables users to communicate to walk-through me
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new wave of ech0raix ransomware attacks targets QNAP NAS devices<a href="https://securityaffairs.co/wordpress/126081/malware/ech0raix-ransomware-targeting-qnap-nas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of ech0raix ransomware attacks is targeting QNAP network-attached storage (NAS) devices.
+
+
+
+The threat actors behind the ech0raix ransomware are targeting NAP network-attached storage (NAS) devices. Users reported numerous compromises of their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shutterfly services disrupted by Conti ransomware attack<a href="https://www.bleepingcomputer.com/news/security/shutterfly-services-disrupted-by-conti-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Photography and personalized photo giant Shutterfly has suffered a Conti ransomware attack that allegedly encrypted thousands of devices and stole corporate data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Echelon Infostealer Drops in via Telegram<a href="https://cyware.com/news/echelon-infostealer-drops-in-via-telegram-0b5a3d87"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Telegram handle was found distributing malicious Echelon infostealer targeted at users of a cryptocurrency discussion channel on the messaging platform.  Echelon aims to steal login credentials from popular file-sharing platforms and messaging applications including FileZilla, Discord, Outlook, E ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PECB Certified Lead Ethical Hacker: Take Your Career to the Next Level<a href="https://thehackernews.com/2021/12/pecb-certified-lead-ethical-hacker-take.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercrime is increasing exponentially and presents devastating risks for most organizations. According to Cybercrime Magazine, global cybercrime damage is predicted to hit $10.5 trillion annually as of 2025.  One of the more recent and increasingly popular forms of tackling such issues by identifying is ethical hacking. This method identifies potential security vulnerabilities in its early stages. Certified ethical hackers use advanced tools and strategies to prevent cyberattacks and help organizations strengthen their cybersecurity.  Why Companies Should Hire Ethical Hackers  As cyberattacks constantly evolve and improve, organizations must ensure that their defense systems and approach can keep up with the level and complexity of cyberattacks.  In today's business era, organizations cannot afford to operate without identifying the vulnerabilities in their system and taking preventive measures. As such, ethical hackers provide several advantages: they offer a unique outsider's persp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache addressed a couple of severe vulnerabilities in Apache HTTP Server<a href="https://securityaffairs.co/wordpress/126077/security/apache-http-server-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apache Software Foundation released Apache HTTP Server 2.4.52 to address a couple of security flaws that can lead to remote code execution.
+
+
+
+The Apache Software Foundation has released the Apache HTTP Server 2.4.52 to address a couple of vulnerabilities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An inside look at how CISA is building an agency for elite cybersecurity talent<a href="https://therecord.media/an-inside-look-at-how-cisa-is-building-an-agency-for-elite-cybersecurity-talent/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kiersten Todt, CISA Chief of Staff, said that one of their key priorities right now is to build out our talented workforce and to really make CISA an elite agency for top-tier talent in cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Spider-Man: No Way Home' Pirated Downloads Contain Crypto-Mining Malware<a href="https://thehackernews.com/2021/12/spider-man-no-way-home-pirated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Peter Parker might not be a mastermind cryptocurrency criminal, but the name Spiderman is quickly becoming more associated with the mining landscape.  ReasonLabs , a leading provider of cybersecurity prevention and detection software, recently discovered a new form of malware hacking into customer computers in the guise of the latest Spiderman movie.   As perhaps the most  talked-about movie for some time , Spiderman: No Way Home represents an excellent opportunity for hackers. It's a chance to connect with millions of potential targets, and hack into computers all around the globe. All today's malicious actors need to do is promise their victims access to the latest movie, and they get an all-access pass to their PC.   The cryptocurrency mining malware discovered by ReasonLabs disguises itself as a torrent for the Spiderman: No Way Home movie, encouraging viewers around the world to download the file, and open the computer to criminals.   Using a Mask: Tricking Users into Dow
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found backdoors in a popular Auerswald VoIP appliance<a href="https://securityaffairs.co/wordpress/126069/hacking/auerswald-voip-backdoors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found multiple backdoors in popular VoIP (voice over Internet protocol) appliance made by the German manufacturer Auerswald. 
+
+
+
+Researchers from RedTeam Pentesting discovered multiple backdoors in a popular VoIP (voice over Internet protocol)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to avoid “festive fraud” during the holiday season<a href="https://www.helpnetsecurity.com/2021/12/27/festive-fraud/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online fraud peaks during the year-end holidays. Scammers know that consumers, rushing around and looking for bargains, are prone to let their guards down a bit more than usual this time of year.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android Malware Targeting Brazil's Itaú Unibanco Bank Customers<a href="https://thehackernews.com/2021/12/new-android-malware-targeting-brazils_27.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered a new Android banking malware that targets Brazil's Itaú Unibanco with the help of lookalike Google Play Store pages to carry out fraudulent financial transactions on victim devices without their knowledge.  "This application has a similar icon and name that could trick users into thinking it is a legitimate app related to Itaú Unibanco," Cyble researchers  said  in a report published last week. "The [threat actor] has created a fake Google Play Store page and hosted the malware that targets Itaú Unibanco on it under the name  'sincronizador.apk .'"   The tactic of leveraging fake app store pages as a lure is not new. In March, Meta (previously Facebook)  disclosed  details of an attack campaign that used its platform as part of a broader operation to spy on Uyghur Muslims using rogue third-party websites that used replica domains for popular news portals and websites designed to resemble third-party Android app stores, where attackers put fake keyboard, pr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts monitor ongoing attacks using exploits for Log4j library flaws<a href="https://securityaffairs.co/wordpress/126062/hacking/log4j-ongoing-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from DrWeb monitored attacks leveraging exploits for vulnerabilities in the Apache Log4j library
+
+
+
+Researchers from DrWeb monitored attacks leveraging exploits for vulnerabilities (CVE-2021-44228, CVE-2021-45046, CVE2021-4104, and CVE-2021-42550)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manufacturers of IT devices should step up when it comes to security<a href="https://www.helpnetsecurity.com/2021/12/27/secure-iot-devices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While connected devices deliver a plethora of benefits to businesses, the necessity of being connected to public networks and the internet leave them particularly vulnerable to cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark web marketplace ToRReZ shuts down on their own’s decision<a href="https://securityaffairs.co/wordpress/126052/cyber-crime/torrez-marketplace-shut-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the ToRReZ dark web marketplace have shut down their operation claiming it is the result of their own’s decision. 
+
+
+
+The operators of the ToRReZ dark web marketplace have shut down their operation before Christmas, claiming that it is the result...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Blister Campaign Stealthily Targets Windows<a href="https://cyware.com/news/new-blister-campaign-stealthily-targets-windows-c9297496"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elastic Security researchers reported a three-month-long malware campaign delivering a stealthy loader, dubbed Blister, on Microsoft Windows. The malware loader further deploys second-stage payloads in memory including Cobalt Strike and BitRAT. Researchers suggest deploying an anti-malware solution ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albania Prime Minister apologizes over the recent massive leak of government data<a href="https://securityaffairs.co/wordpress/126047/data-breach/albania-prime-minister-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Albania’s prime minister Edi Rama apologized for the massive leak of personal records from a government database of state. 
+
+
+
+Albania’s prime minister this week apologized for the massive leak of personal records from a government database of state....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web app attacks are skyrocketing, it’s time to protect APIs<a href="https://www.helpnetsecurity.com/2021/12/27/web-app-attacks-increased/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web app attacks against UK-based businesses have increased by 251% since October 2019, putting both organizations and consumers at risk, new research by Imperva has revealed.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android banking Malware targets Brazil’s Itaú Unibanco Bank<a href="https://securityaffairs.co/wordpress/126040/malware/android-banking-malware-brazil.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers analyzed a new Android banking malware that targets Brazil's Itaú Unibanco that spreads through fake Google Play Store pages.
+
+
+
+Researchers from threat intelligence firm Cyble analyzed a new Android banking malware that targets Brazil's...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bluetooth reboot of pre-school play phone has privacy flaw<a href="https://www.theregister.com/2021/12/23/fisher_prices_bluetooth_reboot_of/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chatter uses Bluetooth classic without secure pairing, which means anyone nearby could therefore hook up a Bluetooth device, and tune in to whatever is said within range of the Chatter’s microphone.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaws in myPRO HMI/SCADA product could allow takeover vulnerable systems<a href="https://securityaffairs.co/wordpress/126029/ics-scada/myscada-mypro-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher found a dozen vulnerabilities in mySCADA myPRO product, some of which have been rated as critical.
+
+
+
+ mySCADA myPRO is a multiplatform, human-machine interface (HMI) and supervisory control and data acquisition (SCADA) system that allows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AvosLocker Ransomware Surprises with New Tactics<a href="https://cyware.com/news/avoslocker-ransomware-surprises-with-new-tactics-5c329cce"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AvosLocker ransmware combines the AnyDesk remote administration tool with Windows Safe feature to bypass security protections of computer systems, revealed Sophos Labs. The latest variant as a Linux component that targets VMware ESXi hypervisor servers by terminating any virtual machines. Analysts  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
