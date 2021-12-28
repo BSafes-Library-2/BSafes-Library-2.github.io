@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP NAS devices hit in surge of ech0raix ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/qnap-nas-devices-hit-in-surge-of-ech0raix-ransomware-attacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Flaws Expose EVlink Electric Vehicle Charging Stations to Remote Hacking<a href="https://www.securityweek.com/new-flaws-expose-evlink-electric-vehicle-charging-stations-remote-hacking?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shutterfly hit by ransomware attack<a href="https://thehill.com//policy/cybersecurity/587397-shutterfly-hit-by-ransomware-attack"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Garrett Walk-Through Metal Detectors Can Be Hacked Remotely<a href="https://thehackernews.com/2021/12/garrett-walk-through-metal-detectors.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new wave of ech0raix ransomware attacks targets QNAP NAS devices<a href="https://securityaffairs.co/wordpress/126081/malware/ech0raix-ransomware-targeting-qnap-nas.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shutterfly services disrupted by Conti ransomware attack<a href="https://www.bleepingcomputer.com/news/security/shutterfly-services-disrupted-by-conti-ransomware-attack/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Echelon Infostealer Drops in via Telegram<a href="https://cyware.com/news/echelon-infostealer-drops-in-via-telegram-0b5a3d87"> Full Text</a>
@@ -151,7 +151,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PECB Certified Lead Ethical Hacker: Take Your Career to the Next Level<a href="https://thehackernews.com/2021/12/pecb-certified-lead-ethical-hacker-take.html"> Full Text</a>
@@ -167,7 +167,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache addressed a couple of severe vulnerabilities in Apache HTTP Server<a href="https://securityaffairs.co/wordpress/126077/security/apache-http-server-flaws.html"> Full Text</a>
@@ -187,7 +187,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An inside look at how CISA is building an agency for elite cybersecurity talent<a href="https://therecord.media/an-inside-look-at-how-cisa-is-building-an-agency-for-elite-cybersecurity-talent/?&web_view=true"> Full Text</a>
@@ -203,7 +203,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Spider-Man: No Way Home' Pirated Downloads Contain Crypto-Mining Malware<a href="https://thehackernews.com/2021/12/spider-man-no-way-home-pirated.html"> Full Text</a>
@@ -219,7 +219,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found backdoors in a popular Auerswald VoIP appliance<a href="https://securityaffairs.co/wordpress/126069/hacking/auerswald-voip-backdoors.html"> Full Text</a>
@@ -239,7 +239,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to avoid “festive fraud” during the holiday season<a href="https://www.helpnetsecurity.com/2021/12/27/festive-fraud/?&web_view=true"> Full Text</a>
@@ -255,7 +255,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android Malware Targeting Brazil's Itaú Unibanco Bank Customers<a href="https://thehackernews.com/2021/12/new-android-malware-targeting-brazils_27.html"> Full Text</a>
@@ -271,7 +271,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts monitor ongoing attacks using exploits for Log4j library flaws<a href="https://securityaffairs.co/wordpress/126062/hacking/log4j-ongoing-attacks.html"> Full Text</a>
@@ -291,7 +291,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Manufacturers of IT devices should step up when it comes to security<a href="https://www.helpnetsecurity.com/2021/12/27/secure-iot-devices/?&web_view=true"> Full Text</a>
@@ -307,7 +307,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark web marketplace ToRReZ shuts down on their own’s decision<a href="https://securityaffairs.co/wordpress/126052/cyber-crime/torrez-marketplace-shut-down.html"> Full Text</a>
@@ -327,7 +327,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Blister Campaign Stealthily Targets Windows<a href="https://cyware.com/news/new-blister-campaign-stealthily-targets-windows-c9297496"> Full Text</a>
@@ -344,7 +344,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Albania Prime Minister apologizes over the recent massive leak of government data<a href="https://securityaffairs.co/wordpress/126047/data-breach/albania-prime-minister-data-leak.html"> Full Text</a>
@@ -364,7 +364,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Web app attacks are skyrocketing, it’s time to protect APIs<a href="https://www.helpnetsecurity.com/2021/12/27/web-app-attacks-increased/?&web_view=true"> Full Text</a>
@@ -380,7 +380,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android banking Malware targets Brazil’s Itaú Unibanco Bank<a href="https://securityaffairs.co/wordpress/126040/malware/android-banking-malware-brazil.html"> Full Text</a>
@@ -400,7 +400,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bluetooth reboot of pre-school play phone has privacy flaw<a href="https://www.theregister.com/2021/12/23/fisher_prices_bluetooth_reboot_of/?&web_view=true"> Full Text</a>
@@ -416,7 +416,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical flaws in myPRO HMI/SCADA product could allow takeover vulnerable systems<a href="https://securityaffairs.co/wordpress/126029/ics-scada/myscada-mypro-flaws.html"> Full Text</a>
@@ -436,7 +436,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AvosLocker Ransomware Surprises with New Tactics<a href="https://cyware.com/news/avoslocker-ransomware-surprises-with-new-tactics-5c329cce"> Full Text</a>

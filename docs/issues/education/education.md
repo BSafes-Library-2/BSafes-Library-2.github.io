@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to avoid “festive fraud” during the holiday season<a href="https://www.helpnetsecurity.com/2021/12/27/festive-fraud/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online fraud peaks during the year-end holidays. Scammers know that consumers, rushing around and looking for bargains, are prone to let their guards down a bit more than usual this time of year.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

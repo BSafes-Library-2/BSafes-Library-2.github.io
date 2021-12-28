@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fisher Price Chatter Bluetooth Telephone 60G LTE has serious privacy issues<a href="https://securityaffairs.co/wordpress/125967/hacking/fisher-price-chatter-bluetooth-telephone-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found serious privacy issues affecting Fisher Price Chatter Bluetooth Telephone, a Bluetooth headset that appears like a classic kids toy. 
+
+
+
+Fisher Price Chatter Bluetooth Telephone has the appearance of a classic kids toy, but it was designed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

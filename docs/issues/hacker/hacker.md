@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PECB Certified Lead Ethical Hacker: Take Your Career to the Next Level<a href="https://thehackernews.com/2021/12/pecb-certified-lead-ethical-hacker-take.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercrime is increasing exponentially and presents devastating risks for most organizations. According to Cybercrime Magazine, global cybercrime damage is predicted to hit $10.5 trillion annually as of 2025.  One of the more recent and increasingly popular forms of tackling such issues by identifying is ethical hacking. This method identifies potential security vulnerabilities in its early stages. Certified ethical hackers use advanced tools and strategies to prevent cyberattacks and help organizations strengthen their cybersecurity.  Why Companies Should Hire Ethical Hackers  As cyberattacks constantly evolve and improve, organizations must ensure that their defense systems and approach can keep up with the level and complexity of cyberattacks.  In today's business era, organizations cannot afford to operate without identifying the vulnerabilities in their system and taking preventive measures. As such, ethical hackers provide several advantages: they offer a unique outsider's persp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

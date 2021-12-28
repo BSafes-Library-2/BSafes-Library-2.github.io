@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bots are stealing Christmas!<a href="https://www.helpnetsecurity.com/2021/12/24/malicious-automation-trends/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Past research has shown that attacks originating from China are typically near the top of any botting activity list, but during this time period, China was 6th at only 2.3% of overall bad bot traffic.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

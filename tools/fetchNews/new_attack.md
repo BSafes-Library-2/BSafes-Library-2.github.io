@@ -8,6 +8,70 @@ nav_order: 900015
 
 ## Attack
 ---
+December 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP NAS devices hit in surge of ech0raix ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/qnap-nas-devices-hit-in-surge-of-ech0raix-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of QNAP network-attached storage (NAS) devices are reporting attacks on their systems with the eCh0raix ransomware, also known as QNAPCrypt.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shutterfly hit by ransomware attack<a href="https://thehill.com//policy/cybersecurity/587397-shutterfly-hit-by-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Photography company Shutterfly announced this week that it had been hit by a ransomware attack that had impacted some services, making it the latest in a string of companies to be targeted by hackers looking for a payout.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new wave of ech0raix ransomware attacks targets QNAP NAS devices<a href="https://securityaffairs.co/wordpress/126081/malware/ech0raix-ransomware-targeting-qnap-nas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of ech0raix ransomware attacks is targeting QNAP network-attached storage (NAS) devices.
+
+
+
+The threat actors behind the ech0raix ransomware are targeting NAP network-attached storage (NAS) devices. Users reported numerous compromises of their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts monitor ongoing attacks using exploits for Log4j library flaws<a href="https://securityaffairs.co/wordpress/126062/hacking/log4j-ongoing-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from DrWeb monitored attacks leveraging exploits for vulnerabilities in the Apache Log4j library
+
+
+
+Researchers from DrWeb monitored attacks leveraging exploits for vulnerabilities (CVE-2021-44228, CVE-2021-45046, CVE2021-4104, and CVE-2021-42550)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

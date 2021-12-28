@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+December 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manufacturers of IT devices should step up when it comes to security<a href="https://www.helpnetsecurity.com/2021/12/27/secure-iot-devices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While connected devices deliver a plethora of benefits to businesses, the necessity of being connected to public networks and the internet leave them particularly vulnerable to cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web app attacks are skyrocketing, it’s time to protect APIs<a href="https://www.helpnetsecurity.com/2021/12/27/web-app-attacks-increased/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web app attacks against UK-based businesses have increased by 251% since October 2019, putting both organizations and consumers at risk, new research by Imperva has revealed.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

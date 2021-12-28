@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AvosLocker Ransomware Surprises with New Tactics<a href="https://cyware.com/news/avoslocker-ransomware-surprises-with-new-tactics-5c329cce"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AvosLocker ransmware combines the AnyDesk remote administration tool with Windows Safe feature to bypass security protections of computer systems, revealed Sophos Labs. The latest variant as a Linux component that targets VMware ESXi hypervisor servers by terminating any virtual machines. Analysts  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

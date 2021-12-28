@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark web marketplace ToRReZ shuts down on their own’s decision<a href="https://securityaffairs.co/wordpress/126052/cyber-crime/torrez-marketplace-shut-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the ToRReZ dark web marketplace have shut down their operation claiming it is the result of their own’s decision. 
+
+
+
+The operators of the ToRReZ dark web marketplace have shut down their operation before Christmas, claiming that it is the result...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
