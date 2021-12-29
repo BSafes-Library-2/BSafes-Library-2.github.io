@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+December 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Logistics Company Exposes Data of Fortune 500 Clients via Unsecured Storage Bucket<a href="https://www.websiteplanet.com/blog/dwmorgan-leak-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Amazon S3 bucket owned by D.W. Morgan was misconfigured, exposing more than 2.5 million files equating to over 100GB of data. These files relate to D.W. Morgan’s clients and their shipments.
+</details>
+<div style="text-align: right" markdown="1">
+Website Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass users warned their master passwords are compromised<a href="https://www.bleepingcomputer.com/news/security/lastpass-users-warned-their-master-passwords-are-compromised/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many LastPass users report that their master passwords have been compromised after receiving email warnings that someone tried to use them to log into their accounts from unknown locations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Logistics giant D.W. Morgan exposed 100 GB worth of clients’ data, including Fortune 500 Clients<a href="https://securityaffairs.co/wordpress/126086/data-breach/d-w-morgan-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;Website Planet&nbsp;security team discovered a data breach suffered by&nbsp;the multinational logistics giant D.W. Morgan.
+
+
+
+The&nbsp;Website Planet&nbsp;security team discovered an Amazon S3 bucket owned by logistics giant D.W. Morgan that was left unsecured...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900027
 
 ## Business
 ---
+December 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass investigated recent reports of blocked login attempts<a href="https://securityaffairs.co/wordpress/126116/hacking/lastpass-hacking-attempts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password manager app LastPass confirmed that threat actors have launched a credential stuffing attack against its users.
+
+
+
+While LastPass says that it is not aware that some of its accounts were compromised in the recent credential stuffing attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

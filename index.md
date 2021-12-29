@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Log4j 2.17.1 out now, fixes new remote code execution bug<a href="https://www.bleepingcomputer.com/news/security/log4j-2171-out-now-fixes-new-remote-code-execution-bug/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State Workers to Be Paid on Time Despite Ransomware Attack<a href="https://www.securityweek.com/state-workers-be-paid-time-despite-ransomware-attack?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Congress zooms in on cybersecurity after banner year of attacks<a href="https://thehill.com//policy/cybersecurity/587165-congress-zooms-in-on-cybersecurity-after-banner-year-of-attacks"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Detail Logging Tool of DanderSpritz Framework Used by Equation Group Hackers<a href="https://thehackernews.com/2021/12/experts-detail-logging-tool-of.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LastPass investigated recent reports of blocked login attempts<a href="https://securityaffairs.co/wordpress/126116/hacking/lastpass-hacking-attempts.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Flagpro malware linked to Chinese state-backed hackers<a href="https://www.bleepingcomputer.com/news/security/new-flagpro-malware-linked-to-chinese-state-backed-hackers/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Abuse MSBuild for Cobalt Strike Beacon Execution<a href="https://www.securityweek.com/threat-actors-abuse-msbuild-cobalt-strike-beacon-execution?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Washington grapples with how to expand crypto oversight<a href="https://thehill.com//policy/finance/587036-washington-grapples-with-how-to-expand-crypto-oversight"> Full Text</a>
@@ -166,7 +166,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors are abusing MSBuild to implant Cobalt Strike Beacons<a href="https://securityaffairs.co/wordpress/126104/hacking/msbuild-cobalt-strike-beacons.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedLine malware shows why passwords shouldn't be saved in browsers<a href="https://www.bleepingcomputer.com/news/security/redline-malware-shows-why-passwords-shouldnt-be-saved-in-browsers/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Logistics Company Exposes Data of Fortune 500 Clients via Unsecured Storage Bucket<a href="https://www.websiteplanet.com/blog/dwmorgan-leak-report/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Website Planet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shutterfly hit by a Conti ransomware attack<a href="https://securityaffairs.co/wordpress/126096/malware/shutterfly-conti-ransomware.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LastPass users warned their master passwords are compromised<a href="https://www.bleepingcomputer.com/news/security/lastpass-users-warned-their-master-passwords-are-compromised/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Not-so-funny Funeral Scam by Dridex<a href="https://cyware.com/news/not-so-funny-funeral-scam-by-dridex-818858df"> Full Text</a>
@@ -271,7 +271,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoubleFeature, post-exploitation dashboard used by Equation Group APT<a href="https://securityaffairs.co/wordpress/126092/apt/doublefeature-equation-group-apt.html"> Full Text</a>
@@ -291,7 +291,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Riskware Android streaming apps found on Samsung's Galaxy store<a href="https://www.bleepingcomputer.com/news/security/riskware-android-streaming-apps-found-on-samsungs-galaxy-store/"> Full Text</a>
@@ -307,7 +307,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Rookie Ransomware Reflects the Characteristics of Babuk<a href="https://cyware.com/news/a-rookie-ransomware-reflects-the-characteristics-of-babuk-16715c68"> Full Text</a>
@@ -324,7 +324,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Logistics giant D.W. Morgan exposed 100 GB worth of clients’ data, including Fortune 500 Clients<a href="https://securityaffairs.co/wordpress/126086/data-breach/d-w-morgan-data-leak.html"> Full Text</a>

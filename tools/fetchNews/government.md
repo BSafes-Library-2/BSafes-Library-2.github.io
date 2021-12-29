@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+December 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An inside look at how CISA is building an agency for elite cybersecurity talent<a href="https://therecord.media/an-inside-look-at-how-cisa-is-building-an-agency-for-elite-cybersecurity-talent/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kiersten Todt, CISA Chief of Staff, said that one of their key priorities right now is to build out our talented workforce and to really make CISA an elite agency for top-tier talent in cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albania Prime Minister apologizes over the recent massive leak of government data<a href="https://securityaffairs.co/wordpress/126047/data-breach/albania-prime-minister-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Albania’s prime minister Edi Rama apologized for the massive leak of personal records from a government database of state. 
+
+
+
+Albania’s prime minister this week apologized for the massive leak of personal records from a government database of state....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

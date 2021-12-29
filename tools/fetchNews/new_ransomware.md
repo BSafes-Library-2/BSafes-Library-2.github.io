@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Rookie Ransomware Reflects the Characteristics of Babuk<a href="https://cyware.com/news/a-rookie-ransomware-reflects-the-characteristics-of-babuk-16715c68"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware variant, dubbed Rook, that borrows source code from Babuk has surfaced. It is being primarily delivered via fake torrent downloads as well as phishing emails in some cases. At present, its data leak site shows two victims, a bank and an Indian aviation and aerospace specialist. The ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

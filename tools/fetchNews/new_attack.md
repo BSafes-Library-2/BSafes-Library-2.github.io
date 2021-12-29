@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+December 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shutterfly hit by a Conti ransomware attack<a href="https://securityaffairs.co/wordpress/126096/malware/shutterfly-conti-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shutterfly, an online platform for photography and personalized products, has been affected by a ransomware attack.
+
+
+
+Shutterfly, is American&nbsp;photography, photography products, and&nbsp;image sharing&nbsp;company that owns multiple brands such as BorrowLenses,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

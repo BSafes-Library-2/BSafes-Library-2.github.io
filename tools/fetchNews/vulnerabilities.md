@@ -8,6 +8,70 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Flaws Expose EVlink Electric Vehicle Charging Stations to Remote Hacking<a href="https://www.securityweek.com/new-flaws-expose-evlink-electric-vehicle-charging-stations-remote-hacking?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaws have been found to impact EVlink City (EVC1S22P4 and EVC1S7P4), Parking (EVW2, EVF2, and EVP2PE), and Smart Wallbox (EVB1A) devices, as well as some products that have reached end-of-life.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Garrett Walk-Through Metal Detectors Can Be Hacked Remotely<a href="https://thehackernews.com/2021/12/garrett-walk-through-metal-detectors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of security flaws have been uncovered in a networking component in Garrett Metal Detectors that could allow remote attackers to bypass authentication requirements, tamper with metal detector configurations, and even execute arbitrary code on the devices.  "An attacker could manipulate this module to remotely monitor statistics on the metal detector, such as whether the alarm has been triggered or how many visitors have walked through," Cisco Talos &nbsp;noted &nbsp;in a disclosure publicized last week. "They could also make configuration changes, such as altering the sensitivity level of a device, which potentially poses a security risk to users who rely on these metal detectors."  Talos security researcher Matt Wiseman has been credited with discovering and reporting these vulnerabilities on August 17, 2021. Patches have been released by the vendor on December 13, 2021.   The flaws reside in Garrett &nbsp;iC Module , which enables users to communicate to walk-through me
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache addressed a couple of severe vulnerabilities in Apache HTTP Server<a href="https://securityaffairs.co/wordpress/126077/security/apache-http-server-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apache Software Foundation released Apache HTTP Server 2.4.52 to address a couple of security flaws that can lead to remote code execution.
+
+
+
+The Apache Software Foundation has released the Apache HTTP Server 2.4.52 to address a couple of vulnerabilities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaws in myPRO HMI/SCADA product could allow takeover vulnerable systems<a href="https://securityaffairs.co/wordpress/126029/ics-scada/myscada-mypro-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher found a dozen vulnerabilities in mySCADA myPRO product, some of which have been rated as critical.
+
+
+
+ mySCADA myPRO is a multiplatform, human-machine interface (HMI) and supervisory control and data acquisition (SCADA) system that allows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
