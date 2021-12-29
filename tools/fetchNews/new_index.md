@@ -34,7 +34,317 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4j 2.17.1 out now, fixes new remote code execution bug<a href="https://www.bleepingcomputer.com/news/security/log4j-2171-out-now-fixes-new-remote-code-execution-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache has released another Log4j version, 2.17.1 fixing a newly discovered remote code execution (RCE) vulnerability in 2.17.0, tracked as CVE-2021-44832. Prior to today, 2.17.0 was the most recent version of Log4j and deemed the safest release to upgrade to, but that advice has now evolved.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State Workers to Be Paid on Time Despite Ransomware Attack<a href="https://www.securityweek.com/state-workers-be-paid-time-despite-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State government workers in West Virginia will be paid on time this week despite a ransomware attack that affected a software provider that helps manage the state’s payroll system.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Congress zooms in on cybersecurity after banner year of attacks<a href="https://thehill.com//policy/cybersecurity/587165-congress-zooms-in-on-cybersecurity-after-banner-year-of-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The past 12 months stand as a banner year in the severity of cyberattacks that wreaked havoc on organizations large and small. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Detail Logging Tool of DanderSpritz Framework Used by Equation Group Hackers<a href="https://thehackernews.com/2021/12/experts-detail-logging-tool-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have offered a detailed glimpse into a system called DoubleFeature that's dedicated to logging the different stages of post-exploitation stemming from the deployment of DanderSpritz, a full-featured malware framework used by the  Equation Group .  DanderSpritz came to light on April 14, 2017, when a hacking group known as the Shadow Brokers leaked the exploit tool, among others, under a dispatch titled " Lost in Translation ." Also included in the leaks was  EternalBlue , a cyberattack exploit developed by the U.S. National Security Agency (NSA) that enabled threat actors to carry out the  NotPetya ransomware attack  on unpatched Windows computers.   The tool is a modular, stealthy, and fully functional framework that relies on dozens of plugins for post-exploitation activities on Windows and Linux hosts. DoubleFeature is one among them, which functions as a "diagnostic tool for victim machines carrying DanderSpritz," researchers from
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass investigated recent reports of blocked login attempts<a href="https://securityaffairs.co/wordpress/126116/hacking/lastpass-hacking-attempts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password manager app LastPass confirmed that threat actors have launched a credential stuffing attack against its users.
+
+
+
+While LastPass says that it is not aware that some of its accounts were compromised in the recent credential stuffing attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Flagpro malware linked to Chinese state-backed hackers<a href="https://www.bleepingcomputer.com/news/security/new-flagpro-malware-linked-to-chinese-state-backed-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber-espionage APT (advanced persistent threat) group tracked as 'BlackTech' was spotted using a novel malware called 'Flagpro' in attacks against Japanese firms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Abuse MSBuild for Cobalt Strike Beacon Execution<a href="https://www.securityweek.com/threat-actors-abuse-msbuild-cobalt-strike-beacon-execution?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious MSBuild project used by cybercriminals in recent attacks was designed to compile and execute specific C# code that in turn decodes and executes Cobalt Strike.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Washington grapples with how to expand crypto oversight<a href="https://thehill.com//policy/finance/587036-washington-grapples-with-how-to-expand-crypto-oversight"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cryptocurrency explosion has forced Washington to adapt federal financial rules to a quickly growing and changing industry.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are abusing MSBuild to implant Cobalt Strike Beacons<a href="https://securityaffairs.co/wordpress/126104/hacking/msbuild-cobalt-strike-beacons.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of malicious campaigns abusing Microsoft Build Engine (MSBuild) to execute a Cobalt Strike payload on compromised systems. 
+
+
+
+Security expert from Morphus Labs recently observed several malicious campaigns abusing Microsoft Build Engine...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedLine malware shows why passwords shouldn't be saved in browsers<a href="https://www.bleepingcomputer.com/news/security/redline-malware-shows-why-passwords-shouldnt-be-saved-in-browsers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RedLine information-stealing malware targets popular web browsers such as Chrome, Edge, and Opera, demonstrating why storing your passwords in browsers is a bad idea.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Logistics Company Exposes Data of Fortune 500 Clients via Unsecured Storage Bucket<a href="https://www.websiteplanet.com/blog/dwmorgan-leak-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Amazon S3 bucket owned by D.W. Morgan was misconfigured, exposing more than 2.5 million files equating to over 100GB of data. These files relate to D.W. Morgan’s clients and their shipments.
+</details>
+<div style="text-align: right" markdown="1">
+Website Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shutterfly hit by a Conti ransomware attack<a href="https://securityaffairs.co/wordpress/126096/malware/shutterfly-conti-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shutterfly, an online platform for photography and personalized products, has been affected by a ransomware attack.
+
+
+
+Shutterfly, is American photography, photography products, and image sharing company that owns multiple brands such as BorrowLenses,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass users warned their master passwords are compromised<a href="https://www.bleepingcomputer.com/news/security/lastpass-users-warned-their-master-passwords-are-compromised/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many LastPass users report that their master passwords have been compromised after receiving email warnings that someone tried to use them to log into their accounts from unknown locations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Not-so-funny Funeral Scam by Dridex<a href="https://cyware.com/news/not-so-funny-funeral-scam-by-dridex-818858df"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing attack loaded with Dridex malware is faking COVID-19 funeral assistance  and attempts to steal the online banking credentials of individuals.   This is not the first time that cybercriminals have been observed trolling victims with messages. A week ago, cybercriminals were sending fake e ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoubleFeature, post-exploitation dashboard used by Equation Group APT<a href="https://securityaffairs.co/wordpress/126092/apt/doublefeature-equation-group-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers analyzed the DoubleFeature logging tool of DanderSpritz Framework that was used by the Equation Group APT group.
+
+
+
+Check Point researchers have published a detailed analysis of the DoubleFeature tool used to log post-exploitation activities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Riskware Android streaming apps found on Samsung's Galaxy store<a href="https://www.bleepingcomputer.com/news/security/riskware-android-streaming-apps-found-on-samsungs-galaxy-store/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung's official Android app store, called the Galaxy Store, has had an infiltration of riskware apps that triggered multiple Play Protect warnings on people's devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Rookie Ransomware Reflects the Characteristics of Babuk<a href="https://cyware.com/news/a-rookie-ransomware-reflects-the-characteristics-of-babuk-16715c68"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware variant, dubbed Rook, that borrows source code from Babuk has surfaced. It is being primarily delivered via fake torrent downloads as well as phishing emails in some cases. At present, its data leak site shows two victims, a bank and an Indian aviation and aerospace specialist. The ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Logistics giant D.W. Morgan exposed 100 GB worth of clients’ data, including Fortune 500 Clients<a href="https://securityaffairs.co/wordpress/126086/data-breach/d-w-morgan-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Website Planet security team discovered a data breach suffered by the multinational logistics giant D.W. Morgan.
+
+
+
+The Website Planet security team discovered an Amazon S3 bucket owned by logistics giant D.W. Morgan that was left unsecured...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP NAS devices hit in surge of ech0raix ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/qnap-nas-devices-hit-in-surge-of-ech0raix-ransomware-attacks/"> Full Text</a>
@@ -50,7 +360,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Flaws Expose EVlink Electric Vehicle Charging Stations to Remote Hacking<a href="https://www.securityweek.com/new-flaws-expose-evlink-electric-vehicle-charging-stations-remote-hacking?&web_view=true"> Full Text</a>
@@ -66,7 +376,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shutterfly hit by ransomware attack<a href="https://thehill.com//policy/cybersecurity/587397-shutterfly-hit-by-ransomware-attack"> Full Text</a>
@@ -82,7 +392,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Garrett Walk-Through Metal Detectors Can Be Hacked Remotely<a href="https://thehackernews.com/2021/12/garrett-walk-through-metal-detectors.html"> Full Text</a>
@@ -98,7 +408,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new wave of ech0raix ransomware attacks targets QNAP NAS devices<a href="https://securityaffairs.co/wordpress/126081/malware/ech0raix-ransomware-targeting-qnap-nas.html"> Full Text</a>
@@ -118,7 +428,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shutterfly services disrupted by Conti ransomware attack<a href="https://www.bleepingcomputer.com/news/security/shutterfly-services-disrupted-by-conti-ransomware-attack/"> Full Text</a>
@@ -134,7 +444,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Echelon Infostealer Drops in via Telegram<a href="https://cyware.com/news/echelon-infostealer-drops-in-via-telegram-0b5a3d87"> Full Text</a>
@@ -151,7 +461,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PECB Certified Lead Ethical Hacker: Take Your Career to the Next Level<a href="https://thehackernews.com/2021/12/pecb-certified-lead-ethical-hacker-take.html"> Full Text</a>
@@ -167,7 +477,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache addressed a couple of severe vulnerabilities in Apache HTTP Server<a href="https://securityaffairs.co/wordpress/126077/security/apache-http-server-flaws.html"> Full Text</a>
@@ -187,7 +497,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An inside look at how CISA is building an agency for elite cybersecurity talent<a href="https://therecord.media/an-inside-look-at-how-cisa-is-building-an-agency-for-elite-cybersecurity-talent/?&web_view=true"> Full Text</a>
@@ -203,7 +513,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Spider-Man: No Way Home' Pirated Downloads Contain Crypto-Mining Malware<a href="https://thehackernews.com/2021/12/spider-man-no-way-home-pirated.html"> Full Text</a>
@@ -219,7 +529,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found backdoors in a popular Auerswald VoIP appliance<a href="https://securityaffairs.co/wordpress/126069/hacking/auerswald-voip-backdoors.html"> Full Text</a>
@@ -239,7 +549,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to avoid “festive fraud” during the holiday season<a href="https://www.helpnetsecurity.com/2021/12/27/festive-fraud/?&web_view=true"> Full Text</a>
@@ -255,7 +565,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android Malware Targeting Brazil's Itaú Unibanco Bank Customers<a href="https://thehackernews.com/2021/12/new-android-malware-targeting-brazils_27.html"> Full Text</a>
@@ -271,7 +581,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts monitor ongoing attacks using exploits for Log4j library flaws<a href="https://securityaffairs.co/wordpress/126062/hacking/log4j-ongoing-attacks.html"> Full Text</a>
@@ -291,7 +601,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Manufacturers of IT devices should step up when it comes to security<a href="https://www.helpnetsecurity.com/2021/12/27/secure-iot-devices/?&web_view=true"> Full Text</a>
@@ -307,7 +617,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark web marketplace ToRReZ shuts down on their own’s decision<a href="https://securityaffairs.co/wordpress/126052/cyber-crime/torrez-marketplace-shut-down.html"> Full Text</a>
@@ -327,7 +637,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Blister Campaign Stealthily Targets Windows<a href="https://cyware.com/news/new-blister-campaign-stealthily-targets-windows-c9297496"> Full Text</a>
@@ -344,7 +654,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Albania Prime Minister apologizes over the recent massive leak of government data<a href="https://securityaffairs.co/wordpress/126047/data-breach/albania-prime-minister-data-leak.html"> Full Text</a>
@@ -364,7 +674,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Web app attacks are skyrocketing, it’s time to protect APIs<a href="https://www.helpnetsecurity.com/2021/12/27/web-app-attacks-increased/?&web_view=true"> Full Text</a>
@@ -380,7 +690,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android banking Malware targets Brazil’s Itaú Unibanco Bank<a href="https://securityaffairs.co/wordpress/126040/malware/android-banking-malware-brazil.html"> Full Text</a>
@@ -400,7 +710,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bluetooth reboot of pre-school play phone has privacy flaw<a href="https://www.theregister.com/2021/12/23/fisher_prices_bluetooth_reboot_of/?&web_view=true"> Full Text</a>
@@ -416,7 +726,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical flaws in myPRO HMI/SCADA product could allow takeover vulnerable systems<a href="https://securityaffairs.co/wordpress/126029/ics-scada/myscada-mypro-flaws.html"> Full Text</a>
@@ -436,7 +746,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 27, 2021
+December 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AvosLocker Ransomware Surprises with New Tactics<a href="https://cyware.com/news/avoslocker-ransomware-surprises-with-new-tactics-5c329cce"> Full Text</a>
