@@ -8,6 +8,21 @@ nav_order: 900072
 
 ## General
 ---
+December 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Trends that Shaped the Cybersecurity Threat Landscape in 2021<a href="https://cyware.com/news/top-trends-that-shaped-the-cybersecurity-threat-landscape-in-2021-5db1d66c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As companies rushed to adapt to pandemic-inspired changes in 2021, cybercriminals found new ways to capitalize on remote and hybrid models and wreak havoc. Threat actors became faster than ever as around 648 cyberattacks were observed every minute. With a variety of malware and attack techniques at ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

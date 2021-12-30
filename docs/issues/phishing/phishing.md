@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Silent danger: One in five aged domains is malicious, risky, or unsafe<a href="https://www.bleepingcomputer.com/news/security/silent-danger-one-in-five-aged-domains-is-malicious-risky-or-unsafe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of malicious dormant domains is on the rise,&nbsp;and as researchers warn, roughly 22.3% of strategically aged domains pose some form of danger.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

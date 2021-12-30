@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Advisory: E-commerce Bots Use Domain Registration Services for Mass Account Fraud<a href="https://threatpost.com/ecommerce-bots-domain-registration-account-fraud/177305/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jason Kent, hacker-in-residence at Cequence Security, discusses sneaky shopping bot tactics (i.e., domain parking) seen in a mass campaign, and what retail security teams can do about them.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Storage Devices of Major Vendors Impacted by Encryption Software Flaws<a href="https://www.securityweek.com/storage-devices-major-vendors-impacted-encryption-software-flaws?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher Sylvain Pelissier has discovered that a crucial SanDisk software is affected by a couple of key derivation function issues that can allow an attacker to obtain user passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender Log4j scanner triggers false positive alerts<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-log4j-scanner-triggers-false-positive-alerts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Defender for Endpoint is currently showing "sensor tampering" alerts&nbsp;linked to the company's newly deployed Microsoft 365 Defender scanner for Log4j processes.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Apache Log4j Update Released to Patch Newly Discovered Vulnerability<a href="https://thehackernews.com/2021/12/new-apache-log4j-update-released-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apache Software Foundation (ASF) on Tuesday rolled out fresh patches to contain an arbitrary code execution flaw in Log4j that could be abused by threat actors to run malicious code on affected systems, making it the fifth security shortcoming to be discovered in the tool in the span of a month.  Tracked as&nbsp; CVE-2021-44832 , the vulnerability is rated 6.6 in severity on a scale of 10 and impacts all versions of the logging library from 2.0-alpha7 to 2.17.0 with the exception of 2.3.2 and 2.12.4. While Log4j versions 1.x are not affected, users are recommended to upgrade to Log4j 2.3.2 (for Java 6), 2.12.4 (for Java 7), or 2.17.1 (for Java 8 and later).  "Apache Log4j2 versions 2.0-beta7 through 2.17.0 (excluding security fix releases 2.3.2 and 2.12.4) are vulnerable to a remote code execution (RCE) attack where an attacker with permission to modify the logging configuration file can construct a malicious configuration using a JDBC Appender with a data source referencing a JND
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

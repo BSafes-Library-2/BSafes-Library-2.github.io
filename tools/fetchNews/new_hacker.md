@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Uses Novel HP iLO Rootkit to Wipe Servers<a href="https://therecord.media/threat-actor-uses-hp-ilo-rootkit-to-wipe-servers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian cybersecurity firm said it discovered a novel rootkit that hides inside the firmware of HP iLO devices and which has been used in real-world attacks to wipe servers of Iranian entities.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4j 2.17.1 out now, fixes new remote code execution bug<a href="https://www.bleepingcomputer.com/news/security/log4j-2171-out-now-fixes-new-remote-code-execution-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache has released another Log4j version, 2.17.1 fixing a newly discovered remote code execution (RCE) vulnerability in 2.17.0, tracked as CVE-2021-44832. Prior to today, 2.17.0 was the most recent version of Log4j and deemed the safest release to upgrade to, but that advice has now evolved.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

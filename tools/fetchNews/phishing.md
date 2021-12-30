@@ -8,6 +8,21 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Not-so-funny Funeral Scam by Dridex<a href="https://cyware.com/news/not-so-funny-funeral-scam-by-dridex-818858df"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing attack loaded with Dridex malware is faking COVID-19 funeral assistance  and attempts to steal the online banking credentials of individuals.   This is not the first time that cybercriminals have been observed trolling victims with messages. A week ago, cybercriminals were sending fake e ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

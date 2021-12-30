@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Washington grapples with how to expand crypto oversight<a href="https://thehill.com//policy/finance/587036-washington-grapples-with-how-to-expand-crypto-oversight"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cryptocurrency explosion has forced Washington to adapt federal financial rules to a quickly growing and changing industry.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

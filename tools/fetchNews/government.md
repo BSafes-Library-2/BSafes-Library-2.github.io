@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+December 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State Workers to Be Paid on Time Despite Ransomware Attack<a href="https://www.securityweek.com/state-workers-be-paid-time-despite-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State government workers in West Virginia will be paid on time this week despite a ransomware attack that affected a software provider that helps manage the state’s payroll system.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Congress zooms in on cybersecurity after banner year of attacks<a href="https://thehill.com//policy/cybersecurity/587165-congress-zooms-in-on-cybersecurity-after-banner-year-of-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The past 12 months stand as a banner year in the severity of cyberattacks that wreaked havoc on organizations large and small.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

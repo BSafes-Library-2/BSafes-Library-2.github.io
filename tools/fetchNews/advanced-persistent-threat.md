@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoubleFeature, post-exploitation dashboard used by Equation Group APT<a href="https://securityaffairs.co/wordpress/126092/apt/doublefeature-equation-group-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers analyzed the DoubleFeature logging tool of DanderSpritz Framework that was used by the Equation Group APT group.
+
+
+
+Check Point researchers have published a detailed analysis of the DoubleFeature tool used to log post-exploitation activities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

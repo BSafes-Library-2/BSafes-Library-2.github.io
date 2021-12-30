@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Detail Logging Tool of DanderSpritz Framework Used by Equation Group Hackers<a href="https://thehackernews.com/2021/12/experts-detail-logging-tool-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have offered a detailed glimpse into a system called DoubleFeature that's dedicated to logging the different stages of post-exploitation stemming from the deployment of DanderSpritz, a full-featured malware framework used by the&nbsp; Equation Group .  DanderSpritz came to light on April 14, 2017, when a hacking group known as the Shadow Brokers leaked the exploit tool, among others, under a dispatch titled " Lost in Translation ." Also included in the leaks was&nbsp; EternalBlue , a cyberattack exploit developed by the U.S. National Security Agency (NSA) that enabled threat actors to carry out the&nbsp; NotPetya ransomware attack &nbsp;on unpatched Windows computers.   The tool is a modular, stealthy, and fully functional framework that relies on dozens of plugins for post-exploitation activities on Windows and Linux hosts. DoubleFeature is one among them, which functions as a "diagnostic tool for victim machines carrying DanderSpritz," researchers from
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Flagpro malware linked to Chinese state-backed hackers<a href="https://www.bleepingcomputer.com/news/security/new-flagpro-malware-linked-to-chinese-state-backed-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber-espionage APT (advanced persistent threat) group tracked as 'BlackTech' was spotted using a novel malware called 'Flagpro' in attacks against Japanese firms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Abuse MSBuild for Cobalt Strike Beacon Execution<a href="https://www.securityweek.com/threat-actors-abuse-msbuild-cobalt-strike-beacon-execution?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious MSBuild project used by cybercriminals in recent attacks was designed to compile and execute specific C# code that in turn decodes and executes Cobalt Strike.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

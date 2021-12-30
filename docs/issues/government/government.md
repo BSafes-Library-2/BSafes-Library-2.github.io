@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian authorities set to tighten data breach laws in 2022<a href="https://portswigger.net/daily-swig/indian-authorities-set-to-tighten-data-breach-laws-in-2022?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations will reportedly be forced to disclose data breaches within 72 hours, bringing India in line with territories such as the EU, which mandates breach disclosures under its GDPR regulations.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

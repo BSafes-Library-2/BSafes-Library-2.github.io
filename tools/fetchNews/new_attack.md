@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fintech firm hit by Log4j hack refuses to pay $5 million ransom<a href="https://www.bleepingcomputer.com/news/security/fintech-firm-hit-by-log4j-hack-refuses-to-pay-5-million-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the largest Vietnamese&nbsp;crypto&nbsp;trading platforms,&nbsp;ONUS,&nbsp;recently suffered a cyber attack on its payment system running a vulnerable Log4j version. Soon enough,&nbsp;threat actors approached ONUS to extort&nbsp;$5 million and threatened&nbsp;to publish customer data should ONUS refuse to comply.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
