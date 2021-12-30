@@ -34,7 +34,248 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Silent danger: One in five aged domains is malicious, risky, or unsafe<a href="https://www.bleepingcomputer.com/news/security/silent-danger-one-in-five-aged-domains-is-malicious-risky-or-unsafe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of malicious dormant domains is on the rise, and as researchers warn, roughly 22.3% of strategically aged domains pose some form of danger.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian authorities set to tighten data breach laws in 2022<a href="https://portswigger.net/daily-swig/indian-authorities-set-to-tighten-data-breach-laws-in-2022?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations will reportedly be forced to disclose data breaches within 72 hours, bringing India in line with territories such as the EU, which mandates breach disclosures under its GDPR regulations.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber agency warns of increased threats to manufacturing groups during pandemic<a href="https://thehill.com//policy/cybersecurity/587627-cyber-agency-warns-of-increased-threats-to-manufacturing-groups-during"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Manufacturing organizations are at higher risk of being targeted by hackers during the COVID-19 pandemic, the nation’s key cybersecurity agency warned Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Autom Cryptomining Malware Attacks Using Upgraded Evasion Tactics<a href="https://thehackernews.com/2021/12/ongoing-autom-cryptomining-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing crypto mining campaign has upgraded its arsenal while adding new defense evasion tactics that enable the threat actors to conceal the intrusions and fly under the radar, new research published today has revealed.  Since first detected in 2019, a total of 84 attacks against its honeypot servers have been recorded to date, four of which transpired in 2021, according to researchers from DevSecOps and cloud security firm Aqua Security, who have been tracking the malware operation for the past three years. That said, 125 attacks have been spotted in the wild in the third quarter of 2021 alone, signaling that the attacks have not slowed down.  Initial attacks involved executing a malicious command upon running a vanilla image named "alpine:latest" that resulted in the download of a shell script named "autom.sh."  "Adversaries commonly use vanilla images along with malicious commands to perform their attacks, because most organizations trust the official i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Advisory: E-commerce Bots Use Domain Registration Services for Mass Account Fraud<a href="https://threatpost.com/ecommerce-bots-domain-registration-account-fraud/177305/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jason Kent, hacker-in-residence at Cequence Security, discusses sneaky shopping bot tactics (i.e., domain parking) seen in a mass campaign, and what retail security teams can do about them.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang coughs up decryptor after realizing they hit the police<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-coughs-up-decryptor-after-realizing-they-hit-the-police/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AvosLocker ransomware operation provided a free decryptor after learning they encrypted a US government agency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another T-Mobile cyberattack reportedly exposed customer info and SIMs<a href="https://www.theverge.com/2021/12/28/22857619/t-mobile-cyberattack-data-breach-december-2021-cpni-sim-swap?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the report, customers either fell victim to a SIM swapping attack (which could allow someone to bypass SMS-based 2FA), had personal plan information exposed, or both.
+</details>
+<div style="text-align: right" markdown="1">
+The Verge
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile says new data breach caused by SIM swap attacks<a href="https://www.bleepingcomputer.com/news/security/t-mobile-says-new-data-breach-caused-by-sim-swap-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile confirmed that recent reports of a new data breach are linked to notifications sent to a "very small number of customers" that they fell victim to SIM swap attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Storage Devices of Major Vendors Impacted by Encryption Software Flaws<a href="https://www.securityweek.com/storage-devices-major-vendors-impacted-encryption-software-flaws?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher Sylvain Pelissier has discovered that a crucial SanDisk software is affected by a couple of key derivation function issues that can allow an attacker to obtain user passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender Log4j scanner triggers false positive alerts<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-log4j-scanner-triggers-false-positive-alerts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Defender for Endpoint is currently showing "sensor tampering" alerts linked to the company's newly deployed Microsoft 365 Defender scanner for Log4j processes.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Uses Novel HP iLO Rootkit to Wipe Servers<a href="https://therecord.media/threat-actor-uses-hp-ilo-rootkit-to-wipe-servers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian cybersecurity firm said it discovered a novel rootkit that hides inside the firmware of HP iLO devices and which has been used in real-world attacks to wipe servers of Iranian entities.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fintech firm hit by Log4j hack refuses to pay $5 million ransom<a href="https://www.bleepingcomputer.com/news/security/fintech-firm-hit-by-log4j-hack-refuses-to-pay-5-million-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the largest Vietnamese crypto trading platforms, ONUS, recently suffered a cyber attack on its payment system running a vulnerable Log4j version. Soon enough, threat actors approached ONUS to extort $5 million and threatened to publish customer data should ONUS refuse to comply.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Trends that Shaped the Cybersecurity Threat Landscape in 2021<a href="https://cyware.com/news/top-trends-that-shaped-the-cybersecurity-threat-landscape-in-2021-5db1d66c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As companies rushed to adapt to pandemic-inspired changes in 2021, cybercriminals found new ways to capitalize on remote and hybrid models and wreak havoc. Threat actors became faster than ever as around 648 cyberattacks were observed every minute. With a variety of malware and attack techniques at ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Apache Log4j Update Released to Patch Newly Discovered Vulnerability<a href="https://thehackernews.com/2021/12/new-apache-log4j-update-released-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apache Software Foundation (ASF) on Tuesday rolled out fresh patches to contain an arbitrary code execution flaw in Log4j that could be abused by threat actors to run malicious code on affected systems, making it the fifth security shortcoming to be discovered in the tool in the span of a month.  Tracked as  CVE-2021-44832 , the vulnerability is rated 6.6 in severity on a scale of 10 and impacts all versions of the logging library from 2.0-alpha7 to 2.17.0 with the exception of 2.3.2 and 2.12.4. While Log4j versions 1.x are not affected, users are recommended to upgrade to Log4j 2.3.2 (for Java 6), 2.12.4 (for Java 7), or 2.17.1 (for Java 8 and later).  "Apache Log4j2 versions 2.0-beta7 through 2.17.0 (excluding security fix releases 2.3.2 and 2.12.4) are vulnerable to a remote code execution (RCE) attack where an attacker with permission to modify the logging configuration file can construct a malicious configuration using a JDBC Appender with a data source referencing a JND
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+That Toy You Got for Christmas Could Be Spying on You<a href="https://threatpost.com/toy-christmas-spying/177288/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security flaws in the recently released Fisher-Price Chatter Bluetooth telephone can allow nearby attackers to spy on calls or communicate with children using the device.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Log4j 2.17.1 out now, fixes new remote code execution bug<a href="https://www.bleepingcomputer.com/news/security/log4j-2171-out-now-fixes-new-remote-code-execution-bug/"> Full Text</a>
@@ -50,7 +291,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State Workers to Be Paid on Time Despite Ransomware Attack<a href="https://www.securityweek.com/state-workers-be-paid-time-despite-ransomware-attack?&web_view=true"> Full Text</a>
@@ -66,7 +307,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Congress zooms in on cybersecurity after banner year of attacks<a href="https://thehill.com//policy/cybersecurity/587165-congress-zooms-in-on-cybersecurity-after-banner-year-of-attacks"> Full Text</a>
@@ -82,7 +323,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Detail Logging Tool of DanderSpritz Framework Used by Equation Group Hackers<a href="https://thehackernews.com/2021/12/experts-detail-logging-tool-of.html"> Full Text</a>
@@ -98,7 +339,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LastPass investigated recent reports of blocked login attempts<a href="https://securityaffairs.co/wordpress/126116/hacking/lastpass-hacking-attempts.html"> Full Text</a>
@@ -118,7 +359,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Flagpro malware linked to Chinese state-backed hackers<a href="https://www.bleepingcomputer.com/news/security/new-flagpro-malware-linked-to-chinese-state-backed-hackers/"> Full Text</a>
@@ -134,7 +375,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Abuse MSBuild for Cobalt Strike Beacon Execution<a href="https://www.securityweek.com/threat-actors-abuse-msbuild-cobalt-strike-beacon-execution?&web_view=true"> Full Text</a>
@@ -150,7 +391,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Washington grapples with how to expand crypto oversight<a href="https://thehill.com//policy/finance/587036-washington-grapples-with-how-to-expand-crypto-oversight"> Full Text</a>
@@ -166,7 +407,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors are abusing MSBuild to implant Cobalt Strike Beacons<a href="https://securityaffairs.co/wordpress/126104/hacking/msbuild-cobalt-strike-beacons.html"> Full Text</a>
@@ -186,7 +427,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedLine malware shows why passwords shouldn't be saved in browsers<a href="https://www.bleepingcomputer.com/news/security/redline-malware-shows-why-passwords-shouldnt-be-saved-in-browsers/"> Full Text</a>
@@ -202,7 +443,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Logistics Company Exposes Data of Fortune 500 Clients via Unsecured Storage Bucket<a href="https://www.websiteplanet.com/blog/dwmorgan-leak-report/?&web_view=true"> Full Text</a>
@@ -218,7 +459,7 @@ Website Planet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shutterfly hit by a Conti ransomware attack<a href="https://securityaffairs.co/wordpress/126096/malware/shutterfly-conti-ransomware.html"> Full Text</a>
@@ -238,7 +479,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LastPass users warned their master passwords are compromised<a href="https://www.bleepingcomputer.com/news/security/lastpass-users-warned-their-master-passwords-are-compromised/"> Full Text</a>
@@ -254,7 +495,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Not-so-funny Funeral Scam by Dridex<a href="https://cyware.com/news/not-so-funny-funeral-scam-by-dridex-818858df"> Full Text</a>
@@ -271,7 +512,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoubleFeature, post-exploitation dashboard used by Equation Group APT<a href="https://securityaffairs.co/wordpress/126092/apt/doublefeature-equation-group-apt.html"> Full Text</a>
@@ -291,7 +532,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Riskware Android streaming apps found on Samsung's Galaxy store<a href="https://www.bleepingcomputer.com/news/security/riskware-android-streaming-apps-found-on-samsungs-galaxy-store/"> Full Text</a>
@@ -307,7 +548,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Rookie Ransomware Reflects the Characteristics of Babuk<a href="https://cyware.com/news/a-rookie-ransomware-reflects-the-characteristics-of-babuk-16715c68"> Full Text</a>
@@ -324,7 +565,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2021
+December 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Logistics giant D.W. Morgan exposed 100 GB worth of clients’ data, including Fortune 500 Clients<a href="https://securityaffairs.co/wordpress/126086/data-breach/d-w-morgan-data-leak.html"> Full Text</a>
