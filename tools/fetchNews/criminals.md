@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang coughs up decryptor after realizing they hit the police<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-coughs-up-decryptor-after-realizing-they-hit-the-police/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AvosLocker ransomware operation provided a free decryptor after learning they encrypted a US government agency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

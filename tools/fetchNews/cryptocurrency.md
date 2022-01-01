@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Autom Cryptomining Malware Attacks Using Upgraded Evasion Tactics<a href="https://thehackernews.com/2021/12/ongoing-autom-cryptomining-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing crypto mining campaign has upgraded its arsenal while adding new defense evasion tactics that enable the threat actors to conceal the intrusions and fly under the radar, new research published today has revealed.  Since first detected in 2019, a total of 84 attacks against its honeypot servers have been recorded to date, four of which transpired in 2021, according to researchers from DevSecOps and cloud security firm Aqua Security, who have been tracking the malware operation for the past three years. That said, 125 attacks have been spotted in the wild in the third quarter of 2021 alone, signaling that the attacks have not slowed down.  Initial attacks involved executing a malicious command upon running a vanilla image named "alpine:latest" that resulted in the download of a shell script named "autom.sh."  "Adversaries commonly use vanilla images along with malicious commands to perform their attacks, because most organizations trust the official i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+December 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another T-Mobile cyberattack reportedly exposed customer info and SIMs<a href="https://www.theverge.com/2021/12/28/22857619/t-mobile-cyberattack-data-breach-december-2021-cpni-sim-swap?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the report, customers either fell victim to a SIM swapping attack (which could allow someone to bypass SMS-based 2FA), had personal plan information exposed, or both.
+</details>
+<div style="text-align: right" markdown="1">
+The Verge
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile says new data breach caused by SIM swap attacks<a href="https://www.bleepingcomputer.com/news/security/t-mobile-says-new-data-breach-caused-by-sim-swap-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile confirmed that recent reports of a new data breach are linked to notifications sent to a "very small number of customers" that they fell victim to SIM swap attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

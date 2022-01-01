@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+December 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber agency warns of increased threats to manufacturing groups during pandemic<a href="https://thehill.com//policy/cybersecurity/587627-cyber-agency-warns-of-increased-threats-to-manufacturing-groups-during"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Manufacturing organizations are at higher risk of being targeted by hackers during the COVID-19 pandemic, the nation’s key cybersecurity agency warned Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
