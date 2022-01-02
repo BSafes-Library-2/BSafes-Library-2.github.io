@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hacker Group Uses Log4j Exploit to Target Academic Institution<a href="https://www.cyberscoop.com/chinese-hackers-use-log4j-exploit-to-go-after-academic-institution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese hacker group known for industrial espionage and intelligence collection used a vulnerability in Log4j to go after a large academic institution, researchers at CrowdStrike revealed Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

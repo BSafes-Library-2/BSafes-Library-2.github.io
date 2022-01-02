@@ -8,6 +8,148 @@ nav_order: 900029
 
 ## Breach
 ---
+January 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Q&amp;A app Curious Cat loses domain, posts bizarre tweets<a href="https://www.bleepingcomputer.com/news/security/popular-qanda-app-curious-cat-loses-domain-posts-bizarre-tweets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular social networking and anonymous Q&amp;A app, Curious Cat has lost control of its domain. Soon after the platform announced&nbsp;losing&nbsp;control of their domain,&nbsp;a series of bizarre events and support responses have confused the app users who are now unable to trust Curious Cat.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PulseTV discloses potential credit card breach<a href="https://securityaffairs.co/wordpress/126193/data-breach/pulsetv-credit-cards-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. online store PulseTV disclosed a potential credit card data breach, more than 200,000 customers have been impacted. 
+
+
+
+U.S. online store PulseTV has disclosed a credit card data breach that has impacted more than 200,000 customers.
+
+
+
+According...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Confusing data breach in Rhode Island leads to AG investigation<a href="https://www.zdnet.com/article/rhode-island-attorney-general-opening-investigation-into-transit-authority-after-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earlier this week, the ACLU of Rhode Island asked RIPTA to explain why the personal information of people with no connection to the agency was included in the data breach.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PulseTV discloses potential compromise of 200,000 credit cards<a href="https://www.bleepingcomputer.com/news/security/pulsetv-discloses-potential-compromise-of-200-000-credit-cards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PulseTV (pulsetv.com), an American e-store that uses TV as a medium to reach customers, has disclosed a large-scale customer credit card compromise.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Have I Been Pwned service now includes 441K accounts stolen by RedLine malware<a href="https://securityaffairs.co/wordpress/126186/malware/redline-malware-hibp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Have I Been Pwned data breach notification service now includes credentials for 441K accounts that were stolen by RedLine malware.
+
+
+
+The Have I Been Pwned data breach notification service now allows victims of the RedLine malware to check if their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 10 healthcare breaches in the U.S. exposed data of 19 million<a href="https://www.bleepingcomputer.com/news/security/top-10-healthcare-breaches-in-the-us-exposed-data-of-19-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The healthcare sector has been the target of hundreds of cyberattacks this year. A tally of public data breach reports so far shows that tens of millions of healthcare records have been exposed to unauthorized parties.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Have I Been Pwned adds 441K accounts stolen by RedLine malware<a href="https://www.bleepingcomputer.com/news/security/have-i-been-pwned-adds-441k-accounts-stolen-by-redline-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Have I Been Pwned data breach notification service now lets you check if your email and password are one of 441,000 accounts stolen in an information-stealing campaign using RedLine malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University loses 77TB of research data due to backup error<a href="https://www.bleepingcomputer.com/news/security/university-loses-77tb-of-research-data-due-to-backup-error/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Kyoto University in Japan has lost about 77TB of research data due to an error in the backup system of its Hewlett-Packard&nbsp;supercomputer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile suffered a new data breach<a href="https://securityaffairs.co/wordpress/126140/cyber-crime/t-mobile-suffered-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile discloses a new data breach that impacted a "very small number of customers" who were victim of SIM swap attacks. 
+
+
+
+T-Mobile has suffered another security breach, threat actors gained access to the accounts of “a small number of” customers.’...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

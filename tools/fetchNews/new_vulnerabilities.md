@@ -8,6 +8,102 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple flaws in Netgear Nighthawk R6700v3 router are still unpatched<a href="https://securityaffairs.co/wordpress/126179/hacking/netgear-nighthawk-r6700v3-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered multiple high-risk vulnerabilities affecting the latest firmware version for the Netgear Nighthawk R6700v3 router. 
+
+
+
+Researchers from Tenable have discovered multiple vulnerabilities in the latest firmware version (version 1.0.4.120)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear leaves vulnerabilities unpatched in Nighthawk router<a href="https://www.bleepingcomputer.com/news/security/netgear-leaves-vulnerabilities-unpatched-in-nighthawk-router/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have found half a dozen high-risk vulnerabilities in the latest firmware version for the Netgear Nighthawk R6700v3 router. At publishing time the flaws remain unpatched.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in DataVault encryption software impact multiple storage devices<a href="https://securityaffairs.co/wordpress/126166/hacking/datavault-encryption-software-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found several vulnerabilities in third-party encryption software that is used by multiple storage devices from major vendors.
+
+
+
+Researcher Sylvain Pelissier has discovered that the DataVault encryption software made by ENC Security and used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firmware attack can drop persistent malware in hidden SSD area<a href="https://www.bleepingcomputer.com/news/security/firmware-attack-can-drop-persistent-malware-in-hidden-ssd-area/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Korean researchers have developed a set of attacks against some solid-state drives (SSDs) that could allow planting malware in a location that's beyond the reach of the user and security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Silent danger: One in five aged domains is malicious, risky, or unsafe<a href="https://www.bleepingcomputer.com/news/security/silent-danger-one-in-five-aged-domains-is-malicious-risky-or-unsafe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of malicious dormant domains is on the rise,&nbsp;and as researchers warn, roughly 22.3% of strategically aged domains pose some form of danger.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Log4j 2.17.1 fixes new remote code execution flaw (CVE-2021-44832)<a href="https://securityaffairs.co/wordpress/126135/hacking/new-apache-log4j-cve-2021-44832.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apache Software Foundation released Log4j 2.17.1 version to address recently discovered arbitrary code execution flaw tracked as CVE-2021-44832.
+
+
+
+The Apache Software Foundation released Log4j 2.17.1 version to address a recently discovered arbitrary...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

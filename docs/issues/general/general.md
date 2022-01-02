@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+December 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Tech's big year<a href="https://thehill.com//policy/technology/overnights/587780-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Thursday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What the Rise in Cyber-Recon Means for Your Security Strategy<a href="https://threatpost.com/rise-cyber-recon-security-strategy/177317/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Expect many more zero-day exploits in 2022, and cyberattacks using them being launched at a significantly higher rate, warns Aamir Lakhani, researcher at FortiGuard Labs. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Cyber Due Diligence Is Essential to the M&amp;A Process<a href="https://www.darkreading.com/vulnerabilities-threats/why-cyber-due-diligence-is-essential-to-the-m-a-process?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+M&amp;A creates a period of transition, where new ownership and management teams are coming into or out of their roles. This transitional phase presents a perfect opportunity for cybercriminals to attack.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+It’s time for a unified approach to securing data, applications, and the edge<a href="https://www.helpnetsecurity.com/2021/12/30/data-applications-edge-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations usually manage the security of data, applications, and edge computing from disparate technologies and across different teams. This traditional approach may prove ineffective in future.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2021 Wants Another Chance (A Lighter-Side Year in Review)<a href="https://threatpost.com/2021-log4j-year-review-funny-cybersecurity/177215/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The year wasn’t ALL bad news. These sometimes cringe-worthy/sometimes laughable cybersecurity and other technology stories offer schadenfreude and WTF opportunities, and some giggles.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

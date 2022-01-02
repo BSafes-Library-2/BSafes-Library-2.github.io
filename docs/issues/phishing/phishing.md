@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter account of FBI's fake chat app, ANOM seen trolling today<a href="https://www.bleepingcomputer.com/news/security/twitter-account-of-fbis-fake-chat-app-anom-seen-trolling-today/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Twitter account previously associated with the&nbsp;ANOM&nbsp;chat app is posting frivolous tweets this week. ANOM was a fake&nbsp;encrypted messaging platform created as part of a global sting operation led by the U.S. FBI, Australian Federal Police (AFP),&nbsp;and other law enforcement agencies to catch criminals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

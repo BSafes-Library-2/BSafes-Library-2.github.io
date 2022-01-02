@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Hackers Used Log4Shell Exploit to Target Academic Institution<a href="https://thehackernews.com/2021/12/chinese-apt-hackers-used-log4shell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A never-before-seen China-based targeted intrusion adversary dubbed Aquatic Panda has been observed leveraging&nbsp; critical flaws &nbsp;in the Apache Log4j logging library as an access vector to perform various post-exploitation operations, including reconnaissance and credential harvesting on targeted systems.  Cybersecurity firm CrowdStrike said the infiltration, which was ultimately foiled, was aimed at an unnamed "large academic institution." The state-sponsored group is believed to have been operating since mid-2020 in pursuit of intelligence collection and industrial espionage, with its attacks primarily directed against companies in the telecommunications, technology, and government sectors.   The attempted intrusion exploited the newly discovered&nbsp; Log4Shell &nbsp;flaw (CVE-2021-44228, CVSS score: 10.0) to gain access to a vulnerable instance of the&nbsp; VMware Horizon &nbsp;desktop and app virtualization product, followed by running a series of malicious commands orchestrated to fetch thr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT group Aquatic Panda leverages Log4Shell in recent attack<a href="https://securityaffairs.co/wordpress/126148/apt/aquatic-panda-log4j.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT group Aquatic Panda is exploiting the Log4Shell vulnerability to compromise a large academic institution.
+
+
+
+China-linked cyberespionage group Aquatic Panda was spotted exploiting the Log4Shell vulnerability (CVE 2021-44228) in an attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

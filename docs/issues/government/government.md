@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+President enacts Ukraine’s Information Security Strategy<a href="https://www.ukrinform.net/rubric-polytics/3376991-president-enacts-ukraines-information-security-strategy.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amid extreme concerns of cyber warfare from Russia, Ukraine’s President Volodymyr Zelensky announced the launch of a new information security strategy policy that came into effect earlier this week.
+</details>
+<div style="text-align: right" markdown="1">
+Ukrinform
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
