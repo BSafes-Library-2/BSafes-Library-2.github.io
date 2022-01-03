@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AvosLocker ransomware gang releases a free decryptor after an affiliate hit US gov agency<a href="https://securityaffairs.co/wordpress/126154/cyber-crime/avoslocker-ransomware-gang-free-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AvosLocker ransomware operators released a free decryptor after they accidentally encrypted the system of US Government entity.
+
+
+
+The AvosLocker ransomware operation provided a free decryptor after they encrypted the systems of a US government agency.
+
+
+
+
+https://twitter.com/pancak3lullz/status/1476217440442925057
+
+
+
+
+According...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

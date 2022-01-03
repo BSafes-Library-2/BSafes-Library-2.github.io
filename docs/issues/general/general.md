@@ -8,6 +8,60 @@ nav_order: 900072
 
 ## General
 ---
+January 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BleepingComputer's most popular cybersecurity and tech stories of 2021<a href="https://www.bleepingcomputer.com/news/technology/bleepingcomputers-most-popular-cybersecurity-and-tech-stories-of-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​2021 is over, and we can look forward to a hopefully healthier, safer, and more normal 2022. However, it was a big year for technology and cybersecurity with massive cyberattacks and data breaches, innovative phishing attacks, privacy concerns, and of course, zero-day vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 347<a href="https://securityaffairs.co/wordpress/126213/breaking-news/security-affairs-newsletter-round-347.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs most-read cyber stories of 2021<a href="https://securityaffairs.co/wordpress/126198/breaking-news/security-affairs-most-read-cyber-stories-of-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Which are the most-read cyber stories of 2021? This post includes Top Posts for the last 365 days.
+
+
+
+Why Edward Snowden is urging users to stop using ExpressVPN?
+
+
+
+The popular whistleblower Edward Snowden recommends customers of ExpressVPN VPN service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

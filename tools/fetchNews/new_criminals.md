@@ -8,6 +8,42 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ ransomware gang hits Impresa, Portugal’s largest media conglomerate<a href="https://securityaffairs.co/wordpress/126236/cyber-crime/impresa-lapsus-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ ransomware hit Impresa, the largest media conglomerate in Portugal and the owner of SIC and Expresso. 
+
+
+
+The Lapsus$ ransomware gang has compromised the infrastructure of Impresa, the largest media conglomerate in Portugal. Impresa owns...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked threat actors stole $1.7 billion from cryptocurrency exchanges<a href="https://securityaffairs.co/wordpress/126225/apt/north-korea-cryptocurrency-exchanges-hacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked threat actors are behind some of the largest cyberattacks against cryptocurrency exchanges.
+
+
+
+North Korea-linked APT groups are suspected to be behind some of the largest cyberattacks against cryptocurrency exchanges. According to South...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
