@@ -34,6 +34,364 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Purple Fox malware distributed via malicious Telegram installers<a href="https://www.bleepingcomputer.com/news/security/purple-fox-malware-distributed-via-malicious-telegram-installers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A laced Telegram for desktop installer was spotted distributing the Purple Fox malware while disabling the UAC on the infected systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedLine Malware Pilfer Passwords Saved in Multiple Browsers<a href="https://cyware.com/news/redline-malware-pilfer-passwords-saved-in-multiple-browsers-20a370e4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RedLine information stealer was found targeting popular web browsers such as Edge, Opera, Whale, and Chrome and extracting passwords saved in these.  The stealer is a commodity malware that can be purchased at an affordable price of just $200 on cybercrime forums. U sers are recommended to use a th ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Detecting Evasive Malware on IoT Devices Using Electromagnetic Emanations<a href="https://thehackernews.com/2022/01/detecting-evasive-malware-on-iot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have proposed a novel approach that leverages electromagnetic field emanations from the Internet of Things (IoT) devices as a side-channel to glean precise knowledge about the different kinds of malware targeting the embedded systems, even in scenarios where obfuscation techniques have been applied to hinder analysis.  With the rapid adoption of IoT appliances presenting an attractive attack surface for threat actors, in part due to them being equipped with higher processing power and capable of running fully functional operating systems, the latest research aims to improve malware analysis to mitigate potential security risks.  The findings were presented by a group of academics from the Research Institute of Computer Science and Random Systems (IRISA) at the Annual Computer Security Applications Conference ( ACSAC ) held last month.   "[Electromagnetic] emanation that is measured from the device is practically undetectable by the malware," the res
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘doorLock’ – A persistent denial of service flaw affecting iOS 15.2 – iOS 14.7<a href="https://securityaffairs.co/wordpress/126275/hacking/doorlock-persistent-dos-ios.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Expert found a new persistent DoS vulnerability, dubbed  'doorLock,' affecting the Apple HomeKit in iOS 14.7 through 15.2.
+
+
+
+Security researchers  Trevor Spiniolas discovered a new persistent DoS vulnerability, dubbed  'doorLock,' affecting the Apple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Skype makes you solve a complex captcha 10 times to sign up<a href="https://www.bleepingcomputer.com/news/security/microsoft-skype-makes-you-solve-a-complex-captcha-10-times-to-sign-up/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Skype users report frustration after being presented with a captcha that requires them to solve a complex puzzle ten times before signing up for the service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MSBuild Abused for Execution of Cobalt Strike Beacon<a href="https://cyware.com/news/msbuild-abused-for-execution-of-cobalt-strike-beacon-b18927e9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered two malicious campaigns that abuse MSBuild to drop Cobalt Strike on targeted machines. The attackers first gain access to the target environment with an RDP account. As per experts, the Windows Defender Application Control (WDAC) policy can prevent these kinds of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are Medical Devices at Risk of Ransomware Attacks?<a href="https://thehackernews.com/2022/01/are-medical-devices-at-risk-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In May 2017, the first documented ransomware assault on networked medical equipment happened. The worldwide ransomware assault WannaCry compromised radiological and other instruments in several hospitals during its height, after a software failure caused by a cyberattack on its third-party vendor's oncology cloud service, cancer patients having radiation therapy at four healthcare institutions had to reschedule appointments.  These examples show how cyberattacks and data breaches may have a significant impact on the healthcare industry, heavily reliant on connected medical equipment. PHI (patient health information) captured and stored in these connected medical devices must be secured. Because PHI is transferred over the cloud via server-based systems, making it very susceptible to hackers.  Ransomware attacks on health care professionals have become more common, sophisticated, and severe in recent years. Individual bad actors have been supplanted as the main perpetrators by orga
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Media Outlets hacked on the anniversary of Soleimani killing<a href="https://securityaffairs.co/wordpress/126267/hacking/soleimani-anniversary-attack-israeli-media.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors hacked the website of Jerusalem Post and the Twitter account of Maariv outlet on Soleimani killing anniversary.
+
+
+
+Threat actors have taken over the website of the English-language Jerusalem Post and the Twitter account of Maariv daily...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Broward Health discloses data breach affecting 1.3 million people<a href="https://www.bleepingcomputer.com/news/security/broward-health-discloses-data-breach-affecting-13-million-people/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Florida's Broward Health healthcare system has disclosed a large-scale data breach incident impacting 1,357,879 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackTech APT Pulls Out New Flagpro Malware To Target Japan and Others<a href="https://cyware.com/news/blacktech-apt-pulls-out-new-flagpro-malware-to-target-japan-and-others-7c726ce3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NTT Security exposed the China-linked BlackTech espionage group using new Flagpro malware in recent attacks against Japanese companies in the media, defense, and communications industries. The attack begins with a spear-phishing email, which is customized for the targeted organizations. Firms are a ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEGA Europe left AWS S3 bucket unsecured exposing data and infrastructure to attack<a href="https://securityaffairs.co/wordpress/126258/data-breach/sega-europe-aws-s3-bucket-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SEGA Europe inadvertently left users' personal information publicly accessible on Amazon Web Services (AWS) S3 bucket. SEGA Europe inadvertently left users' personal information publicly accessible on Amazon Web Services (AWS) S3 bucket.  
+
+
+
+At...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple iOS vulnerable to HomeKit 'doorLock' denial of service bug<a href="https://www.bleepingcomputer.com/news/security/apple-ios-vulnerable-to-homekit-doorlock-denial-of-service-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel persistent denial of service vulnerability named 'doorLock' was discovered in Apple HomeKit, affecting iOS 14.7 through 15.2.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEGA Europe Inadvertently Exposed Internal Data and Infrastructure to Attack<a href="https://securityaffairs.co/wordpress/126258/data-breach/sega-europe-aws-s3-bucket-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unsecured S3 bucket could potentially also grant access to user data, including information on hundreds of thousands of users of the Football Manager forums at community.sigames.com.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The worst cyber attacks of 2021<a href="https://securityaffairs.co/wordpress/126253/hacking/the-worst-cyber-attacks-of-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Which are the cyber attacks of 2021 that had the major impact on organizations worldwide in terms of financial losses and disruption of the operations? 
+
+
+
+CNA Financial (March 2021) - CNA Financial, one of the largest insurance companies in the US, reportedly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Don't copy-paste commands from webpages — you can get hacked<a href="https://www.bleepingcomputer.com/news/security/dont-copy-paste-commands-from-webpages-you-can-get-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Programmers, sysadmins, security researchers, and tech hobbyists copying-pasting commands from web pages into a console or terminal risk having their system compromised. Wizer's Gabriel Friedlander demonstrates an obvious, simple yet stunning trick that'll make you think twice before copying-pasting text from web pages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HCL Technologies patches serious vulnerabilities in HCL DX<a href="https://portswigger.net/daily-swig/hcl-technologies-patches-serious-vulnerabilities-in-hcl-dx?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HCL Digital Experience (DX), a platform for building and managing web portals, contained multiple vulnerabilities that could potentially lead to remote code execution (RCE), researchers claim.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft rolled out emergency fix for Y2k22 bug in Exchange servers<a href="https://securityaffairs.co/wordpress/126248/security/y2k22-bug-temporary-fix.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released an emergency patch to fix the Y2k22 bug that is breaking email delivery on on-premise Microsoft Exchange servers.
+
+
+
+Microsoft has rolled out an emergency fix that addresses the Y2k22 bug that is breaking email delivery on on-premise...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities Impact Netgear Nighthawk R6700 Routers<a href="https://www.securityweek.com/multiple-vulnerabilities-impact-netgear-nighthawk-r6700-routers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netgear Nighthawk R6700v3 routers running latest firmware are affected by multiple vulnerabilities. Details of the flaws were disclosed last week by Tenable after the vendor failed to release patches.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Media Outlets Hacked on Soleimani Killing Anniversary<a href="https://www.securityweek.com/israeli-media-outlets-hacked-soleimani-killing-anniversary?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The website of the Jerusalem Post and Twitter account of Maariv were taken over with a picture of a fist firing a shell out of a ring with a red stone on a finger toward an exploded dome.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ Ransomware Gang Targets Impresa Media Group, Owner of SIC and Expresso<a href="https://therecord.media/lapsus-ransomware-gang-hits-sic-portugals-largest-tv-channel/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ ransomware gang is extorting Impresa, the largest media conglomerate in Portugal and the owner of SIC and Expresso, the country’s largest TV channel and weekly newspaper, respectively.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues Fix for Exchange Y2K22 Bug That Crippled Email Delivery Service<a href="https://thehackernews.com/2022/01/microsoft-issues-fix-for-exchange-y2k22.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft, over the weekend, rolled out a fix to address an issue that caused email messages to get stuck on its Exchange Server platforms due to what it blamed on a date validation error at around the turn of the year.  "The problem relates to a date check failure with the change of the new year and it [is] not a failure of the [antivirus] engine itself," the company  said  in a blog post. "This is not an issue with malware scanning or the malware engine, and it is not a security-related issue. The version checking performed against the signature file is causing the malware engine to crash, resulting in messages being stuck in transport queues."   The Windows maker said the issue impacted on-premises versions of Exchange Server 2016 and Exchange Server 2019 but didn't specify how widespread the impact was.  The issue began to  gain   attention  as the year 2022 kicked in, causing the servers to no longer deliver email messages while throwing the following erro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 02, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
