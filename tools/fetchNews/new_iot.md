@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+January 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Detecting Evasive Malware on IoT Devices Using Electromagnetic Emanations<a href="https://thehackernews.com/2022/01/detecting-evasive-malware-on-iot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have proposed a novel approach that leverages electromagnetic field emanations from the Internet of Things (IoT) devices as a side-channel to glean precise knowledge about the different kinds of malware targeting the embedded systems, even in scenarios where obfuscation techniques have been applied to hinder analysis.  With the rapid adoption of IoT appliances presenting an attractive attack surface for threat actors, in part due to them being equipped with higher processing power and capable of running fully functional operating systems, the latest research aims to improve malware analysis to mitigate potential security risks.  The findings were presented by a group of academics from the Research Institute of Computer Science and Random Systems (IRISA) at the Annual Computer Security Applications Conference ( ACSAC ) held last month.   "[Electromagnetic] emanation that is measured from the device is practically undetectable by the malware," the res
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

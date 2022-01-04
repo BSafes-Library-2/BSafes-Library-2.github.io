@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackTech APT Pulls Out New Flagpro Malware To Target Japan and Others<a href="https://cyware.com/news/blacktech-apt-pulls-out-new-flagpro-malware-to-target-japan-and-others-7c726ce3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NTT Security exposed the China-linked BlackTech espionage group using new Flagpro malware in recent attacks against Japanese companies in the media, defense, and communications industries. The attack begins with a spear-phishing email, which is customized for the targeted organizations. Firms are a ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

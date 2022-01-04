@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 03, 2022
+January 03, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Purple Fox malware distributed via malicious Telegram installers<a href="https://www.bleepingcomputer.com/news/security/purple-fox-malware-distributed-via-malicious-telegram-installers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2022
+January 3, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedLine Malware Pilfer Passwords Saved in Multiple Browsers<a href="https://cyware.com/news/redline-malware-pilfer-passwords-saved-in-multiple-browsers-20a370e4"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 03, 2022
+January 03, 2022 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Detecting Evasive Malware on IoT Devices Using Electromagnetic Emanations<a href="https://thehackernews.com/2022/01/detecting-evasive-malware-on-iot.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2022
+January 3, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘doorLock’ – A persistent denial of service flaw affecting iOS 15.2 – iOS 14.7<a href="https://securityaffairs.co/wordpress/126275/hacking/doorlock-persistent-dos-ios.html"> Full Text</a>
@@ -103,7 +103,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 03, 2022
+January 03, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Skype makes you solve a complex captcha 10 times to sign up<a href="https://www.bleepingcomputer.com/news/security/microsoft-skype-makes-you-solve-a-complex-captcha-10-times-to-sign-up/"> Full Text</a>
@@ -119,7 +119,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2022
+January 3, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MSBuild Abused for Execution of Cobalt Strike Beacon<a href="https://cyware.com/news/msbuild-abused-for-execution-of-cobalt-strike-beacon-b18927e9"> Full Text</a>
@@ -135,7 +135,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 03, 2022
+January 03, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Are Medical Devices at Risk of Ransomware Attacks?<a href="https://thehackernews.com/2022/01/are-medical-devices-at-risk-of.html"> Full Text</a>
@@ -151,7 +151,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2022
+January 3, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israeli Media Outlets hacked on the anniversary of Soleimani killing<a href="https://securityaffairs.co/wordpress/126267/hacking/soleimani-anniversary-attack-israeli-media.html"> Full Text</a>
@@ -171,7 +171,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 03, 2022
+January 03, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Broward Health discloses data breach affecting 1.3 million people<a href="https://www.bleepingcomputer.com/news/security/broward-health-discloses-data-breach-affecting-13-million-people/"> Full Text</a>
@@ -187,7 +187,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2022
+January 3, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackTech APT Pulls Out New Flagpro Malware To Target Japan and Others<a href="https://cyware.com/news/blacktech-apt-pulls-out-new-flagpro-malware-to-target-japan-and-others-7c726ce3"> Full Text</a>
@@ -204,7 +204,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2022
+January 3, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SEGA Europe left AWS S3 bucket unsecured exposing data and infrastructure to attack<a href="https://securityaffairs.co/wordpress/126258/data-breach/sega-europe-aws-s3-bucket-data-leak.html"> Full Text</a>
@@ -224,7 +224,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 03, 2022
+January 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple iOS vulnerable to HomeKit 'doorLock' denial of service bug<a href="https://www.bleepingcomputer.com/news/security/apple-ios-vulnerable-to-homekit-doorlock-denial-of-service-bug/"> Full Text</a>
@@ -240,7 +240,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2022
+January 3, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SEGA Europe Inadvertently Exposed Internal Data and Infrastructure to Attack<a href="https://securityaffairs.co/wordpress/126258/data-breach/sega-europe-aws-s3-bucket-data-leak.html?&web_view=true"> Full Text</a>
@@ -256,7 +256,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2022
+January 3, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The worst cyber attacks of 2021<a href="https://securityaffairs.co/wordpress/126253/hacking/the-worst-cyber-attacks-of-2021.html"> Full Text</a>
@@ -276,7 +276,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 03, 2022
+January 03, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Don't copy-paste commands from webpages — you can get hacked<a href="https://www.bleepingcomputer.com/news/security/dont-copy-paste-commands-from-webpages-you-can-get-hacked/"> Full Text</a>
@@ -292,7 +292,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2022
+January 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HCL Technologies patches serious vulnerabilities in HCL DX<a href="https://portswigger.net/daily-swig/hcl-technologies-patches-serious-vulnerabilities-in-hcl-dx?&web_view=true"> Full Text</a>
@@ -308,7 +308,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2022
+January 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft rolled out emergency fix for Y2k22 bug in Exchange servers<a href="https://securityaffairs.co/wordpress/126248/security/y2k22-bug-temporary-fix.html"> Full Text</a>
@@ -328,7 +328,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2022
+January 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Vulnerabilities Impact Netgear Nighthawk R6700 Routers<a href="https://www.securityweek.com/multiple-vulnerabilities-impact-netgear-nighthawk-r6700-routers?&web_view=true"> Full Text</a>
@@ -344,7 +344,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2022
+January 3, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israeli Media Outlets Hacked on Soleimani Killing Anniversary<a href="https://www.securityweek.com/israeli-media-outlets-hacked-soleimani-killing-anniversary?&web_view=true"> Full Text</a>
@@ -360,7 +360,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2022
+January 3, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lapsus$ Ransomware Gang Targets Impresa Media Group, Owner of SIC and Expresso<a href="https://therecord.media/lapsus-ransomware-gang-hits-sic-portugals-largest-tv-channel/?&web_view=true"> Full Text</a>
@@ -376,7 +376,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 02, 2022
+January 02, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Issues Fix for Exchange Y2K22 Bug That Crippled Email Delivery Service<a href="https://thehackernews.com/2022/01/microsoft-issues-fix-for-exchange-y2k22.html"> Full Text</a>

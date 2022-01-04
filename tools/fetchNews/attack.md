@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+January 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exclusive: NASA Director Twitter account hacked by Powerful Greek Army<a href="https://securityaffairs.co/wordpress/126243/hacking/nasa-director-hacked-by-powerful-greek-army.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Twitter account of  NASA Director Parimal Kopardekar (@nasapk) was hacked by the Powerful Greek Army group.
+
+
+
+The Twitter account of the NASA Director and Sr Technologist for Air Transporation Sytem Mr. Parimal Kopardekar (@nasapk) was hacked by the Powerful...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+January 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘doorLock’ – A persistent denial of service flaw affecting iOS 15.2 – iOS 14.7<a href="https://securityaffairs.co/wordpress/126275/hacking/doorlock-persistent-dos-ios.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Expert found a new persistent DoS vulnerability, dubbed  'doorLock,' affecting the Apple HomeKit in iOS 14.7 through 15.2.
+
+
+
+Security researchers  Trevor Spiniolas discovered a new persistent DoS vulnerability, dubbed  'doorLock,' affecting the Apple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

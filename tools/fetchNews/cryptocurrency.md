@@ -8,6 +8,24 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+January 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto security breaches cause $4.25 billion losses worth of cryptos in 2021<a href="https://securityaffairs.co/wordpress/126216/cyber-crime/crypto-security-breaches-2011-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report published by Invezz, the number of crypto security breaches increased by up 850% in the last decade.
+
+
+
+The cyberattacks against the cryptocurrency industry are a profitable business for threat actors, according to the experts,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

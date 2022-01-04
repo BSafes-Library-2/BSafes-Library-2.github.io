@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber ignores vulnerability that lets you send any email from Uber.com<a href="https://www.bleepingcomputer.com/news/security/uber-ignores-vulnerability-that-lets-you-send-any-email-from-ubercom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Uber's email system allows just about anyone to send emails on behalf of Uber. Uber is aware of the flaw but has decided not to fix it for now.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Y2k22 bug in Microsoft Exchange causes failure in email delivery<a href="https://securityaffairs.co/wordpress/126205/security/y2k22-bug-microsoft-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Y2k22 bug is causing Microsoft Exchange on-premise servers to fail in delivering email starting on January 1st, 2022. 
+
+
+
+Microsoft Exchange on-premise servers cannot deliver emails starting on January 1st, 2022, due to a bug in the FIP-FS anti-malware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900072
 
 ## General
 ---
+January 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are Medical Devices at Risk of Ransomware Attacks?<a href="https://thehackernews.com/2022/01/are-medical-devices-at-risk-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In May 2017, the first documented ransomware assault on networked medical equipment happened. The worldwide ransomware assault WannaCry compromised radiological and other instruments in several hospitals during its height, after a software failure caused by a cyberattack on its third-party vendor's oncology cloud service, cancer patients having radiation therapy at four healthcare institutions had to reschedule appointments.  These examples show how cyberattacks and data breaches may have a significant impact on the healthcare industry, heavily reliant on connected medical equipment. PHI (patient health information) captured and stored in these connected medical devices must be secured. Because PHI is transferred over the cloud via server-based systems, making it very susceptible to hackers.  Ransomware attacks on health care professionals have become more common, sophisticated, and severe in recent years. Individual bad actors have been supplanted as the main perpetrators by orga
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The worst cyber attacks of 2021<a href="https://securityaffairs.co/wordpress/126253/hacking/the-worst-cyber-attacks-of-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Which are the cyber attacks of 2021 that had the major impact on organizations worldwide in terms of financial losses and disruption of the operations? 
+
+
+
+CNA Financial (March 2021) - CNA Financial, one of the largest insurance companies in the US, reportedly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Don't copy-paste commands from webpages — you can get hacked<a href="https://www.bleepingcomputer.com/news/security/dont-copy-paste-commands-from-webpages-you-can-get-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Programmers, sysadmins, security researchers, and tech hobbyists copying-pasting commands from web pages into a console or terminal risk having their system compromised. Wizer's Gabriel Friedlander demonstrates an obvious, simple yet stunning trick that'll make you think twice before copying-pasting text from web pages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
