@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+January 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Broward Health discloses data breach affecting 1.3 million people<a href="https://www.bleepingcomputer.com/news/security/broward-health-discloses-data-breach-affecting-13-million-people/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Florida's Broward Health healthcare system has disclosed a large-scale data breach incident impacting 1,357,879 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEGA Europe left AWS&nbsp;S3 bucket unsecured exposing data and infrastructure to attack<a href="https://securityaffairs.co/wordpress/126258/data-breach/sega-europe-aws-s3-bucket-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SEGA Europe inadvertently left users' personal information publicly accessible on Amazon Web Services (AWS)&nbsp;S3 bucket.&nbsp;SEGA Europe inadvertently left users' personal information publicly accessible on Amazon Web Services (AWS)&nbsp;S3 bucket.&nbsp; 
+
+
+
+At...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Media Outlets Hacked on Soleimani Killing Anniversary<a href="https://www.securityweek.com/israeli-media-outlets-hacked-soleimani-killing-anniversary?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The website of the Jerusalem Post and Twitter account of Maariv were taken over with a picture of a fist firing a shell out of a ring with a red stone on a finger toward an exploded dome.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

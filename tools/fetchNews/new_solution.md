@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+January 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+First Microsoft Pluton-powered Windows 11 PCs unveiled at CES<a href="https://www.bleepingcomputer.com/news/microsoft/first-microsoft-pluton-powered-windows-11-pcs-unveiled-at-ces/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lenovo unveiled today at CES 2022 the first Microsoft Pluton-powered Windows 11 PCs, the&nbsp;ThinkPad Z13 and Z16,&nbsp;with AMD&nbsp;Ryzen 6000 Series processors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

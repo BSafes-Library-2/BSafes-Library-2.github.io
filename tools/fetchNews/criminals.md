@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ Ransomware Gang Targets Impresa Media Group, Owner of SIC and Expresso<a href="https://therecord.media/lapsus-ransomware-gang-hits-sic-portugals-largest-tv-channel/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ ransomware gang is extorting Impresa, the largest media conglomerate in Portugal and the owner of SIC and Expresso, the country’s largest TV channel and weekly newspaper, respectively.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

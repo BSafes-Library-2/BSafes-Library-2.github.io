@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAILFISH System to Find State-Inconsistency Bugs in Smart Contracts<a href="https://thehackernews.com/2022/01/sailfish-system-to-find-state.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics from the University of California, Santa Barbara, has demonstrated what it calls a "scalable technique" to vet smart contracts and mitigate state-inconsistency bugs, discovering 47 zero-day vulnerabilities on the Ethereum blockchain in the process.  Smart contracts are&nbsp; programs &nbsp;stored on the blockchain that are automatically executed when predetermined conditions are met based on the encoded terms of the agreement. They allow trusted transactions and agreements to be carried out between anonymous parties without the need for a central authority.  In other words, the code itself is meant to be the final arbiter of "the deal" it represents, with the program controlling all aspects of the execution, and providing an immutable evidentiary audit trail of transactions that are both trackable and irreversible.   This also means that vulnerabilities in the code could result in hefty losses, as evidenced by hacks aimed at&nbsp; the DAO &nbsp;and more recently,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail New HomeKit 'doorLock' Bug Affecting Apple iOS<a href="https://thehackernews.com/2022/01/researchers-detail-new-homekit-doorlock.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A persistent denial-of-service (DoS) vulnerability has been discovered in Apple's iOS mobile operating system that's capable of sending affected devices into a crash or reboot loop upon connecting to an Apple Home-compatible appliance.  The behavior, dubbed "doorLock," is trivial in that it can be triggered by simply changing the name of a HomeKit device to a string larger than 500,000 characters.  This causes an iPhone or iPad that attempts to connect to the device to become unresponsive and enter an indefinite cycle of system failure and restart that can only be mitigated by restoring the affected device from Recovery or DFU (Device Firmware Update) Mode.   HomeKit &nbsp;is Apple's software framework that allows iOS and iPadOS users to configure, communicate with, and control connected accessories and smart-home appliances using Apple devices.  "Any device with an affected iOS version installed that loads the string will be disrupted, even after rebooting,"
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4j flaw attack levels remain high, Microsoft warns<a href="https://www.zdnet.com/article/log4j-flaw-attacks-are-causing-lots-of-problems-microsoft-warns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has warned Windows and Azure customers to remain vigilant after observing state-sponsored and cyber-criminal attackers probing systems for the Log4j 'Log4Shell' flaw through December.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher discovers 70 web cache poisoning vulnerabilities, nets $40k in bug bounty rewards<a href="https://portswigger.net/daily-swig/researcher-discovers-70-web-cache-poisoning-vulnerabilities-nets-40k-in-bug-bounty-rewards?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In extensive research of many websites, including some high-traffic online services, security researcher Youstin ladunca recently discovered 70 cache poisoning vulnerabilities with various impacts.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

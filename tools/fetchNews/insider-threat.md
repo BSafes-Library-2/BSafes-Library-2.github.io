@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+January 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEGA Europe Inadvertently Exposed Internal Data and Infrastructure to Attack<a href="https://securityaffairs.co/wordpress/126258/data-breach/sega-europe-aws-s3-bucket-data-leak.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unsecured S3 bucket could potentially also grant access to user data, including information on hundreds of thousands of users of the Football Manager forums at community.sigames.com.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

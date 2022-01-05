@@ -8,6 +8,110 @@ nav_order: 900029
 
 ## Breach
 ---
+January 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UScellular discloses the second data breach in a year<a href="https://securityaffairs.co/wordpress/126317/data-breach/uscellular-second-data-breach-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UScellular, one of the largest wireless carriers in the US, has disclosed a data breach after the hack suffered in December 2021. 
+
+
+
+UScellular has disclosed a data breach after the attack that compromised the company's billing system in December 2021....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saltzer Health Informs Patients of Personal Information Exposure<a href="https://www.securityweek.com/saltzer-health-informs-patients-personal-information-exposure?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medical data affected by the breach includes diagnosis, medical history, treatment details, prescription medication information, and physician information, along with health insurance information.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UScellular discloses data breach after billing system hack<a href="https://www.bleepingcomputer.com/news/security/uscellular-discloses-data-breach-after-billing-system-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UScellular, self-described as&nbsp;the fourth-largest&nbsp;wireless carrier in the US, has disclosed a data breach after the company's billing system was hacked in December 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hospitality Chain McMenamins discloses data breach after ransomware attack<a href="https://securityaffairs.co/wordpress/126293/data-breach/hospitality-chain-mcmenamins-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hospitality chain McMenamins disclosed a data breach after a recent ransomware attack. 
+
+
+
+Hospitality chain McMenamins discloses a data breach after a ransomware attack that took place on December 12.
+
+
+
+McMenamins&nbsp;is a family-owned chain of&nbsp;brewpubs,&nbsp;breweries,&nbsp;music...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Have I Been Pwned warns of DatPiff data breach impacting millions<a href="https://www.bleepingcomputer.com/news/security/have-i-been-pwned-warns-of-datpiff-data-breach-impacting-millions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cracked passwords for almost 7.5 million DatPiff&nbsp;members are being sold online, and users can check if they are part of the data breach through the Have I Been Pwned notification service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Broward Health suffered a data breach that impacted +1.3 million people<a href="https://securityaffairs.co/wordpress/126285/data-breach/broward-health-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Broward Health public health system disclosed a massive data breach that has impacted more than 1.3 million individuals. 
+
+
+
+The Broward Health public health system has suffered a data breach that impacted 1,357,879 individuals.
+
+
+
+Broward Health,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

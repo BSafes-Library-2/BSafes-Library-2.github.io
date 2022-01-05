@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+January 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MSBuild Abused for Execution of Cobalt Strike Beacon<a href="https://cyware.com/news/msbuild-abused-for-execution-of-cobalt-strike-beacon-b18927e9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered two malicious campaigns that abuse MSBuild to drop Cobalt Strike on targeted machines. The attackers first gain access to the target environment with an RDP account. As per experts, the Windows Defender Application Control (WDAC) policy can prevent these kinds of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Media Outlets hacked on the anniversary of Soleimani killing<a href="https://securityaffairs.co/wordpress/126267/hacking/soleimani-anniversary-attack-israeli-media.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors hacked the website of&nbsp;Jerusalem Post&nbsp;and the Twitter account of&nbsp;Maariv outlet on Soleimani killing anniversary.
+
+
+
+Threat actors have taken over the website of the English-language&nbsp;Jerusalem Post&nbsp;and the Twitter account of Maariv&nbsp;daily...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

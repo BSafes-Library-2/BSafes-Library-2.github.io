@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple iOS vulnerable to HomeKit 'doorLock' denial of service bug<a href="https://www.bleepingcomputer.com/news/security/apple-ios-vulnerable-to-homekit-doorlock-denial-of-service-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel persistent denial of service vulnerability named 'doorLock' was discovered in Apple HomeKit, affecting iOS 14.7 through 15.2.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HCL Technologies patches serious vulnerabilities in HCL DX<a href="https://portswigger.net/daily-swig/hcl-technologies-patches-serious-vulnerabilities-in-hcl-dx?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HCL Digital Experience (DX), a platform for building and managing web portals, contained multiple vulnerabilities that could potentially lead to remote code execution (RCE), researchers claim.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft rolled out emergency fix for Y2k22 bug in Exchange servers<a href="https://securityaffairs.co/wordpress/126248/security/y2k22-bug-temporary-fix.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released an emergency patch to fix the Y2k22 bug that is breaking email delivery on on-premise Microsoft Exchange servers.
+
+
+
+Microsoft has rolled out an emergency fix that addresses the Y2k22 bug that is breaking email delivery on on-premise...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities Impact Netgear Nighthawk R6700 Routers<a href="https://www.securityweek.com/multiple-vulnerabilities-impact-netgear-nighthawk-r6700-routers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netgear Nighthawk R6700v3 routers running latest firmware are affected by multiple vulnerabilities. Details of the flaws were disclosed last week by Tenable after the vendor failed to release patches.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues Fix for Exchange Y2K22 Bug That Crippled Email Delivery Service<a href="https://thehackernews.com/2022/01/microsoft-issues-fix-for-exchange-y2k22.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft, over the weekend, rolled out a fix to address an issue that caused email messages to get stuck on its Exchange Server platforms due to what it blamed on a date validation error at around the turn of the year.  "The problem relates to a date check failure with the change of the new year and it [is] not a failure of the [antivirus] engine itself," the company &nbsp;said &nbsp;in a blog post. "This is not an issue with malware scanning or the malware engine, and it is not a security-related issue. The version checking performed against the signature file is causing the malware engine to crash, resulting in messages being stuck in transport queues."   The Windows maker said the issue impacted on-premises versions of Exchange Server 2016 and Exchange Server 2019 but didn't specify how widespread the impact was.  The issue began to&nbsp; gain &nbsp; attention &nbsp;as the year 2022 kicked in, causing the servers to no longer deliver email messages while throwing the following erro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

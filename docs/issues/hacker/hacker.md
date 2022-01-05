@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use video player to steal credit cards from over 100 sites<a href="https://www.bleepingcomputer.com/news/security/hackers-use-video-player-to-steal-credit-cards-from-over-100-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers used a cloud video hosting service to perform a supply chain attack on over one hundred real estate sites that injected malicious scripts to steal information inputted in website forms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Konni Hacker Group Targets Russian Diplomats Using New Year Greetings<a href="https://therecord.media/north-korean-hackers-attack-russian-diplomats-using-new-year-greetings/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks have been linked to a threat actor known as Konni, and have been taking place since at least December 20, cybersecurity firm Cluster25 said in a report published on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
