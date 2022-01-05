@@ -34,6 +34,350 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC warns companies to secure consumer data from Log4J attacks<a href="https://www.bleepingcomputer.com/news/security/ftc-warns-companies-to-secure-consumer-data-from-log4j-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Trade Commission (FTC) has warned today that it will go after any US company that fails to protect its customers' data against ongoing Log4J attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote Access Malware Rises, Ransomware Operators Rebrand, and More Attacks on Individuals: Report<a href="https://cyware.com/news/remote-access-malware-rises-ransomware-operators-rebrand-and-more-attacks-on-individuals-report-795699bf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a Positive Technologies report, the number of attacks in Q3 2021 decreased by 4.8% as compared to Q2 2021. This was mainly caused by some major ransomware players leaving the market.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Twitter's Greene ban boosts GOP attacks<a href="https://thehill.com//policy/technology/overnights/588253-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Tuesday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAILFISH System to Find State-Inconsistency Bugs in Smart Contracts<a href="https://thehackernews.com/2022/01/sailfish-system-to-find-state.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics from the University of California, Santa Barbara, has demonstrated what it calls a "scalable technique" to vet smart contracts and mitigate state-inconsistency bugs, discovering 47 zero-day vulnerabilities on the Ethereum blockchain in the process.  Smart contracts are  programs  stored on the blockchain that are automatically executed when predetermined conditions are met based on the encoded terms of the agreement. They allow trusted transactions and agreements to be carried out between anonymous parties without the need for a central authority.  In other words, the code itself is meant to be the final arbiter of "the deal" it represents, with the program controlling all aspects of the execution, and providing an immutable evidentiary audit trail of transactions that are both trackable and irreversible.   This also means that vulnerabilities in the code could result in hefty losses, as evidenced by hacks aimed at  the DAO  and more recently,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UScellular discloses the second data breach in a year<a href="https://securityaffairs.co/wordpress/126317/data-breach/uscellular-second-data-breach-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UScellular, one of the largest wireless carriers in the US, has disclosed a data breach after the hack suffered in December 2021. 
+
+
+
+UScellular has disclosed a data breach after the attack that compromised the company's billing system in December 2021....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Sees Rampant Log4j Exploit Attempts, Testing<a href="https://threatpost.com/microsoft-rampant-log4j-exploits-testing/177358/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says it’s only going to get worse: It’s seen state-sponsored and cyber-criminal attackers probing systems for the Log4Shell flaw through the end of December. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+First Microsoft Pluton-powered Windows 11 PCs unveiled at CES<a href="https://www.bleepingcomputer.com/news/microsoft/first-microsoft-pluton-powered-windows-11-pcs-unveiled-at-ces/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lenovo unveiled today at CES 2022 the first Microsoft Pluton-powered Windows 11 PCs, the ThinkPad Z13 and Z16, with AMD Ryzen 6000 Series processors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Discovered Lapsus$ Ransomware Targets Several Organizations in a Month<a href="https://cyware.com/news/newly-discovered-lapsus-ransomware-targets-several-organizations-in-a-month-ef2943bd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operators are back in business with the advent of 2022. Hardly one week of the year had passed, when researchers raised an alarm about a newly discovered Lapsus$ ransomware.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail New HomeKit 'doorLock' Bug Affecting Apple iOS<a href="https://thehackernews.com/2022/01/researchers-detail-new-homekit-doorlock.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A persistent denial-of-service (DoS) vulnerability has been discovered in Apple's iOS mobile operating system that's capable of sending affected devices into a crash or reboot loop upon connecting to an Apple Home-compatible appliance.  The behavior, dubbed "doorLock," is trivial in that it can be triggered by simply changing the name of a HomeKit device to a string larger than 500,000 characters.  This causes an iPhone or iPad that attempts to connect to the device to become unresponsive and enter an indefinite cycle of system failure and restart that can only be mitigated by restoring the affected device from Recovery or DFU (Device Firmware Update) Mode.   HomeKit  is Apple's software framework that allows iOS and iPadOS users to configure, communicate with, and control connected accessories and smart-home appliances using Apple devices.  "Any device with an affected iOS version installed that loads the string will be disrupted, even after rebooting,"
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers abused cloud video platform to inject an e-skimmer into 100 Real Estate sites<a href="https://securityaffairs.co/wordpress/126305/malware/cloud-video-platform-served-e-skimmer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors compromised more than 100 real estate websites belonging to the same parent company by implanting an e-skimmer.
+
+
+
+Threat actors used an unnamed cloud video platform to install an e-skimmer on more than 100 real estate websites belonging...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEGA’s Sloppy Security Confession: Exposed AWS S3 Bucket Offers Up Steam API Access & More<a href="https://threatpost.com/sega-security-aws-s3-exposed-steam/177352/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SEGA’s disclosure underscores a common, potentially catastrophic, flub — misconfigured Amazon Web Services (AWS) S3 buckets.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use video player to steal credit cards from over 100 sites<a href="https://www.bleepingcomputer.com/news/security/hackers-use-video-player-to-steal-credit-cards-from-over-100-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers used a cloud video hosting service to perform a supply chain attack on over one hundred real estate sites that injected malicious scripts to steal information inputted in website forms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saltzer Health Informs Patients of Personal Information Exposure<a href="https://www.securityweek.com/saltzer-health-informs-patients-personal-information-exposure?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medical data affected by the breach includes diagnosis, medical history, treatment details, prescription medication information, and physician information, along with health insurance information.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Purple Fox backdoor spreads through fake Telegram App installer<a href="https://securityaffairs.co/wordpress/126299/cyber-crime/purple-fox-telegram-installer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are spreading the Purple Fox backdoor using tainted installers of the Telegram messaging application.
+
+
+
+Threat actors are using weaponized installers of the Telegram messaging application to deliver the Purple Fox backdoor on Windows systems.
+
+
+
+Researchers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UScellular discloses data breach after billing system hack<a href="https://www.bleepingcomputer.com/news/security/uscellular-discloses-data-breach-after-billing-system-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UScellular, self-described as the fourth-largest wireless carrier in the US, has disclosed a data breach after the company's billing system was hacked in December 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4j flaw attack levels remain high, Microsoft warns<a href="https://www.zdnet.com/article/log4j-flaw-attacks-are-causing-lots-of-problems-microsoft-warns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has warned Windows and Azure customers to remain vigilant after observing state-sponsored and cyber-criminal attackers probing systems for the Log4j 'Log4Shell' flaw through December.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hospitality Chain McMenamins discloses data breach after ransomware attack<a href="https://securityaffairs.co/wordpress/126293/data-breach/hospitality-chain-mcmenamins-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hospitality chain McMenamins disclosed a data breach after a recent ransomware attack. 
+
+
+
+Hospitality chain McMenamins discloses a data breach after a ransomware attack that took place on December 12.
+
+
+
+McMenamins is a family-owned chain of brewpubs, breweries, music...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Have I Been Pwned warns of DatPiff data breach impacting millions<a href="https://www.bleepingcomputer.com/news/security/have-i-been-pwned-warns-of-datpiff-data-breach-impacting-millions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cracked passwords for almost 7.5 million DatPiff members are being sold online, and users can check if they are part of the data breach through the Have I Been Pwned notification service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Konni Hacker Group Targets Russian Diplomats Using New Year Greetings<a href="https://therecord.media/north-korean-hackers-attack-russian-diplomats-using-new-year-greetings/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks have been linked to a threat actor known as Konni, and have been taking place since at least December 20, cybersecurity firm Cluster25 said in a report published on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher discovers 70 web cache poisoning vulnerabilities, nets $40k in bug bounty rewards<a href="https://portswigger.net/daily-swig/researcher-discovers-70-web-cache-poisoning-vulnerabilities-nets-40k-in-bug-bounty-rewards?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In extensive research of many websites, including some high-traffic online services, security researcher Youstin ladunca recently discovered 70 cache poisoning vulnerabilities with various impacts.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 4, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
