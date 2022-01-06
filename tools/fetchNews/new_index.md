@@ -34,7 +34,307 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2022
+January 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+70 investors lose $50 million to fraudsters posing as broker-dealers<a href="https://www.bleepingcomputer.com/news/security/70-investors-lose-50-million-to-fraudsters-posing-as-broker-dealers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A California man confirmed his role in a large-scale and long-running Internet-based fraud scheme that allowed him and other fraudsters to siphon roughly $50 million from dozens of investors over eight years, between 2012 to October 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Progressives put pressure on Google<a href="https://thehill.com//policy/technology/overnights/588468-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Wednesday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Hacker Group Behind Organized Financial-Theft Operation<a href="https://thehackernews.com/2022/01/researchers-uncover-hacker-group-behind.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have taken the wraps of an organized financial-theft operation undertaken by a discreet actor to target transaction processing systems and siphon funds from entities primarily located in Latin America for at least four years.  The malicious hacking group has been codenamed  Elephant Beetle  by Israeli incident response firm Sygnia, with the intrusions aimed at banks and retail companies by injecting fraudulent transactions among benign activity to slip under the radar after an extensive study of the targets' financial structures.  "The attack is relentless in its ingenious simplicity serving as an ideal tactic to hide in plain sight, without any need to develop exploits," the researchers said in a report  shared with The Hacker News, calling out the group's overlaps with another tracked by Mandiant as  FIN13 , an "industrious" threat actor linked to data theft and ransomware attacks in Mexico stretching back as early as 2016.   Ele
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Do the Legal Rules Governing the Confidentiality of Cyber Incident Response Undermine Cybersecurity?<a href="https://www.lawfareblog.com/do-legal-rules-governing-confidentiality-cyber-incident-response-undermine-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s not entirely clear to what extent law firms’ emphasis on protecting attorney-client privilege and work product immunity alters the course of data privacy investigations.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC warns legal action against businesses who fail to mitigate Log4J attacks<a href="https://securityaffairs.co/wordpress/126342/laws-and-regulations/ftc-log4j-log4shell-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Trade Commission (FTC) has warned legal action against companies who fail to secure their infrastructure against Log4Shell attacks.
+
+
+
+The US Federal Trade Commission (FTC) warns legal action against companies who protect their systems...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1.1M Compromised Accounts Found at 17 Major Companies<a href="https://threatpost.com/compromised-accounts-17-major-companies/177417/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The accounts fell victim to credential-stuffing attacks, according to the New York State AG.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender for Endpoint adds zero-touch iOS onboarding<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-endpoint-adds-zero-touch-ios-onboarding/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says zero-touch onboarding for Microsoft Defender for Endpoint (MDE) on iOS is now available in public preview, allowing enterprise admins to silently install Defender for Endpoint automatically on enrolled devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zloader Banking Malware Campaign Exploiting Microsoft Signature Verification<a href="https://thehackernews.com/2022/01/new-zloader-banking-malware-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing  ZLoader  malware campaign has been uncovered exploiting remote monitoring tools and a nine-year-old flaw concerning Microsoft's digital signature verification to siphon user credentials and sensitive information.  Israeli cybersecurity company Check Point Research, which has been tracking the sophisticated infection chain since November 2021, attributed it to a cybercriminal group dubbed  Malsmoke , citing similarities with previous attacks.  "The techniques incorporated in the infection chain include the use of legitimate remote management software (RMM) to gain initial access to the target machine," Check Point's Golan Cohen said in a report  shared with The Hacker News. "The malware then exploits Microsoft's digital signature verification method to inject its payload into a signed system DLL to further evade the system's defenses."   The campaign is said to have claimed 2,170 victims across 111 countries as of January 2, 2022, with mo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors continue to exploit Log4j flaws in their attacks, Microsoft Warns<a href="https://securityaffairs.co/wordpress/126333/breaking-news/log4j-flaws-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors continue to attempt to exploit Apache Log4J vulnerabilities in their campaigns to deploy malware on target systems, Microsoft warns.
+
+
+
+Microsoft is warning of continuing attempts by nation-state actors and cybercriminals to exploit recently...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Malsmoke’ Exploits Microsoft’s E-Signature Verification<a href="https://threatpost.com/malsmoke-microsoft-e-signature-verification/177363/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The info-stealing campaign using ZLoader malware – previously used to deliver Ryuk and Conti ransomware – already has claimed more than 2,000 victims across 111 countries.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NY OAG: Hackers stole 1.1 million customer accounts from 17 companies<a href="https://www.bleepingcomputer.com/news/security/ny-oag-hackers-stole-11-million-customer-accounts-from-17-companies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The New York State Office of the Attorney General (NY OAG) has warned 17 well-known companies that roughly 1.1 million of their customers have had their user accounts compromised in credential stuffing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers used electromagnetic signals to classify malware infecting IoT devices<a href="https://securityaffairs.co/wordpress/126312/malware/electromagnetic-signals-iot-malware-classification.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers demonstrate how to use electromagnetic field emanations from IoT devices to detect malware.  
+
+
+
+A team of academics (Duy-Phuc Pham, Damien Marion, Matthieu Mastio and Annelie Heuser) from the Research Institute of Computer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto platform ARBIX flagged as a rugpull, transfers $10 million<a href="https://www.bleepingcomputer.com/news/security/crypto-platform-arbix-flagged-as-a-rugpull-transfers-10-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Arbix Finance, an audited and supposedly trustworthy yield farming platform, has been flagged as a 'rugpull,' deleting its site, Twitter, and Telegram channel and transferring $10 million worth of deposited cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iOS malware can fake iPhone shut downs to snoop on camera, microphone<a href="https://www.bleepingcomputer.com/news/security/ios-malware-can-fake-iphone-shut-downs-to-snoop-on-camera-microphone/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have developed a new technique that fakes a shutdown or reboot of iPhones, preventing malware from being removed and allowing hackers to secretly snoop on microphones and receive sensitive data via a live network connection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Elephant Beetle’ spends months in victim networks to divert transactions<a href="https://www.bleepingcomputer.com/news/security/elephant-beetle-spends-months-in-victim-networks-to-divert-transactions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially-motivated actor dubbed 'Elephant Beetle' is stealing millions of dollars from organizations worldwide using an arsenal of over 80 unique tools and scripts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft code-sign check bypassed to drop Zloader malware<a href="https://www.bleepingcomputer.com/news/security/microsoft-code-sign-check-bypassed-to-drop-zloader-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Zloader campaign exploits Microsoft's e-signature code verification to steal user credentials from over two thousand victims in 111 countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Real Estate Websites with Skimmer in Latest Supply Chain Attack<a href="https://thehackernews.com/2022/01/hackers-target-real-estate-websites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors leveraged a cloud video hosting service to carry out a supply chain attack on more than  100 real estate websites  operated by Sotheby's Realty that involved injecting malicious skimmers to steal sensitive personal information.  "The attacker injected the skimmer JavaScript codes into video, so whenever others import the video, their websites get embedded with skimmer codes as well," Palo Alto Networks' Unit 42 researchers  said  in a report published this week.   The skimmer attacks, also called formjacking, relates to a type of cyber attack wherein bad actors insert malicious JavaScript code into the target website, most often to checkout or payment pages on shopping and e-commerce portals, to harvest valuable information such as credit card details entered by users.   In the latest incarnation of the Magecart attacks, the operators behind the campaign breached the Brightcove account of Sotheby's and deployed malicious code into the player of the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Continued Attacks Exploiting Apache Log4j Vulnerabilities<a href="https://thehackernews.com/2022/01/microsoft-warns-of-continued-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of continuing attempts by nation-state adversaries and commodity attackers to take advantage of  security vulnerabilities  uncovered in the Log4j open-source logging framework to deploy malware on vulnerable systems.  "Exploitation attempts and testing have remained high during the last weeks of December," Microsoft Threat Intelligence Center (MSTIC)  said  in revised guidance published earlier this week. "We have observed many existing attackers adding exploits of these vulnerabilities in their existing malware kits and tactics, from coin miners to hands-on-keyboard attacks."  Publicly disclosed by the Apache Software Foundation on December 10, 2021, the remote code execution (RCE) vulnerability in Apache Log4j 2, aka  Log4Shell , has emerged as a new attack vector for  widespread exploitation  by a variety of threat actors.   In the subsequent weeks, four more weaknesses in the utility have come to light —  CVE-2021-45046 ,  CVE-2021-45105 ,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2022 -- [Skimming](/docs/issues/skimming/skimming/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Skimmer Hits 100+ Sotheby’s Real-Estate Websites<a href="https://threatpost.com/data-skimmer-sothebys-real-estate-websites/177347/"> Full Text</a>
@@ -50,7 +350,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04, 2022
+January 04, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC warns companies to secure consumer data from Log4J attacks<a href="https://www.bleepingcomputer.com/news/security/ftc-warns-companies-to-secure-consumer-data-from-log4j-attacks/"> Full Text</a>
@@ -66,7 +366,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2022
+January 4, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Remote Access Malware Rises, Ransomware Operators Rebrand, and More Attacks on Individuals: Report<a href="https://cyware.com/news/remote-access-malware-rises-ransomware-operators-rebrand-and-more-attacks-on-individuals-report-795699bf"> Full Text</a>
@@ -82,7 +382,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04, 2022
+January 04, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley — Twitter's Greene ban boosts GOP attacks<a href="https://thehill.com//policy/technology/overnights/588253-hillicon-valley"> Full Text</a>
@@ -98,7 +398,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04, 2022
+January 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAILFISH System to Find State-Inconsistency Bugs in Smart Contracts<a href="https://thehackernews.com/2022/01/sailfish-system-to-find-state.html"> Full Text</a>
@@ -114,7 +414,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2022
+January 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UScellular discloses the second data breach in a year<a href="https://securityaffairs.co/wordpress/126317/data-breach/uscellular-second-data-breach-2021.html"> Full Text</a>
@@ -134,7 +434,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2022
+January 4, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Sees Rampant Log4j Exploit Attempts, Testing<a href="https://threatpost.com/microsoft-rampant-log4j-exploits-testing/177358/"> Full Text</a>
@@ -150,7 +450,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04, 2022
+January 04, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 First Microsoft Pluton-powered Windows 11 PCs unveiled at CES<a href="https://www.bleepingcomputer.com/news/microsoft/first-microsoft-pluton-powered-windows-11-pcs-unveiled-at-ces/"> Full Text</a>
@@ -166,7 +466,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2022
+January 4, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newly Discovered Lapsus$ Ransomware Targets Several Organizations in a Month<a href="https://cyware.com/news/newly-discovered-lapsus-ransomware-targets-several-organizations-in-a-month-ef2943bd"> Full Text</a>
@@ -182,7 +482,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04, 2022
+January 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detail New HomeKit 'doorLock' Bug Affecting Apple iOS<a href="https://thehackernews.com/2022/01/researchers-detail-new-homekit-doorlock.html"> Full Text</a>
@@ -198,7 +498,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2022
+January 4, 2022 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers abused cloud video platform to inject an e-skimmer into 100 Real Estate sites<a href="https://securityaffairs.co/wordpress/126305/malware/cloud-video-platform-served-e-skimmer.html"> Full Text</a>
@@ -218,7 +518,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2022
+January 4, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SEGA’s Sloppy Security Confession: Exposed AWS S3 Bucket Offers Up Steam API Access & More<a href="https://threatpost.com/sega-security-aws-s3-exposed-steam/177352/"> Full Text</a>
@@ -234,7 +534,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04, 2022
+January 04, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers use video player to steal credit cards from over 100 sites<a href="https://www.bleepingcomputer.com/news/security/hackers-use-video-player-to-steal-credit-cards-from-over-100-sites/"> Full Text</a>
@@ -250,7 +550,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2022
+January 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Saltzer Health Informs Patients of Personal Information Exposure<a href="https://www.securityweek.com/saltzer-health-informs-patients-personal-information-exposure?&web_view=true"> Full Text</a>
@@ -266,7 +566,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2022
+January 4, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Purple Fox backdoor spreads through fake Telegram App installer<a href="https://securityaffairs.co/wordpress/126299/cyber-crime/purple-fox-telegram-installer.html"> Full Text</a>
@@ -290,7 +590,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04, 2022
+January 04, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UScellular discloses data breach after billing system hack<a href="https://www.bleepingcomputer.com/news/security/uscellular-discloses-data-breach-after-billing-system-hack/"> Full Text</a>
@@ -306,7 +606,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2022
+January 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Log4j flaw attack levels remain high, Microsoft warns<a href="https://www.zdnet.com/article/log4j-flaw-attacks-are-causing-lots-of-problems-microsoft-warns/?&web_view=true"> Full Text</a>
@@ -322,7 +622,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2022
+January 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hospitality Chain McMenamins discloses data breach after ransomware attack<a href="https://securityaffairs.co/wordpress/126293/data-breach/hospitality-chain-mcmenamins-data-breach.html"> Full Text</a>
@@ -346,7 +646,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04, 2022
+January 04, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Have I Been Pwned warns of DatPiff data breach impacting millions<a href="https://www.bleepingcomputer.com/news/security/have-i-been-pwned-warns-of-datpiff-data-breach-impacting-millions/"> Full Text</a>
@@ -362,7 +662,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2022
+January 4, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Konni Hacker Group Targets Russian Diplomats Using New Year Greetings<a href="https://therecord.media/north-korean-hackers-attack-russian-diplomats-using-new-year-greetings/?&web_view=true"> Full Text</a>
@@ -378,7 +678,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2022
+January 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher discovers 70 web cache poisoning vulnerabilities, nets $40k in bug bounty rewards<a href="https://portswigger.net/daily-swig/researcher-discovers-70-web-cache-poisoning-vulnerabilities-nets-40k-in-bug-bounty-rewards?&web_view=true"> Full Text</a>
@@ -394,7 +694,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2022
+January 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Broward Health suffered a data breach that impacted +1.3 million people<a href="https://securityaffairs.co/wordpress/126285/data-breach/broward-health-data-breach.html"> Full Text</a>
