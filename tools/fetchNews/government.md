@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+January 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC warns companies to secure consumer data from Log4J attacks<a href="https://www.bleepingcomputer.com/news/security/ftc-warns-companies-to-secure-consumer-data-from-log4j-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Trade Commission (FTC) has warned&nbsp;today that it will go after any&nbsp;US company that fails to protect its customers' data against ongoing Log4J attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

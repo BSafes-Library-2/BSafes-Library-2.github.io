@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+January 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Twitter's Greene ban boosts GOP attacks<a href="https://thehill.com//policy/technology/overnights/588253-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Tuesday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Sees Rampant Log4j Exploit Attempts, Testing<a href="https://threatpost.com/microsoft-rampant-log4j-exploits-testing/177358/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says it’s only going to get worse: It’s seen state-sponsored and cyber-criminal attackers probing systems for the Log4Shell flaw through the end of December. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

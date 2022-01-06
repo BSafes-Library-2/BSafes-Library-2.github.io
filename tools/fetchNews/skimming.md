@@ -8,6 +8,38 @@ nav_order: 900190
 
 ## Skimming
 ---
+January 4, 2022 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Skimmer Hits 100+ Sotheby’s Real-Estate Websites<a href="https://threatpost.com/data-skimmer-sothebys-real-estate-websites/177347/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign was an opportunistic supply-chain attack abusing a weaponized cloud video player.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers abused cloud video platform to inject an e-skimmer into 100 Real Estate sites<a href="https://securityaffairs.co/wordpress/126305/malware/cloud-video-platform-served-e-skimmer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors compromised more than 100 real estate websites belonging to the same parent company by implanting an e-skimmer.
+
+
+
+Threat actors used an unnamed cloud video platform to install an e-skimmer on more than 100 real estate websites belonging...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

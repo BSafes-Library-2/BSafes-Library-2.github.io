@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Hacker Group Behind Organized Financial-Theft Operation<a href="https://thehackernews.com/2022/01/researchers-uncover-hacker-group-behind.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have taken the wraps of an organized financial-theft operation undertaken by a discreet actor to target transaction processing systems and siphon funds from entities primarily located in Latin America for at least four years.  The malicious hacking group has been codenamed&nbsp; Elephant Beetle &nbsp;by Israeli incident response firm Sygnia, with the intrusions aimed at banks and retail companies by injecting fraudulent transactions among benign activity to slip under the radar after an extensive study of the targets' financial structures.  "The attack is relentless in its ingenious simplicity serving as an ideal tactic to hide in plain sight, without any need to develop exploits," the researchers said in a report  shared with The Hacker News, calling out the group's overlaps with another tracked by Mandiant as&nbsp; FIN13 , an "industrious" threat actor linked to data theft and ransomware attacks in Mexico stretching back as early as 2016.   Ele
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors continue to exploit Log4j flaws in their attacks, Microsoft Warns<a href="https://securityaffairs.co/wordpress/126333/breaking-news/log4j-flaws-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors continue to attempt to exploit Apache Log4J vulnerabilities in their campaigns to deploy malware on target systems, Microsoft warns.
+
+
+
+Microsoft is warning of continuing attempts by nation-state actors and cybercriminals to exploit recently...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

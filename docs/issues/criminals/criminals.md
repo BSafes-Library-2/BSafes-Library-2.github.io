@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+70 investors lose $50 million to fraudsters posing as broker-dealers<a href="https://www.bleepingcomputer.com/news/security/70-investors-lose-50-million-to-fraudsters-posing-as-broker-dealers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A California man confirmed his role in a large-scale and long-running Internet-based fraud scheme that allowed him and other fraudsters to siphon roughly $50 million from dozens of investors over eight years,&nbsp;between&nbsp;2012 to October 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NY OAG: Hackers stole 1.1 million customer accounts from 17 companies<a href="https://www.bleepingcomputer.com/news/security/ny-oag-hackers-stole-11-million-customer-accounts-from-17-companies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The New York State Office of the Attorney General (NY OAG) has warned 17 well-known companies that roughly 1.1 million of their customers have had their user accounts compromised in credential stuffing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Elephant Beetle’ spends months in victim networks to divert transactions<a href="https://www.bleepingcomputer.com/news/security/elephant-beetle-spends-months-in-victim-networks-to-divert-transactions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially-motivated actor dubbed 'Elephant Beetle' is stealing millions of dollars from organizations worldwide using an arsenal of over 80 unique tools and scripts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Do the Legal Rules Governing the Confidentiality of Cyber Incident Response Undermine Cybersecurity?<a href="https://www.lawfareblog.com/do-legal-rules-governing-confidentiality-cyber-incident-response-undermine-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s not entirely clear to what extent law firms’ emphasis on protecting attorney-client privilege and work product immunity alters the course of data privacy investigations.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+January 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEGA’s Sloppy Security Confession: Exposed AWS S3 Bucket Offers Up Steam API Access &amp; More<a href="https://threatpost.com/sega-security-aws-s3-exposed-steam/177352/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SEGA’s disclosure underscores a common, potentially catastrophic, flub — misconfigured Amazon Web Services (AWS) S3 buckets.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

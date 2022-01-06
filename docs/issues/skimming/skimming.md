@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+January 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Real Estate Websites with Skimmer in Latest Supply Chain Attack<a href="https://thehackernews.com/2022/01/hackers-target-real-estate-websites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors leveraged a cloud video hosting service to carry out a supply chain attack on more than&nbsp; 100 real estate websites &nbsp;operated by Sotheby's Realty that involved injecting malicious skimmers to steal sensitive personal information.  "The attacker injected the skimmer JavaScript codes into video, so whenever others import the video, their websites get embedded with skimmer codes as well," Palo Alto Networks' Unit 42 researchers&nbsp; said &nbsp;in a report published this week.   The skimmer attacks, also called formjacking, relates to a type of cyber attack wherein bad actors insert malicious JavaScript code into the target website, most often to checkout or payment pages on shopping and e-commerce portals, to harvest valuable information such as credit card details entered by users.   In the latest incarnation of the Magecart attacks, the operators behind the campaign breached the Brightcove account of Sotheby's and deployed malicious code into the player of the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 4, 2022 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
