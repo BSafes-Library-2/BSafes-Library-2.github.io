@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 January 06, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FinalSite ransomware attack shuts down thousands of school websites<a href="https://www.bleepingcomputer.com/news/security/finalsite-ransomware-attack-shuts-down-thousands-of-school-websites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FinalSite, a leading school website services provider, has suffered a ransomware attack disrupting access to websites for thousands of schools worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Night Sky is the latest ransomware targeting corporate networks<a href="https://www.bleepingcomputer.com/news/security/night-sky-is-the-latest-ransomware-targeting-corporate-networks/"> Full Text</a>
 </p>
 <details>
