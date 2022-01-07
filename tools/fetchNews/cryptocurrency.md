@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+January 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto platform ARBIX flagged as a rugpull, transfers $10 million<a href="https://www.bleepingcomputer.com/news/security/crypto-platform-arbix-flagged-as-a-rugpull-transfers-10-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Arbix Finance, an audited and supposedly trustworthy yield farming platform, has been flagged as a 'rugpull,' deleting its site, Twitter, and Telegram channel and transferring $10 million worth of deposited cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

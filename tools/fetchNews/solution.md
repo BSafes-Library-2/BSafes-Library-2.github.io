@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+January 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender for Endpoint adds zero-touch iOS onboarding<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-endpoint-adds-zero-touch-ios-onboarding/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says zero-touch onboarding for Microsoft Defender for Endpoint (MDE) on iOS is now available in public preview, allowing enterprise admins to silently install Defender for Endpoint automatically on enrolled devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

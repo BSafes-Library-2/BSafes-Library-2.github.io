@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+January 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft code-sign check bypassed to drop Zloader malware<a href="https://www.bleepingcomputer.com/news/security/microsoft-code-sign-check-bypassed-to-drop-zloader-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Zloader campaign exploits Microsoft's e-signature code verification to steal user credentials from over two thousand victims in 111 countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Continued Attacks Exploiting Apache Log4j Vulnerabilities<a href="https://thehackernews.com/2022/01/microsoft-warns-of-continued-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of continuing attempts by nation-state adversaries and commodity attackers to take advantage of&nbsp; security vulnerabilities &nbsp;uncovered in the Log4j open-source logging framework to deploy malware on vulnerable systems.  "Exploitation attempts and testing have remained high during the last weeks of December," Microsoft Threat Intelligence Center (MSTIC)&nbsp; said &nbsp;in revised guidance published earlier this week. "We have observed many existing attackers adding exploits of these vulnerabilities in their existing malware kits and tactics, from coin miners to hands-on-keyboard attacks."  Publicly disclosed by the Apache Software Foundation on December 10, 2021, the remote code execution (RCE) vulnerability in Apache Log4j 2, aka&nbsp; Log4Shell , has emerged as a new attack vector for&nbsp; widespread exploitation &nbsp;by a variety of threat actors.   In the subsequent weeks, four more weaknesses in the utility have come to light —&nbsp; CVE-2021-45046 ,&nbsp; CVE-2021-45105 ,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

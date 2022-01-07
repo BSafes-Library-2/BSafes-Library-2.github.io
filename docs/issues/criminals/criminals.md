@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole 1.1 million customer accounts from 17 well-known companies<a href="https://securityaffairs.co/wordpress/126381/cyber-crime/credential-stuffing-ny-oag-report.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NY OAG warned 17 companies that roughly 1.1 million of their customers have had their user accounts compromised in credential stuffing attacks. 
+
+
+
+The New York State Office of the Attorney General (NY OAG) has warned 17 companies that roughly 1.1 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Elephant Beetle’ Lurks for Months in Networks<a href="https://threatpost.com/elephant-beetle-months-networks-financial/177393/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group blends into an environment before loading up trivial, thickly stacked, fraudulent financial transactions too tiny to be noticed but adding up to millions of dollars. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Broker-dealers impersonators stole $50 million using spoofed sites<a href="https://www.bleepingcomputer.com/news/security/broker-dealers-impersonators-stole-50-million-using-spoofed-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A California man confirmed his role in a large-scale and long-running Internet-based fraud scheme that allowed him and other fraudsters to siphon roughly $50 million from dozens of investors over eight years,&nbsp;between&nbsp;2012 to October 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

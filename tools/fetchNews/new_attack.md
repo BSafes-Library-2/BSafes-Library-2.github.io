@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Start New Year with Attacks on Russian Foreign Ministry<a href="https://thehackernews.com/2022/01/north-korean-hackers-start-new-year.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean cyberespionage group named Konni has been linked to a series of targeted attacks aimed at the Russian Federation's Ministry of Foreign Affairs (MID) with New Year lures to compromise Windows systems with malware.  "This activity cluster demonstrates the patient and persistent nature of advanced actors in waging multi-phased campaigns against perceived high-value networks," researchers from Lumen Technologies' Black Lotus Labs&nbsp; said &nbsp;in an analysis shared with The Hacker News.  The Konni group's tactics, techniques, and procedures (TTPs) are known to overlap with threat actors belonging to the broader&nbsp; Kimsuky &nbsp;umbrella, which is also tracked by the cybersecurity community under the monikers Velvet Chollima, ITG16, Black Banshee, and Thallium.   The most recent attacks involved the actor gaining access to the target networks through stolen credentials, exploiting the foothold to load malware for intelligence gathering purposes, with early signs of t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

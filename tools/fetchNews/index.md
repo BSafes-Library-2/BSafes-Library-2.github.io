@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2022
+January 6, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Activision Files Unusual Lawsuit over Call of Duty Cheat Codes<a href="https://threatpost.com/activision-lawsuit-call-of-duty-cheat-codes/177443/"> Full Text</a>
@@ -50,7 +50,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 06, 2022
+January 06, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FinalSite ransomware attack shuts down thousands of school websites<a href="https://www.bleepingcomputer.com/news/security/finalsite-ransomware-attack-shuts-down-thousands-of-school-websites/"> Full Text</a>
@@ -66,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 06, 2022
+January 06, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Night Sky is the latest ransomware targeting corporate networks<a href="https://www.bleepingcomputer.com/news/security/night-sky-is-the-latest-ransomware-targeting-corporate-networks/"> Full Text</a>
@@ -82,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2022
+January 6, 2022 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Web Skimmer Campaign Attacks via Cloud Video Distribution Supply Chain<a href="https://cyware.com/news/new-web-skimmer-campaign-attacks-via-cloud-video-distribution-supply-chain-dec51dff"> Full Text</a>
@@ -98,7 +98,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 06, 2022
+January 06, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Start New Year with Attacks on Russian Foreign Ministry<a href="https://thehackernews.com/2022/01/north-korean-hackers-start-new-year.html"> Full Text</a>
@@ -114,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2022
+January 6, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked Konni APT targets Russian diplomatic bodies<a href="https://securityaffairs.co/wordpress/126388/apt/konni-apt-russia-entities.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2022
+January 6, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Voice Authentication Scam Leaves Victims on the Hook<a href="https://threatpost.com/google-voice-authentication-scam/177421/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 06, 2022
+January 06, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FlexBooker discloses data breach, over 3.7 million accounts impacted<a href="https://www.bleepingcomputer.com/news/security/flexbooker-discloses-data-breach-over-37-million-accounts-impacted/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2022
+January 6, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Use of Phishing Toolkits to ByPass 2FA is on the Rise<a href="https://cyware.com/news/the-use-of-phishing-toolkits-to-bypass-2fa-is-on-the-rise-43d8c7bf"> Full Text</a>
@@ -183,7 +183,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 06, 2022
+January 06, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Cybersecurity Framework: A Quick Guide for SaaS Security Compliance<a href="https://thehackernews.com/2022/01/nist-cybersecurity-framework-quick.html"> Full Text</a>
@@ -199,7 +199,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2022
+January 6, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors stole 1.1 million customer accounts from 17 well-known companies<a href="https://securityaffairs.co/wordpress/126381/cyber-crime/credential-stuffing-ny-oag-report.html"> Full Text</a>
@@ -219,7 +219,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 06, 2022
+January 06, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US arrests suspect who stole unpublished books in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/us-arrests-suspect-who-stole-unpublished-books-in-phishing-attacks/"> Full Text</a>
@@ -235,7 +235,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2022
+January 6, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Java RMI services often vulnerable to SSRF attacks<a href="https://portswigger.net/daily-swig/java-rmi-services-often-vulnerable-to-ssrf-attacks?&web_view=true"> Full Text</a>
@@ -251,7 +251,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 06, 2022
+January 06, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Trick Could Let Malware Fake iPhone Shutdown to Spy on Users Secretly<a href="https://thehackernews.com/2022/01/new-trick-could-let-malware-fake-iphone.html"> Full Text</a>
@@ -267,7 +267,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2022
+January 6, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Docs comment feature abused in phishing campaign<a href="https://securityaffairs.co/wordpress/126375/hacking/google-docs-comment-phishing.html"> Full Text</a>
@@ -287,7 +287,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 06, 2022
+January 06, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US online pharmacy Ravkoo links data breach to AWS portal incident<a href="https://www.bleepingcomputer.com/news/security/us-online-pharmacy-ravkoo-links-data-breach-to-aws-portal-incident/"> Full Text</a>
@@ -303,7 +303,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2022
+January 6, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chemicals Company Element Solutions Discloses Cybersecurity Incident<a href="https://www.securityweek.com/chemicals-company-element-solutions-discloses-cybersecurity-incident?&web_view=true"> Full Text</a>
@@ -319,7 +319,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2022
+January 6, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 France hits Google, Facebook with fines over ‘Cookies’ management<a href="https://securityaffairs.co/wordpress/126371/digital-id/france-cnil-google-facebook-fines.html"> Full Text</a>
@@ -339,7 +339,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 06, 2022
+January 06, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swiss army bans all chat apps but locally-developed Threema<a href="https://www.bleepingcomputer.com/news/security/swiss-army-bans-all-chat-apps-but-locally-developed-threema/"> Full Text</a>
@@ -355,7 +355,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2022
+January 6, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Government Offices Across Albuquerque, Los Ranchos, and Tijeras Shut Down to Disruptive Cyberattack<a href="https://therecord.media/albuquerque-impacted-by-ransomware-attack-on-bernalillo-county-government/?&web_view=true"> Full Text</a>
@@ -371,7 +371,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2022
+January 6, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NoReboot persistence technique fakes iPhone shutdown<a href="https://securityaffairs.co/wordpress/126358/hacking/noreboot-persistence-iphone.html"> Full Text</a>
@@ -391,7 +391,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 06, 2022
+January 06, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Docs commenting feature exploited for spear-phishing<a href="https://www.bleepingcomputer.com/news/security/google-docs-commenting-feature-exploited-for-spear-phishing/"> Full Text</a>
@@ -407,7 +407,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2022
+January 6, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Attackers' Peculiar Interest in Cryptocurrency<a href="https://cyware.com/news/north-korean-attackers-peculiar-interest-in-cryptocurrency-1bbc967e"> Full Text</a>
@@ -424,7 +424,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2022
+January 6, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixed CVE-2021-22045 heap-overflow in Workstation, Fusion and ESXi<a href="https://securityaffairs.co/wordpress/126352/security/vmware-cve-2021-22045-heap-overflow.html"> Full Text</a>
@@ -444,7 +444,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 06, 2022
+January 06, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns about ongoing Google Voice authentication scams<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-about-ongoing-google-voice-authentication-scams/"> Full Text</a>
@@ -460,7 +460,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2022
+January 5, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Elephant Beetle’ Lurks for Months in Networks<a href="https://threatpost.com/elephant-beetle-months-networks-financial/177393/"> Full Text</a>
@@ -476,7 +476,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2022
+January 5, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Broward Breach Highlights Healthcare Supply-Chain Problems<a href="https://threatpost.com/broward-breach-healthcare-supply-chain/177401/"> Full Text</a>
@@ -492,7 +492,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 05, 2022
+January 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Patches Important Bug Affecting ESXi, Workstation and Fusion Products<a href="https://thehackernews.com/2022/01/vmware-patches-important-bug-affecting.html"> Full Text</a>
@@ -508,7 +508,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2022
+January 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uber Bug, Ignored for Years, Casts Doubt on Official Uber Emails<a href="https://threatpost.com/uber-bug-ignored-emails/177395/"> Full Text</a>
@@ -524,7 +524,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 05, 2022
+January 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Releases New Chrome Update to Patch Dozens of New Browser Vulnerabilities<a href="https://thehackernews.com/2022/01/google-releases-new-chrome-update-to.html"> Full Text</a>
@@ -540,7 +540,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 05, 2022
+January 05, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Broker-dealers impersonators stole $50 million using spoofed sites<a href="https://www.bleepingcomputer.com/news/security/broker-dealers-impersonators-stole-50-million-using-spoofed-sites/"> Full Text</a>

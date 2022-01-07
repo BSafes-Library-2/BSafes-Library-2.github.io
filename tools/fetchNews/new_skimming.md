@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+January 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Web Skimmer Campaign Attacks via Cloud Video Distribution Supply Chain<a href="https://cyware.com/news/new-web-skimmer-campaign-attacks-via-cloud-video-distribution-supply-chain-dec51dff"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sotheby’s Brightcove account was breached by hackers who deployed a skimmer to pilfer payment card details from more than 100 of its luxury real estate websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

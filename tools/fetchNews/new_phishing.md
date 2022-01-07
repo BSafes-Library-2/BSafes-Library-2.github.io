@@ -8,6 +8,95 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Voice Authentication Scam Leaves Victims on the Hook<a href="https://threatpost.com/google-voice-authentication-scam/177421/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is seeing so much activity around malicious Google Voice activity, where victims are associated with fraudulent virtual phone numbers, that it sent out an alert this week.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Use of Phishing Toolkits to ByPass 2FA is on the Rise<a href="https://cyware.com/news/the-use-of-phishing-toolkits-to-bypass-2fa-is-on-the-rise-43d8c7bf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers claimed to have found over a thousand phishing toolkits that are able to hack two-factor authentication, allowing hackers to conduct sophisticated attacks on a target system. It is bizarre to admit that most of these MitM phishing toolkits in use by attackers are based on  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US arrests suspect who stole unpublished books in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/us-arrests-suspect-who-stole-unpublished-books-in-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Italian man allegedly involved in a multi-year scheme to fraudulently obtain hundreds of prepublication manuscripts was arrested on Wednesday&nbsp;at the John F. Kennedy International Airport, in&nbsp;New York.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Docs comment feature abused in phishing campaign<a href="https://securityaffairs.co/wordpress/126375/hacking/google-docs-comment-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a new phishing technique that abuses the commenting feature of Google Docs to send out emails that appear from a legitimate source. 
+
+
+
+Researchers from security firm Avanan in December uncovered a phishing campaign targeting mainly Outlook...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Docs commenting feature exploited for spear-phishing<a href="https://www.bleepingcomputer.com/news/security/google-docs-commenting-feature-exploited-for-spear-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new trend in phishing attacks emerged in December 2021, with threat actors abusing the commenting feature of Google Docs to send out emails that appear trustworthy.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns about ongoing Google Voice authentication scams<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-about-ongoing-google-voice-authentication-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) says Americans who share their phone number online are being targeted by Google Voice authentication scams.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

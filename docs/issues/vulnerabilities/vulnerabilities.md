@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Java RMI services often vulnerable to SSRF attacks<a href="https://portswigger.net/daily-swig/java-rmi-services-often-vulnerable-to-ssrf-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Java RMI services can be attacked through server-side request forgery (SSRF) attacks, according to a detailed analysis of the problem by security researcher Tobias Neitzel.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed CVE-2021-22045 heap-overflow in Workstation, Fusion and ESXi<a href="https://securityaffairs.co/wordpress/126352/security/vmware-cve-2021-22045-heap-overflow.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed a heap-overflow issue (CVE-2021-22045) in Workstation, Fusion and  CVE-2021-22045  products that can lead to code execution on the hypervisor. 
+
+
+
+VMware released security updates to address a heap-overflow vulnerability, tracked as CVE-2021-22045,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Patches Important Bug Affecting ESXi, Workstation and Fusion Products<a href="https://thehackernews.com/2022/01/vmware-patches-important-bug-affecting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMWare has shipped updates to Workstation, Fusion, and ESXi products to address an "important" security vulnerability that could be weaponized by a threat actor to take control of affected systems.  The issue relates to a heap-overflow vulnerability — tracked as&nbsp; CVE-2021-22045 &nbsp;(CVSS score: 7.7) — that, if successfully exploited, results in the execution of arbitrary code. The company credited Jaanus Kääp, a security researcher with Clarified Security, for reporting the flaw.   "A malicious actor with access to a virtual machine with CD-ROM device emulation may be able to exploit this vulnerability in conjunction with other issues to execute code on the hypervisor from a virtual machine," VMware&nbsp; said &nbsp;in an advisory published on January 4.   The error affects ESXi versions 6.5, 6.7, and 7.0; Workstation versions 16.x; and Fusion versions 12.x, with the company yet to release a patch for ESXi 7.0. In the interim, the company is&nbsp; recommending &nbsp;users to disable all
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber Bug, Ignored for Years, Casts Doubt on Official Uber Emails<a href="https://threatpost.com/uber-bug-ignored-emails/177395/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A simple-to-exploit bug that allows bad actors to send emails from Uber’s official system – skating past email security – went unaddressed despite flagging by multiple researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases New Chrome Update to Patch Dozens of New Browser Vulnerabilities<a href="https://thehackernews.com/2022/01/google-releases-new-chrome-update-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has rolled out the first round of updates to its Chrome web browser for 2022 to fix 37 security issues, one of which is rated Critical in severity and could be exploited to pass arbitrary code and gain control over a victim's system.  Tracked as&nbsp; CVE-2022-0096 , the flaw relates to a&nbsp; use-after-free bug &nbsp;in the Storage component, which could have devastating effects ranging from corruption of valid data to the execution of malicious code on a compromised machine.   Security researcher Yangkang ( @dnpushme ) of Qihoo 360 ATA, who has previously disclosed&nbsp; zero-day vulnerabilities &nbsp;in Apple's WebKit, has been credited with discovering and reporting the flaw on November 30, 2021.   It's also worth pointing out that 24 of the 37 uncovered flaws came from external researchers, including its Google Project Zero initiative, while the others were flagged as part of its ongoing internal security work. Of the 24 bugs, 10 are rated High, another 10 are rated Medium, and three
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

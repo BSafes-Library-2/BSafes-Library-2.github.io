@@ -8,6 +8,21 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+January 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Attackers' Peculiar Interest in Cryptocurrency<a href="https://cyware.com/news/north-korean-attackers-peculiar-interest-in-cryptocurrency-1bbc967e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts claimed that state-backed North Korean hackers have stolen nearly $1.7 billion worth of cryptocurrency from various exchanges in the past five years. Federal prosecutors from the U.S. believe that the Government of North Korea regards cryptocurrency as a long-term investment. Crypto exchang ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

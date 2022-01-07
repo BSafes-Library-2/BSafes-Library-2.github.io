@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+January 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Cybersecurity Framework: A Quick Guide for SaaS Security Compliance<a href="https://thehackernews.com/2022/01/nist-cybersecurity-framework-quick.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When I want to know the most recently published best practices in cyber security, I visit The National Institute of Standards and Technology (NIST). From the latest password requirements (NIST 800-63) to IoT security for manufacturers (NISTIR 8259), NIST is always the starting point. NIST plays a key role as a US standard-setter, due to the organization's professionalism and the external experts who help to create NIST documents.  The NIST Cybersecurity Framework (CSF) was initially released in 2014 and last updated in 2018. The framework enables organizations to improve the security and resilience of critical infrastructure with a well-planned and easy-to-use framework.  The continuing growth in SaaS, and the major changes to the work environment due to COVID-19 bring new security challenges. Although the CSF was written and updated while SaaS was on the rise, it is still geared towards the classic legacy critical infrastructure security challenges. However, organizations can bet
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swiss army bans all chat apps but locally-developed Threema<a href="https://www.bleepingcomputer.com/news/security/swiss-army-bans-all-chat-apps-but-locally-developed-threema/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Swiss army has banned foreign instant-messaging apps such as Signal, Telegram, and WhatsApp&nbsp;and requires army members to use the locally-developed Threema messaging app instead.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
