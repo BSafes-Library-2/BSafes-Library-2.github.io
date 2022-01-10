@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - January 7th 2022 - Watch out for USB drives<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-7th-2022-watch-out-for-usb-drives/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the holidays these past two weeks, there have been only a few known ransomware attacks and little research released. Here is what we know.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of ransomware targeting Internet-exposed NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-of-ransomware-targeting-internet-exposed-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP has warned customers today to secure Internet-exposed&nbsp;network-attached storage (NAS) devices immediately from ongoing ransomware and brute-force attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

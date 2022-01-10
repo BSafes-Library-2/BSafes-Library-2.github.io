@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+January 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps<a href="https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of popular open-source libraries 'colors' and 'faker' were left stunned after they saw their applications, using these libraries,&nbsp;printing gibberish data and breaking. Some surmised if the NPM libraries had been compromised, but it turns out there's more to the story.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3.7M FlexBooker Records Dumped on Hacker Forum<a href="https://threatpost.com/flexbooker-records-dumped-hacker-forum/177460/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are trading millions of records  from a trio of pre-holiday breaches on an online forum. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore: Personal details of OG department store customers leaked in data breach<a href="https://www.straitstimes.com/singapore/consumer/personal-data-of-og-department-store-customers-leaked?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a statement to OG members, the department store said it was notified on Tuesday about the data breach, which affected members who are in either the basic or gold tiers.
+</details>
+<div style="text-align: right" markdown="1">
+Straits Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

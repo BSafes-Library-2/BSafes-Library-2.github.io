@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Groups Registering C2 Domains Way Before Attacks<a href="https://cyware.com/news/apt-groups-registering-c2-domains-way-before-attacks-e8eb5cb9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent research claims that 22.3% of aged domain owners may return dangerous outcomes, as these dormant domains are increasingly being misused by attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

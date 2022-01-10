@@ -8,6 +8,38 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Activision Files Unusual Lawsuit over Call of Duty Cheat Codes<a href="https://threatpost.com/activision-lawsuit-call-of-duty-cheat-codes/177443/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Activision is suing to shut down the EngineOwning cheat-code site and hold individual developers and coders liable for damages.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France hits Google, Facebook with fines over ‘Cookies’ management<a href="https://securityaffairs.co/wordpress/126371/digital-id/france-cnil-google-facebook-fines.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French data privacy and protection authority hit Google and Facebook with 210 million euros ($237 million) in fines.
+
+
+
+France’s National Commission on Informatics and Liberty (CNIL), the French data privacy and protection authority, hit Facebook...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

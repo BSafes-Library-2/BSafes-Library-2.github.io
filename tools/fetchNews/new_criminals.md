@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AvosLocker Actors Seek Apology by Releasing Free Decryptor<a href="https://cyware.com/news/avoslocker-actors-seek-apology-by-releasing-free-decryptor-8621ab38"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AvosLocker ransomware group has coughed up a free decryptor after learning that one of their victims was a U.S. police department. Hacker revealed that the taxpayer money is generally hard to get and hence, they usually avoid targeting government entities. Earlier this week, it was spotted with ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

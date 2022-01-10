@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09, 2022
+January 09, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps<a href="https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2022
+January 9, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft and the FTC Say Attackers Still Not Done with Log4Shell<a href="https://cyware.com/news/microsoft-and-the-ftc-say-attackers-still-not-done-with-log4shell-05b476ab"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2022
+January 9, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Defense Magazine – January 2022 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/126506/breaking-news/cyber-defense-magazine-january-2022.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2022
+January 9, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Ways to Hide Malware Inside SSD Firmware Discovered<a href="https://cyware.com/news/new-ways-to-hide-malware-inside-ssd-firmware-discovered-baa1a2f7"> Full Text</a>
@@ -102,7 +102,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2022
+January 9, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US NCSC and DoS share best practices against surveillance tools<a href="https://securityaffairs.co/wordpress/126497/digital-id/defending-against-surveillance-tools.html"> Full Text</a>
@@ -122,7 +122,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2022
+January 9, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT Groups Registering C2 Domains Way Before Attacks<a href="https://cyware.com/news/apt-groups-registering-c2-domains-way-before-attacks-e8eb5cb9"> Full Text</a>
@@ -138,7 +138,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2022
+January 9, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swiss army asks its personnel to use the Threema instant-messaging app<a href="https://securityaffairs.co/wordpress/126485/digital-id/swiss-army-recommeds-threema-app.html"> Full Text</a>
@@ -158,7 +158,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2022
+January 9, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian submarines threatening undersea cables, UK defence chief warns<a href="https://securityaffairs.co/wordpress/126459/security/undersea-cables-protection.html"> Full Text</a>
@@ -178,7 +178,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2022
+January 9, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 348<a href="https://securityaffairs.co/wordpress/126471/breaking-news/security-affairs-newsletter-round-348.html"> Full Text</a>
@@ -198,7 +198,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 08, 2022
+January 08, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trojanized dnSpy app drops malware cocktail on researchers, devs<a href="https://www.bleepingcomputer.com/news/security/trojanized-dnspy-app-drops-malware-cocktail-on-researchers-devs/"> Full Text</a>
@@ -214,7 +214,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 08, 2022
+January 08, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rapid window title changes cause ‘white screen of death’<a href="https://www.bleepingcomputer.com/news/security/rapid-window-title-changes-cause-white-screen-of-death-/"> Full Text</a>
@@ -230,7 +230,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2022
+January 8, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: FIN7 hackers target US companies with BadUSB devices to install ransomware<a href="https://therecord.media/fbi-fin7-hackers-target-us-companies-with-badusb-devices-to-install-ransomware/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2022
+January 8, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unauthenticated RCE in H2 Database Console is similar to Log4Shell<a href="https://securityaffairs.co/wordpress/126460/security/unauthenticated-rce-h2-database.html"> Full Text</a>
@@ -266,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2022
+January 8, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FluBot malware continues to evolve. What’s new in Version 5.0 and beyond?<a href="https://securityaffairs.co/wordpress/126451/malware/flubot-ver-5-0-improvements.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2022
+January 8, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alfer Microsoft, also SonicWall confirmed that its products were affected by Y2K22 bug<a href="https://securityaffairs.co/wordpress/126447/security/sonicwall-y2k22-bug.html"> Full Text</a>
@@ -310,7 +310,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 07, 2022
+January 07, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley — Domestic extremists adapt online strategies<a href="https://thehill.com//policy/technology/overnights/588817-hillicon-valley"> Full Text</a>
@@ -326,7 +326,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 07, 2022
+January 07, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Launches 'Privacy Center' to Educate Users on Data Collection and Privacy Options<a href="https://thehackernews.com/2022/01/facebook-launches-privacy-center-to.html"> Full Text</a>
@@ -342,7 +342,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2022
+January 7, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3.7M FlexBooker Records Dumped on Hacker Forum<a href="https://threatpost.com/flexbooker-records-dumped-hacker-forum/177460/"> Full Text</a>
@@ -358,7 +358,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 07, 2022
+January 07, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NHS Warns of Hackers Targeting Log4j Flaws in VMware Horizon<a href="https://thehackernews.com/2022/01/nhs-warns-of-hackers-targeting-log4j.html"> Full Text</a>
@@ -374,7 +374,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 07, 2022
+January 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Log4Shell-like Critical RCE Flaw Discovered in H2 Database Console<a href="https://thehackernews.com/2022/01/log4shell-like-critical-rce-flaw.html"> Full Text</a>
@@ -390,7 +390,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 07, 2022
+January 07, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - January 7th 2022 - Watch out for USB drives<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-7th-2022-watch-out-for-usb-drives/"> Full Text</a>
@@ -406,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 07, 2022
+January 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall: Y2K22 bug hits Email Security, firewall products<a href="https://www.bleepingcomputer.com/news/security/sonicwall-y2k22-bug-hits-email-security-firewall-products/"> Full Text</a>
@@ -422,7 +422,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2022
+January 7, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New York Attorney General Alerts Companies About Credential Stuffing Attacks<a href="https://cyware.com/news/new-york-attorney-general-alerts-companies-about-credential-stuffing-attacks-44b0f91f"> Full Text</a>
@@ -438,7 +438,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 07, 2022
+January 07, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Hackers use BadUSB to target defense firms with ransomware<a href="https://www.bleepingcomputer.com/news/security/fbi-hackers-use-badusb-to-target-defense-firms-with-ransomware/"> Full Text</a>
@@ -454,7 +454,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2022
+January 7, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AvosLocker Actors Seek Apology by Releasing Free Decryptor<a href="https://cyware.com/news/avoslocker-actors-seek-apology-by-releasing-free-decryptor-8621ab38"> Full Text</a>
@@ -471,7 +471,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 07, 2022
+January 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FluBot malware now targets Europe posing as Flash Player app<a href="https://www.bleepingcomputer.com/news/security/flubot-malware-now-targets-europe-posing-as-flash-player-app/"> Full Text</a>
@@ -487,7 +487,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2022
+January 7, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Singapore: Personal details of OG department store customers leaked in data breach<a href="https://www.straitstimes.com/singapore/consumer/personal-data-of-og-department-store-customers-leaked?&web_view=true"> Full Text</a>
@@ -503,7 +503,7 @@ Straits Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 07, 2022
+January 07, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US counterintelligence shares tips to block spyware attacks<a href="https://www.bleepingcomputer.com/news/security/us-counterintelligence-shares-tips-to-block-spyware-attacks/"> Full Text</a>
@@ -519,7 +519,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2022
+January 7, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aquatic Panda Targets Academic Institutions via Log4Shell<a href="https://cyware.com/news/aquatic-panda-targets-academic-institutions-via-log4shell-f70588c1"> Full Text</a>
@@ -536,7 +536,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 07, 2022
+January 07, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NHS warns of hackers exploiting Log4Shell in VMware Horizon<a href="https://www.bleepingcomputer.com/news/security/nhs-warns-of-hackers-exploiting-log4shell-in-vmware-horizon/"> Full Text</a>
@@ -552,7 +552,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2022
+January 7, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 group continues to target US companies with BadUSB devices<a href="https://securityaffairs.co/wordpress/126439/breaking-news/fin7-badusb-attacks.html"> Full Text</a>
@@ -572,7 +572,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 07, 2022
+January 07, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP warns of ransomware targeting Internet-exposed NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-of-ransomware-targeting-internet-exposed-nas-devices/"> Full Text</a>
@@ -588,7 +588,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2022
+January 7, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to secure QNAP NAS devices? The vendor’s instructions<a href="https://securityaffairs.co/wordpress/126432/hacking/qnap-nas-under-attack-2.html"> Full Text</a>
@@ -608,7 +608,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 06, 2022
+January 06, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: DHS issues new warning on Jan. 6<a href="https://thehill.com//policy/technology/overnights/588688-hillicon-valley"> Full Text</a>
@@ -624,7 +624,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2022
+January 6, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Partially Unpatched VMware Bug Opens Door to Hypervisor Takeover<a href="https://threatpost.com/unpatched-vmware-bug-hypervisor-takeover/177428/"> Full Text</a>
@@ -640,7 +640,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2022
+January 6, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple iPhone Malware Tactic Causes Fake Shutdowns to Enable Spying<a href="https://threatpost.com/apple-iphone-malware-fake-shutdowns-spying/177420/"> Full Text</a>
@@ -656,7 +656,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 06, 2022
+January 06, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 France Fines Google, Facebook €210 Million Over Privacy Violating Tracking Cookies<a href="https://thehackernews.com/2022/01/france-fines-google-facebook-210.html"> Full Text</a>

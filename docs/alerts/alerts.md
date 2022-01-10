@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2022 - New York Attorney General
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attorney General James Alerts 17 Companies to “Credential Stuffing” Cyberattacks Impacting More Than 1.1 Million Consumers <a href="https://ag.ny.gov/press-release/2022/attorney-general-james-alerts-17-companies-credential-stuffing-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NEW YORK – New York Attorney General Letitia James today announced the results of a sweeping investigation into “credential stuffing” that discovered more than 1.1 million online accounts compromised in cyberattacks at 17 well-known companies.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2022 - NHS 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4Shell Vulnerabilities in VMware Horizon Targeted to Install Web Shells <a href="https://digital.nhs.uk/cyber-alerts/2022/cc-4002"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are actively targeting Log4Shell vulnerabilities in VMware Horizon servers in an effort to establish web shells.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 4, 2022 - FTC
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

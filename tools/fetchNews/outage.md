@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+January 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FinalSite ransomware attack shuts down thousands of school websites<a href="https://www.bleepingcomputer.com/news/security/finalsite-ransomware-attack-shuts-down-thousands-of-school-websites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FinalSite, a leading school website services provider, has suffered a ransomware attack disrupting&nbsp;access to websites for thousands of schools worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Government Offices Across Albuquerque, Los Ranchos, and Tijeras Shut Down to Disruptive Cyberattack<a href="https://therecord.media/albuquerque-impacted-by-ransomware-attack-on-bernalillo-county-government/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IT systems and public offices in the county are expected to remain closed throughout Thursday and the rest of the week as well, as officials deal with the cyberattack’s aftermath.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

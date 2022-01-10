@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+January 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FlexBooker discloses data breach, over 3.7 million accounts impacted<a href="https://www.bleepingcomputer.com/news/security/flexbooker-discloses-data-breach-over-37-million-accounts-impacted/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Accounts of more than three million users of the U.S.-based FlexBooker appointment scheduling service have been stolen in an attack before the holidays and are now being traded on hacker forums.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US online pharmacy Ravkoo links data breach to AWS portal incident<a href="https://www.bleepingcomputer.com/news/security/us-online-pharmacy-ravkoo-links-data-breach-to-aws-portal-incident/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ravkoo, a US Internet-based pharmacy service, has disclosed a data breach after the company's AWS hosted cloud prescription portal was involved in a security incident that may have led to personal and health information being accessed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chemicals Company Element Solutions Discloses Cybersecurity Incident<a href="https://www.securityweek.com/chemicals-company-element-solutions-discloses-cybersecurity-incident?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company said it had detected an intrusion on some of its IT systems and it “promptly took action to contain it and implement business continuity and data recovery protocols.”
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Broward Breach Highlights Healthcare Supply-Chain Problems<a href="https://threatpost.com/broward-breach-healthcare-supply-chain/177401/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 1.3 million patient records were stolen in the just-disclosed breach, which occurred back in October.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

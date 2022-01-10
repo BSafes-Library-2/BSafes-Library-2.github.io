@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+January 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid window title changes cause ‘white screen of death’<a href="https://www.bleepingcomputer.com/news/security/rapid-window-title-changes-cause-white-screen-of-death-/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experimentation with ANSI escape characters on terminal emulators has led to the discovery of multiple high-severity DoS (denial of service) vulnerabilities on Windows terminals and Chrome-based web browsers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

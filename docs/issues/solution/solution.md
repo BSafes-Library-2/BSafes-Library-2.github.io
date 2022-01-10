@@ -8,6 +8,24 @@ nav_order: 900195
 
 ## Solution
 ---
+January 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to secure QNAP NAS devices? The vendor’s instructions<a href="https://securityaffairs.co/wordpress/126432/hacking/qnap-nas-under-attack-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP is warning customers of ransomware attacks targeting network-attached storage (NAS) devices exposed online.
+
+
+
+Taiwanese vendor QNAP has warned customers to secure network-attached storage (NAS) exposed online from ransomware and brute-force attacks....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900165
 
 ## Privacy
 ---
+January 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Launches 'Privacy Center' to Educate Users on Data Collection and Privacy Options<a href="https://thehackernews.com/2022/01/facebook-launches-privacy-center-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms, the company formerly known as Facebook, on Friday announced the launch of a centralized Privacy Center that aims to "educate people" about its approach with regards to how it collects and processes personal information across its family of social media apps.  "Privacy Center provides helpful information about five common privacy topics: sharing, security, data collection, data use and ads," the social technology firm&nbsp; said &nbsp;in a press release.  The first module, Security, will offer easy access to common tools such as account security settings and two-factor authentication. Sharing will provide specifics about post visibility and settings to archive or trash old posts. Collection and Use will give users a quick glance into the type of data Meta harvests and learn how and why it's used, respectively. Lastly, the Ads section will furnish information regarding a user's ad preferences.  The learning hub is expected to be initially limited to a s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US counterintelligence shares tips to block spyware attacks<a href="https://www.bleepingcomputer.com/news/security/us-counterintelligence-shares-tips-to-block-spyware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US National Counterintelligence and Security Center (NCSC) and the Department of State have jointly published guidance on defending against attacks using&nbsp;commercial surveillance tools.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France Fines Google, Facebook €210 Million Over Privacy Violating Tracking Cookies<a href="https://thehackernews.com/2022/01/france-fines-google-facebook-210.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Commission nationale de l'informatique et des libertés (CNIL), France's data protection watchdog, has slapped Facebook (now Meta Platforms) and Google with fines of €150 million ($170 million) and €60 million ($68 million) for violating E.U. privacy rules by failing to provide users with an easy option to reject cookie tracking technology.  "The websites facebook.com, google.fr and youtube.com offer a button allowing the user to immediately accept cookies," the&nbsp; authority &nbsp; said . "However, they do not provide an equivalent solution (button or other) enabling the Internet user to easily refuse the deposit of these cookies."   Facebook told&nbsp; TechCrunch &nbsp;that it was reviewing the ruling, while Google said it's working to change its practices in response to the CNIL fines.  HTTP cookies are small pieces of data created while a user is browsing a website and placed on the user's computer or other device by the user's web browser to track online
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
