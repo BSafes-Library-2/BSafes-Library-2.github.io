@@ -30,8 +30,6 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://securityaffairs.co/wordpress/126497/digital-id/defending-against-surveillance-tools.html
-. https://www.bleepingcomputer.com/news/security/us-counterintelligence-shares-tips-to-block-spyware-attacks/
 
 Law
 

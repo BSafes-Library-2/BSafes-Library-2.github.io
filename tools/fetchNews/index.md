@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FinalSite: No school data stolen in ransomware attack behind site outages<a href="https://www.bleepingcomputer.com/news/security/finalsite-no-school-data-stolen-in-ransomware-attack-behind-site-outages/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zloader Campaign Abuses Microsoft's Security Checks<a href="https://cyware.com/news/zloader-campaign-abuses-microsofts-security-checks-c5199a2d"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley — Dems press privacy groups over kids' safety<a href="https://thehill.com//policy/technology/overnights/589095-hillicon-valley"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find Bugs in Over A Dozen Widely Used URL Parser Libraries<a href="https://thehackernews.com/2022/01/researchers-find-bugs-in-over-dozen.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Several EA Sports FIFA 22 players have been hacked<a href="https://securityaffairs.co/wordpress/126547/hacking/ea-sports-fifa-22-accounts-hacked.html"> Full Text</a>
@@ -119,7 +119,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Extortion DDoS attacks grow stronger and more common<a href="https://www.bleepingcomputer.com/news/security/extortion-ddos-attacks-grow-stronger-and-more-common/"> Full Text</a>
@@ -135,7 +135,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 City of Grass Valley Suffers Data Breach Impacting Employee and Citizen Information<a href="https://portswigger.net/daily-swig/city-of-grass-valley-california-suffers-data-breach-employee-and-citizen-information-exposed?&web_view=true"> Full Text</a>
@@ -151,7 +151,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Abcbot Botnet Linked to Operators of Xanthe Cryptomining malware<a href="https://thehackernews.com/2022/01/abcbot-botnet-linked-to-operators-of.html"> Full Text</a>
@@ -167,7 +167,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Abcbot and Xanthe botnets have the same origin, experts discovered<a href="https://securityaffairs.co/wordpress/126540/cyber-crime/abcbot-botnet-investigation.html"> Full Text</a>
@@ -187,7 +187,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux version of AvosLocker ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/linux-version-of-avoslocker-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
@@ -203,7 +203,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Buffer overflow vulnerability spotted in AnyCubic Chitubox plugin<a href="https://blog.talosintelligence.com/2022/01/vulnerability-spotlight-buffer-overflow.html?&web_view=true"> Full Text</a>
@@ -219,7 +219,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indian-linked Patchwork APT infected its own system revealing its ops<a href="https://securityaffairs.co/wordpress/126524/apt/patchwork-apt-ragnatela-rat.html"> Full Text</a>
@@ -239,7 +239,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oops: Cyberspies infect themselves with their own malware<a href="https://www.bleepingcomputer.com/news/security/oops-cyberspies-infect-themselves-with-their-own-malware/"> Full Text</a>
@@ -255,7 +255,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patient Data from Bangkok's Siriraj Hospital Sold on Online Forum<a href="https://www.bangkokpost.com/thailand/general/2245063/huge-patient-data-leak-from-siriraj-hospital?&web_view=true"> Full Text</a>
@@ -271,7 +271,7 @@ Bangkok Post
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ZLoader malware campaign hit more than 2000 victims across 111 countries<a href="https://securityaffairs.co/wordpress/126513/malware/zloader-new-campaign.html"> Full Text</a>
@@ -291,7 +291,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: powerdir bug gives access to protected macOS user data<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-powerdir-bug-gives-access-to-protected-macos-user-data/"> Full Text</a>
@@ -307,7 +307,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Cyber Command partners with universities to prepare graduates for military cyber roles<a href="https://therecord.media/cyber-command-partners-with-us-universities-to-prepare-graduates-for-military-cyber-roles/?&web_view=true"> Full Text</a>
@@ -323,7 +323,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol ordered to erase data on those not linked to crime<a href="https://www.bleepingcomputer.com/news/security/europol-ordered-to-erase-data-on-those-not-linked-to-crime/"> Full Text</a>
@@ -339,7 +339,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 iProov raises $70 million to fuel businesss growth<a href="https://www.helpnetsecurity.com/2022/01/09/iproov-investment/?&web_view=true"> Full Text</a>
@@ -355,7 +355,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress 5.8.3 security update fixes SQL injection, XSS flaws<a href="https://www.bleepingcomputer.com/news/security/wordpress-583-security-update-fixes-sql-injection-xss-flaws/"> Full Text</a>
@@ -371,7 +371,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Kit Victim Workflow and Data Exflitration<a href="https://www.zerofox.com/blog/phishing-kit-victim-workflow-and-data-exfiltration/?&web_view=true"> Full Text</a>
@@ -387,7 +387,7 @@ ZeroFox
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09, 2022
+January 09, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BADNEWS! Patchwork APT Hackers Score Own Goal in Recent Malware Attacks<a href="https://thehackernews.com/2022/01/badnews-patchwork-apt-hackers-score-own.html"> Full Text</a>

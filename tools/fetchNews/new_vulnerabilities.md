@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Bugs in Over A Dozen Widely Used URL Parser Libraries<a href="https://thehackernews.com/2022/01/researchers-find-bugs-in-over-dozen.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A study of 16 different Uniform Resource Locator ( URL ) parsing libraries has unearthed inconsistencies and confusions that could be exploited to bypass validations and open the door to a wide range of attack vectors.  In a deep-dive analysis jointly conducted by cybersecurity firms Claroty &nbsp; and Synk, eight security vulnerabilities were identified in as many third-party libraries written in C, JavaScript, PHP, Python, and Ruby languages and used by several web applications.  "The confusion in URL parsing can cause unexpected behavior in the software (e.g., web application), and could be exploited by threat actors to cause denial-of-service conditions, information leaks, or possibly conduct remote code execution attacks," the researchers said in a report shared with The Hacker News.  With URLs being a fundamental mechanism by which resources — located either locally or on the web — can be requested and retrieved, differences in how the parsing libraries interpret a URL requ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Buffer overflow vulnerability spotted in AnyCubic Chitubox plugin<a href="https://blog.talosintelligence.com/2022/01/vulnerability-spotlight-buffer-overflow.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered a heap-based buffer overflow flaw in the Chitubox AnyCubic plugin, which is an 3-D printing software for users to download, process, and send models to a 3-D printer.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: powerdir bug gives access to protected macOS user data<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-powerdir-bug-gives-access-to-protected-macos-user-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says threat actors could use a macOS vulnerability to bypass Transparency, Consent, and Control (TCC) technology to access users' protected data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress 5.8.3 security update fixes SQL injection, XSS flaws<a href="https://www.bleepingcomputer.com/news/security/wordpress-583-security-update-fixes-sql-injection-xss-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The WordPress development team released version 5.8.3, a short-cycle security release that addresses four vulnerabilities, three of which are rated of high importance.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,53 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft and the FTC Say Attackers Still Not Done with Log4Shell<a href="https://cyware.com/news/microsoft-and-the-ftc-say-attackers-still-not-done-with-log4shell-05b476ab"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Public and private organizations alike, including Microsoft and the U.S. Federal Trade Commission (FTC), are alerting organizations against continuous attacks exploiting Log4Shell since December 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aquatic Panda Targets Academic Institutions via Log4Shell<a href="https://cyware.com/news/aquatic-panda-targets-academic-institutions-via-log4shell-f70588c1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike researchers have found Aquatic Panda threat actors who are abusing Log4Shell exploit tools on a vulnerable VMware installation at large academic institutions. The threat group is known for using tools for maintaining persistence to obtain access to intellectual property and other trade  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 group continues to target US companies with BadUSB devices<a href="https://securityaffairs.co/wordpress/126439/breaking-news/fin7-badusb-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warns US companies that the FIN7 cybercriminals group is targeting the US defense industry with BadUSB devices.
+
+
+
+The US Federal Bureau of Investigation issued a flash alert to warn that the financially motivated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

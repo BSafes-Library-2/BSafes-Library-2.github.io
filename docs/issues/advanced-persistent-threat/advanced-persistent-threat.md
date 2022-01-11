@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian-linked Patchwork APT infected its own system revealing its ops<a href="https://securityaffairs.co/wordpress/126524/apt/patchwork-apt-ragnatela-rat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The India-linked threat actor Patchwork infected one of their own computers with its RAT revealing its operations to researchers.
+
+
+
+An India-linked threat actor, tracked as Patchwork (aka Dropping Elephant), employed a new variant of the BADNEWS backdoor,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BADNEWS! Patchwork APT Hackers Score Own Goal in Recent Malware Attacks<a href="https://thehackernews.com/2022/01/badnews-patchwork-apt-hackers-score-own.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat hunters have shed light on the tactics, techniques, and procedures embraced by an Indian-origin hacking group called Patchwork as part of a renewed campaign that commenced in late November 2021, targeting Pakistani government entities and individuals with a research focus on molecular medicine and biological science.  "Ironically, all the information we gathered was possible thanks to the threat actor infecting themselves with their own [remote access trojan], resulting in captured keystrokes and screenshots of their own computer and virtual machines," Malwarebytes Threat Intelligence Team&nbsp; said &nbsp;in a report published on Friday.  Prominent victims that were successfully infiltrated include Pakistan's Ministry of Defense, National Defence University of Islamabad, Faculty of Bio-Sciences at UVAS Lahore, International Center for Chemical and Biological Sciences (ICCBS), H.E.J. Research Institute of Chemistry, and the Salim Habib University (SBU).   Believed to have b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

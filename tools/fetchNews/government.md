@@ -8,6 +8,130 @@ nav_order: 900075
 
 ## Government
 ---
+January 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US NCSC and DoS share best practices against surveillance tools<a href="https://securityaffairs.co/wordpress/126497/digital-id/defending-against-surveillance-tools.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US NCSC and the Department of State published joint guidance on defending against attacks using&nbsp;commercial surveillance tools. 
+
+
+
+The US National Counterintelligence and Security Center (NCSC) and the Department of State have published joint guidance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swiss army asks its personnel to use the Threema instant-messaging app<a href="https://securityaffairs.co/wordpress/126485/digital-id/swiss-army-recommeds-threema-app.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Swiss army has banned all instant messaging apps, including Signal, Telegram, and WhatsApp, recommending the use of the Threema app. 
+
+
+
+The Swiss army has banned foreign instant messaging apps such as Signal, Telegram, and WhatsApp&nbsp;and only allows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian submarines threatening undersea cables, UK defence chief warns<a href="https://securityaffairs.co/wordpress/126459/security/undersea-cables-protection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian submarines threatening undersea network of undersea cables, says UK defence chief Sir Tony Radakin
+
+
+
+UK defence chief Sir Tony Radakin warns of Russian submarines threatening the undersea network of internet cables, which are critical infrastructure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: FIN7 hackers target US companies with BadUSB devices to install ransomware<a href="https://therecord.media/fbi-fin7-hackers-target-us-companies-with-badusb-devices-to-install-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has said that FIN7, an infamous cybercrime group, has sent malicious USB devices to US companies over the past few months in the hopes of infecting their systems with malware and carrying out future attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS Warns of Hackers Targeting Log4j Flaws in VMware Horizon<a href="https://thehackernews.com/2022/01/nhs-warns-of-hackers-targeting-log4j.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The digital security team at the U.K. National Health Service (NHS) has raised the alarm on active exploitation of Log4Shell vulnerabilities in unpatched&nbsp; VMware Horizon &nbsp;servers by an unknown threat actor to drop malicious web shells and establish persistence on affected networks for follow-on attacks.  "The attack likely consists of a reconnaissance phase, where the attacker uses the Java Naming and Directory InterfaceTM (JNDI) via Log4Shell payloads to call back to malicious infrastructure," the non-departmental public body&nbsp; said &nbsp;in an alert. "Once a weakness has been identified, the attack then uses the Lightweight Directory Access Protocol (LDAP) to retrieve and execute a malicious Java class file that injects a web shell into the VM Blast Secure Gateway service."   The web shell, once deployed, can serve as a conduit to carry out a multitude of post-exploitation activities such as deploying additional malicious software, data exfiltration, or deployment of r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York Attorney General Alerts Companies About Credential Stuffing Attacks<a href="https://cyware.com/news/new-york-attorney-general-alerts-companies-about-credential-stuffing-attacks-44b0f91f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attorney General Letitia James highlighted that there are more than 15 billion stolen credentials being circulated across the internet which makes credential stuffing one of the top attack vectors online.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Hackers use BadUSB to target defense firms with ransomware<a href="https://www.bleepingcomputer.com/news/security/fbi-hackers-use-badusb-to-target-defense-firms-with-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned US companies in a recently updated flash alert that the financially motivated FIN7 cybercriminal group targeted the US defense industry with packages containing malicious USB devices to deploy ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS warns of hackers exploiting Log4Shell in VMware Horizon<a href="https://www.bleepingcomputer.com/news/security/nhs-warns-of-hackers-exploiting-log4shell-in-vmware-horizon/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK's National Health Service (NHS) has published a cyber alert warning of an unknown threat group targeting VMware Horizon deployments with Log4Shell exploits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

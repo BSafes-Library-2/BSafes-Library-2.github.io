@@ -8,6 +8,88 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unauthenticated RCE in H2 Database Console is similar to Log4Shell<a href="https://securityaffairs.co/wordpress/126460/security/unauthenticated-rce-h2-database.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed a critical RCE flaw in the H2 open-source Java SQL database which is similar to the Log4J vulnerability.
+
+
+
+Jfrog researchers discovered a critical vulnerability in the H2 open-source Java SQL database related to the Log4Shell Log4J...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alfer Microsoft, also SonicWall confirmed that its products were affected by Y2K22 bug<a href="https://securityaffairs.co/wordpress/126447/security/sonicwall-y2k22-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall confirmed that some of its Email Security and firewall products have been impacted by the Y2K22 bug.
+
+
+
+Security vendor SonicWall confirmed that some of its Email Security and firewall products have been impacted by the Y2K22 bug. 
+
+
+
+According...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4Shell-like Critical RCE Flaw Discovered in H2 Database Console<a href="https://thehackernews.com/2022/01/log4shell-like-critical-rce-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed a security flaw affecting H2 database consoles that could result in remote code execution in a manner that echoes the Log4j "Log4Shell" vulnerability that came to light last month.  The issue, tracked as&nbsp; CVE-2021-42392 , is the " first critical issue published since Log4Shell, on a component other than Log4j, that exploits the same root cause of the Log4Shell vulnerability, namely JNDI remote class loading," JFrog researchers Andrey Polkovnychenko and Shachar Menashe&nbsp; said .   H2 &nbsp;is an open-source relational database management system written in Java that can be embedded within applications or run in a client-server mode. According to the&nbsp; Maven Repository , the H2 database engine is used by 6,807 artifacts.  JNDI, short for Java Naming and Directory Interface, refers to an API that provides naming and directory functionality for Java applications, which can use the API in conjunction with LDAP to locate a specific resource that it migh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall: Y2K22 bug hits Email Security, firewall products<a href="https://www.bleepingcomputer.com/news/security/sonicwall-y2k22-bug-hits-email-security-firewall-products/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has confirmed today that some of its Email Security and firewall products have been hit by the Y2K22 bug, causing message log updates and junk box failures starting with January 1, 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Partially Unpatched VMware Bug Opens Door to Hypervisor Takeover<a href="https://threatpost.com/unpatched-vmware-bug-hypervisor-takeover/177428/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESXi version 7 users are still waiting for a full fix for a high-severity heap-overflow security vulnerability, but Cloud Foundation, Fusion and Workstation users can go ahead and patch. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

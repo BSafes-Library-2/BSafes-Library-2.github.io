@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oops: Cyberspies infect themselves with their own malware<a href="https://www.bleepingcomputer.com/news/security/oops-cyberspies-infect-themselves-with-their-own-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After infecting themselves with their own custom remote access trojan (RAT), an Indian-linked cyber-espionage group has accidentally exposed its operations to security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

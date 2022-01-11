@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FinalSite: No school data stolen in ransomware attack behind site outages<a href="https://www.bleepingcomputer.com/news/security/finalsite-no-school-data-stolen-in-ransomware-attack-behind-site-outages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FinalSite announced today the findings of a six-day investigation into last week's ransomware attack, stating it found no evidence schools' data accessed or stolen by hackers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

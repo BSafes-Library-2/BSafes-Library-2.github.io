@@ -34,6 +34,375 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FinalSite: No school data stolen in ransomware attack behind site outages<a href="https://www.bleepingcomputer.com/news/security/finalsite-no-school-data-stolen-in-ransomware-attack-behind-site-outages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FinalSite announced today the findings of a six-day investigation into last week's ransomware attack, stating it found no evidence schools' data accessed or stolen by hackers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zloader Campaign Abuses Microsoft's Security Checks<a href="https://cyware.com/news/zloader-campaign-abuses-microsofts-security-checks-c5199a2d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Malsmoke hacking group attacked over 2,100 victims worldwide in a new Zloader campaign by abusing a bug in Microsoft’s e-signature verification tool.&nbsp;Though it couldn't be confirmed, experts believe the group uses spear-phishing emails or pirated software resources to infect victims. Such  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Dems press privacy groups over kids' safety<a href="https://thehill.com//policy/technology/overnights/589095-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Monday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Bugs in Over A Dozen Widely Used URL Parser Libraries<a href="https://thehackernews.com/2022/01/researchers-find-bugs-in-over-dozen.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A study of 16 different Uniform Resource Locator ( URL ) parsing libraries has unearthed inconsistencies and confusions that could be exploited to bypass validations and open the door to a wide range of attack vectors.  In a deep-dive analysis jointly conducted by cybersecurity firms Claroty   and Synk, eight security vulnerabilities were identified in as many third-party libraries written in C, JavaScript, PHP, Python, and Ruby languages and used by several web applications.  "The confusion in URL parsing can cause unexpected behavior in the software (e.g., web application), and could be exploited by threat actors to cause denial-of-service conditions, information leaks, or possibly conduct remote code execution attacks," the researchers said in a report shared with The Hacker News.  With URLs being a fundamental mechanism by which resources — located either locally or on the web — can be requested and retrieved, differences in how the parsing libraries interpret a URL requ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several EA Sports FIFA 22 players have been hacked<a href="https://securityaffairs.co/wordpress/126547/hacking/ea-sports-fifa-22-accounts-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several EA Sports FIFA 22 players claim to have been hacked, they say to have lost access to their personal EA and email accounts.
+
+
+
+A growing number of EA Sports FIFA 22 players reported that their EA accounts were hacked, including famous streamers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Extortion DDoS attacks grow stronger and more common<a href="https://www.bleepingcomputer.com/news/security/extortion-ddos-attacks-grow-stronger-and-more-common/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The end of 2021 saw a rise in the number of distributed denial-of-service incidents that came with a ransom demand from the attackers to stop the assault.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Grass Valley Suffers Data Breach Impacting Employee and Citizen Information<a href="https://portswigger.net/daily-swig/city-of-grass-valley-california-suffers-data-breach-employee-and-citizen-information-exposed?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More details concerning an extensive data breach at the City of Grass Valley, California, revealed that the data of employees, citizens, and others was copied and transferred to another network.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abcbot Botnet Linked to Operators of Xanthe Cryptomining malware<a href="https://thehackernews.com/2022/01/abcbot-botnet-linked-to-operators-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research into the infrastructure behind an emerging DDoS botnet named Abcbot has uncovered links with a cryptocurrency-mining botnet attack that came to light in December 2020.  Attacks involving Abcbot, first  disclosed  by Qihoo 360's Netlab security team in November 2021, are  triggered  via a malicious shell script that targets insecure cloud instances operated by cloud service providers such as Huawei, Tencent, Baidu, and Alibaba Cloud to download malware that co-opts the machine to a botnet, but not before terminating processes from competing threat actors and establishing persistence.  The shell script in question is itself an iteration of an earlier version originally  discovered  by Trend Micro in October 2021 hitting vulnerable ECS instances inside Huawei Cloud.   But in an interesting twist, continued analysis of the botnet by mapping all known Indicators of Compromise (IoCs), including IP addresses, URLs, and samples, has revealed Abcbot's code and feature-leve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abcbot and Xanthe botnets have the same origin, experts discovered<a href="https://securityaffairs.co/wordpress/126540/cyber-crime/abcbot-botnet-investigation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts linked the C2 infrastructure behind an the Abcbot botnet to a cryptocurrency-mining botnet attack that was uncovered in December 2020. 
+
+
+
+Experts linked the infrastructure used by the Abcbot DDoS botnet to the operations of a cryptocurrency-mining...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux version of AvosLocker ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/linux-version-of-avoslocker-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AvosLocker is the latest ransomware gang that has added support for encrypting Linux systems to its recent malware variants, specifically targeting VMware ESXi virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Buffer overflow vulnerability spotted in AnyCubic Chitubox plugin<a href="https://blog.talosintelligence.com/2022/01/vulnerability-spotlight-buffer-overflow.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered a heap-based buffer overflow flaw in the Chitubox AnyCubic plugin, which is an 3-D printing software for users to download, process, and send models to a 3-D printer.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian-linked Patchwork APT infected its own system revealing its ops<a href="https://securityaffairs.co/wordpress/126524/apt/patchwork-apt-ragnatela-rat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The India-linked threat actor Patchwork infected one of their own computers with its RAT revealing its operations to researchers.
+
+
+
+An India-linked threat actor, tracked as Patchwork (aka Dropping Elephant), employed a new variant of the BADNEWS backdoor,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oops: Cyberspies infect themselves with their own malware<a href="https://www.bleepingcomputer.com/news/security/oops-cyberspies-infect-themselves-with-their-own-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After infecting themselves with their own custom remote access trojan (RAT), an Indian-linked cyber-espionage group has accidentally exposed its operations to security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patient Data from Bangkok's Siriraj Hospital Sold on Online Forum<a href="https://www.bangkokpost.com/thailand/general/2245063/huge-patient-data-leak-from-siriraj-hospital?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 39 million patient records from Siriraj Hospital have been offered for sale on an internet database-sharing forum in what appears to be the latest hack of Thailand's public health sector.
+</details>
+<div style="text-align: right" markdown="1">
+Bangkok Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ZLoader malware campaign hit more than 2000 victims across 111 countries<a href="https://securityaffairs.co/wordpress/126513/malware/zloader-new-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware campaign spreads ZLoader malware by exploiting a Windows vulnerability that was fixed in 2013 but in 2014 Microsoft revised the fix. 
+
+
+
+Experts from Check Point Research uncovered a new ZLoader malware campaign in early November 2021.  The malware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: powerdir bug gives access to protected macOS user data<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-powerdir-bug-gives-access-to-protected-macos-user-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says threat actors could use a macOS vulnerability to bypass Transparency, Consent, and Control (TCC) technology to access users' protected data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Cyber Command partners with universities to prepare graduates for military cyber roles<a href="https://therecord.media/cyber-command-partners-with-us-universities-to-prepare-graduates-for-military-cyber-roles/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cyber Command plans to work with these academic institutions in the next nine months in order to prepare an adequate curriculum for the next educational year this fall.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol ordered to erase data on those not linked to crime<a href="https://www.bleepingcomputer.com/news/security/europol-ordered-to-erase-data-on-those-not-linked-to-crime/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Data Protection Supervisor (EDPS), an EU privacy and data protection independent supervisory authority, has ordered Europol to erase personal data on individuals that haven't been linked to criminal activity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iProov raises $70 million to fuel businesss growth<a href="https://www.helpnetsecurity.com/2022/01/09/iproov-investment/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Headquartered in Silicon Valley, Sumeru invests in technology firms with the potential to change the world, with a particular emphasis on helping companies expand in North America.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress 5.8.3 security update fixes SQL injection, XSS flaws<a href="https://www.bleepingcomputer.com/news/security/wordpress-583-security-update-fixes-sql-injection-xss-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The WordPress development team released version 5.8.3, a short-cycle security release that addresses four vulnerabilities, three of which are rated of high importance.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Kit Victim Workflow and Data Exflitration<a href="https://www.zerofox.com/blog/phishing-kit-victim-workflow-and-data-exfiltration/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing designed to obtain credentials for retail brands or markets can contain very different stages compared to phishing designed to obtain online banking or credit card information from victims.
+</details>
+<div style="text-align: right" markdown="1">
+ZeroFox
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 09, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BADNEWS! Patchwork APT Hackers Score Own Goal in Recent Malware Attacks<a href="https://thehackernews.com/2022/01/badnews-patchwork-apt-hackers-score-own.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat hunters have shed light on the tactics, techniques, and procedures embraced by an Indian-origin hacking group called Patchwork as part of a renewed campaign that commenced in late November 2021, targeting Pakistani government entities and individuals with a research focus on molecular medicine and biological science.  "Ironically, all the information we gathered was possible thanks to the threat actor infecting themselves with their own [remote access trojan], resulting in captured keystrokes and screenshots of their own computer and virtual machines," Malwarebytes Threat Intelligence Team  said  in a report published on Friday.  Prominent victims that were successfully infiltrated include Pakistan's Ministry of Defense, National Defence University of Islamabad, Faculty of Bio-Sciences at UVAS Lahore, International Center for Chemical and Biological Sciences (ICCBS), H.E.J. Research Institute of Chemistry, and the Salim Habib University (SBU).   Believed to have b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 09, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
