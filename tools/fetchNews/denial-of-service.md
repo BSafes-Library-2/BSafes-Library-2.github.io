@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Extortion DDoS attacks grow stronger and more common<a href="https://www.bleepingcomputer.com/news/security/extortion-ddos-attacks-grow-stronger-and-more-common/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The end of 2021 saw a rise in the number of distributed denial-of-service incidents that came with a ransom demand from the attackers to stop the assault.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

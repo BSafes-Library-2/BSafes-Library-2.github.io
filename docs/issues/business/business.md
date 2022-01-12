@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal CEO Resigns, WhatsApp Co-Founder Takes Over as Interim CEO<a href="https://thehackernews.com/2022/01/signal-ceo-resigns-whatsapp-co-founder.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Moxie Marlinspike, the founder of the popular encrypted instant messaging service Signal, has announced that he is stepping down as the chief executive of the non-profit in a move that has been underway over the last few months.  "In other words, after a decade or more, it's difficult to overstate how important Signal is to me, but I now feel very comfortable replacing myself as CEO based on the team we have, and also believe that it is an important step for expanding on Signal's success," Marlinspike&nbsp; said &nbsp;in a blog post on Monday.  Executive chairman and WhatsApp co-founder Brian Acton will serve as the interim CEO while the search for a replacement is on.  Founded in July 2014, Signal has more than 40 million monthly users, in part driven by a surge of new users in January 2021 when Meta-owned WhatsApp&nbsp; enacted &nbsp;a controversial policy change that sparked a&nbsp; privacy backlash &nbsp;over the nature of personal information shared with its parent company.   But the communi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli security startup Pentera raises $150 mln in funding round, eyes IPO<a href="https://www.reuters.com/markets/us/israeli-security-startup-pentera-raises-150-mln-funding-round-eyes-ipo-2022-01-11/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding round led by K1 Investment Management could be the last capital raise before an IPO, which will "probably" take place in 2024, Pentera Chief Executive Amitai Ratzon told Reuters.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Walmart warned over cybersecurity 'violations' in China<a href="https://www.theregister.com/2022/01/10/walmart_china_security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"It is reported that the public security organs discovered 19 exploitable network security vulnerabilities in Walmart's network system on November 25, 2021..." said China Quality News.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several EA Sports FIFA 22 players have been hacked<a href="https://securityaffairs.co/wordpress/126547/hacking/ea-sports-fifa-22-accounts-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several EA Sports FIFA 22 players claim to have been hacked, they say to have lost access to their personal EA and email accounts.
+
+
+
+A growing number of EA Sports FIFA 22 players reported that their EA accounts were hacked, including famous streamers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Grass Valley Suffers Data Breach Impacting Employee and Citizen Information<a href="https://portswigger.net/daily-swig/city-of-grass-valley-california-suffers-data-breach-employee-and-citizen-information-exposed?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More details concerning an extensive data breach at the City of Grass Valley, California, revealed that the data of employees, citizens, and others was copied and transferred to another network.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patient Data from Bangkok's Siriraj Hospital Sold on Online Forum<a href="https://www.bangkokpost.com/thailand/general/2245063/huge-patient-data-leak-from-siriraj-hospital?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 39 million patient records from Siriraj Hospital have been offered for sale on an internet database-sharing forum in what appears to be the latest hack of Thailand's public health sector.
+</details>
+<div style="text-align: right" markdown="1">
+Bangkok Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State hackers use new PowerShell backdoor in Log4j attacks<a href="https://www.bleepingcomputer.com/news/security/state-hackers-use-new-powershell-backdoor-in-log4j-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers believed to be part of the Iranian APT35 state-backed group (aka 'Charming Kitten' or 'Phosphorus')&nbsp;has been observed leveraging Log4Shell attacks to drop a new PowerShell backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

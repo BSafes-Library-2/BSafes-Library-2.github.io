@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Kit Victim Workflow and Data Exflitration<a href="https://www.zerofox.com/blog/phishing-kit-victim-workflow-and-data-exfiltration/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing designed to obtain credentials for retail brands or markets can contain very different stages compared to phishing designed to obtain online banking or credit card information from victims.
+</details>
+<div style="text-align: right" markdown="1">
+ZeroFox
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

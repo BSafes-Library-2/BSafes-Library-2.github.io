@@ -8,6 +8,39 @@ nav_order: 900015
 
 ## Attack
 ---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zloader Campaign Abuses Microsoft's Security Checks<a href="https://cyware.com/news/zloader-campaign-abuses-microsofts-security-checks-c5199a2d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Malsmoke hacking group attacked over 2,100 victims worldwide in a new Zloader campaign by abusing a bug in Microsoft’s e-signature verification tool.&nbsp;Though it couldn't be confirmed, experts believe the group uses spear-phishing emails or pirated software resources to infect victims. Such  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ZLoader malware campaign hit more than 2000 victims across 111 countries<a href="https://securityaffairs.co/wordpress/126513/malware/zloader-new-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware campaign spreads ZLoader malware by exploiting a Windows vulnerability that was fixed in 2013 but in 2014 Microsoft revised the fix. 
+
+
+
+Experts from Check Point Research uncovered a new ZLoader malware campaign in early November 2021.  The malware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

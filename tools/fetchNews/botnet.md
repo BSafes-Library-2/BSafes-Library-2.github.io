@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abcbot Botnet Linked to Operators of Xanthe Cryptomining malware<a href="https://thehackernews.com/2022/01/abcbot-botnet-linked-to-operators-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research into the infrastructure behind an emerging DDoS botnet named Abcbot has uncovered links with a cryptocurrency-mining botnet attack that came to light in December 2020.  Attacks involving Abcbot, first&nbsp; disclosed &nbsp;by Qihoo 360's Netlab security team in November 2021, are&nbsp; triggered &nbsp;via a malicious shell script that targets insecure cloud instances operated by cloud service providers such as Huawei, Tencent, Baidu, and Alibaba Cloud to download malware that co-opts the machine to a botnet, but not before terminating processes from competing threat actors and establishing persistence.  The shell script in question is itself an iteration of an earlier version originally&nbsp; discovered &nbsp;by Trend Micro in October 2021 hitting vulnerable ECS instances inside Huawei Cloud.   But in an interesting twist, continued analysis of the botnet by mapping all known Indicators of Compromise (IoCs), including IP addresses, URLs, and samples, has revealed Abcbot's code and feature-leve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abcbot and Xanthe botnets have the same origin, experts discovered<a href="https://securityaffairs.co/wordpress/126540/cyber-crime/abcbot-botnet-investigation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts linked the C2 infrastructure behind an the Abcbot botnet to a cryptocurrency-mining botnet attack that was uncovered in December 2020. 
+
+
+
+Experts linked the infrastructure used by the Abcbot DDoS botnet to the operations of a cryptocurrency-mining...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

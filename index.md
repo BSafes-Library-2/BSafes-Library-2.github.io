@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State hackers use new PowerShell backdoor in Log4j attacks<a href="https://www.bleepingcomputer.com/news/security/state-hackers-use-new-powershell-backdoor-in-log4j-attacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A New Approach to Detect Stealthy Malware on IoT Devices<a href="https://cyware.com/news/a-new-approach-to-detect-stealthy-malware-on-iot-devices-d1d72726"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Can You Leave Log4J in 2021?<a href="https://thehackernews.com/2022/01/how-can-you-leave-log4j-in-2021.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patch Tuesday fixes critical Office RCE<a href="https://securityaffairs.co/wordpress/126582/hacking/microsoft-patch-tuesday-office-rce.html"> Full Text</a>
@@ -103,7 +103,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Here’s REALLY How to Do Zero-Trust Security<a href="https://threatpost.com/zero-trust-future-security-risks/177502/"> Full Text</a>
@@ -119,7 +119,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: New critical Windows HTTP vulnerability is wormable<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-new-critical-windows-http-vulnerability-is-wormable/"> Full Text</a>
@@ -135,7 +135,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IP spoofing bug leaves Django REST applications open to DDoS, password-cracking attacks<a href="https://portswigger.net/daily-swig/ip-spoofing-bug-leaves-django-rest-applications-open-to-ddos-password-cracking-attacks?&web_view=true"> Full Text</a>
@@ -151,7 +151,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New KCodes NetUSB Bug Affect Millions of Routers from Different Vendors<a href="https://thehackernews.com/2022/01/new-kcodes-netusb-bug-affect-millions.html"> Full Text</a>
@@ -167,7 +167,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Night Sky ransomware operators exploit Log4Shell to target hack VMware Horizon servers<a href="https://securityaffairs.co/wordpress/126569/cyber-crime/night-sky-ransomware-log4shell.html"> Full Text</a>
@@ -187,7 +187,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 Mails Malicious USB Sticks to Drop Ransomware<a href="https://threatpost.com/fin7-mailing-malicious-usb-sticks-ransomware/177541/"> Full Text</a>
@@ -203,7 +203,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firefox Focus now blocks cross-site tracking on Android devices<a href="https://www.bleepingcomputer.com/news/security/firefox-focus-now-blocks-cross-site-tracking-on-android-devices/"> Full Text</a>
@@ -219,7 +219,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cosmetics company Clarins hit by data security incident, 'may involve' Singapore customers’ personal information<a href="https://www.channelnewsasia.com/singapore/clarins-data-security-incident-singapore-customers-personal-information-log4j-software-vulnerability-2428066?&web_view=true"> Full Text</a>
@@ -235,7 +235,7 @@ Channel News Asia
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Signal CEO Resigns, WhatsApp Co-Founder Takes Over as Interim CEO<a href="https://thehackernews.com/2022/01/signal-ceo-resigns-whatsapp-co-founder.html"> Full Text</a>
@@ -251,7 +251,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AvosLocker ransomware now targets Linux systems, including ESXi servers<a href="https://securityaffairs.co/wordpress/126564/malware/avoslocker-targets-linux-esxi.html"> Full Text</a>
@@ -271,7 +271,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Fully Undetected’ SysJoker Backdoor Malware Targets Windows, Linux & macOS<a href="https://threatpost.com/undetected-sysjoker-backdoor-malwarewindows-linux-macos/177532/"> Full Text</a>
@@ -287,7 +287,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA alerts federal agencies of ancient bugs still being exploited<a href="https://www.bleepingcomputer.com/news/security/cisa-alerts-federal-agencies-of-ancient-bugs-still-being-exploited/"> Full Text</a>
@@ -303,7 +303,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medical Review Institute of America Discloses Data Breach Affecting 134,000 People<a href="https://www.securityweek.com/mrioa-discloses-data-breach-affecting-134000-people?&web_view=true"> Full Text</a>
@@ -319,7 +319,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2022 Cybersecurity Predictions from Lookout: Work From Anywhere Ends On-Premises Security<a href="https://thehackernews.com/2022/01/2022-cybersecurity-predictions-from.html"> Full Text</a>
@@ -335,7 +335,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress 5.8.3 Security Release fixes four vulnerabilities<a href="https://securityaffairs.co/wordpress/126556/security/wordpress-5-8-3.html"> Full Text</a>
@@ -355,7 +355,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical SonicWall NAC Vulnerability Stems from Apache Mods<a href="https://threatpost.com/sonicwall-nac-vulnerability-apache-mods/177529/"> Full Text</a>
@@ -371,7 +371,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes critical Office bug, delays macOS security updates<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-critical-office-bug-delays-macos-security-updates/"> Full Text</a>
@@ -387,7 +387,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israeli security startup Pentera raises $150 mln in funding round, eyes IPO<a href="https://www.reuters.com/markets/us/israeli-security-startup-pentera-raises-150-mln-funding-round-eyes-ipo-2022-01-11/?&web_view=true"> Full Text</a>
@@ -403,7 +403,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft January 2022 Patch Tuesday fixes 6 zero-days, 97 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2022-patch-tuesday-fixes-6-zero-days-97-flaws/"> Full Text</a>
@@ -419,7 +419,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Walmart warned over cybersecurity 'violations' in China<a href="https://www.theregister.com/2022/01/10/walmart_china_security/?&web_view=true"> Full Text</a>
@@ -435,7 +435,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New RedLine malware version spread as fake Omicron stat counter<a href="https://www.bleepingcomputer.com/news/security/new-redline-malware-version-spread-as-fake-omicron-stat-counter/"> Full Text</a>
@@ -451,7 +451,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Philippines: Comelec servers hacked; Downloaded data may include information that could affect 2022 elections<a href="https://mb.com.ph/2022/01/10/comelec-servers-hacked-downloaded-data-may-include-information-that-could-affect-2022-elections/?&web_view=true"> Full Text</a>
@@ -467,7 +467,7 @@ Manila Bulletin News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt warns of Russian hackers targeting critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-of-russian-hackers-targeting-critical-infrastructure/"> Full Text</a>
@@ -483,7 +483,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SysJoker backdoor targets Windows, macOS, and Linux<a href="https://www.bleepingcomputer.com/news/security/new-sysjoker-backdoor-targets-windows-macos-and-linux/"> Full Text</a>
@@ -499,7 +499,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KCodes NetUSB bug exposes millions of routers to RCE attacks<a href="https://www.bleepingcomputer.com/news/security/kcodes-netusb-bug-exposes-millions-of-routers-to-rce-attacks/"> Full Text</a>
@@ -515,7 +515,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2022
+January 11, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Night Sky ransomware uses Log4j bug to hack VMware Horizon servers<a href="https://www.bleepingcomputer.com/news/security/night-sky-ransomware-uses-log4j-bug-to-hack-vmware-horizon-servers/"> Full Text</a>
@@ -531,7 +531,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Details macOS Bug That Could Let Attackers Gain Access to User Data<a href="https://thehackernews.com/2022/01/microsoft-details-macos-bug-that-could.html"> Full Text</a>
@@ -547,7 +547,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 URL Parsing Bugs Allow DoS, RCE, Spoofing & More<a href="https://threatpost.com/url-parsing-bugs-dos-rce-spoofing/177493/"> Full Text</a>
@@ -563,7 +563,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2022
+January 10, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol Ordered to Delete Data of Individuals With No Proven Links to Crimes<a href="https://thehackernews.com/2022/01/europol-ordered-to-delete-data-of.html"> Full Text</a>

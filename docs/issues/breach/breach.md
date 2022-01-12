@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical Review Institute of America Discloses Data Breach Affecting 134,000 People<a href="https://www.securityweek.com/mrioa-discloses-data-breach-affecting-134000-people?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident was discovered on November 9, 2021. A couple of days later, MRIoA discovered that personal information was compromised in the attack and, by November 16, it had managed to retrieve it.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Philippines: Comelec servers hacked; Downloaded data may include information that could affect 2022 elections<a href="https://mb.com.ph/2022/01/10/comelec-servers-hacked-downloaded-data-may-include-information-that-could-affect-2022-elections/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sensitive voter details may have been compromised after a group of hackers was allegedly able to breach the servers of Comelec, stealing over 60GB of data possibly affecting the May 2022 elections.
+</details>
+<div style="text-align: right" markdown="1">
+Manila Bulletin News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,168 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday fixes critical Office RCE<a href="https://securityaffairs.co/wordpress/126582/hacking/microsoft-patch-tuesday-office-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday security updates fix a critical Office flaw that can allow remote attackers to execute malicious code on vulnerable systems.
+
+
+
+Microsoft Patch Tuesday security updates for January 2022 patch 96 vulnerabilities in Microsoft Windows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: New critical Windows HTTP vulnerability is wormable<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-new-critical-windows-http-vulnerability-is-wormable/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has patched a critical flaw tagged as&nbsp;wormable&nbsp;and&nbsp;found to impact the latest desktop and server Windows versions, including Windows 11 and Windows Server 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IP spoofing bug leaves Django REST applications open to DDoS, password-cracking attacks<a href="https://portswigger.net/daily-swig/ip-spoofing-bug-leaves-django-rest-applications-open-to-ddos-password-cracking-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An IP spoofing vulnerability in Django REST allowed attackers to circumvent the framework’s throttling feature, which is supposed to protect applications against mass requests.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New KCodes NetUSB Bug Affect Millions of Routers from Different Vendors<a href="https://thehackernews.com/2022/01/new-kcodes-netusb-bug-affect-millions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed a high severity flaw in KCodes NetUSB component that's integrated into millions of end-user router devices from Netgear, TP-Link, Tenda, EDiMAX, D-Link, and Western Digital, among others.  KCodes&nbsp; NetUSB &nbsp;is a Linux kernel module that enables devices on a local network to provide USB-based services over IP. Printers, external hard drives, and flash drives plugged into a Linux-based embedded system (e.g., a router) are made available via the network using the driver.   CVE-2021-45608 &nbsp;(CVSS score: 9.8), as the security flaw is tracked as, relates to a&nbsp; buffer overflow vulnerability &nbsp;that, if successfully exploited, can allow attackers to execute code remotely in the kernel and perform malicious activities of their choice, according to a&nbsp; report &nbsp;shared by SentinelOne with The Hacker News.  This is the latest in a string of NetUSB vulnerabilities that has been patched in recent years. In May 2015, researchers from SEC Consult disclosed another
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress 5.8.3 Security Release fixes four vulnerabilities<a href="https://securityaffairs.co/wordpress/126556/security/wordpress-5-8-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress maintainers have released WordPress 5.8.3 that addresses four vulnerabilities and recommend admins to update their sites immediately
+
+
+
+The WordPress 5.8.3 security release addresses four vulnerabilities affecting versions between 3.7 and 5.8,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical SonicWall NAC Vulnerability Stems from Apache Mods<a href="https://threatpost.com/sonicwall-nac-vulnerability-apache-mods/177529/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers offer more detail on the bug, which can allow attackers to completely take over targets.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes critical Office bug, delays macOS security updates<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-critical-office-bug-delays-macos-security-updates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During this year's first Patch Tuesday, Microsoft has addressed a critical severity Office vulnerability that can let attackers execute malicious code remotely on vulnerable systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft January 2022 Patch Tuesday fixes 6 zero-days, 97 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2022-patch-tuesday-fixes-6-zero-days-97-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's January 2022 Patch Tuesday, and with it comes fixes for six zero-day vulnerabilities and a total of 97 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KCodes NetUSB bug exposes millions of routers to RCE attacks<a href="https://www.bleepingcomputer.com/news/security/kcodes-netusb-bug-exposes-millions-of-routers-to-rce-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity remote code execution flaw tracked as CVE-2021-45388 has been discovered in the KCodes NetUSB kernel module, used by millions of router devices from various vendors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Details macOS Bug That Could Let Attackers Gain Access to User Data<a href="https://thehackernews.com/2022/01/microsoft-details-macos-bug-that-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday disclosed details of a recently patched security vulnerability in Apple's macOS operating system that could be weaponized by a threat actor to expose users' personal information.  Tracked as CVE-2021-30970, the flaw concerns a logic issue in the Transparency, Consent and Control (TCC) security framework, which enables users to configure the privacy settings of their apps and provide access to protected files and app data. The&nbsp; Security &amp; Privacy pane &nbsp;in the macOS System Preferences app serves as the front end of TCC.  Microsoft 365 Defender Research Team, which reported the vulnerability to Apple on July 15, 2021, dubbed the flaw " powerdir ." Apple&nbsp; addressed &nbsp;the issue as part of macOS 11.6 and 12.1 updates released in December 2021 with improved state management.   While Apple does enforce a policy that limits access to TCC to only apps with full disk access, it's possible to orchestrate an attack wherein a malicious application could
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+URL Parsing Bugs Allow DoS, RCE, Spoofing &amp; More<a href="https://threatpost.com/url-parsing-bugs-dos-rce-spoofing/177493/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dangerous security bugs stemming from widespread inconsistencies among 16 popular third-party URL-parsing libraries could affect a wide swath of web applications.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

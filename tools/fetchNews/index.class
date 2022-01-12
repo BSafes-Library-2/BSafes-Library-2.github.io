@@ -34,6 +34,551 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State hackers use new PowerShell backdoor in Log4j attacks<a href="https://www.bleepingcomputer.com/news/security/state-hackers-use-new-powershell-backdoor-in-log4j-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers believed to be part of the Iranian APT35 state-backed group (aka 'Charming Kitten' or 'Phosphorus') has been observed leveraging Log4Shell attacks to drop a new PowerShell backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Approach to Detect Stealthy Malware on IoT Devices<a href="https://cyware.com/news/a-new-approach-to-detect-stealthy-malware-on-iot-devices-d1d72726"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts developed a three-phased approach that leverages electromagnetic field emanations to detect evasive malware on IoT devices including the unseen variants. The electromagnetic emanation calculated from the device is nearly undetectable by the malware.&nbsp;Thus, malware evasion tacti ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Can You Leave Log4J in 2021?<a href="https://thehackernews.com/2022/01/how-can-you-leave-log4j-in-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the last month of 2021 dominated by the log4J vulnerabilities discovery, publication, and patches popping up in rapid succession, odds are you have patched your system against Log4J exploitation attempts. At least some systems, if not all. You might even have installed the latest patch – at the time of writing, that is 2.17.1, but, if the last rapid patching cycle persists, it might have changed by the time this is published.  In the meantime, defenders might have been working overtime to plug Log4J born security gaps, but so did cyber-attackers. Log4J's well-deserved fame also alerted cyber-attackers to a potential entry pathway into their target. And, while log4J will hopefully vanish from the headlines,  cyber-attackers are likely to continue trying to exploit it  in the hope of finding unpatched or incompletely patched targets.  As human error still accounts  for 95% of all security breaches , cyber-attackers actively rely on these human errors to exploit them and take advant
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday fixes critical Office RCE<a href="https://securityaffairs.co/wordpress/126582/hacking/microsoft-patch-tuesday-office-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday security updates fix a critical Office flaw that can allow remote attackers to execute malicious code on vulnerable systems.
+
+
+
+Microsoft Patch Tuesday security updates for January 2022 patch 96 vulnerabilities in Microsoft Windows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here’s REALLY How to Do Zero-Trust Security<a href="https://threatpost.com/zero-trust-future-security-risks/177502/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s not about buying security products! Joseph Carson, chief security scientist from ThycoticCentrify, offers practical steps to start the zero-trust journey.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: New critical Windows HTTP vulnerability is wormable<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-new-critical-windows-http-vulnerability-is-wormable/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has patched a critical flaw tagged as wormable and found to impact the latest desktop and server Windows versions, including Windows 11 and Windows Server 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IP spoofing bug leaves Django REST applications open to DDoS, password-cracking attacks<a href="https://portswigger.net/daily-swig/ip-spoofing-bug-leaves-django-rest-applications-open-to-ddos-password-cracking-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An IP spoofing vulnerability in Django REST allowed attackers to circumvent the framework’s throttling feature, which is supposed to protect applications against mass requests.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New KCodes NetUSB Bug Affect Millions of Routers from Different Vendors<a href="https://thehackernews.com/2022/01/new-kcodes-netusb-bug-affect-millions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed a high severity flaw in KCodes NetUSB component that's integrated into millions of end-user router devices from Netgear, TP-Link, Tenda, EDiMAX, D-Link, and Western Digital, among others.  KCodes  NetUSB  is a Linux kernel module that enables devices on a local network to provide USB-based services over IP. Printers, external hard drives, and flash drives plugged into a Linux-based embedded system (e.g., a router) are made available via the network using the driver.   CVE-2021-45608  (CVSS score: 9.8), as the security flaw is tracked as, relates to a  buffer overflow vulnerability  that, if successfully exploited, can allow attackers to execute code remotely in the kernel and perform malicious activities of their choice, according to a  report  shared by SentinelOne with The Hacker News.  This is the latest in a string of NetUSB vulnerabilities that has been patched in recent years. In May 2015, researchers from SEC Consult disclosed another
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Night Sky ransomware operators exploit Log4Shell to target hack VMware Horizon servers<a href="https://securityaffairs.co/wordpress/126569/cyber-crime/night-sky-ransomware-log4shell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Another gang, Night Sky ransomware operation, started exploiting the Log4Shell vulnerability in the Log4j library to gain access to VMware Horizon systems.
+
+
+
+The Night Sky ransomware operation started exploiting the Log4Shell flaw (CVE-2021-44228) in the Log4j...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Mails Malicious USB Sticks to Drop Ransomware<a href="https://threatpost.com/fin7-mailing-malicious-usb-sticks-ransomware/177541/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warned that attackers are impersonating Health & Human Services and/or Amazon to mail BadUSB-poisoned USB devices to targets in transportation, insurance & defense.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox Focus now blocks cross-site tracking on Android devices<a href="https://www.bleepingcomputer.com/news/security/firefox-focus-now-blocks-cross-site-tracking-on-android-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla's Firefox Focus web browser can now protect Android users against cross-site tracking while browsing the Internet by preventing cookies from being used for advertising and monitoring your activity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cosmetics company Clarins hit by data security incident, 'may involve' Singapore customers’ personal information<a href="https://www.channelnewsasia.com/singapore/clarins-data-security-incident-singapore-customers-personal-information-log4j-software-vulnerability-2428066?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data accessed may have included customers’ personal information such as name, address, email, phone number, and Clarins loyalty program status, the cosmetics company added.
+</details>
+<div style="text-align: right" markdown="1">
+Channel News Asia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal CEO Resigns, WhatsApp Co-Founder Takes Over as Interim CEO<a href="https://thehackernews.com/2022/01/signal-ceo-resigns-whatsapp-co-founder.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Moxie Marlinspike, the founder of the popular encrypted instant messaging service Signal, has announced that he is stepping down as the chief executive of the non-profit in a move that has been underway over the last few months.  "In other words, after a decade or more, it's difficult to overstate how important Signal is to me, but I now feel very comfortable replacing myself as CEO based on the team we have, and also believe that it is an important step for expanding on Signal's success," Marlinspike  said  in a blog post on Monday.  Executive chairman and WhatsApp co-founder Brian Acton will serve as the interim CEO while the search for a replacement is on.  Founded in July 2014, Signal has more than 40 million monthly users, in part driven by a surge of new users in January 2021 when Meta-owned WhatsApp  enacted  a controversial policy change that sparked a  privacy backlash  over the nature of personal information shared with its parent company.   But the communi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AvosLocker ransomware now targets Linux systems, including ESXi servers<a href="https://securityaffairs.co/wordpress/126564/malware/avoslocker-targets-linux-esxi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AvosLocker is the latest ransomware that implemented the capability to encrypt Linux systems including VMware ESXi servers. 
+
+
+
+AvosLocker expands its targets by implementing the support for encrypting Linux systems, specifically VMware ESXi servers,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Fully Undetected’ SysJoker Backdoor Malware Targets Windows, Linux & macOS<a href="https://threatpost.com/undetected-sysjoker-backdoor-malwarewindows-linux-macos/177532/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware establishes initial access on targeted machines, then waits for additional code to execute.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA alerts federal agencies of ancient bugs still being exploited<a href="https://www.bleepingcomputer.com/news/security/cisa-alerts-federal-agencies-of-ancient-bugs-still-being-exploited/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its list of known exploited vulnerabilities with 15 new security issues that serve as a frequent attack vector against federal enterprises.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical Review Institute of America Discloses Data Breach Affecting 134,000 People<a href="https://www.securityweek.com/mrioa-discloses-data-breach-affecting-134000-people?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident was discovered on November 9, 2021. A couple of days later, MRIoA discovered that personal information was compromised in the attack and, by November 16, it had managed to retrieve it.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2022 Cybersecurity Predictions from Lookout: Work From Anywhere Ends On-Premises Security<a href="https://thehackernews.com/2022/01/2022-cybersecurity-predictions-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lookout , an endpoint-to-cloud cyber security company, have put together their cyber security predictions for 2022.   1  —  Cloud connectivity and cloud-to-cloud connectivity will amplify supply-chain breaches  One area organizations need to continue to monitor in 2022 is the software supply chain. We tend to think of cloud apps as disparate islands used as destinations by endpoints and end-users to collect and process data. The reality is that these apps constantly communicate with different entities and systems like software-update infrastructure and with each other — interactions that are often not monitored.  In late 2020, the cybersecurity community uncovered one of the worst breaches in recent memory when the  SolarWinds  software-publishing infrastructure was infiltrated. More than 100 organizations, including nine U.S. federal agencies, were compromised by trojanized updates that opened backdoors to their infrastructure. This is a prime example of how a weak supply chain can b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress 5.8.3 Security Release fixes four vulnerabilities<a href="https://securityaffairs.co/wordpress/126556/security/wordpress-5-8-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress maintainers have released WordPress 5.8.3 that addresses four vulnerabilities and recommend admins to update their sites immediately
+
+
+
+The WordPress 5.8.3 security release addresses four vulnerabilities affecting versions between 3.7 and 5.8,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical SonicWall NAC Vulnerability Stems from Apache Mods<a href="https://threatpost.com/sonicwall-nac-vulnerability-apache-mods/177529/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers offer more detail on the bug, which can allow attackers to completely take over targets.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes critical Office bug, delays macOS security updates<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-critical-office-bug-delays-macos-security-updates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During this year's first Patch Tuesday, Microsoft has addressed a critical severity Office vulnerability that can let attackers execute malicious code remotely on vulnerable systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli security startup Pentera raises $150 mln in funding round, eyes IPO<a href="https://www.reuters.com/markets/us/israeli-security-startup-pentera-raises-150-mln-funding-round-eyes-ipo-2022-01-11/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding round led by K1 Investment Management could be the last capital raise before an IPO, which will "probably" take place in 2024, Pentera Chief Executive Amitai Ratzon told Reuters.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft January 2022 Patch Tuesday fixes 6 zero-days, 97 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2022-patch-tuesday-fixes-6-zero-days-97-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's January 2022 Patch Tuesday, and with it comes fixes for six zero-day vulnerabilities and a total of 97 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Walmart warned over cybersecurity 'violations' in China<a href="https://www.theregister.com/2022/01/10/walmart_china_security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"It is reported that the public security organs discovered 19 exploitable network security vulnerabilities in Walmart's network system on November 25, 2021..." said China Quality News.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RedLine malware version spread as fake Omicron stat counter<a href="https://www.bleepingcomputer.com/news/security/new-redline-malware-version-spread-as-fake-omicron-stat-counter/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the RedLine info-stealer is distributed via emails using a fake COVID-19 Omicron stat counter app as a lure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Philippines: Comelec servers hacked; Downloaded data may include information that could affect 2022 elections<a href="https://mb.com.ph/2022/01/10/comelec-servers-hacked-downloaded-data-may-include-information-that-could-affect-2022-elections/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sensitive voter details may have been compromised after a group of hackers was allegedly able to breach the servers of Comelec, stealing over 60GB of data possibly affecting the May 2022 elections.
+</details>
+<div style="text-align: right" markdown="1">
+Manila Bulletin News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt warns of Russian hackers targeting critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-of-russian-hackers-targeting-critical-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI, CISA, and the NSA have warned critical infrastructure network defenders to be ready to detect and block incoming attacks targeting organizations from US critical infrastructure sectors orchestrated by Russian-backed hacking groups.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SysJoker backdoor targets Windows, macOS, and Linux<a href="https://www.bleepingcomputer.com/news/security/new-sysjoker-backdoor-targets-windows-macos-and-linux/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new multi-platform backdoor malware named 'SysJoker' has emerged in the wild, targeting Windows, Linux, and macOS with the ability to evade detection on all three operating systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KCodes NetUSB bug exposes millions of routers to RCE attacks<a href="https://www.bleepingcomputer.com/news/security/kcodes-netusb-bug-exposes-millions-of-routers-to-rce-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity remote code execution flaw tracked as CVE-2021-45388 has been discovered in the KCodes NetUSB kernel module, used by millions of router devices from various vendors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Night Sky ransomware uses Log4j bug to hack VMware Horizon servers<a href="https://www.bleepingcomputer.com/news/security/night-sky-ransomware-uses-log4j-bug-to-hack-vmware-horizon-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Night Sky ransomware gang has started to exploit the critical CVE-2021-4422 vulnerability in the Log4j logging library, also known as Log4Shell, to gain access to VMware Horizon systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Details macOS Bug That Could Let Attackers Gain Access to User Data<a href="https://thehackernews.com/2022/01/microsoft-details-macos-bug-that-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday disclosed details of a recently patched security vulnerability in Apple's macOS operating system that could be weaponized by a threat actor to expose users' personal information.  Tracked as CVE-2021-30970, the flaw concerns a logic issue in the Transparency, Consent and Control (TCC) security framework, which enables users to configure the privacy settings of their apps and provide access to protected files and app data. The  Security & Privacy pane  in the macOS System Preferences app serves as the front end of TCC.  Microsoft 365 Defender Research Team, which reported the vulnerability to Apple on July 15, 2021, dubbed the flaw " powerdir ." Apple  addressed  the issue as part of macOS 11.6 and 12.1 updates released in December 2021 with improved state management.   While Apple does enforce a policy that limits access to TCC to only apps with full disk access, it's possible to orchestrate an attack wherein a malicious application could
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+URL Parsing Bugs Allow DoS, RCE, Spoofing & More<a href="https://threatpost.com/url-parsing-bugs-dos-rce-spoofing/177493/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dangerous security bugs stemming from widespread inconsistencies among 16 popular third-party URL-parsing libraries could affect a wide swath of web applications.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol Ordered to Delete Data of Individuals With No Proven Links to Crimes<a href="https://thehackernews.com/2022/01/europol-ordered-to-delete-data-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union's data protection watchdog on Monday ordered Europol to delete a vast trove of personal data it obtained pertaining to individuals with no proven links to criminal activity.  "Datasets older than six months that have not undergone this Data Subject Categorisation must be erased," the European Data Protection Supervisor ( EDPS )  said  in a press statement. "This means that Europol will no longer be permitted to retain data about people who have not been linked to a crime or a criminal activity for long periods with no set deadline."   EDPS' investigation into Europol's handling of sensitive data commenced in April 2019, with the authority noting that the storage of large volumes of data with no Data Subject Categorisation poses a risk to individuals' fundamental rights and amounts to mass surveillance. The cache is said to contain at least four petabytes,  according  to The Guardian.  In addition, the ruling also imposed a six-mon
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 10, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

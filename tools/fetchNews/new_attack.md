@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Mails Malicious USB Sticks to Drop Ransomware<a href="https://threatpost.com/fin7-mailing-malicious-usb-sticks-ransomware/177541/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warned that attackers are impersonating Health &amp; Human Services and/or Amazon to mail BadUSB-poisoned USB devices to targets in transportation, insurance &amp; defense.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cosmetics company Clarins hit by data security incident, 'may involve' Singapore customers’ personal information<a href="https://www.channelnewsasia.com/singapore/clarins-data-security-incident-singapore-customers-personal-information-log4j-software-vulnerability-2428066?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data accessed may have included customers’ personal information such as name, address, email, phone number, and Clarins loyalty program status, the cosmetics company added.
+</details>
+<div style="text-align: right" markdown="1">
+Channel News Asia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

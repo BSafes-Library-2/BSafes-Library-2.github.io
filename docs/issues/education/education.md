@@ -8,6 +8,35 @@ nav_order: 900053
 
 ## Education
 ---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Approach to Detect Stealthy Malware on IoT Devices<a href="https://cyware.com/news/a-new-approach-to-detect-stealthy-malware-on-iot-devices-d1d72726"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts developed a three-phased approach that leverages electromagnetic field emanations to detect evasive malware on IoT devices including the unseen variants. The electromagnetic emanation calculated from the device is nearly undetectable by the malware.&nbsp;Thus, malware evasion tacti ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here’s REALLY How to Do Zero-Trust Security<a href="https://threatpost.com/zero-trust-future-security-risks/177502/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s not about buying security products! Joseph Carson, chief security scientist from ThycoticCentrify, offers practical steps to start the zero-trust journey.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

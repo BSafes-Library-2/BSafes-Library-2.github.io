@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Can You Leave Log4J in 2021?<a href="https://thehackernews.com/2022/01/how-can-you-leave-log4j-in-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the last month of 2021 dominated by the log4J vulnerabilities discovery, publication, and patches popping up in rapid succession, odds are you have patched your system against Log4J exploitation attempts. At least some systems, if not all. You might even have installed the latest patch – at the time of writing, that is 2.17.1, but, if the last rapid patching cycle persists, it might have changed by the time this is published.  In the meantime, defenders might have been working overtime to plug Log4J born security gaps, but so did cyber-attackers. Log4J's well-deserved fame also alerted cyber-attackers to a potential entry pathway into their target. And, while log4J will hopefully vanish from the headlines,&nbsp; cyber-attackers are likely to continue trying to exploit it &nbsp;in the hope of finding unpatched or incompletely patched targets.  As human error still accounts&nbsp; for 95% of all security breaches , cyber-attackers actively rely on these human errors to exploit them and take advant
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2022 Cybersecurity Predictions from Lookout: Work From Anywhere Ends On-Premises Security<a href="https://thehackernews.com/2022/01/2022-cybersecurity-predictions-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lookout , an endpoint-to-cloud cyber security company, have put together their cyber security predictions for 2022.&nbsp;  1&nbsp; —&nbsp; Cloud connectivity and cloud-to-cloud connectivity will amplify supply-chain breaches  One area organizations need to continue to monitor in 2022 is the software supply chain. We tend to think of cloud apps as disparate islands used as destinations by endpoints and end-users to collect and process data. The reality is that these apps constantly communicate with different entities and systems like software-update infrastructure and with each other — interactions that are often not monitored.  In late 2020, the cybersecurity community uncovered one of the worst breaches in recent memory when the&nbsp; SolarWinds &nbsp;software-publishing infrastructure was infiltrated. More than 100 organizations, including nine U.S. federal agencies, were compromised by trojanized updates that opened backdoors to their infrastructure. This is a prime example of how a weak supply chain can b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

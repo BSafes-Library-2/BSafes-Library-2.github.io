@@ -8,6 +8,56 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Night Sky ransomware operators exploit Log4Shell to target hack VMware Horizon servers<a href="https://securityaffairs.co/wordpress/126569/cyber-crime/night-sky-ransomware-log4shell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Another gang, Night Sky ransomware operation, started exploiting the Log4Shell vulnerability in the Log4j library to gain access to VMware Horizon systems.
+
+
+
+The Night Sky ransomware operation started exploiting the Log4Shell flaw (CVE-2021-44228) in the Log4j...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AvosLocker ransomware now targets Linux systems, including ESXi servers<a href="https://securityaffairs.co/wordpress/126564/malware/avoslocker-targets-linux-esxi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AvosLocker is the latest ransomware that implemented the capability to encrypt Linux systems including VMware ESXi servers. 
+
+
+
+AvosLocker expands its targets by implementing the support for encrypting Linux systems, specifically VMware ESXi servers,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Night Sky ransomware uses Log4j bug to hack VMware Horizon servers<a href="https://www.bleepingcomputer.com/news/security/night-sky-ransomware-uses-log4j-bug-to-hack-vmware-horizon-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Night Sky ransomware gang has started to exploit the critical CVE-2021-4422 vulnerability in the Log4j logging library, also known as Log4Shell, to gain access to VMware Horizon systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
