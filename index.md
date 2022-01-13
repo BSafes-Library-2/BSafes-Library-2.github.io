@@ -34,6 +34,507 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KCodes NetUSB flaw impacts millions of SOHO routers<a href="https://securityaffairs.co/wordpress/126646/hacking/kcodes-netusb-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity experts discovered a flaw in the KCodes NetUSB component that impacts millions of end-user routers from different vendors
+
+
+
+Cybersecurity researchers from SentinelOne have discovered a critical vulnerability (CVE-2021-45608) in KCodes...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes doorLock bug that can disable iPhones and iPads<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-doorlock-bug-that-can-disable-iphones-and-ipads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to address a persistent denial of service (DoS) dubbed doorLock that would altogether disable iPhones and iPads running HomeKit on iOS 14.7 and later.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Purple Fox Develops Complex Attack Chain for Persistence<a href="https://cyware.com/news/purple-fox-develops-complex-attack-chain-for-persistence-1791b82e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered cybercriminals using a malicious Telegram installer to drop Purple Fox Rootkit. It is believed to be spreading using email or probably via phishing websites. Phase-based operations and dependency on different files for each phase make this attacker go unnoticed from security s ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal agencies warn of Russian hackers targeting critical infrastructure<a href="https://thehill.com//policy/cybersecurity/589449-federal-agencies-warn-of-russian-hackers-targeting-critical"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal agencies are warning about Russian hackers potentially targeting critical infrastructure in the United States.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Cloud Services to Distribute Nanocore, Netwire, and AsyncRAT Malware<a href="https://thehackernews.com/2022/01/hackers-use-cloud-services-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively incorporating public cloud services from Amazon and Microsoft into their malicious campaigns to deliver commodity remote access trojans (RATs) such as  Nanocore ,  Netwire , and  AsyncRAT  to siphon sensitive information from compromised systems.  The spear-phishing attacks, which commenced in October 2021, have primarily targeted entities located in the U.S., Canada, Italy, and Singapore, researchers from Cisco Talos said in a report  shared with The Hacker News.  Using existing infrastructure to facilitate intrusions is increasingly becoming part of an attacker's playbook as it obviates the need to host their own servers, not to mention using it as a cloaking mechanism to evade detection by security solutions.   In recent months, collaboration and communication tools like  Discord, Slack, and Telegram  have found a place in many an infection chain to  commandeer and exfiltrate data  from the victim machines. Viewed in that light, the abuse of cloud pla
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York AG Warns 17 Firms of Credential Attacks<a href="https://threatpost.com/ny-ag-credential-attacks/177584/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sponsored: Password security is highlighted in attorney general warning to New York state businesses.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US links MuddyWater hacking group to Iranian intelligence agency<a href="https://www.bleepingcomputer.com/news/security/us-links-muddywater-hacking-group-to-iranian-intelligence-agency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cyber Command (USCYBERCOM) has officially linked the Iranian-backed MuddyWatter hacking group to Iran's Ministry of Intelligence and Security (MOIS).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TellYouThePass Ransomware Analysis Reveals Modern Reinterpretation Using Golang<a href="https://www.crowdstrike.com/blog/tellyouthepass-ransomware-analysis-reveals-modern-reinterpretation-using-golang/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TellYouThePass ransomware, discovered in 2019, recently re-emerged compiled using Golang. The popularity of Golang among malware developers makes cross-platform development more accessible.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SysJoker Espionage Malware Targeting Windows, macOS, and Linux Users<a href="https://thehackernews.com/2022/01/new-sysjoker-espionage-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new  cross-platform backdoor  called " SysJoker " has been observed targeting machines running Windows, Linux, and macOS operating systems as part of an ongoing espionage campaign that's believed to have been initiated during the second half of 2021.  "SysJoker masquerades as a system update and generates its [command-and-control server] by decoding a string retrieved from a text file hosted on Google Drive," Intezer researchers Avigayil Mechtinger, Ryan Robinson, and Nicole Fishbein  noted  in a technical write-up publicizing their findings. "Based on victimology and malware's behavior, we assess that SysJoker is after specific targets."   The Israeli cybersecurity company, attributing the work to an advanced threat actor, said it first discovered evidence of the implant in December 2021 during an active attack against a Linux-based web server belonging to an unnamed educational institution.   A C++-based malware, SysJoker is delivered via a dr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked threat actors targets critical infrastructure, US authorities warn<a href="https://securityaffairs.co/wordpress/126639/cyber-warfare-2/russia-linked-threat-actors-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US authorities warn critical infrastructure operators of the threat of cyberattacks orchestrated by Russia-linked threat actors. 
+
+
+
+US Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), and the National...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK jails man for spying on teenagers, stealing photos using RATs<a href="https://www.bleepingcomputer.com/news/security/uk-jails-man-for-spying-on-teenagers-stealing-photos-using-rats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Nottingham man was imprisoned this week for more than two years after hacking the computers and phones of dozens of victims, some of them underage, and spying on them using remote access trojans (RATs). 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proofpoint Buys AI-Powered Data Protection Startup Dathena<a href="https://www.crn.com/news/security/proofpoint-buys-ai-powered-data-protection-startup-dathena?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint has purchased Dathena to help organizations better understand information risk and eliminate data loss through artificial intelligence-based data classification.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XDR: Redefining the game for MSSPs serving SMBs and SMEs<a href="https://thehackernews.com/2022/01/xdr-redefining-game-for-mssps-serving.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SMBs and SMEs are increasingly turning to MSSPs to secure their businesses because they simply do not have the resources to manage an effective security technology stack. However, it's also challenging for MSSPs to piece together an effective but manageable security technology stack to protect their clients, especially at an affordable price point.  This is where Extended Detection and Response (XDR) comes in and can help MSSPs boost their profitability from SMB and SME and improve their protections. XDR is heating up within the MSSP market as these security service providers stand to gain tremendous financial and operational benefits from this nascent technology. XDR promises far better security outcomes at a lower cost than the current security stack approaches most MSSPs currently have in place.  One sticky point that keeps arising in the XDR discussion has to do with the different technology approaches XDR providers rely upon to deliver platform capabilities. Most of us have heard
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RedLine malware version distributed as fake Omicron stat counter<a href="https://securityaffairs.co/wordpress/126627/cyber-crime/redline-malware-omicron.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a new variant of the RedLine malware that is distributed via emails as fake COVID-19 Omicron stat counter app as a lure.
+
+
+
+Fortinet researchers have spotted a new version of the RedLine info-stealer that is spreading via emails using...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magniber ransomware using signed APPX files to infect systems<a href="https://www.bleepingcomputer.com/news/security/magniber-ransomware-using-signed-appx-files-to-infect-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Magniber ransomware has been spotted using Windows application package files (.APPX) signed with valid certificates to drop malware pretending to be Chrome and Edge web browser updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SMEs still an easy target for cybercriminals<a href="https://www.helpnetsecurity.com/2022/01/12/smes-cybersecurity-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per a new survey, 88% of businesses had at least one form of cybersecurity control in place, with 70% feeling fairly confident or extremely confident in their cybersecurity arrangements.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, NSA and CISA Warns of Russian Hackers Targeting Critical Infrastructure<a href="https://thehackernews.com/2022/01/fbi-nsa-and-cisa-warns-of-russian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amid renewed tensions between the U.S. and Russia over  Ukraine  and  Kazakhstan , American cybersecurity and intelligence agencies on Tuesday released a joint advisory on how to detect, respond to, and mitigate cyberattacks orchestrated by Russian state-sponsored actors.  To that end, the Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), and National Security Agency (NSA) have laid bare the tactics, techniques, and procedures (TTPs) adopted by the adversaries, including spear-phishing, brute-force, and  exploiting known vulnerabilities  to gain initial access to target networks.   The list of flaws exploited by Russian hacking groups to gain an initial foothold, which the agencies said are "common but effective," are below —   CVE-2018-13379  (FortiGate VPNs)  CVE-2019-1653  (Cisco router)  CVE-2019-2725  (Oracle WebLogic Server)  CVE-2019-7609  (Kibana)  CVE-2019-9670  (Zimbra software)  CVE-2019-10149  (Exim Simple Mail Transf
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked APT35 group exploits Log4Shell flaw to deploy a new PowerShell backdoor<a href="https://securityaffairs.co/wordpress/126613/apt/apt35-log4shell-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked APT35 group has been observed leveraging the Log4Shell flaw to drop a new PowerShell backdoor.
+
+
+
+Iran-linked APT35 cyberespionege group (aka 'Charming Kitten' or 'Phosphorus') has been observed leveraging the Log4Shell flaw to drop a new PowerShell...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TellYouThePass ransomware returns as a cross-platform Golang threat<a href="https://www.bleepingcomputer.com/news/security/tellyouthepass-ransomware-returns-as-a-cross-platform-golang-threat/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TellYouThePass ransomware has re-emerged as a Golang-compiled malware, making it easier to target major platforms beyond Windows, like macOS and Linux.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 15 exploited vulnerabilities from Google, IBM, Microsoft, Oracle and more to catalog<a href="https://www.zdnet.com/article/cisa-adds-15-exploited-vulnerabilities-from-google-ibm-microsoft-oracle-and-more-to-catalog/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most urgent additions to the CISA list include a vulnerability in VMware vCenter Server, flaws in Hikvision products, and a FatPipe WARP, IPVPN, and MPVPN vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe fixes 4 critical Reader bugs that were demonstrated at Tianfu Cup<a href="https://securityaffairs.co/wordpress/126593/security/adobe-reader-tianfu-cup.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe released security updates to address multiple vulnerabilities affecting several products, including Acrobat and Reader.
+
+
+
+Adobe patches for January address 41 vulnerabilities in Windows and macOS versions of Acrobat and Reader products, Illustrator,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OceanLotus hackers turn to web archive files to deploy backdoors<a href="https://www.bleepingcomputer.com/news/security/oceanlotus-hackers-turn-to-web-archive-files-to-deploy-backdoors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OceanLotus group of state-sponsored hackers are now using the web archive file format (.MHT and .MHTML) to deploy backdoors to compromised systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Apps Replace Web as Source for Most Malware Downloads<a href="https://www.darkreading.com/cloud/cloud-apps-replace-web-as-source-for-most-malware-downloads?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two-thirds of all malware distributed to enterprise networks last year originated from cloud apps such as Google Drive, OneDrive, and numerous other cloud apps, new research shows.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EA: 50 high-profile FIFA 22 accounts taken over by phishing actors<a href="https://www.bleepingcomputer.com/news/security/ea-50-high-profile-fifa-22-accounts-taken-over-by-phishing-actors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Electronic Arts (EA) has published an official response to numerous reports about hacked player accounts, confirming the problem and attributing it to phishing actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kiteworks Acquires Email Encryption Leader totemo<a href="https://www.darkreading.com/endpoint/kiteworks-acquires-email-encryption-leader-totemo?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kiteworks announced its acquisition of totemo, the leading email encryption gateway provider used by hundreds of the largest multinational enterprises in the German, Austrian, and Swiss markets.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers take over diplomat's email, target Russian deputy minister<a href="https://www.bleepingcomputer.com/news/security/hackers-take-over-diplomats-email-target-russian-deputy-minister/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers believed to work for the North Korean government have compromised the email account of a staff member of Russia's Ministry of Foreign Affairs (MID) and deployed spear-phishing attacks against the country's diplomats in other regions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Faces Wormable, Critical RCE Bug & 6 Zero-Days<a href="https://threatpost.com/microsoft-wormable-critical-rce-bug-zero-day/177564/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The large January 2022 Patch Tuesday update covers nine critical CVEs, including a self-propagator with a 9.8 CVSS score. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MacOS Bug Could Let Creeps Snoop On You<a href="https://threatpost.com/macos-bug-snooping-microsoft/177551/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw could allow attackers to bypass Privacy preferences, giving  apps with no right to access files, microphones or cameras the ability to  record you or grab screenshots. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Bugs Exploded in 2021, Most Exploitable<a href="https://threatpost.com/wordpress-bugs-exploded-2021-exploitable/177553/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Record-number WordPress plugin vulnerabilities are wicked exploitable even with low CVSS scores, leaving security teams blind to their risk. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+First Patch Tuesday of 2022 Brings Fix for a Critical 'Wormable' Windows Vulnerability<a href="https://thehackernews.com/2022/01/first-patch-tuesday-of-2022-brings-fix.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday kicked off its first set of updates for 2022 by  plugging 96 security holes  across its software ecosystem, while urging customers to prioritize patching for what it calls a critical "wormable" vulnerability.  Of the 96 vulnerabilities, nine are rated Critical and 89 are rated Important in severity, with six zero-day publicly known at the time of the release. This is in addition to  29 issues  patched in Microsoft Edge on January 6, 2022. None of the disclosed bugs are listed as under attack.  The patches cover a swath of the computing giant's portfolio, including Microsoft Windows and Windows Components, Exchange Server, Microsoft Office and Office Components, SharePoint Server, .NET Framework, Microsoft Dynamics, Open-Source Software, Windows Hyper-V, Windows Defender, and Windows Remote Desktop Protocol (RDP).  Chief among them is  CVE-2022-21907  (CVSS score: 9.8), a remote code execution vulnerability rooted in the HTTP Protocol Stack. "In
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 11, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
