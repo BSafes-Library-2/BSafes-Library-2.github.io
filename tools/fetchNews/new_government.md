@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal agencies warn of Russian hackers targeting critical infrastructure<a href="https://thehill.com//policy/cybersecurity/589449-federal-agencies-warn-of-russian-hackers-targeting-critical"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal agencies are warning about Russian hackers potentially targeting critical infrastructure in the United States.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York AG Warns 17 Firms of Credential Attacks<a href="https://threatpost.com/ny-ag-credential-attacks/177584/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sponsored: Password security is highlighted in attorney general warning to New York state businesses.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, NSA and CISA Warns of Russian Hackers Targeting Critical Infrastructure<a href="https://thehackernews.com/2022/01/fbi-nsa-and-cisa-warns-of-russian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amid renewed tensions between the U.S. and Russia over&nbsp; Ukraine &nbsp;and&nbsp; Kazakhstan , American cybersecurity and intelligence agencies on Tuesday released a joint advisory on how to detect, respond to, and mitigate cyberattacks orchestrated by Russian state-sponsored actors.  To that end, the Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), and National Security Agency (NSA) have laid bare the tactics, techniques, and procedures (TTPs) adopted by the adversaries, including spear-phishing, brute-force, and&nbsp; exploiting known vulnerabilities &nbsp;to gain initial access to target networks.   The list of flaws exploited by Russian hacking groups to gain an initial foothold, which the agencies said are "common but effective," are below —   CVE-2018-13379 &nbsp;(FortiGate VPNs)  CVE-2019-1653 &nbsp;(Cisco router)  CVE-2019-2725 &nbsp;(Oracle WebLogic Server)  CVE-2019-7609 &nbsp;(Kibana)  CVE-2019-9670 &nbsp;(Zimbra software)  CVE-2019-10149 &nbsp;(Exim Simple Mail Transf
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 15 exploited vulnerabilities from Google, IBM, Microsoft, Oracle and more to catalog<a href="https://www.zdnet.com/article/cisa-adds-15-exploited-vulnerabilities-from-google-ibm-microsoft-oracle-and-more-to-catalog/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most urgent additions to the CISA list include a vulnerability in VMware vCenter Server, flaws in Hikvision products, and a FatPipe WARP, IPVPN, and MPVPN vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

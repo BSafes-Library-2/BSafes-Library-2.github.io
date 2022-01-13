@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Purple Fox Develops Complex Attack Chain for Persistence<a href="https://cyware.com/news/purple-fox-develops-complex-attack-chain-for-persistence-1791b82e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered cybercriminals using a malicious Telegram installer to drop Purple Fox Rootkit. It is believed to be spreading using email or probably via phishing websites. Phase-based operations and dependency on different files for each phase make this attacker go unnoticed from security s ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SMEs still an easy target for cybercriminals<a href="https://www.helpnetsecurity.com/2022/01/12/smes-cybersecurity-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per a new survey, 88% of businesses had at least one form of cybersecurity control in place, with 70% feeling fairly confident or extremely confident in their cybersecurity arrangements.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

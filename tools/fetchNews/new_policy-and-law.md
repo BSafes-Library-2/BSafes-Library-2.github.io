@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK jails man for spying on teenagers, stealing photos using RATs<a href="https://www.bleepingcomputer.com/news/security/uk-jails-man-for-spying-on-teenagers-stealing-photos-using-rats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Nottingham man was imprisoned this week for more than two years after hacking the computers and phones of dozens of victims,&nbsp;some of them underage, and spying on them using&nbsp;remote access trojans (RATs).&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

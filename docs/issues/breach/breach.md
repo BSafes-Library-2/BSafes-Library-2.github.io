@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers take over diplomat's email, target Russian deputy minister<a href="https://www.bleepingcomputer.com/news/security/hackers-take-over-diplomats-email-target-russian-deputy-minister/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers believed to work for the North Korean government have compromised the email account of a staff member of Russia's Ministry of Foreign Affairs (MID) and deployed spear-phishing attacks against the country's diplomats in other regions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

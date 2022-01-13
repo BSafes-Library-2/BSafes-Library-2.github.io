@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2022 - CISA, FBI, NSA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, and NSA Release Cybersecurity Advisory on Russian Cyber Threats to U.S. Critical Infrastructure <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/01/11/cisa-fbi-and-nsa-release-cybersecurity-advisory-russian-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA, the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) have released a joint Cybersecurity Advisory (CSA) that provides an overview of Russian state-sponsored cyber operations, including commonly observed tactics, techniques, and procedures. The CSA also provides detection actions, incident response guidance, and mitigations. CISA, the FBI, and NSA are releasing the joint CSA to help the cybersecurity community reduce the risk presented by Russian state-sponsored cyber threats.  
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 11, 2022 - CISA, FBI, NSA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -15,6 +27,18 @@ Understanding and Mitigating Russian State-Sponsored Cyber Threats to U.S. Criti
 <details>
   <summary>Abstract</summary>
 This joint Cybersecurity Advisory (CSA)—authored by the Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), and National Security Agency (NSA)—is part of our continuing cybersecurity mission to warn organizations of cyber threats and help the cybersecurity community reduce the risk presented by these threats.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2022 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds 15 Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/01/10/cisa-adds-15-known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added 15 new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence that threat actors are actively exploiting the vulnerabilities listed in the table below. These types of vulnerabilities are a frequent attack vector for malicious cyber actors of all types and pose significant risk to the federal enterprise.
 </details>
 </div>
 

@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA alerts federal agencies of ancient bugs still being exploited<a href="https://www.bleepingcomputer.com/news/security/cisa-alerts-federal-agencies-of-ancient-bugs-still-being-exploited/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its list of known exploited vulnerabilities with 15 new security issues that serve as a frequent attack vector against federal enterprises.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt warns of Russian hackers targeting critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-of-russian-hackers-targeting-critical-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI, CISA, and the NSA have warned critical infrastructure network defenders to be ready to detect and block incoming attacks targeting organizations from US critical infrastructure sectors orchestrated by Russian-backed hacking groups.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol Ordered to Delete Data of Individuals With No Proven Links to Crimes<a href="https://thehackernews.com/2022/01/europol-ordered-to-delete-data-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union's data protection watchdog on Monday ordered Europol to delete a vast trove of personal data it obtained pertaining to individuals with no proven links to criminal activity.  "Datasets older than six months that have not undergone this Data Subject Categorisation must be erased," the European Data Protection Supervisor ( EDPS )&nbsp; said &nbsp;in a press statement. "This means that Europol will no longer be permitted to retain data about people who have not been linked to a crime or a criminal activity for long periods with no set deadline."   EDPS' investigation into Europol's handling of sensitive data commenced in April 2019, with the authority noting that the storage of large volumes of data with no Data Subject Categorisation poses a risk to individuals' fundamental rights and amounts to mass surveillance. The cache is said to contain at least four petabytes,&nbsp; according &nbsp;to The Guardian.  In addition, the ruling also imposed a six-mon
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

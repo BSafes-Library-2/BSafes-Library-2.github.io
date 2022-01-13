@@ -8,6 +8,112 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KCodes NetUSB flaw impacts millions of SOHO routers<a href="https://securityaffairs.co/wordpress/126646/hacking/kcodes-netusb-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity experts discovered a flaw in the KCodes NetUSB component that impacts millions of end-user routers from different vendors
+
+
+
+Cybersecurity researchers from SentinelOne have discovered a critical vulnerability (CVE-2021-45608) in KCodes...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes doorLock bug that can disable iPhones and iPads<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-doorlock-bug-that-can-disable-iphones-and-ipads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to address a persistent denial of service (DoS) dubbed doorLock that would altogether disable iPhones and iPads running HomeKit on iOS 14.7 and later.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe fixes 4 critical Reader bugs that were demonstrated at Tianfu Cup<a href="https://securityaffairs.co/wordpress/126593/security/adobe-reader-tianfu-cup.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe released security updates to address multiple vulnerabilities affecting several products, including Acrobat and Reader.
+
+
+
+Adobe patches for January address 41 vulnerabilities in Windows and macOS versions of Acrobat and Reader products, Illustrator,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Faces Wormable, Critical RCE Bug &amp; 6 Zero-Days<a href="https://threatpost.com/microsoft-wormable-critical-rce-bug-zero-day/177564/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The large January 2022 Patch Tuesday update covers nine critical CVEs, including a self-propagator with a 9.8 CVSS score. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MacOS Bug Could Let Creeps Snoop On You<a href="https://threatpost.com/macos-bug-snooping-microsoft/177551/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw could allow attackers to bypass Privacy preferences, giving  apps with no right to access files, microphones or cameras the ability to  record you or grab screenshots. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Bugs Exploded in 2021, Most Exploitable<a href="https://threatpost.com/wordpress-bugs-exploded-2021-exploitable/177553/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Record-number WordPress plugin vulnerabilities are wicked exploitable even with low CVSS scores, leaving security teams blind to their risk. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+First Patch Tuesday of 2022 Brings Fix for a Critical 'Wormable' Windows Vulnerability<a href="https://thehackernews.com/2022/01/first-patch-tuesday-of-2022-brings-fix.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday kicked off its first set of updates for 2022 by&nbsp; plugging 96 security holes &nbsp;across its software ecosystem, while urging customers to prioritize patching for what it calls a critical "wormable" vulnerability.  Of the 96 vulnerabilities, nine are rated Critical and 89 are rated Important in severity, with six zero-day publicly known at the time of the release. This is in addition to&nbsp; 29 issues &nbsp;patched in Microsoft Edge on January 6, 2022. None of the disclosed bugs are listed as under attack.  The patches cover a swath of the computing giant's portfolio, including Microsoft Windows and Windows Components, Exchange Server, Microsoft Office and Office Components, SharePoint Server, .NET Framework, Microsoft Dynamics, Open-Source Software, Windows Hyper-V, Windows Defender, and Windows Remote Desktop Protocol (RDP).  Chief among them is&nbsp; CVE-2022-21907 &nbsp;(CVSS score: 9.8), a remote code execution vulnerability rooted in the HTTP Protocol Stack. "In
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

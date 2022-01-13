@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+January 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox Focus now blocks cross-site tracking on Android devices<a href="https://www.bleepingcomputer.com/news/security/firefox-focus-now-blocks-cross-site-tracking-on-android-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla's Firefox Focus web browser can now protect Android users against cross-site tracking while browsing the Internet by preventing cookies from being used for advertising and monitoring your activity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

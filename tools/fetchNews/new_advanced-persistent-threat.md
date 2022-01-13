@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked APT35 group exploits Log4Shell flaw to deploy a new PowerShell backdoor<a href="https://securityaffairs.co/wordpress/126613/apt/apt35-log4shell-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked APT35 group&nbsp;has been observed leveraging the Log4Shell flaw to drop a new PowerShell backdoor.
+
+
+
+Iran-linked APT35 cyberespionege group (aka 'Charming Kitten' or 'Phosphorus')&nbsp;has been observed leveraging the Log4Shell flaw to drop a new PowerShell...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
