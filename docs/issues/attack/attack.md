@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GootLoader Campaign Targets Accounting, Law Firms<a href="https://threatpost.com/gootloader-accounting-law-firms/177629/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GootLoader hijacks WordPress sites to lure professionals to download malicious sample contract templates. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors abuse public cloud services to spread multiple RATs<a href="https://securityaffairs.co/wordpress/126675/cyber-crime/cloud-services-deliver-rats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively abusing cloud services from Amazon and Microsoft to deliver RATs such as&nbsp;Nanocore,&nbsp;Netwire, and&nbsp;AsyncRAT.  
+
+
+
+Threat actors are actively exploiting public cloud services from Amazon and Microsoft to spread RATs such as&nbsp;Nanocore,&nbsp;Netwire,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

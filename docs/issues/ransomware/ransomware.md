@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack at Maryland Health Agency Leads to Service Outages<a href="https://www.securityweek.com/maryland-confirms-ransomware-attack-health-agency?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maryland officials confirmed on Wednesday that state's Department of Health is dealing with a devastating ransomware attack, which has left hospitals struggling amid a surge of COVID-19 cases.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

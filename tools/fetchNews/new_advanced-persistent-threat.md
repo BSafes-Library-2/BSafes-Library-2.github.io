@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+USCYBERCOM: MuddyWater APT is linked to Iran’s MOIS intelligence<a href="https://securityaffairs.co/wordpress/126664/apt/muddywater-linked-to-iran-mois.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cyber Command (USCYBERCOM) has officially linked the Iran-linked MuddyWater APT group to Iran's Ministry of Intelligence and Security (MOIS).
+
+
+
+USCYBERCOM has officially linked the Iran-linked MuddyWater APT group (aka&nbsp;SeedWorm&nbsp;and&nbsp;TEMP.Zagros)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

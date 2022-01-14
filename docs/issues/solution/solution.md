@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android users can now disable 2G to block Stingray attacks<a href="https://www.bleepingcomputer.com/news/security/android-users-can-now-disable-2g-to-block-stingray-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has finally rolled out an option on Android allowing users to disable 2G connections, which come with a host of privacy and security problems exploited by cell-site simulators.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meeting Patching-Related Compliance Requirements with TuxCare<a href="https://thehackernews.com/2022/01/meeting-patching-related-compliance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity teams have many demands competing for limited resources. Restricted budgets are a problem, and restricted staff resources are also a bottleneck. There is also the need to maintain business continuity at all times. It's a frustrating mix of challenges – with resources behind tasks such as patching rarely sufficient to meet security prerogatives or compliance deadlines.  The multitude of different security-related standards have ever stringent deadlines, and it is often the case that business needs don't necessarily align with those requirements. At the core of what TuxCare does is automated live patching – a way to consistently keep critical services safe from security threats, without the need to expend significant resources in doing so, or the need to live with business disruption.  In this article, we'll outline how&nbsp; TuxCare &nbsp;helps organizations such as yours deal better with security challenges including patching, and the support of end-of-life operating s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

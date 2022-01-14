@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Securing Taiwan Requires Immediate Unprecedented Cyber Action<a href="https://www.lawfareblog.com/securing-taiwan-requires-immediate-unprecedented-cyber-action"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The prospect of a Chinese invasion of Taiwan echoes some of the most disastrous 20th century instances of great power expansion—reminiscent, perhaps, of Nazi Germany’s Anschluss or even its subsequent invasion of Poland. Given that the latter ignited World War II, America’s strategic community has been rightly fixated on the vast military and political contingencies of a Chinese invasion that would remake Asia.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC wants new data breach reporting rules for telecom carriers<a href="https://www.bleepingcomputer.com/news/security/fcc-wants-new-data-breach-reporting-rules-for-telecom-carriers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) has proposed more&nbsp;rigorous data breach reporting requirements for&nbsp;telecom carriers in response to breaches that recently hit the telecommunications industry.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US ties Iranian intelligence to hacking group<a href="https://thehill.com//policy/cybersecurity/589615-us-ties-iranian-intelligence-to-hacking-group"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Cyber Command on Wednesday said a hacking group known as MuddyWater is part of an Iranian intelligence agency responsible for widespread&nbsp;online attacks across the world.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

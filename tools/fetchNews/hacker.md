@@ -8,6 +8,66 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Cloud Services to Distribute Nanocore, Netwire, and AsyncRAT Malware<a href="https://thehackernews.com/2022/01/hackers-use-cloud-services-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively incorporating public cloud services from Amazon and Microsoft into their malicious campaigns to deliver commodity remote access trojans (RATs) such as&nbsp; Nanocore ,&nbsp; Netwire , and&nbsp; AsyncRAT &nbsp;to siphon sensitive information from compromised systems.  The spear-phishing attacks, which commenced in October 2021, have primarily targeted entities located in the U.S., Canada, Italy, and Singapore, researchers from Cisco Talos said in a report  shared with The Hacker News.  Using existing infrastructure to facilitate intrusions is increasingly becoming part of an attacker's playbook as it obviates the need to host their own servers, not to mention using it as a cloaking mechanism to evade detection by security solutions.   In recent months, collaboration and communication tools like&nbsp; Discord, Slack, and Telegram &nbsp;have found a place in many an infection chain to&nbsp; commandeer and exfiltrate data &nbsp;from the victim machines. Viewed in that light, the abuse of cloud pla
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US links MuddyWater hacking group to Iranian intelligence agency<a href="https://www.bleepingcomputer.com/news/security/us-links-muddywater-hacking-group-to-iranian-intelligence-agency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cyber Command (USCYBERCOM) has officially linked the Iranian-backed MuddyWatter hacking group to Iran's Ministry of Intelligence and Security (MOIS).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked threat actors targets critical infrastructure, US authorities warn<a href="https://securityaffairs.co/wordpress/126639/cyber-warfare-2/russia-linked-threat-actors-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US authorities warn critical infrastructure operators of the threat of cyberattacks orchestrated by Russia-linked threat actors. 
+
+
+
+US Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), and the National...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OceanLotus hackers turn to web archive files to deploy backdoors<a href="https://www.bleepingcomputer.com/news/security/oceanlotus-hackers-turn-to-web-archive-files-to-deploy-backdoors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OceanLotus group of state-sponsored hackers are now using the web archive file format (.MHT and .MHTML) to deploy backdoors to compromised systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TellYouThePass Ransomware Analysis Reveals Modern Reinterpretation Using Golang<a href="https://www.crowdstrike.com/blog/tellyouthepass-ransomware-analysis-reveals-modern-reinterpretation-using-golang/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TellYouThePass ransomware, discovered in 2019, recently re-emerged compiled using Golang. The popularity of Golang among malware developers makes cross-platform development more accessible.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magniber ransomware using signed APPX files to infect systems<a href="https://www.bleepingcomputer.com/news/security/magniber-ransomware-using-signed-appx-files-to-infect-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Magniber ransomware has been spotted using Windows application package files (.APPX) signed with valid certificates to drop malware pretending to be&nbsp;Chrome and Edge web browser updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TellYouThePass ransomware returns as a cross-platform Golang threat<a href="https://www.bleepingcomputer.com/news/security/tellyouthepass-ransomware-returns-as-a-cross-platform-golang-threat/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TellYouThePass ransomware has re-emerged as a Golang-compiled malware, making it easier to target major platforms beyond Windows, like macOS and Linux.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

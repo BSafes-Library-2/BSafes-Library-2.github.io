@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XDR: Redefining the game for MSSPs serving SMBs and SMEs<a href="https://thehackernews.com/2022/01/xdr-redefining-game-for-mssps-serving.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SMBs and SMEs are increasingly turning to MSSPs to secure their businesses because they simply do not have the resources to manage an effective security technology stack. However, it's also challenging for MSSPs to piece together an effective but manageable security technology stack to protect their clients, especially at an affordable price point.  This is where Extended Detection and Response (XDR) comes in and can help MSSPs boost their profitability from SMB and SME and improve their protections. XDR is heating up within the MSSP market as these security service providers stand to gain tremendous financial and operational benefits from this nascent technology. XDR promises far better security outcomes at a lower cost than the current security stack approaches most MSSPs currently have in place.  One sticky point that keeps arising in the XDR discussion has to do with the different technology approaches XDR providers rely upon to deliver platform capabilities. Most of us have heard
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

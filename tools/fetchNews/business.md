@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proofpoint Buys AI-Powered Data Protection Startup Dathena<a href="https://www.crn.com/news/security/proofpoint-buys-ai-powered-data-protection-startup-dathena?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint has purchased Dathena to help organizations better understand information risk and eliminate data loss through artificial intelligence-based data classification.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kiteworks Acquires Email Encryption Leader totemo<a href="https://www.darkreading.com/endpoint/kiteworks-acquires-email-encryption-leader-totemo?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kiteworks announced its acquisition of totemo, the leading email encryption gateway provider used by hundreds of the largest multinational enterprises in the German, Austrian, and Swiss markets.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
