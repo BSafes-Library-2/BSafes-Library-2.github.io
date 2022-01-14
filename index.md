@@ -34,6 +34,474 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android users can now disable 2G to block Stingray attacks<a href="https://www.bleepingcomputer.com/news/security/android-users-can-now-disable-2g-to-block-stingray-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has finally rolled out an option on Android allowing users to disable 2G connections, which come with a host of privacy and security problems exploited by cell-site simulators.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack forces Albuquerque Public Schools to cancel classes<a href="https://www.abqjournal.com/2460740/cyber-attack-shuts-down-albuquerque-public-schools.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APS Superintendent Scott Elder said the attack was discovered Wednesday morning “when teachers tried to log onto our student information system and were unable to gain access to the site.”
+</details>
+<div style="text-align: right" markdown="1">
+Albuquerque Journal
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers stole almost $400M in cryptocurrency, report says<a href="https://thehill.com//policy/cybersecurity/589661-north-korean-hackers-stole-almost-400m-in-cryptocurrency-report-says"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers in 2021 stole nearly $400 million in cryptocurrency, according to a report released on Thursday, making it one of the most prolific years to date for cybercriminals in the isolated nation.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GootLoader Hackers Targeting Employees of Law and Accounting Firms<a href="https://thehackernews.com/2022/01/gootloader-hackers-targeting-employees.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operators of the GootLoader campaign are setting their sights on employees of accounting and law firms as part of a fresh onslaught of widespread cyberattacks to deploy malware on infected systems, an indication that the adversary is expanding its focus to other high-value targets.  "GootLoader is a stealthy initial access malware, which after getting a foothold into the victim's computer system, infects the system with ransomware or other lethal malware," researchers from eSentire  said  in a report shared with The Hacker News.  The cybersecurity services provider said it intercepted and dismantled intrusions aimed at three law firms and an accounting enterprise. The names of the victims were not disclosed.  Malware can be delivered on targets' systems via many methods, including poisoned search results, fake updates, and trojanized applications downloaded from sites linking to pirated software. GootLoader resorts to the first technique.   In March 2021,  details em
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Securing Taiwan Requires Immediate Unprecedented Cyber Action<a href="https://www.lawfareblog.com/securing-taiwan-requires-immediate-unprecedented-cyber-action"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The prospect of a Chinese invasion of Taiwan echoes some of the most disastrous 20th century instances of great power expansion—reminiscent, perhaps, of Nazi Germany’s Anschluss or even its subsequent invasion of Poland. Given that the latter ignited World War II, America’s strategic community has been rightly fixated on the vast military and political contingencies of a Chinese invasion that would remake Asia.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes a critical flaw in Unified CCMP and Unified CCDM<a href="https://securityaffairs.co/wordpress/126684/security/cisco-unified-ccmp-unified-ccdm-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed a critical privilege escalation vulnerability, tracked as CVE-2022-20658, in Unified CCMP and Unified CCDM.
+
+
+
+Cisco released security patches to address a critical privilege escalation vulnerability, tracked as CVE-2022-20658, in Unified...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GootLoader Campaign Targets Accounting, Law Firms<a href="https://threatpost.com/gootloader-accounting-law-firms/177629/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GootLoader hijacks WordPress sites to lure professionals to download malicious sample contract templates. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC wants new data breach reporting rules for telecom carriers<a href="https://www.bleepingcomputer.com/news/security/fcc-wants-new-data-breach-reporting-rules-for-telecom-carriers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) has proposed more rigorous data breach reporting requirements for telecom carriers in response to breaches that recently hit the telecommunications industry.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches Critical Vulnerability in Contact Center Products<a href="https://www.securityweek.com/cisco-patches-critical-vulnerability-contact-center-products?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-20658 (CVSS score of 9.6), the issue exists due to a lack of server-side validation of user permissions, which allows an attacker to submit a crafted HTTP request to exploit the bug.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple, Amazon executives to meet with White House to discuss software security<a href="https://thehill.com//policy/cybersecurity/589623-apple-amazon-executives-to-meet-with-white-house-to-discuss-software"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Executives from Apple, Amazon and other top tech firms are meeting at the White House Thursday to discuss software security with the administration after major cyberattacks last year. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Decrypted Qakbot Banking Trojan's Encrypted Registry Keys<a href="https://thehackernews.com/2022/01/researchers-decrypted-qakbot-banking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have decoded the mechanism by which the versatile Qakbot banking trojan handles the insertion of encrypted configuration data into the  Windows Registry .  Qakbot, also known as QBot, QuackBot and Pinkslipbot, has been  observed   in the wild  since 2007. Although mainly fashioned as an information-stealing malware, Qakbot has since shifted its goals and acquired new functionality to deliver post-compromise attack platforms such as Cobalt Strike Beacon, with the final objective of loading ransomware on infected machines.   "It has been continually developed, with new capabilities introduced such as lateral movement, the ability to exfiltrate email and browser data, and to install additional malware," Trustwave researchers Lloyd Macrohon and Rodel Mendrez said in a report shared with The Hacker News.  In recent months, phishing campaigns have culminated in the distribution of a  new loader  called  SQUIRRELWAFFLE , which acts as a channel to retrieve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors abuse public cloud services to spread multiple RATs<a href="https://securityaffairs.co/wordpress/126675/cyber-crime/cloud-services-deliver-rats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively abusing cloud services from Amazon and Microsoft to deliver RATs such as Nanocore, Netwire, and AsyncRAT.  
+
+
+
+Threat actors are actively exploiting public cloud services from Amazon and Microsoft to spread RATs such as Nanocore, Netwire,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueNoroff hackers steal crypto using fake MetaMask extension<a href="https://www.bleepingcomputer.com/news/security/bluenoroff-hackers-steal-crypto-using-fake-metamask-extension/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean threat actor group known as 'BlueNoroff' has been spotted targeting cryptocurrency startups with malicious documents and fake MetaMask browser extensions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack at Maryland Health Agency Leads to Service Outages<a href="https://www.securityweek.com/maryland-confirms-ransomware-attack-health-agency?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maryland officials confirmed on Wednesday that state's Department of Health is dealing with a devastating ransomware attack, which has left hospitals struggling amid a surge of COVID-19 cases.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US ties Iranian intelligence to hacking group<a href="https://thehill.com//policy/cybersecurity/589615-us-ties-iranian-intelligence-to-hacking-group"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Cyber Command on Wednesday said a hacking group known as MuddyWater is part of an Iranian intelligence agency responsible for widespread online attacks across the world.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Exploit Log4j Vulnerability to Deploy PowerShell Backdoor<a href="https://thehackernews.com/2022/01/iranian-hackers-exploit-log4j.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian state-sponsored actor has been observed scanning and attempting to abuse the Log4Shell flaw in publicly-exposed Java applications to deploy a hitherto undocumented PowerShell-based modular backdoor dubbed " CharmPower " for follow-on post-exploitation.  "The actor's attack setup was obviously rushed, as they used the basic open-source tool for the exploitation and based their operations on previous infrastructure, which made the attack easier to detect and attribute," researchers from Check Point  said  in a report published this week.  The Israeli cybersecurity company linked the attack to a group known as  APT35 , which is also tracked using the codenames Charming Kitten, Phosphorus, and TA453, citing overlaps with toolsets previously identified as infrastructure used by the threat actor.   Log4Shell  aka CVE-2021-44228  (CVSS score: 10.0) concerns a critical security vulnerability in the popular Log4j logging library that, if successfully exploite
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla addresses High-Risk Firefox, Thunderbird vulnerabilities<a href="https://securityaffairs.co/wordpress/126671/security/mozilla-firefox-96-release.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla addressed18 security vulnerabilities affecting the popular Firefox web browser and the Thunderbird mail program. 
+
+
+
+Mozilla released Firefox 96 that addressed 18 security vulnerabilities in its web browser and the Thunderbird mail program. Nine...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS fixes security flaws that exposed AWS customer data<a href="https://www.bleepingcomputer.com/news/security/aws-fixes-security-flaws-that-exposed-aws-customer-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services (AWS) has addressed an AWS Glue security issue that allowed attackers to access and alter data linked to other AWS customer accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The public sector is more concerned about external than internal threats<a href="https://www.helpnetsecurity.com/2022/01/13/public-sector-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per a new SolarWinds report, the hacking community (56%) is the largest source of security threats at public sector entities, followed closely by insiders (52%) and foreign governments (47%).
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meeting Patching-Related Compliance Requirements with TuxCare<a href="https://thehackernews.com/2022/01/meeting-patching-related-compliance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity teams have many demands competing for limited resources. Restricted budgets are a problem, and restricted staff resources are also a bottleneck. There is also the need to maintain business continuity at all times. It's a frustrating mix of challenges – with resources behind tasks such as patching rarely sufficient to meet security prerogatives or compliance deadlines.  The multitude of different security-related standards have ever stringent deadlines, and it is often the case that business needs don't necessarily align with those requirements. At the core of what TuxCare does is automated live patching – a way to consistently keep critical services safe from security threats, without the need to expend significant resources in doing so, or the need to live with business disruption.  In this article, we'll outline how  TuxCare  helps organizations such as yours deal better with security challenges including patching, and the support of end-of-life operating s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+USCYBERCOM: MuddyWater APT is linked to Iran’s MOIS intelligence<a href="https://securityaffairs.co/wordpress/126664/apt/muddywater-linked-to-iran-mois.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cyber Command (USCYBERCOM) has officially linked the Iran-linked MuddyWater APT group to Iran's Ministry of Intelligence and Security (MOIS).
+
+
+
+USCYBERCOM has officially linked the Iran-linked MuddyWater APT group (aka SeedWorm and TEMP.Zagros)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender weakness lets hackers bypass malware detection<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-weakness-lets-hackers-bypass-malware-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors can take advantage of a weakness that affects Microsoft Defender antivirus on Windows to learn locations excluded from scanning and plant malware there.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dataprise acquires Global Data Vault to expand DRaaS and data protection offerings<a href="https://www.helpnetsecurity.com/2022/01/12/dataprise-global-data-vault/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dataprise announced the acquisition of Global Data Vault, a provider of Disaster-Recovery-as-a-Service (DRaaS), Backup-as-a-Service (BaaS) and modern data protection solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SysJoker, a previously undetected cross-platform backdoor made the headlines<a href="https://securityaffairs.co/wordpress/126656/malware/sysjoker-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers found a new cross-platform backdoor, dubbed SysJoker, the is suspected to be the work of an APT group.
+
+
+
+Security experts from Intezer discovered a new backdoor, dubbed SysJoker, that is able to infect Windows, macOS, and Linux...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 'RemotePotato0' zero-day gets an unofficial patch<a href="https://www.bleepingcomputer.com/news/security/windows-remotepotato0-zero-day-gets-an-unofficial-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A privilege escalation vulnerability impacting all Windows versions that can let threat actors gain domain admin privileges through an NTLM relay attack has received unofficial patches after Microsoft tagged it as "won't fix."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Ransomware locks down prison, knocks systems offline<a href="https://www.zdnet.com/article/ransomware-locks-down-prison-knocks-systems-offline/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Inmates were made to stay in their cells as the ransomware outbreak reportedly not only knocked out the internet but also locked staff out of data management servers and security camera networks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Carding site UniCC retires after generating $358 million in sales<a href="https://www.bleepingcomputer.com/news/security/carding-site-unicc-retires-after-generating-358-million-in-sales/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​UniCC, the largest carding site operating on the dark web at the moment, has announced its retirement, claiming reasons of tiredness.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukranian police arrests ransomware gang that hit over 50 firms<a href="https://www.bleepingcomputer.com/news/security/ukranian-police-arrests-ransomware-gang-that-hit-over-50-firms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian police officers have arrested a ransomware affiliate group responsible for attacking at least 50 companies in the U.S. and Europe.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
