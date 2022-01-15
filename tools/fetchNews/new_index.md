@@ -34,7 +34,709 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+At Request of U.S., Russia Rounds Up 14 REvil Ransomware Affiliates<a href="https://krebsonsecurity.com/2022/01/at-request-of-u-s-russia-rounds-up-14-revil-ransomware-affiliates/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian government has arrested 14 people accused of working for “REvil,” a particularly aggressive ransomware group that has extorted hundreds of millions of dollars from victim organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Arrests REvil Ransomware Gang Responsible for High-Profile Cyber Attacks<a href="https://thehackernews.com/2022/01/russia-arrests-revil-ransomware-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an unprecedented move, Russia's Federal Security Service (FSB), the country's principal security agency, on Friday disclosed that it arrested several members belonging to the notorious REvil ransomware gang and neutralized its operations.  The surprise operation, which it said was carried out at the request of the U.S. authorities, saw the law enforcement agency conduct raids at 25 addresses in the cities of Moscow, St. Petersburg, Moscow, Leningrad and Lipetsk regions that belonged to 14 suspected members of the organized cybercrime syndicate.  "In order to implement the criminal plan, these persons developed malicious software, organized the theft of funds from the bank accounts of foreign citizens and their cashing, including through the purchase of expensive goods on the Internet," the FSB  said  in a statement.   In addition, the FSB seized over 426 million rubles, including in cryptocurrency, $600,000, €500,000, as well as computer equipment, crypto wallets
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lorenz ransomware gang stole files from defense contractor Hensoldt<a href="https://securityaffairs.co/wordpress/126738/malware/lorenz-ransomware-hit-hensoldt.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lorenz ransomware cybercrime gang has been active since April and hit multiple organizations worldwide demanding hundreds of thousands of dollars in ransoms to the victims.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - January 14th 2022 - Russia finally takes action<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-14th-2022-russia-finally-takes-action/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the Russian government announced that they arrested fourteen members of the REvil ransomware gang on behalf of US authorities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — States probe the tech giants<a href="https://thehill.com//policy/technology/overnights/589866-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Friday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurers Stake Out Their Ground for Covering State Cyber Attacks<a href="https://www.lawfareblog.com/insurers-stake-out-their-ground-covering-state-cyber-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The heart of the challenge facing insurers is not necessarily the quantum of loss that might arise from cyber events, but rather the uncertainty that attaches to it.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors defaced Ukrainian government websites<a href="https://securityaffairs.co/wordpress/126745/hacking/ukrainian-government-websites-defaced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors defaced multiple Ukrainian government websites after talks between Ukrainian, US, and Russian officials hit a dead this week. 
+
+
+
+Threat actors have defaced multiple websites of the Ukrainian government  on the night between January 13 and January...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Illicit Carding Marketplace UniCC Abruptly Shuts Down  <a href="https://threatpost.com/carding-marketplace-unicc-shuts-down/177688/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UniCC controlled 30 percent of the stolen payment-card data market; leaving analysts eyeing what’s next.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Goodwill discloses data breach on its ShopGoodwill platform<a href="https://www.bleepingcomputer.com/news/security/goodwill-discloses-data-breach-on-its-shopgoodwill-platform/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American nonprofit Goodwill has disclosed a data breach that affected the accounts of customers using its ShopGoodwill.com e-commerce auction platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration says Russia arrested Colonial Pipeline hacker<a href="https://thehill.com//homenews/administration/589850-biden-administration-says-russia-arrested-colonial-pipeline-hacker"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A senior Biden administration official said Friday that one of the hackers recently arrested in Russia was responsible for the massive Colonial Pipeline cyberattack last year.   
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Cyber Attack Knocks Down Ukrainian Government Websites<a href="https://thehackernews.com/2022/01/massive-cyber-attack-knocks-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No fewer than 70 websites operated by the Ukrainian government went offline on Friday for hours in what appears to be a coordinated cyber attack amid heightened tensions with Russia.  "As a result of a massive cyber attack, the websites of the Ministry of Foreign Affairs and a number of other government agencies are temporarily down," Oleg Nikolenko, MFA spokesperson,  tweeted .  The Security Service of Ukraine, the country's law-enforcement authority,  alluded  to a possible Russian involvement, pointing fingers at the hacker groups associated with the Russian secret services while branding the intrusions as a supply chain attack that involved hacking the "infrastructure of a commercial company that had access to the rights to administer the web resources affected by the attack."   Prior to the update from the SSU, the Ukrainian CERT  claimed that the attacks may have exploited a security vulnerability in Laravel-based October CMS ( CVE-2021-32648 ), which cou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lorenz ransomware gang stolen files from defense contractor Hensoldt<a href="https://securityaffairs.co/wordpress/126738/malware/lorenz-ransomware-hit-hensoldt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German multinational defense contractor Hensoldt confirmed to that some of its systems were infected by Lorenz ransomware.
+
+
+
+Hensoldt, a multinational defense contractor, confirmed that some of its UK subsidiary's systems were infected with Lorenz ransomware....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Real Big Phish: Mobile Phishing & Managing User Fallibility<a href="https://threatpost.com/mobile-phishing-zero-trust-security/177594/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing is more successful than ever. Daniel Spicer, CSO of Ivanti, discusses emerging trends in phishing, and using zero-trust security to patch the human vulnerabilities underpinning the spike.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former DHS official charged with stealing govt employees' PII<a href="https://www.bleepingcomputer.com/news/security/former-dhs-official-charged-with-stealing-govt-employees-pii/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former Department of Homeland Security acting inspector general pleaded guilty today to stealing confidential and proprietary software and sensitive databases from the US government containing employees' personal identifying information (PII).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Be Warned of this Evolving Cryptomining Malware<a href="https://cyware.com/news/be-warned-of-this-evolving-cryptomining-malware-93c4267d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing cryptomining campaign, dubbed Autom, has come to light that boasts of new defense evasion tactics. In 2020, cybercriminals were evading defense by bypassing security features, but started using an obfuscating script in 2021. It has claimed over 125 victims so far.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albuquerque schools remain closed for second day following cyber attack<a href="https://thehill.com//policy/cybersecurity/589810-albuquerque-schools-remain-closed-for-second-day-following-cyber-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Albuquerque Public Schools in New Mexico were closed for a second day on Friday after a cyberattack hit district networks, including student data.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Stole Millions from Cryptocurrency Startups Worldwide<a href="https://thehackernews.com/2022/01/north-korean-hackers-stole-millions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operators associated with the Lazarus sub-group BlueNoroff have been linked to a series of cyberattacks targeting small and medium-sized companies worldwide with an aim to drain their cryptocurrency funds, in what's yet another financially motivated operation mounted by the prolific North Korean state-sponsored actor.  Russian cybersecurity company Kaspersky, which is tracking the intrusions under the name " SnatchCrypto ," noted that the campaign has been running since at 2017, adding the attacks are aimed at startups in the FinTech sector located in China, Hong Kong, India, Poland, Russia, Singapore, Slovenia, the Czech Republic, the U.A.E., the U.S., Ukraine, and Vietnam.  "The attackers have been subtly abusing the trust of the employees working at targeted companies by sending them a full-featured Windows backdoor with surveillance functions, disguised as a contract or another business file," the researchers  said . "In order to eventually empty the v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian government claims to have dismantled REvil ransomware gang<a href="https://securityaffairs.co/wordpress/126729/cyber-crime/fsb-dismantled-revil-ransomware-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia's FSB announced to have dismantled the REvil ransomware gang, the infamous group behind Kaseya and JBS USA. 
+
+
+
+The Russian Federal Security Service (FSB) announced to have shut down the REvil ransomware gang, the group that is behind a long string...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House reminds tech giants open source is a national security issue<a href="https://www.bleepingcomputer.com/news/security/white-house-reminds-tech-giants-open-source-is-a-national-security-issue/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House wants government and private sector organizations to rally their efforts and resources to secure open-source software and its supply chain after the Log4J vulnerabilities exposed critical infrastructure to threat actors' attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Reveal Abcbot’s Connection With Xanthe Malware<a href="https://cyware.com/news/researchers-reveal-abcbots-connection-with-xanthe-malware-ff3842e1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cado Security confirmed a link between the Abcbot botnet and cryptomining attacks by the Xanthe malware group after analyzing similarities within the code and feature-sets of both the malware families.  Experts added that cybercriminals could be slowly doing away with cryptomining attacks to adopt  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian websites hit by cyberattack amid tensions with Russia<a href="https://thehill.com//policy/cybersecurity/589723-ukrainian-official-sites-hit-by-cyberattack-amid-tensions-with-russia"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several Ukrainian government websites were hit by what officials called a "massive cyberattack" on Friday as hackers took control and posted messages warning Ukraine to "be afraid and expect worse."
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. Hacker Jailed for Spying on Children and Downloading Indecent Images<a href="https://thehackernews.com/2022/01/uk-hacker-jailed-for-spying-on-children.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A man from the U.K. city of Nottingham has been sentenced to more than two years in prison for illegally breaking into the phones and computers of a number of victims, including women and children, to spy on them and amass a collection of indecent images.  Robert Davies, 32, is said to have purchased an arsenal of cyber crime tools in 2019, including crypters and remote administration tools (RATs), which can be used as a backdoor to steal personal information and conduct surveillance through microphones and cameras, catching the attention of the U.K. National Crime Agency (NCA).  The cyber voyeur's modus operandi involved catfishing potential targets by using fake profiles on different messaging apps such as Skype, leveraging the online encounters to send rogue links hosting the malware through the chats.   "Davies was infecting his victims' phones or computers with malicious software by disguising it with the crypters so their antivirus protection would not detect it,&qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked APT BlueNoroff focuses on crypto theft<a href="https://securityaffairs.co/wordpress/126713/apt/bluenoroff-apt-cryptocurrency.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked APT group BlueNoroff has been spotted targeting cryptocurrency startups with fake MetaMask browser extensions. 
+
+
+
+The North Korea-linked APT group BlueNoroff has been spotted targeting cryptocurrency startups with fake MetaMask...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers develop CAPTCHA solver to aid dark web research<a href="https://www.bleepingcomputer.com/news/security/researchers-develop-captcha-solver-to-aid-dark-web-research/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers at the Universities of Arizona, Georgia, and South Florida, have developed a machine-learning-based CAPTCHA solver that they claim can overcome 94.4% of real challenges on dark websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Targeting U.S. Businesses with BadUSB Devices<a href="https://cyware.com/news/fin7-targeting-us-businesses-with-badusb-devices-3e6b45bf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is alerting U.S. organizations about the rise in BadUSB attacks, by the Fin7 threat actor group, that deliver ransomware to unsuspecting organizations.&nbsp; Plugging the USB drives into computers registers the drive as a keyboard and sends a series of automated pre-configured keystrokes. T ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Husband-Wife Arrested in Ukraine for Ransomware Attacks on Foreign Companies<a href="https://thehackernews.com/2022/01/husband-wife-arrested-in-ukraine-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian police authorities have nabbed five members of a gang that's believed to have helped orchestrate attacks against more than 50 companies across Europe and the U.S and caused losses to the tune of more than $1 million.  The  special operation , which was carried out in assistance with law enforcement officials from the U.K. and U.S., saw the arrest of an unnamed 36-year-old individual from the capital city of Kyiv, along with his wife and three other accomplices.  A total of nine searches across the suspects' homes were carried out, resulting in the seizure of computer equipment, mobile phones, bank cards, flash drives, three cars, and other items with evidence of illegal activity.  The Cyber Police of the National Police of Ukraine said the group offered a "hacker service" that enabled financially motivated crime syndicates to send phishing emails containing file-encrypted malware to lock confidential data pertaining to its victims, demanding that the target
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian police arrested Ransomware gang behind attacks on 50 companies<a href="https://securityaffairs.co/wordpress/126700/cyber-crime/ransomware-gang-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian police arrested members of a ransomware gang that targeted at least 50 companies in the U.S. and Europe. 
+
+
+
+Ukrainian police arrested members of a ransomware affiliate group that is responsible for attacking at least 50 companies in the U.S....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defense contractor Hensoldt confirms Lorenz ransomware attack<a href="https://www.bleepingcomputer.com/news/security/defense-contractor-hensoldt-confirms-lorenz-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hensoldt, a multinational defense contractor headquartered in Germany, has confirmed that some of its UK subsidiary's systems were compromised in a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FSB arrests REvil ransomware gang members<a href="https://therecord.media/fsb-raids-revil-ransomware-gang-members/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Raids were conducted by the Russian Federal Security Service (FSB) at 25 residents owned by 14 members suspected to be part of the REvil team across Moscow, St. Petersburg, Leningrad, and the Lipetsk regions.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors can bypass malware detection due to Microsoft Defender weakness<a href="https://securityaffairs.co/wordpress/126689/hacking/microsoft-defender-weakness.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A weakness in the Microsoft Defender antivirus can allow attackers to retrieve information to use to avoid detection. 
+
+
+
+Threat actors can leverage a weakness in Microsoft Defender antivirus to determine in which folders plant malware to avoid the AV scanning.
+
+
+
+Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Intel chips won't play Blu-ray disks due to SGX deprecation<a href="https://www.bleepingcomputer.com/news/security/new-intel-chips-wont-play-blu-ray-disks-due-to-sgx-deprecation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel has removed support for SGX (software guard extension) in 12th Generation Intel Core 11000 and 12000 processors, rendering modern PCs unable to playback Blu-ray disks in 4K resolution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon fixes security flaw in AWS Glue service<a href="https://www.zdnet.com/article/amazon-fixes-security-flaw-in-aws-glue-service/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services has fixed two flaws affecting AWS Glue and AWS CloudFormation. The bug in AWS Glue could allow an attacker using the service to create resources and access data of other AWS Glue customers, according to Orca Security.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Ukrainian government websites hacked and defaced<a href="https://www.bleepingcomputer.com/news/security/multiple-ukrainian-government-websites-hacked-and-defaced/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 15 websites belonging to various Ukrainian public institutions were compromised, defaced, and subsequently taken offline.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware cyberattack forces New Mexico jail to lock down<a href="https://blog.malwarebytes.com/ransomware/2022/01/ransomware-cyberattack-forces-new-mexico-jail-to-lock-down/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This attack forced the facility to suspend all prison visits, including from family members and lawyers, which the facility claimed was for the safety of everyone involved.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia arrests REvil ransomware gang members, seize $6.6 million<a href="https://www.bleepingcomputer.com/news/security/russia-arrests-revil-ransomware-gang-members-seize-66-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Security Service (FSB) of the Russian Federation has announced today that they shut down the REvil ransomware gang after U.S. authorities reported on the leader.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors can bypass malware detection due to Microsoft Defender weakness<a href="https://securityaffairs.co/wordpress/126689/hacking/microsoft-defender-weakness.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors can leverage a weakness in Microsoft Defender to determine in which folders to plant malware. The knowledge of the list of scanning exceptions allows attackers to know where to store their malicious code to avoid detection.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueNoroff Threat Group Targets Cryptocurrency Startups<a href="https://www.darkreading.com/attacks-breaches/bluenoroff-threat-group-targets-cryptocurrency-startups?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlueNoroff, an advanced persistent threat (APT) group that's part of the larger Lazarus Group associated with North Korea, is behind a series of attacks against small and medium-sized companies that have led to serious cryptocurrency losses.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Yanks Buggy Windows Server Updates<a href="https://threatpost.com/microsoft-yanks-buggy-windows-server-updates/177648/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since their release on Patch Tuesday, the updates have been breaking Windows, causing spontaneous boot loops on Windows domain controller servers, breaking Hyper-V and making ReFS volume systems unavailable.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean APTs Stole ~$400M in Crypto in 2021<a href="https://threatpost.com/north-korea-apts-stole-400m-cryptocurrency/177638/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meanwhile, EtherumMax got sued over an alleged pump-and-dump scam after using celebs like Floyd Mayweather Jr. & Kim Kardashian to promote   EMAX Tokens.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Military Ties Prolific MuddyWater Cyberespionage APT to Iran<a href="https://threatpost.com/us-military-ties-muddywater-cyberespionage-apt-iran/177633/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cyber Command linked the group to Iranian intelligence and detailed its multi-pronged, increasingly sophisticated suite of malware tools. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Releases Patch for Critical Bug Affecting Unified CCMP and Unified CCDM<a href="https://thehackernews.com/2022/01/cisco-releases-patch-for-critical-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Systems has rolled out security updates for a critical security vulnerability affecting Unified Contact Center Management Portal (Unified CCMP) and Unified Contact Center Domain Manager (Unified CCDM) that could be exploited by a remote attacker to take control of an affected system.  Tracked as  CVE-2022-20658 , the vulnerability has been rated 9.6 in severity on the CVSS scoring system, and concerns a privilege escalation flaw arising out of a lack of server-side validation of user permissions that could be weaponized to create rogue Administrator accounts by submitting a crafted HTTP request.   "With these accounts, the attacker could access and modify telephony and user resources across all the Unified platforms that are associated to the vulnerable Cisco Unified CCMP," Cisco  noted  in an advisory published this week. " To successfully exploit this vulnerability, an attacker would need valid Advanced User credentials."   Unified CCMP and Unified CCDM pro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS fixes security flaws allowing access to AWS customer data<a href="https://www.bleepingcomputer.com/news/security/aws-fixes-security-flaws-allowing-access-to-aws-customer-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services (AWS) has addressed an AWS Glue security issue that allowed attackers to access and alter data linked to other AWS customer accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android users can now disable 2G to block Stingray attacks<a href="https://www.bleepingcomputer.com/news/security/android-users-can-now-disable-2g-to-block-stingray-attacks/"> Full Text</a>
@@ -50,7 +752,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack forces Albuquerque Public Schools to cancel classes<a href="https://www.abqjournal.com/2460740/cyber-attack-shuts-down-albuquerque-public-schools.html?&web_view=true"> Full Text</a>
@@ -66,7 +768,7 @@ Albuquerque Journal
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean hackers stole almost $400M in cryptocurrency, report says<a href="https://thehill.com//policy/cybersecurity/589661-north-korean-hackers-stole-almost-400m-in-cryptocurrency-report-says"> Full Text</a>
@@ -82,7 +784,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GootLoader Hackers Targeting Employees of Law and Accounting Firms<a href="https://thehackernews.com/2022/01/gootloader-hackers-targeting-employees.html"> Full Text</a>
@@ -98,7 +800,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Securing Taiwan Requires Immediate Unprecedented Cyber Action<a href="https://www.lawfareblog.com/securing-taiwan-requires-immediate-unprecedented-cyber-action"> Full Text</a>
@@ -114,7 +816,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes a critical flaw in Unified CCMP and Unified CCDM<a href="https://securityaffairs.co/wordpress/126684/security/cisco-unified-ccmp-unified-ccdm-flaw.html"> Full Text</a>
@@ -134,7 +836,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New GootLoader Campaign Targets Accounting, Law Firms<a href="https://threatpost.com/gootloader-accounting-law-firms/177629/"> Full Text</a>
@@ -150,7 +852,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FCC wants new data breach reporting rules for telecom carriers<a href="https://www.bleepingcomputer.com/news/security/fcc-wants-new-data-breach-reporting-rules-for-telecom-carriers/"> Full Text</a>
@@ -166,7 +868,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Patches Critical Vulnerability in Contact Center Products<a href="https://www.securityweek.com/cisco-patches-critical-vulnerability-contact-center-products?&web_view=true"> Full Text</a>
@@ -182,7 +884,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple, Amazon executives to meet with White House to discuss software security<a href="https://thehill.com//policy/cybersecurity/589623-apple-amazon-executives-to-meet-with-white-house-to-discuss-software"> Full Text</a>
@@ -198,7 +900,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Decrypted Qakbot Banking Trojan's Encrypted Registry Keys<a href="https://thehackernews.com/2022/01/researchers-decrypted-qakbot-banking.html"> Full Text</a>
@@ -214,7 +916,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors abuse public cloud services to spread multiple RATs<a href="https://securityaffairs.co/wordpress/126675/cyber-crime/cloud-services-deliver-rats.html"> Full Text</a>
@@ -234,7 +936,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlueNoroff hackers steal crypto using fake MetaMask extension<a href="https://www.bleepingcomputer.com/news/security/bluenoroff-hackers-steal-crypto-using-fake-metamask-extension/"> Full Text</a>
@@ -250,7 +952,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attack at Maryland Health Agency Leads to Service Outages<a href="https://www.securityweek.com/maryland-confirms-ransomware-attack-health-agency?&web_view=true"> Full Text</a>
@@ -266,7 +968,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US ties Iranian intelligence to hacking group<a href="https://thehill.com//policy/cybersecurity/589615-us-ties-iranian-intelligence-to-hacking-group"> Full Text</a>
@@ -282,7 +984,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Exploit Log4j Vulnerability to Deploy PowerShell Backdoor<a href="https://thehackernews.com/2022/01/iranian-hackers-exploit-log4j.html"> Full Text</a>
@@ -298,7 +1000,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla addresses High-Risk Firefox, Thunderbird vulnerabilities<a href="https://securityaffairs.co/wordpress/126671/security/mozilla-firefox-96-release.html"> Full Text</a>
@@ -318,7 +1020,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AWS fixes security flaws that exposed AWS customer data<a href="https://www.bleepingcomputer.com/news/security/aws-fixes-security-flaws-that-exposed-aws-customer-data/"> Full Text</a>
@@ -334,7 +1036,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The public sector is more concerned about external than internal threats<a href="https://www.helpnetsecurity.com/2022/01/13/public-sector-cybersecurity/?&web_view=true"> Full Text</a>
@@ -350,7 +1052,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meeting Patching-Related Compliance Requirements with TuxCare<a href="https://thehackernews.com/2022/01/meeting-patching-related-compliance.html"> Full Text</a>
@@ -366,7 +1068,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 USCYBERCOM: MuddyWater APT is linked to Iran’s MOIS intelligence<a href="https://securityaffairs.co/wordpress/126664/apt/muddywater-linked-to-iran-mois.html"> Full Text</a>
@@ -386,7 +1088,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender weakness lets hackers bypass malware detection<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-weakness-lets-hackers-bypass-malware-detection/"> Full Text</a>
@@ -402,7 +1104,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dataprise acquires Global Data Vault to expand DRaaS and data protection offerings<a href="https://www.helpnetsecurity.com/2022/01/12/dataprise-global-data-vault/?&web_view=true"> Full Text</a>
@@ -418,7 +1120,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SysJoker, a previously undetected cross-platform backdoor made the headlines<a href="https://securityaffairs.co/wordpress/126656/malware/sysjoker-backdoor.html"> Full Text</a>
@@ -438,7 +1140,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 'RemotePotato0' zero-day gets an unofficial patch<a href="https://www.bleepingcomputer.com/news/security/windows-remotepotato0-zero-day-gets-an-unofficial-patch/"> Full Text</a>
@@ -454,7 +1156,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Ransomware locks down prison, knocks systems offline<a href="https://www.zdnet.com/article/ransomware-locks-down-prison-knocks-systems-offline/?&web_view=true"> Full Text</a>
@@ -470,7 +1172,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Carding site UniCC retires after generating $358 million in sales<a href="https://www.bleepingcomputer.com/news/security/carding-site-unicc-retires-after-generating-358-million-in-sales/"> Full Text</a>
@@ -486,7 +1188,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2022
+January 13, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukranian police arrests ransomware gang that hit over 50 firms<a href="https://www.bleepingcomputer.com/news/security/ukranian-police-arrests-ransomware-gang-that-hit-over-50-firms/"> Full Text</a>
