@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GootLoader Hackers Targeting Employees of Law and Accounting Firms<a href="https://thehackernews.com/2022/01/gootloader-hackers-targeting-employees.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operators of the GootLoader campaign are setting their sights on employees of accounting and law firms as part of a fresh onslaught of widespread cyberattacks to deploy malware on infected systems, an indication that the adversary is expanding its focus to other high-value targets.  "GootLoader is a stealthy initial access malware, which after getting a foothold into the victim's computer system, infects the system with ransomware or other lethal malware," researchers from eSentire&nbsp; said &nbsp;in a report shared with The Hacker News.  The cybersecurity services provider said it intercepted and dismantled intrusions aimed at three law firms and an accounting enterprise. The names of the victims were not disclosed.  Malware can be delivered on targets' systems via many methods, including poisoned search results, fake updates, and trojanized applications downloaded from sites linking to pirated software. GootLoader resorts to the first technique.   In March 2021,&nbsp; details em
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Decrypted Qakbot Banking Trojan's Encrypted Registry Keys<a href="https://thehackernews.com/2022/01/researchers-decrypted-qakbot-banking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have decoded the mechanism by which the versatile Qakbot banking trojan handles the insertion of encrypted configuration data into the&nbsp; Windows Registry .  Qakbot, also known as QBot, QuackBot and Pinkslipbot, has been&nbsp; observed &nbsp; in the wild &nbsp;since 2007. Although mainly fashioned as an information-stealing malware, Qakbot has since shifted its goals and acquired new functionality to deliver post-compromise attack platforms such as Cobalt Strike Beacon, with the final objective of loading ransomware on infected machines.   "It has been continually developed, with new capabilities introduced such as lateral movement, the ability to exfiltrate email and browser data, and to install additional malware," Trustwave researchers Lloyd Macrohon and Rodel Mendrez said in a report shared with The Hacker News.  In recent months, phishing campaigns have culminated in the distribution of a&nbsp; new loader &nbsp;called&nbsp; SQUIRRELWAFFLE , which acts as a channel to retrieve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Exploit Log4j Vulnerability to Deploy PowerShell Backdoor<a href="https://thehackernews.com/2022/01/iranian-hackers-exploit-log4j.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian state-sponsored actor has been observed scanning and attempting to abuse the Log4Shell flaw in publicly-exposed Java applications to deploy a hitherto undocumented PowerShell-based modular backdoor dubbed " CharmPower " for follow-on post-exploitation.  "The actor's attack setup was obviously rushed, as they used the basic open-source tool for the exploitation and based their operations on previous infrastructure, which made the attack easier to detect and attribute," researchers from Check Point&nbsp; said &nbsp;in a report published this week.  The Israeli cybersecurity company linked the attack to a group known as&nbsp; APT35 , which is also tracked using the codenames Charming Kitten, Phosphorus, and TA453, citing overlaps with toolsets previously identified as infrastructure used by the threat actor.   Log4Shell &nbsp;aka CVE-2021-44228  (CVSS score: 10.0) concerns a critical security vulnerability in the popular Log4j logging library that, if successfully exploite
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

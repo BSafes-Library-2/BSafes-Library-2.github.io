@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple, Amazon executives to meet with White House to discuss software security<a href="https://thehill.com//policy/cybersecurity/589623-apple-amazon-executives-to-meet-with-white-house-to-discuss-software"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Executives from Apple, Amazon and other top tech firms are meeting at the White House Thursday to discuss software security with the administration after major cyberattacks last year.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dataprise acquires Global Data Vault to expand DRaaS and data protection offerings<a href="https://www.helpnetsecurity.com/2022/01/12/dataprise-global-data-vault/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dataprise announced the acquisition of Global Data Vault, a provider of Disaster-Recovery-as-a-Service (DRaaS), Backup-as-a-Service (BaaS) and modern data protection solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers stole almost $400M in cryptocurrency, report says<a href="https://thehill.com//policy/cybersecurity/589661-north-korean-hackers-stole-almost-400m-in-cryptocurrency-report-says"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers in 2021 stole nearly $400 million in cryptocurrency, according to a report released on Thursday,&nbsp;making it one of the most prolific years to date for cybercriminals in the isolated nation.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueNoroff hackers steal crypto using fake MetaMask extension<a href="https://www.bleepingcomputer.com/news/security/bluenoroff-hackers-steal-crypto-using-fake-metamask-extension/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean threat actor group known as 'BlueNoroff' has been spotted targeting cryptocurrency startups with malicious documents and fake MetaMask browser extensions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukranian police arrests ransomware gang that hit over 50 firms<a href="https://www.bleepingcomputer.com/news/security/ukranian-police-arrests-ransomware-gang-that-hit-over-50-firms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian police officers have arrested a ransomware affiliate group responsible for attacking at least 50 companies in the U.S. and Europe.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

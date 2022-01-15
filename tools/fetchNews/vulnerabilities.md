@@ -11,6 +11,98 @@ nav_order: 900220
 January 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes a critical flaw in Unified CCMP and Unified CCDM<a href="https://securityaffairs.co/wordpress/126684/security/cisco-unified-ccmp-unified-ccdm-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed a critical privilege escalation vulnerability, tracked as CVE-2022-20658, in Unified CCMP and Unified CCDM.
+
+
+
+Cisco released security patches to address a critical privilege escalation vulnerability, tracked as CVE-2022-20658, in Unified...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches Critical Vulnerability in Contact Center Products<a href="https://www.securityweek.com/cisco-patches-critical-vulnerability-contact-center-products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-20658 (CVSS score of 9.6), the issue exists due to a lack of server-side validation of user permissions, which allows an attacker to submit a crafted HTTP request to exploit the bug.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla addresses High-Risk Firefox, Thunderbird vulnerabilities<a href="https://securityaffairs.co/wordpress/126671/security/mozilla-firefox-96-release.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla addressed18 security vulnerabilities affecting the popular Firefox web browser and the Thunderbird mail program. 
+
+
+
+Mozilla released Firefox 96 that addressed 18 security vulnerabilities in its web browser and the Thunderbird mail program. Nine...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS fixes security flaws that exposed AWS customer data<a href="https://www.bleepingcomputer.com/news/security/aws-fixes-security-flaws-that-exposed-aws-customer-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services (AWS) has addressed an AWS Glue security issue that allowed attackers to access and alter data linked to other AWS customer accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender weakness lets hackers bypass malware detection<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-weakness-lets-hackers-bypass-malware-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors can take advantage of a weakness that affects Microsoft Defender antivirus on Windows to learn locations excluded from scanning and plant malware there.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 'RemotePotato0' zero-day gets an unofficial patch<a href="https://www.bleepingcomputer.com/news/security/windows-remotepotato0-zero-day-gets-an-unofficial-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A privilege escalation vulnerability impacting all Windows versions that can let&nbsp;threat actors gain domain admin privileges through an NTLM relay attack has received&nbsp;unofficial patches&nbsp;after Microsoft tagged it as "won't fix."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 KCodes NetUSB flaw impacts millions of SOHO routers<a href="https://securityaffairs.co/wordpress/126646/hacking/kcodes-netusb-flaw.html"> Full Text</a>
 </p>
 <details>

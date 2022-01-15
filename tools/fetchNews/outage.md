@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack forces Albuquerque Public Schools to cancel classes<a href="https://www.abqjournal.com/2460740/cyber-attack-shuts-down-albuquerque-public-schools.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APS Superintendent Scott Elder said the attack was discovered Wednesday morning “when teachers tried to log onto our student information system and were unable to gain access to the site.”
+</details>
+<div style="text-align: right" markdown="1">
+Albuquerque Journal
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Ransomware locks down prison, knocks systems offline<a href="https://www.zdnet.com/article/ransomware-locks-down-prison-knocks-systems-offline/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Inmates were made to stay in their cells as the ransomware outbreak reportedly not only knocked out the internet but also locked staff out of data management servers and security camera networks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurers Stake Out Their Ground for Covering State Cyber Attacks<a href="https://www.lawfareblog.com/insurers-stake-out-their-ground-covering-state-cyber-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The heart of the challenge facing insurers is not necessarily the quantum of loss that might arise from cyber events, but rather the uncertainty that attaches to it.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Intel chips won't play Blu-ray disks due to SGX deprecation<a href="https://www.bleepingcomputer.com/news/security/new-intel-chips-wont-play-blu-ray-disks-due-to-sgx-deprecation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel has removed support for SGX (software guard extension) in 12th Generation Intel Core 11000 and 12000 processors, rendering modern PCs unable to playback Blu-ray disks in 4K resolution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Yanks Buggy Windows Server Updates<a href="https://threatpost.com/microsoft-yanks-buggy-windows-server-updates/177648/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since their release on Patch Tuesday, the updates have been breaking Windows, causing spontaneous boot loops on Windows domain controller servers, breaking Hyper-V and making ReFS volume systems unavailable.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

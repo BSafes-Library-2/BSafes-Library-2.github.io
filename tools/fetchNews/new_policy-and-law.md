@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. Hacker Jailed for Spying on Children and Downloading Indecent Images<a href="https://thehackernews.com/2022/01/uk-hacker-jailed-for-spying-on-children.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A man from the U.K. city of Nottingham has been sentenced to more than two years in prison for illegally breaking into the phones and computers of a number of victims, including women and children, to spy on them and amass a collection of indecent images.  Robert Davies, 32, is said to have purchased an arsenal of cyber crime tools in 2019, including crypters and remote administration tools (RATs), which can be used as a backdoor to steal personal information and conduct surveillance through microphones and cameras, catching the attention of the U.K. National Crime Agency (NCA).  The cyber voyeur's modus operandi involved catfishing potential targets by using fake profiles on different messaging apps such as Skype, leveraging the online encounters to send rogue links hosting the malware through the chats.   "Davies was infecting his victims' phones or computers with malicious software by disguising it with the crypters so their antivirus protection would not detect it,&amp;qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

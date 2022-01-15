@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors defaced Ukrainian government websites<a href="https://securityaffairs.co/wordpress/126745/hacking/ukrainian-government-websites-defaced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors defaced multiple Ukrainian government websites after talks between Ukrainian, US, and Russian officials hit a&nbsp;dead this week. 
+
+
+
+Threat actors have defaced multiple websites of the Ukrainian government  on the night between January 13 and January...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Goodwill discloses data breach on its ShopGoodwill platform<a href="https://www.bleepingcomputer.com/news/security/goodwill-discloses-data-breach-on-its-shopgoodwill-platform/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American nonprofit&nbsp;Goodwill has disclosed a data breach that affected the accounts of customers using its ShopGoodwill.com e-commerce auction platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Stole Millions from Cryptocurrency Startups Worldwide<a href="https://thehackernews.com/2022/01/north-korean-hackers-stole-millions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operators associated with the Lazarus sub-group BlueNoroff have been linked to a series of cyberattacks targeting small and medium-sized companies worldwide with an aim to drain their cryptocurrency funds, in what's yet another financially motivated operation mounted by the prolific North Korean state-sponsored actor.  Russian cybersecurity company Kaspersky, which is tracking the intrusions under the name " SnatchCrypto ," noted that the campaign has been running since at 2017, adding the attacks are aimed at startups in the FinTech sector located in China, Hong Kong, India, Poland, Russia, Singapore, Slovenia, the Czech Republic, the U.A.E., the U.S., Ukraine, and Vietnam.  "The attackers have been subtly abusing the trust of the employees working at targeted companies by sending them a full-featured Windows backdoor with surveillance functions, disguised as a contract or another business file," the researchers&nbsp; said . "In order to eventually empty the v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

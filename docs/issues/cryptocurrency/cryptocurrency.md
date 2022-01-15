@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Be Warned of this Evolving Cryptomining Malware<a href="https://cyware.com/news/be-warned-of-this-evolving-cryptomining-malware-93c4267d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing cryptomining campaign, dubbed Autom, has come to light that boasts of new defense evasion tactics. In 2020, cybercriminals were evading defense by bypassing security features, but started using an obfuscating script in 2021. It has claimed over 125 victims so far.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueNoroff Threat Group Targets Cryptocurrency Startups<a href="https://www.darkreading.com/attacks-breaches/bluenoroff-threat-group-targets-cryptocurrency-startups?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlueNoroff, an advanced persistent threat (APT) group that's part of the larger Lazarus Group associated with North Korea, is behind a series of attacks against small and medium-sized companies that have led to serious cryptocurrency losses.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

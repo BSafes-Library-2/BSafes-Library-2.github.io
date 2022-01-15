@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The public sector is more concerned about external than internal threats<a href="https://www.helpnetsecurity.com/2022/01/13/public-sector-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per a new SolarWinds report, the hacking community (56%) is the largest source of security threats at public sector entities, followed closely by insiders (52%) and foreign governments (47%).
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Carding site UniCC retires after generating $358 million in sales<a href="https://www.bleepingcomputer.com/news/security/carding-site-unicc-retires-after-generating-358-million-in-sales/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​UniCC, the largest carding site operating on the dark web at the moment, has announced its retirement, claiming reasons of tiredness.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

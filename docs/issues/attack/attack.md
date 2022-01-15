@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian websites hit by cyberattack amid tensions with Russia<a href="https://thehill.com//policy/cybersecurity/589723-ukrainian-official-sites-hit-by-cyberattack-amid-tensions-with-russia"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several Ukrainian government websites were hit by what officials called a "massive cyberattack" on Friday as hackers took control and posted messages warning Ukraine to "be afraid and expect worse."
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defense contractor Hensoldt confirms Lorenz ransomware attack<a href="https://www.bleepingcomputer.com/news/security/defense-contractor-hensoldt-confirms-lorenz-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hensoldt, a multinational defense contractor headquartered in Germany, has confirmed that some of its UK subsidiary's systems were compromised in a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Ukrainian government websites hacked and defaced<a href="https://www.bleepingcomputer.com/news/security/multiple-ukrainian-government-websites-hacked-and-defaced/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 15 websites belonging to various Ukrainian public institutions were compromised, defaced, and subsequently taken offline.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

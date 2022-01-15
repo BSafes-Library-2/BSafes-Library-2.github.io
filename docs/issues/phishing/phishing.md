@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Real Big Phish: Mobile Phishing &amp; Managing User Fallibility<a href="https://threatpost.com/mobile-phishing-zero-trust-security/177594/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing is more successful than ever. Daniel Spicer, CSO of Ivanti, discusses emerging trends in phishing, and using zero-trust security to patch the human vulnerabilities underpinning the spike.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers develop CAPTCHA solver to aid dark web research<a href="https://www.bleepingcomputer.com/news/security/researchers-develop-captcha-solver-to-aid-dark-web-research/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers at the Universities of Arizona, Georgia, and South Florida, have developed a machine-learning-based CAPTCHA solver that they claim can overcome 94.4% of real challenges on dark websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
