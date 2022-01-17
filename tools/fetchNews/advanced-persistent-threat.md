@@ -8,6 +8,52 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked APT BlueNoroff focuses on crypto theft<a href="https://securityaffairs.co/wordpress/126713/apt/bluenoroff-apt-cryptocurrency.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked APT group BlueNoroff has been spotted targeting cryptocurrency startups with fake MetaMask browser extensions. 
+
+
+
+The North Korea-linked APT group BlueNoroff has been spotted targeting cryptocurrency startups with fake MetaMask...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean APTs Stole ~$400M in Crypto in 2021<a href="https://threatpost.com/north-korea-apts-stole-400m-cryptocurrency/177638/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meanwhile, EtherumMax got sued over an alleged pump-and-dump scam after using celebs like Floyd Mayweather Jr. &amp; Kim Kardashian to promote   EMAX Tokens.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Military Ties Prolific MuddyWater Cyberespionage APT to Iran<a href="https://threatpost.com/us-military-ties-muddywater-cyberespionage-apt-iran/177633/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cyber Command linked the group to Iranian intelligence and detailed its multi-pronged, increasingly sophisticated suite of malware tools. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

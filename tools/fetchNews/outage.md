@@ -8,6 +8,48 @@ nav_order: 900140
 
 ## Outage
 ---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Cyber Attack Knocks Down Ukrainian Government Websites<a href="https://thehackernews.com/2022/01/massive-cyber-attack-knocks-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No fewer than 70 websites operated by the Ukrainian government went offline on Friday for hours in what appears to be a coordinated cyber attack amid heightened tensions with Russia.  "As a result of a massive cyber attack, the websites of the Ministry of Foreign Affairs and a number of other government agencies are temporarily down," Oleg Nikolenko, MFA spokesperson,&nbsp; tweeted .  The Security Service of Ukraine, the country's law-enforcement authority,&nbsp; alluded &nbsp;to a possible Russian involvement, pointing fingers at the hacker groups associated with the Russian secret services while branding the intrusions as a supply chain attack that involved hacking the "infrastructure of a commercial company that had access to the rights to administer the web resources affected by the attack."   Prior to the update from the SSU, the Ukrainian CERT  claimed that the attacks may have exploited a security vulnerability in Laravel-based October CMS ( CVE-2021-32648 ), which cou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albuquerque schools remain closed for second day following cyber attack<a href="https://thehill.com//policy/cybersecurity/589810-albuquerque-schools-remain-closed-for-second-day-following-cyber-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Albuquerque Public Schools in New Mexico were closed for a second day on Friday after a cyberattack hit district networks, including student data.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware cyberattack forces New Mexico jail to lock down<a href="https://blog.malwarebytes.com/ransomware/2022/01/ransomware-cyberattack-forces-new-mexico-jail-to-lock-down/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This attack forced the facility to suspend all prison visits, including from family members and lawyers, which the facility claimed was for the safety of everyone involved.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

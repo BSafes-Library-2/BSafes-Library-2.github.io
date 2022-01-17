@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+January 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Union simulated a cyber attack on a fictitious Finnish power company<a href="https://securityaffairs.co/wordpress/126792/security/eu-simulation-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union simulated a cyber attack on a fictitious Finnish power company to test its cyber-defense capabilities.
+
+
+
+Cyber drills are essential to test the resilience of our infrastructure, the European Union simulated a cyber attack on a fictitious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

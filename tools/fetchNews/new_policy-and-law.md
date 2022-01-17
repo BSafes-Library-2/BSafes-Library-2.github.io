@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia charges 8 suspected REvil ransomware gang members<a href="https://www.bleepingcomputer.com/news/security/russia-charges-8-suspected-revil-ransomware-gang-members/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eight members of the REvil ransomware operation that have been detained by Russian officers are currently facing criminal charges for their illegal activity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,66 @@ nav_order: 900075
 
 ## Government
 ---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — States probe the tech giants<a href="https://thehill.com//policy/technology/overnights/589866-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Friday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration says Russia arrested Colonial Pipeline hacker<a href="https://thehill.com//homenews/administration/589850-biden-administration-says-russia-arrested-colonial-pipeline-hacker"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A senior Biden administration official said Friday that one of the hackers recently arrested in Russia was responsible for the massive Colonial Pipeline cyberattack last year. &nbsp;&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian government claims to have dismantled REvil ransomware gang<a href="https://securityaffairs.co/wordpress/126729/cyber-crime/fsb-dismantled-revil-ransomware-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia's FSB announced to have dismantled the REvil ransomware gang, the infamous group behind Kaseya and JBS USA. 
+
+
+
+The Russian Federal Security Service (FSB) announced to have shut down the REvil ransomware gang, the group that is behind a long string...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House reminds tech giants open source is a national security issue<a href="https://www.bleepingcomputer.com/news/security/white-house-reminds-tech-giants-open-source-is-a-national-security-issue/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House wants government and private sector organizations to rally their efforts and resources to secure open-source software and its supply chain after the Log4J vulnerabilities exposed critical infrastructure to threat actors' attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

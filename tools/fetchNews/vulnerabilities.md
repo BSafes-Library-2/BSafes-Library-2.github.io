@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors can bypass malware detection due to Microsoft Defender weakness<a href="https://securityaffairs.co/wordpress/126689/hacking/microsoft-defender-weakness.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A weakness in the Microsoft Defender antivirus can allow attackers to retrieve information to use to avoid detection. 
+
+
+
+Threat actors can leverage a weakness in Microsoft Defender antivirus to determine in which folders plant malware to avoid the AV scanning.
+
+
+
+Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon fixes security flaw in AWS Glue service<a href="https://www.zdnet.com/article/amazon-fixes-security-flaw-in-aws-glue-service/#ftag=RSSbaffb68?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services has fixed two flaws affecting AWS Glue and AWS CloudFormation. The bug in AWS Glue could allow an attacker using the service to create resources and access data of other AWS Glue customers, according to Orca Security.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors can bypass malware detection due to Microsoft Defender weakness<a href="https://securityaffairs.co/wordpress/126689/hacking/microsoft-defender-weakness.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors can leverage a weakness in Microsoft Defender to determine in which folders to plant malware. The knowledge of the list of scanning exceptions allows attackers to know where to store their malicious code to avoid detection.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Releases Patch for Critical Bug Affecting Unified CCMP and Unified CCDM<a href="https://thehackernews.com/2022/01/cisco-releases-patch-for-critical-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Systems has rolled out security updates for a critical security vulnerability affecting Unified Contact Center Management Portal (Unified CCMP) and Unified Contact Center Domain Manager (Unified CCDM) that could be exploited by a remote attacker to take control of an affected system.  Tracked as&nbsp; CVE-2022-20658 , the vulnerability has been rated 9.6 in severity on the CVSS scoring system, and concerns a privilege escalation flaw arising out of a lack of server-side validation of user permissions that could be weaponized to create rogue Administrator accounts by submitting a crafted HTTP request.   "With these accounts, the attacker could access and modify telephony and user resources across all the Unified platforms that are associated to the vulnerable Cisco Unified CCMP," Cisco&nbsp; noted &nbsp;in an advisory published this week. " To successfully exploit this vulnerability, an attacker would need valid Advanced User credentials."   Unified CCMP and Unified CCDM pro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS fixes security flaws allowing access to AWS customer data<a href="https://www.bleepingcomputer.com/news/security/aws-fixes-security-flaws-allowing-access-to-aws-customer-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services (AWS) has addressed an AWS Glue security issue that allowed attackers to access and alter data linked to other AWS customer accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

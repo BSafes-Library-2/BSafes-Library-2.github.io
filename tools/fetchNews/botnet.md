@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Reveal Abcbot’s Connection With Xanthe Malware<a href="https://cyware.com/news/researchers-reveal-abcbots-connection-with-xanthe-malware-ff3842e1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cado Security confirmed a link between the Abcbot botnet and cryptomining attacks by the Xanthe malware group after analyzing similarities within the code and feature-sets of both the malware families.  Experts added that cybercriminals could be slowly doing away with cryptomining attacks to adopt  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

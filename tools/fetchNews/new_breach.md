@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine government agencies' computer systems infected with malware, Microsoft says<a href="https://thehill.com//policy/cybersecurity/589934-ukraine-government-agencies-computer-systems-infected-with-malware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced on Saturday that dozens of computer systems linked to the Ukrainian government, agencies and organizations had been infected with malware.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

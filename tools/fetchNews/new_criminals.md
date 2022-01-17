@@ -8,6 +8,42 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole $18.7M from the Lympo NTF platform<a href="https://securityaffairs.co/wordpress/126766/cyber-crime/lympo-ntf-platform-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors hacked the hot wallet of the NFT platform Lympo and managed to steal 165.2 Million LMT (worth $18.7 million).
+
+
+
+NFT and DeFi platforms are privileged targets for cybercriminals, and the NFT platform Lympo was the last platform in order...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One of the REvil members arrested by FSB was behind Colonial Pipeline attack<a href="https://securityaffairs.co/wordpress/126752/cyber-crime/revil-member-behind-colonial-pipeline-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A senior Biden administration official said that the one of the Russian hacker arrested by FSB was behind the Colonial Pipeline attack. 
+
+
+
+Yesterday, the Russian Federal Security Service (FSB) announced to have dismantled the REvil ransomware operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+January 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 349<a href="https://securityaffairs.co/wordpress/126774/breaking-news/security-affairs-newsletter-round-349.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux malware sees 35% growth during 2021<a href="https://www.bleepingcomputer.com/news/security/linux-malware-sees-35-percent-growth-during-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of malware infections on Linux-based IoT (internet of things) devices rose by 35% in 2021 compared to the previous year's numbers. The principal goal was recruiting devices to be part of DDoS (distributed denial of service) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

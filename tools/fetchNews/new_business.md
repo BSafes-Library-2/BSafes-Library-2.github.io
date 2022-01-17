@@ -8,6 +8,24 @@ nav_order: 900027
 
 ## Business
 ---
+January 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prominent Carding Marketplace UniCC announced it’s shutting down<a href="https://securityaffairs.co/wordpress/126757/cyber-crime/unicc-shutting-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the biggest underground carding marketplaces, UniCC, announced it’s shutting down its operations.
+
+
+
+UniCC, one of the biggest underground carding marketplaces announced it is shutting down. The site was launched in 2013 and according to the Elliptic...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,154 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+At Request of U.S., Russia Rounds Up 14 REvil Ransomware Affiliates<a href="https://krebsonsecurity.com/2022/01/at-request-of-u-s-russia-rounds-up-14-revil-ransomware-affiliates/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian government has arrested 14 people accused of working for “REvil,” a particularly aggressive ransomware group that has extorted hundreds of millions of dollars from victim organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Arrests REvil Ransomware Gang Responsible for High-Profile Cyber Attacks<a href="https://thehackernews.com/2022/01/russia-arrests-revil-ransomware-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an unprecedented move, Russia's Federal Security Service (FSB), the country's principal security agency, on Friday disclosed that it arrested several members belonging to the notorious REvil ransomware gang and neutralized its operations.  The surprise operation, which it said was carried out at the request of the U.S. authorities, saw the law enforcement agency conduct raids at 25 addresses in the cities of Moscow, St. Petersburg, Moscow, Leningrad and Lipetsk regions that belonged to 14 suspected members of the organized cybercrime syndicate.  "In order to implement the criminal plan, these persons developed malicious software, organized the theft of funds from the bank accounts of foreign citizens and their cashing, including through the purchase of expensive goods on the Internet," the FSB&nbsp; said &nbsp;in a statement.   In addition, the FSB seized over 426 million rubles, including in cryptocurrency, $600,000, €500,000, as well as computer equipment, crypto wallets
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lorenz ransomware gang stole files from defense contractor Hensoldt<a href="https://securityaffairs.co/wordpress/126738/malware/lorenz-ransomware-hit-hensoldt.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lorenz ransomware cybercrime gang has been active since April and hit multiple organizations worldwide demanding hundreds of thousands of dollars in ransoms to the victims.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Illicit Carding Marketplace UniCC Abruptly Shuts Down &nbsp;<a href="https://threatpost.com/carding-marketplace-unicc-shuts-down/177688/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UniCC controlled 30 percent of the stolen payment-card data market; leaving analysts eyeing what’s next.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lorenz ransomware gang stolen files from defense contractor Hensoldt<a href="https://securityaffairs.co/wordpress/126738/malware/lorenz-ransomware-hit-hensoldt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German multinational defense contractor Hensoldt confirmed to that some of its systems were infected by Lorenz ransomware.
+
+
+
+Hensoldt, a multinational defense contractor, confirmed that some of its UK subsidiary's systems were infected with Lorenz ransomware....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former DHS official charged with stealing govt employees' PII<a href="https://www.bleepingcomputer.com/news/security/former-dhs-official-charged-with-stealing-govt-employees-pii/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former&nbsp;Department of Homeland Security acting inspector general pleaded guilty today to stealing confidential and proprietary software and sensitive databases from the&nbsp;US government containing employees'&nbsp;personal identifying information (PII).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Husband-Wife Arrested in Ukraine for Ransomware Attacks on Foreign Companies<a href="https://thehackernews.com/2022/01/husband-wife-arrested-in-ukraine-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian police authorities have nabbed five members of a gang that's believed to have helped orchestrate attacks against more than 50 companies across Europe and the U.S and caused losses to the tune of more than $1 million.  The&nbsp; special operation , which was carried out in assistance with law enforcement officials from the U.K. and U.S., saw the arrest of an unnamed 36-year-old individual from the capital city of Kyiv, along with his wife and three other accomplices.  A total of nine searches across the suspects' homes were carried out, resulting in the seizure of computer equipment, mobile phones, bank cards, flash drives, three cars, and other items with evidence of illegal activity.  The Cyber Police of the National Police of Ukraine said the group offered a "hacker service" that enabled financially motivated crime syndicates to send phishing emails containing file-encrypted malware to lock confidential data pertaining to its victims, demanding that the target
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian police arrested Ransomware gang behind attacks on 50 companies<a href="https://securityaffairs.co/wordpress/126700/cyber-crime/ransomware-gang-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian police arrested members of a ransomware gang that targeted at least 50 companies in the U.S. and Europe. 
+
+
+
+Ukrainian police arrested members of a ransomware affiliate group that is responsible for attacking at least 50 companies in the U.S....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FSB arrests REvil ransomware gang members<a href="https://therecord.media/fsb-raids-revil-ransomware-gang-members/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Raids were conducted by the Russian Federal Security Service (FSB) at 25 residents owned by 14 members suspected to be part of the REvil team across Moscow, St. Petersburg, Leningrad, and the Lipetsk regions.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia arrests REvil ransomware gang members, seize $6.6 million<a href="https://www.bleepingcomputer.com/news/security/russia-arrests-revil-ransomware-gang-members-seize-66-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Security Service (FSB) of the Russian Federation has announced today that they shut down the REvil ransomware gang after U.S. authorities reported on the leader.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

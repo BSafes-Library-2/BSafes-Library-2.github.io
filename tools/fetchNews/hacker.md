@@ -8,6 +8,21 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Targeting U.S. Businesses with BadUSB Devices<a href="https://cyware.com/news/fin7-targeting-us-businesses-with-badusb-devices-3e6b45bf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is alerting U.S. organizations about the rise in BadUSB attacks, by the Fin7 threat actor group, that deliver ransomware to unsuspecting organizations.&nbsp; Plugging the USB drives into computers registers the drive as a keyboard and sends a series of automated pre-configured keystrokes. T ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
