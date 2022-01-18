@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Night Sky Ransomware Enters Corporate Ransom Attack Scene<a href="https://cyware.com/news/new-night-sky-ransomware-enters-corporate-ransom-attack-scene-c41e7794"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly launched Night Sky ransomware has started exploiting one of the critical flaws in the Log4j logging library to circumvent VMware Horizon servers.   Its Tor leak site shows one victim from Bangladesh and another from Japan.&nbsp; Ransomware operators continue to grow as multiple new ransomwa ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

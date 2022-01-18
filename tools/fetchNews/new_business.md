@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox Relay gets added to disposable email blocklist, angers users<a href="https://www.bleepingcomputer.com/news/security/firefox-relay-gets-added-to-disposable-email-blocklist-angers-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of a "disposable email service" blocklist have decided to add Firefox Relay to the list, leaving many users of the service upset. Firefox Relay is a privacy-centric email service that enables users to protect their real email addresses and hence limit spam.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DigiCert acquires Mocana to accelerate its presence in the IoT market<a href="https://www.helpnetsecurity.com/2022/01/14/digicert-mocana/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The combination of DigiCert and Mocana technologies provides IoT manufacturers and operators with a comprehensive platform for managing security across the full IoT device lifecycle.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

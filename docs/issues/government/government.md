@@ -11,6 +11,20 @@ nav_order: 900075
 January 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Government Officially Accuses Russia of Recent Cyberattacks<a href="https://thehackernews.com/2022/01/ukrainian-government-officially-accuses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The government of Ukraine on Sunday formally accused Russia of masterminding the attacks that targeted websites of public institutions and government agencies this past week.  "All the evidence points to the fact that Russia is behind the cyber attack," the Ministry of Digital Transformation&nbsp; said &nbsp;in a statement. "Moscow continues to wage a hybrid war and is actively building forces in the information and cyberspace."  The purpose of the attack, said the ministry, "is not only to intimidate society," but to also "destabilize the situation in Ukraine by stopping the work of the public sector and undermining the confidence in the government on the part of Ukrainians."   Russia, however, has denied it was behind the intrusion. "We have nothing to do with it, and Russia has nothing to do with these cyberattacks," Dmitry Peskov, press secretary for President Vladimir Putin,&nbsp; told &nbsp;CNN, adding "We are nearly accustomed to the fact that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 European Union simulated a cyber attack on a fictitious Finnish power company<a href="https://securityaffairs.co/wordpress/126792/security/eu-simulation-cyber-attack.html"> Full Text</a>
 </p>
 <details>

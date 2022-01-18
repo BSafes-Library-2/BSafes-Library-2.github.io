@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHL dethrones Microsoft as most imitated brand in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/dhl-dethrones-microsoft-as-most-imitated-brand-in-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DHL was the most imitated brand in phishing campaigns throughout Q4 2021, pushing Microsoft to second place, and Google to fourth.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nintendo warns of spoofed sites pushing fake Switch discounts<a href="https://www.bleepingcomputer.com/news/security/nintendo-warns-of-spoofed-sites-pushing-fake-switch-discounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nintendo has warned customers of multiple sites impersonating the Japanese video game company's official website and pretending to sell Nintendo Switch consoles at significant discounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

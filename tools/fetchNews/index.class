@@ -34,6 +34,428 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Edge will mitigate 'unforeseen active' zero day bugs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-will-mitigate-unforeseen-active-zero-day-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Edge has added a new feature to the Beta channel that will be able to mitigate future in-the-wild exploitation of unknown zero-day vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mespinoza/Pysa Ransomware Keeps Targeting Healthcare Sector<a href="https://cyware.com/news/mespinozapysa-ransomware-keeps-targeting-healthcare-sector-5b7552a4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the HHS,&nbsp;PYSA ransomware operators are aggressively eying the healthcare sector in the U.S. to pull off double extortion attacks. As of November 2021, Pysa had already targeted 190 victims, of which six were from the healthcare sector.&nbsp;The sector should evaluate its defense-i ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [5G](/docs/issues/5g/5g/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Airlines issue warning about 5G service<a href="https://thehill.com//policy/technology/overnights/590085-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Monday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Limits Websites' Direct Access to Private Networks for Security Reasons<a href="https://thehackernews.com/2022/01/chrome-limits-websites-access-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome has announced plans to prohibit public websites from directly accessing endpoints located within private networks as part of an upcoming major security shakeup to prevent intrusions via the browser.  The proposed change is set to be rolled out in two phases consisting of releases Chrome 98 and Chrome 101 scheduled in the coming months via a newly implemented W3C specification called private network access ( PNA ).   "Chrome will start sending a  CORS  preflight request ahead of any private network request for a subresource, which asks for explicit permission from the target server," Titouan Rigoudy and Eiji Kitamura  said . "This preflight request will carry a new header, Access-Control-Request-Private-Network: true, and the response to it must carry a corresponding header, Access-Control-Allow-Private-Network: true."   What this means is that starting with Chrome version 101, any website accessible via the internet will be made to seek explicit permi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle Critical Patch Update for January 2022 will fix 483 new flaws<a href="https://securityaffairs.co/wordpress/126836/security/oracle-critical-patch-update-january-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The pre-release announcement for Critical Patch Update (CPU) for January 2022 states that Oracle will fix 483 new flaws.
+
+
+
+This pre-release announcement for Critical Patch Update (CPU) for January 2022 confirms that Oracle security updates will address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox Relay gets added to disposable email blocklist, angers users<a href="https://www.bleepingcomputer.com/news/security/firefox-relay-gets-added-to-disposable-email-blocklist-angers-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of a "disposable email service" blocklist have decided to add Firefox Relay to the list, leaving many users of the service upset. Firefox Relay is a privacy-centric email service that enables users to protect their real email addresses and hence limit spam.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Night Sky Ransomware Enters Corporate Ransom Attack Scene<a href="https://cyware.com/news/new-night-sky-ransomware-enters-corporate-ransom-attack-scene-c41e7794"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly launched Night Sky ransomware has started exploiting one of the critical flaws in the Log4j logging library to circumvent VMware Horizon servers.   Its Tor leak site shows one victim from Bangladesh and another from Japan.&nbsp; Ransomware operators continue to grow as multiple new ransomwa ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Web's Largest Marketplace for Stolen Credit Cards is Shutting Down<a href="https://thehackernews.com/2022/01/dark-webs-largest-marketplace-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UniCC, the biggest dark web marketplace for stolen credit and debit cards, has announced that it's shuttering its operations after earning $358 million in purchases since 2013 using cryptocurrencies such as Bitcoin, Litecoin, Ether, and Dash.  "Don't build any conspiracy theories about us leaving," the anonymous operators of UniCC said in a farewell posted on dark web carding forums, according to blockchain analytics firm Elliptic. "It is [a] weighted decision, we are not young and our health do[es] not allow [us] to work like this any longer."  The UniCC team also gave its users 10 days to spend their balances, while also warning customers to "not follow any fakes tied to our comeback."  Platforms such as UniCC function as an underground marketplace wherein credit card details stolen from online retailers, banks, and payments companies by injecting  malicious skimmers  are trafficked in exchange for cryptocurrency. The cards are then used by crim
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho fixes a critical vulnerability (CVE-2021-44757) in Desktop Central solutions<a href="https://securityaffairs.co/wordpress/126828/security/zoho-desktop-central-cve-2021-44757-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoho addressed a new critical severity flaw (CVE-2021-44757) that affects its Desktop Central and Desktop Central MSP unified endpoint management (UEM) solutions 
+
+
+
+Zoho fixed a new critical severity flaw, tracked as CVE-2021-44757, that affects its Desktop...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho plugs another critical security hole in Desktop Central<a href="https://www.bleepingcomputer.com/news/security/zoho-plugs-another-critical-security-hole-in-desktop-central/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoho has addressed a new critical severity vulnerability found to affect the company's Desktop Central and Desktop Central MSP  unified endpoint management (UEM) solutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Union simulated a cyber attack on a fictitious Finnish power company<a href="https://securityaffairs.co/wordpress/126792/security/eu-simulation-cyber-attack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber drills are essential to test the resilience of our infrastructure, the European Union simulated a cyber attack on a fictitious Finnish power company to test its cyber-defense capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity flaw in 3 WordPress plugins impacts 84,000 websites<a href="https://securityaffairs.co/wordpress/126821/hacking/wordpress-plugins-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a high-severity vulnerability in three different WordPress plugins that impact over 84,000 websites.
+
+
+
+Researchers from WordPress security company Wordfence discovered a high-severity vulnerability that affects three different...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHL dethrones Microsoft as most imitated brand in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/dhl-dethrones-microsoft-as-most-imitated-brand-in-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DHL was the most imitated brand in phishing campaigns throughout Q4 2021, pushing Microsoft to second place, and Google to fourth.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Umbrella Company Parasol Group Confirms Disruptive Cyberattack<a href="https://www.theregister.com/2022/01/17/umbrella_company_parasol_group_confirms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As reported on Friday, the umbrella company's MyParasol portal, where timesheets are submitted, was not accessible due to an outage starting on January 12, impacting the processing of payroll.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of attacks using a new Linux variant of SFile ransomware<a href="https://securityaffairs.co/wordpress/126811/malware/sfile-ransomware-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the SFile ransomware (aka Escal) have developed a Linux version of their malware to expand their operations.
+
+
+
+SFile ransomware (aka Escal), has been active since 2020, it was observed targeting only Windows systems. Some variants...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nintendo warns of spoofed sites pushing fake Switch discounts<a href="https://www.bleepingcomputer.com/news/security/nintendo-warns-of-spoofed-sites-pushing-fake-switch-discounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nintendo has warned customers of multiple sites impersonating the Japanese video game company's official website and pretending to sell Nintendo Switch consoles at significant discounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux malware is on the rise. Here are three top threats right now<a href="https://www.zdnet.com/article/linux-malware-is-on-the-rise-here-are-three-top-threats-right-now/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Linux-based systems are everywhere and are a core part of the internet infrastructure but it's low-powered IoT devices that have become the main target for Linux malware.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kyiv blames Belarus-linked APT UNC1151 for recent cyberattack<a href="https://securityaffairs.co/wordpress/126800/apt/unc1151-apt-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian government attributes the recent attacks against tens of Ukrainian government websites to Belarusian APT group UNC1151.
+
+
+
+The government of Kyiv attributes the defacement of tens of Ukrainian government websites to Belarusian APT group  UNC1151,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber espionage campaign targets renewable energy companies<a href="https://www.bleepingcomputer.com/news/security/cyber-espionage-campaign-targets-renewable-energy-companies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale cyber-espionage campaign targeting primarily renewable energy and industrial technology organizations have been discovered to be active since at least 2019, targeting over fifteen entities worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Lusca Employs Doraemon, ShadowPad and Winnti Malware to Target Organizations in Hong Kong<a href="https://www.trendmicro.com/en_us/research/22/a/earth-lusca-sophisticated-infrastructure-varied-tools-and-techni.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group’s primary motivation seems to be cyberespionage: the list of its victims includes high value targets in Hong Kong, COVID-19 research organizations, and the media, among others.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Safari bug leaks your Google account info, browsing history<a href="https://www.bleepingcomputer.com/news/security/safari-bug-leaks-your-google-account-info-browsing-history/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There's a problem with the implementation of the IndexedDB API in Safari's WebKit engine, which could result in leaking browsing histories and even user identities to anyone exploiting the flaw.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DigiCert acquires Mocana to accelerate its presence in the IoT market<a href="https://www.helpnetsecurity.com/2022/01/14/digicert-mocana/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The combination of DigiCert and Mocana technologies provides IoT manufacturers and operators with a comprehensive platform for managing security across the full IoT device lifecycle.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical SAP Vulnerability Allows Supply Chain Attacks<a href="https://www.securityweek.com/critical-sap-vulnerability-allows-supply-chain-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability addressed recently in SAP NetWeaver AS ABAP and ABAP Platform could be abused to set up supply chain attacks, SAP security solutions provider SecurityBridge warns.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Vulnerability in 3 WordPress Plugins Affected 84,000 Websites<a href="https://thehackernews.com/2022/01/high-severity-vulnerability-in-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed a security shortcoming affecting three different WordPress plugins that impact over 84,000 websites and could be abused by a malicious actor to take over vulnerable sites.  "This flaw made it possible for an attacker to update arbitrary site options on a vulnerable site, provided they could trick a site's administrator into performing an action, such as clicking on a link," WordPress security company Wordfence  said  in a report published last week.   Tracked as CVE-2022-0215, the cross-site request forgery ( CSRF ) flaw is rated 8.8 on the CVSS scale and impacts three plugins maintained by  Xootix  —   Login/Signup Popup  (Inline Form + Woocommerce),  Side Cart Woocommerce  (Ajax), and  Waitlist Woocommerce  (Back in stock notifier)   Cross-site request forgery, also known as one-click attack or session riding, occurs when an authenticated end-user is tricked by an attacker into submitting a specially crafted web request. "If the victim i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Government Officially Accuses Russia of Recent Cyberattacks<a href="https://thehackernews.com/2022/01/ukrainian-government-officially-accuses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The government of Ukraine on Sunday formally accused Russia of masterminding the attacks that targeted websites of public institutions and government agencies this past week.  "All the evidence points to the fact that Russia is behind the cyber attack," the Ministry of Digital Transformation  said  in a statement. "Moscow continues to wage a hybrid war and is actively building forces in the information and cyberspace."  The purpose of the attack, said the ministry, "is not only to intimidate society," but to also "destabilize the situation in Ukraine by stopping the work of the public sector and undermining the confidence in the government on the part of Ukrainians."   Russia, however, has denied it was behind the intrusion. "We have nothing to do with it, and Russia has nothing to do with these cyberattacks," Dmitry Peskov, press secretary for President Vladimir Putin,  told  CNN, adding "We are nearly accustomed to the fact that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 16, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

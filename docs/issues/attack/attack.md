@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Umbrella Company Parasol Group Confirms Disruptive Cyberattack<a href="https://www.theregister.com/2022/01/17/umbrella_company_parasol_group_confirms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As reported on Friday, the umbrella company's MyParasol portal, where timesheets are submitted, was not accessible due to an outage starting on January 12, impacting the processing of payroll.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of attacks using a new Linux variant of SFile ransomware<a href="https://securityaffairs.co/wordpress/126811/malware/sfile-ransomware-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the SFile ransomware (aka Escal) have developed a Linux version of their malware to expand their operations.
+
+
+
+SFile ransomware (aka Escal), has been active since 2020, it was observed targeting only Windows systems.&nbsp;Some variants...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber espionage campaign targets renewable energy companies<a href="https://www.bleepingcomputer.com/news/security/cyber-espionage-campaign-targets-renewable-energy-companies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale cyber-espionage campaign targeting primarily renewable energy and industrial technology organizations have been discovered to be active since at least 2019, targeting over fifteen entities worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

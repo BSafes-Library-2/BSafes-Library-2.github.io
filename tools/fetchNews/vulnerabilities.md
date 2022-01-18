@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Unpatched Apple Safari Browser Bug Allows Cross-Site User Tracking<a href="https://thehackernews.com/2022/01/new-unpatched-apple-safari-browser-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A software bug introduced in Apple Safari 15's implementation of the IndexedDB API could be abused by a malicious website to track users' online activity in the web browser and worse, even reveal their identity.  The vulnerability, dubbed&nbsp; IndexedDB Leaks , was disclosed by fraud protection software company FingerprintJS, which&nbsp; reported the issue &nbsp;to the iPhone maker on November 28, 2021.  IndexedDB is a low-level JavaScript application programming interface (API) provided by web browsers for managing a&nbsp; NoSQL database &nbsp;of structured data objects such as files and blobs.   "Like most web storage solutions, IndexedDB follows a same-origin policy," Mozilla&nbsp; notes in its documentation &nbsp;of the API. "So while you can access stored data within a domain, you cannot access data across different domains."  Same-origin is a&nbsp; fundamental security mechanism &nbsp;that ensures that resources retrieved from distinct&nbsp; origins &nbsp;— i.e., a&nbsp; combination &nbsp;of the scheme (protocol),
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+npm dependency is breaking some React apps today — here's the fix<a href="https://www.bleepingcomputer.com/news/security/npm-dependency-is-breaking-some-react-apps-today-heres-the-fix/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tons of users are reporting their Facebook&nbsp;Create React App builds are failing since yesterday. The cause has been traced down to a dependency used by create-react-app,&nbsp;the latest version of which&nbsp;is breaking developers' apps.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,56 @@ nav_order: 900015
 
 ## Attack
 ---
+January 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Fake ransomware targets Ukraine in data-wiping attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-fake-ransomware-targets-ukraine-in-data-wiping-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of destructive data-wiping malware disguised as ransomware being used in attacks against multiple organizations in Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft spotted a destructive malware campaign targeting Ukraine<a href="https://securityaffairs.co/wordpress/126782/apt/destructive-malware-campaign-targets-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft spotted a new destructive malware operation targeting government, non-profit, and IT entities in Ukraine.
+
+
+
+Microsoft spotted a destructive attack that targeted government, non-profit, and IT entities in Ukraine with a wiper disguised as ransomware....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new wave of Qlocker ransomware attacks targets QNAP NAS devices<a href="https://securityaffairs.co/wordpress/126776/cyber-crime/qlocker-ransomware-attacks-qnap-nas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP NAS devices are under attack, experts warn of a new Qlocker ransomware campaign that hit devices worldwide.
+
+
+
+A new wave of Qlocker ransomware it targeting QNAP NAS devices worldwide, the new campaign started on January 6 and it drops ransom notes...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

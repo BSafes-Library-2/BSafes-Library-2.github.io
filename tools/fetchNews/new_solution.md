@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Limits Websites' Direct Access to Private Networks for Security Reasons<a href="https://thehackernews.com/2022/01/chrome-limits-websites-access-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome has announced plans to prohibit public websites from directly accessing endpoints located within private networks as part of an upcoming major security shakeup to prevent intrusions via the browser.  The proposed change is set to be rolled out in two phases consisting of releases Chrome 98 and Chrome 101 scheduled in the coming months via a newly implemented W3C specification called private network access ( PNA ).   "Chrome will start sending a&nbsp; CORS &nbsp;preflight request ahead of any private network request for a subresource, which asks for explicit permission from the target server," Titouan Rigoudy and Eiji Kitamura&nbsp; said . "This preflight request will carry a new header, Access-Control-Request-Private-Network: true, and the response to it must carry a corresponding header, Access-Control-Allow-Private-Network: true."   What this means is that starting with Chrome version 101, any website accessible via the internet will be made to seek explicit permi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

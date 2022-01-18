@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Get Lifetime Access to Cybersecurity Certification Prep Courses<a href="https://thehackernews.com/2022/01/get-lifetime-access-to-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+You can't go far in professional IT without being asked for some key certifications. In particular, most&nbsp; large companies &nbsp;today require new hires to be well versed in the fundamentals of cybersecurity.  Adding the likes of CISSP, CISM, and CompTIA CASP+ to your résumé can open the door to many opportunities — including six-figure roles. There is just a small matter of some exams to pass.  To help you fly through the tests, we have teamed up with iCollege to bring you&nbsp; The 2022 Ultimate Advanced CyberSec Professional Certification Bundle . This collection of five courses helps you work towards top certifications, with over 147 hours of content from expert instructors.   The training would normally set you back a total of $1,475. But thanks to a special deal for readers of The Hacker News, you can get the bundle today for only $69.  What's Included:   NIST Cybersecurity &amp; Risk Management Frameworks  (ISC) CISSP - 2021  ISACA Certified Information Security Manager (CISM)  Co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

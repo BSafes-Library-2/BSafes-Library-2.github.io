@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mespinoza/Pysa Ransomware Keeps Targeting Healthcare Sector<a href="https://cyware.com/news/mespinozapysa-ransomware-keeps-targeting-healthcare-sector-5b7552a4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the HHS,&nbsp;PYSA ransomware operators are aggressively eying the healthcare sector in the U.S. to pull off double extortion attacks. As of November 2021, Pysa had already targeted 190 victims, of which six were from the healthcare sector.&nbsp;The sector should evaluate its defense-i ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Web's Largest Marketplace for Stolen Credit Cards is Shutting Down<a href="https://thehackernews.com/2022/01/dark-webs-largest-marketplace-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UniCC, the biggest dark web marketplace for stolen credit and debit cards, has announced that it's shuttering its operations after earning $358 million in purchases since 2013 using cryptocurrencies such as Bitcoin, Litecoin, Ether, and Dash.  "Don't build any conspiracy theories about us leaving," the anonymous operators of UniCC said in a farewell posted on dark web carding forums, according to blockchain analytics firm Elliptic. "It is [a] weighted decision, we are not young and our health do[es] not allow [us] to work like this any longer."  The UniCC team also gave its users 10 days to spend their balances, while also warning customers to "not follow any fakes tied to our comeback."  Platforms such as UniCC function as an underground marketplace wherein credit card details stolen from online retailers, banks, and payments companies by injecting&nbsp; malicious skimmers &nbsp;are trafficked in exchange for cryptocurrency. The cards are then used by crim
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
