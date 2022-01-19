@@ -34,6 +34,461 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telegram is a hotspot for the sale of stolen financial accounts<a href="https://www.bleepingcomputer.com/news/security/telegram-is-a-hotspot-for-the-sale-of-stolen-financial-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telegram is increasingly abused by cybercriminals to set up underground channels to sell stolen financial details to pseudonymous users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RedLine Variant Uses Omicron Lure to Trap Victims<a href="https://cyware.com/news/new-redline-variant-uses-omicron-lure-to-trap-victims-65107b6c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet discovered a new RedLine info-stealer campaign impersonating the COVID-19 Omicron stat counter app as a lure to steal data. The victims of the attack campaign are reportedly distributed across 12 countries. Security teams are advised to deploy a reliable anti-malware solution, encrypt impo ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Bypass SMS-based Multi-Factor Authentication Protecting Box Accounts<a href="https://thehackernews.com/2022/01/researchers-bypass-sms-based-multi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details of a now-patched bug in Box's multi-factor authentication (MFA) mechanism that could be abused to completely sidestep SMS-based login verification.  "Using this technique, an attacker could use stolen credentials to compromise an organization's Box account and exfiltrate sensitive data without access to the victim's phone," Varonis researchers  said  in a report shared with The Hacker News.  The cybersecurity company said it reported the issue to the cloud service provider on November 2, 2021, post which fixes were issued by Box.   MFA is an authentication method that relies on a combination of factors such as a password (something only the user knows) and a temporary one-time password aka TOTP (something only the user has) to provide users a second layer of defense against credential stuffing and other account takeover attacks.  This two-step authentication can either involve sending the code as an SMS or alternat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Home for the Holidays? The Global Implications of a State-Level Cyberattack<a href="https://www.lawfareblog.com/home-holidays-global-implications-state-level-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MDH hack exposes how vulnerabilities in public data supply chains have the potential to impact the information available to decision-makers in times of national and international crises and normal operations.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AlphV/BlackCat ransomware gang published data stolen from fashion giant Moncler<a href="https://securityaffairs.co/wordpress/126880/cyber-crime/alphv-blackcat-ransomware-hit-moncler.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Luxury fashion giant Moncler confirmed a data breach after a ransomware attack carried out by the AlphV/BlackCat.
+
+
+
+Moncler confirmed a data breach after an attack that took place in December. The luxury fashion giant was hit by  AlphV/BlackCat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Log4j Vulnerability Puts Pressure on the Security World<a href="https://threatpost.com/log4j-vulnerability-pressures-security-world/177721/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s time to sound the alarm for Log4Shell. Saryu Nayyar, CEO at Gurucul, discusses what actions you should be taking.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fashion giant Moncler confirms data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/fashion-giant-moncler-confirms-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italian luxury fashion giant Moncler confirmed that they suffered a data breach after files were stolen by the AlphV/BlackCat ransomware operation in December and published today on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TellYouThePass Uses Golang to Expand its Attack Surface<a href="https://cyware.com/news/tellyouthepass-uses-golang-to-expand-its-attack-surface-9df91aac"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A relatively inactive TellYouThePass ransomware has re-emerged as a Golang-compiled malware, making it easier for threat actors to target a wide range of operating systems, including macOS and Linux.  Hackers demand 0.05 Bitcoin, presently converting to around $2,150, for the decryption tool.  Tell ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol Shuts Down VPNLab, Cybercriminals' Favourite VPN Service<a href="https://thehackernews.com/2022/01/europol-shuts-down-vpnlab.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VPNLab.net, a  VPN provider  that was used by malicious actors to deploy ransomware and facilitate other cybercrimes, was taken offline following a coordinated law enforcement operation.  Europol said it took action against the misuse of the VPN service by grounding 15 of its servers on January 17 and rendering it inoperable as part of a disruptive action that took place across Germany, the Netherlands, Canada, the Czech Republic, France, Hungary, Latvia, Ukraine, the U.S., and the U.K.  A second outcome of the seizure is that at least 100 businesses that have been identified as at risk of impending cyber attacks are being notified. Europol didn't disclose the names of the companies.   Established in 2008, the tool provided an advanced level of anonymity by offering double VPN connections to its clients — wherein the internet traffic is routed through two VPN servers located in different countries instead of one — for as cheap as $60 a year.   "This made VPNLab.net a popular
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financially motivated Earth Lusca threat actors targets organizations worldwide<a href="https://securityaffairs.co/wordpress/126868/hacking/earth-lusca-campaigns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated threat actor, tracked as Earth Lusca, is targeting government and private organizations worldwide as for financial purposes.
+
+
+
+Trend Micro researchers spotted an elusive threat actor, called Earth Lusca, that targets organizations worldwide...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Actively Target VMware vSphere with Cryptominers<a href="https://threatpost.com/cybercriminals-vmware-vsphere-cryptominers/177722/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware’s container-based application development environment has become attractive to cyberattackers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New White Rabbit ransomware linked to FIN8 hacking group<a href="https://www.bleepingcomputer.com/news/security/new-white-rabbit-ransomware-linked-to-fin8-hacking-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware family called 'White Rabbit' appeared in the wild recently, and according to recent research findings, could be a side-operation of the FIN8 hacking group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Destructive MBR Wiper Targets Ukrainian Organizations<a href="https://cyware.com/news/destructive-mbr-wiper-targets-ukrainian-organizations-fa8c901e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks started on January 13 - around the same time when more than 70 government websites were defaced by gangs reportedly linked to Russian secret services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Don't Use Public Wi-Fi Without DNS Filtering<a href="https://thehackernews.com/2022/01/dont-use-public-wi-fi-without-dns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Providing public Wi-Fi is a great service to offer your customers as it becomes more and more standard in today's society. I like the fact that I do not have to worry about accessing the Internet while I am away, or spending a lot of money on an international connection, or just staying offline while I am away.  With public Wi-Fi, modern life has become a constant connection to the Internet, whether we are on the bus, on the way to school or work, waiting for our flight in the airport or during the flight itself, or doing our homework or working on our projects in a café.  We do business and communicate online in a variety of ways. We check our work emails, chat with our friends, and even take business calls online through the service.  According to recent statistics, there are about 410,000 public Wi-Fi hotspots in the United States alone, in public places such as parks, libraries, public transportation, and train stations.  Cons of using public Wi-Fi  Despite the many benefits t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law enforcement shutdown the VPN service VPNLab used by many cybercriminal gangs<a href="https://securityaffairs.co/wordpress/126862/cyber-crime/vpn-service-vpnlab-shutdown.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol this week announced the shutdown of VPNLab, a VPN service that is very popular in the cybercrime ecosystem.
+
+
+
+An international operation conducted by law enforcement bodies from 10 countries took down VPNLab.net, a VPN service provider that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beijing 2022 Winter Olympics app bursting with privacy risks<a href="https://www.bleepingcomputer.com/news/security/beijing-2022-winter-olympics-app-bursting-with-privacy-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The official app for Beijing 2022 Winter Olympics, 'My 2022,' was found to be insecure when it comes to protecting the sensitive data of its users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+USCYBERCOM Links MuddyWater to Iranian Intelligence Agency<a href="https://cyware.com/news/uscybercom-links-muddywater-to-iranian-intelligence-agency-8ce0308f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MuddyWater, aka Seedworm, is an Iranian cyberespionage threat actor that primarily targets the UAE, Saudi Arabia, Israel, Iraq, and other Middle Eastern nations, as well as some European and North American countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Lusca Hackers Aimed at High-Value Targets in Government and Private Sectors<a href="https://thehackernews.com/2022/01/earth-lusca-hackers-aimed-at-high-value.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An elusive threat actor called Earth Lusca  has been observed striking organizations across the world as part of what appears to be simultaneously an espionage campaign and an attempt to reap monetary profits.  "The list of its victims includes high-value targets such as government and educational institutions, religious movements, pro-democracy and human rights organizations in Hong Kong, COVID-19 research organizations, and the media, amongst others," Trend Micro researchers  said  in a new report. "However, the threat actor also seems to be financially motivated, as it also took aim at gambling and cryptocurrency companies.   The cybersecurity firm attributed the group as part of the larger China-based  Winnti cluster , which refers to a number of linked groups rather than a single discrete entity that are focused on intelligence gathering and intellectual property theft.   Earth Lusca's intrusion routes are facilitated by spear-phishing and watering hole attacks
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases Windows out-of-band emergency fixes for Win Server, VPN issues<a href="https://securityaffairs.co/wordpress/126856/hacking/windows-out-of-band-emergency-fixes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released Windows emergency out-of-band (OOB) updates to fix multiple issues caused by January 2021 Patch Tuesday updates. 
+
+
+
+Microsoft has released emergency out-of-band (OOB) updates for Windows to address multiple issues caused by security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol shuts down VPN service used by ransomware groups<a href="https://www.bleepingcomputer.com/news/security/europol-shuts-down-vpn-service-used-by-ransomware-groups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement authorities from 10 countries took down VPNLab.net, a VPN service provider used by ransomware operators and malware actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aditya Birla Fashion confirms data breach, but says no sensitive info was compromised<a href="https://www.cnbctv18.com/business/companies/aditya-birla-fashion-confirms-data-breach-but-says-no-sensitive-info-was-compromised-12163482.htm?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company addressed the data breach on its portal and sought to assure its customers that no sensitive information was compromised. On Monday, it was reported that the company's database was hacked.
+</details>
+<div style="text-align: right" markdown="1">
+CNBC TV18
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A small number of Crypto.com users reported suspicious activity on their wallet<a href="https://securityaffairs.co/wordpress/126847/hacking/crypto-com-fraudulent-transactions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several Crypto.com users reported suspicious transactions that stole thousands of dollars in Ethereum (ETH) from their wallets. 
+
+
+
+Several Crypto.com users reported suspicious transactions that stole thousands of dollars in Ethereum (ETH) despite their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New FluBot Malware Variant Imitates Flash Player to Trick Users<a href="https://cyware.com/news/new-flubot-malware-variant-imitates-flash-player-to-trick-users-c8db6ff7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at F5 Networks observed a new smishing campaign by the FluBot malware operators, camouflaged as Flash Player, to target Android users. The FluBot version 5.2 comes with important improvements including the implementation of a new command to change the domain generation algorithms seed r ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in IDEMIA Biometric Readers Allows Hackers to Unlock Doors<a href="https://www.securityweek.com/vulnerability-idemia-biometric-readers-allows-hackers-unlock-doors?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The products affected by the vulnerability include MorphoWave Compact MD/MDPI/MDPI-M, VisionPass MD/MDPI/MDPI-M, all variants of SIGMA Lite/Lite+/Wide, SIGMA Extreme, and MA VP MD.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle to Release Nearly 500 New Security Patches<a href="https://www.securityweek.com/oracle-release-nearly-500-new-security-patches?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to its pre-release announcement, the company has lined up 483 new patches for the first Critical Patch Update (CPU) of 2022, which is scheduled for Tuesday, January 18.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White Rabbit Ransomware Borrows Technique Used by Egregor to Hide from Malware Analysis<a href="https://www.trendmicro.com/en_us/research/22/a/new-ransomware-spotted-white-rabbit-and-its-evasion-tactics.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the most notable aspects of White Rabbit is how its payload binary requires a specific command-line password to decrypt its internal configuration and proceed with its ransomware routine.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho Releases Patch for Critical Flaw Affecting ManageEngine Desktop Central<a href="https://thehackernews.com/2022/01/zoho-releases-patch-for-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise software maker Zoho on Monday issued patches for a critical security vulnerability in Desktop Central and Desktop Central MSP that a remote adversary could exploit to perform unauthorized actions in affected servers.  Tracked as  CVE-2021-44757 , the shortcoming concerns an instance of authentication bypass that "may allow an attacker to read unauthorized data or write an arbitrary zip file on the server," the company  noted  in an advisory.  Osword from SGLAB of Legendsec at Qi'anxin Group has been credited with discovering and reporting the vulnerability. The Indian firm said it remediated the issue in build version 10.1.2137.9.   With the latest fix, Zoho has addressed a total of four vulnerabilities over the past five months —   CVE-2021-40539  (CVSS score: 9.8) – Authentication bypass vulnerability affecting Zoho ManageEngine ADSelfService Plus  CVE-2021-44077  (CVSS score: 9.8) – Unauthenticated remote code execution vulnerability affecting Zoho ManageEn
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
