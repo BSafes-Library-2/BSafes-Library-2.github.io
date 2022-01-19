@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 January 18, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Will 2022 Be the Year of the Software Bill of Materials?<a href="https://threatpost.com/2022-software-bill-of-materials/177736/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Praise be & pass the recipe for the software soup: There’s too much  scrambling to untangle vulnerabilities and dependencies, say a security experts roundtable.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Telegram is a hotspot for the sale of stolen financial accounts<a href="https://www.bleepingcomputer.com/news/security/telegram-is-a-hotspot-for-the-sale-of-stolen-financial-accounts/"> Full Text</a>
 </p>
 <details>
