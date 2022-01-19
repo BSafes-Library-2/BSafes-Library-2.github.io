@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fashion giant Moncler confirms data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/fashion-giant-moncler-confirms-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italian luxury fashion giant Moncler&nbsp;confirmed that they suffered a data breach after files were stolen by the AlphV/BlackCat ransomware operation in December and published today on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aditya Birla Fashion confirms data breach, but says no sensitive info was compromised<a href="https://www.cnbctv18.com/business/companies/aditya-birla-fashion-confirms-data-breach-but-says-no-sensitive-info-was-compromised-12163482.htm?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company addressed the data breach on its portal and sought to assure its customers that no sensitive information was compromised. On Monday, it was reported that the company's database was hacked.
+</details>
+<div style="text-align: right" markdown="1">
+CNBC TV18
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

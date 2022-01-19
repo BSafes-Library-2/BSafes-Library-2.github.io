@@ -8,6 +8,66 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telegram is a hotspot for the sale of stolen financial accounts<a href="https://www.bleepingcomputer.com/news/security/telegram-is-a-hotspot-for-the-sale-of-stolen-financial-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telegram is increasingly abused by cybercriminals to set up underground channels to sell stolen financial details to pseudonymous users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AlphV/BlackCat ransomware gang published data stolen from fashion giant Moncler<a href="https://securityaffairs.co/wordpress/126880/cyber-crime/alphv-blackcat-ransomware-hit-moncler.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Luxury fashion giant Moncler&nbsp;confirmed a data breach after a ransomware attack carried out by the AlphV/BlackCat.
+
+
+
+Moncler confirmed a data breach after an attack that took place in December. The luxury fashion giant was hit by  AlphV/BlackCat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol Shuts Down VPNLab, Cybercriminals' Favourite VPN Service<a href="https://thehackernews.com/2022/01/europol-shuts-down-vpnlab.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VPNLab.net, a&nbsp; VPN provider &nbsp;that was used by malicious actors to deploy ransomware and facilitate other cybercrimes, was taken offline following a coordinated law enforcement operation.  Europol said it took action against the misuse of the VPN service by grounding 15 of its servers on January 17 and rendering it inoperable as part of a disruptive action that took place across Germany, the Netherlands, Canada, the Czech Republic, France, Hungary, Latvia, Ukraine, the U.S., and the U.K.  A second outcome of the seizure is that at least 100 businesses that have been identified as at risk of impending cyber attacks are being notified. Europol didn't disclose the names of the companies.   Established in 2008, the tool provided an advanced level of anonymity by offering double VPN connections to its clients — wherein the internet traffic is routed through two VPN servers located in different countries instead of one — for as cheap as $60 a year.   "This made VPNLab.net a popular
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Actively Target VMware vSphere with Cryptominers<a href="https://threatpost.com/cybercriminals-vmware-vsphere-cryptominers/177722/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware’s container-based application development environment has become attractive to cyberattackers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

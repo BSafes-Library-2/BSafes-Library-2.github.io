@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Will 2022 Be the Year of the Software Bill of Materials?<a href="https://threatpost.com/2022-software-bill-of-materials/177736/"> Full Text</a>
@@ -50,7 +50,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telegram is a hotspot for the sale of stolen financial accounts<a href="https://www.bleepingcomputer.com/news/security/telegram-is-a-hotspot-for-the-sale-of-stolen-financial-accounts/"> Full Text</a>
@@ -66,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New RedLine Variant Uses Omicron Lure to Trap Victims<a href="https://cyware.com/news/new-redline-variant-uses-omicron-lure-to-trap-victims-65107b6c"> Full Text</a>
@@ -83,7 +83,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Bypass SMS-based Multi-Factor Authentication Protecting Box Accounts<a href="https://thehackernews.com/2022/01/researchers-bypass-sms-based-multi.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Home for the Holidays? The Global Implications of a State-Level Cyberattack<a href="https://www.lawfareblog.com/home-holidays-global-implications-state-level-cyberattack"> Full Text</a>
@@ -115,7 +115,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AlphV/BlackCat ransomware gang published data stolen from fashion giant Moncler<a href="https://securityaffairs.co/wordpress/126880/cyber-crime/alphv-blackcat-ransomware-hit-moncler.html"> Full Text</a>
@@ -135,7 +135,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Log4j Vulnerability Puts Pressure on the Security World<a href="https://threatpost.com/log4j-vulnerability-pressures-security-world/177721/"> Full Text</a>
@@ -151,7 +151,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fashion giant Moncler confirms data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/fashion-giant-moncler-confirms-data-breach-after-ransomware-attack/"> Full Text</a>
@@ -167,7 +167,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TellYouThePass Uses Golang to Expand its Attack Surface<a href="https://cyware.com/news/tellyouthepass-uses-golang-to-expand-its-attack-surface-9df91aac"> Full Text</a>
@@ -184,7 +184,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol Shuts Down VPNLab, Cybercriminals' Favourite VPN Service<a href="https://thehackernews.com/2022/01/europol-shuts-down-vpnlab.html"> Full Text</a>
@@ -200,7 +200,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Financially motivated Earth Lusca threat actors targets organizations worldwide<a href="https://securityaffairs.co/wordpress/126868/hacking/earth-lusca-campaigns.html"> Full Text</a>
@@ -220,7 +220,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Actively Target VMware vSphere with Cryptominers<a href="https://threatpost.com/cybercriminals-vmware-vsphere-cryptominers/177722/"> Full Text</a>
@@ -236,7 +236,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New White Rabbit ransomware linked to FIN8 hacking group<a href="https://www.bleepingcomputer.com/news/security/new-white-rabbit-ransomware-linked-to-fin8-hacking-group/"> Full Text</a>
@@ -252,7 +252,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Destructive MBR Wiper Targets Ukrainian Organizations<a href="https://cyware.com/news/destructive-mbr-wiper-targets-ukrainian-organizations-fa8c901e"> Full Text</a>
@@ -268,7 +268,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Don't Use Public Wi-Fi Without DNS Filtering<a href="https://thehackernews.com/2022/01/dont-use-public-wi-fi-without-dns.html"> Full Text</a>
@@ -284,7 +284,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Law enforcement shutdown the VPN service VPNLab used by many cybercriminal gangs<a href="https://securityaffairs.co/wordpress/126862/cyber-crime/vpn-service-vpnlab-shutdown.html"> Full Text</a>
@@ -304,7 +304,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beijing 2022 Winter Olympics app bursting with privacy risks<a href="https://www.bleepingcomputer.com/news/security/beijing-2022-winter-olympics-app-bursting-with-privacy-risks/"> Full Text</a>
@@ -320,7 +320,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 USCYBERCOM Links MuddyWater to Iranian Intelligence Agency<a href="https://cyware.com/news/uscybercom-links-muddywater-to-iranian-intelligence-agency-8ce0308f"> Full Text</a>
@@ -336,7 +336,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Earth Lusca Hackers Aimed at High-Value Targets in Government and Private Sectors<a href="https://thehackernews.com/2022/01/earth-lusca-hackers-aimed-at-high-value.html"> Full Text</a>
@@ -352,7 +352,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft releases Windows out-of-band emergency fixes for Win Server, VPN issues<a href="https://securityaffairs.co/wordpress/126856/hacking/windows-out-of-band-emergency-fixes.html"> Full Text</a>
@@ -372,7 +372,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol shuts down VPN service used by ransomware groups<a href="https://www.bleepingcomputer.com/news/security/europol-shuts-down-vpn-service-used-by-ransomware-groups/"> Full Text</a>
@@ -388,7 +388,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aditya Birla Fashion confirms data breach, but says no sensitive info was compromised<a href="https://www.cnbctv18.com/business/companies/aditya-birla-fashion-confirms-data-breach-but-says-no-sensitive-info-was-compromised-12163482.htm?&web_view=true"> Full Text</a>
@@ -404,7 +404,7 @@ CNBC TV18
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A small number of Crypto.com users reported suspicious activity on their wallet<a href="https://securityaffairs.co/wordpress/126847/hacking/crypto-com-fraudulent-transactions.html"> Full Text</a>
@@ -424,7 +424,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New FluBot Malware Variant Imitates Flash Player to Trick Users<a href="https://cyware.com/news/new-flubot-malware-variant-imitates-flash-player-to-trick-users-c8db6ff7"> Full Text</a>
@@ -441,7 +441,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability in IDEMIA Biometric Readers Allows Hackers to Unlock Doors<a href="https://www.securityweek.com/vulnerability-idemia-biometric-readers-allows-hackers-unlock-doors?&web_view=true"> Full Text</a>
@@ -457,7 +457,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oracle to Release Nearly 500 New Security Patches<a href="https://www.securityweek.com/oracle-release-nearly-500-new-security-patches?&web_view=true"> Full Text</a>
@@ -473,7 +473,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2022
+January 18, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White Rabbit Ransomware Borrows Technique Used by Egregor to Hide from Malware Analysis<a href="https://www.trendmicro.com/en_us/research/22/a/new-ransomware-spotted-white-rabbit-and-its-evasion-tactics.html?&web_view=true"> Full Text</a>
@@ -489,7 +489,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2022
+January 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoho Releases Patch for Critical Flaw Affecting ManageEngine Desktop Central<a href="https://thehackernews.com/2022/01/zoho-releases-patch-for-critical-flaw.html"> Full Text</a>

@@ -8,6 +8,52 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financially motivated Earth Lusca threat actors targets organizations worldwide<a href="https://securityaffairs.co/wordpress/126868/hacking/earth-lusca-campaigns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated threat actor, tracked as&nbsp;Earth Lusca, is targeting government and private organizations worldwide as for financial purposes.
+
+
+
+Trend Micro researchers spotted an elusive threat actor, called Earth Lusca, that targets organizations worldwide...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+USCYBERCOM Links MuddyWater to Iranian Intelligence Agency<a href="https://cyware.com/news/uscybercom-links-muddywater-to-iranian-intelligence-agency-8ce0308f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MuddyWater, aka Seedworm, is an Iranian cyberespionage threat actor that primarily targets the UAE, Saudi Arabia, Israel, Iraq, and other Middle Eastern nations, as well as some European and North American countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Lusca Hackers Aimed at High-Value Targets in Government and Private Sectors<a href="https://thehackernews.com/2022/01/earth-lusca-hackers-aimed-at-high-value.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An elusive threat actor called Earth Lusca  has been observed striking organizations across the world as part of what appears to be simultaneously an espionage campaign and an attempt to reap monetary profits.  "The list of its victims includes high-value targets such as government and educational institutions, religious movements, pro-democracy and human rights organizations in Hong Kong, COVID-19 research organizations, and the media, amongst others," Trend Micro researchers&nbsp; said &nbsp;in a new report. "However, the threat actor also seems to be financially motivated, as it also took aim at gambling and cryptocurrency companies.   The cybersecurity firm attributed the group as part of the larger China-based&nbsp; Winnti cluster , which refers to a number of linked groups rather than a single discrete entity that are focused on intelligence gathering and intellectual property theft.   Earth Lusca's intrusion routes are facilitated by spear-phishing and watering hole attacks
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

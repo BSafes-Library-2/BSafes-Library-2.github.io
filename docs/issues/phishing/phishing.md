@@ -8,6 +8,21 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RedLine Variant Uses Omicron Lure to Trap Victims<a href="https://cyware.com/news/new-redline-variant-uses-omicron-lure-to-trap-victims-65107b6c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet discovered a new RedLine info-stealer campaign impersonating the COVID-19 Omicron stat counter app as a lure to steal data. The victims of the attack campaign are reportedly distributed across 12 countries. Security teams are advised to deploy a reliable anti-malware solution, encrypt impo ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

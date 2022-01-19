@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Destructive MBR Wiper Targets Ukrainian Organizations<a href="https://cyware.com/news/destructive-mbr-wiper-targets-ukrainian-organizations-fa8c901e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks started on January 13 - around the same time when more than 70 government websites were defaced by gangs reportedly linked to Russian secret services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

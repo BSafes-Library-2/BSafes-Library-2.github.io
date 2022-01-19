@@ -8,6 +8,63 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 18, 2022 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TellYouThePass Uses Golang to Expand its Attack Surface<a href="https://cyware.com/news/tellyouthepass-uses-golang-to-expand-its-attack-surface-9df91aac"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A relatively inactive TellYouThePass ransomware has re-emerged as a Golang-compiled malware, making it easier for threat actors to target a wide range of operating systems, including macOS and Linux.  Hackers demand 0.05 Bitcoin, presently converting to around $2,150, for the decryption tool.  Tell ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New White Rabbit ransomware linked to FIN8 hacking group<a href="https://www.bleepingcomputer.com/news/security/new-white-rabbit-ransomware-linked-to-fin8-hacking-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware family called 'White Rabbit' appeared in the wild recently, and according to recent research findings, could be a side-operation of the FIN8 hacking group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol shuts down VPN service used by ransomware groups<a href="https://www.bleepingcomputer.com/news/security/europol-shuts-down-vpn-service-used-by-ransomware-groups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement authorities from 10 countries&nbsp;took down VPNLab.net, a VPN service provider used by ransomware operators and malware actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White Rabbit Ransomware Borrows Technique Used by Egregor to Hide from Malware Analysis<a href="https://www.trendmicro.com/en_us/research/22/a/new-ransomware-spotted-white-rabbit-and-its-evasion-tactics.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the most notable aspects of White Rabbit is how its payload binary requires a specific command-line password to decrypt its internal configuration and proceed with its ransomware routine.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

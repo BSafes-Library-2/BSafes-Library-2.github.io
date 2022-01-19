@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Lusca Employs Doraemon, ShadowPad and Winnti Malware to Target Organizations in Hong Kong<a href="https://www.trendmicro.com/en_us/research/22/a/earth-lusca-sophisticated-infrastructure-varied-tools-and-techni.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group’s primary motivation seems to be cyberespionage: the list of its victims includes high value targets in Hong Kong, COVID-19 research organizations, and the media, among others.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

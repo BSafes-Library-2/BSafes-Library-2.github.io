@@ -8,6 +8,24 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A small number of Crypto.com users reported suspicious activity on their wallet<a href="https://securityaffairs.co/wordpress/126847/hacking/crypto-com-fraudulent-transactions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several Crypto.com users reported suspicious transactions that stole thousands of dollars in Ethereum (ETH) from their wallets. 
+
+
+
+Several Crypto.com users reported suspicious transactions that stole thousands of dollars in Ethereum (ETH) despite their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

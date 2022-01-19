@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Bypass SMS-based Multi-Factor Authentication Protecting Box Accounts<a href="https://thehackernews.com/2022/01/researchers-bypass-sms-based-multi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details of a now-patched bug in Box's multi-factor authentication (MFA) mechanism that could be abused to completely sidestep SMS-based login verification.  "Using this technique, an attacker could use stolen credentials to compromise an organization's Box account and exfiltrate sensitive data without access to the victim's phone," Varonis researchers&nbsp; said &nbsp;in a report shared with The Hacker News.  The cybersecurity company said it reported the issue to the cloud service provider on November 2, 2021, post which fixes were issued by Box.   MFA is an authentication method that relies on a combination of factors such as a password (something only the user knows) and a temporary one-time password aka TOTP (something only the user has) to provide users a second layer of defense against credential stuffing and other account takeover attacks.  This two-step authentication can either involve sending the code as an SMS or alternat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Don't Use Public Wi-Fi Without DNS Filtering<a href="https://thehackernews.com/2022/01/dont-use-public-wi-fi-without-dns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Providing public Wi-Fi is a great service to offer your customers as it becomes more and more standard in today's society. I like the fact that I do not have to worry about accessing the Internet while I am away, or spending a lot of money on an international connection, or just staying offline while I am away.  With public Wi-Fi, modern life has become a constant connection to the Internet, whether we are on the bus, on the way to school or work, waiting for our flight in the airport or during the flight itself, or doing our homework or working on our projects in a café.  We do business and communicate online in a variety of ways. We check our work emails, chat with our friends, and even take business calls online through the service.  According to recent statistics, there are about 410,000 public Wi-Fi hotspots in the United States alone, in public places such as parks, libraries, public transportation, and train stations.  Cons of using public Wi-Fi  Despite the many benefits t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases Windows out-of-band emergency fixes for Win Server, VPN issues<a href="https://securityaffairs.co/wordpress/126856/hacking/windows-out-of-band-emergency-fixes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released Windows emergency out-of-band (OOB) updates to fix multiple issues caused by January 2021 Patch Tuesday updates. 
+
+
+
+Microsoft has released emergency out-of-band (OOB) updates for Windows to address multiple issues caused by security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in IDEMIA Biometric Readers Allows Hackers to Unlock Doors<a href="https://www.securityweek.com/vulnerability-idemia-biometric-readers-allows-hackers-unlock-doors?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The products affected by the vulnerability include MorphoWave Compact MD/MDPI/MDPI-M, VisionPass MD/MDPI/MDPI-M, all variants of SIGMA Lite/Lite+/Wide, SIGMA Extreme, and MA VP MD.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle to Release Nearly 500 New Security Patches<a href="https://www.securityweek.com/oracle-release-nearly-500-new-security-patches?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to its pre-release announcement, the company has lined up 483 new patches for the first Critical Patch Update (CPU) of 2022, which is scheduled for Tuesday, January 18.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho Releases Patch for Critical Flaw Affecting ManageEngine Desktop Central<a href="https://thehackernews.com/2022/01/zoho-releases-patch-for-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise software maker Zoho on Monday issued patches for a critical security vulnerability in Desktop Central and Desktop Central MSP that a remote adversary could exploit to perform unauthorized actions in affected servers.  Tracked as&nbsp; CVE-2021-44757 , the shortcoming concerns an instance of authentication bypass that "may allow an attacker to read unauthorized data or write an arbitrary zip file on the server," the company&nbsp; noted &nbsp;in an advisory.  Osword from SGLAB of Legendsec at Qi'anxin Group has been credited with discovering and reporting the vulnerability. The Indian firm said it remediated the issue in build version 10.1.2137.9.   With the latest fix, Zoho has addressed a total of four vulnerabilities over the past five months —   CVE-2021-40539 &nbsp;(CVSS score: 9.8) – Authentication bypass vulnerability affecting Zoho ManageEngine ADSelfService Plus  CVE-2021-44077 &nbsp;(CVSS score: 9.8) – Unauthenticated remote code execution vulnerability affecting Zoho ManageEn
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

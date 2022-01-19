@@ -8,6 +8,130 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Edge will mitigate 'unforeseen active' zero day bugs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-will-mitigate-unforeseen-active-zero-day-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Edge has added a new feature to the Beta channel that will be able to mitigate future in-the-wild exploitation of unknown zero-day vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle Critical Patch Update for January 2022 will fix 483 new flaws<a href="https://securityaffairs.co/wordpress/126836/security/oracle-critical-patch-update-january-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The pre-release announcement for Critical Patch Update (CPU) for January 2022 states that Oracle will fix 483 new flaws.
+
+
+
+This pre-release announcement for Critical Patch Update (CPU) for January 2022 confirms that Oracle security updates will address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho fixes a critical vulnerability (CVE-2021-44757) in Desktop Central solutions<a href="https://securityaffairs.co/wordpress/126828/security/zoho-desktop-central-cve-2021-44757-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoho addressed a new critical severity flaw (CVE-2021-44757) that affects its Desktop Central and Desktop Central MSP unified endpoint management (UEM) solutions 
+
+
+
+Zoho fixed a new critical severity flaw, tracked as&nbsp;CVE-2021-44757, that affects its Desktop...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho plugs another critical security hole in Desktop Central<a href="https://www.bleepingcomputer.com/news/security/zoho-plugs-another-critical-security-hole-in-desktop-central/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoho&nbsp;has addressed a new critical severity vulnerability found to affect the company's&nbsp;Desktop Central and Desktop Central MSP&nbsp;&nbsp;unified endpoint management (UEM) solutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity flaw in 3 WordPress plugins impacts 84,000 websites<a href="https://securityaffairs.co/wordpress/126821/hacking/wordpress-plugins-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a high-severity vulnerability in three different WordPress plugins that impact over 84,000 websites.
+
+
+
+Researchers from WordPress security company Wordfence discovered a high-severity vulnerability that affects three different...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Safari bug leaks your Google account info, browsing history<a href="https://www.bleepingcomputer.com/news/security/safari-bug-leaks-your-google-account-info-browsing-history/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There's a problem with the implementation of the IndexedDB API in Safari's WebKit engine, which could result in leaking browsing histories and even user identities to anyone exploiting the flaw.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical SAP Vulnerability Allows Supply Chain Attacks<a href="https://www.securityweek.com/critical-sap-vulnerability-allows-supply-chain-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability addressed recently in SAP NetWeaver AS ABAP and ABAP Platform could be abused to set up supply chain attacks, SAP security solutions provider SecurityBridge warns.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Vulnerability in 3 WordPress Plugins Affected 84,000 Websites<a href="https://thehackernews.com/2022/01/high-severity-vulnerability-in-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed a security shortcoming affecting three different WordPress plugins that impact over 84,000 websites and could be abused by a malicious actor to take over vulnerable sites.  "This flaw made it possible for an attacker to update arbitrary site options on a vulnerable site, provided they could trick a site's administrator into performing an action, such as clicking on a link," WordPress security company Wordfence&nbsp; said &nbsp;in a report published last week.   Tracked as CVE-2022-0215, the cross-site request forgery ( CSRF ) flaw is rated 8.8 on the CVSS scale and impacts three plugins maintained by&nbsp; Xootix &nbsp;—   Login/Signup Popup &nbsp;(Inline Form + Woocommerce),  Side Cart Woocommerce &nbsp;(Ajax), and  Waitlist Woocommerce &nbsp;(Back in stock notifier)   Cross-site request forgery, also known as one-click attack or session riding, occurs when an authenticated end-user is tricked by an attacker into submitting a specially crafted web request. "If the victim i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

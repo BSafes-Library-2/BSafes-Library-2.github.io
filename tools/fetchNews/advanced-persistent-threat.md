@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kyiv blames Belarus-linked APT UNC1151 for recent cyberattack<a href="https://securityaffairs.co/wordpress/126800/apt/unc1151-apt-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian government attributes the recent attacks against tens of Ukrainian government websites to Belarusian APT group UNC1151.
+
+
+
+The government of Kyiv attributes the defacement of tens of Ukrainian government websites to Belarusian APT group  UNC1151,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

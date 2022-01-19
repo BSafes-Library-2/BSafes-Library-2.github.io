@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beijing 2022 Winter Olympics app bursting with privacy risks<a href="https://www.bleepingcomputer.com/news/security/beijing-2022-winter-olympics-app-bursting-with-privacy-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The official app for Beijing 2022 Winter Olympics, 'My 2022,' was found to be insecure when it comes to protecting the sensitive data of its users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
