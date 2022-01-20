@@ -34,6 +34,586 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Red Cross cyberattack exposes data of 515,000 people seeking missing family<a href="https://www.bleepingcomputer.com/news/security/red-cross-cyberattack-exposes-data-of-515-000-people-seeking-missing-family/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack on a Red Cross contactor has led to the theft of personal data for more than 515,000 people in 'Restoring Family Links,' a program that helps reunite families separated by war, disaster, and migration.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand: Kings Plant Barn the latest retailer hit by FlexBooker click-and-collect data breach<a href="https://www.nzherald.co.nz/business/kings-plant-barn-the-latest-retailer-hit-by-click-and-collect-data-breach/HJ45OFWAJ7NGGICU4THWBEZYOI/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kings Plant Barn has contacted customers about a security breach to FlexBooker, the internet-based system it uses to organize bookings. Names, email addresses, and collection times were exposed.
+</details>
+<div style="text-align: right" markdown="1">
+NZ Herald
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Presented by Connected Commerce Council — Biden sets cyber standards<a href="https://thehill.com//policy/technology/overnights/590498-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Wednesday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Heavily Using Malicious Traffic Direction System to Distribute Malware<a href="https://thehackernews.com/2022/01/russian-hackers-heavily-using-malicious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Potential connections between a subscription-based crimeware-as-a-service (Caas) solution and a cracked copy of Cobalt Strike have been established in what the researchers suspect is being offered as a tool for its customers to stage post-exploitation activities.  Prometheus , as the service is called, first came to light in August 2021 when cybersecurity company Group-IB disclosed details of malicious software distribution campaigns undertaken by cybercriminal groups to distribute Campo Loader, Hancitor, IcedID, QBot, Buer Loader, and SocGholish in Belgium and the U.S.  Costing $250 a month, it's marketed on Russian underground forums as a traffic direction system (TDS) to enable phishing redirection on a mass scale to rogue landing pages that are designed to deploy malware payloads on the targeted systems.   "Prometheus can be considered a full-bodied service/platform that allows threat groups to purvey their malware or phishing operations with ease," BlackBerry Resear
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Signs Memo on Cybersecurity<a href="https://www.lawfareblog.com/biden-signs-memo-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden signed a national security memorandum on Jan. 19 to bolster the cybersecurity of the National Security, Department of Defense and Intelligence Community systems.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DDoS IRC Bot distributed through Korean webHard platforms<a href="https://securityaffairs.co/wordpress/126927/malware/irc-bot-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted an IRC bot written in GoLang that is being used to carry out DDoS attacks targeting users in Korea. 
+
+
+
+Researchers from AhnLab's Security Emergency-response Center (ASEC) spotted an IRC bot written in GoLang that is being used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Destructive Wiper Targeting Ukraine Aimed at Eroding Trust, Experts Say<a href="https://threatpost.com/destructive-wiper-ukraine/177768/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Disruptive malware attacks on Ukrainian organizations (posing as ransomware attacks) are very likely part of Russia’s wider effort to undermine Ukraine’s sovereignty, according to analysts.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: SolarWinds fixes Serv-U bug exploited for Log4j attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-solarwinds-fixes-serv-u-bug-exploited-for-log4j-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds has patched a Serv-U vulnerability discovered by Microsoft that threat actors actively used to propagate Log4j attacks to internal devices on a network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using QR Codes to Steal Money and Credentials from Victims<a href="https://www.cyberscoop.com/mailicous-qr-codes-fbi-ic3-alert/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bureau’s Internet Crime Complaint Center (IC3), issued a general alert Tuesday about “malicious” QR codes that reroute unsuspecting consumers to the world of cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden moves to boost security of sensitive national security systems<a href="https://thehill.com//homenews/administration/590378-biden-moves-to-boost-security-of-sensitive-national-security-systems"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden signed a national security memorandum on Wednesday that sets new cybersecurity requirements for sensitive national security systems run by the Pentagon, intelligence community and other federal agencies.  
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Threat Protection — It All Starts with Visibility<a href="https://thehackernews.com/2022/01/cyber-threat-protection-it-all-starts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Just as animals use their senses to detect danger, cybersecurity depends on sensors to identify signals in the computing environment that may signal danger. The more highly tuned, diverse and coordinated the senses, the more likely one is to detect important signals that indicate danger.  This, however, can be a double-edged sword. Too many signals with too little advanced signal processing just leads to a lot of noise. The right, diverse set of signals with highly evolved signal processing leads to survival. It therefore makes sense that broad threat visibility across the IT environment is fundamental for detecting cyberattacks. Cybersecurity company Cynet puts this in perspective in a new eBook,  The Guide for Threat Visibility for Lean IT Security Teams – link to this .  The Ongoing Problem of Limited Threat Visibility  The complexity of today's IT environments has made it exceedingly difficult to protect. The defensive perimeter has expanded with an expanded remote workforce, incr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK NCSC shares guidance for organizations to secure their communications with customers<a href="https://securityaffairs.co/wordpress/126916/security/ncsc-guidance-communications-with-customers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK NCSC has published new guidance for organizations to secure their communications with customers via SMS or phone calls. 
+
+
+
+UK’s National Cyber Security Center (NCSC) has published new guidance for organizations for combatting telephone and SMS fraud....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Box 2FA Bypass Opens User Accounts to Attack<a href="https://threatpost.com/box-2fa-bypass-accounts-attack/177760/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security bug in the file-sharing cloud app could have allowed attackers using stolen credentials to skate by one-time SMS code verification requirements.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marketing giant RRD confirms data theft in Conti ransomware attack<a href="https://www.bleepingcomputer.com/news/security/marketing-giant-rrd-confirms-data-theft-in-conti-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RR Donnelly has confirmed that threat actors stole data in a December cyberattack, confirmed by BleepingComputer to be a Conti ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NATO, Ukraine Sign Deal to 'Deepen' Cyber Cooperation<a href="https://www.securityweek.com/nato-ukraine-sign-deal-deepen-cyber-cooperation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NATO on Monday inked a deal to bolster its cyber support for Ukraine, after a sweeping hacking attack against Kyiv heightened tensions amid fears that Russia could be plotting an invasion.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN8 Hackers Spotted Using New 'White Rabbit' Ransomware in Recent Attacks<a href="https://thehackernews.com/2022/01/fin8-hackers-spotted-using-new-white.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financially motivated  FIN8 actor , in all likelihood, has resurfaced with a never-before-seen ransomware strain called " White Rabbit " that was recently deployed against a local bank in the U.S. in December 2021.  That's according to new findings published by Trend Micro, calling out the malware's overlaps with Egregor, which was taken down by Ukrainian law enforcement authorities in February 2021.  "One of the most notable aspects of White Rabbit's attack is how its payload binary requires a specific command-line password to decrypt its internal configuration and proceed with its ransomware routine," the researchers  noted . "This method of hiding malicious activity is a trick that the ransomware family Egregor uses to hide malware techniques from analysis."   Egregor, which commenced operations in September 2020 until its operations took a huge hit, is widely believed to be a  reincarnation of Maze , which shut down its criminal enterp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of potential critical threats following attacks against Ukraine<a href="https://securityaffairs.co/wordpress/126911/security/cisa-ukrained-risks-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned organizations about “potential critical threats” following the recent cyberattacks that hit Ukraine. 
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) published...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA urges US orgs to prepare for data-wiping cyberattacks<a href="https://www.bleepingcomputer.com/news/security/cisa-urges-us-orgs-to-prepare-for-data-wiping-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) urges U.S. organizations to strengthen their cybersecurity defenses against data-wiping attacks recently seen targeting Ukrainian government agencies and businesses.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom vulnerabilities impact clients, MMR servers<a href="https://www.zdnet.com/article/zoom-vulnerabilities-impact-clients-mmr-servers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Project Zero found two flaws, a buffer overflow issue that impacted both Zoom clients and Zoom Multimedia Routers (MMRs), and the other was an information leak security flaw central to MMR servers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Box flaw allowed to bypass MFA and takeover accounts<a href="https://securityaffairs.co/wordpress/126901/hacking/box-2fa-bypass-falw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the implementation of multi-factor authentication (MFA) for Box allowed threat actors to take over accounts. 
+
+
+
+A vulnerability in the implementation of multi-factor authentication (MFA) for Box allowed attackers to take over accounts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK’s Cyber Security Center publishes new guidance to fight smishing<a href="https://www.bleepingcomputer.com/news/security/uk-s-cyber-security-center-publishes-new-guidance-to-fight-smishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK's National Cyber Security Center (NCSC) has published new guidance for organizations to follow when communicating with customers via SMS or phone calls.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1Password Raises Mammoth $620 Million Funding Round<a href="https://www.securityweek.com/1password-raises-mammoth-620-million-funding-round?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new financing round, which was led by ICONIQ Growth, raised the valuation of 1Password to about $6.8 billion, setting a new record for venture-backed Canadian companies.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is White Rabbit ransomware linked to FIN8 financially motivated group?<a href="https://securityaffairs.co/wordpress/126892/malware/white-rabbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware gang named White Rabbit appeared in the threat landscape, experts believe it is linked to the FIN8 hacking group. 
+
+
+
+A new ransomware gang called 'White Rabbit' launched its operations and according to the experts, it is likely linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BHUNT malware targets your crypto wallets and passwords<a href="https://www.bleepingcomputer.com/news/security/new-bhunt-malware-targets-your-crypto-wallets-and-passwords/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel modular crypto-wallet stealing malware dubbed 'BHUNT' has been spotted targeting cryptocurrency wallet contents, passwords, and security phrases.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nigerian police, Interpol arrest members of SilverTerrier BEC gang<a href="https://therecord.media/nigerian-police-arrest-members-of-silverterrier-bec-gang/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol said that, based on a forensic analysis of the data extracted from phones and computers seized during house searches, the 11 suspects were linked to attacks on more than 50,000 targets.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol arrests 11 BEC gang members linked to 50,000 targets<a href="https://www.bleepingcomputer.com/news/security/interpol-arrests-11-bec-gang-members-linked-to-50-000-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol, in coordination with the Nigerian Police Force, have arrested eleven individuals who are suspects of participating in an international BEC (business email compromise) ring.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Attacks Impersonates Department of Labor to Steal Vendors' Account Credentials<a href="https://www.techrepublic.com/article/phishing-attack-spoofs-us-department-of-labor-to-steal-account-credentials/#ftag=RSS56d97e7?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Inky detailed a series of phishing attacks in which the sender address on most of the emails appeared to come from no-reply@dol.gov, the real domain for the Department of Labor.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Office 365 phishing attack impersonates the US Department of Labor<a href="https://www.bleepingcomputer.com/news/security/office-365-phishing-attack-impersonates-the-us-department-of-labor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign impersonating the United States Department of Labor asks recipients to submit bids to steal Office 365 credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security vulnerabilities in Umbraco CMS could lead to account takeover<a href="https://portswigger.net/daily-swig/security-vulnerabilities-in-umbraco-cms-could-lead-to-account-takeover?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from AppCheck announced they had found two separate vulnerabilities, an application URL overwrite (CVE-2022-22690) and a persistent password reset bug (CVE-2022-22691).
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal Hacking: Finding stolen credentials hosted on VirusTotal<a href="https://www.helpnetsecurity.com/2022/01/18/virustotal-stolen-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VirusTotal, the popular online service for analyzing suspicious files, URLs and IP addresses, can be used to collect credentials stolen by malware, researchers at SafeBreach have found.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accellion Reaches $8.1 Million Settlement Over FTA Data Breach<a href="https://www.securityweek.com/accellion-reaches-81-million-settlement-over-fta-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack was attributed to the financially-motivated advanced persistent threat (APT) actor FIN11. Operating out of Russia, FIN11 is believed to be a TA505 spin-off.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘White Rabbit’ Ransomware May Be FIN8’s Latest Tool<a href="https://threatpost.com/white-rabbit-ransomware-fin8/177703/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s a double-extortion play that uses the command-line password ‘KissMe’ to hide its nasty acts and adorns its ransom note with cutesy ASCII bunny art.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS IRC Bot Malware Spreading Through Korean WebHard Platforms<a href="https://thehackernews.com/2022/01/ddos-irc-bot-malware-spreading-through.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An IRC  (Internet Relay Chat) bot strain programmed in GoLang is being used to launch distributed denial-of-service (DDoS) attacks targeting users in Korea.  "The malware is being distributed under the guise of adult games," researchers from AhnLab's Security Emergency-response Center (ASEC)  said  in a new report published on Wednesday. "Additionally, the DDoS malware was installed via downloader and  UDP RAT  was used."   The attack works by uploading the malware-laced games to webhards, which refers to a web hard drive or a remote file hosting service, in the form of compressed ZIP archives that, when opened, includes an executable ("Game_Open.exe") that's orchestrated to run a malware payload aside from launching the actual game.   This payload, a GoLang-based downloader, establishes connections with a remote command-and-control (C&C) server to retrieve additional malware, including an IRC bot that can perform DDoS attacks.   "It is a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical ManageEngine Desktop Server Bug Opens Orgs to Malware<a href="https://threatpost.com/critical-manageengine-desktop-server-bug-malware/177705/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoho’s comprehensive endpoint-management platform suffers from an authentication-bypass bug (CVE-2021-44757) that could lead to remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine: Recent Cyber Attacks Part of Wider Plot to Sabotage Critical Infrastructure<a href="https://thehackernews.com/2022/01/ukraine-recent-cyber-attacks-part-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The coordinated cyberattacks targeting  Ukrainian government websites  and the deployment of a data-wiper malware called  WhisperGate  on select government systems are part of a broader wave of malicious activities aimed at  sabotaging critical infrastructure  in the country.  The Secret Service of Ukraine on Monday confirmed that the two incidents are related, adding the breaches also exploited the recently disclosed  Log4j vulnerabilities  to gain access to some of the compromised systems.   "The attack used vulnerabilities in the site's content management systems (October CMS) and Log4j, as well as compromised accounts of employees of the development company," the SSU  said , corroborating prior disclosure from the  Ukraine CERT team .  The disclosure comes days after Microsoft warned of a malware operation aimed at government, non-profit, and information technology entities in Ukraine, attributing the attacks to a threat cluster codenamed "DEV-0586."  "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 18, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
