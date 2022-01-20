@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1Password Raises Mammoth $620 Million Funding Round<a href="https://www.securityweek.com/1password-raises-mammoth-620-million-funding-round?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new financing round, which was led by ICONIQ Growth, raised the valuation of 1Password to about $6.8 billion, setting a new record for venture-backed Canadian companies.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

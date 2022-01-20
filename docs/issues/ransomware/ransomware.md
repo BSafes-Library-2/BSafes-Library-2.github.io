@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is White Rabbit ransomware linked to FIN8 financially motivated group?<a href="https://securityaffairs.co/wordpress/126892/malware/white-rabbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware gang named White Rabbit appeared in the threat landscape, experts believe it is linked to the FIN8 hacking group. 
+
+
+
+A new ransomware gang called 'White Rabbit' launched its operations and according to the experts, it is likely linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘White Rabbit’ Ransomware May Be FIN8’s Latest Tool<a href="https://threatpost.com/white-rabbit-ransomware-fin8/177703/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s a double-extortion play that uses the command-line password ‘KissMe’ to hide its nasty acts and adorns its ransom note with cutesy ASCII bunny art.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2022 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

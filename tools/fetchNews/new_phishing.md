@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Attacks Impersonates Department of Labor to Steal Vendors' Account Credentials<a href="https://www.techrepublic.com/article/phishing-attack-spoofs-us-department-of-labor-to-steal-account-credentials/#ftag=RSS56d97e7?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Inky detailed a series of phishing attacks in which the sender address on most of the emails appeared to come from no-reply@dol.gov, the real domain for the Department of Labor.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Office 365 phishing attack impersonates the US Department of Labor<a href="https://www.bleepingcomputer.com/news/security/office-365-phishing-attack-impersonates-the-us-department-of-labor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign impersonating the United States Department of Labor asks recipients to submit bids to steal Office 365 credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

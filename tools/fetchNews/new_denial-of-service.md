@@ -8,6 +8,38 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DDoS IRC Bot distributed through Korean webHard platforms<a href="https://securityaffairs.co/wordpress/126927/malware/irc-bot-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted an&nbsp;IRC&nbsp;bot written in GoLang that is being used to carry out DDoS attacks targeting users in Korea. 
+
+
+
+Researchers from AhnLab's Security Emergency-response Center (ASEC) spotted an&nbsp;IRC&nbsp;bot written in GoLang that is being used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS IRC Bot Malware Spreading Through Korean WebHard Platforms<a href="https://thehackernews.com/2022/01/ddos-irc-bot-malware-spreading-through.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An IRC &nbsp;(Internet Relay Chat) bot strain programmed in GoLang is being used to launch distributed denial-of-service (DDoS) attacks targeting users in Korea.  "The malware is being distributed under the guise of adult games," researchers from AhnLab's Security Emergency-response Center (ASEC)&nbsp; said &nbsp;in a new report published on Wednesday. "Additionally, the DDoS malware was installed via downloader and&nbsp; UDP RAT &nbsp;was used."   The attack works by uploading the malware-laced games to webhards, which refers to a web hard drive or a remote file hosting service, in the form of compressed ZIP archives that, when opened, includes an executable ("Game_Open.exe") that's orchestrated to run a malware payload aside from launching the actual game.   This payload, a GoLang-based downloader, establishes connections with a remote command-and-control (C&amp;C) server to retrieve additional malware, including an IRC bot that can perform DDoS attacks.   "It is a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

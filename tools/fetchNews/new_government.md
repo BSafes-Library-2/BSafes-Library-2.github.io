@@ -8,6 +8,126 @@ nav_order: 900075
 
 ## Government
 ---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Presented by Connected Commerce Council — Biden sets cyber standards<a href="https://thehill.com//policy/technology/overnights/590498-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Wednesday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Signs Memo on Cybersecurity<a href="https://www.lawfareblog.com/biden-signs-memo-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden signed a national security memorandum on Jan. 19 to bolster the cybersecurity of the National Security, Department of Defense and Intelligence Community systems.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden moves to boost security of sensitive national security systems<a href="https://thehill.com//homenews/administration/590378-biden-moves-to-boost-security-of-sensitive-national-security-systems"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden signed a national security memorandum on Wednesday that sets new cybersecurity requirements for sensitive national security systems run by the Pentagon, intelligence community and other federal agencies. &nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK NCSC shares guidance for organizations to secure their communications with customers<a href="https://securityaffairs.co/wordpress/126916/security/ncsc-guidance-communications-with-customers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK NCSC has published new guidance for organizations to secure their communications with customers via SMS or phone calls. 
+
+
+
+UK’s National Cyber Security Center (NCSC) has published new guidance for organizations for combatting telephone and SMS fraud....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NATO, Ukraine Sign Deal to 'Deepen' Cyber Cooperation<a href="https://www.securityweek.com/nato-ukraine-sign-deal-deepen-cyber-cooperation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NATO on Monday inked a deal to bolster its cyber support for Ukraine, after a sweeping hacking attack against Kyiv heightened tensions amid fears that Russia could be plotting an invasion.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of potential critical threats following attacks against Ukraine<a href="https://securityaffairs.co/wordpress/126911/security/cisa-ukrained-risks-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned organizations about “potential critical threats” following the recent cyberattacks that hit Ukraine. 
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) published...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA urges US orgs to prepare for data-wiping cyberattacks<a href="https://www.bleepingcomputer.com/news/security/cisa-urges-us-orgs-to-prepare-for-data-wiping-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) urges U.S. organizations to strengthen their cybersecurity defenses against data-wiping attacks recently seen targeting Ukrainian government agencies and businesses.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK’s Cyber Security Center publishes new guidance to fight smishing<a href="https://www.bleepingcomputer.com/news/security/uk-s-cyber-security-center-publishes-new-guidance-to-fight-smishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK's National Cyber Security Center (NCSC) has published new guidance for organizations to follow when communicating with customers via SMS or phone calls.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

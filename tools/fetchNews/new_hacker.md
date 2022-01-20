@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Heavily Using Malicious Traffic Direction System to Distribute Malware<a href="https://thehackernews.com/2022/01/russian-hackers-heavily-using-malicious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Potential connections between a subscription-based crimeware-as-a-service (Caas) solution and a cracked copy of Cobalt Strike have been established in what the researchers suspect is being offered as a tool for its customers to stage post-exploitation activities.  Prometheus , as the service is called, first came to light in August 2021 when cybersecurity company Group-IB disclosed details of malicious software distribution campaigns undertaken by cybercriminal groups to distribute Campo Loader, Hancitor, IcedID, QBot, Buer Loader, and SocGholish in Belgium and the U.S.  Costing $250 a month, it's marketed on Russian underground forums as a traffic direction system (TDS) to enable phishing redirection on a mass scale to rogue landing pages that are designed to deploy malware payloads on the targeted systems.   "Prometheus can be considered a full-bodied service/platform that allows threat groups to purvey their malware or phishing operations with ease," BlackBerry Resear
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN8 Hackers Spotted Using New 'White Rabbit' Ransomware in Recent Attacks<a href="https://thehackernews.com/2022/01/fin8-hackers-spotted-using-new-white.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financially motivated&nbsp; FIN8 actor , in all likelihood, has resurfaced with a never-before-seen ransomware strain called " White Rabbit " that was recently deployed against a local bank in the U.S. in December 2021.  That's according to new findings published by Trend Micro, calling out the malware's overlaps with Egregor, which was taken down by Ukrainian law enforcement authorities in February 2021.  "One of the most notable aspects of White Rabbit's attack is how its payload binary requires a specific command-line password to decrypt its internal configuration and proceed with its ransomware routine," the researchers&nbsp; noted . "This method of hiding malicious activity is a trick that the ransomware family Egregor uses to hide malware techniques from analysis."   Egregor, which commenced operations in September 2020 until its operations took a huge hit, is widely believed to be a&nbsp; reincarnation of Maze , which shut down its criminal enterp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

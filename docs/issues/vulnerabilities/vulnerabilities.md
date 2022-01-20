@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: SolarWinds fixes Serv-U bug exploited for Log4j attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-solarwinds-fixes-serv-u-bug-exploited-for-log4j-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds has patched a Serv-U vulnerability discovered by Microsoft that threat actors actively used to propagate Log4j attacks to internal devices on a network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Box 2FA Bypass Opens User Accounts to Attack<a href="https://threatpost.com/box-2fa-bypass-accounts-attack/177760/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security bug in the file-sharing cloud app could have allowed attackers using stolen credentials to skate by one-time SMS code verification requirements.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom vulnerabilities impact clients, MMR servers<a href="https://www.zdnet.com/article/zoom-vulnerabilities-impact-clients-mmr-servers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Project Zero found two flaws, a buffer overflow issue that impacted both Zoom clients and Zoom Multimedia Routers (MMRs), and the other was an information leak security flaw central to MMR servers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Box flaw allowed to bypass MFA and takeover accounts<a href="https://securityaffairs.co/wordpress/126901/hacking/box-2fa-bypass-falw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the implementation of multi-factor authentication (MFA) for Box allowed threat actors to take over accounts. 
+
+
+
+A vulnerability in the implementation of multi-factor authentication (MFA) for Box allowed attackers to take over accounts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security vulnerabilities in Umbraco CMS could lead to account takeover<a href="https://portswigger.net/daily-swig/security-vulnerabilities-in-umbraco-cms-could-lead-to-account-takeover?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from AppCheck announced they had found two separate vulnerabilities, an application URL overwrite (CVE-2022-22690) and a persistent password reset bug (CVE-2022-22691).
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal Hacking: Finding stolen credentials hosted on VirusTotal<a href="https://www.helpnetsecurity.com/2022/01/18/virustotal-stolen-credentials/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VirusTotal, the popular online service for analyzing suspicious files, URLs and IP addresses, can be used to collect credentials stolen by malware, researchers at SafeBreach have found.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical ManageEngine Desktop Server Bug Opens Orgs to Malware<a href="https://threatpost.com/critical-manageengine-desktop-server-bug-malware/177705/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoho’s comprehensive endpoint-management platform suffers from an authentication-bypass bug (CVE-2021-44757) that could lead to remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

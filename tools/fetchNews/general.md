@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Will 2022 Be the Year of the Software Bill of Materials?<a href="https://threatpost.com/2022-software-bill-of-materials/177736/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Praise be &amp; pass the recipe for the software soup: There’s too much  scrambling to untangle vulnerabilities and dependencies, say a security experts roundtable.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Home for the Holidays? The Global Implications of a State-Level Cyberattack<a href="https://www.lawfareblog.com/home-holidays-global-implications-state-level-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MDH hack exposes how vulnerabilities in public data supply chains have the potential to impact the information available to decision-makers in times of national and international crises and normal operations.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Log4j Vulnerability Puts Pressure on the Security World<a href="https://threatpost.com/log4j-vulnerability-pressures-security-world/177721/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s time to sound the alarm for Log4Shell. Saryu Nayyar, CEO at Gurucul, discusses what actions you should be taking.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

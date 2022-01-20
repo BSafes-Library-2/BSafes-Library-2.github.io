@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Red Cross cyberattack exposes data of 515,000 people seeking missing family<a href="https://www.bleepingcomputer.com/news/security/red-cross-cyberattack-exposes-data-of-515-000-people-seeking-missing-family/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack on a Red Cross contactor has led to the theft of personal data for more than 515,000 people in 'Restoring Family Links,' a program that helps reunite families separated by war, disaster, and migration.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand: Kings Plant Barn the latest retailer hit by FlexBooker click-and-collect data breach<a href="https://www.nzherald.co.nz/business/kings-plant-barn-the-latest-retailer-hit-by-click-and-collect-data-breach/HJ45OFWAJ7NGGICU4THWBEZYOI/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kings Plant Barn has contacted customers about a security breach to FlexBooker, the internet-based system it uses to organize bookings. Names, email addresses, and collection times were exposed.
+</details>
+<div style="text-align: right" markdown="1">
+NZ Herald
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marketing giant RRD confirms data theft in Conti ransomware attack<a href="https://www.bleepingcomputer.com/news/security/marketing-giant-rrd-confirms-data-theft-in-conti-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RR Donnelly has confirmed that threat actors stole data in a December cyberattack, confirmed by BleepingComputer to be a Conti ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accellion Reaches $8.1 Million Settlement Over FTA Data Breach<a href="https://www.securityweek.com/accellion-reaches-81-million-settlement-over-fta-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack was attributed to the financially-motivated advanced persistent threat (APT) actor FIN11. Operating out of Russia, FIN11 is believed to be a TA505 spin-off.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
