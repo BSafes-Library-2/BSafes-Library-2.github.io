@@ -34,6 +34,58 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Spam Abuses Unconventional IP Address Formats to Spread Malware<a href="https://www.trendmicro.com/en_us/research/22/a/emotet-spam-abuses-unconventional-ip-address-formats-spread-malware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Emotet spam campaigns were found using hexadecimal and octal representations of IP addresses, likely to evade detection via pattern matching. Both routines try to trick users into enabling macros.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware gang started leaking files stolen from Bank Indonesia<a href="https://securityaffairs.co/wordpress/126988/cyber-crime/bank-indonesia-conti-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The central bank of the Republic of Indonesia, Bank Indonesia, confirmed the ransomware attack that hit it in December.
+
+
+
+Bank Indonesia confirmed that it was the victim of a ransomware attack that took place last month. The Conti ransomware gang claimed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Issues Patch for Critical RCE Vulnerability in RCM for StarOS Software<a href="https://thehackernews.com/2022/01/cisco-issues-patch-for-critical-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Systems has rolled out fixes for a critical security flaw affecting Redundancy Configuration Manager (RCM) for Cisco StarOS Software that could be weaponized by an unauthenticated, remote attacker to execute arbitrary code and take over vulnerable machines.  Tracked as  CVE-2022-20649  (CVSS score: 9.0), the vulnerability stems from the fact that the debug mode has been incorrectly enabled for specific services.  "An attacker could exploit this vulnerability by connecting to the device and navigating to the service with debug mode enabled," Cisco said in an advisory. "A successful exploit could allow the attacker to execute arbitrary commands as the root user."  The network equipment maker, however, noted that the adversary would need to perform detailed reconnaissance to allow for unauthenticated access to vulnerable devices.   Stating that the vulnerability was discovered during internal security testing, Cisco added it found no evidence of active exploitat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 20, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
