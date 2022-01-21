@@ -19,6 +19,18 @@ Ransomware threat actors continue to terrorize organizations across the world an
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indicators of Compromise Associated with Diavol Ransomware <a href="https://publications.bsafes.com/docs/fbi/flash-2022-0119-indicators-of-compromise-associated-with-diavol-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI first learned of Diavol ransomware in October 2021. Diavol is associated with developers from the Trickbot Group, who are responsible for the Trickbot Banking Trojan. Diavol encrypts files solely using an RSA encryption key, and its code is capable of prioritizing file types to encrypt based on a pre-configured list of extensions defined by the attacker. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 18, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
