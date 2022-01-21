@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProtonMail introduces a new email tracker blocking system<a href="https://www.bleepingcomputer.com/news/security/protonmail-introduces-a-new-email-tracker-blocking-system/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ProtonMail has introduced an enhanced email tracking protection system for its web-based email solution that prevents senders from being tracked by recipients who open their messages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

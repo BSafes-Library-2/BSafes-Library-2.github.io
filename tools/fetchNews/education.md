@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Threat Protection — It All Starts with Visibility<a href="https://thehackernews.com/2022/01/cyber-threat-protection-it-all-starts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Just as animals use their senses to detect danger, cybersecurity depends on sensors to identify signals in the computing environment that may signal danger. The more highly tuned, diverse and coordinated the senses, the more likely one is to detect important signals that indicate danger.  This, however, can be a double-edged sword. Too many signals with too little advanced signal processing just leads to a lot of noise. The right, diverse set of signals with highly evolved signal processing leads to survival. It therefore makes sense that broad threat visibility across the IT environment is fundamental for detecting cyberattacks. Cybersecurity company Cynet puts this in perspective in a new eBook,&nbsp; The Guide for Threat Visibility for Lean IT Security Teams – link to this .  The Ongoing Problem of Limited Threat Visibility  The complexity of today's IT environments has made it exceedingly difficult to protect. The defensive perimeter has expanded with an expanded remote workforce, incr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -30,6 +30,7 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://securityaffairs.co/wordpress/126979/cyber-crime/fbi-links-diavol-ransomware-trickbot.html
 
 Law
 

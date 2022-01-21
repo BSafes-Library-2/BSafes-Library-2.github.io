@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Exploit Corporate Infrastructure for Credentials on ICS Networks<a href="https://cyware.com/news/attackers-exploit-corporate-infrastructure-for-credentials-on-ics-networks-e611cb68"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the ever-evolving technological landscape has connected the IT and OT sides of the business, it has also left ICS networks exposed to threats impacting IT systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoNot Hacking Team Targeting Government and Military Entities in South Asia<a href="https://thehackernews.com/2022/01/donot-hacking-team-targeting-government.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor with potential links to an Indian cybersecurity company has been nothing if remarkably persistent in its attacks against military organizations based in South Asia, including Bangladesh, Nepal, and Sri Lanka, since at least September 2020 by deploying different variants of its bespoke malware framework.  Slovak cybersecurity firm ESET attributed the highly targeted attack to a hacking group known as&nbsp; Donot Team . "Donot Team has been consistently targeting the same entities with waves of spear-phishing emails with malicious attachments every two to four months," researchers Facundo Muñoz and Matías Porolli&nbsp; said .   Operating since at least 2016, Donot Team (also known as APT-C-35 and SectorE02) has been linked to a string of intrusions primarily targeting embassies, governments, and military entities in Bangladesh, Sri Lanka, Pakistan, and Nepal with Windows and Android malware.  In October 2021, Amnesty International&nbsp; unearthed evidence &nbsp;tying the group'
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Hackers Exploiting New SolarWinds Serv-U Bug Related to Log4j Attacks<a href="https://thehackernews.com/2022/01/microsoft-hackers-exploiting-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday disclosed details of a new security vulnerability in SolarWinds Serv-U software that it said was being weaponized by threat actors to propagate attacks leveraging the Log4j flaws to compromise targets.  Tracked as&nbsp; CVE-2021-35247 &nbsp;(CVSS score: 5.3), the issue is an "input validation vulnerability that could allow attackers to build a query given some input and send that query over the network without sanitation," Microsoft Threat Intelligence Center (MSTIC)&nbsp; said .  The flaw, which was discovered by security researcher Jonathan Bar Or, affects Serv-U versions 15.2.5 and prior, and has been addressed in Serv-U version 15.3.   "The Serv-U web login screen to LDAP authentication was allowing characters that were not sufficiently sanitized," SolarWinds&nbsp; said &nbsp;in an advisory, adding it "updated the input mechanism to perform additional validation and sanitization."  The IT management software maker also pointed out that "no downstre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

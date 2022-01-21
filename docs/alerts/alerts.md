@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20, 2022 - WATER ISAC 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Roundup – BlackCat, White Rabbit, Avaddon, and Diavol <a href="https://www.waterisac.org/portal/ransomware-roundup-%E2%80%93-blackcat-white-rabbit-avaddon-and-diavol"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware threat actors continue to terrorize organizations across the world and when one group is shutdown another seemingly appears. It’s no surprise that last year saw a lot of ransomware activity.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 18, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

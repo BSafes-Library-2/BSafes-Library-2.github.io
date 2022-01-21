@@ -11,6 +11,20 @@ nav_order: 900015
 January 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ukraine: Recent Cyber Attacks Part of Wider Plot to Sabotage Critical Infrastructure<a href="https://thehackernews.com/2022/01/ukraine-recent-cyber-attacks-part-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The coordinated cyberattacks targeting&nbsp; Ukrainian government websites &nbsp;and the deployment of a data-wiper malware called&nbsp; WhisperGate &nbsp;on select government systems are part of a broader wave of malicious activities aimed at&nbsp; sabotaging critical infrastructure &nbsp;in the country.  The Secret Service of Ukraine on Monday confirmed that the two incidents are related, adding the breaches also exploited the recently disclosed&nbsp; Log4j vulnerabilities &nbsp;to gain access to some of the compromised systems.   "The attack used vulnerabilities in the site's content management systems (October CMS) and Log4j, as well as compromised accounts of employees of the development company," the SSU&nbsp; said , corroborating prior disclosure from the&nbsp; Ukraine CERT team .  The disclosure comes days after Microsoft warned of a malware operation aimed at government, non-profit, and information technology entities in Ukraine, attributing the attacks to a threat cluster codenamed "DEV-0586."  "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Destructive MBR Wiper Targets Ukrainian Organizations<a href="https://cyware.com/news/destructive-mbr-wiper-targets-ukrainian-organizations-fa8c901e"> Full Text</a>
 </p>
 <details>

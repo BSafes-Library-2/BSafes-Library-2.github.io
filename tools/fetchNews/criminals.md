@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using QR Codes to Steal Money and Credentials from Victims<a href="https://www.cyberscoop.com/mailicous-qr-codes-fbi-ic3-alert/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bureau’s Internet Crime Complaint Center (IC3), issued a general alert Tuesday about “malicious” QR codes that reroute unsuspecting consumers to the world of cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nigerian police, Interpol arrest members of SilverTerrier BEC gang<a href="https://therecord.media/nigerian-police-arrest-members-of-silverterrier-bec-gang/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol said that, based on a forensic analysis of the data extracted from phones and computers seized during house searches, the 11 suspects were linked to attacks on more than 50,000 targets.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol arrests 11 BEC gang members linked to 50,000 targets<a href="https://www.bleepingcomputer.com/news/security/interpol-arrests-11-bec-gang-members-linked-to-50-000-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol, in coordination with the Nigerian Police Force, have arrested eleven individuals who are suspects of participating in an international BEC (business email compromise) ring.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

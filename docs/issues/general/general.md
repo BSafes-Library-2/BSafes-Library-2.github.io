@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Targeting Linux Systems Grows by 35% in 2021<a href="https://cyware.com/news/malware-targeting-linux-systems-grows-by-35-in-2021-4f323f3f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report shared by Crowdstrike recently highlights the rising threats on Linux-based operating systems. Researchers noted that there has been a 35% rise in Linux-based malware in 2021 as compared to 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New MoonBounce UEFI malware used by APT41 in targeted attacks<a href="https://www.bleepingcomputer.com/news/security/new-moonbounce-uefi-malware-used-by-apt41-in-targeted-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have discovered and linked MoonBounce, "the most advanced" UEFI firmware implant found so far in the wild,&nbsp;to&nbsp;the Chinese-speaking&nbsp;APT41 hacker group (also known as Winnti).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
