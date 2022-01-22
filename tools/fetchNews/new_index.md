@@ -34,6 +34,376 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy firmware bootkit leveraged by APT in targeted attacks<a href="https://www.helpnetsecurity.com/2022/01/21/firmware-bootkit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky researchers have uncovered the third known case of a firmware bootkit in the wild. Dubbed MoonBounce, this malicious implant is hidden within Unified Extensible Firmware Interface (UEFI) firmware.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - January 21st 2022 - Arrests, Wipers, and More<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-21st-2022-arrests-wipers-and-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has been quite a busy week with ransomware, with law enforcement making arrests, data-wiping attacks, and the return of the Qlocker ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Spotted Using New UEFI Firmware Implant in Targeted Attacks<a href="https://thehackernews.com/2022/01/chinese-hackers-spotted-using-new-uefi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented firmware implant deployed to maintain stealthy persistence as part of a targeted espionage campaign has been linked to the Chinese-speaking Winnti advanced persistent threat group ( APT41 ).  Kaspersky, which codenamed the rootkit  MoonBounce ,  characterized  the malware as the "most advanced  UEFI  firmware implant discovered in the wild to date," adding "the purpose of the implant is to facilitate the deployment of user-mode malware that stages execution of further payloads downloaded from the internet."  Firmware-based rootkits, once a rarity in the threat landscape, are fast becoming lucrative tools among sophisticated actors to help achieve long standing foothold in a manner that's not only hard to detect, but also difficult to remove.   The first firmware-level rootkit — dubbed  LoJax  — was discovered in the wild in 2018. Since then, three different instances of UEFI malware have been unearthed so far, including  MosaicRegresso
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Contextualizing Last Week’s Malicious Cyber Activities Against Ukrainian Government Websites and Systems<a href="https://www.lawfareblog.com/contextualizing-last-weeks-malicious-cyber-activities-against-ukrainian-government-websites-and"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The events reflect the complexity of how cyber operations can function diversely across and even within specific conflicts.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A bug in McAfee Agent allows running code with Windows SYSTEM privileges<a href="https://securityaffairs.co/wordpress/127044/security/mcafee-agent-code-execution-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McAfee addressed a security flaw in its McAfee Agent software for Windows that allows running arbitrary code with SYSTEM privileges. 
+
+
+
+McAfee (now Trellix) has addressed a high-severity vulnerability, tracked as CVE-2022-0166, that resides in McAfee...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Internet’s Most Tempting Targets<a href="https://threatpost.com/internet-most-tempting-targets/177869/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What attracts the attackers? David “moose” Wolpoff, CTO at Randori, discusses how to evaluate your infrastructure for juicy targets.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing impersonates shipping giant Maersk to push STRRAT malware<a href="https://www.bleepingcomputer.com/news/security/phishing-impersonates-shipping-giant-maersk-to-push-strrat-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign using fake shipping delivery lures installs the STRRAT remote access trojan on unsuspecting victim's devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exposed records exceeded 40 billion in 2021<a href="https://www.helpnetsecurity.com/2022/01/21/exposed-records-2021/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to research by Tenable, at least 40 billion records were exposed in 2021, calculated by the analysis of 1,825 breach incidents publicly disclosed between November 2020 and October 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Sanctions 4 Ukrainians for Working with Russia to Destabilize Ukraine<a href="https://thehackernews.com/2022/01/us-sanctions-4-ukrainians-for-working.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department on Thursday announced sanctions against four current and former Ukrainian government officials for engaging in "Russian government-directed influence activities" in the country, including gathering sensitive information about its critical infrastructure.  The agency said the four individuals were involved in different roles as part of a concerted influence campaign to destabilize the nation, while also accusing Russia's national security authority, the Federal Security Service (FSB), of recruiting Ukrainians in key positions to create instability.   Two of the officials, Taras Kozak and Oleh Voloshyn, are alleged to have worked to amplify false narratives and undermine confidence in the Ukrainian government, while Vladimir Sivkovich, former Deputy Secretary of the Ukrainian National Security and Defense Council, attempted to build support for Ukraine to officially cede Crimea to Russia.  "Russia has directed its intelligence services to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of anomalous spyware campaigns targeting industrial firms<a href="https://securityaffairs.co/wordpress/127026/cyber-crime/spyware-campaigns-targets-industrial-firms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted several spyware campaigns targeting industrial enterprises to steal credentials and conduct financial fraud. 
+
+
+
+Researchers from Kaspersky Lab have uncovered multiple spyware campaigns that target industrial firms to steal email...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spyware Blitzes Compromise, Cannibalize ICS Networks<a href="https://threatpost.com/spyware-blitzes-compromise-cannibalize-ics-networks/177851/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The brief spearphishing campaigns spread malware and use compromised networks to steal credentials that can be sold or used to commit financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disables Excel 4.0 macros by default to block malware<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-excel-40-macros-by-default-to-block-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Microsoft has announced that Excel 4.0 (XLM) macros will now be disabled by default to protect customers from malicious documents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueNoroff APT Group Eyeing Crypto Startups<a href="https://cyware.com/news/bluenoroff-apt-group-eyeing-crypto-startups-35c36601"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korea-linked APT group has been spotted targeting cryptocurrency startups worldwide with fake MetaMask browser extensions to steal cryptocurrency from users' wallets. The attackers work around a complex infrastructure, including various exploits and malware implants to target victims. Organ ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Project Zero discloses details of two Zoom zero-day flaws<a href="https://securityaffairs.co/wordpress/127016/hacking/zoom-zero-day-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero experts disclosed details of two zero-day flaws impacting Zoom clients and Multimedia Router (MMR) servers. 
+
+
+
+Google Project Zero researchers Natalie Silvanovich disclosed details of two zero-day vulnerabilities in Zoom clients...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 90 WordPress themes, plugins backdoored in supply chain attack<a href="https://www.bleepingcomputer.com/news/security/over-90-wordpress-themes-plugins-backdoored-in-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive supply chain attack compromised 93 WordPress themes and plugins to contain a backdoor, giving threat-actors full access to websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Stole Crypto Worth $400 Million in 2021<a href="https://cyware.com/news/north-korean-hackers-stole-crypto-worth-400-million-in-2021-2a6bc28c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report suggests that North Korean hackers mooched off at least&nbsp;$400 million in cryptocurrencies through cyberattacks in 2021, which is a whopping 40% increase as compared to the last year. Hackers use a systematic money laundering process that involves multiple software tools to collect  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MoonBounce UEFI implant spotted in a targeted APT41 attack<a href="https://securityaffairs.co/wordpress/126998/apt/moonbounce-uefi-implant-apt41.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have spotted China-linked APT41 cyberespionage group using a UEFI implant, dubbed MoonBounce, to maintain persistence.
+
+
+
+Kaspersky researchers spotted the China-linked APT41 cyberespionage group using a UEFI implant, dubbed  MoonBounce,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee Agent bug lets hackers run code with Windows SYSTEM privileges<a href="https://www.bleepingcomputer.com/news/security/mcafee-agent-bug-lets-hackers-run-code-with-windows-system-privileges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McAfee Enterprise (now rebranded as Trellix) has patched a security vulnerability discovered in the company's McAfee Agent software for Windows enabling attackers to escalate privileges and execute arbitrary code with SYSTEM privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software Supply Chain Security Specialist Codenotary Raises $12.5 Million in Series B Round<a href="https://finance.yahoo.com/news/software-supply-chain-security-specialist-170000580.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Codenotary, the immutability specialist that can instantly identify untrusted components in software, announced that it has raised $12.5 million in series B funding by new and existing investors.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molerats APT Targets Users in the Middle East in New Attacks Using .NET Backdoor<a href="https://www.zscaler.com/blogs/security-research/new-espionage-attack-molerats-apt-targeting-users-middle-east?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ThreatLabz researchers observed several similarities in the C2 communication and .NET payload between this campaign and the previous campaigns attributed to the Molerats APT group.
+</details>
+<div style="text-align: right" markdown="1">
+Zscaler
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon fake crypto token investment scam steals Bitcoin from victims<a href="https://www.zdnet.com/article/amazon-fake-crypto-token-investment-scam-steals-bitcoin-from-victims/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers from Akamai Technologies outlined a new, fraudulent campaign that leverages Amazon's name to promote a fraudulent "Amazon to create its own digital token" scheme.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Diavol Ransomware has Connections with TrickBot<a href="https://heimdalsecurity.com/blog/diavol-ransomware-appears-to-have-connections-with-trickbot/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI first learned of Diavol ransomware in October 2021. The FBI has not yet observed Diavol leak victim data, despite ransom notes including threats to leak stolen information.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 21, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
