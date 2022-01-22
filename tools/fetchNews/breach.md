@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto.com hack impacted 483 accounts and resulted in a $34 million theft<a href="https://securityaffairs.co/wordpress/126956/hacking/crypto-com-crypto-heist.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto.com confirmed that a cyber attack compromised around 400 of its customer accounts leading in the theft of $33 million.
+
+
+
+Crypto.com&nbsp;is a cryptocurrency exchange app based in&nbsp;Singapore, the app currently has 10 million users and 3,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indonesia's central bank confirms ransomware attack, Conti leaks data<a href="https://www.bleepingcomputer.com/news/security/indonesias-central-bank-confirms-ransomware-attack-conti-leaks-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bank Indonesia (BI), the central bank of the Republic of Indonesia, has confirmed today that a ransomware attack hit its networks last month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden warns of US 'cyber' response after Ukraine says computers wiped during attack<a href="https://www.zdnet.com/article/biden-threatens-cyber-response-after-ukraine-says-computers-wiped-during-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Biden's comments come after Ukrainian officials told journalist Kim Zetter that dozens of systems within at least two government agencies were wiped during a cyberattack last week.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto.com confirms 483 accounts hacked, $34 million withdrawn<a href="https://www.bleepingcomputer.com/news/security/cryptocom-confirms-483-accounts-hacked-34-million-withdrawn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto.com has confirmed that a multi-million dollar&nbsp;cyberattack led to the compromise of 483 of its customer accounts.&nbsp;Although, the company's CEO stresses that&nbsp;customer funds are not at risk. Crypto.com is reportedly the world's third-largest cryptocurrency trading platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

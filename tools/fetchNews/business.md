@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC Filing Reveals Fortune 500 Firm Targeted in Ransomware Attack<a href="https://threatpost.com/fortune-500-firm-ransomware/177787/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+R.R. Donnelly, the integrated services company, confirmed a ‘systems intrusion’ that occurred in late December and is still under investigation.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Datto Acquires Cybersecurity Company Infocyte<a href="https://finance.yahoo.com/finance/news/datto-acquires-cybersecurity-company-infocyte-133200722.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Datto acquired threat detection and response company Infocyte, extending its security capabilities that protect, detect, and respond to cyber threats found within endpoints and cloud environments.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

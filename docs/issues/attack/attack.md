@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Contextualizing Last Week’s Malicious Cyber Activities Against Ukrainian Government Websites and Systems<a href="https://www.lawfareblog.com/contextualizing-last-weeks-malicious-cyber-activities-against-ukrainian-government-websites-and"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The events reflect the complexity of how cyber operations can function diversely across and even within specific conflicts.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,144 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Details Two Zero-Day Bugs Reported in Zoom Clients and MMR Servers<a href="https://thehackernews.com/2022/01/google-details-two-zero-day-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An exploration of zero-click attack surface for the popular video conferencing solution Zoom has yielded two previously undisclosed security vulnerabilities that could have been exploited to crash the service, execute malicious code, and even leak arbitrary areas of its memory.  Natalie Silvanovich of Google Project Zero, who&nbsp; discovered &nbsp;and reported the&nbsp; two &nbsp; flaws &nbsp;last year, said the issues impacted both Zoom clients and Multimedia Router (MMR) servers, which transmit audio and video content between clients in&nbsp; on-premise deployments .  The weaknesses have since been addressed by Zoom as part of&nbsp; updates &nbsp;shipped on November 24, 2021.  The goal of a zero-click attack is to stealthily gain control over the victim's device without requiring any kind of interaction from the user, such as clicking on a link.   While the specifics of the exploit will vary depending on the nature of vulnerability being exploited, a key trait of zero-click hacks is their ability not to leave behind
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Cisco StarOS Bug Grants Root Access via Debug Mode<a href="https://threatpost.com/critical-cisco-staros-bug-root-access-debug-mode/177832/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco issued a critical fix for a flaw in its Cisco RCM for Cisco StarOS Software that could give attackers RCE on the application with root-level privileges. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco StarOS flaws could allow remote code execution and information disclosure<a href="https://securityaffairs.co/wordpress/126968/security/cisco-staros-rce-information-disclosure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a critical RCE flaw in the Cisco Redundancy Configuration Manager (RCM) for Cisco StarOS Software. 
+
+
+
+Cisco has addressed a critical remote code execution vulnerability, tracked as CVE-2022-20649, discovered in the Cisco Redundancy Configuration...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress plugin flaw puts users of 20,000 sites at phishing risk<a href="https://www.bleepingcomputer.com/news/security/wordpress-plugin-flaw-puts-users-of-20-000-sites-at-phishing-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The WordPress WP HTML Mail plugin, installed in over 20,000 sites, is vulnerable to a high-severity flaw that can lead to code injection and the distribution of convincing phishing emails.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Pays Out Over $100,000 for Vulnerabilities Patched With Chrome 97 Update<a href="https://www.securityweek.com/google-pays-out-over-100000-vulnerabilities-patched-chrome-97-update?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 22 vulnerabilities addressed with the latest Chrome refresh were reported by external researchers, including one critical-severity, 16 high-severity, and five medium-severity issues.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaw in Crypto Protocol Leads to Theft of Over $3 Million from Users<a href="https://www.vice.com/en/article/epxb8m/crypto-protocol-publicly-announces-flaw-users-relentlessly-owned-by-hackers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earlier this week, Multichain, a platform that allows users to swap tokens between blockchains publicly announced that there was a flaw that made accounts vulnerable to hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Serv-U bug exploited by threat actors in the wild, Microsoft warns<a href="https://securityaffairs.co/wordpress/126933/security/solarwinds-serv-u-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds has fixed a Serv-U vulnerability that threat actors actively exploited in attacks in the wild. 
+
+
+
+SolarWinds has addressed a vulnerability in Serv-U products that threat actors are actively exploited in the wild.
+
+
+
+The vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco bug gives remote attackers root privileges via debug mode<a href="https://www.bleepingcomputer.com/news/security/cisco-bug-gives-remote-attackers-root-privileges-via-debug-mode/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has fixed a critical security flaw discovered in the Cisco Redundancy Configuration Manager (RCM) for Cisco StarOS Software&nbsp;during internal security testing.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beijing Olympics App Flaws Allow Man-in-the-Middle Attacks<a href="https://threatpost.com/beijing-olympics-app-flaws-allow-man-in-the-middle-attacks/177748/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers can access audio and files uploaded to the MY2022 mobile app required for use by all winter games attendees – including personal health details.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of anomalous spyware campaigns targeting industrial firms<a href="https://securityaffairs.co/wordpress/127026/cyber-crime/spyware-campaigns-targets-industrial-firms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted several spyware campaigns targeting industrial enterprises to steal credentials and conduct financial fraud. 
+
+
+
+Researchers from Kaspersky Lab have uncovered multiple spyware campaigns that target industrial firms to steal email...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

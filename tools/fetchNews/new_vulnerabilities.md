@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A bug in McAfee Agent allows running code with Windows SYSTEM privileges<a href="https://securityaffairs.co/wordpress/127044/security/mcafee-agent-code-execution-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McAfee addressed a security flaw in its McAfee Agent software&nbsp;for Windows that allows running arbitrary code with SYSTEM privileges. 
+
+
+
+McAfee (now Trellix) has addressed a high-severity vulnerability, tracked as&nbsp;CVE-2022-0166, that resides in&nbsp;McAfee...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Project Zero discloses details of two Zoom zero-day flaws<a href="https://securityaffairs.co/wordpress/127016/hacking/zoom-zero-day-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero experts disclosed details of two&nbsp;zero-day flaws&nbsp;impacting Zoom clients and Multimedia Router (MMR) servers. 
+
+
+
+Google Project Zero researchers Natalie Silvanovich disclosed details of two&nbsp;zero-day vulnerabilities in Zoom clients...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 90 WordPress themes, plugins backdoored in supply chain attack<a href="https://www.bleepingcomputer.com/news/security/over-90-wordpress-themes-plugins-backdoored-in-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive supply chain attack compromised 93 WordPress themes and plugins to contain a backdoor, giving threat-actors full access to websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee Agent bug lets hackers run code with Windows SYSTEM privileges<a href="https://www.bleepingcomputer.com/news/security/mcafee-agent-bug-lets-hackers-run-code-with-windows-system-privileges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McAfee Enterprise (now rebranded as Trellix) has patched a security vulnerability discovered in the company's&nbsp;McAfee Agent software&nbsp;for Windows enabling attackers to escalate privileges and execute arbitrary code with SYSTEM privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Issues Patch for Critical RCE Vulnerability in RCM for StarOS Software<a href="https://thehackernews.com/2022/01/cisco-issues-patch-for-critical-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Systems has rolled out fixes for a critical security flaw affecting Redundancy Configuration Manager (RCM) for Cisco StarOS Software that could be weaponized by an unauthenticated, remote attacker to execute arbitrary code and take over vulnerable machines.  Tracked as&nbsp; CVE-2022-20649 &nbsp;(CVSS score: 9.0), the vulnerability stems from the fact that the debug mode has been incorrectly enabled for specific services.  "An attacker could exploit this vulnerability by connecting to the device and navigating to the service with debug mode enabled," Cisco said in an advisory. "A successful exploit could allow the attacker to execute arbitrary commands as the root user."  The network equipment maker, however, noted that the adversary would need to perform detailed reconnaissance to allow for unauthenticated access to vulnerable devices.   Stating that the vulnerability was discovered during internal security testing, Cisco added it found no evidence of active exploitat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

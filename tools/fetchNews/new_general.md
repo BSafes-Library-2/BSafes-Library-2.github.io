@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Internet’s Most Tempting Targets<a href="https://threatpost.com/internet-most-tempting-targets/177869/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What attracts the attackers? David “moose” Wolpoff, CTO at Randori, discusses how to evaluate your infrastructure for juicy targets.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exposed records exceeded 40 billion in 2021<a href="https://www.helpnetsecurity.com/2022/01/21/exposed-records-2021/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to research by Tenable, at least 40 billion records were exposed in 2021, calculated by the analysis of 1,825 breach incidents publicly disclosed between November 2020 and October 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disables Excel 4.0 macros by default to block malware<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-excel-40-macros-by-default-to-block-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Microsoft has announced that Excel 4.0 (XLM) macros will now be disabled by default&nbsp;to protect customers from malicious documents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

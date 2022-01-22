@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Log4j attacks target SolarWinds, ZyXEL devices<a href="https://therecord.media/new-log4j-attacks-target-solarwinds-zyxel-devices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals looking to capitalize on the Log4Shell vulnerability are attacking devices from SolarWinds and ZyXEL that are known to have used the Log4j library inside their software.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Red Cross hit by a sophisticated cyberattack<a href="https://securityaffairs.co/wordpress/126947/data-breach/red-cross-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack on a Red Cross contactor resulted in the theft of personal data for more than 515,000 highly vulnerable people
+
+
+
+A cyberattack on a Red Cross contactor resulted in the theft of personal data for more than 515,000  highly vulnerable people...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

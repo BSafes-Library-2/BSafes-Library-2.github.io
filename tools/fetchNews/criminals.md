@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI links the Diavol ransomware to the TrickBot gang<a href="https://securityaffairs.co/wordpress/126979/cyber-crime/fbi-links-diavol-ransomware-trickbot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) officially linked the Diavol ransomware operation to the infamous TrickBot gang.
+
+
+
+The FBI officially linked the Diavol ransomware operation to the infamous TrickBot gang, the group that is behind the  TrickBot...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol Busted 11 Members of Nigerian BEC Cybercrime Gang<a href="https://thehackernews.com/2022/01/interpol-busted-11-members-of-nigerian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated law enforcement operation has resulted in the arrest of 11 members allegedly belonging to a Nigerian cybercrime gang notorious for perpetrating business email compromise (BEC) attacks targeting more than 50,000 victims in recent years.  The disruption of the BEC network is the result of a ten-day investigation dubbed&nbsp; Operation Falcon II &nbsp;undertaken by the Interpol along with participation from the Nigeria Police Force's Cybercrime Police Unit in December 2021.  Cybersecurity firms&nbsp; Group-IB &nbsp;and Palo Alto Networks'&nbsp; Unit 42 , both of which shared information on the threat actors and their infrastructure, said six of the 11 suspects are believed to be a part of a prolific group of Nigerian cyber actors known as SilverTerrier (aka TMT).   BEC attacks, which began to gain dominance in 2013, are&nbsp; sophisticated scams &nbsp;that target legitimate business email accounts through social engineering schemes to infiltrate corporate networks and subsequently leverage their acce
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Trip to the Dark Site — Leak Sites Analyzed<a href="https://thehackernews.com/2022/01/a-trip-to-dark-site-leak-sites-analyzed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gone are the days when ransomware operators were happy with encrypting files on-site and more or less discretely charged their victims money for a decryption key. What we commonly find now is encryption with the additional threat of leaking stolen data, generally called Double-Extortion (or, as we like to call it: Cyber Extortion or Cy-X). This is a unique form of cybercrime in that we can observe and analyze some of the criminal action via 'victim shaming' leak sites.  Since January 2020, we have applied ourselves to identifying as many of these sites as possible to record and document the victims who feature on them. Adding our own research, analyzing, and enriching data scraped from the various Cy-X operators and market sites, we can provide direct insights into the victimology from this specific perspective.  We must be clear that what we are analyzing is a limited perspective on the crime. Nevertheless, the data gleaned from an analysis of the leak-threats proves to be ex
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BHUNT Stealer targets cryptocurrency wallets<a href="https://securityaffairs.co/wordpress/126938/malware/bhunt-stealer-targets-cryptocurrency.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new evasive cryptocurrency stealer named&nbsp;BHUNT&nbsp;that targets a list of wallets and implements multiple data-stealing capabilities.
+
+
+
+Bitdefender discovered a new evasive cryptocurrency stealer stealer dubbed BHUNT that is able...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cheap malware is behind a rise in attacks on cryptocurrency wallets<a href="https://www.zdnet.com/article/cheap-malware-is-behind-a-rise-in-attacks-on-cryptocurrency-wallets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency has long been a popular target for organized cybercriminals, whether stealing it outright from cryptocurrency exchanges, or demanding it as an extortion payment in ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
