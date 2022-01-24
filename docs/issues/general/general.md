@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+January 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 350<a href="https://securityaffairs.co/wordpress/127072/breaking-news/security-affairs-newsletter-round-350.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+School District reports a 334% hike in cybersecurity insurance costs<a href="https://www.bleepingcomputer.com/news/security/school-district-reports-a-334-percent-hike-in-cybersecurity-insurance-costs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bloomington School District 87 in Illinois has published its cyber-insurance renewal details, and the cost has jumped from $6,661 in 2021 to $22,229 this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Spotted Using New UEFI Firmware Implant in Targeted Attacks<a href="https://thehackernews.com/2022/01/chinese-hackers-spotted-using-new-uefi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented firmware implant deployed to maintain stealthy persistence as part of a targeted espionage campaign has been linked to the Chinese-speaking Winnti advanced persistent threat group ( APT41 ).  Kaspersky, which codenamed the rootkit&nbsp; MoonBounce ,&nbsp; characterized &nbsp;the malware as the "most advanced&nbsp; UEFI &nbsp;firmware implant discovered in the wild to date," adding "the purpose of the implant is to facilitate the deployment of user-mode malware that stages execution of further payloads downloaded from the internet."  Firmware-based rootkits, once a rarity in the threat landscape, are fast becoming lucrative tools among sophisticated actors to help achieve long standing foothold in a manner that's not only hard to detect, but also difficult to remove.   The first firmware-level rootkit — dubbed&nbsp; LoJax &nbsp;— was discovered in the wild in 2018. Since then, three different instances of UEFI malware have been unearthed so far, including&nbsp; MosaicRegresso
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Treasury Department sanctions 4 Ukrainian officials for working with Russian intelligence<a href="https://securityaffairs.co/wordpress/127052/intelligence/us-treasury-department-sanctions-ukrainian-officials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department announced sanctions against four current and former Ukrainian government officials for collaborating with Russia.
+
+
+
+The U.S. Treasury Department this week announced sanctions against four current and former Ukrainian government...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

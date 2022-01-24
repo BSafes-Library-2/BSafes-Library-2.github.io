@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch cybersecurity agency warns of lingering Log4j risks<a href="https://www.bleepingcomputer.com/news/security/dutch-cybersecurity-agency-warns-of-lingering-log4j-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a warning issued on Thursday,&nbsp;the Dutch National Cybersecurity Centre (NCSC) says organizations should still be aware of risks connected to Log4j attacks and remain vigilant for ongoing threats.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in Control Web Panel potentially expose Linux Servers to hack<a href="https://securityaffairs.co/wordpress/127058/hacking/control-web-panel-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical security vulnerabilities in&nbsp;Control Web Panel&nbsp;potentially expose Linux servers to remote code execution attacks
+
+
+
+Researchers from Octagon Networks disclosed details of two critical security flaws in&nbsp;Control Web Panel&nbsp;that potentially...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

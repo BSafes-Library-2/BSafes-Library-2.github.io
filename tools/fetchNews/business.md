@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software Supply Chain Security Specialist Codenotary Raises $12.5 Million in Series B Round<a href="https://finance.yahoo.com/news/software-supply-chain-security-specialist-170000580.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Codenotary, the immutability specialist that can instantly identify untrusted components in software, announced that it has raised $12.5 million in series B funding by new and existing investors.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

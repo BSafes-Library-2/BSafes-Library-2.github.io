@@ -8,6 +8,39 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Stole Crypto Worth $400 Million in 2021<a href="https://cyware.com/news/north-korean-hackers-stole-crypto-worth-400-million-in-2021-2a6bc28c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report suggests that North Korean hackers mooched off at least&nbsp;$400 million in cryptocurrencies through cyberattacks in 2021, which is a whopping 40% increase as compared to the last year. Hackers use a systematic money laundering process that involves multiple software tools to collect  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware gang started leaking files stolen from Bank Indonesia<a href="https://securityaffairs.co/wordpress/126988/cyber-crime/bank-indonesia-conti-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The central bank of the Republic of Indonesia, Bank Indonesia, confirmed the ransomware attack that hit it in December.
+
+
+
+Bank Indonesia confirmed that it was the victim of a ransomware attack that took place last month. The Conti&nbsp;ransomware gang claimed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

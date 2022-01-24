@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing impersonates shipping giant Maersk to push STRRAT malware<a href="https://www.bleepingcomputer.com/news/security/phishing-impersonates-shipping-giant-maersk-to-push-strrat-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign using fake shipping delivery lures installs the STRRAT remote access trojan on unsuspecting victim's devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molerats cyberespionage group uses public cloud services as attack infrastructure<a href="https://securityaffairs.co/wordpress/127076/apt/molerats-apt-public-cloud.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberespionage group Molerats has been observed abusing legitimate cloud services, like Google Drive and Dropbox as attack infrastructure.
+
+
+
+Zscaler ThreatLabz analyzed an active espionage campaign carried out by Molerats cyberespionage group (aka TA402,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molerats Hackers Hiding New Espionage Attacks Behind Public Cloud Infrastructure<a href="https://thehackernews.com/2022/01/molerats-hackers-hiding-new-espionage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An active espionage campaign has been attributed to the threat actor known as Molerats that abuses legitimate cloud services like Google Drive and Dropbox to host malware payloads and for command-and-control and the exfiltration of data from targets across the Middle East.  The cyber offensive is believed to have been underway since at least July 2021,&nbsp; according &nbsp;to cloud-based information security company Zscaler, continuing&nbsp; previous efforts &nbsp;by the hacking group to conduct reconnaissance on the target hosts and plunder sensitive information.   Molerats , also tracked as TA402, Gaza Hackers Team, and Extreme Jackal, is an advanced persistent threat (APT) group that's largely focused on entities operating in the Middle East. Attack activity associated with the actor has leveraged geopolitical and military themes to entice users to open Microsoft Office attachments and click on malicious links.   The latest campaign detailed by Zscaler is no different in that it makes use of deco
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

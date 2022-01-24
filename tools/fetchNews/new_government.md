@@ -8,6 +8,70 @@ nav_order: 900075
 
 ## Government
 ---
+January 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of malicious QR codes used to steal your money<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-malicious-qr-codes-used-to-steal-your-money/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned Americans this week that cybercriminals are using maliciously crafted&nbsp;Quick Response (QR) codes to steal their credentials&nbsp;and financial info.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA added 17 flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/127088/security/cisa-known-exploited-vulnerabilities-catalog-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added seventeen new actively exploited vulnerabilities to the 'Known Exploited Vulnerabilities Catalog'. 
+
+
+
+The 'Known Exploited Vulnerabilities Catalog' is a list of known vulnerabilities that threat actors have abused in attacks and that are required...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 17 vulnerabilities to list of bugs exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-adds-17-vulnerabilities-to-list-of-bugs-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the Cybersecurity and Infrastructure Security Agency (CISA) added seventeen actively exploited vulnerabilities to the 'Known Exploited Vulnerabilities Catalog.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pay attention to Log4j attacks, Dutch National Cybersecurity Centre (NCSC) warns<a href="https://securityaffairs.co/wordpress/127067/security/dutch-ncsc-warns-log4j-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch National Cybersecurity Centre (NCSC) warns organizations of risks associated with cyberattacks exploiting the Log4J vulnerability.
+
+
+
+The Dutch National Cybersecurity Centre (NCSC) warns organizations to remain vigilant on possible attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

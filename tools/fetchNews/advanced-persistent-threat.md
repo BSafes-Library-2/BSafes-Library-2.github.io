@@ -8,6 +8,67 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy firmware bootkit leveraged by APT in targeted attacks<a href="https://www.helpnetsecurity.com/2022/01/21/firmware-bootkit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky researchers have uncovered the third known case of a firmware bootkit in the wild. Dubbed MoonBounce, this malicious implant is hidden within Unified Extensible Firmware Interface (UEFI) firmware.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueNoroff APT Group Eyeing Crypto Startups<a href="https://cyware.com/news/bluenoroff-apt-group-eyeing-crypto-startups-35c36601"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korea-linked APT group has been spotted targeting cryptocurrency startups worldwide with fake MetaMask browser extensions to steal cryptocurrency from users' wallets. The attackers work around a complex infrastructure, including various exploits and malware implants to target victims. Organ ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MoonBounce UEFI implant spotted in a targeted APT41 attack<a href="https://securityaffairs.co/wordpress/126998/apt/moonbounce-uefi-implant-apt41.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have spotted China-linked APT41 cyberespionage group using a UEFI implant, dubbed MoonBounce, to maintain persistence.
+
+
+
+Kaspersky researchers spotted the China-linked APT41 cyberespionage group using a UEFI implant, dubbed  MoonBounce,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molerats APT Targets Users in the Middle East in New Attacks Using .NET Backdoor<a href="https://www.zscaler.com/blogs/security-research/new-espionage-attack-molerats-apt-targeting-users-middle-east?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ThreatLabz researchers observed several similarities in the C2 communication and .NET payload between this campaign and the previous campaigns attributed to the Molerats APT group.
+</details>
+<div style="text-align: right" markdown="1">
+Zscaler
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

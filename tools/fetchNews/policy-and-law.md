@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Sanctions 4 Ukrainians for Working with Russia to Destabilize Ukraine<a href="https://thehackernews.com/2022/01/us-sanctions-4-ukrainians-for-working.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department on Thursday announced sanctions against four current and former Ukrainian government officials for engaging in "Russian government-directed influence activities" in the country, including gathering sensitive information about its critical infrastructure.  The agency said the four individuals were involved in different roles as part of a concerted influence campaign to destabilize the nation, while also accusing Russia's national security authority, the Federal Security Service (FSB), of recruiting Ukrainians in key positions to create instability.   Two of the officials, Taras Kozak and Oleh Voloshyn, are alleged to have worked to amplify false narratives and undermine confidence in the Ukrainian government, while Vladimir Sivkovich, former Deputy Secretary of the Ukrainian National Security and Defense Council, attempted to build support for Ukraine to officially cede Crimea to Russia.  "Russia has directed its intelligence services to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

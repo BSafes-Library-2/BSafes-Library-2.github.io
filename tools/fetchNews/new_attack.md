@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+January 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers find similarities between NotPetya, attacks on Ukrainian government websites<a href="https://www.cyberscoop.com/whisper-gate-notpetya-ukraine-russia/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware that wiped dozens of government computer systems in Ukraine starting on Jan. 13 shares some strategic similarities to the NotPetya wiper that was used to attack Ukraine in 2017.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Find Strategic Similarities b/w NotPetya and WhisperGate Attacks on Ukraine<a href="https://thehackernews.com/2022/01/experts-find-strategic-similarities-bw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latest analysis into the wiper malware that targeted dozens of Ukrainian agencies earlier this month has revealed "strategic similarities" to&nbsp; NotPetya malware &nbsp;that was unleashed against the country's infrastructure and elsewhere in 2017.  The malware, dubbed&nbsp; WhisperGate , was discovered by Microsoft last week, which said it observed the destructive cyber campaign targeting government, non-profit, and information technology entities in the nation, attributing the intrusions to an emerging threat cluster codenamed "DEV-0586."   "While WhisperGate has some strategic similarities to the notorious NotPetya wiper that attacked Ukranian entities in 2017, including masquerading as ransomware and targeting and destroying the master boot record (MBR) instead of encrypting it, it notably has more components designed to inflict additional damage," Cisco Talos&nbsp; said &nbsp;in a report detailing its response efforts.  Stating that stolen credentials were likely used i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Disruptive Attacks in Ukraine Likely Linked to Escalating Tensions<a href="https://www.secureworks.com/blog/disruptive-attacks-in-ukraine-likely-linked-to-escalating-tensions?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors attempted to misdirect attribution using inauthentic metadata and used publicly available crimeware services and code to minimize the amount of custom code involved in the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Secure Works
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

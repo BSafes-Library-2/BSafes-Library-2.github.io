@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+January 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSubtitles data breach impacted 7 million subscribers<a href="https://securityaffairs.co/wordpress/127092/data-breach/opensubtitles-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSubtitles has suffered a data breach, the maintainers confirmed that the incident impacted 7 Million subscribers. 
+
+
+
+OpenSubtitles is a popular subtitles websites, it suffered a data breach that affected 6,783,158 subscribers. Exposed data include...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
