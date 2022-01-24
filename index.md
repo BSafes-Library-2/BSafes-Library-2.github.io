@@ -34,6 +34,290 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of malicious QR codes used to steal your money<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-malicious-qr-codes-used-to-steal-your-money/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned Americans this week that cybercriminals are using maliciously crafted Quick Response (QR) codes to steal their credentials and financial info.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSubtitles data breach impacted 7 million subscribers<a href="https://securityaffairs.co/wordpress/127092/data-breach/opensubtitles-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSubtitles has suffered a data breach, the maintainers confirmed that the incident impacted 7 Million subscribers. 
+
+
+
+OpenSubtitles is a popular subtitles websites, it suffered a data breach that affected 6,783,158 subscribers. Exposed data include...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA added 17 flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/127088/security/cisa-known-exploited-vulnerabilities-catalog-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added seventeen new actively exploited vulnerabilities to the 'Known Exploited Vulnerabilities Catalog'. 
+
+
+
+The 'Known Exploited Vulnerabilities Catalog' is a list of known vulnerabilities that threat actors have abused in attacks and that are required...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molerats cyberespionage group uses public cloud services as attack infrastructure<a href="https://securityaffairs.co/wordpress/127076/apt/molerats-apt-public-cloud.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberespionage group Molerats has been observed abusing legitimate cloud services, like Google Drive and Dropbox as attack infrastructure.
+
+
+
+Zscaler ThreatLabz analyzed an active espionage campaign carried out by Molerats cyberespionage group (aka TA402,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 350<a href="https://securityaffairs.co/wordpress/127072/breaking-news/security-affairs-newsletter-round-350.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers find similarities between NotPetya, attacks on Ukrainian government websites<a href="https://www.cyberscoop.com/whisper-gate-notpetya-ukraine-russia/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware that wiped dozens of government computer systems in Ukraine starting on Jan. 13 shares some strategic similarities to the NotPetya wiper that was used to attack Ukraine in 2017.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Find Strategic Similarities b/w NotPetya and WhisperGate Attacks on Ukraine<a href="https://thehackernews.com/2022/01/experts-find-strategic-similarities-bw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latest analysis into the wiper malware that targeted dozens of Ukrainian agencies earlier this month has revealed "strategic similarities" to  NotPetya malware  that was unleashed against the country's infrastructure and elsewhere in 2017.  The malware, dubbed  WhisperGate , was discovered by Microsoft last week, which said it observed the destructive cyber campaign targeting government, non-profit, and information technology entities in the nation, attributing the intrusions to an emerging threat cluster codenamed "DEV-0586."   "While WhisperGate has some strategic similarities to the notorious NotPetya wiper that attacked Ukranian entities in 2017, including masquerading as ransomware and targeting and destroying the master boot record (MBR) instead of encrypting it, it notably has more components designed to inflict additional damage," Cisco Talos  said  in a report detailing its response efforts.  Stating that stolen credentials were likely used i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 17 vulnerabilities to list of bugs exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-adds-17-vulnerabilities-to-list-of-bugs-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the Cybersecurity and Infrastructure Security Agency (CISA) added seventeen actively exploited vulnerabilities to the 'Known Exploited Vulnerabilities Catalog.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A bug in McAfee Agent allows running code with Windows SYSTEM privileges<a href="https://securityaffairs.co/wordpress/127044/security/mcafee-agent-code-execution-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McAfee has addressed a high-severity vulnerability, tracked as CVE-2022-0166, that resides in McAfee Agent software for Windows. An attacker can exploit this flaw to escalate privileges and execute arbitrary code with SYSTEM privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molerats Hackers Hiding New Espionage Attacks Behind Public Cloud Infrastructure<a href="https://thehackernews.com/2022/01/molerats-hackers-hiding-new-espionage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An active espionage campaign has been attributed to the threat actor known as Molerats that abuses legitimate cloud services like Google Drive and Dropbox to host malware payloads and for command-and-control and the exfiltration of data from targets across the Middle East.  The cyber offensive is believed to have been underway since at least July 2021,  according  to cloud-based information security company Zscaler, continuing  previous efforts  by the hacking group to conduct reconnaissance on the target hosts and plunder sensitive information.   Molerats , also tracked as TA402, Gaza Hackers Team, and Extreme Jackal, is an advanced persistent threat (APT) group that's largely focused on entities operating in the Middle East. Attack activity associated with the actor has leveraged geopolitical and military themes to entice users to open Microsoft Office attachments and click on malicious links.   The latest campaign detailed by Zscaler is no different in that it makes use of deco
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+School District reports a 334% hike in cybersecurity insurance costs<a href="https://www.bleepingcomputer.com/news/security/school-district-reports-a-334-percent-hike-in-cybersecurity-insurance-costs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bloomington School District 87 in Illinois has published its cyber-insurance renewal details, and the cost has jumped from $6,661 in 2021 to $22,229 this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Disruptive Attacks in Ukraine Likely Linked to Escalating Tensions<a href="https://www.secureworks.com/blog/disruptive-attacks-in-ukraine-likely-linked-to-escalating-tensions?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors attempted to misdirect attribution using inauthentic metadata and used publicly available crimeware services and code to minimize the amount of custom code involved in the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Secure Works
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch cybersecurity agency warns of lingering Log4j risks<a href="https://www.bleepingcomputer.com/news/security/dutch-cybersecurity-agency-warns-of-lingering-log4j-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a warning issued on Thursday, the Dutch National Cybersecurity Centre (NCSC) says organizations should still be aware of risks connected to Log4j attacks and remain vigilant for ongoing threats.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pay attention to Log4j attacks, Dutch National Cybersecurity Centre (NCSC) warns<a href="https://securityaffairs.co/wordpress/127067/security/dutch-ncsc-warns-log4j-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch National Cybersecurity Centre (NCSC) warns organizations of risks associated with cyberattacks exploiting the Log4J vulnerability.
+
+
+
+The Dutch National Cybersecurity Centre (NCSC) warns organizations to remain vigilant on possible attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in Control Web Panel potentially expose Linux Servers to hack<a href="https://securityaffairs.co/wordpress/127058/hacking/control-web-panel-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two critical security vulnerabilities in Control Web Panel potentially expose Linux servers to remote code execution attacks
+
+
+
+Researchers from Octagon Networks disclosed details of two critical security flaws in Control Web Panel that potentially...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Treasury Department sanctions 4 Ukrainian officials for working with Russian intelligence<a href="https://securityaffairs.co/wordpress/127052/intelligence/us-treasury-department-sanctions-ukrainian-officials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department announced sanctions against four current and former Ukrainian government officials for collaborating with Russia.
+
+
+
+The U.S. Treasury Department this week announced sanctions against four current and former Ukrainian government...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 22, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
