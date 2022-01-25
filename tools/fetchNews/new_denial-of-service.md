@@ -8,6 +8,21 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DDoS IRC Bot Spreads Through Korean WebHard<a href="https://cyware.com/news/new-ddos-irc-bot-spreads-through-korean-webhard-a295e13b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered details about a new malicious IRC bot, programmed in Golang, that is being used to launch DDoS attacks against Korean users. Attackers are distributing the malware via file-sharing websites such as Korean WebHards. It is recommended to stay alert when downloading files fr ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

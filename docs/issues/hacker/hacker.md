@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Creating Fraudulent Crypto Tokens as Part of 'Rug Pull' Scams<a href="https://thehackernews.com/2022/01/hackers-creating-fraudulent-crypto.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigurations in smart contracts are being exploited by scammers to create malicious cryptocurrency tokens with the goal of stealing funds from unsuspecting users.  The instances of token fraud in the wild include hiding 99% fee functions and concealing backdoor routines, researchers from Check Point  said in a report shared with The Hacker News.  Smart contracts are&nbsp; programs &nbsp;stored on the blockchain that are automatically executed when predetermined conditions are met according to the terms of a contract or an agreement. They allow trusted transactions and agreements to be carried out between anonymous parties without the need for a central authority.   By examining the&nbsp; Solidity &nbsp;source code used for implementing smart contracts, the Israeli cybersecurity company found instances of&nbsp; hidden &nbsp;and&nbsp; hardcoded fees &nbsp;that can't be changed, while allowing malicious actors to exert control over "who is allowed to sell."  In another instance, a legitimate contract called
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

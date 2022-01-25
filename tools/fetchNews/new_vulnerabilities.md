@@ -8,6 +8,70 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in Rust Programming language could allow to delete files and directories<a href="https://securityaffairs.co/wordpress/127135/security/rust-programming-language-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the Rust programming language fixed a high-severity flaw that could allow attackers to delete files and directories from a vulnerable system. 
+
+
+
+The maintainers of the Rust programming language have released a security update for a high-severity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CWP bugs allow code execution as root on Linux servers, patch now<a href="https://www.bleepingcomputer.com/news/security/cwp-bugs-allow-code-execution-as-root-on-linux-servers-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two security vulnerabilities that impact the Control Web Panel (CWP) software can be chained by unauthenticated attackers to gain remote code execution (RCE) as root on vulnerable Linux servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 fixes 25 flaws in BIG-IP, BIG-IQ, and NGINX products<a href="https://securityaffairs.co/wordpress/127097/security/f5-big-ip-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity provider F5 released security patches to address 25 vulnerabilities affecting its BIG-IP, BIG-IQ, and NGINX products. 
+
+
+
+Cybersecurity firm F5 announced security patches for 25 vulnerabilities affecting its BIG-IP, BIG-IQ, and NGINX products....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Rust Programming Bug Could Lead to File, Directory Deletion<a href="https://thehackernews.com/2022/01/high-severity-rust-programming-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the Rust programming language have released a security update for a high-severity vulnerability that could be abused by a malicious party to purge files and directories from a vulnerable system in an unauthorized manner.  "An attacker could use this security issue to trick a privileged program into deleting files and directories the attacker couldn't otherwise access or delete," the Rust Security Response working group (WG)&nbsp; said &nbsp;in an&nbsp; advisory &nbsp;published on January 20, 2021.   Rust 1.0.0 through Rust 1.58.0 is affected by this vulnerability. The flaw, which is tracked as&nbsp; CVE-2022-21658 &nbsp;(CVSS score: 7.3), has been credited to security researcher Hans Kratz, with the team pushing out a fix in&nbsp; Rust version 1.58.1 &nbsp;shipped last week.  Specifically, the issue stems from an improperly implemented check to prevent recursive deletion of symbolic links (aka&nbsp; symlinks ) in a standard library function named "std::fs::remove_dir_all." This results
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,66 @@ nav_order: 900015
 
 ## Attack
 ---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers now actively targeting critical SonicWall RCE bug<a href="https://www.bleepingcomputer.com/news/security/attackers-now-actively-targeting-critical-sonicwall-rce-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical severity vulnerability impacting SonicWall's&nbsp;Secure Mobile Access (SMA) gateways addressed last month&nbsp;is now targeted in ongoing exploitation attempts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tens of AccessPress WordPress themes compromised as part of a supply chain attack<a href="https://securityaffairs.co/wordpress/127124/hacking/tens-of-accesspress-wordpress-themes-compromised-as-part-of-a-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors planted a backdoor into multiple WordPress themes and plugins after compromising the website of their developer.
+
+
+
+In a classic supply chain attack, threat actors planted a backdoor in dozens of WordPress plugins and themes hosted on a developer's...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Karkaddan Delivers CapraRAT, CrimsonRAT, and ObliqueRAT via Spear-Phishing Campaigns<a href="https://www.trendmicro.com/en_us/research/22/a/investigating-apt36-or-earth-karkaddans-attack-chain-and-malware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Typically, the Earth Karkaddan hacker group's arrival methods include the use of spear-phishing emails and a USB worm that would then drop and execute a remote access trojan (RAT).
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China accused of hijacking Australia Prime Minister Scott Morrison's WeChat account<a href="https://www.zdnet.com/article/china-accused-of-hijacking-australia-prime-minister-scott-morrisons-wechat-account/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Australian member of parliament has accused the Chinese government of foreign interference after Prime Minister Scott Morrison's account on WeChat was hijacked recently.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Souls servers taken down to prevent hacks using critical bug<a href="https://www.bleepingcomputer.com/news/security/dark-souls-servers-taken-down-to-prevent-hacks-using-critical-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bandai Namco has deactivated the online PvP mode for the Dark Souls role-playing game, taking its servers offline to investigate reports about a severe security issue that may pose a risk to players.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

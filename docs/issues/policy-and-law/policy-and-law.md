@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Project appeals Russian court's decision to block access to Tor<a href="https://www.bleepingcomputer.com/news/security/tor-project-appeals-russian-courts-decision-to-block-access-to-tor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US-based Tor Project and Russian digital-rights protection org RosKomSvoboda are appealing a Russian court's decision to block access to public Tor nodes and the project's website.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

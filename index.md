@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers now actively targeting critical SonicWall RCE bug<a href="https://www.bleepingcomputer.com/news/security/attackers-now-actively-targeting-critical-sonicwall-rce-bug/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New DDoS IRC Bot Spreads Through Korean WebHard<a href="https://cyware.com/news/new-ddos-irc-bot-spreads-through-korean-webhard-a295e13b"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS warns Russia could launch cyberattack on US<a href="https://thehill.com//policy/national-security/591074-dhs-warn-russia-could-launch-cyberattack-on-us"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ZTNAs Address Requirements VPNs Cannot. Here's Why.<a href="https://thehackernews.com/2022/01/ztnas-address-requirements-vpns-cannot.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in Rust Programming language could allow to delete files and directories<a href="https://securityaffairs.co/wordpress/127135/security/rust-programming-language-flaw.html"> Full Text</a>
@@ -119,7 +119,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Surge in Malicious QR Codes Sparks FBI Alert<a href="https://threatpost.com/fbi-malicious-qr-codes/177902/"> Full Text</a>
@@ -135,7 +135,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tor Project appeals Russian court's decision to block access to Tor<a href="https://www.bleepingcomputer.com/news/security/tor-project-appeals-russian-courts-decision-to-block-access-to-tor/"> Full Text</a>
@@ -151,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers break down WhisperGate wiper malware used in Ukraine website defacement<a href="https://www.zdnet.com/article/researchers-break-down-whispergate-wiper-malware-used-in-ukraine-website-defacement/?&web_view=true"> Full Text</a>
@@ -167,7 +167,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Creating Fraudulent Crypto Tokens as Part of 'Rug Pull' Scams<a href="https://thehackernews.com/2022/01/hackers-creating-fraudulent-crypto.html"> Full Text</a>
@@ -183,7 +183,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tens of AccessPress WordPress themes compromised as part of a supply chain attack<a href="https://securityaffairs.co/wordpress/127124/hacking/tens-of-accesspress-wordpress-themes-compromised-as-part-of-a-supply-chain-attack.html"> Full Text</a>
@@ -203,7 +203,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CWP bugs allow code execution as root on Linux servers, patch now<a href="https://www.bleepingcomputer.com/news/security/cwp-bugs-allow-code-execution-as-root-on-linux-servers-patch-now/"> Full Text</a>
@@ -219,7 +219,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft switches off Excel 4.0 macros by default to protect users against security threats<a href="https://www.zdnet.com/article/microsoft-were-switching-off-excel-4-0-macros-by-default-to-protect-you-against-security-threats/?&web_view=true"> Full Text</a>
@@ -235,7 +235,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian authorities arrested the kingpin of cybercrime Infraud Organization<a href="https://securityaffairs.co/wordpress/127116/cyber-crime/infraud-organization-head-arrested.html"> Full Text</a>
@@ -255,7 +255,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android malware BRATA wipes your device after stealing data<a href="https://www.bleepingcomputer.com/news/security/android-malware-brata-wipes-your-device-after-stealing-data/"> Full Text</a>
@@ -271,7 +271,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Earth Karkaddan Delivers CapraRAT, CrimsonRAT, and ObliqueRAT via Spear-Phishing Campaigns<a href="https://www.trendmicro.com/en_us/research/22/a/investigating-apt36-or-earth-karkaddans-attack-chain-and-malware.html?&web_view=true"> Full Text</a>
@@ -287,7 +287,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet spam uses unconventional IP address formats to evade detection<a href="https://securityaffairs.co/wordpress/127108/malware/emotet-evasion-technique.html"> Full Text</a>
@@ -307,7 +307,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers say they encrypted Belarusian Railway servers in protest<a href="https://www.bleepingcomputer.com/news/security/hackers-say-they-encrypted-belarusian-railway-servers-in-protest/"> Full Text</a>
@@ -323,7 +323,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China accused of hijacking Australia Prime Minister Scott Morrison's WeChat account<a href="https://www.zdnet.com/article/china-accused-of-hijacking-australia-prime-minister-scott-morrisons-wechat-account/?&web_view=true"> Full Text</a>
@@ -339,7 +339,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks tampering with QR Codes to steal victim money and info, FBI warns<a href="https://securityaffairs.co/wordpress/127103/cyber-crime/qr-codes-attacks.html"> Full Text</a>
@@ -359,7 +359,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gangs increase efforts to enlist insiders for attacks<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-increase-efforts-to-enlist-insiders-for-attacks/"> Full Text</a>
@@ -375,7 +375,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 F5 fixes 25 flaws in BIG-IP, BIG-IQ, and NGINX products<a href="https://securityaffairs.co/wordpress/127097/security/f5-big-ip-flaws.html"> Full Text</a>
@@ -395,7 +395,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious PowerPoint files used to push remote access trojans<a href="https://www.bleepingcomputer.com/news/security/malicious-powerpoint-files-used-to-push-remote-access-trojans/"> Full Text</a>
@@ -411,7 +411,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2022
+January 24, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark Souls servers taken down to prevent hacks using critical bug<a href="https://www.bleepingcomputer.com/news/security/dark-souls-servers-taken-down-to-prevent-hacks-using-critical-bug/"> Full Text</a>
@@ -427,7 +427,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2022
+January 23, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Now Using Unconventional IP Address Formats to Evade Detection<a href="https://thehackernews.com/2022/01/emotet-now-using-unconventional-ip.html"> Full Text</a>
@@ -443,7 +443,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2022
+January 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Severity Rust Programming Bug Could Lead to File, Directory Deletion<a href="https://thehackernews.com/2022/01/high-severity-rust-programming-bug.html"> Full Text</a>

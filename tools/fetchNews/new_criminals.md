@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian authorities arrested the kingpin of cybercrime Infraud Organization<a href="https://securityaffairs.co/wordpress/127116/cyber-crime/infraud-organization-head-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian authorities arrested four alleged members of the international cyber theft ring tracked as 'Infraud Organization.'
+
+
+
+In February 2008, the US authorities dismantled the global cybercrime organization tracked as Infraud Organization, which was involved...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs increase efforts to enlist insiders for attacks<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-increase-efforts-to-enlist-insiders-for-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent survey of 100 large (over 5,000 employees) North American IT firms shows that ransomware actors are making greater effort to recruit insiders in targeted firms to aid in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Now Using Unconventional IP Address Formats to Evade Detection<a href="https://thehackernews.com/2022/01/emotet-now-using-unconventional-ip.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social engineering campaigns involving the deployment of the Emotet malware botnet have been observed using "unconventional" IP address formats for the first time in a bid to sidestep detection by security solutions.  This involves the use of hexadecimal and octal representations of the IP address that, when processed by the underlying operating systems, get automatically converted "to the dotted decimal quad representation to initiate the request from the remote servers," Trend Micro's Threat Analyst, Ian Kenefick,&nbsp; said &nbsp;in a report Friday.   The infection chains, as with previous Emotet-related attacks, aim to trick users into enabling document macros and automate malware execution. The document uses Excel 4.0 Macros, a feature that has been&nbsp; repeatedly &nbsp; abused &nbsp;by malicious actors to deliver malware.  Once enabled, the macro invokes a URL that's obfuscated with carets, with the host incorporating a hexadecimal representation of the IP address — "h
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

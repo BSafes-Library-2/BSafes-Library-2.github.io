@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ZTNAs Address Requirements VPNs Cannot. Here's Why.<a href="https://thehackernews.com/2022/01/ztnas-address-requirements-vpns-cannot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I recently hopped on the&nbsp; Lookout podcast &nbsp;to talk about virtual private networks (VPNs) and how they've been extended beyond their original use case of connecting remote laptops to your corporate network. Even in this new world where people are using personal devices and cloud apps, VPN continues to be the go-to solution for remote access and cloud access. After my conversation with Hank Schless, I was inspired to put some additional thoughts about VPN on paper.  When most organizations were forced to shift to remote work last year, they needed a quick-fix solution that would enable their remote employees to access work resources securely. For many, this solution came in the form of VPNs. However, VPNs were not designed for the bring your own device (BYOD) and cloud app use cases.  While VPNs are able to provide remote access, it may come as a surprise that they fall short when it comes to security. This is because VPNs were built for when only a small portion of your workforce w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft switches off Excel 4.0 macros by default to protect users against security threats<a href="https://www.zdnet.com/article/microsoft-were-switching-off-excel-4-0-macros-by-default-to-protect-you-against-security-threats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+That setting, released as an optional configuration in the Excel Trust Center setting in July, is now the default when opening Excel 4.0 macros (XLM), Microsoft said in a blog post.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
