@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XDR Firm Hunters Raises $68 Million in Series C Funding Round<a href="https://www.securityweek.com/xdr-firm-hunters-raises-68-million-series-c-funding-round?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series C round was led by Stripes, with participation from DTCP, Cisco Investments, Databricks, YL Ventures, Bessemer Venture Partners, Microsoft’s M12, U.S. Venture Partners, and others.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

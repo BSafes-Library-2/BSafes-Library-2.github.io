@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware: Patch Horizon servers against ongoing Log4j attacks!<a href="https://www.bleepingcomputer.com/news/security/vmware-patch-horizon-servers-against-ongoing-log4j-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware is urging customers to patch critical Log4j security vulnerabilities impacting Internet-exposed VMware Horizon servers targeted in ongoing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux system service bug gives root on all major distros, exploit released<a href="https://www.bleepingcomputer.com/news/security/linux-system-service-bug-gives-root-on-all-major-distros-exploit-released/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Polkit's pkexec component identified as CVE-2021-4034 (PwnKit) is present in the default configuration of all major Linux distributions and can be exploited to gain full root privileges on the system, researchers warn today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux kernel bug can let hackers escape Kubernetes containers<a href="https://www.bleepingcomputer.com/news/security/linux-kernel-bug-can-let-hackers-escape-kubernetes-containers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability affecting Linux kernel and tracked as CVE-2022-0185 can be used to escape Kubernetes containers, giving access to resources on the host system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Drive flags nearly empty files for 'copyright infringement'<a href="https://www.bleepingcomputer.com/news/security/google-drive-flags-nearly-empty-files-for-copyright-infringement/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users were left startled as Google Drive's automated&nbsp;detection systems flagged a nearly empty file for&nbsp;copyright infringement. The file, according to one Drive user, contained nothing other than just the digit "1" within.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Servers at Risk of RCE Due to Critical CWP Bugs<a href="https://threatpost.com/linux-servers-rce-critical-cwp-bugs/177906/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two flaws in Control Web Panel – a popular web hosting management software used by 200K+ servers – allow code execution as root on Linux servers. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

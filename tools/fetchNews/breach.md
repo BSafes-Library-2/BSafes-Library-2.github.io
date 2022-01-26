@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers say they encrypted Belarusian Railway servers in protest<a href="https://www.bleepingcomputer.com/news/security/hackers-say-they-encrypted-belarusian-railway-servers-in-protest/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of hackers (known as&nbsp;Belarusian Cyber-Partisans) claim they breached and encrypted servers belonging to the Belarusian Railway, Belarus's national state-owned railway company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

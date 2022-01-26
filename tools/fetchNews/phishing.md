@@ -8,6 +8,38 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surge in Malicious QR Codes Sparks FBI Alert<a href="https://threatpost.com/fbi-malicious-qr-codes/177902/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QR codes have become a go-to staple for contactless transactions of all sorts during the pandemic, and the FBI is warning cybercriminals are capitalizing on their lax security to steal data and money, and drop malware.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet spam uses unconventional IP address formats to evade detection<a href="https://securityaffairs.co/wordpress/127108/malware/emotet-evasion-technique.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn Emotet malware campaign using "unconventional" IP address formats in an attempt to evade detection.
+
+
+
+Threat actors behind a recent Emotet malware campaign have been observed using using "unconventional" IP address formats to evade detection....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

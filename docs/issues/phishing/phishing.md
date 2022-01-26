@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Drive now warns you of suspicious phishing, malware docs<a href="https://www.bleepingcomputer.com/news/google/google-drive-now-warns-you-of-suspicious-phishing-malware-docs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is rolling out new warning banners in Google Drive to alert users of potentially suspicious files that threat actors could use for malware delivery and in phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,98 @@ nav_order: 900015
 
 ## Attack
 ---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada's foreign ministry targeted in cyberattack<a href="https://thehill.com//policy/cybersecurity/591206-canadas-foreign-ministry-targeted-in-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Canadian foreign ministry&nbsp;has been impacted&nbsp;by a "cyber incident"&nbsp;that has&nbsp;interrupted some of its "internet-based services," the Canadian government said Monday, according to CNN.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belarus hackers say they've targeted railway to impede Russian troop movements<a href="https://thehill.com//policy/cybersecurity/591175-belarus-hackers-say-theyve-targeted-railway-to-impede-russian-troop"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of Belarusian hackers on Monday said they have targeted a national railway company in an effort to&nbsp;hinder the movement of Russian troops, as tensions rise between Moscow and Kyiv amid reports of a Russian incursion into Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Infect macOS with New DazzleSpy Backdoor in Watering-Hole Attacks<a href="https://thehackernews.com/2022/01/hackers-infect-macos-with-new-dazzlespy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented cyber-espionage malware aimed at Apple's macOS operating system leveraged a Safari web browser exploit as part of a watering hole attack targeting politically active, pro-democracy individuals in Hong Kong.  Slovak cybersecurity firm ESET&nbsp; attributed &nbsp;the intrusion to an actor with "strong technical capabilities," calling out the campaign's overlaps to that of a similar digital offensive&nbsp; disclosed &nbsp;by Google Threat Analysis Group (TAG) in November 2021.  The attack chain involved compromising a legitimate website belonging to D100 Radio, a pro-democracy internet radio station in Hong Kong, to inject malicious inline frames (aka&nbsp; iframes ) between September 30 and November 4, 2021.   In the next phase, the tampered code acted as a conduit to load a&nbsp; Mach-O &nbsp;file by leveraging a remote code execution bug in WebKit that was fixed by Apple in February 2021 ( CVE-2021-1789 ). "The exploit used to gain code execution in the browser is quite
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Segway Hit by Magecart Attack Hiding in a Favicon<a href="https://threatpost.com/segway-magecart-attack-favicon/177971/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Visitors who shopped on the company’s eCommerce website in January will likely find their payment-card data heisted, researchers warned.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated attackers used DazzleSpy macOS backdoor in watering hole attacks<a href="https://securityaffairs.co/wordpress/127166/cyber-crime/dazzlespy-macos-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found an undocumented macOS backdoor, dubbed DazzleSpy, that was employed in watering hole attacks aimed at politically active individuals in Hong Kong. 
+
+
+
+Researchers from ESET have spotted an undocumented macOS backdoor, dubbed DazzleSpy,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers are actively targeting critical RCE bug in SonicWall Secure Mobile Access<a href="https://securityaffairs.co/wordpress/127147/hacking/sonicwall-secure-mobile-access-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a critical flaw (CVE-2021-20038) in SonicWall's Secure Mobile Access (SMA) gateways addressed in December.  
+
+
+
+Threat actors are actively exploiting a critical flaw, tracked as CVE-2021-20038, in SonicWall's Secure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS warns Russia could launch cyberattack on US<a href="https://thehill.com//policy/national-security/591074-dhs-warn-russia-could-launch-cyberattack-on-us"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) is warning that Russia may pursue a cyberattack against the U.S. as tensions escalate over Moscow's buildup of forces near the border with Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks tampering with QR Codes to steal victim money and info, FBI warns<a href="https://securityaffairs.co/wordpress/127103/cyber-crime/qr-codes-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns that cybercriminals are using malicious QR codes to steal their credentials&nbsp;and financial info.
+
+
+
+The Federal Bureau of Investigation (FBI) published a public service announcement (PSA) to warn that cybercriminals are using QR codes to steal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks on Squid Game Minecraft Tourney Take Down Andorra’s Internet<a href="https://threatpost.com/cyberattacks-squid-game-minecraft-andorra-internet/177981/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some of the bursts of traffic reached up to 10Gbps, reports noted, overwhelming the country’s only ISP, and crippling Andorran Squidcraft gamers along with the rest of the population.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada's foreign affairs ministry hacked, some services down<a href="https://www.bleepingcomputer.com/news/security/canadas-foreign-affairs-ministry-hacked-some-services-down/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Canadian government&nbsp;department for foreign and consular relations,&nbsp;Global Affairs Canada was hit by a cyberattack last week. While critical services remain accessible, access to some online services is currently not available, as government systems continue to recover from the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

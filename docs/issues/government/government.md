@@ -8,6 +8,35 @@ nav_order: 900075
 
 ## Government
 ---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Agencies Continue to Raise Red Flags Against Log4Shell<a href="https://cyware.com/news/security-agencies-continue-to-raise-red-flags-against-log4shell-c13277d4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Log4Shell vulnerability has become a menace and poses a huge challenge to the security community. As more Log4Shell victims continue to surface, more security agencies release alerts ​about cybercriminals who continue to exploit the Log4j vulnerability in their attacks. Patch it if you haven't  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK govt releasing Nmap scripts to find unpatched vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/uk-govt-releasing-nmap-scripts-to-find-unpatched-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom's National Cyber Security Centre (NCSC), the government agency that leads&nbsp;UK's&nbsp;cyber security mission, is releasing NMAP Scripting Engine scripts to help defenders scan for and remediate vulnerable systems on their networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploited MSHTML Flaw to Spy on Government and Defense Targets<a href="https://thehackernews.com/2022/01/hackers-exploited-mshtml-flaw-to-spy-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday took the wraps off a multi-stage espionage campaign targeting high-ranking government officials overseeing national security policy and individuals in the defense industry in Western Asia.  The attack is unique as it leverages Microsoft OneDrive as a command-and-control (C2) server and is split into as many as six stages to stay as hidden as possible, Trellix — a new company created following the merger of security firms McAfee Enterprise and FireEye — said in a report shared with The Hacker News. "This type of communication allows the malware to go unnoticed in the victims' systems since it will only connect to legitimate Microsoft domains and won't show any suspicious network traffic," Trellix explained.  First signs of activity associated with the covert operation are said to have commenced as early as June 18, 2021, with two victims reported on September 21 and 29, followed by 17 more in a short span of three days between Octo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
