@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Slim.AI Raises $31 Million to Secure Cloud-Native Applications<a href="https://www.securityweek.com/slimai-raises-31-million-secure-cloud-native-applications?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Slim.AI’s latest funding round was led by Insight Partners and StepStone Group and also received participation from Knollwood, boldstart Ventures, Decibel Partners, FXP, and TechAviv Founder Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

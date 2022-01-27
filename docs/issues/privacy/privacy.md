@@ -11,6 +11,20 @@ nav_order: 900165
 January 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google Drops FLoC and Introduces Topics API to Replace Tracking Cookies for Ads<a href="https://thehackernews.com/2022/01/google-drops-floc-and-introduces-topics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday announced that it is abandoning its controversial plans for replacing third-party cookies in favor of a new Privacy Sandbox proposal called&nbsp; Topics , which categorizes users' browsing habits into approximately 350 topics.  The new  mechanism , which takes the place of&nbsp; FLoC &nbsp;(short for Federated Learning of Cohorts), slots users' browsing history for a given week into a handful of top pre-designated interests (i.e., topics), which are retained only on the device for a revolving period of three weeks.  Subsequently, when a user visits a participating site, the Topics API selects three of the interests — one topic from each of the past three weeks — to share with the site and its advertising partners. To give more control over the framework, users can not only see the topics but also remove topics or disable it altogether.   By labeling each website with a recognizable, high-level topic and sharing the most frequent topics associated with the browsing history,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploited MSHTML Flaw to Spy on Government and Defense Targets<a href="https://thehackernews.com/2022/01/hackers-exploited-mshtml-flaw-to-spy-on.html"> Full Text</a>
 </p>
 <details>

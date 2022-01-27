@@ -8,6 +8,24 @@ nav_order: 900195
 
 ## Solution
 ---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK NCSC is going to release Nmap scripts to find unpatched vulnerabilities<a href="https://securityaffairs.co/wordpress/127181/hacking/uk-ncsc-scanning-made-easy-sme.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK NCSC cybersecurity agency is going to release a collection of NMAP scripts that can allow defenders to find unpatched vulnerabilities.
+
+
+
+The United Kingdom's National Cyber Security Centre (NCSC) announced the release of NMAP Scripting Engine...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

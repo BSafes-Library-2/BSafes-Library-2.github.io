@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Segway e-store compromised in a Magecart attack to steal credit cards<a href="https://securityaffairs.co/wordpress/127187/cyber-crime/segway-magecart-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Segway e-store suffered a Magecart attack that potentially allowed threat actors to steal credit cards and customer info.
+
+
+
+The online store of Segway was compromised as a result of a Magecart attack, threat actors planted a malicious script to steal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California public office admits COVID-19 healthcare data breach<a href="https://portswigger.net/daily-swig/california-public-office-admits-covid-19-healthcare-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The County of Kings, in mid-California, announced that the security flaw in its public web server made limited information on Covid-19 cases available to anyone on the internet.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Segway store hacked to steal customers' credit cards<a href="https://www.bleepingcomputer.com/news/security/segway-store-hacked-to-steal-customers-credit-cards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Segway's online store was compromised to include a malicious Magecart script that potentially allowed threat actors to steal credit cards and customer information during checkout.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

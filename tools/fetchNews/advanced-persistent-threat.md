@@ -8,6 +8,35 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molerats APT Group Targets the Middle East<a href="https://cyware.com/news/molerats-apt-group-targets-the-middle-east-065435b4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ThreatLabz exposed cyberespionage group Molerats that has been leveraging cloud services, such as Google Drive and Dropbox, to host payloads to target the Middle East.  The targets picked by the attackers included important members of the banking sector in Palestine, human rights activists/journali ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MoleRats APT Launches Spy Campaign on Bankers, Politicians, Journalists<a href="https://threatpost.com/molerats-apt-spy-bankers-politicians-journalists/177907/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State-sponsored cyberattackers are using Google Drive, Dropbox and other legitimate services to drop spyware on Middle-Eastern targets and exfiltrate data.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

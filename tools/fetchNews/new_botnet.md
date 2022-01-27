@@ -8,6 +8,48 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Crashes Security Researchers’ Browsers in Latest Upgrade<a href="https://threatpost.com/trickbot-crash-security-researchers-browsers/178046/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware has added an anti-debugging tool that crashes browser tabs when researchers use code beautifying for analysis.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Blanket Androids with Flubot, Teabot Campaigns<a href="https://threatpost.com/threat-actors-androids-flubot-teabot-campaigns/177991/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are getting creative, using smishing &amp; a malicious Google Play QR reader to plant banking trojans on the phones of victims across the globe.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New FluBot and TeaBot campaigns target Android devices worldwide<a href="https://www.bleepingcomputer.com/news/security/new-flubot-and-teabot-campaigns-target-android-devices-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New FluBot and TeaBot malware distribution campaigns have been spotted, using typical smishing lures or laced apps against Android users in Australia, Germany, Poland, Spain, and Romania.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

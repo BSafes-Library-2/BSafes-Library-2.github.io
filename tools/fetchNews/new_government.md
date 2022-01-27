@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House moves to boost cybersecurity at federal agencies<a href="https://thehill.com//policy/cybersecurity/591497-white-house-moves-to-boost-cybersecurity-at-federal-agencies"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House announced on Wednesday new measures to boost cybersecurity within federal agencies following increased cyberattacks on private and public U.S. infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Use Malicious QR Codes, Warns FBI<a href="https://cyware.com/news/threat-actors-use-malicious-qr-codes-warns-fbi-e553b353"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are meddling with QR codes to redirect users to malicious websites that steal their information, deflect their payments to attacker-controlled accounts, and install malware on their devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House wants US govt to use a Zero Trust security model<a href="https://www.bleepingcomputer.com/news/security/white-house-wants-us-govt-to-use-a-zero-trust-security-model/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A&nbsp;newly released Federal strategy wants&nbsp;the US government to adopt a "zero trust" security&nbsp;model within the next two years to defend against current threats and boost cybersecurity defenses across federal agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

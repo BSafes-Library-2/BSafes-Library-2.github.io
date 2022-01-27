@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar: How to See More, But Respond Less with Enhanced Threat Visibility<a href="https://thehackernews.com/2022/01/webinar-how-to-see-more-but-respond.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The subject of threat visibility is a recurring one in cybersecurity. With an expanding attack surface due to the remote work transformation, cloud and SaaS computing and the proliferation of personal devices, seeing all the threats that are continuously bombarding the company is beyond challenging. This especially rings true for small to medium-sized enterprises with limited security budgets and lean IT security teams.  An upcoming webinar ( register here ) tries to help lean security teams understand how to tackle this intractable problem. While adding security solutions to cover blind spots seems logical, the webinar will argue that this just leads to more alarms and more noise. While this approach might be workable for large security teams, smaller teams simply don't have the bandwidth to handle an increase in alerts.  Instead, organizations need broad threat visibility to cover the current blind spots, but then needs the ability to combine, rank and filter alarms by importanc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Love Supply-Chain Chaos: Here’s How to Protect Your Inbox<a href="https://threatpost.com/cybercriminals-supply-chain-protect-inbox/178002/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors use bogus ‘shipping delays’ to deceive customers and businesses. Troy Gill, senior manager of threat intelligence at Zix, discusses how spoofing is evolving and what to do.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

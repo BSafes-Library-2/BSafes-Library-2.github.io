@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Let's Encrypt is revoking lots of SSL certificates in two days<a href="https://www.bleepingcomputer.com/news/security/lets-encrypt-is-revoking-lots-of-ssl-certificates-in-two-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Let's Encrypt will begin revoking certain SSL/TLS certificates issued within the last 90 days starting January 28, 2022. The move could impact millions of active Let's Encrypt certificates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

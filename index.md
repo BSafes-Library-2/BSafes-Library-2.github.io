@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux version of LockBit ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/linux-version-of-lockbit-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telegram Becomes Viable Alternative to the Dark Web, Here’s How Attackers are Exploiting It<a href="https://cyware.com/news/telegram-becomes-viable-alternative-to-the-dark-web-heres-how-attackers-are-exploiting-it-818fe192"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House moves to boost cybersecurity at federal agencies<a href="https://thehill.com//policy/cybersecurity/591497-white-house-moves-to-boost-cybersecurity-at-federal-agencies"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Initial Access Broker Involved in Log4Shell Attacks Against VMware Horizon Servers<a href="https://thehackernews.com/2022/01/initial-access-broker-involved-in.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixed the first two zero-day vulnerabilities of 2022<a href="https://securityaffairs.co/wordpress/127240/hacking/apple-fixed-two-zero-day-2022.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot Crashes Security Researchers’ Browsers in Latest Upgrade<a href="https://threatpost.com/trickbot-crash-security-researchers-browsers/178046/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes new zero-day exploited to hack macOS, iOS devices<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-new-zero-day-exploited-to-hack-macos-ios-devices/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Threat Group Exploits Zoho Flaws in U.S Orgs<a href="https://cyware.com/news/new-threat-group-exploits-zoho-flaws-in-us-orgs-13741069"> Full Text</a>
@@ -167,7 +167,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webinar: How to See More, But Respond Less with Enhanced Threat Visibility<a href="https://thehackernews.com/2022/01/webinar-how-to-see-more-but-respond.html"> Full Text</a>
@@ -183,7 +183,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German intelligence agency warns of China-linked APT27 targeting commercial organizations<a href="https://securityaffairs.co/wordpress/127230/apt/german-intel-warns-apt27-attacks.html"> Full Text</a>
@@ -203,7 +203,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Love Supply-Chain Chaos: Here’s How to Protect Your Inbox<a href="https://threatpost.com/cybercriminals-supply-chain-protect-inbox/178002/"> Full Text</a>
@@ -219,7 +219,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chaes banking trojan hijacks Chrome with malicious extensions<a href="https://www.bleepingcomputer.com/news/security/chaes-banking-trojan-hijacks-chrome-with-malicious-extensions/"> Full Text</a>
@@ -235,7 +235,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Use Malicious QR Codes, Warns FBI<a href="https://cyware.com/news/threat-actors-use-malicious-qr-codes-warns-fbi-e553b353"> Full Text</a>
@@ -251,7 +251,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New DeadBolt ransomware targets QNAP NAS devices￼<a href="https://securityaffairs.co/wordpress/127221/malware/deadbolt-ransomware-qnap-nas.html"> Full Text</a>
@@ -271,7 +271,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Blanket Androids with Flubot, Teabot Campaigns<a href="https://threatpost.com/threat-actors-androids-flubot-teabot-campaigns/177991/"> Full Text</a>
@@ -287,7 +287,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House wants US govt to use a Zero Trust security model<a href="https://www.bleepingcomputer.com/news/security/white-house-wants-us-govt-to-use-a-zero-trust-security-model/"> Full Text</a>
@@ -303,7 +303,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BHUNT - New Password Stealer Aiming for Crypto Wallets<a href="https://cyware.com/news/bhunt-new-password-stealer-aiming-for-crypto-wallets-d11133d5"> Full Text</a>
@@ -319,7 +319,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware urges customers to patch VMware Horizon servers against Log4j attacks<a href="https://securityaffairs.co/wordpress/127214/security/vmware-horizon-patches-log4j-flaws.html"> Full Text</a>
@@ -339,7 +339,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New FluBot and TeaBot campaigns target Android devices worldwide<a href="https://www.bleepingcomputer.com/news/security/new-flubot-and-teabot-campaigns-target-android-devices-worldwide/"> Full Text</a>
@@ -355,7 +355,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub enables two-factor authentication mechanism through iOS, Android app<a href="https://www.zdnet.com/article/github-enables-two-factor-authentication-mechanism-through-ios-android-app/?&web_view=true"> Full Text</a>
@@ -371,7 +371,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PwnKit: Local Privilege Escalation bug affects major Linux distros<a href="https://securityaffairs.co/wordpress/127199/security/linux-cve-2021-4034-bug.html"> Full Text</a>
@@ -391,7 +391,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German govt warns of APT27 hackers backdooring business networks<a href="https://www.bleepingcomputer.com/news/security/german-govt-warns-of-apt27-hackers-backdooring-business-networks/"> Full Text</a>
@@ -407,7 +407,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android security tool APKLeaks patches critical vulnerability<a href="https://portswigger.net/daily-swig/android-security-tool-apkleaks-patches-critical-vulnerability?&web_view=true"> Full Text</a>
@@ -423,7 +423,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PrinterLogic fixes high severity flaws in Printer Management Suite<a href="https://securityaffairs.co/wordpress/127194/security/printerlogic-printer-management-suite-flaws.html"> Full Text</a>
@@ -443,7 +443,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Let's Encrypt is revoking lots of SSL certificates in two days<a href="https://www.bleepingcomputer.com/news/security/lets-encrypt-is-revoking-lots-of-ssl-certificates-in-two-days/"> Full Text</a>
@@ -459,7 +459,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Slim.AI Raises $31 Million to Secure Cloud-Native Applications<a href="https://www.securityweek.com/slimai-raises-31-million-secure-cloud-native-applications?&web_view=true"> Full Text</a>
@@ -475,7 +475,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nobel Foundation site hit by DDoS attack on award day<a href="https://www.bleepingcomputer.com/news/security/nobel-foundation-site-hit-by-ddos-attack-on-award-day/"> Full Text</a>
@@ -491,7 +491,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP warns of new DeadBolt ransomware encrypting NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-of-new-deadbolt-ransomware-encrypting-nas-devices/"> Full Text</a>
@@ -507,7 +507,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2022
+January 25, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Drops FLoC and Introduces Topics API to Replace Tracking Cookies for Ads<a href="https://thehackernews.com/2022/01/google-drops-floc-and-introduces-topics.html"> Full Text</a>
@@ -523,7 +523,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2022
+January 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 12-Year-Old Polkit Flaw Lets Unprivileged Linux Users Gain Root Access<a href="https://thehackernews.com/2022/01/12-year-old-polkit-flaw-lets.html"> Full Text</a>
@@ -539,7 +539,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2022
+January 25, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ozzy Osbourne NFTs Used to Bite Off Chunk of Crypto Coin<a href="https://threatpost.com/ozzy-osbourne-nfts-cryptocurrency/177969/"> Full Text</a>

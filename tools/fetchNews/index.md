@@ -34,6 +34,527 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux version of LockBit ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/linux-version-of-lockbit-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit is the latest ransomware gang whose Linux encryptor has been discovered to be focusing on the encryption of VMware ESXi virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telegram Becomes Viable Alternative to the Dark Web, Here’s How Attackers are Exploiting It<a href="https://cyware.com/news/telegram-becomes-viable-alternative-to-the-dark-web-heres-how-attackers-are-exploiting-it-818fe192"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a report from Cybersixgill, researchers revealed that compromised cards from most popular financial institutions are a lucrative commodity on Telegram-based illicit marketplaces.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House moves to boost cybersecurity at federal agencies<a href="https://thehill.com//policy/cybersecurity/591497-white-house-moves-to-boost-cybersecurity-at-federal-agencies"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House announced on Wednesday new measures to boost cybersecurity within federal agencies following increased cyberattacks on private and public U.S. infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Initial Access Broker Involved in Log4Shell Attacks Against VMware Horizon Servers<a href="https://thehackernews.com/2022/01/initial-access-broker-involved-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An initial access broker group tracked as Prophet Spider  has been linked to a set of malicious activities that exploits the Log4Shell vulnerability in unpatched VMware Horizon Servers.  According to new research  published by BlackBerry Research & Intelligence and Incident Response (IR) teams today, the cybercrime actor has been opportunistically weaponizing the shortcoming to download a second-stage payload onto the victimized systems.  The payloads observed include cryptocurrency miners, Cobalt Strike Beacons, and web shells, corroborating a previous advisory from the U.K. National Health Service (NHS) that  sounded the alarm  on active exploitation of the vulnerabilities in VMware Horizon servers to drop malicious web shells and establish persistence on affected networks for follow-on attacks.   Log4Shell  is a moniker used to refer to an exploit affecting the popular Apache Log4j library that results in remote code execution by logging a specially crafted string. Since public
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixed the first two zero-day vulnerabilities of 2022<a href="https://securityaffairs.co/wordpress/127240/hacking/apple-fixed-two-zero-day-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released security updates to fix two zero-day flaws, one of them actively exploited to hack iPhones and Macs.
+
+
+
+Apple has released security updates to address a couple of zero-day vulnerabilities, one of them being actively exploited in the wild...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Crashes Security Researchers’ Browsers in Latest Upgrade<a href="https://threatpost.com/trickbot-crash-security-researchers-browsers/178046/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware has added an anti-debugging tool that crashes browser tabs when researchers use code beautifying for analysis.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes new zero-day exploited to hack macOS, iOS devices<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-new-zero-day-exploited-to-hack-macos-ios-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to fix two zero-day vulnerabilities, with one publicly disclosed and the other exploited in the wild by attackers to hack into iPhones and Macs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Threat Group Exploits Zoho Flaws in U.S Orgs<a href="https://cyware.com/news/new-threat-group-exploits-zoho-flaws-in-us-orgs-13741069"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks discovered that Emissary Panda, a hacking group with ties to China, is exploiting Zoho software flaws in the networks of at least nine organizations in the defense, energy, technology, healthcare, and education sectors.  The attackers were using malicious tools for credentials ha ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar: How to See More, But Respond Less with Enhanced Threat Visibility<a href="https://thehackernews.com/2022/01/webinar-how-to-see-more-but-respond.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The subject of threat visibility is a recurring one in cybersecurity. With an expanding attack surface due to the remote work transformation, cloud and SaaS computing and the proliferation of personal devices, seeing all the threats that are continuously bombarding the company is beyond challenging. This especially rings true for small to medium-sized enterprises with limited security budgets and lean IT security teams.  An upcoming webinar ( register here ) tries to help lean security teams understand how to tackle this intractable problem. While adding security solutions to cover blind spots seems logical, the webinar will argue that this just leads to more alarms and more noise. While this approach might be workable for large security teams, smaller teams simply don't have the bandwidth to handle an increase in alerts.  Instead, organizations need broad threat visibility to cover the current blind spots, but then needs the ability to combine, rank and filter alarms by importanc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German intelligence agency warns of China-linked APT27 targeting commercial organizations<a href="https://securityaffairs.co/wordpress/127230/apt/german-intel-warns-apt27-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BfV German domestic intelligence services warn of ongoing attacks carried out by the China-linked APT27 cyberespionage group.
+
+
+
+The Bun­des­amt für Ver­fas­sungs­schutz (BfV) federal domestic intelligence agency warns of ongoing attacks coordinated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Love Supply-Chain Chaos: Here’s How to Protect Your Inbox<a href="https://threatpost.com/cybercriminals-supply-chain-protect-inbox/178002/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors use bogus ‘shipping delays’ to deceive customers and businesses. Troy Gill, senior manager of threat intelligence at Zix, discusses how spoofing is evolving and what to do.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chaes banking trojan hijacks Chrome with malicious extensions<a href="https://www.bleepingcomputer.com/news/security/chaes-banking-trojan-hijacks-chrome-with-malicious-extensions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale campaign involving over 800 compromised WordPress websites is spreading banking trojans that target the credentials of Brazilian e-banking users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Use Malicious QR Codes, Warns FBI<a href="https://cyware.com/news/threat-actors-use-malicious-qr-codes-warns-fbi-e553b353"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are meddling with QR codes to redirect users to malicious websites that steal their information, deflect their payments to attacker-controlled accounts, and install malware on their devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DeadBolt ransomware targets QNAP NAS devices￼<a href="https://securityaffairs.co/wordpress/127221/malware/deadbolt-ransomware-qnap-nas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New malware is targeting targets QNAP NAS devices, it is the DeadBolt ransomware and ask 50 BTC for master key
+
+
+
+DeadBolt ransomware is targeting QNAP NAS devices worldwide, its operators claim the availability of a zero-day exploit that allows them...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Blanket Androids with Flubot, Teabot Campaigns<a href="https://threatpost.com/threat-actors-androids-flubot-teabot-campaigns/177991/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are getting creative, using smishing & a malicious Google Play QR reader to plant banking trojans on the phones of victims across the globe.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House wants US govt to use a Zero Trust security model<a href="https://www.bleepingcomputer.com/news/security/white-house-wants-us-govt-to-use-a-zero-trust-security-model/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly released Federal strategy wants the US government to adopt a "zero trust" security model within the next two years to defend against current threats and boost cybersecurity defenses across federal agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BHUNT - New Password Stealer Aiming for Crypto Wallets<a href="https://cyware.com/news/bhunt-new-password-stealer-aiming-for-crypto-wallets-d11133d5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BHUNT is a new crypto stealer family and was spotted by Bitdefender. It is written in .NET and is capable of pilfering wallet content from Electrum, Bitcoin, Ethereum, Exodus, and Atomic, among others.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware urges customers to patch VMware Horizon servers against Log4j attacks<a href="https://securityaffairs.co/wordpress/127214/security/vmware-horizon-patches-log4j-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released security patches to address critical Log4j security vulnerabilities in VMware Horizon servers targeted in ongoing attacks.
+
+
+
+VMware urges customers to patch critical Log4j security vulnerabilities impacting Internet-exposed VMware Horizon...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New FluBot and TeaBot campaigns target Android devices worldwide<a href="https://www.bleepingcomputer.com/news/security/new-flubot-and-teabot-campaigns-target-android-devices-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New FluBot and TeaBot malware distribution campaigns have been spotted, using typical smishing lures or laced apps against Android users in Australia, Germany, Poland, Spain, and Romania.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub enables two-factor authentication mechanism through iOS, Android app<a href="https://www.zdnet.com/article/github-enables-two-factor-authentication-mechanism-through-ios-android-app/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new security feature introduced by GitHub is another way users can enable two-factor authentication alongside security keys and WebAuthn, one-time passcodes, and SMS.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PwnKit: Local Privilege Escalation bug affects major Linux distros<a href="https://securityaffairs.co/wordpress/127199/security/linux-cve-2021-4034-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in Polkit's pkexec component, tracked as CVE-2021-4034 (PwnKit) can be exploited to gain full root privileges on major Linux distros.
+
+
+
+An attacker can exploit a vulnerability in Polkit's pkexec component, tracked as CVE-2021-4034, that affects...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German govt warns of APT27 hackers backdooring business networks<a href="https://www.bleepingcomputer.com/news/security/german-govt-warns-of-apt27-hackers-backdooring-business-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BfV German domestic intelligence services (short for Bun­des­amt für Ver­fas­sungs­schutz) warn of ongoing attacks coordinated by the APT27 Chinese-backed hacking group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android security tool APKLeaks patches critical vulnerability<a href="https://portswigger.net/daily-swig/android-security-tool-apkleaks-patches-critical-vulnerability?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, caused due to improper neutralization of argument delimiters, is tracked as CVE-2021-21386 and has a CVSS severity score of 9.3, an escalation from an original CVSS score of 7.3.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PrinterLogic fixes high severity flaws in Printer Management Suite<a href="https://securityaffairs.co/wordpress/127194/security/printerlogic-printer-management-suite-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PrinterLogic has addressed nine vulnerabilities in Web Stack and Virtual Appliance, including three high severity flaws.
+
+
+
+PrinterLogic has released security updates to address nine vulnerabilities in Web Stack and Virtual Appliance, the most severe...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Let's Encrypt is revoking lots of SSL certificates in two days<a href="https://www.bleepingcomputer.com/news/security/lets-encrypt-is-revoking-lots-of-ssl-certificates-in-two-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Let's Encrypt will begin revoking certain SSL/TLS certificates issued within the last 90 days starting January 28, 2022. The move could impact millions of active Let's Encrypt certificates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Slim.AI Raises $31 Million to Secure Cloud-Native Applications<a href="https://www.securityweek.com/slimai-raises-31-million-secure-cloud-native-applications?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Slim.AI’s latest funding round was led by Insight Partners and StepStone Group and also received participation from Knollwood, boldstart Ventures, Decibel Partners, FXP, and TechAviv Founder Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nobel Foundation site hit by DDoS attack on award day<a href="https://www.bleepingcomputer.com/news/security/nobel-foundation-site-hit-by-ddos-attack-on-award-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Nobel Foundation and the Norwegian Nobel Institute have disclosed a cyber-attack that unfolded during the award ceremony on December 10, 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of new DeadBolt ransomware encrypting NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-of-new-deadbolt-ransomware-encrypting-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP is warning customers again to secure their Internet-exposed Network Attached Storage (NAS) devices to defend against ongoing and widespread attacks targeting their data with the new DeadBolt ransomware strain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Drops FLoC and Introduces Topics API to Replace Tracking Cookies for Ads<a href="https://thehackernews.com/2022/01/google-drops-floc-and-introduces-topics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday announced that it is abandoning its controversial plans for replacing third-party cookies in favor of a new Privacy Sandbox proposal called  Topics , which categorizes users' browsing habits into approximately 350 topics.  The new  mechanism , which takes the place of  FLoC  (short for Federated Learning of Cohorts), slots users' browsing history for a given week into a handful of top pre-designated interests (i.e., topics), which are retained only on the device for a revolving period of three weeks.  Subsequently, when a user visits a participating site, the Topics API selects three of the interests — one topic from each of the past three weeks — to share with the site and its advertising partners. To give more control over the framework, users can not only see the topics but also remove topics or disable it altogether.   By labeling each website with a recognizable, high-level topic and sharing the most frequent topics associated with the browsing history,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+12-Year-Old Polkit Flaw Lets Unprivileged Linux Users Gain Root Access<a href="https://thehackernews.com/2022/01/12-year-old-polkit-flaw-lets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 12-year-old security vulnerability has been disclosed in a system utility called Polkit that grants attackers root privileges on Linux systems, even as a proof-of-concept (PoC) exploit has emerged in the wild merely hours after technical details of the bug became public.  Dubbed "PwnKit" by cybersecurity firm Qualys, the weakness impacts a component in polkit called pkexec, a program that's installed by default on every major Linux distribution such as Ubunti, Debian, Fedora, and CentOS.  Polkit  (formerly called PolicyKit ) is a toolkit for controlling system-wide privileges in Unix-like operating systems, and provides a mechanism for non-privileged processes to communicate with privileged processes.   "This vulnerability allows any unprivileged user to gain full root privileges on a vulnerable host by exploiting this vulnerability in its default configuration," Bharat Jogi, director of vulnerability and threat research at Qualys,  said , adding it "has
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ozzy Osbourne NFTs Used to Bite Off Chunk of Crypto Coin<a href="https://threatpost.com/ozzy-osbourne-nfts-cryptocurrency/177969/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A discarded Discord vanity URL for CryptoBatz was hijacked by cybercriminals to drain cryptocurrency wallets. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 25, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

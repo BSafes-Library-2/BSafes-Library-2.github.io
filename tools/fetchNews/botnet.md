@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot now crashes researchers' browsers to block malware analysis<a href="https://www.bleepingcomputer.com/news/security/trickbot-now-crashes-researchers-browsers-to-block-malware-analysis/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious TrickBot malware has received new features that make it more challenging to research, analyze, and detect in the latest variants, including crashing browser tabs when it detects beautified scripts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Operators Bolster Layered Defenses to Prevent Injection Research<a href="https://securityintelligence.com/posts/trickbot-bolsters-layered-defenses-prevent-injection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators behind the notorious TrickBot malware have once again updated their evasion techniques by adding multiple layers of defense to slip past antimalware products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Initial Access Broker Involved in Log4Shell Attacks Against VMware Horizon Servers<a href="https://thehackernews.com/2022/01/initial-access-broker-involved-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An initial access broker group tracked as Prophet Spider  has been linked to a set of malicious activities that exploits the Log4Shell vulnerability in unpatched VMware Horizon Servers.  According to new research  published by BlackBerry Research &amp; Intelligence and Incident Response (IR) teams today, the cybercrime actor has been opportunistically weaponizing the shortcoming to download a second-stage payload onto the victimized systems.  The payloads observed include cryptocurrency miners, Cobalt Strike Beacons, and web shells, corroborating a previous advisory from the U.K. National Health Service (NHS) that&nbsp; sounded the alarm &nbsp;on active exploitation of the vulnerabilities in VMware Horizon servers to drop malicious web shells and establish persistence on affected networks for follow-on attacks.   Log4Shell &nbsp;is a moniker used to refer to an exploit affecting the popular Apache Log4j library that results in remote code execution by logging a specially crafted string. Since public
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German intelligence agency warns of China-linked APT27 targeting commercial organizations<a href="https://securityaffairs.co/wordpress/127230/apt/german-intel-warns-apt27-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BfV German domestic intelligence services warn of ongoing attacks carried out by the China-linked APT27 cyberespionage group.
+
+
+
+The Bun­des­amt für Ver­fas­sungs­schutz (BfV) federal domestic intelligence agency warns of ongoing attacks coordinated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German govt warns of APT27 hackers backdooring business networks<a href="https://www.bleepingcomputer.com/news/security/german-govt-warns-of-apt27-hackers-backdooring-business-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BfV German domestic intelligence services (short for Bun­des­amt für Ver­fas­sungs­schutz) warn of ongoing attacks coordinated by the APT27 Chinese-backed hacking group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

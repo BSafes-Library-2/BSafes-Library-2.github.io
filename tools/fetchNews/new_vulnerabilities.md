@@ -8,6 +8,120 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixed the first two zero-day vulnerabilities of 2022<a href="https://securityaffairs.co/wordpress/127240/hacking/apple-fixed-two-zero-day-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released security updates to fix two zero-day flaws, one of them actively exploited to hack iPhones and Macs.
+
+
+
+Apple has released security updates to address a couple of zero-day vulnerabilities, one of them being actively exploited in the wild...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes new zero-day exploited to hack macOS, iOS devices<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-new-zero-day-exploited-to-hack-macos-ios-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to fix two zero-day vulnerabilities, with one publicly disclosed and the other exploited in the wild by attackers to hack into iPhones and Macs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware urges customers to patch VMware Horizon servers against Log4j attacks<a href="https://securityaffairs.co/wordpress/127214/security/vmware-horizon-patches-log4j-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released security patches to address critical Log4j security vulnerabilities in VMware Horizon servers targeted in ongoing attacks.
+
+
+
+VMware urges customers to patch critical Log4j security vulnerabilities impacting Internet-exposed VMware Horizon...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PwnKit: Local Privilege Escalation bug affects major Linux distros<a href="https://securityaffairs.co/wordpress/127199/security/linux-cve-2021-4034-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in Polkit's pkexec component, tracked as CVE-2021-4034 (PwnKit) can be exploited to gain full root privileges on major Linux distros.
+
+
+
+An attacker can exploit a vulnerability in Polkit's pkexec component, tracked as CVE-2021-4034, that affects...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android security tool APKLeaks patches critical vulnerability<a href="https://portswigger.net/daily-swig/android-security-tool-apkleaks-patches-critical-vulnerability?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, caused due to improper neutralization of argument delimiters, is tracked as CVE-2021-21386 and has a CVSS severity score of 9.3, an escalation from an original CVSS score of 7.3.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PrinterLogic fixes high severity flaws in Printer Management Suite<a href="https://securityaffairs.co/wordpress/127194/security/printerlogic-printer-management-suite-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PrinterLogic has addressed nine vulnerabilities in Web Stack and Virtual Appliance, including three high severity flaws.
+
+
+
+PrinterLogic has released security updates to address nine vulnerabilities in Web Stack and Virtual Appliance, the most severe...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+12-Year-Old Polkit Flaw Lets Unprivileged Linux Users Gain Root Access<a href="https://thehackernews.com/2022/01/12-year-old-polkit-flaw-lets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 12-year-old security vulnerability has been disclosed in a system utility called Polkit that grants attackers root privileges on Linux systems, even as a proof-of-concept (PoC) exploit has emerged in the wild merely hours after technical details of the bug became public.  Dubbed "PwnKit" by cybersecurity firm Qualys, the weakness impacts a component in polkit called pkexec, a program that's installed by default on every major Linux distribution such as Ubunti, Debian, Fedora, and CentOS.  Polkit &nbsp;(formerly called PolicyKit ) is a toolkit for controlling system-wide privileges in Unix-like operating systems, and provides a mechanism for non-privileged processes to communicate with privileged processes.   "This vulnerability allows any unprivileged user to gain full root privileges on a vulnerable host by exploiting this vulnerability in its default configuration," Bharat Jogi, director of vulnerability and threat research at Qualys,&nbsp; said , adding it "has
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
