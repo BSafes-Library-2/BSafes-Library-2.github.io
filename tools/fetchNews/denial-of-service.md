@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nobel Foundation site hit by DDoS attack on award day<a href="https://www.bleepingcomputer.com/news/security/nobel-foundation-site-hit-by-ddos-attack-on-award-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Nobel Foundation and the Norwegian Nobel Institute have disclosed a cyber-attack that unfolded during the award ceremony on December 10, 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

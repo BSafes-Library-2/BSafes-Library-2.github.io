@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telegram Becomes Viable Alternative to the Dark Web, Here’s How Attackers are Exploiting It<a href="https://cyware.com/news/telegram-becomes-viable-alternative-to-the-dark-web-heres-how-attackers-are-exploiting-it-818fe192"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a report from Cybersixgill, researchers revealed that compromised cards from most popular financial institutions are a lucrative commodity on Telegram-based illicit marketplaces.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

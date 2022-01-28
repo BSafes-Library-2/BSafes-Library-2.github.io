@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts analyze first LockBit ransomware for Linux and VMware ESXi<a href="https://securityaffairs.co/wordpress/127248/cyber-crime/lockbit-ransomware-linux-vmware-esxi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit expands its operations by implementing a Linux version of LockBit ransomware that targets VMware ESXi servers.
+
+
+
+LockBit is the latest ransomware operation to add the support for Linux systems, experts spotted a new version that targets VMware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

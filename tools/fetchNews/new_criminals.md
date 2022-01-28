@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Operations Apparently Unaffected by Recent Arrests<a href="https://www.securityweek.com/revil-ransomware-operations-apparently-unaffected-recent-arrests?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware cooperative’s activity has not slowed down following Russia’s recent move to arrest several alleged members of the group, according to threat intelligence company ReversingLabs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit ransomware gang claims to have hacked Ministry of Justice of France<a href="https://securityaffairs.co/wordpress/127267/cyber-crime/ministry-of-justice-of-france-lockbit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A few hours ago Lockbit ransomware operators announced to have stolen data from Ministry of Justice of France.
+
+
+
+The Ministry of Justice of France is a body of the French government, which is responsible for: supervision of the judiciary, its maintenance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

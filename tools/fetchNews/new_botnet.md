@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Widespread FluBot and TeaBot Malware Campaigns Targeting Android Devices<a href="https://thehackernews.com/2022/01/widespread-flubot-and-teabot-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the Bitdefender Mobile Threats team said they have intercepted more than 100,000 malicious SMS messages attempting to distribute&nbsp; Flubot &nbsp;malware since the beginning of December.  "Findings indicate attackers are modifying their subject lines and using older yet proven scams to entice users to click," the Romanian cybersecurity firm&nbsp; detailed &nbsp;in a report published Wednesday. "Additionally, attackers are rapidly changing the countries they are targeting in this campaign."  The new wave of attacks is said to have been most active in Australia, Germany, Poland, Spain, Austria, and Italy, among others, with attacks spreading to newer countries like Romania, the Netherlands, and Thailand starting mid-January.  FluBot (aka Cabassous) campaigns use smishing as the primary delivery method to target potential victims, wherein users receive an SMS message with the question "Is this you in this video?" and are tricked into clicking a link that inst
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

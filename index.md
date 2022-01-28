@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeepDotWeb admin imprisoned for advertising illegal dark web markets<a href="https://www.bleepingcomputer.com/news/security/deepdotweb-admin-imprisoned-for-advertising-illegal-dark-web-markets/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New phishing attack uses an unusual trick to spread further<a href="https://www.zdnet.com/article/attackers-add-rogue-pc-to-victims-networks-in-this-sneaky-phishing-campaign/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patching the CentOS 8 Encryption Bug is Urgent – What Are Your Plans?<a href="https://thehackernews.com/2022/01/patching-centos-8-encryption-bug-is.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House Releases Memo on Cybersecurity at Federal Agencies<a href="https://www.lawfareblog.com/white-house-releases-memo-cybersecurity-federal-agencies"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Puerto Rico was hit by a major cyberattack<a href="https://securityaffairs.co/wordpress/127265/hacking/puerto-rico-suffered-cyberattack.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Secure Your SaaS Stack with a SaaS Security Posture Management Solution<a href="https://threatpost.com/secure-saas-stack-security-posture-solution/177815/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Taiwanese Apple and Tesla contractor hit by Conti ransomware<a href="https://www.bleepingcomputer.com/news/security/taiwanese-apple-and-tesla-contractor-hit-by-conti-ransomware/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Warns of Log4j Attacks Targeting Horizon Servers<a href="https://www.securityweek.com/vmware-warns-log4j-attacks-targeting-horizon-servers?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chaes Banking Trojan Hijacks Chrome Browser with Malicious Extensions<a href="https://thehackernews.com/2022/01/chaes-banking-trojan-hijacks-chrome.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked Lazarus APT used Windows Update client and GitHub in recent attacks<a href="https://securityaffairs.co/wordpress/127296/apt/lazarus-apt-windows-update-client.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus hackers use Windows Update to deploy malware<a href="https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-windows-update-to-deploy-malware/"> Full Text</a>
@@ -218,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Strategy Funds UK Public Services' Cyber Resilience<a href="https://www.govinfosecurity.com/new-strategy-funds-uk-public-services-cyber-resilience-a-18381?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Widespread FluBot and TeaBot Malware Campaigns Targeting Android Devices<a href="https://thehackernews.com/2022/01/widespread-flubot-and-teabot-malware.html"> Full Text</a>
@@ -250,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular apps left biometric data, IDs of millions of users in danger<a href="https://securityaffairs.co/wordpress/127291/data-breach/onfido-large-businesses-customers-data-exposed.html"> Full Text</a>
@@ -270,7 +270,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of multi-stage phishing campaign leveraging Azure AD<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-multi-stage-phishing-campaign-leveraging-azure-ad/"> Full Text</a>
@@ -286,7 +286,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Ransomware Operations Apparently Unaffected by Recent Arrests<a href="https://www.securityweek.com/revil-ransomware-operations-apparently-unaffected-recent-arrests?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft mitigated a 3.47 Tbps DDoS attack, the largest one to date<a href="https://securityaffairs.co/wordpress/127279/cyber-crime/record-ddos-attack-azure.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian APT29 hackers' stealthy malware undetected for years<a href="https://www.bleepingcomputer.com/news/security/russian-apt29-hackers-stealthy-malware-undetected-for-years/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Puerto Rico's Senate, Internet Provider, Phone System, and Website Impacted by Cyberattack<a href="https://www.securityweek.com/official-says-puerto-ricos-senate-targeted-cyberattack?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lockbit ransomware gang claims to have hacked Ministry of Justice of France<a href="https://securityaffairs.co/wordpress/127267/cyber-crime/ministry-of-justice-of-france-lockbit.html"> Full Text</a>
@@ -374,7 +374,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft mitigated a record 3.47 Tbps DDoS attack on Azure users<a href="https://www.bleepingcomputer.com/news/security/microsoft-mitigated-a-record-347-tbps-ddos-attack-on-azure-users/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Worklyn Partners acquires Quadrant Information Security to expand security services<a href="https://www.helpnetsecurity.com/2022/01/27/worklyn-partners-quadrant-information-security/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new highly evasive technique used to deliver the AsyncRAT Malware<a href="https://securityaffairs.co/wordpress/127257/malware/asyncrat-phishing-campaign.html"> Full Text</a>
@@ -430,7 +430,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 105 million Android users targeted by subscription fraud campaign<a href="https://www.bleepingcomputer.com/news/security/105-million-android-users-targeted-by-subscription-fraud-campaign/"> Full Text</a>
@@ -446,7 +446,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts analyze first LockBit ransomware for Linux and VMware ESXi<a href="https://securityaffairs.co/wordpress/127248/cyber-crime/lockbit-ransomware-linux-vmware-esxi.html"> Full Text</a>
@@ -466,7 +466,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Fixes 2 Zero-Day Security Bugs, One Exploited in the Wild<a href="https://threatpost.com/apple-zero-day-security-exploited/178040/"> Full Text</a>
@@ -482,7 +482,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Dark Herring’ Billing Malware Swims onto 105M Android Devices<a href="https://threatpost.com/dark-herring-billing-malware-android/178032/"> Full Text</a>
@@ -498,7 +498,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using New Evasive Technique to Deliver AsyncRAT Malware<a href="https://thehackernews.com/2022/01/hackers-using-new-evasive-technique-to.html"> Full Text</a>
@@ -514,7 +514,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Year, New Threats: 4 Tips to Activate Your Best Cyber-Defense<a href="https://threatpost.com/tips-activate-cyber-defense/177955/"> Full Text</a>
@@ -530,7 +530,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Releases iOS and macOS Updates to Patch Actively Exploited 0-Day Vulnerability<a href="https://thehackernews.com/2022/01/apple-releases-ios-and-ipados-updates.html"> Full Text</a>

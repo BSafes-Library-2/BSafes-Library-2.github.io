@@ -8,6 +8,38 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft mitigated a 3.47 Tbps DDoS attack, the largest one to date<a href="https://securityaffairs.co/wordpress/127279/cyber-crime/record-ddos-attack-azure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced to have mitigated a record&nbsp;3.47 Tbps&nbsp;distributed denial of service (DDoS) attack targeting an Azure customer.
+
+
+
+Microsoft announced that its Azure DDoS protection platform has mitigated a record&nbsp;3.47 Tbps&nbsp;attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft mitigated a record 3.47 Tbps DDoS attack on Azure users<a href="https://www.bleepingcomputer.com/news/security/microsoft-mitigated-a-record-347-tbps-ddos-attack-on-azure-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says its Azure DDoS protection platform mitigated a massive&nbsp;3.47 terabits per second (Tbps)&nbsp;distributed denial of service (DDoS) attack targeting an Azure customer&nbsp;from Asia in November.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux version of LockBit ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/linux-version-of-lockbit-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit is the latest ransomware gang whose Linux encryptor has been discovered to be focusing on the encryption of VMware ESXi virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DeadBolt ransomware targets QNAP NAS devices￼<a href="https://securityaffairs.co/wordpress/127221/malware/deadbolt-ransomware-qnap-nas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New malware is targeting targets QNAP NAS devices, it is the DeadBolt ransomware and ask 50 BTC for master key
+
+
+
+DeadBolt ransomware is targeting QNAP NAS devices worldwide, its operators claim the availability of a zero-day exploit that allows them...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of new DeadBolt ransomware encrypting NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-of-new-deadbolt-ransomware-encrypting-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP&nbsp;is warning customers again to secure their Internet-exposed Network Attached Storage (NAS) devices to defend against ongoing and widespread attacks targeting their data with the new&nbsp;DeadBolt ransomware strain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

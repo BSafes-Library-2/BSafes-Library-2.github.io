@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patching the CentOS 8 Encryption Bug is Urgent – What Are Your Plans?<a href="https://thehackernews.com/2022/01/patching-centos-8-encryption-bug-is.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are three things you can be sure of in life: death, taxes – and new CVEs. For organizations that rely on CentOS 8, the inevitable has now happened, and it didn't take long. Just two weeks after reaching the official end of life, something broke spectacularly, leaving&nbsp; CentOS 8 &nbsp;users at major risk of a severe attack – and with no support from CentOS.  You'd think that this issue no longer affects a significant number of organizations because by now, companies would have migrated away from CentOS 8 to an OS that is actively supported by vendors. After all, vendor support is critical for security and compliance.  But as it always is with these things, you can count on the fact that a big chunk of CentOS 8 users are soldiering on with an unsupported OS, despite being aware of the risks. With that risk now crystallizing we're using this article to examine&nbsp; CVE-2021-4122 , the newly discovered vulnerability in LUKS encryption, and to discuss your options for mitigating it.  Wait, wha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Warns of Log4j Attacks Targeting Horizon Servers<a href="https://www.securityweek.com/vmware-warns-log4j-attacks-targeting-horizon-servers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2021-44228, the flaw was identified in December 2021 in the Apache Log4j logging utility, and has since been exploited in attacks by both cybercriminals and state-sponsored actors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular apps left biometric data, IDs of millions of users in danger<a href="https://securityaffairs.co/wordpress/127291/data-breach/onfido-large-businesses-customers-data-exposed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal data belonging to millions of customers of large businesses have been exposed due to a flaw in Onfido IDV.
+
+
+
+Millions of customers of large businesses have been left vulnerable to identity theft, thanks to a security flaw that exposes their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Fixes 2 Zero-Day Security Bugs, One Exploited in the Wild<a href="https://threatpost.com/apple-zero-day-security-exploited/178040/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+iOS 15.3 &amp; iPadOS 15.3 fix the Safari browser flaw that could have spilled users’ browsing data, plus a zero day IOMobileFrameBuffer bug exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases iOS and macOS Updates to Patch Actively Exploited 0-Day Vulnerability<a href="https://thehackernews.com/2022/01/apple-releases-ios-and-ipados-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Wednesday&nbsp; released &nbsp;iOS 15.3 and macOS Monterey 12.2 with a fix for the privacy-defeating bug in Safari, as well as to contain a zero-day flaw, which it said has been exploited in the wild to break into its devices.  Tracked as&nbsp; CVE-2022-22587 , the vulnerability relates to a memory corruption issue in the IOMobileFrameBuffer component that could be abused by a malicious application to execute arbitrary code with kernel privileges.  The iPhone maker said it's "aware of a report that this issue may have been actively exploited," adding it addressed the issue with improved input validation. It did not reveal the nature of the attacks, how widespread they are, or the identities of the threat actors exploiting them.   An anonymous researcher along with Meysam Firouzi and Siddharth Aeri have been credited with discovering and reporting the flaw.  CVE-2022-22587 is the third zero-day vulnerability discovered in IOMobileFrameBuffer in a span of six months after&nbsp; CVE-2
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

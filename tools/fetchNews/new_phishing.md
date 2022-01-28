@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New phishing attack uses an unusual trick to spread further<a href="https://www.zdnet.com/article/attackers-add-rogue-pc-to-victims-networks-in-this-sneaky-phishing-campaign/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new multi-phase phishing campaign first enrolls an attacker's BYOD device on a corporate network and then begins sending thousands of convincing phishing emails to further targets.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of multi-stage phishing campaign leveraging Azure AD<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-multi-stage-phishing-campaign-leveraging-azure-ad/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's threat analysts have uncovered a large-scale, multi-phase phishing campaign that uses stolen credentials to register devices onto the target's network and use them to distribute phishing emails.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

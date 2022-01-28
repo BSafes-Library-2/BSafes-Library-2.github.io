@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Secure Your SaaS Stack with a SaaS Security Posture Management Solution<a href="https://threatpost.com/secure-saas-stack-security-posture-solution/177815/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SaaS Security Posture Management (SSPM) named a must have solution by Gartner. Adaptive Shields SSPM solution allows security teams full visibility and control.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Year, New Threats: 4 Tips to Activate Your Best Cyber-Defense<a href="https://threatpost.com/tips-activate-cyber-defense/177955/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Need a blueprint for architecting a formidable cyber-defense? Kerry Matre, senior director at Mandiant, shares hers in this detailed breakdown.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

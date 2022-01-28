@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Puerto Rico's Senate, Internet Provider, Phone System, and Website Impacted by Cyberattack<a href="https://www.securityweek.com/official-says-puerto-ricos-senate-targeted-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Puerto Rico’s Senate announced that it was the target of a cyberattack that disabled its internet provider, phone system, and online page, the latest in a string of similar incidents in recent years.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

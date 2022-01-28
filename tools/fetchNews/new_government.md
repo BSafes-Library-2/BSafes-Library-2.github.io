@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Releases Memo on Cybersecurity at Federal Agencies<a href="https://www.lawfareblog.com/white-house-releases-memo-cybersecurity-federal-agencies"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House Office of Management and Budget released a memo that announces new measures to strengthen cybersecurity within federal agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Strategy Funds UK Public Services' Cyber Resilience<a href="https://www.govinfosecurity.com/new-strategy-funds-uk-public-services-cyber-resilience-a-18381?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.K. local authorities are to receive more than $50 million from the government to boost cyber resilience in essential public services and data in sectors such as housing benefits,
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

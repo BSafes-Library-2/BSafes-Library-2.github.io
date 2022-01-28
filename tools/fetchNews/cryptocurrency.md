@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+January 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ozzy Osbourne NFTs Used to Bite Off Chunk of Crypto Coin<a href="https://threatpost.com/ozzy-osbourne-nfts-cryptocurrency/177969/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A discarded Discord vanity URL for CryptoBatz was hijacked by cybercriminals to drain cryptocurrency wallets. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

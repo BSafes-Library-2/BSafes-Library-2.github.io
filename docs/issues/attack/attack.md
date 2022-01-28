@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+January 27, 2022 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Puerto Rico was hit by a major cyberattack<a href="https://securityaffairs.co/wordpress/127265/hacking/puerto-rico-suffered-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Puerto Rico’s Senate announced that is was it by a cyberattack that shut down its internet provider, phone system and official online page.
+
+
+
+The Senate of Puerto Rico announced this week that it was hit by a major cyberattack that disabled its internet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taiwanese Apple and Tesla contractor hit by Conti ransomware<a href="https://www.bleepingcomputer.com/news/security/taiwanese-apple-and-tesla-contractor-hit-by-conti-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Delta Electronics, a Taiwanese electronics company and a provider for Apple, Tesla, HP, and Dell, disclosed that it was the victim of a cyberattack discovered on Friday morning.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+105 million Android users targeted by subscription fraud campaign<a href="https://www.bleepingcomputer.com/news/security/105-million-android-users-targeted-by-subscription-fraud-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A premium services subscription scam&nbsp;for Android has been operating for close to two years. Called&nbsp;'Dark Herring', the operation used 470 Google Play Store apps and affected over 100 million users worldwide, potentially causing hundreds of millions of USD in total losses.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
