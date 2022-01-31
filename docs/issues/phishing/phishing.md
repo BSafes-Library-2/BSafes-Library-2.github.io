@@ -8,6 +8,52 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Stage Phishing Campaign Leverages BYOD Concept to Target Organizations<a href="https://cyware.com/news/multi-stage-phishing-campaign-leverages-byod-concept-to-target-organizations-e8841a30"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Microsoft 365 Defender Threat Intelligence Team, the campaign took advantage of the devices that did not implement MultiFactor Authentication (MFA).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel device registration trick enhances multi-stage phishing attacks<a href="https://securityaffairs.co/wordpress/127362/cyber-crime/phishing-exploit-byod.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has disclosed details of a large-scale phishing campaign using a novel device registration technique to target other enterprises.
+
+
+
+Microsoft has shared details of a large-scale phishing campaign that leverages stolen credentials to register...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finland warns of Facebook accounts hijacked via Messenger phishing<a href="https://www.bleepingcomputer.com/news/security/finland-warns-of-facebook-accounts-hijacked-via-messenger-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finland's National Cyber Security Centre (NCSC-FI) warns of an ongoing phishing campaign attempting to hijack Facebook accounts by impersonating victims' friends in Facebook Messenger chats.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus hackers use Windows Update to deploy malware<a href="https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-windows-update-to-deploy-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean-backed hacking group&nbsp;Lazarus has added the Windows Update client to its&nbsp;list of living-off-the-land binaries (LoLBins) and is now actively using it to&nbsp;execute malicious code on Windows systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using New Evasive Technique to Deliver AsyncRAT Malware<a href="https://thehackernews.com/2022/01/hackers-using-new-evasive-technique-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new, sophisticated phishing attack has been observed delivering the AsyncRAT trojan as part of a malware campaign that's believed to have commenced in September 2021.  "Through a simple email phishing tactic with an html attachment, threat attackers are delivering AsyncRAT (a remote access trojan) designed to remotely monitor and control its infected computers through a secure, encrypted connection," Michael Dereviashkin, security researcher at enterprise breach prevention firm Morphisec,&nbsp; said &nbsp;in a report.   The intrusions commence with an email message containing an HTML attachment that's disguised as an order confirmation receipt (e.g., Receipt-<digits>.html). Opening the decoy file redirects the message recipient to a web page prompting the user to save an ISO file.  But unlike other attacks that route the victim to a phishing domain set up explicitly for downloading the next-stage malware, the latest RAT campaign cleverly uses JavaScript to locally crea
+</digits></details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

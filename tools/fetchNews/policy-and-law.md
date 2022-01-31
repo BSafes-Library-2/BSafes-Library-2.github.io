@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepDotWeb admin imprisoned for advertising illegal dark web markets<a href="https://www.bleepingcomputer.com/news/security/deepdotweb-admin-imprisoned-for-advertising-illegal-dark-web-markets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Israeli citizen who operated DeepDotWeb (DDW), a news site and review site for dark web sites, has received a sentence of 97 months in prison for money laundering and was ordered to forfeit $8,414,173.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

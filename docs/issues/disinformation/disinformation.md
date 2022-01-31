@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+January 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US targets Russian disinformation in&nbsp;bid to defend Ukraine<a href="https://thehill.com//homenews/administration/591870-us-targets-russian-disinformation-in-bid-to-defend-ukraine"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration has increasingly focused on calling out Russian disinformation and propaganda, making it a central pillar of its strategy to confront Moscow and help defend Ukraine in the face of Russia's war tactics.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

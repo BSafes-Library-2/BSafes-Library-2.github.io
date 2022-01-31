@@ -8,6 +8,112 @@ nav_order: 900075
 
 ## Government
 ---
+January 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US FCC bans China Unicom Americas telecom over national security risks<a href="https://securityaffairs.co/wordpress/127347/security/us-ban-china-unicom-americas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) revoked the license for the China Unicom Americas over serious national security concerns.
+
+
+
+The Federal Communications Commission (FCC) has revoked the license for China Unicom Americas over "serious national...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Hacker Attacks Conducted by Iranian Cyber Firm<a href="https://www.securityweek.com/fbi-warns-hacker-attacks-conducted-iranian-cyber-firm?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI this week issued a private industry notification to warn organizations about the malicious activities conducted by an Iranian cyber company named Emennet Pasargad.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House, EPA release 100-day cybersecurity plan for water utility operators<a href="https://www.zdnet.com/article/white-house-epa-release-100-day-cybersecurity-plan-for-water-utility-operators/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House, EPA, and CISA are rolling out a 100-day plan to improve the cybersecurity of the country's water systems, which faced a variety of attacks over the last year.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US bans major Chinese telecom over national security risks<a href="https://www.bleepingcomputer.com/news/security/us-bans-major-chinese-telecom-over-national-security-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) has revoked China Unicom Americas' license, one of the world's&nbsp;largest mobile service providers, over "serious&nbsp;national security concerns."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC alerts UK orgs to brace for destructive Russian cyberattacks<a href="https://www.bleepingcomputer.com/news/security/ncsc-alerts-uk-orgs-to-brace-for-destructive-russian-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's National Cyber Security Centre (NCSC) is urging organizations to bolster security and prepare for a potential wave of destructive cyberattacks after recent breaches of Ukrainian entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC warns UK entities of potential destructive cyberattacks from Russia<a href="https://securityaffairs.co/wordpress/127342/security/ncsc-alerts-destructive-russian-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK’s National Cyber Security Centre (NCSC) urges organizations to improve cybersecurity due to the risk of imminent destructive cyberattacks from Russia-linked APT groups.
+
+
+
+The UK’s National Cyber Security Centre (NCSC) is urging organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU to create pan-European cyber incident coordination framework<a href="https://www.bleepingcomputer.com/news/security/eu-to-create-pan-european-cyber-incident-coordination-framework/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Systemic Risk Board (ESRB) proposed a new systemic cyber incident coordination framework that would allow EU relevant authorities to better coordinate when having to respond to&nbsp;major cross-border cyber incidents impacting&nbsp;the Union's financial&nbsp;sector.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

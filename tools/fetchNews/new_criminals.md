@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jupyter: A Cyberspace Invader Stealing SLTT Data<a href="https://www.cisecurity.org/blog/jupyter-a-cyberspace-invader-stealing-sltt-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jupyter deploys a multi-stage process, leveraging PowerShell and legitimate tools, such as Slim PDF Reader, to drop secondary payloads to fingerprint victim information, including computer name, OS version, architecture, and user identifier.
+</details>
+<div style="text-align: right" markdown="1">
+CIS
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Outlook RCE zero-day exploits now selling for $400,000<a href="https://www.bleepingcomputer.com/news/security/microsoft-outlook-rce-zero-day-exploits-now-selling-for-400-000/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploit broker Zerodium has announced a pay jump to 400,000 for zero-day vulnerabilities that allow remote code execution (RCE) in Microsoft Outlook email client.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

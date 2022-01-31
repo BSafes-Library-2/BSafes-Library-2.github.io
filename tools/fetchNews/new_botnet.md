@@ -11,6 +11,20 @@ nav_order: 900025
 January 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+BotenaGo Botnet Code Leaked to GitHub, Impacting Millions of Devices<a href="https://threatpost.com/botenago-botnet-code-leaked-to-github/178059/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware had already put millions of routers and IoT devices at risk, and now any noob can have at it. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Widespread FluBot and TeaBot Malware Campaigns Targeting Android Devices<a href="https://thehackernews.com/2022/01/widespread-flubot-and-teabot-malware.html"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,70 @@ nav_order: 900015
 
 ## Attack
 ---
+January 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hybrid cloud campaign OiVaVoii targets company executives<a href="https://securityaffairs.co/wordpress/127396/cyber-crime/oivavoii-campaign-oauth.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new hacking campaign, tracked as ‘OiVaVoii’, is targeting company executives with malicious OAuth apps.
+
+
+
+Researchers from Proofpoint have uncovered a new campaign named ‘OiVaVoii’ that is targeting company executives, former board members,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Device Registration Trick to Attack Enterprises with Lateral Phishing<a href="https://thehackernews.com/2022/01/hackers-using-device-registration-trick.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has disclosed details of a large-scale, multi-phase phishing campaign that uses stolen credentials to register devices on a victim's network to further propagate spam emails and widen the infection pool.  The tech giant said the attacks manifested through accounts that were not secured using multi-factor authentication (MFA), thereby making it possible for the adversary to take advantage of the target's bring-your-own-device (BYOD) policy and introduce their own rogue devices using the pilfered credentials.  The attacks took place in two stages. "The first campaign phase involved stealing credentials in target organizations located predominantly in Australia, Singapore, Indonesia, and Thailand," Microsoft 365 Defender Threat Intelligence Team&nbsp; said &nbsp;in a technical report published this week.   "Stolen credentials were then leveraged in the second phase, in which attackers used compromised accounts to expand their foothold within the organization via la
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Delta Electronics, a tech giants’ contractor, hit by Conti ransomware<a href="https://securityaffairs.co/wordpress/127323/cyber-crime/delta-electronics-conti-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Delta Electronics, a Taiwanese contractor for multiple tech giants such as Apple, Dell, HP and Tesla, was hit by Conti ransomware
+
+
+
+Taiwanese electronics manufacturing company Delta Electronics was hit by the Conti ransomware that took place this week....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP force-installs update after DeadBolt ransomware hits 3,600 devices<a href="https://www.bleepingcomputer.com/news/security/qnap-force-installs-update-after-deadbolt-ransomware-hits-3-600-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP force-updated customer's Network Attached Storage (NAS) devices with firmware containing the latest security updates to protect against the DeadBolt ransomware, which has already encrypted over 3,600 devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2022 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

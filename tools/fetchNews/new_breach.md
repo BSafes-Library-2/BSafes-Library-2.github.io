@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finnish diplomats’ devices infected with Pegasus spyware<a href="https://securityaffairs.co/wordpress/127334/breaking-news/pegasus-spyware-finnish-diplomats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finland Ministry for Foreign Affairs revealed that devices of Finnish diplomats have been infected with NSO Group's Pegasus spyware.
+
+
+
+Finland's Ministry for Foreign Affairs revealed that the devices of some Finnish diplomats have been compromised with...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

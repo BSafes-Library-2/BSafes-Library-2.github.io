@@ -8,6 +8,62 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers use GPU fingerprinting to track users online<a href="https://www.bleepingcomputer.com/news/security/researchers-use-gpu-fingerprinting-to-track-users-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers from French, Israeli, and Australian universities has explored the possibility of using people's GPUs to create unique fingerprints and use them for persistent web tracking.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Using Windows Update Service to Infect PCs with Malware<a href="https://thehackernews.com/2022/01/north-korean-hackers-using-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious&nbsp; Lazarus Group &nbsp;actor has been observed mounting a new campaign that makes use of the Windows Update service to execute its malicious payload, expanding the arsenal of living-off-the-land (LotL) techniques leveraged by the APT group to further its objectives.  The Lazarus Group, also known as&nbsp; APT38 , Hidden Cobra, Whois Hacking Team, and Zinc, is the moniker assigned to the North Korea-based nation-state hacking group that's been active since at least 2009. Last year, the threat actor was&nbsp; linked &nbsp;to an elaborate&nbsp; social engineering campaign &nbsp;targeting security researchers.   The latest spear-phishing attacks, which&nbsp; Malwarebytes &nbsp;detected on January 18, originate from weaponized documents with job-themed lures impersonating the American global security and aerospace company Lockheed Martin.  Opening the decoy Microsoft Word file triggers the execution of a malicious macro embedded within the document that, in turn, executes a Base64-decoded shellcode to inject a nu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Return with Stealthier Variant of KONNI RAT Malware<a href="https://thehackernews.com/2022/01/north-korean-hackers-return-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberespionage group with ties to North Korea has resurfaced with a stealthier variant of its remote access trojan called Konni to attack political institutions located in Russia and South Korea.  "The authors are constantly making code improvements," Malwarebytes researcher Roberto Santos&nbsp; said . "Their efforts are aimed at breaking the typical flow recorded by sandboxes and making detection harder, especially via regular signatures as critical parts of the executable are now encrypted."   Most&nbsp; recent intrusions &nbsp;staged by the group, believed to be operating under the Kimsuky umbrella, involved targeting the Russian Federation's Ministry of Foreign Affairs (MID) with New Year lures to compromise Windows systems with malware.   The infections, as with other attacks of this kind, starts with a malicious Microsoft Office document that, when opened, initiates a mult-stage process that involves several moving parts that help the attackers elevate privileges, eva
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are taking over CEO accounts with rogue OAuth apps<a href="https://www.bleepingcomputer.com/news/security/hackers-are-taking-over-ceo-accounts-with-rogue-oauth-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have observed a new campaign named 'OiVaVoii', targeting company executives and general managers with malicious OAuth apps and custom phishing lures sent from hijacked Office 365 accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

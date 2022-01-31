@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Releases PIN on Iranian Cyber Group Emennet Pasargad <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/01/27/fbi-releases-pin-iranian-cyber-group-emennet-pasargad"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) has released a Private Industry Notification (PIN) that provides a historical overview of Iran-based cyber company Emennet Pasargad’s tactics, techniques, and procedures to enable readers to identify and defend against the group’s malicious cyber activities.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 21, 2022 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

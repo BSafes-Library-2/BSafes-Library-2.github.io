@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Wazuh Can Improve Digital Security for Businesses<a href="https://thehackernews.com/2022/01/how-wazuh-can-improve-digital-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2021 was a year peppered by cyberattacks, with numerous data breaches happening. Not only that, but ransomware has also become a prominent player in the hackers' world.  Now, more than ever, it's important for enterprises to step up cybersecurity measures. They can do this through several pieces of technology, such as an open-source security platform like Wazuh .&nbsp;  Wazuh  is a free and open source security platform that unifies XDR and SIEM capabilities, which not only enables companies to detect sophisticated threats, but can also help immensely in preventing data breaches and leaks from happening. As a result, it can save businesses from costly fixes that can ultimately end in their closure.  It is also possible to integrate Wazuh with a number of external services and tools. Some of them are VirusTotal, YARA, Amazon Macie, Slack, and Fortigate Firewall. Consequently, companies can improve their security against hackers from penetrating their networks.  What's great abou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

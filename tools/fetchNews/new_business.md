@@ -11,6 +11,20 @@ nav_order: 900027
 January 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft mitigates largest DDoS attack 'ever reported in history'<a href="https://www.bleepingcomputer.com/news/security/microsoft-mitigates-largest-ddos-attack-ever-reported-in-history/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says its Azure DDoS protection platform mitigated a massive&nbsp;3.47 terabits per second (Tbps)&nbsp;distributed denial of service (DDoS) attack targeting an Azure customer&nbsp;from Asia in November.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Worklyn Partners acquires Quadrant Information Security to expand security services<a href="https://www.helpnetsecurity.com/2022/01/27/worklyn-partners-quadrant-information-security/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
