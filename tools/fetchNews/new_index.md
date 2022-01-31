@@ -34,7 +34,688 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers use GPU fingerprinting to track users online<a href="https://www.bleepingcomputer.com/news/security/researchers-use-gpu-fingerprinting-to-track-users-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers from French, Israeli, and Australian universities has explored the possibility of using people's GPUs to create unique fingerprints and use them for persistent web tracking.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Stage Phishing Campaign Leverages BYOD Concept to Target Organizations<a href="https://cyware.com/news/multi-stage-phishing-campaign-leverages-byod-concept-to-target-organizations-e8841a30"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Microsoft 365 Defender Threat Intelligence Team, the campaign took advantage of the devices that did not implement MultiFactor Authentication (MFA).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hybrid cloud campaign OiVaVoii targets company executives<a href="https://securityaffairs.co/wordpress/127396/cyber-crime/oivavoii-campaign-oauth.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new hacking campaign, tracked as ‘OiVaVoii’, is targeting company executives with malicious OAuth apps.
+
+
+
+Researchers from Proofpoint have uncovered a new campaign named ‘OiVaVoii’ that is targeting company executives, former board members,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC: Americans lost $770 million from social media fraud surge<a href="https://www.bleepingcomputer.com/news/security/ftc-americans-lost-770-million-from-social-media-fraud-surge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Americans are increasingly targeted by scammers on social media, according to tens of thousands of reports received by the US Federal Trade Commission (FTC) in 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert releases PoC for CVE-2022-21882 Windows local privilege elevation issue<a href="https://securityaffairs.co/wordpress/127377/hacking/cve-2022-21882-win-local-privilege-elevation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher disclosed an exploit for a Windows local privilege elevation issue (CVE-2022-21882) that allows anyone to gain admin privileges in Windows 10.
+
+
+
+The security researchers RyeLv has publicly released an exploit for a Windows local privilege...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 351<a href="https://securityaffairs.co/wordpress/127375/breaking-news/security-affairs-newsletter-round-351.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel device registration trick enhances multi-stage phishing attacks<a href="https://securityaffairs.co/wordpress/127362/cyber-crime/phishing-exploit-byod.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has disclosed details of a large-scale phishing campaign using a novel device registration technique to target other enterprises.
+
+
+
+Microsoft has shared details of a large-scale phishing campaign that leverages stolen credentials to register...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US targets Russian disinformation in bid to defend Ukraine<a href="https://thehill.com//homenews/administration/591870-us-targets-russian-disinformation-in-bid-to-defend-ukraine"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration has increasingly focused on calling out Russian disinformation and propaganda, making it a central pillar of its strategy to confront Moscow and help defend Ukraine in the face of Russia's war tactics.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jupyter: A Cyberspace Invader Stealing SLTT Data<a href="https://www.cisecurity.org/blog/jupyter-a-cyberspace-invader-stealing-sltt-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jupyter deploys a multi-stage process, leveraging PowerShell and legitimate tools, such as Slim PDF Reader, to drop secondary payloads to fingerprint victim information, including computer name, OS version, architecture, and user identifier.
+</details>
+<div style="text-align: right" markdown="1">
+CIS
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows vulnerability with new public exploits lets you become admin<a href="https://www.bleepingcomputer.com/news/microsoft/windows-vulnerability-with-new-public-exploits-lets-you-become-admin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has publicly disclosed an exploit for a Windows local privilege elevation vulnerability that allows anyone to gain admin privileges in Windows 10.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure customer hit by 3.47 Tbps DDoS attack<a href="https://www.hackread.com/microsoft-azure-customer-largest-tbps-ddos-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Microsoft Azure cloud computing customer in Asia was a victim of a massive 3.47 Tbps DDoS attack (distributed denial of service attack) in November 2021, the software and technology giant Microsoft revealed.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 20,000 data center management systems exposed to hackers<a href="https://www.bleepingcomputer.com/news/security/over-20-000-data-center-management-systems-exposed-to-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have found over 20,000 instances of publicly exposed data center infrastructure management (DCIM) software that monitor devices, HVAC control systems, and power distribution units, which could be used for a range of catastrophic attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP force-installs update against the recent wave of DeadBolt ransomware infections<a href="https://securityaffairs.co/wordpress/127353/malware/qnap-force-installs-update-deadbolt-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP forces its customers to update the firmware of their Network Attached Storage (NAS) devices to protect against the DeadBolt ransomware.
+
+
+
+QNAP forced the firmware update for its Network Attached Storage (NAS) devices to protect its customers against...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US FCC bans China Unicom Americas telecom over national security risks<a href="https://securityaffairs.co/wordpress/127347/security/us-ban-china-unicom-americas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) revoked the license for the China Unicom Americas over serious national security concerns.
+
+
+
+The Federal Communications Commission (FCC) has revoked the license for China Unicom Americas over "serious national...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Device Registration Trick to Attack Enterprises with Lateral Phishing<a href="https://thehackernews.com/2022/01/hackers-using-device-registration-trick.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has disclosed details of a large-scale, multi-phase phishing campaign that uses stolen credentials to register devices on a victim's network to further propagate spam emails and widen the infection pool.  The tech giant said the attacks manifested through accounts that were not secured using multi-factor authentication (MFA), thereby making it possible for the adversary to take advantage of the target's bring-your-own-device (BYOD) policy and introduce their own rogue devices using the pilfered credentials.  The attacks took place in two stages. "The first campaign phase involved stealing credentials in target organizations located predominantly in Australia, Singapore, Indonesia, and Thailand," Microsoft 365 Defender Threat Intelligence Team  said  in a technical report published this week.   "Stolen credentials were then leveraged in the second phase, in which attackers used compromised accounts to expand their foothold within the organization via la
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT Uses Windows Update to Spew Malware<a href="https://threatpost.com/lazarus-apt-windows-update-malware-github/178096/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group once again dangled fake job opportunities at engineers in a spear-phishing campaign that used Windows Update as a living-off-the-land technique and GitHub as a C2.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Wazuh Can Improve Digital Security for Businesses<a href="https://thehackernews.com/2022/01/how-wazuh-can-improve-digital-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2021 was a year peppered by cyberattacks, with numerous data breaches happening. Not only that, but ransomware has also become a prominent player in the hackers' world.  Now, more than ever, it's important for enterprises to step up cybersecurity measures. They can do this through several pieces of technology, such as an open-source security platform like Wazuh .   Wazuh  is a free and open source security platform that unifies XDR and SIEM capabilities, which not only enables companies to detect sophisticated threats, but can also help immensely in preventing data breaches and leaks from happening. As a result, it can save businesses from costly fixes that can ultimately end in their closure.  It is also possible to integrate Wazuh with a number of external services and tools. Some of them are VirusTotal, YARA, Amazon Macie, Slack, and Fortigate Firewall. Consequently, companies can improve their security against hackers from penetrating their networks.  What's great abou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shlayer and Bundlore MacOS Malware Strains – How Uptycs EDR Detection Can Help<a href="https://threatpost.com/shlayer-and-bundlore-macos-malware-strains-how-uptycs-edr-detection-can-help/168791/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MacOS malware Shlayer and Bundlore may have variations, but the behavior of their attacks have not changed – attacking older macOS versions and poorly-protected websites.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Using Windows Update Service to Infect PCs with Malware<a href="https://thehackernews.com/2022/01/north-korean-hackers-using-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious  Lazarus Group  actor has been observed mounting a new campaign that makes use of the Windows Update service to execute its malicious payload, expanding the arsenal of living-off-the-land (LotL) techniques leveraged by the APT group to further its objectives.  The Lazarus Group, also known as  APT38 , Hidden Cobra, Whois Hacking Team, and Zinc, is the moniker assigned to the North Korea-based nation-state hacking group that's been active since at least 2009. Last year, the threat actor was  linked  to an elaborate  social engineering campaign  targeting security researchers.   The latest spear-phishing attacks, which  Malwarebytes  detected on January 18, originate from weaponized documents with job-themed lures impersonating the American global security and aerospace company Lockheed Martin.  Opening the decoy Microsoft Word file triggers the execution of a malicious macro embedded within the document that, in turn, executes a Base64-decoded shellcode to inject a nu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Hacker Attacks Conducted by Iranian Cyber Firm<a href="https://www.securityweek.com/fbi-warns-hacker-attacks-conducted-iranian-cyber-firm?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI this week issued a private industry notification to warn organizations about the malicious activities conducted by an Iranian cyber company named Emennet Pasargad.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Return with Stealthier Variant of KONNI RAT Malware<a href="https://thehackernews.com/2022/01/north-korean-hackers-return-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberespionage group with ties to North Korea has resurfaced with a stealthier variant of its remote access trojan called Konni to attack political institutions located in Russia and South Korea.  "The authors are constantly making code improvements," Malwarebytes researcher Roberto Santos  said . "Their efforts are aimed at breaking the typical flow recorded by sandboxes and making detection harder, especially via regular signatures as critical parts of the executable are now encrypted."   Most  recent intrusions  staged by the group, believed to be operating under the Kimsuky umbrella, involved targeting the Russian Federation's Ministry of Foreign Affairs (MID) with New Year lures to compromise Windows systems with malware.   The infections, as with other attacks of this kind, starts with a malicious Microsoft Office document that, when opened, initiates a mult-stage process that involves several moving parts that help the attackers elevate privileges, eva
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - January 28th 2022 - Get NAS devices off the Internet<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-28th-2022-get-nas-devices-off-the-internet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's been a busy week with ransomware attacks tied to political protests, new attacks on NAS devices, amazing research released about tactics, REvil's history, and more.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House, EPA release 100-day cybersecurity plan for water utility operators<a href="https://www.zdnet.com/article/white-house-epa-release-100-day-cybersecurity-plan-for-water-utility-operators/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House, EPA, and CISA are rolling out a 100-day plan to improve the cybersecurity of the country's water systems, which faced a variety of attacks over the last year.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US bans major Chinese telecom over national security risks<a href="https://www.bleepingcomputer.com/news/security/us-bans-major-chinese-telecom-over-national-security-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) has revoked China Unicom Americas' license, one of the world's largest mobile service providers, over "serious national security concerns."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Mentions 17 Critical Bugs That Need Immediate Patching<a href="https://cyware.com/news/cisa-mentions-17-critical-bugs-that-need-immediate-patching-1d8a2932"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has added 17 new flaws in the Known Exploited Vulnerabilities catalog, nine of which have a remediation date of February 1, and four of them have a remediation date of July 18.&nbsp;The newly added flaws exist in multiple products, including Struts 1, Serv-U, Airflow, and Nagios XI. An exp ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC alerts UK orgs to brace for destructive Russian cyberattacks<a href="https://www.bleepingcomputer.com/news/security/ncsc-alerts-uk-orgs-to-brace-for-destructive-russian-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's National Cyber Security Centre (NCSC) is urging organizations to bolster security and prepare for a potential wave of destructive cyberattacks after recent breaches of Ukrainian entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC warns UK entities of potential destructive cyberattacks from Russia<a href="https://securityaffairs.co/wordpress/127342/security/ncsc-alerts-destructive-russian-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK’s National Cyber Security Centre (NCSC) urges organizations to improve cybersecurity due to the risk of imminent destructive cyberattacks from Russia-linked APT groups.
+
+
+
+The UK’s National Cyber Security Centre (NCSC) is urging organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU to create pan-European cyber incident coordination framework<a href="https://www.bleepingcomputer.com/news/security/eu-to-create-pan-european-cyber-incident-coordination-framework/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Systemic Risk Board (ESRB) proposed a new systemic cyber incident coordination framework that would allow EU relevant authorities to better coordinate when having to respond to major cross-border cyber incidents impacting the Union's financial sector.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finnish diplomats’ devices infected with Pegasus spyware<a href="https://securityaffairs.co/wordpress/127334/breaking-news/pegasus-spyware-finnish-diplomats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finland Ministry for Foreign Affairs revealed that devices of Finnish diplomats have been infected with NSO Group's Pegasus spyware.
+
+
+
+Finland's Ministry for Foreign Affairs revealed that the devices of some Finnish diplomats have been compromised with...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are taking over CEO accounts with rogue OAuth apps<a href="https://www.bleepingcomputer.com/news/security/hackers-are-taking-over-ceo-accounts-with-rogue-oauth-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have observed a new campaign named 'OiVaVoii', targeting company executives and general managers with malicious OAuth apps and custom phishing lures sent from hijacked Office 365 accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zerodium offers $400,000 for Microsoft Outlook RCE zero-day exploits<a href="https://securityaffairs.co/wordpress/127327/uncategorized/microsoft-outlook-rce-zero-day-payout.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero-day exploit broker Zerodium announced it will pay $400,000 for zero-day RCE in Microsoft Outlook email client.
+
+
+
+The zero-day exploit broker Zerodium has announced it will pay $400,000 for zero-day remote code execution (RCE) vulnerabilities in the Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finnish diplomats’ phones infected with NSO Group Pegasus spyware<a href="https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finland's Ministry for Foreign Affairs says devices of Finnish diplomats have been hacked and infected with NSO Group's Pegasus spyware in a cyber-espionage campaign.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Delta Electronics, a tech giants’ contractor, hit by Conti ransomware<a href="https://securityaffairs.co/wordpress/127323/cyber-crime/delta-electronics-conti-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Delta Electronics, a Taiwanese contractor for multiple tech giants such as Apple, Dell, HP and Tesla, was hit by Conti ransomware
+
+
+
+Taiwanese electronics manufacturing company Delta Electronics was hit by the Conti ransomware that took place this week....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finland warns of Facebook accounts hijacked via Messenger phishing<a href="https://www.bleepingcomputer.com/news/security/finland-warns-of-facebook-accounts-hijacked-via-messenger-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finland's National Cyber Security Centre (NCSC-FI) warns of an ongoing phishing campaign attempting to hijack Facebook accounts by impersonating victims' friends in Facebook Messenger chats.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Outlook RCE zero-day exploits now selling for $400,000<a href="https://www.bleepingcomputer.com/news/security/microsoft-outlook-rce-zero-day-exploits-now-selling-for-400-000/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploit broker Zerodium has announced a pay jump to 400,000 for zero-day vulnerabilities that allow remote code execution (RCE) in Microsoft Outlook email client.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP force-installs update after DeadBolt ransomware hits 3,600 devices<a href="https://www.bleepingcomputer.com/news/security/qnap-force-installs-update-after-deadbolt-ransomware-hits-3-600-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP force-updated customer's Network Attached Storage (NAS) devices with firmware containing the latest security updates to protect against the DeadBolt ransomware, which has already encrypted over 3,600 devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BotenaGo Botnet Code Leaked to GitHub, Impacting Millions of Devices<a href="https://threatpost.com/botenago-botnet-code-leaked-to-github/178059/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware had already put millions of routers and IoT devices at risk, and now any noob can have at it. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Mitigated Record-Breaking 3.47 Tbps DDoS Attack on Azure Customers<a href="https://thehackernews.com/2022/01/microsoft-mitigated-record-breaking-347.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft this week revealed that it had fended off a record number of distributed denial-of-service (DDoS) attacks aimed at its customers in 2021, three of which surpassed 2.4 terabit per second (Tbps).  One of the DDoS attacks took place in November, targeting an unnamed Azure customer in Asia and lasted a total of 15 minutes. It hit a peak throughput of 3.47 Tbps and a packet rate of 340 million packets per second (pps), making it the largest attack ever reported in history.  "This was a distributed attack originating from approximately 10,000 sources and from multiple countries across the globe, including the United States, China, South Korea, Russia, Thailand, India, Vietnam, Iran, Indonesia, and Taiwan," Alethea Toh, product manager of Azure Networking,  said .   DDoS attacks occur when several compromised devices are employed as a conduit to overwhelm a targeted server, service, or network with a flood of internet traffic with the goal of overloading the systems and d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Warns of DeadBolt Ransomware Targeting Internet-Facing NAS Devices<a href="https://thehackernews.com/2022/01/qnap-warns-of-deadbolt-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese company QNAP has warned customers to secure network-attached storage (NAS) appliances and routers against a new ransomware variant called DeadBolt .  "DeadBolt has been widely targeting all NAS exposed to the Internet without any protection and encrypting users' data for Bitcoin ransom," the company  said . "QNAP urges all QNAP NAS users to […] immediately update QTS to the latest available version."  A query on IoT search engine Censys  shows that at least 3,687 devices  have been encrypted by the DeadBolt ransomware so far, with most NAS devices located in the U.S., Taiwan, France, Italy, the U.K., Hong Kong, Germany, the Netherlands, Poland, and South Korea.  In addition, QNAP is also urging users to check if their NAS devices are public-facing, and if so, take steps to turn off the port forwarding function of the router and disable the Universal Plug and Play ( UPnP ) function of the QNAP NAS.   The advisory comes as  Bleeping Computer  revealed t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft mitigates largest DDoS attack 'ever reported in history'<a href="https://www.bleepingcomputer.com/news/security/microsoft-mitigates-largest-ddos-attack-ever-reported-in-history/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says its Azure DDoS protection platform mitigated a massive 3.47 terabits per second (Tbps) distributed denial of service (DDoS) attack targeting an Azure customer from Asia in November.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeepDotWeb admin imprisoned for advertising illegal dark web markets<a href="https://www.bleepingcomputer.com/news/security/deepdotweb-admin-imprisoned-for-advertising-illegal-dark-web-markets/"> Full Text</a>
@@ -50,7 +731,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New phishing attack uses an unusual trick to spread further<a href="https://www.zdnet.com/article/attackers-add-rogue-pc-to-victims-networks-in-this-sneaky-phishing-campaign/?&web_view=true"> Full Text</a>
@@ -66,7 +747,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patching the CentOS 8 Encryption Bug is Urgent – What Are Your Plans?<a href="https://thehackernews.com/2022/01/patching-centos-8-encryption-bug-is.html"> Full Text</a>
@@ -82,7 +763,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House Releases Memo on Cybersecurity at Federal Agencies<a href="https://www.lawfareblog.com/white-house-releases-memo-cybersecurity-federal-agencies"> Full Text</a>
@@ -98,7 +779,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Puerto Rico was hit by a major cyberattack<a href="https://securityaffairs.co/wordpress/127265/hacking/puerto-rico-suffered-cyberattack.html"> Full Text</a>
@@ -118,7 +799,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Secure Your SaaS Stack with a SaaS Security Posture Management Solution<a href="https://threatpost.com/secure-saas-stack-security-posture-solution/177815/"> Full Text</a>
@@ -134,7 +815,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Taiwanese Apple and Tesla contractor hit by Conti ransomware<a href="https://www.bleepingcomputer.com/news/security/taiwanese-apple-and-tesla-contractor-hit-by-conti-ransomware/"> Full Text</a>
@@ -150,7 +831,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Warns of Log4j Attacks Targeting Horizon Servers<a href="https://www.securityweek.com/vmware-warns-log4j-attacks-targeting-horizon-servers?&web_view=true"> Full Text</a>
@@ -166,7 +847,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chaes Banking Trojan Hijacks Chrome Browser with Malicious Extensions<a href="https://thehackernews.com/2022/01/chaes-banking-trojan-hijacks-chrome.html"> Full Text</a>
@@ -182,7 +863,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked Lazarus APT used Windows Update client and GitHub in recent attacks<a href="https://securityaffairs.co/wordpress/127296/apt/lazarus-apt-windows-update-client.html"> Full Text</a>
@@ -202,7 +883,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus hackers use Windows Update to deploy malware<a href="https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-windows-update-to-deploy-malware/"> Full Text</a>
@@ -218,7 +899,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Strategy Funds UK Public Services' Cyber Resilience<a href="https://www.govinfosecurity.com/new-strategy-funds-uk-public-services-cyber-resilience-a-18381?&web_view=true"> Full Text</a>
@@ -234,7 +915,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Widespread FluBot and TeaBot Malware Campaigns Targeting Android Devices<a href="https://thehackernews.com/2022/01/widespread-flubot-and-teabot-malware.html"> Full Text</a>
@@ -250,7 +931,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular apps left biometric data, IDs of millions of users in danger<a href="https://securityaffairs.co/wordpress/127291/data-breach/onfido-large-businesses-customers-data-exposed.html"> Full Text</a>
@@ -270,7 +951,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of multi-stage phishing campaign leveraging Azure AD<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-multi-stage-phishing-campaign-leveraging-azure-ad/"> Full Text</a>
@@ -286,7 +967,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Ransomware Operations Apparently Unaffected by Recent Arrests<a href="https://www.securityweek.com/revil-ransomware-operations-apparently-unaffected-recent-arrests?&web_view=true"> Full Text</a>
@@ -302,7 +983,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft mitigated a 3.47 Tbps DDoS attack, the largest one to date<a href="https://securityaffairs.co/wordpress/127279/cyber-crime/record-ddos-attack-azure.html"> Full Text</a>
@@ -322,7 +1003,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian APT29 hackers' stealthy malware undetected for years<a href="https://www.bleepingcomputer.com/news/security/russian-apt29-hackers-stealthy-malware-undetected-for-years/"> Full Text</a>
@@ -338,7 +1019,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Puerto Rico's Senate, Internet Provider, Phone System, and Website Impacted by Cyberattack<a href="https://www.securityweek.com/official-says-puerto-ricos-senate-targeted-cyberattack?&web_view=true"> Full Text</a>
@@ -354,7 +1035,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lockbit ransomware gang claims to have hacked Ministry of Justice of France<a href="https://securityaffairs.co/wordpress/127267/cyber-crime/ministry-of-justice-of-france-lockbit.html"> Full Text</a>
@@ -374,7 +1055,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft mitigated a record 3.47 Tbps DDoS attack on Azure users<a href="https://www.bleepingcomputer.com/news/security/microsoft-mitigated-a-record-347-tbps-ddos-attack-on-azure-users/"> Full Text</a>
@@ -390,7 +1071,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Worklyn Partners acquires Quadrant Information Security to expand security services<a href="https://www.helpnetsecurity.com/2022/01/27/worklyn-partners-quadrant-information-security/?&web_view=true"> Full Text</a>
@@ -406,7 +1087,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new highly evasive technique used to deliver the AsyncRAT Malware<a href="https://securityaffairs.co/wordpress/127257/malware/asyncrat-phishing-campaign.html"> Full Text</a>
@@ -430,7 +1111,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 105 million Android users targeted by subscription fraud campaign<a href="https://www.bleepingcomputer.com/news/security/105-million-android-users-targeted-by-subscription-fraud-campaign/"> Full Text</a>
@@ -446,7 +1127,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2022
+January 27, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts analyze first LockBit ransomware for Linux and VMware ESXi<a href="https://securityaffairs.co/wordpress/127248/cyber-crime/lockbit-ransomware-linux-vmware-esxi.html"> Full Text</a>
@@ -466,7 +1147,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Fixes 2 Zero-Day Security Bugs, One Exploited in the Wild<a href="https://threatpost.com/apple-zero-day-security-exploited/178040/"> Full Text</a>
@@ -482,7 +1163,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Dark Herring’ Billing Malware Swims onto 105M Android Devices<a href="https://threatpost.com/dark-herring-billing-malware-android/178032/"> Full Text</a>
@@ -498,7 +1179,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using New Evasive Technique to Deliver AsyncRAT Malware<a href="https://thehackernews.com/2022/01/hackers-using-new-evasive-technique-to.html"> Full Text</a>
@@ -514,7 +1195,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Year, New Threats: 4 Tips to Activate Your Best Cyber-Defense<a href="https://threatpost.com/tips-activate-cyber-defense/177955/"> Full Text</a>
@@ -530,7 +1211,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2022
+January 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Releases iOS and macOS Updates to Patch Actively Exploited 0-Day Vulnerability<a href="https://thehackernews.com/2022/01/apple-releases-ios-and-ipados-updates.html"> Full Text</a>
