@@ -8,6 +8,103 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert releases PoC for CVE-2022-21882 Windows local privilege elevation issue<a href="https://securityaffairs.co/wordpress/127377/hacking/cve-2022-21882-win-local-privilege-elevation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher disclosed an exploit for a Windows local privilege elevation issue (CVE-2022-21882) that allows anyone to gain admin privileges in Windows 10.
+
+
+
+The security researchers RyeLv has publicly released an exploit for a Windows local privilege...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows vulnerability with new public exploits lets you become admin<a href="https://www.bleepingcomputer.com/news/microsoft/windows-vulnerability-with-new-public-exploits-lets-you-become-admin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has publicly disclosed an exploit for a Windows local privilege elevation vulnerability that allows anyone to gain admin privileges in Windows 10.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 20,000 data center management systems exposed to hackers<a href="https://www.bleepingcomputer.com/news/security/over-20-000-data-center-management-systems-exposed-to-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have found over 20,000 instances of publicly exposed data center infrastructure management (DCIM) software that monitor devices, HVAC control systems, and power distribution units, which could be used for a range of catastrophic attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP force-installs update against the recent wave of DeadBolt ransomware infections<a href="https://securityaffairs.co/wordpress/127353/malware/qnap-force-installs-update-deadbolt-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP forces its customers to update the firmware of their Network Attached Storage (NAS) devices to protect against the DeadBolt ransomware.
+
+
+
+QNAP forced the firmware update for its Network Attached Storage (NAS) devices to protect its customers against...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Mentions 17 Critical Bugs That Need Immediate Patching<a href="https://cyware.com/news/cisa-mentions-17-critical-bugs-that-need-immediate-patching-1d8a2932"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has added 17 new flaws in the Known Exploited Vulnerabilities catalog, nine of which have a remediation date of February 1, and four of them have a remediation date of July 18.&nbsp;The newly added flaws exist in multiple products, including Struts 1, Serv-U, Airflow, and Nagios XI. An exp ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zerodium offers $400,000 for Microsoft Outlook RCE zero-day exploits<a href="https://securityaffairs.co/wordpress/127327/uncategorized/microsoft-outlook-rce-zero-day-payout.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero-day exploit broker Zerodium announced it will pay $400,000 for zero-day RCE in Microsoft Outlook email client.
+
+
+
+The zero-day exploit broker Zerodium has announced it will pay $400,000 for zero-day remote code execution (RCE) vulnerabilities in the Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

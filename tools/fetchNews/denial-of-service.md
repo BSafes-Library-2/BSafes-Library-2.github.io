@@ -8,6 +8,34 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+January 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure customer hit by 3.47 Tbps DDoS attack<a href="https://www.hackread.com/microsoft-azure-customer-largest-tbps-ddos-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Microsoft Azure cloud computing customer in Asia was a victim of a massive 3.47 Tbps DDoS attack (distributed denial of service attack) in November 2021, the software and technology giant Microsoft revealed.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Mitigated Record-Breaking 3.47 Tbps DDoS Attack on Azure Customers<a href="https://thehackernews.com/2022/01/microsoft-mitigated-record-breaking-347.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft this week revealed that it had fended off a record number of distributed denial-of-service (DDoS) attacks aimed at its customers in 2021, three of which surpassed 2.4 terabit per second (Tbps).  One of the DDoS attacks took place in November, targeting an unnamed Azure customer in Asia and lasted a total of 15 minutes. It hit a peak throughput of 3.47 Tbps and a packet rate of 340 million packets per second (pps), making it the largest attack ever reported in history.  "This was a distributed attack originating from approximately 10,000 sources and from multiple countries across the globe, including the United States, China, South Korea, Russia, Thailand, India, Vietnam, Iran, Indonesia, and Taiwan," Alethea Toh, product manager of Azure Networking,&nbsp; said .   DDoS attacks occur when several compromised devices are employed as a conduit to overwhelm a targeted server, service, or network with a flood of internet traffic with the goal of overloading the systems and d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

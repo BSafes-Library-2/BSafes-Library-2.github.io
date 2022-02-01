@@ -8,6 +8,38 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Court Rules Websites Embedding Google Fonts Violates GDPR<a href="https://thehackernews.com/2022/01/german-court-rules-websites-embedding.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A regional court in the German city of Munich has ordered a website operator to pay €100 in damages for transferring a user's personal data — i.e., IP address — to Google via the search giant's Fonts library without the individual's consent.  The unauthorized disclosure of the plaintiff's IP address by the unnamed website to Google constitutes a contravention of the user's privacy rights, the court said, adding the website operator could theoretically combine the gathered information with other third-party data to identify the "persons behind the IP address."  The violation amounts to the "plaintiff's loss of control over a personal data to Google," the ruling read .   Google Fonts is a&nbsp; font embedding service &nbsp;library from Google, allowing developers to add fonts to their Android apps and websites simply by referencing a stylesheet. As of January 2022, Google Fonts is a repository for 1,358 font families.   Under the European Union's Ge
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepDotWeb admin sentenced to 97 months in prison for money laundering scheme<a href="https://securityaffairs.co/wordpress/127422/cyber-crime/deepdotweb-admin-sentenced-jail.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The administrator of the DeepDotWeb (DDW) has received a sentence of 97 months in prison for money laundering.
+
+
+
+Tal Prihar (37), an Israeli national who operated DeepDotWeb (DDW), was sentenced to 97 months in prison and was ordered to forfeit $8,414,173....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

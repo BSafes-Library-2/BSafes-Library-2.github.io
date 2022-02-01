@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+January 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC: Americans lost $770 million from social media fraud surge<a href="https://www.bleepingcomputer.com/news/security/ftc-americans-lost-770-million-from-social-media-fraud-surge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Americans are increasingly targeted by scammers on social media, according to tens of thousands of reports received by the US Federal Trade Commission (FTC) in 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 351<a href="https://securityaffairs.co/wordpress/127375/breaking-news/security-affairs-newsletter-round-351.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - January 28th 2022 - Get NAS devices off the Internet<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-28th-2022-get-nas-devices-off-the-internet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's been a busy week with ransomware attacks tied to political protests, new attacks on NAS devices, amazing research released about tactics, REvil's history, and more.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Warns of DeadBolt Ransomware Targeting Internet-Facing NAS Devices<a href="https://thehackernews.com/2022/01/qnap-warns-of-deadbolt-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese company QNAP has warned customers to secure network-attached storage (NAS) appliances and routers against a new ransomware variant called DeadBolt .  "DeadBolt has been widely targeting all NAS exposed to the Internet without any protection and encrypting users' data for Bitcoin ransom," the company&nbsp; said . "QNAP urges all QNAP NAS users to […] immediately update QTS to the latest available version."  A query on IoT search engine Censys  shows that at least 3,687 devices  have been encrypted by the DeadBolt ransomware so far, with most NAS devices located in the U.S., Taiwan, France, Italy, the U.K., Hong Kong, Germany, the Netherlands, Poland, and South Korea.  In addition, QNAP is also urging users to check if their NAS devices are public-facing, and if so, take steps to turn off the port forwarding function of the router and disable the Universal Plug and Play ( UPnP ) function of the QNAP NAS.   The advisory comes as&nbsp; Bleeping Computer &nbsp;revealed t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finnish diplomats’ phones infected with NSO Group Pegasus spyware<a href="https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finland's&nbsp;Ministry for Foreign Affairs says devices of Finnish diplomats have been hacked and infected with NSO Group's&nbsp;Pegasus spyware in a cyber-espionage campaign.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

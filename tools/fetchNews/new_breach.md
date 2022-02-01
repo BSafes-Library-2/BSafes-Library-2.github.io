@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unsecured AWS Server Exposed 3TB of Airport Employee Records from Colombia and Peru<a href="https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The server contained 3TB ata dating back to 2018, including airport employee records. While the team was not able to examine every record in the database, four airports were named in exposed files:
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in PostBus public transport platform exposed customer data<a href="https://portswigger.net/daily-swig/vulnerability-in-postbus-public-transport-platform-exposed-customer-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ZTF researchers say the penetration test revealed the compromise of confidential, centrally stored data through “an obvious deficiency”, an insecure direct object reference (IDOR) vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

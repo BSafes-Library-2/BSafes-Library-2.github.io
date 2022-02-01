@@ -8,6 +8,52 @@ nav_order: 900072
 
 ## General
 ---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Presented by Cisco — App bill gains steam<a href="https://thehill.com//policy/technology/overnights/592174-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Monday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Your Graphics Card Fingerprint Can Be Used to Track Your Activities Across the Web<a href="https://thehackernews.com/2022/01/your-graphics-card-fingerprint-can-be.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have demonstrated a new type of fingerprinting technique that exploits a machine's graphics processing unit (GPU) as a means to track users across the web persistently.  Dubbed&nbsp; DrawnApart , the method "identifies a device from the unique properties of its GPU stack," researchers from Australia, France, and Israel said in a new paper," adding " variations in speed among the multiple execution units that comprise a GPU can serve as a reliable and robust device signature, which can be collected using unprivileged JavaScript."  A device fingerprint or machine fingerprint is information that is collected about the hardware, installed software, as well as the web browser and its associated add-ons from a remote computing device for the purpose of unique identification.  Fingerprints can be a double-edged sword. On the one hand, a fingerprint algorithm may allow a service provider (e.g., bank) to detect and prevent identity theft and credit card frau
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Americans lost $770 million from social media fraud in 2021, FTC reports<a href="https://securityaffairs.co/wordpress/127383/cyber-crime/social-media-frauds-ftc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report from the US Federal Trade Commission (FTC) revealed that in 2021 Americans lost $770 million from social media frauds
+
+
+
+The US Federal Trade Commission (FTC) revealed that in 2021 Americans lost $770 million from social media frauds. These...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

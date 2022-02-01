@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Office 365 to add better protection for priority accounts<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-office-365-to-add-better-protection-for-priority-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is working on updating Microsoft Defender for Office 365 with differentiated protection for enterprise accounts tagged as critical for an organization (i.e., accounts of&nbsp;high-profile employees including executive-level managers, the ones most&nbsp;often targeted by attackers).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Use Natural Silk Fibers to Generate Secure Keys for Strong Authentication<a href="https://thehackernews.com/2022/01/researchers-use-natural-silk-fibers-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics at South Korea's Gwangju Institute of Science and Technology (GIST) have utilized natural silk fibers from domesticated silkworms to build an environmentally friendly digital security system that they say is "practically unbreachable."  "The first natural physical unclonable function (PUF) […] takes advantage of the diffraction of light through natural microholes in native silk to create a secure and unique digital key for future security solutions," the researchers said .  Physical unclonable functions or&nbsp; PUFs &nbsp;refer to devices that leverage inherent randomness and microscopic differences in electronics introduced during manufacturing to generate a unique identifier (e.g., cryptographic keys) for a given set of inputs and conditions.   In other words, PUFs are non-algorithmic one-way functions derived from uncopiable elements to create unbreakable identifiers for strong authentication. Over the years, PUFs have been widely used in smartca
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

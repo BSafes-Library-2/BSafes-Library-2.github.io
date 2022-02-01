@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT Uses Windows Update to Spew Malware<a href="https://threatpost.com/lazarus-apt-windows-update-malware-github/178096/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group once again dangled fake job opportunities at engineers in a spear-phishing campaign that used Windows Update as a living-off-the-land technique and GitHub as a C2.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

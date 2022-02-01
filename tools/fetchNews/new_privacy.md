@@ -8,6 +8,21 @@ nav_order: 900165
 
 ## Privacy
 ---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DazzleSpy Backdoor Spies on Hong Kong Politicians<a href="https://cyware.com/news/dazzlespy-backdoor-spies-on-hong-kong-politicians-c50a1a0c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware dubbed DazzleSpy surfaced during the investigation of a watering hole attack targeting Windows and Android users. ESET researchers found that the attack also targeted macOS users and visitors of a pro-democracy radio station website in Hong Kong. To stay protected, deploy the right an ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

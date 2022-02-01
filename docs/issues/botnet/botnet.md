@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Operators Strengthen Obfuscation Game with Layered Security<a href="https://cyware.com/news/trickbot-operators-strengthen-obfuscation-game-with-layered-security-4d2709f1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TrickBot gang has advanced its techniques to slip past security controls by adding multiple layers of defense. This enables it to launch Man-in-the-Browser attacks against banking users to steal their credentials and browser cookies.&nbsp;It is critical for organizations and researchers to cont ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole $80M worth of cryptocurrency from the Qubit DeFi platform<a href="https://securityaffairs.co/wordpress/127430/hacking/hackers-stole-80m-worth-of-cryptocurrency-from-the-qubit-defi-platform.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors stole $80M worth of cryptocurrency from the Qubit DeFi platform by exploiting a flaw in the smart contract code used in an Ethereum bridge.
+
+
+
+The DeFi platform Qubit Finance was victim of a cyber heist, threat actors stole around $80 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepDotWeb News Site Operator Sentenced to 8 Years for Money Laundering<a href="https://thehackernews.com/2022/01/deepdotweb-news-site-operator-sentenced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Israeli national was sentenced to 97 months in prison in connection with operating the DeepDotWeb ( DDW ) clearnet website, nearly a year after the individual pleaded guilty to the charges.  Tal Prihar, 37, an Israeli citizen residing in Brazil, is said to have played the role of an administrator of DDW since the website became functional in October 2013. He&nbsp; pleaded guilty &nbsp;to money laundering charges in March 2021 and agreed to forfeit the illegally amassed profits.  DDW, until its seizure in May 2019, ostensibly&nbsp; served &nbsp;as a "news" website that connected internet users with underground marketplaces on the dark web that operate via darknets such as Tor, enabling the purchase of illegal firearms, malware and hacking tools, stolen financial data, heroin, fentanyl, and other illicit materials.   Prihar, acting in cohorts with co-defendant Michael Phan, 34, of Israel, provided direct links to illegal marketplaces and in return for advertising these links, reaped substantia
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

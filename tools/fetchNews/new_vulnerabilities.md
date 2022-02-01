@@ -8,6 +8,122 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samba fixed CVE-2021-44142 remote code execution flaw<a href="https://securityaffairs.co/wordpress/127457/security/cve-2021-44142-samba-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samba fixes a critical flaw, tracked as&nbsp;CVE-2021-44142, that can allow remote attackers to execute code with root privileges.
+
+
+
+Samba has addressed a critical vulnerability, tracked as&nbsp;CVE-2021-44142, that can be exploited by remote attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Public Exploit Released for Windows 10 Bug<a href="https://threatpost.com/public-exploit-windows-10-bug/178135/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability affects all unpatched Windows 10 versions following a messy Microsoft January update.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samba bug can let remote attackers execute code as root<a href="https://www.bleepingcomputer.com/news/security/samba-bug-can-let-remote-attackers-execute-code-as-root/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samba has addressed a critical severity vulnerability that can let attackers gain remote code execution with root privileges on servers running vulnerable software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ 600K WordPress sites impacted by critical plugin RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/600k-wordpress-sites-impacted-by-critical-plugin-rce-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Essential Addons for Elementor, a popular WordPress plugin used in over a million sites, has been found to have a critical remote code execution (RCE) vulnerability in version 5.0.4 and older.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No smoke without fire? ‘Critical’ Loguru security flaw turns out to be non-issue<a href="https://portswigger.net/daily-swig/no-smoke-without-fire-critical-loguru-security-flaw-turns-out-to-be-non-issue?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub has promised to stop sending out security advisories about a vulnerability reported in Loguru, a popular Python logging package, which later turned out to be invalid.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Memory corruption and use-after-free vulnerabilities discovered in Foxit PDF Reader<a href="https://blog.talosintelligence.com/2022/01/vuln-spotlight-foxit-jan-22.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities could be triggered if an attacker tricks a user into opening a specially crafted, malicious PDF file, or open the file in a browser that has a PDF reader plugin installed.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+277,000 routers exposed to Eternal Silence attacks via UPnP<a href="https://www.bleepingcomputer.com/news/security/277-000-routers-exposed-to-eternal-silence-attacks-via-upnp/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious campaign known as 'Eternal Silence' is abusing Universal Plug and Play (UPnP) turns your router into a proxy server used to launch malicious attacks while hiding the location of the threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Pays $100,500 Bounty to Hacker Who Found Way to Hack MacBook Webcam<a href="https://thehackernews.com/2022/01/apple-pays-100500-bounty-to-hacker-who.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple last year fixed a new set of macOS vulnerabilities that exposed Safari browser to attack, potentially allowing malicious actors to access users' online accounts, microphone, and webcam.  Security researcher Ryan Pickren, who discovered and reported the bugs to the iPhone maker, was compensated with a $100,500 bug bounty, underscoring the severity of the issues.  By exploiting a chain of security issues with iCloud Sharing and Safari 15, it enables the attacker to hijack the multimedia permission and gain "full access to every website ever visited by the victim" in Safari, including Gmail, iCloud, Facebook, and PayPal accounts.   The&nbsp; issues&nbsp; specifically concern ShareBear, an iCloud file-sharing mechanism that prompts users upon attempting to open a shared document for the first time. Taking advantage of the fact that users are never displayed the prompt again once they accept to open the file, Pickren found that it's possible to alter the file's content to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

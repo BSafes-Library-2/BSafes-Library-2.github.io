@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of thousands of routers exposed to Eternal Silence campaign via UPnP￼<a href="https://securityaffairs.co/wordpress/127435/hacking/eternal-silence-upnproxy-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking campaign, tracked as Eternal Silence, is abusing UPnP to compromise routers and use them to carry out malicious activities.
+
+
+
+Researchers from Akamai have spotted a malicious campaign, tracked as 'Eternal Silence,' that is abusing Universal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian 'Gamaredon' hackers use 8 new malware payloads in attacks<a href="https://www.bleepingcomputer.com/news/security/russian-gamaredon-hackers-use-8-new-malware-payloads-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked hackers known as 'Gamaredon' (aka Armageddon or Shuckworm) were spotted deploying eight custom binaries in cyber-espionage operations against Ukrainian entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
