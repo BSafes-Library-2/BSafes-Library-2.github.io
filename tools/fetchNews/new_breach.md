@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+February 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Council exposed 144,000 files containing student details￼<a href="https://securityaffairs.co/wordpress/127499/breaking-news/british-council-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal information belonging to British Council students was exposed online via an unsecured repository.
+
+
+
+The British Council is a British organisation specialising in international cultural and educational opportunities. It operates in over 100 countries:...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Council exposed more than 100,000 files with student records<a href="https://www.bleepingcomputer.com/news/security/british-council-exposed-more-than-100-000-files-with-student-records/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 100,000 files with student records belonging to British Council&nbsp;were found exposed online. An unsecured Microsoft Azure blob found on the internet by cybersecurity firm revealed student IDs, names, usernames and email addresses, and other personal information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

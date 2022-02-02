@@ -34,6 +34,646 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 02, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UEFI firmware vulnerabilities affect at least 25 computer vendors<a href="https://www.bleepingcomputer.com/news/security/uefi-firmware-vulnerabilities-affect-at-least-25-computer-vendors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from firmware protection company Binarly have discovered critical vulnerabilities in the UEFI firmware from InsydeH2O used by multiple computer vendors such as Fujitsu, Intel, AMD, Lenovo, Dell, ASUS, HP, Siemens, Microsoft, and Acer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches 27 Vulnerabilities With Release of Chrome 98<a href="https://www.securityweek.com/google-patches-27-vulnerabilities-release-chrome-98?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Of the 19 flaws, 8 carry a severity rating of high, 10 are medium severity, and one is low risk. Over half of the externally reported vulnerabilities addressed in this release are use-after-free bugs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 02, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malware Used by SolarWinds Attackers Went Undetected for Years<a href="https://thehackernews.com/2022/02/new-malware-used-by-solarwinds.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the supply chain compromise of SolarWinds has continued to expand its malware arsenal with new tools and techniques that were deployed in attacks as early as 2019, once indicative of the elusive nature of the campaigns and the adversary's ability to maintain persistent access for years.  According to cybersecurity firm CrowdStrike, which  detailed the novel tactics  adopted by the Nobelium hacking group last week, two sophisticated malware families were placed on victim systems — a Linux variant of GoldMax and a new implant dubbed TrailBlazer — long before the scale of the attacks came to light.  Nobelium, the Microsoft-assigned moniker for the  SolarWinds intrusion  in December 2020, is also tracked by the wider cybersecurity community under the names UNC2452 (FireEye), SolarStorm (Unit 42), StellarParticle (Crowdstrike), Dark Halo (Volexity), and Iron Ritual (Secureworks).   The  malicious activities  have since been attributed to a Russian state-sponsore
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESET releases fixes for local privilege escalation bug in Windows Applications<a href="https://securityaffairs.co/wordpress/127536/security/eset-windows-applications-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Antivirus firm ESET addressed a local privilege escalation vulnerability, tracked CVE-2021-37852, impacting its Windows clients.
+
+
+
+Antivirus firm ESET released security patches to address a high severity local privilege escalation vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Social Engineering Campaigns Impacted Banks in Europe and South America<a href="https://securityaffairs.co/wordpress/127516/cyber-crime/massive-social-engineering-banks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaigns, which aim to steal banking secrets and payment cards of users, are carried out by using social engineering schemas, namely smishing, and spear-phishing through fake emails.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 02, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cynet's Keys to Extend Threat Visibility<a href="https://thehackernews.com/2022/02/cynets-keys-to-extend-threat-visibility.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We hear about the need for better visibility in the cybersecurity space – detecting threats earlier and more accurately. We often hear about the dwell time and the time to identify and contain a data breach. Many of us are familiar with IBM's Cost of a Data Breach Report that has been tracking this statistic for years. In the 2021 report, IBM found that, on average, it takes an average of 212 days to identify a breach and then another 75 days to contain the breach, for a total of 287 days.  A new  solution overview document  provides insights on how XDR provider Cynet tackles the difficult problem of greatly improving threat visibility. Cynet takes a modern approach that includes a greater level of native technology integration and advanced automation purposely designed for organizations with smaller security teams than Fortune 500 organizations. A live webinar will discuss the same topic ( Register here )  Cynet's Keys for Threat Visibility  Einstein said that the definition of i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of a spike in APT35 activity and a possible link to Memento ransomware op<a href="https://securityaffairs.co/wordpress/127526/apt/apt35-spike-memento-op.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybereason Nocturnus Team reported a spike in the activity of the Iran-linked APT group APT35 (aka Phosphorus or Charming Kitten).
+
+
+
+The Cybereason Nocturnus Team observed a spike in the activity of the Iran-linked APT group APT35 (aka...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Check Point Acquires Developer Security Startup Spectral<a href="https://www.crn.com/news/security/check-point-acquires-developer-security-startup-spectral?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Software Technologies has bought Spectral to broaden its range of cloud application security use cases to include Infrastructure as Code scanning and hard-coded secrets detection.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found 23 flaws in UEFI firmware potentially impact millions of devices<a href="https://securityaffairs.co/wordpress/127506/breaking-news/uefi-firmware-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered tens of vulnerabilities in UEFI firmware code used by the major device manufacturers.
+
+
+
+Researchers at firmware security company Binarly have discovered 23 vulnerabilities in UEFI firmware code used by the major device makers....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Dozen UEFI Vulnerabilities Impact Millions of Devices From Major Vendors<a href="https://www.securityweek.com/two-dozen-uefi-vulnerabilities-impact-millions-devices-major-vendors?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities are mostly related to System Management Mode and they can lead to arbitrary code execution with elevated privileges. CVE IDs have been assigned to each of the 23 weaknesses.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forescout Acquires CyberMDX to Expand Healthcare Cybersecurity Focus<a href="https://www.darkreading.com/vulnerabilities-threats/forescout-acquires-cybermdx-to-expand-healthcare-cybersecurity-focus?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forescout Technologies announced its acquisition of CyberMDX, a leading healthcare cybersecurity provider delivering visibility and threat prevention for medical devices and clinical networks.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Presented by Cisco — Spotify faces critics over Rogan controversy<a href="https://thehill.com//policy/technology/overnights/592374-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Tuesday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Use a Burner Phone at the Olympics<a href="https://threatpost.com/fbi-burner-phone-olympics-beijing/178153/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The warning follows a Citizen Lab report that found the official, mandatory app has an encryption flaw that “can be trivially sidestepped.” Besides burners, here are more tips on staying cyber-safe at the Games.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of fake job postings used to steal money, personal info<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-job-postings-used-to-steal-money-personal-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are trying to steal job seekers' money and personal information through phishing campaigns using fake advertisements posted on recruitment platforms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI says cyber actors could 'disrupt' Beijing Olympics, Paralympics<a href="https://thehill.com//policy/cybersecurity/592348-fbi-says-cyber-actors-could-disrupt-beijing-olympics-paralympics"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI’s cyber division warned in a private industry notification dated Monday that cyber actors could “disrupt” the 2022 Beijing Winter Olympics set to start on Friday, in addition to next month’s Paralympics.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Living Off the Land: How to Defend Against Malicious Use of Legitimate Utilities<a href="https://threatpost.com/living-off-the-land-malicious-use-legitimate-utilities/177762/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LOLBins help attackers become invisible to security platforms. Uptycs provides a rundown of the most commonly abused native utilities for Windows, Linux and macOS – and advice for protection.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious CSV text files used to install BazarBackdoor malware<a href="https://www.bleepingcomputer.com/news/security/malicious-csv-text-files-used-to-install-bazarbackdoor-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign is using specially crafted CSV text files to infect users' devices with the BazarBackdoor malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli police: Evidence points to improper spyware use by investigators<a href="https://thehill.com//policy/cybersecurity/592344-israeli-police-evidence-points-to-improper-spyware-use-by-investigators"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New evidence indicates that investigators with the Israeli police improperly used spyware to spy on citizens' phones, the national police force announced on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of Security Flaws Discovered in UEFI Firmware Used by Several Vendors<a href="https://thehackernews.com/2022/02/dozens-of-security-flaws-discovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 23 new high severity security vulnerabilities have been disclosed in different implementations of Unified Extensible Firmware Interface ( UEFI ) firmware used by numerous vendors, including Bull Atos, Fujitsu, HP, Juniper Networks, Lenovo, among others.  The vulnerabilities reside in Insyde Software's InsydeH2O UEFI firmware, according to enterprise firmware security company  Binarly , with a majority of the anomalies diagnosed in the System Management Mode ( SMM ).  UEFI is a software specification that provides a standard programming interface connecting a computer's firmware to its operating system during the booting process. In x86 systems, the UEFI firmware is usually stored in the flash memory chip of the motherboard.   "By exploiting these vulnerabilities, attackers can successfully install malware that survives operating system re-installations and allows the bypass of endpoint security solutions (EDR/AV),  Secure Boot , and Virtualization-Based Securit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender now detects Android and iOS vulnerabilities<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-now-detects-android-and-ios-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says threat and vulnerability management support for Android and iOS has reached general availability in Microsoft Defender for Endpoint, the company's enterprise endpoint security platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top White House cyber official to meet with Europeans amid Russia tensions<a href="https://thehill.com//homenews/administration/592198-top-white-house-cyber-official-to-meet-with-europeans-amid-russia"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House is dispatching its top cyber official to Europe for meetings with allies on countering cyberthreats from Russia, a senior Biden administration official said. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Group 'Moses Staff' Using New StrifeWater RAT in Ransomware Attacks<a href="https://thehackernews.com/2022/02/hacker-group-moses-staff-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A politically motivated hacker group tied to a series of espionage and sabotage attacks on Israeli entities in 2021 incorporated a previously undocumented remote access trojan (RAT) that masquerades as the Windows Calculator app as part of a conscious effort to stay under the radar.  Cybersecurity company Cybereason, which has been tracking the operations of the Iranian actor known as Moses Staff, dubbed the malware " StrifeWater ."  "The StrifeWater RAT appears to be used in the initial stage of the attack and this stealthy RAT has the ability to remove itself from the system to cover the Iranian group's tracks," Tom Fakterman, Cybereason security analyst,  said  in a report. "The RAT possesses other capabilities, such as command execution and screen capturing, as well as the ability to download additional extensions."   Moses Staff came to light towards the end of last year when Check Point Research  unmasked  a series of attacks aimed at Israeli or
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive social engineering waves have impacted banks in several countries<a href="https://securityaffairs.co/wordpress/127516/cyber-crime/massive-social-engineering-banks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive social engineering campaign targeting banks has been delivered in the last two years in several countries.
+
+
+
+A massive social engineering campaign has been delivered in the last two years in several countries, including Portugal, Spain, Brazil,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspies linked to Memento ransomware use new PowerShell malware<a href="https://www.bleepingcomputer.com/news/security/cyberspies-linked-to-memento-ransomware-use-new-powershell-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian state-backed hacking group tracked as APT35 (aka Phosphorus or Charming Kitten) is now deploying a new backdoor called PowerLess and developed using PowerShell.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bug Found in WordPress Plugin for Elementor with Over a Million Installations<a href="https://thehackernews.com/2022/02/critical-bug-found-in-wordpress-plugin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A WordPress plugin with over one million installs has been found to contain a critical vulnerability that could result in the execution of arbitrary code on compromised websites.  The plugin in question is  Essential Addons for Elementor , which provides WordPress site owners with a library of over 80 elements and extensions to help design and customize pages and posts.  "This vulnerability allows any user, regardless of their authentication or authorization status, to perform a local file inclusion attack," Patchstack  said  in a report. "This attack can be used to include local files on the filesystem of the website, such as /etc/passwd. This can also be used to perform RCE by including a file with malicious PHP code that normally cannot be executed."   That said, the vulnerability only exists if widgets like dynamic gallery and product gallery are used, which utilize the vulnerable function, resulting in local file inclusion – an attack technique in which a web
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Council exposed 144,000 files containing student details￼<a href="https://securityaffairs.co/wordpress/127499/breaking-news/british-council-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal information belonging to British Council students was exposed online via an unsecured repository.
+
+
+
+The British Council is a British organisation specialising in international cultural and educational opportunities. It operates in over 100 countries:...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Powerful new Oski variant ‘Mars Stealer’ grabbing 2FAs and crypto<a href="https://www.bleepingcomputer.com/news/security/powerful-new-oski-variant-mars-stealer-grabbing-2fas-and-crypto/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new and powerful malware named 'Mars Stealer' has appeared in the wild, and appears to be a redesign of the Oski malware that shut down development abruptly in the summer of 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarMarker Malware Uses Novel Techniques to Persist on Hacked Systems<a href="https://thehackernews.com/2022/02/solarmarker-malware-uses-novel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a sign that threat actors continuously shift tactics and update their defensive measures, the operators of the SolarMarker information stealer and backdoor have been found leveraging stealthy Windows Registry tricks to establish long-term persistence on compromised systems.  Cybersecurity firm Sophos, which spotted the new behavior, said that the remote access implants are still being detected on targeted networks despite the campaign witnessing a decline in November 2021.  Boasting of information harvesting and backdoor capabilities, the .NET-based malware has been linked to at least three different attack waves in 2021. The first set,  reported in April , took advantage of search engine poisoning techniques to trick business professionals into visiting sketchy Google sites that installed SolarMarker on the victim's machines.   Then in August, the malware was  observed  targeting healthcare and education sectors with the goal of gathering credentials and sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyber attack severely impacted the operations of German petrol distributor Oiltanking GmbH<a href="https://securityaffairs.co/wordpress/127493/hacking/oiltanking-gmbh-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German petrol distributor Oiltanking GmbH was a victim of a cyberattack that has a severe impact on its operations.
+
+
+
+A cyber attack hit Oiltanking GmbH, a German petrol distributor who supplies Shell gas stations in the country, severely impacting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Council exposed more than 100,000 files with student records<a href="https://www.bleepingcomputer.com/news/security/british-council-exposed-more-than-100-000-files-with-student-records/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 100,000 files with student records belonging to British Council were found exposed online. An unsecured Microsoft Azure blob found on the internet by cybersecurity firm revealed student IDs, names, usernames and email addresses, and other personal information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Using New PowerShell Backdoor in Cyber Espionage Attacks<a href="https://thehackernews.com/2022/02/iranian-hackers-using-new-powershell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat group with links to Iran has updated its malware toolset to include a novel PowerShell-based implant called PowerLess Backdoor , according to new research published by Cybereason.  The Boston-headquartered cybersecurity company attributed the malware to a hacking group known as Charming Kitten (aka Phosphorous, APT35, or  TA453 ), while also calling out the backdoor's evasive PowerShell execution.  "The PowerShell code runs in the context of a .NET application, thus not launching 'powershell.exe' which enables it to evade security products," Daniel Frank, senior malware researcher at Cybereason,  said . "The toolset analyzed includes extremely modular, multi-staged malware that decrypts and deploys additional payloads in several stages for the sake of both stealth and efficacy."   The threat actor, which is active since at least 2017, has been behind a series of campaigns in recent years, including those wherein the adversa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked MuddyWater APT group campaign targets Turkish entities<a href="https://securityaffairs.co/wordpress/127474/apt/muddywater-apt-targets-turkey.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iran-linked MuddyWater APT group is targeting private Turkish organizations and governmental institutions.
+
+
+
+Researchers from Cisco Talos have uncovered a cyber espionage campaign carried out by the Iran-linked MuddyWater APT group  (aka SeedWorm and TEMP.Zagros) and...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German petrol supply firm Oiltanking paralyzed by cyber attack<a href="https://www.bleepingcomputer.com/news/security/german-petrol-supply-firm-oiltanking-paralyzed-by-cyber-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oiltanking GmbH, a German petrol distributor who supplies Shell gas stations in the country, has fallen victim to a cyberattack that severely impacted its operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RCE in WordPress plugin Essential Addons for Elementor impacts hundreds of thousands of websites<a href="https://securityaffairs.co/wordpress/127465/hacking/wordpress-essential-addons-for-elementor-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical RCE in the popular WordPress plugin Essential Addons for Elementor impacts hundreds of thousands of websites.
+
+
+
+Essential Addons for Elementor is a popular WordPress plugin used in over a million sites that provides easy-to-use and creative...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telco fined €9 million for hiding cyberattack impact from customers<a href="https://www.bleepingcomputer.com/news/security/telco-fined-9-million-for-hiding-cyberattack-impact-from-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Greek data protection supervisory authority has imposed fines of 5,850,000 EUR ($6.55 million) to COSMOTE and 3,250,000 EUR ($3.65 million) to OTE, for leaking sensitive customer communication data due to insufficient security measures.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MuddyWater hacking group targets Turkey in new campaign<a href="https://www.bleepingcomputer.com/news/security/muddywater-hacking-group-targets-turkey-in-new-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian-backed MuddyWater hacking group is conducting a new malicious campaign targeting private Turkish organizations and governmental institutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Pays $100.5K Bug Bounty for Mac Webcam Hack<a href="https://threatpost.com/apple-bug-bounty-mac-webcam-hack/178114/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researcher found that he could gain unauthorized camera access via a shared iCloud document that could also “hack every website you’ve ever visited.”
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSO Group Pegasus Spyware Aims at Finnish Diplomats<a href="https://threatpost.com/nso-group-pegasus-spyware-finnish-diplomats/178113/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finland is weathering a bout of Pegasus infections, along with a Facebook Messenger phishing scam.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 31, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

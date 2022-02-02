@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telco fined €9 million for hiding cyberattack impact from customers<a href="https://www.bleepingcomputer.com/news/security/telco-fined-9-million-for-hiding-cyberattack-impact-from-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Greek data protection supervisory authority has imposed fines of 5,850,000 EUR ($6.55 million) to COSMOTE and 3,250,000 EUR ($3.65 million) to OTE, for leaking sensitive customer communication data due to insufficient security measures.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

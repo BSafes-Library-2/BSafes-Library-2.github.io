@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+February 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli police: Evidence points to improper spyware use by investigators<a href="https://thehill.com//policy/cybersecurity/592344-israeli-police-evidence-points-to-improper-spyware-use-by-investigators"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New evidence indicates that investigators with the Israeli police improperly used spyware to&nbsp;spy on citizens' phones, the national police force announced on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSO Group Pegasus Spyware Aims at Finnish Diplomats<a href="https://threatpost.com/nso-group-pegasus-spyware-finnish-diplomats/178113/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finland is weathering a bout of Pegasus infections, along with a Facebook Messenger phishing scam.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

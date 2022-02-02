@@ -6,6 +6,17 @@ nav_order: 150
 ---
 
 ## Alerts
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February, 2022 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Exploit Security Weaknesses on Job Recruitment Websites to Impersonate Legitimate Businesses, Threatening Company Reputation and Defrauding Job Seekers <a href="https://www.ic3.gov/Media/Y2022/PSA220201"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns that malicious actors or â€˜scammers' continue to exploit security weaknesses on job recruitment websites to post fraudulent job postings in order to trick applicants into providing personal information or money. These scammers lend credibility to their scheme by using legitimate information to imitate businesses, threatening reputational harm for the business and financial loss for the job seeker.
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 31, 2022 - CISA

@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Gets a Linux Version<a href="https://cyware.com/news/lockbit-ransomware-gets-a-linux-version-068b8a6f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new version uses a combination of AES and ECC algorithms for encryption.  It includes commands for encrypting VM images on ESXi servers.  However, the ransom note is similar to the ones associated with LockBit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP: DeadBolt ransomware exploits a bug patched in December<a href="https://www.bleepingcomputer.com/news/security/qnap-deadbolt-ransomware-exploits-a-bug-patched-in-december/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan-based network-attached storage (NAS) maker QNAP urges customers to enable firmware auto-updating on their devices to defend against active attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

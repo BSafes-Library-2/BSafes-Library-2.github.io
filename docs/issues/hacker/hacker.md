@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Group 'Moses Staff' Using New StrifeWater RAT in Ransomware Attacks<a href="https://thehackernews.com/2022/02/hacker-group-moses-staff-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A politically motivated hacker group tied to a series of espionage and sabotage attacks on Israeli entities in 2021 incorporated a previously undocumented remote access trojan (RAT) that masquerades as the Windows Calculator app as part of a conscious effort to stay under the radar.  Cybersecurity company Cybereason, which has been tracking the operations of the Iranian actor known as Moses Staff, dubbed the malware " StrifeWater ."  "The StrifeWater RAT appears to be used in the initial stage of the attack and this stealthy RAT has the ability to remove itself from the system to cover the Iranian group's tracks," Tom Fakterman, Cybereason security analyst,&nbsp; said &nbsp;in a report. "The RAT possesses other capabilities, such as command execution and screen capturing, as well as the ability to download additional extensions."   Moses Staff came to light towards the end of last year when Check Point Research&nbsp; unmasked &nbsp;a series of attacks aimed at Israeli or
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Using New PowerShell Backdoor in Cyber Espionage Attacks<a href="https://thehackernews.com/2022/02/iranian-hackers-using-new-powershell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat group with links to Iran has updated its malware toolset to include a novel PowerShell-based implant called PowerLess Backdoor , according to new research published by Cybereason.  The Boston-headquartered cybersecurity company attributed the malware to a hacking group known as Charming Kitten (aka Phosphorous, APT35, or&nbsp; TA453 ), while also calling out the backdoor's evasive PowerShell execution.  "The PowerShell code runs in the context of a .NET application, thus not launching 'powershell.exe' which enables it to evade security products," Daniel Frank, senior malware researcher at Cybereason,&nbsp; said . "The toolset analyzed includes extremely modular, multi-staged malware that decrypts and deploys additional payloads in several stages for the sake of both stealth and efficacy."   The threat actor, which is active since at least 2017, has been behind a series of campaigns in recent years, including those wherein the adversa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

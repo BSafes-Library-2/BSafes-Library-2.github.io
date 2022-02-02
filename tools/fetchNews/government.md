@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of 2022 Beijing Olympics cyberattack, privacy risks<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-2022-beijing-olympics-cyberattack-privacy-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned today that threat actors could potentially target the February 2022 Beijing Winter Olympics and March 2022 Paralympics. However, evidence of such attacks being planned is yet to be uncovered.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 8 new vulnerabilities to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/127448/security/8-flaws-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US CISA added eight more flaws to its Known Exploited Vulnerabilities Catalog that are known to be used in attacks in the wild.
+
+
+
+The US Cybersecurity &amp; Infrastructure Security Agency (CISA) has added eight more flaws to the Known Exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 8 vulnerabilities to list of actively exploited bugs<a href="https://www.bleepingcomputer.com/news/security/cisa-adds-8-vulnerabilities-to-list-of-actively-exploited-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity &amp; Infrastructure Security Agency (CISA) has added eight more flaws to its catalog of exploited vulnerabilities that are known to be used in attacks, and they're a mix of old and new.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

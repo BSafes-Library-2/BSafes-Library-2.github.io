@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2022
+February 02, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UEFI firmware vulnerabilities affect at least 25 computer vendors<a href="https://www.bleepingcomputer.com/news/security/uefi-firmware-vulnerabilities-affect-at-least-25-computer-vendors/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Patches 27 Vulnerabilities With Release of Chrome 98<a href="https://www.securityweek.com/google-patches-27-vulnerabilities-release-chrome-98?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2022
+February 02, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Malware Used by SolarWinds Attackers Went Undetected for Years<a href="https://thehackernews.com/2022/02/new-malware-used-by-solarwinds.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ESET releases fixes for local privilege escalation bug in Windows Applications<a href="https://securityaffairs.co/wordpress/127536/security/eset-windows-applications-bug.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive Social Engineering Campaigns Impacted Banks in Europe and South America<a href="https://securityaffairs.co/wordpress/127516/cyber-crime/massive-social-engineering-banks.html?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2022
+February 02, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cynet's Keys to Extend Threat Visibility<a href="https://thehackernews.com/2022/02/cynets-keys-to-extend-threat-visibility.html"> Full Text</a>
@@ -134,7 +134,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of a spike in APT35 activity and a possible link to Memento ransomware op<a href="https://securityaffairs.co/wordpress/127526/apt/apt35-spike-memento-op.html"> Full Text</a>
@@ -154,7 +154,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Check Point Acquires Developer Security Startup Spectral<a href="https://www.crn.com/news/security/check-point-acquires-developer-security-startup-spectral?&web_view=true"> Full Text</a>
@@ -170,7 +170,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found 23 flaws in UEFI firmware potentially impact millions of devices<a href="https://securityaffairs.co/wordpress/127506/breaking-news/uefi-firmware-vulnerabilities.html"> Full Text</a>
@@ -190,7 +190,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Dozen UEFI Vulnerabilities Impact Millions of Devices From Major Vendors<a href="https://www.securityweek.com/two-dozen-uefi-vulnerabilities-impact-millions-devices-major-vendors?&web_view=true"> Full Text</a>
@@ -206,7 +206,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Forescout Acquires CyberMDX to Expand Healthcare Cybersecurity Focus<a href="https://www.darkreading.com/vulnerabilities-threats/forescout-acquires-cybermdx-to-expand-healthcare-cybersecurity-focus?&web_view=true"> Full Text</a>
@@ -222,7 +222,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley — Presented by Cisco — Spotify faces critics over Rogan controversy<a href="https://thehill.com//policy/technology/overnights/592374-hillicon-valley"> Full Text</a>
@@ -238,7 +238,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2022
+February 1, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Use a Burner Phone at the Olympics<a href="https://threatpost.com/fbi-burner-phone-olympics-beijing/178153/"> Full Text</a>
@@ -254,7 +254,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns of fake job postings used to steal money, personal info<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-job-postings-used-to-steal-money-personal-info/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI says cyber actors could 'disrupt' Beijing Olympics, Paralympics<a href="https://thehill.com//policy/cybersecurity/592348-fbi-says-cyber-actors-could-disrupt-beijing-olympics-paralympics"> Full Text</a>
@@ -286,7 +286,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2022
+February 1, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Living Off the Land: How to Defend Against Malicious Use of Legitimate Utilities<a href="https://threatpost.com/living-off-the-land-malicious-use-legitimate-utilities/177762/"> Full Text</a>
@@ -302,7 +302,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious CSV text files used to install BazarBackdoor malware<a href="https://www.bleepingcomputer.com/news/security/malicious-csv-text-files-used-to-install-bazarbackdoor-malware/"> Full Text</a>
@@ -318,7 +318,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israeli police: Evidence points to improper spyware use by investigators<a href="https://thehill.com//policy/cybersecurity/592344-israeli-police-evidence-points-to-improper-spyware-use-by-investigators"> Full Text</a>
@@ -334,7 +334,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dozens of Security Flaws Discovered in UEFI Firmware Used by Several Vendors<a href="https://thehackernews.com/2022/02/dozens-of-security-flaws-discovered-in.html"> Full Text</a>
@@ -350,7 +350,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender now detects Android and iOS vulnerabilities<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-now-detects-android-and-ios-vulnerabilities/"> Full Text</a>
@@ -366,7 +366,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top White House cyber official to meet with Europeans amid Russia tensions<a href="https://thehill.com//homenews/administration/592198-top-white-house-cyber-official-to-meet-with-europeans-amid-russia"> Full Text</a>
@@ -382,7 +382,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker Group 'Moses Staff' Using New StrifeWater RAT in Ransomware Attacks<a href="https://thehackernews.com/2022/02/hacker-group-moses-staff-using-new.html"> Full Text</a>
@@ -398,7 +398,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2022
+February 1, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive social engineering waves have impacted banks in several countries<a href="https://securityaffairs.co/wordpress/127516/cyber-crime/massive-social-engineering-banks.html"> Full Text</a>
@@ -418,7 +418,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberspies linked to Memento ransomware use new PowerShell malware<a href="https://www.bleepingcomputer.com/news/security/cyberspies-linked-to-memento-ransomware-use-new-powershell-malware/"> Full Text</a>
@@ -434,7 +434,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Bug Found in WordPress Plugin for Elementor with Over a Million Installations<a href="https://thehackernews.com/2022/02/critical-bug-found-in-wordpress-plugin.html"> Full Text</a>
@@ -450,7 +450,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2022
+February 1, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 British Council exposed 144,000 files containing student details￼<a href="https://securityaffairs.co/wordpress/127499/breaking-news/british-council-data-leak.html"> Full Text</a>
@@ -470,7 +470,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Powerful new Oski variant ‘Mars Stealer’ grabbing 2FAs and crypto<a href="https://www.bleepingcomputer.com/news/security/powerful-new-oski-variant-mars-stealer-grabbing-2fas-and-crypto/"> Full Text</a>
@@ -486,7 +486,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarMarker Malware Uses Novel Techniques to Persist on Hacked Systems<a href="https://thehackernews.com/2022/02/solarmarker-malware-uses-novel.html"> Full Text</a>
@@ -502,7 +502,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2022
+February 1, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A cyber attack severely impacted the operations of German petrol distributor Oiltanking GmbH<a href="https://securityaffairs.co/wordpress/127493/hacking/oiltanking-gmbh-cyber-attack.html"> Full Text</a>
@@ -522,7 +522,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 British Council exposed more than 100,000 files with student records<a href="https://www.bleepingcomputer.com/news/security/british-council-exposed-more-than-100-000-files-with-student-records/"> Full Text</a>
@@ -538,7 +538,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Using New PowerShell Backdoor in Cyber Espionage Attacks<a href="https://thehackernews.com/2022/02/iranian-hackers-using-new-powershell.html"> Full Text</a>
@@ -554,7 +554,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2022
+February 1, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked MuddyWater APT group campaign targets Turkish entities<a href="https://securityaffairs.co/wordpress/127474/apt/muddywater-apt-targets-turkey.html"> Full Text</a>
@@ -574,7 +574,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German petrol supply firm Oiltanking paralyzed by cyber attack<a href="https://www.bleepingcomputer.com/news/security/german-petrol-supply-firm-oiltanking-paralyzed-by-cyber-attack/"> Full Text</a>
@@ -590,7 +590,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2022
+February 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RCE in WordPress plugin Essential Addons for Elementor impacts hundreds of thousands of websites<a href="https://securityaffairs.co/wordpress/127465/hacking/wordpress-essential-addons-for-elementor-rce.html"> Full Text</a>
@@ -610,7 +610,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telco fined €9 million for hiding cyberattack impact from customers<a href="https://www.bleepingcomputer.com/news/security/telco-fined-9-million-for-hiding-cyberattack-impact-from-customers/"> Full Text</a>
@@ -626,7 +626,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2022
+February 01, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MuddyWater hacking group targets Turkey in new campaign<a href="https://www.bleepingcomputer.com/news/security/muddywater-hacking-group-targets-turkey-in-new-campaign/"> Full Text</a>
@@ -642,7 +642,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2022
+January 31, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Pays $100.5K Bug Bounty for Mac Webcam Hack<a href="https://threatpost.com/apple-bug-bounty-mac-webcam-hack/178114/"> Full Text</a>
@@ -658,7 +658,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2022
+January 31, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSO Group Pegasus Spyware Aims at Finnish Diplomats<a href="https://threatpost.com/nso-group-pegasus-spyware-finnish-diplomats/178113/"> Full Text</a>

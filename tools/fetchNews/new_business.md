@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+February 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Check Point Acquires Developer Security Startup Spectral<a href="https://www.crn.com/news/security/check-point-acquires-developer-security-startup-spectral?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Software Technologies has bought Spectral to broaden its range of cloud application security use cases to include Infrastructure as Code scanning and hard-coded secrets detection.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forescout Acquires CyberMDX to Expand Healthcare Cybersecurity Focus<a href="https://www.darkreading.com/vulnerabilities-threats/forescout-acquires-cybermdx-to-expand-healthcare-cybersecurity-focus?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forescout Technologies announced its acquisition of CyberMDX, a leading healthcare cybersecurity provider delivering visibility and threat prevention for medical devices and clinical networks.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Pays $100.5K Bug Bounty for Mac Webcam Hack<a href="https://threatpost.com/apple-bug-bounty-mac-webcam-hack/178114/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researcher found that he could gain unauthorized camera access via a shared iCloud document that could also “hack every website you’ve ever visited.”
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

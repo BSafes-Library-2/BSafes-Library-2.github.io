@@ -8,6 +8,24 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert earned $100,500 bounty to hack Apple MacBook webcam and microphone<a href="https://securityaffairs.co/wordpress/127410/hacking/apple-macbook-webcam-microphone-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple paid +$100K bounty for a macOS series of flaws that can allow threat actors to take over the microphone and camera.
+
+
+
+Apple last year addressed multiple macOS vulnerabilities discovered by the security researcher Ryan Pickren in the Safari browser...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

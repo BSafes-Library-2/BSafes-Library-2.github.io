@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+February 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cynet's Keys to Extend Threat Visibility<a href="https://thehackernews.com/2022/02/cynets-keys-to-extend-threat-visibility.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We hear about the need for better visibility in the cybersecurity space – detecting threats earlier and more accurately. We often hear about the dwell time and the time to identify and contain a data breach. Many of us are familiar with IBM's Cost of a Data Breach Report that has been tracking this statistic for years. In the 2021 report, IBM found that, on average, it takes an average of 212 days to identify a breach and then another 75 days to contain the breach, for a total of 287 days.  A new&nbsp; solution overview document &nbsp;provides insights on how XDR provider Cynet tackles the difficult problem of greatly improving threat visibility. Cynet takes a modern approach that includes a greater level of native technology integration and advanced automation purposely designed for organizations with smaller security teams than Fortune 500 organizations. A live webinar will discuss the same topic ( Register here )  Cynet's Keys for Threat Visibility  Einstein said that the definition of i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender now detects Android and iOS vulnerabilities<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-now-detects-android-and-ios-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says threat and vulnerability management support for Android and iOS has reached general availability in&nbsp;Microsoft Defender for Endpoint, the company's&nbsp;enterprise endpoint security platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

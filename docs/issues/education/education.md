@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+February 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Living Off the Land: How to Defend Against Malicious Use of Legitimate Utilities<a href="https://threatpost.com/living-off-the-land-malicious-use-legitimate-utilities/177762/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LOLBins help attackers become invisible to security platforms. Uptycs provides a rundown of the most commonly abused native utilities for Windows, Linux and macOS – and advice for protection.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

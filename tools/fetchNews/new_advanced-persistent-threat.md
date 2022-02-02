@@ -8,6 +8,56 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of a spike in APT35 activity and a possible link to Memento ransomware op<a href="https://securityaffairs.co/wordpress/127526/apt/apt35-spike-memento-op.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;Cybereason Nocturnus Team&nbsp;reported a spike in the activity of the Iran-linked APT group APT35 (aka Phosphorus or Charming Kitten).
+
+
+
+The&nbsp;Cybereason Nocturnus Team&nbsp;observed a spike in the activity of the Iran-linked APT group APT35 (aka...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspies linked to Memento ransomware use new PowerShell malware<a href="https://www.bleepingcomputer.com/news/security/cyberspies-linked-to-memento-ransomware-use-new-powershell-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian state-backed hacking group tracked as APT35 (aka Phosphorus or Charming Kitten) is now deploying a new backdoor called PowerLess and developed using PowerShell.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked MuddyWater APT group campaign targets Turkish entities<a href="https://securityaffairs.co/wordpress/127474/apt/muddywater-apt-targets-turkey.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iran-linked MuddyWater APT group is targeting private Turkish organizations and governmental institutions.
+
+
+
+Researchers from Cisco Talos have uncovered a cyber espionage campaign carried out by the Iran-linked MuddyWater APT group &nbsp;(aka&nbsp;SeedWorm&nbsp;and&nbsp;TEMP.Zagros)&nbsp;and...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

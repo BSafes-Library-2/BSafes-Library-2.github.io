@@ -8,6 +8,130 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UEFI firmware vulnerabilities affect at least 25 computer vendors<a href="https://www.bleepingcomputer.com/news/security/uefi-firmware-vulnerabilities-affect-at-least-25-computer-vendors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from firmware protection company Binarly have discovered critical vulnerabilities in the UEFI firmware from InsydeH2O&nbsp;used by multiple computer vendors such as Fujitsu, Intel, AMD, Lenovo, Dell, ASUS, HP, Siemens, Microsoft, and Acer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches 27 Vulnerabilities With Release of Chrome 98<a href="https://www.securityweek.com/google-patches-27-vulnerabilities-release-chrome-98?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Of the 19 flaws, 8 carry a severity rating of high, 10 are medium severity, and one is low risk. Over half of the externally reported vulnerabilities addressed in this release are use-after-free bugs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESET releases fixes for local privilege escalation bug in Windows Applications<a href="https://securityaffairs.co/wordpress/127536/security/eset-windows-applications-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Antivirus firm ESET addressed a local privilege escalation vulnerability, tracked CVE-2021-37852, impacting its Windows clients.
+
+
+
+Antivirus firm ESET released security patches to address a high severity local privilege escalation vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found 23 flaws in UEFI firmware potentially impact millions of devices<a href="https://securityaffairs.co/wordpress/127506/breaking-news/uefi-firmware-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered tens of vulnerabilities in UEFI firmware code used by the major device manufacturers.
+
+
+
+Researchers at firmware security company Binarly have discovered 23 vulnerabilities in UEFI firmware code used by the major device makers....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Dozen UEFI Vulnerabilities Impact Millions of Devices From Major Vendors<a href="https://www.securityweek.com/two-dozen-uefi-vulnerabilities-impact-millions-devices-major-vendors?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities are mostly related to System Management Mode and they can lead to arbitrary code execution with elevated privileges. CVE IDs have been assigned to each of the 23 weaknesses.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of Security Flaws Discovered in UEFI Firmware Used by Several Vendors<a href="https://thehackernews.com/2022/02/dozens-of-security-flaws-discovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 23 new high severity security vulnerabilities have been disclosed in different implementations of Unified Extensible Firmware Interface ( UEFI ) firmware used by numerous vendors, including Bull Atos, Fujitsu, HP, Juniper Networks, Lenovo, among others.  The vulnerabilities reside in Insyde Software's InsydeH2O UEFI firmware, according to enterprise firmware security company&nbsp; Binarly , with a majority of the anomalies diagnosed in the System Management Mode ( SMM ).  UEFI is a software specification that provides a standard programming interface connecting a computer's firmware to its operating system during the booting process. In x86 systems, the UEFI firmware is usually stored in the flash memory chip of the motherboard.   "By exploiting these vulnerabilities, attackers can successfully install malware that survives operating system re-installations and allows the bypass of endpoint security solutions (EDR/AV),&nbsp; Secure Boot , and Virtualization-Based Securit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bug Found in WordPress Plugin for Elementor with Over a Million Installations<a href="https://thehackernews.com/2022/02/critical-bug-found-in-wordpress-plugin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A WordPress plugin with over one million installs has been found to contain a critical vulnerability that could result in the execution of arbitrary code on compromised websites.  The plugin in question is&nbsp; Essential Addons for Elementor , which provides WordPress site owners with a library of over 80 elements and extensions to help design and customize pages and posts.  "This vulnerability allows any user, regardless of their authentication or authorization status, to perform a local file inclusion attack," Patchstack&nbsp; said &nbsp;in a report. "This attack can be used to include local files on the filesystem of the website, such as /etc/passwd. This can also be used to perform RCE by including a file with malicious PHP code that normally cannot be executed."   That said, the vulnerability only exists if widgets like dynamic gallery and product gallery are used, which utilize the vulnerable function, resulting in local file inclusion – an attack technique in which a web
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RCE in WordPress plugin Essential Addons for Elementor impacts hundreds of thousands of websites<a href="https://securityaffairs.co/wordpress/127465/hacking/wordpress-essential-addons-for-elementor-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical RCE in the popular WordPress plugin Essential Addons for Elementor impacts hundreds of thousands of websites.
+
+
+
+Essential Addons for Elementor is a popular WordPress plugin used in over a million sites that provides easy-to-use and creative...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
