@@ -34,6 +34,353 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wormhole platform hacked to steal $326 million in crypto<a href="https://www.bleepingcomputer.com/news/cryptocurrency/wormhole-platform-hacked-to-steal-326-million-in-crypto/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have exploited a vulnerability in the Wormhole cross-chain crypto platform to steal $320 million in cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeadBolt Hits QNAP Hard, 3600 Devices Impacted<a href="https://cyware.com/news/deadbolt-hits-qnap-hard-3600-devices-impacted-23d6988d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new DeadBolt ransomware group encrypted more than 3,600 network-attached storage (NAS) devices worldwide by exploiting a zero-day with the most affected countries being the U.S., France, Taiwan, Italy, and the U.K. QNAP has warned customers to protect their devices by updating the QTS software ve ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Presented by Cisco — Media industry divided over Big Tech bill<a href="https://thehill.com//policy/technology/overnights/592585-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Wednesday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher found an Information Disclosure in the Brave browser<a href="https://securityaffairs.co/wordpress/127556/hacking/brave-browser-information-disclosure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher discovered an Information Disclosure vulnerability in Brave browser and reported it through the HackerOne platform.
+
+
+
+Security researcher Kirtikumar Anandrao Ramchandani discovered an Information Disclosure vulnerability in the Brave...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply-Chain Security Is Not a Problem…It’s a Predicament<a href="https://threatpost.com/supply-chain-security-predicament/178166/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite what security vendors might say, there is no way to comprehensively solve our supply-chain security challenges, posits JupiterOne CISO Sounil Yu. We can only manage them.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESET antivirus bug let attackers gain Windows SYSTEM privileges<a href="https://www.bleepingcomputer.com/news/microsoft/eset-antivirus-bug-let-attackers-gain-windows-system-privileges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Slovak internet security firm ESET released security fixes to address a high severity local privilege escalation vulnerability affecting multiple products on systems running Windows 10 and later or Windows Server 2016 and above.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is REvil Active Even After Arrests?<a href="https://cyware.com/news/is-revil-active-even-after-arrests-37013e53"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even after the recent arrest of the members of the REvil ransomware group, researchers have found multiple samples being deployed across targets.&nbsp; After the arrests, the number of REvil implants dipped to 24 per day, but that again increased to 26 implants a day. Today, it is highly obscure wh ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI says Pegasus spyware was tested, not used in any investigation<a href="https://thehill.com//policy/national-security/592520-fbi-says-pegasus-spyware-was-tested-not-used-in-any-investigation"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI tested the NSO Group's Pegasus spyware for potential use in criminal investigations. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sugar Ransomware, a new RaaS in the threat landscape<a href="https://securityaffairs.co/wordpress/127545/malware/sugar-ransomware-a-new-raas-in-the-threat-landscape.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber security team at retail giant Walmart dissected a new ransomware family dubbed Sugar, which implements a ransomware-as-a-service model.
+
+
+
+The cyber threat team at retail giant Walmart has analyzed a new ransomware family dubbed Sugar, which is offered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Office 365 boosts email security against MITM, downgrade attacks<a href="https://www.bleepingcomputer.com/news/microsoft/office-365-boosts-email-security-against-mitm-downgrade-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has added SMTP MTA Strict Transport Security (MTA-STS) support to Exchange Online to ensure Office 365 customers' email communication integrity and security.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Pushes Malware by Placing Job Offers<a href="https://cyware.com/news/lazarus-pushes-malware-by-placing-job-offers-3ed76bc4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lazarus APT group, infamous for targeting the defense industry, now abuses Windows Update Client to spread malware. It was recently observed masquerading as Lockheed Martin in spear-phishing campaigns. For the first time in this campaign, the group had used GitHub as a C2 for targeted and short-ter ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel unveils Circuit Breaker bug bounty expansion for elite hackers<a href="https://www.bleepingcomputer.com/news/security/intel-unveils-circuit-breaker-bug-bounty-expansion-for-elite-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel says its engineers are partnering with security researchers to hunt for vulnerabilities in firmware, GPUs, hypervisors, chipsets, and other products in a new expansion to its bug bounty program.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CoinStomp Malware Targets Asian Cloud Service Providers to Mine Monero<a href="https://www.zdnet.com/article/meet-coinstomp-new-cryptojacking-malware-targets-asian-cloud-service-providers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers say that the purpose of CoinStomp is to quietly compromise instances in order to harness computing power to illicit mine for cryptocurrency, a form of attack known as cryptojacking.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KP Snacks giant hit by Conti ransomware, deliveries disrupted<a href="https://www.bleepingcomputer.com/news/security/kp-snacks-giant-hit-by-conti-ransomware-deliveries-disrupted/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KP Snacks, a major producer of popular British snacks has been hit by the Conti ransomware group affecting distribution to leading supermarkets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PlexTrac Raises $70M Series B Funding Round to Fuel Growth in Proactive Cybersecurity Management<a href="https://www.idahocountyfreepress.com/news/state/plextrac-raises-70m-series-b-funding-round-to-fuel-growth-in-proactive-cybersecurity-management/article_5a997352-1cc2-50cd-a533-8fa6d0c87a10.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York-based global venture capital firm Insight Partners led the round, with participation from existing investors Madrona Venture Group, Noro-Moseley Partners, and StageDotO Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+idahocountyfreepress
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Sentinel adds threat monitoring for GitHub repos<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-sentinel-adds-threat-monitoring-for-github-repos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says its cloud-native SIEM (Security Information and Event Management) platform now allows to detect potential ransomware activity using the Fusion machine learning model.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fastly patches memory leak HTTP/3 vulnerability in H2O HTTP server project<a href="https://portswigger.net/daily-swig/fastly-patches-memory-leak-http-3-vulnerability-in-h2o-http-server-project?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An uninitialized memory leak vulnerability in the H2O HTTP server project has been patched. H20 is an open-source optimization project for HTTP/1, HTTP/2, and HTTP/3 servers
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Business services provider Morley discloses ransomware incident<a href="https://www.bleepingcomputer.com/news/security/business-services-provider-morley-discloses-ransomware-incident/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morley Companies Inc. disclosed a data breach after suffering a ransomware attack on August 1st, 2021, allowing threat actors to steal data before encrypting files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tenable agrees to acquire Cymptom; terms undisclosed (NASDAQ:TENB)<a href="https://seekingalpha.com/news/3794481-tenable-agrees-to-acquire-cymptom-terms-undisclosed?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tenable has agreed to acquire Cymptom, a specialist in attack path management. The financial terms of the deal were not disclosed. The acquisition is expected to close in Q122.
+</details>
+<div style="text-align: right" markdown="1">
+Seeking Alpha
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEO poisoning pushes malware-laced Zoom, TeamViewer, Visual Studio installers<a href="https://www.bleepingcomputer.com/news/security/seo-poisoning-pushes-malware-laced-zoom-teamviewer-visual-studio-installers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new SEO poisoning campaign is underway, dropping the Batloader and Atera Agent malware onto the systems of targeted professionals searching for productivity tool downloads, such as Zoom, TeamViewer, and Visual Studio.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arid Viper Hackers Strike Palestinian Targets with Political Lures and Trojans<a href="https://www.zdnet.com/article/arid-viper-hackers-strike-palestine-with-political-lures-and-trojans/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the past, the group has been responsible for spear phishing attacks against Palestinian law enforcement, the military, educational establishments, and the Israel Security Agency (ISA).
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 02, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
