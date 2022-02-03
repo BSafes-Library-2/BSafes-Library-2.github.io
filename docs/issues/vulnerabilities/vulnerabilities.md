@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher found an Information Disclosure in the Brave browser<a href="https://securityaffairs.co/wordpress/127556/hacking/brave-browser-information-disclosure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher discovered an Information Disclosure vulnerability in Brave browser and reported it through the HackerOne platform.
+
+
+
+Security researcher Kirtikumar Anandrao Ramchandani discovered an Information Disclosure vulnerability in the Brave...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESET antivirus bug let attackers gain Windows SYSTEM privileges<a href="https://www.bleepingcomputer.com/news/microsoft/eset-antivirus-bug-let-attackers-gain-windows-system-privileges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Slovak&nbsp;internet security firm ESET released security fixes to address a high severity local privilege escalation vulnerability affecting multiple products on systems running Windows 10 and later or Windows Server 2016 and above.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fastly patches memory leak HTTP/3 vulnerability in H2O HTTP server project<a href="https://portswigger.net/daily-swig/fastly-patches-memory-leak-http-3-vulnerability-in-h2o-http-server-project?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An uninitialized memory leak vulnerability in the H2O HTTP server project has been patched. H20 is an open-source optimization project for HTTP/1, HTTP/2, and HTTP/3 servers
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

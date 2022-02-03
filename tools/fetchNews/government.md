@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+February 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Use a Burner Phone at the Olympics<a href="https://threatpost.com/fbi-burner-phone-olympics-beijing/178153/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The warning follows a Citizen Lab report that found the official, mandatory app has an encryption flaw that “can be trivially sidestepped.” Besides burners, here are more tips on staying cyber-safe at the Games.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of fake job postings used to steal money, personal info<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-job-postings-used-to-steal-money-personal-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are trying to steal job seekers' money and personal information through phishing campaigns using fake advertisements posted on recruitment platforms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI says cyber actors could 'disrupt' Beijing Olympics, Paralympics<a href="https://thehill.com//policy/cybersecurity/592348-fbi-says-cyber-actors-could-disrupt-beijing-olympics-paralympics"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI’s cyber division warned in a private industry notification dated Monday that cyber actors could “disrupt” the 2022 Beijing Winter Olympics set to start on Friday, in addition to next month’s Paralympics.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top White House cyber official to meet with Europeans amid Russia tensions<a href="https://thehill.com//homenews/administration/592198-top-white-house-cyber-official-to-meet-with-europeans-amid-russia"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House is dispatching its top cyber official to Europe for meetings with allies on countering cyberthreats from Russia, a senior Biden administration official said.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

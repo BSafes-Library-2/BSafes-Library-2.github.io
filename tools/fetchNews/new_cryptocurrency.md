@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+February 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wormhole platform hacked to steal $326 million in crypto<a href="https://www.bleepingcomputer.com/news/cryptocurrency/wormhole-platform-hacked-to-steal-326-million-in-crypto/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have exploited a vulnerability in the Wormhole cross-chain crypto platform to steal $320 million in cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

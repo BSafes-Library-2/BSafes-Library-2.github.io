@@ -11,6 +11,49 @@ nav_order: 900015
 February 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DeadBolt Hits QNAP Hard, 3600 Devices Impacted<a href="https://cyware.com/news/deadbolt-hits-qnap-hard-3600-devices-impacted-23d6988d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new DeadBolt ransomware group encrypted more than 3,600 network-attached storage (NAS) devices worldwide by exploiting a zero-day with the most affected countries being the U.S., France, Taiwan, Italy, and the U.K. QNAP has warned customers to protect their devices by updating the QTS software ve ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Business services provider Morley discloses ransomware incident<a href="https://www.bleepingcomputer.com/news/security/business-services-provider-morley-discloses-ransomware-incident/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morley Companies Inc. disclosed a data breach after suffering a ransomware attack on August 1st, 2021, allowing threat actors to steal data before encrypting files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arid Viper Hackers Strike Palestinian Targets with Political Lures and Trojans<a href="https://www.zdnet.com/article/arid-viper-hackers-strike-palestine-with-political-lures-and-trojans/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the past, the group has been responsible for spear phishing attacks against Palestinian law enforcement, the military, educational establishments, and the Israel Security Agency (ISA).
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Massive Social Engineering Campaigns Impacted Banks in Europe and South America<a href="https://securityaffairs.co/wordpress/127516/cyber-crime/massive-social-engineering-banks.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+February 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Presented by Cisco — Media industry divided over Big Tech bill<a href="https://thehill.com//policy/technology/overnights/592585-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Wednesday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel unveils Circuit Breaker bug bounty expansion for elite hackers<a href="https://www.bleepingcomputer.com/news/security/intel-unveils-circuit-breaker-bug-bounty-expansion-for-elite-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel says its engineers are partnering with security researchers to hunt for vulnerabilities in firmware, GPUs, hypervisors, chipsets, and other products in a new expansion to its bug bounty program.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

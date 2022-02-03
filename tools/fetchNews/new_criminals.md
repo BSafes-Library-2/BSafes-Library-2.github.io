@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is REvil Active Even After Arrests?<a href="https://cyware.com/news/is-revil-active-even-after-arrests-37013e53"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even after the recent arrest of the members of the REvil ransomware group, researchers have found multiple samples being deployed across targets.&nbsp; After the arrests, the number of REvil implants dipped to 24 per day, but that again increased to 26 implants a day. Today, it is highly obscure wh ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

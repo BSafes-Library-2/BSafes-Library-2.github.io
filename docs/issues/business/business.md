@@ -11,6 +11,34 @@ nav_order: 900027
 February 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+PlexTrac Raises $70M Series B Funding Round to Fuel Growth in Proactive Cybersecurity Management<a href="https://www.idahocountyfreepress.com/news/state/plextrac-raises-70m-series-b-funding-round-to-fuel-growth-in-proactive-cybersecurity-management/article_5a997352-1cc2-50cd-a533-8fa6d0c87a10.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York-based global venture capital firm Insight Partners led the round, with participation from existing investors Madrona Venture Group, Noro-Moseley Partners, and StageDotO Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+idahocountyfreepress
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tenable agrees to acquire Cymptom; terms undisclosed (NASDAQ:TENB)<a href="https://seekingalpha.com/news/3794481-tenable-agrees-to-acquire-cymptom-terms-undisclosed?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tenable has agreed to acquire Cymptom, a specialist in attack path management. The financial terms of the deal were not disclosed. The acquisition is expected to close in Q122.
+</details>
+<div style="text-align: right" markdown="1">
+Seeking Alpha
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Check Point Acquires Developer Security Startup Spectral<a href="https://www.crn.com/news/security/check-point-acquires-developer-security-startup-spectral?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

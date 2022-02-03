@@ -8,6 +8,70 @@ nav_order: 900015
 
 ## Attack
 ---
+February 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Social Engineering Campaigns Impacted Banks in Europe and South America<a href="https://securityaffairs.co/wordpress/127516/cyber-crime/massive-social-engineering-banks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaigns, which aim to steal banking secrets and payment cards of users, are carried out by using social engineering schemas, namely smishing, and spear-phishing through fake emails.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive social engineering waves have impacted banks in several countries<a href="https://securityaffairs.co/wordpress/127516/cyber-crime/massive-social-engineering-banks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive social engineering campaign targeting banks has been delivered in the last two years in several countries.
+
+
+
+A massive social engineering campaign has been delivered in the last two years in several countries, including Portugal, Spain, Brazil,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyber attack severely impacted the operations of German petrol distributor Oiltanking GmbH<a href="https://securityaffairs.co/wordpress/127493/hacking/oiltanking-gmbh-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German petrol distributor Oiltanking GmbH was a victim of a cyberattack that has a severe impact on its operations.
+
+
+
+A cyber attack hit Oiltanking GmbH, a German petrol distributor who supplies Shell gas stations in the country, severely impacting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MuddyWater hacking group targets Turkey in new campaign<a href="https://www.bleepingcomputer.com/news/security/muddywater-hacking-group-targets-turkey-in-new-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian-backed MuddyWater hacking group is conducting a new malicious campaign targeting private Turkish organizations and governmental institutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

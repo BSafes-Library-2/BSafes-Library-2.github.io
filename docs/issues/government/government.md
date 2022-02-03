@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+February 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI says Pegasus spyware was tested, not used in any investigation<a href="https://thehill.com//policy/national-security/592520-fbi-says-pegasus-spyware-was-tested-not-used-in-any-investigation"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI tested the NSO Group's Pegasus spyware for potential use in criminal investigations.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

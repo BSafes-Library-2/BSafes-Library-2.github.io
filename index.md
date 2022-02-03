@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2022
+February 02, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wormhole platform hacked to steal $326 million in crypto<a href="https://www.bleepingcomputer.com/news/cryptocurrency/wormhole-platform-hacked-to-steal-326-million-in-crypto/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeadBolt Hits QNAP Hard, 3600 Devices Impacted<a href="https://cyware.com/news/deadbolt-hits-qnap-hard-3600-devices-impacted-23d6988d"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2022
+February 02, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley — Presented by Cisco — Media industry divided over Big Tech bill<a href="https://thehill.com//policy/technology/overnights/592585-hillicon-valley"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher found an Information Disclosure in the Brave browser<a href="https://securityaffairs.co/wordpress/127556/hacking/brave-browser-information-disclosure.html"> Full Text</a>
@@ -103,7 +103,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Supply-Chain Security Is Not a Problem…It’s a Predicament<a href="https://threatpost.com/supply-chain-security-predicament/178166/"> Full Text</a>
@@ -119,7 +119,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2022
+February 02, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ESET antivirus bug let attackers gain Windows SYSTEM privileges<a href="https://www.bleepingcomputer.com/news/microsoft/eset-antivirus-bug-let-attackers-gain-windows-system-privileges/"> Full Text</a>
@@ -135,7 +135,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is REvil Active Even After Arrests?<a href="https://cyware.com/news/is-revil-active-even-after-arrests-37013e53"> Full Text</a>
@@ -152,7 +152,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2022
+February 02, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI says Pegasus spyware was tested, not used in any investigation<a href="https://thehill.com//policy/national-security/592520-fbi-says-pegasus-spyware-was-tested-not-used-in-any-investigation"> Full Text</a>
@@ -168,7 +168,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sugar Ransomware, a new RaaS in the threat landscape<a href="https://securityaffairs.co/wordpress/127545/malware/sugar-ransomware-a-new-raas-in-the-threat-landscape.html"> Full Text</a>
@@ -188,7 +188,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2022
+February 02, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Office 365 boosts email security against MITM, downgrade attacks<a href="https://www.bleepingcomputer.com/news/microsoft/office-365-boosts-email-security-against-mitm-downgrade-attacks/"> Full Text</a>
@@ -204,7 +204,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Pushes Malware by Placing Job Offers<a href="https://cyware.com/news/lazarus-pushes-malware-by-placing-job-offers-3ed76bc4"> Full Text</a>
@@ -221,7 +221,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2022
+February 02, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intel unveils Circuit Breaker bug bounty expansion for elite hackers<a href="https://www.bleepingcomputer.com/news/security/intel-unveils-circuit-breaker-bug-bounty-expansion-for-elite-hackers/"> Full Text</a>
@@ -237,7 +237,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CoinStomp Malware Targets Asian Cloud Service Providers to Mine Monero<a href="https://www.zdnet.com/article/meet-coinstomp-new-cryptojacking-malware-targets-asian-cloud-service-providers/?&web_view=true"> Full Text</a>
@@ -253,7 +253,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2022
+February 02, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KP Snacks giant hit by Conti ransomware, deliveries disrupted<a href="https://www.bleepingcomputer.com/news/security/kp-snacks-giant-hit-by-conti-ransomware-deliveries-disrupted/"> Full Text</a>
@@ -269,7 +269,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PlexTrac Raises $70M Series B Funding Round to Fuel Growth in Proactive Cybersecurity Management<a href="https://www.idahocountyfreepress.com/news/state/plextrac-raises-70m-series-b-funding-round-to-fuel-growth-in-proactive-cybersecurity-management/article_5a997352-1cc2-50cd-a533-8fa6d0c87a10.html?&web_view=true"> Full Text</a>
@@ -285,7 +285,7 @@ idahocountyfreepress
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2022
+February 02, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Sentinel adds threat monitoring for GitHub repos<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-sentinel-adds-threat-monitoring-for-github-repos/"> Full Text</a>
@@ -301,7 +301,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fastly patches memory leak HTTP/3 vulnerability in H2O HTTP server project<a href="https://portswigger.net/daily-swig/fastly-patches-memory-leak-http-3-vulnerability-in-h2o-http-server-project?&web_view=true"> Full Text</a>
@@ -317,7 +317,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2022
+February 02, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Business services provider Morley discloses ransomware incident<a href="https://www.bleepingcomputer.com/news/security/business-services-provider-morley-discloses-ransomware-incident/"> Full Text</a>
@@ -333,7 +333,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tenable agrees to acquire Cymptom; terms undisclosed (NASDAQ:TENB)<a href="https://seekingalpha.com/news/3794481-tenable-agrees-to-acquire-cymptom-terms-undisclosed?&web_view=true"> Full Text</a>
@@ -349,7 +349,7 @@ Seeking Alpha
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2022
+February 02, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SEO poisoning pushes malware-laced Zoom, TeamViewer, Visual Studio installers<a href="https://www.bleepingcomputer.com/news/security/seo-poisoning-pushes-malware-laced-zoom-teamviewer-visual-studio-installers/"> Full Text</a>
@@ -365,7 +365,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Arid Viper Hackers Strike Palestinian Targets with Political Lures and Trojans<a href="https://www.zdnet.com/article/arid-viper-hackers-strike-palestine-with-political-lures-and-trojans/?&web_view=true"> Full Text</a>

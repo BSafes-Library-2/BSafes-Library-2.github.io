@@ -11,6 +11,34 @@ nav_order: 900195
 February 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Office 365 boosts email security against MITM, downgrade attacks<a href="https://www.bleepingcomputer.com/news/microsoft/office-365-boosts-email-security-against-mitm-downgrade-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has added&nbsp;SMTP MTA Strict Transport Security (MTA-STS) support to Exchange Online to ensure Office 365 customers' email communication integrity and security.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Sentinel adds threat monitoring for GitHub repos<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-sentinel-adds-threat-monitoring-for-github-repos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says its cloud-native SIEM (Security Information and Event Management) platform now allows to detect potential&nbsp;ransomware activity using the Fusion machine learning model.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cynet's Keys to Extend Threat Visibility<a href="https://thehackernews.com/2022/02/cynets-keys-to-extend-threat-visibility.html"> Full Text</a>
 </p>
 <details>
