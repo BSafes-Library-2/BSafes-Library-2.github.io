@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OT Data Stolen by Ransomware Gangs can Fuel Other Sophisticated Attacks, Reveals Research<a href="https://cyware.com/news/ot-data-stolen-by-ransomware-gangs-can-fuel-other-sophisticated-attacks-reveals-research-ed90b586"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2021, Mandiant Threat Intelligence observed that over 1,300 organizations in the critical and industrial sectors were impacted by ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

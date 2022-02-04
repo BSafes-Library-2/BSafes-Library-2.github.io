@@ -8,6 +8,98 @@ nav_order: 900015
 
 ## Attack
 ---
+February 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SEO Poisoning Campaign Distributing Trojanized Versions of Popular Software<a href="https://thehackernews.com/2022/02/new-seo-poisoning-campaign-distributing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing search engine optimization (SEO) poisoning attack campaign has been observed abusing trust in legitimate software utilities to trick users into downloading BATLOADER malware on compromised machines.  "The threat actor used 'free productivity apps installation' or 'free software development tools installation' themes as SEO keywords to lure victims to a compromised website and to download a malicious installer," researchers from Mandiant&nbsp; said &nbsp;in a report published this week.  In&nbsp; SEO poisoning &nbsp;attacks, adversaries artificially increase the search engine ranking of websites (genuine or otherwise) hosting their malware to make them show up on top of search results so that users searching for specific apps like TeamViewer, Visual Studio, and Zoom are infected with malware.   The installer, while packing the legitimate software, is also bundled with the BATLOADER payload that's executed during the installation process. The malware then acts as a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tennessee Community College Suffers Ransomware Attack<a href="https://www.securityweek.com/tennessee-community-college-suffers-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The college’s main database and credit card payment systems were not involved, and no data from them was accessed by unauthorized users, said the board, which oversees the state’s community colleges.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oil terminals in Europe’s biggest ports hit by a cyberattack<a href="https://securityaffairs.co/wordpress/127583/hacking/oil-port-terminals-hit-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack hit the oil terminals of some of the biggest European ports impacting their operations.
+
+
+
+Some of the major oil terminals in Western Europe's biggest ports have been targeted with a cyberattack.
+
+
+
+Threat actors have hit multiple oil facilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Wave of Cyber Attacks Target Palestine with Political Bait and Malware<a href="https://thehackernews.com/2022/02/new-wave-of-cyber-attacks-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have turned the spotlight on a new wave of offensive cyberattacks targeting Palestinian activists and entities starting around October 2021 using politically-themed phishing emails and decoy documents.  The intrusions are part of what Cisco Talos calls a longstanding espionage and information theft campaign undertaken by the&nbsp; Arid Viper hacking group &nbsp;using a Delphi-based implant called Micropsia dating all the way back to&nbsp; June 2017 .  The threat actor's&nbsp; activities , also tracked under the monikers Desert Falcon and the APT-C-23, were first documented in&nbsp; February 2015 &nbsp;by Kasperksy and subsequently in 2017, when Qihoo 360 disclosed details of&nbsp; cross-platform &nbsp; backdoors &nbsp;developed by the group to strike Palestinian institutions.   The Russian cybersecurity company-branded Arid Viper the "first exclusively Arabic APT group."  Then in April 2021, Meta (formerly Facebook), which pointed out the group's affiliations to the cyber arm of&nbsp; Hamas
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Often Hits Industrial Systems, With Significant Impact: Survey<a href="https://www.securityweek.com/ransomware-often-hits-industrial-systems-significant-impact-survey?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new survey, 80% of respondents admitted that their organization had experienced a ransomware attack within the past year, and nearly half said the incident had impacted their ICS/OT environment.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KP Snacks Left with Crumbs After Ransomware Attack<a href="https://threatpost.com/kp-snacks-crumbs-ransomware-attack/178176/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti gang strikes again, disrupting the nom-merchant’s supply chain and threatening supermarket shelves that could stay empty for weeks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

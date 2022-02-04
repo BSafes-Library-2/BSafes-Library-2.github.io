@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+February 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KP Snacks giant hit by Conti ransomware, deliveries disrupted<a href="https://www.bleepingcomputer.com/news/security/kp-snacks-giant-hit-by-conti-ransomware-deliveries-disrupted/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KP Snacks, a major producer of popular British snacks has been hit by the Conti ransomware group affecting distribution to leading supermarkets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

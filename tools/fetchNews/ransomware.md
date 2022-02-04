@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sugar Ransomware, a new RaaS in the threat landscape<a href="https://securityaffairs.co/wordpress/127545/malware/sugar-ransomware-a-new-raas-in-the-threat-landscape.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber security team at retail giant Walmart dissected a new ransomware family dubbed Sugar, which implements a ransomware-as-a-service model.
+
+
+
+The cyber threat team at retail giant Walmart has analyzed a new ransomware family dubbed Sugar, which is offered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

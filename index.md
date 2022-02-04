@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 03, 2022
+February 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zimbra zero-day vulnerability actively exploited to steal emails<a href="https://www.bleepingcomputer.com/news/security/zimbra-zero-day-vulnerability-actively-exploited-to-steal-emails/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2022
+February 3, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MacOS Malware UpdateAgent Grows Increasingly Malicious<a href="https://cyware.com/news/macos-malware-updateagent-grows-increasingly-malicious-4d0e6648"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 03, 2022
+February 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaws Discovered in Cisco Small Business RV Series Routers<a href="https://thehackernews.com/2022/02/critical-flaws-discovered-in-cisco.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2022
+February 3, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exclusive interview with the Powerful Greek Army (PGA) hacker group<a href="https://securityaffairs.co/wordpress/127612/hacking/powerful-greek-army-interview.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2022
+February 3, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wormhole Crypto Platform: ‘Funds Are Safe’ After $314M Heist<a href="https://threatpost.com/wormhole-crypto-funds-safe-heist/178189/"> Full Text</a>
@@ -122,7 +122,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 03, 2022
+February 03, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intuit warns of phishing emails threatening to delete accounts<a href="https://www.bleepingcomputer.com/news/security/intuit-warns-of-phishing-emails-threatening-to-delete-accounts/"> Full Text</a>
@@ -138,7 +138,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2022
+February 3, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OT Data Stolen by Ransomware Gangs can Fuel Other Sophisticated Attacks, Reveals Research<a href="https://cyware.com/news/ot-data-stolen-by-ransomware-gangs-can-fuel-other-sophisticated-attacks-reveals-research-ed90b586"> Full Text</a>
@@ -154,7 +154,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 03, 2022
+February 03, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SEO Poisoning Campaign Distributing Trojanized Versions of Popular Software<a href="https://thehackernews.com/2022/02/new-seo-poisoning-campaign-distributing.html"> Full Text</a>
@@ -170,7 +170,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2022
+February 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes critical flaws in its Small Business Routers<a href="https://securityaffairs.co/wordpress/127591/security/cisco-small-business-routers-flaws-3.html"> Full Text</a>
@@ -190,7 +190,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 03, 2022
+February 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes critical bugs in SMB routers, exploits available<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-critical-bugs-in-smb-routers-exploits-available/"> Full Text</a>
@@ -206,7 +206,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2022
+February 3, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BotenaGo Source Code Leaked - What does it Mean?<a href="https://cyware.com/news/botenago-source-code-leaked-what-does-it-mean-d0d1fd1a"> Full Text</a>
@@ -223,7 +223,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 03, 2022
+February 03, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How SSPM Simplifies Your SOC2 SaaS Security Posture Audit<a href="https://thehackernews.com/2022/02/how-sspm-simplifies-your-soc2-saas.html"> Full Text</a>
@@ -239,7 +239,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2022
+February 3, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Antlion APT group used a custom backdoor that allowed them to fly under the radar for months<a href="https://securityaffairs.co/wordpress/127592/breaking-news/antlion-backdoor-undetected-for-months.html"> Full Text</a>
@@ -259,7 +259,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 03, 2022
+February 03, 2022 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Target open sources scanner for digital credit card skimmers<a href="https://www.bleepingcomputer.com/news/security/target-open-sources-scanner-for-digital-credit-card-skimmers/"> Full Text</a>
@@ -275,7 +275,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2022
+February 3, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tennessee Community College Suffers Ransomware Attack<a href="https://www.securityweek.com/tennessee-community-college-suffers-ransomware-attack?&web_view=true"> Full Text</a>
@@ -291,7 +291,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 03, 2022
+February 03, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Variant of UpdateAgent Malware Infects Mac Computers with Adware<a href="https://thehackernews.com/2022/02/new-variant-of-updateagent-malware.html"> Full Text</a>
@@ -307,7 +307,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2022
+February 3, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oil terminals in Europe’s biggest ports hit by a cyberattack<a href="https://securityaffairs.co/wordpress/127583/hacking/oil-port-terminals-hit-cyberattack.html"> Full Text</a>
@@ -331,7 +331,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 03, 2022
+February 03, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft blocked billions of brute-force and phishing attacks last year<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-blocked-billions-of-brute-force-and-phishing-attacks-last-year/"> Full Text</a>
@@ -347,7 +347,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2022
+February 3, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Abuse Vulnerability in Smart Contracts Cryptocurrency Platform Wormhole<a href="https://therecord.media/cryptocurrency-platform-wormhole-hacked-for-an-estimated-322-million/?&web_view=true"> Full Text</a>
@@ -363,7 +363,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 03, 2022
+February 03, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Wave of Cyber Attacks Target Palestine with Political Bait and Malware<a href="https://thehackernews.com/2022/02/new-wave-of-cyber-attacks-target.html"> Full Text</a>
@@ -379,7 +379,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2022
+February 3, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wormhole cryptocurrency platform hacked, crooks stole $326 million, the second-biggest hack of a DeFi platform<a href="https://securityaffairs.co/wordpress/127570/cyber-crime/wormhole-hack.html"> Full Text</a>
@@ -399,7 +399,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 03, 2022
+February 03, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State hackers' new malware helped them stay undetected for 250 days<a href="https://www.bleepingcomputer.com/news/security/state-hackers-new-malware-helped-them-stay-undetected-for-250-days/"> Full Text</a>
@@ -415,7 +415,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2022
+February 3, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US State Department offers $10M for information on Iranian election interference<a href="https://www.cyberscoop.com/state-department-offer-10-million-information-iranian-election-interference/?&web_view=true"> Full Text</a>
@@ -431,7 +431,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2022
+February 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trend Micro fixed 2 flaws in Hybrid Cloud Security products<a href="https://securityaffairs.co/wordpress/127562/security/trend-micro-flaws-hybrid-cloud.html"> Full Text</a>
@@ -451,7 +451,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 03, 2022
+February 03, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MFA adoption pushes phishing actors to reverse-proxy solutions<a href="https://www.bleepingcomputer.com/news/security/mfa-adoption-pushes-phishing-actors-to-reverse-proxy-solutions/"> Full Text</a>
@@ -467,7 +467,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2022
+February 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trend Micro Patches Vulnerabilities in Hybrid Cloud Security Products<a href="https://www.securityweek.com/trend-micro-patches-vulnerabilities-hybrid-cloud-security-products?&web_view=true"> Full Text</a>
@@ -483,7 +483,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2022
+February 3, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Often Hits Industrial Systems, With Significant Impact: Survey<a href="https://www.securityweek.com/ransomware-often-hits-industrial-systems-significant-impact-survey?&web_view=true"> Full Text</a>
@@ -499,7 +499,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2022
+February 3, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Bypass MFA, Stealing Browser Sessions Using MiTM Phishing Kits<a href="https://www.proofpoint.com/us/blog/threat-insight/mfa-psa-oh-my?&web_view=true"> Full Text</a>
@@ -515,7 +515,7 @@ Proof Point
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2022
+February 3, 2022 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Target shares its own web skimming detection tool Merry Maker with the world<a href="https://www.csoonline.com/article/3648359/target-shares-its-own-web-skimming-detection-tool-merry-maker-with-the-world.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -531,7 +531,7 @@ CSO Online
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KP Snacks Left with Crumbs After Ransomware Attack<a href="https://threatpost.com/kp-snacks-crumbs-ransomware-attack/178176/"> Full Text</a>
@@ -547,7 +547,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of Malicious npm Packages Threaten Web Apps<a href="https://threatpost.com/malicious-npm-packages-web-apps/178137/"> Full Text</a>
@@ -563,7 +563,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2022
+February 2, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Charming Kitten Sharpens Its Claws with PowerShell Backdoor<a href="https://threatpost.com/charming-kitten-powershell-backdoor/178158/"> Full Text</a>
@@ -579,7 +579,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2022
+February 02, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wormhole cryptocurrency platform hacked to steal $326 million<a href="https://www.bleepingcomputer.com/news/cryptocurrency/wormhole-cryptocurrency-platform-hacked-to-steal-326-million/"> Full Text</a>

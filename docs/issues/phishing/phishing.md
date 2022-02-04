@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intuit warns of phishing emails threatening to delete accounts<a href="https://www.bleepingcomputer.com/news/security/intuit-warns-of-phishing-emails-threatening-to-delete-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Accounting and tax software provider Intuit&nbsp;has notified customers of an ongoing phishing campaign impersonating the company and trying to lure victims with fake warnings that their accounts have been suspended.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft blocked billions of brute-force and phishing attacks last year<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-blocked-billions-of-brute-force-and-phishing-attacks-last-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Office 365 and Azure Active Directory (Azure AD) customers were the targets of billions of phishing emails and&nbsp;brute force attacks successfully blocked last year by Microsoft.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MFA adoption pushes phishing actors to reverse-proxy solutions<a href="https://www.bleepingcomputer.com/news/security/mfa-adoption-pushes-phishing-actors-to-reverse-proxy-solutions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rising adoption of multi-factor authentication (MFA) for online accounts pushes phishing actors to use more sophisticated solutions to continue their malicious operations, most notably reverse-proxy tools.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

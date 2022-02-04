@@ -8,6 +8,34 @@ nav_order: 900190
 
 ## Skimming
 ---
+February 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Target open sources scanner for digital credit card skimmers<a href="https://www.bleepingcomputer.com/news/security/target-open-sources-scanner-for-digital-credit-card-skimmers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Target, one of the largest American department store chains and e-commerce retailers, has open sourced 'Merry Maker' - its years-old proprietary scanner for payment card skimming.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Target shares its own web skimming detection tool Merry Maker with the world<a href="https://www.csoonline.com/article/3648359/target-shares-its-own-web-skimming-detection-tool-merry-maker-with-the-world.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new open-source tool Merry Maker from Target simulates online browsing and shopping to identify malicious code meant to steal payment card information on retailers' websites.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

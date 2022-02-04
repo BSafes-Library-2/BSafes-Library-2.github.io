@@ -8,6 +8,66 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+February 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wormhole Crypto Platform: ‘Funds Are Safe’ After $314M Heist<a href="https://threatpost.com/wormhole-crypto-funds-safe-heist/178189/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular bridge, which connects Ethereum, Solana blockchain &amp; more, was shelled out by it’s-not-saying. Wormhole is trying to negotiate  with the attacker.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Abuse Vulnerability in Smart Contracts Cryptocurrency Platform Wormhole<a href="https://therecord.media/cryptocurrency-platform-wormhole-hacked-for-an-estimated-322-million/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack took place earlier today and impacted Wormhole Portal, a web-based application—also known as a blockchain “bridge”—that allows users to convert one form of cryptocurrency into another.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wormhole cryptocurrency platform hacked, crooks stole $326 million, the second-biggest hack of a DeFi platform<a href="https://securityaffairs.co/wordpress/127570/cyber-crime/wormhole-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have stolen $325&nbsp;million in cryptocurrency leveraging a bug in the Wormhole communication bridge.
+
+
+
+Wormhole, one of the most popular bridges that links the Ethereum and Solana blockchains, lost about $325 million in an attack that took...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wormhole cryptocurrency platform hacked to steal $326 million<a href="https://www.bleepingcomputer.com/news/cryptocurrency/wormhole-cryptocurrency-platform-hacked-to-steal-326-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have exploited a vulnerability in the Wormhole cross-chain crypto platform to steal approximately $326 million in cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
