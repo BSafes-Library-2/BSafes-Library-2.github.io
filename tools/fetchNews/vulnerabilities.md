@@ -8,6 +8,98 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimbra zero-day vulnerability actively exploited to steal emails<a href="https://www.bleepingcomputer.com/news/security/zimbra-zero-day-vulnerability-actively-exploited-to-steal-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cross-site scripting (XSS) Zimbra security vulnerability is actively exploited in attacks targeting European media and government organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Discovered in Cisco Small Business RV Series Routers<a href="https://thehackernews.com/2022/02/critical-flaws-discovered-in-cisco.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has patched multiple critical&nbsp; security vulnerabilities &nbsp;impacting its RV Series routers that could be weaponized to elevate privileges and execute arbitrary code on affected systems, while also warning of the existence of proof-of-concept (PoC) exploit code targeting some of these bugs.  Three of the 15 flaws, tracked as CVE-2022-20699, CVE-2022-20700, and CVE-2022-20707, carry the highest CVSS rating of 10.0, and affect its Small Business RV160, RV260, RV340, and RV345 Series routers.  Additionally, the flaws could be exploited to bypass authentication and authorization protections, retrieve and run unsigned software, and even cause denial-of-service (DoS) conditions.   The networking equipment maker acknowledged that it's "aware that proof-of-concept exploit code is available for several of the vulnerabilities" but didn't share any further specifics on the nature of the exploit or the identity of the threat actors that may be exploiting them.  CVE-2022-20699
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes critical flaws in its Small Business Routers<a href="https://securityaffairs.co/wordpress/127591/security/cisco-small-business-routers-flaws-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco released security patches to address multiple flaws in its Small Business RV160, RV260, RV340, and RV345 series routers.
+
+
+
+Cisco announced patches for multiple issue affecting its Small Business RV160, RV260, RV340, and RV345 series routers. Some...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes critical bugs in SMB routers, exploits available<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-critical-bugs-in-smb-routers-exploits-available/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released patches for multiple vulnerabilities in the Small Business RV Series router platform that could allow remote attackers to gain complete control over the device, in many cases, without authentication.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro fixed 2 flaws in Hybrid Cloud Security products<a href="https://securityaffairs.co/wordpress/127562/security/trend-micro-flaws-hybrid-cloud.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro recently addressed two high-severity flaws affecting some of its hybrid cloud security products. 
+
+
+
+Trend Micro released security updates to fix two high-severity vulnerabilities, tracked as&nbsp;CVE-2022-23119 and CVE-2022-23120, affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro Patches Vulnerabilities in Hybrid Cloud Security Products<a href="https://www.securityweek.com/trend-micro-patches-vulnerabilities-hybrid-cloud-security-products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities are tracked as CVE-2022-23119 and CVE-2022-23120, and they impact Deep Security and Cloud One workload security solutions, specifically the Linux agent component.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

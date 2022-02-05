@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Gamaredon APT targeted a western government entity in Ukraine<a href="https://securityaffairs.co/wordpress/127633/apt/gamaredon-targets-western-government-entity-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked Gamaredon APT group attempted to compromise an unnamed Western government entity in Ukraine.
+
+
+
+Palo Alto Networks' Unit 42 reported that the Russia-linked Gamaredon APT group attempted to compromise an unnamed Western government entity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Antlion APT group used a custom backdoor that allowed them to fly under the radar for months<a href="https://securityaffairs.co/wordpress/127592/breaking-news/antlion-backdoor-undetected-for-months.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked APT group tracked as Antlion used a custom backdoor called xPack that was undetected for months. 
+
+
+
+A China-linked APT group tracked as Antlion is using a custom backdoor called xPack in attacks aimed at financial organizations and manufacturing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

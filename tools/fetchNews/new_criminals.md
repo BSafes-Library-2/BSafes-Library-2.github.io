@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Distrust, feuds building among ransomware groups<a href="https://www.techtarget.com/searchsecurity/news/252512902/Distrust-feuds-building-among-ransomware-groups?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an industry that operates in anonymity, trust is everything -- but recent accusations of ransomware actors working with or being law enforcement is threatening that work model.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

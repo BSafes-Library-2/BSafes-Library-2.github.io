@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+February 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US State Department offers $10M for information on Iranian election interference<a href="https://www.cyberscoop.com/state-department-offer-10-million-information-iranian-election-interference/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department is offering a reward for information on two Iranian hackers who allegedly participated in state-sponsored cyber operations designed to interfere with the 2020 presidential election.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

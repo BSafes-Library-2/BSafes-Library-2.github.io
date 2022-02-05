@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+February 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Federal Government Creates Cybersecurity Incident Review Board<a href="https://www.itsecurityguru.org/2022/02/04/us-federal-government-creates-cybersecurity-incident-review-board/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security has announced a new Cyber Safety Review Board bringing together cybersecurity experts from public and private organizations to “review and assess significant cybersecurity events.”
+</details>
+<div style="text-align: right" markdown="1">
+IT Security Guru
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal agencies to patch actively exploited Windows bug<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-actively-exploited-windows-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch their systems against an actively exploited Windows&nbsp;vulnerability that enables attackers to gain SYSTEM&nbsp;privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Critical Vulnerabilities Discovered in Airspan Networks Mimosa<a href="https://thehackernews.com/2022/02/cisa-warns-of-critical-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday published an Industrial Controls Systems Advisory (ICSA) warning of multiple vulnerabilities in the Airspan Networks Mimosa equipment that could be abused to gain remote code execution, create a denial-of-service (DoS) condition, and obtain sensitive information.  "Successful exploitation of these vulnerabilities could allow an attacker to gain user data (including organization details) and other sensitive data, compromise Mimosa's AWS (Amazon Web Services) cloud EC2 instance and S3 Buckets, and execute unauthorized remote code on all cloud-connected Mimosa devices," CISA&nbsp; said &nbsp;in the alert.   The seven flaws, which were discovered and reported to CISA by industrial cybersecurity company Claroty, affect the following products —   Mimosa Management Platform ( MMP ) running versions prior to v1.0.3  Point-to-Point ( PTP ) C5c and C5x running versions prior to v2.8.6.1, and  Point-to-Multipoint (
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

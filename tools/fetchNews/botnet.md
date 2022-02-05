@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BotenaGo Source Code Leaked - What does it Mean?<a href="https://cyware.com/news/botenago-source-code-leaked-what-does-it-mean-d0d1fd1a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AT&amp;T experts unearthed the new BotenaGo botnet, which leaked on GitHub last year. It could target 33 exploits affecting nearly 2 million routers and IoT devices.&nbsp;Experts also discovered several hacking tools—from several sources—in the same GitHub repository. The leak of such ready-to-use  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Israeli Firm, QuaDream, Caught Weaponizing iPhone Bug for Spyware<a href="https://thehackernews.com/2022/02/another-israeli-firm-quadream-caught.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched security vulnerability in Apple iOS that was previously found to be exploited by Israeli company NSO Group was also separately weaponized by a different surveillance vendor named QuaDream to hack into the company's devices.  The development was reported by&nbsp; Reuters , citing unnamed sources, noting that "the two rival businesses gained the same ability last year to remotely break into iPhones [and] compromise Apple phones without an owner needing to open a malicious link."  The zero-click exploit in question is&nbsp; FORCEDENTRY , a flaw in iMessage that could be leveraged to&nbsp; circumvent iOS security protections &nbsp;and install spyware that allowed attackers to scoop up a wealth of information such as contacts, emails, files, messages, and photos, as well as access to the phone's camera and microphone.   QuaDream's spyware, named REIGN , functions in a manner similar to NSO Group's Pegasus, granting its users full control of the device. Apple&nbsp; addressed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Russian FSB hackers hitting Ukraine since October<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-russian-fsb-hackers-hitting-ukraine-since-october/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said today that a Russian hacking group known as Gamaredon has been behind a streak of spear-phishing emails targeting Ukrainian entities and organizations related to Ukrainian affairs since October 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Gamaredon Hackers Targeted 'Western Government Entity' in Ukraine<a href="https://thehackernews.com/2022/02/russian-gamaredon-hackers-targeted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked Gamaredon hacking group attempted to compromise an unnamed Western government entity operating in Ukraine last month amidst ongoing geopolitical tensions between the two countries.  Palo Alto Networks' Unit 42 threat intelligence team, in a&nbsp; new report &nbsp;publicized on February 3, said that the phishing attack took place on January 19, adding it "mapped out three large clusters of their infrastructure used to support different phishing and malware purposes."  The threat actor, also known as Shuckworm, Armageddon, or Primitive Bear, has historically focused its offensive cyber attacks against Ukrainian government officials and organizations since 2013. Last year, Ukraine&nbsp; disclosed &nbsp;the collective's ties to Russia's Federal Security Service (FSB).   To carry out the phishing attack, the operators behind the campaign leveraged a job search and employment platform within the country as a conduit to upload their malware downloader in the form of a res
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,7 +7,29 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February, 2022 - FBI
+February 4, 2022 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds One Known Exploited Vulnerability to Catalog <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/02/04/cisa-adds-one-known-exploited-vulnerability-catalog"> Full Text</a>
+</p><details>
+  <summary>Abstract</summary>
+CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence that threat actors are actively exploiting the vulnerabilities listed in the table below. These types of vulnerabilities are a frequent attack vector for malicious cyber actors of all types and pose significant risk to the federal enterprise.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2022 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Airspan Networks Mimosa <a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-034-02"> Full Text</a>
+</p><details>
+  <summary>Abstract</summary>
+Successful exploitation of these vulnerabilities could allow an attacker to gain user data (including organization details) and other sensitive data, compromise Mimosa’s AWS (Amazon Web Services) cloud EC2 instance and S3 Buckets, and execute unauthorized remote code on all cloud-connected Mimosa devices.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2022 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers Exploit Security Weaknesses on Job Recruitment Websites to Impersonate Legitimate Businesses, Threatening Company Reputation and Defrauding Job Seekers <a href="https://www.ic3.gov/Media/Y2022/PSA220201"> Full Text</a>

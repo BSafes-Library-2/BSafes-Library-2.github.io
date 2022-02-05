@@ -8,6 +8,24 @@ nav_order: 900190
 
 ## Skimming
 ---
+February 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Retail giant Target open sources Merry Maker e-skimmer detection tool<a href="https://securityaffairs.co/wordpress/127639/breaking-news/merry-maker-tool-e-skimmer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Retail giant Target is going to open-source an internal tool, dubbed&nbsp;Merry Maker, designed to detect e-skimming attacks.
+
+
+
+Retail giant Target announced the release in open-source of an internal tool, dubbed&nbsp;Merry Maker, designed to detect e-skimming...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+February 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How SSPM Simplifies Your SOC2 SaaS Security Posture Audit<a href="https://thehackernews.com/2022/02/how-sspm-simplifies-your-soc2-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An accountant and a security expert walk into a bar… SOC2 is no joke.&nbsp;  Whether you're a publicly held or private company, you are probably considering going through a Service Organization Controls (SOC) audit. For publicly held companies, these reports are required by the Securities and Exchange Commission (SEC) and executed by a Certified Public Accountant (CPA). However, customers often ask for SOC2 reports as part of their vendor due diligence process.&nbsp;  Out of the three types of SOC reports, SOC2 is the standard to successfully pass regulatory requirements and signals high security and resilience within the organization — and is based on the American Institute of Certified Public Accountants (AICPA) attestation requirements. The purpose of this report is to evaluate an organization's information systems relevant to security, availability, processing integrity, confidentiality, and privacy — over a period of time (roughly six to twelve months).&nbsp;  As part of a SOC2 audit, i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

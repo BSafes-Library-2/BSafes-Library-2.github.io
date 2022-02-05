@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Authorities Charge 6 Indian Call Centers Scamming Thousands of Americans<a href="https://thehackernews.com/2022/02/us-authorities-charge-6-indian-call.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of India-based call centers and their directors have been indicted for their alleged role in placing tens of millions of scam calls aimed at defrauding thousands of American consumers.  The indictment charged Manu Chawla, Sushil Sachdeva, Nitin Kumar Wadwani, Swarndeep Singh, Dinesh Manohar Sachdev, Gaje Singh Rathore, Sanket Modi, Rajiv Solanki and their respective call centers for conspiring with previously indicted VoIP provider E Sampark and its director, Guarav Gupta, to forward the calls to U.S. citizens.  "Criminal India-based call centers defraud U.S. residents, including the elderly, by misleading victims over the telephone utilizing scams such as Social Security and IRS impersonation as well as loan fraud," the U.S. Justice Department&nbsp; said &nbsp;in a release.   According to the&nbsp; November 2020 indictment &nbsp;issued against E Sampark and Gupta, the calls from India-based phone scammers led to reported losses of over $20 million from May 2015 to June 2020, with the c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

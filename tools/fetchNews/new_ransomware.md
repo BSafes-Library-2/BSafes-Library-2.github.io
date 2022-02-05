@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - February 4th 2022 - Critical Infrastructure<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-february-4th-2022-critical-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical infrastructure suffered ransomware attacks, with threat actors targeting an oil petrol distributor and oil terminals in major ports in different attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A look at the new Sugar ransomware demanding low ransoms<a href="https://www.bleepingcomputer.com/news/security/a-look-at-the-new-sugar-ransomware-demanding-low-ransoms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Sugar Ransomware operation actively targets individual computers, rather than corporate networks, with low ransom demands.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
