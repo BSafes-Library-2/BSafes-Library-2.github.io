@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Orders Federal Agencies to Patch Actively Exploited Windows Vulnerability<a href="https://thehackernews.com/2022/02/cisa-orders-federal-agencies-to-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is urging federal agencies to secure their systems against an actively exploited security vulnerability in Windows that could be abused to gain elevated permissions on affected hosts.  To that end, the agency has added  CVE-2022-21882  (CVSS score: 7.0) to the  Known Exploited Vulnerabilities Catalog , necessitating that Federal Civilian Executive Branch (FCEB) agencies patch all systems against this vulnerability by February 18, 2022.   "These types of vulnerabilities are a frequent attack vector for malicious cyber actors of all types and pose significant risk to the federal enterprise," CISA  said  in an advisory published last week.   CVE-2022-21882 , which has been tagged with an "Exploitation More Likely" exploitability index assessment, concerns a case of elevation of privilege vulnerability affecting the Win32k component. The bug was addressed by Microsoft as part of its January 2022  Patch Tu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 06, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
