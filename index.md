@@ -34,6 +34,190 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law enforcement action push ransomware gangs to surgical attacks<a href="https://www.bleepingcomputer.com/news/security/law-enforcement-action-push-ransomware-gangs-to-surgical-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The numerous law enforcement operations leading to the arrests and takedown of ransomware operations in 2021 have forced threat actors to narrow their targeting scope and maximize the efficiency of their operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli surveillance firm QuaDream emerges from the dark<a href="https://securityaffairs.co/wordpress/127721/malware/surveillance-firm-quadream.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the Apple iOS zero-day flaws exploited by the NSO group was also used by another surveillance firm named QuaDream.
+
+
+
+One of the vulnerabilities in Apple iOS that was previously exploited by the spyware developed by the Israeli company NSO Group...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Argo CD flaw could allow stealing sensitive data from Kubernetes Apps<a href="https://securityaffairs.co/wordpress/127708/hacking/kubernetes-argo-cd-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in Argo CD tool for Kubernetes could be exploited by attackers to steal sensitive data from Kubernetes Apps.
+
+
+
+A zero-day vulnerability, tracked as CVE-2022-24348, in the Argo CD tool for Kubernetes could be exploited by attackers to steal sensitive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 352<a href="https://securityaffairs.co/wordpress/127704/breaking-news/security-affairs-newsletter-round-352.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Washington state agency says data of hundreds of thousands of professionals may have been breached<a href="https://thehill.com//homenews/state-watch/592985-washington-state-agency-says-data-of-millions-of-professionals-may-have"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Washington State Department of Licensing (DOL) announced Friday that it had detected irregular activity on one of its online systems last month and that the personal data of professional licensees may have been breached.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat (ALPHV) ransomware linked to BlackMatter, DarkSide gangs<a href="https://www.bleepingcomputer.com/news/security/blackcat-alphv-ransomware-linked-to-blackmatter-darkside-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Cat ransomware gang, also known as ALPHV, has confirmed they are former members of the notorious BlackMatter/DarkSide ransomware operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI shares Lockbit ransomware technical details, defense tips<a href="https://www.bleepingcomputer.com/news/security/fbi-shares-lockbit-ransomware-technical-details-defense-tips/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) has released technical details and indicators of compromise associated with Lockbit ransomware attacks in a new flash alert published this Friday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware gang claims to have stolen data from PayBito crypto exchange<a href="https://securityaffairs.co/wordpress/127683/cyber-crime/lockbit-ransomware-hit-paybito.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware gang claims to have stolen customers' data from the PayBito crypto exchange.
+
+
+
+PayBito is a bitcoin and cryptocurrency exchange for major cryptocurrencies including Bitcoin Cash, Bitcoin, Ethereum, HCX, Litecoin, Ethereum Classic....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI issued a flash alert on Lockbit ransomware operation<a href="https://securityaffairs.co/wordpress/127675/cyber-crime/lockbit-ransomware-flash-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI released a flash alert containing technical details associated with the LockBit ransomware operation.
+
+
+
+The Federal Bureau of Investigation (FBI) has issued a flash alert containing technical details and indicators of compromise associated with...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal agencies to fix actively exploited CVE-2022-21882 Windows flaw<a href="https://securityaffairs.co/wordpress/127671/security/cisa-orders-fix-cve-2022-21882-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA ordered federal agencies to patch their systems against actively exploited CVE-2022-21882  Windows flaw.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to address their systems against an actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 04, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
