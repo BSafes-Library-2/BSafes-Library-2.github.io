@@ -7,6 +7,29 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2022 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indicators of Compromise Associated with LockBit 2.0 Ransomware <a href="https://publications.bsafes.com/docs/fbi/flash-2022-0204-indicators-of-compromise-associated-with-lockbit-2-0/#indicators-of-compromise-associated-with-lockbit-20-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit 2.0 operates as an affiliate-based Ransomware-as-a-Service (RaaS) and employs a wide variety of tactics, techniques, and procedures (TTPs), creating significant challenges for defense and mitigation. LockBit 2.0 ransomware compromises victim networks through a variety of techniques, including, but not limited to, purchased access, unpatched vulnerabilities, insider access, and zero day exploits.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds One Known Exploited Vulnerability to Catalog <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/02/04/cisa-adds-one-known-exploited-vulnerability-catalog"> Full Text</a>
+</p><details>
+  <summary>Abstract</summary>
+CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence that threat actors are actively exploiting the vulnerabilities listed in the table below. These types of vulnerabilities are a frequent attack vector for malicious cyber actors of all types and pose significant risk to the federal enterprise.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 4, 2022 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -41,6 +64,18 @@ The FBI warns that malicious actors or â€˜scammers' continue to exploit secu
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2022 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Potential for Malicious Cyber Activities to Disrupt the 2022 Beijing Winter Olympics and Paralympics <a href="https://publications.bsafes.com/docs/fbi/pin-2022-01-31-001-potential-for-malicious-cyber-activities-to-disrupt-the-2022-beijing-winter-olympics-and-paralympics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is warning entities associated with the February 2022 Beijing Winter Olympics and March 2022 Paralympics that cyber actors could use a broad range of cyber activities to disrupt these events.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 31, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -61,6 +96,18 @@ FBI Releases PIN on Iranian Cyber Group Emennet Pasargad <a href="https://www.ci
 <details>
   <summary>Abstract</summary>
 The Federal Bureau of Investigation (FBI) has released a Private Industry Notification (PIN) that provides a historical overview of Iran-based cyber company Emennet Pasargad’s tactics, techniques, and procedures to enable readers to identify and defend against the group’s malicious cyber activities.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2022 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Context and Recommendations to Protect Against Malicious Activity by Iranian Cyber Group Emennet Pasargad <a href="https://publications.bsafes.com/docs/fbi/pin-2022-0126-001-context-and-recommendations-to-protect-against-malicious-activity-by-iranian-cyber-group-emennet-pasargad/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Starting in August 2020, Emennet Pasargad actors conducted a multi-faceted campaign to interfere in the 2020 US presidential election. As part of this campaign, the actors obtained confidential U.S. voter information from at least one state election website
 </details>
 </div>
 

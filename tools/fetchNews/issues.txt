@@ -30,11 +30,6 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://www.ic3.gov/Media/News/2022/220126.pdf
-. https://www.documentcloud.org/documents/21193767-fbi-tlp-white-pin-potential-for-malicious-cyber-activities-bc-to-disrupt-the-2022-beijing-winter-olympics-and-paralympics
-. https://www.bleepingcomputer.com/news/security/fbi-shares-lockbit-ransomware-technical-details-defense-tips/
-. https://securityaffairs.co/wordpress/127675/cyber-crime/lockbit-ransomware-flash-alert.html
-. https://securityaffairs.co/wordpress/127671/security/cisa-orders-fix-cve-2022-21882-flaw.html
 
 Law
 
