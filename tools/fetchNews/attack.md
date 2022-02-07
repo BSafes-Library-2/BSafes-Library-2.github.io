@@ -8,6 +8,173 @@ nav_order: 900015
 
 ## Attack
 ---
+February 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack hit Swissport International causing delays in flights<a href="https://securityaffairs.co/wordpress/127655/cyber-crime/swissport-international-ransomware-attack.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swissport International was hit by a ransomware attack that had a severe impact on its operations causing flights to suffer delays. The company said via Twitter that the attack has been largely contained.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 500,000 people were impacted by a ransomware attack that hit Morley<a href="https://securityaffairs.co/wordpress/127664/data-breach/morley-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Business services firm Morley was hit by a ransomware attack that may have exposed data of +500,000 individuals.
+
+
+
+Business services company Morley was victim of a ransomware attack that may have resulted in a data breach impacting more than 500,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+News Corp hit by cyberattack with suspected link to China<a href="https://thehill.com//policy/cybersecurity/592863-news-corp-hit-by-cyberattack-with-suspected-link-to-china"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The media company News Corp. said Friday it was the victim of a cyberattack likely to benefit the Chinese government, and that the intrusion targeted its businesses including the New York Post, Dow Jones and others.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack hit Swissport International  causing delays in flights<a href="https://securityaffairs.co/wordpress/127655/cyber-crime/swissport-international-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aviation services company Swissport International was hit by a ransomware attack that impacted its operations.
+
+
+
+Swissport International Ltd. is an aviation services company providing airport ground,lounge hospitality and cargo handling services owned...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How attackers got access to the systems of the National Games of China<a href="https://blog.avast.com/national-games-of-china-systems-attack-analysis-avast?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In early September 2021, Avast threat researcher David Álvarez found a malware sample with a suspicious file extension and a report submitted by the National Games IT team to VirusTotal on an attack against a server associated with the Games.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A nation-state actor hacked media and publishing giant News Corp<a href="https://securityaffairs.co/wordpress/127648/hacking/news-corp-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American media and publishing giant News Corp revealed it was victim of a cyber attack from an advanced persistent threat actor.
+
+
+
+American media and publishing giant News Corp revealed it was victim of a cyber attack from an advanced persistent threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Airport Services Firm Faces Cyberattack Resulting in Flight Delays Due to Impact on IT Infrastructure<a href="https://www.zdnet.com/article/aviation-services-firm-swissport-reports-ransomware-incident/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swiss airport management service Swissport reported a ransomware attack affecting its IT systems on Friday. The company said its IT infrastructure was targeted by the ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Android Users Targeted by Dark Herring<a href="https://cyware.com/news/millions-of-android-users-targeted-by-dark-herring-e9c63523"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts exposed Dark Herring subscription fraud campaign that infected 105 million devices worldwide via 500 malicious apps to steal hundreds of millions of dollars from unsuspecting users. The names of some malicious apps are Smashex, Upgradem, Stream HD, Vidly Vibe, and Cast It.&nbsp;This indicat ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HHS: Conti ransomware encrypted 80% of Ireland's HSE IT systems<a href="https://www.bleepingcomputer.com/news/security/hhs-conti-ransomware-encrypted-80-percent-of-irelands-hse-it-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat brief published by the US Department of Health and Human Services (HHS) on Thursday paints a grim picture of how Ireland's health service, the HSE, was overwhelmed and had 80% of its systems encrypted during last year's Conti ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+News Corp discloses hack from "persistent" nation state cyber attacks<a href="https://www.bleepingcomputer.com/news/security/news-corp-discloses-hack-from-persistent-nation-state-cyber-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American media and publishing giant News Corp has disclosed today that it was the target of a "persistent" cyberattack. The attack&nbsp;discovered sometime this&nbsp;January, reportedly allowed&nbsp;threat actors to access emails and documents of some News Corp employees,&nbsp;including journalists.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kronos Still Dragging Itself Back From Ransomware Hell<a href="https://threatpost.com/kronos-dragging-itself-back-ransomware-hell/178213/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+And customers including Tesla, PepsiCo and NYC transit workers are filing lawsuits over the “real pain in the rear end” of manual inputting, inaccurate wages &amp; more. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

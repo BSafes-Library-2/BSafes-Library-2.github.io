@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+February 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cynet Log4Shell Webinar: A Thorough - And Clear - Explanation<a href="https://thehackernews.com/2022/02/cynet-log4shell-webinar-thorough-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most security practitioners are now aware of the Log4Shell vulnerability discovered toward the end of 2021. No one knows how long the vulnerability existed before it was discovered. The past couple of months have had security teams scrambling to patch the Log4Shell vulnerability found in Apache Log4j, a Java library widely used to log error messages in applications. Beyond patching, it's helpful and instructive for security practitioners to have a deeper understanding of this most recent critical vulnerability.  Fortunately, Cynet Senior Security Researcher Igor Lahav is hosting a webinar [ Register here ] to provide "buzzword free" insights into Log4Shell. Based on a webinar preview provided by Cynet, the discussion will cover the software bugs in Apache Log4j that permitted the critical vulnerability, the exploits used to take advantage of the vulnerabilities and the remediation options available to protect your organization. This webinar will help make sense of the so
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

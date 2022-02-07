@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Argo CD vulnerability leaks sensitive info from Kubernetes apps<a href="https://www.bleepingcomputer.com/news/security/argo-cd-vulnerability-leaks-sensitive-info-from-kubernetes-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Argo CD, used by thousands of orgs for deploying applications to Kubernetes, can be leveraged in attacks to disclose sensitive information such as passwords and API keys.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

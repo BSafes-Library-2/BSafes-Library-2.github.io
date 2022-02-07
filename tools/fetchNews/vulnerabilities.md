@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Long Live Log4Shell’: CVE-2021-44228 Not Dead Yet<a href="https://threatpost.com/log4shell-cve-2021-44228/178225/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ubiquitous Log4j bug will be with us for years. John Hammond, senior security researcher at Huntress, discusses what’s next.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disables MSIX protocol handler abused in Emotet attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-msix-protocol-handler-abused-in-emotet-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has disabled the MSIX ms-appinstaller protocol handler exploited in malware attacks to install malicious apps directly from a website via a Windows AppX Installer spoofing vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimbra zero-day vulnerability actively exploited by an alleged Chinese threat actor<a href="https://securityaffairs.co/wordpress/127621/apt/zimbra-zero-day-actively-axploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged Chinese threat actor is actively attempting to exploit a zero-day vulnerability in the Zimbra open-source email platform.
+
+
+
+An alleged Chinese threat actor, tracked as TEMP_Heretic, is actively attempting to exploit a zero-day XSS vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PowerPoint Files Abused to Take Over Computers<a href="https://threatpost.com/powerpoint-abused-take-over-computers/178182/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are using socially engineered emails with .ppam file attachments that hide malware that can rewrite Windows registry settings on targeted machines.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploited 0-Day Vulnerability in Zimbra Email Platform to Spy on Users<a href="https://thehackernews.com/2022/02/hackers-exploited-0-day-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor, likely Chinese in origin, is actively attempting to exploit a zero-day vulnerability in the Zimbra open-source email platform as part of spear-phishing campaigns that commenced in December 2021.  The espionage operation — codenamed " EmailThief " — was detailed by cybersecurity company Volexity in a technical report published Thursday, noting that successful exploitation of the cross-site scripting (XSS) vulnerability could result in the execution of arbitrary JavaScript code in the context of the user's Zimbra session.   Volexity attributed the intrusions, which started on December 14, 2021, to a previously undocumented hacking group it's tracking under the moniker TEMP_HERETIC, with the assaults aimed at European government and media entities. The zero-day bug impacts the most recent open-source edition of Zimbra running&nbsp; version 8.8.15 .   The attacks are believed to have occurred in two phases; the first stage aimed at reconnaissance and distribut
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

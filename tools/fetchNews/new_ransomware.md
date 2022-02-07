@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat (ALPHV) ransomware linked to BlackMatter, DarkSide gangs<a href="https://www.bleepingcomputer.com/news/security/blackcat-alphv-ransomware-linked-to-blackmatter-darkside-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Cat ransomware gang, also known as ALPHV, has confirmed they are former members of the notorious BlackMatter/DarkSide ransomware operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

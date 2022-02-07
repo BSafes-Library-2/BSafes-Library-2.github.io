@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Washington state agency says data of hundreds of thousands of professionals may have been breached<a href="https://thehill.com//homenews/state-watch/592985-washington-state-agency-says-data-of-millions-of-professionals-may-have"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Washington State Department of Licensing (DOL)&nbsp;announced Friday that it had detected irregular activity on&nbsp;one of its online systems last month and that the personal data of professional licensees may have been breached.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

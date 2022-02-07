@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+February 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swissport ransomware attack delays flights, disrupts operations<a href="https://www.bleepingcomputer.com/news/security/swissport-ransomware-attack-delays-flights-disrupts-operations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aviation services company Swissport International has disclosed a ransomware attack that has impacted its IT infrastructure and services, causing flights to suffer delays.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

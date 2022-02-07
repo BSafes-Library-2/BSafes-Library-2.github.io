@@ -8,6 +8,24 @@ nav_order: 900027
 
 ## Business
 ---
+February 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli surveillance firm QuaDream emerges from the dark<a href="https://securityaffairs.co/wordpress/127721/malware/surveillance-firm-quadream.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the Apple iOS zero-day flaws exploited by the NSO group was also used by another surveillance firm named&nbsp;QuaDream.
+
+
+
+One of the vulnerabilities in Apple iOS that was previously exploited by the spyware developed by the Israeli company NSO Group...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

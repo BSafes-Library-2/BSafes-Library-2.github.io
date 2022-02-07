@@ -8,6 +8,53 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AsyncRAT Operators Adopt New Evasive Delivery Technique<a href="https://cyware.com/news/asyncrat-operators-adopt-new-evasive-delivery-technique-e91cdb14"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morphisec identified a new sophisticated campaign using a phishing tactic with an HTML attachment to deliver AsyncRAT for around five months. Moreover, the malware campaign has one of the lowest detection rates, according to VirusTotal. This calls upon the organizations to regularly audit and upgra ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US indicts multiple call centers for IRS, Social Security scams<a href="https://www.bleepingcomputer.com/news/security/us-indicts-multiple-call-centers-for-irs-social-security-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice has announced the indictment of several India-based call centers and their directors for targeting Americans with Social Security, IRS, and loan phone call scams.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft blocked tens of billions of brute-force and phishing attacks in 2021<a href="https://securityaffairs.co/wordpress/127606/hacking/microsoft-brute-force-phishing-attacks-blocked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Office 365 and Azure Active Directory (Azure AD) customers were the targets of billions of brute-force and phishing attacks last year.
+
+
+
+Microsoft revealed that Office 365 and Azure Active Directory (Azure AD) customers were the targets of billions...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

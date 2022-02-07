@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+February 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wormhole restores stolen $326 million after major crypto bailout<a href="https://www.bleepingcomputer.com/news/security/wormhole-restores-stolen-326-million-after-major-crypto-bailout/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency platform&nbsp;Wormhole has recovered upwards of $326 million&nbsp;stolen in this week's crypto hack, thanks to&nbsp;a major bailout.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

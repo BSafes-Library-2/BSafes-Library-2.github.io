@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law enforcement action push ransomware gangs to surgical attacks<a href="https://www.bleepingcomputer.com/news/security/law-enforcement-action-push-ransomware-gangs-to-surgical-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The numerous law enforcement operations leading to the arrests and takedown of ransomware operations in 2021 have forced threat actors to narrow their targeting scope and maximize the efficiency of their operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware gang claims to have stolen data from PayBito crypto exchange<a href="https://securityaffairs.co/wordpress/127683/cyber-crime/lockbit-ransomware-hit-paybito.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware gang claims to have stolen customers' data from the PayBito crypto exchange.
+
+
+
+PayBito&nbsp;is a bitcoin and cryptocurrency&nbsp;exchange&nbsp;for major cryptocurrencies including Bitcoin Cash, Bitcoin, Ethereum, HCX, Litecoin, Ethereum Classic....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
