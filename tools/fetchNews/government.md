@@ -8,6 +8,56 @@ nav_order: 900075
 
 ## Government
 ---
+February 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI shares Lockbit ransomware technical details, defense tips<a href="https://www.bleepingcomputer.com/news/security/fbi-shares-lockbit-ransomware-technical-details-defense-tips/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) has released technical details and indicators of compromise associated with Lockbit ransomware attacks in a new flash alert published this Friday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI issued a flash alert on Lockbit ransomware operation<a href="https://securityaffairs.co/wordpress/127675/cyber-crime/lockbit-ransomware-flash-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI released a flash alert containing technical details associated with the LockBit ransomware operation.
+
+
+
+The Federal Bureau of Investigation (FBI) has issued a flash alert containing technical details and indicators of compromise associated with...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal agencies to fix actively exploited CVE-2022-21882 Windows flaw<a href="https://securityaffairs.co/wordpress/127671/security/cisa-orders-fix-cve-2022-21882-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA ordered federal agencies to patch their systems against actively exploited CVE-2022-21882&nbsp; Windows flaw.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to address their systems against an actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

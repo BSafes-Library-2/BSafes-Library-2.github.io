@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Found Sugar Ransomware is Now Being Offered as RaaS<a href="https://cyware.com/news/newly-found-sugar-ransomware-is-now-being-offered-as-raas-641cfa69"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber threat team at retail giant Walmart has uncovered the new ransomware family Sugar, which is now being made available to cybercriminals as a Ransomware-as-a-Service (RaaS).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

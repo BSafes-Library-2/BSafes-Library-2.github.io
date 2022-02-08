@@ -34,6 +34,462 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DPD Group parcel tracking flaw may have exposed customer data<a href="https://www.bleepingcomputer.com/news/security/dpd-group-parcel-tracking-flaw-may-have-exposed-customer-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unauthenticated API call vulnerability in DPD Group's package tracking system could have been exploited to access the personally identifiable details of its clients.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using SEO Poisoning To Spread Malware<a href="https://cyware.com/news/cybercriminals-using-seo-poisoning-to-spread-malware-7a985dfe"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new SEO poisoning campaign drops Batloader and Atera Agent malware targeting users attempting to download productivity tools, such as Zoom, Visual Studio, and TeamViewer. The researchers claim that some techniques used in the campaigns match with those in the Conti playbooks. It is suggested to c ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New CapraRAT Android Malware Targets Indian Government and Military Personnel<a href="https://thehackernews.com/2022/02/new-caprarat-android-malware-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A politically motivated advanced persistent threat (APT) group has expanded its malware arsenal to include a new remote access trojan (RAT) in its espionage attacks aimed at Indian military and diplomatic entities.  Called  CapraRAT  by Trend Micro, the implant is an Android RAT that exhibits a high "degree of crossover" with another Windows malware known as CrimsonRAT that's associated with Earth Karkaddan, a threat actor that's also tracked under the monikers APT36, Operation C-Major, PROJECTM, Mythic Leopard, and Transparent Tribe.  The first concrete signs of APT36's existence  appeared  in  2016  as the group began distributing information-stealing malware through phishing emails with malicious PDF attachments targeting Indian military and government personnel. The group is believed to be of  Pakistani origin  and operational since at least 2013.   The threat actor is also known to be consistent in its modus operandi, with the attacks predominantly banking o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When Platforms Do the State’s Bidding, Who Is Accountable? Not the Government, Says Israel’s Supreme Court<a href="https://www.lawfareblog.com/when-platforms-do-states-bidding-who-accountable-not-government-says-israels-supreme-court"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Adalah ruling highlights an unresolved tension between widely held goals for restricting online content and the constitutionally permissible means available to achieve them.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast released a free decryptor for TargetCompany ransomware<a href="https://securityaffairs.co/wordpress/127761/malware/targetcompany-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Avast has released a decryption tool to allow victims of TargetCompany ransomware to recover their files for free.
+
+
+
+Czech cybersecurity software firm Avast has released a decryption tool that could allow victims of the  TargetCompany ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QuaDream, 2nd Israeli Spyware Firm, Weaponizes iPhone Bug<a href="https://threatpost.com/quadream-israeli-spyware-weaponized-iphone-bug/178252/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The now-patched flaw that led to the ForcedEntry exploit of iPhones was exploited by both NSO Group and a different, newly detailed surveillance vendor. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia arrests third hacking group, seizes carding forums<a href="https://www.bleepingcomputer.com/news/security/russia-arrests-third-hacking-group-seizes-carding-forums/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia arrested six people today, allegedly part of a hacking group that was involved in the theft and selling of stolen credit cards.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MuddyWater APT Associated with Recent Attacks on Turkey<a href="https://cyware.com/news/muddywater-apt-associated-with-recent-attacks-on-turkey-9f9e5c7e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian MuddyWater APT has reportedly launched fresh attacks targeting the users in the Turkish government and other private organizations in the country. Hackers lure victims via maldocs that masquerade as genuine documents from the Turkish Health and Interior Ministries.&nbsp;Targeted organizatio ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Backdoored Systems at China's National Games Just Before Competition<a href="https://thehackernews.com/2022/02/hackers-backdoored-systems-at-chinas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Systems hosting content pertaining to the National Games of China were successfully breached last year by an unnamed Chinese-language-speaking hacking group.  Cybersecurity firm Avast, which  dissected  the intrusion, said that the attackers gained access to a web server 12 days prior to the start of the event on September 3 to drop multiple reverse web shells for remote access and achieve permanent foothold in the network.  The  National Games of China , a multi-sport event held every four years, took place in the Shaanxi Province between September 15 and 27, 2021.   The Czech company said it was unable to determine the nature of the information stolen by the hackers, adding it has "reason to believe [the attackers] are either native Chinese-language speakers or show high fluency in Chinese." The breach is said to have been resolved ahead of the start of the games.  The initial access was facilitated by exploiting a vulnerability in the webserver. But before dropping the we
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disables the ms-appinstaller protocol because it was abused to spread malware<a href="https://securityaffairs.co/wordpress/127755/malware/microsoft-disables-ms-appinstaller.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft temporarily disabled the ms-appinstaller protocol for MSIX because it was abused by malware, such as Emotet.
+
+
+
+Microsoft announced to have temporarily disabled the ms-appinstaller protocol for MSIX because it was abused by malware,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Puma hit by data breach after Kronos ransomware attack<a href="https://www.bleepingcomputer.com/news/security/puma-hit-by-data-breach-after-kronos-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sportswear manufacturer Puma was hit by a data breach following the ransomware attack that hit Kronos, one of its North American workforce management service providers, in December 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Found Sugar Ransomware is Now Being Offered as RaaS<a href="https://cyware.com/news/newly-found-sugar-ransomware-is-now-being-offered-as-raas-641cfa69"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber threat team at retail giant Walmart has uncovered the new ransomware family Sugar, which is now being made available to cybercriminals as a Ransomware-as-a-Service (RaaS).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2022 -- [IOT](/docs/issues/iot/iot/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT/connected Device Discovery and Security Auditing in Corporate Networks<a href="https://thehackernews.com/2022/02/iotconnected-device-discovery-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today's enterprise networks are complex environments with different types of wired and wireless devices being connected and disconnected. The current device discovery solutions have been mainly focused on identifying and monitoring servers, workstation PCs, laptops and infrastructure devices such as network firewalls, switches and routers, because the most valuable information assets of organizations are being stored, processed and transferred over those devices, hence making them the prime target of security breaches and intrusions.  However, a new trend has been emerging in the past four years,  where attackers have been targeting purpose-built connected devices  such as network printers and video conferencing systems as an entry point and data exfiltration route.  These devices cannot be identified properly by the current IT asset discovery solutions for the following main reasons:   Proprietary protocols are often used for managing and monitoring such devices that are not know
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Telecom providers requested $5.6B to replace Chinese equipment<a href="https://securityaffairs.co/wordpress/127749/security/telecom-providers-replace-chinese-gear.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) says that small telecom providers have requested $5.6 billion to replace Chinese gear.
+
+
+
+The U.S. government has requested telecom providers to replace Chinese equipment in their networks due to security issues...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft plans to kill malware delivery via Office macros<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-kill-malware-delivery-via-office-macros/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced today that it will make it difficult to enable VBA macros downloaded from the Internet in several Microsoft Office apps starting in early April, effectively killing a popular distribution method for malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT27 Group Targets German Organizations with HyperBro<a href="https://cyware.com/news/apt27-group-targets-german-organizations-with-hyperbro-2c43b7cf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warned against ongoing attacks by China-backed APT27 hacking group that has been targeting commercial organizations in Germany.&nbsp; The goal of the campaign seems to be stealing sensitive information and targeting victims' customers in supply chain attacks.&nbsp; The intelligence agen ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breached a server of National Games of China days before the event<a href="https://securityaffairs.co/wordpress/127738/hacking/chinas-national-games-just-before-competition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unnamed Chinese-language-speaking hacking group compromised systems at National Games of China in 2021.
+
+
+
+Researchers at cybersecurity firm Avast discovered that a Chinese-language-speaking threat actor has compromised systems at National Games of China...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free decryptor released for TargetCompany ransomware victims<a href="https://www.bleepingcomputer.com/news/security/free-decryptor-released-for-targetcompany-ransomware-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Czech cybersecurity software firm Avast has released a decryption utility to help TargetCompany ransomware victims recover their files for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UN Experts: North Korea Stealing Millions in Cyber Attacks<a href="https://www.securityweek.com/un-experts-north-korea-stealing-millions-cyber-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-actors stole more than $50 million between 2020 and mid-2021 from at least three cryptocurrency exchanges in North America, Europe, and Asia, the panel of U.N. experts noted.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Gamaredon APT is targeting Ukraine since October<a href="https://securityaffairs.co/wordpress/127729/apt/actinium-gamaredon-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT group Gamaredon is behind spear-phishing attacks against Ukrainian entities and organizations since October 2021.
+
+
+
+Russia-linked cyberespionage group Gamaredon (aka Armageddon, Primitive Bear, and ACTINIUM) is behind the spear-phishing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Cloud hypervisor modified to detect cryptominers without agents<a href="https://www.bleepingcomputer.com/news/security/google-cloud-hypervisor-modified-to-detect-cryptominers-without-agents/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced the public preview of a new Virtual Machine Threat Detection (VMTD) system that can detect cryptocurrency miners and other malware without the need for software agents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware groups and APT actors laser-focused on financial services<a href="https://www.helpnetsecurity.com/2022/02/07/cyber-threats-q3-2021/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite a community reckoning to ban ransomware activity from online forums, hacker groups used alternate personas to proliferate the use of ransomware against an increasing spectrum of sectors
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medusa malware ramps up Android SMS phishing attacks<a href="https://www.bleepingcomputer.com/news/security/medusa-malware-ramps-up-android-sms-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Medusa Android banking Trojan is seeing increased infection rates as it targets more geographic regions to steal online credentials and perform financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$4.4 Million Stolen in Attack on Meter Network and Moonriver Network<a href="https://www.zdnet.com/article/4-4-million-stolen-in-attack-on-blockchain-infrastructure-meter/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Blockchain research company PeckShield confirmed that 1391 ETH and 2.74 BTC were stolen during the incident. The Meter network, as well as the Moonriver network, were affected by the hack.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roaming Mantis Android malware campaign sets sights on Europe<a href="https://www.bleepingcomputer.com/news/security/roaming-mantis-android-malware-campaign-sets-sights-on-europe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Roaming Mantis SMS phishing campaign has finally reached Europe, as researchers detect campaigns targeting Android and iPhone users in Germany and France with malicious apps and phishing pages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gamaredon Targets Ukraine with New Payloads<a href="https://cyware.com/news/gamaredon-targets-ukraine-with-new-payloads-2969cc4a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Symantec experts disclosed that the Russia-linked Gamaredon deployed eight custom malware samples against Ukrainian targets in the attacks that began last year in July. These files launch a VBS file that eventually drops a well-documented backdoor, known as Pteranodon. Organizations are suggested t ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 06, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Orders Federal Agencies to Patch Actively Exploited Windows Vulnerability<a href="https://thehackernews.com/2022/02/cisa-orders-federal-agencies-to-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is urging federal agencies to secure their systems against an actively exploited security vulnerability in Windows that could be abused to gain elevated permissions on affected hosts.  To that end, the agency has added  CVE-2022-21882  (CVSS score: 7.0) to the  Known Exploited Vulnerabilities Catalog , necessitating that Federal Civilian Executive Branch (FCEB) agencies patch all systems against this vulnerability by February 18, 2022.   "These types of vulnerabilities are a frequent attack vector for malicious cyber actors of all types and pose significant risk to the federal enterprise," CISA  said  in an advisory published last week.   CVE-2022-21882 , which has been tagged with an "Exploitation More Likely" exploitability index assessment, concerns a case of elevation of privilege vulnerability affecting the Win32k component. The bug was addressed by Microsoft as part of its January 2022  Patch Tu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 06, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

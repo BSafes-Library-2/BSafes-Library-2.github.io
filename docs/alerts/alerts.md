@@ -19,17 +19,6 @@ LockBit 2.0 operates as an affiliate-based Ransomware-as-a-Service (RaaS) and em
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 4, 2022 - CISA
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-CISA Adds One Known Exploited Vulnerability to Catalog <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/02/04/cisa-adds-one-known-exploited-vulnerability-catalog"> Full Text</a>
-</p><details>
-  <summary>Abstract</summary>
-CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence that threat actors are actively exploiting the vulnerabilities listed in the table below. These types of vulnerabilities are a frequent attack vector for malicious cyber actors of all types and pose significant risk to the federal enterprise.
-</details>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 4, 2022 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

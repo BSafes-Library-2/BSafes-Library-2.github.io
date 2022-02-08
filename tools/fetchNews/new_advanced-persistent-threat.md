@@ -8,6 +8,54 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MuddyWater APT Associated with Recent Attacks on Turkey<a href="https://cyware.com/news/muddywater-apt-associated-with-recent-attacks-on-turkey-9f9e5c7e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian MuddyWater APT has reportedly launched fresh attacks targeting the users in the Turkish government and other private organizations in the country. Hackers lure victims via maldocs that masquerade as genuine documents from the Turkish Health and Interior Ministries.&nbsp;Targeted organizatio ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT27 Group Targets German Organizations with HyperBro<a href="https://cyware.com/news/apt27-group-targets-german-organizations-with-hyperbro-2c43b7cf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warned against ongoing attacks by China-backed APT27 hacking group that has been targeting commercial organizations in Germany.&nbsp; The goal of the campaign seems to be stealing sensitive information and targeting victims' customers in supply chain attacks.&nbsp; The intelligence agen ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Gamaredon APT is targeting Ukraine since October<a href="https://securityaffairs.co/wordpress/127729/apt/actinium-gamaredon-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT group Gamaredon is behind spear-phishing attacks against Ukrainian entities and organizations since October 2021.
+
+
+
+Russia-linked cyberespionage group Gamaredon (aka Armageddon, Primitive Bear, and ACTINIUM) is behind the spear-phishing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900027
 
 ## Business
 ---
+February 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Telecom providers requested $5.6B to replace Chinese equipment<a href="https://securityaffairs.co/wordpress/127749/security/telecom-providers-replace-chinese-gear.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) says that small telecom providers have requested $5.6 billion to replace Chinese gear.
+
+
+
+The U.S. government has requested telecom providers to replace Chinese equipment in their networks due to security issues...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

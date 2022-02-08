@@ -8,6 +8,49 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using SEO Poisoning To Spread Malware<a href="https://cyware.com/news/cybercriminals-using-seo-poisoning-to-spread-malware-7a985dfe"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new SEO poisoning campaign drops Batloader and Atera Agent malware targeting users attempting to download productivity tools, such as Zoom, Visual Studio, and TeamViewer. The researchers claim that some techniques used in the campaigns match with those in the Conti playbooks. It is suggested to c ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia arrests third hacking group, seizes carding forums<a href="https://www.bleepingcomputer.com/news/security/russia-arrests-third-hacking-group-seizes-carding-forums/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia arrested six people today, allegedly part of a hacking group that was involved in the theft and selling of stolen credit cards.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware groups and APT actors laser-focused on financial services<a href="https://www.helpnetsecurity.com/2022/02/07/cyber-threats-q3-2021/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite a community reckoning to ban ransomware activity from online forums, hacker groups used alternate personas to proliferate the use of ransomware against an increasing spectrum of sectors
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

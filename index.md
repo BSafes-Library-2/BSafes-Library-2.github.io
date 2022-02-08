@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2022
+February 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DPD Group parcel tracking flaw may have exposed customer data<a href="https://www.bleepingcomputer.com/news/security/dpd-group-parcel-tracking-flaw-may-have-exposed-customer-data/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2022
+February 7, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Using SEO Poisoning To Spread Malware<a href="https://cyware.com/news/cybercriminals-using-seo-poisoning-to-spread-malware-7a985dfe"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2022
+February 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New CapraRAT Android Malware Targets Indian Government and Military Personnel<a href="https://thehackernews.com/2022/02/new-caprarat-android-malware-targets.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2022
+February 7, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 When Platforms Do the State’s Bidding, Who Is Accountable? Not the Government, Says Israel’s Supreme Court<a href="https://www.lawfareblog.com/when-platforms-do-states-bidding-who-accountable-not-government-says-israels-supreme-court"> Full Text</a>
@@ -99,7 +99,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2022
+February 7, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avast released a free decryptor for TargetCompany ransomware<a href="https://securityaffairs.co/wordpress/127761/malware/targetcompany-ransomware-decryptor.html"> Full Text</a>
@@ -119,7 +119,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2022
+February 7, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QuaDream, 2nd Israeli Spyware Firm, Weaponizes iPhone Bug<a href="https://threatpost.com/quadream-israeli-spyware-weaponized-iphone-bug/178252/"> Full Text</a>
@@ -135,7 +135,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2022
+February 07, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia arrests third hacking group, seizes carding forums<a href="https://www.bleepingcomputer.com/news/security/russia-arrests-third-hacking-group-seizes-carding-forums/"> Full Text</a>
@@ -151,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2022
+February 7, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MuddyWater APT Associated with Recent Attacks on Turkey<a href="https://cyware.com/news/muddywater-apt-associated-with-recent-attacks-on-turkey-9f9e5c7e"> Full Text</a>
@@ -168,7 +168,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2022
+February 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Backdoored Systems at China's National Games Just Before Competition<a href="https://thehackernews.com/2022/02/hackers-backdoored-systems-at-chinas.html"> Full Text</a>
@@ -184,7 +184,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2022
+February 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft disables the ms-appinstaller protocol because it was abused to spread malware<a href="https://securityaffairs.co/wordpress/127755/malware/microsoft-disables-ms-appinstaller.html"> Full Text</a>
@@ -204,7 +204,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2022
+February 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Puma hit by data breach after Kronos ransomware attack<a href="https://www.bleepingcomputer.com/news/security/puma-hit-by-data-breach-after-kronos-ransomware-attack/"> Full Text</a>
@@ -220,7 +220,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2022
+February 7, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newly Found Sugar Ransomware is Now Being Offered as RaaS<a href="https://cyware.com/news/newly-found-sugar-ransomware-is-now-being-offered-as-raas-641cfa69"> Full Text</a>
@@ -236,7 +236,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2022
+February 07, 2022 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IoT/connected Device Discovery and Security Auditing in Corporate Networks<a href="https://thehackernews.com/2022/02/iotconnected-device-discovery-and.html"> Full Text</a>
@@ -252,7 +252,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2022
+February 7, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Telecom providers requested $5.6B to replace Chinese equipment<a href="https://securityaffairs.co/wordpress/127749/security/telecom-providers-replace-chinese-gear.html"> Full Text</a>
@@ -272,7 +272,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2022
+February 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft plans to kill malware delivery via Office macros<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-kill-malware-delivery-via-office-macros/"> Full Text</a>
@@ -288,7 +288,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2022
+February 7, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT27 Group Targets German Organizations with HyperBro<a href="https://cyware.com/news/apt27-group-targets-german-organizations-with-hyperbro-2c43b7cf"> Full Text</a>
@@ -305,7 +305,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2022
+February 7, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers breached a server of National Games of China days before the event<a href="https://securityaffairs.co/wordpress/127738/hacking/chinas-national-games-just-before-competition.html"> Full Text</a>
@@ -325,7 +325,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2022
+February 07, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Free decryptor released for TargetCompany ransomware victims<a href="https://www.bleepingcomputer.com/news/security/free-decryptor-released-for-targetcompany-ransomware-victims/"> Full Text</a>
@@ -341,7 +341,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2022
+February 7, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UN Experts: North Korea Stealing Millions in Cyber Attacks<a href="https://www.securityweek.com/un-experts-north-korea-stealing-millions-cyber-attacks?&web_view=true"> Full Text</a>
@@ -357,7 +357,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2022
+February 7, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Gamaredon APT is targeting Ukraine since October<a href="https://securityaffairs.co/wordpress/127729/apt/actinium-gamaredon-ukraine.html"> Full Text</a>
@@ -377,7 +377,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2022
+February 07, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Cloud hypervisor modified to detect cryptominers without agents<a href="https://www.bleepingcomputer.com/news/security/google-cloud-hypervisor-modified-to-detect-cryptominers-without-agents/"> Full Text</a>
@@ -393,7 +393,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2022
+February 7, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware groups and APT actors laser-focused on financial services<a href="https://www.helpnetsecurity.com/2022/02/07/cyber-threats-q3-2021/?&web_view=true"> Full Text</a>
@@ -409,7 +409,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2022
+February 07, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medusa malware ramps up Android SMS phishing attacks<a href="https://www.bleepingcomputer.com/news/security/medusa-malware-ramps-up-android-sms-phishing-attacks/"> Full Text</a>
@@ -425,7 +425,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2022
+February 7, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 $4.4 Million Stolen in Attack on Meter Network and Moonriver Network<a href="https://www.zdnet.com/article/4-4-million-stolen-in-attack-on-blockchain-infrastructure-meter/?&web_view=true"> Full Text</a>
@@ -441,7 +441,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2022
+February 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Roaming Mantis Android malware campaign sets sights on Europe<a href="https://www.bleepingcomputer.com/news/security/roaming-mantis-android-malware-campaign-sets-sights-on-europe/"> Full Text</a>
@@ -457,7 +457,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2022
+February 7, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gamaredon Targets Ukraine with New Payloads<a href="https://cyware.com/news/gamaredon-targets-ukraine-with-new-payloads-2969cc4a"> Full Text</a>
@@ -474,7 +474,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 06, 2022
+February 06, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Orders Federal Agencies to Patch Actively Exploited Windows Vulnerability<a href="https://thehackernews.com/2022/02/cisa-orders-federal-agencies-to-patch.html"> Full Text</a>

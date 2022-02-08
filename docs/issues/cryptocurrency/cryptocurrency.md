@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+February 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Cloud hypervisor modified to detect cryptominers without agents<a href="https://www.bleepingcomputer.com/news/security/google-cloud-hypervisor-modified-to-detect-cryptominers-without-agents/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced the public preview of a new Virtual Machine Threat Detection (VMTD) system that can detect cryptocurrency miners and other malware without the need for software agents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

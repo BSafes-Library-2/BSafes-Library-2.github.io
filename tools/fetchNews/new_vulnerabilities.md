@@ -8,6 +8,24 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disables the ms-appinstaller&nbsp;protocol because it was abused to spread malware<a href="https://securityaffairs.co/wordpress/127755/malware/microsoft-disables-ms-appinstaller.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft temporarily disabled the&nbsp;ms-appinstaller&nbsp;protocol for MSIX because it was abused by malware, such as Emotet.
+
+
+
+Microsoft announced to have temporarily disabled the&nbsp;ms-appinstaller&nbsp;protocol for MSIX because it was abused by malware,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

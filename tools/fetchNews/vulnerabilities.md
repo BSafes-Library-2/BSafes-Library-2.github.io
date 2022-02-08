@@ -8,6 +8,24 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Argo CD flaw could allow stealing sensitive data from Kubernetes Apps<a href="https://securityaffairs.co/wordpress/127708/hacking/kubernetes-argo-cd-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in Argo CD tool for Kubernetes could be exploited by attackers to steal sensitive data from Kubernetes Apps.
+
+
+
+A zero-day vulnerability, tracked as CVE-2022-24348, in the Argo CD tool for Kubernetes could be exploited by attackers to steal sensitive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
