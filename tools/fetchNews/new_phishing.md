@@ -8,6 +8,39 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roaming Mantis Operators Use Fake SMS Messages to Lure European Targets<a href="https://cyware.com/news/roaming-mantis-operators-use-fake-sms-messages-to-lure-european-targets-916e0ea0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have detected new activity of Roaming Mantis; attackers have modified the Android trojan Wroba to target Android and iPhone users in Germany and France to steal credentials. Germany and French officials have alerted users about smishing messages with package notifications and compromise ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roaming Mantis SMSishing campaign now targets Europe<a href="https://securityaffairs.co/wordpress/127773/cyber-crime/roaming-mantis-targets-europe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Roaming Mantis SMS phishing campaign is now targeting Android and iPhone users in Europe with malicious apps and phishing pages.
+
+
+
+Roaming Mantis&nbsp;surfaced&nbsp;in March 2018 when hacked routers in Japan redirecting users to compromised websites.&nbsp;Roaming...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

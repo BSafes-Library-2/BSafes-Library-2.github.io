@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defending Fire: A Need for Policy to Protect the Security of Open Source<a href="https://www.lawfareblog.com/defending-fire-need-policy-protect-security-open-source"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security of open-source development tools and infrastructure must be made a priority by federal cybersecurity policymakers.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

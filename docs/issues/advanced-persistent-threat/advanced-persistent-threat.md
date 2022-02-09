@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Actor Stayed Hidden for 250 Days<a href="https://cyware.com/news/chinese-apt-actor-stayed-hidden-for-250-days-01ffb90c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The xPack backdoor allowed the threat actors to remotely run WMI commands, interact with SMB shares to transfer files, and browse the web by using the backdoor as a proxy to hide their IP addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

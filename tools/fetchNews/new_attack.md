@@ -8,6 +8,53 @@ nav_order: 900015
 
 ## Attack
 ---
+February 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palestinian Hackers Use New NimbleMamba Implant in Recent Attacks<a href="https://thehackernews.com/2022/02/palestinian-hackers-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) hacking group operating with motives that likely align with Palestine has embarked on a new campaign that leverages a previously undocumented implant called NimbleMamba .  The intrusions leveraged a sophisticated attack chain targeting Middle Eastern governments, foreign policy think tanks, and a state-affiliated airline, enterprise security firm Proofpoint&nbsp; said &nbsp;in a report, attributing the covert operation to a threat actor tracked as Molerats (aka TA402).  Notorious for continuously updating their malware implants and their delivery methods, the APT group was most recently linked to an&nbsp; espionage offensive &nbsp;aimed at human rights activists and journalists in Palestine and Turkey, while a previous attack exposed in June 2021 resulted in the deployment of a backdoor called&nbsp; LastConn .   But the lull in the activities has been offset by the operators actively working to retool their arsenal, resulting in the development of NimbleMamba, which is desi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gamaredon Responsible for Attacks on Ukraine Since 2021<a href="https://cyware.com/news/gamaredon-responsible-for-attacks-on-ukraine-since-2021-0350fe82"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft shared new information on Gamaredon, also known as ACTINIUM, which has been responsible for a plethora of spear-phishing attacks against Ukrainian organizations since October 2021. One of the techniques used by Gamaredon was sending spear-phishing emails containing malicious macro as atta ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vodafone Portugal hit by a massive cyberattack<a href="https://securityaffairs.co/wordpress/127799/cyber-crime/vodafone-portugal-massive-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack hit Vodafone Portugal causing severe outages in the country of its communication and television services.
+
+
+
+Vodafone Portugal suffered a major cyberattack that caused service outages in the country, media reported the temporary disruption...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

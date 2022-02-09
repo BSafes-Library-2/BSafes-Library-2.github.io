@@ -8,6 +8,80 @@ nav_order: 900029
 
 ## Breach
 ---
+February 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DPD Group parcel tracking flaw may have exposed customer data<a href="https://www.bleepingcomputer.com/news/security/dpd-group-parcel-tracking-flaw-may-have-exposed-customer-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unauthenticated API call vulnerability in DPD Group's package tracking system could have been exploited to access the personally identifiable details of its clients.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Backdoored Systems at China's National Games Just Before Competition<a href="https://thehackernews.com/2022/02/hackers-backdoored-systems-at-chinas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Systems hosting content pertaining to the National Games of China were successfully breached last year by an unnamed Chinese-language-speaking hacking group.  Cybersecurity firm Avast, which&nbsp; dissected &nbsp;the intrusion, said that the attackers gained access to a web server 12 days prior to the start of the event on September 3 to drop multiple reverse web shells for remote access and achieve permanent foothold in the network.  The&nbsp; National Games of China , a multi-sport event held every four years, took place in the Shaanxi Province between September 15 and 27, 2021.   The Czech company said it was unable to determine the nature of the information stolen by the hackers, adding it has "reason to believe [the attackers] are either native Chinese-language speakers or show high fluency in Chinese." The breach is said to have been resolved ahead of the start of the games.  The initial access was facilitated by exploiting a vulnerability in the webserver. But before dropping the we
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Puma hit by data breach after Kronos ransomware attack<a href="https://www.bleepingcomputer.com/news/security/puma-hit-by-data-breach-after-kronos-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sportswear manufacturer&nbsp;Puma was hit by a data breach following the ransomware attack that hit Kronos, one of its North American workforce management service providers, in December 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breached a server of National Games of China days before the event<a href="https://securityaffairs.co/wordpress/127738/hacking/chinas-national-games-just-before-competition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unnamed Chinese-language-speaking hacking group compromised systems at National Games of China in 2021.
+
+
+
+Researchers at cybersecurity firm Avast discovered that a Chinese-language-speaking threat actor has compromised systems at National Games of China...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$4.4 Million Stolen in Attack on Meter Network and Moonriver Network<a href="https://www.zdnet.com/article/4-4-million-stolen-in-attack-on-blockchain-infrastructure-meter/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Blockchain research company PeckShield confirmed that 1391 ETH and 2.74 BTC were stolen during the incident. The Meter network, as well as the Moonriver network, were affected by the hack.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

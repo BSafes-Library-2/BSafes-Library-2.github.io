@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+February 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roaming Mantis Android malware campaign sets sights on Europe<a href="https://www.bleepingcomputer.com/news/security/roaming-mantis-android-malware-campaign-sets-sights-on-europe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Roaming Mantis SMS phishing campaign has finally reached Europe, as researchers detect campaigns targeting Android and iPhone users in Germany and France with malicious apps and phishing pages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gamaredon Targets Ukraine with New Payloads<a href="https://cyware.com/news/gamaredon-targets-ukraine-with-new-payloads-2969cc4a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Symantec experts disclosed that the Russia-linked Gamaredon deployed eight custom malware samples against Ukrainian targets in the attacks that began last year in July. These files launch a VBS file that eventually drops a well-documented backdoor, known as Pteranodon. Organizations are suggested t ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

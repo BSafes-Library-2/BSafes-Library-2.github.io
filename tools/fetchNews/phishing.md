@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medusa malware ramps up Android SMS phishing attacks<a href="https://www.bleepingcomputer.com/news/security/medusa-malware-ramps-up-android-sms-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Medusa Android banking Trojan is seeing increased infection rates as it targets more geographic regions to steal online credentials and perform financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

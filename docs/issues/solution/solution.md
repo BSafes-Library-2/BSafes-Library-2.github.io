@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+February 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Ups Office Protections With Improved Blocking of Macros<a href="https://www.securityweek.com/microsoft-ups-office-protections-improved-blocking-macros?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For documents coming from unknown or untrusted sources, Microsoft blocks macros by default, but users have the option to enable them by clicking on a yellow warning at the top of the document.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

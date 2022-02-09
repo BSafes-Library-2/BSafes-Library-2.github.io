@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US seizes $3.6 billion stolen in 2016 Bitfinex cryptoexchange hack<a href="https://www.bleepingcomputer.com/news/security/us-seizes-36-billion-stolen-in-2016-bitfinex-cryptoexchange-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice announced that law enforcement seized billions worth of cryptocurrency linked to the 2016 Bitfinex cryptocurrency exchange hack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian police arrested six people involved in the theft and selling of stolen credit cards<a href="https://securityaffairs.co/wordpress/127785/cyber-crime/russian-police-dismantled-carding-forums.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian police arrested six people individuals, allegedly members of a crime ring involved in the theft and selling of stolen credit cards.
+
+
+
+Another success of Russian police that arrested six people allegedly members of a crime gang involved in the theft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia arrests third hacking group, reportedly seizes carding forums<a href="https://www.bleepingcomputer.com/news/security/russia-arrests-third-hacking-group-reportedly-seizes-carding-forums/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia arrested six people today, allegedly part of a hacking group that was involved in the theft and selling of stolen credit cards.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

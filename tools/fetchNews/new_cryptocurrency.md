@@ -8,6 +8,24 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+February 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US seizes $3.6 billion worth of cryptocurrency stolen in 2016 Bitfinex hack<a href="https://securityaffairs.co/wordpress/127805/cyber-crime/bitfinex-stolen-funds-seizure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The law enforcement seized $3.6 billion worth of cryptocurrency linked to the 2016 Bitfinex cryptocurrency exchange hack.
+
+
+
+Law enforcement Ilya Lichtenstein (34) and his wife, Heather Morgan (31), were&nbsp;arrested for alleged conspiracy to launder...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

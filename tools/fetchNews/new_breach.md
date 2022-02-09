@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+February 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of +6K Puma employees stolen in December Kronos Ransomware attack<a href="https://securityaffairs.co/wordpress/127791/cyber-crime/puma-kronos-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data belonging to 6,632 Puma employees was stolen in a December 2021 ransomware attack that hit Ultimate Kronos Group (UKG).
+
+
+
+Data of 6,632 Puma employees was stolen in a ransomware attack that hit HR management platform Ultimate Kronos Group (UKG)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

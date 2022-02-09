@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UN Experts: North Korea Stealing Millions in Cyber Attacks<a href="https://www.securityweek.com/un-experts-north-korea-stealing-millions-cyber-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-actors stole more than $50 million between 2020 and mid-2021 from at least three cryptocurrency exchanges in North America, Europe, and Asia, the panel of U.N. experts noted.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

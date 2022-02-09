@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+February 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QuaDream, 2nd Israeli Spyware Firm, Weaponizes iPhone Bug<a href="https://threatpost.com/quadream-israeli-spyware-weaponized-iphone-bug/178252/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The now-patched flaw that led to the ForcedEntry exploit of iPhones was exploited by both NSO Group and a different, newly detailed surveillance vendor. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

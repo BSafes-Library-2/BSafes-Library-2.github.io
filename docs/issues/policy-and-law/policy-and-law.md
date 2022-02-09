@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department Charges Individuals for Attempting to Launder Billions in Stolen Bitcoin<a href="https://www.lawfareblog.com/justice-department-charges-individuals-attempting-launder-billions-stolen-bitcoin"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Feb. 8, the Department of Justice released a criminal complaint against two individuals for an alleged conspiracy to launder billions of dollars in cryptocurrency. The Justice Department charged Ilya Lichtenstein and Heather Morgan with conspiring to commit money laundering and conspiring to defraud the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NetWalker ransomware affiliate sentenced to 80 months in prison<a href="https://www.bleepingcomputer.com/news/security/netwalker-ransomware-affiliate-sentenced-to-80-months-in-prison/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sebastien Vachon-Desjardins, a Canadian man charged by the US for his involvement in&nbsp;NetWalker ransomware attacks,&nbsp;was sentenced to 6 years and 8 months&nbsp;in prison after pleading&nbsp;guilty before an Ontario judge to multiple offenses linked to attacks on 17 Canadian victims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

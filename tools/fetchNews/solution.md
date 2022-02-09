@@ -8,6 +8,38 @@ nav_order: 900195
 
 ## Solution
 ---
+February 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast released a free decryptor for TargetCompany&nbsp;ransomware<a href="https://securityaffairs.co/wordpress/127761/malware/targetcompany-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Avast has released a decryption tool to allow victims of TargetCompany&nbsp;ransomware to recover their files for free.
+
+
+
+Czech cybersecurity software firm Avast has released a decryption tool that could allow victims of the  TargetCompany&nbsp;ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free decryptor released for TargetCompany ransomware victims<a href="https://www.bleepingcomputer.com/news/security/free-decryptor-released-for-targetcompany-ransomware-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Czech cybersecurity software firm Avast has released a decryption utility to help TargetCompany&nbsp;ransomware victims recover their files for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

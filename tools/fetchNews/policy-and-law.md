@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When Platforms Do the State’s Bidding, Who Is Accountable? Not the Government, Says Israel’s Supreme Court<a href="https://www.lawfareblog.com/when-platforms-do-states-bidding-who-accountable-not-government-says-israels-supreme-court"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Adalah ruling highlights an unresolved tension between widely held goals for restricting online content and the constitutionally permissible means available to achieve them.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

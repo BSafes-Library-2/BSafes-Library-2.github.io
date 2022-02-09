@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+February 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT/connected Device Discovery and Security Auditing in Corporate Networks<a href="https://thehackernews.com/2022/02/iotconnected-device-discovery-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today's enterprise networks are complex environments with different types of wired and wireless devices being connected and disconnected. The current device discovery solutions have been mainly focused on identifying and monitoring servers, workstation PCs, laptops and infrastructure devices such as network firewalls, switches and routers, because the most valuable information assets of organizations are being stored, processed and transferred over those devices, hence making them the prime target of security breaches and intrusions.  However, a new trend has been emerging in the past four years,&nbsp; where attackers have been targeting purpose-built connected devices &nbsp;such as network printers and video conferencing systems as an entry point and data exfiltration route.  These devices cannot be identified properly by the current IT asset discovery solutions for the following main reasons:   Proprietary protocols are often used for managing and monitoring such devices that are not know
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
