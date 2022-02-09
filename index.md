@@ -34,6 +34,607 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes remote escalation of privileges bug on Android<a href="https://www.bleepingcomputer.com/news/security/google-fixes-remote-escalation-of-privileges-bug-on-android/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released the February 2022 Android security updates, addressing two critical vulnerabilities, one being a remote escalation of privilege that requires no user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BazarBackdoor Spreads via Malicious CSV Files<a href="https://cyware.com/news/bazarbackdoor-spreads-via-malicious-csv-files-41282197"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals have found a way to abuse text-based CSV files in a phishing campaign that pretends to be Payment Remittance Advice to install BazarBackdoor malware on users' systems. In the past two days, researchers have spotted 102 actual non-sandbox corporations, along with government victims. O ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palestinian Hackers Use New NimbleMamba Implant in Recent Attacks<a href="https://thehackernews.com/2022/02/palestinian-hackers-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) hacking group operating with motives that likely align with Palestine has embarked on a new campaign that leverages a previously undocumented implant called NimbleMamba .  The intrusions leveraged a sophisticated attack chain targeting Middle Eastern governments, foreign policy think tanks, and a state-affiliated airline, enterprise security firm Proofpoint  said  in a report, attributing the covert operation to a threat actor tracked as Molerats (aka TA402).  Notorious for continuously updating their malware implants and their delivery methods, the APT group was most recently linked to an  espionage offensive  aimed at human rights activists and journalists in Palestine and Turkey, while a previous attack exposed in June 2021 resulted in the deployment of a backdoor called  LastConn .   But the lull in the activities has been offset by the operators actively working to retool their arsenal, resulting in the development of NimbleMamba, which is desi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department Charges Individuals for Attempting to Launder Billions in Stolen Bitcoin<a href="https://www.lawfareblog.com/justice-department-charges-individuals-attempting-launder-billions-stolen-bitcoin"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Feb. 8, the Department of Justice released a criminal complaint against two individuals for an alleged conspiracy to launder billions of dollars in cryptocurrency. The Justice Department charged Ilya Lichtenstein and Heather Morgan with conspiring to commit money laundering and conspiring to defraud the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defending Fire: A Need for Policy to Protect the Security of Open Source<a href="https://www.lawfareblog.com/defending-fire-need-policy-protect-security-open-source"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security of open-source development tools and infrastructure must be made a priority by federal cybersecurity policymakers.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US seizes $3.6 billion worth of cryptocurrency stolen in 2016 Bitfinex hack<a href="https://securityaffairs.co/wordpress/127805/cyber-crime/bitfinex-stolen-funds-seizure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The law enforcement seized $3.6 billion worth of cryptocurrency linked to the 2016 Bitfinex cryptocurrency exchange hack.
+
+
+
+Law enforcement Ilya Lichtenstein (34) and his wife, Heather Morgan (31), were arrested for alleged conspiracy to launder...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuki hackers use commodity RATs with custom Gold Dragon malware<a href="https://www.bleepingcomputer.com/news/security/kimsuki-hackers-use-commodity-rats-with-custom-gold-dragon-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korean researchers have spotted a new wave of activity from the Kimsuky hacking group, involving commodity open-source remote access tools dropped with their custom backdoor, Gold Dragon.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gamaredon Responsible for Attacks on Ukraine Since 2021<a href="https://cyware.com/news/gamaredon-responsible-for-attacks-on-ukraine-since-2021-0350fe82"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft shared new information on Gamaredon, also known as ACTINIUM, which has been responsible for a plethora of spear-phishing attacks against Ukrainian organizations since October 2021. One of the techniques used by Gamaredon was sending spear-phishing emails containing malicious macro as atta ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Malware Families Using Pay-Per-Install Service to Expand Their Targets<a href="https://thehackernews.com/2022/02/several-malware-families-using-pay-per.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A detailed examination of a Pay-per-install (PPI) malware service called PrivateLoader has revealed its crucial role in the delivery of a variety of malware such as  SmokeLoader ,  RedLine Stealer ,  Vidar ,  Raccoon , and  GCleaner  since at least May 2021.  Loaders are malicious programs used for loading additional executables onto the infected machine. With PPI malware services such as PrivateLoader, malware operators pay the service owners to get their payloads "installed" based on the targets provided.   "The accessibility and moderate costs allow malware operators to leverage these services as another weapon for rapid, bulk and geo-targeted malware infections," cybersecurity firm Intel 471  said  in a new report shared with The Hacker News.   PrivateLoader, written in the C++ programming language, is designed to retrieve URLs for the malicious payloads to be deployed on the infected host, with the distribution primarily relying on a network of  bait websites
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vodafone Portugal hit by a massive cyberattack<a href="https://securityaffairs.co/wordpress/127799/cyber-crime/vodafone-portugal-massive-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack hit Vodafone Portugal causing severe outages in the country of its communication and television services.
+
+
+
+Vodafone Portugal suffered a major cyberattack that caused service outages in the country, media reported the temporary disruption...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft February 2022 Patch Tuesday fixes 48 flaws, 1 zero-day<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2022-patch-tuesday-fixes-48-flaws-1-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's February 2022 Patch Tuesday, and with it comes fixes for one zero-day vulnerability and a total of 48 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roaming Mantis Operators Use Fake SMS Messages to Lure European Targets<a href="https://cyware.com/news/roaming-mantis-operators-use-fake-sms-messages-to-lure-european-targets-916e0ea0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have detected new activity of Roaming Mantis; attackers have modified the Android trojan Wroba to target Android and iPhone users in Germany and France to steal credentials. Germany and French officials have alerted users about smishing messages with package notifications and compromise ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Roaming Mantis' Android Malware Targeting Europeans via Smishing Campaigns<a href="https://thehackernews.com/2022/02/roaming-mantis-android-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated campaign that targets Android devices and spreads mobile malware via SMS phishing techniques since at least 2018 has spread its tentacles to strike victims located in France and  Germany  for the first time.  Dubbed  Roaming Mantis , the latest spate of activities observed in 2021 involve sending fake shipping-related texts containing a URL to a landing page from where Android users are infected with a banking trojan known as Wroba whereas iPhone users are redirected to a phishing page that masquerades as the official Apple website.   The top affected countries, based on telemetry data gathered by Kaspersky between July 2021 and January 2022, are France, Japan, India, China, Germany, and Korea.  Also tracked under the names  MoqHao  and XLoader (not to be confused with the info-stealer malware of the same name  targeting Windows and macOS ), the group's activity has continued to expand geographically even as the operators broadened their attack methods to m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of +6K Puma employees stolen in December Kronos Ransomware attack<a href="https://securityaffairs.co/wordpress/127791/cyber-crime/puma-kronos-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data belonging to 6,632 Puma employees was stolen in a December 2021 ransomware attack that hit Ultimate Kronos Group (UKG).
+
+
+
+Data of 6,632 Puma employees was stolen in a ransomware attack that hit HR management platform Ultimate Kronos Group (UKG)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US seizes $3.6 billion stolen in 2016 Bitfinex cryptoexchange hack<a href="https://www.bleepingcomputer.com/news/security/us-seizes-36-billion-stolen-in-2016-bitfinex-cryptoexchange-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice announced that law enforcement seized billions worth of cryptocurrency linked to the 2016 Bitfinex cryptocurrency exchange hack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Actor Stayed Hidden for 250 Days<a href="https://cyware.com/news/chinese-apt-actor-stayed-hidden-for-250-days-01ffb90c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The xPack backdoor allowed the threat actors to remotely run WMI commands, interact with SMB shares to transfer files, and browse the web by using the backdoor as a proxy to hide their IP addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medusa Android Banking Trojan Spreading Through Flubot's Attacks Network<a href="https://thehackernews.com/2022/02/medusa-android-banking-trojan-spreading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two different Android banking Trojans, FluBot and Medusa, are relying on the same delivery vehicle as part of a simultaneous attack campaign, according to new research published by ThreatFabric.  The ongoing side-by-side infections, facilitated through the same smishing (SMS phishing) infrastructure, involved the overlapping usage of "app names, package names, and similar icons," the Dutch mobile security firm said.  Medusa, first discovered targeting Turkish financial organizations in July 2020, has undergone several iterations, chief among which is the ability to abuse accessibility permissions in Android to siphon funds from banking apps to an account controlled by the attacker.  "Medusa sports other dangerous features like keylogging, accessibility event logging, and audio and video streaming — all these capabilities provide actors with almost full access to [a] victim's device," the researchers  said .   The malware-ridden apps used in conjunction with Flu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian police arrested six people involved in the theft and selling of stolen credit cards<a href="https://securityaffairs.co/wordpress/127785/cyber-crime/russian-police-dismantled-carding-forums.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian police arrested six people individuals, allegedly members of a crime ring involved in the theft and selling of stolen credit cards.
+
+
+
+Another success of Russian police that arrested six people allegedly members of a crime gang involved in the theft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla fixes Firefox bug letting you get Windows admin privileges<a href="https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-bug-letting-you-get-windows-admin-privileges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla released a security update to address a high severity privilege escalation vulnerability found in the Mozilla Maintenance Service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Growing Menace of Malicious npm Packages<a href="https://cyware.com/news/the-growing-menace-of-malicious-npm-packages-7684d6c5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found 1,300 malicious npm packages that could help hackers trigger supply chain attacks and steal credentials and cryptocurrency, as well as run botnets.  The  report  states that 57% of attacks happened during three days of the week - Friday, Saturday, and Sunday. It is recommended to  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roaming Mantis SMSishing campaign now targets Europe<a href="https://securityaffairs.co/wordpress/127773/cyber-crime/roaming-mantis-targets-europe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Roaming Mantis SMS phishing campaign is now targeting Android and iPhone users in Europe with malicious apps and phishing pages.
+
+
+
+Roaming Mantis surfaced in March 2018 when hacked routers in Japan redirecting users to compromised websites. Roaming...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ExpressVPN offering $100,000 to first person who hacks its servers<a href="https://www.bleepingcomputer.com/news/security/expressvpn-offering-100-000-to-first-person-who-hacks-its-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ExpressVPN has updated its bug bounty program to make it more inviting to ethical hackers, now offering a one-time $100,000 bug bounty to whoever can compromise its systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Issued Flash Alert on LockBit Ransomware<a href="https://cyware.com/news/fbi-issued-flash-alert-on-lockbit-ransomware-64cd232e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI released an alert containing technical details and IOCs associated with LockBit ransomware to restrict its action whenever spotted in a victim’s network.&nbsp;It also asked admins and cyber teams to share attack-related data, going forward. Follow the flash alert that offers defense tips to ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vodafone Portugal 4G and 5G services down after cyberattack<a href="https://www.bleepingcomputer.com/news/security/vodafone-portugal-4g-and-5g-services-down-after-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vodafone Portugal suffered a cyberattack causing country-wide service outages, including the disruption of 4G/5G data networks, SMS texts, and television services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PrivateLoader Used to Deploy Smokeloader, Redline, and Vidar Malware<a href="https://www.zdnet.com/article/pay-to-play-privateloader-spreads-smokeloader-redline-vidar-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An examination of a pay-per-install loader called PrivateLoader has highlighted its place in the deployment of popular malware strains including Smokeloader, Redline, and Vidar.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NetWalker ransomware affiliate sentenced to 80 months in prison<a href="https://www.bleepingcomputer.com/news/security/netwalker-ransomware-affiliate-sentenced-to-80-months-in-prison/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sebastien Vachon-Desjardins, a Canadian man charged by the US for his involvement in NetWalker ransomware attacks, was sentenced to 6 years and 8 months in prison after pleading guilty before an Ontario judge to multiple offenses linked to attacks on 17 Canadian victims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Ups Office Protections With Improved Blocking of Macros<a href="https://www.securityweek.com/microsoft-ups-office-protections-improved-blocking-macros?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For documents coming from unknown or untrusted sources, Microsoft blocks macros by default, but users have the option to enable them by clicking on a yellow warning at the top of the document.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google sees 50% security boost for 150M users after 2FA enroll<a href="https://www.bleepingcomputer.com/news/google/google-sees-50-percent-security-boost-for-150m-users-after-2fa-enroll/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After accelerating its efforts to auto-enroll as many accounts as possible in two-factor authentication (2FA), Google announced that an additional 150 million users now have 2FA enabled.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android's February 2022 Security Updates Patch 36 Vulnerabilities<a href="https://www.securityweek.com/androids-february-2022-security-update-patches-36-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first part of the update arrives on devices as the 2022-02-01 patch level and delivers fixes for 15 security holes in three components, namely Framework, Media framework, and System.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qbot needs only 30 minutes to steal your credentials, emails<a href="https://www.bleepingcomputer.com/news/security/qbot-needs-only-30-minutes-to-steal-your-credentials-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The widespread malware known as Qbot (aka Qakbot or QuakBot) has recently returned to light-speed attacks, and according to analysts, it only takes around 30 minutes to steal sensitive data after the initial infection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit, BlackCat, Swissport, Oh My! Ransomware Activity Stays Strong<a href="https://threatpost.com/lockbit-blackcat-swissport-ransomware-activity/178261/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+However, groups are rebranding and recalibrating their profiles and tactics to respond to law enforcement and the security community’s focus on stopping ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roaming Mantis Expands Android Backdoor to Europe<a href="https://threatpost.com/roaming-mantis-android-backdoor-europe/178247/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ‘smishing’ group lives up to its name, expanding globally and adding image exfiltration to the Wroba RAT it uses to infect mobile victims.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Attack Surface Management Preempts Cyberattacks<a href="https://thehackernews.com/2022/02/how-attack-surface-management-preempts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The wide-ranging adoption of cloud facilities and the subsequent mushrooming of organizations' networks, combined with the recent migration to remote work, had the direct consequence of a massive expansion of organizations' attack surface and led to a growing number of blind spots in connected architectures.  The unforeseen  results of this expanded and attack surface  with fragmented monitoring has been a marked increase in the number of successful cyber-attacks, most notoriously, ransomware, but covering a range of other types of attacks as well. The main issues are unmonitored blind spots used by cyber-attackers to breach organizations' infrastructure and escalate their attack or move laterally, seeking valuable information.   The problem lies in discovery. Most organizations have evolved faster than their ability to keep track of all the moving parts involved and to catch up to catalog all past and present assets is often viewed as a complex and resource-heavy task wit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Disables Internet Macros in Office Apps by Default to Block Malware Attacks<a href="https://thehackernews.com/2022/02/microsoft-disables-internet-macros-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday said it's taking steps to disable Visual Basic for Applications (VBA) macros by default across its products, including Word, Excel, PowerPoint, Access, and Visio, for documents downloaded from the web in an attempt to eliminate an entire class of attack vector.  "Bad actors send macros in Office files to end users who unknowingly enable them, malicious payloads are delivered, and the impact can be severe including malware, compromised identity, data loss, and remote access," Kellie Eickmeyer  said  in a post announcing the move.   While the company does warn users about permitting macros in Office files, unsuspecting users — e.g., recipients of phishing emails — can still be lured into enabling the feature, effectively granting the attackers the ability to gain an initial foothold into the system.  As part of the new change, when a user opens an attachment or downloads from the internet an untrusted Office file containing macros, the app displays a se
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Temporarily Disables MSIX App Installers to Prevent Malware Abuse<a href="https://thehackernews.com/2022/02/microsoft-temporarily-disables-msix-app.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft last week announced that it's temporarily disabling the MSIX ms-appinstaller protocol handler in Windows following evidence that a security vulnerability in the installer component was exploited by threat actors to deliver malware such as Emotet, TrickBot, and Bazaloader.  MSIX , based on a combination of .msi, .appx, App-V and ClickOnce installation technologies, is a universal Windows app package format that allows developers to distribute their applications for the desktop operating system and  other platforms . ms-appinstaller, specifically, is designed to help users  install a Windows app  by simply clicking a link on a website.   But a spoofing vulnerability uncovered in Windows App Installer ( CVE-2021-43890 , CVSS score: 7.1) meant that it could be tricked into installing a rogue app that was never intended to be installed by the user via a malicious attachment used in phishing campaigns.   Although Microsoft released initial patches to address this flaw as part
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia arrests third hacking group, reportedly seizes carding forums<a href="https://www.bleepingcomputer.com/news/security/russia-arrests-third-hacking-group-reportedly-seizes-carding-forums/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia arrested six people today, allegedly part of a hacking group that was involved in the theft and selling of stolen credit cards.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
