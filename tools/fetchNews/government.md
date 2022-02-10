@@ -8,6 +8,21 @@ nav_order: 900075
 
 ## Government
 ---
+February 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Issued Flash Alert on LockBit Ransomware<a href="https://cyware.com/news/fbi-issued-flash-alert-on-lockbit-ransomware-64cd232e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI released an alert containing technical details and IOCs associated with LockBit ransomware to restrict its action whenever spotted in a victim’s network.&nbsp;It also asked admins and cyber teams to share attack-related data, going forward. Follow the flash alert that offers defense tips to ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

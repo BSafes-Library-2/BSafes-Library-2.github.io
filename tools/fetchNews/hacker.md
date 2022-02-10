@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuki hackers use commodity RATs with custom Gold Dragon malware<a href="https://www.bleepingcomputer.com/news/security/kimsuki-hackers-use-commodity-rats-with-custom-gold-dragon-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korean researchers have spotted a new wave of activity from the Kimsuky hacking group, involving commodity open-source remote access tools dropped with their custom backdoor, Gold Dragon.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

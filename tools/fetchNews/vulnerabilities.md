@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes remote escalation of privileges bug on Android<a href="https://www.bleepingcomputer.com/news/security/google-fixes-remote-escalation-of-privileges-bug-on-android/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released the February 2022 Android security updates, addressing two critical vulnerabilities, one being a remote escalation of privilege that requires no user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft February 2022 Patch Tuesday fixes 48 flaws, 1 zero-day<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2022-patch-tuesday-fixes-48-flaws-1-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's February 2022 Patch Tuesday, and with it comes fixes for one zero-day vulnerability and a total of 48&nbsp;flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla fixes Firefox bug letting you get Windows admin privileges<a href="https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-bug-letting-you-get-windows-admin-privileges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla released a&nbsp;security update to address a high severity privilege escalation vulnerability&nbsp;found in the Mozilla Maintenance Service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android's February 2022 Security Updates Patch 36 Vulnerabilities<a href="https://www.securityweek.com/androids-february-2022-security-update-patches-36-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first part of the update arrives on devices as the 2022-02-01 patch level and delivers fixes for 15 security holes in three components, namely Framework, Media framework, and System.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

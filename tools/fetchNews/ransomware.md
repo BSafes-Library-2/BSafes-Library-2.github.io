@@ -11,6 +11,20 @@ nav_order: 900180
 February 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+LockBit, BlackCat, Swissport, Oh My! Ransomware Activity Stays Strong<a href="https://threatpost.com/lockbit-blackcat-swissport-ransomware-activity/178261/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+However, groups are rebranding and recalibrating their profiles and tactics to respond to law enforcement and the security community’s focus on stopping ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Newly Found Sugar Ransomware is Now Being Offered as RaaS<a href="https://cyware.com/news/newly-found-sugar-ransomware-is-now-being-offered-as-raas-641cfa69"> Full Text</a>
 </p>
 <details>

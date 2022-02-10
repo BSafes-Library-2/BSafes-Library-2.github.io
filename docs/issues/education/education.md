@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+February 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Tips for Facing the Harsh Truths of Cybersecurity in 2022, Part I<a href="https://threatpost.com/harsh-truths-cybersecurity-tips/178311/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sonya Duffin, ransomware and data-protection expert at Veritas Technologies, shares three steps organizations can take today to reduce cyberattack fallout.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guide: Alert Overload and Handling for Lean IT Security Teams<a href="https://thehackernews.com/2022/02/guide-alert-overload-and-handling-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alarming research reveals the stress and strains the average cybersecurity team experiences on a daily basis. As many as&nbsp; 70% of teams &nbsp;report feeling emotionally overwhelmed by security alerts. Those alerts come at such high volume, high velocity, and high intensity that they become an extreme source of stress. So extreme, in fact, that people's home lives are negatively affected. Alert overload is bad for those who work in cybersecurity. But it's even worse for everyone who depends on cybersecurity.&nbsp;  This is a gigantic issue in the industry, yet few people even acknowledge it, let alone deal with it. Cynet aims to correct that in this guide ( download here ), starting by shining a light on the cause of the problem and the full extent of its consequences and then offering a few ways lean security teams can pull their analysts out of the ocean of false positives and get them back to shore. It includes tips on how to reduce alerts using automation and shares guidance for organ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

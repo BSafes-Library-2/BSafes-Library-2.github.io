@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Arrests Two and Seizes $3.6 Billion Cryptocurrency Stolen in 2016 Bitfinex Hack<a href="https://thehackernews.com/2022/02/us-arrests-two-and-seizes-36-million-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department (DoJ) on Tuesday&nbsp; announced &nbsp;the arrest of a married couple in connection with conspiring to launder cryptocurrency worth $4.5 billion that was siphoned during the&nbsp; hack &nbsp;of the virtual currency exchange Bitfinex in 2016.  Ilya Lichtenstein, 34, and his wife, Heather Morgan, 31, both of New York, are alleged to have "stolen funds through a labyrinth of cryptocurrency transactions," with the law enforcement getting hold of over $3.6 billion in cryptocurrency by following the money trails, resulting in the "largest financial seizure ever."  "Bitfinex will work with the DoJ and follow appropriate legal processes to establish our rights to a return of the stolen bitcoin," the company&nbsp; said &nbsp;in a statement, adding "We have been cooperating extensively with the DoJ since its investigation began and will continue to do so."   The laundering scheme involved moving proceeds of 119,754 bitcoin (BTC) from Bitfinex by initiating
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

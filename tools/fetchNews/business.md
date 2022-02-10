@@ -8,6 +8,62 @@ nav_order: 900027
 
 ## Business
 ---
+February 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ExpressVPN offering $100,000 to first person who hacks its servers<a href="https://www.bleepingcomputer.com/news/security/expressvpn-offering-100-000-to-first-person-who-hacks-its-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ExpressVPN has updated its bug bounty program to make it more inviting to ethical hackers, now offering a one-time $100,000 bug bounty to whoever can compromise its systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google sees 50% security boost for 150M users after 2FA enroll<a href="https://www.bleepingcomputer.com/news/google/google-sees-50-percent-security-boost-for-150m-users-after-2fa-enroll/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After accelerating its efforts to auto-enroll as many accounts as possible in two-factor authentication (2FA), Google announced that an additional 150 million users now have 2FA enabled.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Disables Internet Macros in Office Apps by Default to Block Malware Attacks<a href="https://thehackernews.com/2022/02/microsoft-disables-internet-macros-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday said it's taking steps to disable Visual Basic for Applications (VBA) macros by default across its products, including Word, Excel, PowerPoint, Access, and Visio, for documents downloaded from the web in an attempt to eliminate an entire class of attack vector.  "Bad actors send macros in Office files to end users who unknowingly enable them, malicious payloads are delivered, and the impact can be severe including malware, compromised identity, data loss, and remote access," Kellie Eickmeyer&nbsp; said &nbsp;in a post announcing the move.   While the company does warn users about permitting macros in Office files, unsuspecting users — e.g., recipients of phishing emails — can still be lured into enabling the feature, effectively granting the attackers the ability to gain an initial foothold into the system.  As part of the new change, when a user opens an attachment or downloads from the internet an untrusted Office file containing macros, the app displays a se
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Temporarily Disables MSIX App Installers to Prevent Malware Abuse<a href="https://thehackernews.com/2022/02/microsoft-temporarily-disables-msix-app.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft last week announced that it's temporarily disabling the MSIX ms-appinstaller protocol handler in Windows following evidence that a security vulnerability in the installer component was exploited by threat actors to deliver malware such as Emotet, TrickBot, and Bazaloader.  MSIX , based on a combination of .msi, .appx, App-V and ClickOnce installation technologies, is a universal Windows app package format that allows developers to distribute their applications for the desktop operating system and&nbsp; other platforms . ms-appinstaller, specifically, is designed to help users&nbsp; install a Windows app &nbsp;by simply clicking a link on a website.   But a spoofing vulnerability uncovered in Windows App Installer ( CVE-2021-43890 , CVSS score: 7.1) meant that it could be tricked into installing a rogue app that was never intended to be installed by the user via a malicious attachment used in phishing campaigns.   Although Microsoft released initial patches to address this flaw as part
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

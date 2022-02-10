@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminals Increasing SIM Swap Schemes to Steal Millions of Dollars from US Public <a href="https://www.ic3.gov/Media/Y2022/PSA220208"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation is issuing this announcement to inform mobile carriers and the public of the increasing use of Subscriber Identity Module (SIM) swapping by criminals to steal money from fiat and virtual currency accounts.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities Affecting SAP Applications Employing Internet Communication Manager (ICM) <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/02/08/critical-vulnerabilities-affecting-sap-applications-employing"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On February 8, 2022, SAP released security updates to address vulnerabilities affecting multiple products, including critical vulnerabilities affecting SAP applications using SAP Internet Communication Manager (ICM). 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 4, 2022 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+February 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Attack Surface Management Preempts Cyberattacks<a href="https://thehackernews.com/2022/02/how-attack-surface-management-preempts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The wide-ranging adoption of cloud facilities and the subsequent mushrooming of organizations' networks, combined with the recent migration to remote work, had the direct consequence of a massive expansion of organizations' attack surface and led to a growing number of blind spots in connected architectures.  The unforeseen&nbsp; results of this expanded and attack surface&nbsp; with fragmented monitoring has been a marked increase in the number of successful cyber-attacks, most notoriously, ransomware, but covering a range of other types of attacks as well. The main issues are unmonitored blind spots used by cyber-attackers to breach organizations' infrastructure and escalate their attack or move laterally, seeking valuable information.&nbsp;  The problem lies in discovery. Most organizations have evolved faster than their ability to keep track of all the moving parts involved and to catch up to catalog all past and present assets is often viewed as a complex and resource-heavy task wit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

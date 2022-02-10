@@ -8,6 +8,84 @@ nav_order: 900015
 
 ## Attack
 ---
+February 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wave of MageCart attacks target hundreds of outdated Magento sites<a href="https://www.bleepingcomputer.com/news/security/wave-of-magecart-attacks-target-hundreds-of-outdated-magento-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysts have found the source of a mass breach of over 500 e-commerce stores running the Magento 1 platform and involves a single domain loading a credit card skimmer on all of them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Using New Marlin Backdoor in 'Out to Sea' Espionage Campaign<a href="https://thehackernews.com/2022/02/iranian-hackers-using-new-marlin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) group with ties to Iran has refreshed its malware toolset to include a new backdoor dubbed&nbsp; Marlin &nbsp;as part of a long-running espionage campaign that started in April 2018.  Slovak cybersecurity company ESET attributed the attacks — codenamed "Out to Sea" &nbsp;— to a threat actor called&nbsp; OilRig &nbsp;(aka APT34), while also conclusively connecting its activities to a second Iranian group tracked under the name&nbsp; Lyceum &nbsp;(Hexane aka&nbsp; SiameseKitten ).   "Victims of the campaign include diplomatic organizations, technology companies, and medical organizations in Israel, Tunisia, and the United Arab Emirates," ESET noted in its&nbsp; T3 2021 Threat Report &nbsp;shared with The Hacker News.  Active since at least 2014, the hacking group is known to strike Middle Eastern governments and a variety of business verticals, including chemical, energy, financial, and telecommunications. In April 2021, the actor targeted a Lebanese entity with an implant called
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Pirate Bay clones target millions of users with malware and malicious ads￼<a href="https://securityaffairs.co/wordpress/127810/cyber-crime/pirate-bay-clones-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers discovered five clones of The Pirate Bay serving malicious ads to more than seven million users each month.
+
+
+
+Original Post @ https://cybernews.com/security/the-pirate-bay-clones-target-millions-of-users-with-malware-and-malicious-ads/
+
+
+
+CyberNews...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molerats hackers deploy new malware in highly evasive campaign<a href="https://www.bleepingcomputer.com/news/security/molerats-hackers-deploy-new-malware-in-highly-evasive-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Palestinian-aligned APT group tracked as TA402 (aka Molerats) was spotted using a new implant named 'NimbleMamba' in a cyber-espionage campaign that leverages geofencing and URL redirects to legitimate websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China Suspected of News Corp Cyberespionage Attack<a href="https://threatpost.com/china-suspected-news-corp-cyberespionage/178277/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers infiltrated the media giant’s network using BEC, while Microsoft moved to stop such attacks by blocking VBA macros in 5 Windows apps. Included: more ways to help stop BEC.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
