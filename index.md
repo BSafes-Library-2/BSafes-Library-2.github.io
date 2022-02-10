@@ -34,6 +34,464 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP Everywhere RCE flaws threaten thousands of WordPress sites<a href="https://www.bleepingcomputer.com/news/security/php-everywhere-rce-flaws-threaten-thousands-of-wordpress-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found three critical remote code execution (RCE) vulnerabilities in the PHP Everywhere plugin for WordPress, used by over 30,000 websites worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StellarParticle Campaign - New Undetected Malware Revealed After Two Years<a href="https://cyware.com/news/stellarparticle-campaign-new-undetected-malware-revealed-after-two-years-f6751acd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers associated with&nbsp;SolarWind attacks have been using two new threats, the GoldMax backdoor&nbsp;and the TrailBlazer malware family, in StellarParticle campaigns for over two years.  Researchers have provided detailed information regarding the latest TTPs observed in cyberattacks and sugge ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Arrests Two and Seizes $3.6 Billion Cryptocurrency Stolen in 2016 Bitfinex Hack<a href="https://thehackernews.com/2022/02/us-arrests-two-and-seizes-36-million-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department (DoJ) on Tuesday  announced  the arrest of a married couple in connection with conspiring to launder cryptocurrency worth $4.5 billion that was siphoned during the  hack  of the virtual currency exchange Bitfinex in 2016.  Ilya Lichtenstein, 34, and his wife, Heather Morgan, 31, both of New York, are alleged to have "stolen funds through a labyrinth of cryptocurrency transactions," with the law enforcement getting hold of over $3.6 billion in cryptocurrency by following the money trails, resulting in the "largest financial seizure ever."  "Bitfinex will work with the DoJ and follow appropriate legal processes to establish our rights to a return of the stolen bitcoin," the company  said  in a statement, adding "We have been cooperating extensively with the DoJ since its investigation began and will continue to do so."   The laundering scheme involved moving proceeds of 119,754 bitcoin (BTC) from Bitfinex by initiating
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns to address SAP ICMAD flaw immediately<a href="https://securityaffairs.co/wordpress/127832/hacking/cisa-sap-icmad-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US CISA warns to address a severe security vulnerability dubbed ICMAD impacting SAP business apps using ICM..
+
+
+
+Internet Communication Manager Advanced Desync (ICMAD) is a memory pipes (MPI) desynchronization vulnerability tracked as CVE-2022-22536....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Tips for Facing the Harsh Truths of Cybersecurity in 2022, Part I<a href="https://threatpost.com/harsh-truths-cybersecurity-tips/178311/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sonya Duffin, ransomware and data-protection expert at Veritas Technologies, shares three steps organizations can take today to reduce cyberattack fallout.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wave of MageCart attacks target hundreds of outdated Magento sites<a href="https://www.bleepingcomputer.com/news/security/wave-of-magecart-attacks-target-hundreds-of-outdated-magento-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysts have found the source of a mass breach of over 500 e-commerce stores running the Magento 1 platform and involves a single domain loading a credit card skimmer on all of them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zerodium Offers Huge Money for Zero-day Exploits<a href="https://cyware.com/news/zerodium-offers-huge-money-for-zero-day-exploits-2cfeab3e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Premium exploits acquisition platform Zerodium rolled out an offer of $400,000 in bounty rewards to anyone who reports an RCE zero-day vulnerability in Outlook. It is reportedly a temporary offer. It is offering up to $200,000 for exploits leading to remote code execution in Mozilla Thunderbird.&nb ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guide: Alert Overload and Handling for Lean IT Security Teams<a href="https://thehackernews.com/2022/02/guide-alert-overload-and-handling-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alarming research reveals the stress and strains the average cybersecurity team experiences on a daily basis. As many as  70% of teams  report feeling emotionally overwhelmed by security alerts. Those alerts come at such high volume, high velocity, and high intensity that they become an extreme source of stress. So extreme, in fact, that people's home lives are negatively affected. Alert overload is bad for those who work in cybersecurity. But it's even worse for everyone who depends on cybersecurity.   This is a gigantic issue in the industry, yet few people even acknowledge it, let alone deal with it. Cynet aims to correct that in this guide ( download here ), starting by shining a light on the cause of the problem and the full extent of its consequences and then offering a few ways lean security teams can pull their analysts out of the ocean of false positives and get them back to shore. It includes tips on how to reduce alerts using automation and shares guidance for organ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Master decryption keys for Maze, Egregor, and Sekhmet ransomware leaked online<a href="https://securityaffairs.co/wordpress/127826/malware/egregor-sekhmet-decryption-keys.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The master decryption keys for the Maze, Egregor, and Sekhmet ransomware operations were released last night on the BleepingComputer forums.
+
+
+
+The master decryption keys for the Maze, Egregor, and Sekhmet ransomware families were released on the BleepingComputer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns admins to patch maximum severity SAP vulnerability<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-maximum-severity-sap-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has warned admins to patch a set of severe security flaws dubbed ICMAD (Internet Communication Manager Advanced Desync) and impacting SAP business apps using Internet Communication Manager (ICM).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens, Schneider Electric Address Nearly 50 ICS Vulnerabilities<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-schneider-electric-address-nearly-50-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial equipment giants Siemens and Schneider Electric released a total of 15 advisories on Tuesday to address nearly 50 vulnerabilities discovered in their products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Using New Marlin Backdoor in 'Out to Sea' Espionage Campaign<a href="https://thehackernews.com/2022/02/iranian-hackers-using-new-marlin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) group with ties to Iran has refreshed its malware toolset to include a new backdoor dubbed  Marlin  as part of a long-running espionage campaign that started in April 2018.  Slovak cybersecurity company ESET attributed the attacks — codenamed "Out to Sea"  — to a threat actor called  OilRig  (aka APT34), while also conclusively connecting its activities to a second Iranian group tracked under the name  Lyceum  (Hexane aka  SiameseKitten ).   "Victims of the campaign include diplomatic organizations, technology companies, and medical organizations in Israel, Tunisia, and the United Arab Emirates," ESET noted in its  T3 2021 Threat Report  shared with The Hacker News.  Active since at least 2014, the hacking group is known to strike Middle Eastern governments and a variety of business verticals, including chemical, energy, financial, and telecommunications. In April 2021, the actor targeted a Lebanese entity with an implant called
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft February 2022 Patch Tuesday security updates fix a zero-day<a href="https://securityaffairs.co/wordpress/127821/security/microsoft-february-2022-patch-tuesday.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft February 2022 Patch Tuesday security updates addressed 51 flaws in multiple products, including a zero-day bug.
+
+
+
+Microsoft February 2022 Patch Tuesday security updates addressed 51 flaws in multiple products including Microsoft Windows and Windows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware dev releases Egregor, Maze master decryption keys<a href="https://www.bleepingcomputer.com/news/security/ransomware-dev-releases-egregor-maze-master-decryption-keys/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The master decryption keys for the Maze, Egregor, and Sekhmet ransomware operations were released last night on the BleepingComputer forums by the alleged malware developer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Remediation Platform Vicarius Raises $24 Million<a href="https://www.securityweek.com/vulnerability-remediation-platform-vicarius-raises-24-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The New York-based company’s cloud-first, integrated platform – called Topia – helps organizations identify, prioritize and address software vulnerabilities before hackers can exploit them.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT Hackers Used COVID-19 Lures to Target European Diplomats<a href="https://thehackernews.com/2022/02/russian-apt-hackers-used-covid-19-lures.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked threat actor known as APT29 targeted European diplomatic missions and Ministries of Foreign Affairs as part of a series of spear-phishing campaigns mounted in October and November 2021.  According to ESET's  T3 2021 Threat Report  shared with The Hacker News, the intrusions paved the way for the deployment of Cobalt Strike Beacon on compromised systems, followed by leveraging the foothold to drop additional malware for gathering information about the hosts and other machines in the same network.  Also tracked under the names The Dukes, Cozy Bear, and Nobelium, the advanced persistent threat group is an infamous cyber-espionage group that has been active for more than a decade, with its attacks targeting Europe and the U.S., before it gained widespread attention for the  supply‐chain compromise  of SolarWinds, leading to further infections in several downstream entities, including U.S. government agencies in 2020.   The spear-phishing attacks commenced with a COVI
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google February 2022 Android security updates fix remote escalation bug<a href="https://securityaffairs.co/wordpress/127814/hacking/google-february-2022-android-security-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google February 2022 Android security updates address two critical flaws, including a remote escalation of privilege.
+
+
+
+Google has released the February 2022 Android security updates that address two critical vulnerabilities, one of them is a remote...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta and Chime sue Nigerians behind Facebook, Instagram phishing<a href="https://www.bleepingcomputer.com/news/security/meta-and-chime-sue-nigerians-behind-facebook-instagram-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta (formerly known as Facebook) has filed a joint lawsuit with Chime, a financial technology and digital banking company, against two Nigerian individuals who allegedly used Instagram and Facebook accounts to impersonate Chime and target its users in phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Received 1,600 SIM Swapping Complaints in 2021<a href="https://www.securityweek.com/fbi-received-1600-sim-swapping-complaints-2021?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) this week announced that between 2018 and 2021 its Internet Crime Complaint Center (IC3) received more than 1,900 complaints related to SIM swapping.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Pirate Bay clones target millions of users with malware and malicious ads￼<a href="https://securityaffairs.co/wordpress/127810/cyber-crime/pirate-bay-clones-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers discovered five clones of The Pirate Bay serving malicious ads to more than seven million users each month.
+
+
+
+Original Post @ https://cybernews.com/security/the-pirate-bay-clones-target-millions-of-users-with-malware-and-malicious-ads/
+
+
+
+CyberNews...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Windows 11 upgrade installers infect you with RedLine malware<a href="https://www.bleepingcomputer.com/news/security/fake-windows-11-upgrade-installers-infect-you-with-redline-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have started distributing fake Windows 11 upgrade installers to users of Windows 10, tricking them into downloading and executing RedLine stealer malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brute-forcing passwords, ProxyLogon exploits were some of 2021's most popular attack methods<a href="https://www.zdnet.com/article/brute-forcing-passwords-proxylogon-exploits-were-2021s-most-popular-attack-vectors/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brute-force and automated password guessing, such as through dictionary-based attacks, were the most frequent attack vectors detected according to telemetry collected by ESET.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of criminals escalating SIM swap attacks to steal millions<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-criminals-escalating-sim-swap-attacks-to-steal-millions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) says criminals have escalated SIM swap attacks to steal millions by hijacking victims' phone numbers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese telecom Hytera charged for allegedly recruiting Motorola employees to steal trade secrets<a href="https://www.zdnet.com/article/chinese-telecom-hytera-indicted-for-alleged-insider-scheme-for-theft-of-motorola-trade-secrets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DoJ said that Hytera Communications Corp "recruited and hired Motorola Solutions employees and directed them to take proprietary and trade secret information from Motorola without authorization."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molerats hackers deploy new malware in highly evasive campaign<a href="https://www.bleepingcomputer.com/news/security/molerats-hackers-deploy-new-malware-in-highly-evasive-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Palestinian-aligned APT group tracked as TA402 (aka Molerats) was spotted using a new implant named 'NimbleMamba' in a cyber-espionage campaign that leverages geofencing and URL redirects to legitimate websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China Suspected of News Corp Cyberespionage Attack<a href="https://threatpost.com/china-suspected-news-corp-cyberespionage/178277/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers infiltrated the media giant’s network using BEC, while Microsoft moved to stop such attacks by blocking VBA macros in 5 Windows apps. Included: more ways to help stop BEC.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft and Other Major Software Firms Release February 2022 Patch Updates<a href="https://thehackernews.com/2022/02/microsoft-and-other-major-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday rolled out its monthly security updates with  fixes for 51 vulnerabilities  across its software line-up consisting of Windows, Office, Teams, Azure Data Explorer, Visual Studio Code, and other components such as Kernel and Win32k.  Among the 51 defects closed, 50 are rated Important and one is rated Moderate in severity, making it one of the rare Patch Tuesday updates without any fixes for Critical-rated vulnerabilities. This is also in addition to  19 more flaws  the company addressed in its Chromium-based Edge browser.  None of the security vulnerabilities are listed as under active exploit, while of the flaws —  CVE-2022-21989  (CVSS score: 7.8) — has been classified as a publicly disclosed zero-day at the time of the release. The issue concerns a privilege escalation bug in Windows Kernel, with Microsoft warning of potential attacks exploiting the shortcoming.   "Successful exploitation of this vulnerability requires an attacker to take additional actions
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 08, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
