@@ -34,6 +34,552 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Defender flaw letting hackers bypass antivirus scans<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-defender-flaw-letting-hackers-bypass-antivirus-scans/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has recently addressed a weakness in the Microsoft Defender Antivirus on Windows that allowed attackers to plant and execute malicious payloads without triggering Defender's malware detection engine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charity Site for Ottawa Truckers’ ‘Freedom Convoy’ Protest Exposes Donors’ Passports and Driver Licenses<a href="https://techcrunch.com/2022/02/08/ottawa-trucker-freedom-convoy-exposed-donation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The donation site used by truckers in Ottawa who are currently protesting against national vaccine mandates has fixed a security lapse that exposed the passports and driver licenses of donors.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases iOS, iPadOS, macOS Updates to Patch Actively Exploited Zero-Day Flaw<a href="https://thehackernews.com/2022/02/apple-releases-ios-ipados-macos-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Thursday released security updates for  iOS, iPadOS ,  macOS , and  Safari  to address a new WebKit flaw that it said may have been actively exploited in the wild, making it the company's third zero-day patch since the start of the year.   Tracked as CVE-2022-22620, the issue concerns a use-after-free vulnerability in the WebKit component that powers the Safari web browser and could be exploited by a piece of specially crafted web content to gain arbitrary code execution.   "Apple is aware of a report that this issue may have been actively exploited," the company said in a terse statement acknowledging in-the-wild attacks leveraging the flaw.  The iPhone maker credited an anonymous researcher for discovering and reporting the flaw, adding it remediated the issue with improved memory management.  The updates are available for iPhone 6s and later, iPad Pro (all models), iPad Air 2 and later, iPad 5th generation and later, iPad mini 4 and later, and iPod touch (7th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors compromised +500 Magento-based e-stores with e-skimmers<a href="https://securityaffairs.co/wordpress/127874/cyber-crime/magento-based-e-stores-mass-compromise.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts uncovered a mass Magecart campaign that compromised over 500 e-store running the Magento 1 eCommerce platform.
+
+
+
+Researchers from cybersecurity firm Sansec uncovered a massive Magecart campaign that already compromised more than 500 online...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decryptor Keys Published for Maze, Egregor, Sekhmet Ransomwares<a href="https://threatpost.com/decryptor-keys-maze-egregor-sekhmet-ransomwares/178363/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Maze gang are purportedly never going back to ransomware and have destroyed all of their ransomware source code, said somebody claiming to be the developer.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft starts killing off WMIC in Windows, will thwart attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-killing-off-wmic-in-windows-will-thwart-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is moving forward with removing the Windows Management Instrumentation Command-line (WMIC) tool, wmic.exe, starting with the latest Windows 11 preview builds in the Dev channel.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Georgia Voter Information Leaked Online After EasyVote Solutions Security Breach<a href="https://www.govtech.com/security/georgia-voter-info-posted-online-after-software-company-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Public information about voters was posted to an online forum, but the breach didn’t involve Social Security numbers or driver’s license numbers, said Charles Davis, CFO for EasyVote.
+</details>
+<div style="text-align: right" markdown="1">
+Government Technology
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FritzFrog P2P Botnet Attacking Healthcare, Education and Government Sectors<a href="https://thehackernews.com/2022/02/fritzfrog-p2p-botnet-attacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A peer-to-peer Golang botnet has resurfaced after more than a year to compromise servers belonging to entities in the healthcare, education, and government sectors within a span of a month, infecting a total of 1,500 hosts.  Dubbed FritzFrog , "the decentralized botnet targets any device that exposes an SSH server — cloud instances, data center servers, routers, etc. — and is capable of running any malicious payload on infected nodes," Akamai researchers said in a report  shared with The Hacker News.  The new wave of attacks commenced in early December 2021, only to pick up pace and register a 10x growth in its infection rate in a month's time, while peaking at 500 incidents per day in January 2022. The cybersecurity firm said it detected infected machines in a European television channel network, a Russian manufacturer of healthcare equipment, and multiple universities in East Asia.   FritzFrog was  first documented  by Guardicore in August 2020, elaborating the botnet&
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Increasingly Adopting Regsvr32 Utility Execution Via Office Documents<a href="https://securityaffairs.co/wordpress/127871/hacking/attackers-adopting-regsvr32-office-documents.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Uptycs threat research team has been observing an increase in utilization of regsvr32.exe heavily via various types of Microsoft Office documents. 
+
+
+
+The full report that includes Indicators of Compromise (IOCs) is available here:
+
+
+
+https://www.uptycs.com/blog/attackers-increasingly-adopting-regsvr32-utility-execution-via-office-documents
+
+
+
+During...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sharp SIM-Swapping Spike Causes $68M in Losses<a href="https://threatpost.com/sharp-sim-swapping-spike-losses/178358/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks, which lead to 2FA defeat and account takeover, have accelerated by several hundred percent in one year, leading to thousands of drained bank accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking group 'ModifiedElephant' evaded discovery for a decade<a href="https://www.bleepingcomputer.com/news/security/hacking-group-modifiedelephant-evaded-discovery-for-a-decade/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have linked a decade of activity to an APT (advanced persistent threat) actor called 'ModifiedElephant', who has managed to remain elusive to all threat intelligence firms since 2012.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Legit Security Launches Out of Stealth with Series A Investment to Secure Software Supply Chains<a href="https://finance.yahoo.com/news/legit-security-launches-stealth-series-120000104.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Legit Security announced its launch out of stealth mode with a Series A $30 million funding announcement with leading venture capital firms Bessemer Venture Partners and TCV.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID Does Not Spread to Computers<a href="https://thehackernews.com/2022/02/covid-does-not-spread-to-computers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"…well, of course!" is what you might think. It's a biological threat, so how could it affect digital assets?  But hang on. Among other effects, this pandemic has brought about a massive shift in several technological areas. Not only did it force numerous organizations - that up to now were reluctant - to gear up in cyber to go digital, all at once, oftentimes with hastily pieced together strategies.  It also made remote working (and the involved tools) grow in double-digits, causing the good old perimeter (which was already in a questionable state due to cloud adaption) to be basically shattered. The office is now anywhere. And that means access to data needs to be everywhere too.   Keeping all of this in mind, the general assumption was that in the wake of the pandemic we would face a virtual nightmare with vulnerable users, compromised corporate networks en masse and the end of the (digital) world. But let's look at some interesting numbers of what  actually  happ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Does An IPv6 Proxy Work & How Enterprises Can Get Benefit?<a href="https://securityaffairs.co/wordpress/127867/security/ipv6-proxy-benefit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IPv6 became imperative after developers discovered that IPv4 had a finite number and addresses. How does an IPv6 Proxy work?
+
+
+
+Technological advancements have come a long way – from when internet utility was very limited to when internet connection...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple patches new zero-day exploited to hack iPhones, iPads, Macs<a href="https://www.bleepingcomputer.com/news/security/apple-patches-new-zero-day-exploited-to-hack-iphones-ipads-macs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to fix a new zero-day vulnerability exploited in the wild by attackers to hack iPhones, iPads, and Macs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NightDragon Leads  New Growth Round in ThriveDX alongside Prytek<a href="https://finance.yahoo.com/news/nightdragon-leads-100m-growth-round-120000457.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A dedicated cybersecurity and privacy investment firm, NightDragon joins early strategic partner Prytek (who invested $110 million to date) as the co-lead investor in ThriveDX's current funding round.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, NSA Issue Advisory on Severe Increase in Ransomware Attacks<a href="https://thehackernews.com/2022/02/cisa-fbi-nsa-issue-advisory-on-severe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity authorities from Australia, the U.K., and the U.S. have published a joint advisory warning of an increase in sophisticated, high-impact ransomware attacks targeting critical infrastructure organizations across the world in 2021.  The incidents singled out a broad range of sectors, including defense, emergency services, agriculture, government facilities, IT, healthcare, financial services, education, energy, charities, legal institutions, and public services.  "Ransomware tactics and techniques continued to evolve in 2021, which demonstrates ransomware threat actors' growing technological sophistication and an increased ransomware threat to organizations globally," the agencies  said  in the  joint bulletin .   Spear-phishing, stolen or brute-forced Remote Desktop Protocol (RDP) credentials, and exploitation of software flaws emerged as the top three initial infection vectors that were used to deploy ransomware on compromised networks, even as the criminal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spyware, ransomware and Nation-state hacking: Q&A from a recent interview<a href="https://securityaffairs.co/wordpress/127859/cyber-crime/spyware-ransomware-nation-state-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I transcribed a recent interview, here some questions and answers about nation-state hacking, spyware, and cyber warfare. Enjoy"
+
+
+
+How has spyware changed the rules of cyber security in recent years? What will cyber security look like now that those...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qbot, Lokibot malware switch back to Windows Regsvr32 delivery<a href="https://www.bleepingcomputer.com/news/security/qbot-lokibot-malware-switch-back-to-windows-regsvr32-delivery/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware distributors have turned to an older trick known as Squiblydoo to spread Qbot and Lokibot via Microsoft Office document using regsvr32.exe.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Information for over 6,000 Memorial Hermann patients accessed in security breach<a href="https://www.khou.com/article/news/local/memorial-hermann-cyberattack-security-breach/285-1cc8295d-48a4-452e-a6f2-1b4fd059f201?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of its contracted vendors, Advent Health Partners, announced a cybersecurity issue Tuesday. According to the health system, the protected health information of 6,260 patients has been breached.
+</details>
+<div style="text-align: right" markdown="1">
+KHOU
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE flaws in PHP Everywhere WordPress plugin affect thousands of sites<a href="https://securityaffairs.co/wordpress/127848/hacking/rce-php-everywhere-wordpress-plugin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress plugin PHP Everywhere is affected by three critical issues that can be exploited to execute arbitrary code on affected systems.
+
+
+
+Wordfence experts found three critical remote code execution vulnerabilities in the PHP Everywhere WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC says Americans lost $547 million to romance scams in 2021<a href="https://www.bleepingcomputer.com/news/security/ftc-says-americans-lost-547-million-to-romance-scams-in-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Trade Commission (FTC) said that Americans reported record high losses of $547 million to romance scams in 2021, up almost 80% compared to 2020 and over six times compared to losses reported in 2017.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Be Careful! Phishing Kits Bypassing MFA are Growing in Popularity<a href="https://cyware.com/news/be-careful-phishing-kits-bypassing-mfa-are-growing-in-popularity-e27a9631"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In one recent discovery, a team of academics highlighted that there are more than 1200 phishing toolkits deployed in the wild that are capable of intercepting 2FA security codes. Proofpoint researchers also flagged three phishing kits in particular—Modlishka, Muraena/Necrobrowser, and Evilginx2—tha ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US citizens lost more than $68M to SIM swap attacks in 2021, FBI warns<a href="https://securityaffairs.co/wordpress/127840/cyber-crime/fbi-warns-sim-swap-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warns of an escalation in SIM swap attacks that caused millions of losses.
+
+
+
+The Federal Bureau of Investigation (FBI) observed an escalation in SIM swap attacks aimed at stealing millions from the victims by hijacking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FritzFrog botnet grows 10x, hits healthcare, edu, and govt systems<a href="https://www.bleepingcomputer.com/news/security/fritzfrog-botnet-grows-10x-hits-healthcare-edu-and-govt-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FritzFrog botnet that's been active for more than two years has resurfaced with an alarming infection rate, growing ten times in just a month of hitting healthcare, education, and government systems with an exposed SSH server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Federal Agencies Warn of Severe Increase in Ransomware Attacks Against Critical Infrastructure<a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-040a?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2021, cybersecurity authorities in the U.S., Australia, and the U.K observed an increase in sophisticated, high-impact ransomware incidents against critical infrastructure organizations globally.
+</details>
+<div style="text-align: right" markdown="1">
+US CERT
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spain dismantles SIM swapping group who emptied bank accounts<a href="https://www.bleepingcomputer.com/news/security/spain-dismantles-sim-swapping-group-who-emptied-bank-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spanish National Police has arrested eight suspects allegedly part of a crime ring who drained bank accounts in a series of SIM swapping attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten Adds New Malware To Its Arsenal<a href="https://cyware.com/news/charming-kitten-adds-new-malware-to-its-arsenal-21983d40"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Charming Kitten, aka Phosphorous, has reportedly added a novel PowerShell-based implant called PowerLess Backdoor with fortifies the group's ability to bypass security products. The attacker's toolset comes with extremely modular, multi-staged malware that decrypts and deploys additional payloads.  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux malware attacks are on the rise, and businesses aren't ready for it<a href="https://www.zdnet.com/article/linux-malware-attacks-are-on-the-rise-and-businesses-arent-ready-for-it/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysis from VMware experts warns that malware targeting Linux-based systems is increasing in volume and complexity, while there's also a lack of focus on managing and detecting threats against them.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex-Gumshoe Nabs Cybercrooks with FBI Tactics<a href="https://threatpost.com/gumshoe-nabs-cybercrooks-fbi-tactics/178298/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crane Hassold, former FBI analyst turned director of threat intel at Abnormal Security, shares stories from his covert work tracking cyberattackers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Cracks Down on 4 Dark Web Marketplaces for Stolen Credit Cards<a href="https://thehackernews.com/2022/02/russia-cracks-down-on-4-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A special law enforcement operation undertaken by Russia has led to the seizure and shutdown of four online bazaars that specialized in the theft and sales of stolen credit cards, as the government continues to take active measures against harboring cybercriminals on its territory.  To that end, the domains operated by the card fraud forms and marketplaces, Ferum Shop, Sky-Fraud, Trump's Dumps, and UAS, were confiscated and plastered with a banner that warned "theft of funds from bank cards is illegal." Also embedded into the HTML source code was a message asking, "Which one of you is next?"  The seizures were orchestrated by the Department "K," a division of the Ministry of Internal Affairs of the Russian Federation that focuses primarily on information technology-related crimes, according to  Flashpoint . In a related development, state-owned news agency TASS  said  that six Russian individuals were being charged with "the illegal circulation o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaws in 'PHP Everywhere' Plugin Affect Thousands of WordPress Sites<a href="https://thehackernews.com/2022/02/critical-rce-flaws-in-php-everywhere.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical security vulnerabilities have been disclosed in a WordPress plugin known as PHP Everywhere that's used by more than 30,000 websites worldwide and could be abused by an attacker to execute arbitrary code on affected systems.  PHP Everywhere is  used  to flip the switch on PHP code across WordPress installations, enabling users to insert and execute PHP-based code in the content management system's Pages, Posts, and Sidebar.   The three issues, all rated 9.9 out of a maximum of 10 on the CVSS rating system, impact versions 2.0.3 and below, and are as follows -   CVE-2022-24663  - Remote Code Execution by Subscriber+ users via shortcode  CVE-2022-24664  - Remote Code Execution by Contributor+ users via metabox, and  CVE-2022-24665  - Remote Code Execution by Contributor+ users via gutenberg block   Successful exploitation of the three vulnerabilities could result in the execution of malicious PHP code that could be leveraged to achieve a complete site takeover.  WordPres
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 09, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
