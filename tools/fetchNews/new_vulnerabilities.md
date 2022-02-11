@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Defender flaw letting hackers bypass antivirus scans<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-defender-flaw-letting-hackers-bypass-antivirus-scans/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has recently addressed a&nbsp;weakness in the&nbsp;Microsoft Defender Antivirus on Windows that allowed attackers to plant and execute malicious payloads without triggering Defender's malware detection engine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases iOS, iPadOS, macOS Updates to Patch Actively Exploited Zero-Day Flaw<a href="https://thehackernews.com/2022/02/apple-releases-ios-ipados-macos-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Thursday released security updates for&nbsp; iOS, iPadOS ,&nbsp; macOS , and&nbsp; Safari &nbsp;to address a new WebKit flaw that it said may have been actively exploited in the wild, making it the company's third zero-day patch since the start of the year.   Tracked as CVE-2022-22620, the issue concerns a use-after-free vulnerability in the WebKit component that powers the Safari web browser and could be exploited by a piece of specially crafted web content to gain arbitrary code execution.&nbsp;  "Apple is aware of a report that this issue may have been actively exploited," the company said in a terse statement acknowledging in-the-wild attacks leveraging the flaw.  The iPhone maker credited an anonymous researcher for discovering and reporting the flaw, adding it remediated the issue with improved memory management.  The updates are available for iPhone 6s and later, iPad Pro (all models), iPad Air 2 and later, iPad 5th generation and later, iPad mini 4 and later, and iPod touch (7th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft starts killing off WMIC in Windows, will thwart attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-killing-off-wmic-in-windows-will-thwart-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is moving forward with removing the Windows Management Instrumentation Command-line (WMIC) tool, wmic.exe, starting with the latest Windows 11 preview builds in the Dev channel.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple patches new zero-day exploited to hack iPhones, iPads, Macs<a href="https://www.bleepingcomputer.com/news/security/apple-patches-new-zero-day-exploited-to-hack-iphones-ipads-macs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to fix a new zero-day vulnerability&nbsp;exploited in the wild by attackers to hack iPhones, iPads, and Macs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE flaws in PHP Everywhere WordPress plugin affect thousands of sites<a href="https://securityaffairs.co/wordpress/127848/hacking/rce-php-everywhere-wordpress-plugin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress plugin PHP Everywhere is affected by three critical issues that can be exploited to execute arbitrary code on affected systems.
+
+
+
+Wordfence&nbsp;experts found three critical remote code execution vulnerabilities in the PHP Everywhere WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaws in 'PHP Everywhere' Plugin Affect Thousands of WordPress Sites<a href="https://thehackernews.com/2022/02/critical-rce-flaws-in-php-everywhere.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical security vulnerabilities have been disclosed in a WordPress plugin known as PHP Everywhere that's used by more than 30,000 websites worldwide and could be abused by an attacker to execute arbitrary code on affected systems.  PHP Everywhere is&nbsp; used &nbsp;to flip the switch on PHP code across WordPress installations, enabling users to insert and execute PHP-based code in the content management system's Pages, Posts, and Sidebar.   The three issues, all rated 9.9 out of a maximum of 10 on the CVSS rating system, impact versions 2.0.3 and below, and are as follows -   CVE-2022-24663 &nbsp;- Remote Code Execution by Subscriber+ users via shortcode  CVE-2022-24664 &nbsp;- Remote Code Execution by Contributor+ users via metabox, and  CVE-2022-24665 &nbsp;- Remote Code Execution by Contributor+ users via gutenberg block   Successful exploitation of the three vulnerabilities could result in the execution of malicious PHP code that could be leveraged to achieve a complete site takeover.  WordPres
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

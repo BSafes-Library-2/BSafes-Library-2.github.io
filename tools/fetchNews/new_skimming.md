@@ -8,6 +8,24 @@ nav_order: 900190
 
 ## Skimming
 ---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors compromised +500 Magento-based e-stores with e-skimmers<a href="https://securityaffairs.co/wordpress/127874/cyber-crime/magento-based-e-stores-mass-compromise.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts uncovered a mass Magecart campaign that compromised over 500 e-store running the Magento 1 eCommerce platform.
+
+
+
+Researchers from cybersecurity firm Sansec&nbsp;uncovered a massive Magecart campaign that already compromised more than 500 online...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

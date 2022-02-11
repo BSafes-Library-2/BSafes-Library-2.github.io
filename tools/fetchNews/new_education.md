@@ -8,6 +8,24 @@ nav_order: 900053
 
 ## Education
 ---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Does An IPv6 Proxy Work &amp; How Enterprises Can Get Benefit?<a href="https://securityaffairs.co/wordpress/127867/security/ipv6-proxy-benefit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IPv6 became imperative after developers discovered that IPv4 had a finite number and addresses. How does an IPv6 Proxy work?
+
+
+
+Technological advancements have come a long way – from when internet utility was very limited to when internet connection...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

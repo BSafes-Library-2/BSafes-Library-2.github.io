@@ -8,6 +8,99 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP Everywhere RCE flaws threaten thousands of WordPress sites<a href="https://www.bleepingcomputer.com/news/security/php-everywhere-rce-flaws-threaten-thousands-of-wordpress-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found three critical remote code execution (RCE) vulnerabilities in the PHP Everywhere plugin for WordPress, used by over 30,000 websites worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zerodium Offers Huge Money for Zero-day Exploits<a href="https://cyware.com/news/zerodium-offers-huge-money-for-zero-day-exploits-2cfeab3e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Premium exploits acquisition platform Zerodium rolled out an offer of $400,000 in bounty rewards to anyone who reports an RCE zero-day vulnerability in Outlook. It is reportedly a temporary offer. It is offering up to $200,000 for exploits leading to remote code execution in Mozilla Thunderbird.&amp;nb ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens, Schneider Electric Address Nearly 50 ICS Vulnerabilities<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-schneider-electric-address-nearly-50-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial equipment giants Siemens and Schneider Electric released a total of 15 advisories on Tuesday to address nearly 50 vulnerabilities discovered in their products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft February 2022 Patch Tuesday security updates fix a zero-day<a href="https://securityaffairs.co/wordpress/127821/security/microsoft-february-2022-patch-tuesday.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft February 2022 Patch Tuesday security updates addressed 51 flaws in multiple products, including a zero-day bug.
+
+
+
+Microsoft February 2022 Patch Tuesday security updates addressed 51 flaws in multiple products including Microsoft Windows and Windows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google February 2022 Android security updates fix remote escalation bug<a href="https://securityaffairs.co/wordpress/127814/hacking/google-february-2022-android-security-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google February 2022 Android security updates address two critical flaws, including a remote escalation of privilege.
+
+
+
+Google has released the February 2022 Android security updates that address two critical vulnerabilities, one of them is a remote...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft and Other Major Software Firms Release February 2022 Patch Updates<a href="https://thehackernews.com/2022/02/microsoft-and-other-major-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday rolled out its monthly security updates with&nbsp; fixes for 51 vulnerabilities &nbsp;across its software line-up consisting of Windows, Office, Teams, Azure Data Explorer, Visual Studio Code, and other components such as Kernel and Win32k.  Among the 51 defects closed, 50 are rated Important and one is rated Moderate in severity, making it one of the rare Patch Tuesday updates without any fixes for Critical-rated vulnerabilities. This is also in addition to&nbsp; 19 more flaws &nbsp;the company addressed in its Chromium-based Edge browser.  None of the security vulnerabilities are listed as under active exploit, while of the flaws —&nbsp; CVE-2022-21989 &nbsp;(CVSS score: 7.8) — has been classified as a publicly disclosed zero-day at the time of the release. The issue concerns a privilege escalation bug in Windows Kernel, with Microsoft warning of potential attacks exploiting the shortcoming.   "Successful exploitation of this vulnerability requires an attacker to take additional actions
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

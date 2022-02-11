@@ -8,6 +8,46 @@ nav_order: 900015
 
 ## Attack
 ---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Increasingly Adopting Regsvr32 Utility Execution Via Office Documents<a href="https://securityaffairs.co/wordpress/127871/hacking/attackers-adopting-regsvr32-office-documents.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Uptycs threat research team has been observing an increase in utilization of regsvr32.exe heavily via various types of Microsoft Office documents. 
+
+
+
+The full report that includes Indicators of Compromise (IOCs) is available here:
+
+
+
+https://www.uptycs.com/blog/attackers-increasingly-adopting-regsvr32-utility-execution-via-office-documents
+
+
+
+During...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sharp SIM-Swapping Spike Causes $68M in Losses<a href="https://threatpost.com/sharp-sim-swapping-spike-losses/178358/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks, which lead to 2FA defeat and account takeover, have accelerated by several hundred percent in one year, leading to thousands of drained bank accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

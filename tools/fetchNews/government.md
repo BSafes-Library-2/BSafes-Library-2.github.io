@@ -8,6 +8,66 @@ nav_order: 900075
 
 ## Government
 ---
+February 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns to address SAP ICMAD flaw immediately<a href="https://securityaffairs.co/wordpress/127832/hacking/cisa-sap-icmad-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US CISA warns&nbsp;to address a severe security vulnerability dubbed ICMAD impacting SAP business apps using ICM..
+
+
+
+Internet Communication Manager Advanced Desync (ICMAD) is a memory pipes (MPI) desynchronization vulnerability tracked as CVE-2022-22536....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 09, 2022 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns admins to patch maximum severity SAP vulnerability<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-maximum-severity-sap-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has warned admins to patch a set&nbsp;of severe security flaws dubbed&nbsp;ICMAD (Internet Communication Manager Advanced Desync) and impacting&nbsp;SAP business apps using&nbsp;Internet Communication Manager (ICM).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Received 1,600 SIM Swapping Complaints in 2021<a href="https://www.securityweek.com/fbi-received-1600-sim-swapping-complaints-2021?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) this week announced that between 2018 and 2021 its Internet Crime Complaint Center (IC3) received more than 1,900 complaints related to SIM swapping.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of criminals escalating SIM swap attacks to steal millions<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-criminals-escalating-sim-swap-attacks-to-steal-millions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) says criminals have escalated SIM swap attacks to steal millions by hijacking victims' phone numbers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

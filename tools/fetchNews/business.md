@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+February 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Remediation Platform Vicarius Raises $24 Million<a href="https://www.securityweek.com/vulnerability-remediation-platform-vicarius-raises-24-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The New York-based company’s cloud-first, integrated platform – called Topia – helps organizations identify, prioritize and address software vulnerabilities before hackers can exploit them.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

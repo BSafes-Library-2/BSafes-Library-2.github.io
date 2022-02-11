@@ -8,6 +8,52 @@ nav_order: 900072
 
 ## General
 ---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spyware, ransomware and Nation-state hacking: Q&amp;A from a recent interview<a href="https://securityaffairs.co/wordpress/127859/cyber-crime/spyware-ransomware-nation-state-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I transcribed a recent interview, here some questions and answers about nation-state hacking, spyware, and cyber warfare. Enjoy"
+
+
+
+How has spyware changed the rules of cyber security in recent years? What will cyber security look like now that those...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC says Americans lost $547 million to romance scams in 2021<a href="https://www.bleepingcomputer.com/news/security/ftc-says-americans-lost-547-million-to-romance-scams-in-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Trade Commission (FTC) said that Americans reported record high losses of $547 million to romance scams in 2021, up almost 80% compared to 2020 and over six times compared to losses reported in 2017.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux malware attacks are on the rise, and businesses aren't ready for it<a href="https://www.zdnet.com/article/linux-malware-attacks-are-on-the-rise-and-businesses-arent-ready-for-it/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysis from VMware experts warns that malware targeting Linux-based systems is increasing in volume and complexity, while there's also a lack of focus on managing and detecting threats against them.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

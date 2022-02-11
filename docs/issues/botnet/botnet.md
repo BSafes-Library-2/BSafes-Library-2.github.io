@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FritzFrog P2P Botnet Attacking Healthcare, Education and Government Sectors<a href="https://thehackernews.com/2022/02/fritzfrog-p2p-botnet-attacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A peer-to-peer Golang botnet has resurfaced after more than a year to compromise servers belonging to entities in the healthcare, education, and government sectors within a span of a month, infecting a total of 1,500 hosts.  Dubbed FritzFrog , "the decentralized botnet targets any device that exposes an SSH server — cloud instances, data center servers, routers, etc. — and is capable of running any malicious payload on infected nodes," Akamai researchers said in a report  shared with The Hacker News.  The new wave of attacks commenced in early December 2021, only to pick up pace and register a 10x growth in its infection rate in a month's time, while peaking at 500 incidents per day in January 2022. The cybersecurity firm said it detected infected machines in a European television channel network, a Russian manufacturer of healthcare equipment, and multiple universities in East Asia.   FritzFrog was&nbsp; first documented &nbsp;by Guardicore in August 2020, elaborating the botnet&amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FritzFrog botnet grows 10x, hits healthcare, edu, and govt systems<a href="https://www.bleepingcomputer.com/news/security/fritzfrog-botnet-grows-10x-hits-healthcare-edu-and-govt-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FritzFrog botnet that's been active for more than two years has resurfaced with an alarming infection rate, growing ten times in just a month of hitting healthcare, education, and government systems with an exposed SSH server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

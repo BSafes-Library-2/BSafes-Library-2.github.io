@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Legit Security Launches Out of Stealth with Series A Investment to Secure Software Supply Chains<a href="https://finance.yahoo.com/news/legit-security-launches-stealth-series-120000104.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Legit Security announced its launch out of stealth mode with a Series A $30 million funding announcement with leading venture capital firms Bessemer Venture Partners and TCV.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NightDragon Leads  New Growth Round in ThriveDX alongside Prytek<a href="https://finance.yahoo.com/news/nightdragon-leads-100m-growth-round-120000457.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A dedicated cybersecurity and privacy investment firm, NightDragon joins early strategic partner Prytek (who invested $110 million to date) as the co-lead investor in ThriveDX's current funding round.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

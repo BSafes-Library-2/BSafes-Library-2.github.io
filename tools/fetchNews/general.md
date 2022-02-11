@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brute-forcing passwords, ProxyLogon exploits were some of 2021's most popular attack methods<a href="https://www.zdnet.com/article/brute-forcing-passwords-proxylogon-exploits-were-2021s-most-popular-attack-vectors/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brute-force and automated password guessing, such as through dictionary-based attacks, were the most frequent attack vectors detected according to telemetry collected by ESET.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

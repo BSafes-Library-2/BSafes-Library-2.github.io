@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spain dismantles SIM swapping group who emptied bank accounts<a href="https://www.bleepingcomputer.com/news/security/spain-dismantles-sim-swapping-group-who-emptied-bank-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spanish National Police has arrested eight suspects&nbsp;allegedly part of a crime ring who drained bank accounts in a series of SIM swapping attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex-Gumshoe Nabs Cybercrooks with FBI Tactics<a href="https://threatpost.com/gumshoe-nabs-cybercrooks-fbi-tactics/178298/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crane Hassold, former FBI analyst turned director of threat intel at Abnormal Security, shares stories from his covert work tracking cyberattackers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Cracks Down on 4 Dark Web Marketplaces for Stolen Credit Cards<a href="https://thehackernews.com/2022/02/russia-cracks-down-on-4-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A special law enforcement operation undertaken by Russia has led to the seizure and shutdown of four online bazaars that specialized in the theft and sales of stolen credit cards, as the government continues to take active measures against harboring cybercriminals on its territory.  To that end, the domains operated by the card fraud forms and marketplaces, Ferum Shop, Sky-Fraud, Trump's Dumps, and UAS, were confiscated and plastered with a banner that warned "theft of funds from bank cards is illegal." Also embedded into the HTML source code was a message asking, "Which one of you is next?"  The seizures were orchestrated by the Department "K," a division of the Ministry of Internal Affairs of the Russian Federation that focuses primarily on information technology-related crimes, according to&nbsp; Flashpoint . In a related development, state-owned news agency TASS&nbsp; said &nbsp;that six Russian individuals were being charged with "the illegal circulation o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT Hackers Used COVID-19 Lures to Target European Diplomats<a href="https://thehackernews.com/2022/02/russian-apt-hackers-used-covid-19-lures.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked threat actor known as APT29 targeted European diplomatic missions and Ministries of Foreign Affairs as part of a series of spear-phishing campaigns mounted in October and November 2021.  According to ESET's&nbsp; T3 2021 Threat Report &nbsp;shared with The Hacker News, the intrusions paved the way for the deployment of Cobalt Strike Beacon on compromised systems, followed by leveraging the foothold to drop additional malware for gathering information about the hosts and other machines in the same network.  Also tracked under the names The Dukes, Cozy Bear, and Nobelium, the advanced persistent threat group is an infamous cyber-espionage group that has been active for more than a decade, with its attacks targeting Europe and the U.S., before it gained widespread attention for the&nbsp; supply‐chain compromise &nbsp;of SolarWinds, leading to further infections in several downstream entities, including U.S. government agencies in 2020.   The spear-phishing attacks commenced with a COVI
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

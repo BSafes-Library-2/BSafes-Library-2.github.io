@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta and Chime sue Nigerians behind Facebook, Instagram phishing<a href="https://www.bleepingcomputer.com/news/security/meta-and-chime-sue-nigerians-behind-facebook-instagram-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta (formerly known as Facebook) has filed a joint lawsuit with&nbsp;Chime, a financial technology and digital banking&nbsp;company, against two Nigerian individuals who allegedly used Instagram and Facebook accounts to impersonate Chime&nbsp;and target its users in phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese telecom Hytera charged for allegedly recruiting Motorola employees to steal trade secrets<a href="https://www.zdnet.com/article/chinese-telecom-hytera-indicted-for-alleged-insider-scheme-for-theft-of-motorola-trade-secrets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DoJ said that Hytera Communications Corp "recruited and hired Motorola Solutions employees and directed them to take proprietary and trade secret information from Motorola without authorization."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

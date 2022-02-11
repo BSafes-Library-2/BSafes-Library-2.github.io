@@ -8,6 +8,21 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Be Careful! Phishing Kits Bypassing MFA are Growing in Popularity<a href="https://cyware.com/news/be-careful-phishing-kits-bypassing-mfa-are-growing-in-popularity-e27a9631"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In one recent discovery, a team of academics highlighted that there are more than 1200 phishing toolkits deployed in the wild that are capable of intercepting 2FA security codes. Proofpoint researchers also flagged three phishing kits in particular—Modlishka, Muraena/Necrobrowser, and Evilginx2—tha ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

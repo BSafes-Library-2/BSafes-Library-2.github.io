@@ -8,6 +8,35 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking group 'ModifiedElephant' evaded discovery for a decade<a href="https://www.bleepingcomputer.com/news/security/hacking-group-modifiedelephant-evaded-discovery-for-a-decade/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have linked a decade of activity to an APT (advanced persistent threat) actor called 'ModifiedElephant', who has managed to remain elusive to all threat intelligence firms since 2012.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten Adds New Malware To Its Arsenal<a href="https://cyware.com/news/charming-kitten-adds-new-malware-to-its-arsenal-21983d40"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Charming Kitten, aka Phosphorous, has reportedly added a novel PowerShell-based implant called PowerLess Backdoor with fortifies the group's ability to bypass security products. The attacker's toolset comes with extremely modular, multi-staged malware that decrypts and deploys additional payloads.  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
