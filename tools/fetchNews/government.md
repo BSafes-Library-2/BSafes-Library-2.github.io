@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, NSA Issue Advisory on Severe Increase in Ransomware Attacks<a href="https://thehackernews.com/2022/02/cisa-fbi-nsa-issue-advisory-on-severe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity authorities from Australia, the U.K., and the U.S. have published a joint advisory warning of an increase in sophisticated, high-impact ransomware attacks targeting critical infrastructure organizations across the world in 2021.  The incidents singled out a broad range of sectors, including defense, emergency services, agriculture, government facilities, IT, healthcare, financial services, education, energy, charities, legal institutions, and public services.  "Ransomware tactics and techniques continued to evolve in 2021, which demonstrates ransomware threat actors' growing technological sophistication and an increased ransomware threat to organizations globally," the agencies&nbsp; said &nbsp;in the&nbsp; joint bulletin .   Spear-phishing, stolen or brute-forced Remote Desktop Protocol (RDP) credentials, and exploitation of software flaws emerged as the top three initial infection vectors that were used to deploy ransomware on compromised networks, even as the criminal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US citizens lost more than $68M to SIM swap attacks in 2021, FBI warns<a href="https://securityaffairs.co/wordpress/127840/cyber-crime/fbi-warns-sim-swap-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warns of an escalation in SIM swap attacks that caused millions of losses.
+
+
+
+The Federal Bureau of Investigation (FBI) observed an escalation in SIM swap attacks aimed at stealing millions from the victims by hijacking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Federal Agencies Warn of Severe Increase in Ransomware Attacks Against Critical Infrastructure<a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-040a?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2021, cybersecurity authorities in the U.S., Australia, and the U.K observed an increase in sophisticated, high-impact ransomware incidents against critical infrastructure organizations globally.
+</details>
+<div style="text-align: right" markdown="1">
+US CERT
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

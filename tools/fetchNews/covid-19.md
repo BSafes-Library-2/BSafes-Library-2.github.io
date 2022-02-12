@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID Does Not Spread to Computers<a href="https://thehackernews.com/2022/02/covid-does-not-spread-to-computers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"…well, of course!" is what you might think. It's a biological threat, so how could it affect digital assets?  But hang on. Among other effects, this pandemic has brought about a massive shift in several technological areas. Not only did it force numerous organizations - that up to now were reluctant - to gear up in cyber to go digital, all at once, oftentimes with hastily pieced together strategies.  It also made remote working (and the involved tools) grow in double-digits, causing the good old perimeter (which was already in a questionable state due to cloud adaption) to be basically shattered. The office is now anywhere. And that means access to data needs to be everywhere too.&nbsp;  Keeping all of this in mind, the general assumption was that in the wake of the pandemic we would face a virtual nightmare with vulnerable users, compromised corporate networks en masse and the end of the (digital) world. But let's look at some interesting numbers of what&nbsp; actually &nbsp;happ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

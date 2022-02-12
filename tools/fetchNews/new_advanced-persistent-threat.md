@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molerats APT Strikes Again with New NimbleMamba Malware<a href="https://cyware.com/news/molerats-apt-strikes-again-with-new-nimblemamba-malware-e8795611"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Proofpoint spotted a new phishing campaign that targeted multiple Middle Eastern governments, foreign-policy think tanks, and a state-affiliated airline, with the new NimbleMamba trojan.  NimbleMamba is believed to share some similarities with Molerats’ previous executable LastConn ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

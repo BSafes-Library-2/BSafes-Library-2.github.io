@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+February 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Planted Fake Digital Evidence on Devices of Indian Activists and Lawyers<a href="https://thehackernews.com/2022/02/hackers-planted-fake-digital-evidence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown hacking group has been linked to targeted attacks against human rights activists, human rights defenders, academics, and lawyers across India in an attempt to plant "incriminating digital evidence."  Cybersecurity firm SentinelOne attributed the intrusions to a group it tracks as " ModifiedElephant ," an elusive threat actor that's been operational since at least 2012, whose activity aligns sharply with Indian state interests.  "ModifiedElephant operates through the use of commercially available remote access trojans (RATs) and has potential ties to the commercial surveillance industry," the researchers&nbsp; said . "The threat actor uses spear-phishing with malicious documents to deliver malware, such as&nbsp; NetWire ,&nbsp; DarkComet , and simple keyloggers."   The primary goal of ModifiedElephant is to facilitate long-term surveillance of targeted individuals, ultimately leading to the delivery of "evidence" on the victim
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Series of Magecart Attacks Against Outdated Magento Sites<a href="https://cyware.com/news/series-of-magecart-attacks-against-outdated-magento-sites-c160e9dd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Another massive wave of Magecart attacks was detected by Sansec last week. This attack, once again, highlights the vulnerability of e-commerce sites running outdated software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Pirate Bay Clones Target Millions of Users Every Month<a href="https://cyware.com/news/the-pirate-bay-clones-target-millions-of-users-every-month-716d5402"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews discovered five malicious domains parading around as The Pirate Bay. These domains served malicious ads to more than seven million users every month by using free content to lure targets.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

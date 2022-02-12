@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+February 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Croatian phone carrier data breach impacts 200,000 clients<a href="https://www.bleepingcomputer.com/news/security/croatian-phone-carrier-data-breach-impacts-200-000-clients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Croatian phone carrier 'A1 Hrvatska' has disclosed a data breach exposing the personal information of 10% of its customers, roughly 200,000 people.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society Ransomware Gang Leaks Stolen Customer Files from Optionis Group<a href="https://www.theregister.com/2022/02/11/optionis_stolen_data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What appears to be stolen data belonging to customers of accounting conglomerate Optionis Group has surfaced on the dark web weeks after the firm confirmed intruders had broken into its systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

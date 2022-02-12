@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France Rules That Using Google Analytics Violates GDPR Data Protection Law<a href="https://thehackernews.com/2022/02/france-rules-that-using-google.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French data protection regulators on Thursday found the use of Google Analytics a breach of the European Union's General Data Protection Regulation (GDPR) laws in the country, almost a month after a&nbsp; similar decision &nbsp;was reached in Austria.  To that end, the National Commission on Informatics and Liberty (CNIL) ruled that the transatlantic movement of Google Analytics data to the U.S. is not "sufficiently regulated" citing a violation of&nbsp; Articles 44 et seq. &nbsp;of the data protection decree, which govern the transfers of personal data to third countries or international entities.   Specifically the independent administrative regulatory body highlighted the lack of equivalent privacy protections and the risk that "American intelligence services would access personal data transferred to the United States if the transfers were not properly regulated."  "[A]lthough Google has adopted additional measures to regulate data transfers in the context of the Google An
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decryptor Keys Published for Maze, Egregor, Sekhmet Ransomwares<a href="https://threatpost.com/decryptor-keys-maze-egregor-sekhmet-ransomwares/178363/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Maze gang are purportedly never going back to ransomware and have destroyed all of their ransomware source code, said somebody claiming to be the developer.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

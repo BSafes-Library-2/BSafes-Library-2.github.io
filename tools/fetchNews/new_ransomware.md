@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - February 11th 2022 - Maze, Egregor decryptors<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-february-11th-2022-maze-egregor-decryptors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We saw the Maze ransomware developers reemerge briefly this week as they shared the master decryption keys for the Egregor, Maze, and Sekhmet ransomware operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

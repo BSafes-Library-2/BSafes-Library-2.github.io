@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook exposes 'god mode' token miscreants could use<a href="https://www.theregister.com/2022/02/12/facebook_god_mode/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a security researcher, a malicious developer could harvest Facebook data using the same access method, because Facebook is exposing a plain-text token described as "god mode."
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes actively exploited iOS, macOS zero-day (CVE-2022-22620)<a href="https://www.helpnetsecurity.com/2022/02/11/cve-2022-22620/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2022-22620 is a use after free issue in WebKit, the browser engine used in Safari and all iOS web browsers. Apple fixed it in iOS 15.3.1 and iPadOS 15.3.1, macOS Monterey 12.2.1, and Safari 15.3.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple addressed a third zero-day in 2022, which is actively exploited<a href="https://securityaffairs.co/wordpress/127894/security/apple-addressed-third-zero-day-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple addressed a new WebKit zero-day affecting iOS, iPadOS,&nbsp;macOS, and&nbsp;Safari that may have been actively exploited in the wild.
+
+
+
+Apple has addressed a zero-day vulnerability, tracked as CVE-2022-22620, in the WebKit affecting iOS, iPadOS,&nbsp;macOS,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Severe ‘ICMAD’ Bugs<a href="https://threatpost.com/sap-patches-severe-icmad-bugs/178344/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP’s Patch Tuesday brought fixes for a trio of flaws in the ubiquitous ICM component in internet-exposed apps. One of them, with a risk score of 10, could allow attackers to hijack identities, steal data and more. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

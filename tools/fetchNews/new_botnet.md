@@ -8,6 +8,28 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FritzFrog P2P Botnet is back and targets Healthcare, Education and Government Sectors<a href="https://securityaffairs.co/wordpress/127909/malware/fritzfrog-p2p-botnet-resurfaced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FritzFrog P2P botnet is back and is targeting servers belonging to entities in the healthcare, education, and government sectors.
+
+
+
+FritzFrog is a sophisticated botnet that&nbsp;was involved in attacks against SSH servers worldwide since January 2020.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

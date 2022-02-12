@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+February 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Project Zero: Vendors are now quicker at fixing zero-days<a href="https://www.bleepingcomputer.com/news/security/google-project-zero-vendors-are-now-quicker-at-fixing-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Project Zero has published a report showing that organizations took less time to address the zero-day vulnerabilities that the team reported last year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50% of malicious office documents were downloaded via Google Drive in 2021<a href="https://atlasvpn.com/blog/50-of-malicious-office-documents-were-downloaded-via-google-drive-in-2021?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a recently released Netskope report, Google Drive overtook the top spot from Microsoft OneDrive, which led malicious office document download apps in 2020 with 34%.
+</details>
+<div style="text-align: right" markdown="1">
+atlasvpn
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

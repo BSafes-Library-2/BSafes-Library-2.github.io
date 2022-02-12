@@ -30,6 +30,9 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://securityaffairs.co/wordpress/127902/security/known-exploited-vulnerabilities-catalog-flaws.html
+. https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-update-iphones-until-feb-25th/
+. https://www.bleepingcomputer.com/news/security/cisa-urges-orgs-to-patch-actively-exploited-windows-serioussam-bug/
 
 Law
 
@@ -41,8 +44,7 @@ APT
 . Russian Turla APT group
 . Winnti APT
 . https://www.bleepingcomputer.com/news/security/cisa-releases-cybersecurity-response-plans-for-federal-agencies/
-Researchers
-. Armis
+
 . Bank Security
 . CyberMDX
 . Citizen Lab

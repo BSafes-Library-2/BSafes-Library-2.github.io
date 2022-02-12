@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish police dismantled SIM swapping gang who stole money from victims’ bank accounts<a href="https://securityaffairs.co/wordpress/127880/cyber-crime/sim-swapping-gang-dismantled.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spanish National Police arrested eight alleged members of a crime ring specialized in SIM swapping attacks.
+
+
+
+Spanish National Police has arrested eight alleged members of a crime organization who were able to steal money from the bank accounts of the victims...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

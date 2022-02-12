@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+February 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 15 new vulnerabilities to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/127902/security/known-exploited-vulnerabilities-catalog-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA has added to the catalog of vulnerabilities another 15 security vulnerabilities actively exploited in the wild.
+
+
+
+The US Cybersecurity &amp; Infrastructure Security Agency (CISA) has added fifteen more flaws to the&nbsp;Known Exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal agencies to update iPhones until Feb 25th<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-update-iphones-until-feb-25th/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has added a new flaw to its catalog of vulnerabilities exploited in the wild, an Apple WebKit remote code execution bug used to target iPhones, iPads, and Macs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA urges orgs to patch actively exploited Windows SeriousSAM bug<a href="https://www.bleepingcomputer.com/news/security/cisa-urges-orgs-to-patch-actively-exploited-windows-serioussam-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity &amp; Infrastructure Security Agency (CISA) has added to the catalog of vulnerabilities another 15 security issues actively used in cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

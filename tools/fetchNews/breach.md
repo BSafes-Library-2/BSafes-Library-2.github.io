@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charity Site for Ottawa Truckers’ ‘Freedom Convoy’ Protest Exposes Donors’ Passports and Driver Licenses<a href="https://techcrunch.com/2022/02/08/ottawa-trucker-freedom-convoy-exposed-donation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The donation site used by truckers in Ottawa who are currently protesting against national vaccine mandates has fixed a security lapse that exposed the passports and driver licenses of donors.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Georgia Voter Information Leaked Online After EasyVote Solutions Security Breach<a href="https://www.govtech.com/security/georgia-voter-info-posted-online-after-software-company-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Public information about voters was posted to an online forum, but the breach didn’t involve Social Security numbers or driver’s license numbers, said Charles Davis, CFO for EasyVote.
+</details>
+<div style="text-align: right" markdown="1">
+Government Technology
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Information for over 6,000 Memorial Hermann patients accessed in security breach<a href="https://www.khou.com/article/news/local/memorial-hermann-cyberattack-security-breach/285-1cc8295d-48a4-452e-a6f2-1b4fd059f201?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of its contracted vendors, Advent Health Partners, announced a cybersecurity issue Tuesday. According to the health system, the protected health information of 6,260 patients has been breached.
+</details>
+<div style="text-align: right" markdown="1">
+KHOU
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
