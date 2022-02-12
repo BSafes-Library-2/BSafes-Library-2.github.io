@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2022
+February 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook exposes 'god mode' token miscreants could use<a href="https://www.theregister.com/2022/02/12/facebook_god_mode/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2022
+February 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes actively exploited iOS, macOS zero-day (CVE-2022-22620)<a href="https://www.helpnetsecurity.com/2022/02/11/cve-2022-22620/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2022
+February 11, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - February 11th 2022 - Maze, Egregor decryptors<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-february-11th-2022-maze-egregor-decryptors/"> Full Text</a>
@@ -82,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2022
+February 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Planted Fake Digital Evidence on Devices of Indian Activists and Lawyers<a href="https://thehackernews.com/2022/02/hackers-planted-fake-digital-evidence.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2022
+February 11, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FritzFrog P2P Botnet is back and targets Healthcare, Education and Government Sectors<a href="https://securityaffairs.co/wordpress/127909/malware/fritzfrog-p2p-botnet-resurfaced.html"> Full Text</a>
@@ -122,7 +122,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2022
+February 11, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Croatian phone carrier data breach impacts 200,000 clients<a href="https://www.bleepingcomputer.com/news/security/croatian-phone-carrier-data-breach-impacts-200-000-clients/"> Full Text</a>
@@ -138,7 +138,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2022
+February 11, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds 15 new vulnerabilities to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/127902/security/known-exploited-vulnerabilities-catalog-flaws.html"> Full Text</a>
@@ -158,7 +158,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2022
+February 11, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders federal agencies to update iPhones until Feb 25th<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-update-iphones-until-feb-25th/"> Full Text</a>
@@ -174,7 +174,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2022
+February 11, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Molerats APT Strikes Again with New NimbleMamba Malware<a href="https://cyware.com/news/molerats-apt-strikes-again-with-new-nimblemamba-malware-e8795611"> Full Text</a>
@@ -191,7 +191,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2022
+February 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple addressed a third zero-day in 2022, which is actively exploited<a href="https://securityaffairs.co/wordpress/127894/security/apple-addressed-third-zero-day-2022.html"> Full Text</a>
@@ -211,7 +211,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2022
+February 11, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Project Zero: Vendors are now quicker at fixing zero-days<a href="https://www.bleepingcomputer.com/news/security/google-project-zero-vendors-are-now-quicker-at-fixing-zero-days/"> Full Text</a>
@@ -227,7 +227,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2022
+February 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Series of Magecart Attacks Against Outdated Magento Sites<a href="https://cyware.com/news/series-of-magecart-attacks-against-outdated-magento-sites-c160e9dd"> Full Text</a>
@@ -243,7 +243,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2022
+February 11, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spanish police dismantled SIM swapping gang who stole money from victims’ bank accounts<a href="https://securityaffairs.co/wordpress/127880/cyber-crime/sim-swapping-gang-dismantled.html"> Full Text</a>
@@ -263,7 +263,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2022
+February 11, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA urges orgs to patch actively exploited Windows SeriousSAM bug<a href="https://www.bleepingcomputer.com/news/security/cisa-urges-orgs-to-patch-actively-exploited-windows-serioussam-bug/"> Full Text</a>
@@ -279,7 +279,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2022
+February 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Pirate Bay Clones Target Millions of Users Every Month<a href="https://cyware.com/news/the-pirate-bay-clones-target-millions-of-users-every-month-716d5402"> Full Text</a>
@@ -295,7 +295,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2022
+February 11, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 50% of malicious office documents were downloaded via Google Drive in 2021<a href="https://atlasvpn.com/blog/50-of-malicious-office-documents-were-downloaded-via-google-drive-in-2021?&web_view=true"> Full Text</a>
@@ -311,7 +311,7 @@ atlasvpn
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2022
+February 11, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vice Society Ransomware Gang Leaks Stolen Customer Files from Optionis Group<a href="https://www.theregister.com/2022/02/11/optionis_stolen_data/?&web_view=true"> Full Text</a>
@@ -327,7 +327,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2022
+February 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP Patches Severe ‘ICMAD’ Bugs<a href="https://threatpost.com/sap-patches-severe-icmad-bugs/178344/"> Full Text</a>
@@ -343,7 +343,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2022
+February 10, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 France Rules That Using Google Analytics Violates GDPR Data Protection Law<a href="https://thehackernews.com/2022/02/france-rules-that-using-google.html"> Full Text</a>
