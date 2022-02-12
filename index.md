@@ -34,6 +34,331 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook exposes 'god mode' token miscreants could use<a href="https://www.theregister.com/2022/02/12/facebook_god_mode/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a security researcher, a malicious developer could harvest Facebook data using the same access method, because Facebook is exposing a plain-text token described as "god mode."
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes actively exploited iOS, macOS zero-day (CVE-2022-22620)<a href="https://www.helpnetsecurity.com/2022/02/11/cve-2022-22620/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2022-22620 is a use after free issue in WebKit, the browser engine used in Safari and all iOS web browsers. Apple fixed it in iOS 15.3.1 and iPadOS 15.3.1, macOS Monterey 12.2.1, and Safari 15.3.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - February 11th 2022 - Maze, Egregor decryptors<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-february-11th-2022-maze-egregor-decryptors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We saw the Maze ransomware developers reemerge briefly this week as they shared the master decryption keys for the Egregor, Maze, and Sekhmet ransomware operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Planted Fake Digital Evidence on Devices of Indian Activists and Lawyers<a href="https://thehackernews.com/2022/02/hackers-planted-fake-digital-evidence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown hacking group has been linked to targeted attacks against human rights activists, human rights defenders, academics, and lawyers across India in an attempt to plant "incriminating digital evidence."  Cybersecurity firm SentinelOne attributed the intrusions to a group it tracks as " ModifiedElephant ," an elusive threat actor that's been operational since at least 2012, whose activity aligns sharply with Indian state interests.  "ModifiedElephant operates through the use of commercially available remote access trojans (RATs) and has potential ties to the commercial surveillance industry," the researchers  said . "The threat actor uses spear-phishing with malicious documents to deliver malware, such as  NetWire ,  DarkComet , and simple keyloggers."   The primary goal of ModifiedElephant is to facilitate long-term surveillance of targeted individuals, ultimately leading to the delivery of "evidence" on the victim
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FritzFrog P2P Botnet is back and targets Healthcare, Education and Government Sectors<a href="https://securityaffairs.co/wordpress/127909/malware/fritzfrog-p2p-botnet-resurfaced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FritzFrog P2P botnet is back and is targeting servers belonging to entities in the healthcare, education, and government sectors.
+
+
+
+FritzFrog is a sophisticated botnet that was involved in attacks against SSH servers worldwide since January 2020.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Croatian phone carrier data breach impacts 200,000 clients<a href="https://www.bleepingcomputer.com/news/security/croatian-phone-carrier-data-breach-impacts-200-000-clients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Croatian phone carrier 'A1 Hrvatska' has disclosed a data breach exposing the personal information of 10% of its customers, roughly 200,000 people.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 15 new vulnerabilities to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/127902/security/known-exploited-vulnerabilities-catalog-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA has added to the catalog of vulnerabilities another 15 security vulnerabilities actively exploited in the wild.
+
+
+
+The US Cybersecurity & Infrastructure Security Agency (CISA) has added fifteen more flaws to the Known Exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal agencies to update iPhones until Feb 25th<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-update-iphones-until-feb-25th/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has added a new flaw to its catalog of vulnerabilities exploited in the wild, an Apple WebKit remote code execution bug used to target iPhones, iPads, and Macs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Molerats APT Strikes Again with New NimbleMamba Malware<a href="https://cyware.com/news/molerats-apt-strikes-again-with-new-nimblemamba-malware-e8795611"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Proofpoint spotted a new phishing campaign that targeted multiple Middle Eastern governments, foreign-policy think tanks, and a state-affiliated airline, with the new NimbleMamba trojan.  NimbleMamba is believed to share some similarities with Molerats’ previous executable LastConn ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple addressed a third zero-day in 2022, which is actively exploited<a href="https://securityaffairs.co/wordpress/127894/security/apple-addressed-third-zero-day-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple addressed a new WebKit zero-day affecting iOS, iPadOS, macOS, and Safari that may have been actively exploited in the wild.
+
+
+
+Apple has addressed a zero-day vulnerability, tracked as CVE-2022-22620, in the WebKit affecting iOS, iPadOS, macOS,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Project Zero: Vendors are now quicker at fixing zero-days<a href="https://www.bleepingcomputer.com/news/security/google-project-zero-vendors-are-now-quicker-at-fixing-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Project Zero has published a report showing that organizations took less time to address the zero-day vulnerabilities that the team reported last year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Series of Magecart Attacks Against Outdated Magento Sites<a href="https://cyware.com/news/series-of-magecart-attacks-against-outdated-magento-sites-c160e9dd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Another massive wave of Magecart attacks was detected by Sansec last week. This attack, once again, highlights the vulnerability of e-commerce sites running outdated software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish police dismantled SIM swapping gang who stole money from victims’ bank accounts<a href="https://securityaffairs.co/wordpress/127880/cyber-crime/sim-swapping-gang-dismantled.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spanish National Police arrested eight alleged members of a crime ring specialized in SIM swapping attacks.
+
+
+
+Spanish National Police has arrested eight alleged members of a crime organization who were able to steal money from the bank accounts of the victims...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA urges orgs to patch actively exploited Windows SeriousSAM bug<a href="https://www.bleepingcomputer.com/news/security/cisa-urges-orgs-to-patch-actively-exploited-windows-serioussam-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity & Infrastructure Security Agency (CISA) has added to the catalog of vulnerabilities another 15 security issues actively used in cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Pirate Bay Clones Target Millions of Users Every Month<a href="https://cyware.com/news/the-pirate-bay-clones-target-millions-of-users-every-month-716d5402"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews discovered five malicious domains parading around as The Pirate Bay. These domains served malicious ads to more than seven million users every month by using free content to lure targets.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50% of malicious office documents were downloaded via Google Drive in 2021<a href="https://atlasvpn.com/blog/50-of-malicious-office-documents-were-downloaded-via-google-drive-in-2021?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a recently released Netskope report, Google Drive overtook the top spot from Microsoft OneDrive, which led malicious office document download apps in 2020 with 34%.
+</details>
+<div style="text-align: right" markdown="1">
+atlasvpn
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society Ransomware Gang Leaks Stolen Customer Files from Optionis Group<a href="https://www.theregister.com/2022/02/11/optionis_stolen_data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What appears to be stolen data belonging to customers of accounting conglomerate Optionis Group has surfaced on the dark web weeks after the firm confirmed intruders had broken into its systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Severe ‘ICMAD’ Bugs<a href="https://threatpost.com/sap-patches-severe-icmad-bugs/178344/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP’s Patch Tuesday brought fixes for a trio of flaws in the ubiquitous ICM component in internet-exposed apps. One of them, with a risk score of 10, could allow attackers to hijack identities, steal data and more. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France Rules That Using Google Analytics Violates GDPR Data Protection Law<a href="https://thehackernews.com/2022/02/france-rules-that-using-google.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French data protection regulators on Thursday found the use of Google Analytics a breach of the European Union's General Data Protection Regulation (GDPR) laws in the country, almost a month after a  similar decision  was reached in Austria.  To that end, the National Commission on Informatics and Liberty (CNIL) ruled that the transatlantic movement of Google Analytics data to the U.S. is not "sufficiently regulated" citing a violation of  Articles 44 et seq.  of the data protection decree, which govern the transfers of personal data to third countries or international entities.   Specifically the independent administrative regulatory body highlighted the lack of equivalent privacy protections and the risk that "American intelligence services would access personal data transferred to the United States if the transfers were not properly regulated."  "[A]lthough Google has adopted additional measures to regulate data transfers in the context of the Google An
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
