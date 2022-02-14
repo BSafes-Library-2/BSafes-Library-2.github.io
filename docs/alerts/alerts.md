@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SHIELDS UP - Every organization in the United States is at risk from cyber threats that can disrupt essential services and potentially result in impacts to public safety <a href="https://www.cisa.gov/shields-up"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Notably, the Russian government has used cyber as a key component of their force projection over the last decade, including previously in Ukraine in the 2015 timeframe. The Russian government understands that disabling or destroying critical infrastructure—including power and communications—can augment pressure on a country’s government, military and population and accelerate their acceding to Russian objectives.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds One Known Exploited Vulnerability to Catalog <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/02/11/cisa-adds-one-known-exploited-vulnerability-catalog"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence that threat actors are actively exploiting the vulnerability listed in the table below. These types of vulnerabilities are a frequent attack vector for malicious cyber actors of all types and pose significant risk to the federal enterprise.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 9, 2022 - FBI, CISA, NSA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

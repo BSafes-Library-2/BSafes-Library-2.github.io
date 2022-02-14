@@ -8,6 +8,60 @@ nav_order: 900072
 
 ## General
 ---
+February 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations paid at least $602 million to ransomware gangs in 2021<a href="https://securityaffairs.co/wordpress/127974/cyber-crime/ransomware-payments-600m-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations have paid more than $600 million in cryptocurrency during 2021, nearly one-third to the Conti ransomware gang.
+
+
+
+Last week, cybersecurity agencies from the U.K., the U.S. and Australia have published a joint advisory warning of an increased...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 353<a href="https://securityaffairs.co/wordpress/127942/breaking-news/security-affairs-newsletter-round-353.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations are addressing zero-day vulnerabilities more quickly, says Google<a href="https://securityaffairs.co/wordpress/127932/security/zero-day-flaws-metrics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations are addressing zero-day vulnerabilities more quickly, compared to last year, Google’s Project Zero reported.
+
+
+
+According to Google’s Project Zero researchers, organizations are addressing zero-day vulnerabilities more quickly, compared...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

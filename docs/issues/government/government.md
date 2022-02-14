@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+February 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US cyber defense agency warns of possible Russian cyberattacks amid tensions<a href="https://thehill.com//policy/cybersecurity/594013-us-cyber-defense-agency-warns-of-possible-russian-cyberattacks-amid"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has issued a "Shields Up" alert for American organizations saying that U.S. systems could face Russian cyberattacks amid&nbsp;warnings from Biden administration officials that a Russian invasion of Ukraine could be imminent.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, NSA warn of the increased globalized threat of ransomware<a href="https://securityaffairs.co/wordpress/127923/security/cisa-fbi-nsa-ransomware-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA, FBI and NSA published a joint advisory warning of ransomware attacks targeting critical infrastructure organizations.
+
+
+
+Cybersecurity agencies from the U.K., the U.S. and Australia have published a joint advisory warning of an increased globalised...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

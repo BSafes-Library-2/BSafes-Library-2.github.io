@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+February 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft is making it harder to steal Windows passwords from memory<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-is-making-it-harder-to-steal-windows-passwords-from-memory/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is enabling an 'Attack Surface Reduction' security feature rule by default to block hackers' attempts to steal Windows credentials from the LSASS process.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

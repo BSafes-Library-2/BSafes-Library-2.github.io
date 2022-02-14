@@ -8,6 +8,42 @@ nav_order: 900015
 
 ## Attack
 ---
+February 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NFL's San Francisco 49ers hit by Blackbyte ransomware attack<a href="https://www.bleepingcomputer.com/news/security/nfls-san-francisco-49ers-hit-by-blackbyte-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NFL's San Francisco 49ers team is recovering from a cyberattack by the BlackByte ransomware gang who claims to have stolen data from the American football organization.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Francisco 49ers NFL team discloses BlackByte ransomware attack<a href="https://securityaffairs.co/wordpress/127961/cyber-crime/blackbyte-ransomware-hit-san-francisco-49ers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack hit the corporate IT network of the San Francisco 49ers NFL team, The Record reported.
+
+
+
+The San Francisco 49ers NFL team has fallen victim to a ransomware attack, the news was reported by The Record.
+
+
+
+The team disclosed the attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

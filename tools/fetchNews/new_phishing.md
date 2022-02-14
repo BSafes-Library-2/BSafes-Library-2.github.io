@@ -8,6 +8,24 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analyzing Phishing attacks that use malicious PDFs<a href="https://securityaffairs.co/wordpress/127946/hacking/analyzing-phishing-attacks-pdfs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers Zoziel Pinto Freire analyzed the use of weaponized PDFs in phishing attacks
+
+
+
+Every day everybody receives many phishing attacks with malicious docs or PDFs. I decided to take a look at one of these files. I did a static analysis...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
