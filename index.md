@@ -34,6 +34,202 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft is making it harder to steal Windows passwords from memory<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-is-making-it-harder-to-steal-windows-passwords-from-memory/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is enabling an 'Attack Surface Reduction' security feature rule by default to block hackers' attempts to steal Windows credentials from the LSASS process.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations paid at least $602 million to ransomware gangs in 2021<a href="https://securityaffairs.co/wordpress/127974/cyber-crime/ransomware-payments-600m-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations have paid more than $600 million in cryptocurrency during 2021, nearly one-third to the Conti ransomware gang.
+
+
+
+Last week, cybersecurity agencies from the U.K., the U.S. and Australia have published a joint advisory warning of an increased...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NFL's San Francisco 49ers hit by Blackbyte ransomware attack<a href="https://www.bleepingcomputer.com/news/security/nfls-san-francisco-49ers-hit-by-blackbyte-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NFL's San Francisco 49ers team is recovering from a cyberattack by the BlackByte ransomware gang who claims to have stolen data from the American football organization.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Francisco 49ers NFL team discloses BlackByte ransomware attack<a href="https://securityaffairs.co/wordpress/127961/cyber-crime/blackbyte-ransomware-hit-san-francisco-49ers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack hit the corporate IT network of the San Francisco 49ers NFL team, The Record reported.
+
+
+
+The San Francisco 49ers NFL team has fallen victim to a ransomware attack, the news was reported by The Record.
+
+
+
+The team disclosed the attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analyzing Phishing attacks that use malicious PDFs<a href="https://securityaffairs.co/wordpress/127946/hacking/analyzing-phishing-attacks-pdfs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers Zoziel Pinto Freire analyzed the use of weaponized PDFs in phishing attacks
+
+
+
+Every day everybody receives many phishing attacks with malicious docs or PDFs. I decided to take a look at one of these files. I did a static analysis...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 353<a href="https://securityaffairs.co/wordpress/127942/breaking-news/security-affairs-newsletter-round-353.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US cyber defense agency warns of possible Russian cyberattacks amid tensions<a href="https://thehill.com//policy/cybersecurity/594013-us-cyber-defense-agency-warns-of-possible-russian-cyberattacks-amid"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has issued a "Shields Up" alert for American organizations saying that U.S. systems could face Russian cyberattacks amid warnings from Biden administration officials that a Russian invasion of Ukraine could be imminent.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations are addressing zero-day vulnerabilities more quickly, says Google<a href="https://securityaffairs.co/wordpress/127932/security/zero-day-flaws-metrics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations are addressing zero-day vulnerabilities more quickly, compared to last year, Google’s Project Zero reported.
+
+
+
+According to Google’s Project Zero researchers, organizations are addressing zero-day vulnerabilities more quickly, compared...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, NSA warn of the increased globalized threat of ransomware<a href="https://securityaffairs.co/wordpress/127923/security/cisa-fbi-nsa-ransomware-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA, FBI and NSA published a joint advisory warning of ransomware attacks targeting critical infrastructure organizations.
+
+
+
+Cybersecurity agencies from the U.K., the U.S. and Australia have published a joint advisory warning of an increased globalised...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Croatian phone carrier A1 Hrvatska discloses data breach<a href="https://securityaffairs.co/wordpress/127919/data-breach/a1-hrvatska-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Croatian phone carrier A1 Hrvatska has disclosed a data breach that has impacted roughly 200,000 customers.
+
+
+
+Croatian phone carrier A1 Hrvatska has disclosed a data breach that has impacted 10% of its customers, roughly 200,000 people.
+
+
+
+Threat actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
