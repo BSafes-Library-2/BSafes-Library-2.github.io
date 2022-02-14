@@ -1418,6 +1418,18 @@ Use of the Internet relies on translating domain names (like “nsa.gov”) to I
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2021 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Strengthening Security Configurations to Defend Against Attackers Targeting Cloud Services <a href="https://www.cisa.gov/uscert/ncas/analysis-reports/ar21-013a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) is aware of several recent successful cyberattacks against various organizations’ cloud services. Threat actors are using phishing and other vectors to exploit poor cyber hygiene practices within a victims’ cloud services configuration. The information in this report is derived exclusively from several CISA incident response engagements and provides the tactics, techniques, and procedures; indicators of compromise (IOCs) that CISA observed as part of these engagements; and recommended mitigations for organization to strengthen their cloud environment configuration to protect against, detect, and respond to potential attacks.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 14, 2021 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
