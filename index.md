@@ -34,6 +34,432 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome emergency update fixes zero-day exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-zero-day-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 98.0.4758.102 for Windows, Mac, and Linux, to fix a high-severity zero-day vulnerability used by threat actors in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asian Cloud Service Providers Face Threats from CoinStomp Cryptominer<a href="https://cyware.com/news/asian-cloud-service-providers-face-threats-from-coinstomp-cryptominer-b845c006"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered a cryptojacking malware named CoinStomp that is targeting Asian cloud service providers.&nbsp;To prevent forensic actions against itself, the malware tries to tamper with Linux server cryptographic policies.&nbsp;&nbsp;The use of such techniques indicates that attackers a ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Website that raised millions for 'Freedom Convoy' protests goes offline after possible hack<a href="https://thehill.com//policy/cybersecurity/594201-website-that-raised-millions-for-freedom-convoy-protests-goes-offline"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Christian crowdfunding website used to gather funds for the “Freedom Convoy” trucker-led demonstration against COVID-19 restrictions in Canada has been taken down after information about donors was leaked.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish Police Arrest SIM Swappers Who Stole Money from Victims Bank Accounts<a href="https://thehackernews.com/2022/02/spanish-police-arrest-sim-swappers-who.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spain's National Police Agency, the Policía Nacional, said last week it dismantled an unnamed cybercriminal organization and arrested eight individuals in connection with a series of SIM swapping attacks that were carried out with the goal of financial fraud.  The suspects of the crime ring masqueraded as trustworthy representatives of banks and other organizations and used traditional phishing and smishing techniques to obtain personal information and bank data of victims before draining money from their accounts.  "They usurped the identity of their victims through the falsification of official documents and tricked employees of telephone stores into getting the duplicate of SIM cards, cards where they received security confirmation messages from banks that allowed them to empty their victims' accounts," the authorities  said .   Seven of the arrests were made in Barcelona and one in Seville. As many as 12 bank accounts were frozen as part of the illicit operation.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SSU: Russia-linked actors are targeting Ukraine with ‘massive wave of hybrid warfare’<a href="https://securityaffairs.co/wordpress/128019/cyber-warfare-2/russia-targets-ukraine-hybrid-warfare.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SSU) said the country is the target of an ongoing "wave of hybrid warfare." 
+
+
+
+The Security Service of Ukraine (SSU) today revealed the country is the target of an ongoing "wave of hybrid warfare" conducted by Russia-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine says it’s targeted by ‘massive wave of hybrid warfare’<a href="https://www.bleepingcomputer.com/news/security/ukraine-says-it-s-targeted-by-massive-wave-of-hybrid-warfare-/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SSU) today said the country is the target of an ongoing "wave of hybrid warfare," aiming to instill anxiety and undermine Ukrainian society's confidence in the state's ability to defend its citizens.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Uses Metaprogramming in BazarBackdoor Malware<a href="https://cyware.com/news/trickbot-uses-metaprogramming-in-bazarbackdoor-malware-9749ebd9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new twist, authors of BazarLoader and BazarBackdoor malware were spotted utilizing template-based metaprogramming to obfuscate important data. Researchers found similar code patterns in malware samples as is found when samples are built using ADVobfuscator, an obfuscation library based on C++1 ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Flaws Reported in Moxa MXview Network Management Software<a href="https://thehackernews.com/2022/02/critical-security-flaws-reported-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technical details have been disclosed regarding a number of security vulnerabilities affecting Moxa's MXview web-based network management system, some of which could be chained by an unauthenticated adversary to achieve remote code execution on unpatched servers.  The five security weaknesses "could allow a remote, unauthenticated attacker to execute code on the hosting machine with the highest privileges available: NT AUTHORITY\SYSTEM," Claroty security researcher Noam Moshe  said  in a report published this week.  Moxa  MXview  is designed for configuring, monitoring, and diagnosing networking devices in industrial networks. The flaws, which affect versions 3.x to 3.2.2 of the network management software, were rectified in  version 3.2.4 or higher  following a coordinated disclosure process in October 2021.   "Successful exploitation of these vulnerabilities may allow an attacker to create or overwrite critical files to execute code, gain access to the program, ob
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte ransomware breached at least 3 US critical infrastructure organizations<a href="https://securityaffairs.co/wordpress/128013/malware/blackbyte-ransomware-breached-at-least-3-us-critical-infrastructure-organizations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Bureau of Investigation (FBI) said that the BlackByte ransomware gang has breached at least three organizations from US critical infrastructure sectors.
+
+
+
+The US Federal Bureau of Investigation (FBI) published a joint cybersecurity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sports brand Mizuno hit with ransomware attack delaying orders<a href="https://www.bleepingcomputer.com/news/security/sports-brand-mizuno-hit-with-ransomware-attack-delaying-orders/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sports equipment and sportswear brand Mizuno is affected by phone outages and order delays after being hit by ransomware, BleepingComputer has learned from sources familiar with the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Becomes Deadlier, Conti Makes the Most Money<a href="https://cyware.com/news/ransomware-becomes-deadlier-conti-makes-the-most-money-39e17bae"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware actors are constantly upgrading their TTPs and finding new ways to make profits. A new report by Chainalysis states that ransomware victims spent almost $700 million in ransom in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Central Bank tells banks to step up defences against nation-state attacks<a href="https://securityaffairs.co/wordpress/128004/breaking-news/european-central-bank-warns-russia-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Central Bank is warning banks of possible Russia-linked cyber attack amid the rising crisis with Ukraine.
+
+
+
+The European Central Bank is warning banks of possible Russia-linked cyber attack amid the rising crisis with Ukraine and is inviting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC warns VoIP providers: Share your robocall info or get sued<a href="https://www.bleepingcomputer.com/news/security/ftc-warns-voip-providers-share-your-robocall-info-or-get-sued/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Trade Commission (FTC) said today that it will take legal action against Voice-over-Internet Protocol (VoIP) service providers who do not hand over information requested during robocall investigations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than 500,000 Addresses Leaked from NSW Government Database<a href="https://www.9news.com.au/national/nsw-news-data-leak-shouldnt-have-happened-premier-dominic-perrottet-says/15ffbeac-1a37-4803-9ffe-4e6f419e24eb?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hundreds of thousands of locations were collected by the NSW Customer Services Department through its QR code registration system and made public through a government website.
+</details>
+<div style="text-align: right" markdown="1">
+9News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Magento zero-day flaw CVE-2022-24086 actively exploited<a href="https://securityaffairs.co/wordpress/127999/hacking/cve-2022-24086-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe addressed a critical vulnerability (CVE-2022-24086) impacting Magento Open Source products that is being actively exploited in the wild.
+
+
+
+Adobe rolled out security updates to address a critical security vulnerability, tracked as CVE-2022-24086,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP extends critical updates for some unsupported NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-extends-critical-updates-for-some-unsupported-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP has extended support and will keep issuing security updates for some end-of-life (EOL) network-attached storage (NAS) devices until October 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 1.2 Million Guests of Harbour Plaza Hotels in Hong Kong Impacted by Cyberattack<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3166739/cyberattack-harbour-plaza-hotels-hong-kong-exposes?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hong Kong's privacy watchdog said on Friday that it had received reports from the firm two days ago about a cybersecurity incident involving several databases for room reservations.
+</details>
+<div style="text-align: right" markdown="1">
+South China Morning Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged ransomware attack disrupted operations at Slovenia’s Pop TV station<a href="https://securityaffairs.co/wordpress/127987/cyber-crime/slovenias-pop-tv-station-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last week, a cyberattack hit Pop TV, Slovenia’s most popular TV channel, disrupting the operations.
+
+
+
+Last week, a cyber-attack has disrupted the operations of Pop TV, the Slovenian most popular TV channel.
+
+
+
+The attack, which likely was a ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: BlackByte ransomware breached US critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/fbi-blackbyte-ransomware-breached-us-critical-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Bureau of Investigation (FBI) revealed that the BlackByte ransomware group has breached the networks of at least three organizations from US critical infrastructure sectors in the last three months.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tool trio released to protect JavaScript applications from malicious NPM packages<a href="https://portswigger.net/daily-swig/tool-trio-released-to-protect-javascript-applications-from-malicious-npm-packages?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tools – npm-secure-install, package-checker, and npm_issues_statistic – are designed to address some of the thorniest security problems of using open-source software packages.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emergency Magento update fixes zero-day bug exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/emergency-magento-update-fixes-zero-day-bug-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe rolled out emergency updates for Adobe Commerce and Magento Open Source to fix a critical vulnerability tracked as CVE-2022-24086 that's being exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europe's Largest Car Dealer Faces Hive Ransomware Attack<a href="https://www.zdnet.com/article/europes-biggest-car-dealer-hit-with-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emil Frey was hit with a ransomware attack last month, according to a statement from the company. It showed up on the list of victims for the Hive ransomware on February 1.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Francisco 49ers Confirm Ransomware Attack on its Corporate IT Network<a href="https://therecord.media/san-francisco-49ers-confirm-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The San Francisco 49ers NFL team has fallen victim to a ransomware attack that encrypted files on its corporate IT network, a spokesperson for the team has told The Record.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Magento 0-Day Vulnerability Under Active Exploitation — Patch Released<a href="https://thehackernews.com/2022/02/critical-magento-0-day-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe on Sunday rolled out patches to contain a critical security vulnerability impacting its Commerce and Magento Open Source products that it said is being actively exploited in the wild.  Tracked as  CVE-2022-24086 , the shortcoming has a CVSS score of 9.8 out of 10 on the vulnerability scoring system and has been characterized as an " improper input validation " issue that could be weaponized to achieve arbitrary code execution.    It's also a pre-authenticated flaw, meaning it could be exploited without requiring any credentials. But the California-headquartered company also pointed out that the vulnerability is only exploitable by an attacker with administrative privileges.  The flaw affects Adobe Commerce and Magento Open Source 2.4.3-p1 and earlier versions as well as 2.3.7-p2 and earlier versions. Adobe Commerce 2.3.3 and lower are not vulnerable.   "Adobe is aware that CVE-2022-24086 has been exploited in the wild in very limited attacks targeting Adobe Co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender will soon block Windows password theft<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-will-soon-block-windows-password-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is enabling an 'Attack Surface Reduction' security feature rule by default to block hackers' attempts to steal Windows credentials from the LSASS process.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 13, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
