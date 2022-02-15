@@ -8,6 +8,42 @@ nav_order: 900140
 
 ## Outage
 ---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Website that raised millions for 'Freedom Convoy' protests goes offline after possible hack<a href="https://thehill.com//policy/cybersecurity/594201-website-that-raised-millions-for-freedom-convoy-protests-goes-offline"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Christian&nbsp;crowdfunding website used to gather funds for the&nbsp;“Freedom Convoy”&nbsp;trucker-led demonstration against COVID-19 restrictions in Canada has been taken down after information about donors was leaked.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged ransomware attack disrupted operations at Slovenia’s Pop TV station<a href="https://securityaffairs.co/wordpress/127987/cyber-crime/slovenias-pop-tv-station-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last week, a cyberattack hit Pop TV, Slovenia’s most popular TV channel, disrupting the operations.
+
+
+
+Last week, a cyber-attack has disrupted the operations of Pop TV, the Slovenian most popular TV channel.
+
+
+
+The attack, which likely was a ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

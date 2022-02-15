@@ -19,6 +19,18 @@ Notably, the Russian government has used cyber as a key component of their force
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2022 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indicators of Compromise Associated with BlackByte Ransomware <a href="https://www.ic3.gov/Media/News/2022/220211.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This joint Cybersecurity Advisory was developed by the Federal Bureau of Investigation (FBI) and the U.S. Secret Service (USSS) to provide information on BlackByte ransomware. As of November 2021, BlackByte ransomware had compromised multiple US and foreign businesses, including entities in at least three US critical infrastructure sectors (government facilities, financial, and food & agriculture). BlackByte is a Ransomware as a Service (RaaS) group that encrypts files on compromised Windows host systems, including physical and virtual servers.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 11, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

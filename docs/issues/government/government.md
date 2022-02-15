@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Central Bank tells banks to step up defences against nation-state attacks<a href="https://securityaffairs.co/wordpress/128004/breaking-news/european-central-bank-warns-russia-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Central Bank is warning banks of possible Russia-linked cyber attack amid the rising crisis with Ukraine.
+
+
+
+The European Central Bank is warning banks of possible Russia-linked cyber attack amid the rising crisis with Ukraine and is inviting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC warns VoIP providers: Share your robocall info or get sued<a href="https://www.bleepingcomputer.com/news/security/ftc-warns-voip-providers-share-your-robocall-info-or-get-sued/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Trade Commission (FTC) said&nbsp;today that it will take legal action against Voice-over-Internet Protocol (VoIP) service providers&nbsp;who do not hand over information requested during robocall investigations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: BlackByte ransomware breached US critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/fbi-blackbyte-ransomware-breached-us-critical-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Bureau of Investigation (FBI) revealed that the BlackByte ransomware group has breached the networks of at least three organizations from US critical infrastructure sectors in the last three months.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

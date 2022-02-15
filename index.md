@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome emergency update fixes zero-day exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-zero-day-exploited-in-attacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Asian Cloud Service Providers Face Threats from CoinStomp Cryptominer<a href="https://cyware.com/news/asian-cloud-service-providers-face-threats-from-coinstomp-cryptominer-b845c006"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Website that raised millions for 'Freedom Convoy' protests goes offline after possible hack<a href="https://thehill.com//policy/cybersecurity/594201-website-that-raised-millions-for-freedom-convoy-protests-goes-offline"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spanish Police Arrest SIM Swappers Who Stole Money from Victims Bank Accounts<a href="https://thehackernews.com/2022/02/spanish-police-arrest-sim-swappers-who.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SSU: Russia-linked actors are targeting Ukraine with ‘massive wave of hybrid warfare’<a href="https://securityaffairs.co/wordpress/128019/cyber-warfare-2/russia-targets-ukraine-hybrid-warfare.html"> Full Text</a>
@@ -119,7 +119,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine says it’s targeted by ‘massive wave of hybrid warfare’<a href="https://www.bleepingcomputer.com/news/security/ukraine-says-it-s-targeted-by-massive-wave-of-hybrid-warfare-/"> Full Text</a>
@@ -135,7 +135,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot Uses Metaprogramming in BazarBackdoor Malware<a href="https://cyware.com/news/trickbot-uses-metaprogramming-in-bazarbackdoor-malware-9749ebd9"> Full Text</a>
@@ -152,7 +152,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Security Flaws Reported in Moxa MXview Network Management Software<a href="https://thehackernews.com/2022/02/critical-security-flaws-reported-in.html"> Full Text</a>
@@ -168,7 +168,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackByte ransomware breached at least 3 US critical infrastructure organizations<a href="https://securityaffairs.co/wordpress/128013/malware/blackbyte-ransomware-breached-at-least-3-us-critical-infrastructure-organizations.html"> Full Text</a>
@@ -188,7 +188,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sports brand Mizuno hit with ransomware attack delaying orders<a href="https://www.bleepingcomputer.com/news/security/sports-brand-mizuno-hit-with-ransomware-attack-delaying-orders/"> Full Text</a>
@@ -204,7 +204,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Becomes Deadlier, Conti Makes the Most Money<a href="https://cyware.com/news/ransomware-becomes-deadlier-conti-makes-the-most-money-39e17bae"> Full Text</a>
@@ -220,7 +220,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European Central Bank tells banks to step up defences against nation-state attacks<a href="https://securityaffairs.co/wordpress/128004/breaking-news/european-central-bank-warns-russia-cyberattacks.html"> Full Text</a>
@@ -240,7 +240,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC warns VoIP providers: Share your robocall info or get sued<a href="https://www.bleepingcomputer.com/news/security/ftc-warns-voip-providers-share-your-robocall-info-or-get-sued/"> Full Text</a>
@@ -256,7 +256,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Than 500,000 Addresses Leaked from NSW Government Database<a href="https://www.9news.com.au/national/nsw-news-data-leak-shouldnt-have-happened-premier-dominic-perrottet-says/15ffbeac-1a37-4803-9ffe-4e6f419e24eb?&web_view=true"> Full Text</a>
@@ -272,7 +272,7 @@ The hundreds of thousands of locations were collected by the NSW Customer Servic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Magento zero-day flaw CVE-2022-24086 actively exploited<a href="https://securityaffairs.co/wordpress/127999/hacking/cve-2022-24086-zero-day.html"> Full Text</a>
@@ -292,7 +292,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP extends critical updates for some unsupported NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-extends-critical-updates-for-some-unsupported-nas-devices/"> Full Text</a>
@@ -308,7 +308,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of 1.2 Million Guests of Harbour Plaza Hotels in Hong Kong Impacted by Cyberattack<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3166739/cyberattack-harbour-plaza-hotels-hong-kong-exposes?&web_view=true"> Full Text</a>
@@ -324,7 +324,7 @@ South China Morning Post
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alleged ransomware attack disrupted operations at Slovenia’s Pop TV station<a href="https://securityaffairs.co/wordpress/127987/cyber-crime/slovenias-pop-tv-station-ransomware.html"> Full Text</a>
@@ -348,7 +348,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: BlackByte ransomware breached US critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/fbi-blackbyte-ransomware-breached-us-critical-infrastructure/"> Full Text</a>
@@ -364,7 +364,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tool trio released to protect JavaScript applications from malicious NPM packages<a href="https://portswigger.net/daily-swig/tool-trio-released-to-protect-javascript-applications-from-malicious-npm-packages?&web_view=true"> Full Text</a>
@@ -380,7 +380,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emergency Magento update fixes zero-day bug exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/emergency-magento-update-fixes-zero-day-bug-exploited-in-attacks/"> Full Text</a>
@@ -396,7 +396,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europe's Largest Car Dealer Faces Hive Ransomware Attack<a href="https://www.zdnet.com/article/europes-biggest-car-dealer-hit-with-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -412,7 +412,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2022
+February 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 San Francisco 49ers Confirm Ransomware Attack on its Corporate IT Network<a href="https://therecord.media/san-francisco-49ers-confirm-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -428,7 +428,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2022
+February 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Magento 0-Day Vulnerability Under Active Exploitation — Patch Released<a href="https://thehackernews.com/2022/02/critical-magento-0-day-vulnerability.html"> Full Text</a>
@@ -444,7 +444,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2022
+February 13, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender will soon block Windows password theft<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-will-soon-block-windows-password-theft/"> Full Text</a>

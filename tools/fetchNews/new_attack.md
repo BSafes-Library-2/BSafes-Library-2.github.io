@@ -8,6 +8,80 @@ nav_order: 900015
 
 ## Attack
 ---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SSU: Russia-linked actors are targeting Ukraine with ‘massive wave of hybrid warfare’<a href="https://securityaffairs.co/wordpress/128019/cyber-warfare-2/russia-targets-ukraine-hybrid-warfare.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SSU) said the country is the target of an ongoing "wave of hybrid warfare." 
+
+
+
+The Security Service of Ukraine (SSU) today revealed the country is the target of an ongoing "wave of hybrid warfare" conducted by Russia-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine says it’s targeted by ‘massive wave of hybrid warfare’<a href="https://www.bleepingcomputer.com/news/security/ukraine-says-it-s-targeted-by-massive-wave-of-hybrid-warfare-/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SSU) today said the country is the target of an ongoing "wave of hybrid warfare," aiming to instill anxiety and undermine Ukrainian society's confidence in the state's ability to defend its citizens.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sports brand Mizuno hit with ransomware attack delaying orders<a href="https://www.bleepingcomputer.com/news/security/sports-brand-mizuno-hit-with-ransomware-attack-delaying-orders/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sports equipment and sportswear brand Mizuno is affected by phone outages and order delays after being hit by ransomware, BleepingComputer has learned from sources familiar with the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europe's Largest Car Dealer Faces Hive Ransomware Attack<a href="https://www.zdnet.com/article/europes-biggest-car-dealer-hit-with-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emil Frey was hit with a ransomware attack last month, according to a statement from the company. It showed up on the list of victims for the Hive ransomware on February 1.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Francisco 49ers Confirm Ransomware Attack on its Corporate IT Network<a href="https://therecord.media/san-francisco-49ers-confirm-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The San Francisco 49ers NFL team has fallen victim to a ransomware attack that encrypted files on its corporate IT network, a spokesperson for the team has told The Record.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

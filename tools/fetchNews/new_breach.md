@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte ransomware breached at least 3 US critical infrastructure organizations<a href="https://securityaffairs.co/wordpress/128013/malware/blackbyte-ransomware-breached-at-least-3-us-critical-infrastructure-organizations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Bureau of Investigation (FBI) said that the BlackByte ransomware gang has breached at least three organizations from&nbsp;US critical infrastructure sectors.
+
+
+
+The US Federal Bureau of Investigation (FBI) published a joint cybersecurity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than 500,000 Addresses Leaked from NSW Government Database<a href="https://www.9news.com.au/national/nsw-news-data-leak-shouldnt-have-happened-premier-dominic-perrottet-says/15ffbeac-1a37-4803-9ffe-4e6f419e24eb?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hundreds of thousands of locations were collected by the NSW Customer Services Department through its QR code registration system and made public through a government website.
+</details>
+<div style="text-align: right" markdown="1">
+9News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 1.2 Million Guests of Harbour Plaza Hotels in Hong Kong Impacted by Cyberattack<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3166739/cyberattack-harbour-plaza-hotels-hong-kong-exposes?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hong Kong's privacy watchdog said on Friday that it had received reports from the firm two days ago about a cybersecurity incident involving several databases for room reservations.
+</details>
+<div style="text-align: right" markdown="1">
+South China Morning Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

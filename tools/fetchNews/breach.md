@@ -8,6 +8,28 @@ nav_order: 900029
 
 ## Breach
 ---
+February 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Croatian phone carrier A1 Hrvatska discloses data breach<a href="https://securityaffairs.co/wordpress/127919/data-breach/a1-hrvatska-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Croatian phone carrier A1 Hrvatska has disclosed a data breach that has impacted roughly 200,000 customers.
+
+
+
+Croatian phone carrier A1 Hrvatska has disclosed a data breach that has impacted 10% of its customers, roughly 200,000 people.
+
+
+
+Threat actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

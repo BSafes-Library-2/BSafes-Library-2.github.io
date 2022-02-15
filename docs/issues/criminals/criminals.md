@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish Police Arrest SIM Swappers Who Stole Money from Victims Bank Accounts<a href="https://thehackernews.com/2022/02/spanish-police-arrest-sim-swappers-who.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spain's National Police Agency, the Policía Nacional, said last week it dismantled an unnamed cybercriminal organization and arrested eight individuals in connection with a series of SIM swapping attacks that were carried out with the goal of financial fraud.  The suspects of the crime ring masqueraded as trustworthy representatives of banks and other organizations and used traditional phishing and smishing techniques to obtain personal information and bank data of victims before draining money from their accounts.  "They usurped the identity of their victims through the falsification of official documents and tricked employees of telephone stores into getting the duplicate of SIM cards, cards where they received security confirmation messages from banks that allowed them to empty their victims' accounts," the authorities&nbsp; said .   Seven of the arrests were made in Barcelona and one in Seville. As many as 12 bank accounts were frozen as part of the illicit operation.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Becomes Deadlier, Conti Makes the Most Money<a href="https://cyware.com/news/ransomware-becomes-deadlier-conti-makes-the-most-money-39e17bae"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware actors are constantly upgrading their TTPs and finding new ways to make profits. A new report by Chainalysis states that ransomware victims spent almost $700 million in ransom in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
