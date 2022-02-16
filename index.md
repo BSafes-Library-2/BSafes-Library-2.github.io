@@ -34,6 +34,483 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA tells agencies to patch actively exploited Chrome, Magento bugs<a href="https://www.bleepingcomputer.com/news/security/cisa-tells-agencies-to-patch-actively-exploited-chrome-magento-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has added nine new flaws to its collection of actively exploited vulnerabilities, including two recently patched zero-days impacting Google Chrome and Adobe Commerce/Magento Open Source.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! FritzFrog Botnet Has Gone Aggressively Wild<a href="https://cyware.com/news/watch-out-fritzfrog-botnet-has-gone-aggressively-wild-7b97643e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the FritzFrog botnet have returned with a new P2P campaign, registering a 10x growth in the infection rate within only a month.&nbsp;The new variant seems to possess additional capabilities to target WordPress servers. Researchers  have spotted 24,000 attacks so far. However, the b ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Cyberattack hits Ukrainian defense<a href="https://thehill.com//policy/technology/overnights/594435-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Tuesday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Link ShadowPad Malware Attacks to Chinese Ministry and PLA<a href="https://thehackernews.com/2022/02/researchers-link-shadowpad-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed the inner workings of ShadowPad , a sophisticated and modular backdoor that has been adopted by a growing number of Chinese threat groups in recent years, while also linking it to the country's civilian and military intelligence agencies.  "ShadowPad is decrypted in memory using a custom decryption algorithm," researchers from Secureworks said in a report shared with The Hacker News. "ShadowPad extracts information about the host, executes commands, interacts with the file system and registry, and deploys new modules to extend functionality."  ShadowPad  is a modular malware platform sharing noticeable overlaps to the  PlugX  malware and which has been put to use in high-profile attacks against NetSarang, CCleaner, and ASUS, causing the operators to shift tactics and update their defensive measures.   While initial campaigns that delivered ShadowPad were attributed to a threat cluster tracked as  Bronze Atlas  aka Barium
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine: Military defense agencies and banks hit by cyberattacks<a href="https://securityaffairs.co/wordpress/128051/hacking/ukraine-military-agencies-banks-hit-by-ddos-attacks-defacements.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine 's defense agencies and two state-owned banks were hit by Distributed Denial-of-Service (DDoS) attacks.
+
+
+
+The Ministry of Defense and the Armed Forces of Ukraine and state-owned banks, Privatbank (Ukraine's largest bank) and Oschadbank...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google almost doubles Linux Kernel, Kubernetes zero-day rewards<a href="https://www.bleepingcomputer.com/news/google/google-almost-doubles-linux-kernel-kubernetes-zero-day-rewards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google says it bumped up rewards for reports of Linux Kernel, Kubernetes, Google Kubernetes Engine (GKE), or kCTF vulnerabilities by adding bigger bonuses for zero-day bugs and exploits using unique exploitation techniques.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Patches Vulnerabilities Reported by Researchers to Chinese Government<a href="https://www.securityweek.com/vmware-patches-vulnerabilities-reported-researchers-chinese-government?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security vulnerabilities impact VMware ESXi, Workstation, and Fusion, and they were used at the 2021 Tianfu Cup hacking contest by Kunlun Lab, the team that won the event.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Defense Ministry, banks hit by cyberattack amid tensions with Russia<a href="https://thehill.com//policy/international/594330-ukraine-defense-ministry-banks-hit-by-cyberattack-amid-tensions-with"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine’s Ministry of Defense on Tuesday said it had been hit with a cyberattack amid heightened tensions with Russia and concerns Moscow could launch aggressive actions against the country, including a potential ground invasion. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SafeDNS: Cloud-based Internet Security and Web Filtering Solution for MSPs<a href="https://thehackernews.com/2022/02/safedns-cloud-based-internet-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote workplace trend is getting the upper hand in 2022. A recent survey by IWG (the International Workplace Group) determined that 70% of the world's professionals work remotely at least one day a week, with 53% based outside their workplace at least half of the week.  Taking this into consideration, organizations have started looking for reliable partners that can deliver services and support consistently, for example, to install new hybrid infrastructure solutions while trusting them with the everyday functioning of their IT.  So far, MSPs have been meeting this demand by offering multiple solutions that help employees work remotely without any problems.  What are the main cybersecurity solutions remote workers need?   Multi-Factor Authentication  Virtual Private Network  DNS Filtering  to secure DNS traffic   Why is a web filtering important and what are the main features necessary for MSPs?  Managed service providers have been struggling with finding the right web filtering
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP extends security Updates for some EOL devices<a href="https://securityaffairs.co/wordpress/128045/hacking/qnap-extends-security-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP extended the security update window for some devices that have reached end-of-life (EOL).
+
+
+
+Taiwanese vendor QNAP extended the security update for some devices that have reached end-of-life (EOL) years ago.
+
+
+
+The company decided...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian military agencies, banks hit by DDoS attacks, defacements<a href="https://www.bleepingcomputer.com/news/security/ukrainian-military-agencies-banks-hit-by-ddos-attacks-defacements/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ministry of Defense and the Armed Forces of Ukraine and two of the country's state-owned banks, Privatbank (Ukraine's largest bank) and Oschadbank (the State Savings Bank), are being hammered by Distributed Denial-of-Service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Squirrelwaffle, Microsoft Exchange Server vulnerabilities exploited for financial fraud<a href="https://www.zdnet.com/article/squirrelwaffle-loader-leverages-microsoft-exchange-server-vulns-for-financial-fraud/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Sophos revealed a recent incident in which a Microsoft Exchange Server, which had not been patched to protect it against a set of critical vulnerabilities disclosed last year.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of Hacking Group Targeting Aviation and Defense Sectors<a href="https://thehackernews.com/2022/02/experts-warn-of-hacking-group-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Entities in the aviation, aerospace, transportation, manufacturing, and defense industries have been targeted by a persistent threat group since at least 2017 as part of a string of spear-phishing campaigns mounted to deliver a variety of remote access trojans (RATs) on compromised systems.  The use of commodity malware such as AsyncRAT and NetWire, among others, has led enterprise security firm Proofpoint to a "cybercriminal threat actor" codenamed TA2541  that employs "broad targeting with high volume messages." The ultimate objective of the intrusions is unknown as yet.  Social engineering lures used by the group does not rely on topical themes but rather leverages decoy messages related to  aviation , logistics, transportation, and travel. That said, TA2541 did briefly pivot to  COVID-19-themed lures  in the spring of 2020, distributing emails concerning cargo shipments of personal protective equipment (PPE) or testing kits.   "While TA2541 is consistent i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat gang claimed responsibility for Swissport ransomware attack<a href="https://securityaffairs.co/wordpress/128039/cyber-crime/blackcat-swissport-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat ransomware group (aka ALPHV), claimed responsibility for the attack on Swissport that interfered with its operations.
+
+
+
+The BlackCat ransomware group (aka ALPHV), has claimed responsibility for the cyberattack on Swissport...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unskilled hacker linked to years of attacks on aviation, transport sectors<a href="https://www.bleepingcomputer.com/news/security/unskilled-hacker-linked-to-years-of-attacks-on-aviation-transport-sectors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For years, a low-skilled attacker has been using off-the-shelf malware in malicious campaigns aimed at companies in the aviation sector as well as in other sensitive industries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SSU: Russia-linked actors are targeting Ukraine with ‘massive wave of hybrid warfare’<a href="https://securityaffairs.co/wordpress/128019/cyber-warfare-2/russia-targets-ukraine-hybrid-warfare.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SSU) today revealed that the country is the target of an ongoing “wave of hybrid warfare” conducted by Russia-linked malicious cyber actors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New MyloBot Malware Variant Sends Sextortion Emails Demanding $2,732 in Bitcoin<a href="https://thehackernews.com/2022/02/new-mylobot-malware-variant-sends.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the MyloBot malware has been observed to deploy malicious payloads that are being used to send sextortion emails demanding victims to pay $2,732 in digital currency.  MyloBot , first detected in 2018, is known to  feature  an array of sophisticated anti-debugging capabilities and propagation techniques to rope infected machines into a botnet, not to mention remove traces of other competing malware from the systems.  Chief among its methods to evade detection and stay under the radar included a delay of 14 days before accessing its command-and-control servers and the facility to execute malicious binaries directly from memory.   MyloBot also leverages a technique called  process hollowing , wherein the attack code is injected into a suspended and hollowed process in order to circumvent process-based defenses. This is achieved by unmapping the memory allocated to the live process and replacing it with the arbitrary code to be executed, in this case a decoded resource fi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes a Chrome zero-day flaw actively exploited in attacks<a href="https://securityaffairs.co/wordpress/128035/hacking/chrome-zero-day-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google fixed a high-severity zero-day flaw actively exploited with the release of Chrome emergency update for Windows, Mac, and Linux.
+
+
+
+Google fixed a high-severity zero-day flaw, tracked as CVE-2022-0609, actively exploited with the release of Chrome...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat (ALPHV) claims Swissport ransomware attack, leaks data<a href="https://www.bleepingcomputer.com/news/security/blackcat-alphv-claims-swissport-ransomware-attack-leaks-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat ransomware group, aka ALPHV, has claimed responsibility for the recent cyber attack on cargo and hospitality services giant Swissport that caused flight delays and service disruptions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SMS PVA Services' Use of Infected Android Phones Reveals Flaws in SMS Verification<a href="https://www.trendmicro.com/en_us/research/22/b/sms-pva-services-use-of-infected-android-phones-reveals-flaws-in-sms-verification.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The core security issue is that an enterprise has the ability to monitor and intercept SMSes from tons of devices globally, and then profit from it by offering the service to whoever can pay for it.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote sex toys might spice up your love life – but crooks could also get a kick out of them￼<a href="https://securityaffairs.co/wordpress/128028/hacking/lovense-remote-sex-toys-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A CyberNews investigation has revealed that Lovense remote sex toy users might be at risk from threat actors, due to poor security features.
+
+
+
+Original post: https://cybernews.com/privacy/remote-sex-toys-might-spice-up-your-love-life-but-crooks-could-also-get-a-kick-out-of-them/
+
+
+
+Lovense...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet Society Discloses Third-party Data Leak Exposed 80,000 Members’ Login Credentials<a href="https://portswigger.net/daily-swig/internet-society-data-leak-exposed-80-000-members-nbsp-login-details?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Society (ISOC), a non-profit dedicated to keeping the internet open and secure, has blamed the inadvertent exposure of its 80,000-plus members’ personal data on a third-party vendor.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mysterious Hackers Targeting Aerospace and Defence Industries for Years<a href="https://www.zdnet.com/article/these-prolific-hackers-have-been-targeting-the-aerospace-and-defence-industries-with-trojan-malware-for-years/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dubbed TA2541 and detailed by researchers at Proofpoint, the persistent hacker group has been active since 2017 and has compromised hundreds of firms across North America, Europe, and the Middle East.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The importance of implementing a zero trust strategy<a href="https://www.helpnetsecurity.com/2022/02/15/importance-of-implementing-zero-trust/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Optiv has published a report based on a recent survey of cybersecurity leaders that highlights the critical importance of implementing zero trust as an effective way to reduce cyber risk.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte Tackles the SF 49ers & US Critical Infrastructure<a href="https://threatpost.com/blackbyte-tackles-the-sf-49ers-us-critical-infrastructure/178416/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hours before the Superbowl and two days after the FBI warned about the ransomware gang, BlackByte leaked what are purportedly the NFL team’s files. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Cities: Skylines’ Gaming Modder Banned Over Hidden Malware<a href="https://threatpost.com/cities-skylines-modder-banned-over-hidden-malware/178403/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+35K+ players were exposed to an auto-updater that planted a trojan that choked performance for fellow modders and Colossal Order employees.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chrome 0-Day Bug Under Active Attack – Update Your Browser ASAP!<a href="https://thehackernews.com/2022/02/new-chrome-0-day-bug-under-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday rolled out fixes for eight security issues in the Chrome web browser, including a high-severity vulnerability that's being actively exploited in real-world attacks, marking the first zero-day patched by the internet giant in 2022.  The shortcoming, tracked  CVE-2022-0609 , is described as a  use-after-free  vulnerability in the Animation component that, if successfully exploited, could lead to corruption of valid data and the execution of arbitrary code on affected systems.   "Google is aware of reports that an exploit for CVE-2022-0609  exists in the wild," the company  said  in a characteristically brief statement acknowledging active exploitation of the flaw. Credited with discovering and reporting the flaw are Adam Weidemann and Clément Lecigne of Google's Threat Analysis Group (TAG).   Also addressed by Google four other use-after-free flaws impacting File Manager, File Manager,  ANGLE , and GPU, a heap buffer overflow bug in Tab Groups, an inte
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kali Linux 2022.1 released with 6 new tools, SSH wide compat, and more<a href="https://www.bleepingcomputer.com/news/security/kali-linux-20221-released-with-6-new-tools-ssh-wide-compat-and-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Offensive Security has released ​Kali Linux 2022.1, the first version of 2022, with improved accessibility features, a visual refresh, SSH wide compatibility, and of course, new toys to play with!
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
