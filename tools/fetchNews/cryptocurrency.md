@@ -8,6 +8,21 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asian Cloud Service Providers Face Threats from CoinStomp Cryptominer<a href="https://cyware.com/news/asian-cloud-service-providers-face-threats-from-coinstomp-cryptominer-b845c006"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered a cryptojacking malware named CoinStomp that is targeting Asian cloud service providers.&nbsp;To prevent forensic actions against itself, the malware tries to tamper with Linux server cryptographic policies.&nbsp;&nbsp;The use of such techniques indicates that attackers a ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Uses Metaprogramming in BazarBackdoor Malware<a href="https://cyware.com/news/trickbot-uses-metaprogramming-in-bazarbackdoor-malware-9749ebd9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new twist, authors of BazarLoader and BazarBackdoor malware were spotted utilizing template-based metaprogramming to obfuscate important data. Researchers found similar code patterns in malware samples as is found when samples are built using ADVobfuscator, an obfuscation library based on C++1 ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

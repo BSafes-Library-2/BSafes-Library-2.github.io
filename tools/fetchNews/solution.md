@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tool trio released to protect JavaScript applications from malicious NPM packages<a href="https://portswigger.net/daily-swig/tool-trio-released-to-protect-javascript-applications-from-malicious-npm-packages?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tools – npm-secure-install, package-checker, and npm_issues_statistic – are designed to address some of the thorniest security problems of using open-source software packages.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender will soon block Windows password theft<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-will-soon-block-windows-password-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is enabling an 'Attack Surface Reduction' security feature rule by default to block hackers' attempts to steal Windows credentials from the LSASS process.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

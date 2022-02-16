@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome emergency update fixes zero-day exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-zero-day-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 98.0.4758.102 for Windows, Mac, and Linux, to fix a high-severity zero-day vulnerability used by threat actors in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Flaws Reported in Moxa MXview Network Management Software<a href="https://thehackernews.com/2022/02/critical-security-flaws-reported-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technical details have been disclosed regarding a number of security vulnerabilities affecting Moxa's MXview web-based network management system, some of which could be chained by an unauthenticated adversary to achieve remote code execution on unpatched servers.  The five security weaknesses "could allow a remote, unauthenticated attacker to execute code on the hosting machine with the highest privileges available: NT AUTHORITY\SYSTEM," Claroty security researcher Noam Moshe&nbsp; said &nbsp;in a report published this week.  Moxa&nbsp; MXview &nbsp;is designed for configuring, monitoring, and diagnosing networking devices in industrial networks. The flaws, which affect versions 3.x to 3.2.2 of the network management software, were rectified in&nbsp; version 3.2.4 or higher &nbsp;following a coordinated disclosure process in October 2021.   "Successful exploitation of these vulnerabilities may allow an attacker to create or overwrite critical files to execute code, gain access to the program, ob
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Magento zero-day flaw CVE-2022-24086 actively exploited<a href="https://securityaffairs.co/wordpress/127999/hacking/cve-2022-24086-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe addressed a critical vulnerability (CVE-2022-24086) impacting Magento Open Source products that is being actively exploited in the wild.
+
+
+
+Adobe rolled out security updates to address a critical security vulnerability, tracked as CVE-2022-24086,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP extends critical updates for some unsupported NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-extends-critical-updates-for-some-unsupported-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP has extended support and will keep issuing security updates for some end-of-life (EOL) network-attached storage (NAS) devices until October 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emergency Magento update fixes zero-day bug exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/emergency-magento-update-fixes-zero-day-bug-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe rolled out emergency updates for Adobe Commerce and Magento Open Source to fix a critical vulnerability tracked as CVE-2022-24086 that's being exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Magento 0-Day Vulnerability Under Active Exploitation — Patch Released<a href="https://thehackernews.com/2022/02/critical-magento-0-day-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe on Sunday rolled out patches to contain a critical security vulnerability impacting its Commerce and Magento Open Source products that it said is being actively exploited in the wild.  Tracked as&nbsp; CVE-2022-24086 , the shortcoming has a CVSS score of 9.8 out of 10 on the vulnerability scoring system and has been characterized as an " improper input validation " issue that could be weaponized to achieve arbitrary code execution.&nbsp;   It's also a pre-authenticated flaw, meaning it could be exploited without requiring any credentials. But the California-headquartered company also pointed out that the vulnerability is only exploitable by an attacker with administrative privileges.  The flaw affects Adobe Commerce and Magento Open Source 2.4.3-p1 and earlier versions as well as 2.3.7-p2 and earlier versions. Adobe Commerce 2.3.3 and lower are not vulnerable.   "Adobe is aware that CVE-2022-24086 has been exploited in the wild in very limited attacks targeting Adobe Co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

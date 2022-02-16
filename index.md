@@ -502,7 +502,7 @@ Kali Linux 2022.1 released with 6 new tools, SSH wide compat, and more<a href="h
 </p>
 <details>
   <summary>Abstract</summary>
-Offensive Security has released ​Kali Linux 2022.1, the first version of 2022, with improved accessibility features, a visual refresh, SSH wide compatibility, and of course, new toys to play with!
+Offensive Security has released Kali Linux 2022.1, the first version of 2022, with improved accessibility features, a visual refresh, SSH wide compatibility, and of course, new toys to play with!
 </details>
 <div style="text-align: right" markdown="1">
 BleepingComputer
