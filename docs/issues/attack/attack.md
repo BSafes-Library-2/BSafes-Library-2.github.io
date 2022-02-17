@@ -8,6 +8,140 @@ nav_order: 900015
 
 ## Attack
 ---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US says Russian hackers targeted defense contractors<a href="https://thehill.com//policy/defense/594563-us-says-russian-hackers-targeted-defense-contractors"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. intelligence community says that Russian-sponsored actors have been targeting defense contractors for at least the past two years and in some cases have gained access to sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SquirrelWaffle Adds a Twist of Fraud to Exchange Server Malspamming<a href="https://threatpost.com/squirrelwaffle-fraud-exchange-server-malspamming/178434/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SquirrelWaffle attackers now use typosquatting to keep sending spam, even after Exchange servers are patched for ProxyLogon/ProxyShell.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Cyberattack hits Ukrainian defense<a href="https://thehill.com//policy/technology/overnights/594435-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Tuesday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Link ShadowPad Malware Attacks to Chinese Ministry and PLA<a href="https://thehackernews.com/2022/02/researchers-link-shadowpad-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed the inner workings of ShadowPad , a sophisticated and modular backdoor that has been adopted by a growing number of Chinese threat groups in recent years, while also linking it to the country's civilian and military intelligence agencies.  "ShadowPad is decrypted in memory using a custom decryption algorithm," researchers from Secureworks said in a report shared with The Hacker News. "ShadowPad extracts information about the host, executes commands, interacts with the file system and registry, and deploys new modules to extend functionality."  ShadowPad &nbsp;is a modular malware platform sharing noticeable overlaps to the&nbsp; PlugX &nbsp;malware and which has been put to use in high-profile attacks against NetSarang, CCleaner, and ASUS, causing the operators to shift tactics and update their defensive measures.   While initial campaigns that delivered ShadowPad were attributed to a threat cluster tracked as&nbsp; Bronze Atlas &nbsp;aka Barium
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine: Military defense agencies and banks hit by cyberattacks<a href="https://securityaffairs.co/wordpress/128051/hacking/ukraine-military-agencies-banks-hit-by-ddos-attacks-defacements.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine 's defense agencies and two state-owned banks were hit by Distributed Denial-of-Service (DDoS) attacks.
+
+
+
+The Ministry of Defense and the Armed Forces of Ukraine and state-owned banks,&nbsp;Privatbank (Ukraine's largest bank)&nbsp;and Oschadbank...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Defense Ministry, banks hit by cyberattack amid tensions with Russia<a href="https://thehill.com//policy/international/594330-ukraine-defense-ministry-banks-hit-by-cyberattack-amid-tensions-with"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine’s Ministry of Defense on Tuesday said it&nbsp;had been hit with a cyberattack amid heightened tensions with Russia and concerns Moscow could launch aggressive actions against the country, including a potential ground invasion.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat gang claimed responsibility for Swissport ransomware attack<a href="https://securityaffairs.co/wordpress/128039/cyber-crime/blackcat-swissport-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;BlackCat&nbsp;ransomware group (aka ALPHV), claimed responsibility for the attack on&nbsp;Swissport that interfered with its operations.
+
+
+
+The&nbsp;BlackCat&nbsp;ransomware group (aka ALPHV), has claimed responsibility for the cyberattack on&nbsp;Swissport...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte Tackles the SF 49ers &amp; US Critical Infrastructure<a href="https://threatpost.com/blackbyte-tackles-the-sf-49ers-us-critical-infrastructure/178416/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hours before the Superbowl and two days after the FBI warned about the ransomware gang, BlackByte leaked what are purportedly the NFL team’s files. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chrome 0-Day Bug Under Active Attack – Update Your Browser ASAP!<a href="https://thehackernews.com/2022/02/new-chrome-0-day-bug-under-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday rolled out fixes for eight security issues in the Chrome web browser, including a high-severity vulnerability that's being actively exploited in real-world attacks, marking the first zero-day patched by the internet giant in 2022.  The shortcoming, tracked&nbsp; CVE-2022-0609 , is described as a&nbsp; use-after-free &nbsp;vulnerability in the Animation component that, if successfully exploited, could lead to corruption of valid data and the execution of arbitrary code on affected systems.   "Google is aware of reports that an exploit for CVE-2022-0609  exists in the wild," the company&nbsp; said &nbsp;in a characteristically brief statement acknowledging active exploitation of the flaw. Credited with discovering and reporting the flaw are Adam Weidemann and Clément Lecigne of Google's Threat Analysis Group (TAG).   Also addressed by Google four other use-after-free flaws impacting File Manager, File Manager,&nbsp; ANGLE , and GPU, a heap buffer overflow bug in Tab Groups, an inte
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

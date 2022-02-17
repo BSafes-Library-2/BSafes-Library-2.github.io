@@ -30,6 +30,7 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://media.defense.gov/2022/Feb/15/2002939184/-1/-1/0/AA22-047A_Russian_State_Sponsored_Cyber_Actors_Target_CDC_Networks_20220216.PDF
 
 Law
 

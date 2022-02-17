@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Missouri prosecutor declines to file charges over ‘hacker’ allegation against reporter<a href="https://portswigger.net/daily-swig/missouri-prosecutor-declines-to-file-charges-over-hacker-allegation-against-reporter?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Missouri’s public prosecutor has decided not to file charges against a journalist accused of illegal hacking over his disclosure of security vulnerabilities in a state government-run website.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

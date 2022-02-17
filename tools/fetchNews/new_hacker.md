@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unskilled hacker linked to years of attacks on aviation, transport sectors<a href="https://www.bleepingcomputer.com/news/security/unskilled-hacker-linked-to-years-of-attacks-on-aviation-transport-sectors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For years, a low-skilled attacker has been using off-the-shelf malware in malicious campaigns aimed at companies in the aviation sector as well as in other sensitive industries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mysterious Hackers Targeting Aerospace and Defence Industries for Years<a href="https://www.zdnet.com/article/these-prolific-hackers-have-been-targeting-the-aerospace-and-defence-industries-with-trojan-malware-for-years/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dubbed TA2541 and detailed by researchers at Proofpoint, the persistent hacker group has been active since 2017 and has compromised hundreds of firms across North America, Europe, and the Middle East.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SafeDNS: Cloud-based Internet Security and Web Filtering Solution for MSPs<a href="https://thehackernews.com/2022/02/safedns-cloud-based-internet-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote workplace trend is getting the upper hand in 2022. A recent survey by IWG (the International Workplace Group) determined that 70% of the world's professionals work remotely at least one day a week, with 53% based outside their workplace at least half of the week.  Taking this into consideration, organizations have started looking for reliable partners that can deliver services and support consistently, for example, to install new hybrid infrastructure solutions while trusting them with the everyday functioning of their IT.  So far, MSPs have been meeting this demand by offering multiple solutions that help employees work remotely without any problems.  What are the main cybersecurity solutions remote workers need?   Multi-Factor Authentication  Virtual Private Network  DNS Filtering  to secure DNS traffic   Why is a web filtering important and what are the main features necessary for MSPs?  Managed service providers have been struggling with finding the right web filtering
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kali Linux 2022.1 released with 6 new tools, SSH wide compat, and more<a href="https://www.bleepingcomputer.com/news/security/kali-linux-20221-released-with-6-new-tools-ssh-wide-compat-and-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Offensive Security has released Kali Linux 2022.1, the first version of 2022, with improved accessibility features, a visual refresh, SSH wide compatibility, and of course, new toys to play with!
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

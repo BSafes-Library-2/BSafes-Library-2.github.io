@@ -8,6 +8,137 @@ nav_order: 900075
 
 ## Government
 ---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Identifies Next Set of Actively Exploited Vulnerabilities<a href="https://cyware.com/news/cisa-identifies-next-set-of-actively-exploited-vulnerabilities-c14a9701"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has added more flaws in its catalog of known exploited vulnerabilities. They were found in products of top tech giants, such as Microsoft, Oracle, Apache, and Apple. Also, there are some priority ones, for which the CISA has asked FCEB agencies to patch the vulnerabilities within February. ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Senators introduce online kids' safety bill<a href="https://thehill.com//policy/technology/overnights/594627-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Wednesday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Advisory on Russian Cyber Actors Targeting U.S. Contractors<a href="https://www.lawfareblog.com/cybersecurity-advisory-russian-cyber-actors-targeting-us-contractors"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the past two years, Russian state-sponsored cyber actors have been targeting U.S. cleared defense contractors.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine says Russia likely to blame for cyberattack<a href="https://thehill.com//policy/cybersecurity/594536-ukraine-says-russia-likely-to-blame-for-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian officials blamed Russia for the Tuesday&nbsp;cyberattack&nbsp;that hit the country's defense ministry and&nbsp;at least two banks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA added 9 new flaws to the Known Exploited Vulnerabilities Catalog, including Magento e Chrome bugs<a href="https://securityaffairs.co/wordpress/128070/hacking/known-exploited-vulnerabilities-catalog-chrome-magento.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA added to the Known Exploited Vulnerabilities Catalog&nbsp;another 9 security flaws actively exploited in the wild.
+
+
+
+US Cybersecurity and Infrastructure Security Agency (CISA) added nine new vulnerabilities to its Known Exploited Vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand government mandates bug reporting process for federal agencies<a href="https://portswigger.net/daily-swig/new-zealand-government-mandates-bug-reporting-process-for-federal-agencies?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its latest security manual, the GCSB said agencies should establish a process that would allow members of the public to report potential software vulnerabilities or other security problems.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA tells federal agencies to patch actively exploited Chrome, Magento bugs<a href="https://www.bleepingcomputer.com/news/security/cisa-tells-federal-agencies-to-patch-actively-exploited-chrome-magento-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has added nine new flaws to its collection of actively exploited vulnerabilities, including two recently patched zero-days impacting Google Chrome and Adobe Commerce/Magento Open Source.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA tells agencies to patch actively exploited Chrome, Magento bugs<a href="https://www.bleepingcomputer.com/news/security/cisa-tells-agencies-to-patch-actively-exploited-chrome-magento-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has added nine new flaws to its collection of actively exploited vulnerabilities, including two recently patched zero-days impacting Google Chrome and Adobe Commerce/Magento Open Source.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of Hacking Group Targeting Aviation and Defense Sectors<a href="https://thehackernews.com/2022/02/experts-warn-of-hacking-group-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Entities in the aviation, aerospace, transportation, manufacturing, and defense industries have been targeted by a persistent threat group since at least 2017 as part of a string of spear-phishing campaigns mounted to deliver a variety of remote access trojans (RATs) on compromised systems.  The use of commodity malware such as AsyncRAT and NetWire, among others, has led enterprise security firm Proofpoint to a "cybercriminal threat actor" codenamed TA2541  that employs "broad targeting with high volume messages." The ultimate objective of the intrusions is unknown as yet.  Social engineering lures used by the group does not rely on topical themes but rather leverages decoy messages related to&nbsp; aviation , logistics, transportation, and travel. That said, TA2541 did briefly pivot to&nbsp; COVID-19-themed lures &nbsp;in the spring of 2020, distributing emails concerning cargo shipments of personal protective equipment (PPE) or testing kits.   "While TA2541 is consistent i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

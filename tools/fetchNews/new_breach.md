@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked threat actors breached US cleared defense contractors (CDCs)<a href="https://securityaffairs.co/wordpress/128099/cyber-warfare-2/russian-hackers-breached-cleared-defense-contractors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked threat actors have breached the network of U.S. cleared defense contractors (CDCs) since at least January 2020.
+
+
+
+According to a joint alert published by the FBI, NSA, and CISA, Russia-linked threat actors conducted a cyber espionage campaign...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US says Russian state hackers breached defense contractors<a href="https://www.bleepingcomputer.com/news/security/us-says-russian-state-hackers-breached-defense-contractors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian-backed hackers have been targeting and compromising U.S. cleared defense contractors (CDCs) since at least January 2020 to gain access to and steal sensitive info that gives insight into U.S. defense and intelligence programs and capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Red Cross: State hackers breached our network using Zoho bug<a href="https://www.bleepingcomputer.com/news/security/red-cross-state-hackers-breached-our-network-using-zoho-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The International Committee of the Red Cross (ICRC) said today that the hack disclosed last month against its servers was a targeted attack likely coordinated by a&nbsp;state-backed hacking group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet Society Discloses Third-party Data Leak Exposed 80,000 Members’&nbsp;Login Credentials<a href="https://portswigger.net/daily-swig/internet-society-data-leak-exposed-80-000-members-nbsp-login-details?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Society (ISOC), a non-profit dedicated to keeping the internet open and secure, has blamed the inadvertent exposure of its 80,000-plus members’ personal data on a third-party vendor.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,180 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Issues Security Patches for High-Severity Flaws Affecting Multiple Products<a href="https://thehackernews.com/2022/02/vmware-issues-security-patches-for-high.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Tuesday patched several&nbsp; high-severity &nbsp; vulnerabilities &nbsp;impacting ESXi, Workstation, Fusion, Cloud Foundation, and NSX Data Center for vSphere that could be exploited to execute arbitrary code and cause a denial-of-service (DoS) condition.  As of writing, there's no evidence that any of the weaknesses are exploited in the wild. The list of six flaws is as follows –    CVE-2021-22040 &nbsp;(CVSS score: 8.4) - Use-after-free vulnerability in XHCI USB controller  CVE-2021-22041 &nbsp;(CVSS score: 8.4) - Double-fetch vulnerability in UHCI USB controller  CVE-2021-22042 &nbsp;(CVSS score: 8.2) - ESXi settingsd unauthorized access vulnerability  CVE-2021-22043 &nbsp;(CVSS score: 8.2) - ESXi settingsd TOCTOU vulnerability  CVE-2021-22050 &nbsp;(CVSS score: 5.3) - ESXi slow HTTP POST denial-of-service vulnerability  CVE-2022-22945 &nbsp;(CVSS score: 8.8) - CLI shell injection vulnerability in the NSX Edge appliance component   Successful exploitation of the flaws could allow a malicious actor with local ad
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts disclose details of Apache Cassandra DB RCE<a href="https://securityaffairs.co/wordpress/128079/breaking-news/apache-cassandra-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclose a now-patched remote code execution (RCE) vulnerability in the Apache Cassandra database software.
+
+
+
+JFrog researchers publicly disclosed details of a now-patched high-severity security vulnerability (CVE-2021-44521) in Apache Cassandra...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes flaws demonstrated at Chinese Tianfu Cup hacking contest<a href="https://securityaffairs.co/wordpress/128063/security/vmware-fixes-flaws-demonstrated-at-chinese-tianfu-cup-hacking-contest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed several high-severity flaws that were disclosed during China’s Tianfu Cup hacking contest.
+
+
+
+VMware addressed several high-severity vulnerabilities that were demonstrated by Kunlun Lab team during China’s Tianfu Cup 2021 hacking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Zero-Day Under Active Attack: Patch ASAP<a href="https://threatpost.com/google-chrome-zero-day-under-attack/178428/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The year’s 1st Chrome zero-day can lead to all sorts of misery, ranging from data corruption to the execution of arbitrary code on vulnerable systems. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity RCE Security Bug Reported in Apache Cassandra Database Software<a href="https://thehackernews.com/2022/02/high-severity-rce-security-bug-reported.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have revealed details of a now-patched high-severity security vulnerability in Apache Cassandra that, if left unaddressed, could be abused to gain remote code execution (RCE) on affected installations.  "This Apache security vulnerability is easy to exploit and has the potential to wreak havoc on systems, but luckily only manifests in non-default configurations of Cassandra," Omer Kaspi, security researcher at DevOps firm JFrog,&nbsp; said &nbsp;in a technical write-up published Tuesday.  Apache Cassandra is an open-source, distributed, NoSQL database management system for managing very large amounts of structured data across commodity servers.   Tracked as&nbsp; CVE-2021-44521 &nbsp;(CVSS score: 8.4), the vulnerability concerns a specific scenario where the configuration for user-defined functions ( UDFs ) are enabled, effectively allowing an attacker to leverage the&nbsp; Nashorn &nbsp;JavaScript engine, escape the sandbox, and achieve execution of untrusted code.   Specifically, it was fou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google almost doubles Linux Kernel, Kubernetes zero-day rewards<a href="https://www.bleepingcomputer.com/news/google/google-almost-doubles-linux-kernel-kubernetes-zero-day-rewards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google says it bumped up rewards for reports of Linux Kernel, Kubernetes, Google Kubernetes Engine (GKE), or kCTF vulnerabilities by adding bigger bonuses for zero-day bugs and exploits using unique exploitation techniques.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Patches Vulnerabilities Reported by Researchers to Chinese Government<a href="https://www.securityweek.com/vmware-patches-vulnerabilities-reported-researchers-chinese-government?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security vulnerabilities impact VMware ESXi, Workstation, and Fusion, and they were used at the 2021 Tianfu Cup hacking contest by Kunlun Lab, the team that won the event.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP extends security Updates for some EOL devices<a href="https://securityaffairs.co/wordpress/128045/hacking/qnap-extends-security-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP extended the security update window for some devices that have reached end-of-life (EOL).
+
+
+
+Taiwanese vendor QNAP extended the security update for some devices that have reached end-of-life (EOL) years ago.
+
+
+
+The company decided...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Squirrelwaffle, Microsoft Exchange Server vulnerabilities exploited for financial fraud<a href="https://www.zdnet.com/article/squirrelwaffle-loader-leverages-microsoft-exchange-server-vulns-for-financial-fraud/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Sophos revealed a recent incident in which a Microsoft Exchange Server, which had not been patched to protect it against a set of critical vulnerabilities disclosed last year.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes a Chrome zero-day flaw actively exploited in attacks<a href="https://securityaffairs.co/wordpress/128035/hacking/chrome-zero-day-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google fixed a high-severity zero-day flaw actively exploited with the release of Chrome emergency update for Windows, Mac, and Linux.
+
+
+
+Google fixed a high-severity zero-day flaw, tracked as CVE-2022-0609, actively exploited with the release of Chrome...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SMS PVA Services' Use of Infected Android Phones Reveals Flaws in SMS Verification<a href="https://www.trendmicro.com/en_us/research/22/b/sms-pva-services-use-of-infected-android-phones-reveals-flaws-in-sms-verification.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The core security issue is that an enterprise has the ability to monitor and intercept SMSes from tons of devices globally, and then profit from it by offering the service to whoever can pay for it.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
