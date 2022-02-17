@@ -34,6 +34,588 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of BEC attackers impersonating CEOs in virtual meetings<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-bec-attackers-impersonating-ceos-in-virtual-meetings/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned today that US organizations and individuals are being increasingly targeted in BEC (business email compromise) attacks on virtual meeting platforms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Identifies Next Set of Actively Exploited Vulnerabilities<a href="https://cyware.com/news/cisa-identifies-next-set-of-actively-exploited-vulnerabilities-c14a9701"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has added more flaws in its catalog of known exploited vulnerabilities. They were found in products of top tech giants, such as Microsoft, Oracle, Apache, and Apple. Also, there are some priority ones, for which the CISA has asked FCEB agencies to patch the vulnerabilities within February. ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Senators introduce online kids' safety bill<a href="https://thehill.com//policy/technology/overnights/594627-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Wednesday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Webinar] When More Is Not Better: Solving Alert Overload<a href="https://thehackernews.com/2022/02/webinar-when-more-is-not-better-solving.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increasing volume and sophistication of cyberattacks have naturally led many companies to invest in additional cybersecurity technologies. We know that expanded threat detection capabilities are necessary for protection, but they have also led to several unintended consequences. The "more is not always better" adage fits this situation perfectly.  An upcoming webinar by cybersecurity company Cynet ( register here ) sheds light on alert overload, the result of too many alerts. Beyond discussing the stress and strain placed on cybersecurity teams trying to sift through an ongoing barrage of threat alerts, Cynet shows how this situation actually degrades cybersecurity effectiveness. Then Cynet will talk about the way out – something important to almost every company suffering from alert overload.  The Real Impact of Alert Overload  It's interesting that threat alerts, which are so vital to protection have also become an obstacle. Cynet lays out two key reasons why this has come about
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Advisory on Russian Cyber Actors Targeting U.S. Contractors<a href="https://www.lawfareblog.com/cybersecurity-advisory-russian-cyber-actors-targeting-us-contractors"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the past two years, Russian state-sponsored cyber actors have been targeting U.S. cleared defense contractors.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked threat actors breached US cleared defense contractors (CDCs)<a href="https://securityaffairs.co/wordpress/128099/cyber-warfare-2/russian-hackers-breached-cleared-defense-contractors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked threat actors have breached the network of U.S. cleared defense contractors (CDCs) since at least January 2020.
+
+
+
+According to a joint alert published by the FBI, NSA, and CISA, Russia-linked threat actors conducted a cyber espionage campaign...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Ravages Customers of Amazon, PayPal and Other Top Brands<a href="https://threatpost.com/trickbot-amazon-paypal-top-brands/178483/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The resurgent trojan has targeted 60 top companies to harvest credentials for a wide range of applications, with an eye to virulent follow-on attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US says Russian state hackers breached defense contractors<a href="https://www.bleepingcomputer.com/news/security/us-says-russian-state-hackers-breached-defense-contractors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian-backed hackers have been targeting and compromising U.S. cleared defense contractors (CDCs) since at least January 2020 to gain access to and steal sensitive info that gives insight into U.S. defense and intelligence programs and capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Drive Now Accounts for 50% of Malicious Document Downloads<a href="https://cyware.com/news/google-drive-now-accounts-for-50-of-malicious-document-downloads-c0b6ab5c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Atlas VPN, nearly 50% of malicious Office documents were downloaded from Google Drive in 2021. Until 2020, Microsoft OneDrive was the major source of malicious office documents at 34% share. Cybercriminals spread these by creating free accounts on cloud apps hosting services, upload ma ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US says Russian hackers targeted defense contractors<a href="https://thehill.com//policy/defense/594563-us-says-russian-hackers-targeted-defense-contractors"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. intelligence community says that Russian-sponsored actors have been targeting defense contractors for at least the past two years and in some cases have gained access to sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot Malware Targeted Customers of 60 High-Profile Companies Since 2020<a href="https://thehackernews.com/2022/02/trickbot-malware-targeted-customers-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious TrickBot malware is targeting customers of 60 financial and technology companies, including cryptocurrency firms, primarily located in the U.S., even as its operators have updated the botnet with new anti-analysis features.  "TrickBot is a sophisticated and versatile malware with more than 20 modules that can be downloaded and executed on demand," Check Point researchers Aliaksandr Trafimchuk and Raman Ladutska  said  in a report published today.   In addition to being both prevalent and persistent, TrickBot has  continually   evolved  its tactics to go past security and detection layers. To that end, the malware's "injectDll" web-injects module, which is responsible for stealing banking and credential data, leverages anti-deobfuscation techniques to crash the web page and thwart attempts to scrutinize the source code.  Also put in place are anti-analysis guardrails to prevent security researchers from sending automated requests to command-and-con
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot targets customers of 60 High-Profile companies<a href="https://securityaffairs.co/wordpress/128087/malware/trickbot-targets-60-high-profile-companies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TrickBot malware is targeting customers of 60 financial and technology companies with new anti-analysis features.
+
+
+
+The infamous TrickBot malware was employed in attacks against customers of 60 financial and technology companies with new anti-analysis...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Red Cross: State hackers breached our network using Zoho bug<a href="https://www.bleepingcomputer.com/news/security/red-cross-state-hackers-breached-our-network-using-zoho-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The International Committee of the Red Cross (ICRC) said today that the hack disclosed last month against its servers was a targeted attack likely coordinated by a state-backed hacking group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4Shell: A retrospective<a href="https://www.helpnetsecurity.com/2022/02/15/log4j-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker could use this notorious vulnerability (dubbed Log4Shell) to force a victim to download, install and execute externally hosted malicious payloads with relative ease.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine says Russia likely to blame for cyberattack<a href="https://thehill.com//policy/cybersecurity/594536-ukraine-says-russia-likely-to-blame-for-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian officials blamed Russia for the Tuesday cyberattack that hit the country's defense ministry and at least two banks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Issues Security Patches for High-Severity Flaws Affecting Multiple Products<a href="https://thehackernews.com/2022/02/vmware-issues-security-patches-for-high.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Tuesday patched several  high-severity   vulnerabilities  impacting ESXi, Workstation, Fusion, Cloud Foundation, and NSX Data Center for vSphere that could be exploited to execute arbitrary code and cause a denial-of-service (DoS) condition.  As of writing, there's no evidence that any of the weaknesses are exploited in the wild. The list of six flaws is as follows –    CVE-2021-22040  (CVSS score: 8.4) - Use-after-free vulnerability in XHCI USB controller  CVE-2021-22041  (CVSS score: 8.4) - Double-fetch vulnerability in UHCI USB controller  CVE-2021-22042  (CVSS score: 8.2) - ESXi settingsd unauthorized access vulnerability  CVE-2021-22043  (CVSS score: 8.2) - ESXi settingsd TOCTOU vulnerability  CVE-2021-22050  (CVSS score: 5.3) - ESXi slow HTTP POST denial-of-service vulnerability  CVE-2022-22945  (CVSS score: 8.8) - CLI shell injection vulnerability in the NSX Edge appliance component   Successful exploitation of the flaws could allow a malicious actor with local ad
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts disclose details of Apache Cassandra DB RCE<a href="https://securityaffairs.co/wordpress/128079/breaking-news/apache-cassandra-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclose a now-patched remote code execution (RCE) vulnerability in the Apache Cassandra database software.
+
+
+
+JFrog researchers publicly disclosed details of a now-patched high-severity security vulnerability (CVE-2021-44521) in Apache Cassandra...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher 'reverses' redaction, extracts words from pixelated image<a href="https://www.bleepingcomputer.com/news/security/researcher-reverses-redaction-extracts-words-from-pixelated-image/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has demonstrated how he was able to successfully recover text that had been redacted using the pixelation technique. Further, the researcher has released a GitHub tool that can be used by anyone to reconstruct text from obscure, pixelated images.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Missouri prosecutor declines to file charges over ‘hacker’ allegation against reporter<a href="https://portswigger.net/daily-swig/missouri-prosecutor-declines-to-file-charges-over-hacker-allegation-against-reporter?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Missouri’s public prosecutor has decided not to file charges against a journalist accused of illegal hacking over his disclosure of security vulnerabilities in a state government-run website.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU Data Protection Watchdog Calls for Ban on Pegasus-like Commercial Spyware<a href="https://thehackernews.com/2022/02/eu-data-protection-watchdog-calls-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union's data protection authority on Tuesday called for a ban on the development and the use of Pegasus-like commercial spyware in the region, calling out the technology's "unprecedented level of intrusiveness" that could endanger users' right to privacy.  "Pegasus constitutes a paradigm shift in terms of access to private communications and devices, which is able to affect the very essence of our fundamental rights, in particular the right to privacy," the European Data Protection Supervisor (EDPS)  said  in its preliminary remarks. "This fact makes its use incompatible with our democratic values."   Pegasus  is a piece of highly advanced military-grade intrusion software developed by Israeli company NSO Group that's capable of breaking into smartphones running Android and iOS, turning the devices into a remote monitoring tool capable of extracting sensitive information, recording conversations, and tracking users' moveme
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA added 9 new flaws to the Known Exploited Vulnerabilities Catalog, including Magento e Chrome bugs<a href="https://securityaffairs.co/wordpress/128070/hacking/known-exploited-vulnerabilities-catalog-chrome-magento.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA added to the Known Exploited Vulnerabilities Catalog another 9 security flaws actively exploited in the wild.
+
+
+
+US Cybersecurity and Infrastructure Security Agency (CISA) added nine new vulnerabilities to its Known Exploited Vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore introduces strong measures to stop online scams<a href="https://www.theregister.com/2022/02/16/singapore_anti_scam_measures/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Singapore will step up up efforts to stamp out phishing and spoofing, ministers told the parliament on Tuesday. The topic gained attention after instances of attacks and scams soared recently.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes flaws demonstrated at Chinese Tianfu Cup hacking contest<a href="https://securityaffairs.co/wordpress/128063/security/vmware-fixes-flaws-demonstrated-at-chinese-tianfu-cup-hacking-contest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed several high-severity flaws that were disclosed during China’s Tianfu Cup hacking contest.
+
+
+
+VMware addressed several high-severity vulnerabilities that were demonstrated by Kunlun Lab team during China’s Tianfu Cup 2021 hacking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply chain shortages create a cybersecurity nightmare<a href="https://www.helpnetsecurity.com/2022/02/16/manufacturers-supply-chains/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Supply chain issues are already one of the weakest links for an organization, even in the best of times. Challenges are not just in production capabilities, but also in security of the final product.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Malware Spreads by Hijacking Email Threats and Luring Users with Malicious Attachments<a href="https://unit42.paloaltonetworks.com/new-emotet-infection-method/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As early as December 21, 2021, researchers from Palo Alto Networks' Unit 42 observed a new infection method for the highly prevalent malware family Emotet involving thread hijacking.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhiteSource acquires DefenseCode and Xanitizer to enter into the SAST market<a href="https://www.helpnetsecurity.com/2022/02/16/whitesource-acquisitions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhiteSource announced the company’s expansion into custom code security following two recent acquisitions and the availability of its static application security testing (SAST) solution.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand government mandates bug reporting process for federal agencies<a href="https://portswigger.net/daily-swig/new-zealand-government-mandates-bug-reporting-process-for-federal-agencies?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its latest security manual, the GCSB said agencies should establish a process that would allow members of the public to report potential software vulnerabilities or other security problems.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot has infected 140,000-plus machines since late 2020<a href="https://www.techtarget.com/searchsecurity/news/252513466/Trickbot-has-infected-140000-plus-machines-since-late-2020?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In October 2020, Microsoft reported that more than 90% of Trickbot's infrastructure had been disabled. However, the threat actor bounced back and began thriving soon after.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SquirrelWaffle Adds a Twist of Fraud to Exchange Server Malspamming<a href="https://threatpost.com/squirrelwaffle-fraud-exchange-server-malspamming/178434/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SquirrelWaffle attackers now use typosquatting to keep sending spam, even after Exchange servers are patched for ProxyLogon/ProxyShell.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Zero-Day Under Active Attack: Patch ASAP<a href="https://threatpost.com/google-chrome-zero-day-under-attack/178428/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The year’s 1st Chrome zero-day can lead to all sorts of misery, ranging from data corruption to the execution of arbitrary code on vulnerable systems. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA2541: APT Has Been Shooting RATs at Aviation for Years<a href="https://threatpost.com/ta2541-apt-rats-aviation/178422/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since 2017, the attacker has flung simple off-the-shelf malware in malicious email campaigns aimed at aviation, aerospace, transportation and defense. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA tells federal agencies to patch actively exploited Chrome, Magento bugs<a href="https://www.bleepingcomputer.com/news/security/cisa-tells-federal-agencies-to-patch-actively-exploited-chrome-magento-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has added nine new flaws to its collection of actively exploited vulnerabilities, including two recently patched zero-days impacting Google Chrome and Adobe Commerce/Magento Open Source.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity RCE Security Bug Reported in Apache Cassandra Database Software<a href="https://thehackernews.com/2022/02/high-severity-rce-security-bug-reported.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have revealed details of a now-patched high-severity security vulnerability in Apache Cassandra that, if left unaddressed, could be abused to gain remote code execution (RCE) on affected installations.  "This Apache security vulnerability is easy to exploit and has the potential to wreak havoc on systems, but luckily only manifests in non-default configurations of Cassandra," Omer Kaspi, security researcher at DevOps firm JFrog,  said  in a technical write-up published Tuesday.  Apache Cassandra is an open-source, distributed, NoSQL database management system for managing very large amounts of structured data across commodity servers.   Tracked as  CVE-2021-44521  (CVSS score: 8.4), the vulnerability concerns a specific scenario where the configuration for user-defined functions ( UDFs ) are enabled, effectively allowing an attacker to leverage the  Nashorn  JavaScript engine, escape the sandbox, and achieve execution of untrusted code.   Specifically, it was fou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian military agencies, state-owned banks hit by DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/ukrainian-military-agencies-state-owned-banks-hit-by-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ministry of Defense and the Armed Forces of Ukraine and two of the country's state-owned banks, Privatbank (Ukraine's largest bank) and Oschadbank (the State Savings Bank), are being hammered by Distributed Denial-of-Service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Agrees to Pay $90 Million to Settle Decade-Old Privacy Violation Case<a href="https://thehackernews.com/2022/02/facebook-agrees-to-pay-90-million-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms has agreed to pay $90 million to settle a lawsuit over the company's use of cookies to allegedly track Facebook users' internet activity even after they had logged off from the platform.  In addition, the social media company will be required to delete all of the data it illegally collected from those users. The development was first reported by  Variety .   The decade-old case, filed in 2012, centered around Facebook's use of the proprietary "Like" button to track users as they visited third-party websites – regardless of whether they actually used the button – in violation of the federal wiretapping laws, and then allegedly compiling those browsing histories into profiles for selling the information to advertisers.  Based on the terms of the proposed settlement, users who browsed non-Facebook websites that included the "Like" button between April 22, 2010, and September 26, 2011, will be covered.  "Reaching a settlement in this cas
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 15, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -502,7 +1084,7 @@ Kali Linux 2022.1 released with 6 new tools, SSH wide compat, and more<a href="h
 </p>
 <details>
   <summary>Abstract</summary>
-Offensive Security has released ​Kali Linux 2022.1, the first version of 2022, with improved accessibility features, a visual refresh, SSH wide compatibility, and of course, new toys to play with!
+Offensive Security has released Kali Linux 2022.1, the first version of 2022, with improved accessibility features, a visual refresh, SSH wide compatibility, and of course, new toys to play with!
 </details>
 <div style="text-align: right" markdown="1">
 BleepingComputer
