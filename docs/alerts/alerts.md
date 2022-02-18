@@ -7,14 +7,14 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2022 - FBI
+February 16, 2022 - FBI, NSA, CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Business Email Compromise: Virtual Meeting Platforms <a href="https://www.ic3.gov/Media/Y2022/PSA220216"> Full Text</a>
+Russian State-Sponsored Cyber Actors Target Cleared Defense Contractor Networks to Obtain Sensitive U.S. Defense Information and Technology <a href="https://publications.bsafes.com/docs/fbi/joint-cyber-security-advisory-2022-02-16-russian-state-sponsored-cyber-actors-target-cleared-defense-contractor-networks/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Business Email Compromise/Email Account Compromise (BEC/EAC) is a sophisticated scam that targets both businesses and individuals who perform legitimate transfer-of-funds requests.
+From at least January 2020, through February 2022, the Federal Bureau of Investigation (FBI), National Security Agency (NSA), and Cybersecurity and Infrastructure Security Agency (CISA) have observed regular targeting of U.S. cleared defense contractors (CDCs) by Russian state-sponsored cyber actors. The actors have targeted both large and small CDCs and subcontractors with varying levels of cybersecurity protocols and resources. 
 </details>
 </div>
 

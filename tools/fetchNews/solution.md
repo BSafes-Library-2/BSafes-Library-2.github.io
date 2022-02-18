@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New quantum key distribution network resistant to quantum attacks<a href="https://www.csoonline.com/article/3650748/new-quantum-key-distribution-network-resistant-to-quantum-attacks.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A QKD channel was multiplexed on the same fiber as ultra-high bandwidth 800 Gbps optical channels for the first time and used to provide keys for encryption of the data stream.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This New Tool Can Retrieve Pixelated Text from Redacted Documents<a href="https://thehackernews.com/2022/02/this-new-tool-can-retrieve-pixelated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The practice of blurring out text using a method called pixelation  may not be as secure as previously thought.  While the most foolproof way of concealing sensitive textual information is to use opaque black bars, other redaction methods like pixelation can achieve the opposite effect, enabling the reversal of pixelized text back into its original form.  Dan Petro, a lead researcher at offensive security firm Bishop Fox, has&nbsp; demonstrated &nbsp;a new open-source tool called&nbsp; Unredacter &nbsp;to reconstruct text from the pixelated images, effectively leaking the very information that was meant to be protected.   The tool is also seen as an improvement over an existing utility named&nbsp; Depix , which works by looking up what permutations of pixels could have resulted in certain pixelated blocks to recover the text.   The threat model works on the underlying hypothesis that given a piece of text containing both redacted and un-redacted information, the attacker uses the information about the font si
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

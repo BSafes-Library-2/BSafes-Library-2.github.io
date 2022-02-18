@@ -8,6 +8,21 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA2541: A Tale of New Mysterious Hackers<a href="https://cyware.com/news/ta2541-a-tale-of-new-mysterious-hackers-72a99e10"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint discovered a new threat group, dubbed TA2541, targeting entities in the aviation, aerospace, transportation, defense, and manufacturing sectors, since at least 2017. The most delivered RAT in TA2541 campaigns include AsyncRAT, followed by Parallax, NetWire, and WSH RAT. The campaigns are ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

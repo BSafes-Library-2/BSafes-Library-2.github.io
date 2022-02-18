@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Reporting Proposals: Assessing Liability Protections and Legal Privileges<a href="https://www.lawfareblog.com/cyber-reporting-proposals-assessing-liability-protections-and-legal-privileges"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Where is Congress on cyber reporting requirements?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Getting Your SOC 2 Compliance as a SaaS Company<a href="https://thehackernews.com/2022/02/getting-your-soc-2-compliance-as-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you haven't heard of the&nbsp; term , you will soon enough. SOC 2, meaning  System and Organization Controls 2 , is an auditing procedure developed by the American Institute of CPAs (AICPA). Having SOC 2 compliance means you have implemented organizational controls and practices that provide assurance for the safeguarding and security of client data. In other words, you have to show (e.g., document and demonstrate) that you are acting in good faith with other people's information. In its simplest definition, it's a report card from an auditor.&nbsp;  At Rewind, before SOC 2, we had some processes in place, such as change management procedures for when emergency fixes need to be released to production quickly. But after beginning our SOC 2 journey we realized that we did not have a great way to track the reasoning behind a required emergency change, and this was required for our SOC 2 audit. So we worked with our auditor to set up a continuous auditing system for these requests, p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
