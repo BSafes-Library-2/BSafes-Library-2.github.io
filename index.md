@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Can Crash Cisco Email Security Appliances by Sending Malicious Emails<a href="https://thehackernews.com/2022/02/attackers-can-crash-cisco-email.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released security updates to contain three vulnerabilities affecting its products, including one high-severity flaw in its Email Security Appliance (ESA) that could result in a denial-of-service (DoS) condition on an affected device.  The weakness, assigned the identifier CVE-2022-20653 (CVSS score: 7.5), stems from a case of insufficient error handling in  DNS  name resolution that could be abused by an unauthenticated, remote attacker to send a specially crafted email message and cause a DoS.   "A successful exploit could allow the attacker to cause the device to become unreachable from management interfaces or to process additional email messages for a period of time until the device recovers, resulting in a DoS condition," the company  said  in an advisory. "Continued attacks could cause the device to become completely unavailable, resulting in a persistent DoS condition."  The flaw impacts Cisco ESA devices running Cisco AsyncOS Software running vers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Critical RCE Discovered in Adobe Commerce and Magento Platforms<a href="https://thehackernews.com/2022/02/another-critical-rce-discovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe on Thursday updated its advisory for an  actively exploited zero-day  affecting Adobe Commerce and Magento Open Source to patch a newly discovered flaw that could be weaponized to achieve arbitrary code execution.   Tracked as  CVE-2022-24087 , the issue – like CVE-2022-24086 – is rated 9.8 on the CVSS vulnerability scoring system and relates to an " Improper Input Validation " bug that could result in the execution of malicious code.  "We have discovered additional security protections necessary for CVE-2022-24086 and have released an update to address them (CVE-2022-24087)," the company  said  in a revised bulletin. "Adobe is not aware of any exploits in the wild for the issue addressed in this update (CVE-2022-24087)."   As before, Adobe Commerce and Magento Open Source versions 2.4.3-p1 and earlier and 2.3.7-p2 and earlier are impacted by CVE-2022-24087, but it's worth noting that versions 2.3.0 to 2.3.3 are not vulnerable.  "A new patc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
