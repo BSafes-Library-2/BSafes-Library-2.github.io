@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers create exploit for critical Magento bug, Adobe updates advisory<a href="https://www.bleepingcomputer.com/news/security/researchers-create-exploit-for-critical-magento-bug-adobe-updates-advisory/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Offensive security researchers have created exploit code for CVE-2022-24086, the critical vulnerability affecting Adobe Commerce and Magento Open Source that Adobe that patched in an out-of-band update last Sunday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub code scanning now finds more security vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/github-code-scanning-now-finds-more-security-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Code hosting platform GitHub&nbsp;today launched&nbsp;new machine learning-based&nbsp;code scanning analysis features that will automatically discover more common security vulnerabilities before they end up in production.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poisoned pipelines: Security researcher explores attack methods in CI environments<a href="https://portswigger.net/daily-swig/poisoned-pipelines-security-researcher-explores-attack-methods-in-ci-environments?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has described how abusing permissions in source code management (SCM) repositories can lead to CI poisoning, also known as ‘poisoned pipeline attacks’.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Specially crafted emails could crash Cisco ESA devices<a href="https://securityaffairs.co/wordpress/128131/hacking/cisco-esa-dos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco warns of a DoS issue affecting its Email Security Appliance (ESA) product that could be exploited using specially crafted emails.
+
+
+
+Cisco ESA products are affected by a DoS vulnerability, tracked as&nbsp;CVE-2022-20653, that resides in the DNS-based...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco bug can let hackers crash Cisco Secure Email gateways<a href="https://www.bleepingcomputer.com/news/security/cisco-bug-can-let-hackers-crash-cisco-secure-email-gateways/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has&nbsp;addressed a high severity vulnerability that could allow remote attackers to crash Cisco Secure Email appliances using maliciously&nbsp;crafted email messages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity RCE Bug Found in Popular Apache Cassandra Database<a href="https://threatpost.com/high-severity-rce-bug-found-in-popular-apache-cassandra-database/178464/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the plus side, only instances with non-standard not recommended configurations are vulnerable. On the downside, those configurations aren’t easy to track down, and it’s easy as pie to exploit. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical VMware Bugs Open ESXi, Fusion &amp; Workstation to Attackers<a href="https://threatpost.com/critical-vmware-bugs-esxi-fusion-workstation/178461/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of five security vulnerabilities could lead to a range of bad outcomes for virtual-machine enthusiasts, including command execution and DoS.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,63 @@ nav_order: 900072
 
 ## General
 ---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Drive Now Accounts for 50% of Malicious Document Downloads<a href="https://cyware.com/news/google-drive-now-accounts-for-50-of-malicious-document-downloads-c0b6ab5c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Atlas VPN, nearly 50% of malicious Office documents were downloaded from Google Drive in 2021. Until 2020, Microsoft OneDrive was the major source of malicious office documents at 34% share. Cybercriminals spread these by creating free accounts on cloud apps hosting services, upload ma ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4Shell: A retrospective<a href="https://www.helpnetsecurity.com/2022/02/15/log4j-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker could use this notorious vulnerability (dubbed Log4Shell) to force a victim to download, install and execute externally hosted malicious payloads with relative ease.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher 'reverses' redaction, extracts words from pixelated image<a href="https://www.bleepingcomputer.com/news/security/researcher-reverses-redaction-extracts-words-from-pixelated-image/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has demonstrated how he was able to successfully recover text that had been redacted using the pixelation technique. Further, the researcher&nbsp;has released a GitHub tool that can be used by anyone to reconstruct text from obscure, pixelated images.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply chain shortages create a cybersecurity nightmare<a href="https://www.helpnetsecurity.com/2022/02/16/manufacturers-supply-chains/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Supply chain issues are already one of the weakest links for an organization, even in the best of times. Challenges are not just in production capabilities, but also in security of the final product.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

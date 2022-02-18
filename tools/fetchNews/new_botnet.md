@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of a New Golang-based Botnet Under Continuous Development<a href="https://thehackernews.com/2022/02/researchers-warn-of-new-golang-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unpacked a new Golang-based botnet called&nbsp; Kraken &nbsp;that's under active development and features an array of backdoor capabilities to siphon sensitive information from compromised Windows hosts.  "Kraken already features the ability to download and execute secondary payloads, run shell commands, and take screenshots of the victim's system," threat intelligence firm ZeroFox&nbsp; said &nbsp;in a report published Wednesday.   Discovered first in October 2021, early variants of Kraken have been found to be based on source code uploaded to GitHub, although it's unclear if the repository in question belongs to the malware's operators or if they simply chose to start their development using the code as a foundation.   The botnet – not to be confused with a&nbsp; 2008 botnet &nbsp;of the same name – is perpetuated using&nbsp; SmokeLoader , which chiefly acts as a loader for next-stage malware, allowing it to quickly scale in size and expand its network.  Kraken
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Kraken botnet is allowing operators to earn USD 3,000 every month<a href="https://securityaffairs.co/wordpress/128116/malware/golang-kraken-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new Golang-based botnet called&nbsp;Kraken&nbsp;that is under active development and supports a lot of backdoor capabilities.
+
+
+
+Kraken is a new Golang-based botnet discovered in late October 2021 by researchers from threat intelligence...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

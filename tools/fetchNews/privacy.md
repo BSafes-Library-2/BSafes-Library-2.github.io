@@ -8,6 +8,42 @@ nav_order: 900165
 
 ## Privacy
 ---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU Data Protection Watchdog Calls for Ban on Pegasus-like Commercial Spyware<a href="https://thehackernews.com/2022/02/eu-data-protection-watchdog-calls-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union's data protection authority on Tuesday called for a ban on the development and the use of Pegasus-like commercial spyware in the region, calling out the technology's "unprecedented level of intrusiveness" that could endanger users' right to privacy.  "Pegasus constitutes a paradigm shift in terms of access to private communications and devices, which is able to affect the very essence of our fundamental rights, in particular the right to privacy," the European Data Protection Supervisor (EDPS)&nbsp; said &nbsp;in its preliminary remarks. "This fact makes its use incompatible with our democratic values."   Pegasus &nbsp;is a piece of highly advanced military-grade intrusion software developed by Israeli company NSO Group that's capable of breaking into smartphones running Android and iOS, turning the devices into a remote monitoring tool capable of extracting sensitive information, recording conversations, and tracking users' moveme
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote sex toys might spice up your love life – but crooks could also get a kick out of them￼<a href="https://securityaffairs.co/wordpress/128028/hacking/lovense-remote-sex-toys-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A CyberNews investigation has revealed that Lovense remote sex toy users might be at risk from threat actors, due to poor security features.
+
+
+
+Original post: https://cybernews.com/privacy/remote-sex-toys-might-spice-up-your-love-life-but-crooks-could-also-get-a-kick-out-of-them/
+
+
+
+Lovense...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,84 @@ nav_order: 900015
 
 ## Attack
 ---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors leverage Microsoft Teams to spread malware<a href="https://securityaffairs.co/wordpress/128136/hacking/microsoft-teams-attack-vector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers compromise Microsoft Teams accounts to attach malicious executables to chat and spread them to participants in the conversation.
+
+
+
+While the popularity of Microsoft Teams continues to grow, with roughly 270 million monthly active users, threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation-state actors hacked Red Cross exploiting a Zoho bug<a href="https://securityaffairs.co/wordpress/128110/hacking/nation-state-actors-hacked-red-cross-exploiting-a-zoho-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The International Committee of the Red Cross (ICRC) said attackers that breached its network last month exploited a Zoho bug.
+
+
+
+The International Committee of the Red Cross (ICRC) revealed that the attack that breached its network in January was conducted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive LinkedIn Phishing, Bot Attacks Feed on the Job-Hungry<a href="https://threatpost.com/massive-linkedin-phishing-bot-attacks-hungry-job-seekers/178476/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing attacks are spoofing LinkedIn to target ‘Great Resignation’ job hunters, who are also being preyed on by huge data-scraping bot attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Now Spreading Through Malicious Excel Files<a href="https://threatpost.com/emotet-spreading-malicious-excel-files/178444/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing malicious email campaign that includes macro-laden files and multiple layers of obfuscation has been active since late December.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moses Staff Hackers Targeting Israeli Organizations for Cyber Espionage<a href="https://thehackernews.com/2022/02/moses-staff-hackers-targeting-israeli.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The politically motivated Moses Staff  hacker group has been observed using a custom multi-component toolset with the goal of carrying out espionage against its targets as part of a new campaign that exclusively singles out Israeli organizations.  First&nbsp; publicly documented &nbsp;in late 2021, Moses Staff is believed to be sponsored by the Iranian government, with attacks reported against entities in Israel, Italy, India, Germany, Chile, Turkey, the U.A.E., and the U.S.  Earlier this month, the hacker collective was observed incorporating a previously undocumented remote access trojan (RAT) called " StrifeWater " that masquerades as the Windows Calculator app to evade detection.   "Close examination reveals that the group has been active for over a year, much earlier than the group's first official public exposure, managing to stay under the radar with an extremely low detection rate," findings from FortiGuard Labs&nbsp; reveal .  The latest threat activity involves an a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

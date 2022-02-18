@@ -8,6 +8,34 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian military agencies, state-owned banks hit by DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/ukrainian-military-agencies-state-owned-banks-hit-by-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ministry of Defense and the Armed Forces of Ukraine and two of the country's state-owned banks,&nbsp;Privatbank (Ukraine's largest bank)&nbsp;and Oschadbank (the State Savings Bank), are being hammered by Distributed Denial-of-Service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian military agencies, banks hit by DDoS attacks, defacements<a href="https://www.bleepingcomputer.com/news/security/ukrainian-military-agencies-banks-hit-by-ddos-attacks-defacements/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ministry of Defense and the Armed Forces of Ukraine and two of the country's state-owned banks,&nbsp;Privatbank (Ukraine's largest bank)&nbsp;and Oschadbank (the State Savings Bank), are being hammered by Distributed Denial-of-Service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

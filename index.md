@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers create exploit for critical Magento bug, Adobe updates advisory<a href="https://www.bleepingcomputer.com/news/security/researchers-create-exploit-for-critical-magento-bug-adobe-updates-advisory/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA2541: A Tale of New Mysterious Hackers<a href="https://cyware.com/news/ta2541-a-tale-of-new-mysterious-hackers-72a99e10"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley — FBI forms crypto unit<a href="https://thehill.com//policy/technology/overnights/594836-hillicon-valley"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Bringing Privacy Sandbox to Android to Limit Sharing of User Data<a href="https://thehackernews.com/2022/02/google-bringing-privacy-sandbox-to.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Reporting Proposals: Assessing Liability Protections and Legal Privileges<a href="https://www.lawfareblog.com/cyber-reporting-proposals-assessing-liability-protections-and-legal-privileges"> Full Text</a>
@@ -115,7 +115,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors leverage Microsoft Teams to spread malware<a href="https://securityaffairs.co/wordpress/128136/hacking/microsoft-teams-attack-vector.html"> Full Text</a>
@@ -135,7 +135,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub code scanning now finds more security vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/github-code-scanning-now-finds-more-security-vulnerabilities/"> Full Text</a>
@@ -151,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poisoned pipelines: Security researcher explores attack methods in CI environments<a href="https://portswigger.net/daily-swig/poisoned-pipelines-security-researcher-explores-attack-methods-in-ci-environments?&web_view=true"> Full Text</a>
@@ -167,7 +167,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Getting Your SOC 2 Compliance as a SaaS Company<a href="https://thehackernews.com/2022/02/getting-your-soc-2-compliance-as-saas.html"> Full Text</a>
@@ -183,7 +183,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Specially crafted emails could crash Cisco ESA devices<a href="https://securityaffairs.co/wordpress/128131/hacking/cisco-esa-dos.html"> Full Text</a>
@@ -203,7 +203,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco bug can let hackers crash Cisco Secure Email gateways<a href="https://www.bleepingcomputer.com/news/security/cisco-bug-can-let-hackers-crash-cisco-secure-email-gateways/"> Full Text</a>
@@ -219,7 +219,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New quantum key distribution network resistant to quantum attacks<a href="https://www.csoonline.com/article/3650748/new-quantum-key-distribution-network-resistant-to-quantum-attacks.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -235,7 +235,7 @@ CSO Online
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This New Tool Can Retrieve Pixelated Text from Redacted Documents<a href="https://thehackernews.com/2022/02/this-new-tool-can-retrieve-pixelated.html"> Full Text</a>
@@ -251,7 +251,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European Data Protection Supervisor call for bans on surveillance spyware like Pegasus<a href="https://securityaffairs.co/wordpress/128123/security/edps-surveillance-spyware-pegasus.html"> Full Text</a>
@@ -271,7 +271,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers slip into Microsoft Teams chats to distribute malware<a href="https://www.bleepingcomputer.com/news/security/hackers-slip-into-microsoft-teams-chats-to-distribute-malware/"> Full Text</a>
@@ -287,7 +287,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Snyk Buys Cloud Security Vendor Fugue To Protect Developers<a href="https://www.crn.com/news/security/snyk-buys-cloud-security-vendor-fugue-to-protect-developers?&web_view=true"> Full Text</a>
@@ -303,7 +303,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of a New Golang-based Botnet Under Continuous Development<a href="https://thehackernews.com/2022/02/researchers-warn-of-new-golang-based.html"> Full Text</a>
@@ -319,7 +319,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Kraken botnet is allowing operators to earn USD 3,000 every month<a href="https://securityaffairs.co/wordpress/128116/malware/golang-kraken-botnet.html"> Full Text</a>
@@ -339,7 +339,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canada's major banks go offline in mysterious hours-long outage<a href="https://www.bleepingcomputer.com/news/security/canadas-major-banks-go-offline-in-mysterious-hours-long-outage/"> Full Text</a>
@@ -355,7 +355,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deciphering Moses Staff APT’s Persistent Attacks Against Israeli Organizations<a href="https://cyware.com/news/deciphering-moses-staff-apts-persistent-attacks-against-israeli-organizations-77d15a1d"> Full Text</a>
@@ -371,7 +371,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nation-state actors hacked Red Cross exploiting a Zoho bug<a href="https://securityaffairs.co/wordpress/128110/hacking/nation-state-actors-hacked-red-cross-exploiting-a-zoho-bug.html"> Full Text</a>
@@ -391,7 +391,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns of Increase in Fraudulent Payments Due to BEC Scams<a href="https://therecord.media/fbi-sees-increase-in-use-of-virtual-meeting-platforms-for-bec-scams/?&web_view=true"> Full Text</a>
@@ -407,7 +407,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2022
+February 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive LinkedIn Phishing, Bot Attacks Feed on the Job-Hungry<a href="https://threatpost.com/massive-linkedin-phishing-bot-attacks-hungry-job-seekers/178476/"> Full Text</a>
@@ -423,7 +423,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2022
+February 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Severity RCE Bug Found in Popular Apache Cassandra Database<a href="https://threatpost.com/high-severity-rce-bug-found-in-popular-apache-cassandra-database/178464/"> Full Text</a>
@@ -439,7 +439,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2022
+February 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical VMware Bugs Open ESXi, Fusion & Workstation to Attackers<a href="https://threatpost.com/critical-vmware-bugs-esxi-fusion-workstation/178461/"> Full Text</a>
@@ -455,7 +455,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2022
+February 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Now Spreading Through Malicious Excel Files<a href="https://threatpost.com/emotet-spreading-malicious-excel-files/178444/"> Full Text</a>
@@ -471,7 +471,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2022
+February 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moses Staff Hackers Targeting Israeli Organizations for Cyber Espionage<a href="https://thehackernews.com/2022/02/moses-staff-hackers-targeting-israeli.html"> Full Text</a>
@@ -487,7 +487,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2022
+February 16, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Says Russian Hackers Stealing Sensitive Data from Defense Contractors<a href="https://thehackernews.com/2022/02/us-says-russian-hackers-stealing.html"> Full Text</a>

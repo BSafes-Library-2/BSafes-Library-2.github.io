@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — FBI forms crypto unit<a href="https://thehill.com//policy/technology/overnights/594836-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Thursday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Increase in Fraudulent Payments Due to BEC Scams<a href="https://therecord.media/fbi-sees-increase-in-use-of-virtual-meeting-platforms-for-bec-scams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI said it had seen an increase in the use of virtual meeting platforms as a way to trick organizations into sending payments to the wrong accounts as part of a type of attack known as BEC scams.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Says Russian Hackers Stealing Sensitive Data from Defense Contractors<a href="https://thehackernews.com/2022/02/us-says-russian-hackers-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State-sponsored actors backed by the Russian government regularly targeted the networks of several U.S. cleared defense contractors (CDCs) to acquire proprietary documents and other confidential information pertaining to the country's defense and intelligence programs and capabilities.  The sustained espionage campaign is said to have commenced at least two years ago from January 2020, according to a&nbsp; joint advisory &nbsp;published by the U.S. Federal Bureau of Investigation (FBI), National Security Agency (NSA), and Cybersecurity and Infrastructure Security Agency (CISA).  "These continued intrusions have enabled the actors to acquire sensitive, unclassified information, as well as CDC-proprietary and export-controlled technology," the agencies&nbsp; said . "The acquired information provides significant insight into U.S. weapons platforms development and deployment timelines, vehicle specifications, and plans for communications infrastructure and information technology."
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

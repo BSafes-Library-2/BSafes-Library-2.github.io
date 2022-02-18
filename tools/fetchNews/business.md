@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhiteSource acquires DefenseCode and Xanitizer to enter into the SAST market<a href="https://www.helpnetsecurity.com/2022/02/16/whitesource-acquisitions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhiteSource announced the company’s expansion into custom code security following two recent acquisitions and the availability of its static application security testing (SAST) solution.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Agrees to Pay $90 Million to Settle Decade-Old Privacy Violation Case<a href="https://thehackernews.com/2022/02/facebook-agrees-to-pay-90-million-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms has agreed to pay $90 million to settle a lawsuit over the company's use of cookies to allegedly track Facebook users' internet activity even after they had logged off from the platform.  In addition, the social media company will be required to delete all of the data it illegally collected from those users. The development was first reported by&nbsp; Variety .   The decade-old case, filed in 2012, centered around Facebook's use of the proprietary "Like" button to track users as they visited third-party websites – regardless of whether they actually used the button – in violation of the federal wiretapping laws, and then allegedly compiling those browsing histories into profiles for selling the information to advertisers.  Based on the terms of the proposed settlement, users who browsed non-Facebook websites that included the "Like" button between April 22, 2010, and September 26, 2011, will be covered.  "Reaching a settlement in this cas
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

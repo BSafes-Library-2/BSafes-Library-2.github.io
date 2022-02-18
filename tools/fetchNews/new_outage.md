@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada's major banks go offline in mysterious hours-long outage<a href="https://www.bleepingcomputer.com/news/security/canadas-major-banks-go-offline-in-mysterious-hours-long-outage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Five major Canadian banks went offline for hours blocking access to online and mobile banking as well as e-transfers for customers. The banks hit by the outage include Royal Bank of Canada (RBC),&nbsp;BMO (Bank of Montreal), Scotiabank, and&nbsp;the Canadian Imperial Bank of Commerce (CIBC).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

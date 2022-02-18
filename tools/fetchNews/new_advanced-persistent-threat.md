@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deciphering Moses Staff APT’s Persistent Attacks Against Israeli Organizations<a href="https://cyware.com/news/deciphering-moses-staff-apts-persistent-attacks-against-israeli-organizations-77d15a1d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per a new update shared by Cybereason Nocturnus Team, the APT group has made improvements in tactics and techniques to target several organizations located across Italy, India, Germany, China, Turkey, the UAE, and the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

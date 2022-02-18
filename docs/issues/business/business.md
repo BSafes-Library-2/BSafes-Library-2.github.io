@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snyk Buys Cloud Security Vendor Fugue To Protect Developers<a href="https://www.crn.com/news/security/snyk-buys-cloud-security-vendor-fugue-to-protect-developers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Snyk has purchased Cloud Security Posture Management (CSPM) vendor Fugue to help organizations manage compliance and security throughout the software development lifecycle.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900165
 
 ## Privacy
 ---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Bringing Privacy Sandbox to Android to Limit Sharing of User Data<a href="https://thehackernews.com/2022/02/google-bringing-privacy-sandbox-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Wednesday announced plans to bring its Privacy Sandbox initiatives to Android in a bid to expand its privacy-focused, but also less disruptive, advertising technology beyond the desktop web.  To that end, the internet giant said it will work towards building solutions that prevent cross-app tracking à la Apple's App Tracking Transparency ( ATT ) framework, effectively limiting sharing of user data with third-parties as well as eliminating identifiers such as advertising IDs on mobile devices.  "The Privacy Sandbox on Android builds on our existing efforts on the web, providing a clear path forward to improve user privacy without putting access to free content and services at risk," Anthony Chavez, vice president of product management for Android security and privacy,&nbsp; said .  Privacy Sandbox , launched in 2019, is Google's umbrella term for a set of technologies that will phase out third-party cookies and curb covert tracking, like&nbsp; fingerprinting , by redu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Data Protection Supervisor call for bans on surveillance spyware like Pegasus<a href="https://securityaffairs.co/wordpress/128123/security/edps-surveillance-spyware-pegasus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Data Protection Supervisor authority called for a ban on the development and the use of Pegasus-like commercial spyware.
+
+
+
+The European Data Protection Supervisor (EDPS) authority this week called for a ban on the development and the use of surveillance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

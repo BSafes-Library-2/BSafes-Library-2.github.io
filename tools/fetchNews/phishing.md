@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of BEC attackers impersonating CEOs in virtual meetings<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-bec-attackers-impersonating-ceos-in-virtual-meetings/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned today that US organizations and individuals are being increasingly targeted in BEC (business email compromise) attacks on virtual meeting platforms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore introduces strong measures to stop online scams<a href="https://www.theregister.com/2022/02/16/singapore_anti_scam_measures/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Singapore will step up up efforts to stamp out phishing and spoofing, ministers told the parliament on Tuesday. The topic gained attention after instances of attacks and scams soared recently.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,67 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Ravages Customers of Amazon, PayPal and Other Top Brands<a href="https://threatpost.com/trickbot-amazon-paypal-top-brands/178483/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The resurgent trojan has targeted 60 top companies to harvest credentials for a wide range of applications, with an eye to virulent follow-on attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot targets customers of 60 High-Profile companies<a href="https://securityaffairs.co/wordpress/128087/malware/trickbot-targets-60-high-profile-companies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TrickBot malware is targeting customers of 60 financial and technology companies with new anti-analysis features.
+
+
+
+The infamous TrickBot malware was employed in attacks against customers of 60 financial and technology companies with new anti-analysis...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot has infected 140,000-plus machines since late 2020<a href="https://www.techtarget.com/searchsecurity/news/252513466/Trickbot-has-infected-140000-plus-machines-since-late-2020?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In October 2020, Microsoft reported that more than 90% of Trickbot's infrastructure had been disabled. However, the threat actor bounced back and began thriving soon after.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! FritzFrog Botnet Has Gone Aggressively Wild<a href="https://cyware.com/news/watch-out-fritzfrog-botnet-has-gone-aggressively-wild-7b97643e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the FritzFrog botnet have returned with a new P2P campaign, registering a 10x growth in the infection rate within only a month.&nbsp;The new variant seems to possess additional capabilities to target WordPress servers. Researchers  have spotted 24,000 attacks so far. However, the b ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

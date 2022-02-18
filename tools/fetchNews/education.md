@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+February 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Webinar] When More Is Not Better: Solving Alert Overload<a href="https://thehackernews.com/2022/02/webinar-when-more-is-not-better-solving.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increasing volume and sophistication of cyberattacks have naturally led many companies to invest in additional cybersecurity technologies. We know that expanded threat detection capabilities are necessary for protection, but they have also led to several unintended consequences. The "more is not always better" adage fits this situation perfectly.  An upcoming webinar by cybersecurity company Cynet ( register here ) sheds light on alert overload, the result of too many alerts. Beyond discussing the stress and strain placed on cybersecurity teams trying to sift through an ongoing barrage of threat alerts, Cynet shows how this situation actually degrades cybersecurity effectiveness. Then Cynet will talk about the way out – something important to almost every company suffering from alert overload.  The Real Impact of Alert Overload  It's interesting that threat alerts, which are so vital to protection have also become an obstacle. Cynet lays out two key reasons why this has come about
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The importance of implementing a zero trust strategy<a href="https://www.helpnetsecurity.com/2022/02/15/importance-of-implementing-zero-trust/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Optiv has published a report based on a recent survey of cybersecurity leaders that highlights the critical importance of implementing zero trust as an effective way to reduce cyber risk.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
