@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+February 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Abuse Poorly Regulated Top-Level Domains in Ongoing Redirect Campaign<a href="https://blog.sucuri.net/2022/02/attackers-abuse-poorly-regulated-top-level-domains-in-ongoing-redirect-campaign.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the more common infections that seen is the site-wide redirects to spam and scam sites, achieved by attackers exploiting newly found vulnerabilities in popular WordPress plugins.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian hackers target VMware Horizon servers with Log4j exploits<a href="https://www.bleepingcomputer.com/news/security/iranian-hackers-target-vmware-horizon-servers-with-log4j-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian-aligned hacking group tracked as TunnelVision was spotted exploiting Log4j on VMware Horizon servers to breach corporate networks in the Middle East and the United States.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Targeting VMware Horizon Log4j Flaws to Deploy Ransomware<a href="https://thehackernews.com/2022/02/iranian-hackers-targeting-vmware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A "potentially destructive actor" aligned with the government of Iran is actively exploiting the well-known&nbsp; Log4j vulnerability &nbsp;to infect unpatched VMware Horizon servers with ransomware.  Cybersecurity firm SentinelOne dubbed the group " TunnelVision " owing to their heavy reliance on tunneling tools, with overlaps in tactics observed to that of a broader group tracked under the moniker&nbsp; Phosphorus &nbsp;as well as Charming Kitten and Nemesis Kitten.   "TunnelVision activities are characterized by wide-exploitation of 1-day vulnerabilities in target regions," SentinelOne researchers Amitai Ben Shushan Ehrlich and Yair Rigevsky&nbsp; said &nbsp;in a report, with the intrusions detected in the Middle East and the U.S.  Also observed alongside Log4Shell is the exploitation of Fortinet FortiOS path traversal flaw ( CVE-2018-13379 ) and the Microsoft Exchange&nbsp; ProxyShell &nbsp;vulnerability to gain initial access into the target networks for post-exploitation.  "TunnelVis
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

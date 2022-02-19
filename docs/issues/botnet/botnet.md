@@ -8,6 +8,49 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Golang botnet empties Windows users’ cryptocurrency wallets<a href="https://www.bleepingcomputer.com/news/security/new-golang-botnet-empties-windows-users-cryptocurrency-wallets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Golang-based botnet under active development&nbsp;has been ensnaring hundreds of Windows devices each time its operators deploy a new&nbsp;command and control (C2) server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updated Trickbot Now Targets Technology and Financial Firms<a href="https://cyware.com/news/updated-trickbot-now-targets-technology-and-financial-firms-3bef6982"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point disclosed that an updated version of the TrickBot malware is targeting customers of 60 financial and technology firms primarily located in the U.S.&nbsp;Researchers believe that the actual victims are not the brands themselves but their customers. The malware stands as a priority threat ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Baby Golang-Based Botnet Already Pulling in $3K/Month for Operators<a href="https://threatpost.com/golang-botnet-pulling-in-3k-month/178509/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newborn as it is, the Kraken botnet has already spread like wildfire, thanks to the malware’s author tinkering away over the past few months, adding more infostealers and backdoors. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

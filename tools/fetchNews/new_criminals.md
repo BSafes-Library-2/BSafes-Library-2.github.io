@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware gang takes over TrickBot malware operation<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-takes-over-trickbot-malware-operation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After four years of activity and numerous takedown attempts, the death knell of TrickBot has sounded as its top members move under new management, the Conti ransomware syndicate, who plan to replace it with the stealthier BazarBackdoor malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

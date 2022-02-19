@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Master Decryption Keys Released for Multiple Ransomware<a href="https://cyware.com/news/master-decryption-keys-released-for-multiple-ransomware-847f0998"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The master decryption keys for Maze, Egregor, and Sekhmet ransomware victims were released, as claimed, by one of the developers of the three ransomware. The poster on the forum said that this was a planned leak and did not have any relation to law enforcement operations. Though, experts suspect th ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

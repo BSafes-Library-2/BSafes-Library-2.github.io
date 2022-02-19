@@ -8,6 +8,34 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House pins Ukraine DDoS attacks on Russian GRU hackers<a href="https://www.bleepingcomputer.com/news/security/white-house-pins-ukraine-ddos-attacks-on-russian-gru-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the White House has linked the recent DDoS attacks that knocked down the sites of Ukrainian banks and defense agencies to Russia's Main Directorate of the General Staff of the Armed Forces (also known as GRU).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian DDoS Attacks Should Put US on Notice–Researchers<a href="https://threatpost.com/ukrainian-ddos-attacks-should-put-us-on-notice-researchers/178498/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Tuesday, institutions central to Ukraine’s military and economy were hit with denial-of-service (DoS) attacks. Impact was limited, but the ramifications are not.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

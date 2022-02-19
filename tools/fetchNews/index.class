@@ -34,7 +34,553 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Abuse Poorly Regulated Top-Level Domains in Ongoing Redirect Campaign<a href="https://blog.sucuri.net/2022/02/attackers-abuse-poorly-regulated-top-level-domains-in-ongoing-redirect-campaign.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the more common infections that seen is the site-wide redirects to spam and scam sites, achieved by attackers exploiting newly found vulnerabilities in popular WordPress plugins.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities in Adobe Commerce and Magento Could Allow for Remote Code Execution<a href="https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-adobe-commerce-and-magento-could-allow-for-remote-code-execution_2022-026?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Depending on the privileges associated with the user an attacker could then install programs; view, change, or delete data; or create new accounts with full user rights in Adobe Commerce and Magento Open Source.
+</details>
+<div style="text-align: right" markdown="1">
+CIS
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, Britain Accuse Russia of Cyberattacks Targeting Ukraine<a href="https://www.securityweek.com/white-house-accuses-russia-cyberattacks-targeting-ukraine?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House blamed Russia for this week’s cyberattacks targeting Ukraine’s defense ministry and major banks and warned of the potential for more significant disruptions in the days ahead.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New WordPress Plugin Leaks Millions of Personal Information; Immediate Update is Suggested<a href="https://www.techtimes.com/articles/272017/20220218/new-wordpress-plugin-flaw-affects-millions-identity-info-passwords-immediate.htm?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new WordPress plugin vulnerability is now putting millions of WordPress users at risk. This security issue is specifically found on UpdraftPlus, a cloning plugin for WordPress.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - February 18th 2022 - Mergers & Acquisitions<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-february-18th-2022-mergers-and-acquisitions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The big news this week is that the Conti ransomware gang has recruited the core developers and managers of the TrickBot group, the developers of the notorious TrickBot malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House says Russia behind cyberattack on banks, ministry in Ukraine<a href="https://thehill.com//policy/cybersecurity/594947-white-house-says-russia-behind-cyberattack-on-banks-in-ukraine"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration believes Russian government hackers were behind cyberattacks targeting Ukraine’s Ministry of Defense and banks in Ukraine earlier this week, a top White House official said Friday.  
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Cybersecurity Agency Publishes List of Free Security Tools and Services<a href="https://thehackernews.com/2022/02/us-cybersecurity-agency-publishes-list.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday  published  a repository of free tools and services to enable organizations to mitigate, detect, and respond effectively to malicious attacks and further improve their security posture.  The " Free Cybersecurity Services and Tools " resource hub comprises a mix of services provided by CISA, open-source utilities, and other implements offered by private and public sector organizations across the cybersecurity community.  "Many organizations, both public and private, are target rich and resource poor," CISA Director, Jen Easterly, said in a statement. "The resources on this list will help such organizations improve their security posture, which is particularly critical in the current heightened threat environment."   The tools catalog is the latest in a string of initiatives launched by CISA to combat cyber threats and help organizations adopt foundational measures to maximize resili
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What To Expect With Cyber Surprise<a href="https://www.lawfareblog.com/what-expect-cyber-surprise"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The possibilities of surprise in cyberspace are almost limitless.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Privacy Sandbox promises to protect user privacy online<a href="https://securityaffairs.co/wordpress/128167/mobile-2/google-privacy-sandbox.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google introduces Privacy Sandbox on Android aimed at leading to more private advertising solutions for mobile users.
+
+
+
+Google announced Privacy Sandbox on Android to limit user data sharing and prevent the use of cross-app identifiers. The company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House pins Ukraine DDoS attacks on Russian GRU hackers<a href="https://www.bleepingcomputer.com/news/security/white-house-pins-ukraine-ddos-attacks-on-russian-gru-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the White House has linked the recent DDoS attacks that knocked down the sites of Ukrainian banks and defense agencies to Russia's Main Directorate of the General Staff of the Armed Forces (also known as GRU).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw Uncovered in WordPress Backup Plugin Used by Over 3 Million Sites<a href="https://thehackernews.com/2022/02/critical-flaw-uncovered-in-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patches have been issued to contain a "severe" security vulnerability in UpdraftPlus, a WordPress plugin with over three million installations, that can be weaponized to download the site's private data using an account on the vulnerable sites.  "All versions of UpdraftPlus from March 2019 onwards have contained a vulnerability caused by a missing permissions-level check, allowing untrusted users access to backups," the maintainers of the plugin said in an advisory published this week.   Security researcher Marc-Alexandre Montpas of Automattic has been credited with discovering and reporting the vulnerability on February 14 that's been assigned the identifier  CVE-2022-0633  (CVSS score: 8.5). The issue impacts UpdraftPlus versions from 1.16.7 to 1.22.2.  UpdraftPlus is a  backup and restoration solution  that's capable of performing full, manual, or scheduled backups of WordPress files, databases, plugins and themes, which can then be reinstated via th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked TunnelVision APT is actively exploiting the Log4j vulnerability<a href="https://securityaffairs.co/wordpress/128159/apt/tunnelvision-exploits-log4j-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked TunnelVision APT group is actively exploiting the Log4j vulnerability to deploy ransomware on unpatched VMware Horizon servers.
+
+
+
+Researchers from SentinelOne have observed the potentially destructive Iran-linked APT group TunnelVision...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Golang botnet empties Windows users’ cryptocurrency wallets<a href="https://www.bleepingcomputer.com/news/security/new-golang-botnet-empties-windows-users-cryptocurrency-wallets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Golang-based botnet under active development has been ensnaring hundreds of Windows devices each time its operators deploy a new command and control (C2) server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of 'Ice Phishing' Threat on Web3 and Decentralized Networks<a href="https://thehackernews.com/2022/02/microsoft-warns-of-ice-phishing-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has warned of emerging threats in the  Web3  landscape, including "ice phishing" campaigns, as a surge in adoption of blockchain and DeFi technologies emphasizes the need to build security into the decentralized web while it's still in its early stages.  The company's Microsoft 365 Defender Research Team called out various new avenues through which malicious actors may attempt to trick cryptocurrency users into giving up their private cryptographic keys and carry out unauthorized fund transfers.   "One aspect that the immutable and public blockchain enables is complete transparency, so an attack can be observed and studied after it occurred," Christian Seifert, principal research manager at Microsoft's Security and Compliance group,  said . "It also allows assessment of the financial impact of attacks, which is challenging in traditional web2 phishing attacks."  The theft of the keys could be carried out in several ways, including im
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-44731 Linux privilege escalation bug affects Canonical’s Snap Package Manager<a href="https://securityaffairs.co/wordpress/128150/hacking/cve-2021-44731-linux-privilege-escalation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qualys experts found a new Linux privilege escalation vulnerability, tracked as CVE-2021-44731, in Canonical's Snap Package Manager.
+
+
+
+Canonical's Snap software packaging and deployment system are affected by multiple vulnerabilities, including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian hackers target VMware Horizon servers with Log4j exploits<a href="https://www.bleepingcomputer.com/news/security/iranian-hackers-target-vmware-horizon-servers-with-log4j-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian-aligned hacking group tracked as TunnelVision was spotted exploiting Log4j on VMware Horizon servers to breach corporate networks in the Middle East and the United States.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PseudoManuscrypt Malware Spreading the Same Way as CryptBot Targets Koreans<a href="https://thehackernews.com/2022/02/pseudomanuscrypt-malware-spreading-same.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Numerous Windows machines located in South Korea have been targeted by a botnet tracked as PseudoManuscrypt  since at least May 2021 by employing the same delivery tactics of another malware called CryptBot .  "PseudoManuscrypt is disguised as an installer that is similar to a form of  CryptBot , and is being distributed," South Korean cybersecurity company AhnLab Security Emergency Response Center (ASEC)  said  in a report published today.  "Not only is its file form similar to CryptBot, but it is also distributed via malicious sites exposed on the top search page when users search commercial software-related illegal programs such as Crack and Keygen," it added.  According to ASEC, around 30 computers in the country are being consistently infected on a daily basis on average.   PseudoManuscrypt was first documented by Russian cybersecurity firm Kaspersky in December 2021, when it  disclosed  details of a "mass-scale spyware attack campaign" infecting mor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers created a PoC exploit for recently disclosed critical Magento CVE-2022-24086 bug<a href="https://securityaffairs.co/wordpress/128144/security/magento-cve-2022-24086-bug-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers developed an exploit code for CVE-2022-24086 vulnerability affecting Adobe Commerce and Magento Open Source.
+
+
+
+Positive Technologies researchers have created a working PoC exploit for the recently patched CVE-2022-24086 vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC proposes $45 million fine for health insurance robocaller<a href="https://www.bleepingcomputer.com/news/security/fcc-proposes-45-million-fine-for-health-insurance-robocaller/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Communications Commission (FCC) today proposed the largest-ever fine against a robocaller for Telephone Consumer Protection Act violations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Master Decryption Keys Released for Multiple Ransomware<a href="https://cyware.com/news/master-decryption-keys-released-for-multiple-ransomware-847f0998"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The master decryption keys for Maze, Egregor, and Sekhmet ransomware victims were released, as claimed, by one of the developers of the three ransomware. The poster on the forum said that this was a planned leak and did not have any relation to law enforcement operations. Though, experts suspect th ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux Privilege Escalation Flaw Uncovered in Snap Package Manager<a href="https://thehackernews.com/2022/02/new-linux-privilege-escalation-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in Canonical's  Snap  software packaging and deployment system, the most critical of which can be exploited to escalate privilege to gain root privileges.  Snaps are self-contained application packages that are designed to work on operating systems that use the Linux kernel and can be installed using a tool called snapd.   Tracked as  CVE-2021-44731 , the issue concerns a privilege escalation flaw in the  snap-confine  function, a program used internally by snapd to construct the execution environment for snap applications. The shortcoming is rated 7.8 on the CVSS scoring system.   "Successful exploitation of this vulnerability allows any unprivileged user to gain root privileges on the vulnerable host," Bharat Jogi, director of vulnerability and threat research at Qualys,  said , adding the weakness could be abused to "obtain full root privileges on default installations of Ubuntu."  Red Hat, in an independ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress force installs UpdraftPlus patch on 3 million sites<a href="https://www.bleepingcomputer.com/news/security/wordpress-force-installs-updraftplus-patch-on-3-million-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress has taken the rare step of force-updating the UpdraftPlus plugin on all sites to fix a high-severity vulnerability allowing website subscribers to download the latest database backups, which often contain credentials and PII.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updated Trickbot Now Targets Technology and Financial Firms<a href="https://cyware.com/news/updated-trickbot-now-targets-technology-and-financial-firms-3bef6982"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point disclosed that an updated version of the TrickBot malware is targeting customers of 60 financial and technology firms primarily located in the U.S.&nbsp;Researchers believe that the actual victims are not the brands themselves but their customers. The malware stands as a priority threat ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware gang takes over TrickBot malware operation<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-takes-over-trickbot-malware-operation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After four years of activity and numerous takedown attempts, the death knell of TrickBot has sounded as its top members move under new management, the Conti ransomware syndicate, who plan to replace it with the stealthier BazarBackdoor malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked TunnelVision APT is actively exploiting the Log4j vulnerability<a href="https://securityaffairs.co/wordpress/128159/apt/tunnelvision-exploits-log4j-vulnerability.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelOne observed the potentially destructive Iran-linked APT group TunnelVision actively exploiting the Log4j vulnerability to deploy ransomware on unpatched VMware Horizon servers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: Popular e-cigarette store hacked to steal credit cards<a href="https://www.bleepingcomputer.com/news/security/warning-popular-e-cigarette-store-hacked-to-steal-credit-cards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BleepingComputer has confirmed Element Vape, a prominent online seller of e-cigarettes and vaping kits is serving a credit card skimmer on its live site, likely after getting hacked. Element Vape has a presence across the U.S. and Canada and sells products in both retail outlets and on their online store.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Drive flags macOS '.DS_Store' files for copyright violation<a href="https://www.bleepingcomputer.com/news/security/google-drive-flags-macos-ds-store-files-for-copyright-violation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Drive was seen flagging '.DS_Store' files generated by macOS file systems as a violation of its copyright infringement policy. '.DS_Store' is a metadata file commonly seen by Apple users when they transfer their folders and archives from a macOS to a non-Apple operating system, like Windows.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Baby Golang-Based Botnet Already Pulling in $3K/Month for Operators<a href="https://threatpost.com/golang-botnet-pulling-in-3k-month/178509/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newborn as it is, the Kraken botnet has already spread like wildfire, thanks to the malware’s author tinkering away over the past few months, adding more infostealers and backdoors. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian DDoS Attacks Should Put US on Notice–Researchers<a href="https://threatpost.com/ukrainian-ddos-attacks-should-put-us-on-notice-researchers/178498/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Tuesday, institutions central to Ukraine’s military and economy were hit with denial-of-service (DoS) attacks. Impact was limited, but the ramifications are not.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kill Cloud Risk: Get Everybody to Stop Fighting Over App Security – Podcast<a href="https://threatpost.com/killing-cloud-risk-bulletproofing-app-security-podcast/178486/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When it comes to ensuring safe cloud app rollouts, there’s flat-out animosity between business shareholders. HackerOne’s Alex Rice and GitLab’s Johnathan Hunt share tips on quashing all the squabbling.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Targeting VMware Horizon Log4j Flaws to Deploy Ransomware<a href="https://thehackernews.com/2022/02/iranian-hackers-targeting-vmware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A "potentially destructive actor" aligned with the government of Iran is actively exploiting the well-known  Log4j vulnerability  to infect unpatched VMware Horizon servers with ransomware.  Cybersecurity firm SentinelOne dubbed the group " TunnelVision " owing to their heavy reliance on tunneling tools, with overlaps in tactics observed to that of a broader group tracked under the moniker  Phosphorus  as well as Charming Kitten and Nemesis Kitten.   "TunnelVision activities are characterized by wide-exploitation of 1-day vulnerabilities in target regions," SentinelOne researchers Amitai Ben Shushan Ehrlich and Yair Rigevsky  said  in a report, with the intrusions detected in the Middle East and the U.S.  Also observed alongside Log4Shell is the exploitation of Fortinet FortiOS path traversal flaw ( CVE-2018-13379 ) and the Microsoft Exchange  ProxyShell  vulnerability to gain initial access into the target networks for post-exploitation.  "TunnelVis
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+4 Cloud Data Security Best Practices All Businesses Should Follow Today<a href="https://thehackernews.com/2022/02/4-cloud-data-security-best-practices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These days, businesses all around the world have come to depend on cloud platforms for a variety of mission-critical workflows. They keep their CRM data in the cloud. They process their payrolls in the cloud. They even manage their HR processes through the cloud. And all of that means they're trusting the bulk of their privileged business data to those cloud providers, too.  And while most major cloud providers do a decent job of keeping data secure, the majority of business users take an upload-it-and-forget-it approach to their data security needs. And that — needless to say — is dangerous.  In reality, cloud providers can only protect a business's data if the business does its part by adhering to some cloud security best practices. And fortunately, they're not that complicated. Here are the four most important cloud security best practices businesses should build into their cloud operations right away.  Never Skip Selection Due Diligence  The first cloud security best p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can crash Cisco Secure Email gateways using malicious emails<a href="https://www.bleepingcomputer.com/news/security/hackers-can-crash-cisco-secure-email-gateways-using-malicious-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a high severity vulnerability that could allow remote attackers to crash Cisco Secure Email appliances using maliciously crafted email messages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Can Crash Cisco Email Security Appliances by Sending Malicious Emails<a href="https://thehackernews.com/2022/02/attackers-can-crash-cisco-email.html"> Full Text</a>
@@ -50,7 +596,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Another Critical RCE Discovered in Adobe Commerce and Magento Platforms<a href="https://thehackernews.com/2022/02/another-critical-rce-discovered-in.html"> Full Text</a>

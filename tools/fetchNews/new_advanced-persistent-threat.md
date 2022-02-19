@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked TunnelVision APT is actively exploiting the Log4j vulnerability<a href="https://securityaffairs.co/wordpress/128159/apt/tunnelvision-exploits-log4j-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked TunnelVision APT group is actively exploiting the Log4j vulnerability&nbsp;to deploy ransomware on unpatched VMware Horizon servers.
+
+
+
+Researchers from SentinelOne have observed the potentially destructive Iran-linked APT group TunnelVision...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked TunnelVision APT is actively exploiting the Log4j vulnerability<a href="https://securityaffairs.co/wordpress/128159/apt/tunnelvision-exploits-log4j-vulnerability.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelOne observed the potentially destructive Iran-linked APT group TunnelVision actively exploiting the Log4j vulnerability to deploy ransomware on unpatched VMware Horizon servers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

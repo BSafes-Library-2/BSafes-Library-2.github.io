@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2022
+February 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Abuse Poorly Regulated Top-Level Domains in Ongoing Redirect Campaign<a href="https://blog.sucuri.net/2022/02/attackers-abuse-poorly-regulated-top-level-domains-in-ongoing-redirect-campaign.html?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Sucuri
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2022
+February 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Vulnerabilities in Adobe Commerce and Magento Could Allow for Remote Code Execution<a href="https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-adobe-commerce-and-magento-could-allow-for-remote-code-execution_2022-026?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ CIS
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2022
+February 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US, Britain Accuse Russia of Cyberattacks Targeting Ukraine<a href="https://www.securityweek.com/white-house-accuses-russia-cyberattacks-targeting-ukraine?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2022
+February 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New WordPress Plugin Leaks Millions of Personal Information; Immediate Update is Suggested<a href="https://www.techtimes.com/articles/272017/20220218/new-wordpress-plugin-flaw-affects-millions-identity-info-passwords-immediate.htm?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Tech Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - February 18th 2022 - Mergers & Acquisitions<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-february-18th-2022-mergers-and-acquisitions/"> Full Text</a>
@@ -114,7 +114,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House says Russia behind cyberattack on banks, ministry in Ukraine<a href="https://thehill.com//policy/cybersecurity/594947-white-house-says-russia-behind-cyberattack-on-banks-in-ukraine"> Full Text</a>
@@ -130,7 +130,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Cybersecurity Agency Publishes List of Free Security Tools and Services<a href="https://thehackernews.com/2022/02/us-cybersecurity-agency-publishes-list.html"> Full Text</a>
@@ -146,7 +146,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What To Expect With Cyber Surprise<a href="https://www.lawfareblog.com/what-expect-cyber-surprise"> Full Text</a>
@@ -162,7 +162,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Privacy Sandbox promises to protect user privacy online<a href="https://securityaffairs.co/wordpress/128167/mobile-2/google-privacy-sandbox.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House pins Ukraine DDoS attacks on Russian GRU hackers<a href="https://www.bleepingcomputer.com/news/security/white-house-pins-ukraine-ddos-attacks-on-russian-gru-hackers/"> Full Text</a>
@@ -198,7 +198,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw Uncovered in WordPress Backup Plugin Used by Over 3 Million Sites<a href="https://thehackernews.com/2022/02/critical-flaw-uncovered-in-wordpress.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked TunnelVision APT is actively exploiting the Log4j vulnerability<a href="https://securityaffairs.co/wordpress/128159/apt/tunnelvision-exploits-log4j-vulnerability.html"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Golang botnet empties Windows users’ cryptocurrency wallets<a href="https://www.bleepingcomputer.com/news/security/new-golang-botnet-empties-windows-users-cryptocurrency-wallets/"> Full Text</a>
@@ -250,7 +250,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of 'Ice Phishing' Threat on Web3 and Decentralized Networks<a href="https://thehackernews.com/2022/02/microsoft-warns-of-ice-phishing-threat.html"> Full Text</a>
@@ -266,7 +266,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2021-44731 Linux privilege escalation bug affects Canonical’s Snap Package Manager<a href="https://securityaffairs.co/wordpress/128150/hacking/cve-2021-44731-linux-privilege-escalation.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian hackers target VMware Horizon servers with Log4j exploits<a href="https://www.bleepingcomputer.com/news/security/iranian-hackers-target-vmware-horizon-servers-with-log4j-exploits/"> Full Text</a>
@@ -302,7 +302,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PseudoManuscrypt Malware Spreading the Same Way as CryptBot Targets Koreans<a href="https://thehackernews.com/2022/02/pseudomanuscrypt-malware-spreading-same.html"> Full Text</a>
@@ -318,7 +318,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers created a PoC exploit for recently disclosed critical Magento CVE-2022-24086 bug<a href="https://securityaffairs.co/wordpress/128144/security/magento-cve-2022-24086-bug-poc.html"> Full Text</a>
@@ -338,7 +338,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FCC proposes $45 million fine for health insurance robocaller<a href="https://www.bleepingcomputer.com/news/security/fcc-proposes-45-million-fine-for-health-insurance-robocaller/"> Full Text</a>
@@ -354,7 +354,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Master Decryption Keys Released for Multiple Ransomware<a href="https://cyware.com/news/master-decryption-keys-released-for-multiple-ransomware-847f0998"> Full Text</a>
@@ -371,7 +371,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux Privilege Escalation Flaw Uncovered in Snap Package Manager<a href="https://thehackernews.com/2022/02/new-linux-privilege-escalation-flaw.html"> Full Text</a>
@@ -387,7 +387,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress force installs UpdraftPlus patch on 3 million sites<a href="https://www.bleepingcomputer.com/news/security/wordpress-force-installs-updraftplus-patch-on-3-million-sites/"> Full Text</a>
@@ -403,7 +403,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Updated Trickbot Now Targets Technology and Financial Firms<a href="https://cyware.com/news/updated-trickbot-now-targets-technology-and-financial-firms-3bef6982"> Full Text</a>
@@ -420,7 +420,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware gang takes over TrickBot malware operation<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-takes-over-trickbot-malware-operation/"> Full Text</a>
@@ -436,7 +436,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked TunnelVision APT is actively exploiting the Log4j vulnerability<a href="https://securityaffairs.co/wordpress/128159/apt/tunnelvision-exploits-log4j-vulnerability.html?&web_view=true"> Full Text</a>
@@ -452,7 +452,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning: Popular e-cigarette store hacked to steal credit cards<a href="https://www.bleepingcomputer.com/news/security/warning-popular-e-cigarette-store-hacked-to-steal-credit-cards/"> Full Text</a>
@@ -468,7 +468,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2022
+February 18, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Drive flags macOS '.DS_Store' files for copyright violation<a href="https://www.bleepingcomputer.com/news/security/google-drive-flags-macos-ds-store-files-for-copyright-violation/"> Full Text</a>
@@ -484,7 +484,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Baby Golang-Based Botnet Already Pulling in $3K/Month for Operators<a href="https://threatpost.com/golang-botnet-pulling-in-3k-month/178509/"> Full Text</a>
@@ -500,7 +500,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian DDoS Attacks Should Put US on Notice–Researchers<a href="https://threatpost.com/ukrainian-ddos-attacks-should-put-us-on-notice-researchers/178498/"> Full Text</a>
@@ -516,7 +516,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kill Cloud Risk: Get Everybody to Stop Fighting Over App Security – Podcast<a href="https://threatpost.com/killing-cloud-risk-bulletproofing-app-security-podcast/178486/"> Full Text</a>
@@ -532,7 +532,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Targeting VMware Horizon Log4j Flaws to Deploy Ransomware<a href="https://thehackernews.com/2022/02/iranian-hackers-targeting-vmware.html"> Full Text</a>
@@ -548,7 +548,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 4 Cloud Data Security Best Practices All Businesses Should Follow Today<a href="https://thehackernews.com/2022/02/4-cloud-data-security-best-practices.html"> Full Text</a>
@@ -564,7 +564,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers can crash Cisco Secure Email gateways using malicious emails<a href="https://www.bleepingcomputer.com/news/security/hackers-can-crash-cisco-secure-email-gateways-using-malicious-emails/"> Full Text</a>
@@ -580,7 +580,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Can Crash Cisco Email Security Appliances by Sending Malicious Emails<a href="https://thehackernews.com/2022/02/attackers-can-crash-cisco-email.html"> Full Text</a>
@@ -596,7 +596,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2022
+February 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Another Critical RCE Discovered in Adobe Commerce and Magento Platforms<a href="https://thehackernews.com/2022/02/another-critical-rce-discovered-in.html"> Full Text</a>

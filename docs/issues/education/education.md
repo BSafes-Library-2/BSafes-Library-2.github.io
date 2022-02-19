@@ -8,6 +8,48 @@ nav_order: 900053
 
 ## Education
 ---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What To Expect With Cyber Surprise<a href="https://www.lawfareblog.com/what-expect-cyber-surprise"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The possibilities of surprise in cyberspace are almost limitless.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kill Cloud Risk: Get Everybody to Stop Fighting Over App Security – Podcast<a href="https://threatpost.com/killing-cloud-risk-bulletproofing-app-security-podcast/178486/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When it comes to ensuring safe cloud app rollouts, there’s flat-out animosity between business shareholders. HackerOne’s Alex Rice and GitLab’s Johnathan Hunt share tips on quashing all the squabbling.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+4 Cloud Data Security Best Practices All Businesses Should Follow Today<a href="https://thehackernews.com/2022/02/4-cloud-data-security-best-practices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These days, businesses all around the world have come to depend on cloud platforms for a variety of mission-critical workflows. They keep their CRM data in the cloud. They process their payrolls in the cloud. They even manage their HR processes through the cloud. And all of that means they're trusting the bulk of their privileged business data to those cloud providers, too.  And while most major cloud providers do a decent job of keeping data secure, the majority of business users take an upload-it-and-forget-it approach to their data security needs. And that — needless to say — is dangerous.  In reality, cloud providers can only protect a business's data if the business does its part by adhering to some cloud security best practices. And fortunately, they're not that complicated. Here are the four most important cloud security best practices businesses should build into their cloud operations right away.  Never Skip Selection Due Diligence  The first cloud security best p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

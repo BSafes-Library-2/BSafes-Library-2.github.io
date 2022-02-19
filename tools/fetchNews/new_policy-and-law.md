@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC proposes $45 million fine for health insurance robocaller<a href="https://www.bleepingcomputer.com/news/security/fcc-proposes-45-million-fine-for-health-insurance-robocaller/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Communications Commission (FCC) today proposed the largest-ever fine against a robocaller for Telephone Consumer Protection Act violations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

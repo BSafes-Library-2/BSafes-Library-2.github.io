@@ -8,6 +8,154 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities in Adobe Commerce and Magento Could Allow for Remote Code Execution<a href="https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-adobe-commerce-and-magento-could-allow-for-remote-code-execution_2022-026?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Depending on the privileges associated with the user an attacker could then install programs; view, change, or delete data; or create new accounts with full user rights in Adobe Commerce and Magento Open Source.
+</details>
+<div style="text-align: right" markdown="1">
+CIS
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New WordPress Plugin Leaks Millions of Personal Information; Immediate Update is Suggested<a href="https://www.techtimes.com/articles/272017/20220218/new-wordpress-plugin-flaw-affects-millions-identity-info-passwords-immediate.htm?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new WordPress plugin vulnerability is now putting millions of WordPress users at risk. This security issue is specifically found on UpdraftPlus, a cloning plugin for WordPress.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw Uncovered in WordPress Backup Plugin Used by Over 3 Million Sites<a href="https://thehackernews.com/2022/02/critical-flaw-uncovered-in-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patches have been issued to contain a "severe" security vulnerability in UpdraftPlus, a WordPress plugin with over three million installations, that can be weaponized to download the site's private data using an account on the vulnerable sites.  "All versions of UpdraftPlus from March 2019 onwards have contained a vulnerability caused by a missing permissions-level check, allowing untrusted users access to backups," the maintainers of the plugin said in an advisory published this week.   Security researcher Marc-Alexandre Montpas of Automattic has been credited with discovering and reporting the vulnerability on February 14 that's been assigned the identifier&nbsp; CVE-2022-0633 &nbsp;(CVSS score: 8.5). The issue impacts UpdraftPlus versions from 1.16.7 to 1.22.2.  UpdraftPlus is a&nbsp; backup and restoration solution &nbsp;that's capable of performing full, manual, or scheduled backups of WordPress files, databases, plugins and themes, which can then be reinstated via th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-44731 Linux privilege escalation bug affects Canonical’s&nbsp;Snap Package Manager<a href="https://securityaffairs.co/wordpress/128150/hacking/cve-2021-44731-linux-privilege-escalation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qualys experts found a new Linux privilege escalation vulnerability, tracked as CVE-2021-44731, in Canonical's&nbsp;Snap Package Manager.
+
+
+
+Canonical's&nbsp;Snap&nbsp;software packaging and deployment system are affected by multiple vulnerabilities, including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers created a PoC exploit for recently disclosed critical Magento CVE-2022-24086 bug<a href="https://securityaffairs.co/wordpress/128144/security/magento-cve-2022-24086-bug-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers developed an exploit code for CVE-2022-24086 vulnerability affecting Adobe Commerce and Magento Open Source.
+
+
+
+Positive Technologies researchers have created a working PoC exploit for the recently patched CVE-2022-24086 vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux Privilege Escalation Flaw Uncovered in Snap Package Manager<a href="https://thehackernews.com/2022/02/new-linux-privilege-escalation-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in Canonical's&nbsp; Snap &nbsp;software packaging and deployment system, the most critical of which can be exploited to escalate privilege to gain root privileges.  Snaps are self-contained application packages that are designed to work on operating systems that use the Linux kernel and can be installed using a tool called snapd.   Tracked as&nbsp; CVE-2021-44731 , the issue concerns a privilege escalation flaw in the&nbsp; snap-confine &nbsp;function, a program used internally by snapd to construct the execution environment for snap applications. The shortcoming is rated 7.8 on the CVSS scoring system.   "Successful exploitation of this vulnerability allows any unprivileged user to gain root privileges on the vulnerable host," Bharat Jogi, director of vulnerability and threat research at Qualys,&nbsp; said , adding the weakness could be abused to "obtain full root privileges on default installations of Ubuntu."  Red Hat, in an independ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress force installs UpdraftPlus patch on 3 million sites<a href="https://www.bleepingcomputer.com/news/security/wordpress-force-installs-updraftplus-patch-on-3-million-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress has taken the rare step of force-updating&nbsp;the UpdraftPlus plugin on all sites to fix a high-severity vulnerability allowing website subscribers to download the latest database backups, which often contain credentials and PII.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can crash Cisco Secure Email gateways using malicious emails<a href="https://www.bleepingcomputer.com/news/security/hackers-can-crash-cisco-secure-email-gateways-using-malicious-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has&nbsp;addressed a high severity vulnerability that could allow remote attackers to crash Cisco Secure Email appliances using maliciously&nbsp;crafted email messages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Can Crash Cisco Email Security Appliances by Sending Malicious Emails<a href="https://thehackernews.com/2022/02/attackers-can-crash-cisco-email.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released security updates to contain three vulnerabilities affecting its products, including one high-severity flaw in its Email Security Appliance (ESA) that could result in a denial-of-service (DoS) condition on an affected device.  The weakness, assigned the identifier CVE-2022-20653 (CVSS score: 7.5), stems from a case of insufficient error handling in&nbsp; DNS &nbsp;name resolution that could be abused by an unauthenticated, remote attacker to send a specially crafted email message and cause a DoS.   "A successful exploit could allow the attacker to cause the device to become unreachable from management interfaces or to process additional email messages for a period of time until the device recovers, resulting in a DoS condition," the company&nbsp; said &nbsp;in an advisory. "Continued attacks could cause the device to become completely unavailable, resulting in a persistent DoS condition."  The flaw impacts Cisco ESA devices running Cisco AsyncOS Software running vers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Critical RCE Discovered in Adobe Commerce and Magento Platforms<a href="https://thehackernews.com/2022/02/another-critical-rce-discovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe on Thursday updated its advisory for an&nbsp; actively exploited zero-day &nbsp;affecting Adobe Commerce and Magento Open Source to patch a newly discovered flaw that could be weaponized to achieve arbitrary code execution.   Tracked as&nbsp; CVE-2022-24087 , the issue – like CVE-2022-24086 – is rated 9.8 on the CVSS vulnerability scoring system and relates to an " Improper Input Validation " bug that could result in the execution of malicious code.  "We have discovered additional security protections necessary for CVE-2022-24086 and have released an update to address them (CVE-2022-24087)," the company&nbsp; said &nbsp;in a revised bulletin. "Adobe is not aware of any exploits in the wild for the issue addressed in this update (CVE-2022-24087)."   As before, Adobe Commerce and Magento Open Source versions 2.4.3-p1 and earlier and 2.3.7-p2 and earlier are impacted by CVE-2022-24087, but it's worth noting that versions 2.3.0 to 2.3.3 are not vulnerable.  "A new patc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

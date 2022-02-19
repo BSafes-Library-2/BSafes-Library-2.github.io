@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of 'Ice Phishing' Threat on Web3 and Decentralized Networks<a href="https://thehackernews.com/2022/02/microsoft-warns-of-ice-phishing-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has warned of emerging threats in the&nbsp; Web3 &nbsp;landscape, including "ice phishing" campaigns, as a surge in adoption of blockchain and DeFi technologies emphasizes the need to build security into the decentralized web while it's still in its early stages.  The company's Microsoft 365 Defender Research Team called out various new avenues through which malicious actors may attempt to trick cryptocurrency users into giving up their private cryptographic keys and carry out unauthorized fund transfers.   "One aspect that the immutable and public blockchain enables is complete transparency, so an attack can be observed and studied after it occurred," Christian Seifert, principal research manager at Microsoft's Security and Compliance group,&nbsp; said . "It also allows assessment of the financial impact of attacks, which is challenging in traditional web2 phishing attacks."  The theft of the keys could be carried out in several ways, including im
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
