@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole at least $1.7M worth of NFTs from tens of OpenSea users<a href="https://securityaffairs.co/wordpress/128207/breaking-news/opensea-nft-marketplace-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have stolen and flipped high-valued NFTs from the users of the world's largest NFT exchange, OpenSea.
+
+
+
+The world's largest NFT exchange, OpenSea on Sunday confirmed that tens of some of its users have been hit by a phishing attack and had lost...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Privacy Sandbox promises to protect user privacy online<a href="https://securityaffairs.co/wordpress/128167/mobile-2/google-privacy-sandbox.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google introduces Privacy Sandbox on Android aimed at leading to more private advertising solutions for mobile users.
+
+
+
+Google announced Privacy Sandbox on Android to limit user data sharing and prevent the use of cross-app identifiers. The company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

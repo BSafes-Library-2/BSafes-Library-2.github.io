@@ -34,6 +34,293 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New phishing campaign targets Monzo online-banking customers<a href="https://www.bleepingcomputer.com/news/security/new-phishing-campaign-targets-monzo-online-banking-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of Monzo, one of the UK's most popular digital-only banking platforms, are being targeted by phishing messages supported by a growing network of malicious websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Microsoft Teams Users in Chats<a href="https://cyware.com/news/hackers-target-microsoft-teams-users-in-chats-dace2d9e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are planting maldocs in chat threads on Microsoft Teams. Users accessing it might end up giving control of their systems to hackers. Organizations are suggested to deploy email gateway security that secures communication applications, and employees should contact IT whenever a suspic ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BEC scammers impersonate CEOs on virtual meeting platforms<a href="https://securityaffairs.co/wordpress/128206/hacking/fbi-bec-virtual-meeting-platforms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warned US organizations and individuals are being increasingly targeted in BECattacks on virtual meeting platforms
+
+
+
+The Federal Bureau of Investigation (FBI) warned this week that US organizations and individuals are being increasingly targeted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poisoned Pipeline Execution Attacks - A New Wave of Threats<a href="https://cyware.com/news/poisoned-pipeline-execution-attacks-a-new-wave-of-threats-1e38edee"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher demonstrated the possibility of poisoned pipeline attacks that can be triggered by abusing permissions in source code management (SCM) repositories. The pipelines that execute unreviewed code are more exposed to PPE attacks. Applications not developed with a security-first app ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole at least $1.7M worth of NFTs from tens of OpenSea users<a href="https://securityaffairs.co/wordpress/128207/breaking-news/opensea-nft-marketplace-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have stolen and flipped high-valued NFTs from the users of the world's largest NFT exchange, OpenSea.
+
+
+
+The world's largest NFT exchange, OpenSea on Sunday confirmed that tens of some of its users have been hit by a phishing attack and had lost...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShadowPad Linked to Chinese MSS and PLA<a href="https://cyware.com/news/shadowpad-linked-to-chinese-mss-and-pla-8e0940db"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers affiliated with the Chinese Ministry of State Security and the People's Liberation Army are increasingly deploying the ShadowPad advanced modular RAT against its targets. It can steal sensitive system information, interact with the file system and registry, and deploy new modules to propaga ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 354<a href="https://securityaffairs.co/wordpress/128201/breaking-news/security-affairs-newsletter-round-354.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot operation is now controlled by Conti ransomware<a href="https://securityaffairs.co/wordpress/128190/cyber-crime/conti-ransomware-takes-over-trickbot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware group takes over TrickBot malware operation and plans to replace it with BazarBackdoor malware.
+
+
+
+TrickBot operation has arrived at the end of the journey, according to AdvIntel some of its top members move under the Conti ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia denies accusations of false flag operation, cyber attacks on Ukraine<a href="https://thehill.com//policy/international/russia/595026-russia-denies-accusations-of-false-flag-operation-blame-for-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia denied it was responsible for cyber attacks on Ukrainian banks and the country's Ministry of Defense and accusations that it is looking for a pretext to invade Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Master Key for Hive Ransomware Retrieved Using a Flaw in its Encryption Algorithm<a href="https://thehackernews.com/2022/02/master-key-for-hive-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have detailed what they call the "first successful attempt" at decrypting data infected with Hive ransomware  without relying on the private key used to lock access to the content.  "We were able to recover the master key for generating the file encryption key without the attacker's private key, by using a cryptographic vulnerability identified through analysis," a group of academics from South Korea's Kookmin University  said  in a new paper analyzing its encryption process.  Hive, like other cybercriminals groups, operates a ransomware-as-a-service that uses different mechanisms to compromise business networks, exfiltrate data, and encrypt data on the networks, and attempt to collect a ransom in exchange for access to the decryption software.   It was  first observed  in June 2021, when it struck a company called Altus Group. Hive leverages a variety of initial compromise methods, including vulnerable RDP servers, compromised VPN credentials,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA compiles list of free cybersecurity tools and services<a href="https://www.bleepingcomputer.com/news/security/cisa-compiles-list-of-free-cybersecurity-tools-and-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published a list of free cybersecurity services and tools to help organizations increase their security capabilities and better defend against cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department Appoints First Director of National Cryptocurrency Enforcement Team<a href="https://thehackernews.com/2022/02/justice-department-appoints-first.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) earlier this week appointed Eun Young Choi to serve as the first Director of the National Cryptocurrency Enforcement Team (NCET) it established last year.  The NCET was  created  to tackle the criminal misuse of cryptocurrencies and digital assets," with a focus on illegal activities in virtual currency exchanges, mixing and tumbling services, and money laundering infrastructure actors to fuel cyberattacks and ransomware and extortion schemes.  "The NCET will serve as the focal point for the department's efforts to tackle the growth of crime involving [digital assets and distributed ledger] technologies,"  said  Assistant Attorney General Kenneth A. Polite Jr. of the Justice Department's Criminal Division.  Separately, the Federal Bureau of Investigation (FBI) said it's  launching  a new effort of its own called the Virtual Asset Exploitation Unit (VAXU) dedicated to tracking and seizing illicit cryptocurrencies as part o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of hybrid operations threat to US critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-hybrid-operations-threat-to-us-critical-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA urged leaders of U.S. critical infrastructure organizations on Friday to increase their orgs' resilience against a growing risk of being targeted by foreign influence operations using misinformation, disinformation, and malformation (MDM) tactics.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA compiled a list of free cybersecurity tools and services<a href="https://securityaffairs.co/wordpress/128182/hacking/cisa-list-free-cybersecurity-tools.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA has created a list of free cybersecurity tools and services that can help organizations increase their resilience.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced this week that it has compiled a list of free...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House and UK Gov attribute DDoS attacks on Ukraine to Russia’s GRU<a href="https://securityaffairs.co/wordpress/128174/cyber-warfare-2/russia-gru-ddos-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House has linked the recent DDoS attacks against Ukraine 's banks and defense agencies to Russia's GRU.
+
+
+
+The White House has linked the recent DDoS attacks that took offline the sites of banks and defense agencies of Ukraine to Russia's Main...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UpdraftPlus WordPress plugin update forced for million sites￼<a href="https://securityaffairs.co/wordpress/128170/hacking/updraftplus-forced-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress forces the update of the UpdraftPlus plugin patch on 3 million sites to fix a high-severity vulnerability.
+
+
+
+WordPress has forced the update of the UpdraftPlus plugin around three million sites to address a high-severity vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

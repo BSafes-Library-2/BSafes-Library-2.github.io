@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+February 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New phishing campaign targets Monzo online-banking customers<a href="https://www.bleepingcomputer.com/news/security/new-phishing-campaign-targets-monzo-online-banking-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of Monzo, one of the UK's most popular digital-only banking platforms, are being targeted by phishing messages supported by a growing network of malicious websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Microsoft Teams Users in Chats<a href="https://cyware.com/news/hackers-target-microsoft-teams-users-in-chats-dace2d9e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are planting maldocs in chat threads on Microsoft Teams. Users accessing it might end up giving control of their systems to hackers. Organizations are suggested to deploy email gateway security that secures communication applications, and employees should contact IT whenever a suspic ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

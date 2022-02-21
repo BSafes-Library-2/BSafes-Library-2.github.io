@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FREE CYBERSECURITY SERVICES AND TOOLS <a href="https://www.cisa.gov/free-cybersecurity-services-and-tools"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of our continuing mission to reduce cybersecurity risk across U.S. critical infrastructure partners and state, local, tribal, and territorial governments, CISA has compiled a list of free cybersecurity tools and services to help organizations further advance their security capabilities. This living repository includes cybersecurity services provided by CISA, widely used open source tools, and free tools and services offered by private and public sector organizations across the cybersecurity community. CISA will implement a process for organizations to submit additional free tools and services for inclusion on this list in the future.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Insights: Foreign Influence Operations Targeting Critical Infrastructure <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/02/18/cisa-insights-foreign-influence-operations-targeting-critical"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has released CISA Insights: Preparing for and Mitigating Foreign Influence Operations Targeting Critical Infrastructure, which provides proactive steps organizations can take to assess and mitigate risks from information manipulation. Malicious actors may use tactics—such as misinformation, disinformation, and malinformation—to shape public opinion, undermine trust, and amplify division, which can lead to impacts to critical functions and services across multiple sectors.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 16, 2022 - FBI, NSA, CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,39 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poisoned Pipeline Execution Attacks - A New Wave of Threats<a href="https://cyware.com/news/poisoned-pipeline-execution-attacks-a-new-wave-of-threats-1e38edee"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher demonstrated the possibility of poisoned pipeline attacks that can be triggered by abusing permissions in source code management (SCM) repositories. The pipelines that execute unreviewed code are more exposed to PPE attacks. Applications not developed with a security-first app ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UpdraftPlus WordPress plugin update forced for million sites￼<a href="https://securityaffairs.co/wordpress/128170/hacking/updraftplus-forced-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress forces the update of the UpdraftPlus plugin patch on 3 million sites to fix a high-severity vulnerability.
+
+
+
+WordPress has forced the update&nbsp;of the UpdraftPlus plugin around three million sites to address a high-severity vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

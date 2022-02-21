@@ -8,6 +8,24 @@ nav_order: 900195
 
 ## Solution
 ---
+February 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA compiled a list of free cybersecurity tools and services<a href="https://securityaffairs.co/wordpress/128182/hacking/cisa-list-free-cybersecurity-tools.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA has created a list of free cybersecurity tools and services that can help organizations increase their resilience.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced this week that it has compiled a list of free...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

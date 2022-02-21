@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Master Key for Hive Ransomware Retrieved Using a Flaw in its Encryption Algorithm<a href="https://thehackernews.com/2022/02/master-key-for-hive-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have detailed what they call the "first successful attempt" at decrypting data infected with Hive ransomware  without relying on the private key used to lock access to the content.  "We were able to recover the master key for generating the file encryption key without the attacker's private key, by using a cryptographic vulnerability identified through analysis," a group of academics from South Korea's Kookmin University&nbsp; said &nbsp;in a new paper analyzing its encryption process.  Hive, like other cybercriminals groups, operates a ransomware-as-a-service that uses different mechanisms to compromise business networks, exfiltrate data, and encrypt data on the networks, and attempt to collect a ransom in exchange for access to the decryption software.   It was&nbsp; first observed &nbsp;in June 2021, when it struck a company called Altus Group. Hive leverages a variety of initial compromise methods, including vulnerable RDP servers, compromised VPN credentials,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

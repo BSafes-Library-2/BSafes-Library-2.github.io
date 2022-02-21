@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: Popular e-cigarette store hacked to steal credit cards<a href="https://www.bleepingcomputer.com/news/security/warning-popular-e-cigarette-store-hacked-to-steal-credit-cards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BleepingComputer has confirmed Element Vape, a prominent&nbsp;online seller&nbsp;of e-cigarettes and vaping kits is serving&nbsp;a credit card skimmer on its live site, likely after getting&nbsp;hacked. Element Vape has a presence across the U.S. and Canada and sells&nbsp;products in both retail outlets and on their online store.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

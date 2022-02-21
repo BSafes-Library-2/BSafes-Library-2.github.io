@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+February 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, Britain Accuse Russia of Cyberattacks Targeting Ukraine<a href="https://www.securityweek.com/white-house-accuses-russia-cyberattacks-targeting-ukraine?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House blamed Russia for this week’s cyberattacks targeting Ukraine’s defense ministry and major banks and warned of the potential for more significant disruptions in the days ahead.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House says Russia behind cyberattack on banks, ministry in Ukraine<a href="https://thehill.com//policy/cybersecurity/594947-white-house-says-russia-behind-cyberattack-on-banks-in-ukraine"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration believes Russian government hackers were behind cyberattacks targeting Ukraine’s Ministry of Defense and&nbsp;banks in Ukraine earlier this week, a top White House official said Friday. &nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Cybersecurity Agency Publishes List of Free Security Tools and Services<a href="https://thehackernews.com/2022/02/us-cybersecurity-agency-publishes-list.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday&nbsp; published &nbsp;a repository of free tools and services to enable organizations to mitigate, detect, and respond effectively to malicious attacks and further improve their security posture.  The " Free Cybersecurity Services and Tools " resource hub comprises a mix of services provided by CISA, open-source utilities, and other implements offered by private and public sector organizations across the cybersecurity community.  "Many organizations, both public and private, are target rich and resource poor," CISA Director, Jen Easterly, said in a statement. "The resources on this list will help such organizations improve their security posture, which is particularly critical in the current heightened threat environment."   The tools catalog is the latest in a string of initiatives launched by CISA to combat cyber threats and help organizations adopt foundational measures to maximize resili
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
