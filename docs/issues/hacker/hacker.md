@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Infected Android Devices to Register Disposable Accounts<a href="https://thehackernews.com/2022/02/hackers-exploit-bug-in-sms-verification.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of SMS phone-verified account (PVA) services has led to the discovery of a rogue platform built atop a botnet involving thousands of infected Android phones, once again underscoring the flaws with relying on SMS for account validation.  SMS PVA services, since gaining prevalence in 2018, provide users with alternative mobile numbers that can be used to register for other online services and platforms, and help bypass SMS-based authentication and single sign-on (SSO) mechanisms put in place to verify new accounts.  "This type of service can be used by malicious actors to register disposable accounts in bulk or create phone-verified accounts for conducting fraud and other criminal activities," Trend Micro researchers&nbsp; said &nbsp;in a report published last week.   Telemetry data gathered by the company shows that most of the infections are located in Indonesia (47,357), followed by Russia (16,157), Thailand (11,196), India (8,109), and France (5,548), Peru (4,915), Moroc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

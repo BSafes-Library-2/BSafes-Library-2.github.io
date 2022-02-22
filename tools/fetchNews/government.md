@@ -11,6 +11,80 @@ nav_order: 900075
 February 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Russia denies accusations of false flag operation, cyber attacks on Ukraine<a href="https://thehill.com//policy/international/russia/595026-russia-denies-accusations-of-false-flag-operation-blame-for-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia denied&nbsp;it was responsible for cyber attacks on Ukrainian banks and the country's Ministry of Defense and accusations that it is looking for a pretext to invade Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA compiles list of free cybersecurity tools and services<a href="https://www.bleepingcomputer.com/news/security/cisa-compiles-list-of-free-cybersecurity-tools-and-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published a list of free cybersecurity services and tools to help organizations increase their security capabilities and better defend against cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department Appoints First Director of National Cryptocurrency Enforcement Team<a href="https://thehackernews.com/2022/02/justice-department-appoints-first.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) earlier this week appointed Eun Young Choi to serve as the first Director of the National Cryptocurrency Enforcement Team (NCET) it established last year.  The NCET was&nbsp; created &nbsp;to tackle the criminal misuse of cryptocurrencies and digital assets," with a focus on illegal activities in virtual currency exchanges, mixing and tumbling services, and money laundering infrastructure actors to fuel cyberattacks and ransomware and extortion schemes.  "The NCET will serve as the focal point for the department's efforts to tackle the growth of crime involving [digital assets and distributed ledger] technologies,"&nbsp; said &nbsp;Assistant Attorney General Kenneth A. Polite Jr. of the Justice Department's Criminal Division.  Separately, the Federal Bureau of Investigation (FBI) said it's&nbsp; launching &nbsp;a new effort of its own called the Virtual Asset Exploitation Unit (VAXU) dedicated to tracking and seizing illicit cryptocurrencies as part o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of hybrid operations threat to US critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-hybrid-operations-threat-to-us-critical-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA urged leaders of U.S. critical infrastructure organizations on Friday to increase their orgs' resilience against a growing risk of being targeted by foreign influence operations using misinformation, disinformation, and malformation (MDM) tactics.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House and UK Gov attribute DDoS attacks on Ukraine to Russia’s GRU<a href="https://securityaffairs.co/wordpress/128174/cyber-warfare-2/russia-gru-ddos-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House has linked the recent DDoS attacks against Ukraine 's banks and defense agencies to Russia's GRU.
+
+
+
+The White House has linked the recent DDoS attacks that took offline the sites of banks and defense agencies of Ukraine to Russia's Main...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US, Britain Accuse Russia of Cyberattacks Targeting Ukraine<a href="https://www.securityweek.com/white-house-accuses-russia-cyberattacks-targeting-ukraine?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

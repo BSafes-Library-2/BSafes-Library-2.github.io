@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot operation is now controlled by Conti ransomware<a href="https://securityaffairs.co/wordpress/128190/cyber-crime/conti-ransomware-takes-over-trickbot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware group takes over TrickBot malware operation and plans to replace it with BazarBackdoor malware.
+
+
+
+TrickBot operation has arrived at the end of the journey, according to AdvIntel some of its top members move under the Conti ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

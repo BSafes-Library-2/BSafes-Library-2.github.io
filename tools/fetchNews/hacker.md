@@ -8,6 +8,21 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShadowPad Linked to Chinese MSS and PLA<a href="https://cyware.com/news/shadowpad-linked-to-chinese-mss-and-pla-8e0940db"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers affiliated with the Chinese Ministry of State Security and the People's Liberation Army are increasingly deploying the ShadowPad advanced modular RAT against its targets. It can steal sensitive system information, interact with the file system and registry, and deploy new modules to propaga ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

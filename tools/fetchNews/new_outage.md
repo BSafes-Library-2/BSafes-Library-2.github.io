@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expeditors shuts down global operations after likely ransomware attack<a href="https://www.bleepingcomputer.com/news/security/expeditors-shuts-down-global-operations-after-likely-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seattle-based logistics and freight forwarding company Expeditors International has been targeted in a cyberattack over the weekend that forced the organization to shut down most of its operations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

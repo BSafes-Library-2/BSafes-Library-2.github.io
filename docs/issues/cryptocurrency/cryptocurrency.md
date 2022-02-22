@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Mac Coinminer Utilizes Open-Source Binaries and the I2P Network<a href="https://www.trendmicro.com/en_us/research/22/b/latest-mac-coinminer-utilizes-open-source-binaries-and-the-i2p-network.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious actor can have a coinminer masquerade itself as a legitimate app, trick susceptible users into running it on their systems, and just wait for the profits to roll in.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

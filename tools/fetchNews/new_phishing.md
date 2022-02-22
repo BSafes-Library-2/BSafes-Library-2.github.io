@@ -8,6 +8,35 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Target Top UK Bank With Phishing Campaigns<a href="https://cyware.com/news/attackers-target-top-uk-bank-with-phishing-campaigns-fcbb9179"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Monzo, one of the UK's most popular online banking platforms, warned users against an ongoing phishing campaign that can acquire their personal data and eventually, let hackers take over their bank accounts. The phishing process starts with a SMSdisplaying Monzo as the sender's name.&nbsp;Users nee ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSea users lose $2 million worth of NFTs in phishing attack<a href="https://www.bleepingcomputer.com/news/security/opensea-users-lose-2-million-worth-of-nfts-in-phishing-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The non-fungible token (NFT) marketplace OpenSea is investigating a phishing attack that left 17 of its users without more than 250 NFTs&nbsp;worth around $2 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

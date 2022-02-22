@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TunnelVision APT Group Exploits Log4Shell<a href="https://cyware.com/news/tunnelvision-apt-group-exploits-log4shell-aa638405"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelOne allegedly stumbled across an Iranian threat actor, dubbed TunnelVision, exploiting the Log4j vulnerability on unpatched VMware Horizon servers with ransomware. The group exploited multiple one-day flaws, such as FortiOS (CVE-2018-13379) and Exchange (ProxyShell). The TTPs of TunnelVisio ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

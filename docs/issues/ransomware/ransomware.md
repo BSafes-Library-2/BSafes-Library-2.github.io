@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in the encryption algorithm of Hive Ransomware allows retrieving encrypted files<a href="https://securityaffairs.co/wordpress/128232/security/recover-files-hive-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a flaw in the encryption algorithm used by Hive ransomware that allowed them to decrypt data.
+
+
+
+Researchers discovered a flaw in the encryption algorithm used by Hive ransomware that allowed them to decrypt data without knowing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

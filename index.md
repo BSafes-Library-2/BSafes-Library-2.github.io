@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expeditors shuts down global operations after likely ransomware attack<a href="https://www.bleepingcomputer.com/news/security/expeditors-shuts-down-global-operations-after-likely-ransomware-attack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cracking the Code - Researchers  Decrypt Hive Ransomware<a href="https://cyware.com/news/cracking-the-code-researchers-decrypt-hive-ransomware-aed00ba6"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android Banking Trojan Spreading via Google Play Store Targets Europeans<a href="https://thehackernews.com/2022/02/xenomorph-android-banking.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Xenomorph Android banking trojan distributed via Google Play Store<a href="https://securityaffairs.co/wordpress/128253/malware/xenomorph-android-banking-trojan.html"> Full Text</a>
@@ -103,7 +103,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Revamped CryptBot malware spread by pirated software sites<a href="https://www.bleepingcomputer.com/news/security/revamped-cryptbot-malware-spread-by-pirated-software-sites/"> Full Text</a>
@@ -119,7 +119,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Target Top UK Bank With Phishing Campaigns<a href="https://cyware.com/news/attackers-target-top-uk-bank-with-phishing-campaigns-fcbb9179"> Full Text</a>
@@ -136,7 +136,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian State Broadcaster IRIB Hit by Destructive Wiper Malware<a href="https://thehackernews.com/2022/02/iranian-state-broadcaster-irib-hits-by_21.html"> Full Text</a>
@@ -152,7 +152,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How SMS PVA services could undermine SMS-based verification<a href="https://securityaffairs.co/wordpress/128242/cyber-crime/sms-pva-services.html"> Full Text</a>
@@ -172,7 +172,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cookware giant Meyer discloses cyberattack that impacted employees<a href="https://www.bleepingcomputer.com/news/security/cookware-giant-meyer-discloses-cyberattack-that-impacted-employees/"> Full Text</a>
@@ -188,7 +188,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is Conti Behind the TrickBot Operation?<a href="https://cyware.com/news/is-conti-behind-the-trickbot-operation-d6f75b92"> Full Text</a>
@@ -205,7 +205,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Free Solution to Protect Your Business from 6 Biggest Cyber Threats in 2022<a href="https://thehackernews.com/2022/02/a-free-solution-to-protect-your.html"> Full Text</a>
@@ -221,7 +221,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in the encryption algorithm of Hive Ransomware allows retrieving encrypted files<a href="https://securityaffairs.co/wordpress/128232/security/recover-files-hive-ransomware.html"> Full Text</a>
@@ -241,7 +241,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Xenomorph Android malware targets customers of 56 banks<a href="https://www.bleepingcomputer.com/news/security/new-xenomorph-android-malware-targets-customers-of-56-banks/"> Full Text</a>
@@ -257,7 +257,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TunnelVision APT Group Exploits Log4Shell<a href="https://cyware.com/news/tunnelvision-apt-group-exploits-log4shell-aa638405"> Full Text</a>
@@ -274,7 +274,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploiting Infected Android Devices to Register Disposable Accounts<a href="https://thehackernews.com/2022/02/hackers-exploit-bug-in-sms-verification.html"> Full Text</a>
@@ -290,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Report Portugal: Q4 2021<a href="https://securityaffairs.co/wordpress/128222/security/threat-report-portugal-q4-2021.html"> Full Text</a>
@@ -310,7 +310,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSea users lose $2 million worth of NFTs in phishing attack<a href="https://www.bleepingcomputer.com/news/security/opensea-users-lose-2-million-worth-of-nfts-in-phishing-attack/"> Full Text</a>
@@ -326,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Radware buys Israeli cybersecurity co SecurityDAM<a href="https://en.globes.co.il/en/article-radware-buys-israeli-cybersecurity-co-securitydam-1001402922?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ Globes
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TitanHQ Announces Acquisition of Cyber Risk Aware<a href="https://finance.yahoo.com/news/titanhq-announces-acquisition-cyber-risk-023300204.html?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest Mac Coinminer Utilizes Open-Source Binaries and the I2P Network<a href="https://www.trendmicro.com/en_us/research/22/b/latest-mac-coinminer-utilizes-open-source-binaries-and-the-i2p-network.html?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The agency that may be able to thwart ransomware<a href="https://www.politico.com/news/2022/02/20/irs-tax-ransomware-00008190?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Politico
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 At Olympics, cybersecurity worries linger in background<a href="https://abcnews.go.com/Business/wireStory/olympics-cybersecurity-worries-linger-background-83021033?&web_view=true"> Full Text</a>
