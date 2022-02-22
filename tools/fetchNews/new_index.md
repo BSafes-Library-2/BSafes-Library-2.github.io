@@ -34,7 +34,379 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2022
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expeditors shuts down global operations after likely ransomware attack<a href="https://www.bleepingcomputer.com/news/security/expeditors-shuts-down-global-operations-after-likely-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seattle-based logistics and freight forwarding company Expeditors International has been targeted in a cyberattack over the weekend that forced the organization to shut down most of its operations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cracking the Code - Researchers  Decrypt Hive Ransomware<a href="https://cyware.com/news/cracking-the-code-researchers-decrypt-hive-ransomware-aed00ba6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers identified a bug in the encryption algorithm of Hive ransomware, allowing white hat researchers to decrypt data without the need for any private key. Researchers could weaponize the flaw to recover 92–98% of the master key used during encryption. The method can now be effectively used t ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android Banking Trojan Spreading via Google Play Store Targets Europeans<a href="https://thehackernews.com/2022/02/xenomorph-android-banking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android banking trojan with over 50,000 installations has been observed distributed via the official Google Play Store with the goal of targeting 56 European banks and carrying out harvesting sensitive information from compromised devices.  Dubbed  Xenomorph  by Dutch security firm ThreatFabric, the in-development malware is said to share overlaps with another banking trojan tracked under the moniker Alien while also being "radically different" from its predecessor in terms of the functionalities offered.  "Despite being a work-in-progress, Xenomorph is already sporting effective overlays and being actively distributed on official app stores," ThreatFabric's founder and CEO, Han Sahin, said. "In addition, it features a very detailed and modular engine to abuse accessibility services, which in the future could power very advanced capabilities, like ATS."   Alien, a remote access trojan (RAT) with notification sniffing and authenticator-based 2FA
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xenomorph Android banking trojan distributed via Google Play Store<a href="https://securityaffairs.co/wordpress/128253/malware/xenomorph-android-banking-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Xenomorph Android trojan has been observed distributed via the official Google Play Store targeting 56 European banks.
+
+
+
+Researchers from ThreatFabric have spotted a new Android banking trojan, dubbed Xenomorph, distributed via the official Google...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Revamped CryptBot malware spread by pirated software sites<a href="https://www.bleepingcomputer.com/news/security/revamped-cryptbot-malware-spread-by-pirated-software-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the CryptBot info stealer was seen in distribution via multiple websites that offer free downloads of cracks for games and pro-grade software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Target Top UK Bank With Phishing Campaigns<a href="https://cyware.com/news/attackers-target-top-uk-bank-with-phishing-campaigns-fcbb9179"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Monzo, one of the UK's most popular online banking platforms, warned users against an ongoing phishing campaign that can acquire their personal data and eventually, let hackers take over their bank accounts. The phishing process starts with a SMSdisplaying Monzo as the sender's name.&nbsp;Users nee ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian State Broadcaster IRIB Hit by Destructive Wiper Malware<a href="https://thehackernews.com/2022/02/iranian-state-broadcaster-irib-hits-by_21.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation into the cyberattack targeting Iranian national media corporation, Islamic Republic of Iran Broadcasting (IRIB), in late January 2022 resulted in the deployment of a wiper malware and other custom implants, as the country's national infrastructure continues to face a  wave  of  attacks  aimed at inflicting serious damage.  "This indicates that the attackers' aim was also to disrupt the state's broadcasting networks, with the damage to the TV and radio networks possibly more serious than officially reported," Tel Aviv-based cybersecurity firm Check Point  said  in a report published last week.  The 10-second attack, which took place on January 27, involved the breach of state broadcaster IRIB to air pictures of Mujahedin-e-Khalq Organization ( MKO ) leaders Maryam and Massoud Rajavi alongside a call for the assassination of the Supreme Leader Ayatollah Ali Khamenei.   "This is an extremely complex attack and only the owners of this technology
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How SMS PVA services could undermine SMS-based verification<a href="https://securityaffairs.co/wordpress/128242/cyber-crime/sms-pva-services.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crooks abuse some SMS PVA services that allow their customers to create disposable user accounts to conduct malicious activities.
+
+
+
+While investigating SMS PVA services (phone-verified account services), Trend Micro researchers discovered a rogue platform...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cookware giant Meyer discloses cyberattack that impacted employees<a href="https://www.bleepingcomputer.com/news/security/cookware-giant-meyer-discloses-cyberattack-that-impacted-employees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meyer Corporation, the largest cookware distributor in the U.S., and the second-largest globally, has informed U.S. Attorney General offices of a data breach affecting thousands of its employees.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is Conti Behind the TrickBot Operation?<a href="https://cyware.com/news/is-conti-behind-the-trickbot-operation-d6f75b92"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In new findings, the operators of the TrickBot trojan appear to have collaborated with the creators of the Conti ransomware. The reason behind this development could be the multiple takedown attempts on the TrickBot infrastructure.  However, as per claims, the bot is dead; and moving forward they w ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Free Solution to Protect Your Business from 6 Biggest Cyber Threats in 2022<a href="https://thehackernews.com/2022/02/a-free-solution-to-protect-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the last few years, the cybersecurity threat landscape has gotten progressively more complex and dangerous. The online world is now rife with data thieves, extortionists, and even state actors looking to exploit vulnerabilities in businesses' digital defenses.   And unfortunately — the bad guys have the upper hand at the moment. Part of the reason for that is the fallout from the rapid digitization made necessary by the COVID-19 pandemic.  According to research on the subject,  more than half of businesses  have yet to mitigate the risks created by that digitization. And when you add a persistent shortage of cybersecurity workers to that fact, you have the makings of a scary situation.  But businesses aren't helpless. There are plenty of things they can do to augment their defenses as they look to mitigate cyber risks. And best of all, some of those options won't cost them a thing.  A great example of that is the open-source security platform  Wazuh . It offers busines
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in the encryption algorithm of Hive Ransomware allows retrieving encrypted files<a href="https://securityaffairs.co/wordpress/128232/security/recover-files-hive-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a flaw in the encryption algorithm used by Hive ransomware that allowed them to decrypt data.
+
+
+
+Researchers discovered a flaw in the encryption algorithm used by Hive ransomware that allowed them to decrypt data without knowing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Xenomorph Android malware targets customers of 56 banks<a href="https://www.bleepingcomputer.com/news/security/new-xenomorph-android-malware-targets-customers-of-56-banks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware called Xenomorph distributed through Google Play Store has infected more than 50,000 Android devices to steal banking information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TunnelVision APT Group Exploits Log4Shell<a href="https://cyware.com/news/tunnelvision-apt-group-exploits-log4shell-aa638405"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelOne allegedly stumbled across an Iranian threat actor, dubbed TunnelVision, exploiting the Log4j vulnerability on unpatched VMware Horizon servers with ransomware. The group exploited multiple one-day flaws, such as FortiOS (CVE-2018-13379) and Exchange (ProxyShell). The TTPs of TunnelVisio ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Infected Android Devices to Register Disposable Accounts<a href="https://thehackernews.com/2022/02/hackers-exploit-bug-in-sms-verification.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of SMS phone-verified account (PVA) services has led to the discovery of a rogue platform built atop a botnet involving thousands of infected Android phones, once again underscoring the flaws with relying on SMS for account validation.  SMS PVA services, since gaining prevalence in 2018, provide users with alternative mobile numbers that can be used to register for other online services and platforms, and help bypass SMS-based authentication and single sign-on (SSO) mechanisms put in place to verify new accounts.  "This type of service can be used by malicious actors to register disposable accounts in bulk or create phone-verified accounts for conducting fraud and other criminal activities," Trend Micro researchers  said  in a report published last week.   Telemetry data gathered by the company shows that most of the infections are located in Indonesia (47,357), followed by Russia (16,157), Thailand (11,196), India (8,109), and France (5,548), Peru (4,915), Moroc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Report Portugal: Q4 2021<a href="https://securityaffairs.co/wordpress/128222/security/threat-report-portugal-q4-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Threat Report Portugal: Q4 2021 compiles data collected on the malicious campaigns that occurred from October to December, Q4, of 2021.
+
+
+
+The Portuguese Abuse Open Feed 0xSI_f33d is an open sharing database with the ability to collect...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSea users lose $2 million worth of NFTs in phishing attack<a href="https://www.bleepingcomputer.com/news/security/opensea-users-lose-2-million-worth-of-nfts-in-phishing-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The non-fungible token (NFT) marketplace OpenSea is investigating a phishing attack that left 17 of its users without more than 250 NFTs worth around $2 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Radware buys Israeli cybersecurity co SecurityDAM<a href="https://en.globes.co.il/en/article-radware-buys-israeli-cybersecurity-co-securitydam-1001402922?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Radware said that the $42.5 million acquisition of cloud security firm SecurityDAM is part of its strategic initiative to accelerate the growth of its cloud security service business.
+</details>
+<div style="text-align: right" markdown="1">
+Globes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TitanHQ Announces Acquisition of Cyber Risk Aware<a href="https://finance.yahoo.com/news/titanhq-announces-acquisition-cyber-risk-023300204.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition will further bolster TitanHQ's already extensive security offering. Cyber Risk Aware delivers cyber security awareness training to staff in response to actual staff network behavior.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Mac Coinminer Utilizes Open-Source Binaries and the I2P Network<a href="https://www.trendmicro.com/en_us/research/22/b/latest-mac-coinminer-utilizes-open-source-binaries-and-the-i2p-network.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious actor can have a coinminer masquerade itself as a legitimate app, trick susceptible users into running it on their systems, and just wait for the profits to roll in.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The agency that may be able to thwart ransomware<a href="https://www.politico.com/news/2022/02/20/irs-tax-ransomware-00008190?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sanctions, indictments, and potential cyber counter-attacks aren’t President Joe Biden’s only options for denting the scourge of ransomware attacks plaguing schools, hospitals, and government offices.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+At Olympics, cybersecurity worries linger in background<a href="https://abcnews.go.com/Business/wireStory/olympics-cybersecurity-worries-linger-background-83021033?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unfettered internet access is important for many amateur Olympic athletes who post photos and videos of their feats on Instagram and other social media sites. It can be critical for landing sponsors.
+</details>
+<div style="text-align: right" markdown="1">
+ABC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New phishing campaign targets Monzo online-banking customers<a href="https://www.bleepingcomputer.com/news/security/new-phishing-campaign-targets-monzo-online-banking-customers/"> Full Text</a>
@@ -50,7 +422,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2022
+February 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Target Microsoft Teams Users in Chats<a href="https://cyware.com/news/hackers-target-microsoft-teams-users-in-chats-dace2d9e"> Full Text</a>
@@ -67,7 +439,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2022
+February 20, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BEC scammers impersonate CEOs on virtual meeting platforms<a href="https://securityaffairs.co/wordpress/128206/hacking/fbi-bec-virtual-meeting-platforms.html"> Full Text</a>
@@ -87,7 +459,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2022
+February 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poisoned Pipeline Execution Attacks - A New Wave of Threats<a href="https://cyware.com/news/poisoned-pipeline-execution-attacks-a-new-wave-of-threats-1e38edee"> Full Text</a>
@@ -104,7 +476,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2022
+February 20, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors stole at least $1.7M worth of NFTs from tens of OpenSea users<a href="https://securityaffairs.co/wordpress/128207/breaking-news/opensea-nft-marketplace-hacked.html"> Full Text</a>
@@ -124,7 +496,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2022
+February 20, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ShadowPad Linked to Chinese MSS and PLA<a href="https://cyware.com/news/shadowpad-linked-to-chinese-mss-and-pla-8e0940db"> Full Text</a>
@@ -141,7 +513,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2022
+February 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 354<a href="https://securityaffairs.co/wordpress/128201/breaking-news/security-affairs-newsletter-round-354.html"> Full Text</a>
@@ -161,7 +533,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 20, 2022
+February 20, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trickbot operation is now controlled by Conti ransomware<a href="https://securityaffairs.co/wordpress/128190/cyber-crime/conti-ransomware-takes-over-trickbot.html"> Full Text</a>
@@ -181,7 +553,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2022
+February 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia denies accusations of false flag operation, cyber attacks on Ukraine<a href="https://thehill.com//policy/international/russia/595026-russia-denies-accusations-of-false-flag-operation-blame-for-cyber"> Full Text</a>
@@ -197,7 +569,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2022
+February 19, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Master Key for Hive Ransomware Retrieved Using a Flaw in its Encryption Algorithm<a href="https://thehackernews.com/2022/02/master-key-for-hive-ransomware.html"> Full Text</a>
@@ -213,7 +585,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2022
+February 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA compiles list of free cybersecurity tools and services<a href="https://www.bleepingcomputer.com/news/security/cisa-compiles-list-of-free-cybersecurity-tools-and-services/"> Full Text</a>
@@ -229,7 +601,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2022
+February 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Justice Department Appoints First Director of National Cryptocurrency Enforcement Team<a href="https://thehackernews.com/2022/02/justice-department-appoints-first.html"> Full Text</a>
@@ -245,7 +617,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2022
+February 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns of hybrid operations threat to US critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-hybrid-operations-threat-to-us-critical-infrastructure/"> Full Text</a>
@@ -261,7 +633,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2022
+February 19, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA compiled a list of free cybersecurity tools and services<a href="https://securityaffairs.co/wordpress/128182/hacking/cisa-list-free-cybersecurity-tools.html"> Full Text</a>
@@ -281,7 +653,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2022
+February 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House and UK Gov attribute DDoS attacks on Ukraine to Russia’s GRU<a href="https://securityaffairs.co/wordpress/128174/cyber-warfare-2/russia-gru-ddos-ukraine.html"> Full Text</a>
@@ -301,7 +673,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2022
+February 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UpdraftPlus WordPress plugin update forced for million sites￼<a href="https://securityaffairs.co/wordpress/128170/hacking/updraftplus-forced-update.html"> Full Text</a>
