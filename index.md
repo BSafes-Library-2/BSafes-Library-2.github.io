@@ -34,6 +34,504 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit, Conti most active ransomware targeting industrial sector<a href="https://www.bleepingcomputer.com/news/security/lockbit-conti-most-active-ransomware-targeting-industrial-sector/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks extended into the industrial sector last year to such a degree that this type of incident became the number one threat in the industrial sector.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flawed Encryption Could Enable Initialization Vector Reuse Attacks on  Samsung Smartphones<a href="https://www.theregister.com/2022/02/23/samsung_encryption_phones/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung failed to implement Keymaster TA properly in Galaxy S series phones, meaning one could launch an Initialization Vector reuse attack to obtain the keys from the hardware-protected key blobs.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dridex Malware Deploying Entropy Ransomware on Hacked Computers<a href="https://thehackernews.com/2022/02/dridex-malware-deploying-entropy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Similarities have been unearthed between the Dridex  general-purpose malware and a little-known ransomware strain called Entropy , suggesting that the operators are continuing to rebrand their extortion operations under a different name.  "The similarities are in the software packer used to conceal the ransomware code, in the malware subroutines designed to find and obfuscate commands (API calls), and in the subroutines used to decrypt encrypted text," cybersecurity firm Sophos  said  in a report shared with The Hacker News.  The commonalities were uncovered following two unrelated incidents targeting an unnamed media company and a regional government agency. In both cases, the deployment of Entropy was preceded by infecting the target networks with Cobalt Strike Beacons and Dridex, granting the attackers remote access.  Despite consistency in some aspects of the twin attacks, they also varied significantly with regards to the initial access vector used to worm their way ins
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Horde Webmail Software is affected by a dangerous bug since 2012<a href="https://securityaffairs.co/wordpress/128314/hacking/horde-webmail-xss.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found a nine-year-old unpatched flaw in the Horde Webmail software that could allow access to email accounts.
+
+
+
+A feature in the Horde Webmail is affected by a nine-year-old unpatched security vulnerability that could be abused to gain complete...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Variant of CryptBot Targets All Chrome Versions<a href="https://cyware.com/news/new-variant-of-cryptbot-targets-all-chrome-versions-ff58a9f5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts spotted a new version of the CryptBot infostealer that is offering free download versions of cracked games and pro-grade software. Its operators are using search engine optimization to rank up the distribution sites to display them at top of Google search results, allowing increase ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Experts Uncover Details of Equation Group's Bvp47 Covert Hacking Tool<a href="https://thehackernews.com/2022/02/chinese-experts-uncover-details-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from China's Pangu Lab have disclosed details of a "top-tier" backdoor put to use by the Equation Group , an advanced persistent threat (APT) with alleged ties to the cyber-warfare intelligence-gathering unit of the U.S. National Security Agency (NSA).  Dubbed " Bvp47 " owing to numerous references to the string "Bvp" and the numerical value "0x47" used in the encryption algorithm, the backdoor was extracted from Linux systems "during an in-depth forensic investigation of a host in a key domestic department" in 2013.  Pangu Lab codenamed the attacks involving the deployment of Bvp47 "Operation Telescreen," with the implant featuring an "advanced covert channel behavior based on TCP SYN packets, code obfuscation, system hiding, and self-destruction design."  The Shadow Brokers leaks  Equation Group , designated as the " crown creator of cyber espionage " by Russian security firm Kaspersky, i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Broadcaster IRIB hit by wiper malware<a href="https://securityaffairs.co/wordpress/128309/hacking/irib-hit-by-wiper-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian national media corporation, Islamic Republic of Iran Broadcasting (IRIB), was hit by a wiper malware in late January 2022.
+
+
+
+An investigation into the attack that hit the Islamic Republic of Iran Broadcasting (IRIB) in late January, revealed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xenomorph Trojan Spreading via Play Store<a href="https://cyware.com/news/xenomorph-trojan-spreading-via-play-store-11f4599e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new banking trojan called Xenomorph was found distributing via Google Play Store in the form of fake performance-boosting apps, targeting European banks. It comes with a modular engine that abuses accessibility services, which may allow advanced capabilities. Experts recommend using an anti-malwa ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Bypass Stalking Protections on Apple Airtags Clones Using Find My Protocol<a href="https://www.theregister.com/2022/02/22/apple_airtags_protections_bypass/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Source code for an Airtag clone was published online by Positive Security, which said its tags "successfully tracked an iPhone user... for over five days without triggering a tracking notification."
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers tried to shatter the spine of global supply chains in 2021<a href="https://www.zdnet.com/article/hackers-tried-to-shatter-the-spine-of-global-supply-chains-in-2021/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM researchers say that phishing remains the most common attack vector for cyberattacks but there has also been a 33% increase in the use of vulnerabilities against unpatched systems.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+USA to attack bad cyber actors if it protects victims<a href="https://www.theregister.com/2022/02/21/doj_cyber_offensive_policy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DoJ has revealed new policies that may see it undertake pre-emptive action against cyber threats. Such actions will be undertaken if the DoJ feels that action can reduce risks for victims.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why DevOps pipelines are under attack and how to fight back<a href="https://www.csoonline.com/article/3649798/why-devops-pipelines-are-under-attack-and-how-to-fight-back.html#tk.rss_all?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software developers often have high permission levels and access privileges. If the software being produced is designed for external consumption, the impact of breaches can be dramatically greater.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Tools Lie Unused in Federal Agencies’ Toolboxes<a href="https://www.lawfareblog.com/cybersecurity-tools-lie-unused-federal-agencies-toolboxes"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many federal agencies have existing authority that could be leveraged to improve the cybersecurity of private actors under their jurisdiction.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gaming, Banking Trojans Dominate Mobile Malware Scene<a href="https://threatpost.com/gaming-banking-trojans-mobile-malware/178571/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The overall number of attacks on mobile users is down, but they’re getting slicker, both in terms of malware functionality and vectors, researchers say. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Devious phishing method bypasses MFA using remote access software<a href="https://www.bleepingcomputer.com/news/security/devious-phishing-method-bypasses-mfa-using-remote-access-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A devious new phishing technique allows attackers to bypass MFA by secretly having victims log in to their accounts directly on attacker-controlled servers using VNC.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Cook Up Employee Personal Data Heist for Meyer<a href="https://threatpost.com/cyberattackers-employee-personal-data-meyer/178570/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti gang breached the cookware giant’s network, prepping thousands of employees’ personal data for consumption by cybercrooks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome to allow users to add notes to saved passwords<a href="https://www.bleepingcomputer.com/news/google/google-chrome-to-allow-users-to-add-notes-to-saved-passwords/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is testing a new Chrome feature that allows users to add notes on passwords saved in the web browser.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+9-Year-Old Unpatched Email Hacking Bug Uncovered in Horde Webmail Software<a href="https://thehackernews.com/2022/02/9-year-old-unpatched-email-hacking-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of Horde Webmail are being urged to disable a feature to contain a nine-year-old unpatched security vulnerability in the software that could be abused to gain complete access to email accounts simply by previewing an attachment.  "This gives the attacker access to all sensitive and perhaps secret information a victim has stored in their email account and could allow them to gain further access to the internal services of an organization," SonarSource vulnerability researcher, Simon Scannell,  said  in a report.  An " all volunteer project ," the Horde Project is a free, browser-based communication suite that allows users to read, send, and organize email messages as well as manage and share calendars, contacts, tasks, notes, files, and bookmarks.   The flaw, which was introduced as part of a  code change  pushed on November 30, 2012, relates to a case of an "unusual" stored cross-site scripting flaw (aka persistent XSS) that allows an adversary to c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors target poorly protected Microsoft SQL Servers<a href="https://securityaffairs.co/wordpress/128297/hacking/microsoft-sql-server-compromise.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors install Cobalt Strike beacons on vulnerable Microsoft SQL Servers to achieve a foothold in the target network.
+
+
+
+Researchers from Ahn Lab's ASEC spotted a new wave of attacks deploying Cobalt Strike beacons on vulnerable Microsoft SQL Servers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerable Microsoft SQL Servers targeted with Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/vulnerable-microsoft-sql-servers-targeted-with-cobalt-strike/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have observed a new wave of attacks installing Cobalt Strike beacons on vulnerable Microsoft SQL Servers, leading to deeper infiltration and subsequent malware infections.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+25 Malicious JavaScript Libraries Distributed via Official NPM Package Repository<a href="https://thehackernews.com/2022/02/25-malicious-javascript-libraries.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Another batch of 25 malicious JavaScript libraries have made their way to the official NPM package registry with the goal of stealing Discord tokens and environment variables from compromised systems, more than two months after  17 similar packages  were taken down.  The libraries in question leveraged typosquatting techniques and masqueraded as other legitimate packages such as colors.js, crypto-js, discord.js, marked, and  noblox.js , DevOps security firm JFrog said, attributing the packages as the work of "novice malware authors."    The complete list of packages is below –   node-colors-sync (Discord token stealer)  color-self (Discord token stealer)  color-self-2 (Discord token stealer)  wafer-text (Environment variable stealer)  wafer-countdown (Environment variable stealer)  wafer-template (Environment variable stealer)  wafer-darla (Environment variable stealer)  lemaaa (Discord token stealer)  adv-discord-utility (Discord token stealer)  tools-for-discord (Discord t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cookware giant Meyer Corporation discloses cyberattack<a href="https://securityaffairs.co/wordpress/128289/malware/meyer-corporation-discloses-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US cookware distributor giant Meyer Corporation discloses a data breach that affected thousands of its employees.
+
+
+
+Meyer Corporation, the second-largest cookware distributor globally, has disclosed a data breach that affects thousands of its employees.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police bust phishing group that used 40 sites to steal credit cards<a href="https://www.bleepingcomputer.com/news/security/police-bust-phishing-group-that-used-40-sites-to-steal-credit-cards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian cyberpolice have arrested a group of phishing actors who managed to steal payment card data from at least 70,000 people after luring them to fake mobile service top up sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Stole $1.7 Million Worth of NFTs from Users of OpenSea Marketplace<a href="https://thehackernews.com/2022/02/hackers-steal-17-million-worth-of-nfts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors took advantage of a smart contract upgrade process in the OpenSea NFT marketplace to carry out a  phishing attack  against 17 of its users that resulted in the theft of virtual assets worth about $1.7 million.  NFTs , short for non-fungible tokens, are digital tokens that act like certificates of authenticity for, and in some cases represent ownership of, assets that range from expensive illustrations to collectibles and physical goods.  The opportunistic social engineering scam  swindled the users  by using the same email from OpenSea notifying users about the upgrade, with the copycat email redirecting the victims to a lookalike webpage, prompting them to sign a seemingly legitimate transaction, only to steal all the NFTs in one go.   "By signing the transaction, an atomicMatch_ request would be sent to the attacker contract," Check Point researchers  explained . "From there, the atomicMatch_ would be forwarded to the OpenSea contract," leading t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police dismantled a gang that used phishing sites to steal credit cards<a href="https://securityaffairs.co/wordpress/128281/cyber-crime/police-dismantled-phishing-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian police arrested a gang specialized in the sale of stolen payment card data through phishing attacks.
+
+
+
+The cybercrime unit of the Ukrainian police has arrested a group of cybercriminals who managed to steal payment card data from at least...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Target Taiwan's Financial Trading Sector with Supply Chain Attack<a href="https://thehackernews.com/2022/02/chinese-hackers-target-taiwans.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) group operating with objectives aligned with the Chinese government has been linked to an organized supply chain attack on Taiwan's financial sector.  The attacks are said to have first commenced at the end of November 2021, with the intrusions attributed to a threat actor tracked as  APT10 , also known as Stone Panda, the MenuPass group, and Bronze Riverside, and known to be active since at least 2009.   The second wave of attacks hit a peak between February 10 and 13, 2022, according to a  new report  published by Taiwanese cybersecurity firm CyCraft, which said the wide-ranging supply chain compromise specifically targeted the software systems of financial institutions, resulting in "abnormal cases of placing orders."  The infiltration activity, codenamed " Operation Cache Panda ," exploited a vulnerability in the web management interface of the unnamed securities software that has a market share of over 80% in Taiwan, usi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT10 Target Taiwan’s financial trading industry<a href="https://securityaffairs.co/wordpress/128273/apt/apt10-targets-taiwan-financial-trading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT group APT10 (aka Stone Panda, Bronze Riverside) targets Taiwan's financial trading sector with a supply chain attack.
+
+
+
+The campaign was launched by the APT10 group started in November 2021, but it hit a peak between 10 and 13 2022,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyber attack heavily impacted operations of Expeditors International<a href="https://securityaffairs.co/wordpress/128268/hacking/expeditors-international-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American worldwide logistics and freight forwarding company Expeditors International shuts down global operations after cyber attack
+
+
+
+American logistics and freight forwarding company Expeditors International was hit by a cyberattack over the weekend...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Backdoor Unpatched Microsoft SQL Database Servers with Cobalt Strike<a href="https://thehackernews.com/2022/02/hackers-backdoor-unpatched-microsoft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerable internet-facing Microsoft SQL (MS SQL) Servers are being targeted by threat actors as part of a new campaign to deploy the Cobalt Strike adversary simulation tool on compromised hosts.  "Attacks that target MS SQL servers include attacks to the environment where its vulnerability has not been patched, brute forcing, and  dictionary attack  against poorly managed servers," South Korean cybersecurity company AhnLab Security Emergency Response Center (ASEC)  said  in a report published Monday.   Cobalt Strike is a commercial, full-featured  penetration testing framework  that allows an attacker to deploy an agent named "Beacon" on the victim machine, granting the operator remote access to the system. Although billed as a red team threat simulation platform,  cracked versions  of the software have been  actively used  by a wide range of threat actors.  Intrusions observed by ASEC involve the unidentified actor scanning port 1433 to check for exposed MS SQL s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 21, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
