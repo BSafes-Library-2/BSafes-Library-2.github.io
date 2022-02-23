@@ -8,6 +8,24 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How SMS PVA services could undermine SMS-based verification<a href="https://securityaffairs.co/wordpress/128242/cyber-crime/sms-pva-services.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crooks abuse some SMS PVA services that allow their customers to create disposable user accounts to conduct malicious activities.
+
+
+
+While investigating SMS PVA services (phone-verified account services), Trend Micro researchers discovered a rogue platform...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

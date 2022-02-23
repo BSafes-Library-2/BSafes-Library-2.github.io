@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian State Broadcaster IRIB Hit by Destructive Wiper Malware<a href="https://thehackernews.com/2022/02/iranian-state-broadcaster-irib-hits-by_21.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation into the cyberattack targeting Iranian national media corporation, Islamic Republic of Iran Broadcasting (IRIB), in late January 2022 resulted in the deployment of a wiper malware and other custom implants, as the country's national infrastructure continues to face a&nbsp; wave &nbsp;of&nbsp; attacks &nbsp;aimed at inflicting serious damage.  "This indicates that the attackers' aim was also to disrupt the state's broadcasting networks, with the damage to the TV and radio networks possibly more serious than officially reported," Tel Aviv-based cybersecurity firm Check Point&nbsp; said &nbsp;in a report published last week.  The 10-second attack, which took place on January 27, involved the breach of state broadcaster IRIB to air pictures of Mujahedin-e-Khalq Organization ( MKO ) leaders Maryam and Massoud Rajavi alongside a call for the assassination of the Supreme Leader Ayatollah Ali Khamenei.   "This is an extremely complex attack and only the owners of this technology
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cookware giant Meyer discloses cyberattack that impacted employees<a href="https://www.bleepingcomputer.com/news/security/cookware-giant-meyer-discloses-cyberattack-that-impacted-employees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meyer Corporation, the largest cookware distributor in the U.S., and the second-largest globally, has informed U.S. Attorney General offices of a data breach affecting thousands of its employees.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Xenomorph Android malware targets customers of 56 banks<a href="https://www.bleepingcomputer.com/news/security/new-xenomorph-android-malware-targets-customers-of-56-banks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware called&nbsp;Xenomorph&nbsp;distributed through Google Play Store has infected more than 50,000 Android devices to steal banking information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

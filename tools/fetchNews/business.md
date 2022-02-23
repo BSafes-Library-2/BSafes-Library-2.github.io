@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Radware buys Israeli cybersecurity co SecurityDAM<a href="https://en.globes.co.il/en/article-radware-buys-israeli-cybersecurity-co-securitydam-1001402922?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Radware said that the $42.5 million acquisition of cloud security firm SecurityDAM is part of its strategic initiative to accelerate the growth of its cloud security service business.
+</details>
+<div style="text-align: right" markdown="1">
+Globes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TitanHQ Announces Acquisition of Cyber Risk Aware<a href="https://finance.yahoo.com/news/titanhq-announces-acquisition-cyber-risk-023300204.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition will further bolster TitanHQ's already extensive security offering. Cyber Risk Aware delivers cyber security awareness training to staff in response to actual staff network behavior.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why DevOps pipelines are under attack and how to fight back<a href="https://www.csoonline.com/article/3649798/why-devops-pipelines-are-under-attack-and-how-to-fight-back.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software developers often have high permission levels and access privileges. If the software being produced is designed for external consumption, the impact of breaches can be dramatically greater.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

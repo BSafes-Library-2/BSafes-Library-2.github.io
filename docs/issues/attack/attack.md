@@ -8,6 +8,124 @@ nav_order: 900015
 
 ## Attack
 ---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Broadcaster IRIB hit by wiper malware<a href="https://securityaffairs.co/wordpress/128309/hacking/irib-hit-by-wiper-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian national media corporation, Islamic Republic of Iran Broadcasting (IRIB), was hit by a wiper malware in late January 2022.
+
+
+
+An investigation into the attack that hit the Islamic Republic of Iran Broadcasting (IRIB) in late January, revealed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors target poorly protected Microsoft SQL Servers<a href="https://securityaffairs.co/wordpress/128297/hacking/microsoft-sql-server-compromise.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors install Cobalt Strike beacons on vulnerable Microsoft SQL Servers to achieve a foothold in the target network.
+
+
+
+Researchers from Ahn Lab's ASEC spotted a new wave of attacks deploying Cobalt Strike beacons on vulnerable Microsoft SQL Servers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerable Microsoft SQL Servers targeted with Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/vulnerable-microsoft-sql-servers-targeted-with-cobalt-strike/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have observed a new wave of attacks installing Cobalt Strike beacons on vulnerable Microsoft SQL Servers, leading to deeper infiltration and subsequent malware infections.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cookware giant Meyer Corporation discloses cyberattack<a href="https://securityaffairs.co/wordpress/128289/malware/meyer-corporation-discloses-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US cookware distributor giant Meyer Corporation discloses a data breach that affected thousands of its employees.
+
+
+
+Meyer Corporation, the second-largest cookware distributor globally, has disclosed a data breach that affects thousands of its employees.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Target Taiwan's Financial Trading Sector with Supply Chain Attack<a href="https://thehackernews.com/2022/02/chinese-hackers-target-taiwans.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) group operating with objectives aligned with the Chinese government has been linked to an organized supply chain attack on Taiwan's financial sector.  The attacks are said to have first commenced at the end of November 2021, with the intrusions attributed to a threat actor tracked as&nbsp; APT10 , also known as Stone Panda, the MenuPass group, and Bronze Riverside, and known to be active since at least 2009.   The second wave of attacks hit a peak between February 10 and 13, 2022, according to a&nbsp; new report &nbsp;published by Taiwanese cybersecurity firm CyCraft, which said the wide-ranging supply chain compromise specifically targeted the software systems of financial institutions, resulting in "abnormal cases of placing orders."  The infiltration activity, codenamed " Operation Cache Panda ," exploited a vulnerability in the web management interface of the unnamed securities software that has a market share of over 80% in Taiwan, usi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyber attack heavily impacted operations of Expeditors International<a href="https://securityaffairs.co/wordpress/128268/hacking/expeditors-international-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American worldwide&nbsp;logistics&nbsp;and&nbsp;freight forwarding&nbsp;company Expeditors International shuts down global operations after cyber attack
+
+
+
+American logistics and freight forwarding company Expeditors International was hit by a cyberattack over the weekend...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Backdoor Unpatched Microsoft SQL Database Servers with Cobalt Strike<a href="https://thehackernews.com/2022/02/hackers-backdoor-unpatched-microsoft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerable internet-facing Microsoft SQL (MS SQL) Servers are being targeted by threat actors as part of a new campaign to deploy the Cobalt Strike adversary simulation tool on compromised hosts.  "Attacks that target MS SQL servers include attacks to the environment where its vulnerability has not been patched, brute forcing, and&nbsp; dictionary attack &nbsp;against poorly managed servers," South Korean cybersecurity company AhnLab Security Emergency Response Center (ASEC)&nbsp; said &nbsp;in a report published Monday.   Cobalt Strike is a commercial, full-featured&nbsp; penetration testing framework &nbsp;that allows an attacker to deploy an agent named "Beacon" on the victim machine, granting the operator remote access to the system. Although billed as a red team threat simulation platform,&nbsp; cracked versions &nbsp;of the software have been&nbsp; actively used &nbsp;by a wide range of threat actors.  Intrusions observed by ASEC involve the unidentified actor scanning port 1433 to check for exposed MS SQL s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

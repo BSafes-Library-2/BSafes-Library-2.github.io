@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit, Conti most active ransomware targeting industrial sector<a href="https://www.bleepingcomputer.com/news/security/lockbit-conti-most-active-ransomware-targeting-industrial-sector/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks extended into the industrial sector last year to such a degree that this type of incident became the number one threat in the industrial sector.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

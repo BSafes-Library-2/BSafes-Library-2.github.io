@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is Conti Behind the TrickBot Operation?<a href="https://cyware.com/news/is-conti-behind-the-trickbot-operation-d6f75b92"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In new findings, the operators of the TrickBot trojan appear to have collaborated with the creators of the Conti ransomware. The reason behind this development could be the multiple takedown attempts on the TrickBot infrastructure.  However, as per claims, the bot is dead; and moving forward they w ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

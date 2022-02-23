@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gaming, Banking Trojans Dominate Mobile Malware Scene<a href="https://threatpost.com/gaming-banking-trojans-mobile-malware/178571/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The overall number of attacks on mobile users is down, but they’re getting slicker, both in terms of malware functionality and vectors, researchers say. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

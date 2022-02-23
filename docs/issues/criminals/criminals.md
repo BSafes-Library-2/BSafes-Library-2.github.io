@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police bust phishing group that used 40 sites to steal credit cards<a href="https://www.bleepingcomputer.com/news/security/police-bust-phishing-group-that-used-40-sites-to-steal-credit-cards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian cyberpolice have arrested a group of phishing actors who managed to steal payment card data from at least 70,000 people&nbsp;after luring them to fake mobile service top up sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Stole $1.7 Million Worth of NFTs from Users of OpenSea Marketplace<a href="https://thehackernews.com/2022/02/hackers-steal-17-million-worth-of-nfts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors took advantage of a smart contract upgrade process in the OpenSea NFT marketplace to carry out a&nbsp; phishing attack &nbsp;against 17 of its users that resulted in the theft of virtual assets worth about $1.7 million.  NFTs , short for non-fungible tokens, are digital tokens that act like certificates of authenticity for, and in some cases represent ownership of, assets that range from expensive illustrations to collectibles and physical goods.  The opportunistic social engineering scam&nbsp; swindled the users &nbsp;by using the same email from OpenSea notifying users about the upgrade, with the copycat email redirecting the victims to a lookalike webpage, prompting them to sign a seemingly legitimate transaction, only to steal all the NFTs in one go.   "By signing the transaction, an atomicMatch_ request would be sent to the attacker contract," Check Point researchers&nbsp; explained . "From there, the atomicMatch_ would be forwarded to the OpenSea contract," leading t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police dismantled a gang that used phishing sites to steal credit cards<a href="https://securityaffairs.co/wordpress/128281/cyber-crime/police-dismantled-phishing-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian police arrested a gang specialized in the sale of stolen payment card data through phishing attacks.
+
+
+
+The cybercrime unit of the Ukrainian police has arrested a group of cybercriminals who managed to steal payment card data from at least...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+USA to attack bad cyber actors if it protects victims<a href="https://www.theregister.com/2022/02/21/doj_cyber_offensive_policy/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DoJ has revealed new policies that may see it undertake pre-emptive action against cyber threats. Such actions will be undertaken if the DoJ feels that action can reduce risks for victims.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Tools Lie Unused in Federal Agencies’ Toolboxes<a href="https://www.lawfareblog.com/cybersecurity-tools-lie-unused-federal-agencies-toolboxes"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many federal agencies have existing authority that could be leveraged to improve the cybersecurity of private actors under their jurisdiction.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

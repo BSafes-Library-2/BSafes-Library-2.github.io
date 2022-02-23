@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Cook Up Employee Personal Data Heist for Meyer<a href="https://threatpost.com/cyberattackers-employee-personal-data-meyer/178570/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti gang breached the cookware giant’s network, prepping thousands of employees’ personal data for consumption by cybercrooks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

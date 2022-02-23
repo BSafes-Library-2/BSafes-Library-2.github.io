@@ -8,6 +8,52 @@ nav_order: 900072
 
 ## General
 ---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Report Portugal: Q4 2021<a href="https://securityaffairs.co/wordpress/128222/security/threat-report-portugal-q4-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Threat Report Portugal: Q4 2021 compiles data collected on the malicious campaigns that occurred from October to December, Q4, of 2021.
+
+
+
+The Portuguese Abuse Open Feed&nbsp;0xSI_f33d&nbsp;is an open sharing database with the ability to collect...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The agency that may be able to thwart ransomware<a href="https://www.politico.com/news/2022/02/20/irs-tax-ransomware-00008190?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sanctions, indictments, and potential cyber counter-attacks aren’t President Joe Biden’s only options for denting the scourge of ransomware attacks plaguing schools, hospitals, and government offices.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+At Olympics, cybersecurity worries linger in background<a href="https://abcnews.go.com/Business/wireStory/olympics-cybersecurity-worries-linger-background-83021033?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unfettered internet access is important for many amateur Olympic athletes who post photos and videos of their feats on Instagram and other social media sites. It can be critical for landing sponsors.
+</details>
+<div style="text-align: right" markdown="1">
+ABC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

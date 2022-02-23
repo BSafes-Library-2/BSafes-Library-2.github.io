@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit, Conti most active ransomware targeting industrial sector<a href="https://www.bleepingcomputer.com/news/security/lockbit-conti-most-active-ransomware-targeting-industrial-sector/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flawed Encryption Could Enable Initialization Vector Reuse Attacks on  Samsung Smartphones<a href="https://www.theregister.com/2022/02/23/samsung_encryption_phones/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dridex Malware Deploying Entropy Ransomware on Hacked Computers<a href="https://thehackernews.com/2022/02/dridex-malware-deploying-entropy.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Horde Webmail Software is affected by a dangerous bug since 2012<a href="https://securityaffairs.co/wordpress/128314/hacking/horde-webmail-xss.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Variant of CryptBot Targets All Chrome Versions<a href="https://cyware.com/news/new-variant-of-cryptbot-targets-all-chrome-versions-ff58a9f5"> Full Text</a>
@@ -119,7 +119,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Experts Uncover Details of Equation Group's Bvp47 Covert Hacking Tool<a href="https://thehackernews.com/2022/02/chinese-experts-uncover-details-of.html"> Full Text</a>
@@ -135,7 +135,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Broadcaster IRIB hit by wiper malware<a href="https://securityaffairs.co/wordpress/128309/hacking/irib-hit-by-wiper-malware.html"> Full Text</a>
@@ -155,7 +155,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Xenomorph Trojan Spreading via Play Store<a href="https://cyware.com/news/xenomorph-trojan-spreading-via-play-store-11f4599e"> Full Text</a>
@@ -172,7 +172,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Bypass Stalking Protections on Apple Airtags Clones Using Find My Protocol<a href="https://www.theregister.com/2022/02/22/apple_airtags_protections_bypass/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers tried to shatter the spine of global supply chains in 2021<a href="https://www.zdnet.com/article/hackers-tried-to-shatter-the-spine-of-global-supply-chains-in-2021/?&web_view=true"> Full Text</a>
@@ -204,7 +204,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 USA to attack bad cyber actors if it protects victims<a href="https://www.theregister.com/2022/02/21/doj_cyber_offensive_policy/?&web_view=true"> Full Text</a>
@@ -220,7 +220,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why DevOps pipelines are under attack and how to fight back<a href="https://www.csoonline.com/article/3649798/why-devops-pipelines-are-under-attack-and-how-to-fight-back.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -236,7 +236,7 @@ CSO Online
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Tools Lie Unused in Federal Agencies’ Toolboxes<a href="https://www.lawfareblog.com/cybersecurity-tools-lie-unused-federal-agencies-toolboxes"> Full Text</a>
@@ -252,7 +252,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gaming, Banking Trojans Dominate Mobile Malware Scene<a href="https://threatpost.com/gaming-banking-trojans-mobile-malware/178571/"> Full Text</a>
@@ -268,7 +268,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Devious phishing method bypasses MFA using remote access software<a href="https://www.bleepingcomputer.com/news/security/devious-phishing-method-bypasses-mfa-using-remote-access-software/"> Full Text</a>
@@ -284,7 +284,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattackers Cook Up Employee Personal Data Heist for Meyer<a href="https://threatpost.com/cyberattackers-employee-personal-data-meyer/178570/"> Full Text</a>
@@ -300,7 +300,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome to allow users to add notes to saved passwords<a href="https://www.bleepingcomputer.com/news/google/google-chrome-to-allow-users-to-add-notes-to-saved-passwords/"> Full Text</a>
@@ -316,7 +316,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 9-Year-Old Unpatched Email Hacking Bug Uncovered in Horde Webmail Software<a href="https://thehackernews.com/2022/02/9-year-old-unpatched-email-hacking-bug.html"> Full Text</a>
@@ -332,7 +332,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors target poorly protected Microsoft SQL Servers<a href="https://securityaffairs.co/wordpress/128297/hacking/microsoft-sql-server-compromise.html"> Full Text</a>
@@ -352,7 +352,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerable Microsoft SQL Servers targeted with Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/vulnerable-microsoft-sql-servers-targeted-with-cobalt-strike/"> Full Text</a>
@@ -368,7 +368,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 25 Malicious JavaScript Libraries Distributed via Official NPM Package Repository<a href="https://thehackernews.com/2022/02/25-malicious-javascript-libraries.html"> Full Text</a>
@@ -384,7 +384,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cookware giant Meyer Corporation discloses cyberattack<a href="https://securityaffairs.co/wordpress/128289/malware/meyer-corporation-discloses-data-breach.html"> Full Text</a>
@@ -408,7 +408,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police bust phishing group that used 40 sites to steal credit cards<a href="https://www.bleepingcomputer.com/news/security/police-bust-phishing-group-that-used-40-sites-to-steal-credit-cards/"> Full Text</a>
@@ -424,7 +424,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Stole $1.7 Million Worth of NFTs from Users of OpenSea Marketplace<a href="https://thehackernews.com/2022/02/hackers-steal-17-million-worth-of-nfts.html"> Full Text</a>
@@ -440,7 +440,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police dismantled a gang that used phishing sites to steal credit cards<a href="https://securityaffairs.co/wordpress/128281/cyber-crime/police-dismantled-phishing-gang.html"> Full Text</a>
@@ -460,7 +460,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Target Taiwan's Financial Trading Sector with Supply Chain Attack<a href="https://thehackernews.com/2022/02/chinese-hackers-target-taiwans.html"> Full Text</a>
@@ -476,7 +476,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT10 Target Taiwan’s financial trading industry<a href="https://securityaffairs.co/wordpress/128273/apt/apt10-targets-taiwan-financial-trading.html"> Full Text</a>
@@ -496,7 +496,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A cyber attack heavily impacted operations of Expeditors International<a href="https://securityaffairs.co/wordpress/128268/hacking/expeditors-international-cyber-attack.html"> Full Text</a>
@@ -516,7 +516,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Backdoor Unpatched Microsoft SQL Database Servers with Cobalt Strike<a href="https://thehackernews.com/2022/02/hackers-backdoor-unpatched-microsoft.html"> Full Text</a>

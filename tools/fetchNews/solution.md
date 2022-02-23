@@ -8,6 +8,35 @@ nav_order: 900195
 
 ## Solution
 ---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cracking the Code - Researchers  Decrypt Hive Ransomware<a href="https://cyware.com/news/cracking-the-code-researchers-decrypt-hive-ransomware-aed00ba6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers identified a bug in the encryption algorithm of Hive ransomware, allowing white hat researchers to decrypt data without the need for any private key. Researchers could weaponize the flaw to recover 92–98% of the master key used during encryption. The method can now be effectively used t ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Free Solution to Protect Your Business from 6 Biggest Cyber Threats in 2022<a href="https://thehackernews.com/2022/02/a-free-solution-to-protect-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the last few years, the cybersecurity threat landscape has gotten progressively more complex and dangerous. The online world is now rife with data thieves, extortionists, and even state actors looking to exploit vulnerabilities in businesses' digital defenses.&nbsp;  And unfortunately — the bad guys have the upper hand at the moment. Part of the reason for that is the fallout from the rapid digitization made necessary by the COVID-19 pandemic.  According to research on the subject,&nbsp; more than half of businesses &nbsp;have yet to mitigate the risks created by that digitization. And when you add a persistent shortage of cybersecurity workers to that fact, you have the makings of a scary situation.  But businesses aren't helpless. There are plenty of things they can do to augment their defenses as they look to mitigate cyber risks. And best of all, some of those options won't cost them a thing.  A great example of that is the open-source security platform&nbsp; Wazuh . It offers busines
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

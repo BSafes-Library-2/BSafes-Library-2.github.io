@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT10 Target Taiwan’s financial trading industry<a href="https://securityaffairs.co/wordpress/128273/apt/apt10-targets-taiwan-financial-trading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT group APT10 (aka Stone Panda, Bronze Riverside) targets Taiwan's financial trading sector with a supply chain attack.
+
+
+
+The campaign was launched by the APT10 group started in November 2021, but it hit a peak between 10 and 13 2022,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
