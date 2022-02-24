@@ -11,6 +11,21 @@ nav_order: 900160
 February 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Phishing Technique Uses Remote Access Software<a href="https://cyware.com/news/new-phishing-technique-uses-remote-access-software-eb6b63d4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers discovered a new phishing technique wherein adversaries bypass MFA using the VNC screen sharing system without victims logging into their accounts. The demonstrated phishing technique has not been used in real-world attacks yet. However, the researcher suspects that it could be ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers tried to shatter the spine of global supply chains in 2021<a href="https://www.zdnet.com/article/hackers-tried-to-shatter-the-spine-of-global-supply-chains-in-2021/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

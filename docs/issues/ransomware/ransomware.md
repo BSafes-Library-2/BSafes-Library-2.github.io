@@ -11,6 +11,56 @@ nav_order: 900180
 February 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Sophos linked Entropy ransomware to Dridex malware. Are both linked to Evil Corp?<a href="https://securityaffairs.co/wordpress/128323/cyber-crime/entropy-ransomware-dridex-link.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The code of the recently-emerged Entropy ransomware has similarities with the one of the infamous Dridex malware.
+
+
+
+The recently-emerged Entropy ransomware has code similarities with the popular Dridex malware.
+
+
+
+Experts from Sophos analyzed the code...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware extortion doesn't stop after paying the ransom<a href="https://www.bleepingcomputer.com/news/security/ransomware-extortion-doesnt-stop-after-paying-the-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A global survey that looked into the experience of ransomware victims highlights the lack of trustworthiness of ransomware actors, as in most cases of paying the ransom, the extortion simply continues.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Entropy ransomware linked to Evil Corp's Dridex malware<a href="https://www.bleepingcomputer.com/news/security/entropy-ransomware-linked-to-evil-corps-dridex-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysis of the recently-emerged Entropy ransomware reveals code-level similarities with the general purpose Dridex malware that started as a banking trojan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 LockBit, Conti most active ransomware targeting industrial sector<a href="https://www.bleepingcomputer.com/news/security/lockbit-conti-most-active-ransomware-targeting-industrial-sector/"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine government websites down in latest cyberattack<a href="https://thehill.com//policy/cybersecurity/595520-ukraine-government-websites-down-in-latest-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several Ukrainian government websites were down following a cyberattack on Wednesday, a Ukrainian official confirmed on Telegram, with banks' websites also affected.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

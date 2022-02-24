@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nigerian hacker pleads guilty to stealing payroll deposits<a href="https://www.bleepingcomputer.com/news/security/nigerian-hacker-pleads-guilty-to-stealing-payroll-deposits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Nigerian national named Charles Onus has pled guilty in the District Court of the Southern District of New York to hacking into a payroll company's user accounts and stealing payroll deposits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,48 @@ nav_order: 900015
 February 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New data-wiping malware used in destructive attacks on Ukraine<a href="https://www.bleepingcomputer.com/news/security/new-data-wiping-malware-used-in-destructive-attacks-on-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firms have found a new data wiper used in destructive attacks today against Ukrainian networks just as Russia moves troops into regions of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kostovite, Petrovite, and Erythrite Hacking Groups are Striking Industrial, Operational Technology Systems<a href="https://www.zdnet.com/article/these-new-hacking-groups-are-striking-industrial-operational-tech-targets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three new threat groups targeting firms in the industrial sector have appeared but over half of all attacks are the work of only two known cybercriminal outfits, researchers say.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeadBolt ransomware now targets ASUSTOR devices, asks 50 BTC for master key<a href="https://www.bleepingcomputer.com/news/security/deadbolt-ransomware-now-targets-asustor-devices-asks-50-btc-for-master-key/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DeadBolt ransomware is now targeting ASUSTOR NAS devices by encrypting files and demanding a $1,150 ransom in bitcoins.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Iranian Broadcaster IRIB hit by wiper malware<a href="https://securityaffairs.co/wordpress/128309/hacking/irib-hit-by-wiper-malware.html"> Full Text</a>
 </p>
 <details>

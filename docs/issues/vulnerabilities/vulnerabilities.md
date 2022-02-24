@@ -11,6 +11,38 @@ nav_order: 900220
 February 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+NSA-linked Bvp47 Linux backdoor widely undetected for 10 years<a href="https://www.bleepingcomputer.com/news/security/nsa-linked-bvp47-linux-backdoor-widely-undetected-for-10-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report released today dives deep into technical aspects of a Linux backdoor now tracked as Bvp47 that is linked to the Equation Group, the advanced persistent threat actor tied to the U.S. National Security Agency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers shared technical details of NSA Equation Group’s Bvp47 backdoor<a href="https://securityaffairs.co/wordpress/128322/apt/equation-group-bvp47-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pangu Lab researchers disclosed details of the Bvp47 backdoor that was used by the US NSA Equation Group.
+
+
+
+Researchers from The China's Pangu Lab have disclosed details of a Linux top-tier APT backdoor, tracked as Bvp47, which is associated with the U.S....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Flawed Encryption Could Enable Initialization Vector Reuse Attacks on  Samsung Smartphones<a href="https://www.theregister.com/2022/02/23/samsung_encryption_phones/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

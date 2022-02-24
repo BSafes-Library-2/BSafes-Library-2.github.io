@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender for Cloud can now protect Google Cloud resources<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-cloud-can-now-protect-google-cloud-resources/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced today that Microsoft Defender for Cloud now also comes with native protection for Google Cloud Platform (GCP) environments, providing security recommendations and threat detection&nbsp;across clouds.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

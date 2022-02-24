@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA-linked Bvp47 Linux backdoor widely undetected for 10 years<a href="https://www.bleepingcomputer.com/news/security/nsa-linked-bvp47-linux-backdoor-widely-undetected-for-10-years/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Phishing Technique Uses Remote Access Software<a href="https://cyware.com/news/new-phishing-technique-uses-remote-access-software-eb6b63d4"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine government websites down in latest cyberattack<a href="https://thehill.com//policy/cybersecurity/595520-ukraine-government-websites-down-in-latest-cyberattack"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers shared technical details of NSA Equation Group’s Bvp47 backdoor<a href="https://securityaffairs.co/wordpress/128322/apt/equation-group-bvp47-backdoor.html"> Full Text</a>
@@ -103,7 +103,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Network hackers focus on selling high-value targets in the U.S.<a href="https://www.bleepingcomputer.com/news/security/network-hackers-focus-on-selling-high-value-targets-in-the-us/"> Full Text</a>
@@ -119,7 +119,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation Cache Panda - Chinese APT10 Targets Taiwan<a href="https://cyware.com/news/operation-cache-panda-chinese-apt10-targets-taiwan-9619edf7"> Full Text</a>
@@ -135,7 +135,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophos linked Entropy ransomware to Dridex malware. Are both linked to Evil Corp?<a href="https://securityaffairs.co/wordpress/128323/cyber-crime/entropy-ransomware-dridex-link.html"> Full Text</a>
@@ -159,7 +159,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New data-wiping malware used in destructive attacks on Ukraine<a href="https://www.bleepingcomputer.com/news/security/new-data-wiping-malware-used-in-destructive-attacks-on-ukraine/"> Full Text</a>
@@ -175,7 +175,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Social Media Attacks Double, Financial Sector Suffers Most - Report<a href="https://cyware.com/news/social-media-attacks-double-financial-sector-suffers-most-report-69981470"> Full Text</a>
@@ -191,7 +191,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware extortion doesn't stop after paying the ransom<a href="https://www.bleepingcomputer.com/news/security/ransomware-extortion-doesnt-stop-after-paying-the-ransom/"> Full Text</a>
@@ -207,7 +207,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Attacks Exploiting Recent Vulnerabilities in Zabbix Monitoring Tool<a href="https://www.securityweek.com/cisa-warns-attacks-exploiting-recent-vulnerabilities-zabbix-monitoring-tool?&web_view=true"> Full Text</a>
@@ -223,7 +223,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nigerian hacker pleads guilty to stealing payroll deposits<a href="https://www.bleepingcomputer.com/news/security/nigerian-hacker-pleads-guilty-to-stealing-payroll-deposits/"> Full Text</a>
@@ -239,7 +239,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kostovite, Petrovite, and Erythrite Hacking Groups are Striking Industrial, Operational Technology Systems<a href="https://www.zdnet.com/article/these-new-hacking-groups-are-striking-industrial-operational-tech-targets/?&web_view=true"> Full Text</a>
@@ -255,7 +255,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeadBolt ransomware now targets ASUSTOR devices, asks 50 BTC for master key<a href="https://www.bleepingcomputer.com/news/security/deadbolt-ransomware-now-targets-asustor-devices-asks-50-btc-for-master-key/"> Full Text</a>
@@ -271,7 +271,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian government and banks once again hit by DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/ukrainian-government-and-banks-once-again-hit-by-ddos-attacks/"> Full Text</a>
@@ -287,7 +287,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US, UK link new Cyclops Blink malware to Russian state hackers<a href="https://www.bleepingcomputer.com/news/security/us-uk-link-new-cyclops-blink-malware-to-russian-state-hackers/"> Full Text</a>
@@ -303,7 +303,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender for Cloud can now protect Google Cloud resources<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-cloud-can-now-protect-google-cloud-resources/"> Full Text</a>
@@ -319,7 +319,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC: Americans report losing over $5.8 billion to fraud in 2021<a href="https://www.bleepingcomputer.com/news/security/ftc-americans-report-losing-over-58-billion-to-fraud-in-2021/"> Full Text</a>
@@ -335,7 +335,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Entropy ransomware linked to Evil Corp's Dridex malware<a href="https://www.bleepingcomputer.com/news/security/entropy-ransomware-linked-to-evil-corps-dridex-malware/"> Full Text</a>

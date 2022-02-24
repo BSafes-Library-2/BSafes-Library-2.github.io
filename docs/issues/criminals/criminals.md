@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network hackers focus on selling high-value targets in the U.S.<a href="https://www.bleepingcomputer.com/news/security/network-hackers-focus-on-selling-high-value-targets-in-the-us/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Crowdstrike report looking into access brokers' advertisements since 2019 has identified a preference in academic, government, and technology entities based in the United States.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

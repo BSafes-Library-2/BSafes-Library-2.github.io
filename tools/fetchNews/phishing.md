@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers tried to shatter the spine of global supply chains in 2021<a href="https://www.zdnet.com/article/hackers-tried-to-shatter-the-spine-of-global-supply-chains-in-2021/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM researchers say that phishing remains the most common attack vector for cyberattacks but there has also been a 33% increase in the use of vulnerabilities against unpatched systems.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Devious phishing method bypasses MFA using remote access software<a href="https://www.bleepingcomputer.com/news/security/devious-phishing-method-bypasses-mfa-using-remote-access-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A devious new phishing technique allows attackers to bypass MFA by secretly having victims log in to their accounts directly on attacker-controlled servers using VNC.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

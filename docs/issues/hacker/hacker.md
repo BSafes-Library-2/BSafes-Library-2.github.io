@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, UK link new Cyclops Blink malware to Russian state hackers<a href="https://www.bleepingcomputer.com/news/security/us-uk-link-new-cyclops-blink-malware-to-russian-state-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New malware dubbed&nbsp;Cyclops Blink has been linked to the Russian-backed Sandworm hacking group in a joint security advisory published today by US and UK cybersecurity and law enforcement agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

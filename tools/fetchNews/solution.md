@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+February 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome to allow users to add notes to saved passwords<a href="https://www.bleepingcomputer.com/news/google/google-chrome-to-allow-users-to-add-notes-to-saved-passwords/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is testing a new Chrome feature that allows users to add notes on passwords saved in the web browser.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

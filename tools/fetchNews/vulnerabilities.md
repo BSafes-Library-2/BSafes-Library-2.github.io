@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flawed Encryption Could Enable Initialization Vector Reuse Attacks on  Samsung Smartphones<a href="https://www.theregister.com/2022/02/23/samsung_encryption_phones/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung failed to implement Keymaster TA properly in Galaxy S series phones, meaning one could launch an Initialization Vector reuse attack to obtain the keys from the hardware-protected key blobs.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Horde Webmail Software is affected by a dangerous bug since 2012<a href="https://securityaffairs.co/wordpress/128314/hacking/horde-webmail-xss.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found a nine-year-old unpatched flaw in the Horde Webmail software that could allow access to email accounts.
+
+
+
+A feature in the Horde Webmail is affected by a nine-year-old unpatched security vulnerability that could be abused to gain complete...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Bypass Stalking Protections on Apple Airtags Clones Using Find My Protocol<a href="https://www.theregister.com/2022/02/22/apple_airtags_protections_bypass/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Source code for an Airtag clone was published online by Positive Security, which said its tags "successfully tracked an iPhone user... for over five days without triggering a tracking notification."
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+9-Year-Old Unpatched Email Hacking Bug Uncovered in Horde Webmail Software<a href="https://thehackernews.com/2022/02/9-year-old-unpatched-email-hacking-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of Horde Webmail are being urged to disable a feature to contain a nine-year-old unpatched security vulnerability in the software that could be abused to gain complete access to email accounts simply by previewing an attachment.  "This gives the attacker access to all sensitive and perhaps secret information a victim has stored in their email account and could allow them to gain further access to the internal services of an organization," SonarSource vulnerability researcher, Simon Scannell,&nbsp; said &nbsp;in a report.  An " all volunteer project ," the Horde Project is a free, browser-based communication suite that allows users to read, send, and organize email messages as well as manage and share calendars, contacts, tasks, notes, files, and bookmarks.   The flaw, which was introduced as part of a&nbsp; code change &nbsp;pushed on November 30, 2012, relates to a case of an "unusual" stored cross-site scripting flaw (aka persistent XSS) that allows an adversary to c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
