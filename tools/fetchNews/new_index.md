@@ -37,6 +37,323 @@ BSafes library includes mobile-friendly cybersecurity publications.
 February 23, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+NSA-linked Bvp47 Linux backdoor widely undetected for 10 years<a href="https://www.bleepingcomputer.com/news/security/nsa-linked-bvp47-linux-backdoor-widely-undetected-for-10-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report released today dives deep into technical aspects of a Linux backdoor now tracked as Bvp47 that is linked to the Equation Group, the advanced persistent threat actor tied to the U.S. National Security Agency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing Technique Uses Remote Access Software<a href="https://cyware.com/news/new-phishing-technique-uses-remote-access-software-eb6b63d4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers discovered a new phishing technique wherein adversaries bypass MFA using the VNC screen sharing system without victims logging into their accounts. The demonstrated phishing technique has not been used in real-world attacks yet. However, the researcher suspects that it could be ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine government websites down in latest cyberattack<a href="https://thehill.com//policy/cybersecurity/595520-ukraine-government-websites-down-in-latest-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several Ukrainian government websites were down following a cyberattack on Wednesday, a Ukrainian official confirmed on Telegram, with banks' websites also affected.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers shared technical details of NSA Equation Group’s Bvp47 backdoor<a href="https://securityaffairs.co/wordpress/128322/apt/equation-group-bvp47-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pangu Lab researchers disclosed details of the Bvp47 backdoor that was used by the US NSA Equation Group.
+
+
+
+Researchers from The China's Pangu Lab have disclosed details of a Linux top-tier APT backdoor, tracked as Bvp47, which is associated with the U.S....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network hackers focus on selling high-value targets in the U.S.<a href="https://www.bleepingcomputer.com/news/security/network-hackers-focus-on-selling-high-value-targets-in-the-us/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Crowdstrike report looking into access brokers' advertisements since 2019 has identified a preference in academic, government, and technology entities based in the United States.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Cache Panda - Chinese APT10 Targets Taiwan<a href="https://cyware.com/news/operation-cache-panda-chinese-apt10-targets-taiwan-9619edf7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese cybersecurity firm CyCraft attributed months-long attacks against Taiwan’s financial sector to the APT10 group (aka Stone Panda or Bronze Riverside), which is affiliated with the Chinese government.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos linked Entropy ransomware to Dridex malware. Are both linked to Evil Corp?<a href="https://securityaffairs.co/wordpress/128323/cyber-crime/entropy-ransomware-dridex-link.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The code of the recently-emerged Entropy ransomware has similarities with the one of the infamous Dridex malware.
+
+
+
+The recently-emerged Entropy ransomware has code similarities with the popular Dridex malware.
+
+
+
+Experts from Sophos analyzed the code...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New data-wiping malware used in destructive attacks on Ukraine<a href="https://www.bleepingcomputer.com/news/security/new-data-wiping-malware-used-in-destructive-attacks-on-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firms have found a new data wiper used in destructive attacks today against Ukrainian networks just as Russia moves troops into regions of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social Media Attacks Double, Financial Sector Suffers Most - Report<a href="https://cyware.com/news/social-media-attacks-double-financial-sector-suffers-most-report-69981470"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per the Quarterly Threat Trends &amp; Intelligence Report by PhishLabs, social media threats increased by 103% from January to December 2021. In December, organizations witnessed an average of 68 attacks per month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware extortion doesn't stop after paying the ransom<a href="https://www.bleepingcomputer.com/news/security/ransomware-extortion-doesnt-stop-after-paying-the-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A global survey that looked into the experience of ransomware victims highlights the lack of trustworthiness of ransomware actors, as in most cases of paying the ransom, the extortion simply continues.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Attacks Exploiting Recent Vulnerabilities in Zabbix Monitoring Tool<a href="https://www.securityweek.com/cisa-warns-attacks-exploiting-recent-vulnerabilities-zabbix-monitoring-tool?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-23131 and CVE-2022-23134, the two flaws could be exploited to bypass authentication and gain admin privileges, which could then allow an attacker to execute arbitrary commands.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nigerian hacker pleads guilty to stealing payroll deposits<a href="https://www.bleepingcomputer.com/news/security/nigerian-hacker-pleads-guilty-to-stealing-payroll-deposits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Nigerian national named Charles Onus has pled guilty in the District Court of the Southern District of New York to hacking into a payroll company's user accounts and stealing payroll deposits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kostovite, Petrovite, and Erythrite Hacking Groups are Striking Industrial, Operational Technology Systems<a href="https://www.zdnet.com/article/these-new-hacking-groups-are-striking-industrial-operational-tech-targets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three new threat groups targeting firms in the industrial sector have appeared but over half of all attacks are the work of only two known cybercriminal outfits, researchers say.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeadBolt ransomware now targets ASUSTOR devices, asks 50 BTC for master key<a href="https://www.bleepingcomputer.com/news/security/deadbolt-ransomware-now-targets-asustor-devices-asks-50-btc-for-master-key/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DeadBolt ransomware is now targeting ASUSTOR NAS devices by encrypting files and demanding a $1,150 ransom in bitcoins.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian government and banks once again hit by DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/ukrainian-government-and-banks-once-again-hit-by-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The sites of several Ukrainian government agencies (including the Ministries of Foreign Affairs, Defense, and Internal Affairs, the Security Service, and the Cabinet of Ministers), and of the two largest state-owned banks are again targeted by Distributed Denial-of-Service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, UK link new Cyclops Blink malware to Russian state hackers<a href="https://www.bleepingcomputer.com/news/security/us-uk-link-new-cyclops-blink-malware-to-russian-state-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New malware dubbed Cyclops Blink has been linked to the Russian-backed Sandworm hacking group in a joint security advisory published today by US and UK cybersecurity and law enforcement agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender for Cloud can now protect Google Cloud resources<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-cloud-can-now-protect-google-cloud-resources/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced today that Microsoft Defender for Cloud now also comes with native protection for Google Cloud Platform (GCP) environments, providing security recommendations and threat detection across clouds.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC: Americans report losing over $5.8 billion to fraud in 2021<a href="https://www.bleepingcomputer.com/news/security/ftc-americans-report-losing-over-58-billion-to-fraud-in-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Trade Commission (FTC) said today that Americans reported losses of more than $5.8 billion to fraud during last year, a massive total increase of over 70% compared to the losses reported in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Entropy ransomware linked to Evil Corp's Dridex malware<a href="https://www.bleepingcomputer.com/news/security/entropy-ransomware-linked-to-evil-corps-dridex-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysis of the recently-emerged Entropy ransomware reveals code-level similarities with the general purpose Dridex malware that started as a banking trojan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 LockBit, Conti most active ransomware targeting industrial sector<a href="https://www.bleepingcomputer.com/news/security/lockbit-conti-most-active-ransomware-targeting-industrial-sector/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +367,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flawed Encryption Could Enable Initialization Vector Reuse Attacks on  Samsung Smartphones<a href="https://www.theregister.com/2022/02/23/samsung_encryption_phones/?&web_view=true"> Full Text</a>
@@ -66,7 +383,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dridex Malware Deploying Entropy Ransomware on Hacked Computers<a href="https://thehackernews.com/2022/02/dridex-malware-deploying-entropy.html"> Full Text</a>
@@ -82,7 +399,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Horde Webmail Software is affected by a dangerous bug since 2012<a href="https://securityaffairs.co/wordpress/128314/hacking/horde-webmail-xss.html"> Full Text</a>
@@ -102,7 +419,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Variant of CryptBot Targets All Chrome Versions<a href="https://cyware.com/news/new-variant-of-cryptbot-targets-all-chrome-versions-ff58a9f5"> Full Text</a>
@@ -119,7 +436,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Experts Uncover Details of Equation Group's Bvp47 Covert Hacking Tool<a href="https://thehackernews.com/2022/02/chinese-experts-uncover-details-of.html"> Full Text</a>
@@ -135,7 +452,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Broadcaster IRIB hit by wiper malware<a href="https://securityaffairs.co/wordpress/128309/hacking/irib-hit-by-wiper-malware.html"> Full Text</a>
@@ -155,7 +472,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Xenomorph Trojan Spreading via Play Store<a href="https://cyware.com/news/xenomorph-trojan-spreading-via-play-store-11f4599e"> Full Text</a>
@@ -172,7 +489,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Bypass Stalking Protections on Apple Airtags Clones Using Find My Protocol<a href="https://www.theregister.com/2022/02/22/apple_airtags_protections_bypass/?&web_view=true"> Full Text</a>
@@ -188,7 +505,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers tried to shatter the spine of global supply chains in 2021<a href="https://www.zdnet.com/article/hackers-tried-to-shatter-the-spine-of-global-supply-chains-in-2021/?&web_view=true"> Full Text</a>
@@ -204,7 +521,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 USA to attack bad cyber actors if it protects victims<a href="https://www.theregister.com/2022/02/21/doj_cyber_offensive_policy/?&web_view=true"> Full Text</a>
@@ -220,7 +537,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why DevOps pipelines are under attack and how to fight back<a href="https://www.csoonline.com/article/3649798/why-devops-pipelines-are-under-attack-and-how-to-fight-back.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -236,7 +553,7 @@ CSO Online
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Tools Lie Unused in Federal Agencies’ Toolboxes<a href="https://www.lawfareblog.com/cybersecurity-tools-lie-unused-federal-agencies-toolboxes"> Full Text</a>
@@ -252,7 +569,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gaming, Banking Trojans Dominate Mobile Malware Scene<a href="https://threatpost.com/gaming-banking-trojans-mobile-malware/178571/"> Full Text</a>
@@ -268,7 +585,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Devious phishing method bypasses MFA using remote access software<a href="https://www.bleepingcomputer.com/news/security/devious-phishing-method-bypasses-mfa-using-remote-access-software/"> Full Text</a>
@@ -284,7 +601,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattackers Cook Up Employee Personal Data Heist for Meyer<a href="https://threatpost.com/cyberattackers-employee-personal-data-meyer/178570/"> Full Text</a>
@@ -300,7 +617,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome to allow users to add notes to saved passwords<a href="https://www.bleepingcomputer.com/news/google/google-chrome-to-allow-users-to-add-notes-to-saved-passwords/"> Full Text</a>
@@ -316,7 +633,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 9-Year-Old Unpatched Email Hacking Bug Uncovered in Horde Webmail Software<a href="https://thehackernews.com/2022/02/9-year-old-unpatched-email-hacking-bug.html"> Full Text</a>
@@ -332,7 +649,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors target poorly protected Microsoft SQL Servers<a href="https://securityaffairs.co/wordpress/128297/hacking/microsoft-sql-server-compromise.html"> Full Text</a>
@@ -352,7 +669,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerable Microsoft SQL Servers targeted with Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/vulnerable-microsoft-sql-servers-targeted-with-cobalt-strike/"> Full Text</a>
@@ -368,7 +685,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 25 Malicious JavaScript Libraries Distributed via Official NPM Package Repository<a href="https://thehackernews.com/2022/02/25-malicious-javascript-libraries.html"> Full Text</a>
@@ -384,7 +701,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cookware giant Meyer Corporation discloses cyberattack<a href="https://securityaffairs.co/wordpress/128289/malware/meyer-corporation-discloses-data-breach.html"> Full Text</a>
@@ -408,7 +725,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police bust phishing group that used 40 sites to steal credit cards<a href="https://www.bleepingcomputer.com/news/security/police-bust-phishing-group-that-used-40-sites-to-steal-credit-cards/"> Full Text</a>
@@ -424,7 +741,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Stole $1.7 Million Worth of NFTs from Users of OpenSea Marketplace<a href="https://thehackernews.com/2022/02/hackers-steal-17-million-worth-of-nfts.html"> Full Text</a>
@@ -440,7 +757,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police dismantled a gang that used phishing sites to steal credit cards<a href="https://securityaffairs.co/wordpress/128281/cyber-crime/police-dismantled-phishing-gang.html"> Full Text</a>
@@ -460,7 +777,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Target Taiwan's Financial Trading Sector with Supply Chain Attack<a href="https://thehackernews.com/2022/02/chinese-hackers-target-taiwans.html"> Full Text</a>
@@ -476,7 +793,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT10 Target Taiwan’s financial trading industry<a href="https://securityaffairs.co/wordpress/128273/apt/apt10-targets-taiwan-financial-trading.html"> Full Text</a>
@@ -496,7 +813,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2022
+February 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A cyber attack heavily impacted operations of Expeditors International<a href="https://securityaffairs.co/wordpress/128268/hacking/expeditors-international-cyber-attack.html"> Full Text</a>
@@ -516,7 +833,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2022
+February 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Backdoor Unpatched Microsoft SQL Database Servers with Cobalt Strike<a href="https://thehackernews.com/2022/02/hackers-backdoor-unpatched-microsoft.html"> Full Text</a>

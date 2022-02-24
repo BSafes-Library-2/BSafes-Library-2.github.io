@@ -34,6 +34,323 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA-linked Bvp47 Linux backdoor widely undetected for 10 years<a href="https://www.bleepingcomputer.com/news/security/nsa-linked-bvp47-linux-backdoor-widely-undetected-for-10-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report released today dives deep into technical aspects of a Linux backdoor now tracked as Bvp47 that is linked to the Equation Group, the advanced persistent threat actor tied to the U.S. National Security Agency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing Technique Uses Remote Access Software<a href="https://cyware.com/news/new-phishing-technique-uses-remote-access-software-eb6b63d4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers discovered a new phishing technique wherein adversaries bypass MFA using the VNC screen sharing system without victims logging into their accounts. The demonstrated phishing technique has not been used in real-world attacks yet. However, the researcher suspects that it could be ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine government websites down in latest cyberattack<a href="https://thehill.com//policy/cybersecurity/595520-ukraine-government-websites-down-in-latest-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several Ukrainian government websites were down following a cyberattack on Wednesday, a Ukrainian official confirmed on Telegram, with banks' websites also affected.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers shared technical details of NSA Equation Group’s Bvp47 backdoor<a href="https://securityaffairs.co/wordpress/128322/apt/equation-group-bvp47-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pangu Lab researchers disclosed details of the Bvp47 backdoor that was used by the US NSA Equation Group.
+
+
+
+Researchers from The China's Pangu Lab have disclosed details of a Linux top-tier APT backdoor, tracked as Bvp47, which is associated with the U.S....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network hackers focus on selling high-value targets in the U.S.<a href="https://www.bleepingcomputer.com/news/security/network-hackers-focus-on-selling-high-value-targets-in-the-us/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Crowdstrike report looking into access brokers' advertisements since 2019 has identified a preference in academic, government, and technology entities based in the United States.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Cache Panda - Chinese APT10 Targets Taiwan<a href="https://cyware.com/news/operation-cache-panda-chinese-apt10-targets-taiwan-9619edf7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese cybersecurity firm CyCraft attributed months-long attacks against Taiwan’s financial sector to the APT10 group (aka Stone Panda or Bronze Riverside), which is affiliated with the Chinese government.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos linked Entropy ransomware to Dridex malware. Are both linked to Evil Corp?<a href="https://securityaffairs.co/wordpress/128323/cyber-crime/entropy-ransomware-dridex-link.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The code of the recently-emerged Entropy ransomware has similarities with the one of the infamous Dridex malware.
+
+
+
+The recently-emerged Entropy ransomware has code similarities with the popular Dridex malware.
+
+
+
+Experts from Sophos analyzed the code...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New data-wiping malware used in destructive attacks on Ukraine<a href="https://www.bleepingcomputer.com/news/security/new-data-wiping-malware-used-in-destructive-attacks-on-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firms have found a new data wiper used in destructive attacks today against Ukrainian networks just as Russia moves troops into regions of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social Media Attacks Double, Financial Sector Suffers Most - Report<a href="https://cyware.com/news/social-media-attacks-double-financial-sector-suffers-most-report-69981470"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per the Quarterly Threat Trends &amp; Intelligence Report by PhishLabs, social media threats increased by 103% from January to December 2021. In December, organizations witnessed an average of 68 attacks per month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware extortion doesn't stop after paying the ransom<a href="https://www.bleepingcomputer.com/news/security/ransomware-extortion-doesnt-stop-after-paying-the-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A global survey that looked into the experience of ransomware victims highlights the lack of trustworthiness of ransomware actors, as in most cases of paying the ransom, the extortion simply continues.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Attacks Exploiting Recent Vulnerabilities in Zabbix Monitoring Tool<a href="https://www.securityweek.com/cisa-warns-attacks-exploiting-recent-vulnerabilities-zabbix-monitoring-tool?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-23131 and CVE-2022-23134, the two flaws could be exploited to bypass authentication and gain admin privileges, which could then allow an attacker to execute arbitrary commands.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nigerian hacker pleads guilty to stealing payroll deposits<a href="https://www.bleepingcomputer.com/news/security/nigerian-hacker-pleads-guilty-to-stealing-payroll-deposits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Nigerian national named Charles Onus has pled guilty in the District Court of the Southern District of New York to hacking into a payroll company's user accounts and stealing payroll deposits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kostovite, Petrovite, and Erythrite Hacking Groups are Striking Industrial, Operational Technology Systems<a href="https://www.zdnet.com/article/these-new-hacking-groups-are-striking-industrial-operational-tech-targets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three new threat groups targeting firms in the industrial sector have appeared but over half of all attacks are the work of only two known cybercriminal outfits, researchers say.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeadBolt ransomware now targets ASUSTOR devices, asks 50 BTC for master key<a href="https://www.bleepingcomputer.com/news/security/deadbolt-ransomware-now-targets-asustor-devices-asks-50-btc-for-master-key/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DeadBolt ransomware is now targeting ASUSTOR NAS devices by encrypting files and demanding a $1,150 ransom in bitcoins.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian government and banks once again hit by DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/ukrainian-government-and-banks-once-again-hit-by-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The sites of several Ukrainian government agencies (including the Ministries of Foreign Affairs, Defense, and Internal Affairs, the Security Service, and the Cabinet of Ministers), and of the two largest state-owned banks are again targeted by Distributed Denial-of-Service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, UK link new Cyclops Blink malware to Russian state hackers<a href="https://www.bleepingcomputer.com/news/security/us-uk-link-new-cyclops-blink-malware-to-russian-state-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New malware dubbed Cyclops Blink has been linked to the Russian-backed Sandworm hacking group in a joint security advisory published today by US and UK cybersecurity and law enforcement agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender for Cloud can now protect Google Cloud resources<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-cloud-can-now-protect-google-cloud-resources/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced today that Microsoft Defender for Cloud now also comes with native protection for Google Cloud Platform (GCP) environments, providing security recommendations and threat detection across clouds.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC: Americans report losing over $5.8 billion to fraud in 2021<a href="https://www.bleepingcomputer.com/news/security/ftc-americans-report-losing-over-58-billion-to-fraud-in-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Trade Commission (FTC) said today that Americans reported losses of more than $5.8 billion to fraud during last year, a massive total increase of over 70% compared to the losses reported in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Entropy ransomware linked to Evil Corp's Dridex malware<a href="https://www.bleepingcomputer.com/news/security/entropy-ransomware-linked-to-evil-corps-dridex-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysis of the recently-emerged Entropy ransomware reveals code-level similarities with the general purpose Dridex malware that started as a banking trojan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 23, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
