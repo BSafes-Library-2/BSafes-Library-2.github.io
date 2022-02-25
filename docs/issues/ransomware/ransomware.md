@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning — Deadbolt Ransomware Targeting ASUSTOR NAS Devices<a href="https://thehackernews.com/2022/02/warning-deadbolt-ransomware-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ASUSTOR network-attached storage (NAS) devices have become the&nbsp; latest &nbsp; victim &nbsp;of Deadbolt ransomware, less than a month after similar attacks singled out&nbsp; QNAP NAS appliances .   In response to the infections, the company has released firmware updates ( ADM 4.0.4.RQO2 ) to "fix related security issues." The company is also urging users to take the following actions to keep data secure –   Change your password  Use a strong password  Change default HTTP and HTTPS ports. Default ports are 8000 and 8001 respectively  Change web server ports (Default ports are 80 and 443)  Turn off Terminal/SSH and SFTP services and other services you do not use, and  Make regular backups and ensure backups are up to date   The attacks primarily affect internet-exposed ASUSTOR NAS models running ADM operating systems including, but not limited to, AS5104T, AS5304T, AS6404T, AS7004T, AS5202T, AS6302T, and AS1104T.&nbsp;  Much like the intrusions targeting QNAP NAS devices, the threat actors claim t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

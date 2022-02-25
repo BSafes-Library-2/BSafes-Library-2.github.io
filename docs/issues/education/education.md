@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web Filtering and Compliances for Wi-Fi Providers<a href="https://threatpost.com/web-filtering-and-compliances-for-wi-fi-providers/178532/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Demand for public Wi-Fi is on the rise. Usually free of charge, but there is a risk of expensive losses. Learn ways to protect yourself from cyber-threats.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Art of Non-boring Cybersec Training–Podcast<a href="https://threatpost.com/the-art-of-non-boring-cybersec-training-podcast/178594/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With human error being the common factor in most cyberattacks, employee training has got to get better. To that end, Trustwave cybersec training expert Darren Van Booven explains the importance of fish stress balls and management buy-in.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social Media Attacks Double, Financial Sector Suffers Most - Report<a href="https://cyware.com/news/social-media-attacks-double-financial-sector-suffers-most-report-69981470"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per the Quarterly Threat Trends &amp; Intelligence Report by PhishLabs, social media threats increased by 103% from January to December 2021. In December, organizations witnessed an average of 68 attacks per month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC: Americans report losing over $5.8 billion to fraud in 2021<a href="https://www.bleepingcomputer.com/news/security/ftc-americans-report-losing-over-58-billion-to-fraud-in-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Trade Commission (FTC) said today that Americans reported losses of more than $5.8 billion to fraud during last year, a massive total increase of over 70% compared to the losses reported in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US and UK expose new malware used by MuddyWater hackers<a href="https://www.bleepingcomputer.com/news/security/us-and-uk-expose-new-malware-used-by-muddywater-hackers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 eSentire Raises US$325M in Funding<a href="https://www.finsmes.com/2022/02/esentire-raises-us325m-in-funding.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ FinSMEs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley — Social media platforms take action on Ukraine<a href="https://thehill.com//policy/technology/overnights/595769-hillicon-valley"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot Gang Likely Shifting Operations to Switch to New Malware<a href="https://thehackernews.com/2022/02/trickbot-gang-likely-shifting.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds two Zabbix flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/128374/hacking/cisa-zabbix-flaws.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Harsh Truths of Cybersecurity in 2022, Part II<a href="https://threatpost.com/harsh-truths-cybersecurity-part-two/178447/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange servers hacked to deploy Cuba ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-to-deploy-cuba-ransomware/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare acquires Area 1 Security for $162 million<a href="https://www.zdnet.com/article/cloudflare-acquires-area-1-security-for-162-million/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 From Pet Systems to Cattle Farm — What Happened to the Data Center?<a href="https://thehackernews.com/2022/02/from-pet-systems-to-cattle-farm-what.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data wiper attacks on Ukraine were planned at least in November and used ransomware as decoy<a href="https://securityaffairs.co/wordpress/128361/malware/ukraine-ransomware-decoy-wiper.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Web Filtering and Compliances for Wi-Fi Providers<a href="https://threatpost.com/web-filtering-and-compliances-for-wi-fi-providers/178532/"> Full Text</a>
@@ -218,7 +218,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Defense contractors hit by stealthy SockDetour Windows backdoor<a href="https://www.bleepingcomputer.com/news/security/defense-contractors-hit-by-stealthy-sockdetour-windows-backdoor/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 anecdotes Raises $25 Million for Its Compliance OS Platform<a href="https://www.securityweek.com/anecdotes-raises-25-million-its-compliance-os-platform?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning — Deadbolt Ransomware Targeting ASUSTOR NAS Devices<a href="https://thehackernews.com/2022/02/warning-deadbolt-ransomware-targeting.html"> Full Text</a>
@@ -266,7 +266,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deadbolt Ransomware targets Asustor and QNap NAS Devices<a href="https://securityaffairs.co/wordpress/128356/hacking/deadbolt-ransomware-asustor-nas.html"> Full Text</a>
@@ -290,7 +290,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Art of Non-boring Cybersec Training–Podcast<a href="https://threatpost.com/the-art-of-non-boring-cybersec-training-podcast/178594/"> Full Text</a>
@@ -306,7 +306,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware used as decoy in data-wiping attacks on Ukraine<a href="https://www.bleepingcomputer.com/news/security/ransomware-used-as-decoy-in-data-wiping-attacks-on-ukraine/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top US senator warns Putin cyberattacks could trigger bigger war<a href="https://www.axios.com/mark-warner-putin-cyber-attacks-ukraine-40c5e959-5093-4d79-bf24-8d4731edb293.html?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Axios
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Alerts on Actively Exploited Flaws in Zabbix Network Monitoring Platform<a href="https://thehackernews.com/2022/02/cisa-alerts-on-actively-exploited-flaws.html"> Full Text</a>
@@ -354,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Wiper Malware HermeticWiper targets Ukrainian systems<a href="https://securityaffairs.co/wordpress/128349/malware/wiper-malware-hermeticwipe-ukrain.html"> Full Text</a>
@@ -374,7 +374,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware infiltrates Microsoft Store via clones of popular games<a href="https://www.bleepingcomputer.com/news/security/malware-infiltrates-microsoft-store-via-clones-of-popular-games/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S., U.K. Agencies Warn of New Russian Botnet Built from Hacked Firewall Devices<a href="https://thehackernews.com/2022/02/us-uk-agencies-warn-of-new-russian.html"> Full Text</a>
@@ -406,7 +406,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US and UK link new Cyclops Blink malware to Russian state hackers￼<a href="https://securityaffairs.co/wordpress/128340/malware/cyclops-blink-sandworm-malware.html"> Full Text</a>
@@ -426,7 +426,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2022
+February 24, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Citibank phishing baits customers with fake suspension alerts<a href="https://www.bleepingcomputer.com/news/security/citibank-phishing-baits-customers-with-fake-suspension-alerts/"> Full Text</a>
@@ -442,7 +442,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Samsung Shattered Encryption on 100M Phones<a href="https://threatpost.com/samsung-shattered-encryption-on-100m-phones/178606/"> Full Text</a>
@@ -458,7 +458,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sextortion Rears Its Ugly Head Again<a href="https://threatpost.com/sextortion-rears-its-ugly-head-again/178595/"> Full Text</a>
@@ -474,7 +474,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2022
+February 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Wiper Malware Targeting Ukraine Amid Russia's Military Operation<a href="https://thehackernews.com/2022/02/new-wiper-malware-targeting-ukraine.html"> Full Text</a>

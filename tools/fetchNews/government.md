@@ -11,6 +11,20 @@ nav_order: 900075
 February 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Attacks Exploiting Recent Vulnerabilities in Zabbix Monitoring Tool<a href="https://www.securityweek.com/cisa-warns-attacks-exploiting-recent-vulnerabilities-zabbix-monitoring-tool?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-23131 and CVE-2022-23134, the two flaws could be exploited to bypass authentication and gain admin privileges, which could then allow an attacker to execute arbitrary commands.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 USA to attack bad cyber actors if it protects victims<a href="https://www.theregister.com/2022/02/21/doj_cyber_offensive_policy/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

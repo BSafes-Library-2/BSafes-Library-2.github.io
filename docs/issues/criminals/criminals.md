@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Gang Likely Shifting Operations to Switch to New Malware<a href="https://thehackernews.com/2022/02/trickbot-gang-likely-shifting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TrickBot, the infamous Windows crimeware-as-a-service (CaaS) solution that's used by a variety of threat actors to deliver next-stage payloads like ransomware, appears to be undergoing a transition of sorts, with no new activity recorded since the start of the year.  The lull in the malware campaigns is "partially due to a big shift from Trickbot's operators, including working with the operators of Emotet," researchers from Intel 471&nbsp; said &nbsp;in a report shared with The Hacker News.  The last set of attacks involving TrickBot were registered on December 28, 2021, even as command-and-control (C2) infrastructure associated with the malware has continued to serve additional plugins and&nbsp; web injects &nbsp;to infected nodes in the botnet.   Interestingly, the decrease in the volume of the campaigns has also been accompanied by the TrickBot gang working closely with the&nbsp; operators of Emotet , which witnessed a resurgence late last year after a 10-month-long break following law en
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

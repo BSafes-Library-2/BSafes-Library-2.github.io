@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S., U.K. Agencies Warn of New Russian Botnet Built from Hacked Firewall Devices<a href="https://thehackernews.com/2022/02/us-uk-agencies-warn-of-new-russian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intelligence agencies in the U.K. and the U.S. disclosed details of a new botnet malware called&nbsp; Cyclops Blink &nbsp;that's been attributed to the Russian-backed Sandworm hacking group and deployed in attacks dating back to 2019.  "Cyclops Blink appears to be a replacement framework for the VPNFilter malware exposed in 2018, which exploited network devices, primarily small office/home office (SOHO) routers, and network-attached storage (NAS) devices," the agencies&nbsp; said . "In common with VPNFilter, Cyclops Blink deployment also appears indiscriminate and widespread."  The&nbsp; joint government advisory &nbsp;comes from the U.K. National Cyber Security Centre (NCSC), the Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency (NSA), and the Federal Bureau of Investigation (FBI) in the U.S.   Sandworm , aka Voodoo Bear, is the name assigned to a&nbsp; highly advanced adversary &nbsp;operating out of Russia that's known to be active since at least 2008.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

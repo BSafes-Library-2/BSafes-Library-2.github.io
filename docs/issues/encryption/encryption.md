@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Shattered Encryption on 100M Phones<a href="https://threatpost.com/samsung-shattered-encryption-on-100m-phones/178606/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One cryptography expert said that ‘serious flaws’ in the way Samsung phones encrypt sensitive material, as revealed by academics, are ’embarrassingly bad.’ 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

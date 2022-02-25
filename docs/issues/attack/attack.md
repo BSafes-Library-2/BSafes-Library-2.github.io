@@ -8,6 +8,80 @@ nav_order: 900015
 
 ## Attack
 ---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers hacked to deploy Cuba ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-to-deploy-cuba-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cuba ransomware operation is exploiting Microsoft Exchange vulnerabilities to gain initial access to corporate networks and encrypt devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data wiper attacks on Ukraine were planned at least in November and used ransomware as decoy<a href="https://securityaffairs.co/wordpress/128361/malware/ukraine-ransomware-decoy-wiper.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts reported that the wiper attacks that yesterday hit hundreds of systems in Ukraine used a GoLang-based ransomware decoy.
+
+
+
+Yesterday, researchers from cybersecurity firms&nbsp;ESET&nbsp;and&nbsp;Broadcom’s&nbsp;Symantec&nbsp;discovered a new data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defense contractors hit by stealthy SockDetour Windows backdoor<a href="https://www.bleepingcomputer.com/news/security/defense-contractors-hit-by-stealthy-sockdetour-windows-backdoor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new custom malware dubbed SockDetour found on systems belonging to US defense contractors has been used as a backup backdoor to maintain access to compromised networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware used as decoy in data-wiping attacks on Ukraine<a href="https://www.bleepingcomputer.com/news/security/ransomware-used-as-decoy-in-data-wiping-attacks-on-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new data wiper malware deployed on Ukrainian networks in destructive attacks on Wednesday right before Russia invaded Ukraine earlier today was, in some cases, accompanied by a GoLang-based ransomware decoy.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sextortion Rears Its Ugly Head Again<a href="https://threatpost.com/sextortion-rears-its-ugly-head-again/178595/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are sending email blasts with malware links in embedded PDFs as a way to evade email filters, lying about having fictional "video evidence."
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
