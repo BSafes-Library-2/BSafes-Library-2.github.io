@@ -34,6 +34,488 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nvidia confirms it’s investigating an ‘incident,’ reportedly a cyberattack<a href="https://www.theverge.com/2022/2/25/22951376/nvidia-incident-alleged-cyberattack-february-2022?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nvidia confirmed that it was investigating an “incident” — hours after media reported that the graphics chipmaking giant had experienced a devastating cyberattack that “completely compromised” the company’s internal systems over the past two days.
+</details>
+<div style="text-align: right" markdown="1">
+The Verge
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot malware operation shuts down, devs move to BazarBackdoor<a href="https://www.bleepingcomputer.com/news/security/trickbot-malware-operation-shuts-down-devs-move-to-bazarbackdoor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TrickBot malware operation has shut down after its core developers move to the Conti ransomware gang to focus development on the stealthy BazarBackdoor and Anchor malware families.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New "SockDetour" Fileless, Socketless Backdoor Targets U.S. Defense Contractors<a href="https://thehackernews.com/2022/02/new-sockdetour-fileless-socketless.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have taken the wraps off a previously undocumented and stealthy custom malware called SockDetour  that targeted U.S.-based defense contractors with the goal of being used as a secondary implant on compromised Windows hosts.  "SockDetour is a backdoor that is designed to remain stealthily on compromised Windows servers so that it can serve as a backup backdoor in case the primary one fails," Palo Alto Networks' Unit 41 threat intelligence  said  in a report published Thursday. "It is difficult to detect, since it operates filelessly and socketlessly on compromised Windows servers."  Even more concerningly, SockDetour is believed to have been used in attacks since at least July 2019, based on a compilation timestamp on the sample, implying that the backdoor successfully managed to slip past detection for over two-and-a-half years.   The attacks have been attributed to a threat cluster it tracks as  TiltedTemple  (aka DEV-0322 by Microsof
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine calls on independent hackers to defend against Russia, Russian underground responds<a href="https://securityaffairs.co/wordpress/128410/cyber-crime/ukraine-russia-hacking-undergrounds.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While Ukraine calls for hacker underground to defend against Russia, ransomware gangs make their moves.
+
+
+
+Ukraine's government is asking for volunteers from the hacker underground to provide their support in protecting critical infrastructure and carry...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Takes a Break, Leaving Researchers Scratching Their Heads<a href="https://threatpost.com/trickbot-break-researchers-scratching-heads/178678/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous trojan is likely making some major operational changes, researchers believe.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GPU giant Nvidia is investigating a potential cyberattack<a href="https://www.bleepingcomputer.com/news/security/gpu-giant-nvidia-is-investigating-a-potential-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US chipmaker giant Nvidia confirmed today it's currently investigating an "incident" that reportedly took down some of its systems for two days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Hacking Groups Targeting ICS/OT Systems<a href="https://cyware.com/news/multiple-hacking-groups-targeting-icsot-systems-986a0b09"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report on industrial cybersecurity has revealed three new threat groups, besides LockBit 2.0 and Conti, that have been targeting the industrial sector.&nbsp; Experts spotted three new groups Petrovite, Kostovite, and Erythrite, that have been targeting ICS/OT systems. To protect from threats, ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran's MuddyWater Hacker Group Using New Malware in Worldwide Cyber Attacks<a href="https://thehackernews.com/2022/02/irans-muddywater-hacker-group-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity agencies from the U.K. and the U.S. have laid bare a new malware used by the Iranian government-sponsored advanced persistent threat (APT) group in attacks targeting government and commercial networks worldwide.  "MuddyWater actors are positioned both to provide stolen data and accesses to the Iranian government and to share these with other malicious cyber actors," the agencies  said .  The joint advisory comes courtesy of the Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), the U.S. Cyber Command Cyber National Mission Force (CNMF), and the U.K.'s National Cyber Security Centre (NCSC).  The cyberespionage actor was  outed this year  as conducting malicious operations as part of Iran's Ministry of Intelligence and Security (MOIS) targeting a wide range of government and private-sector organizations, including telecommunications, defense, local government, and oil and natural gas sectors, in Asia, Afric
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine: Belarusian APT group UNC1151 targets military personnel with spear phishing<a href="https://securityaffairs.co/wordpress/128397/apt/belarusian-unc1151-targets-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CERT of Ukraine (CERT-UA) warned of a spear-phishing campaign targeting Ukrainian armed forces personnel.
+
+
+
+The Computer Emergency Response Team of Ukraine (CERT-UA) is warning of an ongoing spear-phishing campaign targeting private email accounts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs, hackers pick sides over Russia invading Ukraine<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-hackers-pick-sides-over-russia-invading-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hacker crews are picking sides as the Russian invasion into Ukraine continues, issuing bans and threats for supporters of the opposite side.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Sandworm Distributes New Cyclops Blink Malware<a href="https://cyware.com/news/russian-sandworm-distributes-new-cyclops-blink-malware-d444c8b7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. and U.K released a joint security advisory warning that Russian-backed Sandworm has started using a new malware, dubbed Cyclops Blink. The group has mostly deployed the Cyclops Blink to WatchGuard devices. The joint advisory recommends referring to indicators of compromise and provides gui ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Putin Warns Russian Critical Infrastructure to Brace for Potential Cyber Attacks<a href="https://thehackernews.com/2022/02/putin-warns-russian-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian government on Thursday warned of cyber attacks aimed at domestic critical infrastructure operators, as the country's full-blown invasion of Ukraine enters the second day.  In addition to cautioning of the "threat of an increase in the intensity of computer attacks," Russia's National Computer Incident Response and Coordination Center  said  that the "attacks can be aimed at disrupting the functioning of important information resources and services, causing reputational damage, including for political purposes."  "Any failure in the operation of [critical information infrastructure] objects due to a reason that is not reliably established, first of all, should be considered as the result of a computer attack," the agency added.  Furthermore, it notified of possible influence operations undertaken to "form a negative image of the Russian Federation in the eyes of the world community," echoing a  similar alert  released by the U
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous launched its offensive on Russia in response to the invasion of Ukraine<a href="https://securityaffairs.co/wordpress/128392/hacktivism/anonymous-cyber-attacks-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular collective Anonymous declared war on Russia for the illegitimate invasion of Ukraine and announced a series of cyber attacks calling to action its members
+
+
+
+The Anonymous collective is calling to action against Russia following the illegitimate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS urges orgs to apply security update for Okta Client RCE bug<a href="https://www.bleepingcomputer.com/news/security/nhs-urges-orgs-to-apply-security-update-for-okta-client-rce-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's NHS Digital agency is warning organizations to apply new security updates for a remote code execution vulnerability in the Windows client for the Okta Advanced Server Access authentication management platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Email Security and Brand Protection Firm Red Sift Raises $54 Million<a href="https://www.securityweek.com/email-security-and-brand-protection-firm-red-sift-raises-54-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest funding round was led by Highland Europe, with participation from new and existing investors, including Sands Capital, MMC Ventures, and Oxford Capital Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and UK details a new Python backdoor used by MuddyWater APT group<a href="https://securityaffairs.co/wordpress/128383/apt/muddywater-apt-python-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US and UK cybersecurity agencies provided details of a new malware used by Iran-linked MuddyWater APT.
+
+
+
+CISA, the FBI, the US Cyber Command's Cyber National Mission Force (CNMF), UK's National Cyber Security Centre (NCSC-UK), and the NSA, and law enforcement...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Visual Voice Mail on Android may be vulnerable to eavesdropping<a href="https://www.bleepingcomputer.com/news/security/visual-voice-mail-on-android-may-be-vulnerable-to-eavesdropping/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security analyst has devised a way to capture Visual Voice Mail (VVM) credentials on Android devices and then remotely listen to voicemail messages without the victim's knowledge.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Official website of Russian Parliament, MoD and Kremlin go offline<a href="https://www.hackread.com/russian-parliament-mod-kremlin-have-gone-offline/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The affected websites include the Kremlin (kremlin.ru) which is the official website of President Vladimir Putin, the Russian Ministry of Defense, and the official website of the Russian parliament.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jester Stealer malware adds more capabilities to entice hackers<a href="https://www.bleepingcomputer.com/news/security/jester-stealer-malware-adds-more-capabilities-to-entice-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An infostealing piece of malware called Jester Stealer has been gaining popularity in the underground cybercrime community for its functionality and affordable prices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Integrity360 acquires Caretower to strengthen its cybersecurity services<a href="https://www.helpnetsecurity.com/2022/02/25/integrity360-caretower/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland-based Integrity360 and Caretower announced that they have joined forces with Caretower becoming an Integrity360 company. The terms of the transaction were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine links phishing targeting military to Belarusian hackers<a href="https://www.bleepingcomputer.com/news/security/ukraine-links-phishing-targeting-military-to-belarusian-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) warned today of a spearphishing campaign targeting private email accounts belonging to Ukrainian armed forces personnel.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach Impacts DNA Data of Sexual Assault Victims Reported to Oklahoma City Police Department<a href="https://portswigger.net/daily-swig/dna-data-of-sexual-assault-victims-exposed-in-breach-at-us-laboratory?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The laboratory processed the DNA evidence from rape victims, known as ‘rape kits’, for the Oklahoma City Police Department (OKCPD), amongst other clients, over a two-year period.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of actively exploited vulnerabilities in Zabbix servers<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-vulnerabilities-in-zabbix-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A notification from the U.S. Cybersecurity Infrastructure and Security Agency (CISA) warns that threat actors are exploiting vulnerabilities in the Zabbix open-source tool for monitoring networks, servers, virtual machines, and cloud services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GE SCADA Product Vulnerabilities Show Importance of Secure Configurations<a href="https://www.securityweek.com/ge-scada-product-vulnerabilities-show-importance-secure-configurations?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GE Digital has released patches for two high-severity vulnerabilities affecting its Proficy CIMPLICITY HMI/SCADA software, which is used by plants globally to monitor and control operations.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft App Store Sizzling with New ‘Electron Bot’ Malware<a href="https://threatpost.com/microsoft-app-store-electron-bot-malware/178629/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SEO poisoning bot, capable of full system takeover, is actively taking over social media accounts, masquerading as popular games like Temple Run.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Leverage DocuSign to Steal Microsoft Outlook Logins<a href="https://threatpost.com/cyberattackers-docusign-steal-microsoft-outlook-logins/178613/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A targeted phishing attack takes aim at a major U.S. payments company.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notorious TrickBot Malware Gang Shuts Down its Botnet Infrastructure<a href="https://thehackernews.com/2022/02/notorious-trickbot-malware-gang-shuts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The modular Windows crimeware platform known as TrickBot formally shuttered its infrastructure on Thursday after reports emerged of its  imminent retirement  amid a lull in its activity for almost two months, marking an end to one of the most persistent malware campaigns in recent years.  "TrickBot is gone... It is official now as of Thursday, February 24, 2022. See you soon... or not," AdvIntel's CEO Vitali Kremez  tweeted . "TrickBot is gone as it has become inefficient for targeted intrusions."  Attributed to a Russia-based criminal enterprise called  Wizard Spider , TrickBot started out as a financial trojan in late 2016 and is a derivative of another banking malware called  Dyre  that was dismantled in November 2015. Over the years, it morphed into a veritable Swiss Army knife of malicious capabilities, enabling threat actors to steal information via  web injects  and drop additional payloads.   TrickBot's activities took a noticeable hit in October 20
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Flaws Discovered in Cisco's Network Operating System for Switches<a href="https://thehackernews.com/2022/02/new-flaws-discovered-in-ciscos-network.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released software updates to address four security vulnerabilities in its software that could be weaponized by malicious actors to take control of affected systems.  The most critical of the flaws is  CVE-2022-20650  (CVSS score: 8.8), which relates to a command injection flaw in the NX-API feature of Cisco NX-OS Software that stems from a lack of sufficient input validation of user-supplied data.  "An attacker could exploit this vulnerability by sending a crafted HTTP POST request to the NX-API of an affected device," Cisco said. "A successful exploit could allow the attacker to execute arbitrary commands with root privileges on the underlying operating system."   The flaw impacts Nexus 3000 Series Switches, Nexus 5500 Platform Switches, Nexus 5600 Platform Switches, Nexus 6000 Series Switches, and Nexus 9000 Series Switches in standalone NX-OS mode running Cisco NX-OS Software that have the NX-API feature enabled.  Also patched are two high-severity den
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US defense contractors hit by stealthy SockDetour Windows backdoor<a href="https://www.bleepingcomputer.com/news/security/us-defense-contractors-hit-by-stealthy-sockdetour-windows-backdoor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new custom malware dubbed SockDetour found on systems belonging to US defense contractors has been used as a backup backdoor to maintain access to compromised networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

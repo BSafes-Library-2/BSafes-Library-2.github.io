@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine: Belarusian APT group&nbsp;UNC1151 targets military personnel with spear phishing<a href="https://securityaffairs.co/wordpress/128397/apt/belarusian-unc1151-targets-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CERT of Ukraine (CERT-UA) warned of a spear-phishing campaign targeting Ukrainian armed forces personnel.
+
+
+
+The Computer Emergency Response Team of Ukraine (CERT-UA) is warning of an ongoing spear-phishing campaign targeting private email accounts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

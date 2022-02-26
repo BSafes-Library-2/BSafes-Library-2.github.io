@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine links phishing targeting military to Belarusian hackers<a href="https://www.bleepingcomputer.com/news/security/ukraine-links-phishing-targeting-military-to-belarusian-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) warned today of a spearphishing campaign targeting private email accounts belonging to Ukrainian armed forces personnel.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

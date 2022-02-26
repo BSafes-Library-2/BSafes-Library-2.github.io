@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Social media platforms take action on Ukraine<a href="https://thehill.com//policy/technology/overnights/595769-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Thursday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Harsh Truths of Cybersecurity in 2022, Part II<a href="https://threatpost.com/harsh-truths-cybersecurity-part-two/178447/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sonya Duffin, ransomware and data-protection expert at Veritas Technologies, shares three steps organizations can take today to reduce cyberattack fallout.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Pet Systems to Cattle Farm — What Happened to the Data Center?<a href="https://thehackernews.com/2022/02/from-pet-systems-to-cattle-farm-what.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There's something about craftsmanship. It's personal, its artistry, and it can be incredibly effective in achieving its goals. On the other hand, mass-market production can be effective in other ways, through speed, efficiency, and cost savings.  The story of data centers is one of going from craftsmanship – where every individual machine is a pet project, maintained with great care – to mass production with big server farms where individual units are completely disposable.  In this article, we take a look at how data centers have changed shape over the decades. We examine the implications for data center workloads, and for the people that run them – who have now lost their pet systems. We'll also review the cybersecurity implications of the new data center landscape.  Pet system with a big purpose  For any sysadmin who started their career before the advent of virtualization and other cloud and automation technologies, systems were finely crafted pieces of hardware – and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

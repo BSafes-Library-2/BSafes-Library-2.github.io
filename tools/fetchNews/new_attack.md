@@ -8,6 +8,109 @@ nav_order: 900015
 
 ## Attack
 ---
+February 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nvidia confirms it’s investigating an ‘incident,’ reportedly a cyberattack<a href="https://www.theverge.com/2022/2/25/22951376/nvidia-incident-alleged-cyberattack-february-2022?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nvidia confirmed that it was investigating an “incident” — hours after media reported that the graphics chipmaking giant had experienced a devastating cyberattack that “completely compromised” the company’s internal systems over the past two days.
+</details>
+<div style="text-align: right" markdown="1">
+The Verge
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GPU giant Nvidia is investigating a potential cyberattack<a href="https://www.bleepingcomputer.com/news/security/gpu-giant-nvidia-is-investigating-a-potential-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US chipmaker&nbsp;giant Nvidia confirmed today it's currently investigating an "incident" that reportedly took down some of its systems for two days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran's MuddyWater Hacker Group Using New Malware in Worldwide Cyber Attacks<a href="https://thehackernews.com/2022/02/irans-muddywater-hacker-group-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity agencies from the U.K. and the U.S. have laid bare a new malware used by the Iranian government-sponsored advanced persistent threat (APT) group in attacks targeting government and commercial networks worldwide.  "MuddyWater actors are positioned both to provide stolen data and accesses to the Iranian government and to share these with other malicious cyber actors," the agencies&nbsp; said .  The joint advisory comes courtesy of the Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), the U.S. Cyber Command Cyber National Mission Force (CNMF), and the U.K.'s National Cyber Security Centre (NCSC).  The cyberespionage actor was&nbsp; outed this year &nbsp;as conducting malicious operations as part of Iran's Ministry of Intelligence and Security (MOIS) targeting a wide range of government and private-sector organizations, including telecommunications, defense, local government, and oil and natural gas sectors, in Asia, Afric
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Sandworm Distributes New Cyclops Blink Malware<a href="https://cyware.com/news/russian-sandworm-distributes-new-cyclops-blink-malware-d444c8b7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. and U.K released a joint security advisory warning that Russian-backed Sandworm has started using a new malware, dubbed Cyclops Blink. The group has mostly deployed the Cyclops Blink to WatchGuard devices. The joint advisory recommends referring to indicators of compromise and provides gui ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous launched its offensive on Russia in response to the invasion of Ukraine<a href="https://securityaffairs.co/wordpress/128392/hacktivism/anonymous-cyber-attacks-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular collective Anonymous declared war on Russia for the illegitimate invasion of Ukraine and announced a series of cyber attacks calling to action its members
+
+
+
+The Anonymous collective is calling to action against Russia following the illegitimate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Leverage DocuSign to Steal Microsoft Outlook Logins<a href="https://threatpost.com/cyberattackers-docusign-steal-microsoft-outlook-logins/178613/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A targeted phishing attack takes aim at a major U.S. payments company.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US defense contractors hit by stealthy SockDetour Windows backdoor<a href="https://www.bleepingcomputer.com/news/security/us-defense-contractors-hit-by-stealthy-sockdetour-windows-backdoor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new custom malware dubbed SockDetour found on systems belonging to US defense contractors has been used as a backup backdoor to maintain access to compromised networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

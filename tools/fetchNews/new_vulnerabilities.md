@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GE SCADA Product Vulnerabilities Show Importance of Secure Configurations<a href="https://www.securityweek.com/ge-scada-product-vulnerabilities-show-importance-secure-configurations?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GE Digital has released patches for two high-severity vulnerabilities affecting its Proficy CIMPLICITY HMI/SCADA software, which is used by plants globally to monitor and control operations.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Flaws Discovered in Cisco's Network Operating System for Switches<a href="https://thehackernews.com/2022/02/new-flaws-discovered-in-ciscos-network.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released software updates to address four security vulnerabilities in its software that could be weaponized by malicious actors to take control of affected systems.  The most critical of the flaws is&nbsp; CVE-2022-20650 &nbsp;(CVSS score: 8.8), which relates to a command injection flaw in the NX-API feature of Cisco NX-OS Software that stems from a lack of sufficient input validation of user-supplied data.  "An attacker could exploit this vulnerability by sending a crafted HTTP POST request to the NX-API of an affected device," Cisco said. "A successful exploit could allow the attacker to execute arbitrary commands with root privileges on the underlying operating system."   The flaw impacts Nexus 3000 Series Switches, Nexus 5500 Platform Switches, Nexus 5600 Platform Switches, Nexus 6000 Series Switches, and Nexus 9000 Series Switches in standalone NX-OS mode running Cisco NX-OS Software that have the NX-API feature enabled.  Also patched are two high-severity den
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

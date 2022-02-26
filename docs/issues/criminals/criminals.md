@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot malware operation shuts down, devs move to BazarBackdoor<a href="https://www.bleepingcomputer.com/news/security/trickbot-malware-operation-shuts-down-devs-move-to-bazarbackdoor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TrickBot malware operation has shut down after its core developers move to the Conti ransomware gang to focus development on the stealthy BazarBackdoor and Anchor malware families.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Takes a Break, Leaving Researchers Scratching Their Heads<a href="https://threatpost.com/trickbot-break-researchers-scratching-heads/178678/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous trojan is likely making some major operational changes, researchers believe.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs, hackers pick sides over Russia invading Ukraine<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-hackers-pick-sides-over-russia-invading-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hacker crews are picking sides as the Russian invasion into Ukraine continues, issuing bans and threats for supporters of the opposite side.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

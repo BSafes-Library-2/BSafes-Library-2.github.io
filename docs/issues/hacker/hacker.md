@@ -8,6 +8,21 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Hacking Groups Targeting ICS/OT Systems<a href="https://cyware.com/news/multiple-hacking-groups-targeting-icsot-systems-986a0b09"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report on industrial cybersecurity has revealed three new threat groups, besides LockBit 2.0 and Conti, that have been targeting the industrial sector.&nbsp; Experts spotted three new groups Petrovite, Kostovite, and Erythrite, that have been targeting ICS/OT systems. To protect from threats, ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

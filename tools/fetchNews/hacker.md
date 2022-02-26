@@ -8,6 +8,24 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and UK link new Cyclops Blink malware to Russian state hackers￼<a href="https://securityaffairs.co/wordpress/128340/malware/cyclops-blink-sandworm-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK and US cybersecurity agencies linked Cyclops Blink malware to Russia's Sandworm APT
+
+
+
+US and UK cybersecurity and law enforcement agencies published a joint security advisory about a new malware, dubbed Cyclops Blink, that has been linked to the Russian-backed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds two Zabbix flaws to its&nbsp;Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/128374/hacking/cisa-zabbix-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added two flaws impacting Zabbix infrastructure monitoring tool to its&nbsp;Known Exploited Vulnerabilities Catalog.
+
+
+
+US Cybersecurity and Infrastructure Security Agency (CISA)&nbsp;added two new vulnerabilities&nbsp;impacting the Zabbix infrastructure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top US senator warns Putin cyberattacks could trigger bigger war<a href="https://www.axios.com/mark-warner-putin-cyber-attacks-ukraine-40c5e959-5093-4d79-bf24-8d4731edb293.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent DDoS attacks in Ukraine were significant, but nowhere near the scale of the massive Russian cyberattacks U.S. officials fear could stop communications and shut down critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Axios
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Alerts on Actively Exploited Flaws in Zabbix Network Monitoring Platform<a href="https://thehackernews.com/2022/02/cisa-alerts-on-actively-exploited-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has&nbsp; warned &nbsp;of active exploitation of two security flaws impacting Zabbix open-source enterprise monitoring platform, adding them to its&nbsp; Known Exploited Vulnerabilities Catalog .  On top of that, CISA is also recommending that Federal Civilian Executive Branch (FCEB) agencies patch all systems against the vulnerabilities by March 8, 2022 to reduce their exposure to potential cyberattacks.   Tracked as&nbsp; CVE-2022-23131 &nbsp;(CVSS score: 9.8) and&nbsp; CVE-2022-23134 &nbsp;(CVSS score: 5.3), the shortcomings could lead to the compromise of complete networks, enabling a malicious unauthenticated actor to escalate privileges and gain admin access to the Zabbix Frontend as well as make configuration changes.   Thomas Chauchefoin from SonarSource has been credited with discovering and reporting the two flaws, which affect Zabbix Web Frontend versions up to and including 5.4.8, 5.0.18 and 4.0.36. The issues have since been addressed in vers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

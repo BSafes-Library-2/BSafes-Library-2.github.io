@@ -8,6 +8,66 @@ nav_order: 900075
 
 ## Government
 ---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine calls on independent hackers to defend against Russia, Russian underground responds<a href="https://securityaffairs.co/wordpress/128410/cyber-crime/ukraine-russia-hacking-undergrounds.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While Ukraine calls for hacker underground to defend against Russia, ransomware gangs make their moves.
+
+
+
+Ukraine's government is asking for volunteers from the hacker underground to provide their support in protecting critical infrastructure and carry...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Putin Warns Russian Critical Infrastructure to Brace for Potential Cyber Attacks<a href="https://thehackernews.com/2022/02/putin-warns-russian-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian government on Thursday warned of cyber attacks aimed at domestic critical infrastructure operators, as the country's full-blown invasion of Ukraine enters the second day.  In addition to cautioning of the "threat of an increase in the intensity of computer attacks," Russia's National Computer Incident Response and Coordination Center&nbsp; said &nbsp;that the "attacks can be aimed at disrupting the functioning of important information resources and services, causing reputational damage, including for political purposes."  "Any failure in the operation of [critical information infrastructure] objects due to a reason that is not reliably established, first of all, should be considered as the result of a computer attack," the agency added.  Furthermore, it notified of possible influence operations undertaken to "form a negative image of the Russian Federation in the eyes of the world community," echoing a&nbsp; similar alert &nbsp;released by the U
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS urges orgs to apply security update for Okta Client RCE bug<a href="https://www.bleepingcomputer.com/news/security/nhs-urges-orgs-to-apply-security-update-for-okta-client-rce-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's NHS Digital agency is warning organizations to apply new security updates for a remote code execution vulnerability in the Windows client for the Okta Advanced Server Access authentication management platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of actively exploited vulnerabilities in Zabbix servers<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-vulnerabilities-in-zabbix-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A notification from the U.S. Cybersecurity Infrastructure and Security Agency (CISA) warns that threat actors are exploiting vulnerabilities in the Zabbix open-source tool for monitoring networks, servers, virtual machines, and cloud services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

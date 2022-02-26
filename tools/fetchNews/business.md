@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+eSentire Raises US$325M in Funding<a href="https://www.finsmes.com/2022/02/esentire-raises-us325m-in-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MDR provider eSentire raised US$325M in private equity funding. The round was led by Georgian, with participation from Caisse de dépot et placement du Québec (CDPQ) and Warburg Pincus.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare acquires Area 1 Security for $162 million<a href="https://www.zdnet.com/article/cloudflare-acquires-area-1-security-for-162-million/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare announced that it is acquiring Area 1 Security for approximately $162 million. Area 1 Security has a cloud-native platform built to work alongside email programs to stop phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+anecdotes Raises $25 Million for Its Compliance OS Platform<a href="https://www.securityweek.com/anecdotes-raises-25-million-its-compliance-os-platform?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new funding round was led by Red Dot Capital Partners and received participation from Aleph, Glilot Capital Partners, Shasta Ventures, and Vintage Investment Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

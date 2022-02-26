@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Email Security and Brand Protection Firm Red Sift Raises $54 Million<a href="https://www.securityweek.com/email-security-and-brand-protection-firm-red-sift-raises-54-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest funding round was led by Highland Europe, with participation from new and existing investors, including Sands Capital, MMC Ventures, and Oxford Capital Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Integrity360 acquires Caretower to strengthen its cybersecurity services<a href="https://www.helpnetsecurity.com/2022/02/25/integrity360-caretower/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland-based Integrity360 and Caretower announced that they have joined forces with Caretower becoming an Integrity360 company. The terms of the transaction were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Visual Voice Mail on Android may be vulnerable to eavesdropping<a href="https://www.bleepingcomputer.com/news/security/visual-voice-mail-on-android-may-be-vulnerable-to-eavesdropping/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security analyst has devised a way to capture Visual Voice Mail (VVM) credentials on Android devices and then remotely&nbsp;listen to voicemail messages without the victim's knowledge.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

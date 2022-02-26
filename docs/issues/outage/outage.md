@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+February 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Official website of Russian Parliament, MoD and Kremlin go offline<a href="https://www.hackread.com/russian-parliament-mod-kremlin-have-gone-offline/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The affected websites include the Kremlin (kremlin.ru) which is the official website of President Vladimir Putin, the Russian Ministry of Defense, and the official website of the Russian parliament.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

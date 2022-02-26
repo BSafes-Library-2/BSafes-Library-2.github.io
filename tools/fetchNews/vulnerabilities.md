@@ -8,6 +8,28 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deadbolt Ransomware targets Asustor and QNap NAS Devices<a href="https://securityaffairs.co/wordpress/128356/hacking/deadbolt-ransomware-asustor-nas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deadbolt ransomware operators are targeting Asustor NAS (network-attached storage) appliances.
+
+
+
+Storage solutions provider Asustor is warning its customers of a wave of Deadbolt ransomware attacks targeting its NAS devices.
+
+
+
+Since January, DeadBolt...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
