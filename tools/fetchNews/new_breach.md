@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+February 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous breached the internal network of Belarusian railways<a href="https://securityaffairs.co/wordpress/128486/hacktivism/anonymous-breached-belarusian-railways.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Anonymous hacker collective claims to have breached the Belarusian Railway's data-processing network.
+
+
+
+The Anonymous collective announced that the internal network of Belarusian railways has been compromised, the group claims to have blocked all services...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nvidia Breach Seen as Ransomware Attack Unconnected to Ukraine<a href="https://tech.hindustantimes.com/tech/news/nvidia-breach-seen-as-ransomware-attack-unconnected-to-ukraine-71645849548804.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber breach suffered by Nvidia Corp. in recent days appears to have been a ransomware attack that’s not connected to the crisis in Ukraine, according to a person familiar with the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Hindustan Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

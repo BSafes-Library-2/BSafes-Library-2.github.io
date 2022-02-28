@@ -8,6 +8,110 @@ nav_order: 900075
 
 ## Government
 ---
+February 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feb 7- Feb 27 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/128478/cyber-warfare-2/russian-invasion-of-ukraine-timeline.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This post provides a timeline of the events related to the Russia invasion of Ukraine from the cyber security perspective.
+
+
+
+Below is the timeline of Russia - Ukraine cyber dispute
+
+
+
+February 27 - Ukraine: Volunteer IT Army is going to hit tens of Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine: Volunteer IT Army is going to hit tens of Russian targets from this list<a href="https://securityaffairs.co/wordpress/128464/cyber-warfare-2/ukraine-volunteer-it-army-targets-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine is recruiting a volunteer IT army composed of white hat hackers to launch attacks on a list of Russian entities.
+
+
+
+Ukraine is recruiting a volunteer IT army of cyber security experts and white hat hackers to launch cyberattacks on a list of Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber officials urge agencies to armor up for potential Russian attacks<a href="https://thehill.com//policy/international/russia/595945-cyber-officials-urge-federal-agencies-to-armor-up-for-potential"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. cybersecurity officials are urging federal agencies and large organizations to remain vigilant against the threat of Russian cyberattacks amid&nbsp;the&nbsp;country’s ongoing invasion of Ukraine.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine recruits "IT Army" to hack Russian entities, lists 31 targets<a href="https://www.bleepingcomputer.com/news/security/ukraine-recruits-it-army-to-hack-russian-entities-lists-31-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine is recruiting a volunteer "IT army" of security researchers and hackers to conduct cyberattacks on thirty-one Russian entities, including government agencies, critical infrastructure, and banks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia restricts Twitter in the country amid conflict with Ukraine<a href="https://securityaffairs.co/wordpress/128439/security/russia-restricts-twitter-conflict-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Global internet monitor working group NetBlocks reported that Twitter has been restricted in Russia amid conflict with Ukraine.
+
+
+
+Global internet monitor working organization NetBlocks shared its metrics confirming the restriction of Twitter in Russia...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK’s NHS Digital warns of an RCE in Okta Advanced Server Access client<a href="https://securityaffairs.co/wordpress/128418/security/nhs-okta-advanced-server-access-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's NHS Digital agency warns of an RCE in the Windows client for the Okta Advanced Server Access authentication management platform.
+
+
+
+The UK's NHS Digital agency published a security advisory to warn organizations of a remote code execution flaw,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

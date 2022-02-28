@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2022
+February 27, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2022 may be the year cybercrime returns its focus to consumers<a href="https://www.bleepingcomputer.com/news/security/2022-may-be-the-year-cybercrime-returns-its-focus-to-consumers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2022
+February 27, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find Similarities Between Dridex Trojan and Entropy Ransomware<a href="https://cyware.com/news/researchers-find-similarities-between-dridex-trojan-and-entropy-ransomware-749af186"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2022
+February 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous breached the internal network of Belarusian railways<a href="https://securityaffairs.co/wordpress/128486/hacktivism/anonymous-breached-belarusian-railways.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2022
+February 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nvidia Breach Seen as Ransomware Attack Unconnected to Ukraine<a href="https://tech.hindustantimes.com/tech/news/nvidia-breach-seen-as-ransomware-attack-unconnected-to-ukraine-71645849548804.html?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Hindustan Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2022
+February 27, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feb 7- Feb 27 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/128478/cyber-warfare-2/russian-invasion-of-ukraine-timeline.html"> Full Text</a>
@@ -126,7 +126,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2022
+February 27, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Chip Can Prevent Hackers From Extracting Hidden Information From Smart Devices<a href="https://scitechdaily.com/new-chip-can-prevent-hackers-from-extracting-hidden-information-from-smart-devices/?&web_view=true"> Full Text</a>
@@ -142,7 +142,7 @@ scitechdaily
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2022
+February 27, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine: Volunteer IT Army is going to hit tens of Russian targets from this list<a href="https://securityaffairs.co/wordpress/128464/cyber-warfare-2/ukraine-volunteer-it-army-targets-russia.html"> Full Text</a>
@@ -162,7 +162,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2022
+February 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chipmaker giant Nvidia hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/128456/cyber-crime/nvidia-ransomware-attack.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2022
+February 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber officials urge agencies to armor up for potential Russian attacks<a href="https://thehill.com//policy/international/russia/595945-cyber-officials-urge-federal-agencies-to-armor-up-for-potential"> Full Text</a>
@@ -198,7 +198,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2022
+February 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Social Media Hijacking Malware Spreading Through Gaming Apps on Microsoft Store<a href="https://thehackernews.com/2022/02/social-media-hijacking-malware.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2022
+February 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine recruits "IT Army" to hack Russian entities, lists 31 targets<a href="https://www.bleepingcomputer.com/news/security/ukraine-recruits-it-army-to-hack-russian-entities-lists-31-targets/"> Full Text</a>
@@ -230,7 +230,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2022
+February 26, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Free Android app lets users detect Apple AirTag tracking<a href="https://www.bleepingcomputer.com/news/security/free-android-app-lets-users-detect-apple-airtag-tracking/"> Full Text</a>
@@ -246,7 +246,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2022
+February 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fileless SockDetour backdoor targets U.S.-based defense contractors<a href="https://securityaffairs.co/wordpress/128446/apt/sockdetour-backdoor-targets-us-defense.html"> Full Text</a>
@@ -266,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2022
+February 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia restricts Twitter in the country amid conflict with Ukraine<a href="https://securityaffairs.co/wordpress/128439/security/russia-restricts-twitter-conflict-ukraine.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2022
+February 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous hacked the Russian Defense Ministry and is targeting Russian companies<a href="https://securityaffairs.co/wordpress/128428/hacking/anonymous-russian-defense-ministry.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2022
+February 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK’s NHS Digital warns of an RCE in Okta Advanced Server Access client<a href="https://securityaffairs.co/wordpress/128418/security/nhs-okta-advanced-server-access-rce.html"> Full Text</a>

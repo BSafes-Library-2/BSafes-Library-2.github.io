@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+February 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chip Can Prevent Hackers From Extracting Hidden Information From Smart Devices<a href="https://scitechdaily.com/new-chip-can-prevent-hackers-from-extracting-hidden-information-from-smart-devices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MIT researchers developed an application-specific integrated circuit (ASIC) chip that can be implemented on an Internet-of-Things (IOT) device to defend against power-based side-channel attacks.
+</details>
+<div style="text-align: right" markdown="1">
+scitechdaily
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free Android app lets users detect Apple AirTag tracking<a href="https://www.bleepingcomputer.com/news/security/free-android-app-lets-users-detect-apple-airtag-tracking/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A small team of researchers at the Darmstadt University in Germany have published a report illustrating how their AirGuard app for Android provides better protection from stealthy AirTag stalking than other apps.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

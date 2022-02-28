@@ -8,6 +8,42 @@ nav_order: 900015
 
 ## Attack
 ---
+February 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chipmaker giant Nvidia hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/128456/cyber-crime/nvidia-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The chipmaker giant Nvidia was the victim of a ransomware attack that took down some of its systems for two days.
+
+
+
+The chipmaker giant Nvidia was victim of a ransomware attack that impacted some of its systems for teo days. The security breach is not connected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked the Russian Defense Ministry and is targeting Russian companies<a href="https://securityaffairs.co/wordpress/128428/hacking/anonymous-russian-defense-ministry.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous collective has hacked the Russian Defense Ministry and leaked the data of its employees in response to the Ukraine invasion.
+
+
+
+A few hours after the Anonymous collective has called to action against Russia following the illegitimate invasion...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

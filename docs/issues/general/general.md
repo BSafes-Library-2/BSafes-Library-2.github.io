@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2022 may be the year cybercrime returns its focus to consumers<a href="https://www.bleepingcomputer.com/news/security/2022-may-be-the-year-cybercrime-returns-its-focus-to-consumers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts expect 2022 to be the tipping point for a shift in the focus of hackers from large companies back to consumers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

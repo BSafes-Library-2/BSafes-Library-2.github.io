@@ -11,6 +11,20 @@ nav_order: 900025
 February 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Notorious TrickBot Malware Gang Shuts Down its Botnet Infrastructure<a href="https://thehackernews.com/2022/02/notorious-trickbot-malware-gang-shuts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The modular Windows crimeware platform known as TrickBot formally shuttered its infrastructure on Thursday after reports emerged of its&nbsp; imminent retirement &nbsp;amid a lull in its activity for almost two months, marking an end to one of the most persistent malware campaigns in recent years.  "TrickBot is gone... It is official now as of Thursday, February 24, 2022. See you soon... or not," AdvIntel's CEO Vitali Kremez&nbsp; tweeted .&nbsp;"TrickBot is gone as it has become inefficient for targeted intrusions."  Attributed to a Russia-based criminal enterprise called&nbsp; Wizard Spider , TrickBot started out as a financial trojan in late 2016 and is a derivative of another banking malware called&nbsp; Dyre &nbsp;that was dismantled in November 2015. Over the years, it morphed into a veritable Swiss Army knife of malicious capabilities, enabling threat actors to steal information via&nbsp; web injects &nbsp;and drop additional payloads.   TrickBot's activities took a noticeable hit in October 20
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 U.S., U.K. Agencies Warn of New Russian Botnet Built from Hacked Firewall Devices<a href="https://thehackernews.com/2022/02/us-uk-agencies-warn-of-new-russian.html"> Full Text</a>
 </p>
 <details>
