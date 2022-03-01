@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Destructive Malware Targeting Organizations in Ukraine <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-057a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leading up to Russia’s unprovoked attack against Ukraine, threat actors deployed destructive malware against organizations in Ukraine to destroy computer systems and render them inoperable. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schneider Electric Easergy P5 and P3 <a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-055-03"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Successful exploitation of these vulnerabilities may disclose device credentials, cause a denial-of-service condition, device reboot, or allow an attacker to gain full control of the relay. This could result in loss of protection to your electrical network.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 22, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Similarities Between Dridex Trojan and Entropy Ransomware<a href="https://cyware.com/news/researchers-find-similarities-between-dridex-trojan-and-entropy-ransomware-749af186"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of recent cyberattacks targeting a North American media organization and a regional government entity, had deployed the Dridex trojan on targeted systems before launching the Entropy ransomware.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

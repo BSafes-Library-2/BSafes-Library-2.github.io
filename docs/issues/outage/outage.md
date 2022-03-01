@@ -8,6 +8,66 @@ nav_order: 900140
 
 ## Outage
 ---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toyota suspends production in Japan following possible cyberattack<a href="https://thehill.com//policy/cybersecurity/596132-toyota-suspends-production-in-japan-following-possible-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Toyota Motor Corporation, the Japanese multinational automotive manufacturer, said on Monday that it's suspending domestic factory operations starting Tuesday following a cyberattack that hit one of its suppliers,&nbsp;according to a Reuters report.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toyota Motors halted production due to a cyber attack on a supplier<a href="https://securityaffairs.co/wordpress/128522/hacking/toyota-motors-halted-production-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese carmaker Toyota Motors was forced to stop car production due to a cyberattack against one of its suppliers.
+
+
+
+Japanese carmaker Toyota Motors was forced to halt its production due to a cyber attack that suffered by one of its suppliers, Kojima...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Camera Maker Axis Suffers Service Outage Following Cyberattack<a href="https://www.zdnet.com/article/swedish-camera-giant-axis-still-recovering-from-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Swedish camera giant said it got alerts from its cybersecurity and intrusion detection system on Sunday before it shut down all public-facing services globally to limit the impact of the attack.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toyota halts production after reported cyberattack on supplier<a href="https://www.bleepingcomputer.com/news/security/toyota-halts-production-after-reported-cyberattack-on-supplier/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Giant Japanese automaker Toyota Motors has announced that it stopped car production operations. The outage was&nbsp;forced by a system failure at&nbsp;one of its&nbsp; suppliers of vital parts, Kojima Industries, which reportedly suffered a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

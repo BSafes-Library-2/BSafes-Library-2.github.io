@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeadBolt Ransomware Eyeing ASUSTOR Devices<a href="https://cyware.com/news/deadbolt-ransomware-eyeing-asustor-devices-5fef8a92"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deadbolt ransomware hackers crippled the networks of Asustor NAS drives users and attempted to extort 0.03 BTC for the release of a decryption key. Multiple reports indicate that the AS6102T, AS6602T, AS5304T, AS5304T, and AS-6210T-4K models are unaffected. Meanwhile, ASUSTOR is planning to release ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of High-Severity Flaws in Schneider and GE Digital's SCADA Software<a href="https://thehackernews.com/2022/02/cisa-warns-of-high-severity-flaws-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) last week published an industrial control system ( ICS ) advisory related to multiple vulnerabilities impacting Schneider Electric's&nbsp; Easergy &nbsp;medium voltage protection relays.  "Successful exploitation of these vulnerabilities may disclose device credentials, cause a denial-of-service condition, device reboot, or allow an attacker to gain full control of the relay," the agency&nbsp; said &nbsp;in a bulletin on February 24, 2022. "This could result in loss of protection to your electrical network."   The two high-severity weaknesses impact Easergy P3 versions prior to v30.205 and Easergy P5 versions before v01.401.101. Details of the flaws are as follows –   CVE-2022-22722 &nbsp;(CVSS score: 7.5) – Use of hardcoded credentials that could be abused to observe and manipulate traffic associated with the device.  CVE-2022-22723 &nbsp;and&nbsp; CVE-2022-22725 &nbsp;(CVSS score: 8.8) – A buffer overflow vulnerability that could resu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and FBI warn of potential data wiping attacks spillover<a href="https://www.bleepingcomputer.com/news/security/cisa-and-fbi-warn-of-potential-data-wiping-attacks-spillover/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) warned US organizations that data wiping attacks targeting Ukraine could spill over to targets from other countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

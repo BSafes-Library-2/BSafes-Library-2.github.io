@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta: Ukrainian officials, military targeted by Ghostwriter hackers<a href="https://www.bleepingcomputer.com/news/security/meta-ukrainian-officials-military-targeted-by-ghostwriter-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook (now known as Meta) says it took down accounts used&nbsp;by a Belarusian-linked hacking group (UNC1151 or Ghostwriter)&nbsp;to target Ukrainian officials and military personnel on its platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hit Russian Nuclear Institute and leak stolen data<a href="https://securityaffairs.co/wordpress/128527/hacktivism/anonymous-hit-russian-nuclear-institute.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous and other hacker groups that responded to the call to war against Russia continue to launch cyberattacks on gov organizations and businesses.
+
+
+
+Anonymous and numerous hacker groups linked to the popular collective continue to launch cyber...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware's internal chats leaked after siding with Russia<a href="https://www.bleepingcomputer.com/news/security/conti-ransomwares-internal-chats-leaked-after-siding-with-russia/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An angry member of the Conti ransomware operation has leaked over 60,000 private messages after the gang sided with Russia over the invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

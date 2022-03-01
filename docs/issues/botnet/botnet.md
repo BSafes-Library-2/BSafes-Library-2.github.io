@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Electron Bot Leverages Microsoft App Store to Pierce Social Media Accounts<a href="https://cyware.com/news/electron-bot-leverages-microsoft-app-store-to-pierce-social-media-accounts-0363e341"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An SEO poisoning bot has been taking over social media accounts and masquerading as the Temple Run game. The bot targets multiple social media accounts such as Facebook, Google, and SoundCloud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reborn of Emotet: New Features of the Botnet and How to Detect it<a href="https://thehackernews.com/2022/02/reborn-of-emotet-new-features-of-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the most dangerous and infamous threats is back again. In January 2021, global officials took down the botnet. Law enforcement sent a destructive update to the Emotet's executables. And it looked like the end of the trojan's story.&nbsp;  But the malware never ceased to surprise.&nbsp;  November 2021, it was reported that TrickBot no longer works alone and delivers Emotet. And ANY.RUN with colleagues in the industry were among the first to notice the emergence of Emotet's malicious documents.  First Emotet malicious documents  And this February, we can see a very active wave with crooks running numerous attacks, hitting the top in the rankings. If you are interested in this topic or researching malware, you can make use of the special help of&nbsp; ANY.RUN , the interactive sandbox for the detection and analysis of cyber threats.  Let's look at the new version's changes that this disruptive malware brought this time.&nbsp;  Emotet history  Emotet is a sophisticated, constantly
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

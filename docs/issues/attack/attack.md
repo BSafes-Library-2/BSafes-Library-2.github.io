@@ -8,6 +8,122 @@ nav_order: 900015
 
 ## Attack
 ---
+March 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FoxBlade malware targeted Ukrainian networks hours before Russia’s invasion<a href="https://securityaffairs.co/wordpress/128538/cyber-warfare-2/foxblade-malware-used-hours-before-invasion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft revealed that Ukrainian entities were targeted with a previous undetected malware, dubbed FoxBlade, several hours before the invasion.
+
+
+
+The Microsoft Threat Intelligence Center (MSTIC) continues to investigate the attacks that are targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Axis Communications shares details on disruptive cyberattack<a href="https://www.bleepingcomputer.com/news/security/axis-communications-shares-details-on-disruptive-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Axis Communications has published a post mortem about a cyberattack that caused severe disruption in their systems, with some systems still partially offline.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Ukraine hit with new FoxBlade malware hours before invasion<a href="https://www.bleepingcomputer.com/news/security/microsoft-ukraine-hit-with-new-foxblade-malware-hours-before-invasion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said that Ukrainian networks were targeted with newly found malware several hours before Russia's invasion of Ukraine on February 24th.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC2596 Deploys Cuba Ransomware via Microsoft Exchange Server Vulnerabilities<a href="https://cyware.com/news/unc2596-deploys-cuba-ransomware-via-microsoft-exchange-server-vulnerabilities-280b72bd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Mandiant, UNC2596 has been launching such campaigns since August 2021. It has targeted utility providers, government agencies, and organizations that support non-profits and healthcare entities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Ukraine hit with new FoxBlade malware hours before invasion<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-ukraine-hit-with-new-foxblade-malware-hours-before-invasion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said that Ukrainian networks were targeted with newly found malware several hours before Russia's invasion of Ukraine on February 24th.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defense Contractors Under Attack Using New SockDetour Backdoor<a href="https://cyware.com/news/defense-contractors-under-attack-using-new-sockdetour-backdoor-d8aced1d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The backdoor is associated with an APT campaign named TiltedTemple (aka DEV-0322). Recently, four defense contractors were targeted and one was compromised.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine says its 'IT Army' has taken down key Russian sites<a href="https://www.bleepingcomputer.com/news/security/ukraine-says-its-it-army-has-taken-down-key-russian-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Key Russian websites and state online portals have been taken offline by attacks claimed by the Ukrainian cyber police force, which now openly engages in cyber-warfare.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurance giant AON hit by a cyberattack over the weekend<a href="https://www.bleepingcomputer.com/news/security/insurance-giant-aon-hit-by-a-cyberattack-over-the-weekend/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Professional services and insurance giant AON has suffered a cyberattack that impacted a "limited" number of systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
