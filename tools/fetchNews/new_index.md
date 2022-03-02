@@ -34,7 +34,436 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware source code leaked by Ukrainian researcher<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-source-code-leaked-by-ukrainian-researcher/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Ukrainian researcher continues to deal devastating blows to the Conti ransomware operation, leaking further internal conversations, as well as the source for their ransomware, administrative panels, and more.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors to Shift Focus Back to Consumers<a href="https://cyware.com/news/threat-actors-to-shift-focus-back-to-consumers-6279a3ee"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In comparison to organizations, consumers are less secure, have fewer resources, and sometimes miss having a reliable antivirus solution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Second New 'IsaacWiper' Data Wiper Targets Ukraine After Russian Invasion<a href="https://thehackernews.com/2022/03/second-new-isaacwiper-data-wiper.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new data wiper malware has been observed deployed against an unnamed Ukrainian government network, a day after destructive cyber attacks struck multiple entities in the country preceding the start of Russia's military invasion.  Slovak cybersecurity firm ESET dubbed the new malware " IsaacWiper ," which it said was detected on February 24 in an organization that was not affected by  HermeticWiper  (aka FoxBlade), another data wiping malware that targeted several organizations on February 23 as part of a sabotage operation aimed at rendering the machines inoperable.  Further analysis of the HermeticWiper attacks, which infected at least five Ukrainian organizations, have revealed a worm constituent that propagates the malware across the compromised network and a ransomware module that acts as a "distraction from the wiper attacks," corroborating a  prior report  from Symantec.   "These destructive attacks leveraged at least three components: HermeticWiper
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the U.K. and the Senate Judiciary Committee Are Being Dangerously Foolish About Cryptography<a href="https://www.lawfareblog.com/how-uk-and-senate-judiciary-committee-are-being-dangerously-foolish-about-cryptography"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an attempt to prevent the online circulation of child sexual abuse material, a reintroduced Senate bill runs the risk of failing to combat the problem while simultaneously decreasing internet security.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IsaacWiper, the third wiper spotted since the beginning of the Russian invasion<a href="https://securityaffairs.co/wordpress/128553/malware/isaacwiper-data-wiper.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IsaacWiper, a new data wiper was used against an unnamed Ukrainian government network after Russia's invasion of Ukraine.
+
+
+
+ESET researchers uncovered a new data wiper, tracked as IsaacWiper, that was used against an unnamed Ukrainian government network...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Daxin Espionage Backdoor Ups the Ante on Chinese Malware<a href="https://threatpost.com/daxin-espionage-backdoor-chinese-malware/178706/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Via node-hopping, the espionage tool can reach computers that aren’t even connected to the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft rolling out new endpoint security solution for SMBs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-rolling-out-new-endpoint-security-solution-for-smbs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has started rolling out its new endpoint security solution for small and medium-sized businesses (SMBs) known as Microsoft Defender for Business to Microsoft 365 Business Premium customers worldwide starting today, March 1st.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Skype extension with nine million installs found to be leaking user info<a href="https://portswigger.net/daily-swig/private-chat-chrome-skype-extension-with-9m-installs-found-to-be-leaking-user-info?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Wladimir Palant discovered a “trivial” bug in the Skype-for-Chrome extension that allowed websites to ascertain information about user accounts that should typically be off-limits.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Break into Ethical Hacking with 18 Advanced Online Courses for Just $42.99<a href="https://thehackernews.com/2021/06/break-into-ethical-hacking-with-18.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is predicted that 3.5 million jobs will be unfilled in the field of cybersecurity by the end of this year. Several of these jobs pay very well, and in most cases, you don't even need a college degree to get hired.  The most important thing is to have the skills and certifications.  The All-In-One 2022 Super-Sized Ethical Hacking Bundle  helps you gain both, with 18 courses covering all aspects of cybersecurity. Normally, you pay $3,284 for this training, but you can get it now for only $42.99 via The Hacker New Deals.  The purpose of ethical hacking is to find weaknesses in the system that a malicious hacker may exploit. A certified expert can work either full-time or freelance, earning up to $149,000 a year, according to PayScale.  This bundle would be perfect for anyone interested in the field of cybersecurity, offering the opportunity to start off on the right foot.  Starting with the fundamentals, the beginner-friendly instruction will take you all the way to high-level tec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT used Daxin, one of the most sophisticated backdoor even seen<a href="https://securityaffairs.co/wordpress/128545/uncategorized/daxin-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Daxin is the most advanced backdoor in the arsenal of China-linked threat actors designed to avoid the detection of sophisticated defense systems.
+
+
+
+​Symantec researchers discovered a highly sophisticated backdoor, named Daxin, which is being used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeaBot malware slips back into Google Play Store to target US users<a href="https://www.bleepingcomputer.com/news/security/teabot-malware-slips-back-into-google-play-store-to-target-us-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TeaBot banking trojan was spotted once again in Google Play Store where it posed as a QR code app and spread to more than 10,000 devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Does TrickBot’s Shutdown Imply?<a href="https://cyware.com/news/what-does-trickbots-shutdown-imply-15a1586b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After months of inactivity, operators behind the TrickBot malware botnet appear to went offline with their server infrastructure. Its TTPs were becoming highly detectable.&nbsp; Going by experts, the decline in the volume of the Trickbot campaigns is accompanied by the fact that its operators are w ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware Gang's Internal Chats Leaked Online After Siding With Russia<a href="https://thehackernews.com/2022/03/conti-ransomware-gangs-internal-chats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Days after the Conti ransomware group broadcasted a pro-Russian message pledging its allegiance to Vladimir Putin's ongoing invasion of Ukraine, a disgruntled member of the cartel has leaked the syndicate's internal chats.  The file dump, published by malware research group  VX-Underground , is said to contain 13 months of chat logs between affiliates and administrators of the Russia-affiliated ransomware group from January 2021 to February 2022, in a move that's expected to offer  unprecedented   insight  into the gang's workings.  "Glory to Ukraine," the leaker said in their message.  The leaked conversations show that Conti used fake front companies to attempt to schedule product demos with security firms like CarbonBlack and Sophos to obtain code signing certificates, with the operators working in scrum sprints to complete the software development tasks.   Additionally, the messages  confirm  the  shutdown of the TrickBot botnet  last week as well as high
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and FBI warn of potential data wiping attacks spillover<a href="https://securityaffairs.co/wordpress/128534/malware/cisa-and-fbi-warn-of-potential-data-wiping-attacks-spillover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA and the FBI warned US organizations that data wiping attacks targeting Ukraine entities could spill over to targets worldwide.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) published...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA confirms data was stolen in recent cyberattack<a href="https://www.bleepingcomputer.com/news/security/nvidia-confirms-data-was-stolen-in-recent-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chipmaker giant Nvidia confirms that its network was breached in a cyberattack last week, giving intruders access to proprietary information data and employee login data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in Lansweeper could lead to JavaScript, SQL injections<a href="https://blog.talosintelligence.com/2022/03/vuln-spotlight-.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered multiple vulnerabilities in the Lansweeper IT asset management solution that could allow an attacker to inject JavaScript or SQL code on the targeted device.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Malware Gang Upgrades its AnchorDNS Backdoor to AnchorMail<a href="https://thehackernews.com/2022/03/trickbot-malware-gang-upgrades-its.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even as the TrickBot infrastructure closed shop, the operators of the malware are continuing to refine and retool their arsenal to carry out attacks that culminated in the deployment of Conti ransomware.  IBM Security X-Force, which discovered the revamped version of the criminal gang's  AnchorDNS  backdoor, dubbed the new, upgraded variant AnchorMail.  AnchorMail "uses an email-based [command-and-control] server which it communicates with using SMTP and IMAP protocols over TLS," IBM's malware reverse engineer, Charlotte Hammond,  said . "With the exception of the overhauled C2 communication mechanism, AnchorMail's behavior aligns very closely to that of its AnchorDNS predecessor."   The cybercrime actor behind TrickBot, ITG23 aka Wizard Spider, is also known for its development of the Anchor malware framework, a backdoor reserved for targeting selected high value victims since at least 2018 via TrickBot and BazarBackdoor (aka BazarLoader), an additiona
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Content filtering devices abused for 65x DDoS amplification<a href="https://www.bleepingcomputer.com/news/security/content-filtering-devices-abused-for-65x-ddos-amplification/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified an alarming new trend in DDoS attacks that target middlebox devices to attain enormous 6,533% amplification levels. With such an amplification level, threat actors can launch catastrophic attacks with limited bandwidth/equipment.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical GitLab vulnerability could allow attackers to steal runner registration tokens<a href="https://portswigger.net/daily-swig/critical-gitlab-vulnerability-could-allow-attackers-to-steal-runner-registration-tokens?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability affects all versions from 12.10 to 14.6.4, all versions starting from 14.7 to 14.7.3, and all versions starting from 14.8 to 14.8.1, according to a security advisory from GitLab.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Finds FoxBlade Malware Hit Ukraine Hours Before Russian Invasion<a href="https://thehackernews.com/2022/03/microsoft-finds-foxblade-malware-hit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Update:  It's worth noting that the malware Microsoft tracks as FoxBlade is the same  as the data wiper that's been denominated HermeticWiper  (aka KillDisk).  Microsoft on Monday disclosed that it detected a new round of offensive and destructive cyberattacks directed against Ukraine's digital infrastructure hours before Russia launched its first missile strikes last week.  The intrusions involved the use of a never-before-seen malware package dubbed FoxBlade , according to the tech giant's Threat Intelligence Center (MSTIC), noting that it added new signatures to its Defender anti-malware service to detect the exploit within three hours of the discovery.   "These recent and ongoing cyberattacks have been precisely targeted, and we have not seen the use of the indiscriminate malware technology that spread across Ukraine's economy and beyond its borders in the  2017 NotPetya attack ," Microsoft's President and Vice Chair, Brad Smith,  said .  Addition
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of eBike phishing sites abuse Google Ads to push scams<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-ebike-phishing-sites-abuse-google-ads-to-push-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale campaign involving over 200 phishing and scam sites has tricked users into giving their personal data to fake investments schemes impersonating genuine brands.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Introducing the Golden GMSA Attack<a href="https://securityboulevard.com/2022/03/introducing-the-golden-gmsa-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack against Group Managed Service Accounts (gMSA) can allow attackers to dump Key Distribution Service (KDS) root key attributes and generate the password for all the associated gMSAs offline.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Daxin Malware Targeted Multiple Governments in Espionage Attacks<a href="https://thehackernews.com/2022/03/china-linked-daxin-malware-targeted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented espionage tool has been deployed against selected governments and other critical infrastructure targets as part of a long-running espionage campaign orchestrated by China-linked threat actors since at least 2013.  Broadcom's Symantec Threat Hunter team characterized the backdoor, named  Daxin , as a technologically advanced malware, allowing the attackers to carry out a variety of communications and information-gathering operations aimed at entities in the telecom, transportation, and manufacturing sectors that are of strategic interest to China.  "Daxin malware is a highly sophisticated rootkit backdoor with complex, stealthy command-and-control (C2) functionality that enables remote actors to communicate with secured devices not connected directly to the internet," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)  said  in an independent advisory.   The implant takes the form of a Windows kernel driver that implements an elabor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New worm and data wiper malware seen hitting Ukrainian networks<a href="https://www.bleepingcomputer.com/news/security/new-worm-and-data-wiper-malware-seen-hitting-ukrainian-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered malware was deployed in destructive attacks against Ukrainian organizations and governmental networks before and after Russia invaded the country on February 24.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Help Ukraine' crypto scams emerge as Ukraine raises over $37 million<a href="https://www.bleepingcomputer.com/news/security/help-ukraine-crypto-scams-emerge-as-ukraine-raises-over-37-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are now targeting unsuspecting users via phishing webpages, forum posts, and email links enticing users to "help Ukraine" by donating cryptocurrency. The development follows Ukraine's successful effort of raising over $37 million in crypto donations from all around the world amid the country's ongoing Russian invasion.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reality Winner's Twitter account was hacked to target journalists<a href="https://www.bleepingcomputer.com/news/security/reality-winners-twitter-account-was-hacked-to-target-journalists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter account of former intelligence specialist, Reality Winner was hacked over the weekend by threat actors looking to target journalists at prominent media organizations. After taking over Winner's verified Twitter account, hackers changed the profile name to "Feedback Team" to impersonate Twitter staff and began sending out DMs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FoxBlade malware targeted Ukrainian networks hours before Russia’s invasion<a href="https://securityaffairs.co/wordpress/128538/cyber-warfare-2/foxblade-malware-used-hours-before-invasion.html"> Full Text</a>
@@ -54,7 +483,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Axis Communications shares details on disruptive cyberattack<a href="https://www.bleepingcomputer.com/news/security/axis-communications-shares-details-on-disruptive-cyberattack/"> Full Text</a>
@@ -70,7 +499,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeadBolt Ransomware Eyeing ASUSTOR Devices<a href="https://cyware.com/news/deadbolt-ransomware-eyeing-asustor-devices-5fef8a92"> Full Text</a>
@@ -87,7 +516,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley — Presented by Ericsson — Facebook removes Russian misinformation campaign<a href="https://thehill.com//policy/technology/overnights/596205-hillicon-valley"> Full Text</a>
@@ -103,7 +532,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 100 Million Samsung Galaxy Phones Affected with Flawed Hardware Encryption Feature<a href="https://thehackernews.com/2022/02/100-million-samsung-galaxy-phones.html"> Full Text</a>
@@ -119,7 +548,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Ukraine hit with new FoxBlade malware hours before invasion<a href="https://www.bleepingcomputer.com/news/security/microsoft-ukraine-hit-with-new-foxblade-malware-hours-before-invasion/"> Full Text</a>
@@ -135,7 +564,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UNC2596 Deploys Cuba Ransomware via Microsoft Exchange Server Vulnerabilities<a href="https://cyware.com/news/unc2596-deploys-cuba-ransomware-via-microsoft-exchange-server-vulnerabilities-280b72bd"> Full Text</a>
@@ -151,7 +580,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Toyota suspends production in Japan following possible cyberattack<a href="https://thehill.com//policy/cybersecurity/596132-toyota-suspends-production-in-japan-following-possible-cyberattack"> Full Text</a>
@@ -167,7 +596,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of High-Severity Flaws in Schneider and GE Digital's SCADA Software<a href="https://thehackernews.com/2022/02/cisa-warns-of-high-severity-flaws-in.html"> Full Text</a>
@@ -183,7 +612,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous hit Russian Nuclear Institute and leak stolen data<a href="https://securityaffairs.co/wordpress/128527/hacktivism/anonymous-hit-russian-nuclear-institute.html"> Full Text</a>
@@ -203,7 +632,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Ukraine hit with new FoxBlade malware hours before invasion<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-ukraine-hit-with-new-foxblade-malware-hours-before-invasion/"> Full Text</a>
@@ -219,7 +648,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Electron Bot Leverages Microsoft App Store to Pierce Social Media Accounts<a href="https://cyware.com/news/electron-bot-leverages-microsoft-app-store-to-pierce-social-media-accounts-0363e341"> Full Text</a>
@@ -235,7 +664,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reborn of Emotet: New Features of the Botnet and How to Detect it<a href="https://thehackernews.com/2022/02/reborn-of-emotet-new-features-of-botnet.html"> Full Text</a>
@@ -251,7 +680,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Toyota Motors halted production due to a cyber attack on a supplier<a href="https://securityaffairs.co/wordpress/128522/hacking/toyota-motors-halted-production-cyberattack.html"> Full Text</a>
@@ -271,7 +700,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA and FBI warn of potential data wiping attacks spillover<a href="https://www.bleepingcomputer.com/news/security/cisa-and-fbi-warn-of-potential-data-wiping-attacks-spillover/"> Full Text</a>
@@ -287,7 +716,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Defense Contractors Under Attack Using New SockDetour Backdoor<a href="https://cyware.com/news/defense-contractors-under-attack-using-new-sockdetour-backdoor-d8aced1d"> Full Text</a>
@@ -303,7 +732,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Create Apple AirTag Clone That Can Bypass Anti-Tracking Measures<a href="https://thehackernews.com/2022/02/experts-create-apple-airtag-clone-that.html"> Full Text</a>
@@ -319,7 +748,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher leaked Conti’s internal chat messages in response to its support to Russia<a href="https://securityaffairs.co/wordpress/128513/cyber-crime/researcher-leaked-conti-chats.html"> Full Text</a>
@@ -339,7 +768,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese cyberspies target govts with their ‘most advanced’ backdoor<a href="https://www.bleepingcomputer.com/news/security/chinese-cyberspies-target-govts-with-their-most-advanced-backdoor/"> Full Text</a>
@@ -355,7 +784,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities spotted in Gerbv could lead to code execution, information disclosure<a href="https://blog.talosintelligence.com/2022/02/vuln-spotlight-gerbv-g.html?&web_view=true"> Full Text</a>
@@ -371,7 +800,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 355<a href="https://securityaffairs.co/wordpress/128509/breaking-news/security-affairs-newsletter-round-355.html"> Full Text</a>
@@ -391,7 +820,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers to NVIDIA: Remove mining cap or we leak hardware data<a href="https://www.bleepingcomputer.com/news/security/hackers-to-nvidia-remove-mining-cap-or-we-leak-hardware-data/"> Full Text</a>
@@ -407,7 +836,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Camera Maker Axis Suffers Service Outage Following Cyberattack<a href="https://www.zdnet.com/article/swedish-camera-giant-axis-still-recovering-from-cyberattack/?&web_view=true"> Full Text</a>
@@ -423,7 +852,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked UNC3313 APT employed two custom backdoors against a Middle East gov entity<a href="https://securityaffairs.co/wordpress/128493/malware/unc3313-apt-two-backdoors.html"> Full Text</a>
@@ -443,7 +872,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine says its 'IT Army' has taken down key Russian sites<a href="https://www.bleepingcomputer.com/news/security/ukraine-says-its-it-army-has-taken-down-key-russian-sites/"> Full Text</a>
@@ -459,7 +888,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Package Imitates Python Server Library to Spy on Users and Maintain Remote System Control<a href="https://blog.sonatype.com/trojanized-pypi-package-imitates-a-popular-python-server-library?&web_view=true"> Full Text</a>
@@ -475,7 +904,7 @@ Sonatype
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insurance giant AON hit by a cyberattack over the weekend<a href="https://www.bleepingcomputer.com/news/security/insurance-giant-aon-hit-by-a-cyberattack-over-the-weekend/"> Full Text</a>
@@ -491,7 +920,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine: Belarusian APT group UNC1151 targets military personnel with spear phishing<a href="https://securityaffairs.co/wordpress/128397/apt/belarusian-unc1151-targets-ukraine.html?&web_view=true"> Full Text</a>
@@ -507,7 +936,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Toyota halts production after reported cyberattack on supplier<a href="https://www.bleepingcomputer.com/news/security/toyota-halts-production-after-reported-cyberattack-on-supplier/"> Full Text</a>
@@ -523,7 +952,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2022
+February 28, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta: Ukrainian officials, military targeted by Ghostwriter hackers<a href="https://www.bleepingcomputer.com/news/security/meta-ukrainian-officials-military-targeted-by-ghostwriter-hackers/"> Full Text</a>
@@ -539,7 +968,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2022
+February 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Using New Spying Malware That Abuses Telegram Messenger API<a href="https://thehackernews.com/2022/02/iranian-hackers-using-new-spying.html"> Full Text</a>
@@ -555,7 +984,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2022
+February 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware's internal chats leaked after siding with Russia<a href="https://www.bleepingcomputer.com/news/security/conti-ransomwares-internal-chats-leaked-after-siding-with-russia/"> Full Text</a>
