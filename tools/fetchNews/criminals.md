@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher leaked Conti’s internal chat messages in response to its support to Russia<a href="https://securityaffairs.co/wordpress/128513/cyber-crime/researcher-leaked-conti-chats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A&nbsp;Ukrainian researcher leaked tens of thousands of internal chat messages belonging to the Conti ransomware operation.
+
+
+
+A&nbsp;Ukrainian researcher leaked 60,694 messages internal chat messages belonging to the Conti ransomware operation after the announcement...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers to NVIDIA: Remove mining cap or we leak hardware data<a href="https://www.bleepingcomputer.com/news/security/hackers-to-nvidia-remove-mining-cap-or-we-leak-hardware-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ data extortion group has released what they claim to be data stolen from the Nvidia GPU designer. The cache is an archive that is almost 20GB large.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

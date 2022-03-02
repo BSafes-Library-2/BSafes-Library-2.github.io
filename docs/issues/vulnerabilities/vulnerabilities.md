@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in Lansweeper could lead to JavaScript, SQL injections<a href="https://blog.talosintelligence.com/2022/03/vuln-spotlight-.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered multiple vulnerabilities in the Lansweeper IT asset management solution that could allow an attacker to inject JavaScript or SQL code on the targeted device.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical GitLab vulnerability could allow attackers to steal runner registration tokens<a href="https://portswigger.net/daily-swig/critical-gitlab-vulnerability-could-allow-attackers-to-steal-runner-registration-tokens?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability affects all versions from 12.10 to 14.6.4, all versions starting from 14.7 to 14.7.3, and all versions starting from 14.8 to 14.8.1, according to a security advisory from GitLab.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

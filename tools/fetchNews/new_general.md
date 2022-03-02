@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors to Shift Focus Back to Consumers<a href="https://cyware.com/news/threat-actors-to-shift-focus-back-to-consumers-6279a3ee"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In comparison to organizations, consumers are less secure, have fewer resources, and sometimes miss having a reliable antivirus solution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

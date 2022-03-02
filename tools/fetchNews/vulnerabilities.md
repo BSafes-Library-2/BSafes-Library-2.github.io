@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+100 Million Samsung Galaxy Phones Affected with Flawed Hardware Encryption Feature<a href="https://thehackernews.com/2022/02/100-million-samsung-galaxy-phones.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics from Tel Aviv University have disclosed details of now-patched "severe" design flaws affecting about 100 million Android-based Samsung smartphones that could have resulted in the extraction of secret cryptographic keys.  The shortcomings are the result of an analysis of the cryptographic design and implementation of Android's hardware-backed Keystore in Samsung's Galaxy S8, S9, S10, S20, and S21 flagship devices, researchers Alon Shakevsky, Eyal Ronen, and Avishai Wool&nbsp; said .  Trusted Execution Environments ( TEEs ) are a secure zone that provide an isolated environment for the execution of Trusted Applications (TAs) to carry out security critical tasks to ensure confidentiality and integrity.   On Android, the hardware-backed&nbsp; Keystore &nbsp;is a system that facilitates the creation and storage of cryptographic keys within the TEE, making them more difficult to be extracted from the device in a manner that prevents the underlying operating system fr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Create Apple AirTag Clone That Can Bypass Anti-Tracking Measures<a href="https://thehackernews.com/2022/02/experts-create-apple-airtag-clone-that.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have managed to build a clone of Apple Airtag that circumvents the anti-stalking protection technology built into its Find My Bluetooth-based tracking protocol.  The result is a stealth AirTag that can successfully track an iPhone user for over five days without triggering a tracking notification, Positive Security's co-founder Fabian Bräunlein&nbsp; said &nbsp;in a deep-dive published last week.  Find My is Apple's asset tracking app that allows users to track the GPS location of iOS, iPadOS, macOS, watchOS devices, AirPods, AirTags as well as other supported third-party accessories through a connected iCloud account. It also enables users to view the location of others who have opted to share their location.   This is far from the first time weaknesses have been uncovered in Apple's Find My system. In March 2021, the Secure Mobile Networking Lab at the Technical University of Darmstadt, Germany (SEEMO)&nbsp; disclosed &nbsp;design and implementation flaws in the pr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities spotted in Gerbv could lead to code execution, information disclosure<a href="https://blog.talosintelligence.com/2022/02/vuln-spotlight-gerbv-g.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered multiple vulnerabilities in the Gerbv file viewing software that could allow an attacker to execute arbitrary remote code or disclose sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

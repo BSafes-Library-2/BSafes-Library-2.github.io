@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT used Daxin, one of the most sophisticated backdoor even seen<a href="https://securityaffairs.co/wordpress/128545/uncategorized/daxin-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Daxin is the most advanced backdoor in the arsenal of China-linked threat actors designed to avoid the detection of sophisticated defense systems.
+
+
+
+​Symantec researchers discovered a highly sophisticated backdoor, named Daxin, which is being used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Introducing the Golden GMSA Attack<a href="https://securityboulevard.com/2022/03/introducing-the-golden-gmsa-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack against Group Managed Service Accounts (gMSA) can allow attackers to dump Key Distribution Service (KDS) root key attributes and generate the password for all the associated gMSAs offline.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

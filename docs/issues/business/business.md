@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Help Ukraine' crypto scams emerge as Ukraine raises over $37 million<a href="https://www.bleepingcomputer.com/news/security/help-ukraine-crypto-scams-emerge-as-ukraine-raises-over-37-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are now targeting unsuspecting users via phishing webpages, forum posts, and email links enticing users&nbsp;to "help Ukraine" by donating cryptocurrency. The development follows Ukraine's successful effort of raising over $37 million in crypto donations from all around the world amid the country's ongoing Russian invasion.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

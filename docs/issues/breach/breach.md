@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+March 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Skype extension with nine million installs found to be leaking user info<a href="https://portswigger.net/daily-swig/private-chat-chrome-skype-extension-with-9m-installs-found-to-be-leaking-user-info?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Wladimir Palant discovered a “trivial” bug in the Skype-for-Chrome extension that allowed websites to ascertain information about user accounts that should typically be off-limits.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware Gang's Internal Chats Leaked Online After Siding With Russia<a href="https://thehackernews.com/2022/03/conti-ransomware-gangs-internal-chats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Days after the Conti ransomware group broadcasted a pro-Russian message pledging its allegiance to Vladimir Putin's ongoing invasion of Ukraine, a disgruntled member of the cartel has leaked the syndicate's internal chats.  The file dump, published by malware research group&nbsp; VX-Underground , is said to contain 13 months of chat logs between affiliates and administrators of the Russia-affiliated ransomware group from January 2021 to February 2022, in a move that's expected to offer&nbsp; unprecedented &nbsp; insight &nbsp;into the gang's workings.  "Glory to Ukraine," the leaker said in their message.  The leaked conversations show that Conti used fake front companies to attempt to schedule product demos with security firms like CarbonBlack and Sophos to obtain code signing certificates, with the operators working in scrum sprints to complete the software development tasks.   Additionally, the messages&nbsp; confirm &nbsp;the&nbsp; shutdown of the TrickBot botnet &nbsp;last week as well as high
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA confirms data was stolen in recent cyberattack<a href="https://www.bleepingcomputer.com/news/security/nvidia-confirms-data-was-stolen-in-recent-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chipmaker giant Nvidia confirms that its network was breached in a cyberattack last week, giving intruders access to proprietary information data and employee login data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

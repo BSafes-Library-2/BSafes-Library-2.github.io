@@ -8,6 +8,76 @@ nav_order: 900015
 
 ## Attack
 ---
+March 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Second New 'IsaacWiper' Data Wiper Targets Ukraine After Russian Invasion<a href="https://thehackernews.com/2022/03/second-new-isaacwiper-data-wiper.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new data wiper malware has been observed deployed against an unnamed Ukrainian government network, a day after destructive cyber attacks struck multiple entities in the country preceding the start of Russia's military invasion.  Slovak cybersecurity firm ESET dubbed the new malware " IsaacWiper ," which it said was detected on February 24 in an organization that was not affected by&nbsp; HermeticWiper &nbsp;(aka FoxBlade), another data wiping malware that targeted several organizations on February 23 as part of a sabotage operation aimed at rendering the machines inoperable.  Further analysis of the HermeticWiper attacks, which infected at least five Ukrainian organizations, have revealed a worm constituent that propagates the malware across the compromised network and a ransomware module that acts as a "distraction from the wiper attacks," corroborating a&nbsp; prior report &nbsp;from Symantec.   "These destructive attacks leveraged at least three components: HermeticWiper
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Finds FoxBlade Malware Hit Ukraine Hours Before Russian Invasion<a href="https://thehackernews.com/2022/03/microsoft-finds-foxblade-malware-hit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Update:  It's worth noting that the malware Microsoft tracks as FoxBlade is the same  as the data wiper that's been denominated HermeticWiper  (aka KillDisk).  Microsoft on Monday disclosed that it detected a new round of offensive and destructive cyberattacks directed against Ukraine's digital infrastructure hours before Russia launched its first missile strikes last week.  The intrusions involved the use of a never-before-seen malware package dubbed FoxBlade , according to the tech giant's Threat Intelligence Center (MSTIC), noting that it added new signatures to its Defender anti-malware service to detect the exploit within three hours of the discovery.   "These recent and ongoing cyberattacks have been precisely targeted, and we have not seen the use of the indiscriminate malware technology that spread across Ukraine's economy and beyond its borders in the&nbsp; 2017 NotPetya attack ," Microsoft's President and Vice Chair, Brad Smith,&nbsp; said .  Addition
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Daxin Malware Targeted Multiple Governments in Espionage Attacks<a href="https://thehackernews.com/2022/03/china-linked-daxin-malware-targeted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented espionage tool has been deployed against selected governments and other critical infrastructure targets as part of a long-running espionage campaign orchestrated by China-linked threat actors since at least 2013.  Broadcom's Symantec Threat Hunter team characterized the backdoor, named&nbsp; Daxin , as a technologically advanced malware, allowing the attackers to carry out a variety of communications and information-gathering operations aimed at entities in the telecom, transportation, and manufacturing sectors that are of strategic interest to China.  "Daxin malware is a highly sophisticated rootkit backdoor with complex, stealthy command-and-control (C2) functionality that enables remote actors to communicate with secured devices not connected directly to the internet," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)&nbsp; said &nbsp;in an independent advisory.   The implant takes the form of a Windows kernel driver that implements an elabor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New worm and data wiper malware seen hitting Ukrainian networks<a href="https://www.bleepingcomputer.com/news/security/new-worm-and-data-wiper-malware-seen-hitting-ukrainian-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered malware was deployed in destructive attacks against Ukrainian organizations and governmental networks before and after Russia invaded the country on February 24.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reality Winner's Twitter account was hacked to target journalists<a href="https://www.bleepingcomputer.com/news/security/reality-winners-twitter-account-was-hacked-to-target-journalists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter account of former intelligence specialist, Reality&nbsp;Winner was hacked over the weekend by threat actors looking to target journalists at prominent media organizations. After taking over Winner's verified Twitter account, hackers changed the profile name to "Feedback Team" to impersonate Twitter&nbsp;staff and began sending out DMs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Does TrickBot’s Shutdown Imply?<a href="https://cyware.com/news/what-does-trickbots-shutdown-imply-15a1586b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After months of inactivity, operators behind the TrickBot malware botnet appear to went offline with their server infrastructure. Its TTPs were becoming highly detectable.&nbsp; Going by experts, the decline in the volume of the Trickbot campaigns is accompanied by the fact that its operators are w ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

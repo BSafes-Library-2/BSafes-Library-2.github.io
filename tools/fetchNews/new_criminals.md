@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Malware Gang Upgrades its AnchorDNS Backdoor to AnchorMail<a href="https://thehackernews.com/2022/03/trickbot-malware-gang-upgrades-its.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even as the TrickBot infrastructure closed shop, the operators of the malware are continuing to refine and retool their arsenal to carry out attacks that culminated in the deployment of Conti ransomware.  IBM Security X-Force, which discovered the revamped version of the criminal gang's&nbsp; AnchorDNS &nbsp;backdoor, dubbed the new, upgraded variant AnchorMail.  AnchorMail "uses an email-based [command-and-control] server which it communicates with using SMTP and IMAP protocols over TLS," IBM's malware reverse engineer, Charlotte Hammond,&nbsp; said . "With the exception of the overhauled C2 communication mechanism, AnchorMail's behavior aligns very closely to that of its AnchorDNS predecessor."   The cybercrime actor behind TrickBot, ITG23 aka Wizard Spider, is also known for its development of the Anchor malware framework, a backdoor reserved for targeting selected high value victims since at least 2018 via TrickBot and BazarBackdoor (aka BazarLoader), an additiona
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+March 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the U.K. and the Senate Judiciary Committee Are Being Dangerously Foolish About Cryptography<a href="https://www.lawfareblog.com/how-uk-and-senate-judiciary-committee-are-being-dangerously-foolish-about-cryptography"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an attempt to prevent the online circulation of child sexual abuse material, a reintroduced Senate bill runs the risk of failing to combat the problem while simultaneously decreasing internet security.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
