@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of eBike phishing sites abuse Google Ads to push scams<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-ebike-phishing-sites-abuse-google-ads-to-push-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale campaign involving over 200 phishing and scam sites has tricked users into giving their personal data to fake investments schemes impersonating genuine brands.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

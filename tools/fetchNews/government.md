@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+March 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and FBI warn of potential data wiping attacks spillover<a href="https://securityaffairs.co/wordpress/128534/malware/cisa-and-fbi-warn-of-potential-data-wiping-attacks-spillover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA and the FBI warned US organizations that data wiping attacks targeting Ukraine entities could spill over to targets worldwide.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) published...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

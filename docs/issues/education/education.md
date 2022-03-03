@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LIVE Webinar: Key Lessons Learned from Major Cyberattacks in 2021 and What to Expect in 2022<a href="https://thehackernews.com/2022/03/live-webinar-key-lessons-learned-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the COVID-19 pandemic continuing to impact, and perhaps permanently changing, how we work, cybercriminals again leveraged the distraction in new waves of cyberattacks.  Over the course of 2021 we saw an increase in multiple attack approaches; some old, some new. Phishing and ransomware continued to grow from previous years, as expected, while new attacks on supply chains and cryptocurrencies captured our attention. We also saw an uptick in critical Windows vulnerabilities, again proving that no matter how many vulnerabilities are found, more will always exist.&nbsp;  As we enter 2022, we are seeing novel attacks originating from the conflict in Ukraine, which will certainly make their way into criminal attacks on worldwide businesses. In an upcoming webinar ( register here ), Cybersecurity company Cynet will provide an in-depth review of the high-profile attacks we saw in 2021 and provide guidance to cybersecurity professionals for 2022.  What are the top cyberattacks in 2021 that Cyn
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

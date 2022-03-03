@@ -8,6 +8,98 @@ nav_order: 900015
 
 ## Attack
 ---
+March 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Try to Target European Officials to Get Info on Ukrainian Refugees, Supplies<a href="https://thehackernews.com/2022/03/hackers-try-to-hack-european-officials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details of a new nation-state sponsored phishing campaign have been uncovered setting its sights on European governmental entities in what's seen as an attempt to obtain intelligence on refugee and supply movement in the region.  Enterprise security company Proofpoint, which detected the malicious emails for the first time on February 24, 2022, dubbed the social engineering attacks " Asylum Ambuscade ."  "The email included a malicious macro attachment which utilized social engineering themes pertaining to the Emergency Meeting of the NATO Security Council held on February 23, 2022," researchers Michael Raggi and Zydeca Cass&nbsp; said &nbsp;in a report published Tuesday.  "The email also contained a malicious attachment which attempted to download malicious Lua malware named SunSeed and targeted European government personnel tasked with managing transportation and population movement in Europe."   The findings build on an&nbsp; advisory &nbsp;issued by the State Service
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA discloses data breach after the recent ransomware attack<a href="https://securityaffairs.co/wordpress/128573/data-breach/nvidia-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chipmaker giant Nvidia confirmed a data breach after the recently disclosed security incident, proprietary information stolen.
+
+
+
+The chipmaker giant Nvidia was recentty victim of a ransomware attack that impacted some of its systems for two days. The security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress-hosted Ukrainian University Websites Hacked in Targeted Attacks<a href="https://portswigger.net/daily-swig/ukraine-invasion-wordpress-hosted-university-websites-hacked-in-targeted-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group, whose members refer to themselves as ‘the Mx0nday’, have targeted the WordPress-hosted sites more than 100,000 times since February 24, when Russian troops officially invaded Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous and its affiliates continue to cause damage to Russia<a href="https://securityaffairs.co/wordpress/128576/hacktivism/anonymous-causes-damages-to-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The massive operation launched by the Anonymous collective against Russia for its illegitimate invasion continues.
+
+
+
+The popular collective Anonymous, and its affiliates, relentlessly continue their offensive against Russian targets. In the last few hours,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Hit with Novel ‘FoxBlade’ Trojan Hours Before Invasion<a href="https://threatpost.com/microsoft-ukraine-foxblade-trojan-hours-before-russian-invasion/178702/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft detected cyberattacks launched against Ukraine hours before Russia’s tanks and missiles began to pummel the country last week.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Accounts Targeted by Russian-Themed Credential Harvesting<a href="https://threatpost.com/microsoft-accounts-targeted-russian-credential-harvesting/178698/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious emails warning Microsoft users of “unusual sign-on activity” from Russia are looking to capitalizing on the Ukrainian crisis.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

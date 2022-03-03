@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft rolling out new endpoint security solution for SMBs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-rolling-out-new-endpoint-security-solution-for-smbs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has started rolling out its&nbsp;new endpoint security solution for small and medium-sized businesses (SMBs) known as&nbsp;Microsoft Defender for Business to&nbsp;Microsoft 365 Business Premium customers worldwide starting today, March 1st.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

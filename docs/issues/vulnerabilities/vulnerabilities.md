@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 100,000 medical infusion pumps vulnerable to years old critical bug<a href="https://www.bleepingcomputer.com/news/security/over-100-000-medical-infusion-pumps-vulnerable-to-years-old-critical-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data collected from more than 200,000 network-connected medical infusion pumps used to deliver medication and fluids to patients shows that 75% of them are running with known security issues that attackers could exploit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular open-source PJSIP library is affected by critical flaws<a href="https://securityaffairs.co/wordpress/128603/hacking/pjsip-library-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from JFrog's Security Research team discovered five vulnerabilities in the PJSIP open-source multimedia communication library.
+
+
+
+Researchers from JFrog's Security Research team discovered five vulnerabilities in the popular PJSIP open-source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4shell exploits now used mostly for DDoS botnets, cryptominers<a href="https://www.bleepingcomputer.com/news/security/log4shell-exploits-now-used-mostly-for-ddos-botnets-cryptominers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Log4Shell vulnerabilities in the widely used Log4j software are still leveraged by threat actors today to deploy various malware payloads, including recruiting devices into DDoS&nbsp;botnets and for planting cryptominers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote code execution vulnerability uncovered in Hashnode blogging platform<a href="https://portswigger.net/daily-swig/remote-code-execution-vulnerability-uncovered-in-hashnode-blogging-platform?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A remote code execution (RCE) attack chain caused due to a local file inclusion bug in the developer blogging platform Hashnode has been disclosed by security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Paid Out Over $100,000 for Vulnerabilities Patched by Chrome 99<a href="https://www.securityweek.com/google-paid-out-over-100000-vulnerabilities-patched-chrome-99?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nine of the externally reported security holes are rated high severity, the majority of which are use-after-free bugs affecting components such as Cast UI, Omnibox, Views, WebShare, and Media.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bugs Reported in Popular Open Source PJSIP SIP and Media Stack<a href="https://thehackernews.com/2022/03/critical-bugs-reported-in-popular-open.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as five security vulnerabilities have been disclosed in the PJSIP open-source multimedia communication library that could be abused by an attacker to trigger arbitrary code execution and denial-of-service (DoS) in applications that use the protocol stack.  The weaknesses were&nbsp; identified and reported &nbsp;by JFrog's Security Research team, following which the project maintainers released patches ( version 2.12 ) last week on February 24, 2022.   PJSIP is an open-source embedded&nbsp; SIP protocol &nbsp;suite written in C that supports audio, video, and instant messaging features for popular communication platforms such as&nbsp; WhatsApp &nbsp;and BlueJeans. It's also&nbsp; used &nbsp;by&nbsp; Asterisk , a widely-used private branch exchange (PBX) switching system for VoIP networks.  "Buffers used in PJSIP typically have limited sizes, especially the ones allocated in the stack or supplied by the application, however in several places, we do not check if our usage can exceed the sizes," PJSIP's
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Bugs Uncovered in VoIPmonitor Monitoring Software<a href="https://thehackernews.com/2022/03/critical-security-bugs-uncovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical security vulnerabilities have been uncovered in VoIPmonitor  software that, if successfully exploited, could allow unauthenticated attackers to escalate privileges to the administrator level and execute arbitrary commands.  Following responsible disclosure by researchers from&nbsp; Kerbit , an Ethiopia-based penetration-testing and vulnerability research firm, on December 15, 2021, the issues were addressed in&nbsp; version 24.97 &nbsp;of the WEB GUI shipped on January 11, 2022.  "[F]ix critical vulnerabilities - new SQL injects for unauthenticated users allowing gaining admin privileges," the maintainers of VoIPmonitor noted in the change log.   VoIPmonitor is an open-source network packet sniffer with commercial frontend for SIP RTP and RTCP VoIP protocols running on Linux, allowing users to monitor and troubleshoot quality of SIP VoIP calls as well as decode, play, and archive calls in a&nbsp; CDR &nbsp;database.  The three flaws identified by Kerbit is below –  CVE-2022-24259 &nbsp;(CVSS sco
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

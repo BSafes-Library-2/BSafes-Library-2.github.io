@@ -8,6 +8,36 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MuddyWater Rounds up its Arsenal with Multi-Malware Sets<a href="https://cyware.com/news/muddywater-rounds-up-its-arsenal-with-multi-malware-sets-406b8934"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity agencies released a joint cybersecurity advisory detailing malicious cyber operations by MuddyWater, which has been targeting a wide range of government and private-sector organizations in Asia, Africa, Europe, and North America. Among others, the CISA recommends organizations to use  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Introduce New Malware to Target Middle East<a href="https://cyware.com/news/iranian-hackers-introduce-new-malware-to-target-middle-east-cc35e96c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant tracked cybercriminals collaborating under the moniker UNC3313 deploying two new targeted malware to claim victims in the middle east. The group moves quickly to gain remote access by using ScreenConnect to intrude systems within an hour of initial compromise. Furthermore, the security fir ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

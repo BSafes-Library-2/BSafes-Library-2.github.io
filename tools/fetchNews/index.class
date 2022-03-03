@@ -34,6 +34,545 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 02, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian sites saw a 10x increase in attacks when invasion started<a href="https://www.bleepingcomputer.com/news/security/ukrainian-sites-saw-a-10x-increase-in-attacks-when-invasion-started/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet security companies have recorded a massive wave of attacks against Ukrainian WordPress sites since Russia invaded Ukraine, aiming to take down the websites and cause general demoralization.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MuddyWater Rounds up its Arsenal with Multi-Malware Sets<a href="https://cyware.com/news/muddywater-rounds-up-its-arsenal-with-multi-malware-sets-406b8934"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity agencies released a joint cybersecurity advisory detailing malicious cyber operations by MuddyWater, which has been targeting a wide range of government and private-sector organizations in Asia, Africa, Europe, and North America. Among others, the CISA recommends organizations to use  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 02, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate passes cybersecurity bill amid fears of Russian cyberattacks<a href="https://thehill.com//policy/cybersecurity/596628-senate-passes-cybersecurity-bill-amid-fears-of-russian-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate unanimously passed cybersecurity legislation on Tuesday that would require companies in critical sectors to alert the government of potential hacks or ransomware. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 02, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Try to Target European Officials to Get Info on Ukrainian Refugees, Supplies<a href="https://thehackernews.com/2022/03/hackers-try-to-hack-european-officials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details of a new nation-state sponsored phishing campaign have been uncovered setting its sights on European governmental entities in what's seen as an attempt to obtain intelligence on refugee and supply movement in the region.  Enterprise security company Proofpoint, which detected the malicious emails for the first time on February 24, 2022, dubbed the social engineering attacks " Asylum Ambuscade ."  "The email included a malicious macro attachment which utilized social engineering themes pertaining to the Emergency Meeting of the NATO Security Council held on February 23, 2022," researchers Michael Raggi and Zydeca Cass  said  in a report published Tuesday.  "The email also contained a malicious attachment which attempted to download malicious Lua malware named SunSeed and targeted European government personnel tasked with managing transportation and population movement in Europe."   The findings build on an  advisory  issued by the State Service
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Realism in a Time of War<a href="https://www.lawfareblog.com/cyber-realism-time-war"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Activity in the digital domain may affect the war in Eastern Europe at the margins, but it will not decide it. That should tell us something about the West’s cyber posture.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyberattack on Russian satellites is an act of war, the invasion of Ukraine no<a href="https://securityaffairs.co/wordpress/128608/cyber-warfare-2/a-cyberattack-on-russian-satellites-is-an-act-of-war-the-invasion-of-ukraine-no.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia considers it legitimate to invade another country but warns it will consider cyberattacks on its satellites an act of war.
+
+
+
+Anonymous and the numerous hacker groups that declared war on Russia continue to target Russian government entities and private...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 02, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 100,000 medical infusion pumps vulnerable to years old critical bug<a href="https://www.bleepingcomputer.com/news/security/over-100-000-medical-infusion-pumps-vulnerable-to-years-old-critical-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data collected from more than 200,000 network-connected medical infusion pumps used to deliver medication and fluids to patients shows that 75% of them are running with known security issues that attackers could exploit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Introduce New Malware to Target Middle East<a href="https://cyware.com/news/iranian-hackers-introduce-new-malware-to-target-middle-east-cc35e96c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant tracked cybercriminals collaborating under the moniker UNC3313 deploying two new targeted malware to claim victims in the middle east. The group moves quickly to gain remote access by using ScreenConnect to intrude systems within an hour of initial compromise. Furthermore, the security fir ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 02, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Begin Weaponizing TCP Middlebox Reflection for Amplified DDoS Attacks<a href="https://thehackernews.com/2022/03/hackers-begin-weaponizing-tcp-middlebox.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Distributed denial-of-service (DDoS) attacks leveraging a new amplification technique called TCP Middlebox Reflection  have been detected for the first time in the wild, six months after the novel attack mechanism was presented in theory.  "The attack […] abuses vulnerable firewalls and content filtering systems to reflect and amplify TCP traffic to a victim machine, creating a powerful DDoS attack," Akamai researchers  said  in a report published Tuesday.  "This type of attack dangerously lowers the bar for DDoS attacks, as the attacker needs as little as 1/75th (in some cases) the amount of bandwidth from a volumetric standpoint," the researchers added.   A distributed reflective denial-of-service ( DRDoS ) is a form of distributed denial-of-service (DDoS) attack that relies on publicly accessible UDP servers and bandwidth amplification factors (BAFs) to overwhelm a victim's system with a high volume of UDP responses.  In these attacks, the adversary sends a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular open-source PJSIP library is affected by critical flaws<a href="https://securityaffairs.co/wordpress/128603/hacking/pjsip-library-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from JFrog's Security Research team discovered five vulnerabilities in the PJSIP open-source multimedia communication library.
+
+
+
+Researchers from JFrog's Security Research team discovered five vulnerabilities in the popular PJSIP open-source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 02, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian space agency says hacking satellites is an act of war<a href="https://www.bleepingcomputer.com/news/security/russian-space-agency-says-hacking-satellites-is-an-act-of-war/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia will consider any cyberattacks targeting Russian satellite infrastructure an act of war, as the country's space agency director said in a TV interview.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot’s AnchorDNS is Now Upgraded to AnchorMail<a href="https://cyware.com/news/trickbots-anchordns-is-now-upgraded-to-anchormail-a21f5490"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers identified an improved version of the AnchorDNS backdoor, dubbed AnchorMail, being used in Conti ransomware attacks. Post-execution, AnchorMail creates a scheduled task for persistence that runs every 10 minutes.&nbsp;Experts recommend training your employees to spot phishing emails is  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 02, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LIVE Webinar: Key Lessons Learned from Major Cyberattacks in 2021 and What to Expect in 2022<a href="https://thehackernews.com/2022/03/live-webinar-key-lessons-learned-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the COVID-19 pandemic continuing to impact, and perhaps permanently changing, how we work, cybercriminals again leveraged the distraction in new waves of cyberattacks.  Over the course of 2021 we saw an increase in multiple attack approaches; some old, some new. Phishing and ransomware continued to grow from previous years, as expected, while new attacks on supply chains and cryptocurrencies captured our attention. We also saw an uptick in critical Windows vulnerabilities, again proving that no matter how many vulnerabilities are found, more will always exist.   As we enter 2022, we are seeing novel attacks originating from the conflict in Ukraine, which will certainly make their way into criminal attacks on worldwide businesses. In an upcoming webinar ( register here ), Cybersecurity company Cynet will provide an in-depth review of the high-profile attacks we saw in 2021 and provide guidance to cybersecurity professionals for 2022.  What are the top cyberattacks in 2021 that Cyn
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asylum Ambuscade spear-phishing campaign targets EU countries aiding Ukrainian refugees<a href="https://securityaffairs.co/wordpress/128594/apt/asylum-ambuscade-phishing-campaign-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spear-phishing campaign, tracked as Asylum Ambuscade, targets European government personnel aiding Ukrainian refugees.
+
+
+
+Researchers from cybersecurity firm Proofpoint uncovered a spear-phishing campaign, likely conducted by a nation-state actor,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 02, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacks abusing programming APIs grew over 600% in 2021<a href="https://www.bleepingcomputer.com/news/security/attacks-abusing-programming-apis-grew-over-600-percent-in-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts warn of a sharp rise in API attacks over the past year, with most companies still following inadequate practices to tackle the problem.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: NVIDIA discloses data breach after the recent ransomware attack<a href="https://securityaffairs.co/wordpress/128573/data-breach/nvidia-data-breach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The chipmaker company launched an investigation into the incident to determine the extent of the intrusion that confirmed that the attackers have stolen data from the chipmaker.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA discloses data breach after the recent ransomware attack<a href="https://securityaffairs.co/wordpress/128573/data-breach/nvidia-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chipmaker giant Nvidia confirmed a data breach after the recently disclosed security incident, proprietary information stolen.
+
+
+
+The chipmaker giant Nvidia was recentty victim of a ransomware attack that impacted some of its systems for two days. The security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 02, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4shell exploits now used mostly for DDoS botnets, cryptominers<a href="https://www.bleepingcomputer.com/news/security/log4shell-exploits-now-used-mostly-for-ddos-botnets-cryptominers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Log4Shell vulnerabilities in the widely used Log4j software are still leveraged by threat actors today to deploy various malware payloads, including recruiting devices into DDoS botnets and for planting cryptominers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress-hosted Ukrainian University Websites Hacked in Targeted Attacks<a href="https://portswigger.net/daily-swig/ukraine-invasion-wordpress-hosted-university-websites-hacked-in-targeted-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group, whose members refer to themselves as ‘the Mx0nday’, have targeted the WordPress-hosted sites more than 100,000 times since February 24, when Russian troops officially invaded Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous and its affiliates continue to cause damage to Russia<a href="https://securityaffairs.co/wordpress/128576/hacktivism/anonymous-causes-damages-to-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The massive operation launched by the Anonymous collective against Russia for its illegitimate invasion continues.
+
+
+
+The popular collective Anonymous, and its affiliates, relentlessly continue their offensive against Russian targets. In the last few hours,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 02, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attacks target countries aiding Ukrainian refugees<a href="https://www.bleepingcomputer.com/news/security/phishing-attacks-target-countries-aiding-ukrainian-refugees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spear-phishing campaign likely coordinated by a state-backed threat actor has been targeting European government personnel providing logistics support to Ukrainian refugees.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google TAG removes fraudulent 'influence' operations linked to Belarus, Moldova, Ukraine<a href="https://www.zdnet.com/article/google-tag-removes-out-fraudulent-influence-operations-linked-to-belarus-moldova-ukraine/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The influence operation was terminated in January, prior to the start of the conflict, but at a time when tensions between Russia and Ukraine was rising due to the presence of Russian troops at the border.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian researcher leaked the source code of Conti Ransomware<a href="https://securityaffairs.co/wordpress/128563/data-breach/conti-ransomware-source-code-leaked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Ukrainian researcher leaked the source for the Conti ransomware and components for the control panels.
+
+
+
+Recently a Ukrainian researcher leaked 60,694 messages internal chat messages belonging to the Conti ransomware operation after...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security leaders want legal action for failing to patch for Log4j<a href="https://www.helpnetsecurity.com/2022/03/02/log4j-vulnerability-security-professionals/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most commonly experienced impact of Log4j was the need for IT and security teams to work over the holidays to assess risk and make critical changes to protect infrastructure and data,
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bright Security (NeuraLegion) Raises $20 Million in Series A Funding<a href="https://www.securityweek.com/bright-security-neuralegion-raises-20-million-series-funding?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The investment round was led by Evolution Equity Partners and received participation from previous investors, including DNX Ventures, Fusion Fund, Incubate Fund, and J-ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote code execution vulnerability uncovered in Hashnode blogging platform<a href="https://portswigger.net/daily-swig/remote-code-execution-vulnerability-uncovered-in-hashnode-blogging-platform?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A remote code execution (RCE) attack chain caused due to a local file inclusion bug in the developer blogging platform Hashnode has been disclosed by security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Paid Out Over $100,000 for Vulnerabilities Patched by Chrome 99<a href="https://www.securityweek.com/google-paid-out-over-100000-vulnerabilities-patched-chrome-99?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nine of the externally reported security holes are rated high severity, the majority of which are use-after-free bugs affecting components such as Cast UI, Omnibox, Views, WebShare, and Media.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Hit with Novel ‘FoxBlade’ Trojan Hours Before Invasion<a href="https://threatpost.com/microsoft-ukraine-foxblade-trojan-hours-before-russian-invasion/178702/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft detected cyberattacks launched against Ukraine hours before Russia’s tanks and missiles began to pummel the country last week.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Accounts Targeted by Russian-Themed Credential Harvesting<a href="https://threatpost.com/microsoft-accounts-targeted-russian-credential-harvesting/178698/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious emails warning Microsoft users of “unusual sign-on activity” from Russia are looking to capitalizing on the Ukrainian crisis.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bugs Reported in Popular Open Source PJSIP SIP and Media Stack<a href="https://thehackernews.com/2022/03/critical-bugs-reported-in-popular-open.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as five security vulnerabilities have been disclosed in the PJSIP open-source multimedia communication library that could be abused by an attacker to trigger arbitrary code execution and denial-of-service (DoS) in applications that use the protocol stack.  The weaknesses were  identified and reported  by JFrog's Security Research team, following which the project maintainers released patches ( version 2.12 ) last week on February 24, 2022.   PJSIP is an open-source embedded  SIP protocol  suite written in C that supports audio, video, and instant messaging features for popular communication platforms such as  WhatsApp  and BlueJeans. It's also  used  by  Asterisk , a widely-used private branch exchange (PBX) switching system for VoIP networks.  "Buffers used in PJSIP typically have limited sizes, especially the ones allocated in the stack or supplied by the application, however in several places, we do not check if our usage can exceed the sizes," PJSIP's
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Bugs Uncovered in VoIPmonitor Monitoring Software<a href="https://thehackernews.com/2022/03/critical-security-bugs-uncovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical security vulnerabilities have been uncovered in VoIPmonitor  software that, if successfully exploited, could allow unauthenticated attackers to escalate privileges to the administrator level and execute arbitrary commands.  Following responsible disclosure by researchers from  Kerbit , an Ethiopia-based penetration-testing and vulnerability research firm, on December 15, 2021, the issues were addressed in  version 24.97  of the WEB GUI shipped on January 11, 2022.  "[F]ix critical vulnerabilities - new SQL injects for unauthenticated users allowing gaining admin privileges," the maintainers of VoIPmonitor noted in the change log.   VoIPmonitor is an open-source network packet sniffer with commercial frontend for SIP RTP and RTCP VoIP protocols running on Linux, allowing users to monitor and troubleshoot quality of SIP VoIP calls as well as decode, play, and archive calls in a  CDR  database.  The three flaws identified by Kerbit is below –  CVE-2022-24259  (CVSS sco
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeaBot Android Banking Malware Spreads Again Through Google Play Store Apps<a href="https://thehackernews.com/2022/03/teabot-android-banking-malware-spreads.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Android banking trojan designed to steal credentials and SMS messages has been observed once again sneaking past Google Play Store protections to target users of more than 400 banking and financial apps, including those from Russia, China, and the U.S.  "TeaBot RAT capabilities are achieved via the device screen's live streaming (requested on-demand) plus the abuse of Accessibility Services for remote interaction and key-logging," Cleafy researchers  said  in a report. "This enables Threat Actors (TAs) to perform ATO (Account Takeover) directly from the compromised phone, also known as 'On-device fraud.'"   Also known by the name Anatsa, TeaBot first  emerged  in May 2021, camouflaging its malicious functions by posing as seemingly innocuous PDF document and QR code scanner apps that are distributed via the official Google Play Store instead of third-party apps stores or via fraudulent websites.   These apps, also known as dropper applications, act a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 01, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
