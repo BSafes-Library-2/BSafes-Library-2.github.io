@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+March 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+West Virginia-based Mon Health Discloses Data Breach Impacting Patients, Employees, and Partners<a href="https://www.securityweek.com/healthcare-company-mon-health-discloses-second-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The healthcare services provider discovered the incident on December 18, when some of its IT systems were disrupted, but learned of the potential data theft only a couple of weeks later.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA data breach exposed credentials of over 71,000 employees<a href="https://www.bleepingcomputer.com/news/security/nvidia-data-breach-exposed-credentials-of-over-71-000-employees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 71,000 employee credentials were stolen and leaked online following a data breach suffered by US chipmaker giant Nvidia&nbsp;last month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Who Broke Into NVIDIA's Network Leak DLSS Source Code Online<a href="https://thehackernews.com/2022/03/hackers-who-broke-into-nvidias-network.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American chipmaking company NVIDIA on Tuesday confirmed that its network was breached as a result of a cyber attack, enabling the perpetrators to gain access to sensitive data, including source code purportedly associated with its Deep Learning Super Sampling (DLSS) technology.  "We have no evidence of ransomware being deployed on the NVIDIA environment or that this is related to the Russia-Ukraine conflict," the company&nbsp; said &nbsp;in a security notice. "However, we are aware that the threat actor took employee passwords and some NVIDIA proprietary information from our systems and has begun leaking it online."  The incident is said to have come to light on February 23, with the company noting that it's taken steps to analyze the leaked information and that it's enforcing all of its employees to change their passwords with immediate effect.   The confirmation comes days after&nbsp; The Telegraph &nbsp;last week reported that the company is investigating a potential cyber
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

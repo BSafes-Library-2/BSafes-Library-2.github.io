@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Targeted Those Aiding Ukraine Refugees<a href="https://threatpost.com/phishing-campaign-targeted-those-aiding-ukraine-refugees/178752/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A military email address was used to distribute malicious email macros among EU personnel helping Ukrainians.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware infections top list of the most common results of phishing attacks<a href="https://www.techrepublic.com/article/ransomware-infections-top-list-of-the-most-common-results-of-phishing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new study, eighty-four percent of organizations reported falling victim to a phishing attack last year, Egress said, and of those 59% were infected with ransomware as a result.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

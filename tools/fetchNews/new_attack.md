@@ -8,6 +8,66 @@ nav_order: 900015
 
 ## Attack
 ---
+March 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware campaign impersonates VC firm looking to buy sites<a href="https://www.bleepingcomputer.com/news/security/malware-campaign-impersonates-vc-firm-looking-to-buy-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BleepingComputer was recently contacted by an alleged "venture capitalist" firm that wanted to invest or purchase our site. However, as we later discovered, this was a malicious campaign designed to install malware that provides remote access to our devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine cyber group to strike at Russia's critical infrastructure<a href="https://thehill.com//policy/cybersecurity/596790-ukraine-cyber-group-to-strike-at-russias-critical-infrastructure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Ukrainian cyber guerrilla warfare group is planning to strike back against Russia, targeting the country’s critical infrastructure amid the Russian invasion of Ukraine.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine says local govt sites hacked to push fake capitulation news<a href="https://www.bleepingcomputer.com/news/security/ukraine-says-local-govt-sites-hacked-to-push-fake-capitulation-news/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SSU) said today "enemy" hackers are using compromised&nbsp;local government and regional authorities' websites to push rumors that Ukraine surrendered&nbsp;and signed a peace treaty with Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian WordPress sites under massive complex attacks<a href="https://securityaffairs.co/wordpress/128613/cyber-warfare-2/ukrainian-wordpress-sites-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers observed a spike in the attacks against Ukrainian WordPress sites since the beginning of the military invasion of the country.
+
+
+
+Cyber attacks are an important component of the military strategy against Ukraine, experts observed a spike...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+March 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Begin Weaponizing TCP Middlebox Reflection for Amplified DDoS Attacks<a href="https://thehackernews.com/2022/03/hackers-begin-weaponizing-tcp-middlebox.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Distributed denial-of-service (DDoS) attacks leveraging a new amplification technique called TCP Middlebox Reflection  have been detected for the first time in the wild, six months after the novel attack mechanism was presented in theory.  "The attack […] abuses vulnerable firewalls and content filtering systems to reflect and amplify TCP traffic to a victim machine, creating a powerful DDoS attack," Akamai researchers&nbsp; said &nbsp;in a report published Tuesday.  "This type of attack dangerously lowers the bar for DDoS attacks, as the attacker needs as little as 1/75th (in some cases) the amount of bandwidth from a volumetric standpoint," the researchers added.   A distributed reflective denial-of-service ( DRDoS ) is a form of distributed denial-of-service (DDoS) attack that relies on publicly accessible UDP servers and bandwidth amplification factors (BAFs) to overwhelm a victim's system with a high volume of UDP responses.  In these attacks, the adversary sends a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

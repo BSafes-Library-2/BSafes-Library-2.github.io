@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+March 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast researchers warns against joining in DDoS attacks in aid of Ukraine<a href="https://blog.avast.com/avast-threatlabs-warns-against-ddos-attacks-ukraine?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These DDoS tools collect personal data that can make users identifiable, such as IP address, country code, city, location based on IP address, username, hardware configuration, and system language.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

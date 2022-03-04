@@ -8,6 +8,38 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asylum Ambuscade spear-phishing campaign targets EU countries aiding Ukrainian refugees<a href="https://securityaffairs.co/wordpress/128594/apt/asylum-ambuscade-phishing-campaign-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spear-phishing campaign, tracked as Asylum Ambuscade, targets European government personnel aiding Ukrainian refugees.
+
+
+
+Researchers from cybersecurity firm Proofpoint uncovered a spear-phishing campaign, likely conducted by a nation-state actor,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attacks target countries aiding Ukrainian refugees<a href="https://www.bleepingcomputer.com/news/security/phishing-attacks-target-countries-aiding-ukrainian-refugees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spear-phishing campaign likely coordinated by a state-backed threat actor has been targeting European government personnel providing&nbsp;logistics support&nbsp;to Ukrainian refugees.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

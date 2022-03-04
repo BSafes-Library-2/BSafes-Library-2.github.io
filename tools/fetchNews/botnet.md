@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot’s AnchorDNS is Now Upgraded to AnchorMail<a href="https://cyware.com/news/trickbots-anchordns-is-now-upgraded-to-anchormail-a21f5490"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers identified an improved version of the AnchorDNS backdoor, dubbed AnchorMail, being used in Conti ransomware attacks. Post-execution, AnchorMail creates a scheduled task for persistence that runs every 10 minutes.&nbsp;Experts recommend training your employees to spot phishing emails is  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

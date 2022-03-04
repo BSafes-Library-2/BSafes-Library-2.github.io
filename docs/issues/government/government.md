@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+March 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ officials criticize Senate-passed cyber bill<a href="https://thehill.com//policy/cybersecurity/596736-doj-officials-criticize-cyber-bill"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior officials at the Department of Justice (DOJ) have&nbsp;knocked&nbsp;a Senate-passed cybersecurity bill as having “serious flaws,” criticizing it over a lack of direct reporting to the FBI.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Senate approves cyber incident reporting bill amid worries about Russian threats<a href="https://therecord.media/senate-approves-cyber-incident-reporting-bill-amid-worries-about-russian-threats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber incident reporting bill would mandate that critical infrastructure operations alert the DHS within 72 hours of a hack and 24 hours if the organization made a ransomware payment.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

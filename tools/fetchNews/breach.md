@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+March 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: NVIDIA discloses data breach after the recent ransomware attack<a href="https://securityaffairs.co/wordpress/128573/data-breach/nvidia-data-breach.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The chipmaker company launched an investigation into the incident to determine the extent of the intrusion that confirmed that the attackers have stolen data from the chipmaker.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian researcher leaked the source code of Conti Ransomware<a href="https://securityaffairs.co/wordpress/128563/data-breach/conti-ransomware-source-code-leaked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Ukrainian researcher leaked the source for the Conti ransomware and components for the control panels.
+
+
+
+Recently a&nbsp;Ukrainian researcher leaked 60,694 messages&nbsp;internal chat messages&nbsp;belonging to the Conti ransomware operation after...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

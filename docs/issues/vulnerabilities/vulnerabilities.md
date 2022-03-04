@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Patches Issued for Cisco Expressway Series, TelePresence VCS Products<a href="https://thehackernews.com/2022/03/critical-patches-issued-for-cisco.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco this week shipped patches to address a new round of critical security vulnerabilities affecting Expressway Series and Cisco TelePresence Video Communication Server (VCS) that could be exploited by an attacker to gain elevated privileges and execute arbitrary code.  The two flaws – tracked as&nbsp; CVE-2022-20754 and CVE-2022-20755 &nbsp;(CVSS scores: 9.0) – relate to an arbitrary file write and a command injection flaw in the API and web-based management interfaces of the two products that could have serious impacts on affected systems.  The company said both the issues stem from insufficient input validation of user-supplied command arguments, a weakness that could be weaponized by an authenticated, remote attacker to carry out directory traversal attacks, overwrite arbitrary files, and run malicious code on the underlying operating system as the root user.   "These vulnerabilities were found during internal security testing by Jason Crowder of the Cisco Advanced Security Initiative
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+75% of medical infusion pumps affected by known vulnerabilities<a href="https://securityaffairs.co/wordpress/128633/hacking/medical-infusion-pumps-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers analyzed more than 200,000 network-connected medical infusion pumps and discovered that over 100,000 of them are vulnerable.
+
+
+
+Researchers from Palo Alto Networks have analyzed more than 200,000 medical infusion pumps on the networks of hospitals...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed two critical flaws in Expressway, TelePresence VCS solutions<a href="https://securityaffairs.co/wordpress/128627/security/cisco-expressway-telepresence-vcs-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed critical flaws in its Expressway Series and TelePresence Video Communication Server (VCS) unified communications products.
+
+
+
+Cisco announced security patches for a couple of critical vulnerabilities, tracked as CVE-2022-20754 and CVE-2022-20755...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches Critical Vulnerabilities in Expressway, TelePresence VCS Products<a href="https://www.securityweek.com/cisco-patches-critical-vulnerabilities-expressway-telepresence-vcs-products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco this week announced patches that address a couple of critical vulnerabilities in its Expressway Series and TelePresence Video Communication Server (VCS) unified communications products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Nearly 75% of Infusion Pumps Affected by Severe Vulnerabilities<a href="https://thehackernews.com/2022/03/report-nearly-75-of-infusion-pumps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of data crowdsourced from more than 200,000 network-connected infusion pumps used in hospitals and healthcare entities has revealed that 75% of those medical devices contain security weaknesses that could put them at risk of potential exploitation.  "These shortcomings included exposure to one or more of some 40 known cybersecurity vulnerabilities and/or alerts that they had one or more of some 70 other types of known security shortcomings for IoT devices," Unit 42 security researcher Aveek Das&nbsp; said &nbsp;in a report published Wednesday.   Palo Alto Networks' threat intelligence team said it obtained the scans from seven medical device manufacturers. On top of that, 52.11% of all infusion pumps scanned were susceptible to two known vulnerabilities that were disclosed in 2019 as part of 11 flaws collectively called " URGENT/11 " –   CVE-2019-12255 &nbsp;(CVSS score: 9.8) – A buffer overflow flaw in the TCP component of Wind River VxWorks  CVE-2019-12264 &nbsp;(CVS
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

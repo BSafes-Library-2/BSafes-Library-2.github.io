@@ -34,6 +34,458 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Targeted Those Aiding Ukraine Refugees<a href="https://threatpost.com/phishing-campaign-targeted-those-aiding-ukraine-refugees/178752/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A military email address was used to distribute malicious email macros among EU personnel helping Ukrainians.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware campaign impersonates VC firm looking to buy sites<a href="https://www.bleepingcomputer.com/news/security/malware-campaign-impersonates-vc-firm-looking-to-buy-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BleepingComputer was recently contacted by an alleged "venture capitalist" firm that wanted to invest or purchase our site. However, as we later discovered, this was a malicious campaign designed to install malware that provides remote access to our devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+West Virginia-based Mon Health Discloses Data Breach Impacting Patients, Employees, and Partners<a href="https://www.securityweek.com/healthcare-company-mon-health-discloses-second-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The healthcare services provider discovered the incident on December 18, when some of its IT systems were disrupted, but learned of the potential data theft only a couple of weeks later.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — DOJ slams Senate cyber bill<a href="https://thehill.com//policy/technology/overnights/596809-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Thursday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Demonstrate New Side-Channel Attack on Homomorphic Encryption<a href="https://thehackernews.com/2022/03/researchers-demonstrate-new-side.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics from the North Carolina State University and Dokuz Eylul University have demonstrated what they say is the "first side-channel attack" on homomorphic encryption that could be exploited to leak data as the encryption process is underway.  "Basically, by monitoring power consumption in a device that is encoding data for homomorphic encryption, we are able to read the data as it is being encrypted," Aydin Aysu, one of the authors of the study,  said . "This demonstrates that even next generation encryption technologies need protection against side-channel attacks."  Homomorphic Encryption is a  form of encryption  that allows certain types of computation to be performed directly on encrypted data without having to decrypt it in the first place.   It's also meant to be privacy-preserving in that it allows sharing of sensitive data with other third-party services, such as data analytics firms, for further processing while the underlyin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast released a free decryptor for the HermeticRansom that hit Ukraine<a href="https://securityaffairs.co/wordpress/128652/breaking-news/free-decryptor-hermeticransom-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast released a decryptor for the HermeticRansom ransomware used in recent targeted attacks against Ukrainian entities.
+
+
+
+Avast has released a free decryptor for the HermeticRansom ransomware employed in targeted attacks against Ukrainian systems since...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA data breach exposed credentials of over 71,000 employees<a href="https://www.bleepingcomputer.com/news/security/nvidia-data-breach-exposed-credentials-of-over-71-000-employees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 71,000 employee credentials were stolen and leaked online following a data breach suffered by US chipmaker giant Nvidia last month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CardinalOps Raises $17.5 Million for Threat Coverage Optimization Platform<a href="https://www.securityweek.com/cardinalops-raises-175-million-threat-coverage-optimization-platform?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CardinalOps, which is a threat coverage optimization company, on Thursday announced raising $17.5 million in a Series A funding round that brings the total raised by the firm to $24 million.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine cyber group to strike at Russia's critical infrastructure<a href="https://thehill.com//policy/cybersecurity/596790-ukraine-cyber-group-to-strike-at-russias-critical-infrastructure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Ukrainian cyber guerrilla warfare group is planning to strike back against Russia, targeting the country’s critical infrastructure amid the Russian invasion of Ukraine. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Patches Issued for Cisco Expressway Series, TelePresence VCS Products<a href="https://thehackernews.com/2022/03/critical-patches-issued-for-cisco.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco this week shipped patches to address a new round of critical security vulnerabilities affecting Expressway Series and Cisco TelePresence Video Communication Server (VCS) that could be exploited by an attacker to gain elevated privileges and execute arbitrary code.  The two flaws – tracked as  CVE-2022-20754 and CVE-2022-20755  (CVSS scores: 9.0) – relate to an arbitrary file write and a command injection flaw in the API and web-based management interfaces of the two products that could have serious impacts on affected systems.  The company said both the issues stem from insufficient input validation of user-supplied command arguments, a weakness that could be weaponized by an authenticated, remote attacker to carry out directory traversal attacks, overwrite arbitrary files, and run malicious code on the underlying operating system as the root user.   "These vulnerabilities were found during internal security testing by Jason Crowder of the Cisco Advanced Security Initiative
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+75% of medical infusion pumps affected by known vulnerabilities<a href="https://securityaffairs.co/wordpress/128633/hacking/medical-infusion-pumps-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers analyzed more than 200,000 network-connected medical infusion pumps and discovered that over 100,000 of them are vulnerable.
+
+
+
+Researchers from Palo Alto Networks have analyzed more than 200,000 medical infusion pumps on the networks of hospitals...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine says local govt sites hacked to push fake capitulation news<a href="https://www.bleepingcomputer.com/news/security/ukraine-says-local-govt-sites-hacked-to-push-fake-capitulation-news/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SSU) said today "enemy" hackers are using compromised local government and regional authorities' websites to push rumors that Ukraine surrendered and signed a peace treaty with Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware infections top list of the most common results of phishing attacks<a href="https://www.techrepublic.com/article/ransomware-infections-top-list-of-the-most-common-results-of-phishing-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new study, eighty-four percent of organizations reported falling victim to a phishing attack last year, Egress said, and of those 59% were infected with ransomware as a result.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ officials criticize Senate-passed cyber bill<a href="https://thehill.com//policy/cybersecurity/596736-doj-officials-criticize-cyber-bill"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior officials at the Department of Justice (DOJ) have knocked a Senate-passed cybersecurity bill as having “serious flaws,” criticizing it over a lack of direct reporting to the FBI.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Automate Offboarding to Keep Your Company Safe<a href="https://thehackernews.com/2022/03/how-to-automate-offboarding-to-keep.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the midst of 'The Great Resignation,' the damage from employees (or contractors) leaving an organization might be one of the greatest risks facing IT teams today. The reality is that in the busy enterprise computing environment, user onboarding and offboarding is a fact of daily life.   When employee counts range into the five-figure territory — and entire networks of contractors have to be accounted for as well — it's easy to lose track of who's, literally, coming and going. Oftentimes, there are "offboarding" steps that are forgotten about — disabling or removing the user from Active Directory or IAM is not sufficient as the user may have local credentials on some of the SaaS platforms or other sensitive systems.   Technically speaking, there are ways to automate offboarding using protocols such as SCIM and JIT mapping; however, it requires a high level of maturity in an IT environment and the staff to implement it.  For organizations not implementing SC
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed two critical flaws in Expressway, TelePresence VCS solutions<a href="https://securityaffairs.co/wordpress/128627/security/cisco-expressway-telepresence-vcs-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed critical flaws in its Expressway Series and TelePresence Video Communication Server (VCS) unified communications products.
+
+
+
+Cisco announced security patches for a couple of critical vulnerabilities, tracked as CVE-2022-20754 and CVE-2022-20755...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivists, cybercriminals switch to Telegram after Russian invasion<a href="https://www.bleepingcomputer.com/news/security/hacktivists-cybercriminals-switch-to-telegram-after-russian-invasion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telegram, the free instant messaging service that promises secure end-to-end communications, has assumed a pivotal role in the ongoing conflict between Russia and Ukraine, as it's being massively used by hacktivists and cyber-criminals alike.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches Critical Vulnerabilities in Expressway, TelePresence VCS Products<a href="https://www.securityweek.com/cisco-patches-critical-vulnerabilities-expressway-telepresence-vcs-products?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco this week announced patches that address a couple of critical vulnerabilities in its Expressway Series and TelePresence Video Communication Server (VCS) unified communications products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Who Broke Into NVIDIA's Network Leak DLSS Source Code Online<a href="https://thehackernews.com/2022/03/hackers-who-broke-into-nvidias-network.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American chipmaking company NVIDIA on Tuesday confirmed that its network was breached as a result of a cyber attack, enabling the perpetrators to gain access to sensitive data, including source code purportedly associated with its Deep Learning Super Sampling (DLSS) technology.  "We have no evidence of ransomware being deployed on the NVIDIA environment or that this is related to the Russia-Ukraine conflict," the company  said  in a security notice. "However, we are aware that the threat actor took employee passwords and some NVIDIA proprietary information from our systems and has begun leaking it online."  The incident is said to have come to light on February 23, with the company noting that it's taken steps to analyze the leaked information and that it's enforcing all of its employees to change their passwords with immediate effect.   The confirmation comes days after  The Telegraph  last week reported that the company is investigating a potential cyber
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Difference Between Human and Machine Identities<a href="https://securityaffairs.co/wordpress/128621/security/human-machine-identities-differences.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As digital transformation is advancing and automation is becoming an essential component of modern enterprises, collaboration between humans and machines is crucial. 
+
+
+
+With this level of interaction, a new identity problem is emerging as machines operate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free decryptor released for HermeticRansom victims in Ukraine<a href="https://www.bleepingcomputer.com/news/security/free-decryptor-released-for-hermeticransom-victims-in-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast Threat Labs has released a decryptor for the HermeticRansom ransomware strain used predominately in targeted attacks against Ukrainian systems in the past ten days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast researchers warns against joining in DDoS attacks in aid of Ukraine<a href="https://blog.avast.com/avast-threatlabs-warns-against-ddos-attacks-ukraine?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These DDoS tools collect personal data that can make users identifiable, such as IP address, country code, city, location based on IP address, username, hardware configuration, and system language.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Nearly 75% of Infusion Pumps Affected by Severe Vulnerabilities<a href="https://thehackernews.com/2022/03/report-nearly-75-of-infusion-pumps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of data crowdsourced from more than 200,000 network-connected infusion pumps used in hospitals and healthcare entities has revealed that 75% of those medical devices contain security weaknesses that could put them at risk of potential exploitation.  "These shortcomings included exposure to one or more of some 40 known cybersecurity vulnerabilities and/or alerts that they had one or more of some 70 other types of known security shortcomings for IoT devices," Unit 42 security researcher Aveek Das  said  in a report published Wednesday.   Palo Alto Networks' threat intelligence team said it obtained the scans from seven medical device manufacturers. On top of that, 52.11% of all infusion pumps scanned were susceptible to two known vulnerabilities that were disclosed in 2019 as part of 11 flaws collectively called " URGENT/11 " –   CVE-2019-12255  (CVSS score: 9.8) – A buffer overflow flaw in the TCP component of Wind River VxWorks  CVE-2019-12264  (CVS
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian WordPress sites under massive complex attacks<a href="https://securityaffairs.co/wordpress/128613/cyber-warfare-2/ukrainian-wordpress-sites-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers observed a spike in the attacks against Ukrainian WordPress sites since the beginning of the military invasion of the country.
+
+
+
+Cyber attacks are an important component of the military strategy against Ukraine, experts observed a spike...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Senate approves cyber incident reporting bill amid worries about Russian threats<a href="https://therecord.media/senate-approves-cyber-incident-reporting-bill-amid-worries-about-russian-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber incident reporting bill would mandate that critical infrastructure operations alert the DHS within 72 hours of a hack and 24 hours if the organization made a ransomware payment.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Senate Passes Cybersecurity Bill to Strengthen Critical Infrastructure Security<a href="https://thehackernews.com/2022/03/us-senate-passes-cybersecurity-bill-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Senate unanimously  passed  the " Strengthening American Cybersecurity Act " on Tuesday in an attempt to bolster the cybersecurity of critical infrastructure owners in the country.  The new  bipartisan legislation , among other things, stipulates entities that experience a cyber incident to report the attacks within 72 hours to the U.S. Cybersecurity and Infrastructure Security Agency (CISA), in addition to alerting the agency about ransomware payments within 24 hours.   Furthermore, affected organizations are required to preserve relevant data and promptly share updates "to a previously submitted covered cyber incident report if substantial new or different information becomes available or if the covered entity makes a ransom payment after submitting a covered cyber incident report."  The Strengthening American Cybersecurity Act of 2022 combines three different bills: the Cyber Incident Reporting Act ( CIRA ), the Federal Information Security Management A
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeaBot Trojan Haunts Google Play Store, Again<a href="https://threatpost.com/teabot-trojan-haunts-google-play-store/178738/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious Google Play apps have circumvented censorship by hiding trojans in software updates.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 02, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

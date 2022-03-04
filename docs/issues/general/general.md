@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+March 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — DOJ slams Senate cyber bill<a href="https://thehill.com//policy/technology/overnights/596809-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Thursday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivists, cybercriminals switch to Telegram after Russian invasion<a href="https://www.bleepingcomputer.com/news/security/hacktivists-cybercriminals-switch-to-telegram-after-russian-invasion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telegram, the free instant messaging service that promises secure end-to-end communications, has assumed a pivotal role in the ongoing conflict between Russia and Ukraine, as it's being massively used by hacktivists and cyber-criminals alike.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

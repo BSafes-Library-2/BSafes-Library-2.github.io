@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+March 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate passes cybersecurity bill amid fears of Russian cyberattacks<a href="https://thehill.com//policy/cybersecurity/596628-senate-passes-cybersecurity-bill-amid-fears-of-russian-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate unanimously passed cybersecurity legislation on Tuesday that would require companies in critical sectors to alert the government of potential hacks or ransomware.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyberattack on Russian satellites is an act of war, the invasion of Ukraine no<a href="https://securityaffairs.co/wordpress/128608/cyber-warfare-2/a-cyberattack-on-russian-satellites-is-an-act-of-war-the-invasion-of-ukraine-no.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia considers it legitimate to invade another country but warns it will consider cyberattacks on its satellites an act of war.
+
+
+
+Anonymous and the numerous hacker groups that declared war on Russia continue to target Russian government entities and private...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian space agency says hacking satellites is an act of war<a href="https://www.bleepingcomputer.com/news/security/russian-space-agency-says-hacking-satellites-is-an-act-of-war/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia will consider any cyberattacks targeting Russian satellite infrastructure an act of war, as the country's space agency director said in a TV interview.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

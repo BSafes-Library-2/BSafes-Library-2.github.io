@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+March 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian sites saw a 10x increase in attacks when invasion started<a href="https://www.bleepingcomputer.com/news/security/ukrainian-sites-saw-a-10x-increase-in-attacks-when-invasion-started/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet security companies have recorded a massive wave of attacks against Ukrainian WordPress sites since Russia invaded Ukraine, aiming to take down the websites and cause general demoralization.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Realism in a Time of War<a href="https://www.lawfareblog.com/cyber-realism-time-war"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Activity in the digital domain may affect the war in Eastern Europe at the margins, but it will not decide it. That should tell us something about the West’s cyber posture.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacks abusing programming APIs grew over 600% in 2021<a href="https://www.bleepingcomputer.com/news/security/attacks-abusing-programming-apis-grew-over-600-percent-in-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts warn of a sharp rise in API attacks over the past year, with most companies still following inadequate practices to tackle the problem.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

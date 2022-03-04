@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+March 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google TAG removes fraudulent 'influence' operations linked to Belarus, Moldova, Ukraine<a href="https://www.zdnet.com/article/google-tag-removes-out-fraudulent-influence-operations-linked-to-belarus-moldova-ukraine/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The influence operation was terminated in January, prior to the start of the conflict, but at a time when tensions between Russia and Ukraine was rising due to the presence of Russian troops at the border.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
