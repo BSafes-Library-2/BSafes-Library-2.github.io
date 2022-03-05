@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Another 95 Flaws to its Known Exploited Vulnerabilities List<a href="https://www.zdnet.com/article/get-patching-now-cisa-adds-another-95-flaws-to-its-known-exploited-vulnerabilities-list/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA just added 95 new bugs to its catalog of known exploited vulnerabilities, including multiple critical Cisco router flaws, new and old Windows flaws, bugs in Adobe Flash Player, and more.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Security Vulnerability Affects Thousands of Self-Managed GitLab Instances<a href="https://thehackernews.com/2022/03/new-security-vulnerability-affects.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed details of a new security vulnerability in GitLab, an open-source DevOps software, that could potentially allow a remote, unauthenticated attacker to recover user-related information.  Tracked as CVE-2021-4191 (CVSS score: 5.3), the medium-severity flaw affects all versions of GitLab Community Edition and Enterprise Edition starting from 13.0 and all versions starting from 14.4 and prior to 14.8.   Credited with discovering and reporting the flaw is Jake Baines, a senior security researcher at Rapid7. Following responsible disclosure on November 18, 2021, patches were&nbsp; released &nbsp;for self-managed servers as part of GitLab critical security releases 14.8.2, 14.7.4, and 14.6.5 shipped on February 25, 2022.  "The vulnerability is the result of a missing authentication check when executing certain GitLab GraphQL API queries," Baines&nbsp; said &nbsp;in a report published Thursday. "A remote, unauthenticated attacker can use this vulnerability to collect regi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+March 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Demonstrate New Side-Channel Attack on Homomorphic Encryption<a href="https://thehackernews.com/2022/03/researchers-demonstrate-new-side.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics from the North Carolina State University and Dokuz Eylul University have demonstrated what they say is the "first side-channel attack" on homomorphic encryption that could be exploited to leak data as the encryption process is underway.  "Basically, by monitoring power consumption in a device that is encoding data for homomorphic encryption, we are able to read the data as it is being encrypted," Aydin Aysu, one of the authors of the study,&nbsp; said . "This demonstrates that even next generation encryption technologies need protection against side-channel attacks."  Homomorphic Encryption is a&nbsp; form of encryption &nbsp;that allows certain types of computation to be performed directly on encrypted data without having to decrypt it in the first place.   It's also meant to be privacy-preserving in that it allows sharing of sensitive data with other third-party services, such as data analytics firms, for further processing while the underlyin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

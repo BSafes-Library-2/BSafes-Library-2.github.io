@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2022
+March 5, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Elon Musk warns of possible targeted attacks on Starlink in Ukraine<a href="https://www.hackread.com/elon-musk-warns-attacks-on-starlink-ukraine/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 04, 2022
+March 04, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon: Charities, aid orgs in Ukraine attacked with malware<a href="https://www.bleepingcomputer.com/news/security/amazon-charities-aid-orgs-in-ukraine-attacked-with-malware/"> Full Text</a>
@@ -66,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 04, 2022
+March 04, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley — Tech moves to deplatform Russian state media<a href="https://thehill.com//policy/technology/overnights/596949-hillicon-valley"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 04, 2022
+March 04, 2022 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Both Sides in Russia-Ukraine War Heavily Using Telegram for Disinformation and Hacktivism<a href="https://thehackernews.com/2022/03/both-sides-in-russia-ukraine-war.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 4, 2022
+March 4, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian watchdog Roskomnadzor also blocked Facebook in Russia<a href="https://securityaffairs.co/wordpress/128694/security/roskomnadzor-blocked-facebook-russia.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 4, 2022
+March 4, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive Meris Botnet Embeds Ransomware Notes from REvil<a href="https://threatpost.com/massive-meris-botnet-embeds-ransomware-notes-revil/178769/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 04, 2022
+March 04, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - March 4th 2022 - The Conti Leaks<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-4th-2022-the-conti-leaks/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 4, 2022
+March 4, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Highly Sophisticated FoxBlade Malware Targets Ukrainian Networks<a href="https://cyware.com/news/highly-sophisticated-foxblade-malware-targets-ukrainian-networks-50aa0e47"> Full Text</a>
@@ -167,7 +167,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 04, 2022
+March 04, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House sides with Congress over contentious cyber bill<a href="https://thehill.com//policy/cybersecurity/596899-white-house-sides-with-congress-over-contentious-cyber-bill"> Full Text</a>
@@ -183,7 +183,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 4, 2022
+March 4, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds 95 flaws to the Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/128686/security/catalog-of-actively-exploited.html"> Full Text</a>
@@ -203,7 +203,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 04, 2022
+March 04, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine to join NATO intel-sharing cyberdefense hub<a href="https://www.bleepingcomputer.com/news/government/ukraine-to-join-nato-intel-sharing-cyberdefense-hub/"> Full Text</a>
@@ -219,7 +219,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 4, 2022
+March 4, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The New Daxin Network Attack Tool has a Chinese Link<a href="https://cyware.com/news/the-new-daxin-network-attack-tool-has-a-chinese-link-3751b484"> Full Text</a>
@@ -236,7 +236,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 4, 2022
+March 4, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 These are the sources of DDoS attacks against Russia, local NCCC warns<a href="https://securityaffairs.co/wordpress/128680/hacking/russia-shared-info-ddos-sources.html"> Full Text</a>
@@ -256,7 +256,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 04, 2022
+March 04, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers leak 190GB of alleged Samsung data, source code<a href="https://www.bleepingcomputer.com/news/security/hackers-leak-190gb-of-alleged-samsung-data-source-code/"> Full Text</a>
@@ -272,7 +272,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 4, 2022
+March 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Another 95 Flaws to its Known Exploited Vulnerabilities List<a href="https://www.zdnet.com/article/get-patching-now-cisa-adds-another-95-flaws-to-its-known-exploited-vulnerabilities-list/?&web_view=true"> Full Text</a>
@@ -288,7 +288,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 4, 2022
+March 4, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-Ukraine, who are the soldiers that crowd cyberspace?<a href="https://securityaffairs.co/wordpress/128659/cyber-warfare-2/russia-ukraine-battlefield.html"> Full Text</a>
@@ -308,7 +308,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 04, 2022
+March 04, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts urge EU not to force insecure certificates in web browsers<a href="https://www.bleepingcomputer.com/news/security/experts-urge-eu-not-to-force-insecure-certificates-in-web-browsers/"> Full Text</a>
@@ -324,7 +324,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 4, 2022
+March 4, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The most impersonated brands in phishing attacks<a href="https://www.helpnetsecurity.com/2022/03/04/most-impersonated-brands-phishing/?&web_view=true"> Full Text</a>
@@ -340,7 +340,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 04, 2022
+March 04, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco joins long list of security companies supporting Ukraine<a href="https://www.bleepingcomputer.com/news/security/cisco-joins-long-list-of-security-companies-supporting-ukraine/"> Full Text</a>
@@ -356,7 +356,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 04, 2022
+March 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-Ukraine war exploited as lure for malware distribution<a href="https://www.bleepingcomputer.com/news/security/russia-ukraine-war-exploited-as-lure-for-malware-distribution/"> Full Text</a>
@@ -372,7 +372,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 04, 2022
+March 04, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Social media phishing attacks are at an all time high<a href="https://www.bleepingcomputer.com/news/security/social-media-phishing-attacks-are-at-an-all-time-high/"> Full Text</a>
@@ -388,7 +388,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 04, 2022
+March 04, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns organizations to patch 95 actively exploited bugs<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-organizations-to-patch-95-actively-exploited-bugs/"> Full Text</a>
@@ -404,7 +404,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 03, 2022
+March 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Security Vulnerability Affects Thousands of Self-Managed GitLab Instances<a href="https://thehackernews.com/2022/03/new-security-vulnerability-affects.html"> Full Text</a>
@@ -420,7 +420,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 03, 2022
+March 03, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia Releases List of IPs, Domains Attacking Its Infrastructure with DDoS Attacks<a href="https://thehackernews.com/2022/03/russia-releases-list-of-ips-domains.html"> Full Text</a>
@@ -436,7 +436,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 03, 2022
+March 03, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NY OAG warns T-Mobile data breach victims of identity theft risks<a href="https://www.bleepingcomputer.com/news/security/ny-oag-warns-t-mobile-data-breach-victims-of-identity-theft-risks/"> Full Text</a>

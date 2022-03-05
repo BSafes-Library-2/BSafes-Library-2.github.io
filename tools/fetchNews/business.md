@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CardinalOps Raises $17.5 Million for Threat Coverage Optimization Platform<a href="https://www.securityweek.com/cardinalops-raises-175-million-threat-coverage-optimization-platform?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CardinalOps, which is a threat coverage optimization company, on Thursday announced raising $17.5 million in a Series A funding round that brings the total raised by the firm to $24 million.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

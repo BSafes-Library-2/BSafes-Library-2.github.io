@@ -8,6 +8,38 @@ nav_order: 900053
 
 ## Education
 ---
+March 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Automate Offboarding to Keep Your Company Safe<a href="https://thehackernews.com/2022/03/how-to-automate-offboarding-to-keep.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the midst of 'The Great Resignation,' the damage from employees (or contractors) leaving an organization might be one of the greatest risks facing IT teams today. The reality is that in the busy enterprise computing environment, user onboarding and offboarding is a fact of daily life.&nbsp;  When employee counts range into the five-figure territory — and entire networks of contractors have to be accounted for as well — it's easy to lose track of who's, literally, coming and going. Oftentimes, there are "offboarding" steps that are forgotten about — disabling or removing the user from Active Directory or IAM is not sufficient as the user may have local credentials on some of the SaaS platforms or other sensitive systems.&nbsp;  Technically speaking, there are ways to automate offboarding using protocols such as SCIM and JIT mapping; however, it requires a high level of maturity in an IT environment and the staff to implement it.  For organizations not implementing SC
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Difference Between Human and Machine Identities<a href="https://securityaffairs.co/wordpress/128621/security/human-machine-identities-differences.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As digital transformation is advancing and automation is becoming an essential component of modern enterprises, collaboration between humans and machines is crucial. 
+
+
+
+With this level of interaction, a new identity problem is emerging as machines operate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

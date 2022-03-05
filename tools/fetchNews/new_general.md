@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts urge EU not to force insecure certificates in web browsers<a href="https://www.bleepingcomputer.com/news/security/experts-urge-eu-not-to-force-insecure-certificates-in-web-browsers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of 38 cybersecurity professors and IT experts worldwide, together with the Electronic Frontier Foundation (EFF), have cosigned a letter to EU regulators that warns of a proposal that could expose internet users to cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

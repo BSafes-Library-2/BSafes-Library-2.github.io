@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast released a free decryptor for the HermeticRansom that hit Ukraine<a href="https://securityaffairs.co/wordpress/128652/breaking-news/free-decryptor-hermeticransom-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast released a decryptor for the HermeticRansom ransomware used in recent targeted attacks against Ukrainian entities.
+
+
+
+Avast has released a free decryptor for the HermeticRansom ransomware employed in targeted attacks against Ukrainian systems since...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free decryptor released for HermeticRansom victims in Ukraine<a href="https://www.bleepingcomputer.com/news/security/free-decryptor-released-for-hermeticransom-victims-in-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast Threat Labs has released a decryptor for the HermeticRansom ransomware strain used predominately in targeted attacks against Ukrainian systems in the past ten days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

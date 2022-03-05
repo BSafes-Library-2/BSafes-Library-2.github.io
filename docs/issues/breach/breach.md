@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+March 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers leak 190GB of alleged Samsung data, source code<a href="https://www.bleepingcomputer.com/news/security/hackers-leak-190gb-of-alleged-samsung-data-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ data extortion group leaked today a huge collection of confidential data they claim to be from Samsung Electronics, the South Korean giant consumer electronics company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NY OAG warns T-Mobile data breach victims of identity theft risks<a href="https://www.bleepingcomputer.com/news/security/ny-oag-warns-t-mobile-data-breach-victims-of-identity-theft-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The New York State Office of the Attorney General (NY OAG) warned victims of the August 2021 T-Mobile data breach that they faced identity theft risks after some of the stolen information ended up for sale on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

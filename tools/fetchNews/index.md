@@ -34,6 +34,424 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elon Musk warns of possible targeted attacks on Starlink in Ukraine<a href="https://www.hackread.com/elon-musk-warns-attacks-on-starlink-ukraine/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SpaceX chief Elon Musk has expressed his concerns over the future of SpaceX’s Starlink service in Ukraine, given the current scenario of uncertainty in the country post the Russian invasion.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon: Charities, aid orgs in Ukraine attacked with malware<a href="https://www.bleepingcomputer.com/news/security/amazon-charities-aid-orgs-in-ukraine-attacked-with-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Charities and non-governmental organizations (NGOs) providing critical support in Ukraine are targeted in malware attacks aiming to disrupt their operations and relief efforts seeking to assist those affected by Russia's war.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Tech moves to deplatform Russian state media<a href="https://thehill.com//policy/technology/overnights/596949-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Friday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2022 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Both Sides in Russia-Ukraine War Heavily Using Telegram for Disinformation and Hacktivism<a href="https://thehackernews.com/2022/03/both-sides-in-russia-ukraine-war.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber criminals and hacktivist groups are increasingly using the Telegram messaging app for their activities, as the Russia-Ukraine conflict enters its eighth day.  A new analysis by Israeli cybersecurity company Check Point Research has  found  that "user volume grew a hundred folds daily on Telegram related groups, peaking at 200,000 per group."  Prominent among the groups are anti-Russian cyber attack groups, including the Ukraine government-backed IT Army, which has urged its more 270,000 members to conduct distributed denial-of-service (DDoS) attacks against Russian entities.  Other hacktivist-oriented Telegram groups used to coordinate the attacks on Russian targets via DDoS, SMS or call-based attacks are Anna_ and Mark_, Check Point researchers noted.   That said, there may be more to these attacks than meets the eye. "It seems that many of the hacktivist groups are more focused on building self-reputation and receiving credit for supporting Ukraine or Russia, th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian watchdog Roskomnadzor also blocked Facebook in Russia<a href="https://securityaffairs.co/wordpress/128694/security/roskomnadzor-blocked-facebook-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State communications watchdog Roskomnadzor has ordered to block access to Facebook in Russia amid the ongoing invasion of Ukraine.
+
+
+
+State communications watchdog Roskomnadzor ordered to block access to Facebook over its decision to ban Russian media...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Meris Botnet Embeds Ransomware Notes from REvil<a href="https://threatpost.com/massive-meris-botnet-embeds-ransomware-notes-revil/178769/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Notes threatening to tank targeted companies’ stock price were embedded into the DDoS ransomware attacks as a string_of_text directed to CEOs and webops_geeks in the URL. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - March 4th 2022 - The Conti Leaks<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-4th-2022-the-conti-leaks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's biggest story is the massive data leak from the Conti ransomware operation, including over 160,000 internal messages between members and source code for the ransomware and TrickBot operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Highly Sophisticated FoxBlade Malware Targets Ukrainian Networks<a href="https://cyware.com/news/highly-sophisticated-foxblade-malware-targets-ukrainian-networks-50aa0e47"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft laid bare a cyberattack effort involving the FoxBlade malware, which was launched against Ukraine hours before Russia’s tanks and missiles began to hit the country.&nbsp;Upon understanding the threat it poses, the firm provided technical advice on how to identify and mitigate the enclosed ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House sides with Congress over contentious cyber bill<a href="https://thehill.com//policy/cybersecurity/596899-white-house-sides-with-congress-over-contentious-cyber-bill"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House has endorsed a cyber bill that has divided members of the Biden administration and Senate lawmakers.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 95 flaws to the Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/128686/security/catalog-of-actively-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added 95 vulnerabilities to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added 95 vulnerabilities to its Known...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine to join NATO intel-sharing cyberdefense hub<a href="https://www.bleepingcomputer.com/news/government/ukraine-to-join-nato-intel-sharing-cyberdefense-hub/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While Ukraine is yet to become a member of the North Atlantic Treaty Organization (NATO), the country has been accepted as a contributing participant to the NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The New Daxin Network Attack Tool has a Chinese Link<a href="https://cyware.com/news/the-new-daxin-network-attack-tool-has-a-chinese-link-3751b484"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA and Symantec laid bare Daxin, a stealthy backdoor linked to a Chinese hacker group. The highly sophisticated rootkit was used against select governments and other critical infrastructure targets. Organizations are suggested to make use of IOCs that may help in the detection of malicious ac ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These are the sources of DDoS attacks against Russia, local NCCC warns<a href="https://securityaffairs.co/wordpress/128680/hacking/russia-shared-info-ddos-sources.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian government released a list containing IP addresses and domains behind DDoS attacks that hit Russian infrastructure after the invasion.
+
+
+
+While the conflict on the battlefield continues, hacktivists continue to target Russian infrastructure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers leak 190GB of alleged Samsung data, source code<a href="https://www.bleepingcomputer.com/news/security/hackers-leak-190gb-of-alleged-samsung-data-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ data extortion group leaked today a huge collection of confidential data they claim to be from Samsung Electronics, the South Korean giant consumer electronics company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Another 95 Flaws to its Known Exploited Vulnerabilities List<a href="https://www.zdnet.com/article/get-patching-now-cisa-adds-another-95-flaws-to-its-known-exploited-vulnerabilities-list/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA just added 95 new bugs to its catalog of known exploited vulnerabilities, including multiple critical Cisco router flaws, new and old Windows flaws, bugs in Adobe Flash Player, and more.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Ukraine, who are the soldiers that crowd cyberspace?<a href="https://securityaffairs.co/wordpress/128659/cyber-warfare-2/russia-ukraine-battlefield.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While Russia is invading Ukraine, multiple forces are joining in the conflict, especially in the cyber space, let's analyze them
+
+
+
+The analysis of the current scenario in cyberspace is not easy due to the presence of multiple threat actors and the difficulty...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts urge EU not to force insecure certificates in web browsers<a href="https://www.bleepingcomputer.com/news/security/experts-urge-eu-not-to-force-insecure-certificates-in-web-browsers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of 38 cybersecurity professors and IT experts worldwide, together with the Electronic Frontier Foundation (EFF), have cosigned a letter to EU regulators that warns of a proposal that could expose internet users to cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The most impersonated brands in phishing attacks<a href="https://www.helpnetsecurity.com/2022/03/04/most-impersonated-brands-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With six brands in the top 20, financial services was the most impersonated industry of 2021, representing 35% of all phishing pages, rising sharply based on its place at 28% in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco joins long list of security companies supporting Ukraine<a href="https://www.bleepingcomputer.com/news/security/cisco-joins-long-list-of-security-companies-supporting-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has joined the growing list of security and technology companies that no longer offer services in Russia after their invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Ukraine war exploited as lure for malware distribution<a href="https://www.bleepingcomputer.com/news/security/russia-ukraine-war-exploited-as-lure-for-malware-distribution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are distributing malware using phishing themes related to the invasion of Ukraine, aiming to infect their targets with remote access trojans (RATs) such as Agent Tesla and Remcos.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social media phishing attacks are at an all time high<a href="https://www.bleepingcomputer.com/news/security/social-media-phishing-attacks-are-at-an-all-time-high/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing campaigns continue to focus on social media, ramping up efforts to target users for the third consecutive year as the medium becomes increasingly used worldwide for communication, news, and entertainment.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns organizations to patch 95 actively exploited bugs<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-organizations-to-patch-95-actively-exploited-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added 95 vulnerabilities to its list of actively exploited security issues, the largest number since issuing the binding operational directive (BOD) last year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Security Vulnerability Affects Thousands of Self-Managed GitLab Instances<a href="https://thehackernews.com/2022/03/new-security-vulnerability-affects.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed details of a new security vulnerability in GitLab, an open-source DevOps software, that could potentially allow a remote, unauthenticated attacker to recover user-related information.  Tracked as CVE-2021-4191 (CVSS score: 5.3), the medium-severity flaw affects all versions of GitLab Community Edition and Enterprise Edition starting from 13.0 and all versions starting from 14.4 and prior to 14.8.   Credited with discovering and reporting the flaw is Jake Baines, a senior security researcher at Rapid7. Following responsible disclosure on November 18, 2021, patches were  released  for self-managed servers as part of GitLab critical security releases 14.8.2, 14.7.4, and 14.6.5 shipped on February 25, 2022.  "The vulnerability is the result of a missing authentication check when executing certain GitLab GraphQL API queries," Baines  said  in a report published Thursday. "A remote, unauthenticated attacker can use this vulnerability to collect regi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Releases List of IPs, Domains Attacking Its Infrastructure with DDoS Attacks<a href="https://thehackernews.com/2022/03/russia-releases-list-of-ips-domains.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the ongoing Russia-Ukraine conflict continues to escalate, the Russian government on Thursday  released  a massive list containing 17,576 IP addresses and 166 domains that it said are behind a series of distributed denial-of-service (DDoS) attacks aimed at its domestic infrastructure.  Some of the noticeable domains in the listing released by Russia's National Coordination Center for Computer Incidents (NCCCI) included the U.S. Federal Bureau of Investigation (FBI), Central Intelligence Agency (CIA), and websites of several media publications such as the USA Today, 24News.ge, megatv.ge, and Ukraine's Korrespondent magazine.  As part of its recommendations to counter the DDoS attacks, the agency is urging organizations to ringfence network devices, enable logging, change passwords associated with key infrastructure elements, turn off automatic software updates, disable third-party plugins on websites, enforce data backups, and watch out for phishing attacks.   "Use Russ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NY OAG warns T-Mobile data breach victims of identity theft risks<a href="https://www.bleepingcomputer.com/news/security/ny-oag-warns-t-mobile-data-breach-victims-of-identity-theft-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The New York State Office of the Attorney General (NY OAG) warned victims of the August 2021 T-Mobile data breach that they faced identity theft risks after some of the stolen information ended up for sale on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 3, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

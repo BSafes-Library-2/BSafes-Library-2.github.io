@@ -30,6 +30,7 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://securityaffairs.co/wordpress/128686/security/catalog-of-actively-exploited.html
  
 Law
 

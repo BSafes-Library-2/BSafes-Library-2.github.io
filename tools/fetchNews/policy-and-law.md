@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Senate Passes Cybersecurity Bill to Strengthen Critical Infrastructure Security<a href="https://thehackernews.com/2022/03/us-senate-passes-cybersecurity-bill-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Senate unanimously&nbsp; passed &nbsp;the " Strengthening American Cybersecurity Act " on Tuesday in an attempt to bolster the cybersecurity of critical infrastructure owners in the country.  The new&nbsp; bipartisan legislation , among other things, stipulates entities that experience a cyber incident to report the attacks within 72 hours to the U.S. Cybersecurity and Infrastructure Security Agency (CISA), in addition to alerting the agency about ransomware payments within 24 hours.   Furthermore, affected organizations are required to preserve relevant data and promptly share updates "to a previously submitted covered cyber incident report if substantial new or different information becomes available or if the covered entity makes a ransom payment after submitting a covered cyber incident report."  The Strengthening American Cybersecurity Act of 2022 combines three different bills: the Cyber Incident Reporting Act ( CIRA ), the Federal Information Security Management A
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

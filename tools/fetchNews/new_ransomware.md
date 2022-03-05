@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - March 4th 2022 - The Conti Leaks<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-4th-2022-the-conti-leaks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's biggest story is the massive data leak from the Conti ransomware operation, including over 160,000 internal messages between members and source code for the ransomware and TrickBot operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

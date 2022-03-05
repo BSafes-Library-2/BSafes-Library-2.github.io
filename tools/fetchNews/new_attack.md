@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+March 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elon Musk warns of possible targeted attacks on Starlink in Ukraine<a href="https://www.hackread.com/elon-musk-warns-attacks-on-starlink-ukraine/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SpaceX chief Elon Musk has expressed his concerns over the future of SpaceX’s Starlink service in Ukraine, given the current scenario of uncertainty in the country post the Russian invasion.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon: Charities, aid orgs in Ukraine attacked with malware<a href="https://www.bleepingcomputer.com/news/security/amazon-charities-aid-orgs-in-ukraine-attacked-with-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Charities and non-governmental organizations (NGOs) providing critical support in Ukraine are targeted in malware attacks aiming to disrupt their operations and relief efforts seeking to assist those affected by Russia's war.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

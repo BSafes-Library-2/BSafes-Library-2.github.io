@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The most impersonated brands in phishing attacks<a href="https://www.helpnetsecurity.com/2022/03/04/most-impersonated-brands-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With six brands in the top 20, financial services was the most impersonated industry of 2021, representing 35% of all phishing pages, rising sharply based on its place at 28% in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social media phishing attacks are at an all time high<a href="https://www.bleepingcomputer.com/news/security/social-media-phishing-attacks-are-at-an-all-time-high/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing campaigns continue to focus on social media, ramping up efforts to target users for the third consecutive year as the medium becomes increasingly used worldwide for communication, news, and entertainment.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

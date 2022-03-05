@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco joins long list of security companies supporting Ukraine<a href="https://www.bleepingcomputer.com/news/security/cisco-joins-long-list-of-security-companies-supporting-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has joined the growing list of security and technology companies that no longer offer services in Russia after their invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

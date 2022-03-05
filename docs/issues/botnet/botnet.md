@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Meris Botnet Embeds Ransomware Notes from REvil<a href="https://threatpost.com/massive-meris-botnet-embeds-ransomware-notes-revil/178769/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Notes threatening to tank targeted companies’ stock price were embedded into the DDoS ransomware attacks as a string_of_text directed to CEOs and webops_geeks in the URL. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

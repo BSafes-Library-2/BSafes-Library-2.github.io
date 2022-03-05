@@ -8,6 +8,116 @@ nav_order: 900075
 
 ## Government
 ---
+March 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Tech moves to deplatform Russian state media<a href="https://thehill.com//policy/technology/overnights/596949-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Friday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian watchdog Roskomnadzor also blocked Facebook in Russia<a href="https://securityaffairs.co/wordpress/128694/security/roskomnadzor-blocked-facebook-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State communications watchdog Roskomnadzor has ordered to block access to Facebook in Russia amid the ongoing invasion of Ukraine.
+
+
+
+State communications watchdog Roskomnadzor ordered to block access to Facebook over its decision to ban Russian media...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House sides with Congress over contentious cyber bill<a href="https://thehill.com//policy/cybersecurity/596899-white-house-sides-with-congress-over-contentious-cyber-bill"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House has endorsed a cyber bill that has divided members of the Biden administration and Senate lawmakers.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 95 flaws to the Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/128686/security/catalog-of-actively-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added 95 vulnerabilities to its&nbsp;Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added 95 vulnerabilities to its&nbsp;Known...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine to join NATO intel-sharing cyberdefense hub<a href="https://www.bleepingcomputer.com/news/government/ukraine-to-join-nato-intel-sharing-cyberdefense-hub/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While Ukraine is yet to become a member of the North Atlantic Treaty Organization (NATO), the country has been accepted as a contributing participant to the NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Ukraine, who are the soldiers that crowd cyberspace?<a href="https://securityaffairs.co/wordpress/128659/cyber-warfare-2/russia-ukraine-battlefield.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While Russia is invading Ukraine, multiple forces are joining in the conflict, especially in the cyber space, let's analyze them
+
+
+
+The analysis of the current scenario in cyberspace is not easy due to the presence of multiple threat actors and the difficulty...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns organizations to patch 95 actively exploited bugs<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-organizations-to-patch-95-actively-exploited-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added 95 vulnerabilities to its list of actively exploited security issues, the largest number since issuing the binding operational directive (BOD) last year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
