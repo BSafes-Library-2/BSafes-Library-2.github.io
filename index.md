@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 06, 2022
+March 06, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla Firefox 97.0.2 fixes two actively exploited zero-day bugs<a href="https://www.bleepingcomputer.com/news/security/mozilla-firefox-9702-fixes-two-actively-exploited-zero-day-bugs/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2022
+March 6, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous offers $52,000 worth of Bitcoin to Russian troops for surrendered tank. Is it fake news?<a href="https://securityaffairs.co/wordpress/128755/hacktivism/anonymous-bitcoin-for-surrendered-tank.html"> Full Text</a>
@@ -74,7 +74,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 06, 2022
+March 06, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adafruit discloses data leak from ex-employee's GitHub repo<a href="https://www.bleepingcomputer.com/news/security/adafruit-discloses-data-leak-from-ex-employees-github-repo/"> Full Text</a>
@@ -90,7 +90,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2022
+March 6, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2022-0492 flaw in Linux Kernel cgroups feature allows container escape<a href="https://securityaffairs.co/wordpress/128742/security/cve-2022-0492-linux-kernel-flaw.html"> Full Text</a>
@@ -110,7 +110,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2022
+March 6, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 356<a href="https://securityaffairs.co/wordpress/128739/breaking-news/security-affairs-newsletter-round-356.html"> Full Text</a>
@@ -130,7 +130,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2022
+March 6, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feb 27- Mar 05 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/128727/cyber-warfare-2/feb-27-mar-05-ukraine-russia-cyberwar.html"> Full Text</a>
@@ -154,7 +154,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2022
+March 6, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Charities and NGOs providing support in Ukraine hit by malware<a href="https://securityaffairs.co/wordpress/128721/cyber-warfare-2/malware-hit-charities-ngoin-ukraine.html"> Full Text</a>
@@ -174,7 +174,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2022
+March 5, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European Officials Aiding the Ukrainian Refugee Movement are Under Attack<a href="https://cyware.com/news/european-officials-aiding-the-ukrainian-refugee-movement-are-under-attack-83d20cdc"> Full Text</a>
@@ -191,7 +191,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 05, 2022
+March 05, 2022 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia weighs risks of launching cyberattacks against the West<a href="https://thehill.com//policy/cybersecurity/596782-russia-weighs-risks-of-launching-cyberattacks-against-the-west"> Full Text</a>
@@ -207,7 +207,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 05, 2022
+March 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux Kernel cgroups Vulnerability Could Let Attackers Escape Container<a href="https://thehackernews.com/2022/03/new-linux-kernel-cgroups-vulnerability.html"> Full Text</a>
@@ -223,7 +223,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2022
+March 5, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Side-Channel Attack on Homomorphic Encryption<a href="https://cyware.com/news/new-side-channel-attack-on-homomorphic-encryption-703f97cf"> Full Text</a>
@@ -240,7 +240,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 05, 2022
+March 05, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware now using NVIDIA's stolen code signing certificates<a href="https://www.bleepingcomputer.com/news/security/malware-now-using-nvidias-stolen-code-signing-certificates/"> Full Text</a>
@@ -256,7 +256,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2022
+March 5, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RuRAT Campaign Uses Innovative Lure to Target Potential Victims<a href="https://cyware.com/news/rurat-campaign-uses-innovative-lure-to-target-potential-victims-7448bee9"> Full Text</a>
@@ -273,7 +273,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 05, 2022
+March 05, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SharkBot malware hides as Android antivirus in Google Play<a href="https://www.bleepingcomputer.com/news/security/sharkbot-malware-hides-as-android-antivirus-in-google-play/"> Full Text</a>
@@ -289,7 +289,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2022
+March 5, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti's Source Code Now Publicly Available<a href="https://cyware.com/news/contis-source-code-now-publicly-available-8986c2b2"> Full Text</a>
@@ -306,7 +306,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 05, 2022
+March 05, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia shares list of 17,000 IPs allegedly DDoSing Russian orgs<a href="https://www.bleepingcomputer.com/news/security/russia-shares-list-of-17-000-ips-allegedly-ddosing-russian-orgs/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2022
+March 5, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lapsus$ gang leaks data allegedly stolen from Samsung Electronics<a href="https://securityaffairs.co/wordpress/128712/cyber-crime/samsung-electronics-lapsus-ransomware.html"> Full Text</a>
@@ -342,7 +342,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2022
+March 5, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous #OpRussia Thousands of sites hacked, data leaks and more<a href="https://securityaffairs.co/wordpress/128703/hacking/anonymous-a-week-of-battles.html"> Full Text</a>
@@ -362,7 +362,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2022
+March 5, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of satellite users offline in Europe following a cyberattack, is it a conflict spillover?<a href="https://securityaffairs.co/wordpress/128700/security/viasat-satellite-users-offline-cyberattack.html"> Full Text</a>

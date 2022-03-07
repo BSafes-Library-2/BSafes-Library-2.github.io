@@ -8,6 +8,38 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+March 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These are the sources of DDoS attacks against Russia, local NCCC warns<a href="https://securityaffairs.co/wordpress/128680/hacking/russia-shared-info-ddos-sources.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian government&nbsp;released&nbsp;a list containing IP addresses and domains behind DDoS attacks that hit Russian infrastructure after the invasion.
+
+
+
+While the conflict on the battlefield continues, hacktivists continue to target Russian infrastructure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Releases List of IPs, Domains Attacking Its Infrastructure with DDoS Attacks<a href="https://thehackernews.com/2022/03/russia-releases-list-of-ips-domains.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the ongoing Russia-Ukraine conflict continues to escalate, the Russian government on Thursday&nbsp; released &nbsp;a massive list containing 17,576 IP addresses and 166 domains that it said are behind a series of distributed denial-of-service (DDoS) attacks aimed at its domestic infrastructure.  Some of the noticeable domains in the listing released by Russia's National Coordination Center for Computer Incidents (NCCCI) included the U.S. Federal Bureau of Investigation (FBI), Central Intelligence Agency (CIA), and websites of several media publications such as the USA Today, 24News.ge, megatv.ge, and Ukraine's Korrespondent magazine.  As part of its recommendations to counter the DDoS attacks, the agency is urging organizations to ringfence network devices, enable logging, change passwords associated with key infrastructure elements, turn off automatic software updates, disable third-party plugins on websites, enforce data backups, and watch out for phishing attacks.   "Use Russ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

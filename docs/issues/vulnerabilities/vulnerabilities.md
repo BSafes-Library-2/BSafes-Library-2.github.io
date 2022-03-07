@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Firefox 97.0.2 fixes two actively exploited zero-day bugs<a href="https://www.bleepingcomputer.com/news/security/mozilla-firefox-9702-fixes-two-actively-exploited-zero-day-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Mozilla has released Firefox 97.0.2, Firefox ESR 91.6.1, Firefox for Android 97.3.0, and Focus 97.3.0 to fix two critical zero-day vulnerabilities actively exploited in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-0492 flaw in Linux Kernel cgroups feature allows container escape<a href="https://securityaffairs.co/wordpress/128742/security/cve-2022-0492-linux-kernel-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Linux kernel flaw, tracked as CVE-2022-0492, can allow an attacker to escape a container to execute arbitrary commands on the container host.
+
+
+
+A now-patched high-severity Linux kernel vulnerability, tracked as CVE-2022-0492&nbsp;(CVSS score: 7.0),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux Kernel cgroups Vulnerability Could Let Attackers Escape Container<a href="https://thehackernews.com/2022/03/new-linux-kernel-cgroups-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a now-patched high-severity vulnerability in the Linux kernel that could potentially be abused to escape a container in order to execute arbitrary commands on the container host.  The shortcoming resides in a Linux kernel feature called&nbsp; control groups , also referred to as cgroups version 1 (v1), which allows processes to be organized into hierarchical groups, thereby making it possible to limit and monitor the usage of resources such as CPU, memory, disk I/O, and network.  Tracked as&nbsp; CVE-2022-0492 &nbsp;(CVSS score: 7.0), the&nbsp; issue &nbsp; concerns &nbsp;a&nbsp; case &nbsp;of&nbsp; privilege escalation &nbsp;in the cgroups v1 release_agent functionality, a script that's executed following the termination of any process in the cgroup.  "The issue stands out as one of the simplest Linux privilege escalations discovered in recent times: The Linux kernel mistakenly exposed a privileged operation to unprivileged users," Unit 42 researcher Yuval Avrahami&nbsp; said &nbsp;in a report publishe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

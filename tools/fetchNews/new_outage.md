@@ -8,6 +8,24 @@ nav_order: 900140
 
 ## Outage
 ---
+March 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of satellite users offline in Europe following a cyberattack, is it a conflict spillover?<a href="https://securityaffairs.co/wordpress/128700/security/viasat-satellite-users-offline-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of satellite internet users across Europe were disconnected from the internet by a cyber-event, experts suspect a cyber attack.
+
+
+
+Orange confirmed that "nearly 9,000 subscribers" of a satellite internet service provided by its subsidiary Nordnet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+March 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Both Sides in Russia-Ukraine War Heavily Using Telegram for Disinformation and Hacktivism<a href="https://thehackernews.com/2022/03/both-sides-in-russia-ukraine-war.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber criminals and hacktivist groups are increasingly using the Telegram messaging app for their activities, as the Russia-Ukraine conflict enters its eighth day.  A new analysis by Israeli cybersecurity company Check Point Research has&nbsp; found &nbsp;that "user volume grew a hundred folds daily on Telegram related groups, peaking at 200,000 per group."  Prominent among the groups are anti-Russian cyber attack groups, including the Ukraine government-backed IT Army, which has urged its more 270,000 members to conduct distributed denial-of-service (DDoS) attacks against Russian entities.  Other hacktivist-oriented Telegram groups used to coordinate the attacks on Russian targets via DDoS, SMS or call-based attacks are Anna_ and Mark_, Check Point researchers noted.   That said, there may be more to these attacks than meets the eye. "It seems that many of the hacktivist groups are more focused on building self-reputation and receiving credit for supporting Ukraine or Russia, th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

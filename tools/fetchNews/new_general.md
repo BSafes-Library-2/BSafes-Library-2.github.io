@@ -8,6 +8,68 @@ nav_order: 900072
 
 ## General
 ---
+March 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous offers $52,000 worth of Bitcoin to Russian troops for surrendered tank. Is it fake news?<a href="https://securityaffairs.co/wordpress/128755/hacktivism/anonymous-bitcoin-for-surrendered-tank.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular hacker collective Anonymous is offering to Russian troops $52,000 in BTC for each surrendered tank.
+
+
+
+The popular hacker collective Anonymous will reportedly pay $52,000 in BTC for a tank surrendered by Russian troops.
+
+
+
+Ukrainian media...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 356<a href="https://securityaffairs.co/wordpress/128739/breaking-news/security-affairs-newsletter-round-356.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feb 27- Mar 05 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/128727/cyber-warfare-2/feb-27-mar-05-ukraine-russia-cyberwar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This post provides a timeline of the events related to the Russia invasion of Ukraine from the cyber security perspective.
+
+
+
+March 5 - Anonymous #OpRussia Thousands of sites hacked, data leaks and more
+
+
+
+Anonymous and its affiliates continue to target...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
