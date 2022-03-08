@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+March 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4Shell Exploit Channelized to Launch DDoS and Cryptomining Attacks<a href="https://cyware.com/news/log4shell-exploit-channelized-to-launch-ddos-and-cryptomining-attacks-3588a801"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Barracuda, the volume of attacks attempting to exploit the Log4Shell vulnerability remained relatively constant over the past two months.&nbsp;Mirai and its other versions appeared in most of the attacks that made use of the Log4Shell exploit.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900056
 
 ## Encryption
 ---
+March 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Side-Channel Attack on Homomorphic Encryption<a href="https://cyware.com/news/new-side-channel-attack-on-homomorphic-encryption-703f97cf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of researchers has demonstrated the first side-channel attack on homomorphic encryption that can let anyone read the data in encrypted mode.&nbsp; The attack exploiting the flaw is named RevEAL and exploits the Gaussian sampling that exists in  Microsoft  SEAL's encryption phase. This manif ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

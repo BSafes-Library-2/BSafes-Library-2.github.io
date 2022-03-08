@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2022 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RagnarLocker Ransomware Indicators of Compromise <a href="https://publications.bsafes.com/docs/fbi/flash-2022-0307-ragnarlocker-ransomware-indicators-of-compromise/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI first became aware of RagnarLocker in April 2020 and subsequently produced a FLASH to disseminate known indicators of compromise (IOCs) at that time. This FLASH provides updated and additional IOCs to supplement that report. As of January 2022, the FBI has identified at least 52 entities across 10 critical infrastructure sectors affected by RagnarLocker ransomware, including entities in the critical manufacturing, energy, financial services, government, and information technology sectors. RagnarLocker ransomware actors work as part of a ransomware family1, frequently changing obfuscation techniques to avoid detection and prevention.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2022 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of the Impersonation of Law Enforcement and Government Officials <a href="https://www.ic3.gov/Media/Y2022/PSA220307"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is warning the public of ongoing widespread fraud schemes in which scammers impersonate law enforcement or government officials in attempts to extort money or steal personally identifiable information.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 4, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

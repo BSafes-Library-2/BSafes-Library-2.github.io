@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+March 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, Spain join forces in cyberwarfare amid Russia-Ukraine war<a href="https://thehill.com//policy/cybersecurity/597178-us-spain-joins-forces-in-cyberwarfare-amid-russia-ukraine-war"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. is partnering up with fellow NATO member Spain to fight cyberattacks in the wake of Russia’s invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Govt officials impersonated in widespread extortion schemes<a href="https://www.bleepingcomputer.com/news/security/fbi-govt-officials-impersonated-in-widespread-extortion-schemes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are impersonating government officials and law enforcement in active and rampant extortion schemes targeting Americans' money or personally identifiable information (PII).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

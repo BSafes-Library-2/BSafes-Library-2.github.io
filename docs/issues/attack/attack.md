@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+March 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Attack Turns Amazon Devices Against Themselves<a href="https://threatpost.com/attack-amazon-devices-against-themselves/178797/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered how to remotely manipulate the Amazon Echo through its own speakers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked Russian streaming services to broadcast war footage<a href="https://securityaffairs.co/wordpress/128761/hacktivism/anonymous-hacked-russian-streaming-services.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous hacked into the most popular Russian streaming services to broadcast war footage from Ukraine.
+
+
+
+The popular hacker collective Anonymous continues to target Russian entities, a few hours ago the group hacked into the most popular Russian streaming...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rompetrol gas station network hit by Hive ransomware<a href="https://www.bleepingcomputer.com/news/security/rompetrol-gas-station-network-hit-by-hive-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Romania's Rompetrol gas station network&nbsp;has been hit by a ransomware attack. Rompetrol, owned by&nbsp;KMG International announced today that it was battling a "complex cyberattack." BleepingComputer has learned that the Hive ransomware gang is behind this attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

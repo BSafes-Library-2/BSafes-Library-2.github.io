@@ -8,6 +8,54 @@ nav_order: 900015
 
 ## Attack
 ---
+March 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charities and NGOs providing support in Ukraine hit by malware<a href="https://securityaffairs.co/wordpress/128721/cyber-warfare-2/malware-hit-charities-ngoin-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware based attacks are targeting charities and non-governmental organizations (NGOs) providing support in Ukraine
+
+
+
+Charities and non-governmental organizations (NGOs) that in these weeks are providing support in Ukraine are targeted by malware attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Officials Aiding the Ukrainian Refugee Movement are Under Attack<a href="https://cyware.com/news/european-officials-aiding-the-ukrainian-refugee-movement-are-under-attack-83d20cdc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers found a campaign, dubbed Asylum Ambuscade, targeting European government personnel helping Ukrainian refugees with attachments containing the SunSeed malware.  The attachment uses the Emergency Meeting of the NATO Security Council as a lure. To stay protected, v ictims are urge ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RuRAT Campaign Uses Innovative Lure to Target Potential Victims<a href="https://cyware.com/news/rurat-campaign-uses-innovative-lure-to-target-potential-victims-7448bee9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BleepingComputer spotted a spear-phishing campaign venture capital firm to infect victims with RuRAT malware and gain initial access to the targeted systems.&nbsp;The phishing email originates from an IP address belonging to a U.K virtual server company. Experts recommend always staying alert whene ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

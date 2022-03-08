@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+March 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Ransomware gang breached 52 US critical infrastructure orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-ransomware-gang-breached-52-us-critical-infrastructure-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Bureau of Investigation (FBI) says the Ragnar Locker&nbsp;ransomware group has breached the networks of at least 52 organizations from multiple&nbsp;US critical infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese beauty retailer Acro blames third-party hack for breach of 100k payment cards<a href="https://portswigger.net/daily-swig/japanese-beauty-retailer-acro-blames-third-party-hack-for-breach-of-100k-payment-cards?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a data breach notice, Acro revealed that customers of two of its beauty product websites were impacted as the result of the exploitation of a vulnerability in a third-party payment processing vendor.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung confirms hackers stole Galaxy devices source code<a href="https://www.bleepingcomputer.com/news/security/samsung-confirms-hackers-stole-galaxy-devices-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung Electronics confirmed on Monday that its network was breached and the hackers stole confidential information, including source code present in Galaxy smartphones.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

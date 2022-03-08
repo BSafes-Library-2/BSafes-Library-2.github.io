@@ -8,6 +8,56 @@ nav_order: 900029
 
 ## Breach
 ---
+March 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adafruit discloses data leak from ex-employee's GitHub repo<a href="https://www.bleepingcomputer.com/news/security/adafruit-discloses-data-leak-from-ex-employees-github-repo/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adafruit has disclosed a data leak that occurred due to a&nbsp;publicly-viewable GitHub repository. The company suspects this could have allowed "unauthorized access" to information about certain users&nbsp;on or before 2019.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ gang leaks data allegedly stolen from Samsung Electronics<a href="https://securityaffairs.co/wordpress/128712/cyber-crime/samsung-electronics-lapsus-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ ransomware group claimed to have hacked Samsung Electronics and leaked alleged stolen confidential data.
+
+
+
+The Lapsus$ ransomware gang claims to have stolen a huge trove of sensitive data from Samsung Electronics and leaked 190GB of alleged...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous #OpRussia Thousands of sites hacked, data leaks and more<a href="https://securityaffairs.co/wordpress/128703/hacking/anonymous-a-week-of-battles.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous and its affiliates continue to target Russia and Belarus, it is also targeting the Russian disinformation machine.
+
+
+
+Anonymous announced to have hacked more than 2,500 websites linked to the Russian and Belarusian governments, state-owned...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

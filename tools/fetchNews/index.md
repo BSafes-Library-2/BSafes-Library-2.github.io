@@ -34,6 +34,486 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux bug gives root on all major distros, exploit released<a href="https://www.bleepingcomputer.com/news/security/new-linux-bug-gives-root-on-all-major-distros-exploit-released/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Linux vulnerability known as 'Dirty Pipe' allows local users to gain root privileges through publicly available exploits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian WordPress Sites Witness Massive Attack Volumes<a href="https://cyware.com/news/ukrainian-wordpress-sites-witness-massive-attack-volumes-c4808453"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wordfence recorded a whopping 144,000 attacks on February 25, 2022, and a total of 209,624 attacks between February 25 and 27. Most of the attacks were focused on a subset of 376 academic websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Presented by Nokia — US partners with Spain in fighting cyberattacks<a href="https://thehill.com//policy/technology/overnights/597221-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Monday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bugs in TerraMaster TOS Could Open NAS Devices to Remote Hacking<a href="https://thehackernews.com/2022/03/critical-bugs-in-terramaster-tos-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed details of critical security vulnerabilities in TerraMaster network-attached storage (TNAS) devices that could be chained to attain unauthenticated remote code execution with the highest privileges.  The issues reside in TOS, an abbreviation for TerraMaster Operating System, and "can grant unauthenticated attackers access to the victim's box simply by knowing the IP address, Ethiopian cyber security research firm Octagon Networks ' Paulos Yibelo said in a statement shared with The Hacker News.  TOS is the  operating system  designed for TNAS appliances, enabling users to manage storage, install applications, and backup data. Following responsible disclosure, the flaws were patched in  TOS version 4.2.30  released last week on March 1, 2022.   One of the issues, tracked as CVE-2022-24990, concerns a case of information leak in a component called "webNasIPS," resulting in the exposure of TOS firmware version, the default gateway interfac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What to Make of Microsoft’s Year in Cybersecurity<a href="https://www.lawfareblog.com/what-make-microsofts-year-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft simultaneously combats, profits from and contributes to cybersecurity problems.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coinbase blocked 25,000 crypto addresses linked to Russian individuals and entities<a href="https://securityaffairs.co/wordpress/128775/digital-id/coinbase-blocked-25000-russian-addresses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coinbase announced that it's blocking access to more than 25,000 blockchain addresses linked to Russian individuals and entities.
+
+
+
+The popular cryptocurrency exchange Coinbase announced today that it's blocking access to more than 25,000 blockchain...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Attack Turns Amazon Devices Against Themselves<a href="https://threatpost.com/attack-amazon-devices-against-themselves/178797/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered how to remotely manipulate the Amazon Echo through its own speakers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Ransomware gang breached 52 US critical infrastructure orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-ransomware-gang-breached-52-us-critical-infrastructure-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Bureau of Investigation (FBI) says the Ragnar Locker ransomware group has breached the networks of at least 52 organizations from multiple US critical infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4Shell Exploit Channelized to Launch DDoS and Cryptomining Attacks<a href="https://cyware.com/news/log4shell-exploit-channelized-to-launch-ddos-and-cryptomining-attacks-3588a801"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Barracuda, the volume of attacks attempting to exploit the Log4Shell vulnerability remained relatively constant over the past two months.&nbsp;Mirai and its other versions appeared in most of the attacks that made use of the Log4Shell exploit.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, Spain join forces in cyberwarfare amid Russia-Ukraine war<a href="https://thehill.com//policy/cybersecurity/597178-us-spain-joins-forces-in-cyberwarfare-amid-russia-ukraine-war"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. is partnering up with fellow NATO member Spain to fight cyberattacks in the wake of Russia’s invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Understanding How Hackers Recon<a href="https://thehackernews.com/2022/03/understanding-how-hackers-recon.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-attacks keep increasing and evolving but, regardless of the degree of complexity used by hackers to gain access, get a foothold, cloak their malware, execute their payload or exfiltrate data, their attack will begin with reconnaissance. They will do their utmost to uncover exposed assets and probe their target's attack surface for gaps that can be used as entry points.  So, the first line of defense is to limit the potentially useful information available to a potential attacker as much as possible. As always, the tug of war between operational necessity and security concerns needs to be taken into account, which requires a better understanding of the type of information typically leveraged.  What information are hackers looking for during recon?  When running recon on an organization, hackers – whether white or black hats - are "casing a joint." To plan their attack, they will try and uncover as much information as possible about:  Your infrastructure   The types
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SharkBot, the new generation banking Trojan distributed via Play Store<a href="https://securityaffairs.co/wordpress/128765/malware/sharkbot-trojan-google-play.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SharkBot banking malware was able to evade Google Play Store security checks masqueraded as an antivirus app.
+
+
+
+SharkBot is a banking trojan that has been active since October 2021, it allows to steal banking account credentials and bypass multi-factor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coinbase blocks over 25,000 Russian-linked crypto addresses<a href="https://www.bleepingcomputer.com/news/security/coinbase-blocks-over-25-000-russian-linked-crypto-addresses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coinbase, one of the most popular cryptocurrency exchange platforms, announced today that it's blocking access to more than 25,000 blockchain addresses linked to Russian individuals and entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8X Increase in Russian-Based Phishing<a href="https://cyware.com/news/8x-increase-in-russian-based-phishing-fe0c4d70"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avanan analyzed more than two million customer email inboxes since February 16.&nbsp;On the 27th, the attacks increased by eight times as compared to the baseline volume.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian CERT Warns Citizens of Phishing Attacks Using Compromised Accounts<a href="https://thehackernews.com/2022/03/ukrainian-cert-warns-citizens-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's Computer Emergency Response Team (CERT-UA) warned of new phishing attacks aimed at its citizens by leveraging compromised email accounts belonging to three different Indian entities with the goal of compromising their inboxes and stealing sensitive information.  The agency  cautioned  that the emails arrive with the subject line "Увага" (meaning "Attention") and claim to be from a domestic email service called Ukr.net, when in actuality, the email address of the sender is "muthuprakash.b@tvsrubber[.]com."  The messages purportedly warn the recipients of an unauthorized attempt to log in to their accounts from an IP address based out of the eastern Ukrainian city of Donetsk, further prompting them to click on a link to change their passwords with immediate effect.  "After following the link and entering the password, it gets to the attackers," CERT-UA noted in a Facebook post over the weekend. "In this way, they gain access to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked Russian streaming services to broadcast war footage<a href="https://securityaffairs.co/wordpress/128761/hacktivism/anonymous-hacked-russian-streaming-services.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous hacked into the most popular Russian streaming services to broadcast war footage from Ukraine.
+
+
+
+The popular hacker collective Anonymous continues to target Russian entities, a few hours ago the group hacked into the most popular Russian streaming...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of COVID passport apps put user's privacy at risk<a href="https://www.bleepingcomputer.com/news/security/dozens-of-covid-passport-apps-put-users-privacy-at-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Roughly two-thirds of test digital vaccination applications commonly used today as safe passes and travel passports exhibit behavior that may put users' privacy at risk.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese beauty retailer Acro blames third-party hack for breach of 100k payment cards<a href="https://portswigger.net/daily-swig/japanese-beauty-retailer-acro-blames-third-party-hack-for-breach-of-100k-payment-cards?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a data breach notice, Acro revealed that customers of two of its beauty product websites were impacted as the result of the exploitation of a vulnerability in a third-party payment processing vendor.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla addresses two actively exploited zero-day flaws in Firefox<a href="https://securityaffairs.co/wordpress/128751/hacking/mozilla-firefox-zero-days.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla fixed two critical actively exploited zero-day bugs in Firefox with the release of 97.0.2, ESR 91.6.1, Firefox for Android 97.3.0, and Focus 97.3.0.
+
+
+
+Mozilla has released Firefox 97.0.2, Firefox ESR 91.6.1, Firefox for Android 97.3.0, and Focus...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Govt officials impersonated in widespread extortion schemes<a href="https://www.bleepingcomputer.com/news/security/fbi-govt-officials-impersonated-in-widespread-extortion-schemes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are impersonating government officials and law enforcement in active and rampant extortion schemes targeting Americans' money or personally identifiable information (PII).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charities and NGOs providing support in Ukraine hit by malware<a href="https://securityaffairs.co/wordpress/128721/cyber-warfare-2/malware-hit-charities-ngoin-ukraine.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The news was reported by Amazon that associates the attacks with state-sponsored hackers and confirmed that it is helping customers impacted by the attacks to adopt security best practices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung confirms hackers stole Galaxy devices source code<a href="https://www.bleepingcomputer.com/news/security/samsung-confirms-hackers-stole-galaxy-devices-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung Electronics confirmed on Monday that its network was breached and the hackers stole confidential information, including source code present in Galaxy smartphones.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AppSec Firm Cider Security Emerges From Stealth With $38 Million in Funding<a href="https://www.securityweek.com/appsec-firm-cider-security-emerges-stealth-38-million-funding?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cider Security plans to use the new funding to expand its research and development operations in Israel and to open new offices around the world, to support increasing demand.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes critical Azure bug that exposed customer data<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-critical-azure-bug-that-exposed-customer-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has addressed a critical vulnerability in the Azure Automation service that could have allowed attackers to take full control over other Azure customers' data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Fights Phishing With Updated Workspace Notifications<a href="https://www.securityweek.com/google-fights-phishing-updated-workspace-notifications?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead of just showing the name, now, Google is including the commenter's email address in Workspace comment notifications, so that users can better assess the legitimacy of the message.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rompetrol gas station network hit by Hive ransomware<a href="https://www.bleepingcomputer.com/news/security/rompetrol-gas-station-network-hit-by-hive-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Romania's Rompetrol gas station network has been hit by a ransomware attack. Rompetrol, owned by KMG International announced today that it was battling a "complex cyberattack." BleepingComputer has learned that the Hive ransomware gang is behind this attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of malware offering "Warm greetings from Saudi Aramco"<a href="https://blog.malwarebytes.com/threat-intelligence/2022/03/beware-of-malware-offering-warm-greetings-from-saudi-aramco/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malwarebytes found a Formbook campaign targeting oil and gas companies. The campaign was delivered through targeted emails containing two attachments, a PDF file and an Excel document.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 06, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SharkBot Banking Malware Spreading via Fake Android Antivirus App on Google Play Store<a href="https://thehackernews.com/2022/03/sharkbot-banking-malware-spreading-via.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind a nascent Android banking trojan named  SharkBot  has managed to evade Google Play Store security barriers by masquerading as an antivirus app.  SharkBot, like its malware counterparts  TeaBot ,  FluBot , and  Oscorp  (UBEL), belongs to a category of financial trojans capable of siphoning credentials to initiate money transfers from compromised devices by circumventing multi-factor authentication mechanisms. It first emerged on the scene in November 2021.  Where SharkBot stands apart is in its ability to carry out the unauthorized transactions via Automatic Transfer Systems (ATS), which stands in contrast to TeaBot, which requires a live operator to interact with the infected devices to conduct the malicious activities.   "The ATS features allow the malware to receive a list of events to be simulated, and they will be simulated in order to do the money transfers," Alberto Segura and Rolf Govers, malware analysts at cybersecurity firm NCC Group,  said
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 06, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2 New Mozilla Firefox 0-Day Bugs Under Active Attack — Patch Your Browser ASAP!<a href="https://thehackernews.com/2022/03/2-new-mozilla-firefox-0-day-bugs-under.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has pushed out-of-band  software updates  to its Firefox web browser to contain two high-impact security vulnerabilities, both of which it says are being actively exploited in the wild.  Tracked as CVE-2022-26485 and CVE-2022-26486, the zero-day flaws have been described as  use-after-free issues  impacting the Extensible Stylesheet Language Transformations ( XSLT ) parameter processing and the  WebGPU  inter-process communication ( IPC ) Framework.   XSLT is an XML-based language used for the conversion of XML documents into web pages or PDF documents, whereas WebGPU is an emerging web standard that's been billed as a successor to the current WebGL JavaScript graphics library.  The description of the two flaws is below –   CVE-2022-26485  – Removing an XSLT parameter during processing could lead to an exploitable use-after-free  CVE-2022-26486  – An unexpected message in the WebGPU IPC framework could lead to a use-after-free and exploitable sandbox escape   Use-after-fre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 06, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

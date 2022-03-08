@@ -8,6 +8,38 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+March 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coinbase blocked 25,000 crypto addresses linked to Russian individuals and entities<a href="https://securityaffairs.co/wordpress/128775/digital-id/coinbase-blocked-25000-russian-addresses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coinbase announced that it's blocking access to more than 25,000 blockchain addresses linked to Russian individuals and entities.
+
+
+
+The popular cryptocurrency exchange Coinbase announced today that it's blocking access to more than 25,000 blockchain...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coinbase blocks over 25,000 Russian-linked crypto addresses<a href="https://www.bleepingcomputer.com/news/security/coinbase-blocks-over-25-000-russian-linked-crypto-addresses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coinbase, one of the most popular cryptocurrency exchange platforms, announced today that it's blocking access to more than 25,000 blockchain addresses linked to Russian individuals and entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8X Increase in Russian-Based Phishing<a href="https://cyware.com/news/8x-increase-in-russian-based-phishing-fe0c4d70"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avanan analyzed more than two million customer email inboxes since February 16.&nbsp;On the 27th, the attacks increased by eight times as compared to the baseline volume.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian CERT Warns Citizens of Phishing Attacks Using Compromised Accounts<a href="https://thehackernews.com/2022/03/ukrainian-cert-warns-citizens-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's Computer Emergency Response Team (CERT-UA) warned of new phishing attacks aimed at its citizens by leveraging compromised email accounts belonging to three different Indian entities with the goal of compromising their inboxes and stealing sensitive information.  The agency&nbsp; cautioned &nbsp;that the emails arrive with the subject line "Увага" (meaning "Attention") and claim to be from a domestic email service called Ukr.net, when in actuality, the email address of the sender is "muthuprakash.b@tvsrubber[.]com."  The messages purportedly warn the recipients of an unauthorized attempt to log in to their accounts from an IP address based out of the eastern Ukrainian city of Donetsk, further prompting them to click on a link to change their passwords with immediate effect.  "After following the link and entering the password, it gets to the attackers," CERT-UA noted in a Facebook post over the weekend. "In this way, they gain access to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Fights Phishing With Updated Workspace Notifications<a href="https://www.securityweek.com/google-fights-phishing-updated-workspace-notifications?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead of just showing the name, now, Google is including the commenter's email address in Workspace comment notifications, so that users can better assess the legitimacy of the message.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
