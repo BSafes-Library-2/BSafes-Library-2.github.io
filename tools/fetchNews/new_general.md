@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+70% of breached passwords are still in use<a href="https://www.helpnetsecurity.com/2022/03/08/exposed-data-trends/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new SpyCloud report examined trends related to exposed data. Researchers identified 1.7 billion exposed credentials, a 15% increase from 2020, and 13.8 billion recaptured PII records obtained from breaches in 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

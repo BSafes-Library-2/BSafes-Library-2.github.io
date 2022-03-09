@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux bug gives root on all major distros, exploit released<a href="https://www.bleepingcomputer.com/news/security/new-linux-bug-gives-root-on-all-major-distros-exploit-released/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Linux vulnerability known as 'Dirty Pipe' allows local users to gain root privileges through publicly available exploits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bugs in TerraMaster TOS Could Open NAS Devices to Remote Hacking<a href="https://thehackernews.com/2022/03/critical-bugs-in-terramaster-tos-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed details of critical security vulnerabilities in TerraMaster network-attached storage (TNAS) devices that could be chained to attain unauthenticated remote code execution with the highest privileges.  The issues reside in TOS, an abbreviation for TerraMaster Operating System, and "can grant unauthenticated attackers access to the victim's box simply by knowing the IP address, Ethiopian cyber security research firm Octagon Networks ' Paulos Yibelo said in a statement shared with The Hacker News.  TOS is the&nbsp; operating system &nbsp;designed for TNAS appliances, enabling users to manage storage, install applications, and backup data. Following responsible disclosure, the flaws were patched in&nbsp; TOS version 4.2.30 &nbsp;released last week on March 1, 2022.   One of the issues, tracked as CVE-2022-24990, concerns a case of information leak in a component called "webNasIPS," resulting in the exposure of TOS firmware version, the default gateway interfac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla addresses two actively exploited zero-day flaws in Firefox<a href="https://securityaffairs.co/wordpress/128751/hacking/mozilla-firefox-zero-days.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla fixed two critical actively exploited zero-day bugs in Firefox with the release of 97.0.2, ESR 91.6.1, Firefox for Android 97.3.0, and Focus 97.3.0.
+
+
+
+Mozilla has released Firefox 97.0.2, Firefox ESR 91.6.1, Firefox for Android 97.3.0, and Focus...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes critical Azure bug that exposed customer data<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-critical-azure-bug-that-exposed-customer-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft&nbsp;has addressed a critical vulnerability in the Azure Automation service that could have allowed attackers to take full control over other Azure customers' data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2 New Mozilla Firefox 0-Day Bugs Under Active Attack — Patch Your Browser ASAP!<a href="https://thehackernews.com/2022/03/2-new-mozilla-firefox-0-day-bugs-under.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has pushed out-of-band&nbsp; software updates &nbsp;to its Firefox web browser to contain two high-impact security vulnerabilities, both of which it says are being actively exploited in the wild.  Tracked as CVE-2022-26485 and CVE-2022-26486, the zero-day flaws have been described as&nbsp; use-after-free issues &nbsp;impacting the Extensible Stylesheet Language Transformations ( XSLT ) parameter processing and the&nbsp; WebGPU &nbsp;inter-process communication ( IPC ) Framework.   XSLT is an XML-based language used for the conversion of XML documents into web pages or PDF documents, whereas WebGPU is an emerging web standard that's been billed as a successor to the current WebGL JavaScript graphics library.  The description of the two flaws is below –   CVE-2022-26485 &nbsp;– Removing an XSLT parameter during processing could lead to an exploitable use-after-free  CVE-2022-26486 &nbsp;– An unexpected message in the WebGPU IPC framework could lead to a use-after-free and exploitable sandbox escape   Use-after-fre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare to auto-brick servers that go offline in Ukraine, Russia<a href="https://www.bleepingcomputer.com/news/security/cloudflare-to-auto-brick-servers-that-go-offline-in-ukraine-russia/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare announced that it is taking drastic measures to protect data of customers in Eastern Europe under current conditions of the Russian invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

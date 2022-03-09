@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google TAG: Russia, Belarus-linked APTs targeted Ukraine<a href="https://securityaffairs.co/wordpress/128821/apt/russia-belarus-apts-targeted-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google TAG observed Russian, Belarusian, and Chinese threat actors targeting Ukraine and European government and military orgs.
+
+
+
+Google Threat Analysis Group (TAG), which focuses on the analysis of nation-state threat actors, revealed to have blocked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked TA416 Increases Attack Activity Against European Governments as Conflict in Ukraine Escalates<a href="https://www.proofpoint.com/us/blog/threat-insight/good-bad-and-web-bug-ta416-increases-operational-tempo-against-european?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaigns utilize web bugs to profile the victims before sending a variety of PlugX malware payloads via malicious URLs. TA416 has recently updated its PlugX malware variant.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,228 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft March 2022 Patch Tuesday updates fix 89 vulnerabilities<a href="https://securityaffairs.co/wordpress/128834/security/microsoft-march-2022-patch-tuesday.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft March 2022 Patch Tuesday security updates address 89 vulnerabilities in multiple products, including 3 zero-days.
+
+
+
+Microsoft March 2022 Patch Tuesday security updates address 89 vulnerabilities in multiple products, including Microsoft Windows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APC UPS zero-day bugs can remotely burn out devices, disable power<a href="https://www.bleepingcomputer.com/news/security/apc-ups-zero-day-bugs-can-remotely-burn-out-devices-disable-power/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of three critical zero-day vulnerabilities now tracked as TLStorm could let hackers take control of uninterruptible power supply (UPS) devices from APC, a subsidiary of Schneider Electric.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 16 High-Severity UEFI Firmware Flaws Discovered in Millions of HP Devices<a href="https://thehackernews.com/2022/03/new-16-high-severity-uefi-firmware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday disclosed  16 new high-severity vulnerabilities in various implementations of Unified Extensible Firmware Interface (UEFI) firmware impacting multiple HP enterprise devices.  The&nbsp; shortcomings , which have CVSS scores ranging from 7.5 to 8.8, have been uncovered in HP's UEFI firmware. The variety of devices affected includes HP's laptops, desktops, point-of-sale (PoS) systems, and edge computing nodes.  "By exploiting the vulnerabilities disclosed, attackers can leverage them to perform privileged code execution in firmware, below the operating system, and potentially deliver persistent malicious code that survives operating system re-installations and allows the bypass of endpoint security solutions (EDR/AV), Secure Boot and Virtualization-Based Security isolation," firmware security firm Binarly said in a report shared with The Hacker News.   The most severe of the flaws concern a number of memory corruption vulnerabilities in t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android's March 2022 security updates fix three critical bugs<a href="https://www.bleepingcomputer.com/news/security/androids-march-2022-security-updates-fix-three-critical-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released the March 2022 security updates for Android 10, 11, and 12, addressing three critical severity flaws, one of which affects all devices running the latest version of the mobile OS.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft March 2022 Patch Tuesday fixes 71 flaws, 3 zero-days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2022-patch-tuesday-fixes-71-flaws-3-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's March 2022 Patch Tuesday, and with it comes fixes for three zero-day vulnerabilities and a total of 71&nbsp;flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PROPHET SPIDER Exploits Citrix ShareFile Vulnerability to Deliver Webshell<a href="https://www.crowdstrike.com/blog/prophet-spider-exploits-citrix-sharefile/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the start of 2022, CrowdStrike found PROPHET SPIDER exploiting CVE-2021-22941 vulnerability impacting Citrix ShareFile Storage Zones Controller to compromise a Microsoft IIS web server.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Access:7 flaws impact +150 device models from over 100 manufacturers<a href="https://securityaffairs.co/wordpress/128810/hacking/access7-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many IoT and medical devices are affected by seven serious flaws, collectively tracked as Access:7, in widely used Axeda platform.
+
+
+
+Researchers from medical device cybersecurity company CyberMDX have discovered seven serious flaws, collectively tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HP patches 16 UEFI firmware bugs allowing stealthy malware infections<a href="https://www.bleepingcomputer.com/news/security/hp-patches-16-uefi-firmware-bugs-allowing-stealthy-malware-infections/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP has disclosed 16 high-impact UEFI firmware vulnerabilities that could allow threat actors to infect devices with malware that gain high privileges and remain undetectable by installed security software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical "Access:7" Supply Chain Vulnerabilities Impact ATMs, Medical and IoT Devices<a href="https://thehackernews.com/2022/03/critical-access7-supply-chain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as seven security vulnerabilities have been disclosed in PTC's Axeda software that could be weaponized to gain unauthorized access to medical and IoT devices.  Collectively called " Access:7 ," the weaknesses – three of which are rated Critical in severity – potentially affect more than&nbsp; 150 device models &nbsp;spanning over 100 different manufacturers, posing a significant supply chain risk.  PTC's Axeda solution includes a cloud platform that allows device manufacturers to establish connectivity to remotely monitor, manage and service a wide range of connected machines, sensors, and devices via what's called the agent, which is installed by the OEMs before the devices are sold to customers.  "Access:7 could enable hackers to remotely execute malicious code, access sensitive data, or alter configuration on medical and IoT devices running PTC's Axeda remote code and management agent," researchers from Forescout and CyberMDX said in a joint report
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fresh flaws in Facebook Canvas earn bug bounty hunter a second payday<a href="https://portswigger.net/daily-swig/fresh-flaws-in-facebook-canvas-earn-bug-bounty-hunter-a-second-payday?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook’s attempt at addressing the bug last year was found to be deficient. Researchers found three new flaws: a race conditions issue, a security bypass, and an issue involving encrypted parameters.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dirty Pipe Linux flaw allows gaining root privileges on major distros<a href="https://securityaffairs.co/wordpress/128780/hacking/dirty-pipi-linux-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dirty Pipe is a Linux vulnerability, tracked as CVE-2022-0847, that can allow local users to gain root privileges on all major distros.
+
+
+
+Security expert Max Kellermann discovered a Linux flaw, dubbed Dirty Pipe and tracked as CVE-2022-0847, that can allow...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Access:7 vulnerabilities impact medical and IoT devices<a href="https://www.bleepingcomputer.com/news/security/access-7-vulnerabilities-impact-medical-and-iot-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of seven vulnerabilities collectively tracked as Access:7 have been found in PTC's Axeda agent, a solution used for remote access and management of over 150 connected devices from more than 100 vendors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Firefox Zero-Day Bugs Allow RCE, Sandbox Escape<a href="https://threatpost.com/firefox-zero-day-bugs-rce-sandbox-escape/178779/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Both vulnerabilities are use-after-free issues in Mozilla’s popular web browser.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Continuing Threat of Unpatched Security Vulnerabilities<a href="https://thehackernews.com/2022/03/the-continuing-threat-of-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unpatched software is a computer code containing known security weaknesses. Unpatched vulnerabilities refer to weaknesses that allow attackers to leverage a known security bug that has not been patched by running malicious code. Software vendors write additions to the codes, known as "patches," when they come to know about these application vulnerabilities to secure these weaknesses.  Adversaries often probe into your software, looking for unpatched systems and attacking them directly or indirectly. It is risky to run unpatched software. This is because attackers get the time to become aware of the&nbsp; software's unpatched vulnerabilities &nbsp;before a patch emerges.  A&nbsp; report &nbsp;found that unpatched vulnerabilities are the most consistent and primary ransomware attack vectors. It was recorded that in 2021,&nbsp; 65 &nbsp;new vulnerabilities arose that were connected to ransomware. This was observed to be a twenty-nine percent growth compared to the number of vulnerabilities in 2020.&nbsp;  Gr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Linux Kernel 'Dirty Pipe' Arbitrary File Overwrite Vulnerability<a href="https://thehackernews.com/2022/03/researchers-warn-of-linux-kernel-dirty.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Linux distributions are in the process of issuing patches to address a newly disclosed security vulnerability in the kernel that could allow an attacker to overwrite arbitrary data into any read-only files and allow for a complete takeover of affected systems.  Dubbed " Dirty Pipe " (CVE-2022-0847, CVSS score: 7.8) by IONOS software developer Max Kellermann, the flaw "leads to privilege escalation because unprivileged processes can inject code into root processes."  Kellerman said the bug was discovered after digging into a support issue raised by one of the customers of the cloud and hosting provider that concerned a case of a "surprising kind of corruption" affecting web server access logs.  The Linux kernel flaw is said to have existed since&nbsp; version 5.8 , with the vulnerability sharing similarities to that of&nbsp; Dirty Cow &nbsp;(CVE-2016-5195), which came to light in October 2016.   "A flaw was found in the way the 'flags' member of the new pipe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belarus targeted Ukraine, Poland in phishing campaigns: Google<a href="https://thehill.com//policy/cybersecurity/597353-belarus-targeted-ukraine-poland-in-phishing-campaigns-google"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s threat analysis team&nbsp;said that Belarus has targeted Ukrainian and Polish officials with phishing attacks amid Russia’s invasion of Ukraine.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: Russian Hackers Target Ukrainians, European Allies via Phishing Attacks<a href="https://thehackernews.com/2022/03/google-russian-hackers-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A broad range of threat actors, including Fancy Bear, Ghostwriter, and Mustang Panda, have launched phishing campaigns against Ukraine, Poland, and other European entities amid Russia's invasion of Ukraine.  Google's Threat Analysis Group (TAG) said it took down two Blogspot domains that were used by the nation-state group FancyBear (aka APT28) – which is attributed to Russia's GRU military intelligence – as a landing page for its social engineering attacks.  The disclosure comes close on the heels of an advisory from the Computer Emergency Response Team of Ukraine (CERT-UA)&nbsp; warning &nbsp;of phishing campaigns targeting Ukr.net users that involve sending messages from compromised accounts containing links to attacker-controlled credential harvesting pages.  Another cluster of threat activity concerns webmail users of Ukr.net, Yandex.ru, wp.pl, rambler.ru, meta.ua, and i.ua, who have been at the receiving end of phishing attacks by a Belarusian threat actor tracked as Ghostwrit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine’s CERT-UA warns of phishing attacks against Ukrainian citizens<a href="https://securityaffairs.co/wordpress/128789/cyber-warfare-2/cert-ua-warns-phishing-ukrainian-citizens.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's CERT-UA warned citizens of new phishing attacks launched through compromised email accounts belonging to Indian entities.
+
+
+
+Ukraine's Computer Emergency Response Team (CERT-UA) is warning of new phishing attacks targeting Ukrainian citizens...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

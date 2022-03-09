@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+March 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian WordPress Sites Witness Massive Attack Volumes<a href="https://cyware.com/news/ukrainian-wordpress-sites-witness-massive-attack-volumes-c4808453"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wordfence recorded a whopping 144,000 attacks on February 25, 2022, and a total of 209,624 attacks between February 25 and 27. Most of the attacks were focused on a subset of 376 academic websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Presented by Nokia —&nbsp;US partners with Spain in fighting cyberattacks<a href="https://thehill.com//policy/technology/overnights/597221-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Monday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here: thehill.com/newsletter-signup.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

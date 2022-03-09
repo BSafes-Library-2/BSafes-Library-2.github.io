@@ -8,6 +8,95 @@ nav_order: 900075
 
 ## Government
 ---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Angry Putin set to 'double down' in Ukraine, intel chiefs warn lawmakers<a href="https://thehill.com//policy/international/597406-angry-putin-set-to-double-down-in-ukraine-intel-chiefs-tell-lawmakers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intelligence experts Tuesday painted a picture of an increasingly determined Vladimir Putin set to “double down” on his invasion of Ukraine despite being ill-prepared for the consequences to Russia’s economy and with little prospect for long-term success.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Cyber Command’s Annual Legal Conference<a href="https://www.lawfareblog.com/us-cyber-commands-annual-legal-conference"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A very timely opportunity: Cyber Command’s annual legal conference is online for all to see this Thursday, March 10, 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of the Impersonation of Law Enforcement and Government Officials<a href="https://www.ic3.gov/Media/Y2022/PSA220307?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is warning of ongoing widespread fraud schemes in which scammers impersonate law enforcement or government officials in attempts to extort money or steal personally identifiable information.
+</details>
+<div style="text-align: right" markdown="1">
+IC3
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds 95 Flaws to Its Catalog, Urges For Quick Action<a href="https://cyware.com/news/cisa-adds-95-flaws-to-its-catalog-urges-for-quick-action-993bac2f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA added more than 60 flaws affecting Cisco and Microsoft products. All the Cisco vulnerabilities are rated critical as they can be abused by cybercriminals to run arbitrary code and for privilege escalation. Most vulnerabilities have a due date of March 24. The cybersecurity agency recommend ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA urges to fix actively exploited Firefox zero-days by March 21<a href="https://securityaffairs.co/wordpress/128803/security/cisa-firefox-zerodays-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added recently disclosed Firefox zero-days to its&nbsp;Known Exploited Vulnerabilities Catalog.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) added two critical security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: Patch actively exploited Firefox zero-days until March 21st<a href="https://www.bleepingcomputer.com/news/security/cisa-patch-actively-exploited-firefox-zero-days-until-march-21st/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal civilian agencies to patch two&nbsp;critical Firefox security vulnerabilities exploited in attacks within the next two weeks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

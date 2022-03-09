@@ -8,6 +8,94 @@ nav_order: 900029
 
 ## Breach
 ---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Confirms Data Breach After Hackers Leak Galaxy Source Code<a href="https://thehackernews.com/2022/03/samsung-confirms-data-breach-after.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung on Monday confirmed a security breach that resulted in the exposure of internal company data, including the source code related to its Galaxy smartphones.  "According to our initial analysis, the breach involves some source code relating to the operation of Galaxy devices, but does not include the personal information of our consumers or employees," the electronics giant&nbsp; told &nbsp;Bloomberg.  The South Korean chaebol also confirmed that it doesn't anticipate any impact to its business or its customers as a result of the incident and that it has implemented new security measures to prevent such breaches in the future.   The confirmation comes after the LAPSUS$ hacking group dumped 190GB of Samsung data on its Telegram channel towards the end of last week, allegedly exposing the source code for trusted applets installed within&nbsp; TrustZone , algorithms for biometric authentication, bootloaders for recent devices, and even confidential data from its chip supplier Qualcom
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Samsung confirms Galaxy source code breach but says no customer information was stolen<a href="https://www.zdnet.com/article/samsung-confirms-galaxy-source-code-breach-but-says-no-customer-information-was-stolen/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung has now confirmed in a statement, without naming the hacking group, that there was a security breach, but it asserted that no personal information of customers was compromised.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ragnar Locker ransomware group breached at least 52 organizations across 10 critical infrastructure sectors<a href="https://securityaffairs.co/wordpress/128796/cyber-crime/fbi-ragnar-locker-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US FBI warns that the Ragnar Locker ransomware gang has breached the networks of at least 52 organizations from multiple&nbsp;US critical infrastructure sectors.
+
+
+
+The US Federal Bureau of Investigation (FBI) and CISA published a flash alert to warn...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+E-commerce giant Mercado Libre confirms source code data breach<a href="https://www.bleepingcomputer.com/news/security/e-commerce-giant-mercado-libre-confirms-source-code-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+E-commerce giant Mercado Libre has confirmed "unauthorized access" to a part of its source code this week. Mercado additionally says&nbsp;data of around&nbsp;300,000 of its users was accessed by threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Confirms Lapsus$ Ransomware Hit, Source Code Leak<a href="https://threatpost.com/samsung-lapsus-ransomware-source-code/178791/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move comes just a week after GPU-maker NVIDIA was hit by Lapsus$ and every employee credential was leaked.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA’s Stolen Code-Signing Certs Used to Sign Malware<a href="https://threatpost.com/nvidias-stolen-code-signing-certs-sign-malware/178784/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NVIDIA certificates are being used to sign malware, enabling malicious programs to pose as legitimate and slide past security safeguards on Windows machines.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of COVID passport apps put user's privacy at risk<a href="https://www.bleepingcomputer.com/news/security/dozens-of-covid-passport-apps-put-users-privacy-at-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Roughly two-thirds of test digital vaccination applications commonly used today as safe passes and travel passports exhibit behavior that may put users' privacy at risk.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

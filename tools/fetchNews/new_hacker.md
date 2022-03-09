@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: Russia, China, Belarus state hackers target Ukraine, Europe<a href="https://www.bleepingcomputer.com/news/security/google-russia-china-belarus-state-hackers-target-ukraine-europe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google says Russian, Belarusian, and Chinese threat actors targeted Ukrainian and European government and military organizations, as well as individuals, in sweeping phishing campaigns and DDoS attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

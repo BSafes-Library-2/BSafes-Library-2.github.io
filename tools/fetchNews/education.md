@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Understanding How Hackers Recon<a href="https://thehackernews.com/2022/03/understanding-how-hackers-recon.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-attacks keep increasing and evolving but, regardless of the degree of complexity used by hackers to gain access, get a foothold, cloak their malware, execute their payload or exfiltrate data, their attack will begin with reconnaissance. They will do their utmost to uncover exposed assets and probe their target's attack surface for gaps that can be used as entry points.  So, the first line of defense is to limit the potentially useful information available to a potential attacker as much as possible. As always, the tug of war between operational necessity and security concerns needs to be taken into account, which requires a better understanding of the type of information typically leveraged.  What information are hackers looking for during recon?  When running recon on an organization, hackers – whether white or black hats - are "casing a joint." To plan their attack, they will try and uncover as much information as possible about:  Your infrastructure   The types
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
