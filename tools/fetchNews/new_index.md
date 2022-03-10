@@ -34,6 +34,461 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA updates Conti ransomware alert with nearly 100 domain names<a href="https://www.bleepingcomputer.com/news/security/cisa-updates-conti-ransomware-alert-with-nearly-100-domain-names/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated the alert on Conti ransomware with indicators of compromise (IoCs) consisting of close to 100 domain names used in malicious operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Access:7 - Supply Chain Flaws Impacting IoT and Medical Devices<a href="https://cyware.com/news/access7-supply-chain-flaws-impacting-iot-and-medical-devices-774fb401"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The seven flaws have been dubbed Access:7 and are present in PTC’s Axeda agent, which is used for remote access and management of more than 150 connected devices across over 100 vendors.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Abuse Mitel Devices to Amplify DDoS Attacks by 4 Billion Times<a href="https://thehackernews.com/2022/03/hackers-abuse-mitel-devices-to-amplify.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have been observed abusing a high-impact reflection/amplification method to stage sustained distributed denial-of-service (DDoS) attacks for up to 14 hours with a record-breaking amplification ratio of 4,294,967,296 to 1.  The attack vector – dubbed TP240PhoneHome  ( CVE-2022-26143 ) – has been weaponized to launch significant DDoS attacks targeting broadband access ISPs, financial institutions, logistics companies, gaming firms, and other organizations.  "Approximately 2,600 Mitel MiCollab and MiVoice Business Express collaboration systems acting as PBX-to-Internet gateways were incorrectly deployed with an abusable system test facility exposed to the public Internet," Akamai researcher Chad Seaman said  in a joint  advisory .   "Attackers were actively leveraging these systems to launch reflection/amplification DDoS attacks of more than 53 million packets per second (PPS)."  DDoS reflection attacks typically involve  spoofing the IP address of a vic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Come Compete in the White Hat Cyber Forecasting Challenge<a href="https://www.lawfareblog.com/come-compete-white-hat-cyber-forecasting-challenge"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This challenge will be a tournament and it will ask participants to issue predictions on a range of cybersecurity topics.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google blocked China-linked APT31’s attacks targeting U.S. Government<a href="https://securityaffairs.co/wordpress/128861/apt/google-blocked-apt31-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has blocked a phishing campaign conducted by China-linked group APT31 aimed at Gmail users associated with the U.S. government.
+
+
+
+Google announced to have blocked a phishing campaign originating conducted by China-linked cybereaspionage group...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 30% of critical WordPress plugin bugs don't get a patch<a href="https://www.bleepingcomputer.com/news/security/nearly-30-percent-of-critical-wordpress-plugin-bugs-dont-get-a-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patchstack, a leader in WordPress security and threat intelligence, has released a whitepaper to present the state of WordPress security in 2021, and the report paints a dire picture.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA's Code Signing Certificates Stolen and Abused in Attacks<a href="https://cyware.com/news/nvidias-code-signing-certificates-stolen-and-abused-in-attacks-3cc710e1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lapsus$, responsible for the recent attack on Nvidia, reportedly released two of the company's old code-signing certificates, and threat actors have started abusing it. In some cases, the stolen certificates were used to sign Cobalt Strike beacons, Mimikatz, backdoors, and remote access trojans. Ad ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bugs Could Let Attackers Remotely Hack, Damage APC Smart UPS Devices<a href="https://thehackernews.com/2022/03/critical-bugs-could-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three high-impact security vulnerabilities have been disclosed in  APC Smart-UPS devices  that could be abused by remote adversaries as a physical weapon to access and control them in an unauthorized manner.  Collectively dubbed  TLStorm , the flaws "allow for complete remote takeover of Smart-UPS devices and the ability to carry out extreme cyber-physical attacks," Ben Seri and Barak Hadad, researchers from IoT security company Armis, said in a report published Tuesday.   Uninterruptible power supply ( UPS ) devices function as emergency backup power providers in mission-critical environments such as medical facilities, server rooms, and industrial systems. Most of the afflicted devices, totaling over 20 million, have been identified so far in healthcare, retail, industrial, and government sectors.   TLStorm consists of a trio of critical flaws that can be triggered via unauthenticated network packets without requiring any user interaction, meaning it's a zero-click att
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Russian government websites hacked in a supply chain attack<a href="https://securityaffairs.co/wordpress/128853/breaking-news/russian-government-sites-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors hacked Russian federal agencies' websites in a supply chain attack involving the compromise of a stats widget.
+
+
+
+Some Russian federal agencies' websites were compromised in a supply chain attack, threat actors compromised the stats widget...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers fork open-source reverse tunneling tool for persistence<a href="https://www.bleepingcomputer.com/news/security/hackers-fork-open-source-reverse-tunneling-tool-for-persistence/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts have spotted an interesting case of a suspected ransomware attack that employed custom-made tools typically used by APT (advanced persistent threat) groups.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ragnar Locker Breached 52 Organizations and Counting, FBI Warns<a href="https://cyware.com/news/ragnar-locker-breached-52-organizations-and-counting-fbi-warns-0588d220"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI issued an alert about the Ragnar Locker ransomware group that has claimed 52 entities as its victims across 10 critical infrastructure sectors in the U.S, so far. The IOCs in the alert has information from Bitcoin addresses where hackers collect the ransom to the email addresses of operator ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Incident Response Plan - Preparing for a Rainy Day<a href="https://thehackernews.com/2021/06/the-incident-response-plan-preparing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unfortunate truth is that while companies are investing more in cyber defenses and taking cybersecurity more seriously than ever, successful breaches and ransomware attacks are on the rise. While a successful breach is not inevitable, it is becoming more likely despite best efforts to prevent it from happening.   Just as it wasn't raining when Noah built the ark, companies must face the fact that they need to prepare - and educate the organization on - a well-thought-out response plan if a successful cyberattack does occur. Obviously, the worst time to plan your response to a cyberattack is when it happens.  With so many companies falling victim to cyberattacks, an entire cottage industry of Incident Response (IR) services has arisen. Thousands of IR engagements have helped surface best practices and preparedness guides to help those that have yet to fall victim to a cyberattack.   Recently, cybersecurity company Cynet provided an  Incident Response plan Word template  to help com
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked Russian cams, websites, announced a clamorous leak<a href="https://securityaffairs.co/wordpress/128847/hacktivism/anonymous-vs-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The collective Anonymous has hacked public cameras in Russia and transmitted their live feed on a website, it also announced a clamorous leak.
+
+
+
+Anonymous and other hacker groups continue to target Russia, in a recent attack the collective has taken...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel, AMD, Arm warn of new speculative execution CPU bugs<a href="https://www.bleepingcomputer.com/news/security/intel-amd-arm-warn-of-new-speculative-execution-cpu-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have found new a new way to bypass existing hardware-based defenses for speculative execution in modern computer processors from Intel, AMD, and ARM.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updated SharkBot Variant Makes its Way into Google Play Store<a href="https://cyware.com/news/updated-sharkbot-variant-makes-its-way-into-google-play-store-a72796a6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers exposed cybercriminals distributing the SharkBot banking trojan via Google Play Store. The malware is using Automatic Transfer Systems (ATS) to transfer money by abusing the Accessibility permission on devices and grants itself additional required permissions. Smartphone users are reque ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT41 Hackers Broke into at Least 6 U.S. State Governments: Mandiant<a href="https://thehackernews.com/2022/03/chinese-apt41-hackers-broke-into-at.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT41, the state-sponsored threat actor affiliated with China, breached at least six U.S. state government networks between May 2021 and February 2022 by retooling its attack vectors to take advantage of vulnerable internet-facing web applications.  The exploited vulnerabilities included "a zero-day vulnerability in the USAHERDS application ( CVE-2021-44207 ) as well as the now infamous zero-day in Log4j ( CVE-2021-44228 )," researchers from Mandiant  said  in a report published Tuesday, calling it a "deliberate campaign."  Besides web compromises, the persistent attacks also involved the weaponization of exploiting deserialization, SQL injection, and directory traversal vulnerabilities, the cybersecurity and incident response firm noted.  The  prolific  advanced persistent threat, also known by the monikers Barium and Winnti, has a  track record  of targeting organizations in both the public and private sectors to orchestrate espionage activity in parallel with fi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HP addressed 16 UEFI firmware flaws impacting laptops, desktops, PoS systems<a href="https://securityaffairs.co/wordpress/128838/hacking/hp-uefi-firmware-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed 16 high-severity flaws in different implementations of Unified Extensible Firmware Interface (UEFI) firmware impacting multiple HP enterprise devices.
+
+
+
+Researchers from cybersecurity firm Binarly discovered 16 high-severity vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Treasury: Russia may bypass sanctions using ransomware payments<a href="https://www.bleepingcomputer.com/news/security/us-treasury-russia-may-bypass-sanctions-using-ransomware-payments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Treasury Department's Financial Crimes Enforcement Network (FinCEN) warned U.S. financial institutions this week to keep an eye out for attempts to evade sanctions and US-imposed restrictions following Russia's invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Addresses Over 90 Vulnerabilities Affecting Third-Party Components<a href="https://www.securityweek.com/siemens-addresses-over-90-vulnerabilities-affecting-third-party-components?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens has released 15 new advisories to inform customers about more than 100 vulnerabilities affecting its products, including over 90 security flaws introduced by the use of third-party components.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Bugs Found in Pascom Cloud Phone System Used by Businesses<a href="https://thehackernews.com/2022/03/critical-rce-bugs-found-in-pascom-cloud.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed three security vulnerabilities affecting Pascom Cloud Phone System ( CPS ) that could be combined to achieve a full pre-authenticated remote code execution of affected systems.  Kerbit security researcher Daniel Eshetu  said  the shortcomings, when chained together, can lead to "an unauthenticated attacker gaining root on these devices."  Pascom Cloud Phone System is an integrated collaboration and communication solution that allows businesses to host and set up private telephone networks across different platforms as well as facilitate the monitoring, maintenance, and updates associated with the virtual phone systems.   The set of three flaws includes those stemming from an arbitrary path traversal in the web interface, a server-side request forgery ( SSRF ) due to an outdated third-party dependency ( CVE-2019-18394 ), and a post-authentication command injection using a daemon service ("exd.pl").   In other words, the vulnerabilities can
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung data breach: Lapsus$ gang stole Galaxy devices’ source code<a href="https://securityaffairs.co/wordpress/128828/data-breach/samsung-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung confirmed that threat actors had access to the source code of its Galaxy smartphones in recent security breach.
+
+
+
+Samsung this week disclosed a data breach, threat actors had access to internal company data, including the source code of Galaxy...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian government sites hacked in supply chain attack<a href="https://www.bleepingcomputer.com/news/security/russian-government-sites-hacked-in-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia says some of its federal agencies' websites were compromised on Tuesday after unknown attackers hacked the stats widget used to track the number of visitors by multiple government agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New attack bypasses hardware defenses for Spectre flaw in Intel and ARM CPUs<a href="https://www.csoonline.com/article/3652525/new-attack-bypasses-hardware-defenses-for-spectre-flaw-in-intel-and-arm-cpus.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is an extension of the 2017 Spectre version 2 attack, also known as Spectre-BTI (Branch Target Injection) and, just like Spectre v2, can result in the leak of sensitive information from the privileged kernel memory space.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese phishing actors consistently targeting EU diplomats<a href="https://www.bleepingcomputer.com/news/security/chinese-phishing-actors-consistently-targeting-eu-diplomats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-aligned group tracked as TA416 (aka Mustang Panda) has been consistently targeting European diplomats since August 2020, with the most recent activity involving refreshed lures to coincide with the Russian invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Patches 'Critical' Security Flaws in Illustrator, After Effects<a href="https://www.securityweek.com/adobe-patches-critical-security-flaws-illustrator-after-effects?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The patches, scheduled as part of Adobe’s Patch Tuesday release cycle, address a range of arbitrary code execution and memory leak vulnerabilities that could expose data to malicious hacker attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Exploit Flaw in Mitel Systems to Launch Terabyte Scale DDoS Attack in the Wild<a href="https://www.zdnet.com/article/in-the-wild-ddos-attack-can-be-launched-from-a-single-packet-to-create-terabytes-of-traffic/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw resides in around 2,600 incorrectly provisioned Mitel MiCollab and MiVoice Business Express systems that act as PBX-to-internet gateways and have a test mode that should not be exposed to the internet.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Critical Security Flaws in Monitoring Solutions<a href="https://www.securityweek.com/sap-patches-critical-security-flaws-monitoring-solutions?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most serious of the documented flaws is rated critical and described as a missing authorization check vulnerability in SAP Focused Run that could lead to complete system compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 9, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
