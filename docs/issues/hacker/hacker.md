@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers fork open-source reverse tunneling tool for persistence<a href="https://www.bleepingcomputer.com/news/security/hackers-fork-open-source-reverse-tunneling-tool-for-persistence/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts have spotted an interesting case of a suspected ransomware attack that employed custom-made tools typically used by APT (advanced persistent threat) groups.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

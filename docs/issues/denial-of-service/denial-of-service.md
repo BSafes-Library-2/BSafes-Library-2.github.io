@@ -8,6 +8,34 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+March 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Abuse Mitel Devices to Amplify DDoS Attacks by 4 Billion Times<a href="https://thehackernews.com/2022/03/hackers-abuse-mitel-devices-to-amplify.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have been observed abusing a high-impact reflection/amplification method to stage sustained distributed denial-of-service (DDoS) attacks for up to 14 hours with a record-breaking amplification ratio of 4,294,967,296 to 1.  The attack vector – dubbed TP240PhoneHome  ( CVE-2022-26143 ) – has been weaponized to launch significant DDoS attacks targeting broadband access ISPs, financial institutions, logistics companies, gaming firms, and other organizations.  "Approximately 2,600 Mitel MiCollab and MiVoice Business Express collaboration systems acting as PBX-to-Internet gateways were incorrectly deployed with an abusable system test facility exposed to the public Internet," Akamai researcher Chad Seaman said  in a joint  advisory .   "Attackers were actively leveraging these systems to launch reflection/amplification DDoS attacks of more than 53 million packets per second (PPS)."  DDoS reflection attacks typically involve  spoofing the IP address of a vic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Exploit Flaw in Mitel Systems to Launch Terabyte Scale DDoS Attack in the Wild<a href="https://www.zdnet.com/article/in-the-wild-ddos-attack-can-be-launched-from-a-single-packet-to-create-terabytes-of-traffic/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw resides in around 2,600 incorrectly provisioned Mitel MiCollab and MiVoice Business Express systems that act as PBX-to-internet gateways and have a test mode that should not be exposed to the internet.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

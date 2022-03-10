@@ -8,6 +8,62 @@ nav_order: 900027
 
 ## Business
 ---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to acquire Mandiant for $5.4 billion<a href="https://thehill.com//policy/technology/597292-alphabet-to-acquire-mandiant-for-54-billion"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google plans to acquire Mandiant, the cybersecurity firm that uncovered the SolarWinds hack, for $5.4 billion, the tech giant announced Tuesday.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Buys Cybersecurity Firm Mandiant for $5.4 Billion<a href="https://thehackernews.com/2022/03/google-buys-cybersecurity-firm-mandiant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is officially buying threat intelligence and incident response company Mandiant in an all-cash deal approximately valued at $5.4 billion, the two technology firms announced Tuesday.  Mandiant is expected to be folded into Google Cloud upon the closure of the acquisition, which is slated to happen later this year, adding to the latter's growing portfolio of security offerings such as BeyondCorp Enterprise , VirusTotal , Chronicle , and the Cybersecurity Action Team .   "Today, organizations are facing cybersecurity challenges that have accelerated in frequency, severity and diversity, creating a global security imperative," Google&nbsp; said &nbsp;in a statement.  "To address these risks, enterprises need to be able to detect and respond to adversaries quickly; analyze and automate threat intelligence to scale threat detection across organizations; orchestrate and automate remediation; validate their protection against known threats; and visualize their IT environment i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProtonMail urges Russian users to renew as payment options dry up<a href="https://www.bleepingcomputer.com/news/security/protonmail-urges-russian-users-to-renew-as-payment-options-dry-up/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ProtonMail is urging its Russian user base to hurry up and renew their subscriptions before it is too late, as multiple payment processing services like Mastercard, Visa, and PayPal are exiting the Russian market. ProtonMail is a provider of privacy-centric&nbsp;and end-to-end encrypted email services&nbsp;to millions around the world.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity startup Axonius valued at $2.6 bln after latest funding<a href="https://www.reuters.com/technology/cybersecurity-startup-axonius-valued-26-bln-after-latest-funding-2022-03-08/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest financing led by Accel comes a year after Axonius raised $100 million at a valuation of $1.2 billion. Silver Lake Partners and existing investors Bessemer Venture Partners also participated.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

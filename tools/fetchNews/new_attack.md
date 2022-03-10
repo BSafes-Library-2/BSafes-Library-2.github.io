@@ -8,6 +8,85 @@ nav_order: 900015
 
 ## Attack
 ---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA's Code Signing Certificates Stolen and Abused in Attacks<a href="https://cyware.com/news/nvidias-code-signing-certificates-stolen-and-abused-in-attacks-3cc710e1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lapsus$, responsible for the recent attack on Nvidia, reportedly released two of the company's old code-signing certificates, and threat actors have started abusing it. In some cases, the stolen certificates were used to sign Cobalt Strike beacons, Mimikatz, backdoors, and remote access trojans. Ad ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Russian government websites hacked in a supply chain attack<a href="https://securityaffairs.co/wordpress/128853/breaking-news/russian-government-sites-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors hacked Russian federal agencies' websites in a supply chain attack involving the compromise of a stats widget.
+
+
+
+Some Russian federal agencies' websites were compromised in a supply chain attack, threat actors compromised the stats widget...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked Russian cams, websites, announced a clamorous leak<a href="https://securityaffairs.co/wordpress/128847/hacktivism/anonymous-vs-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The collective Anonymous has hacked public cameras&nbsp;in Russia and transmitted their live feed on a website, it also announced a clamorous leak.
+
+
+
+Anonymous and other hacker groups continue to target Russia, in a recent attack the collective has taken...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian government sites hacked in supply chain attack<a href="https://www.bleepingcomputer.com/news/security/russian-government-sites-hacked-in-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia says some of its federal agencies'&nbsp;websites were compromised&nbsp;on Tuesday after unknown attackers hacked the stats widget used to track the number of visitors by multiple&nbsp;government agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New attack bypasses hardware defenses for Spectre flaw in Intel and ARM CPUs<a href="https://www.csoonline.com/article/3652525/new-attack-bypasses-hardware-defenses-for-spectre-flaw-in-intel-and-arm-cpus.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is an extension of the 2017 Spectre version 2 attack, also known as Spectre-BTI (Branch Target Injection) and, just like Spectre v2, can result in the leak of sensitive information from the privileged kernel memory space.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

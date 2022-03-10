@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung data breach: Lapsus$ gang stole Galaxy devices’ source code<a href="https://securityaffairs.co/wordpress/128828/data-breach/samsung-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung confirmed that threat actors had access to the source code of its Galaxy smartphones in recent security breach.
+
+
+
+Samsung this week disclosed a data breach, threat actors had access to internal company data, including the source code of Galaxy...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

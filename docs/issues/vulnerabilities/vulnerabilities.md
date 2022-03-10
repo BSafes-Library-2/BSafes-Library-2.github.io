@@ -11,6 +11,136 @@ nav_order: 900220
 March 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Access:7 - Supply Chain Flaws Impacting IoT and Medical Devices<a href="https://cyware.com/news/access7-supply-chain-flaws-impacting-iot-and-medical-devices-774fb401"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The seven flaws have been dubbed Access:7 and are present in PTC’s Axeda agent, which is used for remote access and management of more than 150 connected devices across over 100 vendors.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 30% of critical WordPress plugin bugs don't get a patch<a href="https://www.bleepingcomputer.com/news/security/nearly-30-percent-of-critical-wordpress-plugin-bugs-dont-get-a-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patchstack, a leader in WordPress security and threat intelligence, has released a whitepaper to present the state of WordPress security in 2021, and the report&nbsp;paints a dire picture.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bugs Could Let Attackers Remotely Hack, Damage APC Smart UPS Devices<a href="https://thehackernews.com/2022/03/critical-bugs-could-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three high-impact security vulnerabilities have been disclosed in&nbsp; APC Smart-UPS devices &nbsp;that could be abused by remote adversaries as a physical weapon to access and control them in an unauthorized manner.  Collectively dubbed&nbsp; TLStorm , the flaws "allow for complete remote takeover of Smart-UPS devices and the ability to carry out extreme cyber-physical attacks," Ben Seri and Barak Hadad, researchers from IoT security company Armis, said in a report published Tuesday.   Uninterruptible power supply ( UPS ) devices function as emergency backup power providers in mission-critical environments such as medical facilities, server rooms, and industrial systems. Most of the afflicted devices, totaling over 20 million, have been identified so far in healthcare, retail, industrial, and government sectors.   TLStorm consists of a trio of critical flaws that can be triggered via unauthenticated network packets without requiring any user interaction, meaning it's a zero-click att
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2022 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel, AMD, Arm warn of new speculative execution CPU bugs<a href="https://www.bleepingcomputer.com/news/security/intel-amd-arm-warn-of-new-speculative-execution-cpu-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have found new a new way to bypass existing hardware-based defenses for speculative execution in modern computer processors from Intel, AMD, and ARM.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HP addressed 16 UEFI firmware flaws impacting laptops, desktops, PoS systems<a href="https://securityaffairs.co/wordpress/128838/hacking/hp-uefi-firmware-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed&nbsp;16 high-severity flaws in different implementations of Unified Extensible Firmware Interface (UEFI) firmware impacting multiple HP enterprise devices.
+
+
+
+Researchers from cybersecurity firm Binarly discovered 16 high-severity vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Addresses Over 90 Vulnerabilities Affecting Third-Party Components<a href="https://www.securityweek.com/siemens-addresses-over-90-vulnerabilities-affecting-third-party-components?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens has released 15 new advisories to inform customers about more than 100 vulnerabilities affecting its products, including over 90 security flaws introduced by the use of third-party components.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Bugs Found in Pascom Cloud Phone System Used by Businesses<a href="https://thehackernews.com/2022/03/critical-rce-bugs-found-in-pascom-cloud.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed three security vulnerabilities affecting Pascom Cloud Phone System ( CPS ) that could be combined to achieve a full pre-authenticated remote code execution of affected systems.  Kerbit security researcher Daniel Eshetu&nbsp; said &nbsp;the shortcomings, when chained together, can lead to "an unauthenticated attacker gaining root on these devices."  Pascom Cloud Phone System is an integrated collaboration and communication solution that allows businesses to host and set up private telephone networks across different platforms as well as facilitate the monitoring, maintenance, and updates associated with the virtual phone systems.   The set of three flaws includes those stemming from an arbitrary path traversal in the web interface, a server-side request forgery ( SSRF ) due to an outdated third-party dependency ( CVE-2019-18394 ), and a post-authentication command injection using a daemon service ("exd.pl").   In other words, the vulnerabilities can
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Patches 'Critical' Security Flaws in Illustrator, After Effects<a href="https://www.securityweek.com/adobe-patches-critical-security-flaws-illustrator-after-effects?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The patches, scheduled as part of Adobe’s Patch Tuesday release cycle, address a range of arbitrary code execution and memory leak vulnerabilities that could expose data to malicious hacker attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Critical Security Flaws in Monitoring Solutions<a href="https://www.securityweek.com/sap-patches-critical-security-flaws-monitoring-solutions?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most serious of the documented flaws is rated critical and described as a missing authorization check vulnerability in SAP Focused Run that could lead to complete system compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft March 2022 Patch Tuesday updates fix 89 vulnerabilities<a href="https://securityaffairs.co/wordpress/128834/security/microsoft-march-2022-patch-tuesday.html"> Full Text</a>
 </p>
 <details>

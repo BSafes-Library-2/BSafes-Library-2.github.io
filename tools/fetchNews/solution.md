@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIDO authentication standard could signal the passing of passwords<a href="https://www.techtarget.com/searchsecurity/tip/FIDO-authentication-standard-could-signal-the-passing-of-passwords?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FIDO authentication standard could eventually bypass passwords, or at least augment them, as government and industry turns to more effective authentication technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

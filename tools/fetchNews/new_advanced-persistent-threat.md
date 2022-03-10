@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google blocked China-linked APT31’s attacks targeting U.S. Government<a href="https://securityaffairs.co/wordpress/128861/apt/google-blocked-apt31-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has blocked a phishing campaign conducted by China-linked group APT31 aimed at Gmail users associated with the U.S. government.
+
+
+
+Google announced to have blocked a phishing campaign originating conducted by China-linked cybereaspionage group...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT41 Hackers Broke into at Least 6 U.S. State Governments: Mandiant<a href="https://thehackernews.com/2022/03/chinese-apt41-hackers-broke-into-at.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT41, the state-sponsored threat actor affiliated with China, breached at least six U.S. state government networks between May 2021 and February 2022 by retooling its attack vectors to take advantage of vulnerable internet-facing web applications.  The exploited vulnerabilities included "a zero-day vulnerability in the USAHERDS application ( CVE-2021-44207 ) as well as the now infamous zero-day in Log4j ( CVE-2021-44228 )," researchers from Mandiant&nbsp; said &nbsp;in a report published Tuesday, calling it a "deliberate campaign."  Besides web compromises, the persistent attacks also involved the weaponization of exploiting deserialization, SQL injection, and directory traversal vulnerabilities, the cybersecurity and incident response firm noted.  The&nbsp; prolific &nbsp;advanced persistent threat, also known by the monikers Barium and Winnti, has a&nbsp; track record &nbsp;of targeting organizations in both the public and private sectors to orchestrate espionage activity in parallel with fi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

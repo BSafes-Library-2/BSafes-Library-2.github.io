@@ -8,6 +8,34 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+March 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attacks Fuel Pandemonium<a href="https://cyware.com/news/ddos-attacks-fuel-pandemonium-7bd4551e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor launched an attack using DanaBot against the webmail server belonging to the Ukrainian Ministry of Defense. The malware was utilized to deploy another second-stage malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS attacks now use new record-breaking amplification vector<a href="https://www.bleepingcomputer.com/news/security/ddos-attacks-now-use-new-record-breaking-amplification-vector/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new reflection/amplification DDoS vector has been spotted in the wild, offering threat actors a record-breaking amplification ratio of almost 4.3 billion to 1.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
