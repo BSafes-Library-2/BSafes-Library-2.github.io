@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware member extradited to U.S. to stand trial for Kaseya attack<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-member-extradited-to-us-to-stand-trial-for-kaseya-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice announced that alleged REvil ransomware affiliate, Yaroslav Vasinskyi, was extradited to the United States last week to stand trial for the Kaseya cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

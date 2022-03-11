@@ -8,6 +8,49 @@ nav_order: 900075
 
 ## Government
 ---
+March 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA updates Conti ransomware alert with nearly 100 domain names<a href="https://www.bleepingcomputer.com/news/security/cisa-updates-conti-ransomware-alert-with-nearly-100-domain-names/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated the alert on Conti ransomware with indicators of compromise (IoCs) consisting of close to 100 domain names used in malicious operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ragnar Locker Breached 52 Organizations and Counting, FBI Warns<a href="https://cyware.com/news/ragnar-locker-breached-52-organizations-and-counting-fbi-warns-0588d220"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI issued an alert about the Ragnar Locker ransomware group that has claimed 52 entities as its victims across 10 critical infrastructure sectors in the U.S, so far. The IOCs in the alert has information from Bitcoin addresses where hackers collect the ransom to the email addresses of operator ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Treasury: Russia may bypass sanctions using ransomware payments<a href="https://www.bleepingcomputer.com/news/security/us-treasury-russia-may-bypass-sanctions-using-ransomware-payments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Treasury Department's Financial Crimes Enforcement Network (FinCEN) warned U.S. financial institutions this week to keep an eye out for attempts to evade sanctions and US-imposed restrictions following Russia's invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

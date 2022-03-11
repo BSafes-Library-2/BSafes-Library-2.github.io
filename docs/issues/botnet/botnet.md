@@ -8,6 +8,42 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Emotet botnet is rapidly growing, with +130K unique bots spread across 179 countries<a href="https://securityaffairs.co/wordpress/128879/breaking-news/emotet-botnet-rapidly-growing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A few months after its return the Emotet botnet has already infected over 130,000 unique bots spread across 179 countries. 
+
+
+
+The Emotet botnet continues to grow and has infected approximately 130,000 hosts since its resurrection in November 2021.
+
+
+
+Early...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Botnet's Latest Resurgence Spreads to Over 100,000 Computers<a href="https://thehackernews.com/2022/03/emotet-botnets-latest-resurgence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The insidious Emotet botnet, which staged a return in November 2021 after a 10-month-long hiatus, is once again exhibiting signs of steady growth, amassing a swarm of over 100,000 infected hosts for perpetrating its malicious activities.  "While Emotet has not yet attained the same scale it once had, the botnet is showing a strong resurgence with a total of approximately 130,000 unique bots spread across 179 countries since November 2021," researchers from Lumen's Black Lotus Labs&nbsp; said &nbsp;in a report.  Emotet, prior to its&nbsp; takedown &nbsp;in late January 2021 as part of a coordinated law enforcement operation dubbed "Ladybird," had infected no fewer than 1.6 million devices globally, acting as a conduit for cybercriminals to install other types of malware, such as banking trojans or ransomware, onto compromised systems.   The malware&nbsp; officially resurfaced &nbsp;in November 2021&nbsp; using TrickBot &nbsp;as a delivery vehicle, with the latter&nbsp; shuttering its attack infrastructure
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelpSystems to Acquire MDR Services Firm Alert Logic<a href="https://www.securityweek.com/helpsystems-acquire-mdr-services-firm-alert-logic?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software firm HelpSystems continues on its cybersecurity buying spree, announcing on Wednesday that it has agreed to acquire Alert Logic, a provider of managed detection and response (MDR) services.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

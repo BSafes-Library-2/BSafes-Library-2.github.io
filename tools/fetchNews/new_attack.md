@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Targeting Turkey and Arabian Peninsula in New Malware Campaign<a href="https://thehackernews.com/2022/03/iranian-hackers-targeting-turkey-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian state-sponsored threat actor known as MuddyWater has been attributed to a new swarm of attacks targeting Turkey and the Arabian Peninsula with the goal of deploying remote access trojans (RATs) on compromised systems.  "The MuddyWater supergroup is highly motivated and can use unauthorized access to conduct espionage, intellectual property theft, and deploy ransomware and destructive malware in an enterprise," Cisco Talos researchers Asheer Malhotra, Vitor Ventura, and Arnaud Zobec&nbsp; said &nbsp;in a report published today.  The group, which has been active since at least 2017, is known for its attacks on various sectors that help further advance Iran's geopolitical and national security objectives. In January 2022, the U.S. Cyber Command attributed the actor to the country's Ministry of Intelligence and Security (MOIS).   MuddyWater is also believed to be a "conglomerate of&nbsp; multiple teams &nbsp;operating independently rather than a single threat actor group,&amp;q
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

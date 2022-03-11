@@ -8,6 +8,24 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+March 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks target Ukraine’s IT Army with a tainted DDoS tool<a href="https://securityaffairs.co/wordpress/128894/cyber-crime/fake-ddos-tool-ukraines-it-army.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are spreading password-stealing malware disguised as a security tool to target Ukraine's IT Army. 
+
+
+
+Cisco Talos researchers have uncovered a malware campaign targeting Ukraine's IT Army, threat actors are using infostealer malware mimicking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

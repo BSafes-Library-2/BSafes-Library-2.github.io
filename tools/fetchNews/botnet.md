@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updated SharkBot Variant Makes its Way into Google Play Store<a href="https://cyware.com/news/updated-sharkbot-variant-makes-its-way-into-google-play-store-a72796a6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers exposed cybercriminals distributing the SharkBot banking trojan via Google Play Store. The malware is using Automatic Transfer Systems (ATS) to transfer money by abusing the Accessibility permission on devices and grants itself additional required permissions. Smartphone users are reque ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

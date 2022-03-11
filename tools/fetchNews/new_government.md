@@ -8,6 +8,53 @@ nav_order: 900075
 
 ## Government
 ---
+March 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA added 98 domains to the joint alert related to Conti ransomware gang<a href="https://securityaffairs.co/wordpress/128885/malware/cisa-alert-conti-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA has updated the alert on Conti ransomware and added 98 domain names used by the criminal gang.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated the alert on Conti ransomware operations, the agency added 100 domain...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Uses New Domains After Recent Code Leaks - Warns CISA<a href="https://cyware.com/news/conti-uses-new-domains-after-recent-code-leaks-warns-cisa-f6fa4b6d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notoriety of the Conti ransomware group has come under the spotlight as the CISA shared an alert with IoCs consisting of close to 100 domain names. Organizations should follow mitigation strategies and recommendations provided in the alert. Besides, security admins can use provided IOCs for bet ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia creates its own TLS certificate authority to bypass sanctions<a href="https://www.bleepingcomputer.com/news/security/russia-creates-its-own-tls-certificate-authority-to-bypass-sanctions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia has created its own trusted TLS certificate authority (CA) to solve website access problems that have been piling up after sanctions prevent certificate renewals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

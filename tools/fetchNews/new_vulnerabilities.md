@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Exploit Bypasses Existing Spectre-v2 Mitigations in Intel, AMD, Arm CPUs<a href="https://thehackernews.com/2022/03/new-exploit-bypasses-existing-spectre.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed a new technique that could be used to circumvent existing hardware mitigations in modern processors from Intel, AMD, and Arm and stage&nbsp; speculative execution &nbsp;attacks such as Spectre to leak sensitive information from host memory.  Attacks like&nbsp; Spectre &nbsp;are designed to break the isolation between different applications by taking advantage of an&nbsp; optimization technique &nbsp;called speculative execution in CPU hardware implementations to trick programs into accessing arbitrary locations in memory and thus leak their secrets.   While chipmakers have incorporated both software and hardware&nbsp; defenses , including&nbsp; Retpoline &nbsp;as well as safeguards like Enhanced Indirect Branch Restricted Speculation ( eIBRS ) and&nbsp; Arm &nbsp; CSV2 , the latest method demonstrated by VUSec researchers aim to get around all these protections.   Called&nbsp; Branch History Injection &nbsp;(BHI or Spectre-BHB), it's a new variant of Spectre-V2 attacks (tracked as CVE-2017-5715) that bypasses both eIB
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TLStorm flaws allow to remotely manipulate the power of millions of enterprise UPS devices<a href="https://securityaffairs.co/wordpress/128867/hacking/tlstorm-flaws-ups-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three flaws in&nbsp;APC Smart-UPS devices, tracked as TLStorm,&nbsp;could be exploited by remote attackers to hack and destroy them.
+
+
+
+Researchers from IoT security company Armis have discovered three high-impact security flaws, collectively tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most ServiceNow Instances Misconfigured, Exposed<a href="https://threatpost.com/most-servicenow-instances-misconfigured-exposed/178827/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Customers aren’t locking down access correctly, leading to ~70 percent of ServiceNow implementations tested by AppOmni being vulnerable to malicious data extraction.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

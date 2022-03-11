@@ -11,6 +11,34 @@ nav_order: 900010
 March 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+APT41 Spies Broke Into 6 US State Networks via a Livestock App<a href="https://threatpost.com/apt41-spies-broke-into-6-us-state-networks-via-livestock-app/178838/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-affiliated state-sponsored threat actor used Log4j and zero-day bugs in the USAHerds animal-tracking software to hack into multiple government networks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APTs Furiously Phish Ukraine – Google<a href="https://threatpost.com/russian-apts-phishing-ukraine-google/178819/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Also on the rise: DDoS attacks against Ukrainian sites and phishing activity capitalizing on the conflict, with China’s Mustang Panda targeting Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google blocked China-linked APT31’s attacks targeting U.S. Government<a href="https://securityaffairs.co/wordpress/128861/apt/google-blocked-apt31-attacks.html"> Full Text</a>
 </p>
 <details>

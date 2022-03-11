@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Hacker Linked to REvil Ransomware Attacks Extradited to United States<a href="https://thehackernews.com/2022/03/ukrainian-hacker-linked-to-revil.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yaroslav Vasinskyi , a Ukrainian national, linked to the Russia-based&nbsp; REvil ransomware group &nbsp;has been extradited to the U.S. to face charges for his role in carrying out the file-encrypting malware attacks against several companies, including Kaseya last July.  The 22-year-old had been previously arrested in Poland in October 2021, prompting the U.S. Justice Department (DoJ) to&nbsp; file charges &nbsp;of conspiracy to commit fraud and related activity in connection with computers, damage to protected computers, and conspiracy to commit money laundering.   Ransomware is the digital equivalent of extortion wherein cybercrime actors encrypt victims' data and take it hostage in return for a monetary payment to recover the data, failing which the stolen information is published online or sold to other third-parties.  According to the DoJ, in addition to the headline-grabbing attacks on JBS and Kaseya, REvil is said to have propagated  its infection to more than 175,000 computers, netting the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
