@@ -34,7 +34,396 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Corporate website contact forms used to spread BazarBackdoor malware<a href="https://www.bleepingcomputer.com/news/security/corporate-website-contact-forms-used-to-spread-bazarbackdoor-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stealthy BazarBackdoor malware is now being spread via website contact forms rather than typical phishing emails to evade detection by security software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qakbot injects itself into the middle of your conversations<a href="https://news.sophos.com/en-us/2022/03/10/qakbot-injects-itself-into-the-middle-of-your-conversations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The messages generally contain brief text content, followed by a link to download a zip archive. These links may be “bare URLs” like above, or hot-linked text in the message body.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Targeting Turkey and Arabian Peninsula in New Malware Campaign<a href="https://thehackernews.com/2022/03/iranian-hackers-targeting-turkey-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian state-sponsored threat actor known as MuddyWater has been attributed to a new swarm of attacks targeting Turkey and the Arabian Peninsula with the goal of deploying remote access trojans (RATs) on compromised systems.  "The MuddyWater supergroup is highly motivated and can use unauthorized access to conduct espionage, intellectual property theft, and deploy ransomware and destructive malware in an enterprise," Cisco Talos researchers Asheer Malhotra, Vitor Ventura, and Arnaud Zobec  said  in a report published today.  The group, which has been active since at least 2017, is known for its attacks on various sectors that help further advance Iran's geopolitical and national security objectives. In January 2022, the U.S. Cyber Command attributed the actor to the country's Ministry of Intelligence and Security (MOIS).   MuddyWater is also believed to be a "conglomerate of  multiple teams  operating independently rather than a single threat actor group,&q
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks target Ukraine’s IT Army with a tainted DDoS tool<a href="https://securityaffairs.co/wordpress/128894/cyber-crime/fake-ddos-tool-ukraines-it-army.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are spreading password-stealing malware disguised as a security tool to target Ukraine's IT Army. 
+
+
+
+Cisco Talos researchers have uncovered a malware campaign targeting Ukraine's IT Army, threat actors are using infostealer malware mimicking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Ransomwared Victims Have It Coming–Podcast<a href="https://threatpost.com/blaming-ransomware-victims-podcast/178799/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Let’s blame the victim. IT decision makers’ confidence about security doesn’t jibe with their concession that repeated incidents are their own fault, says ExtraHop’s Jamie Moles.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware disguised as security tool targets Ukraine's IT Army<a href="https://www.bleepingcomputer.com/news/security/malware-disguised-as-security-tool-targets-ukraines-it-army/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware distribution campaign has surfaced, taking advantage of the willingness of a large number of people to support Ukraine in the ongoing cyber warfare to infect them with info-stealers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelpSystems to Acquire MDR Services Firm Alert Logic<a href="https://www.securityweek.com/helpsystems-acquire-mdr-services-firm-alert-logic?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software firm HelpSystems continues on its cybersecurity buying spree, announcing on Wednesday that it has agreed to acquire Alert Logic, a provider of managed detection and response (MDR) services.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Exploit Bypasses Existing Spectre-v2 Mitigations in Intel, AMD, Arm CPUs<a href="https://thehackernews.com/2022/03/new-exploit-bypasses-existing-spectre.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed a new technique that could be used to circumvent existing hardware mitigations in modern processors from Intel, AMD, and Arm and stage  speculative execution  attacks such as Spectre to leak sensitive information from host memory.  Attacks like  Spectre  are designed to break the isolation between different applications by taking advantage of an  optimization technique  called speculative execution in CPU hardware implementations to trick programs into accessing arbitrary locations in memory and thus leak their secrets.   While chipmakers have incorporated both software and hardware  defenses , including  Retpoline  as well as safeguards like Enhanced Indirect Branch Restricted Speculation ( eIBRS ) and  Arm   CSV2 , the latest method demonstrated by VUSec researchers aim to get around all these protections.   Called  Branch History Injection  (BHI or Spectre-BHB), it's a new variant of Spectre-V2 attacks (tracked as CVE-2017-5715) that bypasses both eIB
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA added 98 domains to the joint alert related to Conti ransomware gang<a href="https://securityaffairs.co/wordpress/128885/malware/cisa-alert-conti-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA has updated the alert on Conti ransomware and added 98 domain names used by the criminal gang.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated the alert on Conti ransomware operations, the agency added 100 domain...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware member extradited to U.S. to stand trial for Kaseya attack<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-member-extradited-to-us-to-stand-trial-for-kaseya-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice announced that alleged REvil ransomware affiliate, Yaroslav Vasinskyi, was extradited to the United States last week to stand trial for the Kaseya cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Uses New Domains After Recent Code Leaks - Warns CISA<a href="https://cyware.com/news/conti-uses-new-domains-after-recent-code-leaks-warns-cisa-f6fa4b6d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notoriety of the Conti ransomware group has come under the spotlight as the CISA shared an alert with IoCs consisting of close to 100 domain names. Organizations should follow mitigation strategies and recommendations provided in the alert. Besides, security admins can use provided IOCs for bet ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Hacker Linked to REvil Ransomware Attacks Extradited to United States<a href="https://thehackernews.com/2022/03/ukrainian-hacker-linked-to-revil.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yaroslav Vasinskyi , a Ukrainian national, linked to the Russia-based  REvil ransomware group  has been extradited to the U.S. to face charges for his role in carrying out the file-encrypting malware attacks against several companies, including Kaseya last July.  The 22-year-old had been previously arrested in Poland in October 2021, prompting the U.S. Justice Department (DoJ) to  file charges  of conspiracy to commit fraud and related activity in connection with computers, damage to protected computers, and conspiracy to commit money laundering.   Ransomware is the digital equivalent of extortion wherein cybercrime actors encrypt victims' data and take it hostage in return for a monetary payment to recover the data, failing which the stolen information is published online or sold to other third-parties.  According to the DoJ, in addition to the headline-grabbing attacks on JBS and Kaseya, REvil is said to have propagated  its infection to more than 175,000 computers, netting the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Emotet botnet is rapidly growing, with +130K unique bots spread across 179 countries<a href="https://securityaffairs.co/wordpress/128879/breaking-news/emotet-botnet-rapidly-growing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A few months after its return the Emotet botnet has already infected over 130,000 unique bots spread across 179 countries. 
+
+
+
+The Emotet botnet continues to grow and has infected approximately 130,000 hosts since its resurrection in November 2021.
+
+
+
+Early...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware member extradited to U.S. to stand trial for Kaseya attack<a href="https://www.bleepingcomputer.com/news/legal/revil-ransomware-member-extradited-to-us-to-stand-trial-for-kaseya-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice announced that alleged REvil ransomware affiliate, Yaroslav Vasinskyi, was extradited to the United States last week to stand trial for the Kaseya cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raccoon Stealer: “Trash panda” abuses Telegram<a href="https://decoded.avast.io/vladimirmartyanov/raccoon-stealer-trash-panda-abuses-telegram/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast researchers came across a stealer, called Raccoon Stealer, a name given to it by its author. Raccoon Stealer uses the Telegram infrastructure to store and update actual C&C addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TLStorm flaws allow to remotely manipulate the power of millions of enterprise UPS devices<a href="https://securityaffairs.co/wordpress/128867/hacking/tlstorm-flaws-ups-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three flaws in APC Smart-UPS devices, tracked as TLStorm, could be exploited by remote attackers to hack and destroy them.
+
+
+
+Researchers from IoT security company Armis have discovered three high-impact security flaws, collectively tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC wants public companies to report breaches within four days<a href="https://www.bleepingcomputer.com/news/security/sec-wants-public-companies-to-report-breaches-within-four-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Securities and Exchange Commission (SEC) has proposed rule amendments to require publicly traded companies to report data breaches and other cybersecurity incidents within four days after they're determined as being a material incident (one that shareholders would likely consider important).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notorious Hacker Group Claims to Steal 200 GB of Source Code from Vodafone<a href="https://www.securityweek.com/vodafone-investigating-source-code-theft-claims?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious hacker group, calling itself “Lapsus$,” claims to have obtained roughly 200 Gb of source code files, allegedly representing approximately 5,000 GitHub repositories.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia creates its own TLS certificate authority to bypass sanctions<a href="https://www.bleepingcomputer.com/news/security/russia-creates-its-own-tls-certificate-authority-to-bypass-sanctions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia has created its own trusted TLS certificate authority (CA) to solve website access problems that have been piling up after sanctions prevent certificate renewals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT41 Spies Broke Into 6 US State Networks via a Livestock App<a href="https://threatpost.com/apt41-spies-broke-into-6-us-state-networks-via-livestock-app/178838/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-affiliated state-sponsored threat actor used Log4j and zero-day bugs in the USAHerds animal-tracking software to hack into multiple government networks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most ServiceNow Instances Misconfigured, Exposed<a href="https://threatpost.com/most-servicenow-instances-misconfigured-exposed/178827/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Customers aren’t locking down access correctly, leading to ~70 percent of ServiceNow implementations tested by AppOmni being vulnerable to malicious data extraction.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Botnet's Latest Resurgence Spreads to Over 100,000 Computers<a href="https://thehackernews.com/2022/03/emotet-botnets-latest-resurgence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The insidious Emotet botnet, which staged a return in November 2021 after a 10-month-long hiatus, is once again exhibiting signs of steady growth, amassing a swarm of over 100,000 infected hosts for perpetrating its malicious activities.  "While Emotet has not yet attained the same scale it once had, the botnet is showing a strong resurgence with a total of approximately 130,000 unique bots spread across 179 countries since November 2021," researchers from Lumen's Black Lotus Labs  said  in a report.  Emotet, prior to its  takedown  in late January 2021 as part of a coordinated law enforcement operation dubbed "Ladybird," had infected no fewer than 1.6 million devices globally, acting as a conduit for cybercriminals to install other types of malware, such as banking trojans or ransomware, onto compromised systems.   The malware  officially resurfaced  in November 2021  using TrickBot  as a delivery vehicle, with the latter  shuttering its attack infrastructure
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APTs Furiously Phish Ukraine – Google<a href="https://threatpost.com/russian-apts-phishing-ukraine-google/178819/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Also on the rise: DDoS attacks against Ukrainian sites and phishing activity capitalizing on the conflict, with China’s Mustang Panda targeting Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA updates Conti ransomware alert with nearly 100 domain names<a href="https://www.bleepingcomputer.com/news/security/cisa-updates-conti-ransomware-alert-with-nearly-100-domain-names/"> Full Text</a>
@@ -50,7 +439,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2022
+March 9, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Access:7 - Supply Chain Flaws Impacting IoT and Medical Devices<a href="https://cyware.com/news/access7-supply-chain-flaws-impacting-iot-and-medical-devices-774fb401"> Full Text</a>
@@ -66,7 +455,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2022
+March 09, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Abuse Mitel Devices to Amplify DDoS Attacks by 4 Billion Times<a href="https://thehackernews.com/2022/03/hackers-abuse-mitel-devices-to-amplify.html"> Full Text</a>
@@ -82,7 +471,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2022
+March 9, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Come Compete in the White Hat Cyber Forecasting Challenge<a href="https://www.lawfareblog.com/come-compete-white-hat-cyber-forecasting-challenge"> Full Text</a>
@@ -98,7 +487,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2022
+March 9, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google blocked China-linked APT31’s attacks targeting U.S. Government<a href="https://securityaffairs.co/wordpress/128861/apt/google-blocked-apt31-attacks.html"> Full Text</a>
@@ -118,7 +507,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2022
+March 09, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly 30% of critical WordPress plugin bugs don't get a patch<a href="https://www.bleepingcomputer.com/news/security/nearly-30-percent-of-critical-wordpress-plugin-bugs-dont-get-a-patch/"> Full Text</a>
@@ -134,7 +523,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2022
+March 9, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NVIDIA's Code Signing Certificates Stolen and Abused in Attacks<a href="https://cyware.com/news/nvidias-code-signing-certificates-stolen-and-abused-in-attacks-3cc710e1"> Full Text</a>
@@ -151,7 +540,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2022
+March 09, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Bugs Could Let Attackers Remotely Hack, Damage APC Smart UPS Devices<a href="https://thehackernews.com/2022/03/critical-bugs-could-let-attackers.html"> Full Text</a>
@@ -167,7 +556,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2022
+March 9, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Russian government websites hacked in a supply chain attack<a href="https://securityaffairs.co/wordpress/128853/breaking-news/russian-government-sites-supply-chain-attack.html"> Full Text</a>
@@ -187,7 +576,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2022
+March 09, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers fork open-source reverse tunneling tool for persistence<a href="https://www.bleepingcomputer.com/news/security/hackers-fork-open-source-reverse-tunneling-tool-for-persistence/"> Full Text</a>
@@ -203,7 +592,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2022
+March 9, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ragnar Locker Breached 52 Organizations and Counting, FBI Warns<a href="https://cyware.com/news/ragnar-locker-breached-52-organizations-and-counting-fbi-warns-0588d220"> Full Text</a>
@@ -220,7 +609,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2022
+March 09, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Incident Response Plan - Preparing for a Rainy Day<a href="https://thehackernews.com/2021/06/the-incident-response-plan-preparing.html"> Full Text</a>
@@ -236,7 +625,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2022
+March 9, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous hacked Russian cams, websites, announced a clamorous leak<a href="https://securityaffairs.co/wordpress/128847/hacktivism/anonymous-vs-russia.html"> Full Text</a>
@@ -256,7 +645,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2022
+March 09, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intel, AMD, Arm warn of new speculative execution CPU bugs<a href="https://www.bleepingcomputer.com/news/security/intel-amd-arm-warn-of-new-speculative-execution-cpu-bugs/"> Full Text</a>
@@ -272,7 +661,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2022
+March 9, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Updated SharkBot Variant Makes its Way into Google Play Store<a href="https://cyware.com/news/updated-sharkbot-variant-makes-its-way-into-google-play-store-a72796a6"> Full Text</a>
@@ -289,7 +678,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2022
+March 09, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese APT41 Hackers Broke into at Least 6 U.S. State Governments: Mandiant<a href="https://thehackernews.com/2022/03/chinese-apt41-hackers-broke-into-at.html"> Full Text</a>
@@ -305,7 +694,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2022
+March 9, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HP addressed 16 UEFI firmware flaws impacting laptops, desktops, PoS systems<a href="https://securityaffairs.co/wordpress/128838/hacking/hp-uefi-firmware-flaws.html"> Full Text</a>
@@ -325,7 +714,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2022
+March 09, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Treasury: Russia may bypass sanctions using ransomware payments<a href="https://www.bleepingcomputer.com/news/security/us-treasury-russia-may-bypass-sanctions-using-ransomware-payments/"> Full Text</a>
@@ -341,7 +730,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2022
+March 9, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Siemens Addresses Over 90 Vulnerabilities Affecting Third-Party Components<a href="https://www.securityweek.com/siemens-addresses-over-90-vulnerabilities-affecting-third-party-components?&web_view=true"> Full Text</a>
@@ -357,7 +746,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2022
+March 09, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Bugs Found in Pascom Cloud Phone System Used by Businesses<a href="https://thehackernews.com/2022/03/critical-rce-bugs-found-in-pascom-cloud.html"> Full Text</a>
@@ -373,7 +762,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2022
+March 9, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Samsung data breach: Lapsus$ gang stole Galaxy devices’ source code<a href="https://securityaffairs.co/wordpress/128828/data-breach/samsung-data-breach.html"> Full Text</a>
@@ -393,7 +782,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2022
+March 09, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian government sites hacked in supply chain attack<a href="https://www.bleepingcomputer.com/news/security/russian-government-sites-hacked-in-supply-chain-attack/"> Full Text</a>
@@ -409,7 +798,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2022
+March 9, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New attack bypasses hardware defenses for Spectre flaw in Intel and ARM CPUs<a href="https://www.csoonline.com/article/3652525/new-attack-bypasses-hardware-defenses-for-spectre-flaw-in-intel-and-arm-cpus.html?&web_view=true"> Full Text</a>
@@ -425,7 +814,7 @@ CSO Online
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 09, 2022
+March 09, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese phishing actors consistently targeting EU diplomats<a href="https://www.bleepingcomputer.com/news/security/chinese-phishing-actors-consistently-targeting-eu-diplomats/"> Full Text</a>
@@ -441,7 +830,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2022
+March 9, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe Patches 'Critical' Security Flaws in Illustrator, After Effects<a href="https://www.securityweek.com/adobe-patches-critical-security-flaws-illustrator-after-effects?&web_view=true"> Full Text</a>
@@ -457,7 +846,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2022
+March 9, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Exploit Flaw in Mitel Systems to Launch Terabyte Scale DDoS Attack in the Wild<a href="https://www.zdnet.com/article/in-the-wild-ddos-attack-can-be-launched-from-a-single-packet-to-create-terabytes-of-traffic/?&web_view=true"> Full Text</a>
@@ -473,7 +862,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 9, 2022
+March 9, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP Patches Critical Security Flaws in Monitoring Solutions<a href="https://www.securityweek.com/sap-patches-critical-security-flaws-monitoring-solutions?&web_view=true"> Full Text</a>
