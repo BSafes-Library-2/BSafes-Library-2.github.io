@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+March 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Ransomwared Victims Have It Coming–Podcast<a href="https://threatpost.com/blaming-ransomware-victims-podcast/178799/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Let’s blame the victim. IT decision makers’ confidence about security doesn’t jibe with their concession that repeated incidents are their own fault, says ExtraHop’s Jamie Moles.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC wants public companies to report breaches within four days<a href="https://www.bleepingcomputer.com/news/security/sec-wants-public-companies-to-report-breaches-within-four-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Securities and Exchange Commission (SEC) has proposed rule amendments to require publicly traded companies to report data breaches and other cybersecurity incidents within four days after they're determined as being a material incident (one that shareholders would likely consider&nbsp;important).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notorious Hacker Group Claims to Steal 200 GB of Source Code from Vodafone<a href="https://www.securityweek.com/vodafone-investigating-source-code-theft-claims?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious hacker group, calling itself “Lapsus$,” claims to have obtained roughly 200 Gb of source code files, allegedly representing approximately 5,000 GitHub repositories.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

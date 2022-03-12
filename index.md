@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2022
+March 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 287,652 South Denver Cardiology Associates patients notified of breach<a href="https://www.databreaches.net/287652-south-denver-cardiology-associates-patients-notified-of-breach/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Data Breaches
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2022
+March 12, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacked US Companies to Face New Reporting Requirements<a href="https://www.securityweek.com/hacked-us-companies-face-new-reporting-requirements?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2022
+March 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous Hacks Russian Media Censoring Agency Roskomnadzor<a href="https://www.hackread.com/anonymous-hacks-roskomnadzor-russia-agency/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2022
+March 11, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit ransomware gang claims attack on Bridgestone Americas<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-claims-attack-on-bridgestone-americas/"> Full Text</a>
@@ -98,7 +98,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2022
+March 11, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spending bill includes large funding increase to boost cybersecurity<a href="https://thehill.com//policy/national-security/597902-spending-bill-includes-large-funding-increase-to-boost-cybersecurity"> Full Text</a>
@@ -114,7 +114,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2022
+March 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Security Flaws Discovered in Popular Software Package Managers<a href="https://thehackernews.com/2022/03/multiple-security-flaws-discovered-in.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2022
+March 11, 2022 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous hacked Roskomnadzor agency revealing Russian disinformation<a href="https://securityaffairs.co/wordpress/128922/hacking/anonymouys-hacked-russian-roskomnadzor.html"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2022
+March 11, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia Issues Its Own TLS Certs<a href="https://threatpost.com/russia-issues-its-own-tls-certs/178891/"> Full Text</a>
@@ -166,7 +166,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2022
+March 11, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ONE PIECE anime episodes delayed after Toei cyberattack<a href="https://www.bleepingcomputer.com/news/security/new-one-piece-anime-episodes-delayed-after-toei-cyberattack/"> Full Text</a>
@@ -182,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2022
+March 11, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Pushing New State-run TLS Certificate Authority to Deal With Sanctions<a href="https://thehackernews.com/2022/03/russian-pushing-its-new-state-run-tls.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2022
+March 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Open database leaves major Chinese ports exposed to shipping chaos￼<a href="https://securityaffairs.co/wordpress/128918/data-breach/chinese-ports-impacted-data-leak.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2022
+March 11, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian defense firm Rostec shuts down website after DDoS attack<a href="https://www.bleepingcomputer.com/news/security/russian-defense-firm-rostec-shuts-down-website-after-ddos-attack/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2022
+March 11, 2022-- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lapsus$ Ransomware Group is hiring, it announced recruitment of insiders<a href="https://securityaffairs.co/wordpress/128912/cyber-crime/lapsus-ransomware-is-hiring.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2022
+March 11, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wightlink Reports Potential Data Breach After Suffering Highly Sophisticated Cyberattack<a href="https://portswigger.net/daily-swig/uk-ferry-operator-wightlink-flags-potential-data-breach-after-highly-sophisticated-cyber-attack?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2022
+March 11, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vodafone investigates claims of a data breach made by Lapsus$ gang<a href="https://securityaffairs.co/wordpress/128903/cyber-crime/vodafone-investigates-data-breach.html"> Full Text</a>
@@ -290,7 +290,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2022
+March 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Severity Vulnerabilities Patched in Omron PLC Programming Software<a href="https://www.securityweek.com/high-severity-vulnerabilities-patched-omron-plc-programming-software?&web_view=true"> Full Text</a>
@@ -306,7 +306,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2022
+March 11, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SafeBase bags $18M Series A to speed up vendor security auditing process<a href="https://techcrunch.com/2022/03/10/safebase-bags-18m-series-a-to-speed-up-vendor-security-auditing-process/?&web_view=true"> Full Text</a>
@@ -322,7 +322,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2022
+March 10, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most Orgs Would Take Security Bugs Over Ethical Hacking Help<a href="https://threatpost.com/orgs-security-bugs-ethical-hacking-help/178862/"> Full Text</a>
@@ -338,7 +338,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2022
+March 10, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Here's How to Find if WhatsApp Web Code on Your Browser Has Been Hacked<a href="https://thehackernews.com/2022/03/heres-how-to-find-if-whatsapp-web-code.html"> Full Text</a>

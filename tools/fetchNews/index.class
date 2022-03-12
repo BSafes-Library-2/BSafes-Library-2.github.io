@@ -34,6 +34,326 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+287,652 South Denver Cardiology Associates patients notified of breach<a href="https://www.databreaches.net/287652-south-denver-cardiology-associates-patients-notified-of-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a notice on their website, the South Denver Cardiology Associates noted that there was no impact to the contents of patient medical records and no unauthorized access to the patient portal.
+</details>
+<div style="text-align: right" markdown="1">
+Data Breaches
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacked US Companies to Face New Reporting Requirements<a href="https://www.securityweek.com/hacked-us-companies-face-new-reporting-requirements?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rules are part of a broader effort by the Biden administration and Congress to shore up the nation’s cyber defenses after a series of high-profile digital espionage campaigns and disruptive ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous Hacks Russian Media Censoring Agency Roskomnadzor<a href="https://www.hackread.com/anonymous-hacks-roskomnadzor-russia-agency/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The international hacktivists collective Anonymous has struck again and this time the group is claiming to have hacked Roskomnadzor, a major Russian federal agency. The group also claims to have stolen over 360,000 files.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware gang claims attack on Bridgestone Americas<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-claims-attack-on-bridgestone-americas/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack on Bridgestone Americas, one of the largest manufacturers of tires in the world, has been claimed by the LockBit ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spending bill includes large funding increase to boost cybersecurity<a href="https://thehill.com//policy/national-security/597902-spending-bill-includes-large-funding-increase-to-boost-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The government funding bill sent to President Biden includes a surge in funding to the agency that oversees the nation’s cybersecurity infrastructure and includes language that requires companies in critical sectors to alert the government of potential hacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Security Flaws Discovered in Popular Software Package Managers<a href="https://thehackernews.com/2022/03/multiple-security-flaws-discovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in popular package managers that, if potentially exploited, could be abused to run arbitrary code and access sensitive information, including source code and access tokens, from compromised machines.  It's, however, worth noting that the flaws require the targeted developers to handle a malicious package in conjunction with one of the affected package managers.  "This means that an attack cannot be launched directly against a developer machine from remote and requires that the developer is tricked into loading malformed files," SonarSource researcher Paul Gerste  said . "But can you always know and trust the owners of all packages that you use from the internet or company-internal repositories?"   Package managers refer to  systems  or a set of tools that are used to automate installing, upgrading, configuring third-party dependencies required for developing applications.  While there are inherent  security
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2022 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked Roskomnadzor agency revealing Russian disinformation<a href="https://securityaffairs.co/wordpress/128922/hacking/anonymouys-hacked-russian-roskomnadzor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Anonymous collective continues to launch attacks against Russian entities, this is a summary of recent offensives.
+
+
+
+Anonymous announced to have hacked the Russian Federal Service for Supervision of Communications, Information Technology and Mass...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Issues Its Own TLS Certs<a href="https://threatpost.com/russia-issues-its-own-tls-certs/178891/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The country’s citizens are being blocked from the internet because foreign certificate authorities can’t accept payments due to Ukraine-related sanctions, so it created its own CA.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ONE PIECE anime episodes delayed after Toei cyberattack<a href="https://www.bleepingcomputer.com/news/security/new-one-piece-anime-episodes-delayed-after-toei-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anime giant Toei suffered a weekend cyberattack causing delays in airing new episodes of popular anime series, including ONE PIECE and Delicious Party Precure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Pushing New State-run TLS Certificate Authority to Deal With Sanctions<a href="https://thehackernews.com/2022/03/russian-pushing-its-new-state-run-tls.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian government has established its own TLS certificate authority ( CA ) to address issues with accessing websites that have arisen in the wake of sanctions imposed by the west following the country's unprovoked military invasion of Ukraine.  According to a message posted on the  Gosuslugi  public services portal, the Ministry of Digital Development is expected to provide a domestic replacement to handle the issuance and renewal of TLS certificates should they get revoked or expired.  The service is offered to all legal entities operating in Russia, with the certificates delivered to site owners upon request within 5 working days.  TLS certificates are used to digitally bind a cryptographic key to an organization's details, enabling web browsers to confirm the domain's authenticity and ensure that the communication between a client computer and the target website is secure.   The proposal comes as companies like DigiCert have been  restricted  from doing business in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open database leaves major Chinese ports exposed to shipping chaos￼<a href="https://securityaffairs.co/wordpress/128918/data-breach/chinese-ports-impacted-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The freight logs of two major Chinese shipping ports have been leaking data, a problem which if left unresolved could disrupt the supply chain of up to 70,000 tonnes of cargo a day, with potentially serious consequences for international shipping.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian defense firm Rostec shuts down website after DDoS attack<a href="https://www.bleepingcomputer.com/news/security/russian-defense-firm-rostec-shuts-down-website-after-ddos-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rostec, a Russian state-owned aerospace and defense conglomerate, said its website was taken down today following what it described as a "cyberattack."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2022-- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ Ransomware Group is hiring, it announced recruitment of insiders<a href="https://securityaffairs.co/wordpress/128912/cyber-crime/lapsus-ransomware-is-hiring.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lapsus$ Ransomware gang is looking for insiders willing to sell remote access to major technology corporations and ISPs.
+
+
+
+Thursday, March 10, Lapsus$ ransomware gang announced they're starting to recruit insiders employed within major technology giants...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wightlink Reports Potential Data Breach After Suffering Highly Sophisticated Cyberattack<a href="https://portswigger.net/daily-swig/uk-ferry-operator-wightlink-flags-potential-data-breach-after-highly-sophisticated-cyber-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a statement obtained by The Daily Swig, Wightlink said: “Unfortunately, despite Wightlink taking appropriate security measures, some of its back-office IT systems were affected by a cyber-attack last month.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vodafone investigates claims of a data breach made by Lapsus$ gang<a href="https://securityaffairs.co/wordpress/128903/cyber-crime/vodafone-investigates-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vodafone is investigating a recently suffered cyberattack, after a ransomware gang Lapsus$ claimed to have stolen its source code.
+
+
+
+Vodafone announced to have launched an investigation after the Lapsus$ cybercrime group claimed to have stolen its source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Vulnerabilities Patched in Omron PLC Programming Software<a href="https://www.securityweek.com/high-severity-vulnerabilities-patched-omron-plc-programming-software?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several high-severity vulnerabilities that can be exploited for remote code execution were patched recently in the CX-Programmer software of Japanese electronics giant Omron.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SafeBase bags $18M Series A to speed up vendor security auditing process<a href="https://techcrunch.com/2022/03/10/safebase-bags-18m-series-a-to-speed-up-vendor-security-auditing-process/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company, which allows clients to share their security posture with customers, announced an $18 million Series A investment led by New Enterprise Associates, with participation from Y Combinator and Comcast Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Orgs Would Take Security Bugs Over Ethical Hacking Help<a href="https://threatpost.com/orgs-security-bugs-ethical-hacking-help/178862/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new survey suggests that security is becoming more important for enterprises, but they’re still falling back on old “security by obscurity” ways.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here's How to Find if WhatsApp Web Code on Your Browser Has Been Hacked<a href="https://thehackernews.com/2022/03/heres-how-to-find-if-whatsapp-web-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms' WhatsApp and Cloudflare have banded together for a new initiative called Code Verify to validate the authenticity of the messaging service's web app on desktop computers.  Available in the form of a Chrome and Edge  browser extension , the  open-source add-on  is designed to "automatically verif[y] the authenticity of the WhatsApp Web code being served to your browser," Facebook  said  in a statement.   The goal with Code Verify is to confirm the integrity of the web application and ensure that it hasn't been tampered with to inject malicious code. The social media company is also planning to release a Firefox plugin to achieve the same level of security across browsers.  The system works with Cloudflare acting as a third-party audit to compare the cryptographic hash of WhatsApp Web's JavaScript code that's shared by Meta with that of a locally computed hash of the code running on the browser client.   Code Verify is also meant to be flexi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 10, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

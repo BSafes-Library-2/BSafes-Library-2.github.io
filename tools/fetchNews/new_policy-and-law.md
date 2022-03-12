@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacked US Companies to Face New Reporting Requirements<a href="https://www.securityweek.com/hacked-us-companies-face-new-reporting-requirements?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rules are part of a broader effort by the Biden administration and Congress to shore up the nation’s cyber defenses after a series of high-profile digital espionage campaigns and disruptive ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

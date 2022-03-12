@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+March 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spending bill includes large funding increase to boost cybersecurity<a href="https://thehill.com//policy/national-security/597902-spending-bill-includes-large-funding-increase-to-boost-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The government funding bill sent to President Biden includes a surge in funding to the agency that oversees the nation’s cybersecurity infrastructure and includes language that requires companies in critical sectors to alert the government of potential hacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Pushing New State-run TLS Certificate Authority to Deal With Sanctions<a href="https://thehackernews.com/2022/03/russian-pushing-its-new-state-run-tls.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian government has established its own TLS certificate authority ( CA ) to address issues with accessing websites that have arisen in the wake of sanctions imposed by the west following the country's unprovoked military invasion of Ukraine.  According to a message posted on the&nbsp; Gosuslugi &nbsp;public services portal, the Ministry of Digital Development is expected to provide a domestic replacement to handle the issuance and renewal of TLS certificates should they get revoked or expired.  The service is offered to all legal entities operating in Russia, with the certificates delivered to site owners upon request within 5 working days.  TLS certificates are used to digitally bind a cryptographic key to an organization's details, enabling web browsers to confirm the domain's authenticity and ensure that the communication between a client computer and the target website is secure.   The proposal comes as companies like DigiCert have been&nbsp; restricted &nbsp;from doing business in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

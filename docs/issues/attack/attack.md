@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous Hacks Russian Media Censoring Agency Roskomnadzor<a href="https://www.hackread.com/anonymous-hacks-roskomnadzor-russia-agency/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The international hacktivists collective Anonymous has struck again and this time the group is claiming to have hacked Roskomnadzor, a major Russian federal agency. The group also claims to have stolen over 360,000 files.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

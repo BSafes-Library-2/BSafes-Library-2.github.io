@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+March 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ONE PIECE anime episodes delayed after Toei cyberattack<a href="https://www.bleepingcomputer.com/news/security/new-one-piece-anime-episodes-delayed-after-toei-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anime giant Toei suffered a weekend cyberattack causing delays in airing new episodes of popular anime series, including ONE PIECE and Delicious Party Precure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian defense firm Rostec shuts down website after DDoS attack<a href="https://www.bleepingcomputer.com/news/security/russian-defense-firm-rostec-shuts-down-website-after-ddos-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rostec, a Russian&nbsp;state-owned aerospace and defense conglomerate, said its website was taken down today following what it described as a "cyberattack."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

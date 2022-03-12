@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+March 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+287,652 South Denver Cardiology Associates patients notified of breach<a href="https://www.databreaches.net/287652-south-denver-cardiology-associates-patients-notified-of-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a notice on their website, the South Denver Cardiology Associates noted that there was no impact to the contents of patient medical records and no unauthorized access to the patient portal.
+</details>
+<div style="text-align: right" markdown="1">
+Data Breaches
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wightlink Reports Potential Data Breach After Suffering Highly Sophisticated Cyberattack<a href="https://portswigger.net/daily-swig/uk-ferry-operator-wightlink-flags-potential-data-breach-after-highly-sophisticated-cyber-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a statement obtained by The Daily Swig, Wightlink said: “Unfortunately, despite Wightlink taking appropriate security measures, some of its back-office IT systems were affected by a cyber-attack last month.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vodafone investigates claims of a data breach made by Lapsus$ gang<a href="https://securityaffairs.co/wordpress/128903/cyber-crime/vodafone-investigates-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vodafone is investigating a recently suffered cyberattack, after a ransomware gang Lapsus$ claimed to have stolen its source code.
+
+
+
+Vodafone announced to have launched an investigation after the Lapsus$ cybercrime group claimed to have stolen its source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

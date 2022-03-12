@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here's How to Find if WhatsApp Web Code on Your Browser Has Been Hacked<a href="https://thehackernews.com/2022/03/heres-how-to-find-if-whatsapp-web-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms' WhatsApp and Cloudflare have banded together for a new initiative called Code Verify to validate the authenticity of the messaging service's web app on desktop computers.  Available in the form of a Chrome and Edge&nbsp; browser extension , the&nbsp; open-source add-on &nbsp;is designed to "automatically verif[y] the authenticity of the WhatsApp Web code being served to your browser," Facebook&nbsp; said &nbsp;in a statement.   The goal with Code Verify is to confirm the integrity of the web application and ensure that it hasn't been tampered with to inject malicious code. The social media company is also planning to release a Firefox plugin to achieve the same level of security across browsers.  The system works with Cloudflare acting as a third-party audit to compare the cryptographic hash of WhatsApp Web's JavaScript code that's shared by Meta with that of a locally computed hash of the code running on the browser client.   Code Verify is also meant to be flexi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
