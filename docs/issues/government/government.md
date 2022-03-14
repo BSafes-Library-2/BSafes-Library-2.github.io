@@ -8,6 +8,50 @@ nav_order: 900075
 
 ## Government
 ---
+March 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mar 06- Mar 12 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/128967/cyber-warfare-2/mar-06-mar-12-ukraine-russia-the-silent-cyber-conflict.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This post provides a timeline of the events related to the Russia invasion of Ukraine from the cyber security perspective.
+
+
+
+March 12 - Russian Internet watchdog Roskomnadzor is going to ban Instagram
+
+
+
+Russian Internet watchdog Roskomnadzor is going...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Internet watchdog Roskomnadzor is going to ban Instagram<a href="https://securityaffairs.co/wordpress/128935/cyber-warfare-2/russian-roskomnadzor-bans-instagram.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian Internet watchdog Roskomnadzor is going to ban Instagram in Russia to prevent the spreading of info related to the Ukraine invasion. 
+
+
+
+Russia will ban Instagram, the decision was announced by Russian Internet watchdog Roskomnadzor.
+
+
+
+Officially...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

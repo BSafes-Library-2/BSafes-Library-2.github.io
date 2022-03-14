@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+March 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Issues Its Own TLS Certs<a href="https://threatpost.com/russia-issues-its-own-tls-certs/178891/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The country’s citizens are being blocked from the internet because foreign certificate authorities can’t accept payments due to Ukraine-related sanctions,&nbsp;so it created its own CA.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Orgs Would Take Security Bugs Over Ethical Hacking Help<a href="https://threatpost.com/orgs-security-bugs-ethical-hacking-help/178862/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new survey suggests that security is becoming more important for enterprises, but they’re still falling back on old “security by obscurity” ways.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

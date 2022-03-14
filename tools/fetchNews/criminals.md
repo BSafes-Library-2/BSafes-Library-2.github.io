@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware gang claims attack on Bridgestone Americas<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-claims-attack-on-bridgestone-americas/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack on Bridgestone Americas, one of the largest manufacturers of tires in the world, has been claimed by the LockBit ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ Ransomware Group is hiring, it announced recruitment of insiders<a href="https://securityaffairs.co/wordpress/128912/cyber-crime/lapsus-ransomware-is-hiring.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lapsus$ Ransomware gang is looking for insiders willing to sell remote access to major technology corporations and ISPs.
+
+
+
+Thursday, March 10, Lapsus$ ransomware gang announced they're starting to recruit insiders employed within major technology giants...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

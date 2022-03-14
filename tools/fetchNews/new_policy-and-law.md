@@ -11,6 +11,20 @@ nav_order: 900163
 March 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+VPN provider bans BitTorrent after getting sued by film studios<a href="https://www.bleepingcomputer.com/news/security/vpn-provider-bans-bittorrent-after-getting-sued-by-film-studios/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"No logs"&nbsp;VPN provider TorGuard has reached a legal settlement with over two&nbsp;dozen movie studios that sued the company&nbsp;for encouraging piracy and copyright infringement. In the settlement, TorGuard has agreed to block&nbsp;BitTorrent traffic for its users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hacked US Companies to Face New Reporting Requirements<a href="https://www.securityweek.com/hacked-us-companies-face-new-reporting-requirements?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

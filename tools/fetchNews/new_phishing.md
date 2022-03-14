@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Valorant cheats on YouTube infect you with RedLine stealer<a href="https://www.bleepingcomputer.com/news/security/fake-valorant-cheats-on-youtube-infect-you-with-redline-stealer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Korean security analysts have spotted a malware distribution campaign that uses Valorant cheat lures on YouTube to trick players into downloading RedLine, a powerful information stealer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

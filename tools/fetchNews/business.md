@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SafeBase bags $18M Series A to speed up vendor security auditing process<a href="https://techcrunch.com/2022/03/10/safebase-bags-18m-series-a-to-speed-up-vendor-security-auditing-process/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company, which allows clients to share their security posture with customers, announced an $18 million Series A investment led by New Enterprise Associates, with participation from Y Combinator and Comcast Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

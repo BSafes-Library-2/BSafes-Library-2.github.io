@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+March 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware group claims to have hacked Bridgestone Americas<a href="https://securityaffairs.co/wordpress/128957/cyber-crime/bridgestone-americas-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware gang claimed to have hacked Bridgestone Americas, one of the largest manufacturers of tires.
+
+
+
+LockBit ransomware gang claimed to have compromised the network of Bridgestone Americas, one of the largest manufacturers of tires, and stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubisoft confirms 'cyber security incident', resets staff passwords<a href="https://www.bleepingcomputer.com/news/security/ubisoft-confirms-cyber-security-incident-resets-staff-passwords/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Video game developer Ubisoft has confirmed that it suffered a 'cyber security incident' that caused disruption to some of its services. Data extortion group LAPSUS$, who has claimed responsibility for hacking Samsung, NVIDIA, and Mercado Libre thus far, also appears to be behind Ubisoft incident.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

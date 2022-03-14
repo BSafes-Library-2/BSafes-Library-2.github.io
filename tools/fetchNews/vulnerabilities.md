@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Security Flaws Discovered in Popular Software Package Managers<a href="https://thehackernews.com/2022/03/multiple-security-flaws-discovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in popular package managers that, if potentially exploited, could be abused to run arbitrary code and access sensitive information, including source code and access tokens, from compromised machines.  It's, however, worth noting that the flaws require the targeted developers to handle a malicious package in conjunction with one of the affected package managers.  "This means that an attack cannot be launched directly against a developer machine from remote and requires that the developer is tricked into loading malformed files," SonarSource researcher Paul Gerste&nbsp; said . "But can you always know and trust the owners of all packages that you use from the internet or company-internal repositories?"   Package managers refer to&nbsp; systems &nbsp;or a set of tools that are used to automate installing, upgrading, configuring third-party dependencies required for developing applications.  While there are inherent&nbsp; security
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open database leaves major Chinese ports exposed to shipping chaos￼<a href="https://securityaffairs.co/wordpress/128918/data-breach/chinese-ports-impacted-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The freight logs of two major Chinese shipping ports have been leaking data, a problem which if left unresolved could disrupt the supply chain of up to 70,000 tonnes of cargo a day, with potentially serious consequences for international shipping.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Vulnerabilities Patched in Omron PLC Programming Software<a href="https://www.securityweek.com/high-severity-vulnerabilities-patched-omron-plc-programming-software?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several high-severity vulnerabilities that can be exploited for remote code execution were patched recently in the CX-Programmer software of Japanese electronics giant Omron.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

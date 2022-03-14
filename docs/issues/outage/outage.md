@@ -8,6 +8,24 @@ nav_order: 900140
 
 ## Outage
 ---
+March 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubisoft suffered a cyber security incident that&nbsp;caused a temporary disruption<a href="https://securityaffairs.co/wordpress/128929/hacking/ubisoft-cyber-security-incident.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Video game company Ubisoft has suffered a 'cyber security incident' that&nbsp;had a severe impact on games, systems, and services.
+
+
+
+The rumors of a cyber attack against Ubisoft circulated online in the last few days, while data extortion group LAPSUS$...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
