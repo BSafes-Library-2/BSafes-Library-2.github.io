@@ -34,6 +34,46 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CaddyWiper, a new data wiper hits Ukraine<a href="https://securityaffairs.co/wordpress/129069/cyber-warfare-2/caddywiper-wiper-hits-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered a new wiper, tracked as CaddyWiper, that was employed in attacks targeting Ukrainian organizations.
+
+
+
+Experts at ESET Research Labs discovered a new data wiper, dubbed CaddyWiper, that was employed in attacks targeting Ukrainian organizations.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Dirty Pipe' Linux Flaw Affects a Wide Range of QNAP NAS Devices<a href="https://thehackernews.com/2022/03/dirty-pipe-linux-flaw-affects-wide.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network-attached storage (NAS) appliance maker QNAP on Monday warned of a recently disclosed Linux vulnerability affecting its devices that could be abused to elevate privileges and gain control of affected systems.  "A local privilege escalation vulnerability, also known as 'Dirty Pipe,' has been reported to affect the Linux kernel on QNAP NAS running QTS 5.0.x and QuTS hero h5.0.x," the company  said . "If exploited, this vulnerability allows an unprivileged user to gain administrator privileges and inject malicious code."   The Taiwanese firm said it's continuing to thoroughly  investigate its product line  for the vulnerability and that there's no QNAP NAS running QTS 4.x are immune to the Dirty Pipe flaw.   Tracked as  CVE-2022-0847  (CVSS score: 7.8), the shortcoming resides in the Linux kernel that could permit an attacker to overwrite arbitrary data into any read-only files and allow for a complete takeover of vulnerable machines.  The issue
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
