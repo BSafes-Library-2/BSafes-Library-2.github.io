@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gaming Company Ubisoft Confirms It was Hacked, Resets Staff Passwords<a href="https://thehackernews.com/2022/03/gaming-company-ubisoft-confirms-it-was.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French video game company Ubisoft on Friday confirmed it was a victim of a "cyber security incident," causing temporary disruptions to its games, systems, and services.  The Montreuil-headquartered firm said that an investigation into the breach was underway and that it has initiated a company-wide password reset as a precautionary measure.  "Also, we can confirm that all our games and services are functioning normally and that at this time there is no evidence any player personal information was accessed or exposed as a by-product of this incident," the company&nbsp; said &nbsp;in a statement.   The news of the hack comes amid a string of high-profile attacks targeting&nbsp; NVIDIA ,&nbsp; Samsung ,&nbsp; Mercado Libre , and&nbsp; Vodafone &nbsp;in recent weeks. While the extortionist gang LAPSUS$ claimed responsibility for these attacks, it's not immediately clear if the group is behind the Ubisoft breach as well.  Technology news site The Verge, which first&nbsp; reported &nbsp;the development, said th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Denver Cardiology Associates Discloses Unauthorized Access to its Databases<a href="https://portswigger.net/daily-swig/data-breach-at-us-heart-disease-treatment-center-impacts-287-000-individuals?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SDCA admitted that an unnamed attacker broke into its systems and had access to confidential databases for three days between January 2, 2022, and January 5, 2022, before the breach was detected and thwarted.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubisoft reveals 'security incident' forcing company-wide password refresh<a href="https://www.zdnet.com/article/ubisoft-reveals-security-incident-forcing-company-wide-password-refresh/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gaming giant, headquartered in Montreuil, France, said on March 10 that the incident took place earlier this month, causing "temporary disruption to some of our games, systems, and services."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

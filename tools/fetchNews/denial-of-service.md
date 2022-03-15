@@ -8,6 +8,21 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+March 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Created Terabytes of DDoS Attack Traffic Using a Single Packet<a href="https://cyware.com/news/attackers-created-terabytes-of-ddos-attack-traffic-using-a-single-packet-4fd7b189"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from a number of organizations confirmed that attackers have been exploiting Mitel enterprise collaboration products to amplify DDoS attacks by 4 billion times from a single packet. The researchers recommend updating the systems with the latest patches. Additionally, Mitel users can det ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

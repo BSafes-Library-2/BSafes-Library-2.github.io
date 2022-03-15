@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel chair 'amazed' Russia hasn't launched full-scale cyberwarfare<a href="https://thehill.com//policy/international/598138-intel-chair-amazed-russia-hasnt-launched-full-scale-cyberwarfare"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Mark Warner (D-Va.), chairman of the Senate Intelligence Committee, said on Monday he was surprised Russia hasn’t launched more destructive cyberattacks against Ukraine and the West despite having the capability to do so.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bipartisan group of senators press Mayorkas on US readiness for Russian cyberthreat<a href="https://thehill.com//policy/cybersecurity/598088-bipartisan-group-of-senators-press-mayorkas-on-us-readiness-for-russian"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan group of senators is pressing Homeland Security Secretary Alejandro Mayorkas on the U.S.’s readiness for Russian cyberattacks amid Moscow’s invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

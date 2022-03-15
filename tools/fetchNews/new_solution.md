@@ -8,6 +8,24 @@ nav_order: 900195
 
 ## Solution
 ---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine is using Clearview AI’s facial recognition during the conflict<a href="https://securityaffairs.co/wordpress/129047/cyber-warfare-2/clearview-facial-recognition-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's defense ministry began using Clearview AI’s facial recognition technology to uncover Russian assailants, combat misinformation and identify the dead.
+
+
+
+Ukraine's defense ministry announced it will use the AI’s facial recognition technology...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

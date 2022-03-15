@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Ransomware Gang Retool Custom Hacking Tools of Other APT Groups<a href="https://thehackernews.com/2022/03/russian-ransomware-gang-retool-custom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian-speaking ransomware outfit likely targeted an unnamed entity in the gambling and gaming sector in Europe and Central America by repurposing custom tools developed by other APT groups like Iran's MuddyWater, new research has found.  The unusual attack chain involved the abuse of stolen credentials to gain unauthorized access to the victim network, ultimately leading to the deployment of Cobalt Strike payloads on compromised assets,&nbsp; said &nbsp;Felipe Duarte and Ido Naor, researchers at Israeli incident response firm Security Joes, in a report published last week.   Although the infection was contained at this stage, the researchers characterized the compromise as a case of a suspected ransomware attack.  The intrusion is said to have taken place in February 2022, with the attackers making use of post-exploitation tools such as&nbsp; ADFind , NetScan,&nbsp; SoftPerfect , and&nbsp; LaZagne . Also employed is an AccountRestore executable to brute-force administrator credentials and a forked ver
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

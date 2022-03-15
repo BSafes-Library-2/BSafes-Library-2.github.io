@@ -8,6 +8,42 @@ nav_order: 900015
 
 ## Attack
 ---
+March 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous sent a message to Russians: “remove Putin”<a href="https://securityaffairs.co/wordpress/129005/hacktivism/anonymous-message-to-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous has published a new message for Russian citizens inviting them to remove Putin that is sacrificing them and killing Ukrainians.
+
+
+
+The hacker collective Anonymous has published a new message for Russians inviting them to wake up and remove...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers use website contact forms to spread BazarLoader malware<a href="https://securityaffairs.co/wordpress/128942/cyber-crime/phishing-bazarloader-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are spreading the BazarLoader malware via website contact forms to evade detection, researchers warn.
+
+
+
+Researchers from cybersecurity firm Abnormal Security observed threat actors spreading the BazarLoader/BazarBackdoor malware via website...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

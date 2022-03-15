@@ -34,6 +34,449 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake antivirus updates used to deploy Cobalt Strike in Ukraine<a href="https://www.bleepingcomputer.com/news/security/fake-antivirus-updates-used-to-deploy-cobalt-strike-in-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's Computer Emergency Response Team is warning that threat actors are distributing fake Windows antivirus updates that install Cobalt Strike and other malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-based TA416 Ramp-Up Espionage Against European Governments<a href="https://cyware.com/news/china-based-ta416-ramp-up-espionage-against-european-governments-605449a5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-backed threat group has been observed targeting European diplomatic entities indulging in refugee and migrant services. The group takes advantage of web bugs to profile its targets. An analysis revealed that the threat group is using an updated version of PlugX malware. To stay protected, ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel chair 'amazed' Russia hasn't launched full-scale cyberwarfare<a href="https://thehill.com//policy/international/598138-intel-chair-amazed-russia-hasnt-launched-full-scale-cyberwarfare"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Mark Warner (D-Va.), chairman of the Senate Intelligence Committee, said on Monday he was surprised Russia hasn’t launched more destructive cyberattacks against Ukraine and the West despite having the capability to do so. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gaming Company Ubisoft Confirms It was Hacked, Resets Staff Passwords<a href="https://thehackernews.com/2022/03/gaming-company-ubisoft-confirms-it-was.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French video game company Ubisoft on Friday confirmed it was a victim of a "cyber security incident," causing temporary disruptions to its games, systems, and services.  The Montreuil-headquartered firm said that an investigation into the breach was underway and that it has initiated a company-wide password reset as a precautionary measure.  "Also, we can confirm that all our games and services are functioning normally and that at this time there is no evidence any player personal information was accessed or exposed as a by-product of this incident," the company  said  in a statement.   The news of the hack comes amid a string of high-profile attacks targeting  NVIDIA ,  Samsung ,  Mercado Libre , and  Vodafone  in recent weeks. While the extortionist gang LAPSUS$ claimed responsibility for these attacks, it's not immediately clear if the group is behind the Ubisoft breach as well.  Technology news site The Verge, which first  reported  the development, said th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A massive DDoS attack hit Israel, government sites went offline<a href="https://securityaffairs.co/wordpress/129063/cyber-warfare-2/massive-ddos-attack-hit-israel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many Israel government websites were offline after a cyberattack, defense sources claim that this is the largest-ever attack that hit the country.
+
+
+
+Israeli media reported that a massive DDoS attack has taken down many Israel government websites. The Jerusalem...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2021 mobile security: Android more vulnerabilities, iOS more zero-days<a href="https://www.bleepingcomputer.com/news/security/2021-mobile-security-android-more-vulnerabilities-ios-more-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mobile security company Zimperium has released its annual mobile threat report where security trends and discoveries in the year that passed lay the groundwork for predicting what's coming in 2022. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prophet Spider Exploits Citrix Flaw to Deliver Webshell<a href="https://cyware.com/news/prophet-spider-exploits-citrix-flaw-to-deliver-webshell-c4657820"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crowdstrike reported a threat group named Prophet Spider that is abusing an RCE vulnerability in Citrix ShareFile to compromise Microsoft's Internet Information Services webserver. The relative path-traversal vulnerability (CVE-2021-22941) was disclosed in ShareFile Zones Storage Controller. Organi ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bipartisan group of senators press Mayorkas on US readiness for Russian cyberthreat<a href="https://thehill.com//policy/cybersecurity/598088-bipartisan-group-of-senators-press-mayorkas-on-us-readiness-for-russian"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan group of senators is pressing Homeland Security Secretary Alejandro Mayorkas on the U.S.’s readiness for Russian cyberattacks amid Moscow’s invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Enterprise Threat Mitigation Requires Automated, Single-Purpose Tools<a href="https://thehackernews.com/2022/03/why-enterprise-threat-mitigation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As much as threat mitigation is to a degree a specialist task involving cybersecurity experts, the day to day of threat mitigation often still comes down to systems administrators. For these sysadmins it's not an easy task, however. In enterprise IT, sysadmins teams have a wide remit but limited resources.  For systems administrators finding the time and resources to mitigate against a growing and constantly moving threat is challenging. In this article, we outline the difficulties implied by enterprise threat mitigation, and explain why automated, purpose-built mitigation tools are the way forward.  Threat management is an overwhelming task  There is a range of specialists that work within threat management, but the practical implementation of threat management strategies often comes down to systems administrators. Whether it's patch management, intrusion detection or remediation after an attack, sysadmins typically bear the brunt of the work.  It's an impossible task, gi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine is using Clearview AI’s facial recognition during the conflict<a href="https://securityaffairs.co/wordpress/129047/cyber-warfare-2/clearview-facial-recognition-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's defense ministry began using Clearview AI’s facial recognition technology to uncover Russian assailants, combat misinformation and identify the dead.
+
+
+
+Ukraine's defense ministry announced it will use the AI’s facial recognition technology...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New CaddyWiper data wiping malware hits Ukrainian networks<a href="https://www.bleepingcomputer.com/news/security/new-caddywiper-data-wiping-malware-hits-ukrainian-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered data-destroying malware was observed earlier today in attacks targeting Ukrainian organizations and deleting data across systems on compromised networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target German Branch of Russian Oil Giant Rosneft<a href="https://www.securityweek.com/hackers-target-german-branch-russian-oil-giant-rosneft?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The German subsidiary of Russian energy giant Rosneft has been hit by a cyberattack, the Federal Office for Information Security (BSI) said on Monday, with hacker group Anonymous claiming responsibility.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Ransomware Gang Retool Custom Hacking Tools of Other APT Groups<a href="https://thehackernews.com/2022/03/russian-ransomware-gang-retool-custom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian-speaking ransomware outfit likely targeted an unnamed entity in the gambling and gaming sector in Europe and Central America by repurposing custom tools developed by other APT groups like Iran's MuddyWater, new research has found.  The unusual attack chain involved the abuse of stolen credentials to gain unauthorized access to the victim network, ultimately leading to the deployment of Cobalt Strike payloads on compromised assets,  said  Felipe Duarte and Ido Naor, researchers at Israeli incident response firm Security Joes, in a report published last week.   Although the infection was contained at this stage, the researchers characterized the compromise as a case of a suspected ransomware attack.  The intrusion is said to have taken place in February 2022, with the attackers making use of post-exploitation tools such as  ADFind , NetScan,  SoftPerfect , and  LaZagne . Also employed is an AccountRestore executable to brute-force administrator credentials and a forked ver
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous claims to have hacked German subsidiary of Russian energy giant Rosneft<a href="https://securityaffairs.co/wordpress/129052/hacktivism/anonymous-hacked-german-subsidiary-rosneft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous claims to have hacked the systems of the German subsidiary of Russian energy giant Rosneft and stole 20TB of data.
+
+
+
+The Anonymous hacker collective claimed to have hacked the German branch of the Russian energy giant Rosneft. In hacktivists...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns severe Linux bug affects most of its NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-severe-linux-bug-affects-most-of-its-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese hardware vendor QNAP warns most of its Network Attached Storage (NAS) devices are impacted by a high severity Linux vulnerability dubbed 'Dirty Pipe' that allows attackers with local access to gain root privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian trojan impacting Portuguese users and using the same capabilities seen in other Latin American threats<a href="https://securityaffairs.co/wordpress/129024/malware/brazilian-trojan-tragets-portuguese-users.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware takes advantage of a template from the Portuguese Tax services (Autoridade Tributária e Aduaneira) to disseminate the threat in the wild. Maxtrilha uses the same templates to target users.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux Bug in Netfilter Firewall Module Lets Attackers Gain Root Access<a href="https://thehackernews.com/2022/03/new-linux-bug-in-netfilter-firewall.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly disclosed security flaw in the Linux kernel could be leveraged by a local adversary to gain elevated privileges on vulnerable systems to execute arbitrary code, escape containers, or induce a  kernel panic .  Tracked as  CVE-2022-25636  (CVSS score: 7.8), the vulnerability impacts Linux kernel versions 5.4 through 5.6.10 and is a result of a heap out-of-bounds write in the netfilter subcomponent in the kernel. The issue was  discovered  by Nick Gregory, a research scientist at Capsule8.   "This flaw allows a local attacker with a user account on the system to gain access to out-of-bounds memory, leading to a system crash or a privilege escalation threat," Red Hat  said  in an advisory published on February 22, 2022. Similar alerts have been released by  Debian ,  Oracle Linux ,  SUSE , and  Ubuntu .  Netfilter is a  framework  provided by the Linux kernel that enables various networking-related operations, including packet filtering, network address translation, and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian trojan impacting Portuguese users and using the same capabilities seen in other Latin American threats<a href="https://securityaffairs.co/wordpress/129024/malware/brazilian-trojan-tragets-portuguese-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brazilian trojan impacting Portuguese users and using the same capabilities seen in other Latin American threats
+
+
+
+Introduction
+
+
+
+A new variant of a Brazilian trojan has impacted Internet end users in Portugal since last month (February 2022). Although...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automotive giant DENSO hit by new Pandora ransomware gang<a href="https://www.bleepingcomputer.com/news/security/automotive-giant-denso-hit-by-new-pandora-ransomware-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DENSO has published an announcement to confirm that its German business computer network was accessed by an unauthorized third party on March 10, 2022, resulting in a data breach.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Planned Terabytes of DDoS Traffic Using a Single Packet<a href="https://cyware.com/news/hacker-planned-terabytes-of-ddos-traffic-using-a-single-packet-13aff3a9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from a number of organizations confirmed that attackers have been exploiting Mitel enterprise collaboration products to amplify DDoS attacks by 4 billion times from a single packet. The exploitation of the flaw began on February 18 and mainly reflected onto ports 80 and 443.&nbsp;Those  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find New Evidence Linking Kwampirs Malware to Shamoon APT Hackers<a href="https://thehackernews.com/2022/03/researchers-find-new-evidence-linking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings released last week showcase the overlapping source code and techniques between the operators of  Shamoon  and  Kwampirs , indicating that they "are the same group or really close collaborators."  "Research evidence shows identification of co-evolution between both Shamoon and Kwampirs malware families during the known timeline," Pablo Rincón Crespo of Cylera Labs  said .  "If Kwampirs is based on the original Shamoon, and Shamoon 2 and 3 campaign code is based on Kwampirs, […] then the authors of Kwampirs would be potentially the same as the authors of Shamoon, or must have a very strong relationship, as has been seen over the course of many years," Rincón Crespo added.  Shamoon, also known as DistTrack, functions as an information-stealing malware that also incorporates a destructive component that allows it to overwrite the Master Boot Record (MBR) with arbitrary data so as to render the infected machine inoperable.   The malware, developed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Ukraine cyber conflict poses critical infrastructure at risk<a href="https://securityaffairs.co/wordpress/129009/cyber-warfare-2/russia-ukraine-critical-infrastructure-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the Russia-Ukraine cyber conflict goes on, nation-state actors, crooks, and hacktivists continue to pose critical infrastructure at risk.
+
+
+
+Critical infrastructure is a privileged target for almost any kind of threat actor, the ongoing Russia-Ukraine...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Denver Cardiology Associates Discloses Unauthorized Access to its Databases<a href="https://portswigger.net/daily-swig/data-breach-at-us-heart-disease-treatment-center-impacts-287-000-individuals?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SDCA admitted that an unnamed attacker broke into its systems and had access to confidential databases for three days between January 2, 2022, and January 5, 2022, before the breach was detected and thwarted.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities Patched in Veeam Data Backup Solution<a href="https://www.securityweek.com/critical-vulnerabilities-patched-veeam-data-backup-solution?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaws were identified in the Veeam Distribution Service, which by default listens to TCP port 9380 and allows even unauthenticated users to access internal API functions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMD Updates Spectre Mitigations Following Intel Research<a href="https://www.securityweek.com/amd-updates-spectre-mitigations-following-intel-research?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AMD last week informed customers that it has updated mitigations for a variant of the Spectre side-channel attack. The update comes in response to research conducted by Intel.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubisoft reveals 'security incident' forcing company-wide password refresh<a href="https://www.zdnet.com/article/ubisoft-reveals-security-incident-forcing-company-wide-password-refresh/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gaming giant, headquartered in Montreuil, France, said on March 10 that the incident took place earlier this month, causing "temporary disruption to some of our games, systems, and services."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 13, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900072
 
 ## General
 ---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2021 mobile security: Android more vulnerabilities, iOS more zero-days<a href="https://www.bleepingcomputer.com/news/security/2021-mobile-security-android-more-vulnerabilities-ios-more-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mobile security company Zimperium has released its annual mobile threat report where security trends and discoveries in the year that passed lay the groundwork for predicting what's coming in 2022.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Enterprise Threat Mitigation Requires Automated, Single-Purpose Tools<a href="https://thehackernews.com/2022/03/why-enterprise-threat-mitigation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As much as threat mitigation is to a degree a specialist task involving cybersecurity experts, the day to day of threat mitigation often still comes down to systems administrators. For these sysadmins it's not an easy task, however. In enterprise IT, sysadmins teams have a wide remit but limited resources.  For systems administrators finding the time and resources to mitigate against a growing and constantly moving threat is challenging. In this article, we outline the difficulties implied by enterprise threat mitigation, and explain why automated, purpose-built mitigation tools are the way forward.  Threat management is an overwhelming task  There is a range of specialists that work within threat management, but the practical implementation of threat management strategies often comes down to systems administrators. Whether it's patch management, intrusion detection or remediation after an attack, sysadmins typically bear the brunt of the work.  It's an impossible task, gi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Ukraine cyber conflict poses critical infrastructure at risk<a href="https://securityaffairs.co/wordpress/129009/cyber-warfare-2/russia-ukraine-critical-infrastructure-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the Russia-Ukraine cyber conflict goes on, nation-state actors, crooks, and hacktivists continue to pose critical infrastructure at risk.
+
+
+
+Critical infrastructure is a privileged target for almost any kind of threat actor, the ongoing Russia-Ukraine...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

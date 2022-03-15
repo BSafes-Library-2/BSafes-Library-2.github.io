@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find New Evidence Linking Kwampirs Malware to Shamoon APT Hackers<a href="https://thehackernews.com/2022/03/researchers-find-new-evidence-linking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings released last week showcase the overlapping source code and techniques between the operators of&nbsp; Shamoon &nbsp;and&nbsp; Kwampirs , indicating that they "are the same group or really close collaborators."  "Research evidence shows identification of co-evolution between both Shamoon and Kwampirs malware families during the known timeline," Pablo Rincón Crespo of Cylera Labs&nbsp; said .  "If Kwampirs is based on the original Shamoon, and Shamoon 2 and 3 campaign code is based on Kwampirs, […] then the authors of Kwampirs would be potentially the same as the authors of Shamoon, or must have a very strong relationship, as has been seen over the course of many years," Rincón Crespo added.  Shamoon, also known as DistTrack, functions as an information-stealing malware that also incorporates a destructive component that allows it to overwrite the Master Boot Record (MBR) with arbitrary data so as to render the infected machine inoperable.   The malware, developed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
