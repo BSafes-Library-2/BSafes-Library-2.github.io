@@ -8,6 +8,77 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prophet Spider Exploits Citrix Flaw to Deliver Webshell<a href="https://cyware.com/news/prophet-spider-exploits-citrix-flaw-to-deliver-webshell-c4657820"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crowdstrike reported a threat group named Prophet Spider that is abusing an RCE vulnerability in Citrix ShareFile to compromise Microsoft's Internet Information Services webserver. The relative path-traversal vulnerability (CVE-2021-22941) was disclosed in ShareFile Zones Storage Controller. Organi ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns severe Linux bug affects most of its NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-severe-linux-bug-affects-most-of-its-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese hardware vendor QNAP warns most of its Network Attached Storage (NAS) devices are impacted by a high severity Linux vulnerability dubbed 'Dirty Pipe' that allows attackers with local access to gain root privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux Bug in Netfilter Firewall Module Lets Attackers Gain Root Access<a href="https://thehackernews.com/2022/03/new-linux-bug-in-netfilter-firewall.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly disclosed security flaw in the Linux kernel could be leveraged by a local adversary to gain elevated privileges on vulnerable systems to execute arbitrary code, escape containers, or induce a&nbsp; kernel panic .  Tracked as&nbsp; CVE-2022-25636 &nbsp;(CVSS score: 7.8), the vulnerability impacts Linux kernel versions 5.4 through 5.6.10 and is a result of a heap out-of-bounds write in the netfilter subcomponent in the kernel. The issue was&nbsp; discovered &nbsp;by Nick Gregory, a research scientist at Capsule8.   "This flaw allows a local attacker with a user account on the system to gain access to out-of-bounds memory, leading to a system crash or a privilege escalation threat," Red Hat&nbsp; said &nbsp;in an advisory published on February 22, 2022. Similar alerts have been released by&nbsp; Debian ,&nbsp; Oracle Linux ,&nbsp; SUSE , and&nbsp; Ubuntu .  Netfilter is a&nbsp; framework &nbsp;provided by the Linux kernel that enables various networking-related operations, including packet filtering, network address translation, and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities Patched in Veeam Data Backup Solution<a href="https://www.securityweek.com/critical-vulnerabilities-patched-veeam-data-backup-solution?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaws were identified in the Veeam Distribution Service, which by default listens to TCP port 9380 and allows even unauthenticated users to access internal API functions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMD Updates Spectre Mitigations Following Intel Research<a href="https://www.securityweek.com/amd-updates-spectre-mitigations-following-intel-research?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AMD last week informed customers that it has updated mitigations for a variant of the Spectre side-channel attack. The update comes in response to research conducted by Intel.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

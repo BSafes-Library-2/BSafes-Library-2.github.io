@@ -8,6 +8,80 @@ nav_order: 900072
 
 ## General
 ---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of ransomware variants used in 722 attacks over 3 months<a href="https://www.bleepingcomputer.com/news/security/dozens-of-ransomware-variants-used-in-722-attacks-over-3-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware space was very active in the last quarter of 2021, with threat analysts observing 722 distinct attacks deploying 34 different variants.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The German BSI agency recommends replacing Kaspersky antivirus software<a href="https://securityaffairs.co/wordpress/129085/intelligence/bsi-recommends-replace-kaspersky-av.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German Federal Office for Information Security agency, also known as BSI, recommends consumers not to use Kaspersky anti-virus software.
+
+
+
+The German Federal Office for Information Security agency, aka BSI, recommends consumers uninstall Kaspersky anti-virus...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious web application requests skyrocketing, bad actors stealthier than ever before<a href="https://www.helpnetsecurity.com/2022/03/15/malicious-web-application-requests/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between 2020 and 2021, the number of malicious web application requests climbed 88%, more than double the year-over-year growth rate in distributed denial-of-service (DDoS) attacks, which were up 37% over 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kronos ransomware attack raises questions of vendor liability<a href="https://www.cybersecuritydive.com/news/kronos-ransomware-attack-lawsuits/620184/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The December ransomware attack against workforce management company Ultimate Kronos Group hindered the ability of its customers to process payrolls. The attack, which has far-reaching ramifications, has stakeholders looking for who is to blame.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prison service for England and Wales recorded more than 2,000 data breaches over 12 months<a href="https://portswigger.net/daily-swig/prison-service-for-england-and-wales-recorded-more-than-2-000-data-breaches-over-12-months?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The employee’s sensitive personal data was apparently exposed because of unauthorized access gained to the Justice Academy, an online learning and careers platform used by MoJ and other public sector staff.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

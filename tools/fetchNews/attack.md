@@ -8,6 +8,109 @@ nav_order: 900015
 
 ## Attack
 ---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake antivirus updates used to deploy Cobalt Strike in Ukraine<a href="https://www.bleepingcomputer.com/news/security/fake-antivirus-updates-used-to-deploy-cobalt-strike-in-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's Computer Emergency Response Team is warning that threat actors are distributing fake Windows antivirus updates that install Cobalt Strike and other malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-based TA416 Ramp-Up Espionage Against European Governments<a href="https://cyware.com/news/china-based-ta416-ramp-up-espionage-against-european-governments-605449a5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-backed threat group has been observed targeting European diplomatic entities indulging in refugee and migrant services. The group takes advantage of web bugs to profile its targets. An analysis revealed that the threat group is using an updated version of PlugX malware. To stay protected, ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New CaddyWiper data wiping malware hits Ukrainian networks<a href="https://www.bleepingcomputer.com/news/security/new-caddywiper-data-wiping-malware-hits-ukrainian-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered data-destroying malware was observed earlier today in attacks targeting Ukrainian organizations and deleting data across systems on compromised networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target German Branch of Russian Oil Giant Rosneft<a href="https://www.securityweek.com/hackers-target-german-branch-russian-oil-giant-rosneft?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The German subsidiary of Russian energy giant Rosneft has been hit by a cyberattack, the Federal Office for Information Security (BSI) said on Monday, with hacker group Anonymous claiming responsibility.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous claims to have hacked German subsidiary of Russian energy giant Rosneft<a href="https://securityaffairs.co/wordpress/129052/hacktivism/anonymous-hacked-german-subsidiary-rosneft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous claims to have hacked the systems of the German subsidiary of Russian energy giant Rosneft and stole 20TB of data.
+
+
+
+The Anonymous hacker collective claimed to have hacked the German branch of the Russian energy giant Rosneft. In hacktivists...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian trojan impacting Portuguese users and using the same capabilities seen in other Latin American threats<a href="https://securityaffairs.co/wordpress/129024/malware/brazilian-trojan-tragets-portuguese-users.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware takes advantage of a template from the Portuguese Tax services (Autoridade Tributária e Aduaneira) to disseminate the threat in the wild. Maxtrilha uses the same templates to target users.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automotive giant DENSO hit by new Pandora ransomware gang<a href="https://www.bleepingcomputer.com/news/security/automotive-giant-denso-hit-by-new-pandora-ransomware-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DENSO has published an announcement to confirm that its German business computer network was accessed by an unauthorized third party on March 10, 2022, resulting in a data breach.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

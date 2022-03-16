@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux botnet exploits Log4J, uses DNS tunneling for comms<a href="https://www.bleepingcomputer.com/news/security/new-linux-botnet-exploits-log4j-uses-dns-tunneling-for-comms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered botnet under active development targets Linux systems, attempting to ensnare them into an army of bots ready to steal sensitive info, installing rootkits, creating reverse shells, and acting as web traffic proxies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

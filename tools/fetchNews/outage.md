@@ -8,6 +8,24 @@ nav_order: 900140
 
 ## Outage
 ---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A massive DDoS attack hit Israel, government sites went offline<a href="https://securityaffairs.co/wordpress/129063/cyber-warfare-2/massive-ddos-attack-hit-israel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many Israel government websites were offline after a cyberattack, defense sources claim that this is the largest-ever attack that hit the country.
+
+
+
+Israeli media reported that a massive DDoS attack has taken down many Israel government websites. The Jerusalem...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

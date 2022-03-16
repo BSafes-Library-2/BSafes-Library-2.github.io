@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HackerOne apologizes to Ukrainian hackers for mistakenly blocking payouts<a href="https://www.bleepingcomputer.com/news/security/hackerone-apologizes-to-ukrainian-hackers-for-mistakenly-blocking-payouts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, Chris Evans, the CISO of bug bounty platform HackerOne, apologized to Ukrainian hackers after erroneously blocking their bug bounty payouts following sanctions imposed on Russia and Belarus after Ukraine's invasion.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,74 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-0778 DoS flaw in OpenSSL was fixed<a href="https://securityaffairs.co/wordpress/129104/security/openssl-dos-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSSL addressed a high-severity denial-of-service (DoS) vulnerability, tracked as&nbsp;CVE-2022-0778, related to certificate parsing.
+
+
+
+OpenSSL released updates to address a high-severity denial-of-service (DoS) vulnerability, tracked as&nbsp;CVE-2022-0778,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaws affect Veeam Data Backup software<a href="https://securityaffairs.co/wordpress/129094/hacking/veeam-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Veeam addressed two critical vulnerabilities impacting the Backup &amp; Replication product for virtual environments.
+
+
+
+Veeam has released security patches to fix two critical vulnerabilities, tracked as CVE-2022-26500 and CVE-2022-26501 (CVSS score...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dirty Pipe Linux flaw impacts most QNAP NAS devices<a href="https://securityaffairs.co/wordpress/129076/hacking/qnap-nas-dirty-pipe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP warns most of its NAS devices are impacted by high severity Linux vulnerability dubbed 'Dirty Pipe.'
+
+
+
+Taiwanese hardware vendor QNAP warns most of its Network Attached Storage (NAS) devices are impacted by the recently discovered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Dirty Pipe' Linux Flaw Affects a Wide Range of QNAP NAS Devices<a href="https://thehackernews.com/2022/03/dirty-pipe-linux-flaw-affects-wide.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network-attached storage (NAS) appliance maker QNAP on Monday warned of a recently disclosed Linux vulnerability affecting its devices that could be abused to elevate privileges and gain control of affected systems.  "A local privilege escalation vulnerability, also known as 'Dirty Pipe,' has been reported to affect the Linux kernel on QNAP NAS running QTS 5.0.x and QuTS hero h5.0.x," the company&nbsp; said . "If exploited, this vulnerability allows an unprivileged user to gain administrator privileges and inject malicious code."   The Taiwanese firm said it's continuing to thoroughly&nbsp; investigate its product line &nbsp;for the vulnerability and that there's no QNAP NAS running QTS 4.x are immune to the Dirty Pipe flaw.   Tracked as&nbsp; CVE-2022-0847 &nbsp;(CVSS score: 7.8), the shortcoming resides in the Linux kernel that could permit an attacker to overwrite arbitrary data into any read-only files and allow for a complete takeover of vulnerable machines.  The issue
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

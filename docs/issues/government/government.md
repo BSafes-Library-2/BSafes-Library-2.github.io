@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine claims to have arrested 'hacker' helping Russians<a href="https://thehill.com//policy/international/598316-ukraine-claims-to-have-arrested-hacker-helping-russians"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SSU) claimed on Tuesday that a “hacker” who had assisted Russia had been detained by officials.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of MFA flaw used by state hackers for lateral movement<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-mfa-flaw-used-by-state-hackers-for-lateral-movement/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI&nbsp;says&nbsp;Russian state-backed hackers gained access to a non-governmental organization (NGO) cloud after enrolling their own device&nbsp;in the organization's Duo MFA&nbsp;following the exploitation of misconfigured default multifactor authentication (MFA) protocols.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German government advises against using Kaspersky antivirus<a href="https://www.bleepingcomputer.com/news/security/german-government-advises-against-using-kaspersky-antivirus/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BSI, the federal cybersecurity authority in Germany, has issued a public statement to warn critical entities in the country against using Kaspersky antivirus software products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive phishing campaign uses 500+ domains to steal credentials<a href="https://www.bleepingcomputer.com/news/security/massive-phishing-campaign-uses-500-plus-domains-to-steal-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Large-scale phishing activity using hundreds of domains to steal credentials for Naver, a Google-like online platform in South Korea, shows infrastructure overlaps linked to the TrickBot botnet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive DDoS Attack Knocked Israeli Government Websites Offline<a href="https://thehackernews.com/2022/03/massive-ddos-attack-knocked-israeli.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of websites belonging to the Israeli government were felled in a distributed denial-of-service ( DDoS ) attack on Monday, rendering the portals inaccessible for a short period of time.  "In the past few hours, a DDoS attack against a communications provider was identified," the Israel National Cyber Directorate (INCD)&nbsp; said &nbsp;in a tweet. "As a result, access to several websites, among them government websites, was denied for a short time. As of now, all of the websites have returned to normal activity."   A distributed denial-of-service attack is a malicious attempt to hamper the normal traffic of a targeted server or service by overwhelming the victim and its surrounding infrastructure with a flood of junk internet traffic by leveraging compromised computers and IoT devices as sources of attack traffic.  The development comes after internet watchdog NetBlocks&nbsp; reported &nbsp;"significant disruptions" registered on multiple networks supplied by Israel&amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

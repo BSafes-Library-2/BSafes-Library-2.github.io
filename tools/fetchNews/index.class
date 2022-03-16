@@ -34,6 +34,448 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HackerOne apologizes to Ukrainian hackers for mistakenly blocking payouts<a href="https://www.bleepingcomputer.com/news/security/hackerone-apologizes-to-ukrainian-hackers-for-mistakenly-blocking-payouts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, Chris Evans, the CISO of bug bounty platform HackerOne, apologized to Ukrainian hackers after erroneously blocking their bug bounty payouts following sanctions imposed on Russia and Belarus after Ukraine's invasion.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raccoon Stealer Using Telegram for Hidden Communications<a href="https://cyware.com/news/raccoon-stealer-using-telegram-for-hidden-communications-c4cf31d4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The credential-stealing Raccoon Stealer&nbsp;is spotted using the chat app to store and update C2 addresses as adversaries find creative new ways to distribute the malware. The cybercriminals are attempting to evade detection by packing the credential stealer, using Themida or malware packers. Expe ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine claims to have arrested 'hacker' helping Russians<a href="https://thehill.com//policy/international/598316-ukraine-claims-to-have-arrested-hacker-helping-russians"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SSU) claimed on Tuesday that a “hacker” who had assisted Russia had been detained by officials.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 34 Ransomware Variants Observed in Hundreds of Cyberattacks in Q4 2021<a href="https://thehackernews.com/2022/03/nearly-34-ransomware-variants-observed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 722 ransomware attacks were observed during the fourth quarter of 2021, with LockBit 2.0, Conti, PYSA, Hive, and Grief emerging as the most prevalent strains, according to new research published by Intel 471.  The attacks mark an increase of 110 and 129 attacks from the third and second quarters of 2021, respectively. In all, 34 different ransomware variants were detected during the three-month-period between October and December 2021.   "The most prevalent ransomware strain in the fourth quarter of 2021 was LockBit 2.0, which was responsible for 29.7% of all reported incidents, followed by Conti at 19%, PYSA at 10.5%, and Hive at 10.1%," the researchers said in a report  shared with The Hacker News.  Some of the most impacted sectors during the quarterly period were consumer and industrial products; manufacturing; professional services and consulting; real estate; life sciences and health care; technology, media and telecommunications; energy, resources and agric
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-0778 DoS flaw in OpenSSL was fixed<a href="https://securityaffairs.co/wordpress/129104/security/openssl-dos-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSSL addressed a high-severity denial-of-service (DoS) vulnerability, tracked as CVE-2022-0778, related to certificate parsing.
+
+
+
+OpenSSL released updates to address a high-severity denial-of-service (DoS) vulnerability, tracked as CVE-2022-0778,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of ransomware variants used in 722 attacks over 3 months<a href="https://www.bleepingcomputer.com/news/security/dozens-of-ransomware-variants-used-in-722-attacks-over-3-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware space was very active in the last quarter of 2021, with threat analysts observing 722 distinct attacks deploying 34 different variants.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lampion Trojan Returns with its Old Attack Infrastructure<a href="https://cyware.com/news/lampion-trojan-returns-with-its-old-attack-infrastructure-b7636d26"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the most active banking trojans&nbsp;has been spotted tweaking its technique but using the same old infrastructure to target its victims in banking the sector. The attackers use fake banking templates impersonating Portuguese organizations to bait victims. Organizations are recommended to ma ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CaddyWiper: Yet Another Data Wiping Malware Targeting Ukrainian Networks<a href="https://thehackernews.com/2022/03/caddywiper-yet-another-data-wiping.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two weeks after details emerged about a second data wiper strain delivered in attacks against Ukraine, yet another destructive malware has been detected amid Russia's continuing military invasion of the country.  Slovak cybersecurity company ESET dubbed the third wiper " CaddyWiper ," which it said it first observed on March 14 around 9:38 a.m. UTC. Metadata associated with the executable (" caddy.exe ") shows that the malware was compiled at 7:19 a.m. UTC, a little over two hours prior to its deployment.  CaddyWiper is notable for the fact that it doesn't share any similarities with previously discovered wipers in Ukraine, including  HermeticWiper  (aka FoxBlade or KillDisk) and  IsaacWiper  (aka Lasainraw), the two of which have been deployed in systems belonging to government and commercial entities.   "The ultimate goal of the attackers is the same  as with IsaacWiper and HermeticWiper: make the systems unusable by erasing user data and partition i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaws affect Veeam Data Backup software<a href="https://securityaffairs.co/wordpress/129094/hacking/veeam-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Veeam addressed two critical vulnerabilities impacting the Backup & Replication product for virtual environments.
+
+
+
+Veeam has released security patches to fix two critical vulnerabilities, tracked as CVE-2022-26500 and CVE-2022-26501 (CVSS score...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of MFA flaw used by state hackers for lateral movement<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-mfa-flaw-used-by-state-hackers-for-lateral-movement/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI says Russian state-backed hackers gained access to a non-governmental organization (NGO) cloud after enrolling their own device in the organization's Duo MFA following the exploitation of misconfigured default multifactor authentication (MFA) protocols.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MuddyWater Uses SloughRAT To Target Turkey and Arabian Peninsula<a href="https://cyware.com/news/muddywater-uses-sloughrat-to-target-turkey-and-arabian-peninsula-bd0b5063"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian MuddyWater APT launched a new series of attacks targeting Turkey and the Arabian Peninsula. The recent intrusions appear to be a continuation of a November 2021 campaign targeting Turkish entities. Its malicious activities shows group's peaked interest in the region and geopolitics.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive DDoS Attack Knocked Israeli Government Websites Offline<a href="https://thehackernews.com/2022/03/massive-ddos-attack-knocked-israeli.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of websites belonging to the Israeli government were felled in a distributed denial-of-service ( DDoS ) attack on Monday, rendering the portals inaccessible for a short period of time.  "In the past few hours, a DDoS attack against a communications provider was identified," the Israel National Cyber Directorate (INCD)  said  in a tweet. "As a result, access to several websites, among them government websites, was denied for a short time. As of now, all of the websites have returned to normal activity."   A distributed denial-of-service attack is a malicious attempt to hamper the normal traffic of a targeted server or service by overwhelming the victim and its surrounding infrastructure with a flood of junk internet traffic by leveraging compromised computers and IoT devices as sources of attack traffic.  The development comes after internet watchdog NetBlocks  reported  "significant disruptions" registered on multiple networks supplied by Israel&
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The German BSI agency recommends replacing Kaspersky antivirus software<a href="https://securityaffairs.co/wordpress/129085/intelligence/bsi-recommends-replace-kaspersky-av.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German Federal Office for Information Security agency, also known as BSI, recommends consumers not to use Kaspersky anti-virus software.
+
+
+
+The German Federal Office for Information Security agency, aka BSI, recommends consumers uninstall Kaspersky anti-virus...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux botnet exploits Log4J, uses DNS tunneling for comms<a href="https://www.bleepingcomputer.com/news/security/new-linux-botnet-exploits-log4j-uses-dns-tunneling-for-comms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered botnet under active development targets Linux systems, attempting to ensnare them into an army of bots ready to steal sensitive info, installing rootkits, creating reverse shells, and acting as web traffic proxies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious web application requests skyrocketing, bad actors stealthier than ever before<a href="https://www.helpnetsecurity.com/2022/03/15/malicious-web-application-requests/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between 2020 and 2021, the number of malicious web application requests climbed 88%, more than double the year-over-year growth rate in distributed denial-of-service (DDoS) attacks, which were up 37% over 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dirty Pipe Linux flaw impacts most QNAP NAS devices<a href="https://securityaffairs.co/wordpress/129076/hacking/qnap-nas-dirty-pipe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP warns most of its NAS devices are impacted by high severity Linux vulnerability dubbed 'Dirty Pipe.'
+
+
+
+Taiwanese hardware vendor QNAP warns most of its Network Attached Storage (NAS) devices are impacted by the recently discovered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android trojan persists on the Google Play Store since January<a href="https://www.bleepingcomputer.com/news/security/android-trojan-persists-on-the-google-play-store-since-january/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers tracking the mobile app ecosystem have noticed a recent spike in trojan infiltration on the Google Play Store, with one of the apps having over 500,000 installs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Thousands of Secret Keys Found in Leaked Samsung Source Code<a href="https://www.securityweek.com/thousands-secret-keys-found-leaked-samsung-source-code?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of the recently leaked Samsung source code revealed that thousands of secret keys have been exposed, including many that could be highly useful to malicious actors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC to fine CafePress for cover up of massive data breach<a href="https://www.bleepingcomputer.com/news/security/ftc-to-fine-cafepress-for-cover-up-of-massive-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission (FTC) wants to slap the former owner of the CafePress custom t-shirt and merchandise site with a $500,000 fine for failing to secure its users' data and attempting to cover up a significant data breach impacting millions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Insurance Firm Cowbell Raises $100 Million<a href="https://www.securityweek.com/cyber-insurance-firm-cowbell-raises-100-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest investment round was led by the Anthemis Group. All previous investors participated as well, along with NYCA Partners, Permira, PruVen Capital, and Viola Fintech.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive phishing campaign uses 500+ domains to steal credentials<a href="https://www.bleepingcomputer.com/news/security/massive-phishing-campaign-uses-500-plus-domains-to-steal-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Large-scale phishing activity using hundreds of domains to steal credentials for Naver, a Google-like online platform in South Korea, shows infrastructure overlaps linked to the TrickBot botnet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kronos ransomware attack raises questions of vendor liability<a href="https://www.cybersecuritydive.com/news/kronos-ransomware-attack-lawsuits/620184/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The December ransomware attack against workforce management company Ultimate Kronos Group hindered the ability of its customers to process payrolls. The attack, which has far-reaching ramifications, has stakeholders looking for who is to blame.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German government advises against using Kaspersky antivirus<a href="https://www.bleepingcomputer.com/news/security/german-government-advises-against-using-kaspersky-antivirus/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BSI, the federal cybersecurity authority in Germany, has issued a public statement to warn critical entities in the country against using Kaspersky antivirus software products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prison service for England and Wales recorded more than 2,000 data breaches over 12 months<a href="https://portswigger.net/daily-swig/prison-service-for-england-and-wales-recorded-more-than-2-000-data-breaches-over-12-months?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The employee’s sensitive personal data was apparently exposed because of unauthorized access gained to the Justice Academy, an online learning and careers platform used by MoJ and other public sector staff.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CaddyWiper, a new data wiper hits Ukraine<a href="https://securityaffairs.co/wordpress/129069/cyber-warfare-2/caddywiper-wiper-hits-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered a new wiper, tracked as CaddyWiper, that was employed in attacks targeting Ukrainian organizations.
+
+
+
+Experts at ESET Research Labs discovered a new data wiper, dubbed CaddyWiper, that was employed in attacks targeting Ukrainian organizations.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Dirty Pipe' Linux Flaw Affects a Wide Range of QNAP NAS Devices<a href="https://thehackernews.com/2022/03/dirty-pipe-linux-flaw-affects-wide.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network-attached storage (NAS) appliance maker QNAP on Monday warned of a recently disclosed Linux vulnerability affecting its devices that could be abused to elevate privileges and gain control of affected systems.  "A local privilege escalation vulnerability, also known as 'Dirty Pipe,' has been reported to affect the Linux kernel on QNAP NAS running QTS 5.0.x and QuTS hero h5.0.x," the company  said . "If exploited, this vulnerability allows an unprivileged user to gain administrator privileges and inject malicious code."   The Taiwanese firm said it's continuing to thoroughly  investigate its product line  for the vulnerability and that there's no QNAP NAS running QTS 4.x are immune to the Dirty Pipe flaw.   Tracked as  CVE-2022-0847  (CVSS score: 7.8), the shortcoming resides in the Linux kernel that could permit an attacker to overwrite arbitrary data into any read-only files and allow for a complete takeover of vulnerable machines.  The issue
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
