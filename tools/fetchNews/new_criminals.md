@@ -8,6 +8,66 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google exposes tactics of a Conti ransomware access broker<a href="https://www.bleepingcomputer.com/news/security/google-exposes-tactics-of-a-conti-ransomware-access-broker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group has exposed the operations of a threat actor group dubbed "EXOTIC LILY," an initial access broker linked to the Conti and Diavol ransomware operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine SBU arrested a hacker who supported Russia during the invasion<a href="https://securityaffairs.co/wordpress/129145/cyber-warfare-2/ukraine-sbu-arrested-hacker-helping-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SBU) announced the arrest of a "hacker" who helped Russian Army during the invasion.
+
+
+
+The Security Service of Ukraine (SBU) announced to have arrested a hacker who provided technical support to Russian troops during...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Secret Service Arrests Hacker Helping Russian Invaders<a href="https://thehackernews.com/2022/03/ukraine-secret-service-arrests-hacker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SBU) said it has detained a "hacker" who offered technical assistance to the invading Russian troops by providing mobile communication services inside the Ukrainian territory.  The anonymous suspect is said to have broadcasted text messages to Ukrainian officials, including security officers and civil servants, proposing that they surrender and take the side of Russia. The individual has also been accused of routing phone calls from Russia to the mobile phones of Russian troops in Ukraine.   "Up to a thousand calls were made through this hacker in one day. Many of them are from the top leadership of the enemy army," the SBU&nbsp; alleged , adding it confiscated the equipment that was used to pull off the operation.  Besides implicating the hacker for helping Russia make anonymous phone calls to its military forces based in Ukraine, the agency said the hacker passed commands and instructions to different groups of "Russian invaders.&amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ gang sends a worrying message to would-be criminals<a href="https://www.theregister.com/2022/03/17/lapsus-larger-companies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ cyber-crime gang, believed to be based in Brazil, until recently was best known for attacks on that country's Ministry of Health and Portuguese media outlets SIC Noticias and Expresso.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

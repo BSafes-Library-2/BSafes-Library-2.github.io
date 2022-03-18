@@ -8,6 +8,42 @@ nav_order: 900015
 
 ## Attack
 ---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MuddyWater Uses SloughRAT To Target Turkey and Arabian Peninsula<a href="https://cyware.com/news/muddywater-uses-sloughrat-to-target-turkey-and-arabian-peninsula-bd0b5063"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian MuddyWater APT launched a new series of attacks targeting Turkey and the Arabian Peninsula. The recent intrusions appear to be a continuation of a November 2021 campaign targeting Turkish entities. Its malicious activities shows group's peaked interest in the region and geopolitics.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CaddyWiper, a new data wiper hits Ukraine<a href="https://securityaffairs.co/wordpress/129069/cyber-warfare-2/caddywiper-wiper-hits-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered a new wiper, tracked as CaddyWiper, that was employed in attacks targeting Ukrainian organizations.
+
+
+
+Experts at ESET Research Labs discovered a new data wiper, dubbed CaddyWiper, that was employed in attacks targeting Ukrainian organizations.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

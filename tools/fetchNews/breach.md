@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Thousands of Secret Keys Found in Leaked Samsung Source Code<a href="https://www.securityweek.com/thousands-secret-keys-found-leaked-samsung-source-code?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of the recently leaked Samsung source code revealed that thousands of secret keys have been exposed, including many that could be highly useful to malicious actors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

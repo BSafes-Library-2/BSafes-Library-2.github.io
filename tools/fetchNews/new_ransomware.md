@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Around 34 Ransomware Variants Detected In Q4 2021<a href="https://cyware.com/news/around-34-ransomware-variants-detected-in-q4-2021-a7a2d96e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware landscape witnessed 34 different variants in approximately 722 distinct attacks, with LockBit 2.0, Conti, and PYSA occupying the top three places.&nbsp;In comparison to Q3 2021 data, the attacks on the manufacturing sector have declined while consumer and industrial products rose by  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

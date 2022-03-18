@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2022
+March 18, 2022 -- [General](/docs/issues/general/general/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 node-ipc NPM Package sabotage to protest Ukraine invasion<a href="https://securityaffairs.co/wordpress/129174/hacking/node-ipc-npm-package-sabotage.html"> Full Text</a>
@@ -54,7 +54,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA, FBI warn US critical orgs of threats to SATCOM networks<a href="https://www.bleepingcomputer.com/news/security/cisa-fbi-warn-us-critical-orgs-of-threats-to-satcom-networks/"> Full Text</a>
@@ -70,7 +70,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Around 34 Ransomware Variants Detected In Q4 2021<a href="https://cyware.com/news/around-34-ransomware-variants-detected-in-q4-2021-a7a2d96e"> Full Text</a>
@@ -87,7 +87,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley — Invasion complicates social media policy<a href="https://thehill.com//policy/cybersecurity/overnights/598712-hillicon-valley-invasion-complicates-social-media-policy"> Full Text</a>
@@ -103,7 +103,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular NPM Package Updated to Wipe Russia, Belarus Systems to Protest Ukraine Invasion<a href="https://thehackernews.com/2022/03/popular-npm-package-updated-to-wipe.html"> Full Text</a>
@@ -119,7 +119,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dev Sabotages Popular NPM Package to Protest Russian Invasion<a href="https://threatpost.com/dev-sabotages-popular-npm-package-protest-russian-invasion/178972/"> Full Text</a>
@@ -135,7 +135,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Unix rootkit used to steal ATM banking data<a href="https://www.bleepingcomputer.com/news/security/new-unix-rootkit-used-to-steal-atm-banking-data/"> Full Text</a>
@@ -151,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Botnet Targets Linux Devices Via Log4J Vulnerability<a href="https://cyware.com/news/new-botnet-targets-linux-devices-via-log4j-vulnerability-250231ad"> Full Text</a>
@@ -168,7 +168,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian ministry says it's 'recording unprecedented attacks' on government websites<a href="https://thehill.com//policy/technology/598653-russian-ministry-says-its-recording-unprecedented-attacks-on-government"> Full Text</a>
@@ -184,7 +184,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DirtyMoe Botnet Gains New Exploits in Wormable Module to Spread Rapidly<a href="https://thehackernews.com/2022/03/dirtymoe-botnet-gains-new-exploits-in.html"> Full Text</a>
@@ -200,7 +200,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous continues to support Ukraine against the Russia<a href="https://securityaffairs.co/wordpress/129157/hacktivism/anonymous-vs-russia-2.html"> Full Text</a>
@@ -224,7 +224,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google exposes tactics of a Conti ransomware access broker<a href="https://www.bleepingcomputer.com/news/security/google-exposes-tactics-of-a-conti-ransomware-access-broker/"> Full Text</a>
@@ -240,7 +240,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kwampirs Malware Linked with Shamoon<a href="https://cyware.com/news/kwampirs-malware-linked-with-shamoon-53bc9051"> Full Text</a>
@@ -257,7 +257,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Golden Hour of Incident Response<a href="https://thehackernews.com/2022/03/the-golden-hour-of-incident-response.html"> Full Text</a>
@@ -273,7 +273,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Warns of Attacks Targeting Web Help Desk Users<a href="https://securityaffairs.co/wordpress/129154/hacking/solarwinds-web-help-desk-attack.html"> Full Text</a>
@@ -293,7 +293,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ASUS warns of Cyclops Blink malware attacks targeting routers<a href="https://www.bleepingcomputer.com/news/security/asus-warns-of-cyclops-blink-malware-attacks-targeting-routers/"> Full Text</a>
@@ -309,7 +309,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Wipers and Fake AV Updates Target Ukraine<a href="https://cyware.com/news/new-wipers-and-fake-av-updates-target-ukraine-f0f077d1"> Full Text</a>
@@ -326,7 +326,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot Malware Abusing MikroTik Routers as Proxies for Command-and-Control<a href="https://thehackernews.com/2022/03/trickbot-malware-abusing-hacked-iot.html"> Full Text</a>
@@ -342,7 +342,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine SBU arrested a hacker who supported Russia during the invasion<a href="https://securityaffairs.co/wordpress/129145/cyber-warfare-2/ukraine-sbu-arrested-hacker-helping-russia.html"> Full Text</a>
@@ -362,7 +362,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europe warns of aircraft GPS outages tied to Russian invasion<a href="https://www.bleepingcomputer.com/news/security/europe-warns-of-aircraft-gps-outages-tied-to-russian-invasion/"> Full Text</a>
@@ -378,7 +378,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sandworm-linked CyclopsBlink botnet has another piece of hardware in its sights<a href="https://www.cyberscoop.com/cyclopsblink-asus-routers-trend-micro/?&web_view=true"> Full Text</a>
@@ -394,7 +394,7 @@ CyberScoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine Secret Service Arrests Hacker Helping Russian Invaders<a href="https://thehackernews.com/2022/03/ukraine-secret-service-arrests-hacker.html"> Full Text</a>
@@ -410,7 +410,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 B1txor20 Linux botnet use DNS Tunnel and Log4J exploit<a href="https://securityaffairs.co/wordpress/129130/malware/b1txor20-linux-botnet-dns-tunnel.html"> Full Text</a>
@@ -430,7 +430,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft creates tool to scan MikroTik routers for TrickBot infections<a href="https://www.bleepingcomputer.com/news/security/microsoft-creates-tool-to-scan-mikrotik-routers-for-trickbot-infections/"> Full Text</a>
@@ -446,7 +446,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lapsus$ gang sends a worrying message to would-be criminals<a href="https://www.theregister.com/2022/03/17/lapsus-larger-companies/?&web_view=true"> Full Text</a>
@@ -462,7 +462,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Vulnerability in CRI-O Engine Lets Attackers Escape Kubernetes Containers<a href="https://thehackernews.com/2022/03/new-vulnerability-in-cri-o-engine-lets.html"> Full Text</a>
@@ -478,7 +478,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2022
+March 17, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BIG sabotage: Famous npm package deletes files to protest Ukraine war<a href="https://www.bleepingcomputer.com/news/security/big-sabotage-famous-npm-package-deletes-files-to-protest-ukraine-war/"> Full Text</a>
@@ -494,7 +494,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2022
+March 16, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Soldiers, Statesmen and Cyber Crises: Cyberspace and Civil-Military Relations<a href="https://www.lawfareblog.com/soldiers-statesmen-and-cyber-crises-cyberspace-and-civil-military-relations"> Full Text</a>
@@ -510,7 +510,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2022
+March 16, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘CryptoRom’ Crypto-Scam is Back via Side-Loaded Apps<a href="https://threatpost.com/cryptorom-crypto-scam-side-loaded-apple-apps/178942/"> Full Text</a>
@@ -526,7 +526,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2022
+March 16, 2022 -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia’s disinformation uses deepfake video of Zelenskyy telling people to lay down arms<a href="https://securityaffairs.co/wordpress/129124/intelligence/russia-deepfake-video-zelenskyy.html"> Full Text</a>
@@ -546,7 +546,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2022
+March 16, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New "B1txor20" Linux Botnet Uses DNS Tunnel and Exploits Log4J Flaw<a href="https://thehackernews.com/2022/03/new-b1txor20-linux-botnet-uses-dns.html"> Full Text</a>
@@ -562,7 +562,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2022
+March 16, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds 15 new flaws to the Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/129120/security/catalog-of-actively-exploited-2.html"> Full Text</a>
@@ -582,7 +582,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2022
+March 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unsecured Microsoft SQL, MySQL servers hit by Gh0stCringe malware<a href="https://www.bleepingcomputer.com/news/security/unsecured-microsoft-sql-mysql-servers-hit-by-gh0stcringe-malware/"> Full Text</a>
@@ -598,7 +598,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2022
+March 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked threats actors exploited default MFA protocol and PrintNightmare bug to compromise NGO cloud<a href="https://securityaffairs.co/wordpress/129113/apt/russia-linked-threats-actors-alert.html"> Full Text</a>
@@ -618,7 +618,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2022
+March 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds warns of attacks targeting Web Help Desk instances<a href="https://www.bleepingcomputer.com/news/security/solarwinds-warns-of-attacks-targeting-web-help-desk-instances/"> Full Text</a>
@@ -634,7 +634,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2022
+March 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker breaches key Russian ministry in blink of an eye<a href="https://securityaffairs.co/wordpress/129108/hacking/russian-ministry-hack.html"> Full Text</a>
@@ -658,7 +658,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2022
+March 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender tags Office updates as ransomware activity<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-tags-office-updates-as-ransomware-activity/"> Full Text</a>
@@ -674,7 +674,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2022
+March 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of GoDaddy-hosted sites backdoored in a single day<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-godaddy-hosted-sites-backdoored-in-a-single-day/"> Full Text</a>
@@ -690,7 +690,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2022
+March 16, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds 15 vulnerabilities to list of flaws exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-adds-15-vulnerabilities-to-list-of-flaws-exploited-in-attacks/"> Full Text</a>
@@ -706,7 +706,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2022
+March 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet malware campaign impersonates the IRS for 2022 tax season<a href="https://www.bleepingcomputer.com/news/security/emotet-malware-campaign-impersonates-the-irs-for-2022-tax-season/"> Full Text</a>
@@ -722,7 +722,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2022
+March 16, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSL cert parsing bug causes infinite denial of service loop<a href="https://www.bleepingcomputer.com/news/security/openssl-cert-parsing-bug-causes-infinite-denial-of-service-loop/"> Full Text</a>
@@ -738,7 +738,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2022
+March 15, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattacks Against Israeli Government Sites: ‘Largest in the Country’s History’<a href="https://threatpost.com/cyberattacks-israeli-government-sites-largest/178927/"> Full Text</a>
@@ -754,7 +754,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2022
+March 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most QNAP NAS Devices Affected by ‘Dirty Pipe’ Linux Flaw<a href="https://threatpost.com/most-qnap-nas-devices-affected-by-dirty-pipe-linux-flaw/178920/"> Full Text</a>
@@ -770,7 +770,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2022
+March 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pandora Ransomware Hits Giant Automotive Supplier Denso<a href="https://threatpost.com/pandora-ransomware-hits-giant-automotive-supplier-denso/178911/"> Full Text</a>

@@ -8,6 +8,94 @@ nav_order: 900075
 
 ## Government
 ---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI warn US critical orgs of threats to SATCOM networks<a href="https://www.bleepingcomputer.com/news/security/cisa-fbi-warn-us-critical-orgs-of-threats-to-satcom-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and the FBI warned US critical infrastructure organizations&nbsp;of potential threats targeting satellite communication (SATCOM) networks in the US and worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dev Sabotages Popular NPM Package to Protest Russian Invasion<a href="https://threatpost.com/dev-sabotages-popular-npm-package-protest-russian-invasion/178972/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the latest software supply-chain attack, the code maintainer added malicious code to the hugely popular node-ipc library to replace files with a heart emoji and a peacenotwar module. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian ministry says it's 'recording unprecedented attacks' on government websites<a href="https://thehill.com//policy/technology/598653-russian-ministry-says-its-recording-unprecedented-attacks-on-government"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia’s digital development and communications ministry said in a statement on Thursday it is “recording unprecedented attacks” on government websites and state-run news outlets amid Russia’s invasion in Ukraine, The Washington Post reported.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 15 new flaws to the Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/129120/security/catalog-of-actively-exploited-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) added 15 new flaws to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added 15 vulnerabilities to its&nbsp;Known Exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 15 vulnerabilities to list of flaws exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-adds-15-vulnerabilities-to-list-of-flaws-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity &amp; Infrastructure Security Agency (CISA) has added fifteen additional flaws to its list of actively exploited vulnerabilities known to be used in cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks Against Israeli Government Sites: ‘Largest in the Country’s History’<a href="https://threatpost.com/cyberattacks-israeli-government-sites-largest/178927/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DDoS attacks against Israel telecom companies took down government sites, sparking a temporary state of emergency.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

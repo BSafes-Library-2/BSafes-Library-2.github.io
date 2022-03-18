@@ -8,6 +8,24 @@ nav_order: 900041
 
 ## Deepfake
 ---
+March 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia’s disinformation uses deepfake video of Zelenskyy telling people to lay down arms<a href="https://securityaffairs.co/wordpress/129124/intelligence/russia-deepfake-video-zelenskyy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian disinformation continues, this time it used a deepfake video of Zelenskyy inviting Ukrainians to 'lay down arms.' 
+
+
+
+A deepfake video of the Ukrainian president Volodymyr Zelenskyy telling its citizens to lay down arms is the last example of disinformation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

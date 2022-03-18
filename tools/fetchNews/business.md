@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Insurance Firm Cowbell Raises $100 Million<a href="https://www.securityweek.com/cyber-insurance-firm-cowbell-raises-100-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest investment round was led by the Anthemis Group. All previous investors participated as well, along with NYCA Partners, Permira, PruVen Capital, and Viola Fintech.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

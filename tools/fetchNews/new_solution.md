@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft creates tool to scan MikroTik routers for TrickBot infections<a href="https://www.bleepingcomputer.com/news/security/microsoft-creates-tool-to-scan-mikrotik-routers-for-trickbot-infections/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TrickBot trojan has just added one more trick up its sleeve, now using vulnerable IoT (internet of things) devices like modem routers as proxies for its C2 (command and control) server communication.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

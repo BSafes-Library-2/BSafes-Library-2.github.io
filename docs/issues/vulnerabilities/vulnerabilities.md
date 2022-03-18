@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Vulnerability in CRI-O Engine Lets Attackers Escape Kubernetes Containers<a href="https://thehackernews.com/2022/03/new-vulnerability-in-cri-o-engine-lets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly disclosed security vulnerability in the Kubernetes container engine CRI-O called&nbsp; cr8escape &nbsp;could be exploited by an attacker to break out of containers and obtain root access to the host.  "Invocation of CVE-2022-0811 can allow an attacker to perform a variety of actions on objectives, including execution of malware, exfiltration of data, and lateral movement across pods," CrowdStrike researchers John Walker and Manoj Ahuje&nbsp; said &nbsp;in an analysis published this week.  A lightweight alternative to Docker,&nbsp; CRI-O &nbsp;is a&nbsp; container runtime &nbsp;implementation of the Kubernetes Container Runtime Interface (CRI) that's used to pull container images from registries and launch an Open Container Initiative ( OCI )-compatible runtime such as runC to spawn and run container processes.   The vulnerability is rated 8.8 on the CVSS vulnerability scoring system and affects CRI-O versions 1.19 and later. Following responsible disclosure, patches have been released to address the fl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender tags Office updates as ransomware activity<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-tags-office-updates-as-ransomware-activity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows admins&nbsp;were hit today by a wave of Microsoft Defender for Endpoint false positives where Office updates were tagged as malicious in alerts pointing to ransomware behavior detected on their systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most QNAP NAS Devices Affected by ‘Dirty Pipe’ Linux Flaw<a href="https://threatpost.com/most-qnap-nas-devices-affected-by-dirty-pipe-linux-flaw/178920/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are currently no mitigations for the severe Linux kernel bug, QNAP warned on Monday. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

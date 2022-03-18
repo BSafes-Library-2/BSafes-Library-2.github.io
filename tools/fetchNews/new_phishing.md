@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘CryptoRom’ Crypto-Scam is Back via Side-Loaded Apps<a href="https://threatpost.com/cryptorom-crypto-scam-side-loaded-apple-apps/178942/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are bypassing Apple’s App Store security, stealing thousands of dollars’ worth of cryptocurrency from the unwitting, using the TestFlight and WebClips programs.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

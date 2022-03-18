@@ -34,6 +34,758 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [General](/docs/issues/general/general/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+node-ipc NPM Package sabotage to protest Ukraine invasion<a href="https://securityaffairs.co/wordpress/129174/hacking/node-ipc-npm-package-sabotage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The developer behind the popular "node-ipc" NPM package uploaded a destructive version to protest Russia's invasion of Ukraine.
+
+
+
+RIAEvangelist, the developer behind the popular "node-ipc" NPM package, shipped a new version that wipes Russia, Belarus...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI warn US critical orgs of threats to SATCOM networks<a href="https://www.bleepingcomputer.com/news/security/cisa-fbi-warn-us-critical-orgs-of-threats-to-satcom-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and the FBI warned US critical infrastructure organizations of potential threats targeting satellite communication (SATCOM) networks in the US and worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Around 34 Ransomware Variants Detected In Q4 2021<a href="https://cyware.com/news/around-34-ransomware-variants-detected-in-q4-2021-a7a2d96e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware landscape witnessed 34 different variants in approximately 722 distinct attacks, with LockBit 2.0, Conti, and PYSA occupying the top three places.&nbsp;In comparison to Q3 2021 data, the attacks on the manufacturing sector have declined while consumer and industrial products rose by  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Invasion complicates social media policy<a href="https://thehill.com//policy/cybersecurity/overnights/598712-hillicon-valley-invasion-complicates-social-media-policy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Thursday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular NPM Package Updated to Wipe Russia, Belarus Systems to Protest Ukraine Invasion<a href="https://thehackernews.com/2022/03/popular-npm-package-updated-to-wipe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's yet another act of sabotage, the developer behind the popular "node-ipc" NPM package shipped a new version to protest Russia's invasion of Ukraine, raising concerns about security in the open-source and the  software supply chain .  Affecting versions 10.1.1 and 10.1.2 of the library, the changes introduced undesirable behavior by its maintainer RIAEvangelist, targeting users with IP addresses located either in Russia or Belarus, and wiping arbitrary file contents and replacing it with a heart emoji.  Node-ipc is a prominent  node module  used for local and remote inter-process communication with support for Linux, macOS, and Windows. It has over 1.1 million weekly downloads.   "A very clear abuse and a critical supply chain security incident will occur for any system on which this NPM package will be called upon, if that matches a geo-location of either Russia or Belarus," Synk researcher Liran Tal  said  in an analysis.  The issue has been assig
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dev Sabotages Popular NPM Package to Protest Russian Invasion<a href="https://threatpost.com/dev-sabotages-popular-npm-package-protest-russian-invasion/178972/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the latest software supply-chain attack, the code maintainer added malicious code to the hugely popular node-ipc library to replace files with a heart emoji and a peacenotwar module. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Unix rootkit used to steal ATM banking data<a href="https://www.bleepingcomputer.com/news/security/new-unix-rootkit-used-to-steal-atm-banking-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts following the activity of LightBasin, a financially motivated group of hackers, report the discovery of a previously unknown Unix rootkit that is used to steal ATM banking data and conduct fraudulent transactions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Botnet Targets Linux Devices Via Log4J Vulnerability<a href="https://cyware.com/news/new-botnet-targets-linux-devices-via-log4j-vulnerability-250231ad"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New B1txor20 botnet is actively exploiting Log4j flaws in Linux systems to create a bot army that helps hackers install rootkits and steal sensitive records.&nbsp;The bot sends the stolen information, results of any command execution, or any other information to its C2 server in form of a DNS reque ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian ministry says it's 'recording unprecedented attacks' on government websites<a href="https://thehill.com//policy/technology/598653-russian-ministry-says-its-recording-unprecedented-attacks-on-government"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia’s digital development and communications ministry said in a statement on Thursday it is “recording unprecedented attacks” on government websites and state-run news outlets amid Russia’s invasion in Ukraine, The Washington Post reported.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DirtyMoe Botnet Gains New Exploits in Wormable Module to Spread Rapidly<a href="https://thehackernews.com/2022/03/dirtymoe-botnet-gains-new-exploits-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware known as DirtyMoe  has gained new worm-like propagation capabilities that allow it to expand its reach without requiring any user interaction, the latest research has found.  "The worming module targets older well-known vulnerabilities, e.g.,  EternalBlue  and  Hot Potato  Windows privilege escalation," Avast researcher Martin Chlumecký  said  in a report published Wednesday.  "One worm module can generate and attack hundreds of thousands of private and public IP addresses per day; many victims are at risk since many machines still use unpatched systems or weak passwords."   Active since 2016, the  DirtyMoe botnet  is used for carrying out cryptojacking and distributed denial-of-service (DDoS) attacks, and is deployed by means of external exploit kits like  PurpleFox  or injected installers of Telegram Messenger.  Also employed as part of the attack sequence is a DirtyMoe service that triggers the launch of two additional processes, namely the Core and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous continues to support Ukraine against the Russia<a href="https://securityaffairs.co/wordpress/129157/hacktivism/anonymous-vs-russia-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The collective Anonymous and its affiliated groups continue to target the Russian government and private organizations.
+
+
+
+The collective Anonymous, and other groups in its ecosystem, continue to target the Russian government and private organizations.
+
+
+
+Let's...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google exposes tactics of a Conti ransomware access broker<a href="https://www.bleepingcomputer.com/news/security/google-exposes-tactics-of-a-conti-ransomware-access-broker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group has exposed the operations of a threat actor group dubbed "EXOTIC LILY," an initial access broker linked to the Conti and Diavol ransomware operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kwampirs Malware Linked with Shamoon<a href="https://cyware.com/news/kwampirs-malware-linked-with-shamoon-53bc9051"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts linked the activities of Shamoon APT with those behind Kwapirs malware. They said both could be from the same group as they have been collaborating, sharing updates, techniques, and codes for years. Organizations should be ready with countermeasures including reliable anti-malware  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Golden Hour of Incident Response<a href="https://thehackernews.com/2022/03/the-golden-hour-of-incident-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a CSIRT consultant, I cannot overemphasize the importance of effectively managing the first hour in a critical incident.  Finding out what to do is often a daunting task in a critical incident. In addition, the feeling of uneasiness often prevents an incident response analyst from making effective decisions. However, keeping a cool head and actions planned out is crucial in successfully handling a security incident. This blog will elaborate on some key points to help readers facilitate better incident response procedures.   Preparation is essential  Before taking on any incidents, security analysts would need to know a great deal of information. To start off, incident response analysts need to familiarize themselves with their roles and responsibilities. IT infrastructure has evolved rapidly over the past years. For example, we observed increasing movement to cloud computing and data storage. The fast-changing IT environment frequently requires analysts to update their skill sets,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Warns of Attacks Targeting Web Help Desk Users<a href="https://securityaffairs.co/wordpress/129154/hacking/solarwinds-web-help-desk-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds warns customers of potential cyberattacks targeting unpatched installs of its Web Help Desk (WHD) product.
+
+
+
+SolarWinds has published a security advisory to warn customers of the risk of cyberattacks targeting unpatched Web Help Desk (WHD)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ASUS warns of Cyclops Blink malware attacks targeting routers<a href="https://www.bleepingcomputer.com/news/security/asus-warns-of-cyclops-blink-malware-attacks-targeting-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple ASUS router models are vulnerable to the Russia-linked Cyclops Blink malware threat, causing the vendor to publish an advisory with mitigations for the security risk.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Wipers and Fake AV Updates Target Ukraine<a href="https://cyware.com/news/new-wipers-and-fake-av-updates-target-ukraine-f0f077d1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted the third wiper malware in use against Ukrainian organizations, which destroys user data and partition information from attached drives while also reporting a new phishing attack. The Ukrainian agency has linked the recent activity with the UAC-0056 group with medium confidence. ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Malware Abusing MikroTik Routers as Proxies for Command-and-Control<a href="https://thehackernews.com/2022/03/trickbot-malware-abusing-hacked-iot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday detailed a previously undiscovered technique put to use by the TrickBot malware that involves using compromised Internet of Things (IoT) devices as a go-between for establishing communications with the command-and-control (C2) servers.  "By using MikroTik routers as proxy servers for its C2 servers and redirecting the traffic through non-standard ports, TrickBot adds another persistence layer that helps malicious IPs evade detection by standard security systems," Microsoft's Defender for IoT Research Team and Threat Intelligence Center (MSTIC)  said .   TrickBot, which emerged as a banking trojan in 2016, has evolved into a sophisticated and persistent threat, with its modular architecture enabling it to adapt its tactics to suit different networks, environments, and devices as well as offer access-as-a-service for next-stage payloads like Conti ransomware.  The expansion to TrickBot's capabilities comes amid reports of its  infrastructure goin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine SBU arrested a hacker who supported Russia during the invasion<a href="https://securityaffairs.co/wordpress/129145/cyber-warfare-2/ukraine-sbu-arrested-hacker-helping-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SBU) announced the arrest of a "hacker" who helped Russian Army during the invasion.
+
+
+
+The Security Service of Ukraine (SBU) announced to have arrested a hacker who provided technical support to Russian troops during...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europe warns of aircraft GPS outages tied to Russian invasion<a href="https://www.bleepingcomputer.com/news/security/europe-warns-of-aircraft-gps-outages-tied-to-russian-invasion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union Aviation Safety Agency (EASA), EU's air transport safety and environmental protection regulator, warned today of intermittent outages affecting Global Navigation Satellite Systems (GNSS) linked to the Russian invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sandworm-linked CyclopsBlink botnet has another piece of hardware in its sights<a href="https://www.cyberscoop.com/cyclopsblink-asus-routers-trend-micro/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Botnet activity that drew loud warnings last month from U.S. and U.K. cybersecurity agencies has expanded to a second type of hardware, according to researchers at Trend Micro.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Secret Service Arrests Hacker Helping Russian Invaders<a href="https://thehackernews.com/2022/03/ukraine-secret-service-arrests-hacker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SBU) said it has detained a "hacker" who offered technical assistance to the invading Russian troops by providing mobile communication services inside the Ukrainian territory.  The anonymous suspect is said to have broadcasted text messages to Ukrainian officials, including security officers and civil servants, proposing that they surrender and take the side of Russia. The individual has also been accused of routing phone calls from Russia to the mobile phones of Russian troops in Ukraine.   "Up to a thousand calls were made through this hacker in one day. Many of them are from the top leadership of the enemy army," the SBU  alleged , adding it confiscated the equipment that was used to pull off the operation.  Besides implicating the hacker for helping Russia make anonymous phone calls to its military forces based in Ukraine, the agency said the hacker passed commands and instructions to different groups of "Russian invaders.&
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+B1txor20 Linux botnet use DNS Tunnel and Log4J exploit<a href="https://securityaffairs.co/wordpress/129130/malware/b1txor20-linux-botnet-dns-tunnel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a new Linux botnet, tracked as B1txor20, that exploits the Log4J vulnerability and DNS tunnel.
+
+
+
+Researchers from Qihoo 360's Netlab have discovered a new backdoor used to infect Linux systems and include them in a botnet tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft creates tool to scan MikroTik routers for TrickBot infections<a href="https://www.bleepingcomputer.com/news/security/microsoft-creates-tool-to-scan-mikrotik-routers-for-trickbot-infections/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TrickBot trojan has just added one more trick up its sleeve, now using vulnerable IoT (internet of things) devices like modem routers as proxies for its C2 (command and control) server communication.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ gang sends a worrying message to would-be criminals<a href="https://www.theregister.com/2022/03/17/lapsus-larger-companies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ cyber-crime gang, believed to be based in Brazil, until recently was best known for attacks on that country's Ministry of Health and Portuguese media outlets SIC Noticias and Expresso.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Vulnerability in CRI-O Engine Lets Attackers Escape Kubernetes Containers<a href="https://thehackernews.com/2022/03/new-vulnerability-in-cri-o-engine-lets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly disclosed security vulnerability in the Kubernetes container engine CRI-O called  cr8escape  could be exploited by an attacker to break out of containers and obtain root access to the host.  "Invocation of CVE-2022-0811 can allow an attacker to perform a variety of actions on objectives, including execution of malware, exfiltration of data, and lateral movement across pods," CrowdStrike researchers John Walker and Manoj Ahuje  said  in an analysis published this week.  A lightweight alternative to Docker,  CRI-O  is a  container runtime  implementation of the Kubernetes Container Runtime Interface (CRI) that's used to pull container images from registries and launch an Open Container Initiative ( OCI )-compatible runtime such as runC to spawn and run container processes.   The vulnerability is rated 8.8 on the CVSS vulnerability scoring system and affects CRI-O versions 1.19 and later. Following responsible disclosure, patches have been released to address the fl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BIG sabotage: Famous npm package deletes files to protest Ukraine war<a href="https://www.bleepingcomputer.com/news/security/big-sabotage-famous-npm-package-deletes-files-to-protest-ukraine-war/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the developer of the popular npm package 'node-ipc' released sabotaged versions of the library in protest of the ongoing Russo-Ukrainian War. The 'node-ipc' package, which gets downloaded over a million times weekly, began deleting files on developer's machines, in addition to creating new text files with "peace" messages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Soldiers, Statesmen and Cyber Crises: Cyberspace and Civil-Military Relations<a href="https://www.lawfareblog.com/soldiers-statesmen-and-cyber-crises-cyberspace-and-civil-military-relations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberspace may be a domain of military operations, but it is not predominantly so. Civil-military relations in the United States must adapt to new demands or cyberspace may be irretrievably diminished.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘CryptoRom’ Crypto-Scam is Back via Side-Loaded Apps<a href="https://threatpost.com/cryptorom-crypto-scam-side-loaded-apple-apps/178942/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are bypassing Apple’s App Store security, stealing thousands of dollars’ worth of cryptocurrency from the unwitting, using the TestFlight and WebClips programs.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2022 -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia’s disinformation uses deepfake video of Zelenskyy telling people to lay down arms<a href="https://securityaffairs.co/wordpress/129124/intelligence/russia-deepfake-video-zelenskyy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian disinformation continues, this time it used a deepfake video of Zelenskyy inviting Ukrainians to 'lay down arms.' 
+
+
+
+A deepfake video of the Ukrainian president Volodymyr Zelenskyy telling its citizens to lay down arms is the last example of disinformation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New "B1txor20" Linux Botnet Uses DNS Tunnel and Exploits Log4J Flaw<a href="https://thehackernews.com/2022/03/new-b1txor20-linux-botnet-uses-dns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented backdoor has been observed targeting Linux systems with the goal of corralling the machines into a botnet and acting as a conduit for downloading and installing rootkits.  Qihoo 360's Netlab security team called it  B1txor20  "based on its propagation using the file name 'b1t,' the XOR encryption algorithm, and the RC4 algorithm key length of 20 bytes."   First observed propagating through the  Log4j vulnerability  on February 9, 2022, the malware leverages a technique called DNS tunneling to build communication channels with command-and-control (C2) servers by encoding data in DNS queries and responses.   B1txor20, while also buggy in some ways, currently supports the ability to obtain a shell, execute arbitrary commands, install a rootkit, open a  SOCKS5 proxy , and functions to upload sensitive information back to the C2 server.  Once a machine is successfully compromised, the malware utilizes the DNS tunnel to retrieve and execute co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 15 new flaws to the Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/129120/security/catalog-of-actively-exploited-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) added 15 new flaws to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added 15 vulnerabilities to its Known Exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unsecured Microsoft SQL, MySQL servers hit by Gh0stCringe malware<a href="https://www.bleepingcomputer.com/news/security/unsecured-microsoft-sql-mysql-servers-hit-by-gh0stcringe-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers target poorly secured Microsoft SQL and MySQL database servers to deploy the Gh0stCringe remote access trojans on vulnerable devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked threats actors exploited default MFA protocol and PrintNightmare bug to compromise NGO cloud<a href="https://securityaffairs.co/wordpress/129113/apt/russia-linked-threats-actors-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI and CISA warn Russia-linked threats actors gained access to an NGO cloud after enrolling their own device in the organization's Duo MFA.
+
+
+
+The Federal Bureau of Investigation (FBI) and Cybersecurity and Infrastructure Security Agency (CISA) ...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds warns of attacks targeting Web Help Desk instances<a href="https://www.bleepingcomputer.com/news/security/solarwinds-warns-of-attacks-targeting-web-help-desk-instances/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds warned customers of attacks targeting Internet-exposed Web Help Desk (WHD) instances and advised removing them from publicly accessible infrastructure (likely to prevent the exploitation of a potential security flaw).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker breaches key Russian ministry in blink of an eye<a href="https://securityaffairs.co/wordpress/129108/hacking/russian-ministry-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In mere seconds, a hacker remotely accessed a computer belonging to a regional Russian Ministry of Health, taking advantage of sloppy cybersecurity practices to expose its entire network.
+
+
+
+Original post at https://cybernews.com/cyber-war/hacker-breaches-key-russian-ministry-in-blink-of-an-eye/
+
+
+
+Spielerkid89,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender tags Office updates as ransomware activity<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-tags-office-updates-as-ransomware-activity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows admins were hit today by a wave of Microsoft Defender for Endpoint false positives where Office updates were tagged as malicious in alerts pointing to ransomware behavior detected on their systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of GoDaddy-hosted sites backdoored in a single day<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-godaddy-hosted-sites-backdoored-in-a-single-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet security analysts have spotted a spike in backdoor infections on WordPress websites hosted on GoDaddy's Managed WordPress service, all featuring an identical backdoor payload.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 15 vulnerabilities to list of flaws exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-adds-15-vulnerabilities-to-list-of-flaws-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity & Infrastructure Security Agency (CISA) has added fifteen additional flaws to its list of actively exploited vulnerabilities known to be used in cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet malware campaign impersonates the IRS for 2022 tax season<a href="https://www.bleepingcomputer.com/news/security/emotet-malware-campaign-impersonates-the-irs-for-2022-tax-season/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet malware botnet is taking advantage of the 2022 U.S. tax season by sending out malicious emails pretending to be the Internal Revenue Service sending tax forms or federal returns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL cert parsing bug causes infinite denial of service loop<a href="https://www.bleepingcomputer.com/news/security/openssl-cert-parsing-bug-causes-infinite-denial-of-service-loop/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSSL has released a security update to address a vulnerability in the library that, if exploited, activates an infinite loop function and leads to denial of service conditions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks Against Israeli Government Sites: ‘Largest in the Country’s History’<a href="https://threatpost.com/cyberattacks-israeli-government-sites-largest/178927/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DDoS attacks against Israel telecom companies took down government sites, sparking a temporary state of emergency.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most QNAP NAS Devices Affected by ‘Dirty Pipe’ Linux Flaw<a href="https://threatpost.com/most-qnap-nas-devices-affected-by-dirty-pipe-linux-flaw/178920/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are currently no mitigations for the severe Linux kernel bug, QNAP warned on Monday. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pandora Ransomware Hits Giant Automotive Supplier Denso<a href="https://threatpost.com/pandora-ransomware-hits-giant-automotive-supplier-denso/178911/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Denso confirmed that cybercriminals leaked stolen, classified information from the Japan-based car-components manufacturer after an attack on one of its offices in Germany.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

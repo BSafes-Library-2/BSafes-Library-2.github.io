@@ -8,6 +8,81 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Botnet Targets Linux Devices Via Log4J Vulnerability<a href="https://cyware.com/news/new-botnet-targets-linux-devices-via-log4j-vulnerability-250231ad"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New B1txor20 botnet is actively exploiting Log4j flaws in Linux systems to create a bot army that helps hackers install rootkits and steal sensitive records.&nbsp;The bot sends the stolen information, results of any command execution, or any other information to its C2 server in form of a DNS reque ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DirtyMoe Botnet Gains New Exploits in Wormable Module to Spread Rapidly<a href="https://thehackernews.com/2022/03/dirtymoe-botnet-gains-new-exploits-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware known as DirtyMoe  has gained new worm-like propagation capabilities that allow it to expand its reach without requiring any user interaction, the latest research has found.  "The worming module targets older well-known vulnerabilities, e.g.,&nbsp; EternalBlue &nbsp;and&nbsp; Hot Potato &nbsp;Windows privilege escalation," Avast researcher Martin Chlumecký&nbsp; said &nbsp;in a report published Wednesday.  "One worm module can generate and attack hundreds of thousands of private and public IP addresses per day; many victims are at risk since many machines still use unpatched systems or weak passwords."   Active since 2016, the&nbsp; DirtyMoe botnet &nbsp;is used for carrying out cryptojacking and distributed denial-of-service (DDoS) attacks, and is deployed by means of external exploit kits like&nbsp; PurpleFox &nbsp;or injected installers of Telegram Messenger.  Also employed as part of the attack sequence is a DirtyMoe service that triggers the launch of two additional processes, namely the Core and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sandworm-linked CyclopsBlink botnet has another piece of hardware in its sights<a href="https://www.cyberscoop.com/cyclopsblink-asus-routers-trend-micro/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Botnet activity that drew loud warnings last month from U.S. and U.K. cybersecurity agencies has expanded to a second type of hardware, according to researchers at Trend Micro.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+B1txor20 Linux botnet use DNS Tunnel and Log4J exploit<a href="https://securityaffairs.co/wordpress/129130/malware/b1txor20-linux-botnet-dns-tunnel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a new Linux botnet, tracked as B1txor20, that exploits the Log4J vulnerability and DNS tunnel.
+
+
+
+Researchers from Qihoo 360's Netlab have discovered a new backdoor used to infect Linux systems and include them in a botnet tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New "B1txor20" Linux Botnet Uses DNS Tunnel and Exploits Log4J Flaw<a href="https://thehackernews.com/2022/03/new-b1txor20-linux-botnet-uses-dns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented backdoor has been observed targeting Linux systems with the goal of corralling the machines into a botnet and acting as a conduit for downloading and installing rootkits.  Qihoo 360's Netlab security team called it&nbsp; B1txor20 &nbsp;"based on its propagation using the file name 'b1t,' the XOR encryption algorithm, and the RC4 algorithm key length of 20 bytes."   First observed propagating through the&nbsp; Log4j vulnerability &nbsp;on February 9, 2022, the malware leverages a technique called DNS tunneling to build communication channels with command-and-control (C2) servers by encoding data in DNS queries and responses.   B1txor20, while also buggy in some ways, currently supports the ability to obtain a shell, execute arbitrary commands, install a rootkit, open a&nbsp; SOCKS5 proxy , and functions to upload sensitive information back to the C2 server.  Once a machine is successfully compromised, the malware utilizes the DNS tunnel to retrieve and execute co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
