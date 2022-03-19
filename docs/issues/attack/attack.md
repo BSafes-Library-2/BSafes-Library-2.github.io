@@ -8,6 +8,80 @@ nav_order: 900015
 
 ## Attack
 ---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Bank Networks with new Rootkit to Steal Money from ATM Machines<a href="https://thehackernews.com/2022/03/hackers-target-bank-networks-with-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor has been observed deploying a previously unknown rootkit targeting Oracle Solaris systems with the goal of compromising Automatic Teller Machine (ATM) switching networks and carrying out unauthorized cash withdrawals at different banks using fraudulent cards.  Threat intelligence and incident response firm Mandiant is tracking the cluster under the moniker UNC2891, with some of the group's tactics, techniques, and procedures sharing overlaps with that of another cluster dubbed&nbsp; UNC1945 .  The intrusions staged by the actor involve "a high degree of OPSEC and leverage both public and private malware, utilities, and scripts to remove evidence and hinder response efforts," Mandiant researchers&nbsp; said &nbsp;in a new report published this week.   Even more concerningly, the attacks spanned several years in some cases, during the entirety of which the actor remained undetected by leveraging a rootkit called CAKETAP, which is designed to conceal n
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked threat actors are targeting the government of Ukraine<a href="https://securityaffairs.co/wordpress/129206/apt/china-linked-apts-target-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's TAG team revealed that China-linked APT groups are targeting Ukraine ’s government for intelligence purposes.
+
+
+
+Google's Threat Analysis Group (TAG) researchers uncovered cyberespionage operations conducted by the Chinese People's Liberation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkHotel hacking campaign targets luxury Macao resorts<a href="https://www.bleepingcomputer.com/news/security/darkhotel-hacking-campaign-targets-luxury-macao-resorts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The South Korean DarkHotel hacking group has been spotted in a new campaign spanning December 2021 through January 2022, targeting luxury hotels in Macao, China.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: Chinese state hackers target Ukraine’s government<a href="https://www.bleepingcomputer.com/news/security/google-chinese-state-hackers-target-ukraine-s-government/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) says the Chinese People's Liberation Army (PLA) and other Chinese intelligence agencies are trying to get more info on the ongoing Russian war in Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan's Bridgestone confirms ransomware attack at US subsidiary<a href="https://www.channelnewsasia.com/business/japans-bridgestone-reports-ransomware-attack-us-subsidiary-2572396?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese tyre manufacturer Bridgestone has confirmed that its US subsidiary had suffered a ransomware attack, just weeks after suppliers of automaker Toyota Motor reported similar attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Channel News Asia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

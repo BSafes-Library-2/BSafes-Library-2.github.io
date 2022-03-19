@@ -8,6 +8,24 @@ nav_order: 900072
 
 ## General
 ---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caketap, a new Unix rootkit used to siphon ATM banking data<a href="https://securityaffairs.co/wordpress/129194/cyber-crime/caketap-unix-rootkit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a new Unix rootkit, called Caketap, that was used to steal ATM banking data.
+
+
+
+Mandiant researchers discovered a new Unix rootkit named Caketap, which is used to steal ATM banking data, while investigating the activity of the LightBasin...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2022 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

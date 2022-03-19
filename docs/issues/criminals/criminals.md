@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Find Some Affiliates of BlackMatter Now Spreading BlackCat Ransomware<a href="https://thehackernews.com/2022/03/experts-find-some-affiliates-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of two ransomware attacks has&nbsp; identified overlaps &nbsp;in the tactics, techniques, and procedures (TTPs) between BlackCat and BlackMatter, indicating a strong connection between the two groups.  While it's typical of ransomware groups to rebrand their operations in response to increased visibility into their attacks,&nbsp; BlackCat &nbsp;(aka Alphv) marks a new frontier in that the cyber crime cartel is built out of affiliates of other ransomware-as-a-service (RaaS) operations.  BlackCat first emerged in November 2021 and has since targeted several organizations worldwide over the past few months. It has been called out for being similar to&nbsp; BlackMatter , a short-lived ransomware family that originated from&nbsp; DarkSide , which attracted notoriety for its high-profile attack on&nbsp; Colonial Pipeline &nbsp;in May 2021.   In an interview with Recorded Future's The Record last month, a BlackCat representative dismissed rumors that it's a rebranding of BlackMatter, while noting that it
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Uncovers 'Initial Access Broker' Working with Conti Ransomware Gang<a href="https://thehackernews.com/2022/03/google-uncovers-initial-access-broker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) took the wraps off a new&nbsp; initial access broker &nbsp;that it said is closely affiliated to a Russian cyber crime gang notorious for its Conti and Diavol ransomware operations.  Dubbed Exotic Lily, the financially motivated threat actor has been observed exploiting a now-patched critical flaw in the Microsoft Windows MSHTML platform ( CVE-2021-40444 ) as part of widespread phishing campaigns that involved sending no fewer than 5,000 business proposal-themed emails a day to 650 targeted organizations globally.  "Initial access brokers are the opportunistic locksmiths of the security world, and it's a full-time job," TAG researchers Vlad Stolyarov and Vlad Stolyarov&nbsp; said . "These groups specialize in breaching a target in order to open the doors — or the Windows — to the malicious actor with the highest bid."   Exotic Lily, first spotted in September 2021, is said to have been involved in data exfiltration and deployment of th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

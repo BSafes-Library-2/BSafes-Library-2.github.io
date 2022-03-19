@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Golden Hour of Incident Response<a href="https://thehackernews.com/2022/03/the-golden-hour-of-incident-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a CSIRT consultant, I cannot overemphasize the importance of effectively managing the first hour in a critical incident.  Finding out what to do is often a daunting task in a critical incident. In addition, the feeling of uneasiness often prevents an incident response analyst from making effective decisions. However, keeping a cool head and actions planned out is crucial in successfully handling a security incident. This blog will elaborate on some key points to help readers facilitate better incident response procedures.   Preparation is essential  Before taking on any incidents, security analysts would need to know a great deal of information. To start off, incident response analysts need to familiarize themselves with their roles and responsibilities. IT infrastructure has evolved rapidly over the past years. For example, we observed increasing movement to cloud computing and data storage. The fast-changing IT environment frequently requires analysts to update their skill sets,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

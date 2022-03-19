@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What the Newly Signed US Cyber-Incident Law Means for Security<a href="https://www.darkreading.com/attacks-breaches/new-cyber-incident-law-not-a-national-breach-law-but-a-major-first-step?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new law requires critical infrastructure companies in the 16 industry sectors identified by the federal government to report to the CISA within 72 hours if they are experiencing a cyberattack and within 24 hours of making a ransomware payment.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

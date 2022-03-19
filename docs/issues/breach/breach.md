@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Africa credit bureau breached, data reportedly held for $15M ransom<a href="https://www.cyberscoop.com/south-africa-transunion-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The country’s arm of TransUnion confirmed that “a criminal third party obtained access to a TransUnion South Africa server through misuse of an authorized client’s credentials.” The company said the ransom demand “will not be paid.”
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers claim to breach TransUnion South Africa with 'Password' password<a href="https://www.bleepingcomputer.com/news/security/hackers-claim-to-breach-transunion-south-africa-with-password-password/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TransUnion South Africa has disclosed that hackers breached one of their servers using stolen credentials and demanded a extortion demand not to release stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,42 @@ nav_order: 900029
 
 ## Breach
 ---
+March 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker breaches key Russian ministry in blink of an eye<a href="https://securityaffairs.co/wordpress/129108/hacking/russian-ministry-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In mere seconds, a hacker remotely accessed a computer belonging to a regional Russian Ministry of Health, taking advantage of sloppy cybersecurity practices to expose its entire network.
+
+
+
+Original post at https://cybernews.com/cyber-war/hacker-breaches-key-russian-ministry-in-blink-of-an-eye/
+
+
+
+Spielerkid89,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of GoDaddy-hosted sites backdoored in a single day<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-godaddy-hosted-sites-backdoored-in-a-single-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet security analysts have spotted a spike in backdoor infections on WordPress websites hosted on GoDaddy's Managed WordPress service, all featuring an identical backdoor payload.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

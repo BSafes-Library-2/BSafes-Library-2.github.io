@@ -8,6 +8,24 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Red TIM Research (RTR) team discovers a bug on Ericsson Network Manager<a href="https://securityaffairs.co/wordpress/129188/hacking/ericsson-network-manager-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TIM Red Team Research (RTR) researchers discovered a new flaw on Ericsson Network Manager, aka Ericsson flagship network product.
+
+
+
+TIM Red Team Research (RTR) team discovered a new vulnerability affecting Ericsson Network Manager, which is known as Ericsson...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

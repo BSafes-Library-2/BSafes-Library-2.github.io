@@ -8,6 +8,66 @@ nav_order: 900072
 
 ## General
 ---
+March 18, 2022 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+node-ipc NPM Package sabotage to protest Ukraine invasion<a href="https://securityaffairs.co/wordpress/129174/hacking/node-ipc-npm-package-sabotage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The developer behind the popular "node-ipc" NPM package uploaded a destructive version to protest Russia's invasion of Ukraine.
+
+
+
+RIAEvangelist, the developer behind the popular "node-ipc" NPM package, shipped a new version that wipes Russia, Belarus...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Invasion complicates social media policy<a href="https://thehill.com//policy/cybersecurity/overnights/598712-hillicon-valley-invasion-complicates-social-media-policy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Thursday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular NPM Package Updated to Wipe Russia, Belarus Systems to Protest Ukraine Invasion<a href="https://thehackernews.com/2022/03/popular-npm-package-updated-to-wipe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's yet another act of sabotage, the developer behind the popular "node-ipc" NPM package shipped a new version to protest Russia's invasion of Ukraine, raising concerns about security in the open-source and the&nbsp; software supply chain .  Affecting versions 10.1.1 and 10.1.2 of the library, the changes introduced undesirable behavior by its maintainer RIAEvangelist, targeting users with IP addresses located either in Russia or Belarus, and wiping arbitrary file contents and replacing it with a heart emoji.  Node-ipc is a prominent&nbsp; node module &nbsp;used for local and remote inter-process communication with support for Linux, macOS, and Windows. It has over 1.1 million weekly downloads.   "A very clear abuse and a critical supply chain security incident will occur for any system on which this NPM package will be called upon, if that matches a geo-location of either Russia or Belarus," Synk researcher Liran Tal&nbsp; said &nbsp;in an analysis.  The issue has been assig
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Soldiers, Statesmen and Cyber Crises: Cyberspace and Civil-Military Relations<a href="https://www.lawfareblog.com/soldiers-statesmen-and-cyber-crises-cyberspace-and-civil-military-relations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberspace may be a domain of military operations, but it is not predominantly so. Civil-military relations in the United States must adapt to new demands or cyberspace may be irretrievably diminished.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

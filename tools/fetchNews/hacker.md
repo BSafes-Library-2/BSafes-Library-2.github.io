@@ -8,6 +8,56 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Unix rootkit used to steal ATM banking data<a href="https://www.bleepingcomputer.com/news/security/new-unix-rootkit-used-to-steal-atm-banking-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts following the activity of LightBasin, a financially motivated group of hackers, report the discovery of a previously unknown Unix rootkit that is used to steal ATM banking data and conduct fraudulent transactions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous continues to support Ukraine against the Russia<a href="https://securityaffairs.co/wordpress/129157/hacktivism/anonymous-vs-russia-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The collective Anonymous and its affiliated groups continue to target the Russian government and private organizations.
+
+
+
+The collective Anonymous, and other groups in its ecosystem, continue to target the Russian government and private organizations.
+
+
+
+Let's...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BIG sabotage: Famous npm package deletes files to protest Ukraine war<a href="https://www.bleepingcomputer.com/news/security/big-sabotage-famous-npm-package-deletes-files-to-protest-ukraine-war/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the developer of the&nbsp;popular npm package 'node-ipc'&nbsp;released sabotaged versions of the library&nbsp;in protest of the ongoing Russo-Ukrainian War. The 'node-ipc' package, which gets downloaded&nbsp;over a million times&nbsp;weekly, began deleting files on developer's machines, in addition to creating new text files&nbsp;with "peace" messages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

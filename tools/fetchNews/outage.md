@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europe warns of aircraft GPS outages tied to Russian invasion<a href="https://www.bleepingcomputer.com/news/security/europe-warns-of-aircraft-gps-outages-tied-to-russian-invasion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union Aviation Safety Agency (EASA), EU's air transport safety and environmental protection regulator, warned today of intermittent outages affecting Global Navigation Satellite Systems (GNSS) linked to the Russian invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

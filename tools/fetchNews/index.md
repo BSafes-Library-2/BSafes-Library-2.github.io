@@ -34,6 +34,330 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - March 18th 2022 - Targeting the auto industry<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-18th-2022-targeting-the-auto-industry/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the automotive industry has been under attack, with numerous companies exhibiting signs of breaches or ransomware activity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caketap, a new Unix rootkit used to siphon ATM banking data<a href="https://securityaffairs.co/wordpress/129194/cyber-crime/caketap-unix-rootkit.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant researchers discovered a new Unix rootkit named Caketap, which is used to steal ATM banking data while investigating the activity of the LightBasin cybercrime group (aka UNC1945).
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Bank Networks with new Rootkit to Steal Money from ATM Machines<a href="https://thehackernews.com/2022/03/hackers-target-bank-networks-with-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor has been observed deploying a previously unknown rootkit targeting Oracle Solaris systems with the goal of compromising Automatic Teller Machine (ATM) switching networks and carrying out unauthorized cash withdrawals at different banks using fraudulent cards.  Threat intelligence and incident response firm Mandiant is tracking the cluster under the moniker UNC2891, with some of the group's tactics, techniques, and procedures sharing overlaps with that of another cluster dubbed  UNC1945 .  The intrusions staged by the actor involve "a high degree of OPSEC and leverage both public and private malware, utilities, and scripts to remove evidence and hinder response efforts," Mandiant researchers  said  in a new report published this week.   Even more concerningly, the attacks spanned several years in some cases, during the entirety of which the actor remained undetected by leveraging a rootkit called CAKETAP, which is designed to conceal n
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked threat actors are targeting the government of Ukraine<a href="https://securityaffairs.co/wordpress/129206/apt/china-linked-apts-target-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's TAG team revealed that China-linked APT groups are targeting Ukraine ’s government for intelligence purposes.
+
+
+
+Google's Threat Analysis Group (TAG) researchers uncovered cyberespionage operations conducted by the Chinese People's Liberation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free decryptor released for TrickBot gang's Diavol ransomware<a href="https://www.bleepingcomputer.com/news/security/free-decryptor-released-for-trickbot-gangs-diavol-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Emsisoft has released a free decryption tool to help Diavol ransomware victims recover their files without paying a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Africa credit bureau breached, data reportedly held for $15M ransom<a href="https://www.cyberscoop.com/south-africa-transunion-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The country’s arm of TransUnion confirmed that “a criminal third party obtained access to a TransUnion South Africa server through misuse of an authorized client’s credentials.” The company said the ransom demand “will not be paid.”
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Find Some Affiliates of BlackMatter Now Spreading BlackCat Ransomware<a href="https://thehackernews.com/2022/03/experts-find-some-affiliates-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of two ransomware attacks has  identified overlaps  in the tactics, techniques, and procedures (TTPs) between BlackCat and BlackMatter, indicating a strong connection between the two groups.  While it's typical of ransomware groups to rebrand their operations in response to increased visibility into their attacks,  BlackCat  (aka Alphv) marks a new frontier in that the cyber crime cartel is built out of affiliates of other ransomware-as-a-service (RaaS) operations.  BlackCat first emerged in November 2021 and has since targeted several organizations worldwide over the past few months. It has been called out for being similar to  BlackMatter , a short-lived ransomware family that originated from  DarkSide , which attracted notoriety for its high-profile attack on  Colonial Pipeline  in May 2021.   In an interview with Recorded Future's The Record last month, a BlackCat representative dismissed rumors that it's a rebranding of BlackMatter, while noting that it
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caketap, a new Unix rootkit used to siphon ATM banking data<a href="https://securityaffairs.co/wordpress/129194/cyber-crime/caketap-unix-rootkit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a new Unix rootkit, called Caketap, that was used to steal ATM banking data.
+
+
+
+Mandiant researchers discovered a new Unix rootkit named Caketap, which is used to steal ATM banking data, while investigating the activity of the LightBasin...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers claim to breach TransUnion South Africa with 'Password' password<a href="https://www.bleepingcomputer.com/news/security/hackers-claim-to-breach-transunion-south-africa-with-password-password/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TransUnion South Africa has disclosed that hackers breached one of their servers using stolen credentials and demanded a extortion demand not to release stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Here's how this notorious botnet used hacked routers for stealthy communication<a href="https://www.zdnet.com/article/microsoft-heres-how-this-notorious-botnet-used-hacked-routers-for-stealthy-communication/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has filled in one new detail about how the TrickBot gang's IoT C2 devices, namely compromised MikroTik routers, were being used since 2018 for stealthy communication with infected PCs.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Uncovers 'Initial Access Broker' Working with Conti Ransomware Gang<a href="https://thehackernews.com/2022/03/google-uncovers-initial-access-broker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) took the wraps off a new  initial access broker  that it said is closely affiliated to a Russian cyber crime gang notorious for its Conti and Diavol ransomware operations.  Dubbed Exotic Lily, the financially motivated threat actor has been observed exploiting a now-patched critical flaw in the Microsoft Windows MSHTML platform ( CVE-2021-40444 ) as part of widespread phishing campaigns that involved sending no fewer than 5,000 business proposal-themed emails a day to 650 targeted organizations globally.  "Initial access brokers are the opportunistic locksmiths of the security world, and it's a full-time job," TAG researchers Vlad Stolyarov and Vlad Stolyarov  said . "These groups specialize in breaching a target in order to open the doors — or the Windows — to the malicious actor with the highest bid."   Exotic Lily, first spotted in September 2021, is said to have been involved in data exfiltration and deployment of th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Red TIM Research (RTR) team discovers a bug on Ericsson Network Manager<a href="https://securityaffairs.co/wordpress/129188/hacking/ericsson-network-manager-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TIM Red Team Research (RTR) researchers discovered a new flaw on Ericsson Network Manager, aka Ericsson flagship network product.
+
+
+
+TIM Red Team Research (RTR) team discovered a new vulnerability affecting Ericsson Network Manager, which is known as Ericsson...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkHotel hacking campaign targets luxury Macao resorts<a href="https://www.bleepingcomputer.com/news/security/darkhotel-hacking-campaign-targets-luxury-macao-resorts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The South Korean DarkHotel hacking group has been spotted in a new campaign spanning December 2021 through January 2022, targeting luxury hotels in Macao, China.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What the Newly Signed US Cyber-Incident Law Means for Security<a href="https://www.darkreading.com/attacks-breaches/new-cyber-incident-law-not-a-national-breach-law-but-a-major-first-step?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new law requires critical infrastructure companies in the 16 industry sectors identified by the federal government to report to the CISA within 72 hours if they are experiencing a cyberattack and within 24 hours of making a ransomware payment.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Cyclops Blink botnet targeting ASUS routers<a href="https://securityaffairs.co/wordpress/129180/apt/cyclops-blink-botnet-targets-asus-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently discovered Cyclops Blink botnet, which is believed to be a replacement for the VPNFilter botnet, is now targeting the ASUS routers.
+
+
+
+The recently discovered Cyclops Blink botnet is now targeting the ASUS routers, reports Trend...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: Chinese state hackers target Ukraine’s government<a href="https://www.bleepingcomputer.com/news/security/google-chinese-state-hackers-target-ukraine-s-government/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) says the Chinese People's Liberation Army (PLA) and other Chinese intelligence agencies are trying to get more info on the ongoing Russian war in Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan's Bridgestone confirms ransomware attack at US subsidiary<a href="https://www.channelnewsasia.com/business/japans-bridgestone-reports-ransomware-attack-us-subsidiary-2572396?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese tyre manufacturer Bridgestone has confirmed that its US subsidiary had suffered a ransomware attack, just weeks after suppliers of automaker Toyota Motor reported similar attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Channel News Asia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases open-source tool for checking MikroTik Routers compromise<a href="https://securityaffairs.co/wordpress/129167/hacking/microsoft-tool-mikrotik-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released an open-source tool to secure MikroTik routers and check for indicators of compromise for Trickbot malware infections.
+
+
+
+Microsoft has released an open-source tool, dubbed RouterOS Scanner, that can be used to secure MikroTik routers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These four types of ransomware make up nearly three-quarters of reported incidents<a href="https://www.zdnet.com/article/these-four-types-of-ransomware-make-up-nearly-three-quarters-of-reported-incidents/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware causes problems no matter what brand it is, but some forms are noticeably more prolific than others, with four strains of the malware accounting for a combined total of almost 70% of all attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 18, 2022 -- [General](/docs/issues/general/general/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

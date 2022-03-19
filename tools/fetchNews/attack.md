@@ -8,6 +8,113 @@ nav_order: 900015
 
 ## Attack
 ---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Warns of Attacks Targeting Web Help Desk Users<a href="https://securityaffairs.co/wordpress/129154/hacking/solarwinds-web-help-desk-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds warns customers of potential cyberattacks targeting unpatched installs of its Web Help Desk (WHD) product.
+
+
+
+SolarWinds has published a security advisory to warn customers of the risk of cyberattacks targeting unpatched Web Help Desk (WHD)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Wipers and Fake AV Updates Target Ukraine<a href="https://cyware.com/news/new-wipers-and-fake-av-updates-target-ukraine-f0f077d1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted the third wiper malware in use against Ukrainian organizations, which destroys user data and partition information from attached drives while also reporting a new phishing attack. The Ukrainian agency has linked the recent activity with the UAC-0056 group with medium confidence. ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unsecured Microsoft SQL, MySQL servers hit by Gh0stCringe malware<a href="https://www.bleepingcomputer.com/news/security/unsecured-microsoft-sql-mysql-servers-hit-by-gh0stcringe-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers target poorly secured Microsoft SQL and MySQL database servers to deploy the Gh0stCringe remote access trojans on vulnerable devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked threats actors exploited default MFA protocol and PrintNightmare bug to compromise NGO cloud<a href="https://securityaffairs.co/wordpress/129113/apt/russia-linked-threats-actors-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI and CISA warn Russia-linked threats actors gained access to an NGO cloud after enrolling their own device in the organization's Duo MFA.
+
+
+
+The Federal Bureau of Investigation (FBI) and Cybersecurity and Infrastructure Security Agency (CISA)&nbsp;...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds warns of attacks targeting Web Help Desk instances<a href="https://www.bleepingcomputer.com/news/security/solarwinds-warns-of-attacks-targeting-web-help-desk-instances/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds warned customers of attacks targeting Internet-exposed Web Help Desk (WHD) instances and advised removing them from publicly accessible infrastructure (likely to prevent the exploitation of a potential security flaw).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet malware campaign impersonates the IRS for 2022 tax season<a href="https://www.bleepingcomputer.com/news/security/emotet-malware-campaign-impersonates-the-irs-for-2022-tax-season/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet malware botnet is taking advantage of the 2022 U.S. tax season by sending out malicious emails pretending to be the Internal Revenue Service sending tax forms or federal returns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pandora Ransomware Hits Giant Automotive Supplier Denso<a href="https://threatpost.com/pandora-ransomware-hits-giant-automotive-supplier-denso/178911/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Denso confirmed that cybercriminals leaked stolen, classified information from the Japan-based car-components manufacturer after an attack on one of its offices in Germany.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
