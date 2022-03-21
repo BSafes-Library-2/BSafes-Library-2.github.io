@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+March 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous leaked data stolen from Russian pipeline company Transneft<a href="https://securityaffairs.co/wordpress/129276/data-breach/anonymous-transneft-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous hacked Omega Company, the in-house R&amp;D unit of Transneft, the Russian oil pipeline giant, and leaked stolen data.
+
+
+
+Anonymous collective claims it has hacked Omega Company, which is the in-house R&amp;D unit of Transneft, the Russia-based...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NRA Confirms It Got Pwned by Cybercriminals<a href="https://gizmodo.com/nra-confirms-hack-by-ransomware-gang-grief-1848673536?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware gang calling itself “Grief” bragged to the digital underworld last October about compromising the gun lobby’s servers and stealing sensitive internal documents.
+</details>
+<div style="text-align: right" markdown="1">
+Gizmodo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian pipeline company Transneft hit by data leak<a href="https://www.theverge.com/2022/3/17/22983085/russia-transneft-omega-data-leak-hillary-clinton?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data leak came to notice after the leak hosting website Distributed Denial of Secrets published a link to 79GB of emails from the Omega Company, the research and development division of Transneft.
+</details>
+<div style="text-align: right" markdown="1">
+The Verge
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1 Million Texans Potentially Impacted By Dental Care Data Breach<a href="https://dfw.cbslocal.com/2022/03/18/million-texans-impacted-dental-care-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jefferson Dental and Orthodontics, which has 72 offices across Texas, reported to the Texas Attorney General’s Office a data breach affecting more than a million residents of Texas.
+</details>
+<div style="text-align: right" markdown="1">
+CBS Local
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

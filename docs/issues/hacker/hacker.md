@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Attackers Tap Cloud Native Technologies in Russia-Ukraine War<a href="https://securityboulevard.com/2022/03/cyber-attackers-tap-cloud-native-technologies-in-russia-ukraine-war/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Aqua revealed trends by analyzing data from public repositories that contain code and tools used for the cyber-aggression on both sides of the Russia-Ukraine conflict.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

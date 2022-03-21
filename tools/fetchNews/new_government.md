@@ -8,6 +8,60 @@ nav_order: 900075
 
 ## Government
 ---
+March 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mar 13- Mar 19 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/129263/cyber-warfare-2/mar-13-19-ukraine-russia-cyber-conflict.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This post provides a timeline of the events related to the Russia invasion of Ukraine from the cyber security perspective.
+
+
+
+Below is the timeline of the events related to the previous weeks:
+
+
+
+March 18 - China-linked threat actors are targeting the government...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU and US agencies warn that Russia could attack satellite communications networks<a href="https://securityaffairs.co/wordpress/129243/cyber-warfare-2/russia-could-attack-satellite-communications.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI, CISA, and the European Union Aviation Safety Agency (EASA) warn of possible threats to international satellite communication (SATCOM) networks.
+
+
+
+Satellite communication (SATCOM) networks are critical infrastructure for modern society, US and EU agencies...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Avoslocker ransomware targets US critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/fbi-avoslocker-ransomware-targets-us-critical-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warns of AvosLocker&nbsp;ransomware being used in attacks targeting multiple US critical infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

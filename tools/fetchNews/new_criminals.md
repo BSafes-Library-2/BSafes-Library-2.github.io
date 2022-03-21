@@ -8,6 +8,60 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avoslocker ransomware gang targets US critical infrastructure<a href="https://securityaffairs.co/wordpress/129232/cyber-crime/avoslocker-ransomware-us-critical-infrastructure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) reported that AvosLocker ransomware is being used in attacks targeting&nbsp;US critical infrastructure.
+
+
+
+The Federal Bureau of Investigation (FBI) published a joint cybersecurity advisory warning of AvosLocker...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks claims to have stolen 4TB of data from TransUnion South Africa<a href="https://securityaffairs.co/wordpress/129224/data-breach/transunion-south-africa-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TransUnion South Africa discloses a data breach, threat actors who stolen sensitive data, demanded a ransom payment not to release stolen data.
+
+
+
+TransUnion South Africa announced that threat actors compromised a company server based in South Africa...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exotic Lily initial access broker works with Conti gang<a href="https://securityaffairs.co/wordpress/129216/cyber-crime/exotic-lily-access-broker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) uncovered a new&nbsp;initial access broker, named Exotic Lily,&nbsp;that is closely affiliated with the Conti ransomware gang.
+
+
+
+Google's Threat Analysis Group (TAG) researchers linked a new&nbsp;initial access broker, named...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

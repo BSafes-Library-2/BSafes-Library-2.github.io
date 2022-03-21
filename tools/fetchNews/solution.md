@@ -8,6 +8,24 @@ nav_order: 900195
 
 ## Solution
 ---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases open-source tool for checking MikroTik Routers compromise<a href="https://securityaffairs.co/wordpress/129167/hacking/microsoft-tool-mikrotik-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released an open-source tool to secure MikroTik routers and check for indicators of compromise for Trickbot malware infections.
+
+
+
+Microsoft has released an open-source tool, dubbed RouterOS Scanner, that can be used to secure MikroTik routers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

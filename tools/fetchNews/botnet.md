@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Here's how this notorious botnet used hacked routers for stealthy communication<a href="https://www.zdnet.com/article/microsoft-heres-how-this-notorious-botnet-used-hacked-routers-for-stealthy-communication/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has filled in one new detail about how the TrickBot gang's IoT C2 devices, namely compromised MikroTik routers, were being used since 2018 for stealthy communication with infected PCs.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Cyclops Blink botnet targeting ASUS routers<a href="https://securityaffairs.co/wordpress/129180/apt/cyclops-blink-botnet-targets-asus-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently discovered Cyclops Blink botnet, which is believed to be a replacement for the&nbsp;VPNFilter&nbsp;botnet, is now targeting the ASUS routers.
+
+
+
+The recently discovered Cyclops Blink botnet is now targeting the ASUS routers, reports Trend...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

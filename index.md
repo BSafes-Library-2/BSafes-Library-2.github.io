@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2022
+March 20, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newer Conti ransomware source code leaked out of revenge<a href="https://www.bleepingcomputer.com/news/security/newer-conti-ransomware-source-code-leaked-out-of-revenge/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2022
+March 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous leaked data stolen from Russian pipeline company Transneft<a href="https://securityaffairs.co/wordpress/129276/data-breach/anonymous-transneft-data-leak.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2022
+March 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Western Digital app bug gives elevated privileges in Windows, macOS<a href="https://www.bleepingcomputer.com/news/security/western-digital-app-bug-gives-elevated-privileges-in-windows-macos/"> Full Text</a>
@@ -86,7 +86,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2022
+March 20, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mar 13- Mar 19 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/129263/cyber-warfare-2/mar-13-19-ukraine-russia-cyber-conflict.html"> Full Text</a>
@@ -110,7 +110,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2022
+March 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 358 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/129258/breaking-news/security-affairs-newsletter-358-pierluigi-paganini.html"> Full Text</a>
@@ -130,7 +130,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2022
+March 20, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU and US agencies warn that Russia could attack satellite communications networks<a href="https://securityaffairs.co/wordpress/129243/cyber-warfare-2/russia-could-attack-satellite-communications.html"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2022
+March 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Got Milk? After Supplier Hit by Cyberattack, a NH School District Is Short<a href="https://www.nbcboston.com/news/local/got-milk-after-dairy-supplier-hit-with-cyberattack-this-nh-school-district-doesnt/2671112/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ NBC Boston
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2022
+March 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NRA Confirms It Got Pwned by Cybercriminals<a href="https://gizmodo.com/nra-confirms-hack-by-ransomware-gang-grief-1848673536?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ Gizmodo
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2022
+March 19, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Phishing toolkit lets anyone create fake Chrome browser windows<a href="https://www.bleepingcomputer.com/news/security/new-phishing-toolkit-lets-anyone-create-fake-chrome-browser-windows/"> Full Text</a>
@@ -198,7 +198,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2022
+March 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian pipeline company Transneft hit by data leak<a href="https://www.theverge.com/2022/3/17/22983085/russia-transneft-omega-data-leak-hillary-clinton?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ The Verge
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2022
+March 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Avoslocker ransomware targets US critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/fbi-avoslocker-ransomware-targets-us-critical-infrastructure/"> Full Text</a>
@@ -230,7 +230,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2022
+March 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1 Million Texans Potentially Impacted By Dental Care Data Breach<a href="https://dfw.cbslocal.com/2022/03/18/million-texans-impacted-dental-care-data-breach/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ CBS Local
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2022
+March 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers hit mass background-check firm used by state agencies, universities<a href="https://www.databreaches.net/hackers-hit-mass-background-check-firm-used-by-state-agencies-universities/?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ Data Breaches
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2022
+March 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avoslocker ransomware gang targets US critical infrastructure<a href="https://securityaffairs.co/wordpress/129232/cyber-crime/avoslocker-ransomware-us-critical-infrastructure.html"> Full Text</a>
@@ -282,7 +282,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2022
+March 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Attackers Tap Cloud Native Technologies in Russia-Ukraine War<a href="https://securityboulevard.com/2022/03/cyber-attackers-tap-cloud-native-technologies-in-russia-ukraine-war/?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ Security Boulevard
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2022
+March 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks claims to have stolen 4TB of data from TransUnion South Africa<a href="https://securityaffairs.co/wordpress/129224/data-breach/transunion-south-africa-data-breach.html"> Full Text</a>
@@ -318,7 +318,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2022
+March 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exotic Lily initial access broker works with Conti gang<a href="https://securityaffairs.co/wordpress/129216/cyber-crime/exotic-lily-access-broker.html"> Full Text</a>
@@ -338,7 +338,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2022
+March 19, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emsisoft releases free decryptor for the victims of the Diavol ransomware<a href="https://securityaffairs.co/wordpress/129211/malware/emsisoft-releases-free-decryptor-for-the-victims-of-the-diavol-ransomware.html"> Full Text</a>

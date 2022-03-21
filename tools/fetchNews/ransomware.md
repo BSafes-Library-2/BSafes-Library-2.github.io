@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - March 18th 2022 - Targeting the auto industry<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-18th-2022-targeting-the-auto-industry/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the automotive industry has been under attack, with numerous companies exhibiting signs of breaches or ransomware activity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free decryptor released for TrickBot gang's Diavol ransomware<a href="https://www.bleepingcomputer.com/news/security/free-decryptor-released-for-trickbot-gangs-diavol-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Emsisoft has released a free decryption tool to help Diavol ransomware victims recover their files without paying a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These four types of ransomware make up nearly three-quarters of reported incidents<a href="https://www.zdnet.com/article/these-four-types-of-ransomware-make-up-nearly-three-quarters-of-reported-incidents/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware causes problems no matter what brand it is, but some forms are noticeably more prolific than others, with four strains of the malware accounting for a combined total of almost 70% of all attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
