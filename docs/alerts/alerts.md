@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2022 - FBI, US Treasury, The Department of The Treasury
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indicators of Compromise Associated with AvosLocker Ransomware <a href="https://publications.bsafes.com/docs/fbi/joint-cyber-security-advisory-2022-0317-indicators-of-compromise-associated-with-avoslocker-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AvosLocker is a Ransomware as a Service (RaaS) affiliate-based group that has targeted victims across multiple critical infrastructure sectors in the United States including, but not limited to, the Financial Services, Critical Manufacturing, and Government Facilities sectors. AvosLocker claims to directly handle ransom negotiations, as well as the publishing and hosting of exfiltrated victim data after their affiliates infect targets. As a result, AvosLocker indicators of compromise (IOCs) vary between indicators specific to AvosLocker malware and indicators specific to the individual affiliate responsible for the intrusion.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 17, 2022 - CISA, FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
