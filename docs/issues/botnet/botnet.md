@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DirtyMoe modules expand the bot using worm-like techniques<a href="https://securityaffairs.co/wordpress/129286/malware/dirtymoe-modules-worm-like-techniques.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DirtyMoe&nbsp;botnet continues to evolve and now includes a module that implements wormable propagation capabilities.
+
+
+
+In June 2021, researchers from Avast warned of the rapid growth of the DirtyMoe botnet (PurpleFox,&nbsp;Perkiler, and&nbsp;NuggetPhantom),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

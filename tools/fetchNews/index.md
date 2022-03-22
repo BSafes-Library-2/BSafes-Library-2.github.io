@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked InvisiMole APT targets state organizations of Ukraine<a href="https://securityaffairs.co/wordpress/129337/apt/invisimole-targets-ukraine-government.html"> Full Text</a>
@@ -54,7 +54,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BitRAT malware now spreading as a Windows 10 license activator<a href="https://www.bleepingcomputer.com/news/security/bitrat-malware-now-spreading-as-a-windows-10-license-activator/"> Full Text</a>
@@ -70,7 +70,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Caketap Rootkit by UNC2891 Targets Banks Customers<a href="https://cyware.com/news/caketap-rootkit-by-unc2891-targets-banks-customers-73c5bdf8"> Full Text</a>
@@ -87,7 +87,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House warns Russia prepping possible cyberattacks against US<a href="https://thehill.com//homenews/administration/599072-white-house-warns-russia-prepping-possible-cyberattacks-on-us"> Full Text</a>
@@ -103,7 +103,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Browser-in-the Browser (BITB) Attack Makes Phishing Nearly Undetectable<a href="https://thehackernews.com/2022/03/new-browser-in-browser-bitb-attack.html"> Full Text</a>
@@ -119,7 +119,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House Statement and Briefing on Nation’s Cybersecurity<a href="https://www.lawfareblog.com/white-house-statement-and-briefing-nations-cybersecurity"> Full Text</a>
@@ -135,7 +135,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android password-stealing malware infects 100,000 Google Play users<a href="https://www.bleepingcomputer.com/news/security/android-password-stealing-malware-infects-100-000-google-play-users/"> Full Text</a>
@@ -151,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gh0stCringe Targets Weakly Configured Microsoft SQL, MySQL Servers<a href="https://cyware.com/news/gh0stcringe-targets-weakly-configured-microsoft-sql-mysql-servers-ef736ccd"> Full Text</a>
@@ -168,7 +168,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Backdoor Targets French Entities via Open-Source Package Installer<a href="https://thehackernews.com/2022/03/new-backdoor-targets-french-entities.html"> Full Text</a>
@@ -184,7 +184,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lapsus$ gang claims to have hacked Microsoft source code repositories<a href="https://securityaffairs.co/wordpress/129312/cyber-crime/lapsus-gang-claims-microsoft-hack.html"> Full Text</a>
@@ -204,7 +204,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows zero-day flaw giving admin rights gets unofficial patch, again<a href="https://www.bleepingcomputer.com/news/microsoft/windows-zero-day-flaw-giving-admin-rights-gets-unofficial-patch-again/"> Full Text</a>
@@ -220,7 +220,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Targeting Unpatched SolarWinds WHD Instances<a href="https://cyware.com/news/attackers-targeting-unpatched-solarwinds-whd-instances-bf30a219"> Full Text</a>
@@ -237,7 +237,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'CryptoRom' Crypto Scam Abusing iPhone Features to Target Mobile Users<a href="https://thehackernews.com/2022/03/cryptorom-crypto-scam-abusing-iphone.html"> Full Text</a>
@@ -253,7 +253,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italy’s data privacy watchdog investigates how Kaspersky manages Italian users’ data<a href="https://securityaffairs.co/wordpress/129304/digital-id/italys-data-privacy-watchdog-investigats-kaspersky.html"> Full Text</a>
@@ -273,7 +273,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Serpent malware campaign abuses Chocolatey Windows package manager<a href="https://www.bleepingcomputer.com/news/security/serpent-malware-campaign-abuses-chocolatey-windows-package-manager/"> Full Text</a>
@@ -289,7 +289,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoDaddy Managed Hosting Service Targeted via Backdoor Infection<a href="https://cyware.com/news/godaddy-managed-hosting-service-targeted-via-backdoor-infection-d727a69a"> Full Text</a>
@@ -306,7 +306,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 South Korean DarkHotel Hackers Targeted Luxury Hotels in Macau<a href="https://thehackernews.com/2022/03/south-korean-darkhotel-hackers-targeted.html"> Full Text</a>
@@ -322,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker leaked a new version of Conti ransomware source code on Twitter<a href="https://securityaffairs.co/wordpress/129296/cyber-crime/hacker-leaked-conti-ransomware-source-code.html"> Full Text</a>
@@ -342,7 +342,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft investigating claims of hacked source code repositories<a href="https://www.bleepingcomputer.com/news/security/microsoft-investigating-claims-of-hacked-source-code-repositories/"> Full Text</a>
@@ -358,7 +358,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Influx of Trojanized Apps on Google Play Store<a href="https://cyware.com/news/influx-of-trojanized-apps-on-google-play-store-99f77eab"> Full Text</a>
@@ -375,7 +375,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DirtyMoe modules expand the bot using worm-like techniques<a href="https://securityaffairs.co/wordpress/129286/malware/dirtymoe-modules-worm-like-techniques.html"> Full Text</a>
@@ -395,7 +395,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian hackers leak Mossad chief’s personal information<a href="https://www.jns.org/iranian-hackers-leak-mossad-chiefs-personal-information/?&web_view=true"> Full Text</a>
@@ -411,7 +411,7 @@ JNS
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How a Vulnerability in Third-Party Technology Is Leaving Many IP Cameras and Surveillance Systems Vulnerable<a href="https://unit42.paloaltonetworks.com/iot-supply-chain-cve-2021-28372/?&web_view=true"> Full Text</a>
@@ -427,7 +427,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook phish claims "Someone tried to log into your account"<a href="https://blog.malwarebytes.com/scams/2022/03/facebook-phish-claims-someone-tried-to-log-into-your-account/?&web_view=true"> Full Text</a>
@@ -443,7 +443,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Payment fraud attack rate across fintech ballooned 70% in 2021<a href="https://www.helpnetsecurity.com/2022/03/21/payment-fraud-increase/?&web_view=true"> Full Text</a>
@@ -459,7 +459,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 21, 2022
+March 21, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HubSpot Hack Leads to Data Breaches at BlockFi, Swan Bitcoin, NYDIG and Circle<a href="https://finance.yahoo.com/news/hubspot-hack-leads-data-breaches-043049723.html?&web_view=true"> Full Text</a>
@@ -475,7 +475,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2022
+March 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Conti ransomware source code leaked on Twitter out of revenge<a href="https://www.bleepingcomputer.com/news/security/more-conti-ransomware-source-code-leaked-on-twitter-out-of-revenge/"> Full Text</a>

@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows zero-day flaw giving admin rights gets unofficial patch, again<a href="https://www.bleepingcomputer.com/news/microsoft/windows-zero-day-flaw-giving-admin-rights-gets-unofficial-patch-again/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Windows local privilege escalation zero-day vulnerability that Microsoft has failed to fully address for several months now, allows users to gain administrative privileges in Windows 10, Windows 11, and Windows Server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How a Vulnerability in Third-Party Technology Is Leaving Many IP Cameras and Surveillance Systems Vulnerable<a href="https://unit42.paloaltonetworks.com/iot-supply-chain-cve-2021-28372/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large number of IP cameras and surveillance systems used in enterprise networks were recently discovered to be vulnerable to remote code execution and information leakage due to CVE-2021-28372.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

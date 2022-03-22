@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House warns Russia prepping possible cyberattacks against US<a href="https://thehill.com//homenews/administration/599072-white-house-warns-russia-prepping-possible-cyberattacks-on-us"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House on Monday urged private companies to bolster their cyber defenses, citing evolving intelligence suggesting the Russian government is exploring “options for potential cyberattacks” targeting U.S. critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Statement and Briefing on Nation’s Cybersecurity<a href="https://www.lawfareblog.com/white-house-statement-and-briefing-nations-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden's statement warns U.S. companies to prepare for possible Russian cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

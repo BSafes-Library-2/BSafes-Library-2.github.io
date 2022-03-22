@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital app bug gives elevated privileges in Windows, macOS<a href="https://www.bleepingcomputer.com/news/security/western-digital-app-bug-gives-elevated-privileges-in-windows-macos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital's EdgeRover desktop app for both Windows and Mac are&nbsp;vulnerable to local privilege escalation and sandboxing escape bugs that could allow the disclosure of sensitive information or denial of service (DoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

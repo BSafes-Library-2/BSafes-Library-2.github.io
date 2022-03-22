@@ -8,6 +8,35 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caketap Rootkit by UNC2891 Targets Banks Customers<a href="https://cyware.com/news/caketap-rootkit-by-unc2891-targets-banks-customers-73c5bdf8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LightBasin threat actor is using the new Unix rootkit Caketap against servers running Oracle Solaris. Caketap can hide network files, processes, and connections, and install hooks into system functions for remote commands and configurations.&nbsp;The group has mostly targeted Oracle Solaris-bas ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korean DarkHotel Hackers Targeted Luxury Hotels in Macau<a href="https://thehackernews.com/2022/03/south-korean-darkhotel-hackers-targeted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Luxury hotels in the Chinese special administrative region of Macau were the target of a malicious spear-phishing campaign from the second half of November 2021 and through mid-January 2022.  Cybersecurity firm Trellix&nbsp; attributed &nbsp;the campaign with moderate confidence to a suspected South Korean advanced persistent threat (APT) tracked as DarkHotel, building on research previously published by&nbsp; Zscaler &nbsp;in December 2021.  Believed to be active since 2007, DarkHotel has a history of striking "senior business executives by uploading malicious code to their computers through infiltrated hotel Wi-Fi networks, as well as through spear-phishing and P2P attacks," Zscaler researchers Sahil Antil and Sudeep Singh said. Prominent sectors targeted include law enforcement, pharmaceuticals, and automotive manufacturers.   The attack chains involved distributing email messages directed to individuals in executive roles in the hotel, such as the vice president of human resources, assistan
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

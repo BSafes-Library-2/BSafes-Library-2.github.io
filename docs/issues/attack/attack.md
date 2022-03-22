@@ -8,6 +8,50 @@ nav_order: 900015
 
 ## Attack
 ---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Targeting Unpatched SolarWinds WHD Instances<a href="https://cyware.com/news/attackers-targeting-unpatched-solarwinds-whd-instances-bf30a219"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the wake of new attacks, SolarWinds urged customers to remove their Web Help Desk instances from their publicly accessible infrastructure. An attacker may take advantage of unpatched WHD instances (CVE-2021-35251) for getting access to environmental details about the installation. SolarWinds rec ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Serpent malware campaign abuses Chocolatey Windows package manager<a href="https://www.bleepingcomputer.com/news/security/serpent-malware-campaign-abuses-chocolatey-windows-package-manager/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are abusing the popular Chocolatey Windows package manager in a new phishing campaign to install new 'Serpent' backdoor malware on systems of French government agencies and large construction firms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoDaddy Managed Hosting Service Targeted via Backdoor Infection<a href="https://cyware.com/news/godaddy-managed-hosting-service-targeted-via-backdoor-infection-d727a69a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Wordfence Incident Response team alerted nearly 300 websites hosted on GoDaddy's Managed WordPress service that were infected with a common backdoor. The backdoor payload is a 2015 Google search SEO-poisoning tool. Website admins are suggested to remove the backdoor and spam search engine resul ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

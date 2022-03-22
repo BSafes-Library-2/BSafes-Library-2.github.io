@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newer Conti ransomware source code leaked out of revenge<a href="https://www.bleepingcomputer.com/news/security/newer-conti-ransomware-source-code-leaked-out-of-revenge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Ukrainian security researcher has leaked newer malware source code from the Conti ransomware operation in revenge for the cybercriminals siding with Russia on the invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emsisoft releases free decryptor for the victims of the Diavol ransomware<a href="https://securityaffairs.co/wordpress/129211/malware/emsisoft-releases-free-decryptor-for-the-victims-of-the-diavol-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Emsisoft released a free decryptor that allows the victims of the Diavol ransomware to recover their files without paying a ransom.
+
+
+
+Cybersecurity firm Emsisoft has released a free decryption tool to help Diavol ransomware victims...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

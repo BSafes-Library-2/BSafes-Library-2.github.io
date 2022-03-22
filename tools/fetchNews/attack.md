@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+March 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Got Milk? After Supplier Hit by Cyberattack, a NH School District Is Short<a href="https://www.nbcboston.com/news/local/got-milk-after-dairy-supplier-hit-with-cyberattack-this-nh-school-district-doesnt/2671112/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The school district said they were informed of the cyberattack on the dairy company. In a statement, the superintendent said the school anticipates milk shortages in the coming weeks.
+</details>
+<div style="text-align: right" markdown="1">
+NBC Boston
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers hit mass background-check firm used by state agencies, universities<a href="https://www.databreaches.net/hackers-hit-mass-background-check-firm-used-by-state-agencies-universities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Computer hackers made off with highly sensitive personal records on more than 164,000 job-seekers and license applicants in a virtual “smash and grab” attack last November on Creative Services Inc., a company that conducts background checks.
+</details>
+<div style="text-align: right" markdown="1">
+Data Breaches
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

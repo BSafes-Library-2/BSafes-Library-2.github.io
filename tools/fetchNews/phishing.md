@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing toolkit lets anyone create fake Chrome browser windows<a href="https://www.bleepingcomputer.com/news/security/new-phishing-toolkit-lets-anyone-create-fake-chrome-browser-windows/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing kit has been released that allows red teamers and wannabe cybercriminals to create effective single sign-on phishing login forms using fake Chrome browser windows.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

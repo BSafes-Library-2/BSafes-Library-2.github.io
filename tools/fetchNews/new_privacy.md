@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy’s data privacy watchdog investigates how Kaspersky manages Italian users’ data<a href="https://securityaffairs.co/wordpress/129304/digital-id/italys-data-privacy-watchdog-investigats-kaspersky.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy's data privacy watchdog launched an investigation into the "potential risks" associated with the use of Russian antivirus software Kaspersky.
+
+
+
+Italy's data privacy watchdog has launched an investigation into potential risks associated with the use of the Kaspersky...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
