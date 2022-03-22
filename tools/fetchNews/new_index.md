@@ -34,6 +34,447 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked InvisiMole APT targets state organizations of Ukraine<a href="https://securityaffairs.co/wordpress/129337/apt/invisimole-targets-ukraine-government.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine CERT (CERT-UA) warns of spear-phishing ​​attacks conducted by UAC-0035 group (aka InvisiMole) on state organizations of Ukraine.
+
+
+
+The Government Team for Response to Computer Emergencies of Ukraine (CERT-UA) warns of spear-phishing messages...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BitRAT malware now spreading as a Windows 10 license activator<a href="https://www.bleepingcomputer.com/news/security/bitrat-malware-now-spreading-as-a-windows-10-license-activator/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new BitRAT malware distribution campaign is underway, exploiting users looking to activate pirated Windows OS versions for free using unofficial Microsoft license activators.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caketap Rootkit by UNC2891 Targets Banks Customers<a href="https://cyware.com/news/caketap-rootkit-by-unc2891-targets-banks-customers-73c5bdf8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LightBasin threat actor is using the new Unix rootkit Caketap against servers running Oracle Solaris. Caketap can hide network files, processes, and connections, and install hooks into system functions for remote commands and configurations.&nbsp;The group has mostly targeted Oracle Solaris-bas ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House warns Russia prepping possible cyberattacks against US<a href="https://thehill.com//homenews/administration/599072-white-house-warns-russia-prepping-possible-cyberattacks-on-us"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House on Monday urged private companies to bolster their cyber defenses, citing evolving intelligence suggesting the Russian government is exploring “options for potential cyberattacks” targeting U.S. critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Browser-in-the Browser (BITB) Attack Makes Phishing Nearly Undetectable<a href="https://thehackernews.com/2022/03/new-browser-in-browser-bitb-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel phishing technique called browser-in-the-browser (BitB) attack can be exploited to simulate a browser window within the browser in order to spoof a legitimate domain, thereby making it possible to stage convincing phishing attacks.  According to penetration tester and security researcher, who goes by the handle mrd0x_, the method takes advantage of third-party single sign-on ( SSO ) options embedded on websites such as "Sign in with Google" (or Facebook, Apple, or Microsoft).   While the default behavior when a user attempts to sign in via these methods is to be greeted by a pop-up window to complete the authentication process, the BitB attack aims to replicate this entire process using a mix of HTML and CSS code to create an entirely fabricated browser window.   "Combine the window design with an iframe pointing to the malicious server hosting the phishing page, and it's basically indistinguishable," mrd0x_  said  in a technical write-up published last
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Statement and Briefing on Nation’s Cybersecurity<a href="https://www.lawfareblog.com/white-house-statement-and-briefing-nations-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden's statement warns U.S. companies to prepare for possible Russian cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android password-stealing malware infects 100,000 Google Play users<a href="https://www.bleepingcomputer.com/news/security/android-password-stealing-malware-infects-100-000-google-play-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious Android app that steals Facebook credentials has been installed over 100,000 times via the Google Play Store, with the app still available to download.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gh0stCringe Targets Weakly Configured Microsoft SQL, MySQL Servers<a href="https://cyware.com/news/gh0stcringe-targets-weakly-configured-microsoft-sql-mysql-servers-ef736ccd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AhnLab found a malware threat dubbed Gh0stCringe targeting Oracle's open-source MySQL and Microsoft's SQL Server by abusing weak user credentials. Moreover, researchers have identified multiple malware samples—such as KingMiner and Vollgar CoinMiner—on the targeted servers.&nbsp;Experts say frequen ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Backdoor Targets French Entities via Open-Source Package Installer<a href="https://thehackernews.com/2022/03/new-backdoor-targets-french-entities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have exposed a new targeted email campaign aimed at French entities in the construction, real estate, and government sectors that leverages the Chocolatey Windows package manager to deliver a backdoor called  Serpent  on compromised systems.  Enterprise security firm Proofpoint attributed the attacks to a likely advanced threat actor based on the tactics and the victimology patterns observed. The ultimate objective of the campaign remains presently unknown.  "The threat actor attempted to install a backdoor on a potential victim's device, which could enable remote administration, command and control (C2), data theft, or deliver other additional payloads," Proofpoint researchers  said  in a report shared with The Hacker News.   The phishing lure that triggers the infection sequence makes use of a resume-themed subject line, with the attached macro-embedded Microsoft Word document masquerading as information related to the European Union's General Data Prot
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ gang claims to have hacked Microsoft source code repositories<a href="https://securityaffairs.co/wordpress/129312/cyber-crime/lapsus-gang-claims-microsoft-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is investigating claims that the Lapsus$ hacking group breached its internal Azure DevOps source code repositories.
+
+
+
+Microsoft announced that is investigating claims that the Lapsus$ cybercrime gang breached their internal Azure DevOps source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows zero-day flaw giving admin rights gets unofficial patch, again<a href="https://www.bleepingcomputer.com/news/microsoft/windows-zero-day-flaw-giving-admin-rights-gets-unofficial-patch-again/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Windows local privilege escalation zero-day vulnerability that Microsoft has failed to fully address for several months now, allows users to gain administrative privileges in Windows 10, Windows 11, and Windows Server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Targeting Unpatched SolarWinds WHD Instances<a href="https://cyware.com/news/attackers-targeting-unpatched-solarwinds-whd-instances-bf30a219"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the wake of new attacks, SolarWinds urged customers to remove their Web Help Desk instances from their publicly accessible infrastructure. An attacker may take advantage of unpatched WHD instances (CVE-2021-35251) for getting access to environmental details about the installation. SolarWinds rec ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'CryptoRom' Crypto Scam Abusing iPhone Features to Target Mobile Users<a href="https://thehackernews.com/2022/03/cryptorom-crypto-scam-abusing-iphone.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social engineering attacks leveraging a combination of romantic lures and cryptocurrency fraud have been luring unsuspecting victims into installing fake apps by taking advantage of legitimate iOS features like TestFlight and Web Clips.  Cybersecurity company Sophos, which has named the organized crime campaign " CryptoRom ," characterized it as a wide-ranging global scam.  "This style of cyber-fraud, known as sha zhu pan (杀猪盘) — literally 'pig butchering plate' — is a well-organized, syndicated scam operation that uses a combination of often romance-centered social engineering and fraudulent financial applications and websites to ensnare victims and steal their savings after gaining their confidence," Sophos analyst Jagadeesh Chandraiah  said  in a report published last week.   The campaign works by approaching potential targets through dating apps like Bumble, Tinder, Facebook Dating, and Grindr, before moving the conversation to messaging apps such as Wh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy’s data privacy watchdog investigates how Kaspersky manages Italian users’ data<a href="https://securityaffairs.co/wordpress/129304/digital-id/italys-data-privacy-watchdog-investigats-kaspersky.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy's data privacy watchdog launched an investigation into the "potential risks" associated with the use of Russian antivirus software Kaspersky.
+
+
+
+Italy's data privacy watchdog has launched an investigation into potential risks associated with the use of the Kaspersky...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Serpent malware campaign abuses Chocolatey Windows package manager<a href="https://www.bleepingcomputer.com/news/security/serpent-malware-campaign-abuses-chocolatey-windows-package-manager/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are abusing the popular Chocolatey Windows package manager in a new phishing campaign to install new 'Serpent' backdoor malware on systems of French government agencies and large construction firms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoDaddy Managed Hosting Service Targeted via Backdoor Infection<a href="https://cyware.com/news/godaddy-managed-hosting-service-targeted-via-backdoor-infection-d727a69a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Wordfence Incident Response team alerted nearly 300 websites hosted on GoDaddy's Managed WordPress service that were infected with a common backdoor. The backdoor payload is a 2015 Google search SEO-poisoning tool. Website admins are suggested to remove the backdoor and spam search engine resul ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korean DarkHotel Hackers Targeted Luxury Hotels in Macau<a href="https://thehackernews.com/2022/03/south-korean-darkhotel-hackers-targeted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Luxury hotels in the Chinese special administrative region of Macau were the target of a malicious spear-phishing campaign from the second half of November 2021 and through mid-January 2022.  Cybersecurity firm Trellix  attributed  the campaign with moderate confidence to a suspected South Korean advanced persistent threat (APT) tracked as DarkHotel, building on research previously published by  Zscaler  in December 2021.  Believed to be active since 2007, DarkHotel has a history of striking "senior business executives by uploading malicious code to their computers through infiltrated hotel Wi-Fi networks, as well as through spear-phishing and P2P attacks," Zscaler researchers Sahil Antil and Sudeep Singh said. Prominent sectors targeted include law enforcement, pharmaceuticals, and automotive manufacturers.   The attack chains involved distributing email messages directed to individuals in executive roles in the hotel, such as the vice president of human resources, assistan
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker leaked a new version of Conti ransomware source code on Twitter<a href="https://securityaffairs.co/wordpress/129296/cyber-crime/hacker-leaked-conti-ransomware-source-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Ukrainian security researcher has leaked more source code from the Conti ransomware operation to protest the gang's position on the conflict. 
+
+
+
+Hacker leaked a new version of the Conti ransomware source code on Twitter as retaliation of the gang's...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft investigating claims of hacked source code repositories<a href="https://www.bleepingcomputer.com/news/security/microsoft-investigating-claims-of-hacked-source-code-repositories/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says they are investigating claims that the Lapsus$ data extortion hacking group breached their internal Azure DevOps source code repositories and stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Influx of Trojanized Apps on Google Play Store<a href="https://cyware.com/news/influx-of-trojanized-apps-on-google-play-store-99f77eab"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dr.Web disclosed numerous trojanized apps on Google Play Store prompting potential victims to take action, such as depositing money for trading or signing up for expensive subscriptions, benefitting the scammers eventually. The detected malicious apps include SecretVideoRecorder, FakeAntiVirus, Key ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DirtyMoe modules expand the bot using worm-like techniques<a href="https://securityaffairs.co/wordpress/129286/malware/dirtymoe-modules-worm-like-techniques.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DirtyMoe botnet continues to evolve and now includes a module that implements wormable propagation capabilities.
+
+
+
+In June 2021, researchers from Avast warned of the rapid growth of the DirtyMoe botnet (PurpleFox, Perkiler, and NuggetPhantom),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian hackers leak Mossad chief’s personal information<a href="https://www.jns.org/iranian-hackers-leak-mossad-chiefs-personal-information/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian hackers on Wednesday published a video on an anonymous Telegram channel featuring personal photos and documents allegedly obtained from a phone used by the wife of Mossad Director David Barnea.
+</details>
+<div style="text-align: right" markdown="1">
+JNS
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How a Vulnerability in Third-Party Technology Is Leaving Many IP Cameras and Surveillance Systems Vulnerable<a href="https://unit42.paloaltonetworks.com/iot-supply-chain-cve-2021-28372/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large number of IP cameras and surveillance systems used in enterprise networks were recently discovered to be vulnerable to remote code execution and information leakage due to CVE-2021-28372.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook phish claims "Someone tried to log into your account"<a href="https://blog.malwarebytes.com/scams/2022/03/facebook-phish-claims-someone-tried-to-log-into-your-account/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mail itself combines a fairly clean design with minimal messaging. There’s a tendency with some phish attempts to overstuff the mail with all manner of nonsense to look more convincing.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Payment fraud attack rate across fintech ballooned 70% in 2021<a href="https://www.helpnetsecurity.com/2022/03/21/payment-fraud-increase/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Sift, these rising attacks were aimed primarily at alternative payments like digital wallets, which saw a 200% increase in payment fraud, along with payments service providers (+169%), and cryptocurrency exchanges (+140%).
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HubSpot Hack Leads to Data Breaches at BlockFi, Swan Bitcoin, NYDIG and Circle<a href="https://finance.yahoo.com/news/hubspot-hack-leads-data-breaches-043049723.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While user information was leaked to hackers, the companies say that passwords and other internal information was not affected. As Hubspot is an external tool, hackers did not gain access to internal systems.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 20, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
