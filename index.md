@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft confirms they were hacked by Lapsus$ extortion group<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-they-were-hacked-by-lapsus-extortion-group/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Another Source Code Leak for Conti Ransomware<a href="https://cyware.com/news/another-source-code-leak-for-conti-ransomware-418ea12a"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley — Biden's child privacy call gets backers<a href="https://thehill.com//policy/technology/overnights/599306-hillicon-valley-presented-by-american-edge-bidens-child-privacy"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LAPSUS$ Hackers Claim to Have Breached Microsoft and Authentication Firm Okta<a href="https://thehackernews.com/2022/03/lapsus-hackers-claim-to-have-breached.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous hacked Nestlè and leaked 10 GB of sensitive<a href="https://securityaffairs.co/wordpress/129382/hacktivism/anonymous-hacked-nestle-leaked-data.html"> Full Text</a>
@@ -119,7 +119,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIDO: Here’s Another Knife to Help Murder Passwords<a href="https://threatpost.com/fido-knife-murder-passwords/179031/"> Full Text</a>
@@ -135,7 +135,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House shares checklist to counter Russian cyberattacks<a href="https://www.bleepingcomputer.com/news/security/white-house-shares-checklist-to-counter-russian-cyberattacks/"> Full Text</a>
@@ -151,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter Affiliates Propagate BlackCat Ransomware<a href="https://cyware.com/news/blackmatter-affiliates-propagate-blackcat-ransomware-1e3403f4"> Full Text</a>
@@ -168,7 +168,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Software firm investigates digital breach<a href="https://thehill.com//policy/cybersecurity/599243-software-firm-investigates-digital-breach"> Full Text</a>
@@ -184,7 +184,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wazuh Offers XDR Functionality at a Price Enterprises Will Love — Free!<a href="https://thehackernews.com/2022/03/wazuh-offers-xdr-functionality-at-price.html"> Full Text</a>
@@ -200,7 +200,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new wave of DeadBolt Ransomware attacks hit QNAP NAS devices ￼<a href="https://securityaffairs.co/wordpress/129373/malware/qnap-nas-deadbolt-ransomware.html"> Full Text</a>
@@ -224,7 +224,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Okta confirms support engineer's laptop was hacked in January<a href="https://www.bleepingcomputer.com/news/security/okta-confirms-support-engineers-laptop-was-hacked-in-january/"> Full Text</a>
@@ -240,7 +240,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: AvosLocker Ransomware is Actively Targeting U.S. Critical Infrastructure<a href="https://cyware.com/news/fbi-avoslocker-ransomware-is-actively-targeting-us-critical-infrastructure-a29b363b"> Full Text</a>
@@ -257,7 +257,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Government Warns Companies of Potential Russian Cyber Attacks<a href="https://thehackernews.com/2022/03/us-government-warns-companies-of.html"> Full Text</a>
@@ -273,7 +273,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three critical RCE flaws affect hundreds of HP printer models<a href="https://securityaffairs.co/wordpress/129362/hacking/hp-printer-critical-rce.html"> Full Text</a>
@@ -293,7 +293,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Custom macOS malware of Chinese hackers ‘Storm Cloud’ exposed<a href="https://www.bleepingcomputer.com/news/security/custom-macos-malware-of-chinese-hackers-storm-cloud-exposed/"> Full Text</a>
@@ -309,7 +309,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scottish mental health charity "devastated" by heartless RansomEXX ransomware attack<a href="https://www.bitdefender.com/blog/hotforsecurity/scottish-mental-health-charity-devastated-by-heartless-ransomexx-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -325,7 +325,7 @@ Bit Defender
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Dell BIOS Bugs Affect Millions of Inspiron, Vostro, XPS, Alienware Systems<a href="https://thehackernews.com/2022/03/new-dell-bios-bugs-affect-millions-of.html"> Full Text</a>
@@ -341,7 +341,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lapsus$ extortion gang claims to have stolen sensitive data from Okta<a href="https://securityaffairs.co/wordpress/129343/data-breach/lapsus-gang-claims-okta-hack.html"> Full Text</a>
@@ -361,7 +361,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Greece's public postal service offline due to ransomware attack<a href="https://www.bleepingcomputer.com/news/security/greeces-public-postal-service-offline-due-to-ransomware-attack/"> Full Text</a>
@@ -377,7 +377,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Application Security Firm ForAllSecure Raises $21 Million<a href="https://www.securityweek.com/application-security-firm-forallsecure-raises-21-million?&web_view=true"> Full Text</a>
@@ -393,7 +393,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lapsus$ extortion gang leaked the source code for some Microsoft projects<a href="https://securityaffairs.co/wordpress/129344/cyber-crime/lapsus-leak-37gb-microsoft-source-code.html"> Full Text</a>
@@ -413,7 +413,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The top 5 things the 2022 Weak Password Report means for IT security<a href="https://www.bleepingcomputer.com/news/security/the-top-5-things-the-2022-weak-password-report-means-for-it-security/"> Full Text</a>
@@ -429,7 +429,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 McAfee Enterprise's security service edge business is now called Skyhigh Security<a href="https://www.zdnet.com/article/mcafee-enterprises-security-service-edge-business-is-now-called-skyhigh-security/?&web_view=true"> Full Text</a>
@@ -445,7 +445,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Serpent backdoor targets French entities with high-evasive attack chain<a href="https://securityaffairs.co/wordpress/129326/malware/serpent-backdoor-targets-french-orgs.html"> Full Text</a>
@@ -465,7 +465,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of HP printer models vulnerable to remote code execution<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-hp-printer-models-vulnerable-to-remote-code-execution/"> Full Text</a>
@@ -481,7 +481,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top Russian meat producer hit with Windows BitLocker encryption attack<a href="https://www.bleepingcomputer.com/news/security/top-russian-meat-producer-hit-with-windows-bitlocker-encryption-attack/"> Full Text</a>
@@ -497,7 +497,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Okta investigating claims of customer data breach from Lapsus$ group<a href="https://www.bleepingcomputer.com/news/security/okta-investigating-claims-of-customer-data-breach-from-lapsus-group/"> Full Text</a>
@@ -513,7 +513,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lapsus$ hackers leak 37GB of Microsoft's alleged source code<a href="https://www.bleepingcomputer.com/news/microsoft/lapsus-hackers-leak-37gb-of-microsofts-alleged-source-code/"> Full Text</a>

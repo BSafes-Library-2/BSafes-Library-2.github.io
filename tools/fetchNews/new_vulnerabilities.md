@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three critical RCE flaws affect hundreds of HP printer models<a href="https://securityaffairs.co/wordpress/129362/hacking/hp-printer-critical-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three critical RCE flaws affect hundreds of HP LaserJet Pro, Pagewide Pro, OfficeJet, Enterprise, Large Format, and DeskJet printer models.
+
+
+
+HP issued a security bulletin warning of a buffer overflow vulnerability, tracked as&nbsp;CVE-2022-3942 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Dell BIOS Bugs Affect Millions of Inspiron, Vostro, XPS, Alienware Systems<a href="https://thehackernews.com/2022/03/new-dell-bios-bugs-affect-millions-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Five new security weaknesses have been disclosed in Dell BIOS that, if successfully exploited, could lead to code execution on vulnerable systems, joining the likes of firmware vulnerabilities recently uncovered in Insyde Software's&nbsp; InsydeH2O &nbsp;and HP Unified Extensible Firmware Interface ( UEFI ).  Tracked as CVE-2022-24415, CVE-2022-24416, CVE-2022-24419, CVE-2022-24420, and CVE-2022-24421, the high-severity vulnerabilities are rated 8.2 out of 10 on the CVSS scoring system.  "The active exploitation of all the discovered vulnerabilities can't be detected by firmware integrity monitoring systems due to limitations of the Trusted Platform Module (TPM) measurement," firmware security company Binarly, which discovered the latter three flaws,&nbsp; said &nbsp;in a write-up.   "The remote device health attestation solutions will not detect the affected systems due to the design limitations in visibility of the firmware runtime."  All the flaws relate to improper input v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of HP printer models vulnerable to remote code execution<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-hp-printer-models-vulnerable-to-remote-code-execution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP has published security advisories for three critical-severity vulnerabilities affecting hundreds of its LaserJet Pro, Pagewide Pro, OfficeJet, Enterprise, Large Format, and DeskJet printer models.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

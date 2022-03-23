@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Payment fraud attack rate across fintech ballooned 70% in 2021<a href="https://www.helpnetsecurity.com/2022/03/21/payment-fraud-increase/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Sift, these rising attacks were aimed primarily at alternative payments like digital wallets, which saw a 200% increase in payment fraud, along with payments service providers (+169%), and cryptocurrency exchanges (+140%).
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

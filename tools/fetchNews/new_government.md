@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Biden's child privacy call gets backers<a href="https://thehill.com//policy/technology/overnights/599306-hillicon-valley-presented-by-american-edge-bidens-child-privacy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Tuesday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House shares checklist to counter Russian cyberattacks<a href="https://www.bleepingcomputer.com/news/security/white-house-shares-checklist-to-counter-russian-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House is urging U.S. organizations to shore up their cybersecurity defenses after new intelligence suggests that Russia is preparing to conduct cyberattacks in the near future.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Warns Companies of Potential Russian Cyber Attacks<a href="https://thehackernews.com/2022/03/us-government-warns-companies-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Monday once again cautioned of potential cyber attacks from Russia in retaliation for&nbsp; economic sanctions &nbsp;imposed by the west on the country following its&nbsp; military assault on Ukraine &nbsp;last month.  "It's part of Russia's playbook," U.S. President Joe Biden&nbsp; said &nbsp;in a&nbsp; statement , citing "evolving intelligence that the Russian Government is exploring options."  The development comes as the Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) warned of "possible threats" to U.S. and international satellite communication (SATCOM) networks in the wake of a cyber attack targeting&nbsp; Viasat KA-SAT network , used extensively by the Ukrainian military, roughly around the time when Russian armed forces invaded Ukraine on February 24.  "Successful intrusions into SATCOM networks could create risk in SATCOM network providers' customer environments," the agencies&nbsp; said .   T
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

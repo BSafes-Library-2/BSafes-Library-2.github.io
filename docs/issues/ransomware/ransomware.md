@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Source Code Leak for Conti Ransomware<a href="https://cyware.com/news/another-source-code-leak-for-conti-ransomware-418ea12a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New source code for the Russian-based Conti ransomware operation has been leaked on Twitter—as revenge for the ongoing war—by the Ukrainian researcher named Conti Leaks. The source code leak is a Visual Studio solution that can be decompiled easily, thus allowing anyone to compile the code and the  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

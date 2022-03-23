@@ -8,6 +8,49 @@ nav_order: 900072
 
 ## General
 ---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIDO: Here’s Another Knife to Help Murder Passwords<a href="https://threatpost.com/fido-knife-murder-passwords/179031/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After years of promising a passwordless future – really, any day now! – FIDO is proposing tweaks to WebAuthn that could put us out of password misery. Experts aren’t so sure. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: AvosLocker Ransomware is Actively Targeting U.S. Critical Infrastructure<a href="https://cyware.com/news/fbi-avoslocker-ransomware-is-actively-targeting-us-critical-infrastructure-a29b363b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI issued a joint cybersecurity advisory against AvosLocker ransomware operations aimed at crippling the networks of U.S. critical infrastructure.&nbsp;It has targeted multiple sectors including financial services, critical manufacturing sectors, and government facilities as well. The advisory ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The top 5 things the 2022 Weak Password Report means for IT security<a href="https://www.bleepingcomputer.com/news/security/the-top-5-things-the-2022-weak-password-report-means-for-it-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Given that passwords have had such unprecedented longevity, it would seem that password security best practices would be refined to the point of perfection. Even so, Specops Software's first annual Weak Password Report has yielded some interesting results that may cause you to rethink the way that your organization manages passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

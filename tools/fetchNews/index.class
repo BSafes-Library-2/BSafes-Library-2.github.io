@@ -34,6 +34,501 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft confirms they were hacked by Lapsus$ extortion group<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-they-were-hacked-by-lapsus-extortion-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has confirmed that one of their employees was compromised by the Lapsus$ hacking group, allowing the threat actors to access and steal portions of their source code.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Source Code Leak for Conti Ransomware<a href="https://cyware.com/news/another-source-code-leak-for-conti-ransomware-418ea12a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New source code for the Russian-based Conti ransomware operation has been leaked on Twitter—as revenge for the ongoing war—by the Ukrainian researcher named Conti Leaks. The source code leak is a Visual Studio solution that can be decompiled easily, thus allowing anyone to compile the code and the  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — Biden's child privacy call gets backers<a href="https://thehill.com//policy/technology/overnights/599306-hillicon-valley-presented-by-american-edge-bidens-child-privacy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Tuesday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LAPSUS$ Hackers Claim to Have Breached Microsoft and Authentication Firm Okta<a href="https://thehackernews.com/2022/03/lapsus-hackers-claim-to-have-breached.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft and authentication services provider Okta said they are investigating claims of a potential breach alleged by the LAPSUS$ extortionist gang.  The development, which was first reported by  Vice  and  Reuters , comes after the cyber criminal group posted screenshots and source code of what it said were the companies' internal projects and systems on its Telegram channel.  The leaked 37GB archive shows that the group may have accessed the repositories related to Microsoft's Bing, Bing Maps, and Cortana, with the  images  highlighting Okta's Atlassian suite and in-house Slack channels.   "For a service that powers authentication systems to many of the largest corporations (and FEDRAMP approved) I think these security measures are pretty poor," the hacking cartel wrote on Telegram.  On top of this, the group alleged that it breached LG Electronics (LGE) for the "second time" in a year.  Bill Demirkapi, an independent security researcher,  noted  th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked Nestlè and leaked 10 GB of sensitive<a href="https://securityaffairs.co/wordpress/129382/hacktivism/anonymous-hacked-nestle-leaked-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular Anonymous hacktivist collective announced to have hacked Nestlè and leaked 10 GB of sensitive data because the food and beverage giant continued to operate in Russia.
+
+
+
+The popular Anonymous hacktivist collective recently declared war on all companies...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIDO: Here’s Another Knife to Help Murder Passwords<a href="https://threatpost.com/fido-knife-murder-passwords/179031/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After years of promising a passwordless future – really, any day now! – FIDO is proposing tweaks to WebAuthn that could put us out of password misery. Experts aren’t so sure. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House shares checklist to counter Russian cyberattacks<a href="https://www.bleepingcomputer.com/news/security/white-house-shares-checklist-to-counter-russian-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House is urging U.S. organizations to shore up their cybersecurity defenses after new intelligence suggests that Russia is preparing to conduct cyberattacks in the near future.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter Affiliates Propagate BlackCat Ransomware<a href="https://cyware.com/news/blackmatter-affiliates-propagate-blackcat-ransomware-1e3403f4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers analyzed two recent ransomware attacks by BlackCat and BlackMatter and discovered overlaps in their TTPs. However, one of the representatives of BlackCat had already claimed that the ransomware is not the rebranding of BlackMatter. BlackCat could be playing an important role in helping  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software firm investigates digital breach<a href="https://thehill.com//policy/cybersecurity/599243-software-firm-investigates-digital-breach"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Okta, a software company based in San Francisco, said it is investigating a possible digital breach after hackers posted screenshots of internal information, according to Reuters.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wazuh Offers XDR Functionality at a Price Enterprises Will Love — Free!<a href="https://thehackernews.com/2022/03/wazuh-offers-xdr-functionality-at-price.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Back in 2018, Palo Alto Networks CTO and co-founder Nir Zuk coined a new term to describe the way that businesses needed to approach cybersecurity in the years to come. That term, of course, was extended detection and response (XDR). It described a unified cybersecurity infrastructure that brought endpoint threat detection, network analysis and visibility (NAV), access management, and more under a single roof to find and neutralize digital threats in real-time.  And Zuk's vision of XDR proved prophetic. In the years since he coined the phrase, platforms leveraging the XDR model have emerged as the de-facto leaders of the business cybersecurity industry. But their scale and complexity put them in a product class that's just out of reach for some enterprises.  Fortunately, the open-source community — as it often does — has filled the XDR void with an affordable product — because it's totally free. It's called  Wazuh , and it provides enterprises the tools they need to bu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new wave of DeadBolt Ransomware attacks hit QNAP NAS devices ￼<a href="https://securityaffairs.co/wordpress/129373/malware/qnap-nas-deadbolt-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet search engine Censys reported a new wave of DeadBolt ransomware attacks targeting QNAP NAS devices.
+
+
+
+Internet search engine Censys reported that QNAP devices were targeted in a new wave of DeadBolt ransomware attacks.
+
+
+
+Since January, DeadBolt...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta confirms support engineer's laptop was hacked in January<a href="https://www.bleepingcomputer.com/news/security/okta-confirms-support-engineers-laptop-was-hacked-in-january/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Okta, a major provider of access management systems, has completed its investigation into a breach incident claimed by the Lapsus$ data extortion group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: AvosLocker Ransomware is Actively Targeting U.S. Critical Infrastructure<a href="https://cyware.com/news/fbi-avoslocker-ransomware-is-actively-targeting-us-critical-infrastructure-a29b363b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI issued a joint cybersecurity advisory against AvosLocker ransomware operations aimed at crippling the networks of U.S. critical infrastructure.&nbsp;It has targeted multiple sectors including financial services, critical manufacturing sectors, and government facilities as well. The advisory ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Warns Companies of Potential Russian Cyber Attacks<a href="https://thehackernews.com/2022/03/us-government-warns-companies-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Monday once again cautioned of potential cyber attacks from Russia in retaliation for  economic sanctions  imposed by the west on the country following its  military assault on Ukraine  last month.  "It's part of Russia's playbook," U.S. President Joe Biden  said  in a  statement , citing "evolving intelligence that the Russian Government is exploring options."  The development comes as the Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) warned of "possible threats" to U.S. and international satellite communication (SATCOM) networks in the wake of a cyber attack targeting  Viasat KA-SAT network , used extensively by the Ukrainian military, roughly around the time when Russian armed forces invaded Ukraine on February 24.  "Successful intrusions into SATCOM networks could create risk in SATCOM network providers' customer environments," the agencies  said .   T
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three critical RCE flaws affect hundreds of HP printer models<a href="https://securityaffairs.co/wordpress/129362/hacking/hp-printer-critical-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three critical RCE flaws affect hundreds of HP LaserJet Pro, Pagewide Pro, OfficeJet, Enterprise, Large Format, and DeskJet printer models.
+
+
+
+HP issued a security bulletin warning of a buffer overflow vulnerability, tracked as CVE-2022-3942 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Custom macOS malware of Chinese hackers ‘Storm Cloud’ exposed<a href="https://www.bleepingcomputer.com/news/security/custom-macos-malware-of-chinese-hackers-storm-cloud-exposed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered a previously unknown macOS malware variant called GIMMICK, which is believed to be a custom tool used by a Chinese espionage threat actor known as 'Storm Cloud.'
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scottish mental health charity "devastated" by heartless RansomEXX ransomware attack<a href="https://www.bitdefender.com/blog/hotforsecurity/scottish-mental-health-charity-devastated-by-heartless-ransomexx-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAMH (the Scottish Association for Mental Health) helps provide care and support for adults and young people suffering from issues with their mental health, and campaigns to influence positive social change.
+</details>
+<div style="text-align: right" markdown="1">
+Bit Defender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Dell BIOS Bugs Affect Millions of Inspiron, Vostro, XPS, Alienware Systems<a href="https://thehackernews.com/2022/03/new-dell-bios-bugs-affect-millions-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Five new security weaknesses have been disclosed in Dell BIOS that, if successfully exploited, could lead to code execution on vulnerable systems, joining the likes of firmware vulnerabilities recently uncovered in Insyde Software's  InsydeH2O  and HP Unified Extensible Firmware Interface ( UEFI ).  Tracked as CVE-2022-24415, CVE-2022-24416, CVE-2022-24419, CVE-2022-24420, and CVE-2022-24421, the high-severity vulnerabilities are rated 8.2 out of 10 on the CVSS scoring system.  "The active exploitation of all the discovered vulnerabilities can't be detected by firmware integrity monitoring systems due to limitations of the Trusted Platform Module (TPM) measurement," firmware security company Binarly, which discovered the latter three flaws,  said  in a write-up.   "The remote device health attestation solutions will not detect the affected systems due to the design limitations in visibility of the firmware runtime."  All the flaws relate to improper input v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ extortion gang claims to have stolen sensitive data from Okta<a href="https://securityaffairs.co/wordpress/129343/data-breach/lapsus-gang-claims-okta-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ extortion group claims to have stolen sensitive data from the identity and access management giant Okta solutions. 
+
+
+
+The gang announced the alleged hack through its Telegram channel and shared a series of screenshots as proof of the hack....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Greece's public postal service offline due to ransomware attack<a href="https://www.bleepingcomputer.com/news/security/greeces-public-postal-service-offline-due-to-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ELTA, the state-owned provider of postal services in Greece, has disclosed a ransomware incident detected on Sunday that is still keeping most of the organizations services offline.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Application Security Firm ForAllSecure Raises $21 Million<a href="https://www.securityweek.com/application-security-firm-forallsecure-raises-21-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ForAllSecure plans to use the funding to accelerate growth, hire new talent, and build a solution that would help secure open source projects that businesses worldwide depend on.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ extortion gang leaked the source code for some Microsoft projects<a href="https://securityaffairs.co/wordpress/129344/cyber-crime/lapsus-leak-37gb-microsoft-source-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ extortion group claims to have hacked Microsoft 's internal Azure DevOps server and leaked the source code for some projects.
+
+
+
+Microsoft recently announced that is investigating claims that the Lapsus$ cybercrime gang breached...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The top 5 things the 2022 Weak Password Report means for IT security<a href="https://www.bleepingcomputer.com/news/security/the-top-5-things-the-2022-weak-password-report-means-for-it-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Given that passwords have had such unprecedented longevity, it would seem that password security best practices would be refined to the point of perfection. Even so, Specops Software's first annual Weak Password Report has yielded some interesting results that may cause you to rethink the way that your organization manages passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee Enterprise's security service edge business is now called Skyhigh Security<a href="https://www.zdnet.com/article/mcafee-enterprises-security-service-edge-business-is-now-called-skyhigh-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the start of this year, Symphony Technology Group (STG) announced Trellix was the new name for the business unit that resulted from the merger of McAfee Enterprise and FireEye last October.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Serpent backdoor targets French entities with high-evasive attack chain<a href="https://securityaffairs.co/wordpress/129326/malware/serpent-backdoor-targets-french-orgs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new email campaign aimed at French entities leverages the Chocolatey Windows package manager to deliver the Serpent backdoor.
+
+
+
+Proofpoint researchers uncovered a targeted attack leveraging an open-source package installer Chocolatey to deliver a backdoor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of HP printer models vulnerable to remote code execution<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-hp-printer-models-vulnerable-to-remote-code-execution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP has published security advisories for three critical-severity vulnerabilities affecting hundreds of its LaserJet Pro, Pagewide Pro, OfficeJet, Enterprise, Large Format, and DeskJet printer models.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Russian meat producer hit with Windows BitLocker encryption attack<a href="https://www.bleepingcomputer.com/news/security/top-russian-meat-producer-hit-with-windows-bitlocker-encryption-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Moscow-based meat producer and distributor Miratorg Agribusiness Holding has suffered a major cyberattack that encrypted its IT systems, according to a report from Rosselkhoznadzor - the Russian federal veterinary and phytosanitary supervision service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta investigating claims of customer data breach from Lapsus$ group<a href="https://www.bleepingcomputer.com/news/security/okta-investigating-claims-of-customer-data-breach-from-lapsus-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Okta, a leading provider of authentication services and Identity and access management (IAM) solutions says it is investigating claims of data breach.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ hackers leak 37GB of Microsoft's alleged source code<a href="https://www.bleepingcomputer.com/news/microsoft/lapsus-hackers-leak-37gb-of-microsofts-alleged-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ hacking group claims to have leaked the source code for Bing, Cortana, and other projects stolen from Microsoft's internal Azure DevOps server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 22, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

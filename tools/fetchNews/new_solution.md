@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wazuh Offers XDR Functionality at a Price Enterprises Will Love — Free!<a href="https://thehackernews.com/2022/03/wazuh-offers-xdr-functionality-at-price.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Back in 2018, Palo Alto Networks CTO and co-founder Nir Zuk coined a new term to describe the way that businesses needed to approach cybersecurity in the years to come. That term, of course, was extended detection and response (XDR). It described a unified cybersecurity infrastructure that brought endpoint threat detection, network analysis and visibility (NAV), access management, and more under a single roof to find and neutralize digital threats in real-time.  And Zuk's vision of XDR proved prophetic. In the years since he coined the phrase, platforms leveraging the XDR model have emerged as the de-facto leaders of the business cybersecurity industry. But their scale and complexity put them in a product class that's just out of reach for some enterprises.  Fortunately, the open-source community — as it often does — has filled the XDR void with an affordable product — because it's totally free. It's called&nbsp; Wazuh , and it provides enterprises the tools they need to bu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

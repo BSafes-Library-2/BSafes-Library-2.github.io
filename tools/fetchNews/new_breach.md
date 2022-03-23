@@ -8,6 +8,112 @@ nav_order: 900029
 
 ## Breach
 ---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LAPSUS$ Hackers Claim to Have Breached Microsoft and Authentication Firm Okta<a href="https://thehackernews.com/2022/03/lapsus-hackers-claim-to-have-breached.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft and authentication services provider Okta said they are investigating claims of a potential breach alleged by the LAPSUS$ extortionist gang.  The development, which was first reported by&nbsp; Vice &nbsp;and&nbsp; Reuters , comes after the cyber criminal group posted screenshots and source code of what it said were the companies' internal projects and systems on its Telegram channel.  The leaked 37GB archive shows that the group may have accessed the repositories related to Microsoft's Bing, Bing Maps, and Cortana, with the&nbsp; images &nbsp;highlighting Okta's Atlassian suite and in-house Slack channels.   "For a service that powers authentication systems to many of the largest corporations (and FEDRAMP approved) I think these security measures are pretty poor," the hacking cartel wrote on Telegram.  On top of this, the group alleged that it breached LG Electronics (LGE) for the "second time" in a year.  Bill Demirkapi, an independent security researcher,&nbsp; noted &nbsp;th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked Nestlè and leaked 10 GB of sensitive<a href="https://securityaffairs.co/wordpress/129382/hacktivism/anonymous-hacked-nestle-leaked-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular Anonymous hacktivist collective announced to have hacked Nestlè and leaked 10 GB of sensitive data because the food and beverage giant continued to operate in Russia.
+
+
+
+The popular Anonymous hacktivist collective recently declared war on all companies...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software firm investigates digital breach<a href="https://thehill.com//policy/cybersecurity/599243-software-firm-investigates-digital-breach"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Okta, a software company based in San Francisco, said it is investigating a&nbsp;possible digital breach after hackers posted screenshots of internal information, according to Reuters.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta confirms support engineer's laptop was hacked in January<a href="https://www.bleepingcomputer.com/news/security/okta-confirms-support-engineers-laptop-was-hacked-in-january/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Okta, a major provider of access management systems, has completed its investigation into a breach incident claimed by the Lapsus$ data extortion group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ extortion gang leaked the source code for some Microsoft projects<a href="https://securityaffairs.co/wordpress/129344/cyber-crime/lapsus-leak-37gb-microsoft-source-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ extortion group claims to have hacked Microsoft 's internal Azure DevOps server and leaked the source code for some projects.
+
+
+
+Microsoft recently announced that is investigating claims that the&nbsp;Lapsus$ cybercrime gang&nbsp;breached...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta investigating claims of customer data breach from Lapsus$ group<a href="https://www.bleepingcomputer.com/news/security/okta-investigating-claims-of-customer-data-breach-from-lapsus-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Okta, a leading provider of authentication services and Identity and access management (IAM) solutions&nbsp;says it is investigating claims of data breach.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ hackers leak 37GB of Microsoft's alleged source code<a href="https://www.bleepingcomputer.com/news/microsoft/lapsus-hackers-leak-37gb-of-microsofts-alleged-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ hacking group claims to have leaked the source code for Bing,&nbsp;Cortana, and other projects&nbsp;stolen from Microsoft's internal Azure DevOps server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

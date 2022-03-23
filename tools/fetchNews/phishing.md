@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Browser-in-the Browser (BITB) Attack Makes Phishing Nearly Undetectable<a href="https://thehackernews.com/2022/03/new-browser-in-browser-bitb-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel phishing technique called browser-in-the-browser (BitB) attack can be exploited to simulate a browser window within the browser in order to spoof a legitimate domain, thereby making it possible to stage convincing phishing attacks.  According to penetration tester and security researcher, who goes by the handle mrd0x_, the method takes advantage of third-party single sign-on ( SSO ) options embedded on websites such as "Sign in with Google" (or Facebook, Apple, or Microsoft).   While the default behavior when a user attempts to sign in via these methods is to be greeted by a pop-up window to complete the authentication process, the BitB attack aims to replicate this entire process using a mix of HTML and CSS code to create an entirely fabricated browser window.   "Combine the window design with an iframe pointing to the malicious server hosting the phishing page, and it's basically indistinguishable," mrd0x_&nbsp; said &nbsp;in a technical write-up published last
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'CryptoRom' Crypto Scam Abusing iPhone Features to Target Mobile Users<a href="https://thehackernews.com/2022/03/cryptorom-crypto-scam-abusing-iphone.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social engineering attacks leveraging a combination of romantic lures and cryptocurrency fraud have been luring unsuspecting victims into installing fake apps by taking advantage of legitimate iOS features like TestFlight and Web Clips.  Cybersecurity company Sophos, which has named the organized crime campaign " CryptoRom ," characterized it as a wide-ranging global scam.  "This style of cyber-fraud, known as sha zhu pan (杀猪盘) — literally 'pig butchering plate' — is a well-organized, syndicated scam operation that uses a combination of often romance-centered social engineering and fraudulent financial applications and websites to ensnare victims and steal their savings after gaining their confidence," Sophos analyst Jagadeesh Chandraiah&nbsp; said &nbsp;in a report published last week.   The campaign works by approaching potential targets through dating apps like Bumble, Tinder, Facebook Dating, and Grindr, before moving the conversation to messaging apps such as Wh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook phish claims "Someone tried to log into your account"<a href="https://blog.malwarebytes.com/scams/2022/03/facebook-phish-claims-someone-tried-to-log-into-your-account/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mail itself combines a fairly clean design with minimal messaging. There’s a tendency with some phish attempts to overstuff the mail with all manner of nonsense to look more convincing.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

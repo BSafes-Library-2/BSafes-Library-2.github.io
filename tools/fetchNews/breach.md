@@ -8,6 +8,80 @@ nav_order: 900029
 
 ## Breach
 ---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker leaked a new version of Conti ransomware source code on Twitter<a href="https://securityaffairs.co/wordpress/129296/cyber-crime/hacker-leaked-conti-ransomware-source-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Ukrainian security researcher has leaked more source code from the Conti ransomware operation to protest the gang's position on the conflict. 
+
+
+
+Hacker leaked a new version of the Conti ransomware source code on Twitter as retaliation of the gang's...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft investigating claims of hacked source code repositories<a href="https://www.bleepingcomputer.com/news/security/microsoft-investigating-claims-of-hacked-source-code-repositories/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says they are investigating claims that the Lapsus$ data extortion hacking group breached their internal Azure DevOps source code repositories and stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian hackers leak Mossad chief’s personal information<a href="https://www.jns.org/iranian-hackers-leak-mossad-chiefs-personal-information/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian hackers on Wednesday published a video on an anonymous Telegram channel featuring personal photos and documents allegedly obtained from a phone used by the wife of Mossad Director David Barnea.
+</details>
+<div style="text-align: right" markdown="1">
+JNS
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HubSpot Hack Leads to Data Breaches at BlockFi, Swan Bitcoin, NYDIG and Circle<a href="https://finance.yahoo.com/news/hubspot-hack-leads-data-breaches-043049723.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While user information was leaked to hackers, the companies say that passwords and other internal information was not affected. As Hubspot is an external tool, hackers did not gain access to internal systems.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Conti ransomware source code leaked on Twitter out of revenge<a href="https://www.bleepingcomputer.com/news/security/more-conti-ransomware-source-code-leaked-on-twitter-out-of-revenge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Ukrainian security researcher has leaked newer malware source code from the Conti ransomware operation in revenge for the cybercriminals siding with Russia on the invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

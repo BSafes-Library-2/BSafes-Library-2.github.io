@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked InvisiMole APT targets state organizations of Ukraine<a href="https://securityaffairs.co/wordpress/129337/apt/invisimole-targets-ukraine-government.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine CERT (CERT-UA) warns of spear-phishing ​​attacks conducted by UAC-0035 group (aka InvisiMole) on state organizations of Ukraine.
+
+
+
+The Government Team for Response to Computer Emergencies of Ukraine (CERT-UA) warns of spear-phishing messages...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
