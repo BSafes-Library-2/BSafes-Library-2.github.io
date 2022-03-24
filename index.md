@@ -34,6 +34,508 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI adds Russian cybercrime market owner to most wanted list<a href="https://www.bleepingcomputer.com/news/security/fbi-adds-russian-cybercrime-market-owner-to-most-wanted-list/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national has been indicted by the US DOJ and added to the FBI's Cyber Most Wanted list for allegedly creating and managing a cybercrime marketplace.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BitRAT Spreads as Windows Activator<a href="https://cyware.com/news/bitrat-spreads-as-windows-activator-d2b8d9f3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new BitRAT malware campaign is leveraging illegal crack tools for Windows 10 license verification. The campaign targets users looking to activate pirated Windows OS versions on webhards for free. BitRAT supports generic keylogging, audio recording, clipboard monitoring, credential theft from web  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — FBI warns of possible Russian cyberattacks<a href="https://thehill.com//policy/technology/overnights/599493-hillicon-valley-fbi-warns-of-possible-russian-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Wednesday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here and view the full edition here.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese 'Mustang Panda' Hackers Spotted Deploying New 'Hodur' Malware<a href="https://thehackernews.com/2022/03/chinese-mustang-panda-hackers-spotted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-based advanced persistent threat (APT) known as Mustang Panda  has been linked to an ongoing cyberespionage campaign using a previously undocumented variant of the  PlugX  remote access trojan on infected machines.  Slovak cybersecurity firm ESET dubbed the new version Hodur , owing to its resemblance to another PlugX (aka Korplug) variant called  THOR  that came to light in July 2021.  "Most victims are located in East and Southeast Asia, but a few are in Europe (Greece, Cyprus, Russia) and Africa (South Africa, South Sudan)," ESET malware researcher Alexandre Côté Cyr  said  in a report shared with The Hacker News.   "Known victims include research entities, internet service providers (ISPs), and European diplomatic missions mostly located in East and Southeast Asia."  Mustang Panda, also known as TA416, HoneyMyte, RedDelta, or PKPLUG, is a  cyber espionage group  that's primarily known for targeting non-governmental organizations with a specific focu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian enterprises hit with the DoubleZero wiper<a href="https://securityaffairs.co/wordpress/129417/malware/doublezero-wiper-hit-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine CERT-UA warns of cyberattack aimed at Ukrainian enterprises using the a wiper dubbed DoubleZero.
+
+
+
+Ukraine CERT-UA continues to observe malware based attacks aimed at Ukrainian organizations, in a recent alert it warned of attacks employing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mustang Panda hacking campaign targets diplomats, ISPs<a href="https://www.bleepingcomputer.com/news/security/new-mustang-panda-hacking-campaign-targets-diplomats-isps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing Mustang Panda campaign that has started at least eight months ago has been uncovered by threat analysts who also managed to sample and analyze custom malware loaders and a new Korplug variant.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Browser-in-the-Browser - An (Almost) Invisible Attack<a href="https://cyware.com/news/browser-in-the-browser-an-almost-invisible-attack-c009e043"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers devised a new phishing technique, dubbed Browser-in-the-Browser (BitB) attack that lets cybercriminals spoof a browser window within a browser by leveraging a mix of HTML and CSS code. The novel BitB attack bypasses both a URL with HTTPS encryption and a hover-over-it security check.&nb ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sensitive health data of 50 million Americans hacked or breached last year: analysis<a href="https://thehill.com//policy/cybersecurity/599430-sensitive-health-data-of-50-million-americans-hacked-or-breached-last"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The health data of almost 50 million Americans was breached last year, according to a Politico analysis of data from the Department of Health and Human Services.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Variant of Chinese Gimmick Malware Targeting macOS Users<a href="https://thehackernews.com/2022/03/new-variant-of-chinese-gimmick-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed details of a newly discovered macOS variant of a malware implant developed by a Chinese espionage threat actor known to strike attack organizations across Asia.  Attributing the attacks to a group tracked as  Storm Cloud , cybersecurity firm Volexity characterized the new malware, dubbed  Gimmick , a "feature-rich, multi-platform malware family that uses public cloud hosting services (such as Google Drive) for command-and-control (C2) channels."  The cybersecurity firm said it recovered the sample through memory analysis of a compromised MacBook Pro running macOS 11.6 (Big Sur) as part of an intrusion campaign that took place in late 2021.   "Storm Cloud is an advanced and versatile threat actor, adapting its tool set to match different operating systems used by its targets," Volexity researchers Damien Cash, Steven Adair, and Thomas Lancaster  said  in a report.  "They make use of built-in operating system utilities, open-source too
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of growing risks of Russia-linked attacks on US energy firms<a href="https://securityaffairs.co/wordpress/129409/security/fbi-warns-russia-us-energy-firms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is warning of risks related to cyber attacks aimed at energy companies of Russia-linked threat actors.
+
+
+
+The FBI is warning energy companies of the risks of cyber attacks carried out by Russia-linked threat actors, reported The Associated Press.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Ransomware hit 649 critical infrastructure orgs in 2021<a href="https://www.bleepingcomputer.com/news/security/fbi-ransomware-hit-649-critical-infrastructure-orgs-in-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) says ransomware gangs have breached the networks of at least 649 organizations from multiple US critical infrastructure sectors last year, according to the Internet Crime Complaint Center (IC3) 2021 Internet Crime Report.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Slithering Serpent - New Backdoor and a Unique Attack Chain<a href="https://cyware.com/news/slithering-serpent-new-backdoor-and-a-unique-attack-chain-cf8119a0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown and likely sophisticated threat actor is leveraging a unique amalgamation of open-source software, a detection bypass technique, and steganography to attack French entities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft confirms breach by Lapsus$ hacker group<a href="https://thehill.com//policy/cybersecurity/599418-microsoft-confirms-breach-by-lapsus-hacker-group"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has confirmed that the hacker group Lapsus$ breached its security system, after the digital extortion gang claimed credit earlier this week.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Use This Definitive RFP Template to Effectively Evaluate XDR solutions<a href="https://thehackernews.com/2020/07/extended-detection-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new class of security tools is emerging that promises to significantly improve the effectiveness and efficiency of threat detection and response.   Emerging Extended Detection and Response (XDR) solutions aim to aggregate and correlate telemetry from multiple detection controls and then synthesize response actions.   XDR has been referred to as the next step in the evolution of Endpoint Detection and Response (EDR) solutions.   Because XDR represents a new solution category, there is no single accepted definition of what capabilities and features should (and shouldn't) be included.   Each provider approaches XDR with different strengths and perspectives on how what an XDR solution should include.   Therefore, selecting an XDR provider is quite challenging as organizations must organize and prioritize a wide range of capabilities that can differ significantly between providers.   Cynet is now addressing this need with the Definitive RFP Template for XDR solutions ( download here ),
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked GIMMICK implant now targets macOS￼<a href="https://securityaffairs.co/wordpress/129402/malware/gimmick-implant-targets-macos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gimmick is a newly discovered macOS implant developed by the China-linked APT Storm Cloud and used to target organizations across Asia.
+
+
+
+In late 2021, Volexity researchers investigated an intrusion in an environment they were monitoring and discovered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal from hackers by pushing fake malware on forums<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-from-hackers-by-pushing-fake-malware-on-forums/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts from two companies have spotted a new case of hackers targeting hackers via clipboard stealers disguised as cracked RATs and malware building tools.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DirtyMoe Modules Introduce Worm-Like Features<a href="https://cyware.com/news/dirtymoe-modules-introduce-worm-like-features-6839c6ff"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast researchers have observed three main ways in which the malware is being disseminated - PurpleFox EK, PurpleFox Worm, and injected Telegram installers. It is likely that the malware propagates through other methods too.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI 'concerned' about possible Russian cyberattacks on critical infrastructure<a href="https://thehill.com//policy/cybersecurity/599362-fbi-concerned-about-possible-russian-cyberattacks-on-critical"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI Director Christopher Wray on Tuesday warned the private sector to prepare for potential cyberattacks, saying U.S. agents were "particularly focused on the destructive cyber threat" from Russian agents.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 200,000 MicroTik Routers Worldwide Are Under the Control of Botnet Malware<a href="https://thehackernews.com/2022/03/over-200000-microtik-routers-worldwide.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerable routers from MikroTik have been misused to form what cybersecurity researchers have called one of the largest botnet-as-a-service cybercrime operations seen in recent years.   According to a new piece of research published by Avast, a cryptocurrency mining campaign leveraging the new-disrupted  Glupteba botnet  as well as the infamous TrickBot malware were all distributed using the same command-and-control (C2) server.  "The C2 server serves as a botnet-as-a-service controlling nearly 230,000 vulnerable MikroTik routers," Avast's senior malware researcher, Martin Hron,  said  in a write-up, potentially linking it to what's now called the Mēris botnet.   The botnet is known to exploit a known vulnerability in the Winbox component of MikroTik routers ( CVE-2018-14847 ), enabling the attackers to gain unauthenticated, remote administrative access to any affected device. Parts of the Mēris botnet were  sinkholed  in late  September 2021 .  "The  CVE-2018-
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+It’s official, Lapsus$ gang compromised a Microsoft employee’s account<a href="https://securityaffairs.co/wordpress/129391/hacking/lapsus-gang-compromised-microsoft-employees-account.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft confirmed that Lapsus$ extortion group has hacked one of its employees to access and steal the source code of some projects.
+
+
+
+Microsoft confirmed that Lapsus$ extortion group has hacked one of its employees to access and steal the source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit new WPS Office flaw to breach betting firms<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-new-wps-office-flaw-to-breach-betting-firms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown Chinese-speaking threat actor has been targeting betting companies in Taiwan, Hong Kong, and the Philippines, leveraging a vulnerability in WPS Office to plant a backdoor on the targeted systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Group Targets Betting Companies Using MulCom Backdoor in Taiwan, the Philippines, and Hong Kong<a href="https://decoded.avast.io/luigicamastra/operation-dragon-castling-apt-group-targeting-betting-companies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Due to the similarities between the MulCom backdoor used by this group and FFRat, researchers suspect that the FFRat codebase is being shared between several Chinese adversary groups.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ten notorious ransomware strains put to the encryption speed test<a href="https://www.bleepingcomputer.com/news/security/ten-notorious-ransomware-strains-put-to-the-encryption-speed-test/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have conducted a technical experiment, testing ten ransomware variants to determine how fast they encrypt files and evaluate how feasible it would be to timely respond to their attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Weeks after launch, Island hits $1.3B valuation with $115M round<a href="https://techcrunch.com/2022/03/23/island-unicorn-series-b/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by previous lead investor Insight Partners, and comes just weeks after the New York-based venture capital firm raised over $20 billion for its 12th flagship fund.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New JSSLoader Trojan Delivered Through XLL Files<a href="https://blog.morphisec.com/new-jssloader-trojan-delivered-through-xll-files?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are now using .XLL files to deliver a new, obfuscated version of JSSLoader. This new malware variant utilizes the Excel add-ins feature to load the malware and inspect the changes inside.
+</details>
+<div style="text-align: right" markdown="1">
+Morphisec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Growing Russian Hacking Activity Targeting US Energy Firms<a href="https://www.securityweek.com/fbi-sees-growing-russian-hacker-interest-us-energy-firms?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI advisory shares 140 internet protocol, or IP, addresses that it says have been associated with the scanning of critical infrastructure in the U.S. since at least March 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Mustang Panda Hacker Group Spotted Deploying New Hodur Malware<a href="https://www.welivesecurity.com/2022/03/23/mustang-panda-hodur-old-tricks-new-korplug-variant/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers have discovered Hodur, a previously undocumented Korplug variant spread by Mustang Panda, that uses phishing lures referencing current events in Europe, including the invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ Data Kidnappers Claim Snatches From Microsoft, Okta<a href="https://threatpost.com/lapsus-data-kidnappers-claim-snatches-from-microsoft-okta/179041/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lapsus$ shared screenshots of internal Okta systems and 40Gb of purportedly stolen Microsoft data on Bing, Bing Maps and Cortana. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft and Okta Confirm Breach by LAPSUS$ Extortion Group<a href="https://thehackernews.com/2022/03/microsoft-and-okta-confirm-breach-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday  confirmed  that the LAPSUS$ extortion-focused hacking crew had gained "limited access" to its systems, as authentication services provider Okta revealed that nearly 2.5% of its customers have been potentially impacted in the wake of the breach.  "No customer code or data was involved in the observed activities," Microsoft's Threat Intelligence Center (MSTIC) said, adding that the breach was facilitated by means of a single compromised account that has since been remediated to prevent further malicious activity.  The Windows maker, which was already tracking the group under the moniker DEV-0537 prior to the public disclosure,  said  it "does not rely on the secrecy of code as a security measure and viewing source code does not lead to elevation of risk."  "This public disclosure escalated our action allowing our team to intervene and interrupt the actor mid-operation, limiting broader impact," the company's security
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta confirms 2.5% customers impacted by hack in January<a href="https://www.bleepingcomputer.com/news/security/okta-confirms-25-percent-customers-impacted-by-hack-in-january/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Okta, a major provider of access management systems, says that 2.5%, or approximately 375 customers, were impacted by a cyberattack claimed by the Lapsus$ data extortion group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
