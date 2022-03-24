@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Application Security Firm ForAllSecure Raises $21 Million<a href="https://www.securityweek.com/application-security-firm-forallsecure-raises-21-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ForAllSecure plans to use the funding to accelerate growth, hire new talent, and build a solution that would help secure open source projects that businesses worldwide depend on.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee Enterprise's security service edge business is now called Skyhigh Security<a href="https://www.zdnet.com/article/mcafee-enterprises-security-service-edge-business-is-now-called-skyhigh-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the start of this year, Symphony Technology Group (STG) announced Trellix was the new name for the business unit that resulted from the merger of McAfee Enterprise and FireEye last October.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

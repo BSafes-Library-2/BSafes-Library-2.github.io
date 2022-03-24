@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked GIMMICK implant now targets macOS￼<a href="https://securityaffairs.co/wordpress/129402/malware/gimmick-implant-targets-macos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gimmick is a newly discovered macOS implant developed by the China-linked APT Storm Cloud and used to target organizations across Asia.
+
+
+
+In late 2021, Volexity researchers investigated an intrusion in an environment they were monitoring and discovered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Group Targets Betting Companies Using MulCom Backdoor in Taiwan, the Philippines, and Hong Kong<a href="https://decoded.avast.io/luigicamastra/operation-dragon-castling-apt-group-targeting-betting-companies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Due to the similarities between the MulCom backdoor used by this group and FFRat, researchers suspect that the FFRat codebase is being shared between several Chinese adversary groups.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

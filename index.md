@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI adds Russian cybercrime market owner to most wanted list<a href="https://www.bleepingcomputer.com/news/security/fbi-adds-russian-cybercrime-market-owner-to-most-wanted-list/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BitRAT Spreads as Windows Activator<a href="https://cyware.com/news/bitrat-spreads-as-windows-activator-d2b8d9f3"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley — FBI warns of possible Russian cyberattacks<a href="https://thehill.com//policy/technology/overnights/599493-hillicon-valley-fbi-warns-of-possible-russian-cyberattacks"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese 'Mustang Panda' Hackers Spotted Deploying New 'Hodur' Malware<a href="https://thehackernews.com/2022/03/chinese-mustang-panda-hackers-spotted.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian enterprises hit with the DoubleZero wiper<a href="https://securityaffairs.co/wordpress/129417/malware/doublezero-wiper-hit-ukraine.html"> Full Text</a>
@@ -119,7 +119,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Mustang Panda hacking campaign targets diplomats, ISPs<a href="https://www.bleepingcomputer.com/news/security/new-mustang-panda-hacking-campaign-targets-diplomats-isps/"> Full Text</a>
@@ -135,7 +135,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Browser-in-the-Browser - An (Almost) Invisible Attack<a href="https://cyware.com/news/browser-in-the-browser-an-almost-invisible-attack-c009e043"> Full Text</a>
@@ -152,7 +152,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sensitive health data of 50 million Americans hacked or breached last year: analysis<a href="https://thehill.com//policy/cybersecurity/599430-sensitive-health-data-of-50-million-americans-hacked-or-breached-last"> Full Text</a>
@@ -168,7 +168,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Variant of Chinese Gimmick Malware Targeting macOS Users<a href="https://thehackernews.com/2022/03/new-variant-of-chinese-gimmick-malware.html"> Full Text</a>
@@ -184,7 +184,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns of growing risks of Russia-linked attacks on US energy firms<a href="https://securityaffairs.co/wordpress/129409/security/fbi-warns-russia-us-energy-firms.html"> Full Text</a>
@@ -208,7 +208,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Ransomware hit 649 critical infrastructure orgs in 2021<a href="https://www.bleepingcomputer.com/news/security/fbi-ransomware-hit-649-critical-infrastructure-orgs-in-2021/"> Full Text</a>
@@ -224,7 +224,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Slithering Serpent - New Backdoor and a Unique Attack Chain<a href="https://cyware.com/news/slithering-serpent-new-backdoor-and-a-unique-attack-chain-cf8119a0"> Full Text</a>
@@ -240,7 +240,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft confirms breach by Lapsus$ hacker group<a href="https://thehill.com//policy/cybersecurity/599418-microsoft-confirms-breach-by-lapsus-hacker-group"> Full Text</a>
@@ -256,7 +256,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Use This Definitive RFP Template to Effectively Evaluate XDR solutions<a href="https://thehackernews.com/2020/07/extended-detection-response.html"> Full Text</a>
@@ -272,7 +272,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked GIMMICK implant now targets macOS￼<a href="https://securityaffairs.co/wordpress/129402/malware/gimmick-implant-targets-macos.html"> Full Text</a>
@@ -292,7 +292,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers steal from hackers by pushing fake malware on forums<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-from-hackers-by-pushing-fake-malware-on-forums/"> Full Text</a>
@@ -308,7 +308,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DirtyMoe Modules Introduce Worm-Like Features<a href="https://cyware.com/news/dirtymoe-modules-introduce-worm-like-features-6839c6ff"> Full Text</a>
@@ -324,7 +324,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI 'concerned' about possible Russian cyberattacks on critical infrastructure<a href="https://thehill.com//policy/cybersecurity/599362-fbi-concerned-about-possible-russian-cyberattacks-on-critical"> Full Text</a>
@@ -340,7 +340,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 200,000 MicroTik Routers Worldwide Are Under the Control of Botnet Malware<a href="https://thehackernews.com/2022/03/over-200000-microtik-routers-worldwide.html"> Full Text</a>
@@ -356,7 +356,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 It’s official, Lapsus$ gang compromised a Microsoft employee’s account<a href="https://securityaffairs.co/wordpress/129391/hacking/lapsus-gang-compromised-microsoft-employees-account.html"> Full Text</a>
@@ -376,7 +376,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploit new WPS Office flaw to breach betting firms<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-new-wps-office-flaw-to-breach-betting-firms/"> Full Text</a>
@@ -392,7 +392,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT Group Targets Betting Companies Using MulCom Backdoor in Taiwan, the Philippines, and Hong Kong<a href="https://decoded.avast.io/luigicamastra/operation-dragon-castling-apt-group-targeting-betting-companies/?&web_view=true"> Full Text</a>
@@ -408,7 +408,7 @@ Avast
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ten notorious ransomware strains put to the encryption speed test<a href="https://www.bleepingcomputer.com/news/security/ten-notorious-ransomware-strains-put-to-the-encryption-speed-test/"> Full Text</a>
@@ -424,7 +424,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Weeks after launch, Island hits $1.3B valuation with $115M round<a href="https://techcrunch.com/2022/03/23/island-unicorn-series-b/?&web_view=true"> Full Text</a>
@@ -440,7 +440,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New JSSLoader Trojan Delivered Through XLL Files<a href="https://blog.morphisec.com/new-jssloader-trojan-delivered-through-xll-files?&web_view=true"> Full Text</a>
@@ -456,7 +456,7 @@ Morphisec
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns of Growing Russian Hacking Activity Targeting US Energy Firms<a href="https://www.securityweek.com/fbi-sees-growing-russian-hacker-interest-us-energy-firms?&web_view=true"> Full Text</a>
@@ -472,7 +472,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 23, 2022
+March 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Mustang Panda Hacker Group Spotted Deploying New Hodur Malware<a href="https://www.welivesecurity.com/2022/03/23/mustang-panda-hodur-old-tricks-new-korplug-variant/?&web_view=true"> Full Text</a>
@@ -488,7 +488,7 @@ ESET Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lapsus$ Data Kidnappers Claim Snatches From Microsoft, Okta<a href="https://threatpost.com/lapsus-data-kidnappers-claim-snatches-from-microsoft-okta/179041/"> Full Text</a>
@@ -504,7 +504,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft and Okta Confirm Breach by LAPSUS$ Extortion Group<a href="https://thehackernews.com/2022/03/microsoft-and-okta-confirm-breach-by.html"> Full Text</a>
@@ -520,7 +520,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2022
+March 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Okta confirms 2.5% customers impacted by hack in January<a href="https://www.bleepingcomputer.com/news/security/okta-confirms-25-percent-customers-impacted-by-hack-in-january/"> Full Text</a>

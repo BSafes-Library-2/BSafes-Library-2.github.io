@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022 - The White House
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FACT SHEET: Act Now to Protect Against Potential Cyberattacks <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/21/fact-sheet-act-now-to-protect-against-potential-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden-Harris Administration has warned repeatedly about the potential for Russia to engage in malicious cyber activity against the United States in response to the unprecedented economic sanctions we have imposed.  There is now evolving intelligence that Russia may be exploring options for potential cyberattacks.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2022 - The White House 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Statement by President Biden on our Nation’s Cybersecurity <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/21/statement-by-president-biden-on-our-nations-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This is a critical moment to accelerate our work to improve domestic cybersecurity and bolster our national resilience.  I have previously warned about the potential that Russia could conduct malicious cyber activity against the United States, including as a response to the unprecedented economic costs we’ve imposed on Russia alongside our allies and partners.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 17, 2022 - FBI, US Treasury, The Department of The Treasury
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,56 @@ nav_order: 900075
 
 ## Government
 ---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of growing risks of Russia-linked attacks on US energy firms<a href="https://securityaffairs.co/wordpress/129409/security/fbi-warns-russia-us-energy-firms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is warning of risks related to cyber attacks aimed at energy companies of Russia-linked threat actors.
+
+
+
+The FBI is warning energy companies of the risks of cyber attacks carried out by Russia-linked threat actors, reported The Associated Press.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI 'concerned' about possible Russian cyberattacks on critical infrastructure<a href="https://thehill.com//policy/cybersecurity/599362-fbi-concerned-about-possible-russian-cyberattacks-on-critical"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI Director Christopher Wray on Tuesday warned the private sector to prepare for potential cyberattacks, saying U.S. agents were "particularly focused on the destructive cyber threat" from Russian agents.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Growing Russian Hacking Activity Targeting US Energy Firms<a href="https://www.securityweek.com/fbi-sees-growing-russian-hacker-interest-us-energy-firms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI advisory shares 140 internet protocol, or IP, addresses that it says have been associated with the scanning of critical infrastructure in the U.S. since at least March 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

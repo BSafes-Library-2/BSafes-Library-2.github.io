@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — FBI warns of possible Russian cyberattacks<a href="https://thehill.com//policy/technology/overnights/599493-hillicon-valley-fbi-warns-of-possible-russian-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is&nbsp;Wednesday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley.&nbsp;Subscribe here&nbsp;and view the full edition here.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Ransomware hit 649 critical infrastructure orgs in 2021<a href="https://www.bleepingcomputer.com/news/security/fbi-ransomware-hit-649-critical-infrastructure-orgs-in-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) says ransomware gangs have breached the networks of at least 649 organizations from multiple US critical infrastructure sectors last year, according to the Internet Crime Complaint Center (IC3) 2021 Internet Crime Report.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,88 @@ nav_order: 900015
 
 ## Attack
 ---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft confirms they were hacked by Lapsus$ extortion group<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-they-were-hacked-by-lapsus-extortion-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has confirmed that one of their employees was compromised by the Lapsus$ hacking group, allowing the threat actors to access and steal portions of their source code.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new wave of DeadBolt Ransomware attacks hit QNAP NAS devices ￼<a href="https://securityaffairs.co/wordpress/129373/malware/qnap-nas-deadbolt-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet search engine Censys reported a new wave of DeadBolt ransomware attacks targeting QNAP NAS devices.
+
+
+
+Internet search engine Censys reported that QNAP devices were targeted in a new wave of DeadBolt ransomware attacks.
+
+
+
+Since January, DeadBolt...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scottish mental health charity "devastated" by heartless RansomEXX ransomware attack<a href="https://www.bitdefender.com/blog/hotforsecurity/scottish-mental-health-charity-devastated-by-heartless-ransomexx-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAMH (the Scottish Association for Mental Health) helps provide care and support for adults and young people suffering from issues with their mental health, and campaigns to influence positive social change.
+</details>
+<div style="text-align: right" markdown="1">
+Bit Defender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Serpent backdoor targets French entities with high-evasive attack chain<a href="https://securityaffairs.co/wordpress/129326/malware/serpent-backdoor-targets-french-orgs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new email campaign aimed at French entities leverages the Chocolatey Windows package manager to deliver the Serpent backdoor.
+
+
+
+Proofpoint researchers uncovered a targeted attack leveraging an open-source package installer Chocolatey to deliver a backdoor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Russian meat producer hit with Windows BitLocker encryption attack<a href="https://www.bleepingcomputer.com/news/security/top-russian-meat-producer-hit-with-windows-bitlocker-encryption-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Moscow-based meat producer and distributor&nbsp;Miratorg Agribusiness Holding has suffered a major cyberattack&nbsp;that encrypted its IT systems, according to a report from&nbsp;Rosselkhoznadzor&nbsp;-&nbsp;the Russian&nbsp;federal veterinary and phytosanitary supervision service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

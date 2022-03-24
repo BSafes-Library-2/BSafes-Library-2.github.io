@@ -8,6 +8,39 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter Affiliates Propagate BlackCat Ransomware<a href="https://cyware.com/news/blackmatter-affiliates-propagate-blackcat-ransomware-1e3403f4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers analyzed two recent ransomware attacks by BlackCat and BlackMatter and discovered overlaps in their TTPs. However, one of the representatives of BlackCat had already claimed that the ransomware is not the rebranding of BlackMatter. BlackCat could be playing an important role in helping  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ extortion gang claims to have stolen sensitive data from Okta<a href="https://securityaffairs.co/wordpress/129343/data-breach/lapsus-gang-claims-okta-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ extortion group claims to have stolen sensitive data from the identity and access management&nbsp;giant Okta solutions. 
+
+
+
+The gang announced the alleged hack through its Telegram channel and shared a series of screenshots as proof of the hack....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

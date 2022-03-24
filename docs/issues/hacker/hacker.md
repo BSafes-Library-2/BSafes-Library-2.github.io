@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese 'Mustang Panda' Hackers Spotted Deploying New 'Hodur' Malware<a href="https://thehackernews.com/2022/03/chinese-mustang-panda-hackers-spotted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-based advanced persistent threat (APT) known as Mustang Panda  has been linked to an ongoing cyberespionage campaign using a previously undocumented variant of the&nbsp; PlugX &nbsp;remote access trojan on infected machines.  Slovak cybersecurity firm ESET dubbed the new version Hodur , owing to its resemblance to another PlugX (aka Korplug) variant called&nbsp; THOR &nbsp;that came to light in July 2021.  "Most victims are located in East and Southeast Asia, but a few are in Europe (Greece, Cyprus, Russia) and Africa (South Africa, South Sudan)," ESET malware researcher Alexandre Côté Cyr&nbsp; said &nbsp;in a report shared with The Hacker News.   "Known victims include research entities, internet service providers (ISPs), and European diplomatic missions mostly located in East and Southeast Asia."  Mustang Panda, also known as TA416, HoneyMyte, RedDelta, or PKPLUG, is a&nbsp; cyber espionage group &nbsp;that's primarily known for targeting non-governmental organizations with a specific focu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal from hackers by pushing fake malware on forums<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-from-hackers-by-pushing-fake-malware-on-forums/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts from two companies have spotted a new case of&nbsp;hackers targeting hackers via clipboard stealers&nbsp;disguised as cracked RATs and malware building tools.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Mustang Panda Hacker Group Spotted Deploying New Hodur Malware<a href="https://www.welivesecurity.com/2022/03/23/mustang-panda-hodur-old-tricks-new-korplug-variant/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers have discovered Hodur, a previously undocumented Korplug variant spread by Mustang Panda, that uses phishing lures referencing current events in Europe, including the invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

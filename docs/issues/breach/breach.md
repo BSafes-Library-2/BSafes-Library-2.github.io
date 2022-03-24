@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sensitive health data of 50 million Americans hacked or breached last year: analysis<a href="https://thehill.com//policy/cybersecurity/599430-sensitive-health-data-of-50-million-americans-hacked-or-breached-last"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The health data of almost 50 million Americans was breached last year, according to a&nbsp;Politico analysis of data from the Department of Health and Human Services.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft and Okta Confirm Breach by LAPSUS$ Extortion Group<a href="https://thehackernews.com/2022/03/microsoft-and-okta-confirm-breach-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday&nbsp; confirmed &nbsp;that the LAPSUS$ extortion-focused hacking crew had gained "limited access" to its systems, as authentication services provider Okta revealed that nearly 2.5% of its customers have been potentially impacted in the wake of the breach.  "No customer code or data was involved in the observed activities," Microsoft's Threat Intelligence Center (MSTIC) said, adding that the breach was facilitated by means of a single compromised account that has since been remediated to prevent further malicious activity.  The Windows maker, which was already tracking the group under the moniker DEV-0537 prior to the public disclosure,&nbsp; said &nbsp;it "does not rely on the secrecy of code as a security measure and viewing source code does not lead to elevation of risk."  "This public disclosure escalated our action allowing our team to intervene and interrupt the actor mid-operation, limiting broader impact," the company's security
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta confirms 2.5% customers impacted by hack in January<a href="https://www.bleepingcomputer.com/news/security/okta-confirms-25-percent-customers-impacted-by-hack-in-january/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Okta, a major provider of access management systems, says that 2.5%, or approximately 375 customers,&nbsp;were impacted by a cyberattack claimed by the Lapsus$ data extortion group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

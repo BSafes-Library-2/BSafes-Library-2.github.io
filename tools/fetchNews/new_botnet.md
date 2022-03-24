@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 200,000 MicroTik Routers Worldwide Are Under the Control of Botnet Malware<a href="https://thehackernews.com/2022/03/over-200000-microtik-routers-worldwide.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerable routers from MikroTik have been misused to form what cybersecurity researchers have called one of the largest botnet-as-a-service cybercrime operations seen in recent years.&nbsp;  According to a new piece of research published by Avast, a cryptocurrency mining campaign leveraging the new-disrupted&nbsp; Glupteba botnet &nbsp;as well as the infamous TrickBot malware were all distributed using the same command-and-control (C2) server.  "The C2 server serves as a botnet-as-a-service controlling nearly 230,000 vulnerable MikroTik routers," Avast's senior malware researcher, Martin Hron,&nbsp; said &nbsp;in a write-up, potentially linking it to what's now called the Mēris botnet.   The botnet is known to exploit a known vulnerability in the Winbox component of MikroTik routers ( CVE-2018-14847 ), enabling the attackers to gain unauthenticated, remote administrative access to any affected device. Parts of the Mēris botnet were&nbsp; sinkholed &nbsp;in late&nbsp; September 2021 .  "The&nbsp; CVE-2018-
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
