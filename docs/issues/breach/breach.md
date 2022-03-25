@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HubSpot Data Breach Ripples Through Crytocurrency Industry<a href="https://threatpost.com/hubspot-data-breach-crytocurrency-industry/179086/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+~30 crypto companies were affected, including BlockFi, Swan Bitcoin and NYDIG, providing an uncomfortable reminder about how much data CRM systems snarf up. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Morgan Stanley client accounts breached in social engineering attacks<a href="https://www.bleepingcomputer.com/news/security/morgan-stanley-client-accounts-breached-in-social-engineering-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morgan Stanley Wealth Management, the wealth and asset management division of Morgan Stanley, says some of its customers had their accounts compromised following vishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ Infiltrates High Profile Victims Through Employee Accounts<a href="https://cyware.com/news/lapsus-infiltrates-high-profile-victims-through-employee-accounts-f411ef86"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ group, also tracked as DEV-0537, deploys the RedLine password stealer to get access to session tokens and passwords. It buys session tokens and credentials from underground forums.  These credentials are used to access VPN, RDP, and VDI systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

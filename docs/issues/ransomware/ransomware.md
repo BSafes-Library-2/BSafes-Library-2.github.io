@@ -11,6 +11,20 @@ nav_order: 900180
 March 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DeadBolt Ransomware Resurfaces to Hit QNAP Again<a href="https://threatpost.com/deadbolt-ransomware-qnap-again/179057/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new steady stream of attacks against network-attached storage devices from the Taiwan-based vendor is similar to a wave that occurred in January.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ten notorious ransomware strains put to the encryption speed test<a href="https://www.bleepingcomputer.com/news/security/ten-notorious-ransomware-strains-put-to-the-encryption-speed-test/"> Full Text</a>
 </p>
 <details>

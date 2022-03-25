@@ -8,6 +8,56 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts explained how to hack a building controller widely adopted in Russia<a href="https://securityaffairs.co/wordpress/129452/hacking/russian-building-controller-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher discovered critical flaws that can be exploited by remote attackers to hack a building controller popular in Russia.
+
+
+
+A researcher has identified critical vulnerabilities that can allegedly be exploited to remotely hack a building controller...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous targets western companies still active in Russia, including Auchan, Leroy Merlin e Decathlon<a href="https://securityaffairs.co/wordpress/129447/hacking/anonymous-companies-active-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous launches its offensive against Wester companies still operating in Russia, it 'DDoSed' Auchan, Leroy Merlin e Decathlon websites.
+
+
+
+Since the start of the Russian invasion of Ukraine on February 24, Anonymous has&nbsp;declared war on Russia&nbsp;and...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers exploit Chrome zero-day weeks before patch<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-chrome-zero-day-weeks-before-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean state hackers have exploited a zero-day, remote code execution vulnerability in Google Chrome web browser for more than a month before a patch became available, in attacks targeting news media, IT companies, cryptocurrency and fintech organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

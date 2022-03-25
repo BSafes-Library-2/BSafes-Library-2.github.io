@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ charges former Russian government empoyees for hacking energy sectors<a href="https://thehill.com//policy/cybersecurity/599688-doj-charges-former-russian-government-officials-for-hacking-energy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice&nbsp;indicted&nbsp;four Russian nationals on Thursday alleged to have hacked energy sectors in 135 countries.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US charges 4 Russian govt employees with critical infrastructure hacks<a href="https://www.bleepingcomputer.com/news/security/us-charges-4-russian-govt-employees-with-critical-infrastructure-hacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S.&nbsp;has indicted four Russian government employees for their involvement in hacking campaigns targeting&nbsp;hundreds of companies and organizations from the&nbsp;global energy sector&nbsp;between 2012 and 2018.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

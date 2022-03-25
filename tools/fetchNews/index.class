@@ -34,6 +34,618 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing kits constantly evolve to evade security software<a href="https://www.bleepingcomputer.com/news/security/phishing-kits-constantly-evolve-to-evade-security-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Modern phishing kits sold on cybercrime forums as off-the-shelve packages feature multiple and sophisticated detection avoidance and traffic filtering systems to ensure that internet security solutions won't mark them as a threat.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microweber developers resolve XSS vulnerability in CMS software<a href="https://portswigger.net/daily-swig/microweber-developers-resolve-xss-vulnerability-in-cms-software?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These shortcomings meant it was possible for attackers to upload an XSS payload, providing it contained a file whose name ended with ‘html’ ­– a category that includes far more than just simple .html files.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — New York taxis coming to Uber<a href="https://thehill.com//policy/cybersecurity/overnights/599694-hillicon-valley-new-york-taxis-coming-to-uber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Thursday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+23-Year-Old Russian Hacker Wanted by FBI for Running Marketplace of Stolen Logins<a href="https://thehackernews.com/2022/03/23-year-old-russian-hacker-wanted-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 23-year-old Russian national has been indicted in the U.S. and added to the Federal Bureau of Investigation's (FBI) Cyber Most Wanted List for his alleged role as the administrator of Marketplace A, a cyber crime forum that sold stolen login credentials, personal information, and credit card data.  Igor Dekhtyarchuk , who first appeared in hacker forums in 2013 under the alias "floraby," has been accused of charges of wire fraud, access device fraud, and aggravated identity theft, a set of offenses that could lead to up to 20 years in federal prison.  According to the FBI's  Wanted poster , Dekhtyarchuk previously studied at the Ural State University in Yekaterinburg, Russia, and was last known to reside in the city of Kamensk-Uralsky.   "Marketplace A specialized in the sale of unlawfully obtained access devices for compromised online payment platforms, retailers, and credit card accounts, including providing the data associated with those accounts such as na
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts explained how to hack a building controller widely adopted in Russia<a href="https://securityaffairs.co/wordpress/129452/hacking/russian-building-controller-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher discovered critical flaws that can be exploited by remote attackers to hack a building controller popular in Russia.
+
+
+
+A researcher has identified critical vulnerabilities that can allegedly be exploited to remotely hack a building controller...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HubSpot Data Breach Ripples Through Crytocurrency Industry<a href="https://threatpost.com/hubspot-data-breach-crytocurrency-industry/179086/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+~30 crypto companies were affected, including BlockFi, Swan Bitcoin and NYDIG, providing an uncomfortable reminder about how much data CRM systems snarf up. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Morgan Stanley client accounts breached in social engineering attacks<a href="https://www.bleepingcomputer.com/news/security/morgan-stanley-client-accounts-breached-in-social-engineering-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morgan Stanley Wealth Management, the wealth and asset management division of Morgan Stanley, says some of its customers had their accounts compromised following vishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Many Critical Flaws Patched in Delta Electronics Energy Management System<a href="https://www.securityweek.com/many-critical-flaws-patched-delta-electronics-energy-management-system?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 30 vulnerabilities were found in the past year in the DIAEnergie industrial energy management system made by Delta Electronics. The company says it has created patches for all of them.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ charges former Russian government empoyees for hacking energy sectors<a href="https://thehill.com//policy/cybersecurity/599688-doj-charges-former-russian-government-officials-for-hacking-energy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice indicted four Russian nationals on Thursday alleged to have hacked energy sectors in 135 countries.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Hackers Targeting Betting Companies in Southeast Asia<a href="https://thehackernews.com/2022/03/chinese-apt-hackers-targeting-betting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking advanced persistent threat (APT) has been linked to a new campaign targeting gambling-related companies in South East Asia, particularly Taiwan, the Philippines, and Hong Kong.  Cybersecurity firm Avast dubbed the campaign  Operation Dragon Castling , describing its malware arsenal as a "robust and modular toolset." The ultimate motives of the threat actor are not immediately discernible as yet nor has it been linked to a known hacking group.   While multiple initial access avenues were employed during the course of the campaign, one of the attack vectors involved leveraging a previously unknown remote code execution flaw in the WPS Office suite ( CVE-2022-24934 ) to backdoor its targets. The issue has since been addressed by Kingsoft Oﬃce, the developers of the office software.   In the case observed by the Czech security firm, the vulnerability was used to drop a malicious binary from a fake update server with the domain update.wps[.]cn that triggers a m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous targets western companies still active in Russia, including Auchan, Leroy Merlin e Decathlon<a href="https://securityaffairs.co/wordpress/129447/hacking/anonymous-companies-active-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous launches its offensive against Wester companies still operating in Russia, it 'DDoSed' Auchan, Leroy Merlin e Decathlon websites.
+
+
+
+Since the start of the Russian invasion of Ukraine on February 24, Anonymous has declared war on Russia and...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Combines Fresh Hodur RAT with Complex Anti-Detection<a href="https://threatpost.com/chinese-apt-combines-fresh-hodur-rat-with-complex-anti-detection/179084/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mustang Panda’s already sophisticated cyberespionage campaign has matured even further with the introduction of a brand-new PlugX RAT variant.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US charges 4 Russian govt employees with critical infrastructure hacks<a href="https://www.bleepingcomputer.com/news/security/us-charges-4-russian-govt-employees-with-critical-infrastructure-hacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. has indicted four Russian government employees for their involvement in hacking campaigns targeting hundreds of companies and organizations from the global energy sector between 2012 and 2018.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous claims to have hacked the Central Bank of Russia<a href="https://securityaffairs.co/wordpress/129431/hacktivism/anonymous-hacked-central-bank-of-russia.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamou hacker collective claims to have compromised the systems of the Central Bank of Russia and stolen 35,000 files, it announced that it will leak the files in 48 hours.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged Microsoft, Okta hackers arrested in UK<a href="https://thehill.com//policy/cybersecurity/599642-alleged-microsoft-okta-hackers-arrested-in-uk"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British authorities arrested seven individuals on Thursday suspected of hacking major tech companies including Okta and Microsoft, according to Reuters.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Build a Custom Malware Analysis Sandbox<a href="https://thehackernews.com/2022/03/how-to-build-custom-malware-analysis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Before hunting malware, every researcher needs to find a system where to analyze it. There are several ways to do it: build your own environment or use third-party solutions. Today we will walk through all the steps of creating a custom malware sandbox where you can perform a proper analysis without infecting your computer. And then compare it with a ready-made service.  Why do you need a malware sandbox?   A sandbox allows detecting cyber threats and analyzing them safely. All information remains secure, and a suspicious file can't access the system. You can monitor malware processes, identify their patterns and investigate behavior.  Before setting up a sandbox, you should have a clear goal of what you want to achieve through the lab.   There are two ways how to organize your working space for analysis:   Custom sandbox.  Made from scratch by an analyst on their own, specifically for their needs.  A turnkey solution.  A versatile service with a range of configurations to meet yo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Issues Patches for Critical Flaws Affecting Carbon Black App Control<a href="https://securityaffairs.co/wordpress/129440/security/vmware-carbon-black-app-control-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed two critical arbitrary code execution vulnerabilities affecting its Carbon Black App Control platform.
+
+
+
+VMware released this week, software updates to address two critical security vulnerabilities, CVE-2022-22951 and CVE-2022-22952...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 3 Attack Trends in API Security – Podcast<a href="https://threatpost.com/top-3-attack-trends-in-api-security-podcast/179064/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bots & automated attacks have exploded, with attackers and developers alike in love with APIs, according to a new Cequence Security report. Hacker-in-residence Jason Kent explains the latest. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital My Cloud OS update fixes critical vulnerability<a href="https://www.bleepingcomputer.com/news/security/western-digital-my-cloud-os-update-fixes-critical-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital has released new My Cloud OS firmware to fix a vulnerability exploited by bug hunters during the Pwn2Own 2021 hacking competition to achieve remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet crime in 2021: Investment fraud losses soar<a href="https://www.helpnetsecurity.com/2022/03/23/2021-internet-crime/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of complaints received by the FBI IC3 in 2021 (847,376) has surpassed that of complaints in 2020 (791,790), and the total monetary loss suffered by victims ($6.9 Billion) has far outstripped losses suffered in 2020 ($4.2 Billion).
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Trace LAPSUS$ Cyber Attacks to 16-Year-Old Hacker from England<a href="https://thehackernews.com/2022/03/researchers-trace-lapsus-cyber-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authentication services provider Okta on Wednesday named Sitel as the third-party linked to a  security incident  experienced by the company in late January that allowed the LAPSUS$ extortion gang to remotely take over an internal account belonging to a customer support engineer.  The company added that 366 corporate customers, or about 2.5% of its customer base, may have been impacted by the "highly constrained" compromise.  "On January 20, 2022, the Okta Security team was alerted that a new factor was added to a Sitel customer support engineer' Okta account [from a new location]," Okta's Chief Security Officer, David Bradbury,  said  in a statement. "This factor was a password."  The disclosure comes after LAPSUS$ posted screenshots of Okta's apps and systems earlier this week, about two months after the hackers gain access to the company's internal network over a five-day period between January 16 and 21, 2022 using remote desktop proto
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous claims to have hacked the Central Bank of Russia<a href="https://securityaffairs.co/wordpress/129431/hacktivism/anonymous-hacked-central-bank-of-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Anonymous hacker collective claims to have hacked the Central Bank of Russia and stole accessed 35,000 documents. 
+
+
+
+Anonymous continues to target Russian government organizations and private businesses, now it is claiming to have hacked the Central...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tax-Season Scammers Spoof Fintechs, Including Stash, Public<a href="https://threatpost.com/tax-season-scammers-spoof-fintechs-stash-public/179071/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are impersonating such wildly popular personal-finance apps (which are used more than social media or streaming services) to try to fool people into giving up their credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ suspects arrested for Microsoft, Nvidia, Okta hacks<a href="https://www.bleepingcomputer.com/news/security/lapsus-suspects-arrested-for-microsoft-nvidia-okta-hacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As Lapsus$ data extortion gang announced that several of its members are taking a vacation, the City of London Police say they have arrested seven individuals connected to the gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ Infiltrates High Profile Victims Through Employee Accounts<a href="https://cyware.com/news/lapsus-infiltrates-high-profile-victims-through-employee-accounts-f411ef86"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ group, also tracked as DEV-0537, deploys the RedLine password stealer to get access to session tokens and passwords. It buys session tokens and credentials from underground forums.  These credentials are used to access VPN, RDP, and VDI systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 200 Malicious NPM Packages Caught Targeting Azure Developers<a href="https://thehackernews.com/2022/03/over-200-malicious-npm-packages-caught.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new large scale supply chain attack has been observed targeting Azure developers with no less than 218 malicious NPM packages with the goal of stealing personal identifiable information.  "After manually inspecting some of these packages, it became apparent that this was a targeted attack against the entire  @azure NPM scope , by an attacker that employed an automatic script to create accounts and upload malicious packages that cover the entirety of that scope," JFrog researchers Andrey Polkovnychenko and Shachar Menashe  said  in a new report.  The entire set of malicious packages was disclosed to the NPM maintainers roughly two days after they were published, leading to their quick removal, but not before each of the packages were downloaded around 50 times on average.   The attack refers to what's called typosquatting, which takes place when bad actors push rogue packages with names mimicking legitimate libraries to a public software registry such as NPM or PyPI wit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta says 375 customers impacted by the hack, but Lapsus$ gang says it is lying<a href="https://securityaffairs.co/wordpress/129422/data-breach/okta-says-375-customers-impacted-by-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The provider of access management systems Okta confirmed the data breach and revealed that 2.5% of its customers were impacted.
+
+
+
+This week Lapsus$ extortion group claimed to have stolen sensitive data from the identity and access management giant...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Microsoft Excel add-ins used to deliver RAT malware<a href="https://www.bleepingcomputer.com/news/security/malicious-microsoft-excel-add-ins-used-to-deliver-rat-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers report a new version of the JSSLoader remote access trojan being distributed malicious Microsoft Excel addins.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vidar spyware is now hidden in Microsoft help files<a href="https://www.zdnet.com/article/vidar-spyware-is-now-hidden-in-microsoft-help-files/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Trustwave, the email campaign distributing Vidar is not very sophisticated. The email contains a generic subject line and an attachment, "request.doc," which is actually a .iso disk image.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Africa wants to fight SIM swapping with biometric checks<a href="https://www.bleepingcomputer.com/news/security/south-africa-wants-to-fight-sim-swapping-with-biometric-checks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The independent communications authority of South Africa (ICASA) has submitted a radical proposal to tackle the problem of SIM swapping attacks in the country, suggesting that local service providers should keep biometric data of cellphone number owners.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Enterprises Targeted with New DoubleZero Wiper Malware<a href="https://securityaffairs.co/wordpress/129417/malware/doublezero-wiper-hit-ukraine.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DoubleZero wipe files use two techniques, overwriting their content with zero blocks of 4096 bytes (using FileStream.Write) or using API-calls NtFileOpen, NtFsControlFile (code: FSCTL_SET_ZERO_DATA).
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers exploit Chrome zero-day weeks before patch<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-chrome-zero-day-weeks-before-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean state hackers have exploited a zero-day, remote code execution vulnerability in Google Chrome web browser for more than a month before a patch became available, in attacks targeting news media, IT companies, cryptocurrency and fintech organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This is how much the average Conti hacking group member earns a month<a href="https://www.zdnet.com/article/this-is-how-much-the-average-conti-hacking-group-member-earns-a-month/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to findings by Secureworks, the average Conti ransomware group member earns a salary of $1,800 per month, a figure you might consider low considering the success of the criminal gang.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Better Grasp of Cyber Attack Tactics Can Stop Criminals Faster<a href="https://www.bleepingcomputer.com/news/security/a-better-grasp-of-cyber-attack-tactics-can-stop-criminals-faster/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, FortiGuard Labs released the latest Global Threat Landscape Report for the second half of 2021. There is a ton of data in it and several key takeaways. The main themes that weave through this report are about the increase in cybercriminal sophistication as well as speed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MixMode raises $45 million to automate cyberattack detection for organizations<a href="https://www.helpnetsecurity.com/2022/03/24/mixmode-funding/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MixMode announced that it has raised $45 million in a Series B funding round led by the growth equity firm PSG, with participation from existing investor Entrada Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeadBolt Ransomware Resurfaces to Hit QNAP Again<a href="https://threatpost.com/deadbolt-ransomware-qnap-again/179057/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new steady stream of attacks against network-attached storage devices from the Taiwan-based vendor is similar to a wave that occurred in January.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Issues Patches for Critical Flaws Affecting Carbon Black App Control<a href="https://thehackernews.com/2022/03/vmware-issues-patches-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Wednesday released software updates to plug two critical security vulnerabilities affecting its Carbon Black App Control platform that could be abused by a malicious actor to execute arbitrary code on affected installations in Windows systems.  Tracked as  CVE-2022-22951 and CVE-2022-22952 , both the flaws are rated 9.1 out of a maximum of 10 on the CVSS vulnerability scoring system. Credited with reporting the two issues is security researcher Jari Jääskelä.   That said, successful exploitation of the vulnerabilities banks on the prerequisite that the attacker is already logged in as an administrator or a highly privileged user.  VMware Carbon Black App Control is an  application allow listing solution  that's used to lock down servers and critical systems, prevent unwanted changes, and ensure continuous compliance with regulatory mandates.  CVE-2022-22951 has been described as a command injection vulnerability that could enable an authenticated, high privileged actor w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 23, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

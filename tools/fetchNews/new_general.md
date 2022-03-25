@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley — New York taxis coming to Uber<a href="https://thehill.com//policy/cybersecurity/overnights/599694-hillicon-valley-new-york-taxis-coming-to-uber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Thursday. Welcome to Hillicon Valley, detailing all you need to know about tech and cyber news from Capitol Hill to Silicon Valley. Subscribe here.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 3 Attack Trends in API Security – Podcast<a href="https://threatpost.com/top-3-attack-trends-in-api-security-podcast/179064/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bots &amp; automated attacks have exploded, with attackers and developers alike in love with APIs, according to a new Cequence Security report. Hacker-in-residence Jason Kent explains the latest. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet crime in 2021: Investment fraud losses soar<a href="https://www.helpnetsecurity.com/2022/03/23/2021-internet-crime/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of complaints received by the FBI IC3 in 2021 (847,376) has surpassed that of complaints in 2020 (791,790), and the total monetary loss suffered by victims ($6.9 Billion) has far outstripped losses suffered in 2020 ($4.2 Billion).
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Africa wants to fight SIM swapping with biometric checks<a href="https://www.bleepingcomputer.com/news/security/south-africa-wants-to-fight-sim-swapping-with-biometric-checks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The independent communications authority of South Africa (ICASA) has submitted a radical proposal to tackle the problem of SIM swapping attacks in the country, suggesting that local service providers should keep biometric data of cellphone number owners.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Better Grasp of Cyber Attack Tactics Can Stop Criminals Faster<a href="https://www.bleepingcomputer.com/news/security/a-better-grasp-of-cyber-attack-tactics-can-stop-criminals-faster/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, FortiGuard Labs released the latest Global Threat Landscape Report for the second half of 2021. There is a ton of data in it and several key takeaways. The main themes that weave through this report are about the increase in cybercriminal sophistication as well as speed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

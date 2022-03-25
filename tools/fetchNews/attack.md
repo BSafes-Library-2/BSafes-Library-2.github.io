@@ -8,6 +8,53 @@ nav_order: 900015
 
 ## Attack
 ---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian enterprises hit with the DoubleZero wiper<a href="https://securityaffairs.co/wordpress/129417/malware/doublezero-wiper-hit-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine CERT-UA warns of cyberattack aimed at Ukrainian enterprises using the a wiper dubbed DoubleZero.
+
+
+
+Ukraine CERT-UA continues to observe malware based attacks aimed at Ukrainian organizations, in a recent alert it warned of attacks employing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mustang Panda hacking campaign targets diplomats, ISPs<a href="https://www.bleepingcomputer.com/news/security/new-mustang-panda-hacking-campaign-targets-diplomats-isps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing Mustang Panda campaign that has started at least eight months ago has been uncovered by threat analysts who also managed to sample and analyze custom malware loaders and a new Korplug variant.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Browser-in-the-Browser - An (Almost) Invisible Attack<a href="https://cyware.com/news/browser-in-the-browser-an-almost-invisible-attack-c009e043"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers devised a new phishing technique, dubbed Browser-in-the-Browser (BitB) attack that lets cybercriminals spoof a browser window within a browser by leveraging a mix of HTML and CSS code. The novel BitB attack bypasses both a URL with HTTPS encryption and a hover-over-it security check.&amp;nb ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

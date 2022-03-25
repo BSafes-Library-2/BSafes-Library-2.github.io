@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI adds Russian cybercrime market owner to most wanted list<a href="https://www.bleepingcomputer.com/news/security/fbi-adds-russian-cybercrime-market-owner-to-most-wanted-list/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national has been indicted by the US DOJ and added to the FBI's Cyber Most Wanted list for allegedly creating and managing a cybercrime marketplace.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+It’s official, Lapsus$ gang compromised a Microsoft employee’s account<a href="https://securityaffairs.co/wordpress/129391/hacking/lapsus-gang-compromised-microsoft-employees-account.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft confirmed that Lapsus$ extortion group has hacked one of its employees to access and steal the source code of some projects.
+
+
+
+Microsoft confirmed that Lapsus$ extortion group has hacked one of its employees to access and steal the source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ Data Kidnappers Claim Snatches From Microsoft, Okta<a href="https://threatpost.com/lapsus-data-kidnappers-claim-snatches-from-microsoft-okta/179041/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lapsus$ shared screenshots of internal Okta systems and 40Gb of purportedly stolen Microsoft data on Bing, Bing Maps and Cortana. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

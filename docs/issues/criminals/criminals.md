@@ -8,6 +8,62 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+23-Year-Old Russian Hacker Wanted by FBI for Running Marketplace of Stolen Logins<a href="https://thehackernews.com/2022/03/23-year-old-russian-hacker-wanted-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 23-year-old Russian national has been indicted in the U.S. and added to the Federal Bureau of Investigation's (FBI) Cyber Most Wanted List for his alleged role as the administrator of Marketplace A, a cyber crime forum that sold stolen login credentials, personal information, and credit card data.  Igor Dekhtyarchuk , who first appeared in hacker forums in 2013 under the alias "floraby," has been accused of charges of wire fraud, access device fraud, and aggravated identity theft, a set of offenses that could lead to up to 20 years in federal prison.  According to the FBI's&nbsp; Wanted poster , Dekhtyarchuk previously studied at the Ural State University in Yekaterinburg, Russia, and was last known to reside in the city of Kamensk-Uralsky.   "Marketplace A specialized in the sale of unlawfully obtained access devices for compromised online payment platforms, retailers, and credit card accounts, including providing the data associated with those accounts such as na
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged Microsoft, Okta hackers arrested in UK<a href="https://thehill.com//policy/cybersecurity/599642-alleged-microsoft-okta-hackers-arrested-in-uk"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British authorities arrested seven individuals on Thursday suspected of hacking major tech companies including Okta and Microsoft,&nbsp;according to Reuters.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ suspects arrested for Microsoft, Nvidia, Okta hacks<a href="https://www.bleepingcomputer.com/news/security/lapsus-suspects-arrested-for-microsoft-nvidia-okta-hacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As Lapsus$ data extortion gang announced that several of its members are taking a vacation, the City of London Police say they have arrested seven individuals connected to the gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This is how much the average Conti hacking group member earns a month<a href="https://www.zdnet.com/article/this-is-how-much-the-average-conti-hacking-group-member-earns-a-month/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to findings by Secureworks, the average Conti ransomware group member earns a salary of $1,800 per month, a figure you might consider low considering the success of the criminal gang.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ten notorious ransomware strains put to the encryption speed test<a href="https://www.bleepingcomputer.com/news/security/ten-notorious-ransomware-strains-put-to-the-encryption-speed-test/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have conducted a technical experiment, testing ten ransomware variants to determine how fast they encrypt files and evaluate how feasible it would be to timely respond to their attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

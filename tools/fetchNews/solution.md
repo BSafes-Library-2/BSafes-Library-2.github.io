@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Use This Definitive RFP Template to Effectively Evaluate XDR solutions<a href="https://thehackernews.com/2020/07/extended-detection-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new class of security tools is emerging that promises to significantly improve the effectiveness and efficiency of threat detection and response.   Emerging Extended Detection and Response (XDR) solutions aim to aggregate and correlate telemetry from multiple detection controls and then synthesize response actions.   XDR has been referred to as the next step in the evolution of Endpoint Detection and Response (EDR) solutions.   Because XDR represents a new solution category, there is no single accepted definition of what capabilities and features should (and shouldn't) be included.   Each provider approaches XDR with different strengths and perspectives on how what an XDR solution should include.   Therefore, selecting an XDR provider is quite challenging as organizations must organize and prioritize a wide range of capabilities that can differ significantly between providers.   Cynet is now addressing this need with the Definitive RFP Template for XDR solutions ( download here ),
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit new WPS Office flaw to breach betting firms<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-new-wps-office-flaw-to-breach-betting-firms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown Chinese-speaking threat actor has been targeting betting companies in Taiwan, Hong Kong, and the Philippines, leveraging a vulnerability in WPS Office to plant a backdoor on the targeted systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

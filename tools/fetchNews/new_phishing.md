@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing kits constantly evolve to evade security software<a href="https://www.bleepingcomputer.com/news/security/phishing-kits-constantly-evolve-to-evade-security-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Modern phishing kits sold on cybercrime forums as off-the-shelve packages feature multiple and sophisticated detection avoidance and traffic filtering systems to ensure that internet security solutions won't mark them as a threat.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tax-Season Scammers Spoof Fintechs, Including Stash, Public<a href="https://threatpost.com/tax-season-scammers-spoof-fintechs-stash-public/179071/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are impersonating such wildly popular personal-finance apps (which are used more than social media or streaming services) to try to fool people into giving up their credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
