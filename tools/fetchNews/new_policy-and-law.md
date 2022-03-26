@@ -8,6 +8,52 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The 2022 Cyber Incident Reporting Law: Key Issues to Watch<a href="https://www.lawfareblog.com/2022-cyber-incident-reporting-law-key-issues-watch"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new reporting mandate is designed to encourage compliance with the law and increase the quantity and quality of cyber incident reporting
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Charges 4 Russian Govt. Employees Over Hacking Critical Infrastructure Worldwide<a href="https://thehackernews.com/2022/03/us-charges-4-russian-govt-employees.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Thursday released a cybersecurity advisory outlining multiple intrusion campaigns conducted by state-sponsored Russian cyber actors from 2011 to 2018 that targeted the energy sector in the U.S. and beyond.  "The [Federal Security Service] conducted a multi-stage campaign in which they gained remote access to U.S. and international Energy Sector networks, deployed ICS-focused malware, and collected and exfiltrated enterprise and ICS-related data," the U.S. government&nbsp; said , attributing the attacks to an APT actor known as&nbsp; Energetic Bear .   In addition, the Justice Department&nbsp; charged &nbsp;four Russian government employees, including three officers of the Russian Federal Security Service and a computer programmer at the Central Scientific Research Institute of Chemistry and Mechanics (TsNIIKhM), for their roles in carrying out the attacks on oil refineries, nuclear facilities, and energy companies.  The four Russian nationals are Pavel Aleksandrovich Akul
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US indicted 4 Russian government employees for attacks on critical infrastructure<a href="https://securityaffairs.co/wordpress/129460/cyber-warfare-2/doj-indicted-russian-government-employees.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. has indicted four Russian government employees for their involvement in attacks on entities in critical infrastructure.
+
+
+
+The U.S. has indicted four Russian government employees for their role in cyberattacks targeting hundreds of companies...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

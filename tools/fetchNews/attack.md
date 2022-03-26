@@ -8,6 +8,70 @@ nav_order: 900015
 
 ## Attack
 ---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous claims to have hacked the Central Bank of Russia<a href="https://securityaffairs.co/wordpress/129431/hacktivism/anonymous-hacked-central-bank-of-russia.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamou hacker collective claims to have compromised the systems of the Central Bank of Russia and stolen 35,000 files, it announced that it will leak the files in 48 hours.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Trace LAPSUS$ Cyber Attacks to 16-Year-Old Hacker from England<a href="https://thehackernews.com/2022/03/researchers-trace-lapsus-cyber-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authentication services provider Okta on Wednesday named Sitel as the third-party linked to a&nbsp; security incident &nbsp;experienced by the company in late January that allowed the LAPSUS$ extortion gang to remotely take over an internal account belonging to a customer support engineer.  The company added that 366 corporate customers, or about 2.5% of its customer base, may have been impacted by the "highly constrained" compromise.  "On January 20, 2022, the Okta Security team was alerted that a new factor was added to a Sitel customer support engineer' Okta account [from a new location]," Okta's Chief Security Officer, David Bradbury,&nbsp; said &nbsp;in a statement. "This factor was a password."  The disclosure comes after LAPSUS$ posted screenshots of Okta's apps and systems earlier this week, about two months after the hackers gain access to the company's internal network over a five-day period between January 16 and 21, 2022 using remote desktop proto
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous claims to have hacked the Central Bank of Russia<a href="https://securityaffairs.co/wordpress/129431/hacktivism/anonymous-hacked-central-bank-of-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Anonymous hacker collective claims to have hacked the Central Bank of Russia and stole accessed 35,000 documents. 
+
+
+
+Anonymous continues to target Russian government organizations and private businesses, now it is claiming to have hacked the Central...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta says 375 customers impacted by the hack, but Lapsus$ gang says it is lying<a href="https://securityaffairs.co/wordpress/129422/data-breach/okta-says-375-customers-impacted-by-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The provider of access management systems Okta confirmed the data breach and revealed that 2.5% of its customers were impacted.
+
+
+
+This week Lapsus$ extortion group claimed to have stolen sensitive data from the identity and access management&nbsp;giant...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

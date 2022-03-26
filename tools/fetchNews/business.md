@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MixMode raises $45 million to automate cyberattack detection for organizations<a href="https://www.helpnetsecurity.com/2022/03/24/mixmode-funding/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MixMode announced that it has raised $45 million in a Series B funding round led by the growth equity firm PSG, with participation from existing investor Entrada Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

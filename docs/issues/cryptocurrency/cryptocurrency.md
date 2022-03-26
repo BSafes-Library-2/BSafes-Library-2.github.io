@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+March 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover Campaign Stealing Cryptocurrency from Android and iPhone Users<a href="https://thehackernews.com/2022/03/experts-uncover-campaign-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have blown the lid off a sophisticated malicious scheme primarily targeting Chinese users via copycat apps on Android and iOS that mimic legitimate digital wallet services to siphon cryptocurrency funds.  "These malicious apps were able to steal victims' secret seed phrases by impersonating Coinbase, imToken, MetaMask, Trust Wallet, Bitpie, TokenPocket, or OneKey,"&nbsp; said &nbsp;Lukáš Štefanko, senior malware researcher at ESET in a report shared with The Hacker News.  The wallet services are said to have been distributed through a network of over 40 counterfeit wallet websites that are promoted with the help of misleading articles posted on legitimate Chinese websites, as well as by means of recruiting intermediaries through Telegram and Facebook groups, in an attempt to trick unsuspecting visitors into downloading the malicious apps.   ESET, which has been tracking the campaign since May 2021, attributed it to the work of a single criminal group. The trojanized cr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

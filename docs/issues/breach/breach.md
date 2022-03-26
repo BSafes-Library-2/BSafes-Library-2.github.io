@@ -8,6 +8,42 @@ nav_order: 900029
 
 ## Breach
 ---
+March 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta says 366 clients had data ‘acted upon’ in Lapsus$ hack<a href="https://www.crn.com.au/news/okta-says-366-clients-had-data-acted-upon-in-lapsus-hack-577807?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 366 Okta customers might have had their data ‘acted upon’ following the LapsusUS$ cyberattack against the identity security giant’s customer support subcontractor.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous leaked 28GB of data stolen from the Central Bank of Russia<a href="https://securityaffairs.co/wordpress/129490/hacking/central-bank-of-russia-data-leak-anonymous.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous announced that the affiliate group Black Rabbit World has leaked 28 GB of data stolen from the Central Bank of Russia
+
+
+
+This week the Anonymous hacker collective claims to have hacked the Central Bank of Russia and stole accessed 35,000 documents.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 Suspected Members of LAPSUS$ Hacker Gang, Aged 16 to 21, Arrested in U.K.<a href="https://thehackernews.com/2022/03/7-suspected-members-of-lapsus-hacker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of London Police has arrested seven teenagers between the ages of 16 and 21 for their alleged connections to the prolific LAPSUS$&nbsp;extortion gang that's linked to a recent burst of attacks targeting NVIDIA, Samsung, Ubisoft, LG, Microsoft, and Okta.  "The City of London Police has been conducting an investigation with its partners into members of a hacking group," Detective Inspector, Michael O'Sullivan, said in a statement shared with The Hacker News. "Seven people between the ages of 16 and 21 have been arrested in connection with this investigation and have all been released under investigation. Our enquiries remain ongoing."  The development, which was first&nbsp; disclosed &nbsp;by BBC News, comes after a report from Bloomberg&nbsp; revealed &nbsp;that a 16-year-old Oxford-based teenager is the mastermind of the group. It's not immediately clear if the minor is one among the arrested individuals. The said teen, under the online alias White or Breachbase, is al
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK police arrested 7 alleged members of Lapsus$ extortion gang<a href="https://securityaffairs.co/wordpress/129470/cyber-crime/uk-police-members-lapsus-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK police suspect that a 16-year-old from Oxford is one of the leaders of the popular Lapsus$ extortion group.
+
+
+
+The City of London Police announced to have arrested seven teenagers suspected of being members of the notorious Lapsus$ extortion gang,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

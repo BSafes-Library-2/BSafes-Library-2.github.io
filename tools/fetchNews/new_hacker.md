@@ -11,6 +11,20 @@ nav_order: 900080
 March 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Exploited Chrome Zero-Day to Target Fintech, IT, and Media Firms<a href="https://thehackernews.com/2022/03/north-korean-hackers-exploited-chrome.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) on Thursday disclosed that it acted to mitigate threats from two distinct government-backed attacker groups based in North Korea that exploited a recently-uncovered remote code execution flaw in the Chrome web browser.  The campaigns, once again "reflective of the regime's immediate concerns and priorities," are said to have targeted U.S. based organizations spanning news media, IT, cryptocurrency, and fintech industries, with one set of the activities sharing direct infrastructure overlaps with previous attacks&nbsp; aimed at security researchers &nbsp;last year.  The shortcoming in question is&nbsp; CVE-2022-0609 , a use-after-free vulnerability in the browser's Animation component that Google addressed as part of updates (version 98.0.4758.102) issued on February 14, 2022. It's also the first zero-day flaw patched by the tech giant since the start of 2022.   "The earliest evidence we have of this exploit kit being actively deploy
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Experts explained how to hack a building controller widely adopted in Russia<a href="https://securityaffairs.co/wordpress/129452/hacking/russian-building-controller-hack.html"> Full Text</a>
 </p>
 <details>

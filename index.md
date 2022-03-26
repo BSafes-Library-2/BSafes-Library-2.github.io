@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2022
+March 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian military behind hack of satellite communication devices in Ukraine at war’s outset, U.S. officials say<a href="https://www.msn.com/en-xl/northamerica/top-stories/russian-military-behind-hack-of-satellite-communication-devices-in-ukraine-at-wars-outset-us-officials-say/ar-AAVtIhI?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ MSN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2022
+March 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Threat Actor Scarab Found Targeting Ukraine<a href="https://www.sentinelone.com/labs/chinese-threat-actor-scarab-targeting-ukraine/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Sentinel One
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2022
+March 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Honda downplays vulnerability allowing hackers to lock, unlock and start Civics<a href="https://therecord.media/honda-downplays-vulnerability-allowing-hackers-to-lock-unlock-and-start-civics/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2022
+March 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Advisory Released by the CISA, the FBI, and the DOE on Russia Threat Activity Against Energy Sector Organizations<a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-083a?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ US CERT
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2022
+March 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Okta says 366 clients had data ‘acted upon’ in Lapsus$ hack<a href="https://www.crn.com.au/news/okta-says-366-clients-had-data-acted-upon-in-lapsus-hack-577807?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2022
+March 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti Ransomware Attacks Persist With an Updated Version Despite Leaks<a href="https://securityboulevard.com/2022/03/conti-ransomware-attacks-persist-with-an-updated-version-despite-leaks/?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Security Boulevard
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2022
+March 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware infections follow precursor malware<a href="https://www.theregister.com/2022/03/26/lumu-ransomware-precursor-malware/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2022
+March 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 100s of Russian Building Controllers Can be Remotely Hacked<a href="https://www.hackread.com/100-russian-building-controllers-can-be-remotely-hacked/?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2022
+March 25, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US officials say Russia behind hack of Ukrainian satellite communications at invasion start: report<a href="https://thehill.com//policy/cybersecurity/599747-us-officials-russia-behind-hack-of-ukrainian-satellite-communications-at"> Full Text</a>
@@ -178,7 +178,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2022
+March 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Issues Urgent Chrome Update to Patch Actively Exploited Zero-Day Vulnerability<a href="https://thehackernews.com/2022/03/google-issues-urgent-chrome-update-to.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2022
+March 25, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The 2022 Cyber Incident Reporting Law: Key Issues to Watch<a href="https://www.lawfareblog.com/2022-cyber-incident-reporting-law-key-issues-watch"> Full Text</a>
@@ -210,7 +210,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2022
+March 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous leaked 28GB of data stolen from the Central Bank of Russia<a href="https://securityaffairs.co/wordpress/129490/hacking/central-bank-of-russia-data-leak-anonymous.html"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2022
+March 25, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity at the DNS Layer: Using AI to Analyze, Learn and Protect<a href="https://threatpost.com/artificial-intelligence-cybersecurity/178851/"> Full Text</a>
@@ -250,7 +250,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2022
+March 25, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Charges 4 Russian Govt. Employees Over Hacking Critical Infrastructure Worldwide<a href="https://thehackernews.com/2022/03/us-charges-4-russian-govt-employees.html"> Full Text</a>
@@ -266,7 +266,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2022
+March 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome emergency update fixes actively exploited a zero-day bug<a href="https://securityaffairs.co/wordpress/129483/security/chrome-2nd-zero-day-2022.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2022
+March 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 7 Suspected Members of LAPSUS$ Hacker Gang, Aged 16 to 21, Arrested in U.K.<a href="https://thehackernews.com/2022/03/7-suspected-members-of-lapsus-hacker.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2022
+March 25, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese threat actor Scarab targets Ukraine, CERT-UA warns<a href="https://securityaffairs.co/wordpress/129477/apt/chinese-threat-actor-scarab-targets-ukraine-cert-ua-warns.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2022
+March 25, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover Campaign Stealing Cryptocurrency from Android and iPhone Users<a href="https://thehackernews.com/2022/03/experts-uncover-campaign-stealing.html"> Full Text</a>
@@ -338,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2022
+March 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK police arrested 7 alleged members of Lapsus$ extortion gang<a href="https://securityaffairs.co/wordpress/129470/cyber-crime/uk-police-members-lapsus-gang.html"> Full Text</a>
@@ -358,7 +358,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2022
+March 25, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US indicted 4 Russian government employees for attacks on critical infrastructure<a href="https://securityaffairs.co/wordpress/129460/cyber-warfare-2/doj-indicted-russian-government-employees.html"> Full Text</a>
@@ -378,7 +378,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2022
+March 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Storm Cloud Attempting To GIMMICK macOS Users<a href="https://cyware.com/news/storm-cloud-attempting-to-gimmick-macos-users-9bb77603"> Full Text</a>
@@ -395,7 +395,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2022
+March 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Azure Developers Awash in PII-Stealing npm Packages<a href="https://threatpost.com/microsoft-azure-developers-pii-stealing-npm-packages/179096/"> Full Text</a>
@@ -411,7 +411,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2022
+March 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Help Files Disguise Vidar Malware<a href="https://threatpost.com/microsoft-help-files-vidar-malware/179078/"> Full Text</a>
@@ -427,7 +427,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2022
+March 24, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Exploited Chrome Zero-Day to Target Fintech, IT, and Media Firms<a href="https://thehackernews.com/2022/03/north-korean-hackers-exploited-chrome.html"> Full Text</a>

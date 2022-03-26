@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Hackers Targeting Betting Companies in Southeast Asia<a href="https://thehackernews.com/2022/03/chinese-apt-hackers-targeting-betting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking advanced persistent threat (APT) has been linked to a new campaign targeting gambling-related companies in South East Asia, particularly Taiwan, the Philippines, and Hong Kong.  Cybersecurity firm Avast dubbed the campaign&nbsp; Operation Dragon Castling , describing its malware arsenal as a "robust and modular toolset." The ultimate motives of the threat actor are not immediately discernible as yet nor has it been linked to a known hacking group.   While multiple initial access avenues were employed during the course of the campaign, one of the attack vectors involved leveraging a previously unknown remote code execution flaw in the WPS Office suite ( CVE-2022-24934 ) to backdoor its targets. The issue has since been addressed by Kingsoft Oﬃce, the developers of the office software.   In the case observed by the Czech security firm, the vulnerability was used to drop a malicious binary from a fake update server with the domain update.wps[.]cn that triggers a m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Combines Fresh Hodur RAT with Complex Anti-Detection<a href="https://threatpost.com/chinese-apt-combines-fresh-hodur-rat-with-complex-anti-detection/179084/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mustang Panda’s already sophisticated cyberespionage campaign has matured even further with the introduction of a brand-new PlugX RAT variant.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

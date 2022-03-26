@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microweber developers resolve XSS vulnerability in CMS software<a href="https://portswigger.net/daily-swig/microweber-developers-resolve-xss-vulnerability-in-cms-software?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These shortcomings meant it was possible for attackers to upload an XSS payload, providing it contained a file whose name ended with ‘html’ ­– a category that includes far more than just simple .html files.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Many Critical Flaws Patched in Delta Electronics Energy Management System<a href="https://www.securityweek.com/many-critical-flaws-patched-delta-electronics-energy-management-system?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 30 vulnerabilities were found in the past year in the DIAEnergie industrial energy management system made by Delta Electronics. The company says it has created patches for all of them.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Issues Patches for Critical Flaws Affecting Carbon Black App Control<a href="https://securityaffairs.co/wordpress/129440/security/vmware-carbon-black-app-control-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed two critical arbitrary code execution vulnerabilities affecting its Carbon Black App Control platform.
+
+
+
+VMware released this week, software updates to address two critical security vulnerabilities, CVE-2022-22951 and CVE-2022-22952...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital My Cloud OS update fixes critical vulnerability<a href="https://www.bleepingcomputer.com/news/security/western-digital-my-cloud-os-update-fixes-critical-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital has released new My Cloud OS firmware to fix a vulnerability exploited by bug hunters during the Pwn2Own 2021 hacking competition to achieve remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Issues Patches for Critical Flaws Affecting Carbon Black App Control<a href="https://thehackernews.com/2022/03/vmware-issues-patches-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Wednesday released software updates to plug two critical security vulnerabilities affecting its Carbon Black App&nbsp;Control platform that could be abused by a malicious actor to execute arbitrary code on affected installations in Windows systems.  Tracked as&nbsp; CVE-2022-22951 and CVE-2022-22952 , both the flaws are rated 9.1 out of a maximum of 10 on the CVSS vulnerability scoring system. Credited with reporting the two issues is security researcher Jari Jääskelä.   That said, successful exploitation of the vulnerabilities banks on the prerequisite that the attacker is already logged in as an administrator or a highly privileged user.  VMware Carbon Black App Control is an&nbsp; application allow listing solution &nbsp;that's used to lock down servers and critical systems, prevent unwanted changes, and ensure continuous compliance with regulatory mandates.  CVE-2022-22951 has been described as a command injection vulnerability that could enable an authenticated, high privileged actor w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

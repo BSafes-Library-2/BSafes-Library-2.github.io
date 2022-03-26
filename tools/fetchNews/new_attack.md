@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+March 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian military behind hack of satellite communication devices in Ukraine at war’s outset, U.S. officials say<a href="https://www.msn.com/en-xl/northamerica/top-stories/russian-military-behind-hack-of-satellite-communication-devices-in-ukraine-at-wars-outset-us-officials-say/ar-AAVtIhI?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. intelligence analysts have concluded that Russian military spy hackers were behind a cyberattack on a satellite broadband service that disrupted Ukraine’s military communications at the start of the war last month.
+</details>
+<div style="text-align: right" markdown="1">
+MSN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Threat Actor Scarab Found Targeting Ukraine<a href="https://www.sentinelone.com/labs/chinese-threat-actor-scarab-targeting-ukraine/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious activity by the threat actor dubbed UAC-0026 represents one of the first public examples of a Chinese threat actor targeting Ukraine since the invasion began.
+</details>
+<div style="text-align: right" markdown="1">
+Sentinel One
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure Developers Awash in PII-Stealing npm Packages<a href="https://threatpost.com/microsoft-azure-developers-pii-stealing-npm-packages/179096/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale, automated typosquatting attack saw 200+ malicious packages flood the npm code repository, targeting popular Azure scopes. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

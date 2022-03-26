@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+March 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Advisory Released by the CISA, the FBI, and the DOE on Russia Threat Activity Against Energy Sector Organizations<a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-083a?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This joint Cybersecurity Advisory coauthored by the CISA, the FBI, and the DOE provides information on multiple intrusion campaigns conducted by state-sponsored Russian cyber actors from 2011 to 2018 against Energy Sector organizations.
+</details>
+<div style="text-align: right" markdown="1">
+US CERT
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US officials say Russia behind hack of Ukrainian satellite communications at invasion start: report<a href="https://thehill.com//policy/cybersecurity/599747-us-officials-russia-behind-hack-of-ukrainian-satellite-communications-at"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian military spy service, the GRU, was behind a hack that affected the Ukrainian military’s communications at the start of Russia's invasion into the country, U.S. intelligence analysts say, The Washington Post reported, citing U.S. officials familiar.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese threat actor Scarab targets Ukraine, CERT-UA warns<a href="https://securityaffairs.co/wordpress/129477/apt/chinese-threat-actor-scarab-targets-ukraine-cert-ua-warns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine CERT (CERT-UA) released details about a campaign that SentinelLabs linked with the suspected Chinese threat actor tracked as Scarab.
+
+
+
+Ukraine CERT (CERT-UA) published technical details about a malicious activity tracked as UAC-0026, which SentinelLabs...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
