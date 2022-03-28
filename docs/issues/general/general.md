@@ -8,6 +8,60 @@ nav_order: 900072
 
 ## General
 ---
+March 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mar 20- Mar 26 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/129518/cyber-warfare-2/mar-20-26-ukraine-russia-cyber-conflict.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This post provides a timeline of the events related to the Russian invasion of Ukraine from the cyber security perspective.
+
+
+
+March 25 - Anonymous leaked 28GB of data stolen from the Central Bank of Russia
+
+
+
+Anonymous announced that the affiliate group...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 358 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/129515/breaking-news/security-affairs-newsletter-round-358-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts seek cyberwarfare definition following recent cyber warnings<a href="https://thehill.com//policy/cybersecurity/599816-experts-seek-cyberwarfare-definition-following-recent-cyber-warnings"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent White House warnings urging the private sector to shore up its cyber defenses have experts questioning why U.S. officials haven’t already defined what constitutes cyberwarfare.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

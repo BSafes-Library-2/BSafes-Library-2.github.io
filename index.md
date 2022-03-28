@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2022
+March 27, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive ransomware ports its Linux VMware ESXi encryptor to Rust<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-ports-its-linux-vmware-esxi-encryptor-to-rust/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2022
+March 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophos Firewall affected by a critical authentication bypass flaw<a href="https://securityaffairs.co/wordpress/129536/security/sophos-firewall-authentication-bypass-flaw.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2022
+March 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Sophos Firewall vulnerability allows remote code execution<a href="https://www.bleepingcomputer.com/news/security/critical-sophos-firewall-vulnerability-allows-remote-code-execution/"> Full Text</a>
@@ -86,7 +86,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2022
+March 27, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mar 20- Mar 26 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/129518/cyber-warfare-2/mar-20-26-ukraine-russia-cyber-conflict.html"> Full Text</a>
@@ -110,7 +110,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2022
+March 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Okta: "We made a mistake" delaying the Lapsus$ hack disclosure<a href="https://www.bleepingcomputer.com/news/security/okta-we-made-a-mistake-delaying-the-lapsus-hack-disclosure/"> Full Text</a>
@@ -126,7 +126,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2022
+March 27, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 358 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/129515/breaking-news/security-affairs-newsletter-round-358-by-pierluigi-paganini.html"> Full Text</a>
@@ -146,7 +146,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2022
+March 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Western Digital addressed a critical bug in My Cloud OS 5<a href="https://securityaffairs.co/wordpress/129507/security/western-digital-my-cloud-os-5-flaw.html"> Full Text</a>
@@ -166,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 27, 2022
+March 27, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds 66 new flaws to the Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/129502/hacking/cisa-known-exploited-vulnerabilities-catalog-66.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2022
+March 26, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaspersky named first Russian company on security risk list<a href="https://www.livemint.com/companies/news/kaspersky-named-first-russian-company-on-security-risk-list-11648253328284.html?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Livemint
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2022
+March 26, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts seek cyberwarfare definition following recent cyber warnings<a href="https://thehill.com//policy/cybersecurity/599816-experts-seek-cyberwarfare-definition-following-recent-cyber-warnings"> Full Text</a>
@@ -218,7 +218,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2022
+March 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FCC Adds Kaspersky and Chinese Telecom Firms to National Security Threat List<a href="https://thehackernews.com/2022/03/fcc-adds-kaspersky-and-chinese-telecom.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2022
+March 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Another Chinese Hacking Group Spotted Targeting Ukraine Amid Russia Invasion<a href="https://thehackernews.com/2022/03/another-chinese-hacking-group-spotted.html"> Full Text</a>
@@ -250,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2022
+March 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds 66 vulnerabilities to list of bugs exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-adds-66-vulnerabilities-to-list-of-bugs-exploited-in-attacks/"> Full Text</a>
@@ -266,7 +266,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2022
+March 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Western Digital fixes critical bug giving root on My Cloud NAS devices<a href="https://www.bleepingcomputer.com/news/security/western-digital-fixes-critical-bug-giving-root-on-my-cloud-nas-devices/"> Full Text</a>
@@ -282,7 +282,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 26, 2022
+March 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FCC adds Kaspersky to Covered List due to unacceptable risks to national security<a href="https://securityaffairs.co/wordpress/129496/security/us-fcc-bans-kaspersky.html"> Full Text</a>

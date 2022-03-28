@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaspersky named first Russian company on security risk list<a href="https://www.livemint.com/companies/news/kaspersky-named-first-russian-company-on-security-risk-list-11648253328284.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. placed internet-security provider AO Kaspersky Lab on a list of companies deemed a threat to national security, for the first time adding a Russian entity to a list dominated by Chinese telecommunications firms.
+</details>
+<div style="text-align: right" markdown="1">
+Livemint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

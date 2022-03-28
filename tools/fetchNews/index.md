@@ -34,6 +34,274 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive ransomware ports its Linux VMware ESXi encryptor to Rust<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-ports-its-linux-vmware-esxi-encryptor-to-rust/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hive ransomware operation has converted their VMware ESXi Linux encryptor to the Rust programming language and added new features to make it harder for security researchers to snoop on victim's ransom negotiations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos Firewall affected by a critical authentication bypass flaw<a href="https://securityaffairs.co/wordpress/129536/security/sophos-firewall-authentication-bypass-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos has addressed a critical vulnerability, tracked as CVE-2022-1040, in its Sophos Firewall that allows remote code execution (RCE).
+
+
+
+Sophos has fixed an authentication bypass vulnerability, tracked as CVE-2022-1040, that resides...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Sophos Firewall vulnerability allows remote code execution<a href="https://www.bleepingcomputer.com/news/security/critical-sophos-firewall-vulnerability-allows-remote-code-execution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos has fixed a critical vulnerability in its Sophos Firewall product that allows remote code execution. Tracked as CVE-2022-1040, the authentication bypass vulnerability exists in the User Portal and Webadmin areas of Sophos Firewall.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mar 20- Mar 26 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/129518/cyber-warfare-2/mar-20-26-ukraine-russia-cyber-conflict.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This post provides a timeline of the events related to the Russian invasion of Ukraine from the cyber security perspective.
+
+
+
+March 25 - Anonymous leaked 28GB of data stolen from the Central Bank of Russia
+
+
+
+Anonymous announced that the affiliate group...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta: "We made a mistake" delaying the Lapsus$ hack disclosure<a href="https://www.bleepingcomputer.com/news/security/okta-we-made-a-mistake-delaying-the-lapsus-hack-disclosure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Okta has admitted that it made a mistake delaying the disclosure of hack from the Lapsus$ data extortion group that took place in January. Additionally, the company has provided a detailed timeline of the incident and its investigation activities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 358 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/129515/breaking-news/security-affairs-newsletter-round-358-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital addressed a critical bug in My Cloud OS 5<a href="https://securityaffairs.co/wordpress/129507/security/western-digital-my-cloud-os-5-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital fixed a critical flaw affecting My Cloud OS 5 devices that allowed attackers to gain remote code execution with root privileges.
+
+
+
+Western Digital has addressed a critical vulnerability, tracked as CVE-2021-44142, that could have allowed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 66 new flaws to the Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/129502/hacking/cisa-known-exploited-vulnerabilities-catalog-66.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) added 66 new flaws to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added 15 vulnerabilities to its Known Exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaspersky named first Russian company on security risk list<a href="https://www.livemint.com/companies/news/kaspersky-named-first-russian-company-on-security-risk-list-11648253328284.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. placed internet-security provider AO Kaspersky Lab on a list of companies deemed a threat to national security, for the first time adding a Russian entity to a list dominated by Chinese telecommunications firms.
+</details>
+<div style="text-align: right" markdown="1">
+Livemint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts seek cyberwarfare definition following recent cyber warnings<a href="https://thehill.com//policy/cybersecurity/599816-experts-seek-cyberwarfare-definition-following-recent-cyber-warnings"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent White House warnings urging the private sector to shore up its cyber defenses have experts questioning why U.S. officials haven’t already defined what constitutes cyberwarfare.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC Adds Kaspersky and Chinese Telecom Firms to National Security Threat List<a href="https://thehackernews.com/2022/03/fcc-adds-kaspersky-and-chinese-telecom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Communications Commission (FCC) on Friday  moved  to add Russian cybersecurity company Kaspersky Lab to the " Covered List " of companies that pose an "unacceptable risk to the national security" of the country.  The development marks the first time a Russian entity has been added to the list that's been otherwise dominated by Chinese telecommunications firms. Also added alongside Kaspersky were China Telecom (Americas) Corp and China Mobile International USA.   The block list includes information security products, solutions, and services supplied, directly or indirectly, by the company or any of its predecessors, successors, parents, subsidiaries, or affiliates.  The FCC said the decision was made pursuant to a Binding Operational Directive (BOD)  issued  by the Department of Homeland Security on September 11, 2017 that barred federal agencies from using Kaspersky-branded products in their information systems.  The security services provider,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Chinese Hacking Group Spotted Targeting Ukraine Amid Russia Invasion<a href="https://thehackernews.com/2022/03/another-chinese-hacking-group-spotted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking threat actor called Scarab  has been linked to a custom backdoor dubbed HeaderTip  as part of a campaign targeting Ukraine since Russia embarked on an invasion last month, making it the second China-based hacking group after  Mustang Panda  to capitalize on the conflict.  "The malicious activity represents one of the first public examples of a Chinese threat actor targeting Ukraine since the invasion began," SentinelOne researcher Tom Hegel  said  in a report published this week.   SentinelOne's analysis follows an advisory from Ukraine's Computer Emergency Response Team (CERT-UA) earlier this week  outlining  a spear-phishing campaign that leads to the delivery of a RAR archive file, which comes with an executable that's designed to open a decoy file while stealthily dropping a malicious DLL called HeaderTip in the background.   Scarab was  first documented  by the Symantec Threat Hunter Team, part of Broadcom Software, in January 2015, when i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 66 vulnerabilities to list of bugs exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-adds-66-vulnerabilities-to-list-of-bugs-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has added a massive set of 66 actively exploited vulnerabilities to its catalog of 'Known Exploited Vulnerabilities.'
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital fixes critical bug giving root on My Cloud NAS devices<a href="https://www.bleepingcomputer.com/news/security/western-digital-fixes-critical-bug-giving-root-on-my-cloud-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital has fixed a critical severity vulnerability in the Samba vfs_fruit VFS module that enabled attackers to gain remote code execution with root privileges on unpatched My Cloud OS 5 devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC adds Kaspersky to Covered List due to unacceptable risks to national security<a href="https://securityaffairs.co/wordpress/129496/security/us-fcc-bans-kaspersky.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) added Kaspersky to its Covered List because it poses unacceptable risks to U.S. national security.
+
+
+
+The Federal Communications Commission (FCC) added multiple Kaspersky products and services to its Covered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

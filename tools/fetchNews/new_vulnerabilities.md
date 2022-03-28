@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos Firewall affected by a critical authentication bypass flaw<a href="https://securityaffairs.co/wordpress/129536/security/sophos-firewall-authentication-bypass-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos has addressed a critical vulnerability, tracked as CVE-2022-1040, in its&nbsp;Sophos Firewall&nbsp;that allows&nbsp;remote code execution (RCE).
+
+
+
+Sophos has fixed an authentication bypass vulnerability, tracked as CVE-2022-1040, that resides...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Sophos Firewall vulnerability allows remote code execution<a href="https://www.bleepingcomputer.com/news/security/critical-sophos-firewall-vulnerability-allows-remote-code-execution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos has fixed a critical vulnerability in its&nbsp;Sophos Firewall product&nbsp;that allows&nbsp;remote code execution. Tracked as&nbsp;CVE-2022-1040, the authentication bypass vulnerability exists in the User Portal and Webadmin areas of Sophos Firewall.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital addressed a critical bug in My Cloud OS 5<a href="https://securityaffairs.co/wordpress/129507/security/western-digital-my-cloud-os-5-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital fixed a critical flaw affecting My Cloud OS 5 devices that allowed attackers to gain remote code execution with root privileges.
+
+
+
+Western Digital has addressed a critical vulnerability, tracked as CVE-2021-44142, that could have allowed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 66 vulnerabilities to list of bugs exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-adds-66-vulnerabilities-to-list-of-bugs-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has added a massive set of 66 actively exploited vulnerabilities to its catalog of 'Known Exploited Vulnerabilities.'
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital fixes critical bug giving root on My Cloud NAS devices<a href="https://www.bleepingcomputer.com/news/security/western-digital-fixes-critical-bug-giving-root-on-my-cloud-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital&nbsp;has fixed a critical severity vulnerability&nbsp;in the Samba&nbsp;vfs_fruit VFS module that enabled attackers to gain remote code execution with root privileges on unpatched My Cloud OS 5 devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

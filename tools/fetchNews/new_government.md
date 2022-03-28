@@ -8,6 +8,56 @@ nav_order: 900075
 
 ## Government
 ---
+March 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 66 new flaws to the Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/129502/hacking/cisa-known-exploited-vulnerabilities-catalog-66.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) added 66 new flaws to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added 15 vulnerabilities to its&nbsp;Known Exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC Adds Kaspersky and Chinese Telecom Firms to National Security Threat List<a href="https://thehackernews.com/2022/03/fcc-adds-kaspersky-and-chinese-telecom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Communications Commission (FCC) on Friday&nbsp; moved &nbsp;to add Russian cybersecurity company Kaspersky Lab to the " Covered List " of companies that pose an "unacceptable risk to the national security" of the country.  The development marks the first time a Russian entity has been added to the list that's been otherwise dominated by Chinese telecommunications firms. Also added alongside Kaspersky were China Telecom (Americas) Corp and China Mobile International USA.   The block list includes information security products, solutions, and services supplied, directly or indirectly, by the company or any of its predecessors, successors, parents, subsidiaries, or affiliates.  The FCC said the decision was made pursuant to a Binding Operational Directive (BOD)&nbsp; issued &nbsp;by the Department of Homeland Security on September 11, 2017 that barred federal agencies from using Kaspersky-branded products in their information systems.  The security services provider,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC adds Kaspersky to Covered List due to unacceptable risks to national security<a href="https://securityaffairs.co/wordpress/129496/security/us-fcc-bans-kaspersky.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) added Kaspersky to its Covered List because it poses unacceptable risks to U.S. national security.
+
+
+
+The Federal Communications Commission (FCC) added multiple Kaspersky products and services to its Covered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

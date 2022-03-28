@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity at the DNS Layer: Using AI to Analyze, Learn and Protect<a href="https://threatpost.com/artificial-intelligence-cybersecurity/178851/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Essentials in modern day cybersecurity include artificial intelligence and machine learning that can autonomously understand, learn and act to thwart cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

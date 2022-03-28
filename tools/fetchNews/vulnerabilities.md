@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Honda downplays vulnerability allowing hackers to lock, unlock and start Civics<a href="https://therecord.media/honda-downplays-vulnerability-allowing-hackers-to-lock-unlock-and-start-civics/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Honda said it has no plans to update its older vehicles after researchers with the University of Massachusetts and cybersecurity firm Cybereason released a proof-of-concept for a replay vulnerability affecting the Honda Civics.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+100s of Russian Building Controllers Can be Remotely Hacked<a href="https://www.hackread.com/100-russian-building-controllers-can-be-remotely-hacked/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jose Bertin, an IT security researcher, has identified critical vulnerabilities in Tekon Avtomatika’s building controllers, which, if exploited, can lead to remote hacking of building controllers used by a vast number of Russian organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Issues Urgent Chrome Update to Patch Actively Exploited Zero-Day Vulnerability<a href="https://thehackernews.com/2022/03/google-issues-urgent-chrome-update-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Friday shipped an out-of-band security update to address a high severity vulnerability in its Chrome browser that it said is being actively exploited in the wild.  Tracked as&nbsp; CVE-2022-1096 , the zero-day flaw relates to a type confusion vulnerability in the V8 JavaScript engine. An anonymous researcher has been credited with reporting the bug on March 23, 2022.  Type confusion errors, which arise when a resource (e.g., a variable or an object) is accessed using a type that's incompatible to what was originally initialized, could have serious consequences in languages that are not&nbsp; memory safe &nbsp;like C and C++, enabling a malicious actor to perform out-of-bounds memory access.   "When a memory buffer is accessed using the wrong type, it could read or write memory out of the bounds of the buffer, if the allocated buffer is smaller than the type that the code is attempting to access, leading to a crash and possibly code execution," MITRE's Common Weakness Enum
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome emergency update fixes actively exploited a zero-day bug<a href="https://securityaffairs.co/wordpress/129483/security/chrome-2nd-zero-day-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google addresses an actively exploited zero-day flaw with the release of Chrome 99.0.4844.84 for Windows, Mac, and Linux.
+
+
+
+Google fixed an actively exploited high-severity zero-day vulnerability with the release of Chrome 99.0.4844.84 for Windows,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

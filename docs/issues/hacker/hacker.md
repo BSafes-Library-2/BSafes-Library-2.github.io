@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Chinese Hacking Group Spotted Targeting Ukraine Amid Russia Invasion<a href="https://thehackernews.com/2022/03/another-chinese-hacking-group-spotted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking threat actor called Scarab  has been linked to a custom backdoor dubbed HeaderTip  as part of a campaign targeting Ukraine since Russia embarked on an invasion last month, making it the second China-based hacking group after&nbsp; Mustang Panda &nbsp;to capitalize on the conflict.  "The malicious activity represents one of the first public examples of a Chinese threat actor targeting Ukraine since the invasion began," SentinelOne researcher Tom Hegel&nbsp; said &nbsp;in a report published this week.   SentinelOne's analysis follows an advisory from Ukraine's Computer Emergency Response Team (CERT-UA) earlier this week&nbsp; outlining &nbsp;a spear-phishing campaign that leads to the delivery of a RAR archive file, which comes with an executable that's designed to open a decoy file while stealthily dropping a malicious DLL called HeaderTip in the background.   Scarab was&nbsp; first documented &nbsp;by the Symantec Threat Hunter Team, part of Broadcom Software, in January 2015, when i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

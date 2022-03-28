@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware Attacks Persist With an Updated Version Despite Leaks<a href="https://securityboulevard.com/2022/03/conti-ransomware-attacks-persist-with-an-updated-version-despite-leaks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most recent Conti ransomware update introduced a number of new features and changes to the ransomware code. Some of these modifications include new command-line arguments.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware infections follow precursor malware<a href="https://www.theregister.com/2022/03/26/lumu-ransomware-precursor-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware infection is usually preceded by what Lumu founder and CEO Ricardo Villadiego calls "precursor malware," essentially reconnaissance malicious code that has been around for a while.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
