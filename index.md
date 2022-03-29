@@ -34,6 +34,415 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns orgs to patch actively exploited Chrome, Redis bugs<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-orgs-to-patch-actively-exploited-chrome-redis-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal civilian agencies to patch a Google Chome zero-day and a critical Redis vulnerability actively exploited in the wild within the next three weeks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oklahoma City Indian Clinic impacted by Suncrypt’s ransomware attack<a href="https://www.databreaches.net/oklahoma-city-indian-clinic-impacted-by-suncrypts-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The explanation for the “technological issues” appears to be a ransomware attack by Suncrypt, who have added the clinic to their dedicated leak site. Suncrypt claims that they have acquired 350GB+ of files.
+</details>
+<div style="text-align: right" markdown="1">
+Data Breaches
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Hijack Email Reply Chains on Unpatched Exchange Servers to Spread Malware<a href="https://thehackernews.com/2022/03/hackers-hijack-email-reply-chains-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new email phishing campaign has been spotted leveraging the tactic of conversation hijacking to deliver the IcedID info-stealing malware  onto infected machines by making use of unpatched and publicly-exposed Microsoft Exchange servers.  "The emails use a social engineering technique of conversation hijacking (also known as thread hijacking)," Israeli company Intezer said in a report  shared with The Hacker News. "A forged reply to a previous stolen email is being used as a way to convince the recipient to open the attachment. This is notable because it increases the credibility of the phishing email and may cause a high infection rate."  The latest wave of attacks, detected in mid-March 2022, is said to have targeted organizations within energy, healthcare, law, and pharmaceutical sectors.   IcedID, aka BokBot, like its counterparts TrickBot and  Emotet , is a  banking trojan  that has evolved to become an entry point for more sophisticated threats, including hu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous is working on a huge data dump that will blow Russia away<a href="https://securityaffairs.co/wordpress/129576/hacktivism/anonymous-huge-data-dump.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Anonymous collective hacked the Russian construction company Rostproekt and announced that a leak that will Blow Russia Away.  
+
+
+
+Anonymous continues its offensive against Russia, the collective announced the hack of the Russian construction company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacked WordPress sites force visitors to DDoS Ukrainian targets<a href="https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-force-visitors-to-ddos-ukrainian-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are compromising WordPress sites to insert a malicious script that uses visitors' browsers to perform distributed denial-of-service attacks on Ukrainian websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Hundreds more packages found in malicious npm 'factory'<a href="https://www.zdnet.com/article/hundreds-more-malicious-packages-found-in-npm-factory/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Monday, Checkmarx researchers said they have also been tracking these activities and have recorded over 600 malicious packages published over five days, bringing the total to over 700.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Of Cybercriminals and IP Addresses<a href="https://thehackernews.com/2022/03/of-cybercriminals-and-ip-addresses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+You don't like having the FBI knocking on your door at 6 am in the morning. Surprisingly, nor does your usual cybercriminal. That is why they hide (at least the good ones), for example, behind layers of proxies, VPNs, or TOR nodes.  Their IP address will never be exposed directly to the target's machine. Cybercriminals will always use third-party IP addresses to deliver their attacks.  There are countless ways to deliver cyberattacks. But one thing is common to all of them. The need for a pool of IP addresses to serve as a medium. Criminals need IP addresses to deliver distributed denial of service attacks.  Criminals need IP addresses to hide behind when probing services. Criminals need IP addresses to attempt brute force attacks. Criminals need IP addresses to run bot networks and services. In a nutshell, criminals need to maintain IP addresses under their control for pretty much anything. It is their most important asset and is the ammo they need to deliver attacks.  So how
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive ransomware ports its encryptor to Rust programming language<a href="https://securityaffairs.co/wordpress/129566/cyber-crime/hive-ransomware-ports-encryptor-to-rust.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hive ransomware gang ported its encryptor to the Rust programming language and implemented new features.
+
+
+
+The Hive ransomware operation has developed a Rust version of their encryptor and added new features to prevent curious from snooping on the victim's...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine dismantles 5 disinformation bot farms, seizes 10,000 SIM cards<a href="https://www.bleepingcomputer.com/news/security/ukraine-dismantles-5-disinformation-bot-farms-seizes-10-000-sim-cards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian Security Service (SSU) has announced that since the start of the war with Russia, it has discovered and shut down five bot farms with over 100,000 fake social media accounts spreading fake news.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Use Compromised Philippine Navy Certificate to Spread Remote Access Tool<a href="https://decoded.avast.io/threatintel/avast-finds-compromised-philippine-navy-certificate-used-in-remote-access-tool/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast Threat Intelligence Team has found a remote access tool (RAT) actively being used in the wild in the Philippines that uses what appears to be a compromised digital certificate belonging to the Philippine Navy.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Purple Fox' Hackers Spotted Using New Variant of FatalRAT in Recent Malware Attacks<a href="https://thehackernews.com/2022/03/purple-fox-hackers-spotted-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the  Purple Fox malware  have retooled their malware arsenal with a new variant of a remote access trojan called FatalRAT, while also simultaneously upgrading their evasion mechanisms to bypass security software.  "Users' machines are targeted via trojanized software packages masquerading as legitimate application installers," Trend Micro researchers  said  in a report published on March 25, 2022. "The installers are actively distributed online to trick users and increase the overall botnet infrastructure."   The findings follow  prior research  from Minerva Labs that shed light on a similar modus operandi of leveraging fraudulent Telegram applications to distribute the backdoor. Other disguised software installers include WhatsApp, Adobe Flash Player, and Google Chrome.  These packages act as a first-stage loader, triggering an infection sequence that leads to the deployment of a second-stage payload from a remote server and culminating in the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Muhstik Botnet Targeting Redis Servers Using Recently Disclosed Vulnerability<a href="https://securityaffairs.co/wordpress/129549/cyber-crime/muhstik-botnet-targeting-redis-servers-using-recently-disclosed-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Muhstik botnet has been observed targeting Redis servers exploiting the recently disclosed CVE-2022-0543 vulnerability.
+
+
+
+Muhstik is a botnet that is known to use web application exploits to compromise IoT devices, it has been around for at least...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical SonicWall firewall patch not released for all devices<a href="https://www.bleepingcomputer.com/news/security/critical-sonicwall-firewall-patch-not-released-for-all-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security hardware manufacturer SonicWall has fixed a critical vulnerability in the SonicOS security operating system that allows denial of service (DoS) attacks and could lead to remote code execution (RCE).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Kits Evolve and Evade Detection<a href="https://cyware.com/news/phishing-kits-evolve-and-evade-detection-8f3c5826"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Off-the-shelves, modern phishing kits are being sold on underground forums that contain several, sophisticated detection avoidance and traffic filtering processes to not be marked as threats.&nbsp; Fake websites impersonating renowned brands are created using phishing kits featuring realistic login ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+While Twitter suspends Anonymous accounts, the group hacked VGTRK Russian Television and Radio<a href="https://securityaffairs.co/wordpress/129555/hacktivism/anonymous-hacked-vgtrk-russian-radio-tv.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While Twitter suspends some Anonymous accounts, the collective hacked All-Russia State Television and Radio Broadcasting Company (VGTRK).
+
+
+
+On Friday, Anonymous announced that the affiliate group Black Rabbit World has leaked 28 GB of data stolen from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SunCrypt ransomware is still alive and kicking in 2022<a href="https://www.bleepingcomputer.com/news/security/suncrypt-ransomware-is-still-alive-and-kicking-in-2022/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SunCrypt, a ransomware as service (RaaS) operation that reached prominence in mid-2020, is reportedly still active, even if barely, as its operators continue to work on giving its strain new capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware-as-a-Service Gains Prominence in Threat Landscape<a href="https://cyware.com/news/malware-as-a-service-gains-prominence-in-threat-landscape-71f912e5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While organizations have improved their backup strategy, ransomware groups are responding by exfiltrating sensitive data and threatening to expose it. Cybercriminals are still shifting to living-off-the-land attack techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostWriter APT targets state entities of Ukraine with Cobalt Strike Beacon<a href="https://securityaffairs.co/wordpress/129527/apt/ghostwriter-apt-targets-state-entities-of-ukraine-with-cobalt-strike-beacon.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine CERT-UA warns that the Belarus-linked GhostWriter APT group is targeting state entities of Ukraine with Cobalt Strike Beacon.
+
+
+
+Ukraine CERT-UA uncovered a spear-phishing campaign conducted by Belarus-linked GhostWriter APT group targeting Ukrainian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows security feature blocks vulnerable drivers<a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-security-feature-blocks-vulnerable-drivers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft will allow Windows users to block drivers with known vulnerabilities with the help of Windows Defender Application Control (WDAC) and a vulnerable driver blocklist.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome and Edge hit with V8 type confusion vulnerability with in-the-wild exploit<a href="https://www.zdnet.com/article/chrome-and-edge-hit-with-v8-type-confusion-vulnerability-with-in-the-wild-exploit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is urging users on Windows, macOS, and Linux to update Chrome builds to version 99.0.4844.84, following the discovery of a vulnerability that has an exploit in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shopping trap: The online stores’ scam that hits users worldwide￼<a href="https://securityaffairs.co/wordpress/129544/cyber-crime/shopping-trap-cybercrime.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shopping trap: Criminal gangs from China have been using copies of online stores of popular brands to target users all over the world
+
+
+
+Malicious schemas linked to online stores are on the rise in 2022. Criminal gangs from China have been using copies...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange targeted for IcedID reply-chain hijacking attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-targeted-for-icedid-reply-chain-hijacking-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The distribution of the IcedID malware has returned to notable numbers thanks to a new campaign that hijacks existing email conversations threads and injects payloads that are hard to spot as malicious.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud-native adoption shifts security responsibility across teams<a href="https://www.helpnetsecurity.com/2022/03/28/cloud-native-technology-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As organizations increase cloud-native adoption, a new Styra report outlines why developers and IT decision-makers need a unified approach to address security and compliance issues.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Muhstik Botnet Targeting Redis Servers Using Recently Disclosed Vulnerability<a href="https://thehackernews.com/2022/03/muhstik-botnet-targeting-redis-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Muhstik, a botnet infamous for propagating via web application exploits, has been observed targeting Redis servers using a recently disclosed vulnerability in the database system.  The vulnerability relates to  CVE-2022-0543 , a  Lua sandbox escape flaw  in the open-source, in-memory, key-value data store that could be abused to achieve remote code execution on the underlying machine. The vulnerability is rated 10 out of 10 for severity.  "Due to a packaging issue, a remote attacker with the ability to execute arbitrary Lua scripts could possibly escape the Lua sandbox and execute arbitrary code on the host," Ubuntu noted in an advisory released last month.  According to  telemetry data  gathered by Juniper Threat Labs, the attacks leveraging the new flaw are said to have commenced on March 11, 2022, leading to the retrieval of a malicious shell script ("russia.sh") from a remote server, which is then utilized to fetch and execute the botnet binaries from another s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 27, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
