@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive ransomware ports its encryptor to Rust programming language<a href="https://securityaffairs.co/wordpress/129566/cyber-crime/hive-ransomware-ports-encryptor-to-rust.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hive ransomware gang ported its encryptor to the Rust programming language and implemented new features.
+
+
+
+The Hive ransomware operation has developed a Rust version of their encryptor and added new features to prevent curious from snooping on the victim's...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SunCrypt ransomware is still alive and kicking in 2022<a href="https://www.bleepingcomputer.com/news/security/suncrypt-ransomware-is-still-alive-and-kicking-in-2022/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SunCrypt, a ransomware as service (RaaS) operation that reached prominence in mid-2020, is reportedly still active, even if barely, as its operators continue to work on giving its strain new capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,53 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Hijack Email Reply Chains on Unpatched Exchange Servers to Spread Malware<a href="https://thehackernews.com/2022/03/hackers-hijack-email-reply-chains-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new email phishing campaign has been spotted leveraging the tactic of conversation hijacking to deliver the IcedID info-stealing malware  onto infected&nbsp;machines by making use of unpatched and publicly-exposed Microsoft Exchange servers.  "The emails use a social engineering technique of conversation hijacking (also known as thread hijacking)," Israeli company Intezer said in a report  shared with The Hacker News. "A forged reply to a previous stolen email is being used as a way to convince the recipient to open the attachment. This is notable because it increases the credibility of the phishing email and may cause a high infection rate."  The latest wave of attacks, detected in mid-March 2022, is said to have targeted organizations within energy, healthcare, law, and pharmaceutical sectors.   IcedID, aka BokBot, like its counterparts TrickBot and&nbsp; Emotet , is a&nbsp; banking trojan &nbsp;that has evolved to become an entry point for more sophisticated threats, including hu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Kits Evolve and Evade Detection<a href="https://cyware.com/news/phishing-kits-evolve-and-evade-detection-8f3c5826"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Off-the-shelves, modern phishing kits are being sold on underground forums that contain several, sophisticated detection avoidance and traffic filtering processes to not be marked as threats.&nbsp; Fake websites impersonating renowned brands are created using phishing kits featuring realistic login ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shopping trap: The online stores’ scam that hits users worldwide￼<a href="https://securityaffairs.co/wordpress/129544/cyber-crime/shopping-trap-cybercrime.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shopping trap: Criminal gangs from China have been using copies of online stores of popular brands to target users all over the world
+
+
+
+Malicious schemas linked to online stores are on the rise in 2022. Criminal gangs from China have been using copies...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud-native adoption shifts security responsibility across teams<a href="https://www.helpnetsecurity.com/2022/03/28/cloud-native-technology-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As organizations increase cloud-native adoption, a new Styra report outlines why developers and IT decision-makers need a unified approach to address security and compliance issues.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

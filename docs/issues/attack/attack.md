@@ -8,6 +8,94 @@ nav_order: 900015
 
 ## Attack
 ---
+March 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oklahoma City Indian Clinic impacted by Suncrypt’s ransomware attack<a href="https://www.databreaches.net/oklahoma-city-indian-clinic-impacted-by-suncrypts-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The explanation for the “technological issues” appears to be a ransomware attack by Suncrypt, who have added the clinic to their dedicated leak site. Suncrypt claims that they have acquired 350GB+ of files.
+</details>
+<div style="text-align: right" markdown="1">
+Data Breaches
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Use Compromised Philippine Navy Certificate to Spread Remote Access Tool<a href="https://decoded.avast.io/threatintel/avast-finds-compromised-philippine-navy-certificate-used-in-remote-access-tool/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast Threat Intelligence Team has found a remote access tool (RAT) actively being used in the wild in the Philippines that uses what appears to be a compromised digital certificate belonging to the Philippine Navy.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Purple Fox' Hackers Spotted Using New Variant of FatalRAT in Recent Malware Attacks<a href="https://thehackernews.com/2022/03/purple-fox-hackers-spotted-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the&nbsp; Purple Fox malware &nbsp;have retooled their malware arsenal with a new variant of a remote access trojan called FatalRAT, while also simultaneously upgrading their evasion mechanisms to bypass security software.  "Users' machines are targeted via trojanized software packages masquerading as legitimate application installers," Trend Micro researchers&nbsp; said &nbsp;in a report published on March 25, 2022. "The installers are actively distributed online to trick users and increase the overall botnet infrastructure."   The findings follow&nbsp; prior research &nbsp;from Minerva Labs that shed light on a similar modus operandi of leveraging fraudulent Telegram applications to distribute the backdoor. Other disguised software installers include WhatsApp, Adobe Flash Player, and Google Chrome.  These packages act as a first-stage loader, triggering an infection sequence that leads to the deployment of a second-stage payload from a remote server and culminating in the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+While Twitter suspends Anonymous accounts, the group hacked VGTRK Russian Television and Radio<a href="https://securityaffairs.co/wordpress/129555/hacktivism/anonymous-hacked-vgtrk-russian-radio-tv.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While Twitter suspends some Anonymous accounts, the collective hacked All-Russia State Television and Radio Broadcasting Company (VGTRK).
+
+
+
+On Friday, Anonymous announced that the affiliate group Black Rabbit World has leaked 28 GB of data stolen from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome and Edge hit with V8 type confusion vulnerability with in-the-wild exploit<a href="https://www.zdnet.com/article/chrome-and-edge-hit-with-v8-type-confusion-vulnerability-with-in-the-wild-exploit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is urging users on Windows, macOS, and Linux to update Chrome builds to version 99.0.4844.84, following the discovery of a vulnerability that has an exploit in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange targeted for IcedID reply-chain hijacking attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-targeted-for-icedid-reply-chain-hijacking-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The distribution of the IcedID malware has returned to notable numbers thanks to a new campaign that hijacks existing email conversations threads and injects payloads that are hard to spot as malicious.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

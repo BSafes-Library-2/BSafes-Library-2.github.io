@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows security feature blocks vulnerable drivers<a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-security-feature-blocks-vulnerable-drivers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft will allow Windows users to block drivers with known vulnerabilities with the help of Windows Defender Application Control (WDAC) and a vulnerable driver blocklist.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

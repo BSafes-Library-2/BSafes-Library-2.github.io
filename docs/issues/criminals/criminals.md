@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Of Cybercriminals and IP Addresses<a href="https://thehackernews.com/2022/03/of-cybercriminals-and-ip-addresses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+You don't like having the FBI knocking on your door at 6 am in the morning. Surprisingly, nor does your usual cybercriminal. That is why they hide (at least the good ones), for example, behind layers of proxies, VPNs, or TOR nodes.  Their IP address will never be exposed directly to the target's machine. Cybercriminals will always use third-party IP addresses to deliver their attacks.  There are countless ways to deliver cyberattacks. But one thing is common to all of them. The need for a pool of IP addresses to serve as a medium. Criminals need IP addresses to deliver distributed denial of service attacks.  Criminals need IP addresses to hide behind when probing services. Criminals need IP addresses to attempt brute force attacks. Criminals need IP addresses to run bot networks and services. In a nutshell, criminals need to maintain IP addresses under their control for pretty much anything. It is their most important asset and is the ammo they need to deliver attacks.  So how
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
