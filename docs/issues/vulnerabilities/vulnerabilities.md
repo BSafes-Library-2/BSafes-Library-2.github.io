@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Honda's Keyless Access Bug Could Let Thieves Remotely Unlock and Start Vehicles<a href="https://thehackernews.com/2022/03/hondas-keyless-access-bug-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A duo of researchers has released a proof-of-concept (PoC) demonstrating the ability for a malicious actor to remote lock, unlock, and even start Honda and Acura vehicles by means of what's called a replay attack.  The attack is made possible, thanks to a vulnerability in its remote keyless system ( CVE-2022-27254 ) that affects Honda Civic LX, EX, EX-L, Touring, Si, and Type R models manufactured between 2016 and 2020. Credited with discovering the issue are Ayyappan Rajesh, a student at UMass Dartmouth, and Blake Berry (HackingIntoYourHeart).   "A hacker can gain complete and unlimited access to locking, unlocking, controlling the windows, opening the trunk, and starting the engine of the target vehicle where the only way to prevent the attack is to either never use your fob or, after being compromised (which would be difficult to realize), resetting your fob at a dealership," Berry&nbsp; explained &nbsp;in a GitHub post.  The underlying issue is that the remote key fob on the a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical SonicOS Vulnerability Affects SonicWall Firewall Appliances<a href="https://thehackernews.com/2022/03/critical-sonicos-vulnerability-affects.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has released security updates to contain a critical flaw across multiple firewall appliances that could be weaponized by an unauthenticated, remote attacker to execute arbitrary code and cause a denial-of-service (DoS) condition.  Tracked as&nbsp; CVE-2022-22274 &nbsp;(CVSS score: 9.4), the issue has been described as a stack-based buffer overflow in the web management interface of SonicOS that could be triggered by sending a specially crafted HTTP request, leading to remote code execution or DoS.   The flaw impacts 31 different SonicWall Firewall devices running versions 7.0.1-5050 and earlier, 7.0.1-R579 and earlier, and 6.5.4.4-44v-21-1452 and earlier. ZiTong Wang of Hatlab has been credited with reporting the issue.   The network security company&nbsp; said &nbsp;it's not aware of any instance of active exploitation in the wild leveraging the weakness, and that no proof-of-concept (PoC) or malicious use of the vulnerability has been publicly reported to date.   That said, users of the a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Sophos Firewall RCE Vulnerability Under Active Exploitation<a href="https://thehackernews.com/2022/03/critical-sophos-firewall-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Sophos on Monday warned that a recently patched critical security vulnerability in its firewall product is being actively exploited in real-world attacks.  The flaw, tracked as&nbsp; CVE-2022-1040 , is rated 9.8 out of 10 on the CVSS scoring system and impacts Sophos Firewall versions 18.5 MR3 (18.5.3) and older. It relates to an authentication bypass vulnerability in the User Portal and Webadmin interface that, if successfully weaponized, allows a remote attacker to execute arbitrary code.   "Sophos has observed this vulnerability being used to target a small set of specific organizations primarily in the South Asia region," the company&nbsp; noted &nbsp;in a revised advisory published Monday. "We have informed each of these organizations directly."  The flaw has been addressed in a hotfix that's automatically installed for customers who have the " Allow automatic installation of hotfixes " setting enabled. As a workaround, Sophos is recommending
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wyze Cam flaw lets hackers remotely access your saved videos<a href="https://www.bleepingcomputer.com/news/security/wyze-cam-flaw-lets-hackers-remotely-access-your-saved-videos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Wyze Cam internet camera vulnerability allows unauthenticated, remote access to videos and images stored on local memory cards and has remained unfixed for almost three years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

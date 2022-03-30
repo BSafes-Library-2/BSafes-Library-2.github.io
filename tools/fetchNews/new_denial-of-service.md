@@ -8,6 +8,24 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Compromised WordPress sites launch DDoS on Ukrainian websites<a href="https://securityaffairs.co/wordpress/129597/hacking/wordpress-compromsied-sites-ddos-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors compromised WordPress sites to deploy a script that was used to launch DDoS attacks, when they are visited, on Ukrainian websites.
+
+
+
+MalwareHunterTeam researchers discovered the malicious script on a compromised WordPress site, when the users...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

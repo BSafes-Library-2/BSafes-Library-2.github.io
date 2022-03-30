@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+March 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous is working on a huge data dump that will blow Russia away<a href="https://securityaffairs.co/wordpress/129576/hacktivism/anonymous-huge-data-dump.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Anonymous collective hacked the Russian construction company Rostproekt and announced that a leak that will Blow Russia Away.&nbsp; 
+
+
+
+Anonymous continues its offensive against Russia, the collective announced the hack of the Russian construction company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Muhstik Botnet Targeting Redis Servers Using Recently Disclosed Vulnerability<a href="https://securityaffairs.co/wordpress/129549/cyber-crime/muhstik-botnet-targeting-redis-servers-using-recently-disclosed-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Muhstik botnet has been observed targeting Redis servers exploiting the recently disclosed CVE-2022-0543 vulnerability.
+
+
+
+Muhstik&nbsp;is a botnet that is known to use web application exploits to compromise IoT devices, it has been around for at least...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Muhstik Botnet Targeting Redis Servers Using Recently Disclosed Vulnerability<a href="https://thehackernews.com/2022/03/muhstik-botnet-targeting-redis-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Muhstik, a botnet infamous for propagating via web application exploits, has been observed targeting Redis servers using a recently disclosed vulnerability in the database system.  The vulnerability relates to&nbsp; CVE-2022-0543 , a&nbsp; Lua sandbox escape flaw &nbsp;in the open-source, in-memory, key-value data store that could be abused to achieve remote code execution on the underlying machine. The vulnerability is rated 10 out of 10 for severity.  "Due to a packaging issue, a remote attacker with the ability to execute arbitrary Lua scripts could possibly escape the Lua sandbox and execute arbitrary code on the host," Ubuntu noted in an advisory released last month.  According to&nbsp; telemetry data &nbsp;gathered by Juniper Threat Labs, the attacks leveraging the new flaw are said to have commenced on March 11, 2022, leading to the retrieval of a malicious shell script ("russia.sh") from a remote server, which is then utilized to fetch and execute the botnet binaries from another s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

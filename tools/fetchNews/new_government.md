@@ -8,6 +8,80 @@ nav_order: 900075
 
 ## Government
 ---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Ongoing Cyber Attacks Targeting Internet-Connected UPS Devices<a href="https://thehackernews.com/2022/03/cisa-warns-of-ongoing-cyber-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Department of Energy (DoE) are jointly warning of attacks against internet-connected uninterruptible power supply (UPS) devices by means of default usernames and passwords.  "Organizations can mitigate attacks against their UPS devices, which provide emergency power in a variety of applications when normal power sources are lost, by removing management interfaces from the internet," the agencies&nbsp; said &nbsp;in a bulletin published Tuesday.  UPS devices, in addition to offering power backups in mission-critical environments, are also equipped with an internet of things (IoT) capability, enabling the administrators to carry out power monitoring and routine maintenance. But as is often the case, such features can also open the door to malicious attacks.   To mitigate against such threats, CISA and DoE are advising organizations to enumerate and disconnect all UPS systems from the internet and gate them behind a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia accuses US of leading massive cyber campaign<a href="https://thehill.com//policy/cybersecurity/600140-russia-accuses-us-of-leading-massive-cyber-campaign"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia's Ministry of Foreign Affairs on Tuesday accused the U.S. of attacking the country's critical infrastructure and network systems in a massive cyberattack,&nbsp;claims the U.S. government has called false and part of Russia's disinformation campaign.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Chrome, Redis bugs to the Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/129593/security/chrome-redis-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added Chrome and Redis flaws to its&nbsp;Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Google Chome zero-day (CVE-2022-1096)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns election officials of credential phishing attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-election-officials-of-credential-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned US election officials on Tuesday of an ongoing and widespread phishing campaign trying to steal their credentials since at least October 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of attacks targeting Internet-connected UPS devices<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-attacks-targeting-internet-connected-ups-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a joint advisory with the Department of Energy, the Cybersecurity and Infrastructure Security Agency&nbsp;(CISA) warned U.S. organizations today to secure Internet-connected UPS&nbsp;devices from ongoing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

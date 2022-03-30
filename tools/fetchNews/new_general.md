@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber extortion surges 78% as 'ransomware as a service' spreads<a href="https://www.cybersecuritydive.com/news/Ransomware-cyber-extortion-palo-alto/621144/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware criminals last year targeted companies in the Americas in 60% of their attacks and demanded on average $2.2 million from their victims, a 144% increase compared with 2020, Palo Alto Networks said.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Not enough businesses have a formal ransomware plan in place<a href="https://www.helpnetsecurity.com/2022/03/29/ransomware-continues-to-plague-organizations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Throughout 2021, security incidents remained high, with 29% of businesses experiencing a breach in the past 12 months, according to Thales. Additionally, 43% of IT Leaders admitted to having failed a compliance audit.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2021 COVID bounce: Malware has returned with a vengeance<a href="https://www.helpnetsecurity.com/2022/03/29/covid-bounce-cyberthreats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Malwarebytes , there was a 77% increase in malware detections over 2020. Business-focused cyberthreats jumped 143%, while consumer-specific threats rose by 65% to more than 152 million in 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

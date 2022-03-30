@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privid: A Privacy-Preserving Surveillance Video Analytics System<a href="https://thehackernews.com/2022/03/privid-privacy-preserving-surveillance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics has designed a new system known as " Privid " that enables video analytics in a privacy-preserving manner to combat concerns with invasive tracking.  "We're at a stage right now where cameras are practically ubiquitous. If there's a camera on every street corner, every place you go, and if someone could actually process all of those videos in aggregate, you can imagine that entity building a very precise timeline of when and where a person has gone," Frank Cangialosi, the lead author of the study and a researcher at the MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL),&nbsp; said &nbsp;in a statement.   "People are already worried about location privacy with GPS — video data in aggregate could capture not only your location history, but also moods, behaviors, and more at each location," Cangialosi added.  Privid is built on the foundation of&nbsp; differential privacy , a&nbsp; statistical technique &nbsp;that makes it possibl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

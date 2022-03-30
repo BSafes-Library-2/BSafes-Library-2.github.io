@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Consistency in password resets helps block credential theft<a href="https://www.bleepingcomputer.com/news/security/consistency-in-password-resets-helps-block-credential-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As important as end user training and message filtering may be, there is a third method that tip the odds in their favor. Because phishing attacks often come disguised as password reset emails, it is important to handle password resets in a way that makes it obvious that email messages are not part of the password reset process.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,169 @@ nav_order: 900015
 
 ## Attack
 ---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors actively exploit recently fixed Sophos firewall bug<a href="https://securityaffairs.co/wordpress/129604/security/sophos-firewall-cve-2022-1040-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Sophos warned that the recently addressed&nbsp;CVE-2022-1040 flaw in Sophos Firewall&nbsp;is actively exploited in attacks.
+
+
+
+Sophos has recently fixed an authentication bypass vulnerability, tracked as CVE-2022-1040, that resides...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ and SolarWinds hackers both use the same old trick to bypass MFA<a href="https://arstechnica.com/information-technology/2022/03/lapsus-and-solar-winds-hackers-both-use-the-same-old-trick-to-bypass-mfa/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One group using this technique, according to security firm Mandiant, is Cozy Bear, a band of elite hackers working for Russia’s Foreign Intelligence Service. The group also goes under the names Nobelium, APT29, and the Dukes
+</details>
+<div style="text-align: right" markdown="1">
+ARS Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Ongoing Reply-Chain Hijacking Campaign Drops IcedID<a href="https://cyware.com/news/an-ongoing-reply-chain-hijacking-campaign-drops-icedid-cfc55a06"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have detected a new conversation hijacking campaign that exploits unpatched Exchange servers to deliver IcedID trojan within the energy, healthcare, pharmaceutical, and legal sectors. It’s been almost a year since the disclosure of ProxyShell vulnerabilities in Exchange servers but not  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian military internet provider suffers cyberattack<a href="https://thehill.com//policy/international/600154-ukrainian-military-internet-provider-suffers-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's&nbsp;state-owned telecommunications company, Ukrtelecom, which is used by the country's military, experienced a massive cyberattack on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hacking Campaign by Transparent Tribe Hackers Targeting Indian Officials<a href="https://thehackernews.com/2022/03/new-hacking-campaign-by-transparent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor of likely Pakistani origin has been attributed to yet another campaign designed to backdoor targets of interest with a Windows-based remote access trojan named CrimsonRAT since at least June 2021.  "Transparent Tribe has been a highly active APT group in the Indian subcontinent," Cisco Talos researchers&nbsp; said &nbsp;in an analysis shared with The Hacker News. "Their primary targets have been government and military personnel in Afghanistan and India. This campaign furthers this targeting and their central goal of establishing long term access for espionage."   Last month, the advanced persistent threat expanded its malware toolset to compromise Android devices with a backdoor named&nbsp; CapraRAT &nbsp;that exhibits a high "degree of crossover" with CrimsonRAT.  The latest set of attacks detailed by Cisco Talos involves making use of fake domains that mimic legitimate government and related organizations to deliver the malicious payloads, including a Pytho
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple E-commerce Stores Found Being Targeted Since 2020<a href="https://cyware.com/news/multiple-e-commerce-stores-found-being-targeted-since-2020-80119dab"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Active since 2020, the campaign is a work of cybercriminal gangs from China. According to Seguranca Informatica, the campaign has targeted around 617 online stores located in Portugal, France, Spain, Italy, Chile, Mexico, Columbia, among others.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use modified MFA tool against Indian govt employees<a href="https://www.bleepingcomputer.com/news/security/hackers-use-modified-mfa-tool-against-indian-govt-employees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new campaign from the hacking group tracked as APT36, aka 'Transparent Tribe' or' Mythic Leopard,' has been discovered using new custom malware and entry vectors in attacks against the Indian government.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrtelecom, a major mobile service and internet provider in Ukraine, foiled a “massive” cyberattack that hit its infrastructure<a href="https://securityaffairs.co/wordpress/129585/cyber-warfare-2/ukraine-cyberattack-ukrtelecom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrtelecom, a major mobile service and internet provider in Ukraine, foiled a “massive” cyberattack that hit its infrastructure.
+
+
+
+On March 29, 2022, a massive cyber attack caused a major internet disruption across Ukraine on national provider Ukrtelecom....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Large-Scale Supply Chain Attack Distributed Over 800 Malicious NPM Packages<a href="https://thehackernews.com/2022/03/a-threat-actor-dubbed-red-lili-has-been.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor dubbed " RED-LILI " has been linked to an ongoing large-scale supply chain attack campaign targeting the NPM package repository by publishing nearly 800 malicious modules.  "Customarily, attackers use an anonymous disposable NPM account from which they launch their attacks," Israeli security company Checkmarx&nbsp; said . "As it seems this time, the attacker has fully-automated the process of NPM account creation and has opened dedicated accounts, one per package, making his new malicious packages batch harder to spot."  The findings build on recent reports from&nbsp; JFrog &nbsp;and&nbsp; Sonatype , both of which detailed hundreds of NPM packages that leverage techniques like&nbsp; dependency confusion &nbsp;and typosquatting to target Azure, Uber, and Airbnb developers.   According to a detailed analysis of RED-LILI's modus operandi, earliest evidence of anomalous activity is said to have occurred on February 23, 2022, with the cluster of malicious packages publis
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+School of Hard Knocks: Job Fraud Threats Target University Students<a href="https://www.proofpoint.com/us/blog/threat-insight/school-hard-knocks-job-fraud-threats-target-university-students?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Employment fraud typically impacts individuals, and the results can be costly. According to the FBI’s Internet Crime Complaint center, the average reported loss from this type of scheme is $3,000.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Report on Okta Hack Reveals the Entire Episode LAPSUS$ Attack<a href="https://thehackernews.com/2022/03/new-report-on-okta-hack-reveals-entire.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An independent security researcher has shared what's a detailed timeline of events that transpired as the notorious LAPSUS$ extortion gang broke into a third-party provider linked to the cyber incident at Okta in late January 2022.  In a set of screenshots posted on Twitter, Bill Demirkapi&nbsp; published &nbsp;a two-page "intrusion timeline" allegedly prepared by Mandiant, the cybersecurity firm hired by Sitel to investigate the security breach. Sitel, through its acquisition of Sykes Enterprises in September 2021, is the third-party service provider that provides customer support on behalf of Okta.  The authentication services provider revealed last week that on January 20, it was alerted to a new factor that was added to a Sitel customer support engineer's Okta account, an attempt that it said was successful and blocked.   The incident only came to light two months later after LAPSUS$&nbsp; posted screenshots &nbsp;on their Telegram channel as evidence of the breach on March 22.  The
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

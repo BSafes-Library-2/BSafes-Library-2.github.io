@@ -8,6 +8,38 @@ nav_order: 900053
 
 ## Education
 ---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Improve Your Hacking Skills with 9 Python Courses for Just $39<a href="https://thehackernews.com/2022/03/improve-your-hacking-skills-with-9.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For anyone with interest in&nbsp; cybersecurity , learning Python is a must. The language is used extensively in white hat hacking, and professionals use&nbsp; Python &nbsp;scripts to automate tests. It also has a use in the "soft" side of cybersecurity — like scraping the web for compromised data and detecting bugs.&nbsp;  Featuring nine full-length video courses,&nbsp; The Complete 2022 Python Programmer Bundle &nbsp;helps you come to grips with this powerful programming language. The included training is worth $1,791 altogether. But thanks to a special price drop, readers of The Hacker News can&nbsp; get the bundle today for just $39 .  Special Offer —  This library of Python video training includes 46 hours of content, and you can get lifetime access today&nbsp; for just $39 !  When each new year of computer science talent arrives at MIT and Stanford, one of the first languages they learn is Python.&nbsp;  Why? Well, it's relatively easy to read. But just as importantly, it's super versatile and plenty powerful.  If you have
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is credential stuffing? And how to prevent it?<a href="https://securityaffairs.co/wordpress/129590/hacking/credential-stuffing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This post explains what is a credential stuffing attack and which are the countermeasures to prevent them.
+
+
+
+A credential stuffing attempt can be caught as a behavioral anomaly - if you’re looking. Earmarked by the FBI as a particular threat to the financial...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
