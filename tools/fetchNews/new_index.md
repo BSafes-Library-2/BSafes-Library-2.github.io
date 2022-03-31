@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 31, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Chrome Browser Gets Major Security Update<a href="https://www.securityweek.com/chrome-browser-gets-major-security-update?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week released a security-themed Chrome 100.0.4896.60 browser makeover with patches for 28 documented vulnerabilities, some serious enough to lead to code execution attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cloaked Snags $25M Funding to Tackle Data-Sharing Privacy<a href="https://www.securityweek.com/cloaked-snags-25m-funding-tackle-data-sharing-privacy?&web_view=true"> Full Text</a>
 </p>
 <details>
