@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 March 31, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SQL injection protections in ImpressCMS could be bypassed to achieve RCE<a href="https://portswigger.net/daily-swig/sql-injection-protections-in-impresscms-could-be-bypassed-to-achieve-rce?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities in ImpressCMS could allow an unauthenticated attacker to bypass the software’s SQL injection protections to achieve remote code execution (RCE), a security researcher has warned.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Bad OPSEC allowed researchers to uncover Mars stealer operation￼￼￼￼<a href="https://securityaffairs.co/wordpress/129639/cyber-crime/mars-stealer-operation.html"> Full Text</a>
 </p>
 <details>
