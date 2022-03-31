@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Steve Mnuchin's private equity firm buys Zimperium for $525m<a href="https://www.theregister.com/2022/03/29/mnuchin_equity_firm_zimperium/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former US Treasury secretary Steve Mnuchin's private equity firm has announced its plans to buy a controlling stake in a mobile cybersecurity company for more than half a billion dollars.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

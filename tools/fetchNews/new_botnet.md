@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Muhstik Botnet Gang Targets Redis Exploit Within One Day of Public POC Release<a href="https://cyware.com/news/muhstik-botnet-gang-targets-redis-exploit-within-one-day-of-public-poc-release-d01bf544"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Muhstik botnet operators were found exploiting a recently disclosed bug in some Redis Debian packages to infiltrate servers and then use it for DDOS attacks. The attackers target the vulnerability CVE-2022-0543 in Redis Debian packages. To protect against this particular attack, users are recommend ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

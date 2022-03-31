@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit Beats Conti and Ryuk in Encryption Speed Test<a href="https://cyware.com/news/lockbit-beats-conti-and-ryuk-in-encryption-speed-test-81c20b86"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new study by Splunk has found that modern-day ransomware, such as LockBit, is capable of encrypting around 25,000 files in just one minute. The time window is so small that before an organization realizes the effect, the ransomware would have done its job.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

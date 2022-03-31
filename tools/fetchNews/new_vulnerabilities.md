@@ -11,6 +11,66 @@ nav_order: 900220
 March 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+A critical RCE vulnerability affects SonicWall Firewall appliances<a href="https://securityaffairs.co/wordpress/129627/hacking/sonicwall-firewall-rce-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall released security updates to address a remote code execution vulnerability that affects multiple firewall appliances.
+
+
+
+SonicWall has released security updates to address a critical vulnerability (CVE-2022-22274) that impacts multiple firewall...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Spring Java framework zero-day allows remote code execution<a href="https://www.bleepingcomputer.com/news/security/new-spring-java-framework-zero-day-allows-remote-code-execution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new zero-day vulnerability in the Spring Core Java framework called 'Spring4Shell' has been publicly disclosed, allowing unauthenticated remote code execution on applications.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns severe OpenSSL bug affects most of its NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-severe-openssl-bug-affects-most-of-its-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan-based network-attached storage (NAS) maker QNAP&nbsp;warned on Tuesday that most of its NAS devices are impacted by a high severity OpenSSL bug disclosed two weeks ago.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mazda Infotainment Crash Shows How Fragile Car Security Really Is<a href="https://www.bleepingcomputer.com/news/security/mazda-infotainment-crash-shows-how-fragile-car-security-really-is/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automated product security helps teams address automotive security vulnerabilities and bugs before - not after - they land companies in the headlines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Honda's Keyless Access Bug Could Let Thieves Remotely Unlock and Start Vehicles<a href="https://thehackernews.com/2022/03/hondas-keyless-access-bug-could-let.html"> Full Text</a>
 </p>
 <details>

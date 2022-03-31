@@ -11,6 +11,76 @@ nav_order: 900015
 March 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Researchers Expose Mars Stealer Malware Campaign Using Google Ads to Spread<a href="https://thehackernews.com/2022/03/researchers-expose-mars-stealer-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nascent information stealer called Mars has been observed in campaigns that take advantage of cracked versions of the malware to steal information stored in web browsers and cryptocurrency wallets.  "Mars Stealer is being distributed via social engineering techniques, malspam campaigns, malicious software cracks, and keygens," Morphisec malware researcher Arnold Osipov&nbsp; said &nbsp;in a report published Tuesday.  Based on the&nbsp; Oski Stealer &nbsp;and first discovered in June 2021,&nbsp; Mars Stealer &nbsp;is said to be constantly under development and available for sale on over 47 underground forums, darknet sites, and Telegram channels, costing only $160 for a lifetime subscription.   Information stealers allow adversaries to vacuum personal information from compromised systems, including stored credentials and browser cookies, which are then sold on criminal marketplaces or used as a springboard for launching further attacks.  The release of Mars Stealer last year has also been accompanied by
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MSHTML Flaw Exploited to Attack Russian Dissidents<a href="https://threatpost.com/mshtml-flaw-exploited-to-attack-russian-dissidents/179150/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Ukrainian-based threat actor is spearphishing Russians who are using services that have been banned by the Kremlin.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: Russian phishing attacks target NATO, European military<a href="https://www.bleepingcomputer.com/news/security/google-russian-phishing-attacks-target-nato-european-military/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Google&nbsp;Threat Analysis Group (TAG) says more and more threat actors are now using Russia's war in Ukraine to target Eastern European and NATO countries, including Ukraine, in phishing and malware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Viasat shares details on KA-SAT satellite service cyberattack<a href="https://www.bleepingcomputer.com/news/security/viasat-shares-details-on-ka-sat-satellite-service-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US satellite communications provider Viasat&nbsp;has shared an&nbsp;incident report regarding the cyberattack that affected its&nbsp;KA-SAT&nbsp;consumer-oriented satellite broadband service on February 24, the day Russia invaded Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing campaign targets Russian govt dissidents with Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-russian-govt-dissidents-with-cobalt-strike/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new spear phishing campaign is taking place in Russia targeting dissenters with opposing views to those promoted by the state and national media about the war against Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Threat actors actively exploit recently fixed Sophos firewall bug<a href="https://securityaffairs.co/wordpress/129604/security/sophos-firewall-cve-2022-1040-exploited.html"> Full Text</a>
 </p>
 <details>

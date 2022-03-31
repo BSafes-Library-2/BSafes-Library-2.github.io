@@ -8,6 +8,24 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$625M stolen from Axie Infinity ‘s Ronin bridge, the largest ever crypto hack<a href="https://securityaffairs.co/wordpress/129609/cyber-crime/625m-axie-infinity-ronin-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have stolen approximately $625 million worth of Ethereum and USDC tokens from Axie Infinity 's Ronin network bridge.
+
+
+
+Threat actors have stolen almost $625 million in Ethereum and USDC (a U.S. dollar pegged stablecoin) tokens from Axie...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

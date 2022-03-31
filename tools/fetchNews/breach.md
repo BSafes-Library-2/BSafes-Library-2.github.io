@@ -8,6 +8,76 @@ nav_order: 900029
 
 ## Breach
 ---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at Japanese Candy Maker Morinaga Affects Customers on its Online Store<a href="https://portswigger.net/daily-swig/network-cavity-blamed-for-data-breach-at-japanese-candy-maker-morinaga?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese confectionary manufacturer Morinaga has warned that a suspected data breach of its online store may have exposed the personal information of more than 1.6 million customers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LAPSUS$ Claims to Have Breached IT Firm Globant; Leaks 70GB of Data<a href="https://thehackernews.com/2022/03/lapsus-claims-to-have-breached-it-firm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LAPSUS$ data extortion gang announced their return on Telegram after a week-long "vacation," leaking what they claim is data from software services company Globant.  "We are officially back from a vacation," the group wrote on their Telegram channel – which has nearly around 54,000 members as of writing – posting images of extracted data and credentials belonging to the company's DevOps infrastructure.   The screenshots depict a folder listing for what appears to be different companies from across the world, including Arcserve, Banco Galicia, BNP Paribas Cardif, Citibanamex, DHL, Facebook, Stifel, among others.  Also shared is a torrent file purported to contain around 70GB of Globant's source code as well as administrator passwords associated with the firm's Atlassian suite, including Confluence and Jira, and the Crucible code review tool.    As malware research group&nbsp; VX-Underground &nbsp;points out, the passwords are not only easily guessable, but the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous Hacks 2 Russian Industrial Firms, Leaks 112GB of Data for Ukraine<a href="https://www.hackread.com/anonymous-hack-russian-industrial-firms-data-leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The online hacktivist group Anonymous has claimed responsibility for targeting two Russian companies, MashOil and FID Group, stealing a trove of their data and leaking it online for the public to download.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$620 million in crypto stolen from Axie Infinity's Ronin bridge<a href="https://www.bleepingcomputer.com/news/cryptocurrency/620-million-in-crypto-stolen-from-axie-infinitys-ronin-bridge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker has stolen almost $620 million in Ethereum and USDC tokens from Axie Infinity's Ronin network bridge, making it possibly the largest crypto hack in history.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shutterfly discloses data breach after Conti ransomware attack<a href="https://www.bleepingcomputer.com/news/security/shutterfly-discloses-data-breach-after-conti-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online retail and photography manufacturing platform Shutterfly has disclosed a data breach that exposed employee information after threat actors stole data during a Conti ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

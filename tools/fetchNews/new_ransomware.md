@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive ransomware uses new 'IPfuscation' trick to hide payload<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-uses-new-ipfuscation-trick-to-hide-payload/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have discovered a new obfuscation technique used by the Hive ransomware gang, involving IPv4 addresses and a series of conversions that eventually lead to downloading Cobalt Strike beacons.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2022 - fbi 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitigating Attacks Against Uninterruptable Power Supply Devices <a href="https://publications.bsafes.com/docs/fbi/pin-2022-0329-001-cyber-actors-target-us-election-officials-with-invoice-themed-phishing-campaign-to-harvest-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is warning US election and other state and local government officials about invoicethemed phishing emails that could be used to harvest officials’ login credentials. If successful, this activity may provide cyber actors with sustained, undetected access to a victim’s systems. As of October 2021, US election officials in at least nine states received invoice-themed phishing emails containing links to websites intended to steal login credentials. These emails shared similar attachment files, used compromised email addresses, and were sent close in time, suggesting a concerted effort to target US election officials.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitigating Attacks Against Uninterruptable Power Supply Devices <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/03/29/mitigating-attacks-against-uninterruptable-power-supply-devices"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and the Department of Energy (DOE) are aware of threat actors gaining access to a variety of internet-connected uninterruptable power supply (UPS) devices, often through unchanged default usernames and passwords. Organizations can mitigate attacks against their UPS devices, which provide emergency power in a variety of applications when normal power sources are lost, by removing management interfaces from the internet.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 28, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

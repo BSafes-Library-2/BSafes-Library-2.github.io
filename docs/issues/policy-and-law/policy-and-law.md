@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New law in reporting cyber breaches seen as overdue first step<a href="https://thehill.com//policy/cybersecurity/600331-new-law-in-reporting-cyber-breaches-seen-as-overdue-first-step"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new law requiring critical sectors to report cyber breaches is “a good first step” but long overdue, experts said, as it is the first federal-wide mandate of its kind.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

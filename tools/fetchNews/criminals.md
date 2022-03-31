@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal Over $600 Million from Axie Infinity Developer's Ronin Bridge<a href="https://cointelegraph.com/news/axie-infinity-s-ronin-bridge-hacked-for-over-600m?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ronin bridge and Katana Dex have been halted after suffering an exploit for 173,600 Ethereum (ETH) and 25.5 million USD Coin (USDC), worth a combined $612 million at Tuesday's prices.
+</details>
+<div style="text-align: right" markdown="1">
+Coin Telegraph
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol dismantles massive call center investment scam operation<a href="https://www.bleepingcomputer.com/news/security/europol-dismantles-massive-call-center-investment-scam-operation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol has announced the arrest of 108 people suspected of being involved in an international call center operation that tricked victims into investment scams.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
