@@ -34,6 +34,62 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bad OPSEC allowed researchers to uncover Mars stealer operation￼￼￼￼<a href="https://securityaffairs.co/wordpress/129639/cyber-crime/mars-stealer-operation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Morphisec Labs researchers analyzed a new malware, tracked as Mars stealer, which is based on the older Oski Stealer. 
+
+
+
+Morphisec Labs recently discovered the Mars stealer that was spreading masqueraded as malicious software cracks and keygens.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Java Spring Framework 0-Day RCE Bug Threatens Enterprise Web Apps Security<a href="https://thehackernews.com/2022/03/unpatched-java-spring-framework-0-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day remote code execution (RCE) vulnerability has come to light in the Spring framework shortly after a Chinese security researcher  briefly leaked  a  proof-of-concept  (PoC)  exploit  on GitHub before deleting their account.  According to cybersecurity firm Praetorian, the unpatched flaw impacts Spring Core on Java Development Kit ( JDK ) versions 9 and later and is a bypass for another vulnerability tracked as  CVE-2010-1622 , enabling an unauthenticated attacker to execute arbitrary code on the target system.  Spring is a  software framework  for building Java applications, including web apps on top of the Java EE (Enterprise Edition) platform.   "In certain configurations, exploitation of this issue is straightforward, as it only requires an attacker to send a crafted HTTP request to a vulnerable system," researchers Anthony Weems and Dallas Kaman  said . "However, exploitation of different configurations will require the attacker to do additional research t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Warns of OpenSSL Infinite Loop Vulnerability Affecting NAS Devices<a href="https://thehackernews.com/2022/03/qnap-warns-of-openssl-infinite-loop.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese company QNAP this week revealed that a selected number of its network-attached storage (NAS) appliances are affected by a recently-disclosed bug in the open-source OpenSSL cryptographic library.  "An infinite loop vulnerability in OpenSSL has been reported to affect certain QNAP NAS," the company  said  in an advisory published on March 29, 2022. "If exploited, the vulnerability allows attackers to conduct denial-of-service attacks."  Tracked as  CVE-2022-0778  (CVSS score: 7.5), the issue relates to a bug that arises when parsing security certificates to trigger a denial-of-service condition and remotely crash unpatched devices.   QNAP, which is currently investigating its line-up, said it affects the following operating system versions –   QTS 5.0.x and later  QTS 4.5.4 and later  QTS 4.3.6 and later  QTS 4.3.4 and later  QTS 4.3.3 and later  QTS 4.2.6 and later  QuTS hero h5.0.x and later  QuTS hero h4.5.4 and later, and  QuTScloud c5.0.x    To date, t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 30, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

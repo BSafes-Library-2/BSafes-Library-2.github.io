@@ -10,7 +10,7 @@ nav_order: 150
 March 29, 2022 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Mitigating Attacks Against Uninterruptable Power Supply Devices <a href="https://publications.bsafes.com/docs/fbi/pin-2022-0329-001-cyber-actors-target-us-election-officials-with-invoice-themed-phishing-campaign-to-harvest-credentials/"> Full Text</a>
+Cyber Actors Target US Election Officials with Invoice-Themed Phishing Campaign to Harvest Credentials <a href="https://publications.bsafes.com/docs/fbi/pin-2022-0329-001-cyber-actors-target-us-election-officials-with-invoice-themed-phishing-campaign-to-harvest-credentials/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
