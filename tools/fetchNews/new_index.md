@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US national emergency extended due to elevated malicious cyber activity<a href="https://www.bleepingcomputer.com/news/security/us-national-emergency-extended-due-to-elevated-malicious-cyber-activity/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti Continues To Attack Even After Recent Code Leaks<a href="https://cyware.com/news/conti-continues-to-attack-even-after-recent-code-leaks-1095609d"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple, Meta turned over user data to hackers using forged requests: report<a href="https://thehill.com//policy/cybersecurity/600410-apple-meta-turned-over-user-data-to-hackers-using-forged-requests-report"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Expose Mars Stealer Malware Campaign Using Google Ads to Spread<a href="https://thehackernews.com/2022/03/researchers-expose-mars-stealer-malware.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A critical RCE vulnerability affects SonicWall Firewall appliances<a href="https://securityaffairs.co/wordpress/129627/hacking/sonicwall-firewall-rce-vulnerability.html"> Full Text</a>
@@ -119,7 +119,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MSHTML Flaw Exploited to Attack Russian Dissidents<a href="https://threatpost.com/mshtml-flaw-exploited-to-attack-russian-dissidents/179150/"> Full Text</a>
@@ -135,7 +135,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Spring Java framework zero-day allows remote code execution<a href="https://www.bleepingcomputer.com/news/security/new-spring-java-framework-zero-day-allows-remote-code-execution/"> Full Text</a>
@@ -151,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Muhstik Botnet Gang Targets Redis Exploit Within One Day of Public POC Release<a href="https://cyware.com/news/muhstik-botnet-gang-targets-redis-exploit-within-one-day-of-public-poc-release-d01bf544"> Full Text</a>
@@ -168,7 +168,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House sends bipartisan cyber crime bill to Biden<a href="https://thehill.com//policy/cybersecurity/600357-house-sends-bipartisan-cybercrime-bill-to-biden"> Full Text</a>
@@ -184,7 +184,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA and DoE warns of attacks targeting UPS devices<a href="https://securityaffairs.co/wordpress/129620/security/cisa-doe-warn-attacks-ups.html"> Full Text</a>
@@ -204,7 +204,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Globant confirms hack after Lapsus$ leaks 70GB of stolen data<a href="https://www.bleepingcomputer.com/news/security/globant-confirms-hack-after-lapsus-leaks-70gb-of-stolen-data/"> Full Text</a>
@@ -220,7 +220,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto Stealing Malware Spreads via Fake Wallet Apps<a href="https://cyware.com/news/crypto-stealing-malware-spreads-via-fake-wallet-apps-80b9ed9c"> Full Text</a>
@@ -237,7 +237,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More than $600M in cryptocurrency stolen in video game hack<a href="https://thehill.com//policy/cybersecurity/600337-more-than-600m-in-cryptocurrency-stolen-in-video-game-hack"> Full Text</a>
@@ -253,7 +253,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lapsus$ extortion gang claims to have hacked IT Giant Globant<a href="https://securityaffairs.co/wordpress/129615/cyber-crime/lapsus-gang-hacked-globant.html"> Full Text</a>
@@ -273,7 +273,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google: Russian phishing attacks target NATO, European military<a href="https://www.bleepingcomputer.com/news/security/google-russian-phishing-attacks-target-nato-european-military/"> Full Text</a>
@@ -289,7 +289,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French National Health Insurance Fund Suffers Massive Data Leak<a href="https://www.connexionfrance.com/article/French-news/French-health-insurance-data-leak-what-to-do-if-you-are-affected?&web_view=true"> Full Text</a>
@@ -305,7 +305,7 @@ Connexion France
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New law in reporting cyber breaches seen as overdue first step<a href="https://thehill.com//policy/cybersecurity/600331-new-law-in-reporting-cyber-breaches-seen-as-overdue-first-step"> Full Text</a>
@@ -321,7 +321,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP warns severe OpenSSL bug affects most of its NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-severe-openssl-bug-affects-most-of-its-nas-devices/"> Full Text</a>
@@ -337,7 +337,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Singapore, US to establish dialogue to strengthen cooperation in cybersecurity<a href="https://www.channelnewsasia.com/singapore/us-singapore-cyber-dialogue-cybersecurity-lee-hsien-loong-joe-biden-2594521?&web_view=true"> Full Text</a>
@@ -353,7 +353,7 @@ Channel News Asia
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI disrupts BEC cybercrime gangs targeting victims worldwide<a href="https://www.bleepingcomputer.com/news/legal/fbi-disrupts-bec-cybercrime-gangs-targeting-victims-worldwide/"> Full Text</a>
@@ -369,7 +369,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive ransomware uses new 'IPfuscation' trick to hide payload<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-uses-new-ipfuscation-trick-to-hide-payload/"> Full Text</a>
@@ -385,7 +385,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mazda Infotainment Crash Shows How Fragile Car Security Really Is<a href="https://www.bleepingcomputer.com/news/security/mazda-infotainment-crash-shows-how-fragile-car-security-really-is/"> Full Text</a>
@@ -401,7 +401,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Viasat shares details on KA-SAT satellite service cyberattack<a href="https://www.bleepingcomputer.com/news/security/viasat-shares-details-on-ka-sat-satellite-service-cyberattack/"> Full Text</a>
@@ -417,7 +417,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing campaign targets Russian govt dissidents with Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-russian-govt-dissidents-with-cobalt-strike/"> Full Text</a>
