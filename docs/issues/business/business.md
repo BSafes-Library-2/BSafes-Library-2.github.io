@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloaked Snags $25M Funding to Tackle Data-Sharing Privacy<a href="https://www.securityweek.com/cloaked-snags-25m-funding-tackle-data-sharing-privacy?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The startup, called Cloaked, said the Series A investment was co-led by Lux Capital and Human Capital and will be used to exit beta and drive growth in a competitive marketplace.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

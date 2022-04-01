@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Blockchain Primer and a Bored Ape Headscratcher – Podcast<a href="https://threatpost.com/a-blockchain-primer-and-a-bored-ape-headscratcher-podcast/179179/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mystified? Now’s the time to learn about cryptocurrency-associated risks: Listen to KnowBe4’s Dr. Lydia Kostopoulos explain blockchain, NFTs and how to stay safe.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DPRK hackers go after crypto assets using trojanized DeFi Wallet app<a href="https://www.bleepingcomputer.com/news/security/dprk-hackers-go-after-crypto-assets-using-trojanized-defi-wallet-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers associated with the North Korean government have been distributing a trojanized version of the DeFi Wallet for storing cryptocurrency assets to gain access to the systems of cryptocurrency users and investors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

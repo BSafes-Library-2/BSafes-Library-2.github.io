@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Payments Hit New Records<a href="https://cyware.com/news/ransomware-payments-hit-new-records-db1d27d8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Unit 42, the average ransom demand rose 144% to $2.2 million in 2021. The average ransom payment rose 78% to $541,010.&nbsp;Thirty-five new ransomware gangs popped up in 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit victim estimates cost of ransomware attack to be $42 million<a href="https://www.bleepingcomputer.com/news/security/lockbit-victim-estimates-cost-of-ransomware-attack-to-be-42-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atento has published its 2021 financial performance results, which have a massive $42.1 million dent from a ransomware attack the firm suffered in October 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google warns of multiple hacking groups using the war in Ukraine as a lure in phishing attempts<a href="https://www.zdnet.com/article/google-multiple-hacking-groups-are-using-the-war-in-ukraine-as-a-lure-in-phishing-attempts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hostile hacking groups are exploiting Russia's invasion of Ukraine to carry out cyberattacks designed to steal login credentials, sensitive information, money, and more from victims around the world.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishers Schedule Victims on Calendar App<a href="https://www.inky.com/en/blog/phishers-schedule-victims-on-calendar-app?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Toward the end of February, INKY detected a credential harvesting operation that abused Calendly, a freemium calendaring hub, by inserting malicious links on calendly.com event invitations.
+</details>
+<div style="text-align: right" markdown="1">
+INKY
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,66 @@ nav_order: 900075
 
 ## Government
 ---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US national emergency extended due to elevated malicious cyber activity<a href="https://www.bleepingcomputer.com/news/security/us-national-emergency-extended-due-to-elevated-malicious-cyber-activity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US President Joe Biden today has extended the state of national emergency declared to deal with increasingly prevalent and severe malicious cyber threats to the United States national security, foreign policy, and economy.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House sends bipartisan cyber crime bill to Biden<a href="https://thehill.com//policy/cybersecurity/600357-house-sends-bipartisan-cybercrime-bill-to-biden"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House passed bipartisan cybersecurity legislation on Tuesday that would improve the way the federal government tracks, measures and analyzes cyber crime.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and DoE warns of attacks targeting UPS devices<a href="https://securityaffairs.co/wordpress/129620/security/cisa-doe-warn-attacks-ups.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US CISA and the Department of Energy issued guidance on mitigating attacks against uninterruptible power supply (UPS) devices.
+
+
+
+The US Cybersecurity and Infrastructure Security Agency (CISA) and the Department of Energy published joint guidance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore, US to establish dialogue to strengthen cooperation in cybersecurity<a href="https://www.channelnewsasia.com/singapore/us-singapore-cyber-dialogue-cybersecurity-lee-hsien-loong-joe-biden-2594521?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States-Singapore Cyber Dialogue, as it is called, will bring together senior government officials from the cyber operational, technical, and policy units of various agencies on both sides.
+</details>
+<div style="text-align: right" markdown="1">
+Channel News Asia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,53 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Continues To Attack Even After Recent Code Leaks<a href="https://cyware.com/news/conti-continues-to-attack-even-after-recent-code-leaks-1095609d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have spotted an updated version of Conti ransomware as part of the global ransomware tracking efforts that allow it to reboot and encrypt the targeted system in Safe Mode. To avoid detection, Conti uses the Murmur3 hashing algorithm, which produces different hash values for all API func ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ extortion gang claims to have hacked IT Giant Globant<a href="https://securityaffairs.co/wordpress/129615/cyber-crime/lapsus-gang-hacked-globant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lapsus$ extortion group claims to have hacked IT giant Globant and leaked tens of gigabytes of stolen data.
+
+
+
+The Lapsus$ extortion group claims to have hacked IT giant Globant and leaked roughly 70 Gb of stolen data. The gang claims that the company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI disrupts BEC cybercrime gangs targeting victims worldwide<a href="https://www.bleepingcomputer.com/news/legal/fbi-disrupts-bec-cybercrime-gangs-targeting-victims-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated operation conducted by the FBI and its international law enforcement partners has resulted in disrupting business email compromise (BEC) schemes in several countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

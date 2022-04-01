@@ -11,6 +11,62 @@ nav_order: 900029
 March 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Apple, Meta turned over user data to hackers using forged requests: report<a href="https://thehill.com//policy/cybersecurity/600410-apple-meta-turned-over-user-data-to-hackers-using-forged-requests-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple and Facebook parent company Meta turned over user data last year to hackers&nbsp;pretending to be law enforcement officials, Bloomberg reported, citing three people familiar with the matter.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Globant confirms hack after Lapsus$ leaks 70GB of stolen data<a href="https://www.bleepingcomputer.com/news/security/globant-confirms-hack-after-lapsus-leaks-70gb-of-stolen-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT and software consultancy firm Globant has confirmed that they were breached by the Lapsus$ data extortion group, where data consisting of administrator credentials and source code was leaked by the threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than $600M in cryptocurrency stolen in video game hack<a href="https://thehill.com//policy/cybersecurity/600337-more-than-600m-in-cryptocurrency-stolen-in-video-game-hack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers exploited a cryptocurrency exchange network in a virtual game called Axie Infinity to steal more than $600 million from the system.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French National Health Insurance Fund Suffers Massive Data Leak<a href="https://www.connexionfrance.com/article/French-news/French-health-insurance-data-leak-what-to-do-if-you-are-affected?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data stolen from affected members of the French health insurance body included names, surnames, date of birth, social security numbers, GP details, and levels of reimbursement.
+</details>
+<div style="text-align: right" markdown="1">
+Connexion France
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at Japanese Candy Maker Morinaga Affects Customers on its Online Store<a href="https://portswigger.net/daily-swig/network-cavity-blamed-for-data-breach-at-japanese-candy-maker-morinaga?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

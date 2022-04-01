@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia warns of 'grave consequences' after U.S. reaffirms threat of sanctions over Ukraine<a href="https://www.cbc.ca/news/world/biden-putin-call-ukraine-tensions-1.6300961?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden reaffirmed the U.S. threat of new sanctions against Russia in case of an escalation or invasion, to which Putin responded with a warning of his own that such a U.S. move could lead to a complete rupture of ties.
+</details>
+<div style="text-align: right" markdown="1">
+CBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
