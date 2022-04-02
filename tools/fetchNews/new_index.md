@@ -34,7 +34,462 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - April 1st 2022 - 'I can fight with a keyboard'<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-1st-2022-i-can-fight-with-a-keyboard/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While ransomware is still conducting attacks and all companies must stay alert, ransomware news has been relatively slow this week. However, there were still some interesting stories that we outline below.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Attacks Target NATO and European Military<a href="https://cyware.com/news/phishing-attacks-target-nato-and-european-military-6d7c7c08"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google TAG found multiple cybercriminal activities, such as phishing and malware attacks, targeting NATO and Eastern European countries. An APT group adopted a novel Browser-in-the-Browser (BitB) phishing technique. A group with alleged links to China targeted government and military organizations  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Wiper Malware Likely Behind Recent Cyberattack on Viasat KA-SAT Modems<a href="https://thehackernews.com/2022/04/russian-wiper-malware-responsible-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack aimed at Viasat that temporarily knocked KA-SAT modems offline on February 24, 2022, the same day Russian military forces invaded Ukraine, is believed to have been the consequence of wiper malware, according to the  latest research  from SentinelOne.  The findings come as the U.S. telecom company  disclosed  that it was the target of a multifaceted and deliberate" cyberattack against its KA-SAT network, linking it to a "ground-based network intrusion by an attacker exploiting a misconfiguration in a VPN appliance to gain remote access to the trusted management segment of the KA-SAT network."  Upon gaining access, the adversary issued "destructive commands" on tens of thousands of modems belonging to the satellite broadband service that "overwrote key data in flash memory on the modems, rendering the modems unable to access the network, but not permanently unusable."   But SentinelOne said it uncovered a new piece of malware (named &qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Congress Invests in National Cyber Resilience but Misses Important Opportunities in the Consolidated Appropriations Act<a href="https://www.lawfareblog.com/congress-invests-national-cyber-resilience-misses-important-opportunities-consolidated"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new appropriations bill is sound overall, but it addresses only half of the federal government’s cybersecurity mandate.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous targets oligarchs’ Russian businesses: Marathon Group hacked<a href="https://securityaffairs.co/wordpress/129713/hacktivism/anonymous-hacked-marathon-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous continues its operations against Russia, the group announced the hack of the Russian investment firm Marathon Group.
+
+
+
+Anonymous continues to target Russian firms owned by oligarchs, yesterday the collective announced the hack of the Thozis...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft now lets you enable the Windows App Installer again, here's how<a href="https://www.bleepingcomputer.com/news/security/microsoft-now-lets-you-enable-the-windows-app-installer-again-heres-how/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft now allows enterprise admins to re-enable the MSIX ms-appinstaller protocol handler disabled after Emotet abused it to deliver malicious Windows App Installer packages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verblecon: A New Advanced Malware Loader<a href="https://cyware.com/news/verblecon-a-new-advanced-malware-loader-27fb5657"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor was spotted employing a sophisticated crypto-mining malware, dubbed Verblecon, on systems to steal access tokens for Discord chat app users. There are reports that connect a Verblecon domain to a ransomware attack as well.&nbsp;Organizations are recommended to use up-to-date and reli ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bugs in Rockwell PLC Could Allow Hackers to Implant Malicious Code<a href="https://thehackernews.com/2022/04/critical-bugs-in-rockwell-plc-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two new security vulnerabilities have been disclosed in Rockwell Automation's programmable logic controllers ( PLCs ) and engineering workstation software that could be exploited by an attacker to inject malicious code on affected systems and stealthily modify automation processes.  The flaws have the potential to disrupt industrial operations and cause physical damage to factories in a manner similar to that of Stuxnet and the  Rogue7 attacks , operational technology security company Claroty said.   "Programmable logic and predefined variables drive these [automation] processes, and changes to either will alter normal operation of the PLC and the process it manages," Claroty's Sharon Brizinov  noted  in a write-up published Thursday.   The list of two flaws is below –   CVE-2022-1161  (CVSS score: 10.0) – A remotely exploitable flaw that allows a malicious actor to write user-readable "textual" program code to a separate memory location from the executed c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AcidRain, a wiper that crippled routers and modems in Europe<a href="https://securityaffairs.co/wordpress/129703/malware/acidrain-wiper-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new destructive wiper, tracked as AcidRain, that is likely linked to the recent attack against Viasat.
+
+
+
+Security researchers at SentinelLabs have spotted a previously undetected destructive wiper, tracked as AcidRain, that hit routers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian-linked Android malware records audio, tracks your location<a href="https://www.bleepingcomputer.com/news/security/russian-linked-android-malware-records-audio-tracks-your-location/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown Android malware has been linked to the Turla hacking group after discovering the app used infrastructure previously attributed to the threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware Ported to Rust, Encryptor Updated<a href="https://cyware.com/news/hive-ransomware-ported-to-rust-encryptor-updated-6adde52d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hive ransomware actors ported its Linux encryptor to Rust programming language to target VMware ESXi servers. Additionally, they have added new features to make it difficult for security researchers to snoop on victim’s ransom negotiations, which it appears to have copied from BlackCat. Organizatio ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Target VMware Horizon Servers with Log4Shell to Deploy Rootkit<a href="https://thehackernews.com/2022/04/chinese-hackers-target-vmware-horizon.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese advanced persistent threat tracked as Deep Panda has been observed exploiting the  Log4Shell vulnerability  in VMware Horizon servers to deploy a backdoor and a novel rootkit on infected machines with the goal of stealing sensitive data.  "The nature of targeting was opportunistic insofar that multiple infections in several countries and various sectors occurred on the same dates,"  said  Rotem Sde-Or and Eliran Voronovitch, researchers with Fortinet's FortiGuard Labs, in a report released this week. "The victims belong to the financial, academic, cosmetics, and travel industries."  Deep Panda , also known by the monikers Shell Crew, KungFu Kittens, and Bronze Firestone, is said to have been active since at least 2010, with recent attacks "targeting legal firms for data exfiltration and technology providers for command-and-control infrastructure building,"  according  to Secureworks.   Cybersecurity firm CrowdStrike, which assigned the panda
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel fixes a critical bug in its business firewall and VPN devices<a href="https://securityaffairs.co/wordpress/129689/security/zyxel-firewalls-authentication-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel issued security updates for a critical vulnerability that affects some of its business firewall and VPN devices.
+
+
+
+Networking equipment vendor Zyxel has pushed security updates for a critical flaw, tracked as CVE-2022-0342 (CVSS 9.8), that affects...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beastmode botnet boosts DDoS power with new router exploits<a href="https://www.bleepingcomputer.com/news/security/beastmode-botnet-boosts-ddos-power-with-new-router-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Mirai-based distributed denial-of-service (DDoS) botnet tracked as Beastmode (aka B3astmode) has updated its list of exploits to include several new ones, three of them targeting various models of Totolink routers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab addresses critical account hijack bug<a href="https://portswigger.net/daily-swig/gitlab-addresses-critical-account-hijack-bug?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has patched a critical vulnerability that meant static passwords were inadvertently set during OmniAuth-based registration – putting accounts at risk of malicious takeover.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Results Overview: 2022 MITRE ATT&CK Evaluation – Wizard Spider and Sandworm Edition<a href="https://thehackernews.com/2022/04/results-overview-2022-mitre-att.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actor groups like Wizard Spider and Sandworm have been wreaking havoc over the past few years – developing and deploying cybercrime tools like Conti, Trickbot, and Ryuk ransomware. Most recently, Sandworm (suspected to be a Russian cyber-military unit) unleashed cyberattacks against Ukranian infrastructure targets.  To ensure cybersecurity providers are battle ready, MITRE Engenuity uses real-world attack scenarios and tactics implemented by threat groups to test security vendors' capabilities to protect against threats – the MITRE ATT&CK Evaluation. Each vendor's detections and capabilities are assessed within the context of the  MITRE ATT&CK Framework.  This year, they used the tactics seen in Wizard Spider and Sandworm's during their evaluation simulations. And MITRE Engenuity didn't go easy on these participating vendors. As mentioned before – the stakes are too high, and risk is growing.  The 2022 results overview  To think about it simply, this MITRE ATT&CK Ev
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Sophos firewall bug to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/129686/security/known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical Sophos firewall flaw and seven other issues to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro fixes actively exploited remote code execution bug<a href="https://www.bleepingcomputer.com/news/security/trend-micro-fixes-actively-exploited-remote-code-execution-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese cybersecurity software firm Trend Micro has patched a high severity security flaw in the Apex Central product management console that can let attackers execute arbitrary code remotely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro Patches Apex Central Zero-Day Exploited in Targeted Attacks<a href="https://www.securityweek.com/trend-micro-patches-apex-central-zero-day-exploited-targeted-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro this week announced patches for a high-severity arbitrary file upload vulnerability in Apex Central that has already been exploited in what appear to be targeted attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Distributing Trojanized DeFi Wallet Apps to Steal Victims' Crypto<a href="https://thehackernews.com/2022/04/north-korean-hackers-distributing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean state-backed hacking crew, otherwise known as the  Lazarus Group , has been attributed to yet another financially motivated campaign that leverages a trojanized decentralized finance (DeFi) wallet app to distribute a fully-featured backdoor onto compromised Windows systems.  The app, which is equipped with functionalities to save and manage a cryptocurrency wallet, is also designed to trigger the launch of the implant that can take control of the infected host. Russian cybersecurity firm Kaspersky  said  it first encountered the rogue application in mid-December 2021.   The infection scheme initiated by the app also results in the deployment of the installer for a legitimate application, which gets overwritten with a trojanized version in an effort to cover its tracks. That said, the initial access avenue is unclear, although it's suspected to be a case of social engineering.  The spawned malware, which masquerades as Google's Chrome web browser, subsequently
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Wyze cam devices allow their complete takeover<a href="https://securityaffairs.co/wordpress/129677/hacking/wyze-cam-flaws-allow-takeover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wyze Cam devices are affected by three security vulnerabilities that can allow attackers to takeover them and access camera feeds.
+
+
+
+Bitdefender researchers discovered three security vulnerabilities in the popular Wyze Cam devices that can be exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical GitLab vulnerability lets attackers take over accounts<a href="https://www.bleepingcomputer.com/news/security/critical-gitlab-vulnerability-lets-attackers-take-over-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has addressed a critical severity vulnerability that could allow remote attackers to take over user accounts using hardcoded passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA employee indicted for 'leaking top secret defense info'<a href="https://www.theregister.com/2022/04/01/nsa_employee_secret_data_leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States Department of Justice (DoJ) has accused an NSA employee of sharing top-secret national security information with an unnamed person who worked in the private sector.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sitel on Okta breach: "spreadsheet" did not contain passwords<a href="https://www.bleepingcomputer.com/news/security/sitel-on-okta-breach-spreadsheet-did-not-contain-passwords/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Okta's outsourced provider of support services, Sitel (Sykes) has shared more information this week in response to the leaked documents that detailed the various incident response tasks carried out by Sitel after the Lapsus$ hack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Modem-wiping malware caused Viasat broadband outage<a href="https://www.theregister.com/2022/04/01/sentinelone_wiper_viasat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tens of thousands of Viasat satellite broadband modems that were disabled in a cyber-attack some weeks ago were wiped by malware with possible links to Russia's destructive VPNFilter, according to SentinelOne.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Releases Patches for Critical Bug Affecting Business Firewall and VPN Devices<a href="https://thehackernews.com/2022/03/zyxel-releases-patches-for-critical-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment maker Zyxel has pushed security updates for a critical vulnerability affecting some of its business firewall and VPN products that could enable an attacker to take control of the devices.  "An authentication bypass vulnerability caused by the lack of a proper access control mechanism has been found in the CGI program of some firewall versions," the company  said  in an advisory published this week. "The flaw could allow an attacker to bypass the authentication and obtain administrative access to the device."  The flaw has been assigned the identifier  CVE-2022-0342  and is rated 9.8 out of 10 for severity. Credited with reporting the bug are Alessandro Sgreccia from Tecnical Service Srl and Roberto Garcia H and Victor Garcia R from Innotec Security.   The following Zyxel products are impacted –   USG/ZyWALL running firmware versions ZLD V4.20 through ZLD V4.70 (fixed in ZLD V4.71)  USG FLEX running firmware versions ZLD V4.50 through ZLD V5.20
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Issues Patches for 2 Actively Exploited Zero-Days in iPhone, iPad and Mac Devices<a href="https://thehackernews.com/2022/03/apple-issues-patches-for-2-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Thursday rolled out emergency patches to address two zero-day flaws in its  mobile  and  desktop operating systems  that it said may have been exploited in the wild.  The shortcomings have been fixed as part of updates to iOS and iPadOS 15.4.1, macOS Monterey 12.3.1, tvOS 15.4.1, and watchOS 8.5.1. Both the vulnerabilities have been reported to Apple anonymously.  Tracked as  CVE-2022-22675 , the issue has been described as an  out-of-bounds write  vulnerability in an audio and video decoding component called AppleAVD that could allow an application to execute arbitrary code with kernel privileges.  Apple said the defect was resolved with improved bounds checking, adding it's aware that "this issue may have been actively exploited."   The latest version of macOS Monterey, besides fixing CVE-2022-22675, also includes remediation for  CVE-2022-22674 , an  out-of-bounds read  issue in the Intel Graphics Driver module that could enable a malicious actor to read kern
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders agencies to patch actively exploited Sophos firewall bug<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-actively-exploited-sophos-firewall-bug/"> Full Text</a>
@@ -50,7 +505,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Payments Hit New Records<a href="https://cyware.com/news/ransomware-payments-hit-new-records-db1d27d8"> Full Text</a>
@@ -66,7 +521,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Patch Releases for Critical Zero-Day Bug in Java Spring Framework<a href="https://thehackernews.com/2022/03/security-patch-releases-for-critical.html"> Full Text</a>
@@ -82,7 +537,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple issues emergency patches to fix actively exploited zero-days<a href="https://securityaffairs.co/wordpress/129672/security/apple-emergency-patches-zero-days.html"> Full Text</a>
@@ -102,7 +557,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Blockchain Primer and a Bored Ape Headscratcher – Podcast<a href="https://threatpost.com/a-blockchain-primer-and-a-bored-ape-headscratcher-podcast/179179/"> Full Text</a>
@@ -118,7 +573,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BlackGuard password-stealing malware sold on hacker forums<a href="https://www.bleepingcomputer.com/news/security/new-blackguard-password-stealing-malware-sold-on-hacker-forums/"> Full Text</a>
@@ -134,7 +589,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SunCrypt Ransomware Now Comes With Upgraded Features<a href="https://cyware.com/news/suncrypt-ransomware-now-comes-with-upgraded-features-e973bb81"> Full Text</a>
@@ -150,7 +605,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bugs in Wyze Cams Could Let Attackers Takeover Devices and Access Video Feeds<a href="https://thehackernews.com/2022/03/bugs-in-wyze-cams-could-let-attackers.html"> Full Text</a>
@@ -166,7 +621,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google TAG details cyber activity with regard to the invasion of Ukraine<a href="https://securityaffairs.co/wordpress/129661/apt/phishing-malware-attacks-invasion-ukraine.html"> Full Text</a>
@@ -186,7 +641,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel patches critical bug affecting firewall and VPN devices<a href="https://www.bleepingcomputer.com/news/security/zyxel-patches-critical-bug-affecting-firewall-and-vpn-devices/"> Full Text</a>
@@ -202,7 +657,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google warns of multiple hacking groups using the war in Ukraine as a lure in phishing attempts<a href="https://www.zdnet.com/article/google-multiple-hacking-groups-are-using-the-war-in-ukraine-as-a-lure-in-phishing-attempts/?&web_view=true"> Full Text</a>
@@ -218,7 +673,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Python-based Ransomware Targeting JupyterLab Web Notebooks<a href="https://thehackernews.com/2022/03/new-python-based-ransomware-targeting.html"> Full Text</a>
@@ -234,7 +689,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous hacked Russian Thozis Corp, but denies attacks on Rosaviatsia<a href="https://securityaffairs.co/wordpress/129651/hacktivism/anonymous-hacked-thozis-corp.html"> Full Text</a>
@@ -254,7 +709,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple emergency update fixes zero-days used to hack iPhones, Macs<a href="https://www.bleepingcomputer.com/news/security/apple-emergency-update-fixes-zero-days-used-to-hack-iphones-macs/"> Full Text</a>
@@ -270,7 +725,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Trojanized DeFi app for delivering malware<a href="https://securelist.com/lazarus-trojanized-defi-app/106195/?&web_view=true"> Full Text</a>
@@ -286,7 +741,7 @@ Securelist
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Increasingly Using 'Browser-in-the-Browser' Technique in Ukraine Related Attacks<a href="https://thehackernews.com/2022/03/hackers-increasingly-using-browser-in.html"> Full Text</a>
@@ -302,7 +757,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mysterious disclosure of a zero-day RCE flaw Spring4Shell in Spring<a href="https://securityaffairs.co/wordpress/129644/hacking/spring-java-framework-rce-zero-day.html"> Full Text</a>
@@ -322,7 +777,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Viasat confirms satellite modems were wiped with AcidRain malware<a href="https://www.bleepingcomputer.com/news/security/viasat-confirms-satellite-modems-were-wiped-with-acidrain-malware/"> Full Text</a>
@@ -338,7 +793,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia warns of 'grave consequences' after U.S. reaffirms threat of sanctions over Ukraine<a href="https://www.cbc.ca/news/world/biden-putin-call-ukraine-tensions-1.6300961?&web_view=true"> Full Text</a>
@@ -354,7 +809,7 @@ CBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese hacking group uses new 'Fire Chili' Windows rootkit<a href="https://www.bleepingcomputer.com/news/security/chinese-hacking-group-uses-new-fire-chili-windows-rootkit/"> Full Text</a>
@@ -370,7 +825,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Remote 'Brokenwire' Hack Prevents Charging of Electric Vehicles at DC Fast Chargers<a href="https://www.securityweek.com/remote-brokenwire-hack-prevents-charging-electric-vehicles?&web_view=true"> Full Text</a>
@@ -386,7 +841,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spring patches leaked Spring4Shell zero-day RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/spring-patches-leaked-spring4shell-zero-day-rce-vulnerability/"> Full Text</a>
@@ -402,7 +857,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishers Schedule Victims on Calendar App<a href="https://www.inky.com/en/blog/phishers-schedule-victims-on-calendar-app?&web_view=true"> Full Text</a>
@@ -418,7 +873,7 @@ INKY
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thinking of a new career? Consider Cybersecurity with these free courses<a href="https://www.bleepingcomputer.com/news/security/thinking-of-a-new-career-consider-cybersecurity-with-these-free-courses/"> Full Text</a>
@@ -434,7 +889,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous hacked Russian Thozis Corp, but denies attacks on Rosaviatsia<a href="https://securityaffairs.co/wordpress/129651/hacktivism/anonymous-hacked-thozis-corp.html?&web_view=true"> Full Text</a>
@@ -450,7 +905,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit victim estimates cost of ransomware attack to be $42 million<a href="https://www.bleepingcomputer.com/news/security/lockbit-victim-estimates-cost-of-ransomware-attack-to-be-42-million/"> Full Text</a>
@@ -466,7 +921,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Palo Alto Networks error exposed customer support cases, attachments<a href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-error-exposed-customer-support-cases-attachments/"> Full Text</a>
@@ -482,7 +937,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DPRK hackers go after crypto assets using trojanized DeFi Wallet app<a href="https://www.bleepingcomputer.com/news/security/dprk-hackers-go-after-crypto-assets-using-trojanized-defi-wallet-app/"> Full Text</a>
@@ -498,7 +953,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Calendly actively abused in Microsoft credentials phishing<a href="https://www.bleepingcomputer.com/news/security/calendly-actively-abused-in-microsoft-credentials-phishing/"> Full Text</a>
@@ -514,7 +969,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome Browser Gets Major Security Update<a href="https://www.securityweek.com/chrome-browser-gets-major-security-update?&web_view=true"> Full Text</a>
@@ -530,7 +985,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloaked Snags $25M Funding to Tackle Data-Sharing Privacy<a href="https://www.securityweek.com/cloaked-snags-25m-funding-tackle-data-sharing-privacy?&web_view=true"> Full Text</a>
@@ -546,7 +1001,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SQL injection protections in ImpressCMS could be bypassed to achieve RCE<a href="https://portswigger.net/daily-swig/sql-injection-protections-in-impresscms-could-be-bypassed-to-achieve-rce?&web_view=true"> Full Text</a>
@@ -562,7 +1017,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bad OPSEC allowed researchers to uncover Mars stealer operation￼￼￼￼<a href="https://securityaffairs.co/wordpress/129639/cyber-crime/mars-stealer-operation.html"> Full Text</a>
@@ -586,7 +1041,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Java Spring Framework 0-Day RCE Bug Threatens Enterprise Web Apps Security<a href="https://thehackernews.com/2022/03/unpatched-java-spring-framework-0-day.html"> Full Text</a>
@@ -602,7 +1057,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2022
+March 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP Warns of OpenSSL Infinite Loop Vulnerability Affecting NAS Devices<a href="https://thehackernews.com/2022/03/qnap-warns-of-openssl-infinite-loop.html"> Full Text</a>
