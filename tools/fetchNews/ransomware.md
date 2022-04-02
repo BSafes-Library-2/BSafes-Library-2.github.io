@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SunCrypt Ransomware Now Comes With Upgraded Features<a href="https://cyware.com/news/suncrypt-ransomware-now-comes-with-upgraded-features-e973bb81"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SunCrypt—a RaaS that came to prominence in mid-2020—was one of the first threat actors to implement triple extortion in its campaigns. It is a small RaaS, operating with a close circle of affiliates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Python-based Ransomware Targeting JupyterLab Web Notebooks<a href="https://thehackernews.com/2022/03/new-python-based-ransomware-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed what they say is the first-ever Python-based ransomware strain specifically designed to target exposed Jupyter notebooks, a web-based interactive computing platform that allows editing and running programs via a browser.  "The attackers gained initial access via misconfigured environments, then ran a ransomware script that encrypts every file on a given path on the server and deletes itself after execution to conceal the attack," Assaf Morag, a data analyst at Aqua Security,&nbsp; said &nbsp;in a report.   The new ransomware sample, which the cloud security firm detected after it was trapped in one of its honeypot servers, is said to have been executed after the unnamed adversary gained access to the server and downloaded the necessary tools required to carry out the encryption process by opening a terminal.   Aqua Security characterized the attack as "simple and straightforward," unlike other traditional ransomware-as-a-service (RaaS) schemes, add
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Trojanized DeFi app for delivering malware<a href="https://securelist.com/lazarus-trojanized-defi-app/106195/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware operator exclusively used compromised web servers located in South Korea for this attack. The threat actor configured this infrastructure with servers set up as multiple stages.
+</details>
+<div style="text-align: right" markdown="1">
+Securelist
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Viasat confirms satellite modems were wiped with AcidRain malware<a href="https://www.bleepingcomputer.com/news/security/viasat-confirms-satellite-modems-were-wiped-with-acidrain-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered data wiper malware that wipes routers and modems has been deployed in the cyberattack that targeted the KA-SAT satellite broadband service to wipe SATCOM modems on February 24, affecting thousands in Ukraine and tens of thousands more across Europe.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks error exposed customer support cases, attachments<a href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-error-exposed-customer-support-cases-attachments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EXCLUSIVE: A bug in&nbsp;the support dashboard of Palo Alto Networks (PAN) exposed thousands of customer support tickets to an unauthorized individual, BleepingComputer has learned. The exposed information included, customer names, contact information, conversations between staff and customers, firewall logs and configuration dumps.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - April 1st 2022 - 'I can fight with a keyboard'<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-1st-2022-i-can-fight-with-a-keyboard/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While ransomware is still conducting attacks and all companies must stay alert, ransomware news has been relatively slow this week. However, there were still some interesting stories that we outline below.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware Ported to Rust, Encryptor Updated<a href="https://cyware.com/news/hive-ransomware-ported-to-rust-encryptor-updated-6adde52d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hive ransomware actors ported its Linux encryptor to Rust programming language to target VMware ESXi servers. Additionally, they have added new features to make it difficult for security researchers to snoop on victim’s ransom negotiations, which it appears to have copied from BlackCat. Organizatio ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

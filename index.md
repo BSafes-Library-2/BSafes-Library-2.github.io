@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2022
+April 01, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - April 1st 2022 - 'I can fight with a keyboard'<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-1st-2022-i-can-fight-with-a-keyboard/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2022
+April 1, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Attacks Target NATO and European Military<a href="https://cyware.com/news/phishing-attacks-target-nato-and-european-military-6d7c7c08"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2022
+April 01, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Wiper Malware Likely Behind Recent Cyberattack on Viasat KA-SAT Modems<a href="https://thehackernews.com/2022/04/russian-wiper-malware-responsible-for.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2022
+April 1, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Congress Invests in National Cyber Resilience but Misses Important Opportunities in the Consolidated Appropriations Act<a href="https://www.lawfareblog.com/congress-invests-national-cyber-resilience-misses-important-opportunities-consolidated"> Full Text</a>
@@ -99,7 +99,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2022
+April 1, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous targets oligarchs’ Russian businesses: Marathon Group hacked<a href="https://securityaffairs.co/wordpress/129713/hacktivism/anonymous-hacked-marathon-group.html"> Full Text</a>
@@ -119,7 +119,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2022
+April 01, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft now lets you enable the Windows App Installer again, here's how<a href="https://www.bleepingcomputer.com/news/security/microsoft-now-lets-you-enable-the-windows-app-installer-again-heres-how/"> Full Text</a>
@@ -135,7 +135,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2022
+April 1, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Verblecon: A New Advanced Malware Loader<a href="https://cyware.com/news/verblecon-a-new-advanced-malware-loader-27fb5657"> Full Text</a>
@@ -152,7 +152,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2022
+April 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Bugs in Rockwell PLC Could Allow Hackers to Implant Malicious Code<a href="https://thehackernews.com/2022/04/critical-bugs-in-rockwell-plc-could.html"> Full Text</a>
@@ -168,7 +168,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2022
+April 1, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AcidRain, a wiper that crippled routers and modems in Europe<a href="https://securityaffairs.co/wordpress/129703/malware/acidrain-wiper-ukraine.html"> Full Text</a>
@@ -188,7 +188,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2022
+April 01, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian-linked Android malware records audio, tracks your location<a href="https://www.bleepingcomputer.com/news/security/russian-linked-android-malware-records-audio-tracks-your-location/"> Full Text</a>
@@ -204,7 +204,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2022
+April 1, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive Ransomware Ported to Rust, Encryptor Updated<a href="https://cyware.com/news/hive-ransomware-ported-to-rust-encryptor-updated-6adde52d"> Full Text</a>
@@ -221,7 +221,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2022
+April 01, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Target VMware Horizon Servers with Log4Shell to Deploy Rootkit<a href="https://thehackernews.com/2022/04/chinese-hackers-target-vmware-horizon.html"> Full Text</a>
@@ -237,7 +237,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2022
+April 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel fixes a critical bug in its business firewall and VPN devices<a href="https://securityaffairs.co/wordpress/129689/security/zyxel-firewalls-authentication-bypass.html"> Full Text</a>
@@ -257,7 +257,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2022
+April 01, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beastmode botnet boosts DDoS power with new router exploits<a href="https://www.bleepingcomputer.com/news/security/beastmode-botnet-boosts-ddos-power-with-new-router-exploits/"> Full Text</a>
@@ -273,7 +273,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2022
+April 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitLab addresses critical account hijack bug<a href="https://portswigger.net/daily-swig/gitlab-addresses-critical-account-hijack-bug?&web_view=true"> Full Text</a>
@@ -289,7 +289,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2022
+April 01, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Results Overview: 2022 MITRE ATT&CK Evaluation – Wizard Spider and Sandworm Edition<a href="https://thehackernews.com/2022/04/results-overview-2022-mitre-att.html"> Full Text</a>
@@ -305,7 +305,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2022
+April 1, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Sophos firewall bug to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/129686/security/known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -325,7 +325,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2022
+April 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trend Micro fixes actively exploited remote code execution bug<a href="https://www.bleepingcomputer.com/news/security/trend-micro-fixes-actively-exploited-remote-code-execution-bug/"> Full Text</a>
@@ -341,7 +341,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2022
+April 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trend Micro Patches Apex Central Zero-Day Exploited in Targeted Attacks<a href="https://www.securityweek.com/trend-micro-patches-apex-central-zero-day-exploited-targeted-attacks?&web_view=true"> Full Text</a>
@@ -357,7 +357,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2022
+April 01, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Distributing Trojanized DeFi Wallet Apps to Steal Victims' Crypto<a href="https://thehackernews.com/2022/04/north-korean-hackers-distributing.html"> Full Text</a>
@@ -373,7 +373,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2022
+April 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flaws in Wyze cam devices allow their complete takeover<a href="https://securityaffairs.co/wordpress/129677/hacking/wyze-cam-flaws-allow-takeover.html"> Full Text</a>
@@ -393,7 +393,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2022
+April 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical GitLab vulnerability lets attackers take over accounts<a href="https://www.bleepingcomputer.com/news/security/critical-gitlab-vulnerability-lets-attackers-take-over-accounts/"> Full Text</a>
@@ -409,7 +409,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2022
+April 1, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA employee indicted for 'leaking top secret defense info'<a href="https://www.theregister.com/2022/04/01/nsa_employee_secret_data_leak/?&web_view=true"> Full Text</a>
@@ -425,7 +425,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2022
+April 01, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sitel on Okta breach: "spreadsheet" did not contain passwords<a href="https://www.bleepingcomputer.com/news/security/sitel-on-okta-breach-spreadsheet-did-not-contain-passwords/"> Full Text</a>
@@ -441,7 +441,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2022
+April 1, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Modem-wiping malware caused Viasat broadband outage<a href="https://www.theregister.com/2022/04/01/sentinelone_wiper_viasat/?&web_view=true"> Full Text</a>
@@ -457,7 +457,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel Releases Patches for Critical Bug Affecting Business Firewall and VPN Devices<a href="https://thehackernews.com/2022/03/zyxel-releases-patches-for-critical-bug.html"> Full Text</a>
@@ -473,7 +473,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2022
+March 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Issues Patches for 2 Actively Exploited Zero-Days in iPhone, iPad and Mac Devices<a href="https://thehackernews.com/2022/03/apple-issues-patches-for-2-actively.html"> Full Text</a>

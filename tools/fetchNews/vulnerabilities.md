@@ -8,6 +8,182 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders agencies to patch actively exploited Sophos firewall bug<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-actively-exploited-sophos-firewall-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal civilian agencies on Thursday to patch a critical Sophos firewall bug and seven other vulnerabilities within the next three weeks, all exploited in ongoing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Patch Releases for Critical Zero-Day Bug in Java Spring Framework<a href="https://thehackernews.com/2022/03/security-patch-releases-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of Spring Framework have released an emergency patch to address a newly disclosed&nbsp; remote code execution flaw &nbsp;that, if successfully exploited, could allow an unauthenticated attacker to take control of a targeted system.  Tracked as&nbsp; CVE-2022-22965 , the high-severity flaw impacts Spring Framework versions 5.3.0 to 5.3.17, 5.2.0 to 5.2.19, and other older, unsupported versions. Users are recommended to upgrade to versions 5.3.18 or later and 5.2.20 or later.   The Spring Framework is a Java framework that offers infrastructure support to develop web applications.  "The vulnerability impacts Spring&nbsp; MVC &nbsp;[model–view–controller] and Spring WebFlux applications running on [Java Development Kit] 9+," Rossen Stoyanchev of Spring.io&nbsp; said &nbsp;in an advisory published Thursday.  "The specific exploit requires the application to run on Tomcat as a WAR deployment. If the application is deployed as a Spring Boot executable jar, i.e., the default, it is not vulnerabl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple issues emergency patches to fix actively exploited zero-days<a href="https://securityaffairs.co/wordpress/129672/security/apple-emergency-patches-zero-days.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released emergency patches to address two zero-day vulnerabilities actively exploited to compromise iPhones, iPads, and Macs.
+
+
+
+Apple has released emergency security patches to address two zero-day vulnerabilities actively exploited to hack iPhones,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs in Wyze Cams Could Let Attackers Takeover Devices and Access Video Feeds<a href="https://thehackernews.com/2022/03/bugs-in-wyze-cams-could-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three security vulnerabilities have been disclosed in the popular Wyze Cam devices that grant malicious actors to execute arbitrary code and access camera feeds as well as unauthorizedly read the SD cards, the latter of which remained unresolved for nearly three years after the initial discovery.  The security flaws relate to an authentication bypass (CVE-2019-9564), a remote code execution bug stemming from a stack-based buffer overflow (CVE-2019-12266), and a case of unauthenticated access to the contents of the SD card (no CVE).   Successful exploitation of the bypass vulnerability could allow an outside attacker to fully control the device, including disabling recording to the SD card and turning on/off the camera, not to mention chaining it with CVE-2019-12266 to view the live audio and video feeds.  Romanian cybersecurity firm Bitdefender, which&nbsp; discovered the shortcomings , said it reached out to the vendor way back in May 2019, following which Wyze released patches to fix CVE
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel patches critical bug affecting firewall and VPN devices<a href="https://www.bleepingcomputer.com/news/security/zyxel-patches-critical-bug-affecting-firewall-and-vpn-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network equipment company Zyxel has updated the firmware of several of its business-grade firewall and VPN products to address a critical-severity vulnerability that could give attackers administrator-level access to affected devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple emergency update fixes zero-days used to hack iPhones, Macs<a href="https://www.bleepingcomputer.com/news/security/apple-emergency-update-fixes-zero-days-used-to-hack-iphones-macs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates on Thursday to address two zero-day vulnerabilities exploited by attackers to hack iPhones, iPads, and Macs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mysterious disclosure of a zero-day RCE flaw Spring4Shell in Spring<a href="https://securityaffairs.co/wordpress/129644/hacking/spring-java-framework-rce-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unauthenticated zero-day RCE vulnerability in the Spring Core Java framework called 'Spring4Shell' has been publicly disclosed.
+
+
+
+Researchers disclosed a zero-day vulnerability, dubbed Spring4Shell, in the Spring Core Java framework called 'Spring4Shell.'...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spring patches leaked Spring4Shell zero-day RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/spring-patches-leaked-spring4shell-zero-day-rce-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spring released emergency updates to fix the 'Spring4Shell' zero-day remote code execution vulnerability, which leaked prematurely online before a patch was released.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Browser Gets Major Security Update<a href="https://www.securityweek.com/chrome-browser-gets-major-security-update?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week released a security-themed Chrome 100.0.4896.60 browser makeover with patches for 28 documented vulnerabilities, some serious enough to lead to code execution attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SQL injection protections in ImpressCMS could be bypassed to achieve RCE<a href="https://portswigger.net/daily-swig/sql-injection-protections-in-impresscms-could-be-bypassed-to-achieve-rce?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities in ImpressCMS could allow an unauthenticated attacker to bypass the software’s SQL injection protections to achieve remote code execution (RCE), a security researcher has warned.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Java Spring Framework 0-Day RCE Bug Threatens Enterprise Web Apps Security<a href="https://thehackernews.com/2022/03/unpatched-java-spring-framework-0-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day remote code execution (RCE) vulnerability has come to light in the Spring framework shortly after a Chinese security researcher&nbsp; briefly leaked &nbsp;a&nbsp; proof-of-concept &nbsp;(PoC)&nbsp; exploit &nbsp;on GitHub before deleting their account.  According to cybersecurity firm Praetorian, the unpatched flaw impacts Spring Core on Java Development Kit ( JDK ) versions 9 and later and is a bypass for another vulnerability tracked as&nbsp; CVE-2010-1622 , enabling an unauthenticated attacker to execute arbitrary code on the target system.  Spring is a&nbsp; software framework &nbsp;for building Java applications, including web apps on top of the Java EE (Enterprise Edition) platform.   "In certain configurations, exploitation of this issue is straightforward, as it only requires an attacker to send a crafted HTTP request to a vulnerable system," researchers Anthony Weems and Dallas Kaman&nbsp; said . "However, exploitation of different configurations will require the attacker to do additional research t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Warns of OpenSSL Infinite Loop Vulnerability Affecting NAS Devices<a href="https://thehackernews.com/2022/03/qnap-warns-of-openssl-infinite-loop.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese company QNAP this week revealed that a selected number of its network-attached storage (NAS) appliances are affected by a recently-disclosed bug in the open-source OpenSSL cryptographic library.  "An infinite loop vulnerability in OpenSSL has been reported to affect certain QNAP NAS," the company&nbsp; said &nbsp;in an advisory published on March 29, 2022. "If exploited, the vulnerability allows attackers to conduct denial-of-service attacks."  Tracked as&nbsp; CVE-2022-0778 &nbsp;(CVSS score: 7.5), the issue relates to a bug that arises when parsing security certificates to trigger a denial-of-service condition and remotely crash unpatched devices.   QNAP, which is currently investigating its line-up, said it affects the following operating system versions –   QTS 5.0.x and later  QTS 4.5.4 and later  QTS 4.3.6 and later  QTS 4.3.4 and later  QTS 4.3.3 and later  QTS 4.2.6 and later  QuTS hero h5.0.x and later  QuTS hero h4.5.4 and later, and  QuTScloud c5.0.x    To date, t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hacking group uses new 'Fire Chili' Windows rootkit<a href="https://www.bleepingcomputer.com/news/security/chinese-hacking-group-uses-new-fire-chili-windows-rootkit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese APT group known as Deep Panda has been spotted in a recent campaign targeting VMware Horizon servers with the Log4Shell exploit to deploy a novel rootkit named 'Fire Chili'.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

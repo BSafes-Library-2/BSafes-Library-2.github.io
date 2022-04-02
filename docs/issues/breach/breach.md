@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sitel on Okta breach: "spreadsheet" did not contain passwords<a href="https://www.bleepingcomputer.com/news/security/sitel-on-okta-breach-spreadsheet-did-not-contain-passwords/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Okta's&nbsp;outsourced provider of&nbsp;support services,&nbsp;Sitel (Sykes) has shared more information this week in response to the leaked documents that detailed&nbsp;the various incident response tasks carried out by Sitel&nbsp;after&nbsp;the Lapsus$ hack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

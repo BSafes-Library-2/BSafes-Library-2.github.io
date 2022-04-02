@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Results Overview: 2022 MITRE ATT&amp;CK Evaluation – Wizard Spider and Sandworm Edition<a href="https://thehackernews.com/2022/04/results-overview-2022-mitre-att.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actor groups like Wizard Spider and Sandworm have been wreaking havoc over the past few years – developing and deploying cybercrime tools like Conti, Trickbot, and Ryuk ransomware. Most recently, Sandworm (suspected to be a Russian cyber-military unit) unleashed cyberattacks against Ukranian infrastructure targets.  To ensure cybersecurity providers are battle ready, MITRE Engenuity uses real-world attack scenarios and tactics implemented by threat groups to test security vendors' capabilities to protect against threats – the MITRE ATT&amp;CK Evaluation. Each vendor's detections and capabilities are assessed within the context of the&nbsp; MITRE ATT&amp;CK Framework.  This year, they used the tactics seen in Wizard Spider and Sandworm's during their evaluation simulations. And MITRE Engenuity didn't go easy on these participating vendors. As mentioned before – the stakes are too high, and risk is growing.  The 2022 results overview  To think about it simply, this MITRE ATT&amp;CK Ev
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

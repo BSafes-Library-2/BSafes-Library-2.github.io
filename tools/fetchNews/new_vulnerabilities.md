@@ -8,6 +8,140 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bugs in Rockwell PLC Could Allow Hackers to Implant Malicious Code<a href="https://thehackernews.com/2022/04/critical-bugs-in-rockwell-plc-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two new security vulnerabilities have been disclosed in Rockwell Automation's programmable logic controllers ( PLCs ) and engineering workstation software that could be exploited by an attacker to inject malicious code on affected systems and stealthily modify automation processes.  The flaws have the potential to disrupt industrial operations and cause physical damage to factories in a manner similar to that of Stuxnet and the&nbsp; Rogue7 attacks , operational technology security company Claroty said.   "Programmable logic and predefined variables drive these [automation] processes, and changes to either will alter normal operation of the PLC and the process it manages," Claroty's Sharon Brizinov&nbsp; noted &nbsp;in a write-up published Thursday.   The list of two flaws is below –   CVE-2022-1161 &nbsp;(CVSS score: 10.0) – A remotely exploitable flaw that allows a malicious actor to write user-readable "textual" program code to a separate memory location from the executed c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel fixes a critical bug in its business firewall and VPN devices<a href="https://securityaffairs.co/wordpress/129689/security/zyxel-firewalls-authentication-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel issued security updates for a critical vulnerability that affects some of its business firewall and VPN devices.
+
+
+
+Networking equipment vendor Zyxel has pushed security updates for a critical flaw, tracked as CVE-2022-0342 (CVSS 9.8), that affects...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab addresses critical account hijack bug<a href="https://portswigger.net/daily-swig/gitlab-addresses-critical-account-hijack-bug?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has patched a critical vulnerability that meant static passwords were inadvertently set during OmniAuth-based registration – putting accounts at risk of malicious takeover.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro fixes actively exploited remote code execution bug<a href="https://www.bleepingcomputer.com/news/security/trend-micro-fixes-actively-exploited-remote-code-execution-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese cybersecurity software firm Trend Micro has patched a high severity security flaw in the Apex Central product management console that can let attackers execute arbitrary code remotely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro Patches Apex Central Zero-Day Exploited in Targeted Attacks<a href="https://www.securityweek.com/trend-micro-patches-apex-central-zero-day-exploited-targeted-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro this week announced patches for a high-severity arbitrary file upload vulnerability in Apex Central that has already been exploited in what appear to be targeted attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Wyze cam devices allow their complete takeover<a href="https://securityaffairs.co/wordpress/129677/hacking/wyze-cam-flaws-allow-takeover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wyze Cam devices are affected by three security vulnerabilities that can allow attackers to takeover them and access camera feeds.
+
+
+
+Bitdefender researchers discovered three security vulnerabilities in the popular Wyze Cam devices that can be exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical GitLab vulnerability lets attackers take over accounts<a href="https://www.bleepingcomputer.com/news/security/critical-gitlab-vulnerability-lets-attackers-take-over-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has addressed a critical severity vulnerability that could allow remote attackers to take over user accounts using&nbsp;hardcoded passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Releases Patches for Critical Bug Affecting Business Firewall and VPN Devices<a href="https://thehackernews.com/2022/03/zyxel-releases-patches-for-critical-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment maker Zyxel has pushed security updates for a critical vulnerability affecting some of its business firewall and VPN products that could enable an attacker to take control of the devices.  "An authentication bypass vulnerability caused by the lack of a proper access control mechanism has been found in the CGI program of some firewall versions," the company&nbsp; said &nbsp;in an advisory published this week. "The flaw could allow an attacker to bypass the authentication and obtain administrative access to the device."  The flaw has been assigned the identifier&nbsp; CVE-2022-0342 &nbsp;and is rated 9.8 out of 10 for severity. Credited with reporting the bug are Alessandro Sgreccia from Tecnical Service Srl and Roberto Garcia H and Victor Garcia R from Innotec Security.   The following Zyxel products are impacted –   USG/ZyWALL running firmware versions ZLD V4.20 through ZLD V4.70 (fixed in ZLD V4.71)  USG FLEX running firmware versions ZLD V4.50 through ZLD V5.20
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Issues Patches for 2 Actively Exploited Zero-Days in iPhone, iPad and Mac Devices<a href="https://thehackernews.com/2022/03/apple-issues-patches-for-2-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Thursday rolled out emergency patches to address two zero-day flaws in its&nbsp; mobile &nbsp;and&nbsp; desktop operating systems &nbsp;that it said may have been exploited in the wild.  The shortcomings have been fixed as part of updates to iOS and iPadOS 15.4.1, macOS Monterey 12.3.1, tvOS 15.4.1, and watchOS 8.5.1. Both the vulnerabilities have been reported to Apple anonymously.  Tracked as&nbsp; CVE-2022-22675 , the issue has been described as an&nbsp; out-of-bounds write &nbsp;vulnerability in an audio and video decoding component called AppleAVD that could allow an application to execute arbitrary code with kernel privileges.  Apple said the defect was resolved with improved bounds checking, adding it's aware that "this issue may have been actively exploited."   The latest version of macOS Monterey, besides fixing CVE-2022-22675, also includes remediation for&nbsp; CVE-2022-22674 , an&nbsp; out-of-bounds read &nbsp;issue in the Intel Graphics Driver module that could enable a malicious actor to read kern
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

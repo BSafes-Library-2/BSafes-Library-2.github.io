@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+April 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Wiper Malware Likely Behind Recent Cyberattack on Viasat KA-SAT Modems<a href="https://thehackernews.com/2022/04/russian-wiper-malware-responsible-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack aimed at Viasat that temporarily knocked KA-SAT modems offline on February 24, 2022, the same day Russian military forces invaded Ukraine, is believed to have been the consequence of wiper malware, according to the&nbsp; latest research &nbsp;from SentinelOne.  The findings come as the U.S. telecom company&nbsp; disclosed &nbsp;that it was the target of a multifaceted and deliberate" cyberattack against its KA-SAT network, linking it to a "ground-based network intrusion by an attacker exploiting a misconfiguration in a VPN appliance to gain remote access to the trusted management segment of the KA-SAT network."  Upon gaining access, the adversary issued "destructive commands" on tens of thousands of modems belonging to the satellite broadband service that "overwrote key data in flash memory on the modems, rendering the modems unable to access the network, but not permanently unusable."   But SentinelOne said it uncovered a new piece of malware (named &amp;qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous targets oligarchs’ Russian businesses: Marathon Group hacked<a href="https://securityaffairs.co/wordpress/129713/hacktivism/anonymous-hacked-marathon-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous continues its operations against Russia, the group announced the hack of the Russian investment firm Marathon Group.
+
+
+
+Anonymous continues to target Russian firms owned by oligarchs, yesterday the collective announced the hack of the Thozis...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Target VMware Horizon Servers with Log4Shell to Deploy Rootkit<a href="https://thehackernews.com/2022/04/chinese-hackers-target-vmware-horizon.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese advanced persistent threat tracked as Deep Panda has been observed exploiting the&nbsp; Log4Shell vulnerability &nbsp;in VMware Horizon servers to deploy a backdoor and a novel rootkit on infected machines with the goal of stealing sensitive data.  "The nature of targeting was opportunistic insofar that multiple infections in several countries and various sectors occurred on the same dates,"&nbsp; said &nbsp;Rotem Sde-Or and Eliran Voronovitch, researchers with Fortinet's FortiGuard Labs, in a report released this week. "The victims belong to the financial, academic, cosmetics, and travel industries."  Deep Panda , also known by the monikers Shell Crew, KungFu Kittens, and Bronze Firestone, is said to have been active since at least 2010, with recent attacks "targeting legal firms for data exfiltration and technology providers for command-and-control infrastructure building,"&nbsp; according &nbsp;to Secureworks.   Cybersecurity firm CrowdStrike, which assigned the panda
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

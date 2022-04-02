@@ -8,6 +8,21 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Attacks Target NATO and European Military<a href="https://cyware.com/news/phishing-attacks-target-nato-and-european-military-6d7c7c08"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google TAG found multiple cybercriminal activities, such as phishing and malware attacks, targeting NATO and Eastern European countries. An APT group adopted a novel Browser-in-the-Browser (BitB) phishing technique. A group with alleged links to China targeted government and military organizations  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

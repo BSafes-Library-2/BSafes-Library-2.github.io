@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Distributing Trojanized DeFi Wallet Apps to Steal Victims' Crypto<a href="https://thehackernews.com/2022/04/north-korean-hackers-distributing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean state-backed hacking crew, otherwise known as the&nbsp; Lazarus Group , has been attributed to yet another financially motivated campaign that leverages a trojanized decentralized finance (DeFi) wallet app to distribute a fully-featured backdoor onto compromised Windows systems.  The app, which is equipped with functionalities to save and manage a cryptocurrency wallet, is also designed to trigger the launch of the implant that can take control of the infected host. Russian cybersecurity firm Kaspersky&nbsp; said &nbsp;it first encountered the rogue application in mid-December 2021.   The infection scheme initiated by the app also results in the deployment of the installer for a legitimate application, which gets overwritten with a trojanized version in an effort to cover its tracks. That said, the initial access avenue is unclear, although it's suspected to be a case of social engineering.  The spawned malware, which masquerades as Google's Chrome web browser, subsequently
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beastmode botnet boosts DDoS power with new router exploits<a href="https://www.bleepingcomputer.com/news/security/beastmode-botnet-boosts-ddos-power-with-new-router-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Mirai-based&nbsp;distributed denial-of-service&nbsp;(DDoS) botnet tracked as Beastmode (aka B3astmode) has updated its list of exploits to include several new ones, three of them targeting various models of Totolink routers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

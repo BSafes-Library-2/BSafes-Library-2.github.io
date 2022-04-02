@@ -8,6 +8,98 @@ nav_order: 900015
 
 ## Attack
 ---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google TAG details cyber activity with regard to the invasion of Ukraine<a href="https://securityaffairs.co/wordpress/129661/apt/phishing-malware-attacks-invasion-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Google&nbsp;TAG uses uncovered phishing attacks targeting Eastern European and NATO countries, including Ukraine.
+
+
+
+The Google&nbsp;Threat Analysis Group (TAG) provided an update about nation-state attacks related ongoing Russian invasion of Ukraine, the experts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked Russian Thozis Corp, but denies attacks on Rosaviatsia<a href="https://securityaffairs.co/wordpress/129651/hacktivism/anonymous-hacked-thozis-corp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Anonymous collective hacked the Russian investment firm Thozis Corp, but it's a mystery the attack against the Russian Civil Aviation Authority Rosaviatsia.
+
+
+
+Anonymous continues to target Russian organizations and private foreign businesses the are still...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Increasingly Using 'Browser-in-the-Browser' Technique in Ukraine Related Attacks<a href="https://thehackernews.com/2022/03/hackers-increasingly-using-browser-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Belarusian threat actor known as Ghostwriter (aka UNC1151) has been spotted leveraging the recently disclosed browser-in-the-browser (BitB) technique as part of their credential phishing campaigns exploiting the ongoing Russo-Ukrainian conflict.  The method, which&nbsp; masquerades &nbsp;as a legitimate domain by simulating a browser window within the browser, makes it possible to mount convincing social engineering campaigns.  "Ghostwriter actors have quickly adopted this new technique, combining it with a previously observed technique, hosting credential phishing landing pages on compromised sites," Google's Threat Analysis Group (TAG)&nbsp; said &nbsp;in a new report, using it to siphon credentials entered by unsuspected victims to a remote server.  Among other groups&nbsp; using the war as a lure &nbsp;in phishing and malware campaigns to deceive targets into opening fraudulent emails or links include&nbsp; Mustang Panda &nbsp;and&nbsp; Scarab &nbsp;as well as nation-state actors from Iran, North Korea, and Russia
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote 'Brokenwire' Hack Prevents Charging of Electric Vehicles at DC Fast Chargers<a href="https://www.securityweek.com/remote-brokenwire-hack-prevents-charging-electric-vehicles?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack targets the Combined Charging System (CCS) — a widely used DC rapid charging technology — and it interrupts the communication between the charger and the vehicle.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked Russian Thozis Corp, but denies attacks on Rosaviatsia<a href="https://securityaffairs.co/wordpress/129651/hacktivism/anonymous-hacked-thozis-corp.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous continues to target Russian organizations and foreign businesses that are still operating in the country. Now, it claims to have hacked the Russian investment firm Thozis Corp, which is owned by the oligarch Zakhar Smushkin.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Calendly actively abused in Microsoft credentials phishing<a href="https://www.bleepingcomputer.com/news/security/calendly-actively-abused-in-microsoft-credentials-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing actors are actively abusing Calendly to kick off a clever sequence to trick targets into entering their email account credentials on the phishing page.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

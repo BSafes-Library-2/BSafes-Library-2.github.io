@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thinking of a new career? Consider Cybersecurity with these free courses<a href="https://www.bleepingcomputer.com/news/security/thinking-of-a-new-career-consider-cybersecurity-with-these-free-courses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Curiosity and a love of learning are definite advantages in the cybersecurity field, and reading and learning more about the subject is just a few clicks away. The world needs more people out there fighting cybercrime. Perhaps one of them could be you.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
