@@ -8,6 +8,70 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical CVE-2022-1162 flaw in GitLab allowed threat actors to take over accounts<a href="https://securityaffairs.co/wordpress/129730/hacking/cve-2022-1162-flaw-gitlab.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has addressed a critical vulnerability, tracked as&nbsp;CVE-2022-1162 (CVSS score of 9.1), that could allow remote attackers to take over user accounts.
+
+
+
+The CVE-2022-1162 vulnerability is related to the set of hardcoded static passwords during...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro fixed high severity flaw in Apex Central product management console<a href="https://securityaffairs.co/wordpress/129720/security/trend-micro-apex-central-cve-2022-26871.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro has fixed a high severity arbitrary file upload flaw, tracked as CVE-2022-26871, in the Apex Central product management console.
+
+
+
+Cybersecurity firm Trend Micro has addressed a high severity security flaw, tracked as CVE-2022-26871, in the Apex...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15-Year-Old Bug in PEAR PHP Repository Could've Enabled Supply Chain Attacks<a href="https://thehackernews.com/2022/04/15-year-old-bug-in-pear-php-repository.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 15-year-old security vulnerability has been disclosed in the PEAR PHP repository that could permit an attacker to carry out a supply chain attack, including obtaining unauthorized access to publish rogue packages and execute arbitrary code.  "An attacker exploiting the first one could take over any developer account and publish malicious releases, while the second bug would allow the attacker to gain persistent access to the central PEAR server," SonarSource vulnerability researcher Thomas Chauchefoin&nbsp; said &nbsp;in a write-up published this week.  PEAR, short for PHP Extension and Application Repository, is a framework and distribution system for reusable PHP components.   One of the issues, introduced in a&nbsp; code commit &nbsp;made in March 2007 when the feature was originally implemented, relates to the use of the cryptographically insecure&nbsp; mt_rand() &nbsp;PHP function in the password reset functionality that could allow an attacker to "discover a valid password reset token in les
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab Releases Patch for Critical Vulnerability That Could Let Attackers Hijack Accounts<a href="https://thehackernews.com/2022/04/gitlab-releases-patch-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DevOps platform GitLab has released software updates to address a critical security vulnerability that, if potentially exploited, could permit an adversary to seize control of accounts.  Tracked as&nbsp; CVE-2022-1162 , the issue has a CVSS score of 9.1 and is said to have been discovered internally by the GitLab team.   "A hardcoded password was set for accounts registered using an&nbsp; OmniAuth provider &nbsp;(e.g., OAuth, LDAP, SAML) in GitLab CE/EE versions 14.7 prior to 14.7.7, 14.8 prior to 14.8.5, and 14.9 prior to 14.9.2 allowing attackers to potentially take over accounts," the company&nbsp; said &nbsp;in an advisory published on March 31.  GitLab, which has addressed the bug with the latest release of versions 14.9.2, 14.8.5, and 14.7.7 for GitLab Community Edition (CE) and Enterprise Edition (EE), also said it took the step of resetting the password of an unspecified number of users out of an abundance of caution.   "Our investigation shows no indication that users or accounts have
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

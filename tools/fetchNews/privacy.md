@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian-linked Android malware records audio, tracks your location<a href="https://www.bleepingcomputer.com/news/security/russian-linked-android-malware-records-audio-tracks-your-location/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown Android malware has been linked to the Turla hacking group after discovering the app used infrastructure previously attributed to the threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

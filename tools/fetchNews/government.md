@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+April 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Congress Invests in National Cyber Resilience but Misses Important Opportunities in the Consolidated Appropriations Act<a href="https://www.lawfareblog.com/congress-invests-national-cyber-resilience-misses-important-opportunities-consolidated"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new appropriations bill is sound overall, but it addresses only half of the federal government’s cybersecurity mandate.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Sophos firewall bug to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/129686/security/known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical Sophos firewall flaw and seven other issues to its&nbsp;Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,28 @@ nav_order: 900075
 
 ## Government
 ---
+April 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mar 27 – Apr 02 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/129768/cyber-warfare-2/mar-27-apr-02-ukraine-russia-cyber-conflict.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This post provides a timeline of the events related to the Russian invasion of Ukraine from the cyber security perspective.
+
+
+
+Apr 02 - Anonymous leaked 15 GB of data allegedly stolen from the Russian Orthodox Church
+
+
+
+Anonymous claims to have hacked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

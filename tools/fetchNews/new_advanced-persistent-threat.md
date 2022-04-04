@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT Deep Panda employs new Fire Chili Windows rootkit<a href="https://securityaffairs.co/wordpress/129784/apt/deep-panda-fire-chili-rootkit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-linked hacking group Deep Panda is targeting VMware Horizon servers with the Log4Shell exploit to install a new Fire Chili rootkit.
+
+
+
+Researchers from Fortinet have observed the Chinese APT group Deep Panda exploiting a Log4Shell&nbsp;exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

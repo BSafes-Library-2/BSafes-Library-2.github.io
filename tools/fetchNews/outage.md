@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+April 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Modem-wiping malware caused Viasat broadband outage<a href="https://www.theregister.com/2022/04/01/sentinelone_wiper_viasat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tens of thousands of Viasat satellite broadband modems that were disabled in a cyber-attack some weeks ago were wiped by malware with possible links to Russia's destructive VPNFilter, according to SentinelOne.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

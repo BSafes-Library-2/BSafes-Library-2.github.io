@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+April 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attacks Against Open-Source Software Soar<a href="https://cyware.com/news/supply-chain-attacks-against-open-source-software-soar-62db6218"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Towards the beginning of March, researchers from Sonatype identified hundreds of counterfeit packages in npm and PyPI repositories that were used to execute Remote Access Trojans (RATs).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 359 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/129765/breaking-news/security-affairs-newsletter-round-359-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

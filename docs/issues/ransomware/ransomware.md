@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware Evolves to Add Many New Features<a href="https://cyware.com/news/hive-ransomware-evolves-to-add-many-new-features-3d68a511"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hive is a relatively new ransomware outfit that made its appearance in late June 2021. It gained notoriety through over 350 attacks on organizations across several sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers are Exploiting Ukraine Donations<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/scammers-are-exploiting-ukraine-donations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are exploiting the current events in Ukraine especially after the official Ukrainian Twitter account tweeted Bitcoin and Ethereum wallet addresses for donations.
+</details>
+<div style="text-align: right" markdown="1">
+McAfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

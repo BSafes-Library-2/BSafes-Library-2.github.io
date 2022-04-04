@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attacks exploit free calendar app to steal account credentials<a href="https://www.techrepublic.com/article/phishing-exploits-calendar-app/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent report, email security provider INKY described a recent phishing campaign that took advantage of the Calendly calendar app to harvest sensitive account credentials from unsuspecting victims.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

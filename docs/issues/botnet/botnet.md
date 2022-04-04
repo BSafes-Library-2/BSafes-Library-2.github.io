@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beastmode Mirai botnet now includes exploits for Totolink routers<a href="https://securityaffairs.co/wordpress/129745/cyber-crime/beastmode-botnet-targets-totolink-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operators behind the Mirai-based&nbsp;distributed denial-of-service&nbsp;(DDoS) botnet Beastmode (aka B3astmode) added exploits for Totolink routers.
+
+
+
+The Mirai-based&nbsp;distributed denial-of-service&nbsp;(DDoS) botnet Beastmode (aka B3astmode) now includes exploits...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

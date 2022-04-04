@@ -11,6 +11,20 @@ nav_order: 900080
 April 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+British Police Charge Two Teenagers Linked to LAPSUS$ Hacker Group<a href="https://thehackernews.com/2022/04/british-police-charge-two-teenagers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of London Police on Friday disclosed that it has charged two of the seven teenagers, a 16-year-old and a 17-year-old, who were arrested last week for their alleged connections to the LAPSUS$ data extortion gang.  "Both teenagers have been charged with: three counts of unauthorized access to a computer with intent to impair the reliability of data; one count of fraud by false representation and one count of unauthorized access to a computer with intent to hinder access to data," Detective Inspector Michael O'Sullivan, from the City of London Police,&nbsp; said &nbsp;in a statement.   In addition, the unnamed 16-year-old minor has been charged with one count of causing a computer to perform a function to secure unauthorized access to a program.  The charges come as the City of London Police moved to arrest seven suspected LAPSUS$ gang members aged between 16 and 21 on March 25, with the agency&nbsp; telling &nbsp;The Hacker News that all the individuals had been subsequently "re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Distributing Trojanized DeFi Wallet Apps to Steal Victims' Crypto<a href="https://thehackernews.com/2022/04/north-korean-hackers-distributing.html"> Full Text</a>
 </p>
 <details>

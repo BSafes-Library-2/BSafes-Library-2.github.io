@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+April 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Express down in outage: users report login and payment issues<a href="https://www.bleepingcomputer.com/news/security/american-express-down-in-outage-users-report-login-and-payment-issues/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yesterday, American Express users across the world including US, UK, and Europe, experienced&nbsp;widespread outages lasting hours, and some users continue to. BleepingComputer was able to briefly reproduce issues right before Amex&nbsp;confirmed partially restoring services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
