@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+"Free easter chocolate basket" is a social media scam after your personal details<a href="https://blog.malwarebytes.com/social-engineering/2022/04/free-easter-chocolate-basket-is-a-social-media-scam-after-your-personal-details/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cadbury UK has issued a warning to its 315,000 followers on Twitter about a scam making the rounds on WhatsApp and other social media sites like Facebook. The Dorset Police Cyber Crime Unit posted an appeal about this scam on its Facebook page.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

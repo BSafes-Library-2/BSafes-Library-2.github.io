@@ -34,6 +34,380 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp voice message phishing emails push info-stealing malware<a href="https://www.bleepingcomputer.com/news/security/whatsapp-voice-message-phishing-emails-push-info-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new WhatsApp phishing campaign impersonating WhatsApp's voice message feature has been discovered, attempting to spread information-stealing malware to at least 27,655 email addresses.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Serious RCE Bug Found in Spring Cloud<a href="https://cyware.com/news/serious-rce-bug-found-in-spring-cloud-ca4eeed0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A serious vulnerability has been discovered in the Spring Cloud Java Framework that may lead to RCE or result in the compromise of an entire host. Tracked as Spring4 Shell, it was found circulating on a Chinese cybersecurity site and QQ chat service. Currently, a way to partially stop Spring4Shell  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New Android Spyware With C2 Server Linked to Turla Hackers<a href="https://thehackernews.com/2022/04/researchers-uncover-new-android-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Android spyware application has been spotted masquerading as a "Process Manager" service to stealthily siphon sensitive information stored in the infected devices.  Interestingly, the app — that has the package name " com.remote.app " — establishes contact with a remote command-and-control server, 82.146.35[.]240, which has been previously identified as infrastructure belonging to the Russia-based hacking group known as  Turla .   "When the application is run, a warning appears about the permissions granted to the application," Lab52 researchers  said . "These include screen unlock attempts, lock the screen, set the device global proxy, set screen lock password expiration, set storage encryption and disable cameras."  Once the app is "activated," the malware removes its gear-shaped icon from the home screen and runs in the background, abusing its wide permissions to access the device's contacts and call logs, track its location,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware released updates to fix the Spring4Shell vulnerability in multiple products<a href="https://securityaffairs.co/wordpress/129826/security/vmware-secure-spring4shell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released security updates to address the critical remote code execution vulnerability known as Spring4Shell.
+
+
+
+VMware has published security updates to address the critical remote code execution vulnerability known as Spring4Shell (CVE-2022-22965)....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub can now auto-block commits containing API keys, auth tokens<a href="https://www.bleepingcomputer.com/news/security/github-can-now-auto-block-commits-containing-api-keys-auth-tokens/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub announced on Monday that it expanded its code hosting platform's secrets scanning capabilities for GitHub Advanced Security customers to automatically block secret leaks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mars Stealer’s Cryptomining Attack Campaign Targets OpenOffice<a href="https://cyware.com/news/mars-stealers-cryptomining-attack-campaign-targets-openoffice-95ed9044"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morphisec laid bare a new Mars Stealer campaign—abusing Google Ads ranking techniques—to lure Canadian users into downloading a malicious version of OpenOffice. A bug in the configuration instructions of the cracked version of Mars Stealer, which appears to be an honest mistake by the operators, gi ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Hacker Groups Capitalizing on Ukraine Conflict for Distributing Malware<a href="https://thehackernews.com/2022/04/multiple-hacker-groups-capitalizing-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least three different advanced persistent threat (APT) groups from across the world have launched spear-phishing campaigns in mid-March 2022 using the ongoing Russo-Ukrainian war as a lure to distribute malware and steal sensitive information.  The campaigns, undertaken by El Machete, Lyceum, and SideWinder, have targeted a variety of sectors, including energy, financial, and governmental sectors in Nicaragua, Venezuela, Israel, Saudi Arabia, and Pakistan.  "The attackers use decoys ranging from official-looking documents to news articles or even job postings, depending on the targets and region," Check Point Research  said  in a report. "Many of these lure documents utilize malicious macros or template injection to gain an initial foothold into the targeted organizations, and then launch malware attacks."   The infection chains of  El Machete , a Spanish-speaking threat actor first documented in August 2014 by Kaspersky, involve the use of macro-laced decoy doc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted a new Android malware while investigating by Russia-linked Turla APT<a href="https://securityaffairs.co/wordpress/129820/malware/android-malware-turla-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new piece of Android malware while investigating activity associated with Russia-linked APT Turla.
+
+
+
+Researchers at cybersecurity firm Lab52 discovered a new piece of Android malware while investigating into infrastructure associated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware patches Spring4Shell RCE flaw in multiple products<a href="https://www.bleepingcomputer.com/news/security/vmware-patches-spring4shell-rce-flaw-in-multiple-products/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​​​​​​​VMWare has published a security advisory for the critical remote code execution vulnerability known as Spring4Shell, which impacts multiple of its cloud computing and virtualization products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco software update blocks exploit chain in network management software<a href="https://portswigger.net/daily-swig/cisco-software-update-blocks-exploit-chain-in-network-management-software?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher was able to achieve unauthenticated remote code execution against Cisco Nexus Dashboard Fabric Controller by exploiting an obsolete Java library with known vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brokenwire Hack Could Let Remote Attackers Disrupt Charging for Electric Vehicles<a href="https://thehackernews.com/2022/04/brokenwire-hack-could-let-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics from the University of Oxford and Armasuisse S+T has disclosed details of a new attack technique against the popular Combined Charging System ( CCS ) that could potentially disrupt the ability to charge electric vehicles at scale.  Dubbed " Brokenwire ," the method interferes with the control communications that transpire between the vehicle and charger to wirelessly abort the charging sessions from a distance of as far as 47m (151ft).  "While it may only be an inconvenience for individuals, interrupting the charging process of critical vehicles, such as electric ambulances, can have life-threatening consequences," the researchers  explained .   "Brokenwire has immediate implications for many of the 12 million battery EVs estimated to be on the roads worldwide — and profound effects on the new wave of electrification for vehicle fleets, both for private enterprise and for crucial public services."   Additional details of the attack
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brokenwire attack, how hackers can disrupt charging for electric vehicles<a href="https://securityaffairs.co/wordpress/129812/hacking/brokenwire-attack-charging-electric-vehicles.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boffins devised a new attack technique, dubbed Brokenwire, against the Combined Charging System (CCS) that could potentially disrupt charging for electric vehicles.
+
+
+
+A group of researchers from the University of Oxford and Armasuisse S+T has devised...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breach MailChimp's internal tools to target crypto customers<a href="https://www.bleepingcomputer.com/news/security/hackers-breach-mailchimps-internal-tools-to-target-crypto-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email marketing firm MailChimp disclosed on Sunday that they had been hit by hackers who gained access to internal customer support and account management tools to steal audience data and conduct phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emma Sleep Company admits attack on online checkout<a href="https://www.theregister.com/2022/04/04/emma_the_sleep_company_admits/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emma Sleep Company has confirmed to The Reg that it suffered a Magecart attack which enabled the cybercriminals to skim customers' credit or debit card data from its website.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Shed Light on BlackGuard Infostealer Malware Sold on Russian Hacking Forums<a href="https://thehackernews.com/2022/04/experts-shed-light-on-blackguard.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented "sophisticated" information-stealing malware named BlackGuard is being advertised for sale on Russian underground forums for a monthly subscription of $200.  "BlackGuard has the capability to steal all types of information related to Crypto wallets, VPN, Messengers, FTP credentials, saved browser credentials, and email clients," Zscaler ThreatLabz researchers Mitesh Wani and Kaivalya Khursale  said  in a report published last week.   Also sold for a lifetime price of $700, BlackGuard is designed as a .NET-based malware that's actively under development, boasting of a number of anti-analysis, anti-debugging, and anti-evasion features that allows it to kill processes related to antivirus engines and bypass string-based detection.  What's more, it checks the IP address of the infected devices by sending a request to the domain "https://ipwhois[.]app/xml/," and exit itself if the country is one among the Commonwealth of Indep
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Borat RAT, a new RAT that performs ransomware and DDoS attacks<a href="https://securityaffairs.co/wordpress/129805/malware/borat-rat-a-new-rat-that-performs-ransomware-and-ddos-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble researchers discovered a new remote access trojan (RAT) named Borat capable of conducting DDoS and ransomware attacks.
+
+
+
+Researchers from threat intelligence firm Cyble discovered a new RAT, named Borat, that enables operators to gain full access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 hackers evolve toolset, work with multiple ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/fin7-hackers-evolve-toolset-work-with-multiple-ransomware-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have compiled a detailed technical report on FIN7 operations from late 2021 to early 2022, showing that the actor is still very active, evolving, and trying new monetization methods.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+"Free easter chocolate basket" is a social media scam after your personal details<a href="https://blog.malwarebytes.com/social-engineering/2022/04/free-easter-chocolate-basket-is-a-social-media-scam-after-your-personal-details/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cadbury UK has issued a warning to its 315,000 followers on Twitter about a scam making the rounds on WhatsApp and other social media sites like Facebook. The Dorset Police Cyber Crime Unit posted an appeal about this scam on its Facebook page.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beastmode DDoS Botnet Exploiting New TOTOLINK Bugs to Enslave More Routers<a href="https://thehackernews.com/2022/04/beastmode-ddos-botnet-exploiting-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A variant of the Mirai botnet called Beastmode  has been observed adopting newly disclosed vulnerabilities in TOTOLINK routers between February and March 2022 to infect unpatched devices and expand its reach potentially.  "The Beastmode (aka B3astmode) Mirai-based DDoS campaign has aggressively updated its arsenal of exploits," Fortinet's FortiGuard Labs Research team  said . "Five new exploits were added within a month, with three targeting various models of TOTOLINK routers."  The list of exploited vulnerabilities in TOTOLINK routers is as follows -   CVE-2022-26210  (CVSS score: 9.8) - A command injection vulnerability that could be exploited to gain arbitrary code execution  CVE-2022-26186  (CVSS score: 9.8) - A command injection vulnerability affecting TOTOLINK N600R and A7100RU routers, and  CVE-2022-25075 to CVE-2022-25084  (CVSS scores: 9.8) - A command injection vulnerability impacting multiple TOTOLINK routers, leading to code execution    The other e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts discovered 15-Year-Old vulnerabilities in the PEAR PHP repository<a href="https://securityaffairs.co/wordpress/129797/hacking/pear-php-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonarSource discovered a 15-year-old flaw in the PEAR PHP repository that could have enabled supply chain attacks.
+
+
+
+Researchers from SonarSource discovered two 15-year-old security flaws in the PEAR (PHP Extension and Application Repository) repository...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on Iberdrola Compromises Data of Millions of Customers in Spain<a href="https://spanishnewstoday.com/iberdrola-cyber-attack-compromises-data-of-millions-of-customers-in-spain_1758410-a.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spain’s energy giant Iberdrola has revealed that it suffered a cyberattack on March 15 which has affected 1.3 million customers, although the company has reassured that the hackers were unable to access “sensitive” information such as bank details.
+</details>
+<div style="text-align: right" markdown="1">
+spanishnewstoday
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous leaked 15 GB of data allegedly stolen from the Russian Orthodox Church<a href="https://securityaffairs.co/wordpress/129760/hacktivism/anonymous-hacked-russian-orthodox-church.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After claiming to hack the private firms Thozis Corp and Marathon Group owned by oligarchs, the collective announced the hack of the Russian Orthodox Church’s charitable wing and leaked 15GB of data along with 57,000 emails.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 03, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

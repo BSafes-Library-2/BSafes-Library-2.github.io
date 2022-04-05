@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Hacker Groups Capitalizing on Ukraine Conflict for Distributing Malware<a href="https://thehackernews.com/2022/04/multiple-hacker-groups-capitalizing-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least three different advanced persistent threat (APT) groups from across the world have launched spear-phishing campaigns in mid-March 2022 using the ongoing Russo-Ukrainian war as a lure to distribute malware and steal sensitive information.  The campaigns, undertaken by El Machete, Lyceum, and SideWinder, have targeted a variety of sectors, including energy, financial, and governmental sectors in Nicaragua, Venezuela, Israel, Saudi Arabia, and Pakistan.  "The attackers use decoys ranging from official-looking documents to news articles or even job postings, depending on the targets and region," Check Point Research&nbsp; said &nbsp;in a report. "Many of these lure documents utilize malicious macros or template injection to gain an initial foothold into the targeted organizations, and then launch malware attacks."   The infection chains of&nbsp; El Machete , a Spanish-speaking threat actor first documented in August 2014 by Kaspersky, involve the use of macro-laced decoy doc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 hackers evolve toolset, work with multiple ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/fin7-hackers-evolve-toolset-work-with-multiple-ransomware-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have compiled a detailed technical report on FIN7 operations from late 2021 to early 2022, showing that the actor is still very active, evolving, and trying new monetization methods.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

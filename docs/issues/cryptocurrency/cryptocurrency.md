@@ -8,6 +8,21 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+April 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mars Stealer’s Cryptomining Attack Campaign Targets OpenOffice<a href="https://cyware.com/news/mars-stealers-cryptomining-attack-campaign-targets-openoffice-95ed9044"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morphisec laid bare a new Mars Stealer campaign—abusing Google Ads ranking techniques—to lure Canadian users into downloading a malicious version of OpenOffice. A bug in the configuration instructions of the cracked version of Mars Stealer, which appears to be an honest mistake by the operators, gi ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

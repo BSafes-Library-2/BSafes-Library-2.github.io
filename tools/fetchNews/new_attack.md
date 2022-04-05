@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+April 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brokenwire attack, how hackers can disrupt charging for electric vehicles<a href="https://securityaffairs.co/wordpress/129812/hacking/brokenwire-attack-charging-electric-vehicles.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boffins devised a new attack technique, dubbed Brokenwire, against the Combined Charging System (CCS) that could potentially disrupt charging for electric vehicles.
+
+
+
+A group of researchers from the University of Oxford and Armasuisse S+T has devised...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emma Sleep Company admits attack on online checkout<a href="https://www.theregister.com/2022/04/04/emma_the_sleep_company_admits/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emma Sleep Company has confirmed to The Reg that it suffered a Magecart attack which enabled the cybercriminals to skim customers' credit or debit card data from its website.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

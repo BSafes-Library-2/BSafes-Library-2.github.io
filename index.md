@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 04, 2022
+April 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp voice message phishing emails push info-stealing malware<a href="https://www.bleepingcomputer.com/news/security/whatsapp-voice-message-phishing-emails-push-info-stealing-malware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2022
+April 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Serious RCE Bug Found in Spring Cloud<a href="https://cyware.com/news/serious-rce-bug-found-in-spring-cloud-ca4eeed0"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 04, 2022
+April 04, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover New Android Spyware With C2 Server Linked to Turla Hackers<a href="https://thehackernews.com/2022/04/researchers-uncover-new-android-spyware.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2022
+April 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware released updates to fix the Spring4Shell vulnerability in multiple products<a href="https://securityaffairs.co/wordpress/129826/security/vmware-secure-spring4shell.html"> Full Text</a>
@@ -103,7 +103,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 04, 2022
+April 04, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub can now auto-block commits containing API keys, auth tokens<a href="https://www.bleepingcomputer.com/news/security/github-can-now-auto-block-commits-containing-api-keys-auth-tokens/"> Full Text</a>
@@ -119,7 +119,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2022
+April 4, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mars Stealer’s Cryptomining Attack Campaign Targets OpenOffice<a href="https://cyware.com/news/mars-stealers-cryptomining-attack-campaign-targets-openoffice-95ed9044"> Full Text</a>
@@ -136,7 +136,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 04, 2022
+April 04, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Hacker Groups Capitalizing on Ukraine Conflict for Distributing Malware<a href="https://thehackernews.com/2022/04/multiple-hacker-groups-capitalizing-on.html"> Full Text</a>
@@ -152,7 +152,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2022
+April 4, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts spotted a new Android malware while investigating by Russia-linked Turla APT<a href="https://securityaffairs.co/wordpress/129820/malware/android-malware-turla-apt.html"> Full Text</a>
@@ -172,7 +172,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 04, 2022
+April 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware patches Spring4Shell RCE flaw in multiple products<a href="https://www.bleepingcomputer.com/news/security/vmware-patches-spring4shell-rce-flaw-in-multiple-products/"> Full Text</a>
@@ -188,7 +188,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2022
+April 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco software update blocks exploit chain in network management software<a href="https://portswigger.net/daily-swig/cisco-software-update-blocks-exploit-chain-in-network-management-software?&web_view=true"> Full Text</a>
@@ -204,7 +204,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 04, 2022
+April 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brokenwire Hack Could Let Remote Attackers Disrupt Charging for Electric Vehicles<a href="https://thehackernews.com/2022/04/brokenwire-hack-could-let-remote.html"> Full Text</a>
@@ -220,7 +220,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2022
+April 4, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brokenwire attack, how hackers can disrupt charging for electric vehicles<a href="https://securityaffairs.co/wordpress/129812/hacking/brokenwire-attack-charging-electric-vehicles.html"> Full Text</a>
@@ -240,7 +240,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 04, 2022
+April 04, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers breach MailChimp's internal tools to target crypto customers<a href="https://www.bleepingcomputer.com/news/security/hackers-breach-mailchimps-internal-tools-to-target-crypto-customers/"> Full Text</a>
@@ -256,7 +256,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2022
+April 4, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emma Sleep Company admits attack on online checkout<a href="https://www.theregister.com/2022/04/04/emma_the_sleep_company_admits/?&web_view=true"> Full Text</a>
@@ -272,7 +272,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 04, 2022
+April 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Shed Light on BlackGuard Infostealer Malware Sold on Russian Hacking Forums<a href="https://thehackernews.com/2022/04/experts-shed-light-on-blackguard.html"> Full Text</a>
@@ -288,7 +288,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2022
+April 4, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Borat RAT, a new RAT that performs ransomware and DDoS attacks<a href="https://securityaffairs.co/wordpress/129805/malware/borat-rat-a-new-rat-that-performs-ransomware-and-ddos-attacks.html"> Full Text</a>
@@ -308,7 +308,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 04, 2022
+April 04, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 hackers evolve toolset, work with multiple ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/fin7-hackers-evolve-toolset-work-with-multiple-ransomware-gangs/"> Full Text</a>
@@ -324,7 +324,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2022
+April 4, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 "Free easter chocolate basket" is a social media scam after your personal details<a href="https://blog.malwarebytes.com/social-engineering/2022/04/free-easter-chocolate-basket-is-a-social-media-scam-after-your-personal-details/?&web_view=true"> Full Text</a>
@@ -340,7 +340,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 04, 2022
+April 04, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beastmode DDoS Botnet Exploiting New TOTOLINK Bugs to Enslave More Routers<a href="https://thehackernews.com/2022/04/beastmode-ddos-botnet-exploiting-new.html"> Full Text</a>
@@ -356,7 +356,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2022
+April 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts discovered 15-Year-Old vulnerabilities in the PEAR PHP repository<a href="https://securityaffairs.co/wordpress/129797/hacking/pear-php-critical-flaws.html"> Full Text</a>
@@ -376,7 +376,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2022
+April 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack on Iberdrola Compromises Data of Millions of Customers in Spain<a href="https://spanishnewstoday.com/iberdrola-cyber-attack-compromises-data-of-millions-of-customers-in-spain_1758410-a.html?&web_view=true"> Full Text</a>
@@ -392,7 +392,7 @@ spanishnewstoday
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2022
+April 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous leaked 15 GB of data allegedly stolen from the Russian Orthodox Church<a href="https://securityaffairs.co/wordpress/129760/hacktivism/anonymous-hacked-russian-orthodox-church.html?&web_view=true"> Full Text</a>

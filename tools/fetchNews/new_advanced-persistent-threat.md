@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted a new Android malware while investigating by Russia-linked Turla APT<a href="https://securityaffairs.co/wordpress/129820/malware/android-malware-turla-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new piece of Android malware while investigating activity associated with Russia-linked APT Turla.
+
+
+
+Researchers at cybersecurity firm Lab52 discovered a new piece of Android malware while investigating into infrastructure associated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

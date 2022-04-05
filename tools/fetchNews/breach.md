@@ -8,6 +8,70 @@ nav_order: 900029
 
 ## Breach
 ---
+April 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Documents reveal financial fallout of Salt Lake City IT security breach<a href="https://www.ksl.com/article/50380004/documents-reveal-financial-fallout-of-salt-lake-city-it-security-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+That document, obtained by the KSL Investigators through a public records request, states more than 150 databases and all public safety software systems were reviewed for potential compromises but, "none have been found."
+</details>
+<div style="text-align: right" markdown="1">
+KSL
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous leaked 15 GB of data allegedly stolen from the Russian Orthodox Church<a href="https://securityaffairs.co/wordpress/129760/hacktivism/anonymous-hacked-russian-orthodox-church.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous claims to have hacked the Russian Orthodox Church 's charitable wing and leaked 15 GB of alleged stolen data.
+
+
+
+Anonymous continues to target Russian government entities and private businesses, this week the group claimed to have hacked the private...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ola Finance Says Attackers Stole $4.7M in 'Re-Entrancy' Exploit<a href="https://news.yahoo.com/ola-finance-says-attackers-stole-074434812.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Decentralized lending platform Ola Finance was exploited for over $4.67 million in a “re-entrancy” cyberattack, according to a post-mortem report released by the developers.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine intelligence leaks names of 620 alleged Russian FSB agents<a href="https://securityaffairs.co/wordpress/129736/cyber-warfare-2/ukraine-intelligence-leaks-names-of-620-alleged-russian-fsb-agents.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian Defense Ministry’s Directorate of Intelligence leaked personal data belonging to 620 alleged Russian FSB agents.
+
+
+
+The Ukrainian Defense Ministry’s Directorate of Intelligence has leaked the alleged personal data of 620 Russian FSB officers....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

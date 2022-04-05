@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+April 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beastmode DDoS Botnet Exploiting New TOTOLINK Bugs to Enslave More Routers<a href="https://thehackernews.com/2022/04/beastmode-ddos-botnet-exploiting-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A variant of the Mirai botnet called Beastmode  has been observed adopting newly disclosed vulnerabilities in TOTOLINK routers between February and March 2022 to infect unpatched devices and expand its reach potentially.  "The Beastmode (aka B3astmode) Mirai-based DDoS campaign has aggressively updated its arsenal of exploits," Fortinet's FortiGuard Labs Research team&nbsp; said . "Five new exploits were added within a month, with three targeting various models of TOTOLINK routers."  The list of exploited vulnerabilities in TOTOLINK routers is as follows -   CVE-2022-26210 &nbsp;(CVSS score: 9.8) - A command injection vulnerability that could be exploited to gain arbitrary code execution  CVE-2022-26186 &nbsp;(CVSS score: 9.8) - A command injection vulnerability affecting TOTOLINK N600R and A7100RU routers, and  CVE-2022-25075 to CVE-2022-25084 &nbsp;(CVSS scores: 9.8) - A command injection vulnerability impacting multiple TOTOLINK routers, leading to code execution    The other e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

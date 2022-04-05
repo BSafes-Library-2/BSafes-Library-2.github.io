@@ -8,6 +8,28 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Police charges two teenagers for their alleged role in the Lapsus$ extortion group<a href="https://securityaffairs.co/wordpress/129754/cyber-crime/uk-polices-charged-2-lapsus-teenagers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of London Police charged two of the seven teenagers who were arrested for their alleged role in the LAPSUS$ data extortion gang.
+
+
+
+The duo has been released on bail after appearing in the Highbury Corner Magistrates Court court on Friday.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

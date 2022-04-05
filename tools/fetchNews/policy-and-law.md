@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK charges two teenagers linked to the Lapsus$ hacking group<a href="https://www.bleepingcomputer.com/news/security/uk-charges-two-teenagers-linked-to-the-lapsus-hacking-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two teenagers from the UK charged with helping the Lapsus$ extortion gang have been released on bail after appearing in the Highbury Corner Magistrates Court court on Friday morning.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
