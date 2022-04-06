@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New Android Spyware With C2 Server Linked to Turla Hackers<a href="https://thehackernews.com/2022/04/researchers-uncover-new-android-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Android spyware application has been spotted masquerading as a "Process Manager" service to stealthily siphon sensitive information stored in the infected devices.  Interestingly, the app — that has the package name " com.remote.app " — establishes contact with a remote command-and-control server, 82.146.35[.]240, which has been previously identified as infrastructure belonging to the Russia-based hacking group known as&nbsp; Turla .   "When the application is run, a warning appears about the permissions granted to the application," Lab52 researchers&nbsp; said . "These include screen unlock attempts, lock the screen, set the device global proxy, set screen lock password expiration, set storage encryption and disable cameras."  Once the app is "activated," the malware removes its gear-shaped icon from the home screen and runs in the background, abusing its wide permissions to access the device's contacts and call logs, track its location,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

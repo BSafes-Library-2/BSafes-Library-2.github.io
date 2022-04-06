@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coro secures $60M at ~$500M valuation for an all-in, SaaS-based cyber protection platform aimed at SMBs<a href="https://techcrunch.com/2022/04/05/coro-secures-60m-at-around-a-500m-valuation-for-an-all-in-saas-based-cyber-protection-platform-aimed-at-smbs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alongside this latest round, the company is also disclosing for the first time an additional $20 million raised in the last six months, bringing the total to $80 million in the period.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

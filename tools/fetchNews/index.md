@@ -34,6 +34,455 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia warns of money recovery phishing luring past victims<a href="https://www.bleepingcomputer.com/news/security/australia-warns-of-money-recovery-phishing-luring-past-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Competition & Consumer Commission has published an announcement to raise awareness about a spike in money recovery scams.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IPfuscation is Hive’s New Technique to Evade Detection<a href="https://cyware.com/news/ipfuscation-is-hives-new-technique-to-evade-detection-96c3c748"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hive ransomware gang is using a new IPfuscation tactic to hide its payload wherein they hide 64-bit Windows executables in the form of an array of ASCII IPv4 addresses.  Additionally, the researchers spotted additional IPfuscation variants using IPv6 instead of IPv4 addresses, UUIDs, and MAC addres ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Hackers Leveraging Password Reuse and Software Supply Chain Attacks<a href="https://thehackernews.com/2022/04/fin7-hackers-leveraging-password-reuse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious cybercrime group known as FIN7 has diversified its initial access vectors to incorporate software supply chain compromise and the use of stolen credentials, new research has revealed.  "Data theft extortion or ransomware deployment following FIN7-attributed activity at multiple organizations, as well as technical overlaps, suggests that FIN7 actors have been associated with various ransomware operations over time," incident response firm Mandiant  said  in a Monday analysis.  The cybercriminal group, since its emergence in the mid-2010s, has gained notoriety for large-scale malware campaigns targeting the point-of-sale (POS) systems aimed at restaurant, gambling, and hospitality industries with credit card-stealing malware.   FIN7's shift in monetization strategy towards ransomware follows an October 2021 report from Recorded Future's Gemini Advisory unit, which  found  the adversary setting up a fake front company named Bastion Secure to recruit unwitt
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Armageddon APT targets Ukrainian state organizations, CERT-UA warns<a href="https://securityaffairs.co/wordpress/129859/apt/armageddon-apt-targets-ukrainian-state-orgs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine CERT-UA spotted a spear-phishing campaign conducted by Russia-linked Armageddon APT targeting local state organizations.
+
+
+
+Ukraine CERT-UA published a security advisory to warn of spear-phishing attacks conducted by Russia-linked Armageddon...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cash App notifies 8.2 million US customers about data breach<a href="https://www.bleepingcomputer.com/news/security/cash-app-notifies-82-million-us-customers-about-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cash App is notifying 8.2 million current and former US customers of a data breach after a former employee accessed their account information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beastmode Botnet Adds New Exploits to its Arsenal<a href="https://cyware.com/news/beastmode-botnet-adds-new-exploits-to-its-arsenal-2d2144e0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Fortinet, BeastMode attempts to infect TOTOLINK routers by exploiting several vulnerabilities. The threat actors added the exploits just a week after the PoCs were publicly released on GitHub.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Battling Cybersecurity Risk: How to Start Somewhere, Right Now<a href="https://thehackernews.com/2022/04/battling-cybersecurity-risk-how-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between a series of recent high-profile cybersecurity incidents and the heightened geopolitical tensions, there's rarely been a more dangerous cybersecurity environment. It's a danger that affects every organization – automated attack campaigns don't discriminate between targets.  The situation is driven in large part due to a relentless rise in vulnerabilities, with tens of thousands of brand-new vulnerabilities discovered every year. For tech teams that are probably already under-resourced, guarding against this rising tide of threats is an impossible task.  Yet, in the battle against cybercrime, some of the most effective and most sensible mitigations are sometimes neglected. In this article, we'll outline why cybersecurity risks have escalated so dramatically – and which easy wins your organization can make for a significant difference in your cybersecurity posture, right now.  Recent major cyberattacks point to the danger  Cyber security has arguably never been mo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous targets the Russian Military and State Television and Radio propaganda<a href="https://securityaffairs.co/wordpress/129844/hacktivism/anonymous-targets-russian-military-state-television.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous continues to support Ukraine against the Russian criminal invasion targeting the Russian military and propaganda.
+
+
+
+Anonymous leaked personal details of the Russian military stationed in Bucha where the Russian military carried out a massacre...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers abuse VLC Media Player to launch malware loader<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-vlc-media-player-to-launch-malware-loader/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered a long-running malicious campaign from hackers associated with the Chinese government who are using VLC Media Player to launch a custom malware loader.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coro secures $60M at ~$500M valuation for an all-in, SaaS-based cyber protection platform aimed at SMBs<a href="https://techcrunch.com/2022/04/05/coro-secures-60m-at-around-a-500m-valuation-for-an-all-in-saas-based-cyber-protection-platform-aimed-at-smbs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alongside this latest round, the company is also disclosing for the first time an additional $20 million raised in the last six months, bringing the total to $80 million in the period.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany Shuts Down Russian Hydra Darknet Market; Seizes $25 Million in Bitcoin<a href="https://thehackernews.com/2022/04/germany-shuts-down-russian-hydra.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany's Federal Criminal Police Office, the Bundeskriminalamt (BKA), on Tuesday announced the official takedown of Hydra, the world's largest illegal dark web marketplace that has cumulatively facilitated over $5 billion in Bitcoin transactions to date.  "Bitcoins amounting to currently the equivalent of approximately €23 million were seized, which are attributed to the marketplace," the BKA said  in a press release. Blockchain analytics firm Elliptic confirmed  that the seizure occurred on April 5, 2022 in a series of 88 transactions amounting to 543.3 BTC.   The agency attributed the shutdown of Hydra to an extensive investigation operation conducted by its Central Office for Combating Cybercrime (ZIT) in partnership with U.S. law enforcement authorities since August 2021.  Launched in 2015, Hydra was a Russian-language darknet marketplace that opened as a competitor to the now-defunct Russian Anonymous Marketplace (aka RAMP), primarily known for its high-traffic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Spring4Shell flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/129838/security/cisa-adds-spring4shell-flaw-to-its-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA added the recently disclosed remote code execution (RCE) vulnerability Spring4Shell to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the recently disclosed CVE-2022-22965 (aka...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpringShell attacks target about one in six vulnerable orgs<a href="https://www.bleepingcomputer.com/news/security/springshell-attacks-target-about-one-in-six-vulnerable-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Roughly one out of six organizations worldwide that are impacted by the Spring4Shell zero-day vulnerability have already been targeted by threat actors, according to statistics from one cybersecurity company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AsyncRAT campaigns feature new version of 3LOSH crypter<a href="https://blog.talosintelligence.com/2022/04/asyncrat-3losh-update.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor(s) behind these campaigns have been using 3LOSH to generate the obfuscated code responsible for the initial infection process. The same operator is likely distributing a variety of commodity RATs, such as AsyncRAT and LimeRAT.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Trace Widespread Espionage Attacks Back to Chinese 'Cicada' Hackers<a href="https://thehackernews.com/2022/04/researchers-trace-widespread-espionage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese state-backed advanced persistent threat (APT) group known for singling out Japanese entities has been attributed to a new long-running espionage campaign targeting new geographies, suggesting a "widening" of the threat actor's targeting.  The widespread intrusions, which are believed to have commenced at the earliest in mid-2021 and continued as recently as February 2022, have been tied to a group tracked as Cicada , which is also known as APT10, Stone Panda, Potassium, Bronze Riverside, or MenuPass Team.  "Victims in this Cicada (aka APT10) campaign include government, legal, religious, and non-governmental organizations (NGOs) in multiple countries around the world, including in Europe, Asia, and North America," researchers from the Symantec Threat Hunter Team, part of Broadcom Software,  said  in a report shared with The Hacker News.   "There is a strong focus on victims in the government and NGO sectors, with some of these organizations worki
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MailChimp breached, intruders conducted phishing attacks against crypto customers<a href="https://securityaffairs.co/wordpress/129831/data-breach/mailchimp-breached-cryptocurrency-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors gained access to internal tools of the email marketing giant MailChimp to conduct phishing attacks against crypto customers.
+
+
+
+During the weekend, multiple owners of Trezor hardware cryptocurrency wallets reported having received...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft detects Spring4Shell attacks across its cloud services<a href="https://www.bleepingcomputer.com/news/security/microsoft-detects-spring4shell-attacks-across-its-cloud-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said that it's currently tracking a "low volume of exploit attempts" targeting the critical Spring4Shell (aka SpringShell) remote code execution (RCE) vulnerability across its cloud services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Works hit by hackers, UK retailer shuts some stores after problems with payment tills<a href="https://www.bitdefender.com/blog/hotforsecurity/the-works-hit-by-hackers-uk-retailer-shuts-some-stores-after-problems-with-payment-tills/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK high street retailer The Works was forced to shut some of its stores following a "cyber security incident" which saw hackers gaining unauthorized access to its systems.
+</details>
+<div style="text-align: right" markdown="1">
+Bit Defender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is API Security on Your Radar?<a href="https://thehackernews.com/2022/04/is-api-security-on-your-radar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the growth in digital transformation, the API management market is set to grow  by more than 30%   by the year 2025 as more businesses build web APIs and consumers grow to rely on them for everything from mobile apps to customized digital services.  As part of strategic business planning, an API helps generate revenue by allowing customers access to the functionality of a website or computer program through custom applications.  As more and more businesses are implementing APIs, the risk of API attacks increases.  By 2022, Gartner predicted that API (Application Programming Interface) attacks would become the most common attack vector for enterprise web applications.  Cybercriminals are targeting APIs more aggressively than ever before, and businesses must take a proactive approach to  API security  to combat this new aggression.  API and The Business World  With integrating APIs into modern IT environments, businesses are becoming increasingly data-driven.  Just as a restaurant
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft adds on-premises Exchange, SharePoint to bug bounty program<a href="https://www.bleepingcomputer.com/news/security/microsoft-adds-on-premises-exchange-sharepoint-to-bug-bounty-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced that Exchange, SharePoint, and Skype for Business on-premises are now part of the Applications and On-Premises Servers Bounty Program starting today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thwarting Loaders: From SocGholish to BLISTER’s LockBit Payload<a href="https://www.trendmicro.com/en_us/research/22/d/Thwarting-Loaders-From-SocGholish-to-BLISTERs-LockBit-Payload.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SocGholish has been around longer than BLISTER, having already established itself well among threat actors for its advanced delivery framework. Reports show that its framework of attack has previously been used by threat actors from as early as 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Breach Mailchimp Email Marketing Firm to Launch Crypto Phishing Scams<a href="https://thehackernews.com/2022/04/hackers-breach-mailchimp-email.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email marketing service Mailchimp on Monday revealed a data breach that resulted in the compromise of an internal tool to gain unauthorized access to customer accounts and stage phishing attacks.   The development was first  reported  by Bleeping Computer.  The company, which was acquired by financial software firm Intuit  in September 2021, told the publication that it became aware of the incident on March 26 when it became aware of a malicious party accessing the customer support tool.  "The incident was propagated by an external actor who conducted a successful social engineering attack on Mailchimp employees, resulting in employee credentials being compromised," Siobhan Smyth, Mailchimp's chief information security officer, was quoted as saying.   Although Mailchimp stated it acted quickly to terminate access to the breached employee account, the siphoned credentials were used to access 319 MailChimp accounts and further export the mailing lists pertaining to 102 acc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft announces new Windows 11 security, encryption features<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-windows-11-security-encryption-features/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says that Windows 11 will get more security improvements in upcoming releases, which will add more protection against cybersecurity threats, offer better encryption, and block malicious apps and drivers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MacOS SUHelper Root Privilege Escalation Vulnerability: A Deep Dive Into CVE-2022-22639<a href="https://www.trendmicro.com/en_us/research/22/d/macos-suhelper-root-privilege-escalation-vulnerability-a-deep-di.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Designated as CVE-2022-22639, the vulnerability could allow root privilege escalation if successfully exploited. After discovering the flaw, we reported it to Apple, hence the release of a patch through the macOS Monterey 12.3 security update.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Active Exploitation of Critical Spring4Shell Vulnerability<a href="https://thehackernews.com/2022/04/cisa-warns-of-active-exploitation-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added the recently disclosed remote code execution (RCE) vulnerability affecting the Spring Framework, to its  Known Exploited Vulnerabilities Catalog  based on "evidence of active exploitation."  The critical severity flaw, assigned the identifier  CVE-2022-22965  (CVSS score: 9.8) and dubbed "Spring4Shell", impacts Spring model–view–controller (MVC) and Spring WebFlux applications running on Java Development Kit 9 and later.  "Exploitation requires an endpoint with DataBinder enabled (e.g., a POST request that decodes data from the request body automatically) and depends heavily on the servlet container for the application," Praetorian researchers Anthony Weems and Dallas Kaman noted last week.  Although exact details of in-the-wild abuse remain unclear, information security company SecurityScorecard  said  "active scanning for this vulnerability has been observed coming fro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine spots Russian-linked 'Armageddon' phishing attacks<a href="https://www.bleepingcomputer.com/news/security/ukraine-spots-russian-linked-armageddon-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has spotted new phishing attempts attributed to the Russian threat group tracked as Armageddon (Gamaredon).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yokogawa Patches Flaws Allowing Disruption, Manipulation of Physical Processes<a href="https://www.securityweek.com/yokogawa-patches-flaws-allowing-disruption-manipulation-physical-processes?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese automation giant Yokogawa recently patched a series of vulnerabilities in control system products that, according to researchers, can be exploited for the disruption or manipulation of physical processes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

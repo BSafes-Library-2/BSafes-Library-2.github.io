@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Battling Cybersecurity Risk: How to Start Somewhere, Right Now<a href="https://thehackernews.com/2022/04/battling-cybersecurity-risk-how-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between a series of recent high-profile cybersecurity incidents and the heightened geopolitical tensions, there's rarely been a more dangerous cybersecurity environment. It's a danger that affects every organization – automated attack campaigns don't discriminate between targets.  The situation is driven in large part due to a relentless rise in vulnerabilities, with tens of thousands of brand-new vulnerabilities discovered every year. For tech teams that are probably already under-resourced, guarding against this rising tide of threats is an impossible task.  Yet, in the battle against cybercrime, some of the most effective and most sensible mitigations are sometimes neglected. In this article, we'll outline why cybersecurity risks have escalated so dramatically – and which easy wins your organization can make for a significant difference in your cybersecurity posture, right now.  Recent major cyberattacks point to the danger  Cyber security has arguably never been mo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

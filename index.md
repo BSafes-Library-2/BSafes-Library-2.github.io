@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2022
+April 05, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia warns of money recovery phishing luring past victims<a href="https://www.bleepingcomputer.com/news/security/australia-warns-of-money-recovery-phishing-luring-past-victims/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2022
+April 5, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IPfuscation is Hive’s New Technique to Evade Detection<a href="https://cyware.com/news/ipfuscation-is-hives-new-technique-to-evade-detection-96c3c748"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2022
+April 05, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 Hackers Leveraging Password Reuse and Software Supply Chain Attacks<a href="https://thehackernews.com/2022/04/fin7-hackers-leveraging-password-reuse.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2022
+April 5, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Armageddon APT targets Ukrainian state organizations, CERT-UA warns<a href="https://securityaffairs.co/wordpress/129859/apt/armageddon-apt-targets-ukrainian-state-orgs.html"> Full Text</a>
@@ -103,7 +103,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2022
+April 05, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cash App notifies 8.2 million US customers about data breach<a href="https://www.bleepingcomputer.com/news/security/cash-app-notifies-82-million-us-customers-about-data-breach/"> Full Text</a>
@@ -119,7 +119,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2022
+April 5, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beastmode Botnet Adds New Exploits to its Arsenal<a href="https://cyware.com/news/beastmode-botnet-adds-new-exploits-to-its-arsenal-2d2144e0"> Full Text</a>
@@ -135,7 +135,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2022
+April 05, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Battling Cybersecurity Risk: How to Start Somewhere, Right Now<a href="https://thehackernews.com/2022/04/battling-cybersecurity-risk-how-to.html"> Full Text</a>
@@ -151,7 +151,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2022
+April 5, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous targets the Russian Military and State Television and Radio propaganda<a href="https://securityaffairs.co/wordpress/129844/hacktivism/anonymous-targets-russian-military-state-television.html"> Full Text</a>
@@ -171,7 +171,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2022
+April 05, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese hackers abuse VLC Media Player to launch malware loader<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-vlc-media-player-to-launch-malware-loader/"> Full Text</a>
@@ -187,7 +187,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2022
+April 5, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coro secures $60M at ~$500M valuation for an all-in, SaaS-based cyber protection platform aimed at SMBs<a href="https://techcrunch.com/2022/04/05/coro-secures-60m-at-around-a-500m-valuation-for-an-all-in-saas-based-cyber-protection-platform-aimed-at-smbs/?&web_view=true"> Full Text</a>
@@ -203,7 +203,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2022
+April 05, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Germany Shuts Down Russian Hydra Darknet Market; Seizes $25 Million in Bitcoin<a href="https://thehackernews.com/2022/04/germany-shuts-down-russian-hydra.html"> Full Text</a>
@@ -219,7 +219,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2022
+April 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Spring4Shell flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/129838/security/cisa-adds-spring4shell-flaw-to-its-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -239,7 +239,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2022
+April 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SpringShell attacks target about one in six vulnerable orgs<a href="https://www.bleepingcomputer.com/news/security/springshell-attacks-target-about-one-in-six-vulnerable-orgs/"> Full Text</a>
@@ -255,7 +255,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2022
+April 5, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AsyncRAT campaigns feature new version of 3LOSH crypter<a href="https://blog.talosintelligence.com/2022/04/asyncrat-3losh-update.html?&web_view=true"> Full Text</a>
@@ -271,7 +271,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2022
+April 05, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Trace Widespread Espionage Attacks Back to Chinese 'Cicada' Hackers<a href="https://thehackernews.com/2022/04/researchers-trace-widespread-espionage.html"> Full Text</a>
@@ -287,7 +287,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2022
+April 5, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MailChimp breached, intruders conducted phishing attacks against crypto customers<a href="https://securityaffairs.co/wordpress/129831/data-breach/mailchimp-breached-cryptocurrency-phishing.html"> Full Text</a>
@@ -307,7 +307,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2022
+April 05, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft detects Spring4Shell attacks across its cloud services<a href="https://www.bleepingcomputer.com/news/security/microsoft-detects-spring4shell-attacks-across-its-cloud-services/"> Full Text</a>
@@ -323,7 +323,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2022
+April 5, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Works hit by hackers, UK retailer shuts some stores after problems with payment tills<a href="https://www.bitdefender.com/blog/hotforsecurity/the-works-hit-by-hackers-uk-retailer-shuts-some-stores-after-problems-with-payment-tills/?&web_view=true"> Full Text</a>
@@ -339,7 +339,7 @@ Bit Defender
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2022
+April 05, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is API Security on Your Radar?<a href="https://thehackernews.com/2022/04/is-api-security-on-your-radar.html"> Full Text</a>
@@ -355,7 +355,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2022
+April 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft adds on-premises Exchange, SharePoint to bug bounty program<a href="https://www.bleepingcomputer.com/news/security/microsoft-adds-on-premises-exchange-sharepoint-to-bug-bounty-program/"> Full Text</a>
@@ -371,7 +371,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2022
+April 5, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thwarting Loaders: From SocGholish to BLISTER’s LockBit Payload<a href="https://www.trendmicro.com/en_us/research/22/d/Thwarting-Loaders-From-SocGholish-to-BLISTERs-LockBit-Payload.html?&web_view=true"> Full Text</a>
@@ -387,7 +387,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2022
+April 05, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Breach Mailchimp Email Marketing Firm to Launch Crypto Phishing Scams<a href="https://thehackernews.com/2022/04/hackers-breach-mailchimp-email.html"> Full Text</a>
@@ -403,7 +403,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2022
+April 05, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft announces new Windows 11 security, encryption features<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-windows-11-security-encryption-features/"> Full Text</a>
@@ -435,7 +435,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2022
+April 05, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Active Exploitation of Critical Spring4Shell Vulnerability<a href="https://thehackernews.com/2022/04/cisa-warns-of-active-exploitation-of.html"> Full Text</a>
@@ -451,7 +451,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2022
+April 05, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine spots Russian-linked 'Armageddon' phishing attacks<a href="https://www.bleepingcomputer.com/news/security/ukraine-spots-russian-linked-armageddon-phishing-attacks/"> Full Text</a>
@@ -467,7 +467,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2022
+April 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Yokogawa Patches Flaws Allowing Disruption, Manipulation of Physical Processes<a href="https://www.securityweek.com/yokogawa-patches-flaws-allowing-disruption-manipulation-physical-processes?&web_view=true"> Full Text</a>

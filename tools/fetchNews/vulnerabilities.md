@@ -8,6 +8,99 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Serious RCE Bug Found in Spring Cloud<a href="https://cyware.com/news/serious-rce-bug-found-in-spring-cloud-ca4eeed0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A serious vulnerability has been discovered in the Spring Cloud Java Framework that may lead to RCE or result in the compromise of an entire host. Tracked as Spring4 Shell, it was found circulating on a Chinese cybersecurity site and QQ chat service. Currently, a way to partially stop Spring4Shell  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware released updates to fix the Spring4Shell vulnerability in multiple products<a href="https://securityaffairs.co/wordpress/129826/security/vmware-secure-spring4shell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released security updates to address the critical remote code execution vulnerability known as Spring4Shell.
+
+
+
+VMware has published security updates to address the critical remote code execution vulnerability known as Spring4Shell (CVE-2022-22965)....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware patches Spring4Shell RCE flaw in multiple products<a href="https://www.bleepingcomputer.com/news/security/vmware-patches-spring4shell-rce-flaw-in-multiple-products/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​​​​​​​VMWare has published a security advisory for the critical remote code execution vulnerability known as Spring4Shell, which impacts multiple of its cloud computing and virtualization products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco software update blocks exploit chain in network management software<a href="https://portswigger.net/daily-swig/cisco-software-update-blocks-exploit-chain-in-network-management-software?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher was able to achieve unauthenticated remote code execution against Cisco Nexus Dashboard Fabric Controller by exploiting an obsolete Java library with known vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brokenwire Hack Could Let Remote Attackers Disrupt Charging for Electric Vehicles<a href="https://thehackernews.com/2022/04/brokenwire-hack-could-let-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics from the University of Oxford and Armasuisse S+T has disclosed details of a new attack technique against the popular Combined Charging System ( CCS ) that could potentially disrupt the ability to charge electric vehicles at scale.  Dubbed " Brokenwire ," the method interferes with the control communications that transpire between the vehicle and charger to wirelessly abort the charging sessions from a distance of as far as 47m (151ft).  "While it may only be an inconvenience for individuals, interrupting the charging process of critical vehicles, such as electric ambulances, can have life-threatening consequences," the researchers&nbsp; explained .   "Brokenwire has immediate implications for many of the 12 million battery EVs estimated to be on the roads worldwide — and profound effects on the new wave of electrification for vehicle fleets, both for private enterprise and for crucial public services."   Additional details of the attack
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts discovered 15-Year-Old vulnerabilities in the PEAR PHP repository<a href="https://securityaffairs.co/wordpress/129797/hacking/pear-php-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonarSource discovered a 15-year-old flaw in the PEAR PHP repository that could have enabled supply chain attacks.
+
+
+
+Researchers from SonarSource discovered two 15-year-old security flaws in the PEAR (PHP Extension and Application Repository) repository...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+April 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cash App notifies 8.2 million US customers about data breach<a href="https://www.bleepingcomputer.com/news/security/cash-app-notifies-82-million-us-customers-about-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cash App is notifying 8.2 million current and former US customers of a data breach after a former employee accessed their account information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MailChimp breached, intruders conducted phishing attacks against crypto customers<a href="https://securityaffairs.co/wordpress/129831/data-breach/mailchimp-breached-cryptocurrency-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors gained access to internal tools of the email marketing giant MailChimp&nbsp;to conduct phishing attacks against crypto customers.
+
+
+
+During the weekend, multiple owners of Trezor hardware cryptocurrency wallets reported having received...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Breach Mailchimp Email Marketing Firm to Launch Crypto Phishing Scams<a href="https://thehackernews.com/2022/04/hackers-breach-mailchimp-email.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email marketing service Mailchimp on Monday revealed a data breach that resulted in the compromise of an internal tool to gain unauthorized access to customer accounts and stage phishing attacks.&nbsp;  The development was first&nbsp; reported &nbsp;by Bleeping Computer.  The company, which was acquired by financial software firm Intuit  in September 2021, told the publication that it became aware of the incident on March 26 when it became aware of a malicious party accessing the customer support tool.  "The incident was propagated by an external actor who conducted a successful social engineering attack on Mailchimp employees, resulting in employee credentials being compromised," Siobhan Smyth, Mailchimp's chief information security officer, was quoted as saying.   Although Mailchimp stated it acted quickly to terminate access to the breached employee account, the siphoned credentials were used to access 319 MailChimp accounts and further export the mailing lists pertaining to 102 acc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

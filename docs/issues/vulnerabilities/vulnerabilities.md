@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Spring4Shell flaw to its&nbsp;Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/129838/security/cisa-adds-spring4shell-flaw-to-its-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA added the recently disclosed remote code execution (RCE) vulnerability Spring4Shell to its&nbsp;Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the recently disclosed CVE-2022-22965&nbsp;(aka...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpringShell attacks target about one in six vulnerable orgs<a href="https://www.bleepingcomputer.com/news/security/springshell-attacks-target-about-one-in-six-vulnerable-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Roughly one out of six organizations worldwide that are impacted by the Spring4Shell zero-day vulnerability have already been targeted by threat actors, according to statistics from one cybersecurity company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft adds on-premises Exchange, SharePoint to bug bounty program<a href="https://www.bleepingcomputer.com/news/security/microsoft-adds-on-premises-exchange-sharepoint-to-bug-bounty-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced that Exchange, SharePoint, and Skype for Business on-premises are now part of the Applications and On-Premises Servers Bounty Program starting today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yokogawa Patches Flaws Allowing Disruption, Manipulation of Physical Processes<a href="https://www.securityweek.com/yokogawa-patches-flaws-allowing-disruption-manipulation-physical-processes?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese automation giant Yokogawa recently patched a series of vulnerabilities in control system products that, according to researchers, can be exploited for the disruption or manipulation of physical processes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

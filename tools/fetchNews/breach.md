@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+April 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breach MailChimp's internal tools to target crypto customers<a href="https://www.bleepingcomputer.com/news/security/hackers-breach-mailchimps-internal-tools-to-target-crypto-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email marketing firm MailChimp&nbsp;disclosed on Sunday that they had been hit by hackers who gained access to internal customer support and account management tools to steal audience data and conduct phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on Iberdrola Compromises Data of Millions of Customers in Spain<a href="https://spanishnewstoday.com/iberdrola-cyber-attack-compromises-data-of-millions-of-customers-in-spain_1758410-a.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spain’s energy giant Iberdrola has revealed that it suffered a cyberattack on March 15 which has affected 1.3 million customers, although the company has reassured that the hackers were unable to access “sensitive” information such as bank details.
+</details>
+<div style="text-align: right" markdown="1">
+spanishnewstoday
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

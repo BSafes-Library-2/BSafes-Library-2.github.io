@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IPfuscation is Hive’s New Technique to Evade Detection<a href="https://cyware.com/news/ipfuscation-is-hives-new-technique-to-evade-detection-96c3c748"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hive ransomware gang is using a new IPfuscation tactic to hide its payload wherein they hide 64-bit Windows executables in the form of an array of ASCII IPv4 addresses.  Additionally, the researchers spotted additional IPfuscation variants using IPv6 instead of IPv4 addresses, UUIDs, and MAC addres ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

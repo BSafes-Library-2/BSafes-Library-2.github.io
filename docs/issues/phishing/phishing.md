@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia warns of money recovery phishing luring past victims<a href="https://www.bleepingcomputer.com/news/security/australia-warns-of-money-recovery-phishing-luring-past-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Competition &amp; Consumer Commission has published an announcement to raise awareness about a spike in money recovery scams.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine spots Russian-linked 'Armageddon' phishing attacks<a href="https://www.bleepingcomputer.com/news/security/ukraine-spots-russian-linked-armageddon-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has spotted new phishing attempts attributed to the Russian threat group tracked as Armageddon (Gamaredon).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

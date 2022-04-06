@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany Shuts Down Russian Hydra Darknet Market; Seizes $25 Million in Bitcoin<a href="https://thehackernews.com/2022/04/germany-shuts-down-russian-hydra.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany's Federal Criminal Police Office, the Bundeskriminalamt (BKA), on Tuesday announced the official takedown of Hydra, the world's largest illegal dark web marketplace that has cumulatively facilitated over $5 billion in Bitcoin transactions to date.  "Bitcoins amounting to currently the equivalent of approximately €23 million were seized, which are attributed to the marketplace," the BKA said  in a press release. Blockchain analytics firm Elliptic confirmed  that the seizure occurred on April 5, 2022 in a series of 88 transactions amounting to 543.3 BTC.   The agency attributed the shutdown of Hydra to an extensive investigation operation conducted by its Central Office for Combating Cybercrime (ZIT) in partnership with U.S. law enforcement authorities since August 2021.  Launched in 2015, Hydra was a Russian-language darknet marketplace that opened as a competitor to the now-defunct Russian Anonymous Marketplace (aka RAMP), primarily known for its high-traffic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

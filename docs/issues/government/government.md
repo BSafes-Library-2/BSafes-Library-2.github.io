@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+April 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Active Exploitation of Critical Spring4Shell Vulnerability<a href="https://thehackernews.com/2022/04/cisa-warns-of-active-exploitation-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added the recently disclosed remote code execution (RCE) vulnerability affecting the Spring Framework, to its&nbsp; Known Exploited Vulnerabilities Catalog &nbsp;based on "evidence of active exploitation."  The critical severity flaw, assigned the identifier&nbsp; CVE-2022-22965 &nbsp;(CVSS score: 9.8) and dubbed "Spring4Shell", impacts Spring model–view–controller (MVC) and Spring WebFlux applications running on Java Development Kit 9 and later.  "Exploitation requires an endpoint with DataBinder enabled (e.g., a POST request that decodes data from the request body automatically) and depends heavily on the servlet container for the application," Praetorian researchers Anthony Weems and Dallas Kaman noted last week.  Although exact details of in-the-wild abuse remain unclear, information security company SecurityScorecard&nbsp; said &nbsp;"active scanning for this vulnerability has been observed coming fro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

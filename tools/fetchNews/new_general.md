@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is API Security on Your Radar?<a href="https://thehackernews.com/2022/04/is-api-security-on-your-radar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the growth in digital transformation, the API management market is set to grow&nbsp; by more than 30%&nbsp; &nbsp;by the year 2025 as more businesses build web APIs and consumers grow to rely on them for everything from mobile apps to customized digital services.  As part of strategic business planning, an API helps generate revenue by allowing customers access to the functionality of a website or computer program through custom applications.  As more and more businesses are implementing APIs, the risk of API attacks increases.  By 2022, Gartner predicted that API (Application Programming Interface) attacks would become the most common attack vector for enterprise web applications.  Cybercriminals are targeting APIs more aggressively than ever before, and businesses must take a proactive approach to&nbsp; API security &nbsp;to combat this new aggression.  API and The Business World  With integrating APIs into modern IT environments, businesses are becoming increasingly data-driven.  Just as a restaurant
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub can now auto-block commits containing API keys, auth tokens<a href="https://www.bleepingcomputer.com/news/security/github-can-now-auto-block-commits-containing-api-keys-auth-tokens/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub announced on Monday that it expanded its code hosting platform's secrets scanning capabilities for&nbsp;GitHub Advanced Security customers to automatically&nbsp;block secret leaks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
