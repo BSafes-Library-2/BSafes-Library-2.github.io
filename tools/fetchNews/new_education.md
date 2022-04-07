@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital transformation requires security intelligence<a href="https://www.helpnetsecurity.com/2022/04/06/digital-transformation-security-intelligence/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s no surprise that many organizations are struggling with how to best manage their data and secure it, especially when data and systems reside not only in separate siloes, but within different teams, on-premises, and in the cloud.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

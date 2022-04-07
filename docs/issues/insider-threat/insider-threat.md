@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+April 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Block Admits Data Breach Involving Cash App Data Accessed by Former Employee<a href="https://thehackernews.com/2022/04/block-admits-data-breach-involving-cash.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Block, the company formerly known as Square, has disclosed a data breach that involved a former employee downloading unspecified reports pertaining to its Cash App Investing that contained information about its U.S. customers.  "While this employee had regular access to these reports as part of their past job responsibilities, in this instance these reports were accessed without permission after their employment ended," the firm&nbsp; revealed &nbsp;in a April 4 filing with the U.S. Securities and Exchange Commission (SEC).   Block&nbsp; advertises &nbsp;Cash App as "the easiest way to send money, spend money, save money, and buy cryptocurrency."  The breach is said to have occurred last year on December 10, 2021, with the downloaded reports including customers' full names as well as their brokerage account numbers, and in some cases, brokerage portfolio value, brokerage portfolio holdings, and stock trading activity for one trading day.  The San Francisco-based company emphasized
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

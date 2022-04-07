@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+April 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Texas Department of Insurance Exposed Data of 1.8 Million People<a href="https://www.securityweek.com/texas-department-insurance-exposed-data-18-million-people?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed information includes names, addresses, phone numbers, dates of births, and partial or full social security numbers, as well as information about injuries and worker compensation claims.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Block discloses data breach involving Cash App potentially impacting 8.2 million US customers<a href="https://securityaffairs.co/wordpress/129892/data-breach/block-cash-app-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Block disclosed a data breach related to the Cash App investing app and is notifying 8.2 million current and former US customers.
+
+
+
+The data breach involved a former employee that downloaded some unspecified reports of its Cash App Investing app that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

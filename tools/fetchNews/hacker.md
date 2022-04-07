@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Hackers Leveraging Password Reuse and Software Supply Chain Attacks<a href="https://thehackernews.com/2022/04/fin7-hackers-leveraging-password-reuse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious cybercrime group known as FIN7 has diversified its initial access vectors to incorporate software supply chain compromise and the use of stolen credentials, new research has revealed.  "Data theft extortion or ransomware deployment following FIN7-attributed activity at multiple organizations, as well as technical overlaps, suggests that FIN7 actors have been associated with various ransomware operations over time," incident response firm Mandiant&nbsp; said &nbsp;in a Monday analysis.  The cybercriminal group, since its emergence in the mid-2010s, has gained notoriety for large-scale malware campaigns targeting the point-of-sale (POS) systems aimed at restaurant, gambling, and hospitality industries with credit card-stealing malware.   FIN7's shift in monetization strategy towards ransomware follows an October 2021 report from Recorded Future's Gemini Advisory unit, which&nbsp; found &nbsp;the adversary setting up a fake front company named Bastion Secure to recruit unwitt
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers abuse VLC Media Player to launch malware loader<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-vlc-media-player-to-launch-malware-loader/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered a long-running malicious campaign from hackers associated with the Chinese government who are using VLC Media Player to launch a custom malware loader.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

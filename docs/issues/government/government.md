@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+April 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Warns of Cyber attack Aiming to Hack Users' Telegram Messenger Accounts<a href="https://thehackernews.com/2022/04/ukraine-warns-of-cyber-attack-aiming-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's technical security and intelligence service is warning of a new wave of cyber attacks that are aimed at gaining access to users' Telegram accounts.  "The criminals sent messages with malicious links to the Telegram website in order to gain unauthorized access to the records, including the possibility to transfer a one-time code from SMS," the State Service of Special Communication and Information Protection (SSSCIP) of Ukraine&nbsp; said &nbsp;in an alert.  The attacks , which have been attributed to a threat cluster called "UAC-0094," originate with Telegram messages alerting recipients that a login had been detected from a new device located in Russia and urging the users to confirm their accounts by clicking on a link.  The URL, in reality a phishing domain, prompts the victims to enter their phone numbers as well as the one-time passwords sent via SMS that are then used by the threat actors to take over the accounts.   The modus operandi&nbsp; mirrors &nbsp;that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia to develop a data security framework<a href="https://www.zdnet.com/article/australia-to-develop-a-data-security-framework/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Department of Home Affairs has commenced work on a new national data security action plan as part of the federal government's wider digital economy strategy.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Treasury Department Sanctions Russia-based Hydra Darknet Marketplace<a href="https://thehackernews.com/2022/04/us-treasury-department-sanctions-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department on Tuesday sanctioned Hydra, the same day German law enforcement authorities&nbsp; disrupted &nbsp;the world's largest and longest-running dark web marketplace following a coordinated operation in partnership with U.S. officials.  The sanctions are part of an "international effort to disrupt proliferation of malicious cybercrime services, dangerous drugs, and other illegal offerings available through the Russia-based site," the Treasury Department&nbsp; said &nbsp;in a statement.  Along with the sanctions, the Office of Foreign Assets Control (OFAC) disclosed a list of&nbsp; more than 100 virtual currency addresses &nbsp;that have been identified as associated with the entity's operations to conduct illicit transactions.  The sanctions come as Germany's Federal Criminal Police Office shut down the online criminal marketplace that it said specialized in narcotics trade, seizing its servers and 543 bitcoins worth 23 million euros ($25.3 million).   Hydra was a Russi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

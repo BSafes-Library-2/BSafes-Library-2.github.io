@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+April 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine warns of attacks aimed at taking over Telegram accounts<a href="https://securityaffairs.co/wordpress/129900/hacking/cert-ua-attacks-telegram-accounts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's technical security and intelligence service warns of threat actors targeting aimed at gaining access to users' Telegram accounts.
+
+
+
+State Service of Special Communication and Information Protection (SSSCIP) of Ukraine spotted a new wave of cyber...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Spoof WhatsApp Voice-Message Alerts to Steal Info<a href="https://threatpost.com/attackers-whatsapp-voice-message/179244/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors target Office 365 and Google Workspace in a new campaign, which uses a legitimate domain associated with a road-safety center in Moscow to send messages.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine: Russian Armageddon phishing targets EU govt agencies<a href="https://www.bleepingcomputer.com/news/security/ukraine-russian-armageddon-phishing-targets-eu-govt-agencies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has spotted new phishing attempts attributed to the Russian threat group tracked as Armageddon (Gamaredon).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

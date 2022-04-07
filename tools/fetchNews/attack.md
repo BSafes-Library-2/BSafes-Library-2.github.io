@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+April 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous targets the Russian Military and State Television and Radio propaganda<a href="https://securityaffairs.co/wordpress/129844/hacktivism/anonymous-targets-russian-military-state-television.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous continues to support Ukraine against the Russian criminal invasion targeting the Russian military and propaganda.
+
+
+
+Anonymous leaked personal details of the Russian military stationed in Bucha where the Russian military carried out a massacre...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Trace Widespread Espionage Attacks Back to Chinese 'Cicada' Hackers<a href="https://thehackernews.com/2022/04/researchers-trace-widespread-espionage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese state-backed advanced persistent threat (APT) group known for singling out Japanese entities has been attributed to a new long-running espionage campaign targeting new geographies, suggesting a "widening" of the threat actor's targeting.  The widespread intrusions, which are believed to have commenced at the earliest in mid-2021 and continued as recently as February 2022, have been tied to a group tracked as Cicada , which is also known as APT10, Stone Panda, Potassium, Bronze Riverside, or MenuPass Team.  "Victims in this Cicada (aka APT10) campaign include government, legal, religious, and non-governmental organizations (NGOs) in multiple countries around the world, including in Europe, Asia, and North America," researchers from the Symantec Threat Hunter Team, part of Broadcom Software,&nbsp; said &nbsp;in a report shared with The Hacker News.   "There is a strong focus on victims in the government and NGO sectors, with some of these organizations worki
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft detects Spring4Shell attacks across its cloud services<a href="https://www.bleepingcomputer.com/news/security/microsoft-detects-spring4shell-attacks-across-its-cloud-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said that it's currently tracking a "low volume of exploit attempts" targeting the critical Spring4Shell (aka SpringShell) remote code execution (RCE) vulnerability across its cloud services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900140
 
 ## Outage
 ---
+April 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK retail chain The Works shuts down stores after cyberattack<a href="https://www.bleepingcomputer.com/news/security/uk-retail-chain-the-works-shuts-down-stores-after-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British retail chain The Works announced it was forced to shut down several stores due to till issues caused by a cyber-security incident involving unauthorized access to its computer systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyber attack forced the wind turbine manufacturer Nordex Group to shut down some of IT systems<a href="https://securityaffairs.co/wordpress/129875/security/a-cyber-attack-forced-the-wind-turbine-manufacturer-nordex-group-to-shut-down-some-of-it-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nordex Group, one of the largest manufacturers of wind turbines, was hit by a cyberattack that forced the company to shut down part of its infrastructure.&nbsp;
+
+
+
+Nordex Group, one of the world’s largest manufacturers of wind turbines, was the victim...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

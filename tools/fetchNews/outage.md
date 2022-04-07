@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+April 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Works hit by hackers, UK retailer shuts some stores after problems with payment tills<a href="https://www.bitdefender.com/blog/hotforsecurity/the-works-hit-by-hackers-uk-retailer-shuts-some-stores-after-problems-with-payment-tills/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK high street retailer The Works was forced to shut some of its stores following a "cyber security incident" which saw hackers gaining unauthorized access to its systems.
+</details>
+<div style="text-align: right" markdown="1">
+Bit Defender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

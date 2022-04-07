@@ -8,6 +8,42 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Treasury Department sanctions darkweb marketplace Hydra Market<a href="https://securityaffairs.co/wordpress/129880/cyber-crime/us-treasury-sanctioned-hydra-market.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department sanctioned the Hydra Market, the world's largest and longest-running dark web marketplace.
+
+
+
+The U.S. Treasury Department sanctioned the darkweb marketplace Hydra Market, the same day Germany’s Federal Criminal Police...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany police shut down Hydra Market dark web marketplace<a href="https://securityaffairs.co/wordpress/129866/cyber-crime/german-police-shut-down-hydra-market.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany's Federal Criminal Police Office shut down Hydra Market, the Russian-language darknet marketplace specialized in drug dealing.
+
+
+
+Germany's Federal Criminal Police Office, the Bundeskriminalamt (BKA), announced they have shut down Hydra, one of the world's...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

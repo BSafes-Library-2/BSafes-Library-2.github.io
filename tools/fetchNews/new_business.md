@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tufin Enters Into Definitive Agreement to be Acquired by Turn/River Capital in a $570 million Transaction<a href="https://finance.yahoo.com/news/tufin-enters-definitive-agreement-acquired-110000223.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tufin announced that it has entered into a definitive agreement to be acquired by Turn/River Capital, a software-focused investment firm, in an all-cash transaction that values the company at about $570 million.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
