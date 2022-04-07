@@ -494,6 +494,7 @@ Cybercriminals Tampering with QR Codes to Steal Victim Funds <a href="https://ww
   <summary>Abstract</summary>
 The FBI is issuing this announcement to raise awareness of malicious Quick Response (QR) codes. Cybercriminals are tampering with QR codes to redirect victims to malicious sites that steal login and financial information.
 </details
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 18, 2022 - CISA

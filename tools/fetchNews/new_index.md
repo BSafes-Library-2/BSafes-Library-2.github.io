@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2022
+April 06, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Palo Alto Networks firewalls, VPNs vulnerable to OpenSSL bug<a href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-firewalls-vpns-vulnerable-to-openssl-bug/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2022
+April 6, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Denonia Malware Targets AWS Lambda Environments<a href="https://www.zdnet.com/article/this-new-malware-targets-aws-lambda-environments/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2022
+April 06, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Security WEBINAR — How to Ace Your InfoSec Board Deck<a href="https://thehackernews.com/2021/10/cyber-security-webinar-how-to-ace-your.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2022
+April 6, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US dismantled the Russia-linked Cyclops Blink botnet<a href="https://securityaffairs.co/wordpress/129911/cyber-warfare-2/us-disrupts-cyclops-blink-botnet.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2022
+April 6, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Spoof WhatsApp Voice-Message Alerts to Steal Info<a href="https://threatpost.com/attackers-whatsapp-voice-message/179244/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2022
+April 06, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New FFDroider malware steals Facebook, Instagram, Twitter accounts<a href="https://www.bleepingcomputer.com/news/security/new-ffdroider-malware-steals-facebook-instagram-twitter-accounts/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2022
+April 6, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Texas Department of Insurance Exposed Data of 1.8 Million People<a href="https://www.securityweek.com/texas-department-insurance-exposed-data-18-million-people?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2022
+April 06, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Distributing Fake Shopping Apps to Steal Banking Data of Malaysian Users<a href="https://thehackernews.com/2022/04/hackers-distributing-fake-shopping-apps.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2022
+April 6, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine warns of attacks aimed at taking over Telegram accounts<a href="https://securityaffairs.co/wordpress/129900/hacking/cert-ua-attacks-telegram-accounts.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2022
+April 06, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK retail chain The Works shuts down stores after cyberattack<a href="https://www.bleepingcomputer.com/news/security/uk-retail-chain-the-works-shuts-down-stores-after-cyberattack/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2022
+April 6, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tufin Enters Into Definitive Agreement to be Acquired by Turn/River Capital in a $570 million Transaction<a href="https://finance.yahoo.com/news/tufin-enters-definitive-agreement-acquired-110000223.html?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2022
+April 06, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine Warns of Cyber attack Aiming to Hack Users' Telegram Messenger Accounts<a href="https://thehackernews.com/2022/04/ukraine-warns-of-cyber-attack-aiming-to.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2022
+April 6, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Block discloses data breach involving Cash App potentially impacting 8.2 million US customers<a href="https://securityaffairs.co/wordpress/129892/data-breach/block-cash-app-data-breach.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2022
+April 06, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware warns of critical vulnerabilities in multiple products<a href="https://www.bleepingcomputer.com/news/security/vmware-warns-of-critical-vulnerabilities-in-multiple-products/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2022
+April 6, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia to develop a data security framework<a href="https://www.zdnet.com/article/australia-to-develop-a-data-security-framework/?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2022
+April 06, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Block Admits Data Breach Involving Cash App Data Accessed by Former Employee<a href="https://thehackernews.com/2022/04/block-admits-data-breach-involving-cash.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2022
+April 6, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Treasury Department sanctions darkweb marketplace Hydra Market<a href="https://securityaffairs.co/wordpress/129880/cyber-crime/us-treasury-sanctioned-hydra-market.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2022
+April 06, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US disrupts Russian Cyclops Blink botnet before being used in attacks<a href="https://www.bleepingcomputer.com/news/security/us-disrupts-russian-cyclops-blink-botnet-before-being-used-in-attacks/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2022
+April 6, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Digital transformation requires security intelligence<a href="https://www.helpnetsecurity.com/2022/04/06/digital-transformation-security-intelligence/?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2022
+April 06, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Treasury Department Sanctions Russia-based Hydra Darknet Marketplace<a href="https://thehackernews.com/2022/04/us-treasury-department-sanctions-russia.html"> Full Text</a>
@@ -370,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2022
+April 6, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A cyber attack forced the wind turbine manufacturer Nordex Group to shut down some of IT systems<a href="https://securityaffairs.co/wordpress/129875/security/a-cyber-attack-forced-the-wind-turbine-manufacturer-nordex-group-to-shut-down-some-of-it-systems.html"> Full Text</a>
@@ -390,7 +390,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2022
+April 06, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. sanctions crypto-exchange Garantex for aiding Hydra Market<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-crypto-exchange-garantex-for-aiding-hydra-market/"> Full Text</a>
@@ -406,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2022
+April 6, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Android Shopping Applications Steal Bank Account Logins, 2FA Codes<a href="https://www.zdnet.com/article/fake-android-shopping-apps-steal-bank-account-logins-2fa-codes/?&web_view=true"> Full Text</a>
@@ -422,7 +422,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2022
+April 6, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Germany police shut down Hydra Market dark web marketplace<a href="https://securityaffairs.co/wordpress/129866/cyber-crime/german-police-shut-down-hydra-market.html"> Full Text</a>
@@ -442,7 +442,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2022
+April 6, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Threats at Retail Endpoints Giving Way to Data Theft<a href="https://cyware.com/news/cyber-threats-at-retail-endpoints-giving-way-to-data-theft-d01e47ad"> Full Text</a>
@@ -459,7 +459,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2022
+April 05, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine: Russian Armageddon phishing targets EU govt agencies<a href="https://www.bleepingcomputer.com/news/security/ukraine-russian-armageddon-phishing-targets-eu-govt-agencies/"> Full Text</a>
