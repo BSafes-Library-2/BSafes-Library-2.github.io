@@ -34,6 +34,447 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks firewalls, VPNs vulnerable to OpenSSL bug<a href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-firewalls-vpns-vulnerable-to-openssl-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American cybersecurity company Palo Alto Networks warned customers on Wednesday that some of its firewall, VPN, and XDR products are vulnerable to a high severity OpenSSL infinite loop bug disclosed three weeks ago
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Denonia Malware Targets AWS Lambda Environments<a href="https://www.zdnet.com/article/this-new-malware-targets-aws-lambda-environments/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lambda is a scalable compute service offered by Amazon Web Services (AWS) for running code, server and OS maintenance, capacity provisioning, logging, and operating numerous backend services.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Security WEBINAR — How to Ace Your InfoSec Board Deck<a href="https://thehackernews.com/2021/10/cyber-security-webinar-how-to-ace-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Communication is a vital skill for any leader at an organization, regardless of seniority. For security leaders, this goes double. Communicating clearly works on multiple levels. On the one hand, security leaders and CISOs must be able to communicate strategies clearly – instructions, incident response plans, and security policies. On the other, they must be able to communicate the importance of security and the value of having robust defenses to the C-level.   For CISOs and other security leaders, this latter skill is crucial but often overlooked or not prioritized. A new webinar: " How to ace your Infosec board deck ," looks to shed light on both the importance of being able to communicate clearly with management, and key strategies to do so effectively. The webinar will feature a conversation with vCISO and Cybersecurity Consultant Dr. Eric Cole, as well as Norwest Venture Partners General Partner Dave Zilberman.   More so than just talking about the dollar value of a sec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US dismantled the Russia-linked Cyclops Blink botnet<a href="https://securityaffairs.co/wordpress/129911/cyber-warfare-2/us-disrupts-cyclops-blink-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government announced the disruption of the Cyclops Blink botnet operated by the Russia-linked Sandworm APT group. 
+
+
+
+The U.S. government announced that it had dismantled the Cyclops Blink botnet operated by the Russia-linked Sandworm APT group....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Spoof WhatsApp Voice-Message Alerts to Steal Info<a href="https://threatpost.com/attackers-whatsapp-voice-message/179244/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors target Office 365 and Google Workspace in a new campaign, which uses a legitimate domain associated with a road-safety center in Moscow to send messages.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New FFDroider malware steals Facebook, Instagram, Twitter accounts<a href="https://www.bleepingcomputer.com/news/security/new-ffdroider-malware-steals-facebook-instagram-twitter-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new information stealer named FFDroider has emerged, stealing credentials and cookies stored in browsers to hijack victims' social media accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Texas Department of Insurance Exposed Data of 1.8 Million People<a href="https://www.securityweek.com/texas-department-insurance-exposed-data-18-million-people?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed information includes names, addresses, phone numbers, dates of births, and partial or full social security numbers, as well as information about injuries and worker compensation claims.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Distributing Fake Shopping Apps to Steal Banking Data of Malaysian Users<a href="https://thehackernews.com/2022/04/hackers-distributing-fake-shopping-apps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have been distributing malicious applications under the guise of seemingly harmless shopping apps to target customers of eight Malaysian banks since at least November 2021.  The attacks involved setting up fraudulent but legitimate-looking websites to trick users into downloading the apps, Slovak cybersecurity firm ESET said in a report shared with The Hacker News.  The copycat websites impersonated cleaning services such as Maid4u, Grabmaid, Maria's Cleaning, Maid4u, YourMaid, Maideasy and MaidACall and a pet store named PetsMore, all of which are aimed at users in Malaysia.   "The threat actors use these fake e-shop applications to phish for banking credentials," ESET  said . "The apps also forward all SMS messages received by the victim to the malware operators in case they contain 2FA codes sent by the bank."   The targeted banks include Maybank, Affin Bank, Public Bank Berhad, CIMB bank, BSN, RHB, Bank Islam Malaysia, and Hong Leong Bank.  Th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine warns of attacks aimed at taking over Telegram accounts<a href="https://securityaffairs.co/wordpress/129900/hacking/cert-ua-attacks-telegram-accounts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's technical security and intelligence service warns of threat actors targeting aimed at gaining access to users' Telegram accounts.
+
+
+
+State Service of Special Communication and Information Protection (SSSCIP) of Ukraine spotted a new wave of cyber...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK retail chain The Works shuts down stores after cyberattack<a href="https://www.bleepingcomputer.com/news/security/uk-retail-chain-the-works-shuts-down-stores-after-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British retail chain The Works announced it was forced to shut down several stores due to till issues caused by a cyber-security incident involving unauthorized access to its computer systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tufin Enters Into Definitive Agreement to be Acquired by Turn/River Capital in a $570 million Transaction<a href="https://finance.yahoo.com/news/tufin-enters-definitive-agreement-acquired-110000223.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tufin announced that it has entered into a definitive agreement to be acquired by Turn/River Capital, a software-focused investment firm, in an all-cash transaction that values the company at about $570 million.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Warns of Cyber attack Aiming to Hack Users' Telegram Messenger Accounts<a href="https://thehackernews.com/2022/04/ukraine-warns-of-cyber-attack-aiming-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's technical security and intelligence service is warning of a new wave of cyber attacks that are aimed at gaining access to users' Telegram accounts.  "The criminals sent messages with malicious links to the Telegram website in order to gain unauthorized access to the records, including the possibility to transfer a one-time code from SMS," the State Service of Special Communication and Information Protection (SSSCIP) of Ukraine  said  in an alert.  The attacks , which have been attributed to a threat cluster called "UAC-0094," originate with Telegram messages alerting recipients that a login had been detected from a new device located in Russia and urging the users to confirm their accounts by clicking on a link.  The URL, in reality a phishing domain, prompts the victims to enter their phone numbers as well as the one-time passwords sent via SMS that are then used by the threat actors to take over the accounts.   The modus operandi  mirrors  that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Block discloses data breach involving Cash App potentially impacting 8.2 million US customers<a href="https://securityaffairs.co/wordpress/129892/data-breach/block-cash-app-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Block disclosed a data breach related to the Cash App investing app and is notifying 8.2 million current and former US customers.
+
+
+
+The data breach involved a former employee that downloaded some unspecified reports of its Cash App Investing app that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware warns of critical vulnerabilities in multiple products<a href="https://www.bleepingcomputer.com/news/security/vmware-warns-of-critical-vulnerabilities-in-multiple-products/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has warned customers to immediately patch critical vulnerabilities in multiple products that could be used by threat actors to launch remote code execution attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia to develop a data security framework<a href="https://www.zdnet.com/article/australia-to-develop-a-data-security-framework/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Department of Home Affairs has commenced work on a new national data security action plan as part of the federal government's wider digital economy strategy.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Block Admits Data Breach Involving Cash App Data Accessed by Former Employee<a href="https://thehackernews.com/2022/04/block-admits-data-breach-involving-cash.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Block, the company formerly known as Square, has disclosed a data breach that involved a former employee downloading unspecified reports pertaining to its Cash App Investing that contained information about its U.S. customers.  "While this employee had regular access to these reports as part of their past job responsibilities, in this instance these reports were accessed without permission after their employment ended," the firm  revealed  in a April 4 filing with the U.S. Securities and Exchange Commission (SEC).   Block  advertises  Cash App as "the easiest way to send money, spend money, save money, and buy cryptocurrency."  The breach is said to have occurred last year on December 10, 2021, with the downloaded reports including customers' full names as well as their brokerage account numbers, and in some cases, brokerage portfolio value, brokerage portfolio holdings, and stock trading activity for one trading day.  The San Francisco-based company emphasized
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Treasury Department sanctions darkweb marketplace Hydra Market<a href="https://securityaffairs.co/wordpress/129880/cyber-crime/us-treasury-sanctioned-hydra-market.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department sanctioned the Hydra Market, the world's largest and longest-running dark web marketplace.
+
+
+
+The U.S. Treasury Department sanctioned the darkweb marketplace Hydra Market, the same day Germany’s Federal Criminal Police...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US disrupts Russian Cyclops Blink botnet before being used in attacks<a href="https://www.bleepingcomputer.com/news/security/us-disrupts-russian-cyclops-blink-botnet-before-being-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US government officials announced today the disruption of the Cyclops Blink botnet controlled by the Russian-backed Sandworm hacking group before being used in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital transformation requires security intelligence<a href="https://www.helpnetsecurity.com/2022/04/06/digital-transformation-security-intelligence/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s no surprise that many organizations are struggling with how to best manage their data and secure it, especially when data and systems reside not only in separate siloes, but within different teams, on-premises, and in the cloud.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Treasury Department Sanctions Russia-based Hydra Darknet Marketplace<a href="https://thehackernews.com/2022/04/us-treasury-department-sanctions-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department on Tuesday sanctioned Hydra, the same day German law enforcement authorities  disrupted  the world's largest and longest-running dark web marketplace following a coordinated operation in partnership with U.S. officials.  The sanctions are part of an "international effort to disrupt proliferation of malicious cybercrime services, dangerous drugs, and other illegal offerings available through the Russia-based site," the Treasury Department  said  in a statement.  Along with the sanctions, the Office of Foreign Assets Control (OFAC) disclosed a list of  more than 100 virtual currency addresses  that have been identified as associated with the entity's operations to conduct illicit transactions.  The sanctions come as Germany's Federal Criminal Police Office shut down the online criminal marketplace that it said specialized in narcotics trade, seizing its servers and 543 bitcoins worth 23 million euros ($25.3 million).   Hydra was a Russi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyber attack forced the wind turbine manufacturer Nordex Group to shut down some of IT systems<a href="https://securityaffairs.co/wordpress/129875/security/a-cyber-attack-forced-the-wind-turbine-manufacturer-nordex-group-to-shut-down-some-of-it-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nordex Group, one of the largest manufacturers of wind turbines, was hit by a cyberattack that forced the company to shut down part of its infrastructure. 
+
+
+
+Nordex Group, one of the world’s largest manufacturers of wind turbines, was the victim...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. sanctions crypto-exchange Garantex for aiding Hydra Market<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-crypto-exchange-garantex-for-aiding-hydra-market/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of the Treasury's Office has announced sanctions against the cryptocurrency exchange Garantex, which has been linked to illegal transactions for Hydra Market.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Android Shopping Applications Steal Bank Account Logins, 2FA Codes<a href="https://www.zdnet.com/article/fake-android-shopping-apps-steal-bank-account-logins-2fa-codes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Wednesday, ESET's cybersecurity team published new research documenting three separate fake apps targeting customers who belong to eight Malaysian banks to steal their account logins.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany police shut down Hydra Market dark web marketplace<a href="https://securityaffairs.co/wordpress/129866/cyber-crime/german-police-shut-down-hydra-market.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany's Federal Criminal Police Office shut down Hydra Market, the Russian-language darknet marketplace specialized in drug dealing.
+
+
+
+Germany's Federal Criminal Police Office, the Bundeskriminalamt (BKA), announced they have shut down Hydra, one of the world's...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Threats at Retail Endpoints Giving Way to Data Theft<a href="https://cyware.com/news/cyber-threats-at-retail-endpoints-giving-way-to-data-theft-d01e47ad"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although e-Commerce sites are frequently targeted by cyberattackers, there isn’t much attention paid to the cybersecurity measures at brick-and-mortar retailers. Hackers target local stores for a variety of reasons including personal data theft, skimming payment card details, and sometimes extorti ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine: Russian Armageddon phishing targets EU govt agencies<a href="https://www.bleepingcomputer.com/news/security/ukraine-russian-armageddon-phishing-targets-eu-govt-agencies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has spotted new phishing attempts attributed to the Russian threat group tracked as Armageddon (Gamaredon).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 05, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
