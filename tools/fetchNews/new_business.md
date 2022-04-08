@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VPN Provider Nord Security Reaches Unicorn Status With $100 Million Funding<a href="https://www.securityweek.com/vpn-provider-nord-security-reaches-unicorn-status-100-million-funding?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lithuania-based Nord Security has raised $100 million in its first ever outside capital funding with a financing round led by Novator Ventures, and participation from Burda Principal Investments and General Catalyst.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

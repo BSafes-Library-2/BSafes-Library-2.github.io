@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US dismantled the Russia-linked Cyclops Blink botnet<a href="https://securityaffairs.co/wordpress/129911/cyber-warfare-2/us-disrupts-cyclops-blink-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government announced the disruption of the Cyclops Blink botnet operated by the Russia-linked Sandworm APT group. 
+
+
+
+The U.S. government announced that it had dismantled the Cyclops Blink botnet operated by the Russia-linked Sandworm APT group....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US disrupts Russian Cyclops Blink botnet before being used in attacks<a href="https://www.bleepingcomputer.com/news/security/us-disrupts-russian-cyclops-blink-botnet-before-being-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US government officials announced today the disruption of the Cyclops Blink botnet controlled by the Russian-backed Sandworm hacking group before being&nbsp;used in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

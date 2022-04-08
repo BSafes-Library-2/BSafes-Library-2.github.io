@@ -34,6 +34,459 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft takes down APT28 domains used in attacks against Ukraine<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-takes-down-apt28-domains-used-in-attacks-against-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has successfully disrupted attacks against Ukrainian targets coordinated by the Russian APT28 hacking group after taking down seven domains used as attack infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Mysterious Borat RAT is an All-In-One Threat<a href="https://cyware.com/news/the-mysterious-borat-rat-is-an-all-in-one-threat-9dc4f1e1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble discovered a new RAT, dubbed Borat. With a builder, feature modules, and a server certificate, it offers ransomware and DDOS attack services. It is not known whether Borat is being sold or freely shared among cybercriminals.&nbsp;While analyzing the campaign and digging into its origin, a res ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+First Malware Targeting AWS Lambda Serverless Platform Discovered<a href="https://thehackernews.com/2022/04/first-malware-targeting-aws-lambda.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A first-of-its-kind malware targeting Amazon Web Services' (AWS) Lambda serverless computing platform has been discovered in the wild.  Dubbed "Denonia" after the name of the domain it communicates with, "the malware uses newer address resolution techniques for command and control traffic to evade typical detection measures and virtual network access controls," Cado Labs researcher Matt Muir  said .   The  artifact  analyzed by the cybersecurity company was uploaded to the VirusTotal database on February 25, 2022, sporting the name "python" and packaged as a 64-bit  ELF  executable.  However, the filename is a misnomer, as Denonia is programmed in Go and harbors a customized variant of the XMRig cryptocurrency mining software. That said, the mode of initial access is unknown, although it's suspected it may have involved the compromise of AWS Access and Secret Keys.   Another notable feature of the malware is its use of DNS over HTTPS ( DoH ) for c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colibri Loader employs clever persistence mechanism<a href="https://securityaffairs.co/wordpress/129956/cyber-crime/colibri-loader-persistent-mechanism.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently discovered malware loader Colibri leverages a trivial and efficient persistence mechanism to deploy Windows Vidar data stealer.
+
+
+
+Malwarebytes researchers observed a new loader, dubbed Colibri, which has been used to deploy a Windows information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MacOS Malware: Myth vs. Truth – Podcast<a href="https://threatpost.com/macos-malware-myth-vs-truth-podcast/179215/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Huntress Labs R&D Director Jamie Levy busts the old “Macs don’t get viruses” myth and offers tips on how MacOS malware differs and how to protect against it. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 hacking group 'pen tester' sentenced to 5 years in prison<a href="https://www.bleepingcomputer.com/news/security/fin7-hacking-group-pen-tester-sentenced-to-5-years-in-prison/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Denys Iarmak, a Ukrainian member and a "pen tester for the FIN7 financially-motivated hacking group, was sentenced on Thursday to 5 years in prison for breaching victims' networks and stealing credit card information for roughly two years, between November 2016 and November 2018.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Bugs Bug the Biggies<a href="https://cyware.com/news/zero-day-bugs-bug-the-biggies-696d26c8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the past few days, several attackers have been observed exploiting new zero-day vulnerabilities in commonly used software products by Google, Apple, and others. Apple has released emergency fixes for two zero-day flaws. Trend Micro fixed a high-severity vulnerability in its Apex Central. Meanwhi ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hamas-linked Hackers Targeting High-Ranking Israelis Using 'Catfish' Lures<a href="https://thehackernews.com/2022/04/hamas-linked-hackers-targeting-high.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor with affiliations to the cyber warfare division of Hamas has been linked to an "elaborate campaign" targeting high-profile Israeli individuals employed in sensitive defense, law enforcement, and emergency services organizations.  "The campaign operators use sophisticated social engineering techniques, ultimately aimed to deliver previously undocumented backdoors for Windows and Android devices," cybersecurity company Cybereason  said  in a Wednesday report.  "The goal behind the attack was to extract sensitive information from the victims' devices for espionage purposes."  The monthslong intrusions, codenamed " Operation Bearded Barbie ," have been attributed to an Arabic-speaking and politically-motivated group called Arid Viper, which operates out of the Middle East and is also known by the monikers APT-C-23 and Desert Falcon.   Most recently, the threat actor was  held responsible  for attacks aimed at Palestinian activists
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-22292 flaw could allow hacking of Samsung Android devices<a href="https://securityaffairs.co/wordpress/129942/hacking/cve-2022-22292-hack-samsung-android-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered a vulnerability, tracked as CVE-2022-22292, which can be exploited to compromise Android 9, 10, 11, and 12 devices.
+
+
+
+Researchers from mobile cybersecurity firm Kryptowire discovered a vulnerability, tracked as CVE-2022-22292, in Android...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google boosts Android security with new set of dev policy changes<a href="https://www.bleepingcomputer.com/news/security/google-boosts-android-security-with-new-set-of-dev-policy-changes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced several key policy changes for Android application developers that will increase the security of users, Google Play, and the apps offered by the service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Spyware Actively Targets Android Users<a href="https://cyware.com/news/new-spyware-actively-targets-android-users-f5ac7633"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Android spyware impersonates a process manager app to target users and steal their data.&nbsp;While analyzing the spyware, the research team discovered that it downloads additional payloads to compromised devices. Organizations and users are suggested to always monitor and review the app permiss ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Into the Breach: Breaking Down 3 SaaS App Cyber Attacks in 2022<a href="https://thehackernews.com/2022/04/into-breach-breaking-down-3-saas-app.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the last week of March, three major tech companies - Microsoft, Okta, and HubSpot - reported significant data breaches. DEV-0537, also known as LAPSUS$, performed the first two. This highly sophisticated group utilizes state-of-the-art attack vectors to great success. Meanwhile, the group behind the HubSpot breach was not disclosed. This blog will review the three breaches based on publicly disclosed information and suggest best practices to minimize the risk of such attacks succeeding against your organization.   HubSpot - Employee Access  On March 21, 2022,  HubSpot reported the breach  which happened on March 18. Malicious actors compromised a HubSpot employee account that the employee used for customer support. This allowed malicious actors the ability to access and export contact data using the employee's access to several HubSpot accounts.   With little information regarding this breach, defending against an attack is challenging, but a key configuration within HubSpo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-0778 OpenSSL flaw affects multiple Palo Alto devices<a href="https://securityaffairs.co/wordpress/129935/hacking/palo-alto-networks-devices-openssl-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks plans to fix CVE-2022-0778 OpenSSL flaw in some of its firewall, VPN, and XDR, products during April 2022.
+
+
+
+In Mid March, OpenSSL released updates to address a high-severity denial-of-service (DoS) vulnerability, tracked as CVE-2022-0778,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New malware targets serverless AWS Lambda with cryptominers<a href="https://www.bleepingcomputer.com/news/security/new-malware-targets-serverless-aws-lambda-with-cryptominers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered the first malware specifically developed to target Amazon Web Services (AWS) Lambda cloud environments with cryptominers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beastmode Powered With Newly Added Exploits<a href="https://cyware.com/news/beastmode-powered-with-newly-added-exploits-0ec46d6e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Mirai variant called Beastmode was found exploiting disclosed vulnerabilities in TOTOLINK routers. Attackers abused five new exploits within a month. Beastmode has also added some older bugs for a variety of routers from different vendors, all rated 9.8 on the CVSS scale. TOTOLINK device users ar ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SharkBot Banking Trojan Resurfaces On Google Play Store Hidden Behind 7 New Apps<a href="https://thehackernews.com/2022/04/sharkbot-banking-trojan-resurfaces-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as seven malicious Android apps discovered on the Google Play Store masqueraded as antivirus solutions to deploy a banking trojan called SharkBot .  "SharkBot steals credentials and banking information," Check Point researchers Alex Shamshur and Raman Ladutska  said  in a report shared with The Hacker News. "This malware implements a geofencing feature and evasion techniques, which makes it stand out from the rest of malwares."   Particularly, the malware is designed to ignore users from China, India, Romania, Russia, Ukraine, and Belarus. The rogue apps are said to have been installed more than 15,000 times prior to their removal, with most of the victims located in Italy and the U.K.  The report complements  previous findings  from NCC Group, which found the bankbot posing as antivirus apps to carry out unauthorized transactions via Automatic Transfer Systems (ATS).   SharkBot takes advantage of Android's Accessibility Services permissions to present
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addressed several critical vulnerabilities in multiple products<a href="https://securityaffairs.co/wordpress/129906/security/vmware-critical-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware fixed critical vulnerabilities in multiple products that could be exploited by remote attackers to execute arbitrary code.
+
+
+
+VMware has addressed critical remote code vulnerabilities in multiple products, including VMware’s Workspace ONE Access,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious web redirect service infects 16,500 sites to push malware<a href="https://www.bleepingcomputer.com/news/security/malicious-web-redirect-service-infects-16-500-sites-to-push-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new TDS (Traffic Direction System) operation called Parrot has emerged in the wild, having already infected servers hosting 16,500 websites of universities, local governments, adult content platforms, and personal blogs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deep Panda Uses Fire Chili Windows Rootkit<a href="https://cyware.com/news/deep-panda-uses-fire-chili-windows-rootkit-81bc5078"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deep Panda was found exploiting Log4Shell to deploy the new Fire Chili rootkit in compromised networks of organizations in the travel, finance, and cosmetic industries. Fire Chili  helps keep file operations, registry key additions, processes, and malicious network connections concealed from the us ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover How Colibri Malware Stays Persistent on Hacked Systems<a href="https://thehackernews.com/2022/04/researchers-uncover-how-colibri-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed a "simple but efficient" persistence mechanism adopted by a relatively nascent malware loader called Colibri , which has been observed deploying a Windows information stealer known as Vidar as part of a new campaign.  "The attack starts with a malicious Word document deploying a Colibri bot that then delivers the Vidar Stealer," Malwarebytes Labs  said  in an analysis. "The document contacts a remote server at (securetunnel[.]co) to load a remote template named 'trkal0.dot' that contacts a malicious macro," the researchers added.  First documented by  FR3D.HK  and Indian cybersecurity company CloudSEK earlier this year, Colibri is a malware-as-a-service (MaaS) platform that's engineered to drop additional payloads onto compromised systems. Early signs of the loader appeared on Russian underground forums in August 2021.  "This loader has multiple techniques that help avoid detection," CloudSEK r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bearded Barbie hackers catfish high ranking Israeli officials<a href="https://www.bleepingcomputer.com/news/security/bearded-barbie-hackers-catfish-high-ranking-israeli-officials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hamas-backed hacking group tracked as 'APT-C-23' was found catfishing Israeli officials working in defense, law, enforcement, and government agencies, ultimately leading to the deployment of new malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Bad Luck BlackCat<a href="https://securelist.com/a-bad-luck-blackcat/106254/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky claims that at least some members of the new BlackCat group have links to the BlackMatter group, because they modified and reused a custom exfiltration tool we call Fendr and which has only been observed in BlackMatter activity.
+</details>
+<div style="text-align: right" markdown="1">
+Securelist
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Shut Down Russia-linked "Cyclops Blink" Botnet That Infected Thousands of Devices<a href="https://thehackernews.com/2022/04/fbi-shut-down-russia-linked-cyclops.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) announced that it neutralized Cyclops Blink , a modular botnet controlled by a threat actor known as Sandworm, which has been attributed to the Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation (GRU).  "The operation copied and removed malware from vulnerable internet-connected firewall devices that Sandworm used for command-and-control (C2) of the underlying botnet," the DoJ  said  in a statement Wednesday.  In addition to disrupting its C2 infrastructure, the operation also closed the external management ports that the threat actor used to establish connections with the firewall appliances, effectively severing contact and preventing the hacking group from using the infected devices to commandeer the botnet.   The March 22 court-authorized disruption of Cyclops Blink comes a little over a month after intelligence agencies in the U.K. and the U.S.  described  the botnet as a replacement fram
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android apps with 45 million installs used data harvesting SDK<a href="https://www.bleepingcomputer.com/news/security/android-apps-with-45-million-installs-used-data-harvesting-sdk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mobile malware analysts warn about a set of applications available on the Google Play Store, which collected sensitive user data from over 45 million devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How many steps does it take for attackers to compromise critical assets?<a href="https://www.helpnetsecurity.com/2022/04/07/attack-critical-assets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The XM Cyber research team analyzed the methods, attack paths and impacts of attack techniques that imperil critical assets across on-prem, multi-cloud and hybrid environments.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VPN Provider Nord Security Reaches Unicorn Status With $100 Million Funding<a href="https://www.securityweek.com/vpn-provider-nord-security-reaches-unicorn-status-100-million-funding?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lithuania-based Nord Security has raised $100 million in its first ever outside capital funding with a financing round led by Novator Ventures, and participation from Burda Principal Investments and General Catalyst.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Releases Critical Patches for New Vulnerabilities Affecting Multiple Products<a href="https://thehackernews.com/2022/04/vmware-releases-critical-patches-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released security updates to patch eight vulnerabilities spanning its products, some of which could be exploited to launch remote code execution attacks.  Tracked from  CVE-2022-22954 to CVE-2022-22961  (CVSS scores: 5.3 - 9.8), the issues impact VMware Workspace ONE Access, VMware Identity Manager, VMware vRealize Automation, VMware Cloud Foundation, and vRealize Suite Lifecycle Manager.  Five of the eight bugs are rated Critical, two are rated Important, and one is rated Moderate in severity. Credited with reporting all the vulnerabilities is Steven Seeley of Qihoo 360 Vulnerability Research Institute.   The list of flaws is below -   CVE-2022-22954  (CVSS score: 9.8) - Server-side template injection remote code execution vulnerability affecting VMware Workspace ONE Access and Identity Manager  CVE-2022-22955 & CVE-2022-22956  (CVSS scores: 9.8) - OAuth2 ACS authentication bypass vulnerabilities in VMware Workspace ONE Access  CVE-2022-22957 & CVE-2022-22958  (CVS
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 06, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Into the Breach: Breaking Down 3 SaaS App Cyber Attacks in 2022<a href="https://thehackernews.com/2022/04/into-breach-breaking-down-3-saas-app.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the last week of March, three major tech companies - Microsoft, Okta, and HubSpot - reported significant data breaches. DEV-0537, also known as LAPSUS$, performed the first two. This highly sophisticated group utilizes state-of-the-art attack vectors to great success. Meanwhile, the group behind the HubSpot breach was not disclosed. This blog will review the three breaches based on publicly disclosed information and suggest best practices to minimize the risk of such attacks succeeding against your organization.&nbsp;  HubSpot - Employee Access  On March 21, 2022,&nbsp; HubSpot reported the breach &nbsp;which happened on March 18. Malicious actors compromised a HubSpot employee account that the employee used for customer support. This allowed malicious actors the ability to access and export contact data using the employee's access to several HubSpot accounts.&nbsp;  With little information regarding this breach, defending against an attack is challenging, but a key configuration within HubSpo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

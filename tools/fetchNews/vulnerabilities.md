@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks firewalls, VPNs vulnerable to OpenSSL bug<a href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-firewalls-vpns-vulnerable-to-openssl-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American cybersecurity company Palo Alto Networks warned customers on Wednesday that some of its firewall, VPN, and XDR products are vulnerable to a high severity OpenSSL infinite loop bug disclosed three weeks ago
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware warns of critical vulnerabilities in multiple products<a href="https://www.bleepingcomputer.com/news/security/vmware-warns-of-critical-vulnerabilities-in-multiple-products/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has warned customers to immediately patch critical vulnerabilities&nbsp;in multiple products that could be used by threat actors to launch remote code execution attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Threats at Retail Endpoints Giving Way to Data Theft<a href="https://cyware.com/news/cyber-threats-at-retail-endpoints-giving-way-to-data-theft-d01e47ad"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although e-Commerce sites are frequently targeted by cyberattackers, there isn’t much attention paid to the cybersecurity measures at brick-and-mortar retailers. Hackers target local stores for a variety of reasons including personal data theft, skimming payment card details, and sometimes extorti ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

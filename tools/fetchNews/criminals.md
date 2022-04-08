@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. sanctions crypto-exchange Garantex for aiding Hydra Market<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-crypto-exchange-garantex-for-aiding-hydra-market/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of the Treasury's Office has announced sanctions against the cryptocurrency exchange Garantex, which has been linked to illegal transactions for Hydra Market.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

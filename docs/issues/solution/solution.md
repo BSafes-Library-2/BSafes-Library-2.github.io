@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google boosts Android security with new set of dev policy changes<a href="https://www.bleepingcomputer.com/news/security/google-boosts-android-security-with-new-set-of-dev-policy-changes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced several key policy changes for Android application developers that will increase the security of users, Google Play, and the apps offered by the service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

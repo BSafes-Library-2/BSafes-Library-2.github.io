@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2022
+April 07, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft takes down APT28 domains used in attacks against Ukraine<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-takes-down-apt28-domains-used-in-attacks-against-ukraine/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2022
+April 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Mysterious Borat RAT is an All-In-One Threat<a href="https://cyware.com/news/the-mysterious-borat-rat-is-an-all-in-one-threat-9dc4f1e1"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2022
+April 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 First Malware Targeting AWS Lambda Serverless Platform Discovered<a href="https://thehackernews.com/2022/04/first-malware-targeting-aws-lambda.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2022
+April 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colibri Loader employs clever persistence mechanism<a href="https://securityaffairs.co/wordpress/129956/cyber-crime/colibri-loader-persistent-mechanism.html"> Full Text</a>
@@ -103,7 +103,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2022
+April 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MacOS Malware: Myth vs. Truth – Podcast<a href="https://threatpost.com/macos-malware-myth-vs-truth-podcast/179215/"> Full Text</a>
@@ -119,7 +119,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2022
+April 07, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 hacking group 'pen tester' sentenced to 5 years in prison<a href="https://www.bleepingcomputer.com/news/security/fin7-hacking-group-pen-tester-sentenced-to-5-years-in-prison/"> Full Text</a>
@@ -135,7 +135,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2022
+April 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero-Day Bugs Bug the Biggies<a href="https://cyware.com/news/zero-day-bugs-bug-the-biggies-696d26c8"> Full Text</a>
@@ -152,7 +152,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2022
+April 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hamas-linked Hackers Targeting High-Ranking Israelis Using 'Catfish' Lures<a href="https://thehackernews.com/2022/04/hamas-linked-hackers-targeting-high.html"> Full Text</a>
@@ -168,7 +168,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2022
+April 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2022-22292 flaw could allow hacking of Samsung Android devices<a href="https://securityaffairs.co/wordpress/129942/hacking/cve-2022-22292-hack-samsung-android-devices.html"> Full Text</a>
@@ -188,7 +188,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2022
+April 07, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google boosts Android security with new set of dev policy changes<a href="https://www.bleepingcomputer.com/news/security/google-boosts-android-security-with-new-set-of-dev-policy-changes/"> Full Text</a>
@@ -204,7 +204,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2022
+April 7, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Spyware Actively Targets Android Users<a href="https://cyware.com/news/new-spyware-actively-targets-android-users-f5ac7633"> Full Text</a>
@@ -221,7 +221,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2022
+April 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Into the Breach: Breaking Down 3 SaaS App Cyber Attacks in 2022<a href="https://thehackernews.com/2022/04/into-breach-breaking-down-3-saas-app.html"> Full Text</a>
@@ -237,7 +237,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2022
+April 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2022-0778 OpenSSL flaw affects multiple Palo Alto devices<a href="https://securityaffairs.co/wordpress/129935/hacking/palo-alto-networks-devices-openssl-flaws.html"> Full Text</a>
@@ -257,7 +257,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2022
+April 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New malware targets serverless AWS Lambda with cryptominers<a href="https://www.bleepingcomputer.com/news/security/new-malware-targets-serverless-aws-lambda-with-cryptominers/"> Full Text</a>
@@ -273,7 +273,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2022
+April 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beastmode Powered With Newly Added Exploits<a href="https://cyware.com/news/beastmode-powered-with-newly-added-exploits-0ec46d6e"> Full Text</a>
@@ -290,7 +290,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2022
+April 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SharkBot Banking Trojan Resurfaces On Google Play Store Hidden Behind 7 New Apps<a href="https://thehackernews.com/2022/04/sharkbot-banking-trojan-resurfaces-on.html"> Full Text</a>
@@ -306,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2022
+April 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware addressed several critical vulnerabilities in multiple products<a href="https://securityaffairs.co/wordpress/129906/security/vmware-critical-flaws-2.html"> Full Text</a>
@@ -326,7 +326,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2022
+April 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious web redirect service infects 16,500 sites to push malware<a href="https://www.bleepingcomputer.com/news/security/malicious-web-redirect-service-infects-16-500-sites-to-push-malware/"> Full Text</a>
@@ -342,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2022
+April 7, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deep Panda Uses Fire Chili Windows Rootkit<a href="https://cyware.com/news/deep-panda-uses-fire-chili-windows-rootkit-81bc5078"> Full Text</a>
@@ -359,7 +359,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2022
+April 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover How Colibri Malware Stays Persistent on Hacked Systems<a href="https://thehackernews.com/2022/04/researchers-uncover-how-colibri-malware.html"> Full Text</a>
@@ -375,7 +375,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2022
+April 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bearded Barbie hackers catfish high ranking Israeli officials<a href="https://www.bleepingcomputer.com/news/security/bearded-barbie-hackers-catfish-high-ranking-israeli-officials/"> Full Text</a>
@@ -391,7 +391,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2022
+April 7, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Bad Luck BlackCat<a href="https://securelist.com/a-bad-luck-blackcat/106254/?&web_view=true"> Full Text</a>
@@ -407,7 +407,7 @@ Securelist
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2022
+April 07, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Shut Down Russia-linked "Cyclops Blink" Botnet That Infected Thousands of Devices<a href="https://thehackernews.com/2022/04/fbi-shut-down-russia-linked-cyclops.html"> Full Text</a>
@@ -423,7 +423,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2022
+April 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android apps with 45 million installs used data harvesting SDK<a href="https://www.bleepingcomputer.com/news/security/android-apps-with-45-million-installs-used-data-harvesting-sdk/"> Full Text</a>
@@ -439,7 +439,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2022
+April 7, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How many steps does it take for attackers to compromise critical assets?<a href="https://www.helpnetsecurity.com/2022/04/07/attack-critical-assets/?&web_view=true"> Full Text</a>
@@ -455,7 +455,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2022
+April 7, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VPN Provider Nord Security Reaches Unicorn Status With $100 Million Funding<a href="https://www.securityweek.com/vpn-provider-nord-security-reaches-unicorn-status-100-million-funding?&web_view=true"> Full Text</a>
@@ -471,7 +471,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 06, 2022
+April 06, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Releases Critical Patches for New Vulnerabilities Affecting Multiple Products<a href="https://thehackernews.com/2022/04/vmware-releases-critical-patches-for.html"> Full Text</a>

@@ -8,6 +8,89 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Bugs Bug the Biggies<a href="https://cyware.com/news/zero-day-bugs-bug-the-biggies-696d26c8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the past few days, several attackers have been observed exploiting new zero-day vulnerabilities in commonly used software products by Google, Apple, and others. Apple has released emergency fixes for two zero-day flaws. Trend Micro fixed a high-severity vulnerability in its Apex Central. Meanwhi ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-22292 flaw could allow hacking of Samsung Android devices<a href="https://securityaffairs.co/wordpress/129942/hacking/cve-2022-22292-hack-samsung-android-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered a vulnerability, tracked as CVE-2022-22292, which can be exploited to compromise Android 9, 10, 11, and 12 devices.
+
+
+
+Researchers from mobile cybersecurity firm Kryptowire discovered a vulnerability, tracked as CVE-2022-22292, in Android...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-0778 OpenSSL flaw affects multiple Palo Alto devices<a href="https://securityaffairs.co/wordpress/129935/hacking/palo-alto-networks-devices-openssl-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks plans to fix CVE-2022-0778 OpenSSL flaw in some of its firewall, VPN, and XDR, products during April 2022.
+
+
+
+In Mid March, OpenSSL released updates to address a high-severity denial-of-service (DoS) vulnerability, tracked as&nbsp;CVE-2022-0778,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addressed several critical vulnerabilities in multiple products<a href="https://securityaffairs.co/wordpress/129906/security/vmware-critical-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware fixed critical vulnerabilities in multiple products that could be exploited by remote attackers to execute arbitrary code.
+
+
+
+VMware has addressed critical remote code vulnerabilities in multiple products, including VMware’s Workspace ONE Access,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Releases Critical Patches for New Vulnerabilities Affecting Multiple Products<a href="https://thehackernews.com/2022/04/vmware-releases-critical-patches-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released security updates to patch eight vulnerabilities spanning its products, some of which could be exploited to launch remote code execution attacks.  Tracked from&nbsp; CVE-2022-22954 to CVE-2022-22961 &nbsp;(CVSS scores: 5.3 - 9.8), the issues impact VMware Workspace ONE Access, VMware Identity Manager, VMware vRealize Automation, VMware Cloud Foundation, and vRealize Suite Lifecycle Manager.  Five of the eight bugs are rated Critical, two are rated Important, and one is rated Moderate in severity. Credited with reporting all the vulnerabilities is Steven Seeley of Qihoo 360 Vulnerability Research Institute.   The list of flaws is below -   CVE-2022-22954 &nbsp;(CVSS score: 9.8) - Server-side template injection remote code execution vulnerability affecting VMware Workspace ONE Access and Identity Manager  CVE-2022-22955 &amp; CVE-2022-22956 &nbsp;(CVSS scores: 9.8) - OAuth2 ACS authentication bypass vulnerabilities in VMware Workspace ONE Access  CVE-2022-22957 &amp; CVE-2022-22958 &nbsp;(CVS
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
