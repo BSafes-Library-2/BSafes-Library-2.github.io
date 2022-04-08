@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Releases Critical Patches for New Vulnerabilities Affecting Multiple Products<a href="https://thehackernews.com/2022/04/vmware-releases-critical-patches-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released security updates to patch eight vulnerabilities spanning its products, some of which could be exploited to launch remote code execution attacks.  Tracked from  CVE-2022-22954 to CVE-2022-22961  (CVSS scores: 5.3 - 9.8), the issues impact VMware Workspace ONE Access, VMware Identity Manager, VMware vRealize Automation, VMware Cloud Foundation, and vRealize Suite Lifecycle Manager.  Five of the eight bugs are rated Critical, two are rated Important, and one is rated Moderate in severity. Credited with reporting all the vulnerabilities is Steven Seeley of Qihoo 360 Vulnerability Research Institute.   The list of flaws is below -   CVE-2022-22954  (CVSS score: 9.8) - Server-side template injection remote code execution vulnerability affecting VMware Workspace ONE Access and Identity Manager  CVE-2022-22955 & CVE-2022-22956  (CVSS scores: 9.8) - OAuth2 ACS authentication bypass vulnerabilities in VMware Workspace ONE Access  CVE-2022-22957 & CVE-2022-22958  (CVS
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 06, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
