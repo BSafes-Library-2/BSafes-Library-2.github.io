@@ -34,6 +34,384 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snap-on discloses data breach claimed by Conti ransomware gang<a href="https://www.bleepingcomputer.com/news/security/snap-on-discloses-data-breach-claimed-by-conti-ransomware-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American automotive tools manufacturer Snap-on announced a data breach exposing associate and franchisee data after the Conti ransomware gang began leaking the company's data in March.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Looking Inside Pandora’s Box<a href="https://www.fortinet.com/blog/threat-research/looking-inside-pandoras-box?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat group uses the double extortion method to increase pressure on the victim. This means that they not only encrypt the victim’s files, but also exfiltrate them and threaten to release the data if the victim does not pay.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hacker Groups Continue to Target Indian Power Grid Assets<a href="https://thehackernews.com/2022/04/chinese-hacker-groups-continue-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked adversaries have been attributed to an ongoing onslaught against Indian power grid organizations, one year after a  concerted campaign  targeting critical infrastructure in the country came to light.  Most of the intrusions involved a modular backdoor named  ShadowPad , according to Recorded Future's Insikt Group, a sophisticated remote access trojan which has been  dubbed  a "masterpiece of privately sold malware in Chinese espionage."  "ShadowPad continues to be employed by an ever-increasing number of People's Liberation Army (PLA) and Ministry of State Security (MSS)-linked groups, with its origins linked to known MSS contractors first using the tool in their own operations and later likely acting as a digital quartermaster," the researchers  said .   The goal of the sustained campaign, the cybersecurity company said, is to facilitate intelligence gathering pertaining to critical infrastructure systems in preparation for future contingency
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15 Cybersecurity Measures for the Cloud Era<a href="https://securityaffairs.co/wordpress/130004/security/top-cybersecurity-measures-cloud-era.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Which are the most important cybersecurity measures that businesses can take to protect themselves in the cloud era?
+
+
+
+We are now firmly in the era of cloud data and storage. In fact, it’s become quite difficult to find a service that doesn’t rely...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub can now alert of supply-chain bugs in new dependencies<a href="https://www.bleepingcomputer.com/news/security/github-can-now-alert-of-supply-chain-bugs-in-new-dependencies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub can now block and alert you of pull requests that introduce new dependencies impacted by known supply chain vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blockchain Security Firm CertiK Raises $88 Million at $2 Billion Valuation<a href="https://www.securityweek.com/blockchain-security-firm-certik-raises-88-million-2-billion-valuation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new investment round was led by Advent International, Insight Partners, and Tiger Global, with participation from Goldman Sachs and previous investors Lightspeed Venture Partners and Sequoia.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Connect BlackCat Ransomware with Past BlackMatter Malware Activity<a href="https://thehackernews.com/2022/04/researchers-connect-blackcat-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered further links between BlackCat (aka AlphaV) and BlackMatter ransomware families, the former of which emerged as a replacement following international scrutiny last year.  "At least some members of the new  BlackCat  group have links to the BlackMatter group, because they modified and reused a custom exfiltration tool [...] and which has only been observed in BlackMatter activity," Kaspersky researchers  said  in a new analysis.  The tool, dubbed Fendr, has not only been upgraded to include more file types but also used by the gang extensively to steal data from corporate networks in December 2021 and January 2022 prior to encryption, in a popular tactic called double extortion.   The findings come less than a month after Cisco Talos researchers  identified  overlaps in the tactics, techniques, and procedures (TTPs) between BlackCat and BlackMatter, describing the new ransomware variant as a case of "vertical business expansion.&q
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous and the IT ARMY of Ukraine continue to target Russian entities<a href="https://securityaffairs.co/wordpress/129991/hacktivism/anonymous-it-army-of-ukraine-vs-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular hacking Anonymous and the IT ARMY of Ukraine continue to target Russian government entities and private businesses.
+
+
+
+This week Anonymous claimed to have hacked multiple private businesses and leaked their data through the DDoSecrets platform.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai malware now delivered using Spring4Shell exploits <a href="https://www.bleepingcomputer.com/news/security/mirai-malware-now-delivered-using-spring4shell-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mirai malware is now leveraging the Spring4Shell exploit to infect vulnerable web servers and recruit them for DDoS (distributed denial of service) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WonderHero Game Disabled After Hackers Steal $320,000 in Cryptocurrency<a href="https://therecord.media/wonderhero-game-disabled-after-hackers-steal-320000-in-cryptocurrency/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of cryptocurrency play-to-earn game WonderHero have disabled the service after hackers stole about $320,000 worth of Binance Coin (BNB). The attack caused the price of WonderHero’s own coin, WND, to plummet more than 90%.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian FIN7 Hacker Gets 5-Year Sentence in the United States<a href="https://thehackernews.com/2022/04/ukrainian-fin7-hacker-gets-5-year.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 32-year-old Ukrainian national has been  sentenced to five years in prison  in the U.S. for the individual's criminal work as a "high-level hacker" in the financially motivated group FIN7.  Denys Iarmak, who worked as a penetration tester for the cartel from November 2016 through November 2018, had been previously arrested in Bangkok, Thailand in November 2019, before being extradited to the U.S. in May 2020.  In November 2021, Iarmak had pleaded guilty to one count of conspiracy to commit wire fraud and one count of conspiracy to commit computer hacking.   FIN7 has been attributed to a number of attacks that have led to the theft of more than 20 million customer card records from over 6,500 individual point-of-sale terminals at more than 3,600 separate business locations in the U.S, costing the victims $1 billion in losses.  The criminal gang, also known as Carbanak Group and the Navigator Group, has a track record of hitting restaurant, gambling, and hospitality indu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Ukrainian man is the third FIN7 member sentenced in the United States<a href="https://securityaffairs.co/wordpress/129986/cyber-crime/third-fin7-member-sentenced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Ukrainian man was sentenced in the US to 5 years in prison for his criminal activity in the cybercrime group FIN7.
+
+
+
+Denys Iarmak, a Ukrainian national (32), has been sentenced to five years in prison in the U.S. for high-level hacking activity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raspberry Pi removes default user to hinder brute-force attacks<a href="https://www.bleepingcomputer.com/news/security/raspberry-pi-removes-default-user-to-hinder-brute-force-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An update to Raspberry Pi OS Bullseye has removed the default 'pi' user to make it harder for attackers to find and compromise Internet-exposed Raspberry Pi devices using default credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SaintBear Uses New Set of Payloads to Target Ukrainian Organizations<a href="https://cyware.com/news/saintbear-uses-new-set-of-payloads-to-target-ukrainian-organizations-c1e1e375"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found the SaintBear actors targeting Ukrainian organizations using macro-embedded documents in its latest campaign that delivers different Elephant payloads. SaintBear has been actively performing cyberespionage campaigns aimed at Ukraine since 2021. For better protection, organizations ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Obtains Court Order to Take Down Domains Used to Target Ukraine<a href="https://thehackernews.com/2022/04/microsoft-obtains-court-order-to-take.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday disclosed that it obtained a court order to take control of seven domains used by APT28, a state-sponsored group operated by Russia's military intelligence service, with the goal of neutralizing its attacks on Ukraine.  "We have since re-directed these domains to a sinkhole controlled by Microsoft, enabling us to mitigate Strontium's current use of these domains and enable victim notifications," Tom Burt, Microsoft's corporate vice president of customer security and trust,  said .  APT28, also known by the names Sofacy, Sednit, Pawn Storm, Fancy Bear, Iron Twilight, and Strontium, is a  cyber espionage group  and an advanced persistent threat that's known to be active since 2009, striking media, governments, military, and international non-governmental organizations (NGOs) that often have a security focus.   The tech giant noted that the sinkholed infrastructure was used by the threat actor to target Ukrainian institutions as well as gov
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disrupted APT28 attacks on Ukraine through a court order<a href="https://securityaffairs.co/wordpress/129982/apt/microsoft-court-order-apt28-attacks-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft obtained a court order to take over seven domains used by the Russia-linked APT28 group to target Ukraine.
+
+
+
+Microsoft on Thursday announced it has obtained a court order to take over seven domains used by Russia-linked cyberespionage group...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Forces North Carolina A&T University to Take Systems and Services Offline<a href="https://arstechnica.com/information-technology/2022/04/ransomware-sent-north-carolina-at-university-scrambling-to-restore-services/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Carolina A&T State University, the largest historically black college in the US, University was recently struck by a ransomware Group called ALPHV, sending university staff into a scramble to restore services last month.
+</details>
+<div style="text-align: right" markdown="1">
+ARS Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hamas-linked threat actors target high-profile Israeli individuals<a href="https://securityaffairs.co/wordpress/129973/apt/hamas-linked-apt-targets-israeli-individuals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hamas-linked threat actors conducted an elaborate campaign aimed at high-profile Israeli individuals employed in sensitive sectors.
+
+
+
+Researchers from Cybereason observed a sophisticated cyberespionage campaign conducted by APT-C-23 group campaigns...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Forays into Ransomware Attack Landscape with New Tools<a href="https://cyware.com/news/fin7-forays-into-ransomware-attack-landscape-with-new-tools-72e31e03"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant warned against the evil ambitions of the FIN7 group, which has shown strong signs of entering ransomware operations. The group’s presence has been reported before attack events from Maze, Darkside, BlackCat, and Ryuk. Recently, it has been observed showing off a novel backdoor and new mali ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Command injection bug patched in Ruby library for converting AsciiDoc files<a href="https://portswigger.net/daily-swig/command-injection-bug-patched-in-ruby-library-for-converting-asciidoc-files?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers have issued a patch for a popular Ruby library used to parse and convert AsciiDoc files, to safeguard servers against a newly discovered command injection vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Multiple Vulnerabilities in AutoDesk Products<a href="https://www.fortinet.com/blog/threat-research/fortinet-security-researchers-discover-multiple-vulnerabilities-in-autodesk-products-dwg-trueview-navisworks-and-design-review?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Towards the end of 2021, Fortinet security researchers discovered and reported multiple zero-day vulnerabilities in AutoDesk products: DWG TrueView, Design Review, and Navisworks.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Octo Banking Trojan Spreading via Fake Apps on Google Play Store<a href="https://thehackernews.com/2022/04/new-octo-banking-trojan-spreading-via.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of rogue Android apps that have been cumulatively installed from the official Google Play Store more than 50,000 times are being used to target banks and other financial entities.  The rental banking trojan, dubbed  Octo , is said to be a rebrand of another Android malware called ExobotCompact, which, in turn, is a "lite" replacement for its Exobot predecessor, Dutch mobile security firm ThreatFabric  said  in a report shared with The Hacker News.  Exobot is also likely said to have paved the way for a separate descendant called Coper, that was initially  discovered  targeting Colombian users around July 2021, with newer infections targeting Android users in different European Countries.  "Coper malware apps are modular in design and include a multi-stage infection method and many defensive tactics to survive removal attempts," Cybersecurity company Cyble  noted  in an analysis of the malware last month.   Like other Android banking trojans, the rogue apps
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 07, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
