@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How many steps does it take for attackers to compromise critical assets?<a href="https://www.helpnetsecurity.com/2022/04/07/attack-critical-assets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The XM Cyber research team analyzed the methods, attack paths and impacts of attack techniques that imperil critical assets across on-prem, multi-cloud and hybrid environments.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

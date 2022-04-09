@@ -8,6 +8,24 @@ nav_order: 900072
 
 ## General
 ---
+April 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15 Cybersecurity Measures for the Cloud Era<a href="https://securityaffairs.co/wordpress/130004/security/top-cybersecurity-measures-cloud-era.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Which are the most important cybersecurity measures that businesses can take to protect themselves in the cloud era?
+
+
+
+We are now firmly in the era of cloud data and storage. In fact, it’s become quite difficult to find a service that doesn’t rely...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

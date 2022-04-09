@@ -8,6 +8,35 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hacker Groups Continue to Target Indian Power Grid Assets<a href="https://thehackernews.com/2022/04/chinese-hacker-groups-continue-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked adversaries have been attributed to an ongoing onslaught against Indian power grid organizations, one year after a&nbsp; concerted campaign &nbsp;targeting critical infrastructure in the country came to light.  Most of the intrusions involved a modular backdoor named&nbsp; ShadowPad , according to Recorded Future's Insikt Group, a sophisticated remote access trojan which has been&nbsp; dubbed &nbsp;a "masterpiece of privately sold malware in Chinese espionage."  "ShadowPad continues to be employed by an ever-increasing number of People's Liberation Army (PLA) and Ministry of State Security (MSS)-linked groups, with its origins linked to known MSS contractors first using the tool in their own operations and later likely acting as a digital quartermaster," the researchers&nbsp; said .   The goal of the sustained campaign, the cybersecurity company said, is to facilitate intelligence gathering pertaining to critical infrastructure systems in preparation for future contingency
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Forays into Ransomware Attack Landscape with New Tools<a href="https://cyware.com/news/fin7-forays-into-ransomware-attack-landscape-with-new-tools-72e31e03"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant warned against the evil ambitions of the FIN7 group, which has shown strong signs of entering ransomware operations. The group’s presence has been reported before attack events from Maze, Darkside, BlackCat, and Ryuk. Recently, it has been observed showing off a novel backdoor and new mali ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

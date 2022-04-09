@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 08, 2022
+April 08, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Snap-on discloses data breach claimed by Conti ransomware gang<a href="https://www.bleepingcomputer.com/news/security/snap-on-discloses-data-breach-claimed-by-conti-ransomware-gang/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2022
+April 8, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Looking Inside Pandora’s Box<a href="https://www.fortinet.com/blog/threat-research/looking-inside-pandoras-box?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 08, 2022
+April 08, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hacker Groups Continue to Target Indian Power Grid Assets<a href="https://thehackernews.com/2022/04/chinese-hacker-groups-continue-to.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2022
+April 8, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 15 Cybersecurity Measures for the Cloud Era<a href="https://securityaffairs.co/wordpress/130004/security/top-cybersecurity-measures-cloud-era.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 08, 2022
+April 08, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub can now alert of supply-chain bugs in new dependencies<a href="https://www.bleepingcomputer.com/news/security/github-can-now-alert-of-supply-chain-bugs-in-new-dependencies/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2022
+April 8, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blockchain Security Firm CertiK Raises $88 Million at $2 Billion Valuation<a href="https://www.securityweek.com/blockchain-security-firm-certik-raises-88-million-2-billion-valuation?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 08, 2022
+April 08, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Connect BlackCat Ransomware with Past BlackMatter Malware Activity<a href="https://thehackernews.com/2022/04/researchers-connect-blackcat-ransomware.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2022
+April 8, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous and the IT ARMY of Ukraine continue to target Russian entities<a href="https://securityaffairs.co/wordpress/129991/hacktivism/anonymous-it-army-of-ukraine-vs-russia.html"> Full Text</a>
@@ -174,7 +174,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 08, 2022
+April 08, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mirai malware now delivered using Spring4Shell exploits <a href="https://www.bleepingcomputer.com/news/security/mirai-malware-now-delivered-using-spring4shell-exploits/"> Full Text</a>
@@ -190,7 +190,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2022
+April 8, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WonderHero Game Disabled After Hackers Steal $320,000 in Cryptocurrency<a href="https://therecord.media/wonderhero-game-disabled-after-hackers-steal-320000-in-cryptocurrency/?&web_view=true"> Full Text</a>
@@ -206,7 +206,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 08, 2022
+April 08, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian FIN7 Hacker Gets 5-Year Sentence in the United States<a href="https://thehackernews.com/2022/04/ukrainian-fin7-hacker-gets-5-year.html"> Full Text</a>
@@ -222,7 +222,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2022
+April 8, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Ukrainian man is the third FIN7 member sentenced in the United States<a href="https://securityaffairs.co/wordpress/129986/cyber-crime/third-fin7-member-sentenced.html"> Full Text</a>
@@ -242,7 +242,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 08, 2022
+April 08, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Raspberry Pi removes default user to hinder brute-force attacks<a href="https://www.bleepingcomputer.com/news/security/raspberry-pi-removes-default-user-to-hinder-brute-force-attacks/"> Full Text</a>
@@ -258,7 +258,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2022
+April 8, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SaintBear Uses New Set of Payloads to Target Ukrainian Organizations<a href="https://cyware.com/news/saintbear-uses-new-set-of-payloads-to-target-ukrainian-organizations-c1e1e375"> Full Text</a>
@@ -275,7 +275,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 08, 2022
+April 08, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Obtains Court Order to Take Down Domains Used to Target Ukraine<a href="https://thehackernews.com/2022/04/microsoft-obtains-court-order-to-take.html"> Full Text</a>
@@ -291,7 +291,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2022
+April 8, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft disrupted APT28 attacks on Ukraine through a court order<a href="https://securityaffairs.co/wordpress/129982/apt/microsoft-court-order-apt28-attacks-ukraine.html"> Full Text</a>
@@ -311,7 +311,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2022
+April 8, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Forces North Carolina A&T University to Take Systems and Services Offline<a href="https://arstechnica.com/information-technology/2022/04/ransomware-sent-north-carolina-at-university-scrambling-to-restore-services/?&web_view=true"> Full Text</a>
@@ -327,7 +327,7 @@ ARS Technica
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2022
+April 8, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hamas-linked threat actors target high-profile Israeli individuals<a href="https://securityaffairs.co/wordpress/129973/apt/hamas-linked-apt-targets-israeli-individuals.html"> Full Text</a>
@@ -347,7 +347,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2022
+April 8, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 Forays into Ransomware Attack Landscape with New Tools<a href="https://cyware.com/news/fin7-forays-into-ransomware-attack-landscape-with-new-tools-72e31e03"> Full Text</a>
@@ -364,7 +364,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2022
+April 8, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Command injection bug patched in Ruby library for converting AsciiDoc files<a href="https://portswigger.net/daily-swig/command-injection-bug-patched-in-ruby-library-for-converting-asciidoc-files?&web_view=true"> Full Text</a>
@@ -380,7 +380,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2022
+April 8, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover Multiple Vulnerabilities in AutoDesk Products<a href="https://www.fortinet.com/blog/threat-research/fortinet-security-researchers-discover-multiple-vulnerabilities-in-autodesk-products-dwg-trueview-navisworks-and-design-review?&web_view=true"> Full Text</a>
@@ -396,7 +396,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2022
+April 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Octo Banking Trojan Spreading via Fake Apps on Google Play Store<a href="https://thehackernews.com/2022/04/new-octo-banking-trojan-spreading-via.html"> Full Text</a>

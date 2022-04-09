@@ -8,6 +8,61 @@ nav_order: 900015
 
 ## Attack
 ---
+April 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous and the IT ARMY of Ukraine continue to target Russian entities<a href="https://securityaffairs.co/wordpress/129991/hacktivism/anonymous-it-army-of-ukraine-vs-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular hacking Anonymous and the IT ARMY of Ukraine continue to target Russian government entities and private businesses.
+
+
+
+This week Anonymous claimed to have hacked multiple private businesses and leaked their data through the DDoSecrets platform.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SaintBear Uses New Set of Payloads to Target Ukrainian Organizations<a href="https://cyware.com/news/saintbear-uses-new-set-of-payloads-to-target-ukrainian-organizations-c1e1e375"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found the SaintBear actors targeting Ukrainian organizations using macro-embedded documents in its latest campaign that delivers different Elephant payloads. SaintBear has been actively performing cyberespionage campaigns aimed at Ukraine since 2021. For better protection, organizations ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hamas-linked threat actors target high-profile Israeli individuals<a href="https://securityaffairs.co/wordpress/129973/apt/hamas-linked-apt-targets-israeli-individuals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hamas-linked threat actors conducted an elaborate campaign aimed at high-profile Israeli individuals employed in sensitive sectors.
+
+
+
+Researchers from Cybereason observed a sophisticated cyberespionage campaign conducted by APT-C-23&nbsp;group campaigns...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

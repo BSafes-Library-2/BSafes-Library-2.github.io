@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+April 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hamas-linked Hackers Targeting High-Ranking Israelis Using 'Catfish' Lures<a href="https://thehackernews.com/2022/04/hamas-linked-hackers-targeting-high.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor with affiliations to the cyber warfare division of Hamas has been linked to an "elaborate campaign" targeting high-profile Israeli individuals employed in sensitive defense, law enforcement, and emergency services organizations.  "The campaign operators use sophisticated social engineering techniques, ultimately aimed to deliver previously undocumented backdoors for Windows and Android devices," cybersecurity company Cybereason&nbsp; said &nbsp;in a Wednesday report.  "The goal behind the attack was to extract sensitive information from the victims' devices for espionage purposes."  The monthslong intrusions, codenamed " Operation Bearded Barbie ," have been attributed to an Arabic-speaking and politically-motivated group called Arid Viper, which operates out of the Middle East and is also known by the monikers APT-C-23 and Desert Falcon.   Most recently, the threat actor was&nbsp; held responsible &nbsp;for attacks aimed at Palestinian activists
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bearded Barbie hackers catfish high ranking Israeli officials<a href="https://www.bleepingcomputer.com/news/security/bearded-barbie-hackers-catfish-high-ranking-israeli-officials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hamas-backed hacking group tracked as 'APT-C-23' was found catfishing Israeli officials working in defense, law, enforcement, and government agencies, ultimately leading to the deployment of new malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

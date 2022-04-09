@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raspberry Pi removes default user to hinder brute-force attacks<a href="https://www.bleepingcomputer.com/news/security/raspberry-pi-removes-default-user-to-hinder-brute-force-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An update to Raspberry Pi OS Bullseye has removed the default 'pi' user to make it harder for attackers to find and compromise Internet-exposed Raspberry Pi devices using default credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Command injection bug patched in Ruby library for converting AsciiDoc files<a href="https://portswigger.net/daily-swig/command-injection-bug-patched-in-ruby-library-for-converting-asciidoc-files?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers have issued a patch for a popular Ruby library used to parse and convert AsciiDoc files, to safeguard servers against a newly discovered command injection vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Multiple Vulnerabilities in AutoDesk Products<a href="https://www.fortinet.com/blog/threat-research/fortinet-security-researchers-discover-multiple-vulnerabilities-in-autodesk-products-dwg-trueview-navisworks-and-design-review?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Towards the end of 2021, Fortinet security researchers discovered and reported multiple zero-day vulnerabilities in AutoDesk products: DWG TrueView, Design Review, and Navisworks.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

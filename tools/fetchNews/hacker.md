@@ -8,6 +8,35 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deep Panda Uses Fire Chili Windows Rootkit<a href="https://cyware.com/news/deep-panda-uses-fire-chili-windows-rootkit-81bc5078"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deep Panda was found exploiting Log4Shell to deploy the new Fire Chili rootkit in compromised networks of organizations in the travel, finance, and cosmetic industries. Fire Chili  helps keep file operations, registry key additions, processes, and malicious network connections concealed from the us ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Bad Luck BlackCat<a href="https://securelist.com/a-bad-luck-blackcat/106254/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky claims that at least some members of the new BlackCat group have links to the BlackMatter group, because they modified and reused a custom exfiltration tool we call Fendr and which has only been observed in BlackMatter activity.
+</details>
+<div style="text-align: right" markdown="1">
+Securelist
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+April 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WonderHero Game Disabled After Hackers Steal $320,000 in Cryptocurrency<a href="https://therecord.media/wonderhero-game-disabled-after-hackers-steal-320000-in-cryptocurrency/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of cryptocurrency play-to-earn game WonderHero have disabled the service after hackers stole about $320,000 worth of Binance Coin (BNB). The attack caused the price of WonderHero’s own coin, WND, to plummet more than 90%.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Forces North Carolina A&amp;T University to Take Systems and Services Offline<a href="https://arstechnica.com/information-technology/2022/04/ransomware-sent-north-carolina-at-university-scrambling-to-restore-services/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Carolina A&amp;T State University, the largest historically black college in the US, University was recently struck by a ransomware Group called ALPHV, sending university staff into a scramble to restore services last month.
+</details>
+<div style="text-align: right" markdown="1">
+ARS Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian FIN7 Hacker Gets 5-Year Sentence in the United States<a href="https://thehackernews.com/2022/04/ukrainian-fin7-hacker-gets-5-year.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 32-year-old Ukrainian national has been&nbsp; sentenced to five years in prison &nbsp;in the U.S. for the individual's criminal work as a "high-level hacker" in the financially motivated group FIN7.  Denys Iarmak, who worked as a penetration tester for the cartel from November 2016 through November 2018, had been previously arrested in Bangkok, Thailand in November 2019, before being extradited to the U.S. in May 2020.  In November 2021, Iarmak had pleaded guilty to one count of conspiracy to commit wire fraud and one count of conspiracy to commit computer hacking.   FIN7 has been attributed to a number of attacks that have led to the theft of more than 20 million customer card records from over 6,500 individual point-of-sale terminals at more than 3,600 separate business locations in the U.S, costing the victims $1 billion in losses.  The criminal gang, also known as Carbanak Group and the Navigator Group, has a track record of hitting restaurant, gambling, and hospitality indu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Ukrainian man is the third FIN7 member sentenced in the United States<a href="https://securityaffairs.co/wordpress/129986/cyber-crime/third-fin7-member-sentenced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Ukrainian man was sentenced in the US to 5 years in prison for his criminal activity in the cybercrime group FIN7.
+
+
+
+Denys Iarmak, a Ukrainian national (32), has been&nbsp;sentenced to five years in prison&nbsp;in the U.S. for high-level hacking activity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Obtains Court Order to Take Down Domains Used to Target Ukraine<a href="https://thehackernews.com/2022/04/microsoft-obtains-court-order-to-take.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday disclosed that it obtained a court order to take control of seven domains used by APT28, a state-sponsored group operated by Russia's military intelligence service, with the goal of neutralizing its attacks on Ukraine.  "We have since re-directed these domains to a sinkhole controlled by Microsoft, enabling us to mitigate Strontium's current use of these domains and enable victim notifications," Tom Burt, Microsoft's corporate vice president of customer security and trust,&nbsp; said .  APT28, also known by the names Sofacy, Sednit, Pawn Storm, Fancy Bear, Iron Twilight, and Strontium, is a&nbsp; cyber espionage group &nbsp;and an advanced persistent threat that's known to be active since 2009, striking media, governments, military, and international non-governmental organizations (NGOs) that often have a security focus.   The tech giant noted that the sinkholed infrastructure was used by the threat actor to target Ukrainian institutions as well as gov
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

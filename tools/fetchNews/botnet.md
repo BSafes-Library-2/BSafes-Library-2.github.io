@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Shut Down Russia-linked "Cyclops Blink" Botnet That Infected Thousands of Devices<a href="https://thehackernews.com/2022/04/fbi-shut-down-russia-linked-cyclops.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) announced that it neutralized Cyclops Blink , a modular botnet controlled by a threat actor known as Sandworm, which has been attributed to the Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation (GRU).  "The operation copied and removed malware from vulnerable internet-connected firewall devices that Sandworm used for command-and-control (C2) of the underlying botnet," the DoJ&nbsp; said &nbsp;in a statement Wednesday.  In addition to disrupting its C2 infrastructure, the operation also closed the external management ports that the threat actor used to establish connections with the firewall appliances, effectively severing contact and preventing the hacking group from using the infected devices to commandeer the botnet.   The March 22 court-authorized disruption of Cyclops Blink comes a little over a month after intelligence agencies in the U.K. and the U.S.&nbsp; described &nbsp;the botnet as a replacement fram
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Connect BlackCat Ransomware with Past BlackMatter Malware Activity<a href="https://thehackernews.com/2022/04/researchers-connect-blackcat-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered further links between BlackCat (aka AlphaV) and BlackMatter ransomware families, the former of which emerged as a replacement following international scrutiny last year.  "At least some members of the new&nbsp; BlackCat &nbsp;group have links to the BlackMatter group, because they modified and reused a custom exfiltration tool [...] and which has only been observed in BlackMatter activity," Kaspersky researchers&nbsp; said &nbsp;in a new analysis.  The tool, dubbed Fendr, has not only been upgraded to include more file types but also used by the gang extensively to steal data from corporate networks in December 2021 and January 2022 prior to encryption, in a popular tactic called double extortion.   The findings come less than a month after Cisco Talos researchers&nbsp; identified &nbsp;overlaps in the tactics, techniques, and procedures (TTPs) between BlackCat and BlackMatter, describing the new ransomware variant as a case of "vertical business expansion.&amp;q
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

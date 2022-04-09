@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Looking Inside Pandora’s Box<a href="https://www.fortinet.com/blog/threat-research/looking-inside-pandoras-box?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat group uses the double extortion method to increase pressure on the victim. This means that they not only encrypt the victim’s files, but also exfiltrate them and threaten to release the data if the victim does not pay.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

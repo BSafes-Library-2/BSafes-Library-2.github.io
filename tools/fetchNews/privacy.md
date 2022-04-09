@@ -8,6 +8,21 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Spyware Actively Targets Android Users<a href="https://cyware.com/news/new-spyware-actively-targets-android-users-f5ac7633"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Android spyware impersonates a process manager app to target users and steal their data.&nbsp;While analyzing the spyware, the research team discovered that it downloads additional payloads to compromised devices. Organizations and users are suggested to always monitor and review the app permiss ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
