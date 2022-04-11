@@ -34,6 +34,418 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 300,000 People Impacted by Data Breach at SuperCare Health<a href="https://www.securityweek.com/supercare-health-data-breach-impacts-over-300000-people?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a data security notice posted on its website, SuperCare Health said the intrusion was discovered on July 27, 2021, when it noticed unauthorized activity on some systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers warn of FFDroider and Lightning info-stealers targeting users in the wild<a href="https://thehackernews.com/2022/04/researchers-warn-of-ffdroider-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning of two different information-stealing malware, named  FFDroider  and  Lightning Stealer , that are capable of siphoning data and launching further attacks.  "Designed to send stolen credentials and cookies to a Command & Control server, FFDroider disguises itself on victim's machines to look like the instant messaging application 'Telegram,'" Zscaler ThreatLabz researchers Avinash Kumar and Niraj Shivtarkar  said  in a report published last week.  Information stealers, as the name implies, are equipped to harvest sensitive information from compromised machines, such as keystrokes, screenshots, files, saved passwords and cookies from web browsers, that are then transmitted to a remote attacker-controlled domain.    FFDroider is distributed through cracked versions of installers and freeware with the primary objective of stealing cookies and credentials associated with popular social media and e-commerce platforms and using
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft’s Autopatch feature improves the patch management process<a href="https://securityaffairs.co/wordpress/130082/security/microsoft-autopatch-feature-patch-management.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced a feature called Autopatch that will allow organizations to keep their systems up-to-date starting with Windows Enterprise E3 (July 2022).
+
+
+
+Microsoft recently announced the implementation of a new feature called Autopatch starting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More organizations are paying the ransom. Why?<a href="https://www.helpnetsecurity.com/2022/04/11/organizations-paying-ransom/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most organizations (71%) have been hit by ransomware in 2022, and most of those (63%) opted for paying the requested ransom, the 2022 Cyberthreat Defense Report (CDR) by the CyberEdge Group has shown.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dependency Review GitHub Action prevents adding known flaws in the code<a href="https://securityaffairs.co/wordpress/130067/security/dependency-review-github-action.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dependency Review GitHub Action scans users' pull requests for dependency changes and will raise an error if any new dependencies have existing flaws.
+
+
+
+GitHub announced Dependency Review GitHub Action which scans users' pull requests for dependency...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSH now defaults to protecting against quantum computer attacks<a href="https://www.zdnet.com/article/openssh-now-defaults-to-protecting-against-quantum-computer-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Post-quantum cryptography has arrived by default with the release of the new OpenSSH 9 version and the adoption of the hybrid Streamlined NTRU Prime + x25519 key exchange method.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Securing Easy Appointments and earning CVE-2022-0482<a href="https://securityaffairs.co/wordpress/130077/security/securing-easy-appointments-cve-2022-0482.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Easy Appointments contained a very dangerous Broken Access Control vulnerability tracked as CVE-2022-0482 that was exposing PII.
+
+
+
+Another day, another threat to your data. The recently discovered CVE-2022-0482 is a Broken Access Control vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eavesdropping scam: A new scam call tactic<a href="https://www.helpnetsecurity.com/2022/04/11/new-eavesdropping-scam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hiya has detected the newest scam call tactic, the eavesdropping scam. The new scam aims to get users to call back by leaving vague voicemail messages where an unknown voice is heard talking about the potential victim.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accounts Deceivable: Email Scam Costliest Type of Cybercrime<a href="https://www.securityweek.com/accounts-deceivable-email-scam-costliest-type-cybercrime?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The huge payoffs and low risks associated with BEC scams have attracted criminals worldwide. Some flaunt their ill-gotten riches on social media, posing in pictures next to Ferraris, Bentleys, and stacks of cash.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Human activated risk still a pain point for organizations<a href="https://www.helpnetsecurity.com/2022/04/11/non-technical-staff-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Egress announced the results of a report, which revealed that 56% of IT leaders say that their non-technical staff is only ‘somewhat’ prepared, or ‘not at all’ prepared, for a security attack.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analyzing the Exploitation of Spring4Shell Vulnerability in Weaponizing and Executing the Mirai Botnet Malware<a href="https://www.trendmicro.com/en_us/research/22/d/cve-2022-22965-analyzing-the-exploitation-of-spring4shell-vulner.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro Threat Research observed active exploitation of the Spring4Shell vulnerability assigned as CVE-2022-22965, which allows malicious actors to weaponize and execute the Mirai botnet malware.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Meta information stealer distributed in malspam campaign<a href="https://www.bleepingcomputer.com/news/security/new-meta-information-stealer-distributed-in-malspam-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Independent analyst Brand Duncan has spotted a malspam campaign delivering META, a new info-stealer malware that appears to be rising in popularity among cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's New Autopatch Feature to Help Businesses Keep Their Systems Up-to-Date<a href="https://thehackernews.com/2022/04/microsofts-new-autopatch-feature-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft last week announced that it intends to make generally available a feature called Autopatch  as part of Windows Enterprise E3 in July 2022.  "This service will keep Windows and Office software on enrolled endpoints up-to-date automatically, at no additional cost,"  said  Lior Bela, senior product marketing manager at Microsoft, in a post last week. "The second Tuesday of every month will be 'just another Tuesday.'"   Windows Autopatch is intended to work with all supported versions of Windows 10, Windows 11, and Windows 365 for Enterprise. Windows Server OS and Windows 365 for Business, however, are not supported.  The tech giant said the feature is aimed at tackling the complexity associated with software updates in enterprise IT environments as well as closing security gaps introduced as a result of not applying patches in a timely fashion, thereby opening the door to potential new threats.   The managed service works by applying the updates acro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apr 03 – Apr 09 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/130057/cyber-warfare-2/apr-03-apr-09-ukraine-russia-cyber-conflict.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This post provides a timeline of the events related to the Russian invasion of Ukraine from the cyber security perspective.
+
+
+
+Below is the timeline of the events related to the ongoing invasion of Ukraine that occurred in the previous weeks:
+
+
+
+April...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NB65 group targets Russia with a modified version of Conti’s ransomware<a href="https://securityaffairs.co/wordpress/130051/hacktivism/nb65-modified-version-conti-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NB65 hacking group created its ransomware based on the leaked source code of the Conti ransomware and targets Russia.
+
+
+
+According to BleepingComputer, NB65 hacking group is targeting Russian organizations with ransomware that they have developed using...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 360 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/130046/breaking-news/security-affairs-newsletter-round-360-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook blocked Russia and Belarus threat actors’ activity against Ukraine<a href="https://securityaffairs.co/wordpress/130037/cyber-warfare-2/facebook-block-russia-belarus-against-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook/Meta said Russia-linked threat actors are attempting to use the social network against Ukraine with hate speech, bullying, and fake news.
+
+
+
+Facebook/Meta revealed that Russia-linked threat actors are attempting to weaponize the social network...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use Conti's leaked ransomware to attack Russian companies<a href="https://www.bleepingcomputer.com/news/security/hackers-use-contis-leaked-ransomware-to-attack-russian-companies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group used the Conti's leaked ransomware source code to create their own ransomware to use in cyberattacks against Russian organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android banking malware remotely takes control of your device<a href="https://www.bleepingcomputer.com/news/security/new-android-banking-malware-remotely-takes-control-of-your-device/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android banking malware named Octo has appeared in the wild, featuring remote access capabilities that allow malicious operators to perform on-device fraud.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A DDoS attack took down Finnish govt sites as Ukraine’s President addresses MPs<a href="https://securityaffairs.co/wordpress/130032/hacking/ddos-took-down-finnish-govt-sites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive DDoS attack took down Finnish government websites while Ukrainian President Zelenskyy addressed Finland's members of parliament (MPs).
+
+
+
+On April 8, a denial-of-service attack took down the websites of the Finnish ministries of Defense and Foreign...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SharkBot Banking Trojan spreads through fake AV apps on Google Play<a href="https://securityaffairs.co/wordpress/130021/malware/sharkbot-banking-trojan-google-play.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered malicious Android apps on the Google Play Store masqueraded as antivirus solutions spreading the SharkBot Trojan.
+
+
+
+Researchers from the Check Point Research (CPR) team discovered several malicious Android apps on the official Google...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked threat actors target Indian Power Grid organizations<a href="https://securityaffairs.co/wordpress/130010/apt/china-linked-threat-actors-target-indian-power-grid-organizations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked threat actors continue to target Indian power grid organizations, most of the attacks involved the ShadowPad backdoor. 
+
+
+
+Recorded Future's Insikt Group researchers uncovered a campaign conducted by a China-linked threat actor targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Spring4Shell Vulnerability to Deploy Mirai Botnet Malware<a href="https://thehackernews.com/2022/04/hackers-exploiting-spring4shell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently disclosed critical Spring4Shell  vulnerability is being actively exploited by threat actors to execute the Mirai  botnet malware , particularly in the Singapore region since the start of April 2022.  "The exploitation allows threat actors to download the Mirai sample to the '/tmp' folder and execute them after permission change using 'chmod ,'" Trend Micro researchers Deep Patel, Nitesh Surana, Ashish Verma said  in a report published Friday.  Tracked as CVE-2022-22965  (CVSS score: 9.8), the vulnerability could allow malicious actors to achieve remote code execution in Spring Core applications under non-default circumstances, granting the attackers full control over the compromised devices.   The development comes as the U.S. Cybersecurity and Infrastructure Security Agency (CISA) earlier this week added  the Spring4Shell vulnerability to its Known Exploited Vulnerabilities Catalog based on "evidence of active exploitation."   This is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 08, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
