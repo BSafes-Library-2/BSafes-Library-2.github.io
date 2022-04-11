@@ -8,6 +8,74 @@ nav_order: 900072
 
 ## General
 ---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More organizations are paying the ransom. Why?<a href="https://www.helpnetsecurity.com/2022/04/11/organizations-paying-ransom/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most organizations (71%) have been hit by ransomware in 2022, and most of those (63%) opted for paying the requested ransom, the 2022 Cyberthreat Defense Report (CDR) by the CyberEdge Group has shown.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accounts Deceivable: Email Scam Costliest Type of Cybercrime<a href="https://www.securityweek.com/accounts-deceivable-email-scam-costliest-type-cybercrime?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The huge payoffs and low risks associated with BEC scams have attracted criminals worldwide. Some flaunt their ill-gotten riches on social media, posing in pictures next to Ferraris, Bentleys, and stacks of cash.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apr 03 – Apr 09 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/130057/cyber-warfare-2/apr-03-apr-09-ukraine-russia-cyber-conflict.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This post provides a timeline of the events related to the Russian invasion of Ukraine from the cyber security perspective.
+
+
+
+Below is the timeline of the events related to the ongoing invasion of Ukraine that occurred in the previous weeks:
+
+
+
+April...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 360 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/130046/breaking-news/security-affairs-newsletter-round-360-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

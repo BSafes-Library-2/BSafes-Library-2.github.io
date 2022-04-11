@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Securing Easy Appointments and earning CVE-2022-0482<a href="https://securityaffairs.co/wordpress/130077/security/securing-easy-appointments-cve-2022-0482.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Easy Appointments contained a very dangerous Broken Access Control vulnerability tracked as CVE-2022-0482 that was exposing PII.
+
+
+
+Another day, another threat to your data. The recently discovered CVE-2022-0482 is a Broken Access Control vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Human activated risk still a pain point for organizations<a href="https://www.helpnetsecurity.com/2022/04/11/non-technical-staff-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Egress announced the results of a report, which revealed that 56% of IT leaders say that their non-technical staff is only ‘somewhat’ prepared, or ‘not at all’ prepared, for a security attack.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

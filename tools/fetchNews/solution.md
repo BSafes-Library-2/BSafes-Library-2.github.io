@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub can now alert of supply-chain bugs in new dependencies<a href="https://www.bleepingcomputer.com/news/security/github-can-now-alert-of-supply-chain-bugs-in-new-dependencies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub can now block and alert you of pull requests that introduce new dependencies impacted by known supply chain vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

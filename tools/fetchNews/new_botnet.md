@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analyzing the Exploitation of Spring4Shell Vulnerability in Weaponizing and Executing the Mirai Botnet Malware<a href="https://www.trendmicro.com/en_us/research/22/d/cve-2022-22965-analyzing-the-exploitation-of-spring4shell-vulner.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro Threat Research observed active exploitation of the Spring4Shell vulnerability assigned as CVE-2022-22965, which allows malicious actors to weaponize and execute the Mirai botnet malware.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Spring4Shell Vulnerability to Deploy Mirai Botnet Malware<a href="https://thehackernews.com/2022/04/hackers-exploiting-spring4shell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently disclosed critical Spring4Shell  vulnerability is being actively exploited by threat actors to execute the Mirai  botnet malware , particularly in the Singapore region since the start of April 2022.  "The exploitation allows threat actors to download the Mirai sample to the '/tmp' folder and execute them after permission change using 'chmod ,'" Trend Micro researchers Deep Patel, Nitesh Surana, Ashish Verma said  in a report published Friday.  Tracked as CVE-2022-22965  (CVSS score: 9.8), the vulnerability could allow malicious actors to achieve remote code execution in Spring Core applications under non-default circumstances, granting the attackers full control over the compromised devices.   The development comes as the U.S. Cybersecurity and Infrastructure Security Agency (CISA) earlier this week added  the Spring4Shell vulnerability to its Known Exploited Vulnerabilities Catalog based on "evidence of active exploitation."   This is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,42 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook blocked Russia and Belarus threat actors’ activity against Ukraine<a href="https://securityaffairs.co/wordpress/130037/cyber-warfare-2/facebook-block-russia-belarus-against-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook/Meta said Russia-linked threat actors are attempting to use the social network against Ukraine with hate speech, bullying, and fake news.
+
+
+
+Facebook/Meta revealed that Russia-linked threat actors are attempting to weaponize the social network...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked threat actors target Indian Power Grid organizations<a href="https://securityaffairs.co/wordpress/130010/apt/china-linked-threat-actors-target-indian-power-grid-organizations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked threat actors continue to target Indian power grid organizations, most of the attacks involved the ShadowPad backdoor. 
+
+
+
+Recorded Future's Insikt Group researchers uncovered a campaign conducted by a China-linked threat actor targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

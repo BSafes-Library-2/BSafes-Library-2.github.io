@@ -8,6 +8,24 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+April 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A DDoS attack took down Finnish govt sites as Ukraine’s President addresses MPs<a href="https://securityaffairs.co/wordpress/130032/hacking/ddos-took-down-finnish-govt-sites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive DDoS attack took down Finnish government websites while Ukrainian President Zelenskyy addressed Finland's members of parliament (MPs).
+
+
+
+On April 8, a denial-of-service attack took down the websites of the Finnish ministries of Defense and Foreign...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

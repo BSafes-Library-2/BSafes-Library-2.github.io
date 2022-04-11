@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 300,000 People Impacted by Data Breach at SuperCare Health<a href="https://www.securityweek.com/supercare-health-data-breach-impacts-over-300000-people?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a data security notice posted on its website, SuperCare Health said the intrusion was discovered on July 27, 2021, when it noticed unauthorized activity on some systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

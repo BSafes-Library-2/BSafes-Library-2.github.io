@@ -8,6 +8,70 @@ nav_order: 900195
 
 ## Solution
 ---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft’s Autopatch feature improves the patch management process<a href="https://securityaffairs.co/wordpress/130082/security/microsoft-autopatch-feature-patch-management.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced a feature called&nbsp;Autopatch&nbsp;that will allow organizations to keep their systems up-to-date starting with Windows Enterprise E3 (July 2022).
+
+
+
+Microsoft recently announced the implementation of a new feature called&nbsp;Autopatch&nbsp;starting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dependency Review GitHub Action prevents adding known flaws in the code<a href="https://securityaffairs.co/wordpress/130067/security/dependency-review-github-action.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dependency Review GitHub Action scans users' pull requests for dependency changes and will raise an error if any new dependencies have existing flaws.
+
+
+
+GitHub announced Dependency Review GitHub Action which scans users' pull requests for dependency...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSH now defaults to protecting against quantum computer attacks<a href="https://www.zdnet.com/article/openssh-now-defaults-to-protecting-against-quantum-computer-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Post-quantum cryptography has arrived by default with the release of the new OpenSSH 9 version and the adoption of the hybrid Streamlined NTRU Prime + x25519 key exchange method.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's New Autopatch Feature to Help Businesses Keep Their Systems Up-to-Date<a href="https://thehackernews.com/2022/04/microsofts-new-autopatch-feature-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft last week announced that it intends to make generally available a feature called Autopatch  as part of Windows Enterprise E3 in July 2022.  "This service will keep Windows and Office software on enrolled endpoints up-to-date automatically, at no additional cost,"&nbsp; said &nbsp;Lior Bela, senior product marketing manager at Microsoft, in a post last week. "The second Tuesday of every month will be 'just another Tuesday.'"   Windows Autopatch is intended to work with all supported versions of Windows 10, Windows 11, and Windows 365 for Enterprise. Windows Server OS and Windows 365 for Business, however, are not supported.  The tech giant said the feature is aimed at tackling the complexity associated with software updates in enterprise IT environments as well as closing security gaps introduced as a result of not applying patches in a timely fashion, thereby opening the door to potential new threats.&nbsp;  The managed service works by applying the updates acro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

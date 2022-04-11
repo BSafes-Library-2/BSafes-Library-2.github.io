@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blockchain Security Firm CertiK Raises $88 Million at $2 Billion Valuation<a href="https://www.securityweek.com/blockchain-security-firm-certik-raises-88-million-2-billion-valuation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new investment round was led by Advent International, Insight Partners, and Tiger Global, with participation from Goldman Sachs and previous investors Lightspeed Venture Partners and Sequoia.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
