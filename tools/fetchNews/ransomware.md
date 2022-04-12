@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NB65 group targets Russia with a modified version of Conti’s ransomware<a href="https://securityaffairs.co/wordpress/130051/hacktivism/nb65-modified-version-conti-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NB65 hacking group created its ransomware based on the leaked source code of the Conti ransomware and targets Russia.
+
+
+
+According to BleepingComputer, NB65 hacking group is targeting Russian organizations with ransomware that they have developed using...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

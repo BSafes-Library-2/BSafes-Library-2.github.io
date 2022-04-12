@@ -8,6 +8,50 @@ nav_order: 900015
 
 ## Attack
 ---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Bearded Barbie Aims to Catfish Israeli Officials<a href="https://cyware.com/news/operation-bearded-barbie-aims-to-catfish-israeli-officials-f2d01032"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AridViper APT group was found targeting high-ranking Israeli officials in a cyberespionage campaign to spy and steal data by compromising their systems and mobile devices. The attackers have created various fake Facebook profiles with fabricated identities and stolen or AI-generated images of good- ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Parrot TDS: A New Web Redirect Service<a href="https://cyware.com/news/parrot-tds-a-new-web-redirect-service-63594607"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast laid bare an attack campaign abusing the new Parrot TDS, which has infected over 16,500 websites across different verticals, to deliver RATs via bogus browser update prompts. The campaign started in February, while the signs of Parrot activity have been traced back to October last year. Exper ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Luxury fashion house Zegna confirms August ransomware attack<a href="https://www.bleepingcomputer.com/news/security/luxury-fashion-house-zegna-confirms-august-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Italian luxury fashion company Ermenegildo Zegna has disclosed a ransomware incident from August 2021 that has resulted in an extensive IT systems outage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

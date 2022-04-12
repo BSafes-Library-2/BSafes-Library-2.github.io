@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eavesdropping scam: A new scam call tactic<a href="https://www.helpnetsecurity.com/2022/04/11/new-eavesdropping-scam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hiya has detected the newest scam call tactic, the eavesdropping scam. The new scam aims to get users to call back by leaving vague voicemail messages where an unknown voice is heard talking about the potential victim.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

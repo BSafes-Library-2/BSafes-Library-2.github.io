@@ -11,6 +11,21 @@ nav_order: 900025
 April 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Cyclops Blink Botnet Taken Down<a href="https://cyware.com/news/russia-linked-cyclops-blink-botnet-taken-down-5a67bcc4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI announced taking down the Cyclops Blink botnet, which used to target firewall appliances and SOHO networking devices. It was under the control of the Russian Sandworm group. The operation's initial court authorization was given on March 18, the botnet infection was fully removed from all id ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Analyzing the Exploitation of Spring4Shell Vulnerability in Weaponizing and Executing the Mirai Botnet Malware<a href="https://www.trendmicro.com/en_us/research/22/d/cve-2022-22965-analyzing-the-exploitation-of-spring4shell-vulner.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

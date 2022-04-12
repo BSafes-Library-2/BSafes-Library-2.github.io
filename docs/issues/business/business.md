@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelpSystems acquires Terranova Security to offer security awareness solutions for businesses<a href="https://www.helpnetsecurity.com/2022/04/09/helpsystems-terranova-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HelpSystems announced the acquisition of Terranova Security, an organization providing phishing simulation, privacy awareness, and security awareness training services across the globe.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

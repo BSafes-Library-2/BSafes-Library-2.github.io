@@ -11,6 +11,42 @@ nav_order: 900029
 April 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked Russia’s Ministry of Culture and leaked 446 GB<a href="https://securityaffairs.co/wordpress/130106/hacktivism/anonymous-hacked-russia-ministry-of-culture.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Anonymous collective has hacked Russia's Ministry of Culture and leaked 446 GB of data through the DDoSecrets platform.
+
+
+
+Data leak service DDoSecrets has published over 700 GB of data allegedly stolen from the Russian government, including over...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SuperCare Health discloses a data breach that Impacted +300K people<a href="https://securityaffairs.co/wordpress/130089/data-breach/supercare-health-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SuperCare Health, a leading respiratory care provider in the Western U.S, disclosed a data breach that impacted more than 300,000 individuals.
+
+
+
+SuperCare Health disclosed a security breach that has led to the exposure of personal information belonging...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Over 300,000 People Impacted by Data Breach at SuperCare Health<a href="https://www.securityweek.com/supercare-health-data-breach-impacts-over-300000-people?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

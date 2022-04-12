@@ -11,6 +11,20 @@ nav_order: 900072
 April 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Organizations must be doing something good: Payment fraud activity is declining<a href="https://www.helpnetsecurity.com/2022/04/11/payments-fraud-activity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Results from an Association for Financial Professionals (AFP) survey are encouraging, as 71% of organizations report having been victims of payments fraud activity in 2021, lower than the 81% reported in 2019.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 More organizations are paying the ransom. Why?<a href="https://www.helpnetsecurity.com/2022/04/11/organizations-paying-ransom/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

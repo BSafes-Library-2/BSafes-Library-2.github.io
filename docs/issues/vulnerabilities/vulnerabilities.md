@@ -11,6 +11,20 @@ nav_order: 900220
 April 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Access control vulnerability in Easy!Appointments platform exposed sensitive personal data<a href="https://portswigger.net/daily-swig/access-control-vulnerability-in-easy-appointments-platform-exposed-sensitive-personal-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An access control vulnerability in open-source scheduling platform Easy!Appointments gave unauthenticated attackers easy access to personally identifiable information (PII), a security researcher has revealed.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Securing Easy Appointments and earning CVE-2022-0482<a href="https://securityaffairs.co/wordpress/130077/security/securing-easy-appointments-cve-2022-0482.html"> Full Text</a>
 </p>
 <details>
