@@ -34,6 +34,277 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns orgs of WatchGuard bug exploited by Russian state hackers<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-orgs-of-watchguard-bug-exploited-by-russian-state-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal civilian agencies and urged all US organizations on Monday to patch an actively exploited bug impacting WatchGuard Firebox and XTM firewall appliances.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Cyclops Blink Botnet Taken Down<a href="https://cyware.com/news/russia-linked-cyclops-blink-botnet-taken-down-5a67bcc4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI announced taking down the Cyclops Blink botnet, which used to target firewall appliances and SOHO networking devices. It was under the control of the Russian Sandworm group. The operation's initial court authorization was given on March 18, the botnet infection was fully removed from all id ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked Russia’s Ministry of Culture and leaked 446 GB<a href="https://securityaffairs.co/wordpress/130106/hacktivism/anonymous-hacked-russia-ministry-of-culture.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Anonymous collective has hacked Russia's Ministry of Culture and leaked 446 GB of data through the DDoSecrets platform.
+
+
+
+Data leak service DDoSecrets has published over 700 GB of data allegedly stolen from the Russian government, including over...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rise in npm protestware: another open source dev calls Russia out<a href="https://www.bleepingcomputer.com/news/security/rise-in-npm-protestware-another-open-source-dev-calls-russia-out/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers are increasingly voicing their opinions through their open source projects in active use by thousands of software applications and organizations. Most recently, the developer of the 'event-source-polyfill' npm package peacefully protested Russia's "unreasonable invasion" of Ukraine, to Russian consumers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Bearded Barbie Aims to Catfish Israeli Officials<a href="https://cyware.com/news/operation-bearded-barbie-aims-to-catfish-israeli-officials-f2d01032"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AridViper APT group was found targeting high-ranking Israeli officials in a cyberespionage campaign to spy and steal data by compromising their systems and mobile devices. The attackers have created various fake Facebook profiles with fabricated identities and stolen or AI-generated images of good- ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FFDroider, a new information-stealing malware disguised as Telegram app<a href="https://securityaffairs.co/wordpress/130094/cyber-crime/ffdroider-info-stealer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers spotted a new Windows information-stealing malware, named FFDroider, designed to steal credentials and cookies.
+
+
+
+Cybersecurity researchers from Zscaler ThreatLabz warn of a new information-stealing malware, named FFDroider,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qbot malware switches to new Windows Installer infection vector<a href="https://www.bleepingcomputer.com/news/security/qbot-malware-switches-to-new-windows-installer-infection-vector/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Qbot botnet is now pushing malware payloads via phishing emails with password-protected ZIP archive attachments containing malicious MSI Windows Installer packages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Parrot TDS: A New Web Redirect Service<a href="https://cyware.com/news/parrot-tds-a-new-web-redirect-service-63594607"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast laid bare an attack campaign abusing the new Parrot TDS, which has infected over 16,500 websites across different verticals, to deliver RATs via bogus browser update prompts. The campaign started in February, while the signs of Parrot activity have been traced back to October last year. Exper ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SuperCare Health discloses a data breach that Impacted +300K people<a href="https://securityaffairs.co/wordpress/130089/data-breach/supercare-health-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SuperCare Health, a leading respiratory care provider in the Western U.S, disclosed a data breach that impacted more than 300,000 individuals.
+
+
+
+SuperCare Health disclosed a security breach that has led to the exposure of personal information belonging...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Luxury fashion house Zegna confirms August ransomware attack<a href="https://www.bleepingcomputer.com/news/security/luxury-fashion-house-zegna-confirms-august-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Italian luxury fashion company Ermenegildo Zegna has disclosed a ransomware incident from August 2021 that has resulted in an extensive IT systems outage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Access control vulnerability in Easy!Appointments platform exposed sensitive personal data<a href="https://portswigger.net/daily-swig/access-control-vulnerability-in-easy-appointments-platform-exposed-sensitive-personal-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An access control vulnerability in open-source scheduling platform Easy!Appointments gave unauthenticated attackers easy access to personally identifiable information (PII), a security researcher has revealed.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android banking malware intercepts calls to customer support<a href="https://www.bleepingcomputer.com/news/security/android-banking-malware-intercepts-calls-to-customer-support/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A banking trojan for Android that researchers call Fakecalls comes with a powerful capability that enables it to take over calls to a bank's customer support number and connect the victim directly with the cybercriminals operating the malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelpSystems acquires Terranova Security to offer security awareness solutions for businesses<a href="https://www.helpnetsecurity.com/2022/04/09/helpsystems-terranova-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HelpSystems announced the acquisition of Terranova Security, an organization providing phishing simulation, privacy awareness, and security awareness training services across the globe.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers ask Energy Department to take point on sector digital security<a href="https://therecord.media/lawmakers-ask-energy-department-to-take-point-on-sector-digital-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan group of House and Senate lawmakers late last week urged the head of the U.S. Energy Department to take the lead in shaping the massive energy sector’s cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations must be doing something good: Payment fraud activity is declining<a href="https://www.helpnetsecurity.com/2022/04/11/payments-fraud-activity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Results from an Association for Financial Professionals (AFP) survey are encouraging, as 71% of organizations report having been victims of payments fraud activity in 2021, lower than the 81% reported in 2019.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fakecalls Banking Trojan Makes Fake Calls to Korean Bank Customers<a href="https://www.kaspersky.com/blog/fakecalls-banking-trojan/44072/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fakecalls mimics the mobile apps of popular Korean banks, among them KB (Kookmin Bank) and KakaoBank. Curiously, in addition to the usual logos, the Trojan’s creators display the support numbers of the respective banks on the Fakecalls screen.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Lab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 11, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
