@@ -34,7 +34,55 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS RDS Vulnerability Leads to AWS Internal Service Credentials<a href="https://securityboulevard.com/2022/04/aws-rds-vulnerability-leads-to-aws-internal-service-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lightspin's Research Team obtained credentials to an internal AWS service by exploiting a local file read vulnerability on the RDS EC2 instance using the log_fdw extension.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third npm protestware: 'event-source-polyfill' calls Russia out<a href="https://www.bleepingcomputer.com/news/security/third-npm-protestware-event-source-polyfill-calls-russia-out/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers are increasingly voicing their opinions through their open source projects in active use by thousands of software applications and organizations. Most recently, the developer of the 'event-source-polyfill' npm package peacefully protested Russia's "unreasonable invasion" of Ukraine, to Russian consumers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 16,500 Sites Hacked to Distribute Malware via Web Redirect Service<a href="https://thehackernews.com/2022/04/over-16500-sites-hacked-to-distribute.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new traffic direction system (TDS) called Parrot has been spotted leveraging tens of thousands of compromised websites to launch further malicious campaigns.  "The TDS has infected various web servers hosting more than 16,500 websites, ranging from adult content sites, personal websites, university sites, and local government sites," Avast researchers Pavel Novák and Jan Rubín  said  in a report published last week.  Traffic direction systems are used by threat actors to determine whether or not a target is of interest and should be redirected to a malicious domain under their control and act as a gateway to compromise their systems with malware.   Earlier this January, the BlackBerry Research and Intelligence Team detailed another TDS called  Prometheus  that has been put to use in different campaigns mounted by cybercriminal groups to distribute Campo Loader, Hancitor, IcedID, QBot, Buer Loader, and SocGholish malware.  What makes Parrot TDS stand out is its huge reach,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns orgs of WatchGuard bug exploited by Russian state hackers<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-orgs-of-watchguard-bug-exploited-by-russian-state-hackers/"> Full Text</a>
@@ -50,7 +98,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2022
+April 11, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Cyclops Blink Botnet Taken Down<a href="https://cyware.com/news/russia-linked-cyclops-blink-botnet-taken-down-5a67bcc4"> Full Text</a>
@@ -67,7 +115,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2022
+April 11, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous hacked Russia’s Ministry of Culture and leaked 446 GB<a href="https://securityaffairs.co/wordpress/130106/hacktivism/anonymous-hacked-russia-ministry-of-culture.html"> Full Text</a>
@@ -87,7 +135,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2022
+April 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rise in npm protestware: another open source dev calls Russia out<a href="https://www.bleepingcomputer.com/news/security/rise-in-npm-protestware-another-open-source-dev-calls-russia-out/"> Full Text</a>
@@ -103,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2022
+April 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation Bearded Barbie Aims to Catfish Israeli Officials<a href="https://cyware.com/news/operation-bearded-barbie-aims-to-catfish-israeli-officials-f2d01032"> Full Text</a>
@@ -120,7 +168,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2022
+April 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FFDroider, a new information-stealing malware disguised as Telegram app<a href="https://securityaffairs.co/wordpress/130094/cyber-crime/ffdroider-info-stealer.html"> Full Text</a>
@@ -140,7 +188,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2022
+April 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qbot malware switches to new Windows Installer infection vector<a href="https://www.bleepingcomputer.com/news/security/qbot-malware-switches-to-new-windows-installer-infection-vector/"> Full Text</a>
@@ -156,7 +204,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2022
+April 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Parrot TDS: A New Web Redirect Service<a href="https://cyware.com/news/parrot-tds-a-new-web-redirect-service-63594607"> Full Text</a>
@@ -173,7 +221,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2022
+April 11, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SuperCare Health discloses a data breach that Impacted +300K people<a href="https://securityaffairs.co/wordpress/130089/data-breach/supercare-health-data-breach.html"> Full Text</a>
@@ -193,7 +241,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2022
+April 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Luxury fashion house Zegna confirms August ransomware attack<a href="https://www.bleepingcomputer.com/news/security/luxury-fashion-house-zegna-confirms-august-ransomware-attack/"> Full Text</a>
@@ -209,7 +257,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2022
+April 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Access control vulnerability in Easy!Appointments platform exposed sensitive personal data<a href="https://portswigger.net/daily-swig/access-control-vulnerability-in-easy-appointments-platform-exposed-sensitive-personal-data?&web_view=true"> Full Text</a>
@@ -225,7 +273,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2022
+April 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android banking malware intercepts calls to customer support<a href="https://www.bleepingcomputer.com/news/security/android-banking-malware-intercepts-calls-to-customer-support/"> Full Text</a>
@@ -241,7 +289,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2022
+April 11, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HelpSystems acquires Terranova Security to offer security awareness solutions for businesses<a href="https://www.helpnetsecurity.com/2022/04/09/helpsystems-terranova-security/?&web_view=true"> Full Text</a>
@@ -257,7 +305,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2022
+April 11, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers ask Energy Department to take point on sector digital security<a href="https://therecord.media/lawmakers-ask-energy-department-to-take-point-on-sector-digital-security/?&web_view=true"> Full Text</a>
@@ -273,7 +321,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2022
+April 11, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Organizations must be doing something good: Payment fraud activity is declining<a href="https://www.helpnetsecurity.com/2022/04/11/payments-fraud-activity/?&web_view=true"> Full Text</a>
@@ -289,7 +337,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 11, 2022
+April 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fakecalls Banking Trojan Makes Fake Calls to Korean Bank Customers<a href="https://www.kaspersky.com/blog/fakecalls-banking-trojan/44072/?&web_view=true"> Full Text</a>
