@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+E.U. Officials Reportedly Targeted with Israeli Pegasus Spyware<a href="https://thehackernews.com/2022/04/eu-officials-reportedly-targeted-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior officials in the European Union were allegedly targeted with NSO Group's infamous Pegasus surveillance tool, according to a&nbsp; new report &nbsp;from Reuters.  At least five individuals, including European Justice Commissioner Didier Reynders, are said to have been singled out in total, the news agency said, citing documents and two unnamed E.U. officials. However, it's not clear who used the commercial spyware against them or what information was obtained following the attacks.  NSO Group said in a statement shared with Reuters that it was not responsible for the hacking attempts, adding that the targeting "could not have happened with NSO's tools."  The targeting is said to have come to light after Apple notified the victims of state-sponsored attacks last November as part of its efforts to stop the Israeli surveillance firm from targeting its customers.   That same month, the iPhone maker&nbsp; filed a lawsuit &nbsp;against NSO Group, seeking a court-issued injunction ai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

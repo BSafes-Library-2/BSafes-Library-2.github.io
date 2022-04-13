@@ -11,6 +11,20 @@ nav_order: 900029
 April 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Over 16,500 Sites Hacked to Distribute Malware via Web Redirect Service<a href="https://thehackernews.com/2022/04/over-16500-sites-hacked-to-distribute.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new traffic direction system (TDS) called Parrot has been spotted leveraging tens of thousands of compromised websites to launch further malicious campaigns.  "The TDS has infected various web servers hosting more than 16,500 websites, ranging from adult content sites, personal websites, university sites, and local government sites," Avast researchers Pavel Novák and Jan Rubín&nbsp; said &nbsp;in a report published last week.  Traffic direction systems are used by threat actors to determine whether or not a target is of interest and should be redirected to a malicious domain under their control and act as a gateway to compromise their systems with malware.   Earlier this January, the BlackBerry Research and Intelligence Team detailed another TDS called&nbsp; Prometheus &nbsp;that has been put to use in different campaigns mounted by cybercriminal groups to distribute Campo Loader, Hancitor, IcedID, QBot, Buer Loader, and SocGholish malware.  What makes Parrot TDS stand out is its huge reach,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Anonymous hacked Russia’s Ministry of Culture and leaked 446 GB<a href="https://securityaffairs.co/wordpress/130106/hacktivism/anonymous-hacked-russia-ministry-of-culture.html"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns orgs of WatchGuard bug exploited by Russian state hackers<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-orgs-of-watchguard-bug-exploited-by-russian-state-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;Cybersecurity and Infrastructure Security Agency (CISA) has ordered&nbsp;federal civilian agencies and urged all US organizations on Monday to&nbsp;patch an actively exploited&nbsp;bug impacting WatchGuard Firebox and XTM firewall appliances.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers ask Energy Department to take point on sector digital security<a href="https://therecord.media/lawmakers-ask-energy-department-to-take-point-on-sector-digital-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan group of House and Senate lawmakers late last week urged the head of the U.S. Energy Department to take the lead in shaping the massive energy sector’s cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

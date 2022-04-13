@@ -8,6 +8,63 @@ nav_order: 900015
 
 ## Attack
 ---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Abuse AWS Lambda to Mine Monero<a href="https://cyware.com/news/attackers-abuse-aws-lambda-to-mine-monero-cfa3b3bb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers stumbled across a new malware variant, dubbed Denonia, that targets AWS Lambda, a scalable cloud computing service used by SMBs and enterprise players worldwide. It is a Go-based wrapper designed to deploy a custom XMRig crypto miner for Monero mining.&nbsp;Experts suggest always using  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panasonic’s Canadian Operations Suffered Ransomware Attack<a href="https://techcrunch.com/2022/04/11/panasonic-canada-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a statement provided to TechCrunch, Panasonic said that it was a victim of a “targeted cybersecurity attack” in February that affected some of its systems, processes, and networks.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sandworm hackers fail to take down Ukrainian energy provider<a href="https://www.bleepingcomputer.com/news/security/sandworm-hackers-fail-to-take-down-ukrainian-energy-provider/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian state-sponsored hacking group known as Sandworm&nbsp;tried on Friday to take down a large Ukrainian energy provider by disconnecting its electrical substations with a new variant of the Industroyer&nbsp;malware for industrial control systems (ICS) and a new version of the CaddyWiper data destruction malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware Group Claims Attack on Florida International University<a href="https://therecord.media/blackcat-ransomware-group-claims-attack-on-florida-international-university/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group, which most recently attacked North Carolina A&amp;T University, claimed it has stolen a range of personal information from students, teachers, and staff.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

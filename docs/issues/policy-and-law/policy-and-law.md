@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Sues Scammer for Running 'Puppy Fraud Scheme' Website<a href="https://thehackernews.com/2022/04/google-sues-scammer-for-running-puppy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday disclosed that it's taking legal action against a nefarious actor who has been spotted operating fraudulent websites to defraud unsuspecting people into buying non-existent puppies.  "The actor used a network of fraudulent websites that claimed to sell basset hound puppies — with alluring photos and fake customer testimonials — in order to take advantage of people during the pandemic," Google's CyberCrime Investigation Group manager Albert Shin and senior counsel Mike Trinh&nbsp; said .   The fraudulent scheme involved Nche Noel Ntse of Cameroon using a network of rogue websites, Google Voice phone numbers, and Gmail accounts to trick people into paying thousands of dollars online for "adorable puppies" that never arrived.   The purported culprit is also alleged to have run a Google Ads campaign to push the fraudulent websites on top of search results pages as part of what Google characterized as "multiple international non-delivery scams.&amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

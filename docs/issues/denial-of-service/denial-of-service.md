@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom DDoS attacks have dropped to record lows this year<a href="https://www.bleepingcomputer.com/news/security/ransom-ddos-attacks-have-dropped-to-record-lows-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Extortion denial-of-service activity, the so-called RDDoS (ransom distributed denial-of-service) attacks have taken a tumble in the first quarter of the year, according to recent statistics from Cloudflare.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

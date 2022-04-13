@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Sandworm APT targets energy facilities in Ukraine with wipers<a href="https://securityaffairs.co/wordpress/130123/apt/russia-sandworm-targets-energy-facilities-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked Sandworm APT group targeted energy facilities in Ukraine with INDUSTROYER2 and CADDYWIPER wipers.
+
+
+
+Russia-linked Sandworm threat actors targeted energy facilities in Ukraine with a new strain of the Industroyer&nbsp;ICS malware (INDUSTROYER2)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

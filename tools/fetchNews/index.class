@@ -34,6 +34,542 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ethereum dev imprisoned for helping North Korea evade sanctions<a href="https://www.bleepingcomputer.com/news/security/ethereum-dev-imprisoned-for-helping-north-korea-evade-sanctions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Virgil Griffith, a US cryptocurrency expert, was sentenced on Tuesday to 63 months in prison after pleading guilty to assisting the Democratic People's Republic of Korea (DPRK) with technical info on how to evade sanctions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SharkBot Propagates via Fake Antivirus Apps on Google Play<a href="https://cyware.com/news/sharkbot-propagates-via-fake-antivirus-apps-on-google-play-bf8f91a6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point researchers discovered seven malicious apps on the Google Play Store posing as antivirus solutions to drop the SharkBot banking trojan. These malicious apps were downloaded more than 15,000 times before Google removed them. Researchers advise downloading apps only from trusted/verified  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical LFI Vulnerability Reported in Hashnode Blogging Platform<a href="https://thehackernews.com/2022/04/critical-lfi-vulnerability-reported-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed a previously undocumented local file inclusion ( LFI ) vulnerability in  Hashnode , a developer-oriented blogging platform, that could be abused to access sensitive data such as SSH keys, server's IP address, and other network information.  "The LFI originates in a  Bulk Markdown Import feature  that can be manipulated to provide attackers with unimpeded ability to download local files from Hashnode's server," Akamai researchers said in a report  shared with The Hacker News.   Local file inclusion flaws occur when a web application is tricked into exposing or running unapproved files on a server, leading to directory traversal, information disclosure, remote code execution, and cross-site scripting (XSS) attacks.   The flaw, caused due to the web application failing to adequately sanitize the path to a file that's passed as input, could have serious repercussions in that an assailant could navigate to any path on the server and access s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecuring the Pipeline<a href="https://www.lawfareblog.com/cybersecuring-pipeline"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two TSA mandatory directives are a welcome step to ensure that pipeline owners and operators implement the basic safeguards required to repel cyberattacks. Yet certain weaknesses in the current approach need to be acknowledged.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Partch Tuesday for April 2022 fixed 10 critical vulnerabilities<a href="https://securityaffairs.co/wordpress/130149/breaking-news/microsoft-partch-tuesday-april-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Partch Tuesday security updates for April 2022 fixed 128 vulnerabilities, including an actively exploited zero-day reported by NSA.
+
+
+
+Microsoft Partch Tuesday security updates for April 2022 fixed 128 vulnerabilities in multiple products,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom DDoS attacks have dropped to record lows this year<a href="https://www.bleepingcomputer.com/news/security/ransom-ddos-attacks-have-dropped-to-record-lows-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Extortion denial-of-service activity, the so-called RDDoS (ransom distributed denial-of-service) attacks have taken a tumble in the first quarter of the year, according to recent statistics from Cloudflare.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Octo Banking Trojan Abuses Android Accessibility Features<a href="https://cyware.com/news/new-octo-banking-trojan-abuses-android-accessibility-features-dc87d740"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ThreatFabric stumbled across Octo, a rental banking trojan capable of gaining remote access to compromised devices. It is said to be a rebrand of a similar Android threat called ExobotCompact. The malicious apps acting as droppers are identified as Pocket Screencaster, Fast Cleaner 2021, Play Store ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+E.U. Officials Reportedly Targeted with Israeli Pegasus Spyware<a href="https://thehackernews.com/2022/04/eu-officials-reportedly-targeted-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior officials in the European Union were allegedly targeted with NSO Group's infamous Pegasus surveillance tool, according to a  new report  from Reuters.  At least five individuals, including European Justice Commissioner Didier Reynders, are said to have been singled out in total, the news agency said, citing documents and two unnamed E.U. officials. However, it's not clear who used the commercial spyware against them or what information was obtained following the attacks.  NSO Group said in a statement shared with Reuters that it was not responsible for the hacking attempts, adding that the targeting "could not have happened with NSO's tools."  The targeting is said to have come to light after Apple notified the victims of state-sponsored attacks last November as part of its efforts to stop the Israeli surveillance firm from targeting its customers.   That same month, the iPhone maker  filed a lawsuit  against NSO Group, seeking a court-issued injunction ai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation TOURNIQUET: Authorities shut down dark web marketplace RaidForums<a href="https://securityaffairs.co/wordpress/130131/deep-web/authorities-shut-down-raidforums.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The dark web marketplace RaidForums has been shut down and its infrastructure seized as a result of Operation TOURNIQUET.
+
+
+
+The illegal dark web marketplace RaidForums has been shut down and its infrastructure seized as a result of the international...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft April 2022 Patch Tuesday fixes 119 flaws, 2 zero-days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2022-patch-tuesday-fixes-119-flaws-2-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's April 2022 Patch Tuesday, and with it comes fixes for two zero-day vulnerabilities and a total of 119 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New META Stealer is Popular in the Underground Marketplaces<a href="https://cyware.com/news/new-meta-stealer-is-popular-in-the-underground-marketplaces-a04b2290"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher&nbsp;unearthed a malspam campaign distributing the new META infostealer to steal passwords stored in browsers, including Google Chrome, Edge, and Firefox, as well as cryptocurrency wallets. META tampers with Windows Defender using PowerShell to exclude .exe files from scanning to avoid ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NGINX Shares Mitigations for Zero-Day Bug Affecting LDAP Implementation<a href="https://thehackernews.com/2022/04/nginx-shares-mitigations-for-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the NGINX web server project have issued mitigations to address security weaknesses in its Lightweight Directory Access Protocol ( LDAP ) Reference Implementation.  "NGINX Open Source and NGINX Plus are not themselves affected, and no corrective action is necessary if you do not use the reference implementation," Liam Crilly and Timo Stark of F5 Networks  said  in an advisory published Monday.   NGINX said that the  reference implementation , which  uses LDAP to authenticate users , is impacted only under three conditions if the deployments involve -   Command-line parameters to configure the Python-based reference implementation daemon  Unused, optional configuration parameters, and  Specific group membership to carry out LDAP authentication    Should any of the aforementioned conditions be met, an attacker could potentially override the configuration parameters by sending specially crafted HTTP request headers and even bypass group membership requirement
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Sandworm APT targets energy facilities in Ukraine with wipers<a href="https://securityaffairs.co/wordpress/130123/apt/russia-sandworm-targets-energy-facilities-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked Sandworm APT group targeted energy facilities in Ukraine with INDUSTROYER2 and CADDYWIPER wipers.
+
+
+
+Russia-linked Sandworm threat actors targeted energy facilities in Ukraine with a new strain of the Industroyer ICS malware (INDUSTROYER2)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: New malware uses Windows bug to hide scheduled tasks<a href="https://www.bleepingcomputer.com/news/security/microsoft-new-malware-uses-windows-bug-to-hide-scheduled-tasks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has discovered a new malware used by the Chinese-backed Hafnium hacking group to maintain persistence on compromised Windows systems by creating and hiding scheduled tasks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Abuse AWS Lambda to Mine Monero<a href="https://cyware.com/news/attackers-abuse-aws-lambda-to-mine-monero-cfa3b3bb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers stumbled across a new malware variant, dubbed Denonia, that targets AWS Lambda, a scalable cloud computing service used by SMBs and enterprise players worldwide. It is a Go-based wrapper designed to deploy a custom XMRig crypto miner for Monero mining.&nbsp;Experts suggest always using  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finding Attack Paths in Cloud Environments<a href="https://thehackernews.com/2022/04/finding-attack-paths-in-cloud.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mass adoption of cloud infrastructure is fully justified by innumerable advantages. As a result, today, organizations' most sensitive business applications, workloads, and data are in the cloud.  Hackers, good and bad, have noticed that trend and effectively evolved their attack techniques to match this new tantalizing target landscape. With threat actors' high reactivity and adaptability, it is recommended to assume that organizations are under attack and that some user accounts or applications might already have been compromised.  Finding out exactly which assets are put at risk through compromised accounts or breached assets requires mapping potential attack paths across a comprehensive map of all the relationships between assets.   Today, mapping potential attack paths is performed with scanning tools such as AzureHound or AWSPX. Those are graph-based tools enabling the visualization of assets and resources relationships within the related cloud service provider.  By r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NGINX project maintainers fix flaws in LDAP Reference Implementation<a href="https://securityaffairs.co/wordpress/130117/hacking/nginx-ldap-reference-implementation-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the NGINX web server project addressed a zero-day vulnerability in the Lightweight Directory Access Protocol (LDAP) Reference Implementation.
+
+
+
+The maintainers of the NGINX web server project have released security updates to address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical HP Teradici PCoIP flaws impact 15 million endpoints<a href="https://www.bleepingcomputer.com/news/security/critical-hp-teradici-pcoip-flaws-impact-15-million-endpoints/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP is warning of new critical security vulnerabilities in the Teradici PCoIP client and agent for Windows, Linux, and macOS that impact 15 million endpoints.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DPRK-Nexus Adversary Targets South Korean Individuals in a New Chapter of Kitty Phishing Operation<a href="https://cluster25.io/2022/04/11/dprk-nexus-adversary-new-kitty-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cluster25 traced a recent activity that started in the first days of April 2022 from a DPRK-nexus threat actor using spear-phishing emails containing Korean-based malicious documents with different lures to compromise its victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cluster25
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Sues Scammer for Running 'Puppy Fraud Scheme' Website<a href="https://thehackernews.com/2022/04/google-sues-scammer-for-running-puppy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday disclosed that it's taking legal action against a nefarious actor who has been spotted operating fraudulent websites to defraud unsuspecting people into buying non-existent puppies.  "The actor used a network of fraudulent websites that claimed to sell basset hound puppies — with alluring photos and fake customer testimonials — in order to take advantage of people during the pandemic," Google's CyberCrime Investigation Group manager Albert Shin and senior counsel Mike Trinh  said .   The fraudulent scheme involved Nche Noel Ntse of Cameroon using a network of rogue websites, Google Voice phone numbers, and Gmail accounts to trick people into paying thousands of dollars online for "adorable puppies" that never arrived.   The purported culprit is also alleged to have run a Google Ads campaign to push the fraudulent websites on top of search results pages as part of what Google characterized as "multiple international non-delivery scams.&
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds WatchGuard flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/130112/security/cisa-watchguard-flaw-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA added the CVE-2022-23176 flaw in WatchGuard Firebox and XTM appliances to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the CVE-2022-23176 flaw in WatchGuard Firebox...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RaidForums hacking forum seized by police, owner arrested<a href="https://www.bleepingcomputer.com/news/security/raidforums-hacking-forum-seized-by-police-owner-arrested/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RaidForums hacker forum, used mainly for trading and selling stolen databases, has been shut down and its domain seized by U.S. law enforcement during Operation TOURNIQUET, an action coordinated by Europol that involved law enforcement agencies in several countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Double-Your-Crypto Scams Share Crypto Scam Host – Krebs on Security<a href="https://krebsonsecurity.com/2022/04/double-your-crypto-scams-share-crypto-scam-host/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ark-x2[.]org site pretended to be a crypto giveaway website run by Cathie Wood, the founder and CEO of ARKinvest, an established Florida company that manages several exchange-traded investment funds.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware gang lurked in a U.S. gov network for months<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-lurked-in-a-us-gov-network-for-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have found evidence of malicious actors using the LockBit ransomware strain lingering in the network of a regional U.S. government agency for at least five months.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panasonic’s Canadian Operations Suffered Ransomware Attack<a href="https://techcrunch.com/2022/04/11/panasonic-canada-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a statement provided to TechCrunch, Panasonic said that it was a victim of a “targeted cybersecurity attack” in February that affected some of its systems, processes, and networks.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sandworm hackers fail to take down Ukrainian energy provider<a href="https://www.bleepingcomputer.com/news/security/sandworm-hackers-fail-to-take-down-ukrainian-energy-provider/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian state-sponsored hacking group known as Sandworm tried on Friday to take down a large Ukrainian energy provider by disconnecting its electrical substations with a new variant of the Industroyer malware for industrial control systems (ICS) and a new version of the CaddyWiper data destruction malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya to acquire Datto for $6.2 billion<a href="https://www.helpnetsecurity.com/2022/04/12/kaseya-datto/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The all-cash transaction will be funded by an equity consortium led by Insight Partners, with significant investment from TPG Capital and Temasek, and participation from notable investors including Sixth Street.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware Group Claims Attack on Florida International University<a href="https://therecord.media/blackcat-ransomware-group-claims-attack-on-florida-international-university/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group, which most recently attacked North Carolina A&T University, claimed it has stolen a range of personal information from students, teachers, and staff.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industroyer2: Industroyer reloaded<a href="https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers responded to a cyber-incident affecting an energy provider in Ukraine. The collaboration resulted in the discovery of a new variant of Industroyer malware named Industroyer2.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS RDS Vulnerability Leads to AWS Internal Service Credentials<a href="https://securityboulevard.com/2022/04/aws-rds-vulnerability-leads-to-aws-internal-service-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lightspin's Research Team obtained credentials to an internal AWS service by exploiting a local file read vulnerability on the RDS EC2 instance using the log_fdw extension.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third npm protestware: 'event-source-polyfill' calls Russia out<a href="https://www.bleepingcomputer.com/news/security/third-npm-protestware-event-source-polyfill-calls-russia-out/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers are increasingly voicing their opinions through their open source projects in active use by thousands of software applications and organizations. Most recently, the developer of the 'event-source-polyfill' npm package peacefully protested Russia's "unreasonable invasion" of Ukraine, to Russian consumers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 16,500 Sites Hacked to Distribute Malware via Web Redirect Service<a href="https://thehackernews.com/2022/04/over-16500-sites-hacked-to-distribute.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new traffic direction system (TDS) called Parrot has been spotted leveraging tens of thousands of compromised websites to launch further malicious campaigns.  "The TDS has infected various web servers hosting more than 16,500 websites, ranging from adult content sites, personal websites, university sites, and local government sites," Avast researchers Pavel Novák and Jan Rubín  said  in a report published last week.  Traffic direction systems are used by threat actors to determine whether or not a target is of interest and should be redirected to a malicious domain under their control and act as a gateway to compromise their systems with malware.   Earlier this January, the BlackBerry Research and Intelligence Team detailed another TDS called  Prometheus  that has been put to use in different campaigns mounted by cybercriminal groups to distribute Campo Loader, Hancitor, IcedID, QBot, Buer Loader, and SocGholish malware.  What makes Parrot TDS stand out is its huge reach,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 11, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

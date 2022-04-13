@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds WatchGuard flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/130112/security/cisa-watchguard-flaw-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA added the CVE-2022-23176 flaw in WatchGuard Firebox and XTM appliances to its&nbsp;Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the CVE-2022-23176 flaw in WatchGuard Firebox...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

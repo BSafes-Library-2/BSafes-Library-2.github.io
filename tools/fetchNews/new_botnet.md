@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SharkBot Propagates via Fake Antivirus Apps on Google Play<a href="https://cyware.com/news/sharkbot-propagates-via-fake-antivirus-apps-on-google-play-bf8f91a6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point researchers discovered seven malicious apps on the Google Play Store posing as antivirus solutions to drop the SharkBot banking trojan. These malicious apps were downloaded more than 15,000 times before Google removed them. Researchers advise downloading apps only from trusted/verified  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

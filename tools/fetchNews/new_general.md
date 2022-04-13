@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecuring the Pipeline<a href="https://www.lawfareblog.com/cybersecuring-pipeline"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two TSA mandatory directives are a welcome step to ensure that pipeline owners and operators implement the basic safeguards required to repel cyberattacks. Yet certain weaknesses in the current approach need to be acknowledged.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finding Attack Paths in Cloud Environments<a href="https://thehackernews.com/2022/04/finding-attack-paths-in-cloud.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mass adoption of cloud infrastructure is fully justified by innumerable advantages. As a result, today, organizations' most sensitive business applications, workloads, and data are in the cloud.  Hackers, good and bad, have noticed that trend and effectively evolved their attack techniques to match this new tantalizing target landscape. With threat actors' high reactivity and adaptability, it is recommended to assume that organizations are under attack and that some user accounts or applications might already have been compromised.  Finding out exactly which assets are put at risk through compromised accounts or breached assets requires mapping potential attack paths across a comprehensive map of all the relationships between assets.&nbsp;  Today, mapping potential attack paths is performed with scanning tools such as AzureHound or AWSPX. Those are graph-based tools enabling the visualization of assets and resources relationships within the related cloud service provider.  By r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
