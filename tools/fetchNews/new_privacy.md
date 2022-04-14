@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU officials were targeted with Israeli surveillance software<a href="https://securityaffairs.co/wordpress/130139/malware/eu-officials-surveillance-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report published by Reuters, an Israeli surveillance software was used to spy on senior officials in the European Commission.
+
+
+
+One of the officials targeted with the infamous spyware there is Didier Reynders, a senior Belgian statesman...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

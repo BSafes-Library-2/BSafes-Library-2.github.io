@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar: How The Right XDR Can Be a Game-Changer for Lean Security Teams<a href="https://thehackernews.com/2022/04/webinar-how-right-xdr-can-be-game.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Extended detection and response (XDR) is expected to be the future of cybersecurity, merging security technologies with the evolving approach to the way we do cybersecurity. And while many organizations are scrambling to integrate XDR into their cybersecurity strategies – even more are still trying to figure out what XDR really is and if it's even the right solution for their organization.&nbsp;  But there are some organizations that are getting lost in the debate and are wondering if there is a place for them in this new frontier of cybersecurity: organizations with lean security teams and limited resources.&nbsp;  Fortunately, Cynet, a cybersecurity company, is hosting an upcoming webinar in partnership with Enterprise Strategy Group (ESG) that will explore how choosing the right XDR can be impactful for companies lean security teams [ register here ]. During the webinar, Jon Oltsik, Senior Principal Analyst with ESG, and George Tubin, Director of Product Strategy at Cynet, will cover:&nbsp;   Lea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

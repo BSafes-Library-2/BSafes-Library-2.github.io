@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DPRK-Nexus Adversary Targets South Korean Individuals in a New Chapter of Kitty Phishing Operation<a href="https://cluster25.io/2022/04/11/dprk-nexus-adversary-new-kitty-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cluster25 traced a recent activity that started in the first days of April 2022 from a DPRK-nexus threat actor using spear-phishing emails containing Korean-based malicious documents with different lures to compromise its victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cluster25
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Double-Your-Crypto Scams Share Crypto Scam Host – Krebs on Security<a href="https://krebsonsecurity.com/2022/04/double-your-crypto-scams-share-crypto-scam-host/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ark-x2[.]org site pretended to be a crypto giveaway website run by Cathie Wood, the founder and CEO of ARKinvest, an established Florida company that manages several exchange-traded investment funds.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

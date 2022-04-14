@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Fodcha DDoS botnet targets over 100 victims every day<a href="https://www.bleepingcomputer.com/news/security/new-fodcha-ddos-botnet-targets-over-100-victims-every-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A rapidly growing botnet is ensnaring routers, DVRs, and servers across the Internet to target more than 100 victims every day in&nbsp;distributed denial-of-service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

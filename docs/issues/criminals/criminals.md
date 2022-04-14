@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, Europol Seize RaidForums Hacker Forum and Arrest Admin<a href="https://thehackernews.com/2022/04/fbi-europol-seize-raidforums-hacker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation raided and took down RaidForums, one of the world's largest hacking forums notorious for selling access to hacked personal information belonging to users.  Dubbed Tourniquet, the seizure of the cybercrime website involved authorities from the U.S., U.K., Sweden, Portugal, and Romania, with the criminal investigation resulting in the&nbsp; arrest &nbsp;of the forum's administrator at his home last month in Croydon, England.  The three confiscated domains associated with the illicit marketplace include "raidforums[.]com," "Rf[.]ws," and "Raid[.]lol."  Diogo Santos Coelho (aka "Omnipotent"), the said founder and chief administrator, was apprehended in the U.K. on January 31 and is pending extradition to the U.S. Santos Coelho has been charged with conspiracy, access device fraud, and aggravated identity theft.   In addition to detailing Santos Coelho's central role in designing and administering the soft
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

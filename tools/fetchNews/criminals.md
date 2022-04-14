@@ -8,6 +8,66 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ethereum dev imprisoned for helping North Korea evade sanctions<a href="https://www.bleepingcomputer.com/news/security/ethereum-dev-imprisoned-for-helping-north-korea-evade-sanctions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Virgil Griffith, a US cryptocurrency expert, was sentenced on Tuesday to 63 months in prison after pleading guilty to assisting the Democratic People's Republic of Korea (DPRK) with technical info on how to evade sanctions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation TOURNIQUET: Authorities shut down dark web marketplace RaidForums<a href="https://securityaffairs.co/wordpress/130131/deep-web/authorities-shut-down-raidforums.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The dark web marketplace RaidForums has been shut down and its infrastructure seized as a result of Operation TOURNIQUET.
+
+
+
+The illegal dark web marketplace RaidForums has been shut down and its infrastructure seized as a result of the international...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RaidForums hacking forum seized by police, owner arrested<a href="https://www.bleepingcomputer.com/news/security/raidforums-hacking-forum-seized-by-police-owner-arrested/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RaidForums hacker forum, used mainly for trading and selling stolen databases, has been shut down and its domain seized by U.S. law enforcement during Operation TOURNIQUET, an action coordinated by Europol that involved law enforcement agencies in several countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware gang lurked in a U.S. gov network for months<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-lurked-in-a-us-gov-network-for-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have found evidence of malicious actors using the LockBit ransomware strain lingering in the network of a regional U.S. government agency for at least five months.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

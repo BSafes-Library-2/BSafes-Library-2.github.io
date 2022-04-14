@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya to acquire Datto for $6.2 billion<a href="https://www.helpnetsecurity.com/2022/04/12/kaseya-datto/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The all-cash transaction will be funded by an equity consortium led by Insight Partners, with significant investment from TPG Capital and Temasek, and participation from notable investors including Sixth Street.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

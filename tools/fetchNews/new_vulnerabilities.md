@@ -8,6 +8,60 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-31805 RCE bug in Apache Struts was finally patched<a href="https://securityaffairs.co/wordpress/130173/security/critical-apache-struts-rce-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache addressed a critical flaw in Apache Struts RCE that was linked to a previous issue that was not properly fixed.
+
+
+
+Apache Struts is an open-source web application framework for developing Java EE web applications.
+
+
+
+The Apache Software Foundation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JekyllBot:5 flaws allow hacking TUG autonomous mobile robots in hospitals<a href="https://securityaffairs.co/wordpress/130157/security/jekyllbot5-flaws-tug-autonomous-mobile-robots.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered five vulnerabilities that can be exploited to remotely hack hospital Aethon’s TUG autonomous mobile robots.
+
+
+
+Researchers at healthcare IoT security firm Cynerio discovered a collection of five vulnerabilities impacting TUG autonomous...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit critical VMware CVE-2022-22954 bug, patch now<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-vmware-cve-2022-22954-bug-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have published various proof of concepts (PoCs) scripts for exploiting CVE-2022-22954 on social media and other channels, essentially enabling malicious actors to attack unpatched systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

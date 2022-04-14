@@ -8,6 +8,49 @@ nav_order: 900075
 
 ## Government
 ---
+April 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns orgs to patch actively exploited Windows LPE bug<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-orgs-to-patch-actively-exploited-windows-lpe-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has added ten new security bugs to its list of actively exploited vulnerabilities, including a high severity&nbsp;local privilege escalation bug in the&nbsp;Windows Common Log File System Driver.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns Against Russian Hackers Exploiting a Critical Bug<a href="https://cyware.com/news/cisa-warns-against-russian-hackers-exploiting-a-critical-bug-a0aa71ee"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA issued an order urging federal civilian agencies and organizations to fix the actively exploited bug impacting WatchGuard Firebox and XTM appliances.&nbsp;Cyclops Blink, before getting disrupted, targeted nearly one percent WatchGuard Firebox firewall appliances with CVE-2022-23176 exploit ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US warns of govt hackers targeting industrial control systems<a href="https://www.bleepingcomputer.com/news/security/us-warns-of-govt-hackers-targeting-industrial-control-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint cybersecurity advisory issued by CISA, NSA, FBI, and the Department of Energy (DOE) warns of government-backed hacking groups being able to hijack multiple industrial devices&nbsp;using a new ICS-focused malware toolkit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

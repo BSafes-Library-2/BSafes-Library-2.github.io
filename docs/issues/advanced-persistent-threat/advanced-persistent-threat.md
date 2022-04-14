@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Hafnium APT leverages Tarrask malware to gain persistence<a href="https://securityaffairs.co/wordpress/130167/apt/tarrask-malware-persistence-technique.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked Hafnium APT group started using a new piece of new malware to gain persistence on compromised Windows systems.
+
+
+
+The China-backed Hafnium cyberespionage group is likely behind a piece of a new malware, dubbed Tarrask, that's used to maintain...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

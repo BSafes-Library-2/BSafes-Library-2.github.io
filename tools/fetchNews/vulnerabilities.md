@@ -8,6 +8,112 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical LFI Vulnerability Reported in Hashnode Blogging Platform<a href="https://thehackernews.com/2022/04/critical-lfi-vulnerability-reported-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed a previously undocumented local file inclusion ( LFI ) vulnerability in&nbsp; Hashnode , a developer-oriented blogging platform, that could be abused to access sensitive data such as SSH keys, server's IP address, and other network information.  "The LFI originates in a&nbsp; Bulk Markdown Import feature &nbsp;that can be manipulated to provide attackers with unimpeded ability to download local files from Hashnode's server," Akamai researchers said in a report  shared with The Hacker News.   Local file inclusion flaws occur when a web application is tricked into exposing or running unapproved files on a server, leading to directory traversal, information disclosure, remote code execution, and cross-site scripting (XSS) attacks.   The flaw, caused due to the web application failing to adequately sanitize the path to a file that's passed as input, could have serious repercussions in that an assailant could navigate to any path on the server and access s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Partch Tuesday for April 2022 fixed 10 critical vulnerabilities<a href="https://securityaffairs.co/wordpress/130149/breaking-news/microsoft-partch-tuesday-april-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Partch Tuesday security updates for April 2022 fixed 128 vulnerabilities, including an actively exploited zero-day reported by NSA.
+
+
+
+Microsoft Partch Tuesday security updates for April 2022 fixed 128 vulnerabilities in multiple products,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft April 2022 Patch Tuesday fixes 119 flaws, 2 zero-days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2022-patch-tuesday-fixes-119-flaws-2-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's April 2022 Patch Tuesday, and with it comes fixes for two zero-day vulnerabilities and a total of 119 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NGINX Shares Mitigations for Zero-Day Bug Affecting LDAP Implementation<a href="https://thehackernews.com/2022/04/nginx-shares-mitigations-for-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the NGINX web server project have issued mitigations to address security weaknesses in its Lightweight Directory Access Protocol ( LDAP ) Reference Implementation.  "NGINX Open Source and NGINX Plus are not themselves affected, and no corrective action is necessary if you do not use the reference implementation," Liam Crilly and Timo Stark of F5 Networks&nbsp; said &nbsp;in an advisory published Monday.   NGINX said that the&nbsp; reference implementation , which&nbsp; uses LDAP to authenticate users , is impacted only under three conditions if the deployments involve -   Command-line parameters to configure the Python-based reference implementation daemon  Unused, optional configuration parameters, and  Specific group membership to carry out LDAP authentication    Should any of the aforementioned conditions be met, an attacker could potentially override the configuration parameters by sending specially crafted HTTP request headers and even bypass group membership requirement
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NGINX project maintainers fix flaws in LDAP Reference Implementation<a href="https://securityaffairs.co/wordpress/130117/hacking/nginx-ldap-reference-implementation-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the NGINX web server project addressed a zero-day vulnerability in the Lightweight Directory Access Protocol (LDAP) Reference Implementation.
+
+
+
+The maintainers of the NGINX web server project have released security updates to address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical HP Teradici PCoIP flaws impact 15 million endpoints<a href="https://www.bleepingcomputer.com/news/security/critical-hp-teradici-pcoip-flaws-impact-15-million-endpoints/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP is warning of new critical security vulnerabilities in the Teradici PCoIP client and agent for Windows, Linux, and macOS that impact 15 million endpoints.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS RDS Vulnerability Leads to AWS Internal Service Credentials<a href="https://securityboulevard.com/2022/04/aws-rds-vulnerability-leads-to-aws-internal-service-credentials/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lightspin's Research Team obtained credentials to an internal AWS service by exploiting a local file read vulnerability on the RDS EC2 instance using the log_fdw extension.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
