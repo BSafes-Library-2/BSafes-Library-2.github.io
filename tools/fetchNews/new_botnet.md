@@ -8,6 +8,52 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New EnemyBot DDoS Botnet Borrows Exploit Code from Mirai and Gafgyt<a href="https://thehackernews.com/2022/04/new-enemybot-ddos-botnet-borrows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat group that pursues crypto mining and distributed denial-of-service (DDoS) attacks has been linked to a new botnet called Enemybot, which has been discovered enslaving routers and Internet of Things (IoT) devices since last month.  "This botnet is mainly derived from&nbsp; Gafgyt 's source code but has been observed to borrow several modules from&nbsp; Mirai 's original source code," Fortinet FortiGuard Labs&nbsp; said &nbsp;in a report this week.  The botnet has been attributed to an actor named Keksec (aka&nbsp; Kek Security , Necro, and&nbsp; FreakOut ), which has been linked to multiple botnets such as&nbsp; Simps ,&nbsp; Ryuk &nbsp;(not to be confused with the ransomware of the same name), and&nbsp; Samael , and has a history of targeting cloud infrastructure to carry out crypto mining and DDoS operations.   Primarily targeting routers from Seowon Intech, D-Link, and iRZ to propagate its infections and grow in volume, an analysis of the malware specimen  has highlighted Enemybot's obfuscation attemp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Disrupts ZLoader Cybercrime Botnet in Global Operation<a href="https://thehackernews.com/2022/04/microsoft-disrupts-zloader-cybercrime.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft and a consortium of cybersecurity companies took legal and technical steps to disrupt the ZLoader botnet , seizing control of 65 domains that were used to control and communicate with the infected hosts.  "ZLoader is made up of computing devices in businesses, hospitals, schools, and homes around the world and is run by a global internet-based organized crime gang operating malware as a service that is designed to steal and extort money," Amy Hogan-Burney, general manager of Microsoft's Digital Crimes Unit (DCU),&nbsp; said .  The operation, Microsoft said, was undertaken in collaboration with ESET, Lumen's Black Lotus Labs, Palo Alto Networks Unit 42, Avast, Financial Services Information Sharing and Analysis Center (FS-ISAC), and Health Information Sharing and Analysis Center (H-ISAC).  As a result of the disruption, the domains are now redirected to a sinkhole, effectively preventing the botnet's criminal operators from contacting the compromised devices.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft has taken legal and technical action to dismantle the Zloader botnet<a href="https://securityaffairs.co/wordpress/130181/malware/microsoft-disrupts-zloader-malware-infrastructure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Digital Crimes Unit (DCU) announced to have shut down dozens C2 servers used by the infamous ZLoader botnet.
+
+
+
+Microsoft&nbsp;dismantled the C2 infrastructure used by the ZLoader trojan&nbsp;with the help of telecommunications providers around the world...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

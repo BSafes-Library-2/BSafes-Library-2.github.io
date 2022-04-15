@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The top 10 password attacks and how to stop them<a href="https://www.bleepingcomputer.com/news/security/the-top-10-password-attacks-and-how-to-stop-them/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To better understand how to protect passwords in your environment from attacks, let's look at the top 10 password attacks and see what your organization can do to prevent them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

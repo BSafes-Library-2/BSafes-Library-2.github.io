@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Haskers Gang Introduces New ZingoStealer Malware for Free to Target Gamers<a href="https://blog.talosintelligence.com/2022/04/haskers-gang-zingostealer.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This information stealer, first introduced to the wild in March 2022, is currently undergoing active development and multiple releases of new versions have been observed recently.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

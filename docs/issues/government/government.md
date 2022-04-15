@@ -8,6 +8,112 @@ nav_order: 900075
 
 ## Government
 ---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspace and War in Ukraine: Prepare for Worse<a href="https://www.lawfareblog.com/cyberspace-and-war-ukraine-prepare-worse"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia’s relatively weaker position within the global financial system has limited Putin’s punitive options in response to Western economic and financial sanctions. Cyberspace offers attractive alternative options for hackers and security planners in Moscow.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US gov agencies e private firms warn nation-state actors are targeting ICS &amp; SCADA devices<a href="https://securityaffairs.co/wordpress/130195/apt/us-gov-warns-apt-targets-ics-scada.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government agencies warned of threat actors that are targeting ICS and SCADA systems from various vendors.
+
+
+
+The Department of Energy (DOE), the Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency (NSA), and the Federal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Windows&nbsp;CLFS Driver Privilege Escalation&nbsp;flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/130191/hacking/cisa-adds-windows-clfs-driver-privilege-escalation-flaw-to-its-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA added the CVE-2022-24521&nbsp;Microsoft Windows CLFS Driver Privilege Escalation Vulnerability to its&nbsp;Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the CVE-2022-24521 privilege...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Payment app users targeted in social engineering attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-payment-app-users-targeted-in-social-engineering-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are attempting to trick American users of&nbsp;digital payment apps into making instant money transfers in social engineering attacks using text messages with fake&nbsp;bank fraud alerts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Warning About Malicious Tools Targeting ICS/SCADA Devices<a href="https://cyware.com/news/cisa-issues-warning-about-malicious-tools-targeting-icsscada-devices-c65548f1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advisory highlights that OPC Unified Architecture (OPC UA) servers and multiple versions of Programmable Logic Controllers (PLCs) from Schneider Electric, and OMRON are vulnerable to such attacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI links largest crypto hack ever to North Korean hackers<a href="https://www.bleepingcomputer.com/news/security/fbi-links-largest-crypto-hack-ever-to-north-korean-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Treasury Department's Office of Foreign Assets Control (OFAC) has sanctioned the address that received the cryptocurrency stolen in&nbsp;the largest cryptocurrency hack ever, the&nbsp;hack of Axie Infinity's Ronin network bridge.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Memphis Field Office Warns of Increase in Sextortion Schemes Targeting Teenage Boys<a href="https://www.fbi.gov/contact-us/field-offices/memphis/news/press-releases/fbi-memphis-field-office-warns-of-increase-in-sextortion-schemes-targeting-teenage-boys?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is receiving an increasing number of reports of adults posing as age-appropriate females coercing young boys through social media to produce sexual images and videos and then extorting money from them.
+</details>
+<div style="text-align: right" markdown="1">
+FBI
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

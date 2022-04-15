@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CitySprint Discloses Security Breach Impacting Personal Data of Delivery Drivers<a href="https://grahamcluley.com/citysprint-confirms-security-breach-warns-delivery-drivers-their-personal-data-may-be-in-the-hands-of-hackers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An email was sent on April 7th to thousands of drivers confirming that a security breach had occurred. CitySprint, which was recently acquired by parcel delivery giant DPD Group, uses self-employed drivers to deliver packages across the UK.
+</details>
+<div style="text-align: right" markdown="1">
+Graham Cluley
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

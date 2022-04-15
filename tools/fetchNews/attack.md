@@ -8,6 +8,49 @@ nav_order: 900015
 
 ## Attack
 ---
+April 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industroyer2 Found Targeting Energy Sector in Ukraine<a href="https://cyware.com/news/industroyer2-found-targeting-energy-sector-in-ukraine-20a5aff4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sandworm APT has been associated with a new Industroyer-2 malware that was used to target electric power systems in Ukraine. Besides, the Sandworm group also uses other malware families such as CaddyWiper, AwfulShred, OrcShred, and SoloShred. Organizations are suggested to follow the recommendation ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+African banks heavily targeted in RemcosRAT malware campaigns<a href="https://www.bleepingcomputer.com/news/security/african-banks-heavily-targeted-in-remcosrat-malware-campaigns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+African banks are increasingly targeted by malware distribution campaigns that employ HTML smuggling tricks and typo-squatted domains to drop remote access trojans (RATs).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Tried Attacking Ukraine's Power Grid with Industroyer2 Malware<a href="https://thehackernews.com/2022/04/russian-hackers-tried-attacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) on Tuesday&nbsp; disclosed &nbsp;that it thwarted a cyberattack by Sandworm , a hacking group affiliated with Russia's military intelligence, to sabotage the operations of an unnamed energy provider in the country.  "The attackers attempted to take down several infrastructure components of their target, namely: Electrical substations, Windows-operated computing systems, Linux-operated server equipment, [and] active network equipment," The State Service of Special Communications and Information Protection of Ukraine (SSSCIP)&nbsp; said &nbsp;in a statement.  Slovak cybersecurity firm ESET, which collaborated with CERT-UA to analyze the attack, said the attempted intrusion involved the use of ICS-capable malware and regular disk wipers, with the adversary unleashing an updated variant of the&nbsp; Industroyer &nbsp;malware, which was first deployed in a 2016 assault on Ukraine's power grid.   "The Sandworm attackers made an attempt to d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hetzner lost customer data and gave 20€ as compensation<a href="https://www.bleepingcomputer.com/news/security/hetzner-lost-customer-data-and-gave-20-as-compensation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hetzner Online GmbH, a German cloud services provider, told some customers this week that their data had been irreversibly lost and were provided a 20€ compensation in online credit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

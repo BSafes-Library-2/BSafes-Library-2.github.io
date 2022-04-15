@@ -6,6 +6,19 @@ nav_order: 150
 ---
 
 ## Alerts
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Trick Victims into Transferring Funds to "Reverse" Instant Payments <a href="https://www.ic3.gov/Media/Y2022/PSA220414"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are targeting victims by sending text messages with what appear to be bank fraud alerts asking if the customer initiated an instant money transfer using digital payment applications (apps). Once the victim responds to the alert, the cybercriminal then calls from a number which appears to match the financial institution's legitimate 1-800 support number. Under the pretext of reversing the fake money transfer, victims are swindled into sending payment to bank accounts under the control of the cyber actors.
+</details>
+</div>
+
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 13, 2022 - DOE, CISA, NSA
 {: .fs-4 .fw-700 .lh-0  }

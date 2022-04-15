@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram beyond pics: Sexual harassers, crypto crooks, ID thieves<a href="https://www.bleepingcomputer.com/news/security/instagram-beyond-pics-sexual-harassers-crypto-crooks-id-thieves/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A platform for everyone&nbsp;to seamlessly share their best moments online, Instagram is slowly turning into a mecca for the undesirables—from sexual harassers to crypto "investors" helping you "get rich fast." How do you keep yourself safe against such profiles?
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

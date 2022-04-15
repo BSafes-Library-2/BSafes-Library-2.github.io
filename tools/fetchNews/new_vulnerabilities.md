@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Windows RPC CVE-2022-26809 flaw raises concerns — Patch now<a href="https://www.bleepingcomputer.com/news/microsoft/critical-windows-rpc-cve-2022-26809-flaw-raises-concerns-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a new Windows RPC CVE-2022-26809 vulnerability that is raising concerns among security researchers due to its potential for widespread, significant cyberattacks once an exploit is developed. Therefore, all organization needs to apply Windows security updates as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of concerns around Microsoft RPC bug<a href="https://therecord.media/experts-warn-of-concerns-around-microsoft-rpc-bug/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows hosts running the Server Message Block protocol (SMB protocol) are vulnerable to this bug. SMB protocols allow users to share access to files and tools on remote servers.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical VMware Workspace ONE Access CVE-2022-22954 flaw actively exploited<a href="https://securityaffairs.co/wordpress/130188/hacking/vmware-workspace-one-access-flaw-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a critical vulnerability in VMware Workspace ONE Access and Identity Manager recently patched by the vendor.
+
+
+
+Threat actors are actively exploiting a critical flaw, tracked as&nbsp;CVE-2022-22954, in VMware Workspace...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome emergency update fixes zero-day used in attacks<a href="https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-zero-day-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 100.0.4896.127 for Windows, Mac, and Linux, to fix a high-severity zero-day vulnerability actively used by threat actors in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft increases awards for high-impact Microsoft 365 bugs<a href="https://www.bleepingcomputer.com/news/security/microsoft-increases-awards-for-high-impact-microsoft-365-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has increased the maximum awards for high-impact security flaws reported through the Microsoft 365 and the Dynamics 365 / Power Platform bug bounty programs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaw in Rarible NFT market allowed theft of crypto assets<a href="https://www.bleepingcomputer.com/news/security/flaw-in-rarible-nft-market-allowed-theft-of-crypto-assets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw in the Rarible NFT (non-fungible token) marketplace allowed threat actors to use a relatively simple attack vector to steal digital assets from the target's accounts and transfer them directly to their wallets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical VMware Workspace ONE Access Flaw Under Active Exploitation in the Wild<a href="https://thehackernews.com/2022/04/vmware-releases-patches-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A week after VMware released patches to remediate eight security vulnerabilities in VMware Workspace ONE Access, threat actors have begun to actively exploit one of the critical flaws in the wild.  Tracked as&nbsp; CVE-2022-22954 , the critical issue relates to a remote code execution vulnerability that stems from server-side template injection in VMware Workspace ONE Access and Identity Manager. The bug is rated 9.8 in severity.   "A malicious actor with network access can trigger a server-side&nbsp; template injection &nbsp;that may result in remote code execution," the company&nbsp; noted &nbsp;in its advisory.  The virtualization services provider has since revised its bulletin to warn customers of confirmed exploitation of CVE-2022-22954 occurring in the wild. Cybersecurity firm Bad Packets also&nbsp; corroborated &nbsp;that it detected attempts to weaponize the vulnerability.  Source:&nbsp; Bad Packets  It's worth noting that the patches shipped last week address seven more vulnerabilities in VMware Work
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
