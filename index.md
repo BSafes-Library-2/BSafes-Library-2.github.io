@@ -34,6 +34,583 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wind turbine firm Nordex hit by Conti ransomware attack<a href="https://www.bleepingcomputer.com/news/security/wind-turbine-firm-nordex-hit-by-conti-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware operation has claimed responsibility for a cyberattack on wind turbine giant Nordex, which was forced to shut down IT systems and remote access to the managed turbines earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Obsidian Security Raises $90 Million Series C Round to Cement its Leadership in SaaS Security<a href="https://finance.yahoo.com/news/obsidian-security-raises-90-million-130000245.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding was led by Menlo Ventures, Norwest Venture Partners, and IVP, with participation from existing investors Greylock, Wing, and GV. Obsidian will add Menlo Ventures Partner Venky Ganesan to its board of directors.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ethereum Developer Jailed 63 Months for Helping North Korea Evade Sanctions<a href="https://thehackernews.com/2022/04/ethereum-developer-jailed-63-months-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.S. court has sentenced former Ethereum developer Virgil Griffith  to five years and three months in prison and pay a $100,000 fine for conspiring with North Korea to help use cryptocurrencies to circumvent sanctions imposed on the country.  "There is no question North Korea poses a national security threat to our nation, and the regime has shown time and again it will stop at nothing to ignore our laws for its own benefit," U.S. Attorney Damian Williams  said  in a statement.   The sentencing comes more than six months after Griffith  pleaded guilty  to violating the International Emergency Economic Powers Act ( IEEPA ) by offering technical advice to the hermit kingdom with regards to the use of digital currency to bypass economic restrictions. Griffith was arrested in November 2019.  North Korea is known to  rely on   cryptocurrency heists  to get around international sanctions and use it to help fund programs to build weapons of mass destruction. Indeed, the nation-st
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspace and War in Ukraine: Prepare for Worse<a href="https://www.lawfareblog.com/cyberspace-and-war-ukraine-prepare-worse"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia’s relatively weaker position within the global financial system has limited Putin’s punitive options in response to Western economic and financial sanctions. Cyberspace offers attractive alternative options for hackers and security planners in Moscow.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US gov agencies e private firms warn nation-state actors are targeting ICS & SCADA devices<a href="https://securityaffairs.co/wordpress/130195/apt/us-gov-warns-apt-targets-ics-scada.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government agencies warned of threat actors that are targeting ICS and SCADA systems from various vendors.
+
+
+
+The Department of Energy (DOE), the Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency (NSA), and the Federal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds: APTs Have Tools That Can Take Over Critical Infrastructure<a href="https://threatpost.com/feds-apts-critical-infrastructure/179291/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have developed custom modules to compromise various ICS devices as well as Windows workstations that pose an imminent threat, particularly to energy providers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Windows RPC CVE-2022-26809 flaw raises concerns — Patch now<a href="https://www.bleepingcomputer.com/news/microsoft/critical-windows-rpc-cve-2022-26809-flaw-raises-concerns-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a new Windows RPC CVE-2022-26809 vulnerability that is raising concerns among security researchers due to its potential for widespread, significant cyberattacks once an exploit is developed. Therefore, all organization needs to apply Windows security updates as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of concerns around Microsoft RPC bug<a href="https://therecord.media/experts-warn-of-concerns-around-microsoft-rpc-bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows hosts running the Server Message Block protocol (SMB protocol) are vulnerable to this bug. SMB protocols allow users to share access to files and tools on remote servers.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rarible NFT Marketplace Flaw Could've Let Attackers Hijack Crypto Wallets<a href="https://thehackernews.com/2022/04/rarible-nft-marketplace-flaw-couldve.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a now-fixed security flaw in the Rarible non-fungible token (NFT) marketplace that, if successfully exploited, could have led to account takeover and theft of cryptocurrency assets.   "By luring victims to click on a malicious NFT, an attacker can take full control of the victim's crypto wallet to steal funds," Check Point researchers Roman Zaikin, Dikla Barda, and Oded Vanunu  said  in a report shared with The Hacker News.   Rarible, an NFT marketplace that enables users to create, buy, and sell digital NFT art like photographs, games, and memes, has over 2.1 million active users.   "There is still a huge gap between, in terms of security, between Web2 and Web3 infrastructure," Vanunu, head of products vulnerabilities research at Check Point, said in a statement shared with The Hacker News.   "Any small vulnerability can possibly allow cyber criminals to hijack crypto wallets behind the scenes. We are still in a st
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Windows CLFS Driver Privilege Escalation flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/130191/hacking/cisa-adds-windows-clfs-driver-privilege-escalation-flaw-to-its-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA added the CVE-2022-24521 Microsoft Windows CLFS Driver Privilege Escalation Vulnerability to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the CVE-2022-24521 privilege...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Payment app users targeted in social engineering attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-payment-app-users-targeted-in-social-engineering-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are attempting to trick American users of digital payment apps into making instant money transfers in social engineering attacks using text messages with fake bank fraud alerts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Warning About Malicious Tools Targeting ICS/SCADA Devices<a href="https://cyware.com/news/cisa-issues-warning-about-malicious-tools-targeting-icsscada-devices-c65548f1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advisory highlights that OPC Unified Architecture (OPC UA) servers and multiple versions of Programmable Logic Controllers (PLCs) from Schneider Electric, and OMRON are vulnerable to such attacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New EnemyBot DDoS Botnet Borrows Exploit Code from Mirai and Gafgyt<a href="https://thehackernews.com/2022/04/new-enemybot-ddos-botnet-borrows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat group that pursues crypto mining and distributed denial-of-service (DDoS) attacks has been linked to a new botnet called Enemybot, which has been discovered enslaving routers and Internet of Things (IoT) devices since last month.  "This botnet is mainly derived from  Gafgyt 's source code but has been observed to borrow several modules from  Mirai 's original source code," Fortinet FortiGuard Labs  said  in a report this week.  The botnet has been attributed to an actor named Keksec (aka  Kek Security , Necro, and  FreakOut ), which has been linked to multiple botnets such as  Simps ,  Ryuk  (not to be confused with the ransomware of the same name), and  Samael , and has a history of targeting cloud infrastructure to carry out crypto mining and DDoS operations.   Primarily targeting routers from Seowon Intech, D-Link, and iRZ to propagate its infections and grow in volume, an analysis of the malware specimen  has highlighted Enemybot's obfuscation attemp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical VMware Workspace ONE Access CVE-2022-22954 flaw actively exploited<a href="https://securityaffairs.co/wordpress/130188/hacking/vmware-workspace-one-access-flaw-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a critical vulnerability in VMware Workspace ONE Access and Identity Manager recently patched by the vendor.
+
+
+
+Threat actors are actively exploiting a critical flaw, tracked as CVE-2022-22954, in VMware Workspace...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome emergency update fixes zero-day used in attacks<a href="https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-zero-day-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 100.0.4896.127 for Windows, Mac, and Linux, to fix a high-severity zero-day vulnerability actively used by threat actors in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Campaign Similar to Operation Kitty Phishing Found Targeting South Koreans<a href="https://cyware.com/news/campaign-similar-to-operation-kitty-phishing-found-targeting-south-koreans-95e317d7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researchers, the campaign was first observed in April and aims to steal data from individuals in South Korea. They are targeted via spear-phishing emails that include malicious Word documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Disrupts ZLoader Cybercrime Botnet in Global Operation<a href="https://thehackernews.com/2022/04/microsoft-disrupts-zloader-cybercrime.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft and a consortium of cybersecurity companies took legal and technical steps to disrupt the ZLoader botnet , seizing control of 65 domains that were used to control and communicate with the infected hosts.  "ZLoader is made up of computing devices in businesses, hospitals, schools, and homes around the world and is run by a global internet-based organized crime gang operating malware as a service that is designed to steal and extort money," Amy Hogan-Burney, general manager of Microsoft's Digital Crimes Unit (DCU),  said .  The operation, Microsoft said, was undertaken in collaboration with ESET, Lumen's Black Lotus Labs, Palo Alto Networks Unit 42, Avast, Financial Services Information Sharing and Analysis Center (FS-ISAC), and Health Information Sharing and Analysis Center (H-ISAC).  As a result of the disruption, the domains are now redirected to a sinkhole, effectively preventing the botnet's criminal operators from contacting the compromised devices.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft has taken legal and technical action to dismantle the Zloader botnet<a href="https://securityaffairs.co/wordpress/130181/malware/microsoft-disrupts-zloader-malware-infrastructure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Digital Crimes Unit (DCU) announced to have shut down dozens C2 servers used by the infamous ZLoader botnet.
+
+
+
+Microsoft dismantled the C2 infrastructure used by the ZLoader trojan with the help of telecommunications providers around the world...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 tool to add Google Play secretly installed malware<a href="https://www.bleepingcomputer.com/news/security/windows-11-tool-to-add-google-play-secretly-installed-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A popular Windows 11 ToolBox script used to add the Google Play Store to the Android Subsystem has secretly infected users with malicious scripts, Chrome extensions, and potentially other malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hafnium's New Malware Hides Behind Scheduled Tasks<a href="https://cyware.com/news/hafniums-new-malware-hides-behind-scheduled-tasks-2f9f7bdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft linked the Chinese-backed Hafnium group to a defense evasion malware Tarrask used by cybercriminals to attain persistence on compromised Windows environments. Researchers uncovered a recent malicious activity&nbsp;wherein hackers abused an unpatched zero-day vulnerability for their initia ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft increases awards for high-impact Microsoft 365 bugs<a href="https://www.bleepingcomputer.com/news/security/microsoft-increases-awards-for-high-impact-microsoft-365-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has increased the maximum awards for high-impact security flaws reported through the Microsoft 365 and the Dynamics 365 / Power Platform bug bounty programs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Security Startup DoControl Raises $30 Million<a href="https://www.securityweek.com/cloud-security-startup-docontrol-raises-30-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The startup said it plans to use the money to scale its SaaS data security product offerings, fuel global growth through aggressive hiring, and build strategic partner programs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ZingoStealer infostealer drops more malware, cryptominers<a href="https://www.bleepingcomputer.com/news/security/new-zingostealer-infostealer-drops-more-malware-cryptominers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new information-stealing malware called ZingoStealer has been discovered with powerful data-stealing features and the ability to load additional payloads or mine Monero.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Targets Chemical Sector<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/lazarus-dream-job-chemical?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign appears to be a continuation of Lazarus activity dubbed Operation Dream Job, which was first observed in August 2020. In the past, it targeted the defense, government, and engineering sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Symantec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI links largest crypto hack ever to North Korean hackers<a href="https://www.bleepingcomputer.com/news/security/fbi-links-largest-crypto-hack-ever-to-north-korean-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Treasury Department's Office of Foreign Assets Control (OFAC) has sanctioned the address that received the cryptocurrency stolen in the largest cryptocurrency hack ever, the hack of Axie Infinity's Ronin network bridge.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Memphis Field Office Warns of Increase in Sextortion Schemes Targeting Teenage Boys<a href="https://www.fbi.gov/contact-us/field-offices/memphis/news/press-releases/fbi-memphis-field-office-warns-of-increase-in-sextortion-schemes-targeting-teenage-boys?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is receiving an increasing number of reports of adults posing as age-appropriate females coercing young boys through social media to produce sexual images and videos and then extorting money from them.
+</details>
+<div style="text-align: right" markdown="1">
+FBI
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target Ukrainian govt with IcedID malware, Zimbra exploits<a href="https://www.bleepingcomputer.com/news/security/hackers-target-ukrainian-govt-with-icedid-malware-zimbra-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are targeting Ukrainian government agencies with new attacks exploiting Zimbra exploits and phishing attacks pushing the IcedID malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Haskers Gang Introduces New ZingoStealer Malware for Free to Target Gamers<a href="https://blog.talosintelligence.com/2022/04/haskers-gang-zingostealer.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This information stealer, first introduced to the wild in March 2022, is currently undergoing active development and multiple releases of new versions have been observed recently.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hetzner lost customer data and gave 20€ as compensation<a href="https://www.bleepingcomputer.com/news/security/hetzner-lost-customer-data-and-gave-20-as-compensation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hetzner Online GmbH, a German cloud services provider, told some customers this week that their data had been irreversibly lost and were provided a 20€ compensation in online credit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The top 10 password attacks and how to stop them<a href="https://www.bleepingcomputer.com/news/security/the-top-10-password-attacks-and-how-to-stop-them/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To better understand how to protect passwords in your environment from attacks, let's look at the top 10 password attacks and see what your organization can do to prevent them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram beyond pics: Sexual harassers, crypto crooks, ID thieves<a href="https://www.bleepingcomputer.com/news/security/instagram-beyond-pics-sexual-harassers-crypto-crooks-id-thieves/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A platform for everyone to seamlessly share their best moments online, Instagram is slowly turning into a mecca for the undesirables—from sexual harassers to crypto "investors" helping you "get rich fast." How do you keep yourself safe against such profiles?
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaw in Rarible NFT market allowed theft of crypto assets<a href="https://www.bleepingcomputer.com/news/security/flaw-in-rarible-nft-market-allowed-theft-of-crypto-assets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw in the Rarible NFT (non-fungible token) marketplace allowed threat actors to use a relatively simple attack vector to steal digital assets from the target's accounts and transfer them directly to their wallets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OldGremlin ransomware gang targets Russia with new malware<a href="https://www.bleepingcomputer.com/news/security/oldgremlin-ransomware-gang-targets-russia-with-new-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OldGremlin, a little-known threat actor that uses its particularly advanced skills to run carefully prepared, sporadic campaigns, has made a comeback last month after a gap of more than one year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Warns of APT Hackers Targeting ICS/SCADA Systems with Specialized Malware<a href="https://thehackernews.com/2022/04/us-warns-of-apt-hackers-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Wednesday warned of nation-state actors deploying specialized malware to maintain access to industrial control systems (ICS) and supervisory control and data acquisition (SCADA) devices.  "The APT actors have developed custom-made tools for targeting ICS/SCADA devices," multiple U.S. agencies  said  in an alert. "The tools enable them to scan for, compromise, and control affected devices once they have established initial access to the operational technology (OT) network."  The joint federal advisory comes courtesy of the U.S. Department of Energy (DoE), the Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency (NSA), and the Federal Bureau of Investigation (FBI).  The custom-made tools are specifically designed to single out Schneider Electric programmable logic controllers (PLCs), OMRON Sysmac NEX PLCs, and Open Platform Communications Unified Architecture (OPC UA) servers.  On top of that, the unnamed actors
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical VMware Workspace ONE Access Flaw Under Active Exploitation in the Wild<a href="https://thehackernews.com/2022/04/vmware-releases-patches-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A week after VMware released patches to remediate eight security vulnerabilities in VMware Workspace ONE Access, threat actors have begun to actively exploit one of the critical flaws in the wild.  Tracked as  CVE-2022-22954 , the critical issue relates to a remote code execution vulnerability that stems from server-side template injection in VMware Workspace ONE Access and Identity Manager. The bug is rated 9.8 in severity.   "A malicious actor with network access can trigger a server-side  template injection  that may result in remote code execution," the company  noted  in its advisory.  The virtualization services provider has since revised its bulletin to warn customers of confirmed exploitation of CVE-2022-22954 occurring in the wild. Cybersecurity firm Bad Packets also  corroborated  that it detected attempts to weaponize the vulnerability.  Source:  Bad Packets  It's worth noting that the patches shipped last week address seven more vulnerabilities in VMware Work
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 13, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
