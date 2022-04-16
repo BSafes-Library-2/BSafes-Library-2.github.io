@@ -8,6 +8,98 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Haskers Gang Gives Away ZingoStealer Malware to Other Cybercriminals for Free<a href="https://thehackernews.com/2022/04/haskers-gang-gives-away-zingostealer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A crimeware-related threat actor known as Haskers Gang  has released an&nbsp; information-stealing malware &nbsp;called ZingoStealer for free on, allowing other criminal groups to leverage the tool for nefarious purposes.  "It features the ability to steal sensitive information from victims and can download additional malware to infected systems," Cisco Talos researchers Edmund Brumaghin and Vanja Svajcer&nbsp; said &nbsp;in a report shared with The Hacker News.  "In many cases, this includes the&nbsp; RedLine Stealer &nbsp;and an XMRig-based cryptocurrency mining malware that is internally referred to as 'ZingoMiner.'"  But in an interesting twist, the criminal group announced on Thursday that the ownership of the ZingoStealer project is changing hands to a new threat actor, in addition to offering to sell the source code for a negotiable price of $500.   Since its inception last month, ZingoStealer is said to be undergoing consistent development and deployed specifically against Russi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware Gang claims responsibility for the Nordex hack<a href="https://securityaffairs.co/wordpress/130238/cyber-crime/conti-ransomware-claims-nordex-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware gang has claimed responsibility for the recent attack against Nordex, one of the largest manufacturers of wind turbines.
+
+
+
+The Conti ransomware gang claimed responsibility for the cyberattack that hit the manufacturer of wind turbines...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ZingoStealer crimeware released for free in the cybercrime ecosystem<a href="https://securityaffairs.co/wordpress/130229/breaking-news/zingostealer-crimeware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new powerful crimeware called ZingoStealer was released for free by a threat actor known as&nbsp;Haskers Gang.
+
+
+
+ZingoStealer is a new information-stealer developed by a threat actor known as&nbsp;Haskers Gang who released it for free after they attempted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Lazarus Group Stole More than $600 Million in a Single Hack Targeting Axie Infinity<a href="https://edition.cnn.com/2022/04/14/politics/fbi-north-korea-hackers-crypto/index.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has blamed hackers associated with the North Korean government for stealing more than $600 million in cryptocurrency last month from a video gaming company -- the latest in a string of audacious cyber heists tied to Pyongyang.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Karakurt revealed as data extortion arm of Conti cybercrime syndicate<a href="https://www.bleepingcomputer.com/news/security/karakurt-revealed-as-data-extortion-arm-of-conti-cybercrime-syndicate/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After breaching servers managed by the cybercriminals, security researchers found a connection between Conti ransomware and the recently emerged Karakurt data extortion&nbsp;group, showing that the two gangs are part of the same operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram's dark side: sexual harassers, crypto scammers, ID thieves<a href="https://www.bleepingcomputer.com/news/security/instagrams-dark-side-sexual-harassers-crypto-scammers-id-thieves/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A platform for everyone&nbsp;to seamlessly share their best moments online, Instagram is slowly turning into a mecca for the undesirables—from sexual harassers to crypto "investors" helping you "get rich fast." How do you keep yourself safe against such profiles?
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

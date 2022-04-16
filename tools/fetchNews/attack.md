@@ -8,6 +8,62 @@ nav_order: 900015
 
 ## Attack
 ---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wind turbine firm Nordex hit by Conti ransomware attack<a href="https://www.bleepingcomputer.com/news/security/wind-turbine-firm-nordex-hit-by-conti-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware operation has claimed responsibility for a cyberattack on wind turbine giant Nordex, which was forced to shut down IT systems and remote access to the managed turbines earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Targets Chemical Sector<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/lazarus-dream-job-chemical?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign appears to be a continuation of Lazarus activity dubbed Operation Dream Job, which was first observed in August 2020. In the past, it targeted the defense, government, and engineering sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Symantec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target Ukrainian govt with IcedID malware, Zimbra exploits<a href="https://www.bleepingcomputer.com/news/security/hackers-target-ukrainian-govt-with-icedid-malware-zimbra-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are targeting Ukrainian government agencies with new attacks exploiting Zimbra exploits and phishing attacks pushing the IcedID malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OldGremlin ransomware gang targets Russia with new malware<a href="https://www.bleepingcomputer.com/news/security/oldgremlin-ransomware-gang-targets-russia-with-new-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OldGremlin, a little-known threat actor that uses its particularly advanced skills to run carefully prepared, sporadic campaigns, has made a comeback last month after a gap of more than one year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Obsidian Security Raises $90 Million Series C Round to Cement its Leadership in SaaS Security<a href="https://finance.yahoo.com/news/obsidian-security-raises-90-million-130000245.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding was led by Menlo Ventures, Norwest Venture Partners, and IVP, with participation from existing investors Greylock, Wing, and GV. Obsidian will add Menlo Ventures Partner Venky Ganesan to its board of directors.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Security Startup DoControl Raises $30 Million<a href="https://www.securityweek.com/cloud-security-startup-docontrol-raises-30-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The startup said it plans to use the money to scale its SaaS data security product offerings, fuel global growth through aggressive hiring, and build strategic partner programs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

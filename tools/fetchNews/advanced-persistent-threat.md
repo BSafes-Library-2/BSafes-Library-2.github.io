@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds: APTs Have Tools That Can Take Over Critical Infrastructure<a href="https://threatpost.com/feds-apts-critical-infrastructure/179291/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have developed custom modules to compromise various ICS devices as well as Windows workstations that pose an imminent threat, particularly to energy providers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Warns of APT Hackers Targeting ICS/SCADA Systems with Specialized Malware<a href="https://thehackernews.com/2022/04/us-warns-of-apt-hackers-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Wednesday warned of nation-state actors deploying specialized malware to maintain access to industrial control systems (ICS) and supervisory control and data acquisition (SCADA) devices.  "The APT actors have developed custom-made tools for targeting ICS/SCADA devices," multiple U.S. agencies&nbsp; said &nbsp;in an alert. "The tools enable them to scan for, compromise, and control affected devices once they have established initial access to the operational technology (OT) network."  The joint federal advisory comes courtesy of the U.S. Department of Energy (DoE), the Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency (NSA), and the Federal Bureau of Investigation (FBI).  The custom-made tools are specifically designed to single out Schneider Electric programmable logic controllers (PLCs), OMRON Sysmac NEX PLCs, and Open Platform Communications Unified Architecture (OPC UA) servers.  On top of that, the unnamed actors
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

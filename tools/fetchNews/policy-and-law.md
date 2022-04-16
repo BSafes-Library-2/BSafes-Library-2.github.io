@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ethereum Developer Jailed 63 Months for Helping North Korea Evade Sanctions<a href="https://thehackernews.com/2022/04/ethereum-developer-jailed-63-months-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.S. court has sentenced former Ethereum developer Virgil Griffith  to five years and three months in prison and pay a $100,000 fine for conspiring with North Korea to help use cryptocurrencies to circumvent sanctions imposed on the country.  "There is no question North Korea poses a national security threat to our nation, and the regime has shown time and again it will stop at nothing to ignore our laws for its own benefit," U.S. Attorney Damian Williams&nbsp; said &nbsp;in a statement.   The sentencing comes more than six months after Griffith&nbsp; pleaded guilty &nbsp;to violating the International Emergency Economic Powers Act ( IEEPA ) by offering technical advice to the hermit kingdom with regards to the use of digital currency to bypass economic restrictions. Griffith was arrested in November 2019.  North Korea is known to&nbsp; rely on &nbsp; cryptocurrency heists &nbsp;to get around international sanctions and use it to help fund programs to build weapons of mass destruction. Indeed, the nation-st
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency DeFi platforms are now more targeted than ever<a href="https://www.bleepingcomputer.com/news/security/cryptocurrency-defi-platforms-are-now-more-targeted-than-ever/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are increasingly targeting DeFi (Decentralized Finance) cryptocurrency platforms, with Q1 2022 data showing that more platforms are being targeted than ever before.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

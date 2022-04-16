@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rarible NFT Marketplace Flaw Could've Let Attackers Hijack Crypto Wallets<a href="https://thehackernews.com/2022/04/rarible-nft-marketplace-flaw-couldve.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a now-fixed security flaw in the Rarible non-fungible token (NFT) marketplace that, if successfully exploited, could have led to account takeover and theft of cryptocurrency assets.   "By luring victims to click on a malicious NFT, an attacker can take full control of the victim's crypto wallet to steal funds," Check Point researchers Roman Zaikin, Dikla Barda, and Oded Vanunu&nbsp; said &nbsp;in a report shared with The Hacker News.   Rarible, an NFT marketplace that enables users to create, buy, and sell digital NFT art like photographs, games, and memes, has over 2.1 million active users.   "There is still a huge gap between, in terms of security, between Web2 and Web3 infrastructure," Vanunu, head of products vulnerabilities research at Check Point, said in a statement shared with The Hacker News.   "Any small vulnerability can possibly allow cyber criminals to hijack crypto wallets behind the scenes. We are still in a st
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

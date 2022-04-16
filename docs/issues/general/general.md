@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ways to Develop a Cybersecurity Training Program for Employees<a href="https://securityaffairs.co/wordpress/130211/security/cybersecurity-training-program.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity experts would have you believe that your organization’s employees have a crucial role in bolstering or damaging your company's security initiatives. 
+
+
+
+While you may disagree, data breach studies show that employees and negligence are the most...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As State-Backed Cyber Threats Grow, Here's How the World Is Reacting<a href="https://thehackernews.com/2022/04/as-state-backed-cyber-threats-grow.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the ongoing conflict in Eurasia, cyberwarfare is inevitably making its presence felt. The fight is not only being fought on the fields. There is also a big battle happening in cyberspace. Several cyber-attacks have been reported over the past months.  Notably, cyber attacks backed by state actors are becoming prominent. There have been reports of a rise of ransomware and other malware attacks such as&nbsp; Cyclops Blink ,&nbsp; HermeticWiper , and&nbsp; BlackCat . These target businesses as well as government institutions and nonprofit organizations. There have been cases of several attempts to shut down online communications and IT infrastructure.  The ongoing list of&nbsp; significant cyber incidents &nbsp;curated by the Center for Strategic and International Studies (CSIS) shows that the number of major incidents in January 2022 is 100% higher compared to the same period in the previous year. With the recent activities in cyberspace impacted by the emergence of the geopolitical tumult in February, it
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

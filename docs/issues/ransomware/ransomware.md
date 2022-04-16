@@ -8,6 +8,52 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - April 15th 2022 - Encrypting Russia<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-15th-2022-encrypting-russia/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While countries worldwide have been the frequent target of ransomware attacks, Russia and CIS countries have been avoided by threat actors. The tables have turned with the NB65 hacking group modifying the leaked Conti ransomware to use in attacks on Russian entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of the SunnyDay ransomware<a href="https://securityaffairs.co/wordpress/130204/malware/analysis-sunnyday-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Segurança-Informatica published an analysis of a recent sample of SunnyDay ransomware. As a result of the work, some similarities between other ransomware samples such as Ever101, Medusa Locker, Curator, and Payment45 were found.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of the SunnyDay ransomware<a href="https://securityaffairs.co/wordpress/130204/malware/analysis-sunnyday-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The analysis of a recent sample SunnyDay ransomware revealed some similarities with other ransomware, such as Ever101, Medusa Locker, Curator, and Payment45.
+
+
+
+Segurança-Informatica published an analysis of a recent sample of SunnyDay ransomware. As a result...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

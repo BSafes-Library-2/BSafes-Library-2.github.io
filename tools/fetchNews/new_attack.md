@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish FA report cyber attack to police after email accounts, private texts stolen<a href="https://www.espn.in/football/spain-esp/story/4642921/spanish-fa-report-cyber-attack-to-police-after-email-accounts-private-texts-stolen?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Documents and information from email accounts, private texts, and audio conversations from top executives of the federation, including president Luis Rubiales, have been stolen in recent months.
+</details>
+<div style="text-align: right" markdown="1">
+ESPN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors use Zimbra exploits to target organizations in Ukraine<a href="https://securityaffairs.co/wordpress/130244/cyber-warfare-2/attacks-ukraine-govt-zimbra-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting Ukrainian government organizations with exploits for XSS vulnerabilities in Zimbra Collaboration Suite (CVE-2018-6882).
+
+
+
+Ukraine's CERT (CERT-UA) warns of threat actors that are targeting government organizations with exploits...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attack on Panasonic Canada Shows Conti is Still Dangerous<a href="https://securityboulevard.com/2022/04/attack-on-panasonic-canada-shows-conti-is-still-dangerous/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the details remain sparse, Panasonic suffered another breach just six months after a high-profile attack—this time at Panasonic Canada. The Conti gang said it was behind the February attack that resulted in the theft of more than 2.8GB of data.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

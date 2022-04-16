@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Campaign Similar to Operation Kitty Phishing Found Targeting South Koreans<a href="https://cyware.com/news/campaign-similar-to-operation-kitty-phishing-found-targeting-south-koreans-95e317d7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researchers, the campaign was first observed in April and aims to steal data from individuals in South Korea. They are targeted via spear-phishing emails that include malicious Word documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

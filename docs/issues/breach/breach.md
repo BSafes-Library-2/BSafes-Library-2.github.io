@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub: Attacker breached dozens of orgs using stolen OAuth tokens<a href="https://www.bleepingcomputer.com/news/security/github-attacker-breached-dozens-of-orgs-using-stolen-oauth-tokens/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub revealed today that an attacker is using stolen OAuth user tokens (issued to&nbsp;Heroku and Travis-CI) to download data from private repositories.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

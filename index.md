@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub: Attacker breached dozens of orgs using stolen OAuth tokens<a href="https://www.bleepingcomputer.com/news/security/github-attacker-breached-dozens-of-orgs-using-stolen-oauth-tokens/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spanish FA report cyber attack to police after email accounts, private texts stolen<a href="https://www.espn.in/football/spain-esp/story/4642921/spanish-fa-report-cyber-attack-to-police-after-email-accounts-private-texts-stolen?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ ESPN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JekyllBot:5 Flaws Let Attackers Take Control of Aethon TUG Hospital Robots<a href="https://thehackernews.com/2022/04/new-jekyllbot5-flaws-let-attackers-take.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors use Zimbra exploits to target organizations in Ukraine<a href="https://securityaffairs.co/wordpress/130244/cyber-warfare-2/attacks-ukraine-govt-zimbra-exploits.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - April 15th 2022 - Encrypting Russia<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-15th-2022-encrypting-russia/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attack on Panasonic Canada Shows Conti is Still Dangerous<a href="https://securityboulevard.com/2022/04/attack-on-panasonic-canada-shows-conti-is-still-dangerous/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Security Boulevard
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Haskers Gang Gives Away ZingoStealer Malware to Other Cybercriminals for Free<a href="https://thehackernews.com/2022/04/haskers-gang-gives-away-zingostealer.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti Ransomware Gang claims responsibility for the Nordex hack<a href="https://securityaffairs.co/wordpress/130238/cyber-crime/conti-ransomware-claims-nordex-attack.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile customers warned of unblockable SMS phishing attacks<a href="https://www.bleepingcomputer.com/news/security/t-mobile-customers-warned-of-unblockable-sms-phishing-attacks/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability in Elementor Plugin Impacts Millions of WordPress Sites<a href="https://www.securityweek.com/critical-vulnerability-elementor-plugin-impacts-millions-wordpress-sites?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ZingoStealer crimeware released for free in the cybercrime ecosystem<a href="https://securityaffairs.co/wordpress/130229/breaking-news/zingostealer-crimeware.html"> Full Text</a>
@@ -222,7 +222,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco vulnerability lets hackers craft their own login credentials<a href="https://www.bleepingcomputer.com/news/security/cisco-vulnerability-lets-hackers-craft-their-own-login-credentials/"> Full Text</a>
@@ -238,7 +238,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analysis of the SunnyDay ransomware<a href="https://securityaffairs.co/wordpress/130204/malware/analysis-sunnyday-ransomware.html?&web_view=true"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Auth bypass flaw in Cisco Wireless LAN Controller Software allows device takeover<a href="https://securityaffairs.co/wordpress/130217/security/auth-bypass-cisco-wireless-lan-controller.html"> Full Text</a>
@@ -274,7 +274,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders agencies to fix actively exploited VMware, Chrome bugs<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-fix-actively-exploited-vmware-chrome-bugs/"> Full Text</a>
@@ -290,7 +290,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea's Lazarus Group Stole More than $600 Million in a Single Hack Targeting Axie Infinity<a href="https://edition.cnn.com/2022/04/14/politics/fbi-north-korea-hackers-crypto/index.html?&web_view=true"> Full Text</a>
@@ -306,7 +306,7 @@ CNN Money
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixed third zero-day in Chrome since the start of 2022<a href="https://securityaffairs.co/wordpress/130213/security/google-chrome-zeroday-cve-2022-1364.html"> Full Text</a>
@@ -326,7 +326,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptocurrency DeFi platforms are now more targeted than ever<a href="https://www.bleepingcomputer.com/news/security/cryptocurrency-defi-platforms-are-now-more-targeted-than-ever/"> Full Text</a>
@@ -342,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco's Webex phoned home audio telemetry even when muted<a href="https://www.theregister.com/2022/04/14/muting_ciscos_webex_app_doesnt/?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ways to Develop a Cybersecurity Training Program for Employees<a href="https://securityaffairs.co/wordpress/130211/security/cybersecurity-training-program.html"> Full Text</a>
@@ -378,7 +378,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Mute' button in conferencing apps may not actually mute your mic<a href="https://www.bleepingcomputer.com/news/security/mute-button-in-conferencing-apps-may-not-actually-mute-your-mic/"> Full Text</a>
@@ -394,7 +394,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pipedream, an extremely versatile malware toolkit, could be used for targeting power grids, refineries, and other ICS systems<a href="https://arstechnica.com/information-technology/2022/04/us-uncovers-swiss-army-knife-for-hacking-industrial-control-systems/?&web_view=true"> Full Text</a>
@@ -410,7 +410,7 @@ ARS Technica
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analysis of the SunnyDay ransomware<a href="https://securityaffairs.co/wordpress/130204/malware/analysis-sunnyday-ransomware.html"> Full Text</a>
@@ -430,7 +430,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Karakurt revealed as data extortion arm of Conti cybercrime syndicate<a href="https://www.bleepingcomputer.com/news/security/karakurt-revealed-as-data-extortion-arm-of-conti-cybercrime-syndicate/"> Full Text</a>
@@ -446,7 +446,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2022
+April 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Auth Bypass Bug Reported in Cisco Wireless LAN Controller Software<a href="https://thehackernews.com/2022/04/critical-auth-bypass-bug-reported-in.html"> Full Text</a>
@@ -462,7 +462,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2022
+April 14, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 As State-Backed Cyber Threats Grow, Here's How the World Is Reacting<a href="https://thehackernews.com/2022/04/as-state-backed-cyber-threats-grow.html"> Full Text</a>
@@ -478,7 +478,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2022
+April 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical VMware Cloud Director Bug Could Let Hackers Takeover Entire Cloud Infrastructure<a href="https://thehackernews.com/2022/04/critical-vmware-cloud-director-bug.html"> Full Text</a>
@@ -494,7 +494,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2022
+April 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Releases Urgent Chrome Update to Patch Actively Exploited Zero-Day Flaw<a href="https://thehackernews.com/2022/04/google-releases-urgent-chrome-update-to.html"> Full Text</a>
@@ -510,7 +510,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2022
+April 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Instagram's dark side: sexual harassers, crypto scammers, ID thieves<a href="https://www.bleepingcomputer.com/news/security/instagrams-dark-side-sexual-harassers-crypto-scammers-id-thieves/"> Full Text</a>
