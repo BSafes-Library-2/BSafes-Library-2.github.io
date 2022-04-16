@@ -34,6 +34,498 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub: Attacker breached dozens of orgs using stolen OAuth tokens<a href="https://www.bleepingcomputer.com/news/security/github-attacker-breached-dozens-of-orgs-using-stolen-oauth-tokens/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub revealed today that an attacker is using stolen OAuth user tokens (issued to Heroku and Travis-CI) to download data from private repositories.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish FA report cyber attack to police after email accounts, private texts stolen<a href="https://www.espn.in/football/spain-esp/story/4642921/spanish-fa-report-cyber-attack-to-police-after-email-accounts-private-texts-stolen?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Documents and information from email accounts, private texts, and audio conversations from top executives of the federation, including president Luis Rubiales, have been stolen in recent months.
+</details>
+<div style="text-align: right" markdown="1">
+ESPN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JekyllBot:5 Flaws Let Attackers Take Control of Aethon TUG Hospital Robots<a href="https://thehackernews.com/2022/04/new-jekyllbot5-flaws-let-attackers-take.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as five security vulnerabilities have been addressed in Aethon Tug hospital robots that could enable remote attackers to seize control of the devices and interfere with the timely distribution of medication and lab samples.  "Successful exploitation of these vulnerabilities could cause a denial-of-service condition, allow full control of robot functions, or expose sensitive information," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)  said  in an advisory published this week.  Aethon TUG smart autonomous mobile robots are used in hospitals around the world to deliver medication, transport clinical supplies, and independently navigate around to perform different tasks such as cleaning floors and collecting meal trays.   Collectively dubbed " JekyllBot:5 " by Cynerio, the flaws reside in the TUG Homebase Server component, effectively allowing attackers to impede the delivery of medications, surveil patients, staff, and hospital interiors thr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors use Zimbra exploits to target organizations in Ukraine<a href="https://securityaffairs.co/wordpress/130244/cyber-warfare-2/attacks-ukraine-govt-zimbra-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting Ukrainian government organizations with exploits for XSS vulnerabilities in Zimbra Collaboration Suite (CVE-2018-6882).
+
+
+
+Ukraine's CERT (CERT-UA) warns of threat actors that are targeting government organizations with exploits...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - April 15th 2022 - Encrypting Russia<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-15th-2022-encrypting-russia/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While countries worldwide have been the frequent target of ransomware attacks, Russia and CIS countries have been avoided by threat actors. The tables have turned with the NB65 hacking group modifying the leaked Conti ransomware to use in attacks on Russian entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attack on Panasonic Canada Shows Conti is Still Dangerous<a href="https://securityboulevard.com/2022/04/attack-on-panasonic-canada-shows-conti-is-still-dangerous/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the details remain sparse, Panasonic suffered another breach just six months after a high-profile attack—this time at Panasonic Canada. The Conti gang said it was behind the February attack that resulted in the theft of more than 2.8GB of data.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Haskers Gang Gives Away ZingoStealer Malware to Other Cybercriminals for Free<a href="https://thehackernews.com/2022/04/haskers-gang-gives-away-zingostealer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A crimeware-related threat actor known as Haskers Gang  has released an  information-stealing malware  called ZingoStealer for free on, allowing other criminal groups to leverage the tool for nefarious purposes.  "It features the ability to steal sensitive information from victims and can download additional malware to infected systems," Cisco Talos researchers Edmund Brumaghin and Vanja Svajcer  said  in a report shared with The Hacker News.  "In many cases, this includes the  RedLine Stealer  and an XMRig-based cryptocurrency mining malware that is internally referred to as 'ZingoMiner.'"  But in an interesting twist, the criminal group announced on Thursday that the ownership of the ZingoStealer project is changing hands to a new threat actor, in addition to offering to sell the source code for a negotiable price of $500.   Since its inception last month, ZingoStealer is said to be undergoing consistent development and deployed specifically against Russi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware Gang claims responsibility for the Nordex hack<a href="https://securityaffairs.co/wordpress/130238/cyber-crime/conti-ransomware-claims-nordex-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware gang has claimed responsibility for the recent attack against Nordex, one of the largest manufacturers of wind turbines.
+
+
+
+The Conti ransomware gang claimed responsibility for the cyberattack that hit the manufacturer of wind turbines...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile customers warned of unblockable SMS phishing attacks<a href="https://www.bleepingcomputer.com/news/security/t-mobile-customers-warned-of-unblockable-sms-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing phishing campaign targets T-Mobile customers with malicious links using unblockable texts sent via SMS (Short Message Service) group messages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Elementor Plugin Impacts Millions of WordPress Sites<a href="https://www.securityweek.com/critical-vulnerability-elementor-plugin-impacts-millions-wordpress-sites?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability addressed in the Elementor WordPress plugin could allow authenticated users to upload arbitrary files to affected websites, potentially leading to code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ZingoStealer crimeware released for free in the cybercrime ecosystem<a href="https://securityaffairs.co/wordpress/130229/breaking-news/zingostealer-crimeware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new powerful crimeware called ZingoStealer was released for free by a threat actor known as Haskers Gang.
+
+
+
+ZingoStealer is a new information-stealer developed by a threat actor known as Haskers Gang who released it for free after they attempted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco vulnerability lets hackers craft their own login credentials<a href="https://www.bleepingcomputer.com/news/security/cisco-vulnerability-lets-hackers-craft-their-own-login-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released a security advisory to warn about a critical vulnerability (CVSS v3 score: 10.0), tracked as CVE-2022-20695, impacting the Wireless LAN Controller (WLC) software. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of the SunnyDay ransomware<a href="https://securityaffairs.co/wordpress/130204/malware/analysis-sunnyday-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Segurança-Informatica published an analysis of a recent sample of SunnyDay ransomware. As a result of the work, some similarities between other ransomware samples such as Ever101, Medusa Locker, Curator, and Payment45 were found.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Auth bypass flaw in Cisco Wireless LAN Controller Software allows device takeover<a href="https://securityaffairs.co/wordpress/130217/security/auth-bypass-cisco-wireless-lan-controller.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed a critical flaw in Cisco Wireless LAN Controller (WLC) that could allow an unauthenticated, remote attacker to take control affected devices.
+
+
+
+Cisco has released security patches to fix a critical vulnerability (CVSS score 10), tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders agencies to fix actively exploited VMware, Chrome bugs<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-fix-actively-exploited-vmware-chrome-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has added nine more security flaws to its list of actively exploited bugs, including a VMware privilege escalation flaw and a Google Chrome zero-day that could be used for remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Lazarus Group Stole More than $600 Million in a Single Hack Targeting Axie Infinity<a href="https://edition.cnn.com/2022/04/14/politics/fbi-north-korea-hackers-crypto/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has blamed hackers associated with the North Korean government for stealing more than $600 million in cryptocurrency last month from a video gaming company -- the latest in a string of audacious cyber heists tied to Pyongyang.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed third zero-day in Chrome since the start of 2022<a href="https://securityaffairs.co/wordpress/130213/security/google-chrome-zeroday-cve-2022-1364.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome 100.0.4896.127 addresses a new high-severity zero-day vulnerability tracked as CVE-2022-1364, actively exploited by threat actors in the wild.
+
+
+
+Google has released Chrome 100.0.4896.127 for Windows, Mac, and Linux to address a high-severity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency DeFi platforms are now more targeted than ever<a href="https://www.bleepingcomputer.com/news/security/cryptocurrency-defi-platforms-are-now-more-targeted-than-ever/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are increasingly targeting DeFi (Decentralized Finance) cryptocurrency platforms, with Q1 2022 data showing that more platforms are being targeted than ever before.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco's Webex phoned home audio telemetry even when muted<a href="https://www.theregister.com/2022/04/14/muting_ciscos_webex_app_doesnt/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at two US universities have found that muting popular native video-conferencing apps fails to disable device microphones – and that these apps have the ability to access audio data when muted, or actually do so.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ways to Develop a Cybersecurity Training Program for Employees<a href="https://securityaffairs.co/wordpress/130211/security/cybersecurity-training-program.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity experts would have you believe that your organization’s employees have a crucial role in bolstering or damaging your company's security initiatives. 
+
+
+
+While you may disagree, data breach studies show that employees and negligence are the most...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Mute' button in conferencing apps may not actually mute your mic<a href="https://www.bleepingcomputer.com/news/security/mute-button-in-conferencing-apps-may-not-actually-mute-your-mic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new study shows that pressing the mute button on popular video conferencing apps (VCA) may not actually work like you think it should, with apps still listening in on your microphone.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pipedream, an extremely versatile malware toolkit, could be used for targeting power grids, refineries, and other ICS systems<a href="https://arstechnica.com/information-technology/2022/04/us-uncovers-swiss-army-knife-for-hacking-industrial-control-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States government has issued an advisory for the malware toolkit dubbed Pipedream that cybercriminal groups could use to potentially target all critical infrastructure owners worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+ARS Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of the SunnyDay ransomware<a href="https://securityaffairs.co/wordpress/130204/malware/analysis-sunnyday-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The analysis of a recent sample SunnyDay ransomware revealed some similarities with other ransomware, such as Ever101, Medusa Locker, Curator, and Payment45.
+
+
+
+Segurança-Informatica published an analysis of a recent sample of SunnyDay ransomware. As a result...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Karakurt revealed as data extortion arm of Conti cybercrime syndicate<a href="https://www.bleepingcomputer.com/news/security/karakurt-revealed-as-data-extortion-arm-of-conti-cybercrime-syndicate/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After breaching servers managed by the cybercriminals, security researchers found a connection between Conti ransomware and the recently emerged Karakurt data extortion group, showing that the two gangs are part of the same operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Auth Bypass Bug Reported in Cisco Wireless LAN Controller Software<a href="https://thehackernews.com/2022/04/critical-auth-bypass-bug-reported-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released patches to contain a critical security vulnerability affecting the Wireless LAN Controller (WLC) that could be abused by an unauthenticated, remote attacker to take control of an affected system.  Tracked as  CVE-2022-20695 , the issue has been rated 10 out of 10 for severity and enables an adversary to bypass authentication controls and log in to the device through the management interface of WLC.  "This vulnerability is due to the improper implementation of the password validation algorithm," the company said in an advisory. "An attacker could exploit this vulnerability by logging in to an affected device with crafted credentials."   Successful exploitation of the flaw could permit an attacker to gain administrator privileges and carry out malicious actions in a manner that allows a complete takeover of the vulnerable system.  The company stressed that the issue only affects the following products if running Cisco WLC Software Release 8.10.151.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As State-Backed Cyber Threats Grow, Here's How the World Is Reacting<a href="https://thehackernews.com/2022/04/as-state-backed-cyber-threats-grow.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the ongoing conflict in Eurasia, cyberwarfare is inevitably making its presence felt. The fight is not only being fought on the fields. There is also a big battle happening in cyberspace. Several cyber-attacks have been reported over the past months.  Notably, cyber attacks backed by state actors are becoming prominent. There have been reports of a rise of ransomware and other malware attacks such as  Cyclops Blink ,  HermeticWiper , and  BlackCat . These target businesses as well as government institutions and nonprofit organizations. There have been cases of several attempts to shut down online communications and IT infrastructure.  The ongoing list of  significant cyber incidents  curated by the Center for Strategic and International Studies (CSIS) shows that the number of major incidents in January 2022 is 100% higher compared to the same period in the previous year. With the recent activities in cyberspace impacted by the emergence of the geopolitical tumult in February, it
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical VMware Cloud Director Bug Could Let Hackers Takeover Entire Cloud Infrastructure<a href="https://thehackernews.com/2022/04/critical-vmware-cloud-director-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud computing and virtualization technology firm VMWare on Thursday rolled out an update to resolve a critical security flaw in its Cloud Director product that could be weaponized to launch remote code execution attacks.  The issue, assigned the identifier  CVE-2022-22966 , has a CVSS score of 9.1 out of a maximum of 10. VMware credited security researcher Jari Jääskelä with reporting the flaw.   "An authenticated, high privileged malicious actor with network access to the VMware Cloud Director tenant or provider may be able to exploit a remote code execution vulnerability to gain access to the server," VMware  said  in an advisory.  VMware Cloud Director, formerly known as vCloud Director, is used by many well-known cloud providers to operate and manage their cloud infrastructures and gain visibility into datacenters across sites and geographies.  The vulnerability could, in other words, end up allowing attackers to gain access to sensitive data and take over private clou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases Urgent Chrome Update to Patch Actively Exploited Zero-Day Flaw<a href="https://thehackernews.com/2022/04/google-releases-urgent-chrome-update-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday shipped emergency patches to address two security issues in its Chrome web browser, one of which it says is being actively exploited in the wild.  Tracked as  CVE-2022-1364 , the tech giant described the high-severity bug as a case of type confusion in the V8 JavaScript engine. Clément Lecigne of Google's Threat Analysis Group has been credited with reporting the flaw on April 13, 2022.  As is typically the case with actively exploited zero-day flaws, the company acknowledged it's "aware that an exploit for CVE-2022-1364 exists in the wild." Additional details about the flaw and the identity of the threat actors have been withheld to prevent further abuse.   With the latest fix, Google has patched a total of three zero-day vulnerabilities in Chrome since the start of the year. It's also the second type confusion-related bug in V8 to be squashed in less than a month -   CVE-2022-0609  - Use-after-free in Animation  CVE-2022-1096  - Type confusio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram's dark side: sexual harassers, crypto scammers, ID thieves<a href="https://www.bleepingcomputer.com/news/security/instagrams-dark-side-sexual-harassers-crypto-scammers-id-thieves/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A platform for everyone to seamlessly share their best moments online, Instagram is slowly turning into a mecca for the undesirables—from sexual harassers to crypto "investors" helping you "get rich fast." How do you keep yourself safe against such profiles?
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
