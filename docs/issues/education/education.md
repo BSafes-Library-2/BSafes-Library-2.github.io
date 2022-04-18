@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Get Lifetime Access to This 60-Hour Java Programming Training Bundle @ 97% Discount<a href="https://thehackernews.com/2022/04/get-lifetime-access-to-this-60-hour.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Java &nbsp;is a very versatile programming language. From Android apps to Oracle databases, it can be used to power a wide range of software and systems. As with most&nbsp; technical skills , the best way to learn Java is through building your own projects. But you can definitely speed things up with high-quality training.  The Complete 2022 Java Coder Bundle &nbsp;provides plenty of that — nine full-length video courses, in fact. The training comes from top-rated instructors, and you get plenty of hands-on projects to try. The included training is worth $1,791. But in a special deal for loyal readers of The Hacker News, you can pick up the bundle for just $39.99.&nbsp;  Special Offer — For a limited time, you can get unlimited lifetime access to over 60 hours of Java training for&nbsp; just $39.99 . That's an unmissable deal!   According to Indeed, the average salary for a Java developer in the US is around $115,000 a year. But even if you don't plan on becoming a specialist, learning Java is a smart move. T
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

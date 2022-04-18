@@ -34,6 +34,226 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enemybot, a new DDoS botnet appears in the threat landscape<a href="https://securityaffairs.co/wordpress/130291/cyber-crime/enemybot-botnet-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enemybot is a DDoS botnet that targeted several routers and web servers by exploiting known vulnerabilities.
+
+
+
+Researchers from Fortinet discovered a new DDoS botnet, tracked as Enemybot, that has targeted several routers and web servers by exploiting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stolen OAuth tokens used to download data from dozens of organizations, GitHub warns<a href="https://securityaffairs.co/wordpress/130279/hacking/github-warns-stolen-oauth-tokens-access-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub reported that threat actors used stolen OAuth user tokens to exfiltrate private data from several organizations.
+
+
+
+GitHub uncovered threat actors using stolen OAuth user tokens to gain access to their repositories and download private data from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 361 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/130275/breaking-news/security-affairs-newsletter-round-361-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Industrial Spy stolen data market promoted through cracks, adware<a href="https://www.bleepingcomputer.com/news/security/new-industrial-spy-stolen-data-market-promoted-through-cracks-adware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have launched a new marketplace called Industrial Spy that sells stolen data from breached companies, promoting the site through adware and software cracks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newman Regional Health notifies 52,224 patients after long-running breach of employee email accounts<a href="https://www.databreaches.net/newman-regional-health-notifies-52224-patients-after-long-running-breach-of-employee-email-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newman Regional Health (NRH) is notifying more than 52,000 patients after an investigation revealed unauthorized access to a limited number of their employee e-mail accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Data Breaches
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Behind $540 Million Axie Infinity Crypto Hack and Attacks on Chemical Sector<a href="https://thehackernews.com/2022/04/lazarus-hackers-behind-540-million-axie.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department has implicated the North Korea-backed Lazarus Group (aka Hidden Cobra) in the theft of $540 million from video game Axie Infinity's Ronin Network last month.  On Thursday, the Treasury  tied  the Ethereum  wallet address  that received the stolen funds to the threat actor and sanctioned the funds by adding the address to the Office of Foreign Assets Control's (OFAC) Specially Designated Nationals ( SDN ) List.  "The FBI, in coordination with Treasury and other U.S. government partners, will continue to expose and combat the DPRK's use of illicit activities – including cybercrime and cryptocurrency theft – to generate revenue for the regime," the intelligence and law enforcement agency  said  in a statement.  The cryptocurrency heist, the second-largest cyber-enabled theft  to date, involved the siphoning of 173,600 Ether (ETH) and 25.5 million USD Coins from the Ronin cross-chain bridge, which allows users to transfer their digital as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub suspends accounts of Russian devs at sanctioned companies<a href="https://www.bleepingcomputer.com/news/security/github-suspends-accounts-of-russian-devs-at-sanctioned-companies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian software developers are reporting that their GitHub accounts are being suspended without warning if they work for or previously worked for companies under US sanctions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Get Lifetime Access to This 60-Hour Java Programming Training Bundle @ 97% Discount<a href="https://thehackernews.com/2022/04/get-lifetime-access-to-this-60-hour.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Java  is a very versatile programming language. From Android apps to Oracle databases, it can be used to power a wide range of software and systems. As with most  technical skills , the best way to learn Java is through building your own projects. But you can definitely speed things up with high-quality training.  The Complete 2022 Java Coder Bundle  provides plenty of that — nine full-length video courses, in fact. The training comes from top-rated instructors, and you get plenty of hands-on projects to try. The included training is worth $1,791. But in a special deal for loyal readers of The Hacker News, you can pick up the bundle for just $39.99.   Special Offer — For a limited time, you can get unlimited lifetime access to over 60 hours of Java training for  just $39.99 . That's an unmissable deal!   According to Indeed, the average salary for a Java developer in the US is around $115,000 a year. But even if you don't plan on becoming a specialist, learning Java is a smart move. T
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Gov believes North Korea-linked Lazarus APT is behind Ronin Validator cyber heist<a href="https://securityaffairs.co/wordpress/130260/apt/lazarus-ronin-validator-cyber-heist.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government blames North Korea-linked APT Lazarus for the recent $600 million Ronin Validator cyber heist.
+
+
+
+The U.S. government attributes the recent $600 million Ronin Validator cryptocurrencty heist to the North Korea-linked APT Lazarus.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The unceasing action of Anonymous against Russia<a href="https://securityaffairs.co/wordpress/130262/hacktivism/anonymous-targets-russian-entities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week the Anonymous collective and its affiliates have targeted multiple Russian organizations stealing gigabytes of data.
+
+
+
+This week Anonymous and other hacker groups affiliated with the collective have launched multiple attacks against Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors target the Ukrainian gov with IcedID malware<a href="https://securityaffairs.co/wordpress/130250/cyber-warfare-2/icedid-against-ukraine-gov-agencies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting Ukrainian government agencies with phishing attacks delivering the IcedID malware.
+
+
+
+The Ukrainian Computer Emergency Response Team (CERT-UA) uncovered new phishing campaigns aimed at infecting systems of Ukrainian government...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Says Hackers Breached Dozens of Organizations Using Stolen OAuth Access Tokens<a href="https://thehackernews.com/2022/04/github-says-hackers-breach-dozens-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud-based repository hosting service GitHub on Friday revealed that it discovered evidence of an unnamed adversary capitalizing on stolen OAuth user tokens to unauthorizedly download private data from several organizations.  "An attacker abused stolen OAuth user tokens issued to two third-party OAuth integrators, Heroku and Travis-CI, to download data from dozens of organizations, including NPM," GitHub's Mike Hanley  disclosed  in a report.   OAuth access tokens are often  used  by apps and services to authorize access to specific parts of a user's data and communicate with each other without having to share the actual credentials. It's one of the most common methods used to pass authorization from a single sign-on ( SSO ) service to another application.  As of April 15, 2022, the list of affected OAuth applications is as follows -   Heroku Dashboard (ID: 145909)  Heroku Dashboard (ID: 628778)  Heroku Dashboard – Preview (ID: 313468)  Heroku Dashboard – Classi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

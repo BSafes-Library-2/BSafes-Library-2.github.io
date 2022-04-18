@@ -8,6 +8,42 @@ nav_order: 900015
 
 ## Attack
 ---
+April 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The unceasing action of Anonymous against Russia<a href="https://securityaffairs.co/wordpress/130262/hacktivism/anonymous-targets-russian-entities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week the Anonymous collective and its affiliates have targeted multiple Russian organizations stealing gigabytes of data.
+
+
+
+This week Anonymous and other hacker groups affiliated with the collective have launched multiple attacks against Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors target the Ukrainian gov with IcedID malware<a href="https://securityaffairs.co/wordpress/130250/cyber-warfare-2/icedid-against-ukraine-gov-agencies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting Ukrainian government agencies with phishing attacks delivering the IcedID malware.
+
+
+
+The Ukrainian Computer Emergency Response Team (CERT-UA) uncovered new phishing campaigns aimed at infecting systems of Ukrainian government...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

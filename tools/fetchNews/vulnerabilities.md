@@ -8,6 +8,140 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JekyllBot:5 Flaws Let Attackers Take Control of Aethon TUG Hospital Robots<a href="https://thehackernews.com/2022/04/new-jekyllbot5-flaws-let-attackers-take.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as five security vulnerabilities have been addressed in Aethon Tug hospital robots that could enable remote attackers to seize control of the devices and interfere with the timely distribution of medication and lab samples.  "Successful exploitation of these vulnerabilities could cause a denial-of-service condition, allow full control of robot functions, or expose sensitive information," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)&nbsp; said &nbsp;in an advisory published this week.  Aethon TUG smart autonomous mobile robots are used in hospitals around the world to deliver medication, transport clinical supplies, and independently navigate around to perform different tasks such as cleaning floors and collecting meal trays.   Collectively dubbed " JekyllBot:5 " by Cynerio, the flaws reside in the TUG Homebase Server component, effectively allowing attackers to impede the delivery of medications, surveil patients, staff, and hospital interiors thr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Elementor Plugin Impacts Millions of WordPress Sites<a href="https://www.securityweek.com/critical-vulnerability-elementor-plugin-impacts-millions-wordpress-sites?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability addressed in the Elementor WordPress plugin could allow authenticated users to upload arbitrary files to affected websites, potentially leading to code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco vulnerability lets hackers craft their own login credentials<a href="https://www.bleepingcomputer.com/news/security/cisco-vulnerability-lets-hackers-craft-their-own-login-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released a security advisory to warn about a critical vulnerability (CVSS v3 score: 10.0), tracked as CVE-2022-20695, impacting the Wireless LAN Controller (WLC) software.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Auth bypass flaw in Cisco Wireless LAN Controller Software allows device takeover<a href="https://securityaffairs.co/wordpress/130217/security/auth-bypass-cisco-wireless-lan-controller.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed a critical flaw in Cisco Wireless LAN Controller (WLC) that could allow an unauthenticated, remote attacker to take control affected devices.
+
+
+
+Cisco has released security patches to fix a critical vulnerability (CVSS score 10), tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed third zero-day in Chrome since the start of 2022<a href="https://securityaffairs.co/wordpress/130213/security/google-chrome-zeroday-cve-2022-1364.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome 100.0.4896.127 addresses a new high-severity zero-day vulnerability tracked as CVE-2022-1364, actively exploited by threat actors in the wild.
+
+
+
+Google has released Chrome 100.0.4896.127 for Windows, Mac, and Linux to address a high-severity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco's Webex phoned home audio telemetry even when muted<a href="https://www.theregister.com/2022/04/14/muting_ciscos_webex_app_doesnt/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at two US universities have found that muting popular native video-conferencing apps fails to disable device microphones – and that these apps have the ability to access audio data when muted, or actually do so.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Auth Bypass Bug Reported in Cisco Wireless LAN Controller Software<a href="https://thehackernews.com/2022/04/critical-auth-bypass-bug-reported-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released patches to contain a critical security vulnerability affecting the Wireless LAN Controller (WLC) that could be abused by an unauthenticated, remote attacker to take control of an affected system.  Tracked as&nbsp; CVE-2022-20695 , the issue has been rated 10 out of 10 for severity and enables an adversary to bypass authentication controls and log in to the device through the management interface of WLC.  "This vulnerability is due to the improper implementation of the password validation algorithm," the company said in an advisory. "An attacker could exploit this vulnerability by logging in to an affected device with crafted credentials."   Successful exploitation of the flaw could permit an attacker to gain administrator privileges and carry out malicious actions in a manner that allows a complete takeover of the vulnerable system.  The company stressed that the issue only affects the following products if running Cisco WLC Software Release 8.10.151.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical VMware Cloud Director Bug Could Let Hackers Takeover Entire Cloud Infrastructure<a href="https://thehackernews.com/2022/04/critical-vmware-cloud-director-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud computing and virtualization technology firm VMWare on Thursday rolled out an update to resolve a critical security flaw in its Cloud Director product that could be weaponized to launch remote code execution attacks.  The issue, assigned the identifier&nbsp; CVE-2022-22966 , has a CVSS score of 9.1 out of a maximum of 10. VMware credited security researcher Jari Jääskelä with reporting the flaw.   "An authenticated, high privileged malicious actor with network access to the VMware Cloud Director tenant or provider may be able to exploit a remote code execution vulnerability to gain access to the server," VMware&nbsp; said &nbsp;in an advisory.  VMware Cloud Director, formerly known as vCloud Director, is used by many well-known cloud providers to operate and manage their cloud infrastructures and gain visibility into datacenters across sites and geographies.  The vulnerability could, in other words, end up allowing attackers to gain access to sensitive data and take over private clou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases Urgent Chrome Update to Patch Actively Exploited Zero-Day Flaw<a href="https://thehackernews.com/2022/04/google-releases-urgent-chrome-update-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday shipped emergency patches to address two security issues in its Chrome web browser, one of which it says is being actively exploited in the wild.  Tracked as&nbsp; CVE-2022-1364 , the tech giant described the high-severity bug as a case of type confusion in the V8 JavaScript engine. Clément Lecigne of Google's Threat Analysis Group has been credited with reporting the flaw on April 13, 2022.  As is typically the case with actively exploited zero-day flaws, the company acknowledged it's "aware that an exploit for CVE-2022-1364 exists in the wild." Additional details about the flaw and the identity of the threat actors have been withheld to prevent further abuse.   With the latest fix, Google has patched a total of three zero-day vulnerabilities in Chrome since the start of the year. It's also the second type confusion-related bug in V8 to be squashed in less than a month -   CVE-2022-0609 &nbsp;- Use-after-free in Animation  CVE-2022-1096 &nbsp;- Type confusio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

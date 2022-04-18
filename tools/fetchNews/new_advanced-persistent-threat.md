@@ -8,6 +8,28 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Gov believes North Korea-linked Lazarus APT is behind Ronin Validator cyber heist<a href="https://securityaffairs.co/wordpress/130260/apt/lazarus-ronin-validator-cyber-heist.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government blames North Korea-linked APT Lazarus for the recent $600 million Ronin Validator cyber heist.
+
+
+
+The U.S. government attributes the recent $600 million Ronin Validator cryptocurrencty heist to the North Korea-linked APT Lazarus.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
