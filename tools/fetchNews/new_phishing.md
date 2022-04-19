@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MetaMask warns Apple users over iCloud phishing attacks<a href="https://cointelegraph.com/news/metamask-warns-apple-users-over-icloud-phishing-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a Twitter thread posted on Monday, MetaMask noted that users run the risk of losing their funds if their Apple password “isn’t strong enough” and an attacker is able to phish their account credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Coin Telegraph
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enemybot, a new DDoS botnet appears in the threat landscape<a href="https://securityaffairs.co/wordpress/130291/cyber-crime/enemybot-botnet-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enemybot is a DDoS botnet that targeted several routers and web servers by exploiting known vulnerabilities.
+
+
+
+Researchers from Fortinet discovered a new DDoS botnet, tracked as Enemybot, that has targeted several routers and web servers by exploiting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

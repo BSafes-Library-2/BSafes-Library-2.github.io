@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XSS vulnerability in open source tool PrivateBin patched<a href="https://portswigger.net/daily-swig/xss-vulnerability-in-open-source-tool-privatebin-patched?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If a user opens a paste with a specifically crafted SVG attachment and interacts with the preview image while the instance isn’t protected by an appropriate content security policy, an attacker can also execute code.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaw Reported in WordPress Elementor Website Builder Plugin<a href="https://thehackernews.com/2022/04/critical-rce-flaw-reported-in-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elementor, a WordPress website builder plugin with over five million active installations, has been found to be vulnerable to an authenticated remote code execution flaw that could be abused to take over affected websites.  Plugin Vulnerabilities, which&nbsp; disclosed &nbsp;the flaw last week, said the bug was introduced in version 3.6.0 that was released on March 22, 2022. Roughly&nbsp; 37% of users &nbsp;of the plugin are on version 3.6.x.   "That means that malicious code provided by the attacker can be run by the website," the researchers said. "In this instance, it is possible that the vulnerability might be exploitable by someone not logged in to WordPress, but it can easily be exploited by anyone logged in to WordPress who has access to the WordPress admin dashboard."  In a nutshell, the issue relates to a case of arbitrary file upload to affected websites, potentially leading to code execution.   The bug has been addressed in the latest version of Elementor, with Patchstack
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+April 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newman Regional Health notifies 52,224 patients after long-running breach of employee email accounts<a href="https://www.databreaches.net/newman-regional-health-notifies-52224-patients-after-long-running-breach-of-employee-email-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newman Regional Health (NRH) is notifying more than 52,000 patients after an investigation revealed unauthorized access to a limited number of their employee e-mail accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Data Breaches
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Says Hackers Breached Dozens of Organizations Using Stolen OAuth Access Tokens<a href="https://thehackernews.com/2022/04/github-says-hackers-breach-dozens-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud-based repository hosting service GitHub on Friday revealed that it discovered evidence of an unnamed adversary capitalizing on stolen OAuth user tokens to unauthorizedly download private data from several organizations.  "An attacker abused stolen OAuth user tokens issued to two third-party OAuth integrators, Heroku and Travis-CI, to download data from dozens of organizations, including NPM," GitHub's Mike Hanley&nbsp; disclosed &nbsp;in a report.   OAuth access tokens are often&nbsp; used &nbsp;by apps and services to authorize access to specific parts of a user's data and communicate with each other without having to share the actual credentials. It's one of the most common methods used to pass authorization from a single sign-on ( SSO ) service to another application.  As of April 15, 2022, the list of affected OAuth applications is as follows -   Heroku Dashboard (ID: 145909)  Heroku Dashboard (ID: 628778)  Heroku Dashboard – Preview (ID: 313468)  Heroku Dashboard – Classi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

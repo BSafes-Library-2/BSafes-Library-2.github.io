@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Industrial Spy stolen data market promoted through cracks, adware<a href="https://www.bleepingcomputer.com/news/security/new-industrial-spy-stolen-data-market-promoted-through-cracks-adware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have launched a new marketplace called Industrial Spy that sells stolen data from breached companies, promoting the site through adware and software cracks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Behind $540 Million Axie Infinity Crypto Hack and Attacks on Chemical Sector<a href="https://thehackernews.com/2022/04/lazarus-hackers-behind-540-million-axie.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department has implicated the North Korea-backed Lazarus Group (aka Hidden Cobra) in the theft of $540 million from video game Axie Infinity's Ronin Network last month.  On Thursday, the Treasury&nbsp; tied &nbsp;the Ethereum&nbsp; wallet address &nbsp;that received the stolen funds to the threat actor and sanctioned the funds by adding the address to the Office of Foreign Assets Control's (OFAC) Specially Designated Nationals ( SDN ) List.  "The FBI, in coordination with Treasury and other U.S. government partners, will continue to expose and combat the DPRK's use of illicit activities – including cybercrime and cryptocurrency theft – to generate revenue for the regime," the intelligence and law enforcement agency&nbsp; said &nbsp;in a statement.  The cryptocurrency heist, the second-largest cyber-enabled theft  to date, involved the siphoning of 173,600 Ether (ETH) and 25.5 million USD Coins from the Ronin cross-chain bridge, which allows users to transfer their digital as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

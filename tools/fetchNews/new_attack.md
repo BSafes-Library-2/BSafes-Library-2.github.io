@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly found zero-click iPhone exploit used in NSO spyware attacks<a href="https://www.bleepingcomputer.com/news/security/newly-found-zero-click-iphone-exploit-used-in-nso-spyware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital threat researchers at Citizen Lab have discovered a new zero-click iMessage exploit used to install NSO Group spyware on devices belonging to Catalan politicians, journalists, and activists.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enemybot and Fodcha - Leading the Next Waves of Botnet Attacks<a href="https://cyware.com/news/enemybot-and-fodcha-leading-the-next-waves-of-botnet-attacks-5a0f14dd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered Fodcha, a growing botnet that compromises over 100 victims a day. Meanwhile, FortiGuard Labs observed a new DDoS botnet dubbed Enemybot, allegedly working with Keksec. The best way to stop/avoid such attacks is to patch any exploitable vulnerabilities in your network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hacking Campaign Targeting Ukrainian Government with IcedID Malware<a href="https://thehackernews.com/2022/04/new-hacking-campaign-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new wave of social engineering campaigns delivering IcedID malware and leveraging Zimbra exploits with the goal of stealing sensitive information.  Attributing the IcedID phishing attacks to a threat cluster named UAC-0041, the agency&nbsp; said &nbsp;the infection sequence begins with an email containing a Microsoft Excel document (Мобілізаційний реєстр.xls or Mobilization Register.xls) that, when opened, prompts the users to enable macros, leading to the deployment of IcedID.   The&nbsp; information-stealing malware , also known as BokBot, has followed a similar trajectory to that of TrickBot, Emotet, and ZLoader, evolving from its earlier roots as a banking trojan to a full-fledged crimeware service that facilities the retrieval of next-stage implants such as ransomware.   The&nbsp; second set of targeted intrusions &nbsp;relate to a new threat group dubbed UAC-0097, with the email including a number of image attachments with a&nbsp; Cont
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

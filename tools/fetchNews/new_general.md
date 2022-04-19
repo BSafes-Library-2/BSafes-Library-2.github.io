@@ -8,6 +8,56 @@ nav_order: 900072
 
 ## General
 ---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Benchmarking Linux Security – Latest Research Findings<a href="https://thehackernews.com/2022/04/benchmarking-linux-security-latest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How well do your Linux security practices stack up in today's challenging operating environment? Are you following the correct processes to keep systems up-to-date and protected against the latest threats? Now you can find out thanks to research independently conducted by the Ponemon Institute.  The research sponsored by&nbsp; TuxCare &nbsp;sought to understand better how organizations are currently managing the security and stability of their Linux-based systems. The results allow all organizations operating Linux-based systems to benchmark their processes against their peers and best practices.  You can get a copy of the complete report&nbsp; HERE &nbsp;if you can't wait to see the findings, but we've highlighted the key takeaways below if you'd like a preview.  Research Goals&nbsp;  Understanding the current State of Enterprise Linux Security Management has never been more imperative. The number of high and critical vulnerabilities continues to grow each year significantly, and exploits aga
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command’s Annual Legal Conference<a href="https://www.lawfareblog.com/cyber-commands-annual-legal-conference"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In March, U.S. Cyber Command held its annual legal conference, where members of the command and experts weighed in on the cyber landscape, particularly its legal and national security challenges for the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apr 10 – Apr 16 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/130304/cyber-warfare-2/apr-10-apr-16-ukraine-russia-cyber-conflict.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This post provides a timeline of the events related to the Russian invasion of Ukraine from the cyber security perspective.
+
+
+
+Below is the timeline of the events related to the ongoing invasion that occurred in the previous weeks:
+
+
+
+April 16 - The unceasing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

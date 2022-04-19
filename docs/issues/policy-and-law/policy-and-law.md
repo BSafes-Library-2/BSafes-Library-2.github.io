@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Call for Papers: Cybersecurity Law and Policy Scholars Conference 2022<a href="https://www.lawfareblog.com/call-papers-cybersecurity-law-and-policy-scholars-conference-2022"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The second annual Cybersecurity Law and Policy Scholars Conference (CLPSC) will take place at the University of Minnesota Law School on September 23-24, 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

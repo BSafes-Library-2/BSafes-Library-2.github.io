@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US warns of Lazarus hackers using malicious cryptocurrency apps<a href="https://www.bleepingcomputer.com/news/security/us-warns-of-lazarus-hackers-using-malicious-cryptocurrency-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA, the FBI, and the US Treasury Department warned today that the North Korean Lazarus hacking group is targeting organizations in the cryptocurrency and blockchain industries&nbsp;with trojanized cryptocurrency applications.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

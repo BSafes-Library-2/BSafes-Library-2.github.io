@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal $655K after picking MetaMask seed from iCloud backup<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-655k-after-picking-metamask-seed-from-icloud-backup/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MetaMask has published&nbsp;a warning for their iOS users about the seeds of cryptocurrency wallets being stored&nbsp;in Apple's iCloud if app data backup is active.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beanstalk DeFi platform loses $182 million in flash-load attack<a href="https://www.bleepingcomputer.com/news/security/beanstalk-defi-platform-loses-182-million-in-flash-load-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decentralized, credit-based&nbsp;finance system Beanstalk disclosed on Sunday that it suffered a security breach that resulted in financial losses of&nbsp;$182 million, the attacker stealing $80 million in crypto assets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lakeview Loan Servicing Suffered Data Breach Affecting 2.5 Million Users<a href="https://www.nationalmortgagenews.com/news/mortgage-servicer-reveals-data-breach-affecting-2-5-million-users?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company, which claims it is the nation’s fourth-largest servicer, said in public notices the breach impacted 2,537,261 borrowers between October 27, 2021, and December 7, 2021, and was identified in early December.
+</details>
+<div style="text-align: right" markdown="1">
+National Mortgage News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
