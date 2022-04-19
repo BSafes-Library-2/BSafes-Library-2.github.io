@@ -34,7 +34,440 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US warns of Lazarus hackers using malicious cryptocurrency apps<a href="https://www.bleepingcomputer.com/news/security/us-warns-of-lazarus-hackers-using-malicious-cryptocurrency-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA, the FBI, and the US Treasury Department warned today that the North Korean Lazarus hacking group is targeting organizations in the cryptocurrency and blockchain industries with trojanized cryptocurrency applications.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti's Extended Connections with Karakurt Revealed<a href="https://cyware.com/news/contis-extended-connections-with-karakurt-revealed-c3d9363c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers were able to gain access to an internal Conti VPS server, with the credentials of a user, allegedly the leader of the cybercrime enterprise. This resulted in several revelations about its connection with other groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Share In-Depth Analysis of PYSA Ransomware Group<a href="https://thehackernews.com/2022/04/researchers-share-in-depth-analysis-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An 18-month-long analysis of the PYSA ransomware operation has revealed that the cybercrime cartel followed a five-stage software development cycle from August 2020, with the malware authors prioritizing features to improve the efficiency of its workflows.  This included a user-friendly tool like a full-text search engine to facilitate the extraction of metadata and enable the threat actors to find and access victim information quickly.  "The group is known to carefully research high-value targets before launching its attacks, compromising enterprise systems and forcing organizations to pay large ransoms to restore their data," Swiss cybersecurity company PRODAFT  said  in an exhaustive report published last week.  PYSA, short for "Protect Your System, Amigo" and a successor of the Mespinoza ransomware, was first observed in December 2019 and has emerged as the third most prevalent ransomware strain detected during the fourth quarter of 2021.  Since September 2020,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Call for Papers: Cybersecurity Law and Policy Scholars Conference 2022<a href="https://www.lawfareblog.com/call-papers-cybersecurity-law-and-policy-scholars-conference-2022"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The second annual Cybersecurity Law and Policy Scholars Conference (CLPSC) will take place at the University of Minnesota Law School on September 23-24, 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted Industrial Spy, a new stolen data marketplace<a href="https://securityaffairs.co/wordpress/130323/cyber-crime/industrial-spy-marketplace.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new marketplace named Industrial Spy that focuses on the sale of stolen data appeared in the threat landscape. 
+
+
+
+Malware HunterTeam and Bleeping Computer reported the born of a new marketplace called Industrial Spy that sells stolen data and offers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Put the Pedal to the Medal: Podcast<a href="https://threatpost.com/cyberattackers-speed-fortinet-podcast/179294/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet’s Derek Manky discusses the exponential increase in the speed that attackers weaponize fresh vulnerabilities, where botnets and offensive automation fit in, and the ramifications for security teams. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free decryptor released for Yanluowang ransomware victims<a href="https://www.bleepingcomputer.com/news/security/free-decryptor-released-for-yanluowang-ransomware-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky today revealed it found a vulnerability in Yanluowang ransomware's encryption algorithm, which makes it possible to recover files it encrypts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Eyes Chemical Sector in South Korea<a href="https://cyware.com/news/lazarus-eyes-chemical-sector-in-south-korea-f26c757a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lazarus, the North Korea-linked APT group, is targeting organizations operating in the chemical sector in South Korea. The campaign seems to be a continuation of Operation Dream Job spotted in August 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Benchmarking Linux Security – Latest Research Findings<a href="https://thehackernews.com/2022/04/benchmarking-linux-security-latest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How well do your Linux security practices stack up in today's challenging operating environment? Are you following the correct processes to keep systems up-to-date and protected against the latest threats? Now you can find out thanks to research independently conducted by the Ponemon Institute.  The research sponsored by  TuxCare  sought to understand better how organizations are currently managing the security and stability of their Linux-based systems. The results allow all organizations operating Linux-based systems to benchmark their processes against their peers and best practices.  You can get a copy of the complete report  HERE  if you can't wait to see the findings, but we've highlighted the key takeaways below if you'd like a preview.  Research Goals   Understanding the current State of Enterprise Linux Security Management has never been more imperative. The number of high and critical vulnerabilities continues to grow each year significantly, and exploits aga
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command’s Annual Legal Conference<a href="https://www.lawfareblog.com/cyber-commands-annual-legal-conference"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In March, U.S. Cyber Command held its annual legal conference, where members of the command and experts weighed in on the cyber landscape, particularly its legal and national security challenges for the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds VMware, Chrome flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/130316/security/cisa-vmware-chrome-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA adds a VMware privilege escalation flaw and a Google Chrome type confusion issue to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) added a VMware privilege escalation flaw (CVE-2022-22960)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly found zero-click iPhone exploit used in NSO spyware attacks<a href="https://www.bleepingcomputer.com/news/security/newly-found-zero-click-iphone-exploit-used-in-nso-spyware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital threat researchers at Citizen Lab have discovered a new zero-click iMessage exploit used to install NSO Group spyware on devices belonging to Catalan politicians, journalists, and activists.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ZLoader C2 Servers Disrupted in Global Operation<a href="https://cyware.com/news/zloader-c2-servers-disrupted-in-global-operation-8763d42f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft dismantled ZLoader networks, seizing 65 domains as its C2 servers and 319 additional domains registered using the domain generation algorithm. The botnet is used to target banks worldwide, including Brazil, Australia, and North America, to harvest financial data. It’s critical that privat ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SolarMarker Malware Variant Using Updated Techniques to Stay Under the Radar<a href="https://thehackernews.com/2022/04/new-solarmarker-malware-variant-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a new version of the SolarMarker malware that packs in new improvements with the goal of updating its defense evasion abilities and staying under the radar.  "The recent version demonstrated an evolution from Windows Portable Executables (EXE files) to working with Windows installer package files (MSI files)," Palo Alto Networks Unit 42 researchers  said  in a report published this month. "This campaign is still in development and going back to using executables files (EXE) as it did in its earlier versions."  SolarMarker, also called Jupyter, leverages manipulated search engine optimization (SEO) tactics as its primary infection vector. It's known for its information stealing and backdoor features, enabling the attackers to steal data stored in web browsers and execute arbitrary commands retrieved from a remote server.   In February 2022, the operators of SolarMarker were  observed  using stealthy Windows Registry trick
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apr 10 – Apr 16 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/130304/cyber-warfare-2/apr-10-apr-16-ukraine-russia-cyber-conflict.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This post provides a timeline of the events related to the Russian invasion of Ukraine from the cyber security perspective.
+
+
+
+Below is the timeline of the events related to the ongoing invasion that occurred in the previous weeks:
+
+
+
+April 16 - The unceasing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal $655K after picking MetaMask seed from iCloud backup<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-655k-after-picking-metamask-seed-from-icloud-backup/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MetaMask has published a warning for their iOS users about the seeds of cryptocurrency wallets being stored in Apple's iCloud if app data backup is active.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enemybot and Fodcha - Leading the Next Waves of Botnet Attacks<a href="https://cyware.com/news/enemybot-and-fodcha-leading-the-next-waves-of-botnet-attacks-5a0f14dd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered Fodcha, a growing botnet that compromises over 100 victims a day. Meanwhile, FortiGuard Labs observed a new DDoS botnet dubbed Enemybot, allegedly working with Keksec. The best way to stop/avoid such attacks is to patch any exploitable vulnerabilities in your network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unofficial Windows 11 upgrade installs info-stealing malware<a href="https://www.bleepingcomputer.com/news/security/unofficial-windows-11-upgrade-installs-info-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are luring unsuspecting users with a fake Windows 11 upgrade that comes with malware that steals browser data and cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BotenaGo Variant Discovered by Nozomi Networks Labs<a href="https://securityboulevard.com/2022/04/new-botenago-variant-discovered-by-nozomi-networks-labs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Nozomi Networks Labs discovered a new variant of the Golang-based BotenaGo malware that specifically targets vulnerabilities in Lilin security camera DVR devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beanstalk DeFi platform loses $182 million in flash-load attack<a href="https://www.bleepingcomputer.com/news/security/beanstalk-defi-platform-loses-182-million-in-flash-load-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decentralized, credit-based finance system Beanstalk disclosed on Sunday that it suffered a security breach that resulted in financial losses of $182 million, the attacker stealing $80 million in crypto assets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XSS vulnerability in open source tool PrivateBin patched<a href="https://portswigger.net/daily-swig/xss-vulnerability-in-open-source-tool-privatebin-patched?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If a user opens a paste with a specifically crafted SVG attachment and interacts with the preview image while the instance isn’t protected by an appropriate content security policy, an attacker can also execute code.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Cyber Command gives Congress $236M unfunded priorities wish list<a href="https://www.cyberscoop.com/cyber-command-unfunded-priorities-budget/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The wish list shared with Congress shows $236 million worth of unfunded priorities, including about $168 million to support its Cyber Mission Force, a group of 6,200 personnel charged with conducting offensive and defensive cyber operations.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MetaMask warns Apple users over iCloud phishing attacks<a href="https://cointelegraph.com/news/metamask-warns-apple-users-over-icloud-phishing-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a Twitter thread posted on Monday, MetaMask noted that users run the risk of losing their funds if their Apple password “isn’t strong enough” and an attacker is able to phish their account credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Coin Telegraph
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lakeview Loan Servicing Suffered Data Breach Affecting 2.5 Million Users<a href="https://www.nationalmortgagenews.com/news/mortgage-servicer-reveals-data-breach-affecting-2-5-million-users?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company, which claims it is the nation’s fourth-largest servicer, said in public notices the breach impacted 2,537,261 borrowers between October 27, 2021, and December 7, 2021, and was identified in early December.
+</details>
+<div style="text-align: right" markdown="1">
+National Mortgage News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hacking Campaign Targeting Ukrainian Government with IcedID Malware<a href="https://thehackernews.com/2022/04/new-hacking-campaign-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new wave of social engineering campaigns delivering IcedID malware and leveraging Zimbra exploits with the goal of stealing sensitive information.  Attributing the IcedID phishing attacks to a threat cluster named UAC-0041, the agency  said  the infection sequence begins with an email containing a Microsoft Excel document (Мобілізаційний реєстр.xls or Mobilization Register.xls) that, when opened, prompts the users to enable macros, leading to the deployment of IcedID.   The  information-stealing malware , also known as BokBot, has followed a similar trajectory to that of TrickBot, Emotet, and ZLoader, evolving from its earlier roots as a banking trojan to a full-fledged crimeware service that facilities the retrieval of next-stage implants such as ransomware.   The  second set of targeted intrusions  relate to a new threat group dubbed UAC-0097, with the email including a number of image attachments with a  Cont
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaw Reported in WordPress Elementor Website Builder Plugin<a href="https://thehackernews.com/2022/04/critical-rce-flaw-reported-in-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elementor, a WordPress website builder plugin with over five million active installations, has been found to be vulnerable to an authenticated remote code execution flaw that could be abused to take over affected websites.  Plugin Vulnerabilities, which  disclosed  the flaw last week, said the bug was introduced in version 3.6.0 that was released on March 22, 2022. Roughly  37% of users  of the plugin are on version 3.6.x.   "That means that malicious code provided by the attacker can be run by the website," the researchers said. "In this instance, it is possible that the vulnerability might be exploitable by someone not logged in to WordPress, but it can easily be exploited by anyone logged in to WordPress who has access to the WordPress admin dashboard."  In a nutshell, the issue relates to a case of arbitrary file upload to affected websites, potentially leading to code execution.   The bug has been addressed in the latest version of Elementor, with Patchstack
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enemybot, a new DDoS botnet appears in the threat landscape<a href="https://securityaffairs.co/wordpress/130291/cyber-crime/enemybot-botnet-ddos.html"> Full Text</a>
@@ -54,7 +487,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2022
+April 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stolen OAuth tokens used to download data from dozens of organizations, GitHub warns<a href="https://securityaffairs.co/wordpress/130279/hacking/github-warns-stolen-oauth-tokens-access-data.html"> Full Text</a>
@@ -74,7 +507,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2022
+April 17, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 361 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/130275/breaking-news/security-affairs-newsletter-round-361-by-pierluigi-paganini.html"> Full Text</a>
@@ -94,7 +527,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2022
+April 16, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Industrial Spy stolen data market promoted through cracks, adware<a href="https://www.bleepingcomputer.com/news/security/new-industrial-spy-stolen-data-market-promoted-through-cracks-adware/"> Full Text</a>
@@ -110,7 +543,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2022
+April 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newman Regional Health notifies 52,224 patients after long-running breach of employee email accounts<a href="https://www.databreaches.net/newman-regional-health-notifies-52224-patients-after-long-running-breach-of-employee-email-accounts/?&web_view=true"> Full Text</a>
@@ -126,7 +559,7 @@ Data Breaches
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2022
+April 16, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group Behind $540 Million Axie Infinity Crypto Hack and Attacks on Chemical Sector<a href="https://thehackernews.com/2022/04/lazarus-hackers-behind-540-million-axie.html"> Full Text</a>
@@ -142,7 +575,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2022
+April 16, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub suspends accounts of Russian devs at sanctioned companies<a href="https://www.bleepingcomputer.com/news/security/github-suspends-accounts-of-russian-devs-at-sanctioned-companies/"> Full Text</a>
@@ -158,7 +591,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2022
+April 16, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Get Lifetime Access to This 60-Hour Java Programming Training Bundle @ 97% Discount<a href="https://thehackernews.com/2022/04/get-lifetime-access-to-this-60-hour.html"> Full Text</a>
@@ -174,7 +607,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2022
+April 16, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Gov believes North Korea-linked Lazarus APT is behind Ronin Validator cyber heist<a href="https://securityaffairs.co/wordpress/130260/apt/lazarus-ronin-validator-cyber-heist.html"> Full Text</a>
@@ -198,7 +631,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2022
+April 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The unceasing action of Anonymous against Russia<a href="https://securityaffairs.co/wordpress/130262/hacktivism/anonymous-targets-russian-entities.html"> Full Text</a>
@@ -218,7 +651,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2022
+April 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors target the Ukrainian gov with IcedID malware<a href="https://securityaffairs.co/wordpress/130250/cyber-warfare-2/icedid-against-ukraine-gov-agencies.html"> Full Text</a>
@@ -238,7 +671,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2022
+April 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Says Hackers Breached Dozens of Organizations Using Stolen OAuth Access Tokens<a href="https://thehackernews.com/2022/04/github-says-hackers-breach-dozens-of.html"> Full Text</a>
