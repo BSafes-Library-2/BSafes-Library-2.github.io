@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet botnet switches to 64-bit modules, increases activity<a href="https://www.bleepingcomputer.com/news/security/emotet-botnet-switches-to-64-bit-modules-increases-activity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet malware is having a burst in distribution and is likely to soon switch to new payloads that are currently detected by fewer antivirus engines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

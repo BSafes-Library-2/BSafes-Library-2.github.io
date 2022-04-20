@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds VMware, Chrome flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/130316/security/cisa-vmware-chrome-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA adds a VMware privilege escalation flaw and a Google Chrome type confusion issue to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) added a VMware privilege escalation flaw (CVE-2022-22960)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Cyber Command gives Congress $236M unfunded priorities wish list<a href="https://www.cyberscoop.com/cyber-command-unfunded-priorities-budget/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The wish list shared with Congress shows $236 million worth of unfunded priorities, including about $168 million to support its Cyber Mission Force, a group of 6,200 personnel charged with conducting offensive and defensive cyber operations.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

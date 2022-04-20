@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Real-time voice concealment algorithm blocks microphone spying<a href="https://www.bleepingcomputer.com/news/security/real-time-voice-concealment-algorithm-blocks-microphone-spying/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Columbia University researchers have developed a novel algorithm that can block rogue audio eavesdropping via microphones in smartphones, voice assistants, and IoTs in general.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

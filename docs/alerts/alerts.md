@@ -14,7 +14,19 @@ Updated: KNOWN EXPLOITED VULNERABILITIES CATALOG <a href="https://www.cisa.gov/k
 </p>
 <details>
   <summary>Abstract</summary>
-KNOWN EXPLOITED VULNERABILITIES CATALOG  
+KNOWN EXPLOITED VULNERABILITIES CATALOG
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2022 - CISA, FBI, Treasury
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TraderTraitor: North Korean State-Sponsored APT Targets Blockchain Companies <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-108a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), and the U.S. Treasury Department (Treasury) are issuing this joint Cybersecurity Advisory (CSA) to highlight the cyber threat associated with cryptocurrency thefts and tactics used by a North Korean state-sponsored advanced persistent threat (APT) group since at least 2020. This group is commonly tracked by the cybersecurity industry as Lazarus Group, APT38, BlueNoroff, and Stardust Chollima. For more information on North Korean state-sponsored malicious cyber activity, visit https://www.us-cert.cisa.gov/northkorea.
 </details>
 </div>
 

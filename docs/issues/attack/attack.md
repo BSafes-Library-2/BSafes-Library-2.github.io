@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacks Against DeFi Protocols Surge<a href="https://cyware.com/news/attacks-against-defi-protocols-surge-13e2d959"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last year, more than $3 billion worth of digital assets were stolen. In Q1 2022, over $1.3 billion has already been stolen, indicating that the path taken by cybercriminals is even more aggressive this year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover Spyware Attacks Against Catalan Politicians and Activists<a href="https://thehackernews.com/2022/04/experts-uncover-spyware-attacks-against.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown zero-click exploit in Apple's iMessage was used to install mercenary spyware from&nbsp; NSO Group &nbsp;and&nbsp; Candiru &nbsp;against at least 65 individuals as part of a "multi-year clandestine operation."  "Victims included Members of the European Parliament, Catalan Presidents, legislators, jurists, and members of civil society organizations," the University of Toronto's Citizen Lab&nbsp; said &nbsp;in a new report. "Family members were also infected in some cases."  Of the 65 individuals, 63 were targeted with Pegasus and four others were infected with Candiru, with iPhones belonging to at least two compromised with both. The incidents are said to have mostly occurred between 2017 and 2020.   The attacks involved the weaponization of an iOS exploit dubbed HOMAGE that made it possible to penetrate the devices running versions prior to iOS 13.2, which was released on October 28, 2019. It's worth noting that the latest version of iOS is iOS 15.4.1.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New IcedID Malware Campaign Targets Ukrainian Government<a href="https://cyware.com/news/new-icedid-malware-campaign-targets-ukrainian-government-07870d8e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The targeted intrusions are a part of hostile activities against the nation since the year started. As per CERT-UA, the country has suffered 362 cyberattacks since the invasion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

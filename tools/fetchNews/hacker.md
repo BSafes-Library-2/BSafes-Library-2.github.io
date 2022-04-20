@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Put the Pedal to the Medal: Podcast<a href="https://threatpost.com/cyberattackers-speed-fortinet-podcast/179294/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet’s Derek Manky discusses the exponential increase in the speed that attackers weaponize fresh vulnerabilities, where botnets and offensive automation fit in, and the ramifications for security teams. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

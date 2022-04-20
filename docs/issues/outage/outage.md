@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WH Smith Subsidiary Funky Pigeon Halts All Customer Orders After Security Incident<a href="https://www.theregister.com/2022/04/19/funky_pigeon_security_incident/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+London Stock Exchange-listed WH Smith issued a statement to the market admitting Funky Pigeon was "subject to a cyber security incident affecting part of its systems on Thursday 14 April 2022."
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

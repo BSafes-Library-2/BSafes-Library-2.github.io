@@ -8,6 +8,38 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSO Group Pegasus spyware leverages new zero-click iPhone exploit in recent attacks<a href="https://securityaffairs.co/wordpress/130360/malware/nso-group-pegasus-click-iphone-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported that threat actors leveraged a new zero-click iMessage exploit to install NSO Group Pegasus on iPhones&nbsp;belonging to Catalans.
+
+
+
+Researchers from Citizen Lab have published a report detailing the use of a new zero-click iMessage...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watchdog warned UK government of spyware infections inside 10 Downing Street<a href="https://www.reuters.com/world/uk/watchdog-warned-uk-government-spyware-infections-inside-10-downing-street-2022-04-18/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"We confirm that in 2020 and 2021 we observed and notified the government of the United Kingdom of multiple suspected instances of Pegasus spyware infections within official UK networks," Citizen Lab said in a blog post.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

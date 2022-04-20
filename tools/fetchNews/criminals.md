@@ -8,6 +8,81 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti's Extended Connections with Karakurt Revealed<a href="https://cyware.com/news/contis-extended-connections-with-karakurt-revealed-c3d9363c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers were able to gain access to an internal Conti VPS server, with the credentials of a user, allegedly the leader of the cybercrime enterprise. This resulted in several revelations about its connection with other groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Share In-Depth Analysis of PYSA Ransomware Group<a href="https://thehackernews.com/2022/04/researchers-share-in-depth-analysis-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An 18-month-long analysis of the PYSA ransomware operation has revealed that the cybercrime cartel followed a five-stage software development cycle from August 2020, with the malware authors prioritizing features to improve the efficiency of its workflows.  This included a user-friendly tool like a full-text search engine to facilitate the extraction of metadata and enable the threat actors to find and access victim information quickly.  "The group is known to carefully research high-value targets before launching its attacks, compromising enterprise systems and forcing organizations to pay large ransoms to restore their data," Swiss cybersecurity company PRODAFT&nbsp; said &nbsp;in an exhaustive report published last week.  PYSA, short for "Protect Your System, Amigo" and a successor of the Mespinoza ransomware, was first observed in December 2019 and has emerged as the third most prevalent ransomware strain detected during the fourth quarter of 2021.  Since September 2020,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted Industrial Spy, a new stolen data marketplace<a href="https://securityaffairs.co/wordpress/130323/cyber-crime/industrial-spy-marketplace.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new marketplace named Industrial Spy that focuses on the sale of stolen data appeared in the threat landscape. 
+
+
+
+Malware HunterTeam and Bleeping Computer reported the born of a new marketplace called Industrial Spy that sells stolen data and offers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Eyes Chemical Sector in South Korea<a href="https://cyware.com/news/lazarus-eyes-chemical-sector-in-south-korea-f26c757a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lazarus, the North Korea-linked APT group, is targeting organizations operating in the chemical sector in South Korea. The campaign seems to be a continuation of Operation Dream Job spotted in August 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ZLoader C2 Servers Disrupted in Global Operation<a href="https://cyware.com/news/zloader-c2-servers-disrupted-in-global-operation-8763d42f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft dismantled ZLoader networks, seizing 65 domains as its C2 servers and 319 additional domains registered using the domain generation algorithm. The botnet is used to target banks worldwide, including Brazil, Australia, and North America, to harvest financial data. It’s critical that privat ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

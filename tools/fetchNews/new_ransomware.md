@@ -8,6 +8,52 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaspersky releases a free decryptor for Yanluowang ransomware<a href="https://securityaffairs.co/wordpress/130369/malware/yanluowang-ransomware-free-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky discovered a flaw in the encryption process of the Yanluowang ransomware that allows victims to recover their files for free.
+
+
+
+Researchers from Kaspersky discovered a vulnerability in the encryption process of the Yanluowang ransomware that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Night Sky: A Short-Lived Threat from a Long-Lived Threat Actor<a href="https://www.forescout.com/blog/night-sky-a-short-lived-threat-from-a-long-lived-threat-actor/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Night Sky was discovered to be a fork of a ransomware family called Rook, which was itself derived from the leaked source code of Babuk and deployed by the same threat actor that used LockFile and AtomSilo, which share the same decryption tool.
+</details>
+<div style="text-align: right" markdown="1">
+Forescout
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware's Toll on the Healthcare Industry – Krebs on Security<a href="https://krebsonsecurity.com/2022/04/contis-ransomware-toll-on-the-healthcare-industry/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to recently revealed information, Conti has launched more than 200 attacks against hospitals and other healthcare facilities since first surfacing in 2018 under its earlier name, “Ryuk.”
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

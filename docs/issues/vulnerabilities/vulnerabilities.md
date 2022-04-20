@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Lenovo UEFI Firmware Vulnerabilities Affect Millions of Laptops<a href="https://thehackernews.com/2022/04/new-lenovo-uefi-firmware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three high-impact Unified Extensible Firmware Interface (UEFI) security vulnerabilities have been discovered impacting various Lenovo consumer laptop models, enabling malicious actors to deploy and execute firmware implants on the affected devices.  Tracked as CVE-2021-3970, CVE-2021-3971, and CVE-2021-3972, the latter two "affect firmware drivers originally meant to be used only during the manufacturing process of Lenovo consumer notebooks," ESET researcher Martin Smolár&nbsp; said &nbsp;in a report published today.   "Unfortunately, they were mistakenly included also in the production BIOS images without being properly deactivated," Smolár added.  Successful exploitation of the flaws could permit an attacker to disable SPI flash protections or Secure Boot, effectively granting the adversary the ability to install persistent malware that can survive system reboots.   CVE-2021-3970, on the other hand, relates to a case of memory corruption in the System Management Mode ( SMM
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESET warns of three flaws that affect over 100 Lenovo notebook models<a href="https://securityaffairs.co/wordpress/130375/security/lenovo-uefi-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lenovo warns of vulnerabilities in its Unified Extensible Firmware Interface (UEFI) shipped with at least 100 notebook models.
+
+
+
+Lenovo has published a security advisory to warn customers of vulnerabilities that affect its Unified Extensible Firmware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP urges customers to disable UPnP port forwarding on routers<a href="https://www.bleepingcomputer.com/news/security/qnap-urges-customers-to-disable-upnp-port-forwarding-on-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese hardware vendor QNAP&nbsp;urged customers on Monday to disable&nbsp;Universal Plug and Play (UPnP) port forwarding on their routers to prevent exposing their network-attached storage (NAS) devices&nbsp;to attacks from the Internet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disables SMB1 by default for Windows 11 Home Insiders<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-smb1-by-default-for-windows-11-home-insiders/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced today that the 30-year-old SMBv1 file-sharing protocol is now disabled by default on Windows systems running the latest Windows 11 Home Dev channel builds, the last editions of Windows or Windows Server that still came with SMBv1 enabled.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes Chrome zero day being used in exploits in the wild<a href="https://www.zdnet.com/article/google-fixes-chrome-zero-day-being-used-in-exploits-in-the-wild/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google hasn't revealed any details about it besides that it was a type confusion in Chrome's V8 JavaScript engine. "Google is aware that an exploit for CVE-2022-1364 exists in the wild," the company says.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lenovo UEFI firmware driver bugs affect over 100 laptop models<a href="https://www.bleepingcomputer.com/news/security/lenovo-uefi-firmware-driver-bugs-affect-over-100-laptop-models/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lenovo has published a security advisory on vulnerabilities that impact its Unified Extensible Firmware Interface (UEFI) loaded on at least 100 of its laptop models.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
