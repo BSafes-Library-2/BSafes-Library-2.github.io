@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Night Sky Ransomware's Ride From Dusk Till Dawn<a href="https://cyware.com/news/night-sky-ransomwares-ride-from-dusk-till-dawn-ae1e2f8e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report by Vedere Labs provides several details about Night Sky, whose samples were first spotted in January during a short campaign that targeted two victims from Bangladesh and Japan.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

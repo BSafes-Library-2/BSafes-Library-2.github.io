@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ThreatLocker Scores $100M in Funding Led by General Atlantic, Zeroes in on $1B Unicorn Valuation<a href="https://www.crn.com/news/security/threatlocker-scores-100m-in-funding-led-by-general-atlantic-zeroes-in-on-1b-unicorn-valuation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ThreatLocker, which provides zero trust policy-driven security for endpoints, has scored $100 million in Series C funding led by private equity powerhouse and growth equity investor General Atlantic.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

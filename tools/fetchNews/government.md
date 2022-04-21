@@ -11,6 +11,20 @@ nav_order: 900075
 April 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI, U.S. Treasury and CISA Warn of North Korean Hackers Targeting Blockchain Companies<a href="https://thehackernews.com/2022/04/fbi-us-treasury-and-cisa-warns-of-north.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA), along with the Federal Bureau of Investigation (FBI) and the Treasury Department, warned of a new set of ongoing cyber attacks carried out by the Lazarus Group targeting blockchain companies.  Calling the activity cluster&nbsp; TraderTraitor , the infiltrations involve the North Korean state-sponsored advanced persistent threat (APT) actor striking entities operating in the Web3.0 industry since at least 2020.  Targeted organizations include cryptocurrency exchanges, decentralized finance (DeFi) protocols, play-to-earn cryptocurrency video games, cryptocurrency trading companies, venture capital funds investing in cryptocurrency, and individual holders of large amounts of cryptocurrency or valuable non-fungible tokens (NFTs).   The attack chains commence with the threat actor reaching out to victims via different communication platforms to lure them into downloading weaponized cryptocurrency apps for Windows and macOS, subse
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA adds VMware, Chrome flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/130316/security/cisa-vmware-chrome-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
 </p>
 <details>

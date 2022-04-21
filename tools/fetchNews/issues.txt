@@ -30,6 +30,8 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts: 
+. https://www.bleepingcomputer.com/news/security/fbi-warns-of-ransomware-attacks-targeting-us-agriculture-sector/
+, https://www.securityweek.com/fbi-warns-ransomware-attacks-farming-co-ops-during-planting-harvest-seasons?&web_view=true
  
 Law
 

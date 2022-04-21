@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protect Your Executives’ Cybersecurity Amidst Global Cyberwar<a href="https://threatpost.com/protect-executives-cybersecurity/179324/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this time of unprecedented cyberwar, organizations must protect the personal digital lives of their executives in order to reduce the company’s risk of direct or collateral damage. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to protect your ADFS from password spraying attacks<a href="https://www.bleepingcomputer.com/news/security/how-to-protect-your-adfs-from-password-spraying-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft recommends a multi-tiered approach for securing your ADFS environment from password attacks. Learn how Specops can fill in the gaps to add further protection against password sprays and other password attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

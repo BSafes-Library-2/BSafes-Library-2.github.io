@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub notifies owners of private repos stolen using OAuth tokens<a href="https://www.bleepingcomputer.com/news/security/github-notifies-owners-of-private-repos-stolen-using-oauth-tokens/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub&nbsp;says it notified all organizations believed to have had data stolen from their private repositories by attackers abusing compromised OAuth user tokens&nbsp;issued to Heroku and Travis-CI.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Notifies Victims Whose Private Data Was Accessed Using OAuth Tokens<a href="https://thehackernews.com/2022/04/github-notifies-victims-whose-private.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub on Monday noted that it had notified all victims of an attack campaign, which involved an unauthorized party downloading private repository contents by taking advantage of third-party OAuth user tokens maintained by Heroku and Travis CI.  "Customers should also continue to monitor Heroku and Travis CI for updates on their own investigations into the affected OAuth applications," the company&nbsp; said &nbsp;in an updated post.  The&nbsp; incident &nbsp;originally came to light on April 12 when GitHub uncovered signs that a malicious actor had leveraged the stolen OAuth user tokens issued to Heroku and Travis-CI to download data from dozens of organizations, including NPM.   The Microsoft-owned platform also said that it will alert customers promptly should the ongoing investigation identify additional victims. Additionally, it cautioned that the adversary may also be digging into the repositories for secrets that could be used in other attacks.  Heroku, which has pulled support for GitHu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beanstalk DeFi platform loses $182 million in flash-loan attack<a href="https://www.bleepingcomputer.com/news/security/beanstalk-defi-platform-loses-182-million-in-flash-loan-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decentralized, credit-based&nbsp;finance system Beanstalk disclosed on Sunday that it suffered a security breach that resulted in financial losses of&nbsp;$182 million, the attacker stealing $80 million in crypto assets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

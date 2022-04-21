@@ -8,6 +8,66 @@ nav_order: 900075
 
 ## Government
 ---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of ransomware attacks targeting US agriculture sector<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-ransomware-attacks-targeting-us-agriculture-sector/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Bureau of Investigation (FBI) warned Food and Agriculture (FA) sector organizations today of an increased risk&nbsp;that ransomware gangs "may be more likely" to attack&nbsp;them during the harvest and planting seasons.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Windows Print Spooler to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/130401/hacking/win-print-spooler-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Critical Infrastructure Security Agency (CISA) adds a Windows Print Spooler vulnerability to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) added the Windows Print Spooler, tracked as CVE-2022-22718,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and allies warn of Russian hacking threat to critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/us-and-allies-warn-of-russian-hacking-threat-to-critical-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, Five Eyes cybersecurity authorities warned critical infrastructure network defenders of an increased risk that Russia-backed hacking groups could target organizations within and outside Ukraine's borders.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Ransomware Attacks on Farming Co-ops During Planting, Harvest Seasons<a href="https://www.securityweek.com/fbi-warns-ransomware-attacks-farming-co-ops-during-planting-harvest-seasons?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While some of the incidents resulted in only administrative operations getting disrupted, others affected production. In some of the attacks reported in September and October 2021, the victim had to completely shut down production.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

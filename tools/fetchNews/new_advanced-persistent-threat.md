@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Gamaredon APT continues to target Ukraine<a href="https://securityaffairs.co/wordpress/130419/apt/gamaredon-targets-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked threat actor Gamaredon targets Ukraine with new variants of the&nbsp;custom&nbsp;Pterodo backdoor.
+
+
+
+Russia-linked Gamaredon APT group (a.k.a.&nbsp;Armageddon, Primitive Bear, and ACTINIUM) continues to target Ukraine and it is using new variants...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers hacked to deploy Hive ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-to-deploy-hive-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Hive ransomware affiliate&nbsp;has been targeting Microsoft Exchange servers vulnerable to ProxyShell&nbsp;security issues to deploy various backdoors, including Cobalt Strike beacon.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked other Russian organizations, some of the breaches could be severe<a href="https://securityaffairs.co/wordpress/130409/hacktivism/anonymous-hacked-other-russian-organizations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Anonymous collective and affiliate groups intensify their attacks and claimed to have breached multiple organizations.
+
+
+
+Anonymous and groups linked to the famous collective continues to target Russian organizations, the hacktivist are breaching...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta: Lapsus$ breach lasted only 25 minutes, hit 2 customers<a href="https://www.bleepingcomputer.com/news/security/okta-lapsus-breach-lasted-only-25-minutes-hit-2-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identity and access management firm Okta says an investigation into the January Lapsus$ breach concluded the incident's impact was significantly smaller than expected.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta Says Security Breach by Lapsus$ Hackers Impacted Only Two of Its Customers<a href="https://thehackernews.com/2022/04/okta-says-security-breach-by-lapsus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identity and access management provider Okta on Tuesday said it concluded its probe into the&nbsp; breach &nbsp;of a third-party vendor in late January 2022 by the LAPSUS$ extortionist gang.  Stating that the "impact of the incident was significantly less than the maximum potential impact" the company had previously shared last month, Okta&nbsp; said &nbsp;the intrusion impacted only two customer tenants, down from 366 as was initially assumed.   The&nbsp; security event &nbsp;took place on January 21 when the LAPSUS$ hacking group gained unauthorized remote access to a workstation belonging to a Sitel support engineer. But it only became public knowledge nearly two months later when the adversary&nbsp; posted &nbsp;screenshots of Okta's internal systems on their Telegram channel.  In addition to accessing two active customer tenants within the SuperUser application — which is used to perform basic management functions — the hacker group is said to have viewed limited additional information in other applicatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

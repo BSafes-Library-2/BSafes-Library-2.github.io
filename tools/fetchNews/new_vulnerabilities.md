@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Project Zero Detects a Record Number of Zero-Day Exploits in 2021<a href="https://thehackernews.com/2022/04/google-project-zero-detects-record.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero called 2021 a "record year for in-the-wild 0-days," as&nbsp; 58 security vulnerabilities &nbsp;were detected and disclosed during the course of the year.  The development marks more than a two-fold jump from the previous maximum when 28 0-day exploits were tracked in 2015. In contrast, only 25 0-day exploits were detected in 2020.  "The large uptick in in-the-wild 0-days in 2021 is due to increased detection and disclosure of these 0-days, rather than simply increased usage of 0-day exploits," Google Project Zero security researcher&nbsp; Maddie Stone &nbsp; said .   "Attackers are having success using the same bug patterns and exploitation techniques and going after the same attack surfaces," Stone added.  The tech giant's in-house security team characterized the exploits as similar to previous and publicly known vulnerabilities, with only two of them markedly different for the technical sophistication and use of logic bugs to escape the sandbox.   B
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Bug That Could Paralyze Snort Intrusion Detection System<a href="https://thehackernews.com/2022/04/researchers-detail-bug-that-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a now-patched security vulnerability in the Snort intrusion detection and prevention system that could trigger a denial-of-service (DoS) condition and render it powerless against malicious traffic.  Tracked as&nbsp; CVE-2022-20685 , the vulnerability is rated 7.5 for severity and resides in the Modbus preprocessor of the Snort detection engine. It affects all open-source Snort project releases earlier than 2.9.19 as well as version 3.1.11.0.  Maintained by Cisco,&nbsp; Snort &nbsp;is an open-source intrusion detection system (IDS) and intrusion prevention system (IPS) that offers real-time network traffic analysis to spot potential signs of malicious activity based on predefined rules.   "The vulnerability, CVE-2022-20685, is an integer-overflow issue that can cause the Snort Modbus OT preprocessor to enter an infinite&nbsp; while loop ," Uri Katz, a security researcher with Claroty,&nbsp; said &nbsp;in a report published last week. "A successful exploit keeps Snort from p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP users are recommended to disable UPnP port forwarding on routers<a href="https://securityaffairs.co/wordpress/130393/security/qnap-nas-disable-upnp-port-forwarding.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP urges customers to disable Universal Plug and Play (UPnP) port forwarding on their routers to secure their NAS devices.
+
+
+
+Taiwanese vendor QNAP urges customers to disable Universal Plug and Play (UPnP) port forwarding on their routers to protect...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender flags Google Chrome updates as suspicious<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-google-chrome-updates-as-suspicious/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Defender for Endpoint has been tagging Google Chrome updates delivered via Google Update as suspicious activity due to&nbsp;a false positive issue.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Web Services fixes container escape in Log4Shell hotfix<a href="https://www.bleepingcomputer.com/news/security/amazon-web-services-fixes-container-escape-in-log4shell-hotfix/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services (AWS) has fixed four security issues in its hot patch from December that addressed the critical Log4Shell vulnerability (CVE-2021-44228) affecting cloud or on-premise environments running Java applications with a vulnerable version of the Log4j&nbsp;logging library&nbsp;or containers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Recently Reported Windows Print Spooler Vulnerability in the Wild<a href="https://thehackernews.com/2022/04/hackers-exploiting-recently-reported.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw in the Windows Print Spooler component that was patched by Microsoft in February is being actively exploited in the wild, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned .  To that end, the agency has added the shortcoming to its Known Exploited Vulnerabilities Catalog , requiring Federal Civilian Executive Branch (FCEB) agencies to address the issues by May 10, 2022.   Tracked as CVE-2022-22718  (CVSS score: 7.8), the security vulnerability is one among the four privilege escalation flaws in the Print Spooler that Microsoft resolved as part of its Patch Tuesday updates  on February 8, 2022.  It's worth noting that the Redmond-based tech giant has remediated a number  of Print Spooler flaws since the critical PrintNightmare  remote code execution vulnerability came to light last year, including 15 elevation of privilege vulnerabilities  in April 2022.  Specifics about the nature of the attacks and the identity of the threat actors that m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

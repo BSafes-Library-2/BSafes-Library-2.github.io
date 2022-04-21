@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LinkedIn brand takes lead as most impersonated in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/linkedin-brand-takes-lead-as-most-impersonated-in-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are warning that LinkedIn has become the most spoofed brand in phishing attacks, accounting for more than 52% of all such incidents at a global level.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

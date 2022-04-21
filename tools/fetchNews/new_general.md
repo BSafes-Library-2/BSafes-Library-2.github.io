@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber innovation is the need of the hour to help organizations adopt new security technologies<a href="https://cio.eletsonline.com/interviews/cyber-innovation-is-the-need-of-the-hour-to-help-organizations-adopt-new-security-technologies-akshat-jain-cto-co-founder-cyware/69053/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By leveraging automation technologies, security teams can facilitate the coordination and execution of different security processes among different security functions and across their technology stack.
+</details>
+<div style="text-align: right" markdown="1">
+Banking and Finance Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

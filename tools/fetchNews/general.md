@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of attackers now exploiting Windows Print Spooler bug<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-attackers-now-exploiting-windows-print-spooler-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has added&nbsp;three&nbsp;new security flaws to its list of actively exploited bugs, including a local privilege escalation bug in the Windows Print Spooler.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Banking, Crypto, and Other Scams Muddy the Cyberspace<a href="https://cyware.com/news/banking-crypto-and-other-scams-muddy-the-cyberspace-1e2c5418"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2021, approximately 20,000 people fell victim to RAT scams, as per a report by the U.K's Action Fraud. Collectively, they lost $75 million. The U.S. lost around $2.4 billion to BEC scams in 2021, a 33% increase from 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

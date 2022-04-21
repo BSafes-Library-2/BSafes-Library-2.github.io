@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian state hackers hit Ukraine with new malware variants<a href="https://www.bleepingcomputer.com/news/security/russian-state-hackers-hit-ukraine-with-new-malware-variants/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts report the activity of the Russian state-sponsored threat group known as Gamaredon (Armageddon, Shuckworm), is still notably active in Ukrainian computer networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shuckworm Espionage Group Continues Pterodo Backdoor Campaign Against Ukraine<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/shuckworm-intense-campaign-ukraine?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked Shuckworm (aka Gamaredon) group is continually refining its malware and often deploying multiple payloads to maximize the chances of maintaining a persistent presence on targeted networks.
+</details>
+<div style="text-align: right" markdown="1">
+Symantec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
