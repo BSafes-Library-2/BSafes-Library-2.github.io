@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out for Ukraine donation scammers in Twitter replies<a href="https://blog.malwarebytes.com/social-engineering/2022/04/watch-out-for-ukraine-donation-scammers-in-twitter-replies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The invasion of Ukraine has been a money-making opportunity for scammers since the moment it began: Fake donation sites, bogus Red Cross portals, phishing pages, the works.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

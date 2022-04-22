@@ -19,6 +19,18 @@ The Federal Bureau of Investigation (FBI) is informing Food and Agriculture (FA)
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2022 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat/ALPHV Ransomware Indicators of Compromise <a href="https://publications.bsafes.com/docs/fbi/flash-2022-0419-blackcat-alphv-ransomware-indicators-of-compromise/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This FLASH is part of a series of FBI reports to disseminate known indicators of compromise (IOCs) and tactics, techniques and procedures (TTPs) associated with ransomware variants identified through FBI investigations. As of March 2022, BlackCat/ALPHV ransomware as a service (RaaS) had compromised at least 60 entities worldwide and is the first ransomware group to do so successfully using RUST, considered to be a more secure programming language that offers improved performance and reliable concurrent processing.   
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 19, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

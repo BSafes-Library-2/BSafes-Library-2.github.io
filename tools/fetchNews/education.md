@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] The Ultimate Security for Management Presentation Template<a href="https://thehackernews.com/2022/04/ebook-ultimate-security-for-management.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Are you a CISO, CIO, or IT Director?  In your role, you're responsible for breach protection – which means you oversee and govern the process of designing, building, maintaining, and continuously enhancing your organization's security program.&nbsp;  But getting buy-in from leadership can be difficult when they are a non-technical audience.  On top of managing your organization's breach protection activity 24/7, you have to find time to figure out how to effectively articulate the risks, potential impacts, and appropriate steps necessary in a way that will convince leadership to invest in the resources required to keep your organization safe.  Compounding this is the fact that, while you are focused on things like malware, exploits, and network traffic – your leadership is primarily concerned with operational loss and calculated risk.&nbsp;  How do you bridge the gap and help leadership understand your priorities and your team's business impact?  You must identify the security i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why you shouldn’t&nbsp;automate your VirusTotal uploads<a href="https://blog.malwarebytes.com/101/2022/04/why-you-shouldnt-automate-your-virustotal-uploads/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While there may be an occasional need to upload a file to VirusTotal, experts suggest not automating this procedure. Rather, only use it when you have no other methods of checking whether an attachment is safe to open.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

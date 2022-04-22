@@ -8,6 +8,172 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches Virtual Conference Software Vulnerability Reported by NSA<a href="https://www.securityweek.com/cisco-patches-virtual-conference-software-vulnerability-reported-nsa?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-20783 (CVSS score of 7.5), the NSA-reported flaw is a denial of service (DoS) issue in TelePresence Collaboration Endpoint (CE) and RoomOS software, which could be exploited remotely, without authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical bug in decoder used by popular chipsets exposes 2/3 of Android devices to hack<a href="https://securityaffairs.co/wordpress/130459/hacking/critical-bug-popular-chipsets-android-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical RCE flaw in Android devices running on Qualcomm and MediaTek chipsets could allow access to users' media files.
+
+
+
+Security researchers at Check Point Research have discovered a critical remote code execution that affects the implementation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Access Bypass, Data Overwrite Vulnerabilities Patched in Drupal<a href="https://www.securityweek.com/access-bypass-data-overwrite-vulnerabilities-patched-drupal?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first of the bugs fixed with the latest iterations of the open-source CMS is an access bypass issue that exists because of an improperly implemented generic entity access API for entity revisions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon's Hotpatch for Log4j Flaw Found Vulnerable to Privilege Escalation Bug<a href="https://thehackernews.com/2022/04/amazons-hotpatch-for-log4j-flaw-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The "hotpatch" released by Amazon Web Services (AWS) in response to the&nbsp; Log4Shell &nbsp;vulnerabilities could be leveraged for container escape and privilege escalation, allowing an attacker to seize control of the underlying host.  "Aside from containers, unprivileged processes can also exploit the patch to escalate privileges and gain root code execution," Palo Alto Networks Unit 42 researcher Yuval Avrahami&nbsp; said &nbsp;in a report published this week.   The issues —&nbsp; CVE-2021-3100 ,&nbsp; CVE-2021-3101 ,&nbsp; CVE-2022-0070 , and&nbsp; CVE-2022-0071 &nbsp;(CVSS scores: 8.8) — affect the&nbsp; hotfix solutions &nbsp;shipped by AWS, and stem from the fact that they are designed to search for Java processes and patch them against the Log4j flaw on the fly but without ensuring that the new Java processes are run within the restrictions imposed on the container.   "Any process running a binary named 'java' – inside or outside of a container – is considered a candidate for the hot patch,"
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP asks users to mitigate critical Apache HTTP Server bugs<a href="https://www.bleepingcomputer.com/news/security/qnap-asks-users-to-mitigate-critical-apache-http-server-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP has asked customers to apply mitigation measures to block attempts to exploit Apache HTTP Server security vulnerabilities impacting their network-attached storage (NAS) devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Bug in RainLoop Webmail Could Give Hackers Access to all Emails<a href="https://thehackernews.com/2022/04/unpatched-bug-in-rainloop-webmail-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unpatched high-severity security flaw has been disclosed in the open-source RainLoop web-based email client that could be weaponized to siphon emails from victims' inboxes.  "The code vulnerability [...] can be easily exploited by an attacker by sending a malicious email to a victim that uses RainLoop as a mail client," SonarSource security researcher Simon Scannell&nbsp; said &nbsp;in a report published this week.  "When the email is viewed by the victim, the attacker gains full control over the session of the victim and can steal any of their emails, including those that contain highly sensitive information such as passwords, documents, and password reset links."   Tracked as CVE-2022-29360, the flaw relates to a stored cross-site-scripting (XSS) vulnerability impacting the latest version of RainLoop ( v1.16.0 ) that was released on May 7, 2021.  Stored XSS flaws, also called persistent XSS, occur when a malicious script is injected directly into a target web applic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Static SSH host key in Cisco Umbrella allows stealing admin credentials<a href="https://securityaffairs.co/wordpress/130443/hacking/cisco-umbrella-default-ssh-key.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a high severity vulnerability in the Cisco Umbrella Virtual Appliance (VA) that could allow stealing admin credentials.
+
+
+
+Cisco addressed a high severity vulnerability in the Cisco Umbrella Virtual Appliance (VA), tracked as CVE-2022-20773,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical bug in Android could allow access to users' media files<a href="https://www.bleepingcomputer.com/news/security/critical-bug-in-android-could-allow-access-to-users-media-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have found that Android devices running on Qualcomm and MediaTek chipsets were vulnerable to remote code execution due to a flaw in the implementation of the Apple Lossless Audio Codec (ALAC).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Chipset Bugs Open Millions of Android Devices to Remote Spying<a href="https://thehackernews.com/2022/04/critical-chipset-bug-opens-millions-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three security vulnerabilities have been disclosed in the audio decoders of Qualcomm and MediaTek chips that, if left unresolved, could allow an adversary to remotely gain access to media and audio conversations from affected mobile devices.  According to Israeli cybersecurity company Check Point , the issues could be used as a launchpad to carry out remote code execution (RCE) attacks simply by sending a specially crafted audio file.  "The impact of an RCE vulnerability can range from malware execution to an attacker gaining control over a user's multimedia data, including streaming from a compromised machine's camera," the researchers said in a report shared with The Hacker News.  "In addition, an unprivileged Android app could use these vulnerabilities to escalate its privileges and gain access to media data and user conversations."   The vulnerabilities are rooted in an audio coding format originally developed and open-sourced by Apple in 2011. Called t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-20685 flaw in the Modbus preprocessor of the Snort makes it unusable<a href="https://securityaffairs.co/wordpress/130436/security/snort-bug-makes-it-unusable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2022-20685 flaw in the Modbus preprocessor of the Snort detection engine could trigger a DoS condition and make it ineffective against malicious traffic.
+
+
+
+Snort&nbsp;is a&nbsp;free&nbsp;open source&nbsp;network intrusion detection system (IDS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Umbrella default SSH key allows theft of admin credentials<a href="https://www.bleepingcomputer.com/news/security/cisco-umbrella-default-ssh-key-allows-theft-of-admin-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released security updates to address a high severity vulnerability in the Cisco Umbrella Virtual Appliance (VA), allowing unauthenticated attackers to steal admin credentials remotely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

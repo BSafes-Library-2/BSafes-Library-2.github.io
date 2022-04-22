@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Docker servers hacked in ongoing cryptomining malware campaign<a href="https://www.bleepingcomputer.com/news/security/docker-servers-hacked-in-ongoing-cryptomining-malware-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Docker APIs on Linux servers are being targeted by a large-scale Monero crypto-mining campaign from the operators of the Lemon_Duck botnet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub restores popular Python repo hit by bogus DMCA takedown<a href="https://www.bleepingcomputer.com/news/security/github-restores-popular-python-repo-hit-by-bogus-dmca-takedown/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yesterday, following a DMCA complaint, GitHub took down a repository that hosts the&nbsp;official SymPy project documentation website. It turns out the DMCA notice filed by HackerRank's representatives was sent out in error and generated much backlash from the open source community.&nbsp;The DMCA notice has since been rescinded.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

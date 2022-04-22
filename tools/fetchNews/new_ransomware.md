@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Incident Report Reveals How Hive Ransomware Targets Organizations<a href="https://thehackernews.com/2022/04/new-incident-report-reveals-how-hive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent Hive ransomware attack carried out by an affiliate involved the exploitation of "ProxyShell" vulnerabilities in the Microsoft Exchange Server that were disclosed last year to encrypt an unnamed customer's network.  "The actor managed to achieve its malicious goals and encrypt the environment in less than 72 hours from the initial compromise," Varonis security researcher, Nadav Ovadia,&nbsp; said &nbsp;in a post-mortem analysis of the incident.&nbsp;  Hive, which was&nbsp; first observed &nbsp;in June 2021, follows the lucrative ransomware-as-a-service (RaaS) scheme adopted by other cybercriminal groups in recent years, enabling affiliates to deploy the file-encrypting malware after gaining a foothold into their victims' networks.   ProxyShell &nbsp;— tracked as CVE-2021-31207, CVE-2021-34523, and CVE-2021-34473 — involves a combination of security feature bypass, privilege escalation, and remote code execution in the Microsoft Exchange Server, effectively granting the attacker
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

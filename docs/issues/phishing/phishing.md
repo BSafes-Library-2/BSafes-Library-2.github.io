@@ -8,6 +8,24 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Deliver IRS Tax Scams &amp; Phishing Campaigns By Mimicking Government Vendors<a href="https://securityaffairs.co/wordpress/130451/cyber-crime/cybercriminals-deliver-irs-tax-scams-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat intelligence firm Resecurity details how crooks are delivering IRS tax scams and phishing attacks posing as government vendors.
+
+
+
+Cybercriminals are leveraging advanced tactics in their phishing-kits granting them a high delivery success rate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

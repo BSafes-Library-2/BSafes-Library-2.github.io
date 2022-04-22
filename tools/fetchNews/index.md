@@ -34,6 +34,442 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Docker servers hacked in ongoing cryptomining malware campaign<a href="https://www.bleepingcomputer.com/news/security/docker-servers-hacked-in-ongoing-cryptomining-malware-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Docker APIs on Linux servers are being targeted by a large-scale Monero crypto-mining campaign from the operators of the Lemon_Duck botnet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches Virtual Conference Software Vulnerability Reported by NSA<a href="https://www.securityweek.com/cisco-patches-virtual-conference-software-vulnerability-reported-nsa?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-20783 (CVSS score of 7.5), the NSA-reported flaw is a denial of service (DoS) issue in TelePresence Collaboration Endpoint (CE) and RoomOS software, which could be exploited remotely, without authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Sneak 'More_Eggs' Malware Into Resumes Sent to Corporate Hiring Managers<a href="https://thehackernews.com/2022/04/hackers-sneak-moreeggs-malware-into.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new set of phishing attacks delivering the more_eggs  malware has been observed striking corporate hiring managers with bogus resumes as an infection vector, a year after potential candidates looking for work on LinkedIn were lured with weaponized job offers .  "This year the more_eggs operation has flipped the social engineering script, targeting hiring managers with fake resumes instead of targeting jobseekers with fake job offers," eSentire's research and reporting lead, Keegan Keplinger, said in a statement .   The Canadian cybersecurity company said it identified and disrupted four separate security incidents, three of which occurred at the end of March. Targeted entities include a U.S.-based aerospace company, an accounting business located in the U.K., a law firm, and a staffing agency, both based out of Canada.  The malware, suspected to be the handiwork of a threat actor called Golden Chickens (aka Venom Spider ), is a stealthy, modular backdoor suite capable
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical bug in decoder used by popular chipsets exposes 2/3 of Android devices to hack<a href="https://securityaffairs.co/wordpress/130459/hacking/critical-bug-popular-chipsets-android-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical RCE flaw in Android devices running on Qualcomm and MediaTek chipsets could allow access to users' media files.
+
+
+
+Security researchers at Check Point Research have discovered a critical remote code execution that affects the implementation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers earn $400K for zero-day ICS exploits demoed at Pwn2Own<a href="https://www.bleepingcomputer.com/news/security/hackers-earn-400k-for-zero-day-ics-exploits-demoed-at-pwn2own/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pwn2Own Miami 2022 has ended with competitors earning $400,000 for 26 zero-day exploits (and several bug collisions) targeting ICS and SCADA products demoed during the contest between April 19 and April 21.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Access Bypass, Data Overwrite Vulnerabilities Patched in Drupal<a href="https://www.securityweek.com/access-bypass-data-overwrite-vulnerabilities-patched-drupal?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first of the bugs fixed with the latest iterations of the open-source CMS is an access bypass issue that exists because of an improperly implemented generic entity access API for entity revisions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon's Hotpatch for Log4j Flaw Found Vulnerable to Privilege Escalation Bug<a href="https://thehackernews.com/2022/04/amazons-hotpatch-for-log4j-flaw-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The "hotpatch" released by Amazon Web Services (AWS) in response to the  Log4Shell  vulnerabilities could be leveraged for container escape and privilege escalation, allowing an attacker to seize control of the underlying host.  "Aside from containers, unprivileged processes can also exploit the patch to escalate privileges and gain root code execution," Palo Alto Networks Unit 42 researcher Yuval Avrahami  said  in a report published this week.   The issues —  CVE-2021-3100 ,  CVE-2021-3101 ,  CVE-2022-0070 , and  CVE-2022-0071  (CVSS scores: 8.8) — affect the  hotfix solutions  shipped by AWS, and stem from the fact that they are designed to search for Java processes and patch them against the Log4j flaw on the fly but without ensuring that the new Java processes are run within the restrictions imposed on the container.   "Any process running a binary named 'java' – inside or outside of a container – is considered a candidate for the hot patch,"
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Deliver IRS Tax Scams & Phishing Campaigns By Mimicking Government Vendors<a href="https://securityaffairs.co/wordpress/130451/cyber-crime/cybercriminals-deliver-irs-tax-scams-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat intelligence firm Resecurity details how crooks are delivering IRS tax scams and phishing attacks posing as government vendors.
+
+
+
+Cybercriminals are leveraging advanced tactics in their phishing-kits granting them a high delivery success rate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP asks users to mitigate critical Apache HTTP Server bugs<a href="https://www.bleepingcomputer.com/news/security/qnap-asks-users-to-mitigate-critical-apache-http-server-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP has asked customers to apply mitigation measures to block attempts to exploit Apache HTTP Server security vulnerabilities impacting their network-attached storage (NAS) devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Deliver IRS Tax Scams & Phishing Campaigns By Mimicking Government Vendors<a href="https://securityaffairs.co/wordpress/130451/cyber-crime/cybercriminals-deliver-irs-tax-scams-phishing.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals purposely choose specific times when all of us are busy with taxes, and preparing for holidays (e.g., Easter), that’s why you need to be especially careful during these times.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Bug in RainLoop Webmail Could Give Hackers Access to all Emails<a href="https://thehackernews.com/2022/04/unpatched-bug-in-rainloop-webmail-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unpatched high-severity security flaw has been disclosed in the open-source RainLoop web-based email client that could be weaponized to siphon emails from victims' inboxes.  "The code vulnerability [...] can be easily exploited by an attacker by sending a malicious email to a victim that uses RainLoop as a mail client," SonarSource security researcher Simon Scannell  said  in a report published this week.  "When the email is viewed by the victim, the attacker gains full control over the session of the victim and can steal any of their emails, including those that contain highly sensitive information such as passwords, documents, and password reset links."   Tracked as CVE-2022-29360, the flaw relates to a stored cross-site-scripting (XSS) vulnerability impacting the latest version of RainLoop ( v1.16.0 ) that was released on May 7, 2021.  Stored XSS flaws, also called persistent XSS, occur when a malicious script is injected directly into a target web applic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Static SSH host key in Cisco Umbrella allows stealing admin credentials<a href="https://securityaffairs.co/wordpress/130443/hacking/cisco-umbrella-default-ssh-key.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a high severity vulnerability in the Cisco Umbrella Virtual Appliance (VA) that could allow stealing admin credentials.
+
+
+
+Cisco addressed a high severity vulnerability in the Cisco Umbrella Virtual Appliance (VA), tracked as CVE-2022-20773,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical bug in Android could allow access to users' media files<a href="https://www.bleepingcomputer.com/news/security/critical-bug-in-android-could-allow-access-to-users-media-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have found that Android devices running on Qualcomm and MediaTek chipsets were vulnerable to remote code execution due to a flaw in the implementation of the Apple Lossless Audio Codec (ALAC).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Ramps Up Cyber Defenses to Slow Surge in Attacks<a href="https://www.bloombergquint.com/onweb/ukraine-ramps-up-cyber-defenses-to-slow-surge-in-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine is now issuing physical security keys to as many government agencies as possible, said Oleksandr Potii, deputy chief of the State Service of Special Communication and Information Protection.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg Quint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Chipset Bugs Open Millions of Android Devices to Remote Spying<a href="https://thehackernews.com/2022/04/critical-chipset-bug-opens-millions-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three security vulnerabilities have been disclosed in the audio decoders of Qualcomm and MediaTek chips that, if left unresolved, could allow an adversary to remotely gain access to media and audio conversations from affected mobile devices.  According to Israeli cybersecurity company Check Point , the issues could be used as a launchpad to carry out remote code execution (RCE) attacks simply by sending a specially crafted audio file.  "The impact of an RCE vulnerability can range from malware execution to an attacker gaining control over a user's multimedia data, including streaming from a compromised machine's camera," the researchers said in a report shared with The Hacker News.  "In addition, an unprivileged Android app could use these vulnerabilities to escalate its privileges and gain access to media data and user conversations."   The vulnerabilities are rooted in an audio coding format originally developed and open-sourced by Apple in 2011. Called t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-20685 flaw in the Modbus preprocessor of the Snort makes it unusable<a href="https://securityaffairs.co/wordpress/130436/security/snort-bug-makes-it-unusable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2022-20685 flaw in the Modbus preprocessor of the Snort detection engine could trigger a DoS condition and make it ineffective against malicious traffic.
+
+
+
+Snort is a free open source network intrusion detection system (IDS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub restores popular Python repo hit by bogus DMCA takedown<a href="https://www.bleepingcomputer.com/news/security/github-restores-popular-python-repo-hit-by-bogus-dmca-takedown/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yesterday, following a DMCA complaint, GitHub took down a repository that hosts the official SymPy project documentation website. It turns out the DMCA notice filed by HackerRank's representatives was sent out in error and generated much backlash from the open source community. The DMCA notice has since been rescinded.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil's Tor Servers are Active Again<a href="https://cyware.com/news/revils-tor-servers-are-active-again-0f4b3c87"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil ransomware’s servers in the Tor network are active again after months of inactivity. At present, these servers are redirecting users to a new operation that is believed to have started in mid-December 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Incident Report Reveals How Hive Ransomware Targets Organizations<a href="https://thehackernews.com/2022/04/new-incident-report-reveals-how-hive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent Hive ransomware attack carried out by an affiliate involved the exploitation of "ProxyShell" vulnerabilities in the Microsoft Exchange Server that were disclosed last year to encrypt an unnamed customer's network.  "The actor managed to achieve its malicious goals and encrypt the environment in less than 72 hours from the initial compromise," Varonis security researcher, Nadav Ovadia,  said  in a post-mortem analysis of the incident.   Hive, which was  first observed  in June 2021, follows the lucrative ransomware-as-a-service (RaaS) scheme adopted by other cybercriminal groups in recent years, enabling affiliates to deploy the file-encrypting malware after gaining a foothold into their victims' networks.   ProxyShell  — tracked as CVE-2021-31207, CVE-2021-34523, and CVE-2021-34473 — involves a combination of security feature bypass, privilege escalation, and remote code execution in the Microsoft Exchange Server, effectively granting the attacker
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, Australia, Canada, New Zealand, and the UK warn of Russia-linked threat actors’ attacks<a href="https://securityaffairs.co/wordpress/130430/cyber-warfare-2/russia-threat-actors-cyber-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity agencies of the Five Eyes intelligence alliance warn of cyberattacks conducted by Russia-linked threat actors on critical infrastructure.
+
+
+
+Cybersecurity agencies of the Five Eyes intelligence alliance (United States, Australia, Canada,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Umbrella default SSH key allows theft of admin credentials<a href="https://www.bleepingcomputer.com/news/security/cisco-umbrella-default-ssh-key-allows-theft-of-admin-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released security updates to address a high severity vulnerability in the Cisco Umbrella Virtual Appliance (VA), allowing unauthenticated attackers to steal admin credentials remotely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Freely-Distributed Ginzo Stealer Malware Pilfers Browser Data, Discord Tokens, and Crypto Wallets<a href="https://www.gdatasoftware.com/blog/2022/03/ginzo-free-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ginzo stealer is obfuscated with ConfuserEx, resulting in error messages when trying to decompile the code. That is because the type initializer .cctor decrypts the actual code on the fly. It also initializes data required for string decryption.
+</details>
+<div style="text-align: right" markdown="1">
+G-Data Security Blog
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: BlackCat ransomware breached at least 60 entities worldwide<a href="https://www.bleepingcomputer.com/news/security/fbi-blackcat-ransomware-breached-at-least-60-entities-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) says the Black Cat ransomware gang, also known as ALPHV, has breached the networks of at least 60 organizations worldwide, between November 2021 and March 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: AUSTRAC outlines how to spot ransomware and detect abuse of digital currencies<a href="https://www.zdnet.com/article/austrac-outlines-how-to-spot-ransomware-and-detect-abuse-of-digital-currencies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australia's financial intelligence and regulatory body Austrac has released two financial crime guides to help businesses detect and prevent criminal abuse of digital currencies and ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breaches by the numbers: Why adapting to regional challenges is imperative<a href="https://www.zdnet.com/article/breaches-by-the-numbers-why-adapting-to-regional-challenges-is-imperative/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new Forrester survey, 63% of organizations were breached in the past year, 4% more than the year before. In the past 12 months, organizations faced an average of three breaches.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Eyes Nations Warn of Russian Cyber Attacks Against Critical Infrastructure<a href="https://thehackernews.com/2022/04/five-eyes-nations-warn-of-russian-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Five Eyes nations have released a  joint cybersecurity advisory  warning of increased  malicious attacks  from Russian state-sponsored actors and criminal groups targeting critical infrastructure organizations amidst the ongoing military siege on Ukraine.  "Evolving intelligence indicates that the Russian government is exploring options for potential cyberattacks," authorities from Australia, Canada, New Zealand, the U.K., and the U.S.  said .  "Russia's invasion of Ukraine could expose organizations both within and beyond the region to increased malicious cyber activity. This activity may occur as a response to the unprecedented economic costs imposed on Russia as well as material support provided by the United States and U.S. allies and partners."   The  advisory  follows  another alert  from the U.S. government cautioning of nation-state actors deploying specialized malware to maintain access to industrial control systems (ICS) and supervisory control an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 20, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

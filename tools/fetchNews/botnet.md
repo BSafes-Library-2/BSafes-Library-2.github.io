@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BotenaGo's New Avatar Targets Lilin DVR Devices<a href="https://cyware.com/news/botenagos-new-avatar-targets-lilin-dvr-devices-85088327"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In October 2021, the source code of BotenaGo was leaked, leading to the creation of newer variants based on the original. Since then, researchers have observed various variants of BotenaGo.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
