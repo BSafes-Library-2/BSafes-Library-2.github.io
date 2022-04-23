@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Deliver IRS Tax Scams &amp; Phishing Campaigns By Mimicking Government Vendors<a href="https://securityaffairs.co/wordpress/130451/cyber-crime/cybercriminals-deliver-irs-tax-scams-phishing.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals purposely choose specific times when all of us are busy with taxes, and preparing for holidays (e.g., Easter), that’s why you need to be especially careful during these times.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil's Tor Servers are Active Again<a href="https://cyware.com/news/revils-tor-servers-are-active-again-0f4b3c87"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil ransomware’s servers in the Tor network are active again after months of inactivity. At present, these servers are redirecting users to a new operation that is believed to have started in mid-December 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

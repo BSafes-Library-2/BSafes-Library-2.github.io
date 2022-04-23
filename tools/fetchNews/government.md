@@ -8,6 +8,80 @@ nav_order: 900075
 
 ## Government
 ---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Ramps Up Cyber Defenses to Slow Surge in Attacks<a href="https://www.bloombergquint.com/onweb/ukraine-ramps-up-cyber-defenses-to-slow-surge-in-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine is now issuing physical security keys to as many government agencies as possible, said Oleksandr Potii, deputy chief of the State Service of Special Communication and Information Protection.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg Quint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, Australia, Canada, New Zealand, and the UK warn of Russia-linked threat actors’ attacks<a href="https://securityaffairs.co/wordpress/130430/cyber-warfare-2/russia-threat-actors-cyber-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity agencies of the Five Eyes intelligence alliance warn of cyberattacks conducted by Russia-linked threat actors on critical infrastructure.
+
+
+
+Cybersecurity agencies of the Five Eyes intelligence alliance (United States, Australia, Canada,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: BlackCat ransomware breached at least 60 entities worldwide<a href="https://www.bleepingcomputer.com/news/security/fbi-blackcat-ransomware-breached-at-least-60-entities-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) says&nbsp;the Black Cat ransomware gang, also known as ALPHV,&nbsp;has breached the networks of at least 60 organizations worldwide, between November 2021 and March 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: AUSTRAC outlines how to spot ransomware and detect abuse of digital currencies<a href="https://www.zdnet.com/article/austrac-outlines-how-to-spot-ransomware-and-detect-abuse-of-digital-currencies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australia's financial intelligence and regulatory body Austrac has released two financial crime guides to help businesses detect and prevent criminal abuse of digital currencies and ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Eyes Nations Warn of Russian Cyber Attacks Against Critical Infrastructure<a href="https://thehackernews.com/2022/04/five-eyes-nations-warn-of-russian-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Five Eyes nations have released a&nbsp; joint cybersecurity advisory &nbsp;warning of increased&nbsp; malicious attacks &nbsp;from Russian state-sponsored actors and criminal groups targeting critical infrastructure organizations amidst the ongoing military siege on Ukraine.  "Evolving intelligence indicates that the Russian government is exploring options for potential cyberattacks," authorities from Australia, Canada, New Zealand, the U.K., and the U.S.&nbsp; said .  "Russia's invasion of Ukraine could expose organizations both within and beyond the region to increased malicious cyber activity. This activity may occur as a response to the unprecedented economic costs imposed on Russia as well as material support provided by the United States and U.S. allies and partners."   The&nbsp; advisory &nbsp;follows&nbsp; another alert &nbsp;from the U.S. government cautioning of nation-state actors deploying specialized malware to maintain access to industrial control systems (ICS) and supervisory control an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

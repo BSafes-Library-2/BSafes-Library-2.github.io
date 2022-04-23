@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile confirms Lapsus$ hackers breached internal systems <a href="https://www.bleepingcomputer.com/news/security/t-mobile-confirms-lapsus-hackers-breached-internal-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile has confirmed that the Lapsus$ extortion gang breached its network "several weeks ago"&nbsp;using stolen credentials and gained access to internal systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

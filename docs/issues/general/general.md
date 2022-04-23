@@ -8,6 +8,70 @@ nav_order: 900072
 
 ## General
 ---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financial Sector Faces Ransomware Attacks, Now More Than Ever<a href="https://cyware.com/news/financial-sector-faces-ransomware-attacks-now-more-than-ever-e570453b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new VMware report states that threat actors have moved from hacking wire transfers to targeting market data. Around 75% faced at least one ransomware attack, among which 63% paid the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Insurance and the Changing Global Risk Environment<a href="https://securityaffairs.co/wordpress/130497/security/cyber-insurance-global-riskenvironment.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When security fails, cyber insurance can become crucial for ensuring continuity.
+
+
+
+Cyber has changed everything around us - even the way we tackle geopolitical crisis and conflicts. WhenEinstein was asked what a war will look like in the future, he couldn't...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Miami hacking contest awarded $400,000 for 26 unique ICS exploits<a href="https://securityaffairs.co/wordpress/130474/hacking/pwn2own-miami-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Which hat hackers that participated in the Pwn2Own Miami 2022 hacking contest earned a total of $400,000 for their ICS exploits.
+
+
+
+The Pwn2Own Miami 2022 is a hacking contest organized by Trend Micro’s Zero Day Initiative (ZDI) that focuses on demonstrating...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Great Resignation meets the Great Exfiltration: How to securely offboard security personnel<a href="https://www.helpnetsecurity.com/2022/04/22/offboarding-security-personnel/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Considering the Great Exfiltration, it is vital for organizations to create and implement a robust data loss prevention (DLP) strategy during the offboarding process to prevent any destruction or loss of data.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

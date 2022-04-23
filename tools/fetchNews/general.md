@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breaches by the numbers: Why adapting to regional challenges is imperative<a href="https://www.zdnet.com/article/breaches-by-the-numbers-why-adapting-to-regional-challenges-is-imperative/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new Forrester survey, 63% of organizations were breached in the past year, 4% more than the year before. In the past 12 months, organizations faced an average of three breaches.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers earn $400K for zero-day ICS exploits demoed at Pwn2Own<a href="https://www.bleepingcomputer.com/news/security/hackers-earn-400k-for-zero-day-ics-exploits-demoed-at-pwn2own/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pwn2Own Miami 2022 has ended with competitors earning $400,000 for 26 zero-day exploits (and several bug collisions) targeting ICS and SCADA products demoed during the contest between April 19 and April 21.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

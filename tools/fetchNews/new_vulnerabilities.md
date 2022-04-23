@@ -8,6 +8,140 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Hack DHS' bug hunters find 122 security flaws in DHS systems<a href="https://www.bleepingcomputer.com/news/security/hack-dhs-bug-hunters-find-122-security-flaws-in-dhs-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) today revealed that bug bounty hunters enrolled in its 'Hack DHS' bug bounty program have found 122 security vulnerabilities in external DHS systems, 27 of them rated critical severity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Releases PoC for Recent Java Cryptographic Vulnerability<a href="https://thehackernews.com/2022/04/researcher-releases-poc-for-recent-java.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A proof-of-concept (PoC) code demonstrating a newly disclosed digital signature bypass vulnerability in Java has been shared online.&nbsp;  The&nbsp; high-severity flaw &nbsp;in question,&nbsp; CVE-2022-21449 &nbsp;(CVSS score: 7.5), impacts the following version of Java SE and Oracle GraalVM Enterprise Edition -   Oracle Java SE: 7u331, 8u321, 11.0.14, 17.0.2, 18  Oracle GraalVM Enterprise Edition: 20.3.5, 21.3.1, 22.0.0.2   The issue resides in Java's implementation of the Elliptic Curve Digital Signature Algorithm ( ECDSA ), a&nbsp; cryptographic mechanism &nbsp;to&nbsp; digitally sign &nbsp;messages and data for verifying the authenticity and the integrity of the contents.   In a nutshell, the cryptographic blunder — dubbed Psychic Signatures in Java — makes it possible to present a totally blank signature, which would still be perceived as valid by the vulnerable implementation.   Successful exploitation of the flaw could permit an attacker to forge signatures and bypass authentication measures put in place.  The PoC, p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Advises Users to Update NAS Firmware to Patch Apache HTTP Vulnerabilities<a href="https://thehackernews.com/2022/04/qnap-advises-users-to-update-nas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network-attached storage (NAS) appliance maker QNAP on Thursday said it's investigating its lineup for potential impact arising from two security vulnerabilities that were addressed in the Apache HTTP server last month.  The critical flaws, tracked as&nbsp; CVE-2022-22721 and CVE-2022-23943 , are rated 9.8 for severity on the CVSS scoring system and impact Apache HTTP Server versions 2.4.52 and earlier -   CVE-2022-22721 &nbsp;- Possible buffer overflow with very large or unlimited LimitXMLRequestBody  CVE-2022-23943 &nbsp;- Out-of-bounds Write vulnerability in mod_sed of Apache HTTP Server   Both the vulnerabilities, alongside CVE-2022-22719 and CVE-2022-22720, were remediated by the project maintainers as part of&nbsp; version 2.4.53 , which was shipped on March 14, 2022.   "While CVE-2022-22719 and CVE-2022-22720 do not affect QNAP products, CVE-2022-22721 affects 32-bit QNAP NAS models, and CVE-2022-23943 affects users who have enabled mod_sed in Apache HTTP Server on their QNAP device,"
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A stored XSS flaw in RainLoop allows stealing users’ emails<a href="https://securityaffairs.co/wordpress/130488/hacking/unpatched-xss-rainloop.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts disclose an unpatched vulnerability in the RainLoop webmail client, tracked as CVE-2022-29360, that can be exploited to steal users' emails.
+
+
+
+RainLoop is an open-source web-based email client used by thousands of organizations, which is affected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Critical Vulnerabilities Affect SmartPPT, SmartICS Industrial Products<a href="https://www.securityweek.com/several-critical-vulnerabilities-affect-smartppt-smartics-industrial-products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has discovered several vulnerabilities, including ones rated critical- and high-severity, in industrial products made by Elcomplus, a Russian company specializing in professional radio communications and industrial automation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP firmware updates fix Apache HTTP vulnerabilities in its NAS<a href="https://securityaffairs.co/wordpress/130481/hacking/qnap-nas-firmware-fix-apache-http-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP warns users to update their NAS Firmware to fix Apache HTTP flaws addressed in the Apache HTTP server last month.
+
+
+
+Taiwanese vendor QNAP warns users to update their NAS Firmware to address Apache HTTP vulnerabilities, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian fixes critical Jira authentication bypass vulnerability<a href="https://www.bleepingcomputer.com/news/security/atlassian-fixes-critical-jira-authentication-bypass-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has published a security advisory to alert that its Jira and Jira Service Management products are affected by a critical authentication bypass vulnerability in Seraph, the company's&nbsp;web application security framework.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 KB5012636 cumulative update fixes freezing issues<a href="https://www.bleepingcomputer.com/news/security/windows-10-kb5012636-cumulative-update-fixes-freezing-issues/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released the optional KB5012636 cumulative update preview for Windows 10 1809 and Windows Server 2019, with fixes for system freezing issues affecting client and server systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Releases Security Patches for TelePresence, RoomOS and Umbrella VA<a href="https://thehackernews.com/2022/04/cisco-releases-security-patches-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment maker Cisco has released security updates to address three high-severity vulnerabilities in its products that could be exploited to cause a denial-of-service (DoS) condition and take control of affected systems.  The first of the three flaws,&nbsp; CVE-2022-20783 &nbsp;(CVSS score: 7.5), affects Cisco TelePresence Collaboration Endpoint (CE) Software and Cisco RoomOS Software, and stems from a lack of proper input validation, allowing an unauthenticated, remote attacker to send specially crafted traffic to the devices.   "A successful exploit could allow the attacker to cause the affected device to either reboot normally or reboot into maintenance mode, which could result in a DoS condition on the device," the company&nbsp; noted &nbsp;in an advisory.  Credited with discovering and reporting the flaw is the U.S. National Security Agency (NSA). The issue has been addressed in Cisco TelePresence CE Software versions 9.15.10.8 and 10.11.2.2.  CVE-2022-20773 &nbsp;(CVSS score: 7.5),
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

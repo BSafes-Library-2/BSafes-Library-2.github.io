@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers are seeking alternative money-laundering options<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-are-seeking-alternative-money-laundering-options/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian cybercrime community, one of the most active and prolific in the world, is turning to alternative money-laundering&nbsp;methods due to sanctions on Russia and law enforcement actions against dark web markets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers behind most zero-day exploits during 2021<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-behind-most-zero-day-exploits-during-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts report that zero-day vulnerability exploitation is on the rise with Chinese hackers using most of them in attacks last year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT Targets Linux Instances on AWS, Alibaba Cloud for Credential Theft and Cryptomining<a href="https://blog.talosintelligence.com/2022/04/teamtnt-targeting-aws-alibaba.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TeamTNT is actively modifying its scripts after they were made public by security researchers. These scripts primarily target Amazon Web Services, but can also run in on-premise, container, or other forms of Linux instances.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
