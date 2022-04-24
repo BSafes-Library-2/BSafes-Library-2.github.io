@@ -8,6 +8,24 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attacks using the topic “Azovstal” targets entities in Ukraine<a href="https://securityaffairs.co/wordpress/130515/cyber-warfare-2/ukraine-cert-warns-azovstal-themed-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine CERT-UA warns of phishing attacks on state organizations of Ukraine using the topic "Azovstal" and Cobalt Strike Beacon.
+
+
+
+The Computer Emergency Response Team of Ukraine (CERT-UA) warns of phishing attacks aimed at organizations in the country...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

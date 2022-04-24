@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt grants academics $12M to develop cyberattack defense tools<a href="https://www.bleepingcomputer.com/news/security/us-govt-grants-academics-12m-to-develop-cyberattack-defense-tools/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US&nbsp;Department of Energy (DOE) has announced that it will provide $12 million in funding to&nbsp;six university teams to develop&nbsp;defense and mitigation tools to protect US energy delivery systems from cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST revamps aging enterprise patch management guidance<a href="https://portswigger.net/daily-swig/nist-revamps-aging-enterprise-patch-management-guidance?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Whereas the previous, 2013 iteration focused on helping organizations to deploy patch management technologies, the new edition centers on developing strategies for patch management.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,28 @@ nav_order: 900015
 
 ## Attack
 ---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware claims responsibility for the attack on Costa Rica<a href="https://securityaffairs.co/wordpress/130505/cyber-crime/costa-rica-conti-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti ransomware gang claimed responsibility for a ransomware attack that hit the government infrastructure of Costa Rica. 
+
+
+
+Last week a ransomware attack has crippled the government infrastructure of Costa Rica causing chaos. 
+
+
+
+The Conti ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

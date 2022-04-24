@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Bianlian Botnet Tries to Bypass Photo TAN Authentication Used for Mobile Banking<a href="https://www.fortinet.com/blog/threat-research/android-bianlian-botnet-mobile-banking?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Android malware typically poses as a video player, Google Play app, or a mobile banking application. Once installed, it asks the victim to activate Accessibility Services for the app to “work correctly.”
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lemon_Duck&nbsp;cryptomining botnet targets Docker servers<a href="https://securityaffairs.co/wordpress/130470/cyber-crime/lemon_duck-cryptomining-botnet-targets-docker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lemon_Duck&nbsp;cryptomining botnet is targeting Docker servers to mine cryptocurrency on Linux systems. 
+
+
+
+Crowdstrikes researchers reported that the Lemon_Duck&nbsp;cryptomining botnet is targeting Docker to mine cryptocurrency on Linux systems....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

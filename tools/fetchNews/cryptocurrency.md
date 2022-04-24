@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! Cryptocurrency Miners Targeting Dockers, AWS and Alibaba Cloud<a href="https://thehackernews.com/2022/04/watch-out-cryptocurrency-miners.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LemonDuck, a cross-platform cryptocurrency mining botnet, is targeting Docker to mine cryptocurrency on Linux systems as part of an active malware campaign.  "It runs an anonymous mining operation by the use of proxy pools, which hide the wallet addresses," CrowdStrike&nbsp; said &nbsp;in a new report. "It evades detection by targeting Alibaba Cloud's monitoring service and disabling it."  Known to strike both Windows and Linux environments, LemonDuck is primarily engineered for abusing the system resources to mine Monero. But it's also capable of credential theft, lateral movement, and facilitating the deployment of additional payloads for follow-on activities.  "It uses a wide range of spreading mechanisms — phishing emails, exploits, USB devices, brute force, among others — and it has shown that it can quickly take advantage of news, events, or the release of new exploits to run effective campaigns," Microsoft&nbsp; detailed &nbsp;in a technical write-up of the ma
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2022
+April 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware claims responsibility for the attack on Costa Rica<a href="https://securityaffairs.co/wordpress/130505/cyber-crime/costa-rica-conti-ransomware.html?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2022
+April 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile confirms Lapsus$ had access its systems<a href="https://securityaffairs.co/wordpress/130530/data-breach/t-mobile-revealed-lapsus-access.html"> Full Text</a>
@@ -74,7 +74,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2022
+April 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Claim to Target Russian Institutions in Barrage of Cyberattacks and Leaks<a href="https://www.nytimes.com/2022/04/22/us/politics/hackers-russia-cyberattacks.html?&web_view=true"> Full Text</a>
@@ -90,7 +90,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2022
+April 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Are you using Java 15/16/17 or 18 in production? Patch them now!<a href="https://securityaffairs.co/wordpress/130522/security/poc-java-vulnerability-cve-2022-21449.html"> Full Text</a>
@@ -110,7 +110,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2022
+April 23, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing attacks using the topic “Azovstal” targets entities in Ukraine<a href="https://securityaffairs.co/wordpress/130515/cyber-warfare-2/ukraine-cert-warns-azovstal-themed-phishing.html"> Full Text</a>
@@ -146,7 +146,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2022
+April 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Drops Patches for Critical Jira Authentication Bypass Vulnerability<a href="https://thehackernews.com/2022/04/atlassian-drops-patches-for-critical.html"> Full Text</a>

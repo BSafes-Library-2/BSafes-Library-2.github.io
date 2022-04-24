@@ -34,6 +34,134 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware claims responsibility for the attack on Costa Rica<a href="https://securityaffairs.co/wordpress/130505/cyber-crime/costa-rica-conti-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Costa Rican businesses fear that the ransomware gang could have infiltrated confidential information they provided to the government. The leak of this data could pose a serious risk to these organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile confirms Lapsus$ had access its systems<a href="https://securityaffairs.co/wordpress/130530/data-breach/t-mobile-revealed-lapsus-access.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunication giant T-Mobile confirmed the LAPSUS$ extortion group gained access to its networks in March.
+
+
+
+Telecom company T-Mobile on Friday revealed that LAPSUS$ extortion gang gained access to its networks.
+
+
+
+The popular investigator...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Claim to Target Russian Institutions in Barrage of Cyberattacks and Leaks<a href="https://www.nytimes.com/2022/04/22/us/politics/hackers-russia-cyberattacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers claim to have broken into dozens of Russian institutions over the past two months, including the Kremlin’s internet censor and one of its primary intelligence services, leaking emails and internal documents to the public.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are you using Java 15/16/17 or 18 in production? Patch them now!<a href="https://securityaffairs.co/wordpress/130522/security/poc-java-vulnerability-cve-2022-21449.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has released proof-of-concept (PoC) code for a digital signature bypass vulnerability in Java.
+
+
+
+Security researcher Khaled Nassar released a proof-of-concept (PoC) code for a new digital signature bypass vulnerability, tracked as CVE-2022-21449 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attacks using the topic “Azovstal” targets entities in Ukraine<a href="https://securityaffairs.co/wordpress/130515/cyber-warfare-2/ukraine-cert-warns-azovstal-themed-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine CERT-UA warns of phishing attacks on state organizations of Ukraine using the topic "Azovstal" and Cobalt Strike Beacon.
+
+
+
+The Computer Emergency Response Team of Ukraine (CERT-UA) warns of phishing attacks aimed at organizations in the country...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile Admits Lapsus$ Hackers Gained Access to its Internal Tools and Source Code<a href="https://thehackernews.com/2022/04/t-mobile-admits-lapsus-hackers-gained.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecom company T-Mobile on Friday confirmed that it was the victim of a security breach in March after the LAPSUS$  mercenary gang managed to gain access to its networks.  The acknowledgment came after investigative journalist Brian Krebs  shared  internal chats belonging to the core members of the group indicating that LAPSUS$ breached the company several times in March  prior to the arrest  of its seven members.   T-Mobile, in a statement, said that the incident occurred "several weeks ago, with the "bad actor" using stolen credentials to access internal systems. "The systems accessed contained no customer or government information or other similarly sensitive information, and we have no evidence that the intruder was able to obtain anything of value," it added.   The VPN credentials for initial access are said to have been obtained from illicit websites like Russian Market with the goal of gaining control of T-Mobile employee accounts, ultimately allowing
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Drops Patches for Critical Jira Authentication Bypass Vulnerability<a href="https://thehackernews.com/2022/04/atlassian-drops-patches-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has published a security advisory warning of a critical vulnerability in its Jira software that could be abused by a remote, unauthenticated attacker to circumvent authentication protections.  Tracked as  CVE-2022-0540 , the flaw is rated 9.9 out of 10 on the CVSS scoring system and resides in Jira's authentication framework, Jira Seraph. Khoadha of Viettel Cyber Security has been credited with discovering and reporting the security weakness.  "A remote, unauthenticated attacker could exploit this by sending a specially crafted HTTP request to bypass authentication and authorization requirements in WebWork actions using an affected configuration," Atlassian  noted .   The flaw affects the following Jira products -   Jira Core Server, Jira Software Server and Jira Software Data Center: All versions before 8.13.18, 8.14.x, 8.15.x, 8.16.x, 8.17.x, 8.18.x, 8.19.x, 8.20.x before 8.20.6, and 8.21.x  Jira Service Management Server and Jira Service Management Data Cent
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
