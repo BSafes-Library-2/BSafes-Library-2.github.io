@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are you using Java 15/16/17 or 18 in production? Patch them now!<a href="https://securityaffairs.co/wordpress/130522/security/poc-java-vulnerability-cve-2022-21449.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has released proof-of-concept (PoC) code for a digital signature bypass vulnerability in Java.
+
+
+
+Security researcher Khaled Nassar released a proof-of-concept (PoC) code for a new digital signature bypass vulnerability, tracked as CVE-2022-21449&nbsp;(CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Drops Patches for Critical Jira Authentication Bypass Vulnerability<a href="https://thehackernews.com/2022/04/atlassian-drops-patches-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has published a security advisory warning of a critical vulnerability in its Jira software that could be abused by a remote, unauthenticated attacker to circumvent authentication protections.  Tracked as&nbsp; CVE-2022-0540 , the flaw is rated 9.9 out of 10 on the CVSS scoring system and resides in Jira's authentication framework, Jira Seraph. Khoadha of Viettel Cyber Security has been credited with discovering and reporting the security weakness.  "A remote, unauthenticated attacker could exploit this by sending a specially crafted HTTP request to bypass authentication and authorization requirements in WebWork actions using an affected configuration," Atlassian&nbsp; noted .   The flaw affects the following Jira products -   Jira Core Server, Jira Software Server and Jira Software Data Center: All versions before 8.13.18, 8.14.x, 8.15.x, 8.16.x, 8.17.x, 8.18.x, 8.19.x, 8.20.x before 8.20.6, and 8.21.x  Jira Service Management Server and Jira Service Management Data Cent
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

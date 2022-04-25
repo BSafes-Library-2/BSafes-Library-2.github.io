@@ -8,6 +8,42 @@ nav_order: 900029
 
 ## Breach
 ---
+April 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile confirms Lapsus$ had access its systems<a href="https://securityaffairs.co/wordpress/130530/data-breach/t-mobile-revealed-lapsus-access.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunication giant T-Mobile confirmed the&nbsp;LAPSUS$&nbsp;extortion group gained access to its networks in March.
+
+
+
+Telecom company T-Mobile on Friday revealed that LAPSUS$&nbsp;extortion gang gained access to its networks.
+
+
+
+The popular investigator...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Claim to Target Russian Institutions in Barrage of Cyberattacks and Leaks<a href="https://www.nytimes.com/2022/04/22/us/politics/hackers-russia-cyberattacks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers claim to have broken into dozens of Russian institutions over the past two months, including the Kremlin’s internet censor and one of its primary intelligence services, leaking emails and internal documents to the public.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
