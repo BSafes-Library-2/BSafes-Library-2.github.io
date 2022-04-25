@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+April 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Since declaring cyber war on Russia Anonymous leaked 5.8 TB of Russian data<a href="https://securityaffairs.co/wordpress/130554/hacktivism/anonymous-leaked-5-8-tb-russian-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpRussia continues unabated, since declaring 'cyber war' on Russia Anonymous has now published approximately 5.8 TB of Russian data.
+
+
+
+The #OpRussia launched by Anonymous on Russia after the criminal invasion of Ukraine continues to collect successes,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
