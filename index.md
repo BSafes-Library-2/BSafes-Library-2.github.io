@@ -34,6 +34,90 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian addresses a critical Jira authentication bypass flaw<a href="https://securityaffairs.co/wordpress/130564/hacking/atlassian-jira-authentication-bypass-issue.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian fixed a critical flaw in its Jira software, tracked as CVE-2022-0540, that could be exploited to bypass authentication.
+
+
+
+Atlassian has addressed a critical vulnerability in its Jira Seraph software, tracked as CVE-2022-0540 (CVSS score 9.9),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Since declaring cyber war on Russia Anonymous leaked 5.8 TB of Russian data<a href="https://securityaffairs.co/wordpress/130554/hacktivism/anonymous-leaked-5-8-tb-russian-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpRussia continues unabated, since declaring 'cyber war' on Russia Anonymous has now published approximately 5.8 TB of Russian data.
+
+
+
+The #OpRussia launched by Anonymous on Russia after the criminal invasion of Ukraine continues to collect successes,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apr 17 – Apr 23 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/130547/cyber-warfare-2/apr-17-apr-23-ukraine-russia-the-silent-cyber-conflict.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This post provides a timeline of the events related to the Russian invasion of Ukraine from the cyber security perspective.
+
+
+
+Below is the timeline of the events related to the ongoing invasion that occurred in the previous weeks:
+
+
+
+April 23 - Phishing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 362 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/130544/breaking-news/security-affairs-newsletter-round-362-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
