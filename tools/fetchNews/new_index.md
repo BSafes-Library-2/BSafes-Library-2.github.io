@@ -34,7 +34,323 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 7 vulnerabilities to list of bugs exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-adds-7-vulnerabilities-to-list-of-bugs-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added seven vulnerabilities to its list of actively exploited security issues, including those from Microsoft, Linux, and Jenkins.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Exploits Touch Record High<a href="https://cyware.com/news/zero-day-exploits-touch-record-high-d13cb549"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are quick to zero in on zero-days these days. Google’s Project Zero tracked 58 zero-day exploits last year, implying that this is the highest number of zero-days detected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Report Critical RCE Vulnerability in Google's VirusTotal Platform<a href="https://thehackernews.com/2022/04/researchers-report-critical-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have disclosed a security vulnerability in the VirusTotal platform that could have been potentially weaponized to achieve remote code execution (RCE).  The flaw, now patched, made it possible to "execute commands remotely within VirusTotal platform and gain access to its various scans capabilities," Cysource researchers Shai Alfasi and Marlon Fabiano da Silva said in a report  exclusively shared with The Hacker News.  VirusTotal , part of Google's Chronicle security subsidiary, is a malware-scanning service that analyzes suspicious files and URLs and checks for viruses using more than 70 third-party antivirus products.   The attack method involved the upload of a DjVu file through the platform's  web user interface , using it to trigger an exploit for a high-severity remote code execution flaw in  ExifTool , an open-source utility used to read and edit EXIF metadata information in image and PDF files.   Tracked as  CVE-2021-22204  (CVSS score: 7.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran announced to have foiled massive cyberattacks on public services<a href="https://securityaffairs.co/wordpress/130592/hacking/iran-foiled-cyberattacks-public-services.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State television announced that Iran has foiled massive cyberattacks that targeted public services operated by both government and private organizations.
+
+
+
+According to the Iran state television, the attack attempts took place in recent days and aimed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet malware infects users again after fixing broken installer<a href="https://www.bleepingcomputer.com/news/security/emotet-malware-infects-users-again-after-fixing-broken-installer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet malware phishing campaign is up and running again after the threat actors fixed a bug preventing people from becoming infected when they opened malicious email attachments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This sneaky phishing attack tries to steal your Facebook password<a href="https://www.zdnet.com/article/this-sneaky-phishing-attack-tries-to-steal-your-facebook-password/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of the fake appeals process, the user is asked to provide sensitive information, including their name and email address. Before submitting the form, the user is also asked to enter their Facebook password.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bug in Everscale Wallet Could've Let Attackers Steal Cryptocurrencies<a href="https://thehackernews.com/2022/04/critical-bug-in-everscale-wallet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability has been disclosed in the web version of the Ever Surf  wallet that, if successfully weaponized, could allow an attacker to gain full control over a victim's wallet.  "By exploiting the vulnerability, it's possible to decrypt the private keys and seed phrases that are stored in the browser's local storage," Israeli cybersecurity company Check Point said in a report shared with The Hacker News. "In other words, attackers could gain full control over the victim's wallets."   Ever Surf  is a cryptocurrency wallet for the Everscale (formerly FreeTON) blockchain that also doubles up as a cross-platform messenger and allows users to access decentralized apps as well as send and receive non-fungible tokens (NFTs). It's said to have an  estimated  669,700 accounts across the world.    By means of different attack vectors like malicious browser extensions or phishing links, the flaw makes it possible to obtain a wallet's encr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware gang breached over 60 orgs worldwide<a href="https://securityaffairs.co/wordpress/130582/reports/fbi-blackcat-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 60 entities worldwide have been breached by BlackCat ransomware, warns a flash report published by the U.S. FBI.
+
+
+
+The U.S. Federal Bureau of Investigation (FBI) published a flash report that states that at least 60 entities worldwide have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers targeting journalists with novel malware<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-targeting-journalists-with-novel-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean state-sponsored hackers known as APT37 have been discovered targeting journalists specializing in the DPRK with a novel malware strain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The ink-stained trail of GOLDBACKDOOR<a href="https://stairwell.com/news/threat-research-the-ink-stained-trail-of-goldbackdoor/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stairwell assesses with medium-high confidence that GOLDBACKDOOR is the successor of, or used in parallel with, the malware BLUELIGHT, attributed to APT37 / Ricochet Chollima.
+</details>
+<div style="text-align: right" markdown="1">
+Stairwell
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BotenaGo Malware Variant Targeting Lilin Security Camera DVR Devices<a href="https://thehackernews.com/2022/04/new-botenago-malware-variant-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of an IoT botnet called BotenaGo has emerged in the wild, specifically singling out Lilin security camera DVR devices to infect them with Mirai malware.  Dubbed " Lilin Scanner " by Nozomi Networks, the  latest version  is designed to exploit a two-year-old critical  command injection vulnerability  in the DVR firmware that was patched by the Taiwanese company in February 2020.   BotenaGo , first documented in November 2021 by AT&T Alien Labs, is written in Golang and features over 30 exploits for known vulnerabilities in web servers, routers and other kinds of IoT devices.  The botnet's source code has since been uploaded to GitHub, making it ripe for abuse by other criminal actors. "With only 2,891 lines of code, BotenaGo has the potential to be the starting point for many new variants and new malware families using its source code," the researchers  said  this year.  The new BotenaGo malware is the  latest  to exploit vulnerabilities in Lil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of a surge in zero-day flaws observed and exploited in 2021<a href="https://securityaffairs.co/wordpress/130569/apt/zero-day-discovered-exploited-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of zero-day vulnerabilities exploited in cyberattacks in the wild exploded in the last years, security firm report.
+
+
+
+Google and Mandiant have published two reports that highlight a surge in the discovery of zero-day flaws exploited by threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French hospital group disconnects Internet after hackers steal data<a href="https://www.bleepingcomputer.com/news/security/french-hospital-group-disconnects-internet-after-hackers-steal-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GHT Coeur Grand Est. Hospitals and Health Care group comprising nine establishments with 3,370 beds across Northeast France has disclosed a cyberattack that resulted in the theft of sensitive administrative and patient data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defeating BazarLoader Anti-Analysis Techniques<a href="https://unit42.paloaltonetworks.com/bazarloader-anti-analysis-techniques/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It employs two distinctive anti-analysis techniques. The first is API function hashing, a known trick to obfuscate which functions are called. The second is an opaque predicate, a technique used for control flow obfuscation.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New powerful Prynt Stealer malware sells for just $100 per month<a href="https://www.bleepingcomputer.com/news/security/new-powerful-prynt-stealer-malware-sells-for-just-100-per-month/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have spotted yet another addition to the growing space of info-stealer malware infections, named Prynt Stealer, which offers powerful capabilities and extra keylogger and clipper modules.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical device cybersecurity: What to expect in 2022?<a href="https://www.helpnetsecurity.com/2022/04/25/medical-device-cybersecurity-trends/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medical device cybersecurity has become an extremely complex challenge. It is now more important than ever to learn from industry peers and try to find the best way forward.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum ransomware seen deployed in rapid network attacks<a href="https://www.bleepingcomputer.com/news/security/quantum-ransomware-seen-deployed-in-rapid-network-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Quantum ransomware, a strain first discovered in August 2021, were seen carrying out speedy attacks that escalate quickly, leaving defenders little time to react.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+41% of businesses had an API security incident last year<a href="https://www.helpnetsecurity.com/2022/04/25/apis-security-challenges/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the wake of the digital transformation wave, web APIs have experienced exponential growth as the rise of integrated web and mobile-based offerings requires significantly more data sharing across products.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of BlackCat Ransomware That Breached Over 60 Organisations Worldwide<a href="https://thehackernews.com/2022/04/fbi-warns-of-blackcat-ransomware-that.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) is sounding the alarm on the BlackCat ransomware-as-a-service (RaaS), which it said victimized at least 60 entities worldwide between as of March 2022 since its emergence last November.  Also called ALPHV and  Noberus , the ransomware is notable for being the first-ever malware written in the Rust programming language that's known to be memory safe and offer improved performance.   "Many of the developers and money launderers for BlackCat/ALPHV are linked to  DarkSide / BlackMatter , indicating they have extensive networks and experience with ransomware operations," the FBI said in an  advisory  published last week.  The disclosure comes weeks after twin reports from  Cisco Talos  and  Kasperksy  uncovered links between BlackCat and BlackMatter ransomware families, including the use of a modified version of a data exfiltration tool dubbed Fendr that's been previously only observed in BlackMatter-related activity.  "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian addresses a critical Jira authentication bypass flaw<a href="https://securityaffairs.co/wordpress/130564/hacking/atlassian-jira-authentication-bypass-issue.html"> Full Text</a>
@@ -54,7 +370,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2022
+April 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Since declaring cyber war on Russia Anonymous leaked 5.8 TB of Russian data<a href="https://securityaffairs.co/wordpress/130554/hacktivism/anonymous-leaked-5-8-tb-russian-data.html"> Full Text</a>
@@ -74,7 +390,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2022
+April 24, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apr 17 – Apr 23 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/130547/cyber-warfare-2/apr-17-apr-23-ukraine-russia-the-silent-cyber-conflict.html"> Full Text</a>
@@ -98,7 +414,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2022
+April 24, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 362 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/130544/breaking-news/security-affairs-newsletter-round-362-by-pierluigi-paganini.html"> Full Text</a>
