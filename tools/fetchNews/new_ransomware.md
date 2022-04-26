@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum ransomware seen deployed in rapid network attacks<a href="https://www.bleepingcomputer.com/news/security/quantum-ransomware-seen-deployed-in-rapid-network-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Quantum ransomware, a strain first discovered in August 2021, were seen carrying out speedy attacks that escalate quickly, leaving defenders little time to react.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

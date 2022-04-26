@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This sneaky phishing attack tries to steal your Facebook password<a href="https://www.zdnet.com/article/this-sneaky-phishing-attack-tries-to-steal-your-facebook-password/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of the fake appeals process, the user is asked to provide sensitive information, including their name and email address. Before submitting the form, the user is also asked to enter their Facebook password.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

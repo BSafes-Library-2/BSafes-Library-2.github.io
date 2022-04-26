@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers targeting journalists with novel malware<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-targeting-journalists-with-novel-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean state-sponsored hackers known as APT37 have been discovered targeting journalists specializing in the DPRK with a novel malware strain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

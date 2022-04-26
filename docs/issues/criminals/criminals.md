@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware gang breached over 60 orgs worldwide<a href="https://securityaffairs.co/wordpress/130582/reports/fbi-blackcat-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 60 entities worldwide have been breached by BlackCat ransomware, warns a flash report published by the U.S. FBI.
+
+
+
+The U.S. Federal Bureau of Investigation (FBI) published a flash report that states that at least 60 entities worldwide have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

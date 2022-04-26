@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Report Critical RCE Vulnerability in Google's VirusTotal Platform<a href="https://thehackernews.com/2022/04/researchers-report-critical-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have disclosed a security vulnerability in the VirusTotal platform that could have been potentially weaponized to achieve remote code execution (RCE).  The flaw, now patched, made it possible to "execute commands remotely within VirusTotal platform and gain access to its various scans capabilities," Cysource researchers Shai Alfasi and Marlon Fabiano da Silva said in a report  exclusively shared with The Hacker News.  VirusTotal , part of Google's Chronicle security subsidiary, is a malware-scanning service that analyzes suspicious files and URLs and checks for viruses using more than 70 third-party antivirus products.   The attack method involved the upload of a DjVu file through the platform's&nbsp; web user interface , using it to trigger an exploit for a high-severity remote code execution flaw in&nbsp; ExifTool , an open-source utility used to read and edit EXIF metadata information in image and PDF files.   Tracked as&nbsp; CVE-2021-22204 &nbsp;(CVSS score: 7.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+April 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bug in Everscale Wallet Could've Let Attackers Steal Cryptocurrencies<a href="https://thehackernews.com/2022/04/critical-bug-in-everscale-wallet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability has been disclosed in the web version of the Ever Surf  wallet that, if successfully weaponized, could allow an attacker to gain full control over a victim's wallet.  "By exploiting the vulnerability, it's possible to decrypt the private keys and seed phrases that are stored in the browser's local storage," Israeli cybersecurity company Check Point said in a report shared with The Hacker News. "In other words, attackers could gain full control over the victim's wallets."   Ever Surf &nbsp;is a cryptocurrency wallet for the Everscale (formerly FreeTON) blockchain that also doubles up as a cross-platform messenger and allows users to access decentralized apps as well as send and receive non-fungible tokens (NFTs). It's said to have an&nbsp; estimated &nbsp;669,700 accounts across the world.    By means of different attack vectors like malicious browser extensions or phishing links, the flaw makes it possible to obtain a wallet's encr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

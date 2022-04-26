@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+April 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French hospital group disconnects Internet after hackers steal data<a href="https://www.bleepingcomputer.com/news/security/french-hospital-group-disconnects-internet-after-hackers-steal-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GHT Coeur Grand Est. Hospitals and Health Care group comprising nine establishments with 3,370 beds across Northeast France has disclosed a cyberattack that resulted in the theft of sensitive administrative and patient data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
