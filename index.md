@@ -34,6 +34,449 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US offers $10 million reward for tips on Russian Sandworm hackers<a href="https://www.bleepingcomputer.com/news/security/us-offers-10-million-reward-for-tips-on-russian-sandworm-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. is offering up to $10 million to identify or locate six Russian GRU hackers who are part of the notorious Sandworm hacking group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT has Updated its Attack Tactics<a href="https://cyware.com/news/teamtnt-has-updated-its-attack-tactics-0081a4e0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TeamTNT hackers’ shell scripts were found disabling cloud security tools to attack AWS and Alibaba Cloud. Its payloads include credential stealers, cryptocurrency miners, persistence, and lateral movement. Organizations are suggested to continue taking the right measures to protect your systems fro ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Testing New Delivery Ideas After Microsoft Disables VBA Macros by Default<a href="https://thehackernews.com/2022/04/emotet-testing-new-delivery-ideas-after.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the prolific Emotet botnet is testing new attack methods on a small scale before co-opting them into their larger volume malspam campaigns, potentially in response to Microsoft's move to disable Visual Basic for Applications (VBA) macros by default across its products.  Calling the new activity a "departure" from the group's typical behavior, ProofPoint alternatively  raised the possibility  that the latest set of phishing emails distributing the malware show that the operators are now "engaged in more selective and limited attacks in parallel to the typical massive scale email campaigns."   Emotet, the handiwork of a cybercrime group tracked as  TA542  (aka Mummy Spider or  Gold Crestwood ), staged a  revival of sorts  late last year after a 10-month-long hiatus following a coordinated law enforcement operation to take down its attack infrastructure.   Since then, Emotet  campaigns  have targeted thousands of customers with tens of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked APT Rocket Kitten exploited VMware bug in recent attacks<a href="https://securityaffairs.co/wordpress/130630/apt/iran-apt-exploiting-vmware-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iran-linked APT group Rocket Kitten has been observed exploiting a recently patched CVE-2022-22954 VMware flaw. 
+
+
+
+Iran-linked Rocket Kitten APT group has been observed exploiting a recently patched CVE-2022-22954 VMware Workspace ONE Access flaw...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet malware now installs via PowerShell in Windows shortcut files<a href="https://www.bleepingcomputer.com/news/security/emotet-malware-now-installs-via-powershell-in-windows-shortcut-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet botnet is now using Windows shortcut files (.LNK) containing PowerShell commands to infect victims computers, moving away from Microsoft Office macros that are now disabled by default.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prynt Stealer: A Newly Discovered Threat<a href="https://cyware.com/news/prynt-stealer-a-newly-discovered-threat-411886b5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity analysts have detected yet another info-stealer malware infection, named Prynt Stealer, offering powerful capabilities and extra keylogger and clipper modules. The developer of the stealer claims the recent version of the stealer is undetectable.&nbsp;Users are suggested to use a stro ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gold Ulrick Hackers Still in Action Despite Massive Conti Ransomware Leak<a href="https://thehackernews.com/2022/04/gold-ulrick-hackers-still-in-action.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous ransomware group known as Conti has  continued  its onslaught against entities despite suffering a massive data leak of its own earlier this year, according to new research.  Conti, attributed to a Russia-based threat actor known as Gold Ulrick , is one of the most prevalent malware strains in the ransomware landscape, accounting for  19% of all attacks  during the three-month-period between October and December 2021.  One of the most prolific ransomware groups of the last year along the likes of LockBit 2.0, PYSA, and Hive, Conti has locked the networks of hospitals, businesses, and government agencies, while receiving a ransom payment in exchange for sharing the decryption key as part of its name-and-shame scheme.  But after the cybercriminal cartel came out in support of Russia over its invasion of Ukraine in February, an anonymous Ukrainian security researcher under the Twitter handle  ContiLeaks  began leaking the source code as well as private conversations between
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds new Microsoft, Linux, and Jenkins flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/130625/security/known-exploited-vulnerabilities-catalog-7-new-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Critical Infrastructure Security Agency (CISA) adds seven new flaws to its Known Exploited Vulnerabilities Catalog, including Microsoft, Linux, and Jenkins bugs.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added seven vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Dental Association hit by new Black Basta ransomware<a href="https://www.bleepingcomputer.com/news/security/american-dental-association-hit-by-new-black-basta-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American Dental Association (ADA) was hit by a weekend cyberattack, causing them to shut down portions of their network while investigating the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Share New Insights on Nokoyawa Ransomware<a href="https://cyware.com/news/researchers-share-new-insights-on-nokoyawa-ransomware-0274e620"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from SentinelLabs claimed that Nokoyawa is clearly a variant of Nemty (Karma) ransomware. Previously, Trend Micro had highlighted similarities in the attack chain between Nokoyawa and Hive ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Target Journalists with GOLDBACKDOOR Malware<a href="https://thehackernews.com/2022/04/north-korean-hackers-target-journalists.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A state-backed threat actor with ties to the Democratic People's Republic of Korea (DRPK) has been attributed to a spear-phishing campaign targeting journalists covering the country with the ultimate goal of deploying a backdoor on infected Windows systems.  The intrusions, said to be the work of Ricochet Chollima, resulted in the deployment of a novel malware strain called GOLDBACKDOOR, an artifact that shares technical overlaps with another malware named BLUELIGHT, which has been previously linked to the group.  "Journalists are high-value targets for hostile governments," cybersecurity firm Stairwell  said  in a report published last week. "Compromising a journalist can provide access to highly-sensitive information and enable additional attacks against their sources."   Ricochet Chollima, also known as  APT37 , InkySquid, and ScarCruft, is a North Korean-nexus targeted intrusion adversary that has been involved in espionage attacks since at least 2016. The
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stormous ransomware gang claims to have hacked Coca-Cola<a href="https://securityaffairs.co/wordpress/130614/cyber-crime/stormous-ransomware-hit-coca-cola.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Stormous ransomware gang claims to have hacked the multinational beverage corporation Coca-Cola Company.
+
+
+
+The Stormous ransomware gang announced with a post on its leak site to have hacked the multinational beverage corporation Coca-Cola...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coca-Cola investigates hackers' claims of breach and data theft<a href="https://www.bleepingcomputer.com/news/security/coca-cola-investigates-hackers-claims-of-breach-and-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coca-Cola, the world's largest soft drinks maker, has confirmed in a statement to BleepingComputer that it is aware of the reports about a cyberattack on its network and is currently investigating the claims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte Ransomware - Wilder And Scarier Than Ever<a href="https://cyware.com/news/blackbyte-ransomware-wilder-and-scarier-than-ever-225dc443"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers released a report on BlackByte ransomware describing new variants written in Go and DotNET, with one variant written with a mix of Go and C languages. The ransomware actors were observed making changes to the registry in an attempt to escalate privileges. Organizations are suggested to  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked APT37 targets journalists with GOLDBACKDOOR<a href="https://securityaffairs.co/wordpress/130606/apt/apt37-targets-journalists-goldbackdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT37 group is targeting journalists that focus on DPRK with a new piece of malware.
+
+
+
+North Korea-linked APT37 group (aka Ricochet Chollima) has been spotted targeting journalists focusing on DPRK with a new piece of malware.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Play Store now forces apps to disclose what data is collected<a href="https://www.bleepingcomputer.com/news/security/google-play-store-now-forces-apps-to-disclose-what-data-is-collected/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is rolling out a new Data Safety section on the Play Store, Android's official app repository, where developers must declare what data their software collects from users of their apps.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside a ransomware incident: How a single mistake left a door open for attackers<a href="https://www.zdnet.com/article/inside-a-ransomware-incident-how-a-single-mistake-left-a-door-open-for-attackers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat ransomware attack against the undisclosed organization took place in March 2022 and has been detailed by cybersecurity researchers at Forescout who investigated the incident.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anomaly Six, a US surveillance firm that tracks roughly 3 billion devices in real-time<a href="https://securityaffairs.co/wordpress/130589/digital-id/anomaly-six-us-surveillance-firm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An interesting article published by The Intercept reveals the secretive business of a US surveillance firm named Anomaly Six.
+
+
+
+When we speak about the secretive business of surveillance businesses we often refer to the powerful tools developed by Israeli...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Public interest in Log4Shell fades but attack surface remains<a href="https://www.bleepingcomputer.com/news/security/public-interest-in-log4shell-fades-but-attack-surface-remains/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's been four months since Log4Shell, a critical zero-day vulnerability in the ubiquitous Apache Log4j library, was discovered, and threat analysts warn that the application of the available fixes is still way behind.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM database updates address critical vulnerabilities in third-party XML parser<a href="https://portswigger.net/daily-swig/ibm-database-updates-address-critical-vulnerabilities-in-third-party-xml-parser?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM has updated its data management platform Db2 in order to protect users from a pair of critical vulnerabilities in older versions of Expat, a third-party library. Both flaws notched a CVSS score of 9.8.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+David Colombo on Tesla Hacks and Growing into Hacking<a href="https://www.bleepingcomputer.com/news/security/david-colombo-on-tesla-hacks-and-growing-into-hacking/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybellum interviewed David Colombo, the cyber boy wonder of Germany, and founder of Colombo Technologies for our podcast, Left to Our Own Devices. Not yet 20 years old, the prolific cyber researcher already has to his credit the exposure of numerous critical vulnerabilities, including the honor of hacking his way into Tesla vehicles.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Operators Use New Delivery Techniques Like OneDrive URLs and XLL Files<a href="https://www.proofpoint.com/us/blog/threat-insight/emotet-tests-new-delivery-techniques?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The activity occurred while Emotet was on a “spring break,” not conducting its typical high volume threat campaigns. The threat actor has since resumed its typical activity.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit critical VMware RCE flaw to install backdoors<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-vmware-rce-flaw-to-install-backdoors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advanced hackers are actively exploiting a critical remote code execution (RCE) vulnerability, CVE-2022-22954, that affects in VMware Workspace ONE Access (formerly called VMware Identity Manager).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France: Health data leak leads to $1.6 million fine against Dedalus Biologie<a href="https://www.lexology.com/library/detail.aspx?g=b4bd34bf-45ea-4d2f-9f4d-a5af27602171&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following a massive health data leak disclosed in the press concerning nearly 500,000 persons in February 2021, the CNIL has fined the company Dedalus Biologie ~$1.6 million mainly for failure to comply with its data security obligation.
+</details>
+<div style="text-align: right" markdown="1">
+Lexology
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stormous Ransomware Group Claims to Steal 161GB of Data from Coca Cola<a href="https://therecord.media/coca-cola-investigating-claims-of-hack-after-ransomware-group-hawks-stolen-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coca-Cola said it is investigating reports of a data breach after a ransomware group named Stormous claimed to have stolen internal documents from the American beverage giant.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Exploiting VMware RCE Bug to Deploy 'Core Impact' Backdoor<a href="https://thehackernews.com/2022/04/iranian-hackers-exploiting-vmware-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian-linked threat actor known as  Rocket Kitten  has been observed actively exploiting a recently patched VMware vulnerability to gain initial access and deploy the Core Impact penetration testing tool on vulnerable systems.  Tracked as  CVE-2022-22954  (CVSS score: 9.8), the critical issue concerns a case of remote code execution (RCE) vulnerability affecting VMware Workspace ONE Access and Identity Manager.   While the issue was patched by the virtualization services provider on April 6, 2022, the company  cautioned users  of confirmed exploitation of the flaw occurring in the wild a week later.  "A malicious actor exploiting this RCE vulnerability potentially gains an unlimited attack surface," researchers from Morphisec Labs  said  in a new report. "This means highest privileged access into any components of the virtualized host and guest environment."   Attack chains exploiting the flaw involve the distribution of a PowerShell-based stager, which is the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 25, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
