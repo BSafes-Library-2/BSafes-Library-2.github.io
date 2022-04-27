@@ -8,6 +8,46 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked APT Rocket Kitten exploited VMware bug in recent attacks<a href="https://securityaffairs.co/wordpress/130630/apt/iran-apt-exploiting-vmware-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iran-linked APT group Rocket Kitten has been observed exploiting a recently patched CVE-2022-22954 VMware flaw. 
+
+
+
+Iran-linked Rocket Kitten APT group has been observed exploiting a recently patched CVE-2022-22954 VMware Workspace ONE Access flaw...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked APT37 targets journalists with GOLDBACKDOOR<a href="https://securityaffairs.co/wordpress/130606/apt/apt37-targets-journalists-goldbackdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT37 group is targeting journalists that focus on DPRK with a new piece of malware.
+
+
+
+North Korea-linked APT37 group (aka Ricochet Chollima) has been spotted targeting journalists focusing on DPRK with a new piece of malware.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

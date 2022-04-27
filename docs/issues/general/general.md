@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+David Colombo on Tesla Hacks and Growing into Hacking<a href="https://www.bleepingcomputer.com/news/security/david-colombo-on-tesla-hacks-and-growing-into-hacking/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybellum interviewed David Colombo, the cyber boy wonder of Germany, and founder of Colombo Technologies for our podcast, Left to Our Own Devices. Not yet 20 years old, the prolific cyber researcher already has to his credit the exposure of numerous critical vulnerabilities, including the honor of hacking his way into Tesla vehicles.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

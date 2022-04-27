@@ -5,7 +5,19 @@ has_children: true
 nav_order: 150 
 ---
 
-## Alerts
+## Alerts 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updated: KNOWN EXPLOITED VULNERABILITIES CATALOG <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KNOWN EXPLOITED VULNERABILITIES CATALOG
+</details>
+</div>
+
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 20, 2022 - FBI
 {: .fs-4 .fw-700 .lh-0  }

@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Dental Association hit by new Black Basta ransomware<a href="https://www.bleepingcomputer.com/news/security/american-dental-association-hit-by-new-black-basta-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American Dental Association (ADA) was hit by a weekend cyberattack, causing them to shut down portions of their network while investigating the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Target Journalists with GOLDBACKDOOR Malware<a href="https://thehackernews.com/2022/04/north-korean-hackers-target-journalists.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A state-backed threat actor with ties to the Democratic People's Republic of Korea (DRPK) has been attributed to a spear-phishing campaign targeting journalists covering the country with the ultimate goal of deploying a backdoor on infected Windows systems.  The intrusions, said to be the work of Ricochet Chollima, resulted in the deployment of a novel malware strain called GOLDBACKDOOR, an artifact that shares technical overlaps with another malware named BLUELIGHT, which has been previously linked to the group.  "Journalists are high-value targets for hostile governments," cybersecurity firm Stairwell&nbsp; said &nbsp;in a report published last week. "Compromising a journalist can provide access to highly-sensitive information and enable additional attacks against their sources."   Ricochet Chollima, also known as&nbsp; APT37 , InkySquid, and ScarCruft, is a North Korean-nexus targeted intrusion adversary that has been involved in espionage attacks since at least 2016. The
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Exploiting VMware RCE Bug to Deploy 'Core Impact' Backdoor<a href="https://thehackernews.com/2022/04/iranian-hackers-exploiting-vmware-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian-linked threat actor known as&nbsp; Rocket Kitten &nbsp;has been observed actively exploiting a recently patched VMware vulnerability to gain initial access and deploy the Core Impact penetration testing tool on vulnerable systems.  Tracked as&nbsp; CVE-2022-22954 &nbsp;(CVSS score: 9.8), the critical issue concerns a case of remote code execution (RCE) vulnerability affecting VMware Workspace ONE Access and Identity Manager.   While the issue was patched by the virtualization services provider on April 6, 2022, the company&nbsp; cautioned users &nbsp;of confirmed exploitation of the flaw occurring in the wild a week later.  "A malicious actor exploiting this RCE vulnerability potentially gains an unlimited attack surface," researchers from Morphisec Labs&nbsp; said &nbsp;in a new report. "This means highest privileged access into any components of the virtualized host and guest environment."   Attack chains exploiting the flaw involve the distribution of a PowerShell-based stager, which is the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

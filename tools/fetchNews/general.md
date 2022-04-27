@@ -8,6 +8,66 @@ nav_order: 900072
 
 ## General
 ---
+April 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Exploits Touch Record High<a href="https://cyware.com/news/zero-day-exploits-touch-record-high-d13cb549"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are quick to zero in on zero-days these days. Google’s Project Zero tracked 58 zero-day exploits last year, implying that this is the highest number of zero-days detected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of a surge in zero-day flaws observed and exploited in 2021<a href="https://securityaffairs.co/wordpress/130569/apt/zero-day-discovered-exploited-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of zero-day vulnerabilities exploited in cyberattacks in the wild exploded in the last years, security firm report.
+
+
+
+Google and Mandiant have published two reports that highlight a surge in the discovery of zero-day flaws exploited by threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical device cybersecurity: What to expect in 2022?<a href="https://www.helpnetsecurity.com/2022/04/25/medical-device-cybersecurity-trends/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medical device cybersecurity has become an extremely complex challenge. It is now more important than ever to learn from industry peers and try to find the best way forward.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+41% of businesses had an API security incident last year<a href="https://www.helpnetsecurity.com/2022/04/25/apis-security-challenges/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the wake of the digital transformation wave, web APIs have experienced exponential growth as the rise of integrated web and mobile-based offerings requires significantly more data sharing across products.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

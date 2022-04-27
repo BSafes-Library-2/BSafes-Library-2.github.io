@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US offers $10 million reward for tips on Russian Sandworm hackers<a href="https://www.bleepingcomputer.com/news/security/us-offers-10-million-reward-for-tips-on-russian-sandworm-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. is offering up to $10 million to identify or locate six Russian GRU hackers who are part of the notorious Sandworm hacking group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds new Microsoft, Linux, and Jenkins flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/130625/security/known-exploited-vulnerabilities-catalog-7-new-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Critical Infrastructure Security Agency (CISA) adds seven new flaws to its Known Exploited Vulnerabilities Catalog, including Microsoft, Linux, and Jenkins bugs.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added seven&nbsp;vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

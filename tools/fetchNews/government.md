@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+April 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 7 vulnerabilities to list of bugs exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-adds-7-vulnerabilities-to-list-of-bugs-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added seven&nbsp;vulnerabilities to its list of actively exploited security issues, including those from Microsoft, Linux, and Jenkins.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran announced to have foiled massive cyberattacks on public services<a href="https://securityaffairs.co/wordpress/130592/hacking/iran-foiled-cyberattacks-public-services.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State television announced that Iran has foiled massive cyberattacks that targeted public services operated by both government and private organizations.
+
+
+
+According to the Iran state television, the attack attempts took place in recent days and aimed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of BlackCat Ransomware That Breached Over 60 Organisations Worldwide<a href="https://thehackernews.com/2022/04/fbi-warns-of-blackcat-ransomware-that.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) is sounding the alarm on the BlackCat ransomware-as-a-service (RaaS), which it said victimized at least 60 entities worldwide between as of March 2022 since its emergence last November.  Also called ALPHV and&nbsp; Noberus , the ransomware is notable for being the first-ever malware written in the Rust programming language that's known to be memory safe and offer improved performance.   "Many of the developers and money launderers for BlackCat/ALPHV are linked to&nbsp; DarkSide / BlackMatter , indicating they have extensive networks and experience with ransomware operations," the FBI said in an&nbsp; advisory &nbsp;published last week.  The disclosure comes weeks after twin reports from&nbsp; Cisco Talos &nbsp;and&nbsp; Kasperksy &nbsp;uncovered links between BlackCat and BlackMatter ransomware families, including the use of a modified version of a data exfiltration tool dubbed Fendr that's been previously only observed in BlackMatter-related activity.  "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

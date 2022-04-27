@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US offers $10 million reward for tips on Russian Sandworm hackers<a href="https://www.bleepingcomputer.com/news/security/us-offers-10-million-reward-for-tips-on-russian-sandworm-hackers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT has Updated its Attack Tactics<a href="https://cyware.com/news/teamtnt-has-updated-its-attack-tactics-0081a4e0"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Testing New Delivery Ideas After Microsoft Disables VBA Macros by Default<a href="https://thehackernews.com/2022/04/emotet-testing-new-delivery-ideas-after.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked APT Rocket Kitten exploited VMware bug in recent attacks<a href="https://securityaffairs.co/wordpress/130630/apt/iran-apt-exploiting-vmware-rce.html"> Full Text</a>
@@ -103,7 +103,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet malware now installs via PowerShell in Windows shortcut files<a href="https://www.bleepingcomputer.com/news/security/emotet-malware-now-installs-via-powershell-in-windows-shortcut-files/"> Full Text</a>
@@ -119,7 +119,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prynt Stealer: A Newly Discovered Threat<a href="https://cyware.com/news/prynt-stealer-a-newly-discovered-threat-411886b5"> Full Text</a>
@@ -136,7 +136,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gold Ulrick Hackers Still in Action Despite Massive Conti Ransomware Leak<a href="https://thehackernews.com/2022/04/gold-ulrick-hackers-still-in-action.html"> Full Text</a>
@@ -152,7 +152,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds new Microsoft, Linux, and Jenkins flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/130625/security/known-exploited-vulnerabilities-catalog-7-new-flaws.html"> Full Text</a>
@@ -172,7 +172,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 American Dental Association hit by new Black Basta ransomware<a href="https://www.bleepingcomputer.com/news/security/american-dental-association-hit-by-new-black-basta-ransomware/"> Full Text</a>
@@ -188,7 +188,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Share New Insights on Nokoyawa Ransomware<a href="https://cyware.com/news/researchers-share-new-insights-on-nokoyawa-ransomware-0274e620"> Full Text</a>
@@ -204,7 +204,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Target Journalists with GOLDBACKDOOR Malware<a href="https://thehackernews.com/2022/04/north-korean-hackers-target-journalists.html"> Full Text</a>
@@ -220,7 +220,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stormous ransomware gang claims to have hacked Coca-Cola<a href="https://securityaffairs.co/wordpress/130614/cyber-crime/stormous-ransomware-hit-coca-cola.html"> Full Text</a>
@@ -240,7 +240,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coca-Cola investigates hackers' claims of breach and data theft<a href="https://www.bleepingcomputer.com/news/security/coca-cola-investigates-hackers-claims-of-breach-and-data-theft/"> Full Text</a>
@@ -256,7 +256,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackByte Ransomware - Wilder And Scarier Than Ever<a href="https://cyware.com/news/blackbyte-ransomware-wilder-and-scarier-than-ever-225dc443"> Full Text</a>
@@ -273,7 +273,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked APT37 targets journalists with GOLDBACKDOOR<a href="https://securityaffairs.co/wordpress/130606/apt/apt37-targets-journalists-goldbackdoor.html"> Full Text</a>
@@ -297,7 +297,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Play Store now forces apps to disclose what data is collected<a href="https://www.bleepingcomputer.com/news/security/google-play-store-now-forces-apps-to-disclose-what-data-is-collected/"> Full Text</a>
@@ -313,7 +313,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside a ransomware incident: How a single mistake left a door open for attackers<a href="https://www.zdnet.com/article/inside-a-ransomware-incident-how-a-single-mistake-left-a-door-open-for-attackers/?&web_view=true"> Full Text</a>
@@ -329,7 +329,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anomaly Six, a US surveillance firm that tracks roughly 3 billion devices in real-time<a href="https://securityaffairs.co/wordpress/130589/digital-id/anomaly-six-us-surveillance-firm.html"> Full Text</a>
@@ -349,7 +349,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Public interest in Log4Shell fades but attack surface remains<a href="https://www.bleepingcomputer.com/news/security/public-interest-in-log4shell-fades-but-attack-surface-remains/"> Full Text</a>
@@ -365,7 +365,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IBM database updates address critical vulnerabilities in third-party XML parser<a href="https://portswigger.net/daily-swig/ibm-database-updates-address-critical-vulnerabilities-in-third-party-xml-parser?&web_view=true"> Full Text</a>
@@ -381,7 +381,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 David Colombo on Tesla Hacks and Growing into Hacking<a href="https://www.bleepingcomputer.com/news/security/david-colombo-on-tesla-hacks-and-growing-into-hacking/"> Full Text</a>
@@ -397,7 +397,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Operators Use New Delivery Techniques Like OneDrive URLs and XLL Files<a href="https://www.proofpoint.com/us/blog/threat-insight/emotet-tests-new-delivery-techniques?&web_view=true"> Full Text</a>
@@ -413,7 +413,7 @@ Proof Point
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploit critical VMware RCE flaw to install backdoors<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-vmware-rce-flaw-to-install-backdoors/"> Full Text</a>
@@ -429,7 +429,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 France: Health data leak leads to $1.6 million fine against Dedalus Biologie<a href="https://www.lexology.com/library/detail.aspx?g=b4bd34bf-45ea-4d2f-9f4d-a5af27602171&web_view=true"> Full Text</a>
@@ -445,7 +445,7 @@ Lexology
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stormous Ransomware Group Claims to Steal 161GB of Data from Coca Cola<a href="https://therecord.media/coca-cola-investigating-claims-of-hack-after-ransomware-group-hawks-stolen-data/?&web_view=true"> Full Text</a>
@@ -461,7 +461,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2022
+April 25, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Exploiting VMware RCE Bug to Deploy 'Core Impact' Backdoor<a href="https://thehackernews.com/2022/04/iranian-hackers-exploiting-vmware-rce.html"> Full Text</a>

@@ -8,6 +8,49 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Share New Insights on Nokoyawa Ransomware<a href="https://cyware.com/news/researchers-share-new-insights-on-nokoyawa-ransomware-0274e620"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from SentinelLabs claimed that Nokoyawa is clearly a variant of Nemty (Karma) ransomware. Previously, Trend Micro had highlighted similarities in the attack chain between Nokoyawa and Hive ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte Ransomware - Wilder And Scarier Than Ever<a href="https://cyware.com/news/blackbyte-ransomware-wilder-and-scarier-than-ever-225dc443"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers released a report on BlackByte ransomware describing new variants written in Go and DotNET, with one variant written with a mix of Go and C languages. The ransomware actors were observed making changes to the registry in an attempt to escalate privileges. Organizations are suggested to  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside a ransomware incident: How a single mistake left a door open for attackers<a href="https://www.zdnet.com/article/inside-a-ransomware-incident-how-a-single-mistake-left-a-door-open-for-attackers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat ransomware attack against the undisclosed organization took place in March 2022 and has been detailed by cybersecurity researchers at Forescout who investigated the incident.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

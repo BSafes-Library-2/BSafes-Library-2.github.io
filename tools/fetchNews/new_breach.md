@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coca-Cola investigates hackers' claims of breach and data theft<a href="https://www.bleepingcomputer.com/news/security/coca-cola-investigates-hackers-claims-of-breach-and-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coca-Cola, the world's largest soft drinks maker, has confirmed in a statement to BleepingComputer that it is aware of the reports about a cyberattack on its network and is currently investigating the claims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France: Health data leak leads to $1.6 million fine against Dedalus Biologie<a href="https://www.lexology.com/library/detail.aspx?g=b4bd34bf-45ea-4d2f-9f4d-a5af27602171&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following a massive health data leak disclosed in the press concerning nearly 500,000 persons in February 2021, the CNIL has fined the company Dedalus Biologie ~$1.6 million mainly for failure to comply with its data security obligation.
+</details>
+<div style="text-align: right" markdown="1">
+Lexology
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stormous Ransomware Group Claims to Steal 161GB of Data from Coca Cola<a href="https://therecord.media/coca-cola-investigating-claims-of-hack-after-ransomware-group-hawks-stolen-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coca-Cola said it is investigating reports of a data breach after a ransomware group named Stormous claimed to have stolen internal documents from the American beverage giant.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

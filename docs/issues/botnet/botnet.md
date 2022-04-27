@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Testing New Delivery Ideas After Microsoft Disables VBA Macros by Default<a href="https://thehackernews.com/2022/04/emotet-testing-new-delivery-ideas-after.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the prolific Emotet botnet is testing new attack methods on a small scale before co-opting them into their larger volume malspam campaigns, potentially in response to Microsoft's move to disable Visual Basic for Applications (VBA) macros by default across its products.  Calling the new activity a "departure" from the group's typical behavior, ProofPoint alternatively&nbsp; raised the possibility &nbsp;that the latest set of phishing emails distributing the malware show that the operators are now "engaged in more selective and limited attacks in parallel to the typical massive scale email campaigns."   Emotet, the handiwork of a cybercrime group tracked as&nbsp; TA542 &nbsp;(aka Mummy Spider or&nbsp; Gold Crestwood ), staged a&nbsp; revival of sorts &nbsp;late last year after a 10-month-long hiatus following a coordinated law enforcement operation to take down its attack infrastructure.   Since then, Emotet&nbsp; campaigns &nbsp;have targeted thousands of customers with tens of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
