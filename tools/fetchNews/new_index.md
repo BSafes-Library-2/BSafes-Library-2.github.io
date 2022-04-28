@@ -34,7 +34,471 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PSA: Onyx ransomware destroys large files instead of encrypting them<a href="https://www.bleepingcomputer.com/news/security/psa-onyx-ransomware-destroys-large-files-instead-of-encrypting-them/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Onyx ransomware operation is destroying large files instead of encrypting them, preventing those files from being decrypted even if a ransom is paid.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Student grades stored in Greek education platform UniverSIS could be manipulated via SQLi<a href="https://portswigger.net/daily-swig/student-grades-stored-in-greek-education-platform-universis-could-be-manipulated-via-sqli?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A SQL injection (SQLi) vulnerability in UniverSIS, an open-source platform developed by Greek universities to manage student data, left academic grades at risk of manipulation.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] Your First 90 Days as MSSP: 10 Steps to Success<a href="https://thehackernews.com/2022/04/ebook-your-first-90-days-as-mssp-10.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bad actors continuously evolve their tactics and are becoming more sophisticated. Within the past couple of years, we've seen supply chain attacks that quickly create widespread damage throughout entire industries. But the attackers aren't just focusing their efforts on supply chains. For example, businesses are becoming increasingly more reliant on SaaS apps and the cloud – creating a new avenue for attackers to steal critical data and assets. The looming threat of ransomware attacks, phishing scams, and destructive BEC campaigns has businesses wondering: do I need to increase my security?  As a result, many managed service providers (MSP) are fielding questions about the level of security they can provide for their customers. In this new environment, MSPs are finding they can no longer avoid offering cybersecurity services. Fortunately,  there's an eBook  for MSPs who are expanding into the security space as managed security service providers (MSSP).   It's vital for MSPs to have a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Department of State offers $10M reward for info to locate six Russian Sandworm members<a href="https://securityaffairs.co/wordpress/130669/apt/us-offers-10-reward-for-info-to-locate-six-russian-sandworm-members.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government offers up to $10 million for info that allows to identify or locate six Russian GRU hackers who are members of the Sandworm APT group.
+
+
+
+The US Department of State is offering up to $10 million for info that allows to identify or locate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Black Basta ransomware springs into action with a dozen breaches<a href="https://www.bleepingcomputer.com/news/security/new-black-basta-ransomware-springs-into-action-with-a-dozen-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware gang known as Black Basta has quickly catapulted into operation this month, claiming to have breached over twelve companies in just a few weeks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware demands are growing, but life is getting tougher for malware gangs<a href="https://www.zdnet.com/article/ransomware-demands-are-growing-but-life-is-getting-tougher-for-malware-gangs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victims of ransomware attacks are paying higher ransoms than ever before, but there are signs that organizations are starting to take heed of cybersecurity advice, making them more resilient to cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Targeting Russian Military Personnel with Updated PlugX Malware<a href="https://thehackernews.com/2022/04/chinese-hackers-targeting-russian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked government-sponsored threat actor observed striking European diplomatic entities in March may have been targeting Russian government officials with an updated version of a remote access trojan called  PlugX .  Secureworks attributed the attempted intrusions to a threat actor it tracks as Bronze President, and by the wider cybersecurity community under the monikers Mustang Panda, TA416, HoneyMyte, RedDelta, and PKPLUG.  "The war in Ukraine has prompted many countries to deploy their cyber capabilities to gain insight about global events, political machinations, and motivations," the cybersecurity firm  said  in a report shared with The Hacker News. "This desire for situational awareness often extends to collecting intelligence from allies and 'friends.'"  Bronze President, active since at least July 2018, has a history of conducting espionage operations by leveraging custom and publicly available tools to compromise, maintain long-term access,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Nimbuspwn flaws could allow attackers to deploy sophisticated threats<a href="https://securityaffairs.co/wordpress/130662/hacking/nimbuspwn-linux-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft disclosed two Linux privilege escalation flaws, collectively named Nimbuspwn, that could allow conducting various malicious activities.
+
+
+
+The Microsoft 365 Defender Research Team has discovered two Linux privilege escalation flaws (tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub: How stolen OAuth tokens helped breach dozens of orgs<a href="https://www.bleepingcomputer.com/news/security/github-how-stolen-oauth-tokens-helped-breach-dozens-of-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub has shared a timeline of this month's security breach when a threat actor gained access to and stole private repositories belonging to dozens of organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 101 Patches 30 Vulnerabilities<a href="https://www.securityweek.com/chrome-101-patches-30-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week announced that Chrome 101 was released to the stable channel with 30 security fixes inside, including 25 for vulnerabilities identified by external security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google's New Safety Section Shows What Data Android Apps Collect About Users<a href="https://thehackernews.com/2022/04/googles-new-safety-section-shows-what.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday officially began rolling out a new "Data safety" section for Android apps on the Play Store to highlight the type of data being collected and shared with third-parties.  "Users want to know for what purpose their data is being collected and whether the developer is sharing user data with third parties," Suzanne Frey, Vice President of product for Android security and privacy,  said . "In addition, users want to understand how app developers are securing user data after an app is downloaded."  The transparency measure, which is built along the lines of Apple's " Privacy Nutrition Labels ," was  first announced  by Google nearly a year ago in May 2021.   The Data safety section, which will show up against every app listing on the digital storefront, presents a unified view of what data is being collected, for what purpose it's being used, and how it's handled, while also highlighting what data is being shared with thi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wind Turbine giant Deutsche Windtechnik hit by a professional Cyberattack<a href="https://securityaffairs.co/wordpress/130648/hacking/deutsche-windtechnik-professional-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The German wind turbine giant Deutsche Windtechnik was hit by a targeted cyberattack earlier this month.
+
+
+
+German wind turbine giant Deutsche Windtechnik announced that some of its systems were hit by a targeted professional cyberattack earlier this...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns users to disable AFP until it fixes critical bugs<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-users-to-disable-afp-until-it-fixes-critical-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese corporation QNAP has asked customers this week to disable the AFP file service protocol on their network-attached storage (NAS) appliances until it fixes multiple critical Netatalk vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Package Planting: Are You Unknowingly Maintaining Poisoned Packages?<a href="https://blog.aquasec.com/npm-package-planting?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aqua’s Team Nautilus found a logical flaw in npm that allows threat actors to masquerade a malicious package as legitimate and trick unsuspecting developers into installing it.
+</details>
+<div style="text-align: right" markdown="1">
+Aquasec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Offers $10 Million Bounty for Information on 6 Russian Military Hackers<a href="https://thehackernews.com/2022/04/us-offers-10-million-bounty-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Tuesday  announced  up to $10 million in rewards for information on six hackers associated with the Russian military intelligence service.  "These individuals participated in malicious cyber activities on behalf of the Russian government against U.S. critical infrastructure in violation of the Computer Fraud and Abuse Act," the State Department's Rewards for Justice Program  said .  All the six Russian officers are members of an advanced persistent threat group called Sandworm (aka Voodoo Bear or Iron Viking), which is known to be operating since at least 2008 with a specific focus on targeting entities in Ukraine with the goal of establishing an illicit, long-term presence in order to mine highly sensitive data.   The hackers, who are officers of the Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation ( GRU ), are as follows -   Artem Valeryevich Ochichenko , who has been linked to technical reconnaissa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware operations surge despite the recent leak<a href="https://securityaffairs.co/wordpress/130640/cyber-crime/conti-ransomware-operations-continues.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti ransomware gang continues to target organizations worldwide despite the massive data leak has shed light on its operations.
+
+
+
+Researchers from Secureworks state that the Conti ransomware gang, tracked as a Russia-based threat actor Gold Ulrick,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft says Russia hit Ukraine with hundreds of cyberattacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-says-russia-hit-ukraine-with-hundreds-of-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has revealed the true scale of Russian-backed cyberattacks against Ukraine since the invasion, with hundreds of attempts from multiple Russian hacking groups targeting the country's infrastructure and Ukrainian citizens.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Wind Turbine Firm Hit by 'Targeted, Professional Cyberattack'<a href="https://www.securityweek.com/german-wind-turbine-firm-discloses-targeted-professional-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German wind turbine giant Deutsche Windtechnik has issued a notification to warn that some of its IT systems were impacted in a targeted professional cyberattack earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian govt impersonators target telcos in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/russian-govt-impersonators-target-telcos-in-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown and financially motivated hacking group is impersonating a Russian agency in a phishing campaign targeting entities in Eastern European countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ARMO Raises $30 Million for Open Source Kubernetes Security Platform<a href="https://www.securityweek.com/armo-raises-30-million-open-source-kubernetes-security-platform?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest investment, which brings ARMO’s total funding to date to $34.5 million, was led by Tiger Global and Hyperwise Ventures, with participation from existing investors Pitango First and Peled Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity agencies reveal top exploited vulnerabilities of 2021<a href="https://www.bleepingcomputer.com/news/security/cybersecurity-agencies-reveal-top-exploited-vulnerabilities-of-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In partnership with the NSA and the FBI, cybersecurity authorities worldwide have released today a list of the top 15 vulnerabilities routinely exploited by threat actors during 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Illinois-based doctor's group reports data breach affecting patients' personal, financial data<a href="https://www.lakemchenryscanner.com/2022/04/26/gurnee-based-doctors-group-reports-data-breach-of-patients-personal-financial-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Illinois Gastroenterology Group, based in Gurnee with offices throughout the Chicago area, said they recently experienced a security breach that left their patients’ private data and financial information exposed.
+</details>
+<div style="text-align: right" markdown="1">
+Lake & Mchenry County Scanner
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RIG Exploit Kit drops RedLine malware via Internet Explorer bug<a href="https://www.bleepingcomputer.com/news/security/rig-exploit-kit-drops-redline-malware-via-internet-explorer-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have uncovered yet another large-scale campaign delivering the RedLine stealer malware onto worldwide targets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese state-backed hackers now target Russian state officers<a href="https://www.bleepingcomputer.com/news/security/chinese-state-backed-hackers-now-target-russian-state-officers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers analyzing a phishing campaign targeting Russian officials found evidence that points to the China-based threat actor tracked as Mustang Panda (also known as HoneyMyte and Bronze President).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Redis, MongoDB, and Elastic: 2022’s top exposed databases<a href="https://www.bleepingcomputer.com/news/security/redis-mongodb-and-elastic-2022-s-top-exposed-databases/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have noticed an increase in the number of databases publicly exposed to the Internet, with 308,000 identified in 2021. The growth continued quarter over quarter, peaking in the first months of this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Nimbuspwn Linux vulnerability gives hackers root privileges<a href="https://www.bleepingcomputer.com/news/security/new-nimbuspwn-linux-vulnerability-gives-hackers-root-privileges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new set of vulnerabilities collectively tracked as Nimbuspwn could let local attackers escalate privileges on Linux systems to deploy malware ranging from backdoors to ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NPM Bug Allowed Attackers to Distribute Malware as Legitimate Packages<a href="https://thehackernews.com/2022/04/npm-bug-allowed-attackers-to-distribute.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A "logical flaw" has been disclosed in NPM, the default package manager for the Node.js JavaScript runtime environment, that enables malicious actors to pass off rogue libraries as legitimate and trick unsuspecting developers into installing them.  The supply chain threat has been dubbed "Package Planting" by researchers from cloud security firm Aqua. Following responsible disclosure on February 10, the underlying issue was remediated by NPM on April 26.   "Up until recently, NPM allowed adding anyone as a maintainer of the package without notifying these users or getting their consent," Aqua's Yakir Kadkoda  said  in a report published Tuesday.  This effectively meant that an adversary could create malware-laced packages and assign them to trusted, popular maintainers without their knowledge.   The idea here is to add credible owners associated with other popular NPM libraries to the attacker-controlled poisoned package in hopes that doing so would a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Discovers New Privilege Escalation Flaws in Linux Operating System<a href="https://thehackernews.com/2022/04/microsoft-discovers-new-privilege.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday disclosed a set of two privilege escalation vulnerabilities in the Linux operating system that could potentially allow threat actors to carry out an array of nefarious activities.  Collectively called " Nimbuspwn ," the flaws "can be chained together to gain root privileges on Linux systems, allowing attackers to deploy payloads, like a root backdoor, and perform other malicious actions via arbitrary root code execution," Jonathan Bar Or of the Microsoft 365 Defender Research Team  said  in a report.   On top of that, the defects — tracked as  CVE-2022-29799 and CVE-2022-29800  — could also be weaponized as a vector for root access to deploy more sophisticated threats such as ransomware.  The vulnerabilities are rooted in a  systemd  component called  networkd-dispatcher , a  daemon program  for the network manager system service that's designed to dispatch network status changes.   Specifically, they relate to a combination of  directory t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US offers $10 million reward for tips on Russian Sandworm hackers<a href="https://www.bleepingcomputer.com/news/security/us-offers-10-million-reward-for-tips-on-russian-sandworm-hackers/"> Full Text</a>
@@ -50,7 +514,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT has Updated its Attack Tactics<a href="https://cyware.com/news/teamtnt-has-updated-its-attack-tactics-0081a4e0"> Full Text</a>
@@ -67,7 +531,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Testing New Delivery Ideas After Microsoft Disables VBA Macros by Default<a href="https://thehackernews.com/2022/04/emotet-testing-new-delivery-ideas-after.html"> Full Text</a>
@@ -83,7 +547,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked APT Rocket Kitten exploited VMware bug in recent attacks<a href="https://securityaffairs.co/wordpress/130630/apt/iran-apt-exploiting-vmware-rce.html"> Full Text</a>
@@ -103,7 +567,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet malware now installs via PowerShell in Windows shortcut files<a href="https://www.bleepingcomputer.com/news/security/emotet-malware-now-installs-via-powershell-in-windows-shortcut-files/"> Full Text</a>
@@ -119,7 +583,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prynt Stealer: A Newly Discovered Threat<a href="https://cyware.com/news/prynt-stealer-a-newly-discovered-threat-411886b5"> Full Text</a>
@@ -136,7 +600,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gold Ulrick Hackers Still in Action Despite Massive Conti Ransomware Leak<a href="https://thehackernews.com/2022/04/gold-ulrick-hackers-still-in-action.html"> Full Text</a>
@@ -152,7 +616,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds new Microsoft, Linux, and Jenkins flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/130625/security/known-exploited-vulnerabilities-catalog-7-new-flaws.html"> Full Text</a>
@@ -172,7 +636,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 American Dental Association hit by new Black Basta ransomware<a href="https://www.bleepingcomputer.com/news/security/american-dental-association-hit-by-new-black-basta-ransomware/"> Full Text</a>
@@ -188,7 +652,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Share New Insights on Nokoyawa Ransomware<a href="https://cyware.com/news/researchers-share-new-insights-on-nokoyawa-ransomware-0274e620"> Full Text</a>
@@ -204,7 +668,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Target Journalists with GOLDBACKDOOR Malware<a href="https://thehackernews.com/2022/04/north-korean-hackers-target-journalists.html"> Full Text</a>
@@ -220,7 +684,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stormous ransomware gang claims to have hacked Coca-Cola<a href="https://securityaffairs.co/wordpress/130614/cyber-crime/stormous-ransomware-hit-coca-cola.html"> Full Text</a>
@@ -240,7 +704,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coca-Cola investigates hackers' claims of breach and data theft<a href="https://www.bleepingcomputer.com/news/security/coca-cola-investigates-hackers-claims-of-breach-and-data-theft/"> Full Text</a>
@@ -256,7 +720,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackByte Ransomware - Wilder And Scarier Than Ever<a href="https://cyware.com/news/blackbyte-ransomware-wilder-and-scarier-than-ever-225dc443"> Full Text</a>
@@ -273,7 +737,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked APT37 targets journalists with GOLDBACKDOOR<a href="https://securityaffairs.co/wordpress/130606/apt/apt37-targets-journalists-goldbackdoor.html"> Full Text</a>
@@ -297,7 +761,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Play Store now forces apps to disclose what data is collected<a href="https://www.bleepingcomputer.com/news/security/google-play-store-now-forces-apps-to-disclose-what-data-is-collected/"> Full Text</a>
@@ -313,7 +777,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside a ransomware incident: How a single mistake left a door open for attackers<a href="https://www.zdnet.com/article/inside-a-ransomware-incident-how-a-single-mistake-left-a-door-open-for-attackers/?&web_view=true"> Full Text</a>
@@ -329,7 +793,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anomaly Six, a US surveillance firm that tracks roughly 3 billion devices in real-time<a href="https://securityaffairs.co/wordpress/130589/digital-id/anomaly-six-us-surveillance-firm.html"> Full Text</a>
@@ -349,7 +813,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Public interest in Log4Shell fades but attack surface remains<a href="https://www.bleepingcomputer.com/news/security/public-interest-in-log4shell-fades-but-attack-surface-remains/"> Full Text</a>
@@ -365,7 +829,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IBM database updates address critical vulnerabilities in third-party XML parser<a href="https://portswigger.net/daily-swig/ibm-database-updates-address-critical-vulnerabilities-in-third-party-xml-parser?&web_view=true"> Full Text</a>
@@ -381,7 +845,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 David Colombo on Tesla Hacks and Growing into Hacking<a href="https://www.bleepingcomputer.com/news/security/david-colombo-on-tesla-hacks-and-growing-into-hacking/"> Full Text</a>
@@ -397,7 +861,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Operators Use New Delivery Techniques Like OneDrive URLs and XLL Files<a href="https://www.proofpoint.com/us/blog/threat-insight/emotet-tests-new-delivery-techniques?&web_view=true"> Full Text</a>
@@ -413,7 +877,7 @@ Proof Point
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploit critical VMware RCE flaw to install backdoors<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-vmware-rce-flaw-to-install-backdoors/"> Full Text</a>
@@ -429,7 +893,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 France: Health data leak leads to $1.6 million fine against Dedalus Biologie<a href="https://www.lexology.com/library/detail.aspx?g=b4bd34bf-45ea-4d2f-9f4d-a5af27602171&web_view=true"> Full Text</a>
@@ -445,7 +909,7 @@ Lexology
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2022
+April 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stormous Ransomware Group Claims to Steal 161GB of Data from Coca Cola<a href="https://therecord.media/coca-cola-investigating-claims-of-hack-after-ransomware-group-hawks-stolen-data/?&web_view=true"> Full Text</a>
@@ -461,7 +925,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2022
+April 25, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Exploiting VMware RCE Bug to Deploy 'Core Impact' Backdoor<a href="https://thehackernews.com/2022/04/iranian-hackers-exploiting-vmware-rce.html"> Full Text</a>
