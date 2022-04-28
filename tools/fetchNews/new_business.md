@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ARMO Raises $30 Million for Open Source Kubernetes Security Platform<a href="https://www.securityweek.com/armo-raises-30-million-open-source-kubernetes-security-platform?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest investment, which brings ARMO’s total funding to date to $34.5 million, was led by Tiger Global and Hyperwise Ventures, with participation from existing investors Pitango First and Peled Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

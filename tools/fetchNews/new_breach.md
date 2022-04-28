@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Student grades stored in Greek education platform UniverSIS could be manipulated via SQLi<a href="https://portswigger.net/daily-swig/student-grades-stored-in-greek-education-platform-universis-could-be-manipulated-via-sqli?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A SQL injection (SQLi) vulnerability in UniverSIS, an open-source platform developed by Greek universities to manage student data, left academic grades at risk of manipulation.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Black Basta ransomware springs into action with a dozen breaches<a href="https://www.bleepingcomputer.com/news/security/new-black-basta-ransomware-springs-into-action-with-a-dozen-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware gang known as Black Basta has quickly catapulted into operation this month, claiming to have breached over twelve companies in just a few weeks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub: How stolen OAuth tokens helped breach dozens of orgs<a href="https://www.bleepingcomputer.com/news/security/github-how-stolen-oauth-tokens-helped-breach-dozens-of-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub has shared a timeline of this month's&nbsp;security breach when a threat actor gained access to and stole private repositories&nbsp;belonging to dozens of organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Illinois-based doctor's group reports data breach affecting patients' personal, financial data<a href="https://www.lakemchenryscanner.com/2022/04/26/gurnee-based-doctors-group-reports-data-breach-of-patients-personal-financial-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Illinois Gastroenterology Group, based in Gurnee with offices throughout the Chicago area, said they recently experienced a security breach that left their patients’ private data and financial information exposed.
+</details>
+<div style="text-align: right" markdown="1">
+Lake &amp; Mchenry County Scanner
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Department of State offers $10M reward for info to locate six Russian Sandworm members<a href="https://securityaffairs.co/wordpress/130669/apt/us-offers-10-reward-for-info-to-locate-six-russian-sandworm-members.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government offers up to $10 million for info that allows to identify or locate six Russian GRU hackers who are members of the Sandworm APT group.
+
+
+
+The US Department of State is offering up to $10 million for info that allows to identify or locate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

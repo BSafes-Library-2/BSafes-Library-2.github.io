@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stormous ransomware gang claims to have hacked Coca-Cola<a href="https://securityaffairs.co/wordpress/130614/cyber-crime/stormous-ransomware-hit-coca-cola.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;Stormous ransomware gang claims to have hacked the multinational&nbsp;beverage corporation Coca-Cola Company.
+
+
+
+The Stormous ransomware gang announced with a post on its leak site to have hacked the multinational&nbsp;beverage corporation Coca-Cola...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Operators Use New Delivery Techniques Like OneDrive URLs and XLL Files<a href="https://www.proofpoint.com/us/blog/threat-insight/emotet-tests-new-delivery-techniques?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The activity occurred while Emotet was on a “spring break,” not conducting its typical high volume threat campaigns. The threat actor has since resumed its typical activity.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

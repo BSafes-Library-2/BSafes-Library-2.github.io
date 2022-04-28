@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google's New Safety Section Shows What Data Android Apps Collect About Users<a href="https://thehackernews.com/2022/04/googles-new-safety-section-shows-what.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday officially began rolling out a new "Data safety" section for Android apps on the Play Store to highlight the type of data being collected and shared with third-parties.  "Users want to know for what purpose their data is being collected and whether the developer is sharing user data with third parties," Suzanne Frey, Vice President of product for Android security and privacy,&nbsp; said . "In addition, users want to understand how app developers are securing user data after an app is downloaded."  The transparency measure, which is built along the lines of Apple's " Privacy Nutrition Labels ," was&nbsp; first announced &nbsp;by Google nearly a year ago in May 2021.   The Data safety section, which will show up against every app listing on the digital storefront, presents a unified view of what data is being collected, for what purpose it's being used, and how it's handled, while also highlighting what data is being shared with thi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

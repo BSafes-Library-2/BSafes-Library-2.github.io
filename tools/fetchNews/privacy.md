@@ -8,6 +8,38 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Play Store now forces apps to disclose what data is collected<a href="https://www.bleepingcomputer.com/news/security/google-play-store-now-forces-apps-to-disclose-what-data-is-collected/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is rolling out a new Data Safety section on the Play Store, Android's official app repository, where developers must declare what data their software collects from users of their apps.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anomaly Six, a US surveillance firm that tracks roughly 3 billion devices in real-time<a href="https://securityaffairs.co/wordpress/130589/digital-id/anomaly-six-us-surveillance-firm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An interesting article published by The Intercept reveals the secretive business of a US surveillance firm named Anomaly Six.
+
+
+
+When we speak about the secretive business of surveillance businesses we often refer to the powerful tools developed by Israeli...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

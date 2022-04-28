@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian govt impersonators target telcos in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/russian-govt-impersonators-target-telcos-in-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown and&nbsp;financially motivated hacking group is impersonating a Russian agency in a phishing campaign targeting entities in Eastern European countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT has Updated its Attack Tactics<a href="https://cyware.com/news/teamtnt-has-updated-its-attack-tactics-0081a4e0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TeamTNT hackers’ shell scripts were found disabling cloud security tools to attack AWS and Alibaba Cloud. Its payloads include credential stealers, cryptocurrency miners, persistence, and lateral movement. Organizations are suggested to continue taking the right measures to protect your systems fro ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gold Ulrick Hackers Still in Action Despite Massive Conti Ransomware Leak<a href="https://thehackernews.com/2022/04/gold-ulrick-hackers-still-in-action.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous ransomware group known as Conti has&nbsp; continued &nbsp;its onslaught against entities despite suffering a massive data leak of its own earlier this year, according to new research.  Conti, attributed to a Russia-based threat actor known as Gold Ulrick , is one of the most prevalent malware strains in the ransomware landscape, accounting for&nbsp; 19% of all attacks &nbsp;during the three-month-period between October and December 2021.  One of the most prolific ransomware groups of the last year along the likes of LockBit 2.0, PYSA, and Hive, Conti has locked the networks of hospitals, businesses, and government agencies, while receiving a ransom payment in exchange for sharing the decryption key as part of its name-and-shame scheme.  But after the cybercriminal cartel came out in support of Russia over its invasion of Ukraine in February, an anonymous Ukrainian security researcher under the Twitter handle&nbsp; ContiLeaks &nbsp;began leaking the source code as well as private conversations between
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

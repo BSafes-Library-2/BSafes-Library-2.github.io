@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Public interest in Log4Shell fades but attack surface remains<a href="https://www.bleepingcomputer.com/news/security/public-interest-in-log4shell-fades-but-attack-surface-remains/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's been four months since Log4Shell, a critical zero-day vulnerability in the ubiquitous Apache Log4j library, was discovered, and threat analysts warn that the application of the available fixes is still way behind.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM database updates address critical vulnerabilities in third-party XML parser<a href="https://portswigger.net/daily-swig/ibm-database-updates-address-critical-vulnerabilities-in-third-party-xml-parser?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM has updated its data management platform Db2 in order to protect users from a pair of critical vulnerabilities in older versions of Expat, a third-party library. Both flaws notched a CVSS score of 9.8.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit critical VMware RCE flaw to install backdoors<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-vmware-rce-flaw-to-install-backdoors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advanced hackers are actively exploiting a critical remote code execution (RCE) vulnerability,&nbsp;CVE-2022-22954, that affects in VMware Workspace ONE Access (formerly called VMware Identity Manager).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
