@@ -34,6 +34,507 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EmoCheck now detects new 64-bit versions of Emotet malware<a href="https://www.bleepingcomputer.com/news/security/emocheck-now-detects-new-64-bit-versions-of-emotet-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Japan CERT has released a new version of their EmoCheck utility to detect new 64-bit versions of the Emotet malware that began infecting users this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum Ransomware Stuns Researchers with Blazing Fast Attack Speed<a href="https://cyware.com/news/quantum-ransomware-stuns-researchers-with-blazing-fast-attack-speed-6ab9b140"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the DFIR Report, Quantum ransomware has upped its encryption game as it now encrypts systems within a few hours of penetration within a network. Rapid attacks are concerning as they offer less time for analysts to defend their systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Detail 3 Hacking Teams Working Under the Umbrella of TA410 Group<a href="https://thehackernews.com/2022/04/experts-detail-3-hacking-teams-working.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberespionage threat actor known for targeting a variety of critical infrastructure sectors in Africa, the Middle East, and the U.S. has been observed using an upgraded version of a remote access trojan with information stealing capabilities.  Calling  TA410  an umbrella group comprised of three teams dubbed FlowingFrog, LookingFrog and JollyFrog, Slovak cybersecurity firm ESET  assessed  that "these subgroups operate somewhat independently, but that they may share intelligence requirements, an access team that runs their spear-phishing campaigns, and also the team that deploys network infrastructure."  TA410 — said to share behavioral and tooling overlaps with  APT10  (aka Stone Panda or TA429) — has a history of targeting U.S-based organizations in the utilities sector as well as diplomatic entities in the Middle East and Africa.  Other identified victims of the hacker collective include a manufacturing company in Japan, a mining business in India, and a charity in Isra
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bumblebee, a new malware loader used by multiple crimeware threat actors<a href="https://securityaffairs.co/wordpress/130699/cyber-crime/new-bumblebee-loader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have replaced the BazaLoader and IcedID malware with a new loader called Bumblebee in their campaigns.
+
+
+
+Cybercriminal groups that were previously using the BazaLoader and IcedID as part of their malware campaigns seem to have adopted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology warns of critical Netatalk bugs in multiple products<a href="https://www.bleepingcomputer.com/news/security/synology-warns-of-critical-netatalk-bugs-in-multiple-products/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Synology has warned customers that some of its network-attached storage (NAS) appliances are exposed to attacks exploiting multiple critical Netatalk vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean APT37 Targets Journalists with GoldBackdoor<a href="https://cyware.com/news/north-korean-apt37-targets-journalists-with-goldbackdoor-ae04b383"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT37, suspected to have ties with the North Korean government, was found targeting journalists with sophisticated info-stealer malware dubbed Goldbackdoor. The emails sent to the journalists included a link to download ZIP archives with LNK files. Targets are advised to ensure they don’t open any  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Everything you need to know to create a Vulnerability Assessment Report<a href="https://thehackernews.com/2022/04/everything-you-need-to-know-to-create.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+You've been asked for a Vulnerability Assessment Report for your organisation and for some of you reading this article, your first thought is likely to be "What is that?"  Worry not. This article will answer that very question as well as why you need a Vulnerability Assessment Report and where you can get one from.   As it's likely the request for such a report came from an important source such as the Board, a partner, a client or an auditor, there isn't a moment to waste. So let's drive straight in.  What is a Vulnerability Assessment Report and why do you need one?  A Vulnerability Assessment Report is simply a document that illustrates how you are managing your organisation's vulnerabilities. It's important because, with tens of thousands of new technology flaws being discovered every year, you need to be able to prove that your organisation does its best to avoid attack if you want to be trusted by partners and customers.   A best security practi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA published 2021 Top 15 most exploited software vulnerabilities<a href="https://securityaffairs.co/wordpress/130691/hacking/top-15-most-exploited-software-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity and Infrastructure Security Agency (CISA) published a list of 2021's top 15 most exploited software vulnerabilities
+
+
+
+Cybersecurity and Infrastructure Security Agency (CISA) published the list of 2021's top 15 most exploited software vulnerabilities
+
+
+
+This...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes ExtraReplica Azure bugs that exposed user databases<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-extrareplica-azure-bugs-that-exposed-user-databases/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has addressed a chain of critical vulnerabilities found in the Azure Database for PostgreSQL Flexible Server that could let malicious users escalate privileges and gain access to other customers' databases after bypassing authentication.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Cyberattacks Launched on Ukraine - Microsoft Report<a href="https://cyware.com/news/hundreds-of-cyberattacks-launched-on-ukraine-microsoft-report-d63ea069"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Right before the invasion, at least six Russian distinct actors launched more than 237 attacks. All of these attacks were of destructive nature and many are still ongoing.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using New Malware Loader 'Bumblebee' in the Wild<a href="https://thehackernews.com/2022/04/cybercriminals-using-new-malware-loader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminal actors previously observed delivering BazaLoader and IcedID as part of their malware campaigns are said to have transitioned to a new loader called Bumblebee that's under active development.  "Based on the timing of its appearance in the threat landscape and use by multiple cybercriminal groups, it is likely Bumblebee is, if not a direct replacement for BazaLoader, then a new, multifunctional tool used by actors that historically favored other malware," enterprise security firm Proofpoint  said  in a report shared with The Hacker News.  Campaigns distributing the new highly sophisticated loader are said to have commenced in March 2022, while sharing overlaps with malicious activity  leading to the deployment of Conti and Diavol ransomware, raising the possibility that the loader could act as a precursor for ransomware attacks.  "Threat actors using Bumblebee are associated with malware payloads that have been linked to follow-on ransomware campaigns,&q
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CloudFlare blocked a record HTTPs DDoS attack peaking at 15 rps<a href="https://securityaffairs.co/wordpress/130685/hacking/cloudflare-record-https-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has mitigated a distributed denial-of-service (DDoS) attack that peaked at 15.3 million request-per-second (RPS). 
+
+
+
+Cloudflare announced to have mitigated a distributed denial-of-service (DDoS) attack that peaked at 15.3 million request-per-second...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical software firm fined €1.5M for leaking data of 490k patients<a href="https://www.bleepingcomputer.com/news/security/medical-software-firm-fined-15m-for-leaking-data-of-490k-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French data protection authority (CNIL) fined medical software vendor Dedalus Biology with EUR 1.5 million for violating three articles of the GDPR (General Data Protection Regulation).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Vector DDoS Attacks Surge<a href="https://cyware.com/news/multi-vector-ddos-attacks-surge-f5ae33c2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Kaspersky, there has been a 46% rise in the number of attacks. The U.S. accounted for the most number of targets at 45.01%, followed by China (9.34%) and Germany (4.95%).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter's New Owner Elon Musk Wants DMs to be End-to-End Encrypted like Signal<a href="https://thehackernews.com/2022/04/twitters-new-owner-elon-musk-wants-dms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elon Musk, CEO of SpaceX and Tesla and Twitter's new owner, on Thursday called on adding support for end-to-end encryption (E2EE) to the platform's direct messages ( DM ) feature.  "Twitter DMs should have end to end encryption like Signal, so no one can spy on or hack your messages," Musk  said  in a tweet.  The statement comes days after the microblogging service  announced  it officially entered into an agreement to be acquired by an entity wholly owned by Elon Musk, with the transaction valued at approximately US$ 44 billion, or US$ 54.20 per share in cash.    The deal, which is expected to be closed over the next six months, will see it becoming a privately held company.  "Free speech is the bedrock of a functioning democracy, and Twitter is the digital town square where matters vital to the future of humanity are debated," Musk said in a statement.  "I also want to make Twitter better than ever by enhancing the product with new features, making t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked threat actors launched hundreds of cyberattacks on Ukraine<a href="https://securityaffairs.co/wordpress/130677/apt/russia-hit-ukraine-hundreds-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft revealed that Russia launched hundreds of cyberattacks against Ukraine since the beginning of the invasion.
+
+
+
+Microsoft states that at least six separate Russia-linked threat actors launched more than 237 operations against Ukraine starting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine targeted by DDoS attacks from compromised WordPress sites<a href="https://www.bleepingcomputer.com/news/security/ukraine-targeted-by-ddos-attacks-from-compromised-wordpress-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's computer emergency response team (CERT-UA) has published an announcement warning of ongoing DDoS (distributed denial of service) attacks targeting pro-Ukraine sites and the government web portal.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals deliver IRS tax scams and phishing campaigns by mimicking government vendors<a href="https://www.helpnetsecurity.com/2022/04/28/irs-tax-scams-phishing-mimicking-government-vendors/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals purposely choose specific times when all of us are busy with taxes, and preparing for holidays (e.g., Easter), that’s why you need to be especially careful during these times.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RIG Exploit Kit Campaign Infecting Victims' PCs with RedLine Stealer<a href="https://thehackernews.com/2022/04/new-rig-exploit-kit-campaign-infecting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new campaign leveraging an exploit kit has been observed abusing an Internet Explorer flaw patched by Microsoft last year to deliver the RedLine Stealer trojan.  "When executed, RedLine Stealer performs recon against the target system (including username, hardware, browsers installed, anti-virus software) and then exfiltrates data (including passwords, saved credit cards, crypto wallets, VPN logins) to a remote command and control server," Bitdefender  said  in a new report shared with The Hacker News.  Most of the infections are located in Brazil and Germany, followed by the U.S., Egypt, Canada, China, and Poland, among others.  Exploit kits or exploit packs are comprehensive tools that contain a collection of exploits designed to take advantage of vulnerabilities in commonly-used software by scanning infected systems for different kinds of flaws and deploying additional malware.   The primary infection method used by attackers to distribute exploit kits, in this case the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Attack Your Own Company's Service Desk to spot risks<a href="https://www.bleepingcomputer.com/news/security/how-to-attack-your-own-companys-service-desk-to-spot-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Specops Secure Service Desk is an excellent tool for keeping a help desk safe from social engineering attacks. Although Specops Secure Service Desk offers numerous features, there are three capabilities that are especially useful for thwarting social engineering attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Veza Raises $110M in Funding<a href="https://www.finsmes.com/2022/04/veza-raises-110m-in-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Backers included Accel, Bain Capital, Ballistic Ventures, GV, Norwest Venture Partners, and True Ventures, as well as Kevin Mandia, Enrique Salem, Lane Bess, Manoj Apte, Joe Montana, Niels Provos, and Karthik Rangarajan, and many more.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Bumblebee malware replaces Conti's BazarLoader in cyberattacks<a href="https://www.bleepingcomputer.com/news/security/new-bumblebee-malware-replaces-contis-bazarloader-in-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered malware loader called Bumblebee is likely the latest development of the Conti syndicate, designed to replace the BazarLoader backdoor used to deliver ransomware payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Detecting Ransomware’s Stealthy Boot Configuration Edits<a href="https://www.binarydefense.com/detecting-ransomwares-stealthy-boot-configuration-edits/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hypothesis used by researchers is that threat actors don’t necessarily have to use bcdedit to modify bootloader configurations but could implement code that directly modifies the Windows registry keys that determine those configurations.
+</details>
+<div style="text-align: right" markdown="1">
+Binary Defense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NPM flaw let attackers add anyone as maintainer to malicious packages<a href="https://www.bleepingcomputer.com/news/security/npm-flaw-let-attackers-add-anyone-as-maintainer-to-malicious-packages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A logical flaw in the npm registry, dubbed 'package planting' let authors of malicious packages quietly add anyone and any number of users as 'maintainers' to their packages in an attempt to boost the trust in their package.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare detects one of the largest DDoS attacks on record targeting crypto platform<a href="https://therecord.media/cloudflare-detects-one-of-the-largest-ddos-attacks-on-record-targeting-crypto-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Cloudflare, the attack, which lasted less than 15 seconds, was launched from a botnet of approximately 6,000 unique bots and originated from 112 countries around the world.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom payment is roughly 15% of the total cost of ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/ransom-payment-is-roughly-15-percent-of-the-total-cost-of-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers analyzing the collateral consequences of a ransomware attack include costs that are roughly seven times higher than the ransom demanded by the threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Austin Peay State University resumes after ransomware cyber attack<a href="https://www.bleepingcomputer.com/news/security/austin-peay-state-university-resumes-after-ransomware-cyber-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Austin Peay State University (APSU) confirmed yesterday that it had been a victim of a ransomware attack. The university, located in Clarksville, Tennessee advised students, staff, and faculty to disconnect their computers and devices from the university network immediately as a precaution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S Cybersecurity Agency Lists 2021's Top 15 Most Exploited Software Vulnerabilities<a href="https://thehackernews.com/2022/04/us-cybersecurity-agency-lists-2021s-top.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Log4Shell ,  ProxyShell ,  ProxyLogon ,  ZeroLogon , and flaws in  Zoho ManageEngine AD SelfService Plus ,  Atlassian Confluence , and  VMware vSphere Client  emerged as some of the top exploited security vulnerabilities in 2021.   That's according to a " Top Routinely Exploited Vulnerabilities " report released by cybersecurity authorities from the Five Eyes nations Australia, Canada, New Zealand, the U.K., and the U.S.  Other frequently weaponized flaws included a remote code execution bug in Microsoft Exchange Server ( CVE-2020-0688 ), an arbitrary file read vulnerability in Pulse Secure Pulse Connect Secure ( CVE-2019-11510 ), and a path traversal defect in Fortinet FortiOS and FortiProxy ( CVE-2018-13379 ).   Nine of the top 15 routinely exploited flaws were remote code execution vulnerabilities, followed by two privilege escalation weaknesses, and one each of security feature bypass, arbitrary code execution, arbitrary file read, and path traversal flaws.   "G
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Thwarts Record DDoS Attack Peaking at 15 Million Requests Per Second<a href="https://thehackernews.com/2022/04/cloudflare-thwarts-record-ddos-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare on Wednesday disclosed that it acted to mitigate a 15.3 million request-per-second (RPS) distributed denial-of-service (DDoS) attack. The web infrastructure and website security company called it one of the "largest HTTPS DDoS attacks on record."   "HTTPS DDoS attacks are more expensive in terms of required computational resources because of the higher cost of establishing a secure TLS encrypted connection," Cloudflare's Omer Yoachimik and Julien Desgats  said . "Therefore it costs the attacker more to launch the attack, and for the victim to mitigate it."   The volumetric DDoS attack is said to have lasted less than 15 seconds and targeted an unnamed Cloudflare customer operating a crypto launchpad.   Volumetric DDoS attacks are designed to overwhelm a target network/service with significantly high volumes of malicious traffic, which typically originate from a botnet under a threat actor's control.   Cloudflare said the latest attack w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: Onyx ransomware destroys files instead of encrypting them<a href="https://www.bleepingcomputer.com/news/security/beware-onyx-ransomware-destroys-files-instead-of-encrypting-them/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Onyx ransomware operation is destroying large files instead of encrypting them, preventing those files from being decrypted even if a ransom is paid.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 27, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
