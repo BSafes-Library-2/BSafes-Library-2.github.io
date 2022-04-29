@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Veza Raises $110M in Funding<a href="https://www.finsmes.com/2022/04/veza-raises-110m-in-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Backers included Accel, Bain Capital, Ballistic Ventures, GV, Norwest Venture Partners, and True Ventures, as well as Kevin Mandia, Enrique Salem, Lane Bess, Manoj Apte, Joe Montana, Niels Provos, and Karthik Rangarajan, and many more.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

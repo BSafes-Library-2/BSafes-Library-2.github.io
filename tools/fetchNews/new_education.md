@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Everything you need to know to create a Vulnerability Assessment Report<a href="https://thehackernews.com/2022/04/everything-you-need-to-know-to-create.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+You've been asked for a Vulnerability Assessment Report for your organisation and for some of you reading this article, your first thought is likely to be "What is that?"  Worry not. This article will answer that very question as well as why you need a Vulnerability Assessment Report and where you can get one from.&nbsp;  As it's likely the request for such a report came from an important source such as the Board, a partner, a client or an auditor, there isn't a moment to waste. So let's drive straight in.  What is a Vulnerability Assessment Report and why do you need one?  A Vulnerability Assessment Report is simply a document that illustrates how you are managing your organisation's vulnerabilities. It's important because, with tens of thousands of new technology flaws being discovered every year, you need to be able to prove that your organisation does its best to avoid attack if you want to be trusted by partners and customers.&nbsp;  A best security practi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Attack Your Own Company's Service Desk to spot risks<a href="https://www.bleepingcomputer.com/news/security/how-to-attack-your-own-companys-service-desk-to-spot-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Specops Secure Service Desk is an excellent tool for keeping a help desk safe from social engineering attacks. Although Specops Secure Service Desk offers numerous features, there are three capabilities that are especially useful for thwarting social engineering attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

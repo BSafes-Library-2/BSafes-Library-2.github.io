@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] Your First 90 Days as MSSP: 10 Steps to Success<a href="https://thehackernews.com/2022/04/ebook-your-first-90-days-as-mssp-10.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bad actors continuously evolve their tactics and are becoming more sophisticated. Within the past couple of years, we've seen supply chain attacks that quickly create widespread damage throughout entire industries. But the attackers aren't just focusing their efforts on supply chains. For example, businesses are becoming increasingly more reliant on SaaS apps and the cloud – creating a new avenue for attackers to steal critical data and assets. The looming threat of ransomware attacks, phishing scams, and destructive BEC campaigns has businesses wondering: do I need to increase my security?  As a result, many managed service providers (MSP) are fielding questions about the level of security they can provide for their customers. In this new environment, MSPs are finding they can no longer avoid offering cybersecurity services. Fortunately,&nbsp; there's an eBook &nbsp;for MSPs who are expanding into the security space as managed security service providers (MSSP).&nbsp;  It's vital for MSPs to have a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

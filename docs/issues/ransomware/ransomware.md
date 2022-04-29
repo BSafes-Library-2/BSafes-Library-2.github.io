@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum Ransomware Stuns Researchers with Blazing Fast Attack Speed<a href="https://cyware.com/news/quantum-ransomware-stuns-researchers-with-blazing-fast-attack-speed-6ab9b140"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the DFIR Report, Quantum ransomware has upped its encryption game as it now encrypts systems within a few hours of penetration within a network. Rapid attacks are concerning as they offer less time for analysts to defend their systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Detecting Ransomware’s Stealthy Boot Configuration Edits<a href="https://www.binarydefense.com/detecting-ransomwares-stealthy-boot-configuration-edits/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hypothesis used by researchers is that threat actors don’t necessarily have to use bcdedit to modify bootloader configurations but could implement code that directly modifies the Windows registry keys that determine those configurations.
+</details>
+<div style="text-align: right" markdown="1">
+Binary Defense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: Onyx ransomware destroys files instead of encrypting them<a href="https://www.bleepingcomputer.com/news/security/beware-onyx-ransomware-destroys-files-instead-of-encrypting-them/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Onyx ransomware operation is destroying large files instead of encrypting them, preventing those files from being decrypted even if a ransom is paid.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

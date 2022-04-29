@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Offers $10 Million Bounty for Information on 6 Russian Military Hackers<a href="https://thehackernews.com/2022/04/us-offers-10-million-bounty-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Tuesday&nbsp; announced &nbsp;up to $10 million in rewards for information on six hackers associated with the Russian military intelligence service.  "These individuals participated in malicious cyber activities on behalf of the Russian government against U.S. critical infrastructure in violation of the Computer Fraud and Abuse Act," the State Department's Rewards for Justice Program&nbsp; said .  All the six Russian officers are members of an advanced persistent threat group called Sandworm (aka Voodoo Bear or Iron Viking), which is known to be operating since at least 2008 with a specific focus on targeting entities in Ukraine with the goal of establishing an illicit, long-term presence in order to mine highly sensitive data.   The hackers, who are officers of the Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation ( GRU ), are as follows -   Artem Valeryevich Ochichenko , who has been linked to technical reconnaissa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese state-backed hackers now target Russian state officers<a href="https://www.bleepingcomputer.com/news/security/chinese-state-backed-hackers-now-target-russian-state-officers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers analyzing a phishing campaign targeting Russian officials found evidence that points to the China-based threat actor tracked as Mustang Panda (also known as HoneyMyte&nbsp;and Bronze President).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

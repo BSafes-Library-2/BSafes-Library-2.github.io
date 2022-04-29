@@ -8,6 +8,66 @@ nav_order: 900015
 
 ## Attack
 ---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Targeting Russian Military Personnel with Updated PlugX Malware<a href="https://thehackernews.com/2022/04/chinese-hackers-targeting-russian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked government-sponsored threat actor observed striking European diplomatic entities in March may have been targeting Russian government officials with an updated version of a remote access trojan called&nbsp; PlugX .  Secureworks attributed the attempted intrusions to a threat actor it tracks as Bronze President, and by the wider cybersecurity community under the monikers Mustang Panda, TA416, HoneyMyte, RedDelta, and PKPLUG.  "The war in Ukraine has prompted many countries to deploy their cyber capabilities to gain insight about global events, political machinations, and motivations," the cybersecurity firm&nbsp; said &nbsp;in a report shared with The Hacker News. "This desire for situational awareness often extends to collecting intelligence from allies and 'friends.'"  Bronze President, active since at least July 2018, has a history of conducting espionage operations by leveraging custom and publicly available tools to compromise, maintain long-term access,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wind Turbine giant Deutsche Windtechnik hit by a professional Cyberattack<a href="https://securityaffairs.co/wordpress/130648/hacking/deutsche-windtechnik-professional-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The German wind turbine giant Deutsche Windtechnik was hit by a targeted cyberattack earlier this month.
+
+
+
+German wind turbine giant Deutsche Windtechnik announced that some of its systems were hit by a targeted professional cyberattack earlier this...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft says Russia hit Ukraine with hundreds of cyberattacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-says-russia-hit-ukraine-with-hundreds-of-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has revealed the true scale of Russian-backed cyberattacks against Ukraine since the invasion, with hundreds of attempts from multiple Russian hacking groups targeting the country's infrastructure and Ukrainian citizens.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Wind Turbine Firm Hit by 'Targeted, Professional Cyberattack'<a href="https://www.securityweek.com/german-wind-turbine-firm-discloses-targeted-professional-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German wind turbine giant Deutsche Windtechnik has issued a notification to warn that some of its IT systems were impacted in a targeted professional cyberattack earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,28 @@ nav_order: 900075
 
 ## Government
 ---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA published 2021 Top 15 most exploited software vulnerabilities<a href="https://securityaffairs.co/wordpress/130691/hacking/top-15-most-exploited-software-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity and Infrastructure Security Agency (CISA) published a list of 2021's top 15 most exploited software vulnerabilities
+
+
+
+Cybersecurity and Infrastructure Security Agency (CISA) published the list of 2021's top 15 most exploited software vulnerabilities
+
+
+
+This...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

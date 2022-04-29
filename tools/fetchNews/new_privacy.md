@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter's New Owner Elon Musk Wants DMs to be End-to-End Encrypted like Signal<a href="https://thehackernews.com/2022/04/twitters-new-owner-elon-musk-wants-dms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elon Musk, CEO of SpaceX and Tesla and Twitter's new owner, on Thursday called on adding support for end-to-end encryption (E2EE) to the platform's direct messages ( DM ) feature.  "Twitter DMs should have end to end encryption like Signal, so no one can spy on or hack your messages," Musk&nbsp; said &nbsp;in a tweet.  The statement comes days after the microblogging service&nbsp; announced &nbsp;it officially entered into an agreement to be acquired by an entity wholly owned by Elon Musk, with the transaction valued at approximately US$ 44 billion, or US$ 54.20 per share in cash.&nbsp;   The deal, which is expected to be closed over the next six months, will see it becoming a privately held company.  "Free speech is the bedrock of a functioning democracy, and Twitter is the digital town square where matters vital to the future of humanity are debated," Musk said in a statement.  "I also want to make Twitter better than ever by enhancing the product with new features, making t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

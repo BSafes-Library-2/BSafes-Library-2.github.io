@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean APT37 Targets Journalists with GoldBackdoor<a href="https://cyware.com/news/north-korean-apt37-targets-journalists-with-goldbackdoor-ae04b383"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT37, suspected to have ties with the North Korean government, was found targeting journalists with sophisticated info-stealer malware dubbed Goldbackdoor. The emails sent to the journalists included a link to download ZIP archives with LNK files. Targets are advised to ensure they don’t open any  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

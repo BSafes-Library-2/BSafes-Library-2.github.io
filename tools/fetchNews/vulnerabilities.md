@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Nimbuspwn flaws could allow attackers to deploy sophisticated threats<a href="https://securityaffairs.co/wordpress/130662/hacking/nimbuspwn-linux-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft disclosed two Linux privilege escalation flaws, collectively named Nimbuspwn, that could allow conducting various malicious activities.
+
+
+
+The Microsoft 365 Defender Research Team has discovered two Linux privilege escalation flaws (tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 101 Patches 30 Vulnerabilities<a href="https://www.securityweek.com/chrome-101-patches-30-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week announced that Chrome 101 was released to the stable channel with 30 security fixes inside, including 25 for vulnerabilities identified by external security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns users to disable AFP until it fixes critical bugs<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-users-to-disable-afp-until-it-fixes-critical-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese corporation QNAP has asked customers this week to disable the AFP file service protocol on their network-attached storage (NAS) appliances until it fixes multiple critical Netatalk vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity agencies reveal top exploited vulnerabilities of 2021<a href="https://www.bleepingcomputer.com/news/security/cybersecurity-agencies-reveal-top-exploited-vulnerabilities-of-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In partnership with the NSA and the FBI, cybersecurity authorities worldwide have released today a list of the top 15 vulnerabilities routinely exploited by threat actors during 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Nimbuspwn Linux vulnerability gives hackers root privileges<a href="https://www.bleepingcomputer.com/news/security/new-nimbuspwn-linux-vulnerability-gives-hackers-root-privileges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new set of vulnerabilities collectively tracked as Nimbuspwn could let local attackers escalate privileges on Linux systems to deploy malware ranging from backdoors to ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NPM Bug Allowed Attackers to Distribute Malware as Legitimate Packages<a href="https://thehackernews.com/2022/04/npm-bug-allowed-attackers-to-distribute.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A "logical flaw" has been disclosed in NPM, the default package manager for the Node.js JavaScript runtime environment, that enables malicious actors to pass off rogue libraries as legitimate and trick unsuspecting developers into installing them.  The supply chain threat has been dubbed "Package Planting" by researchers from cloud security firm Aqua. Following responsible disclosure on February 10, the underlying issue was remediated by NPM on April 26.   "Up until recently, NPM allowed adding anyone as a maintainer of the package without notifying these users or getting their consent," Aqua's Yakir Kadkoda&nbsp; said &nbsp;in a report published Tuesday.  This effectively meant that an adversary could create malware-laced packages and assign them to trusted, popular maintainers without their knowledge.   The idea here is to add credible owners associated with other popular NPM libraries to the attacker-controlled poisoned package in hopes that doing so would a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Discovers New Privilege Escalation Flaws in Linux Operating System<a href="https://thehackernews.com/2022/04/microsoft-discovers-new-privilege.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday disclosed a set of two privilege escalation vulnerabilities in the Linux operating system that could potentially allow threat actors to carry out an array of nefarious activities.  Collectively called " Nimbuspwn ," the flaws "can be chained together to gain root privileges on Linux systems, allowing attackers to deploy payloads, like a root backdoor, and perform other malicious actions via arbitrary root code execution," Jonathan Bar Or of the Microsoft 365 Defender Research Team&nbsp; said &nbsp;in a report.   On top of that, the defects — tracked as&nbsp; CVE-2022-29799 and CVE-2022-29800 &nbsp;— could also be weaponized as a vector for root access to deploy more sophisticated threats such as ransomware.  The vulnerabilities are rooted in a&nbsp; systemd &nbsp;component called&nbsp; networkd-dispatcher , a&nbsp; daemon program &nbsp;for the network manager system service that's designed to dispatch network status changes.   Specifically, they relate to a combination of&nbsp; directory t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

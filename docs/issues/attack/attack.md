@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Cyberattacks Launched on Ukraine - Microsoft Report<a href="https://cyware.com/news/hundreds-of-cyberattacks-launched-on-ukraine-microsoft-report-d63ea069"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Right before the invasion, at least six Russian distinct actors launched more than 237 attacks. All of these attacks were of destructive nature and many are still ongoing.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked threat actors launched hundreds of cyberattacks on Ukraine<a href="https://securityaffairs.co/wordpress/130677/apt/russia-hit-ukraine-hundreds-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft revealed that Russia launched hundreds of cyberattacks against Ukraine since the beginning of the invasion.
+
+
+
+Microsoft states that at least six separate Russia-linked threat actors launched more than 237 operations against Ukraine starting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Thwarts Record DDoS Attack Peaking at 15 Million Requests Per Second<a href="https://thehackernews.com/2022/04/cloudflare-thwarts-record-ddos-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare on Wednesday disclosed that it acted to mitigate a 15.3 million request-per-second (RPS) distributed denial-of-service (DDoS) attack. The web infrastructure and website security company called it one of the "largest HTTPS DDoS attacks on record."&nbsp;  "HTTPS DDoS attacks are more expensive in terms of required computational resources because of the higher cost of establishing a secure TLS encrypted connection," Cloudflare's Omer Yoachimik and Julien Desgats&nbsp; said . "Therefore it costs the attacker more to launch the attack, and for the victim to mitigate it."   The volumetric DDoS attack is said to have lasted less than 15 seconds and targeted an unnamed Cloudflare customer operating a crypto launchpad.&nbsp;  Volumetric DDoS attacks are designed to overwhelm a target network/service with significantly high volumes of malicious traffic, which typically originate from a botnet under a threat actor's control.   Cloudflare said the latest attack w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

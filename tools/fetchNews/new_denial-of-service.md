@@ -8,6 +8,66 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CloudFlare blocked a record HTTPs DDoS attack peaking at 15 rps<a href="https://securityaffairs.co/wordpress/130685/hacking/cloudflare-record-https-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has mitigated a distributed denial-of-service (DDoS) attack that peaked at 15.3 million request-per-second (RPS). 
+
+
+
+Cloudflare announced to have mitigated a distributed denial-of-service (DDoS) attack that peaked at 15.3 million request-per-second...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Vector DDoS Attacks Surge<a href="https://cyware.com/news/multi-vector-ddos-attacks-surge-f5ae33c2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Kaspersky, there has been a 46% rise in the number of attacks. The U.S. accounted for the most number of targets at 45.01%, followed by China (9.34%) and Germany (4.95%).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine targeted by DDoS attacks from compromised WordPress sites<a href="https://www.bleepingcomputer.com/news/security/ukraine-targeted-by-ddos-attacks-from-compromised-wordpress-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's computer emergency response team (CERT-UA) has published an announcement warning of ongoing DDoS (distributed denial of service) attacks targeting pro-Ukraine sites and the government web portal.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare detects one of the largest DDoS attacks on record targeting crypto platform<a href="https://therecord.media/cloudflare-detects-one-of-the-largest-ddos-attacks-on-record-targeting-crypto-platform/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Cloudflare, the attack, which lasted less than 15 seconds, was launched from a botnet of approximately 6,000 unique bots and originated from 112 countries around the world.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals deliver IRS tax scams and phishing campaigns by mimicking government vendors<a href="https://www.helpnetsecurity.com/2022/04/28/irs-tax-scams-phishing-mimicking-government-vendors/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals purposely choose specific times when all of us are busy with taxes, and preparing for holidays (e.g., Easter), that’s why you need to be especially careful during these times.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
