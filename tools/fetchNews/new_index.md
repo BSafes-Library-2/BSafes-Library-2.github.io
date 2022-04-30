@@ -34,7 +34,375 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - April 29th 2022 - New operations emerge<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-29th-2022-new-operations-emerge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week we have discovered numerous new ransomware operations that have begun operating, with one appearing to be a rebrand of previous operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach at US healthcare provider ARcare impacts 345,000 individuals<a href="https://portswigger.net/daily-swig/data-breach-at-us-healthcare-provider-arcare-impacts-345-000-individuals?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Potentially exposed data included names, social security numbers, drivers’ license or state identification numbers, dates of birth, financial account information, and medical treatment information among other confidential information.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Documents Over 200 Cyberattacks by Russia Against Ukraine<a href="https://thehackernews.com/2022/04/microsoft-documents-over-200.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least six different Russia-aligned actors launched no less than 237 cyberattacks against Ukraine from February 23 to April 8, including 38 discrete destructive attacks that irrevocably destroyed files in hundreds of systems across dozens of organizations in the country.  "Collectively, the cyber and kinetic actions work to disrupt or degrade Ukrainian government and military functions and undermine the public's trust in those same institutions," the company's Digital Security Unit (DSU)  said  in a special report.  The major malware families that have been leveraged for destructive activity as part of Russia's relentless digital assaults include:  WhisperGate ,  HermeticWiper  ( FoxBlade  aka KillDisk),  HermeticRansom  (SonicVote),  IssacWiper  (Lasainraw),  CaddyWiper ,  DesertBlade ,  DoubleZero  (FiberLake), and  Industroyer2 .   WhisperGate, HermeticWiper, IssacWiper, and CaddyWiper are all data wipers designed to overwrite data and render machines unboot
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity and the ‘Good Cause’ Exception to the APA<a href="https://www.lawfareblog.com/cybersecurity-and-good-cause-exception-apa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In emergencies, federal agencies can avoid cumbersome rulemaking procedures. Uses of the “good cause” exception following 9/11 and the outbreak of the coronavirus offer insights relevant to the current cybersecurity threats to critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked Russian PSCB Commercial Bank and companies in the energy sector<a href="https://securityaffairs.co/wordpress/130726/cyber-warfare-2/anonymous-hack-russian-companies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpRussia continues, less than a week after my last update Anonymous has hacked other Russian companies and leaked their data via DDoSecrets.
+
+
+
+The #OpRussia launched by Anonymous on Russia after the criminal invasion of Ukraine continues, the collective...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online library app Onleihe faces issues after cyberattack on provider<a href="https://www.bleepingcomputer.com/news/security/online-library-app-onleihe-faces-issues-after-cyberattack-on-provider/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Library lending app Onleihe announced problems lending several media formats offered on the platform, like audio, video, and e-book files, after a cyberattack targeted their vendor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerable plugins plague the CMS website security landscape<a href="https://www.zdnet.com/article/vulnerable-plugins-default-configurations-plague-the-website-security-landscape/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the report released by the researchers at Sucuri, vulnerable plugins and extensions "account for far more website compromises than out-of-date, core CMS files".
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hurry up, disable AFP on your QNAP NAS until the vendor fixes 8 bugs<a href="https://securityaffairs.co/wordpress/130720/hacking/critical-afp-qnap-nas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP urges customers to disable the AFP file service protocol on their NAS devices until it fixes critical Netatalk flaws.
+
+
+
+Taiwanese vendor QNAP is warning customers to disable the AFP file service protocol on their network-attached storage (NAS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google gives 50% bonus to Android 13 Beta bug bounty hunters<a href="https://www.bleepingcomputer.com/news/security/google-gives-50-percent-bonus-to-android-13-beta-bug-bounty-hunters/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced that all security researchers who report Android 13 Beta vulnerabilities through its Vulnerability Rewards Program (VRP) will get a 50% bonus on top of the standard reward until May 26th, 2022. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expanding the Conti Ransomware IoCs Using WHOIS and IP Clues<a href="https://circleid.com/posts/20220429-expanding-the-conti-ransomware-iocs-using-whois-and-ip-clues?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A majority of the domain IoCs of Conti ransomware share the same lexical features in that they don’t seem to be English words and follow a succession of consonant-vowel patterns.
+</details>
+<div style="text-align: right" markdown="1">
+CircleID
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+It’s Called BadUSB for a Reason<a href="https://securityaffairs.co/wordpress/130715/hacking/badusb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercrime gang FIN7’s badUSB attacks serve as a reminder of two key vulnerabilities present among all organizations.
+
+
+
+The criminal group had been mailing malware-ridden USBs to various entities in the transport, insurance, and defense industries...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India to require cybersecurity incident reporting within six hours<a href="https://www.bleepingcomputer.com/news/security/india-to-require-cybersecurity-incident-reporting-within-six-hours/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Indian government has issued new directives requiring organizations to report cybersecurity incidents to CERT-IN within six hours, even if those incidents are port or vulnerability scans of computer systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Delivers Malware to Steals Passwords, Chat Logs, and Crypto Wallets<a href="https://www.zdnet.com/article/this-phishing-campaign-delivers-malware-that-steals-your-passwords-and-chat-logs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A mass phishing campaign is targeting Windows PCs and aims to deliver malware that can steal usernames, passwords, credit card details, and the contents of cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing DDoS attacks from compromised sites hit Ukraine<a href="https://securityaffairs.co/wordpress/130708/hacking/ddos-attack-hit-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine CERT-UA warns of ongoing DDoS attacks targeting pro-Ukraine sites and the government web portal.
+
+
+
+Ukraine 's computer emergency response team (CERT-UA) announced that it is investigating, along with the National Bank of Ukraine (CSIRT-NBU),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hacktivists launch DDoS attacks on Romanian govt sites<a href="https://www.bleepingcomputer.com/news/security/russian-hacktivists-launch-ddos-attacks-on-romanian-govt-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Romanian national cyber security and incident response team, DNSC, has issued a statement about a series of distributed denial-of-service (DDoS) attacks targeting several public websites managed by the state entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Many Internet-Exposed Servers Affected by Exploited Redis Vulnerability<a href="https://www.securityweek.com/many-internet-exposed-servers-affected-exploited-redis-vulnerability?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While Redis statically links the Lua Library, some Debian/Ubuntu packages dynamically link it, leading to a sandbox escape that can be exploited to achieve remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than $13 Million Stolen From DeFi Platform Deus Finance<a href="https://therecord.media/more-than-13-million-stolen-from-defi-platform-deus-finance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PeckShield said the attacker stole about $13.4 million worth of cryptocurrency but noted that the platform’s actual losses may be larger. CertiK put the losses at 5,446 ETH, or about $15.7 million.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerable plugins, Credit card skimming, SEO spam continue to be a menace: Report<a href="https://blog.sucuri.net/2022/04/hacked-website-threat-report-2021.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Websites containing a recently vulnerable plugin or other extension are most likely to be caught up in malware campaigns. Default configurations of popular website software applications remain a serious liability, according to Sucuri.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+It’s Called BadUSB for a Reason<a href="https://securityaffairs.co/wordpress/130715/hacking/badusb.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ease with which one can purchase a rogue device, thanks to their accessibility and low cost, exacerbates the risk (many costing less than $100 on sites such as AliExpress).
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacker Breach ‘Dozens’ of GitHub Repos Using Stolen OAuth Tokens<a href="https://threatpost.com/github-repos-stolen-oauth-tokens/179427/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub shared the timeline of breaches in April 2022, this timeline encompasses the information related to when a threat actor gained access and stole private repositories belonging to dozens of organizations. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure Vulnerability Exposes PostgreSQL Databases to Other Customers<a href="https://thehackernews.com/2022/04/microsoft-azure-vulnerability-exposes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday disclosed that it addressed a pair of issues with the Azure Database for PostgreSQL Flexible Server that could result in unauthorized cross-account database access in a region.  "By exploiting an elevated permissions bug in the Flexible Server authentication process for a replication user, a malicious user could leverage an improperly anchored regular expression to bypass authentication to gain access to other customers' databases," Microsoft Security Response Center (MSRC)  said .   New York City-based cloud security company Wiz, which uncovered the flaws, dubbed the exploit chain " ExtraReplica ." Microsoft said it mitigated the bug within 48 hours of disclosure on January 13, 2022.  Specifically, it relates to a case of privilege escalation in the Azure PostgreSQL engine to gain code execution and a cross-account authentication bypass by means of a forged certificate, allowing an attacker to create a database in the target's Azure r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Govt Orders Organizations to Report Security Breaches Within 6 Hours to CERT-In<a href="https://thehackernews.com/2022/04/indian-govt-orders-organisations-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India's computer and emergency response team, CERT-In, on Thursday published new guidelines that require service providers, intermediaries, data centers, and government entities to compulsorily report cybersecurity incidents, including data breaches, within six hours.  "Any service provider, intermediary, data center, body corporate and Government organization shall mandatorily report cyber incidents [...] to CERT-In within six hours of noticing such incidents or being brought to notice about such incidents," the government  said  in a release.   The types of incidents that come under the ambit include, inter alia, compromise of critical systems, targeting scanning, unauthorized access to computers and social media accounts, website defacements, malware deployments, identity theft, DDoS attacks, data breaches and leaks, rogue mobile apps, and attacks against servers and network appliances like routers and IoT devices.  The government said it was taking these steps to ens
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EmoCheck now detects new 64-bit versions of Emotet malware<a href="https://www.bleepingcomputer.com/news/security/emocheck-now-detects-new-64-bit-versions-of-emotet-malware/"> Full Text</a>
@@ -50,7 +418,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quantum Ransomware Stuns Researchers with Blazing Fast Attack Speed<a href="https://cyware.com/news/quantum-ransomware-stuns-researchers-with-blazing-fast-attack-speed-6ab9b140"> Full Text</a>
@@ -66,7 +434,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Detail 3 Hacking Teams Working Under the Umbrella of TA410 Group<a href="https://thehackernews.com/2022/04/experts-detail-3-hacking-teams-working.html"> Full Text</a>
@@ -82,7 +450,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bumblebee, a new malware loader used by multiple crimeware threat actors<a href="https://securityaffairs.co/wordpress/130699/cyber-crime/new-bumblebee-loader.html"> Full Text</a>
@@ -102,7 +470,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Synology warns of critical Netatalk bugs in multiple products<a href="https://www.bleepingcomputer.com/news/security/synology-warns-of-critical-netatalk-bugs-in-multiple-products/"> Full Text</a>
@@ -118,7 +486,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean APT37 Targets Journalists with GoldBackdoor<a href="https://cyware.com/news/north-korean-apt37-targets-journalists-with-goldbackdoor-ae04b383"> Full Text</a>
@@ -135,7 +503,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Everything you need to know to create a Vulnerability Assessment Report<a href="https://thehackernews.com/2022/04/everything-you-need-to-know-to-create.html"> Full Text</a>
@@ -151,7 +519,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA published 2021 Top 15 most exploited software vulnerabilities<a href="https://securityaffairs.co/wordpress/130691/hacking/top-15-most-exploited-software-vulnerabilities.html"> Full Text</a>
@@ -175,7 +543,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes ExtraReplica Azure bugs that exposed user databases<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-extrareplica-azure-bugs-that-exposed-user-databases/"> Full Text</a>
@@ -191,7 +559,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of Cyberattacks Launched on Ukraine - Microsoft Report<a href="https://cyware.com/news/hundreds-of-cyberattacks-launched-on-ukraine-microsoft-report-d63ea069"> Full Text</a>
@@ -207,7 +575,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Using New Malware Loader 'Bumblebee' in the Wild<a href="https://thehackernews.com/2022/04/cybercriminals-using-new-malware-loader.html"> Full Text</a>
@@ -223,7 +591,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CloudFlare blocked a record HTTPs DDoS attack peaking at 15 rps<a href="https://securityaffairs.co/wordpress/130685/hacking/cloudflare-record-https-ddos.html"> Full Text</a>
@@ -243,7 +611,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medical software firm fined €1.5M for leaking data of 490k patients<a href="https://www.bleepingcomputer.com/news/security/medical-software-firm-fined-15m-for-leaking-data-of-490k-patients/"> Full Text</a>
@@ -259,7 +627,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multi-Vector DDoS Attacks Surge<a href="https://cyware.com/news/multi-vector-ddos-attacks-surge-f5ae33c2"> Full Text</a>
@@ -275,7 +643,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter's New Owner Elon Musk Wants DMs to be End-to-End Encrypted like Signal<a href="https://thehackernews.com/2022/04/twitters-new-owner-elon-musk-wants-dms.html"> Full Text</a>
@@ -291,7 +659,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked threat actors launched hundreds of cyberattacks on Ukraine<a href="https://securityaffairs.co/wordpress/130677/apt/russia-hit-ukraine-hundreds-cyberattacks.html"> Full Text</a>
@@ -311,7 +679,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine targeted by DDoS attacks from compromised WordPress sites<a href="https://www.bleepingcomputer.com/news/security/ukraine-targeted-by-ddos-attacks-from-compromised-wordpress-sites/"> Full Text</a>
@@ -327,7 +695,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals deliver IRS tax scams and phishing campaigns by mimicking government vendors<a href="https://www.helpnetsecurity.com/2022/04/28/irs-tax-scams-phishing-mimicking-government-vendors/?&web_view=true"> Full Text</a>
@@ -343,7 +711,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New RIG Exploit Kit Campaign Infecting Victims' PCs with RedLine Stealer<a href="https://thehackernews.com/2022/04/new-rig-exploit-kit-campaign-infecting.html"> Full Text</a>
@@ -359,7 +727,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Attack Your Own Company's Service Desk to spot risks<a href="https://www.bleepingcomputer.com/news/security/how-to-attack-your-own-companys-service-desk-to-spot-risks/"> Full Text</a>
@@ -375,7 +743,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Veza Raises $110M in Funding<a href="https://www.finsmes.com/2022/04/veza-raises-110m-in-funding.html?&web_view=true"> Full Text</a>
@@ -391,7 +759,7 @@ FinSMEs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Bumblebee malware replaces Conti's BazarLoader in cyberattacks<a href="https://www.bleepingcomputer.com/news/security/new-bumblebee-malware-replaces-contis-bazarloader-in-cyberattacks/"> Full Text</a>
@@ -407,7 +775,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Detecting Ransomware’s Stealthy Boot Configuration Edits<a href="https://www.binarydefense.com/detecting-ransomwares-stealthy-boot-configuration-edits/?&web_view=true"> Full Text</a>
@@ -423,7 +791,7 @@ Binary Defense
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NPM flaw let attackers add anyone as maintainer to malicious packages<a href="https://www.bleepingcomputer.com/news/security/npm-flaw-let-attackers-add-anyone-as-maintainer-to-malicious-packages/"> Full Text</a>
@@ -439,7 +807,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare detects one of the largest DDoS attacks on record targeting crypto platform<a href="https://therecord.media/cloudflare-detects-one-of-the-largest-ddos-attacks-on-record-targeting-crypto-platform/?&web_view=true"> Full Text</a>
@@ -455,7 +823,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransom payment is roughly 15% of the total cost of ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/ransom-payment-is-roughly-15-percent-of-the-total-cost-of-ransomware-attacks/"> Full Text</a>
@@ -471,7 +839,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 28, 2022
+April 28, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Austin Peay State University resumes after ransomware cyber attack<a href="https://www.bleepingcomputer.com/news/security/austin-peay-state-university-resumes-after-ransomware-cyber-attack/"> Full Text</a>
@@ -487,7 +855,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2022
+April 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S Cybersecurity Agency Lists 2021's Top 15 Most Exploited Software Vulnerabilities<a href="https://thehackernews.com/2022/04/us-cybersecurity-agency-lists-2021s-top.html"> Full Text</a>
@@ -503,7 +871,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2022
+April 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare Thwarts Record DDoS Attack Peaking at 15 Million Requests Per Second<a href="https://thehackernews.com/2022/04/cloudflare-thwarts-record-ddos-attack.html"> Full Text</a>
@@ -519,7 +887,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2022
+April 27, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware: Onyx ransomware destroys files instead of encrypting them<a href="https://www.bleepingcomputer.com/news/security/beware-onyx-ransomware-destroys-files-instead-of-encrypting-them/"> Full Text</a>
