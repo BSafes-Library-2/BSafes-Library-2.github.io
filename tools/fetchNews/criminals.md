@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bumblebee, a new malware loader used by multiple crimeware threat actors<a href="https://securityaffairs.co/wordpress/130699/cyber-crime/new-bumblebee-loader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have replaced the BazaLoader and IcedID malware with a new loader called Bumblebee in their campaigns.
+
+
+
+Cybercriminal groups that were previously using the BazaLoader and IcedID as part of their malware campaigns seem to have adopted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using New Malware Loader 'Bumblebee' in the Wild<a href="https://thehackernews.com/2022/04/cybercriminals-using-new-malware-loader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminal actors previously observed delivering BazaLoader and IcedID as part of their malware campaigns are said to have transitioned to a new loader called Bumblebee that's under active development.  "Based on the timing of its appearance in the threat landscape and use by multiple cybercriminal groups, it is likely Bumblebee is, if not a direct replacement for BazaLoader, then a new, multifunctional tool used by actors that historically favored other malware," enterprise security firm Proofpoint&nbsp; said &nbsp;in a report shared with The Hacker News.  Campaigns distributing the new highly sophisticated loader are said to have commenced in March 2022, while&nbsp;sharing overlaps with malicious activity  leading to the deployment of Conti and Diavol ransomware, raising the possibility that the loader could act as a precursor for ransomware attacks.  "Threat actors using Bumblebee are associated with malware payloads that have been linked to follow-on ransomware campaigns,&amp;q
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

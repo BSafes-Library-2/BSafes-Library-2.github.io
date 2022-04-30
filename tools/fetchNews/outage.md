@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Austin Peay State University resumes after ransomware cyber attack<a href="https://www.bleepingcomputer.com/news/security/austin-peay-state-university-resumes-after-ransomware-cyber-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Austin Peay State University (APSU) confirmed yesterday that it had been a victim of a ransomware attack. The university, located in Clarksville, Tennessee&nbsp;advised students, staff, and faculty&nbsp;to disconnect their computers and devices from the university network immediately&nbsp;as a precaution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

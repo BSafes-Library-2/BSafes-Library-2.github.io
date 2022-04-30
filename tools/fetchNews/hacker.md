@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Detail 3 Hacking Teams Working Under the Umbrella of TA410 Group<a href="https://thehackernews.com/2022/04/experts-detail-3-hacking-teams-working.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberespionage threat actor known for targeting a variety of critical infrastructure sectors in Africa, the Middle East, and the U.S. has been observed using an upgraded version of a remote access trojan with information stealing capabilities.  Calling&nbsp; TA410 &nbsp;an umbrella group comprised of three teams dubbed FlowingFrog, LookingFrog and JollyFrog, Slovak cybersecurity firm ESET&nbsp; assessed &nbsp;that "these subgroups operate somewhat independently, but that they may share intelligence requirements, an access team that runs their spear-phishing campaigns, and also the team that deploys network infrastructure."  TA410 — said to share behavioral and tooling overlaps with&nbsp; APT10 &nbsp;(aka Stone Panda or TA429) — has a history of targeting U.S-based organizations in the utilities sector as well as diplomatic entities in the Middle East and Africa.  Other identified victims of the hacker collective include a manufacturing company in Japan, a mining business in India, and a charity in Isra
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology warns of critical Netatalk bugs in multiple products<a href="https://www.bleepingcomputer.com/news/security/synology-warns-of-critical-netatalk-bugs-in-multiple-products/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Synology has warned customers&nbsp;that some of its network-attached storage (NAS) appliances are exposed to attacks exploiting multiple critical Netatalk vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes ExtraReplica Azure bugs that exposed user databases<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-extrareplica-azure-bugs-that-exposed-user-databases/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has addressed a chain of critical vulnerabilities found in the Azure Database for PostgreSQL Flexible Server that could let malicious users&nbsp;escalate privileges and gain access to other customers' databases after bypassing authentication.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NPM flaw let attackers add anyone as maintainer to malicious packages<a href="https://www.bleepingcomputer.com/news/security/npm-flaw-let-attackers-add-anyone-as-maintainer-to-malicious-packages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A logical flaw in the npm registry, dubbed 'package planting' let authors of malicious packages&nbsp;quietly add anyone and any number of users as 'maintainers' to their packages in an attempt to boost&nbsp;the trust in their package.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S Cybersecurity Agency Lists 2021's Top 15 Most Exploited Software Vulnerabilities<a href="https://thehackernews.com/2022/04/us-cybersecurity-agency-lists-2021s-top.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Log4Shell ,&nbsp; ProxyShell ,&nbsp; ProxyLogon ,&nbsp; ZeroLogon , and flaws in&nbsp; Zoho ManageEngine AD SelfService Plus ,&nbsp; Atlassian Confluence , and&nbsp; VMware vSphere Client &nbsp;emerged as some of the top exploited security vulnerabilities in 2021.   That's according to a " Top Routinely Exploited Vulnerabilities " report released by cybersecurity authorities from the Five Eyes nations Australia, Canada, New Zealand, the U.K., and the U.S.  Other frequently weaponized flaws included a remote code execution bug in Microsoft Exchange Server ( CVE-2020-0688 ), an arbitrary file read vulnerability in Pulse Secure Pulse Connect Secure ( CVE-2019-11510 ), and a path traversal defect in Fortinet FortiOS and FortiProxy ( CVE-2018-13379 ).   Nine of the top 15 routinely exploited flaws were remote code execution vulnerabilities, followed by two privilege escalation weaknesses, and one each of security feature bypass, arbitrary code execution, arbitrary file read, and path traversal flaws.   "G
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

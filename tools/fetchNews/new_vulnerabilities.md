@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerable plugins plague the CMS website security landscape<a href="https://www.zdnet.com/article/vulnerable-plugins-default-configurations-plague-the-website-security-landscape/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the report released by the researchers at Sucuri, vulnerable plugins and extensions "account for far more website compromises than out-of-date, core CMS files".
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hurry up, disable AFP on your QNAP NAS until the vendor fixes 8 bugs<a href="https://securityaffairs.co/wordpress/130720/hacking/critical-afp-qnap-nas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP urges customers to disable the AFP file service protocol on their NAS devices until it fixes critical Netatalk flaws.
+
+
+
+Taiwanese vendor QNAP is warning customers to disable the AFP file service protocol on their network-attached storage (NAS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Many Internet-Exposed Servers Affected by Exploited Redis Vulnerability<a href="https://www.securityweek.com/many-internet-exposed-servers-affected-exploited-redis-vulnerability?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While Redis statically links the Lua Library, some Debian/Ubuntu packages dynamically link it, leading to a sandbox escape that can be exploited to achieve remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerable plugins, Credit card skimming, SEO spam continue to be a menace: Report<a href="https://blog.sucuri.net/2022/04/hacked-website-threat-report-2021.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Websites containing a recently vulnerable plugin or other extension are most likely to be caught up in malware campaigns. Default configurations of popular website software applications remain a serious liability, according to Sucuri.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure Vulnerability Exposes PostgreSQL Databases to Other Customers<a href="https://thehackernews.com/2022/04/microsoft-azure-vulnerability-exposes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday disclosed that it addressed a pair of issues with the Azure Database for PostgreSQL Flexible Server that could result in unauthorized cross-account database access in a region.  "By exploiting an elevated permissions bug in the Flexible Server authentication process for a replication user, a malicious user could leverage an improperly anchored regular expression to bypass authentication to gain access to other customers' databases," Microsoft Security Response Center (MSRC)&nbsp; said .   New York City-based cloud security company Wiz, which uncovered the flaws, dubbed the exploit chain " ExtraReplica ." Microsoft said it mitigated the bug within 48 hours of disclosure on January 13, 2022.  Specifically, it relates to a case of privilege escalation in the Azure PostgreSQL engine to gain code execution and a cross-account authentication bypass by means of a forged certificate, allowing an attacker to create a database in the target's Azure r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

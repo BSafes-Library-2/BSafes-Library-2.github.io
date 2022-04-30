@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical software firm fined €1.5M for leaking data of 490k patients<a href="https://www.bleepingcomputer.com/news/security/medical-software-firm-fined-15m-for-leaking-data-of-490k-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French data protection authority (CNIL) fined medical software vendor Dedalus Biology with EUR 1.5 million&nbsp;for&nbsp;violating three articles of the GDPR (General Data Protection Regulation).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
