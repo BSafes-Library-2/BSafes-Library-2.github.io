@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+April 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet tests new attack chain in low volume campaigns<a href="https://securityaffairs.co/wordpress/130739/cyber-crime/emotet-operators-test-new-techniques.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emotet operators are testing new attack techniques in response to Microsoft's move to disable Visual Basic for Applications (VBA) macros by default.
+
+
+
+The operators of the infamous Emotet botnet are testing new attack techniques in response to Microsoft's...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

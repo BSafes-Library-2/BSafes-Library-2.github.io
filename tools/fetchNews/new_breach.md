@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+May 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole +80M from DeFi platforms Rari Capital and Fei Protocol<a href="https://securityaffairs.co/wordpress/130768/hacking/80m-hack-defi-rari-capital-fei-protocol.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors exploited a bug in the Fuse protocol used by DeFi platforms Rari Capital and Fei Protocol and stole more than $80 million.
+
+
+
+Threat actors stole more than $80 million from the decentralized finance (DeFi) platforms Rari Capital and Fei Protocol...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

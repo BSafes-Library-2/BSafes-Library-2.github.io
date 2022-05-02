@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India to require cybersecurity incident reporting within six hours<a href="https://www.bleepingcomputer.com/news/security/india-to-require-cybersecurity-incident-reporting-within-six-hours/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Indian government has issued new directives requiring organizations to report cybersecurity incidents to CERT-IN&nbsp;within six hours, even if those incidents are port or vulnerability scans of computer systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Govt Orders Organizations to Report Security Breaches Within 6 Hours to CERT-In<a href="https://thehackernews.com/2022/04/indian-govt-orders-organisations-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India's computer and emergency response team, CERT-In, on Thursday published new guidelines that require service providers, intermediaries, data centers, and government entities to compulsorily report cybersecurity incidents, including data breaches, within six hours.  "Any service provider, intermediary, data center, body corporate and Government organization shall mandatorily report cyber incidents [...] to CERT-In within six hours of noticing such incidents or being brought to notice about such incidents," the government&nbsp; said &nbsp;in a release.   The types of incidents that come under the ambit include, inter alia, compromise of critical systems, targeting scanning, unauthorized access to computers and social media accounts, website defacements, malware deployments, identity theft, DDoS attacks, data breaches and leaks, rogue mobile apps, and attacks against servers and network appliances like routers and IoT devices.  The government said it was taking these steps to ens
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

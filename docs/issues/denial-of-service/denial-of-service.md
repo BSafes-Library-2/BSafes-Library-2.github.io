@@ -8,6 +8,38 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+May 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A YouTuber is promoting DDoS attacks on Russia — how legal is this?<a href="https://www.bleepingcomputer.com/news/security/a-youtuber-is-promoting-ddos-attacks-on-russia-how-legal-is-this/"> Full Text</a>
+</p> 
+<details>
+  <summary>Abstract</summary>
+A YouTube influencer with hundreds of thousands of subscribers is encouraging everyone to conduct cyber warfare against Russia. How risky is it and can you get in trouble?
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian group Killnet launched DDoS attacks on Romanian govt sites<a href="https://securityaffairs.co/wordpress/130732/hacking/russian-hacktivists-ddos-romanian-govt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of DDoS attacks launched by Russian hacktivists are targeting several Romanian government websites.
+
+
+
+The Romanian national cyber security and incident response team, DNSC, warns of a series of distributed denial-of-service (DDoS) attacks targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

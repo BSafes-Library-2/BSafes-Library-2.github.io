@@ -8,6 +8,38 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing DDoS attacks from compromised sites hit Ukraine<a href="https://securityaffairs.co/wordpress/130708/hacking/ddos-attack-hit-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine CERT-UA warns of ongoing DDoS attacks targeting pro-Ukraine sites and the government web portal.
+
+
+
+Ukraine 's computer emergency response team (CERT-UA) announced that it is investigating, along with the National Bank of Ukraine (CSIRT-NBU),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hacktivists launch DDoS attacks on Romanian govt sites<a href="https://www.bleepingcomputer.com/news/security/russian-hacktivists-launch-ddos-attacks-on-romanian-govt-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Romanian national cyber security and incident response team, DNSC, has issued a statement about a series of distributed denial-of-service (DDoS) attacks targeting several public websites managed by the state entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

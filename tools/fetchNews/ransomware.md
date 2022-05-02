@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - April 29th 2022 - New operations emerge<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-29th-2022-new-operations-emerge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week we have discovered numerous new ransomware operations that have begun operating, with one appearing to be a rebrand&nbsp;of previous operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expanding the Conti Ransomware IoCs Using WHOIS and IP Clues<a href="https://circleid.com/posts/20220429-expanding-the-conti-ransomware-iocs-using-whois-and-ip-clues?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A majority of the domain IoCs of Conti ransomware share the same lexical features in that they don’t seem to be English words and follow a succession of consonant-vowel patterns.
+</details>
+<div style="text-align: right" markdown="1">
+CircleID
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

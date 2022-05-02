@@ -8,6 +8,42 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology and QNAP warn of critical Netatalk flaws in some of their products<a href="https://securityaffairs.co/wordpress/130778/hacking/synology-netatalk-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Synology warns customers that some of its NAS devices are affected by multiple critical Netatalk vulnerabilities.
+
+
+
+Synology has warned customers that multiple critical Netatalk vulnerabilities affect some of its network-attached storage (NAS) devices....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure flaws could allow accessing PostgreSQL DBs of other customers<a href="https://securityaffairs.co/wordpress/130750/security/azure-postgresql-flexible-server-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered flaws in the Azure Database for PostgreSQL Flexible Server that could result in unauthorized cross-account database access in a region.
+
+
+
+Microsoft addressed a couple of vulnerabilities impacting the Azure Database for PostgreSQL...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,65 @@ nav_order: 900072
 
 ## General
 ---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity and the ‘Good Cause’ Exception to the APA<a href="https://www.lawfareblog.com/cybersecurity-and-good-cause-exception-apa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In emergencies, federal agencies can avoid cumbersome rulemaking procedures. Uses of the “good cause” exception following 9/11 and the outbreak of the coronavirus offer insights relevant to the current cybersecurity threats to critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google gives 50% bonus to Android 13 Beta bug bounty hunters<a href="https://www.bleepingcomputer.com/news/security/google-gives-50-percent-bonus-to-android-13-beta-bug-bounty-hunters/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced that all security researchers who&nbsp;report Android 13 Beta vulnerabilities&nbsp;through its Vulnerability Rewards Program&nbsp;(VRP)&nbsp;will get a 50% bonus on top of the standard reward until May 26th, 2022.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+It’s Called BadUSB for a Reason<a href="https://securityaffairs.co/wordpress/130715/hacking/badusb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercrime gang FIN7’s badUSB attacks serve as a reminder of two key vulnerabilities present among all organizations.
+
+
+
+The criminal group had been mailing malware-ridden USBs to various entities in the transport, insurance, and defense industries...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+It’s Called BadUSB for a Reason<a href="https://securityaffairs.co/wordpress/130715/hacking/badusb.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ease with which one can purchase a rogue device, thanks to their accessibility and low cost, exacerbates the risk (many costing less than $100 on sites such as AliExpress).
+</details>
+<div style="text-align: right" markdown="1">
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

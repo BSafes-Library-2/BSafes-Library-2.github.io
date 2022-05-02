@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers compromise embassy emails to target governments<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-compromise-embassy-emails-to-target-governments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have uncovered a recent phishing campaign from Russian hackers known as APT29 (Cozy Bear or Nobelium)&nbsp;targeting diplomats and government entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

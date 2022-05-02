@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach at US healthcare provider ARcare impacts 345,000 individuals<a href="https://portswigger.net/daily-swig/data-breach-at-us-healthcare-provider-arcare-impacts-345-000-individuals?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Potentially exposed data included names, social security numbers, drivers’ license or state identification numbers, dates of birth, financial account information, and medical treatment information among other confidential information.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online library app Onleihe faces issues after cyberattack on provider<a href="https://www.bleepingcomputer.com/news/security/online-library-app-onleihe-faces-issues-after-cyberattack-on-provider/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Library lending app Onleihe&nbsp;announced problems lending several media formats offered on the platform, like audio, video, and e-book files, after a cyberattack targeted their vendor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than $13 Million Stolen From DeFi Platform Deus Finance<a href="https://therecord.media/more-than-13-million-stolen-from-defi-platform-deus-finance/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PeckShield said the attacker stole about $13.4 million worth of cryptocurrency but noted that the platform’s actual losses may be larger. CertiK put the losses at 5,446 ETH, or about $15.7 million.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacker Breach ‘Dozens’ of GitHub Repos Using Stolen OAuth Tokens<a href="https://threatpost.com/github-repos-stolen-oauth-tokens/179427/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub shared the timeline of breaches in April 2022, this timeline encompasses the information related to when a threat actor gained access and stole private repositories belonging to dozens of organizations. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

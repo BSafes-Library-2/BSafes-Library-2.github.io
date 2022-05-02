@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Documents Over 200 Cyberattacks by Russia Against Ukraine<a href="https://thehackernews.com/2022/04/microsoft-documents-over-200.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least six different Russia-aligned actors launched no less than 237 cyberattacks against Ukraine from February 23 to April 8, including 38 discrete destructive attacks that irrevocably destroyed files in hundreds of systems across dozens of organizations in the country.  "Collectively, the cyber and kinetic actions work to disrupt or degrade Ukrainian government and military functions and undermine the public's trust in those same institutions," the company's Digital Security Unit (DSU)&nbsp; said &nbsp;in a special report.  The major malware families that have been leveraged for destructive activity as part of Russia's relentless digital assaults include:&nbsp; WhisperGate ,&nbsp; HermeticWiper &nbsp;( FoxBlade &nbsp;aka KillDisk),&nbsp; HermeticRansom &nbsp;(SonicVote),&nbsp; IssacWiper &nbsp;(Lasainraw),&nbsp; CaddyWiper ,&nbsp; DesertBlade ,&nbsp; DoubleZero &nbsp;(FiberLake), and&nbsp; Industroyer2 .   WhisperGate, HermeticWiper, IssacWiper, and CaddyWiper are all data wipers designed to overwrite data and render machines unboot
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked Russian PSCB Commercial Bank and companies in the energy sector<a href="https://securityaffairs.co/wordpress/130726/cyber-warfare-2/anonymous-hack-russian-companies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpRussia continues, less than a week after my last update Anonymous has hacked other Russian companies and leaked their data via DDoSecrets.
+
+
+
+The #OpRussia launched by Anonymous on Russia after the criminal invasion of Ukraine continues, the collective...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
