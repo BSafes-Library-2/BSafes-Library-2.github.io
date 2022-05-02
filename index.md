@@ -34,6 +34,246 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware returns: New malware sample confirms gang is back<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-returns-new-malware-sample-confirms-gang-is-back/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious REvil ransomware operation has returned amidst rising tensions between Russia and the USA, with new infrastructure and a modified encryptor allowing for more targeted attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking Russia was off-limits, but the Ukraine war made it a free-for-all<a href="https://www.stripes.com/theaters/europe/2022-05-01/hacking-russia-was-off-limits-but-the-ukraine-war-made-it-a-free-for-all-5860618.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For more than a decade, U.S. cybersecurity experts have warned about Russian hacking that increasingly uses the labor power of financially motivated criminal gangs to achieve political goals, such as strategically leaking campaign emails.
+</details>
+<div style="text-align: right" markdown="1">
+Stars and Stripes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology and QNAP warn of critical Netatalk flaws in some of their products<a href="https://securityaffairs.co/wordpress/130778/hacking/synology-netatalk-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Synology warns customers that some of its NAS devices are affected by multiple critical Netatalk vulnerabilities.
+
+
+
+Synology has warned customers that multiple critical Netatalk vulnerabilities affect some of its network-attached storage (NAS) devices....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open source 'Package Analysis' tool finds malicious npm, PyPI packages<a href="https://www.bleepingcomputer.com/news/security/open-source-package-analysis-tool-finds-malicious-npm-pypi-packages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Open Source Security Foundation (OpenSSF), a Linux Foundation-backed initiative has released its first prototype version of the 'Package Analysis' tool that aims to catch and counter malicious attacks on open source registries. the open source tool released on GitHub was able to identify over 200 malicious npm and PyPI packages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole +80M from DeFi platforms Rari Capital and Fei Protocol<a href="https://securityaffairs.co/wordpress/130768/hacking/80m-hack-defi-rari-capital-fei-protocol.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors exploited a bug in the Fuse protocol used by DeFi platforms Rari Capital and Fei Protocol and stole more than $80 million.
+
+
+
+Threat actors stole more than $80 million from the decentralized finance (DeFi) platforms Rari Capital and Fei Protocol...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers compromise embassy emails to target governments<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-compromise-embassy-emails-to-target-governments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have uncovered a recent phishing campaign from Russian hackers known as APT29 (Cozy Bear or Nobelium) targeting diplomats and government entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apr 24 – Apr 30 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/130760/cyber-warfare-2/apr-17-apr-23-ukraine-russia-the-silent-cyber-conflict-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This post provides a timeline of the events related to the Russian invasion of Ukraine from the cyber security perspective.
+
+
+
+Below is the timeline of the events related to the ongoing invasion that occurred in the previous weeks:
+
+
+
+April 30 - Pro-Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A YouTuber is promoting DDoS attacks on Russia — how legal is this?<a href="https://www.bleepingcomputer.com/news/security/a-youtuber-is-promoting-ddos-attacks-on-russia-how-legal-is-this/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A YouTube influencer with hundreds of thousands of subscribers is encouraging everyone to conduct cyber warfare against Russia. How risky is it and can you get in trouble?
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 363 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/130757/breaking-news/security-affairs-newsletter-round-363-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Windows 10 updates infect you with Magniber ransomware<a href="https://www.bleepingcomputer.com/news/security/fake-windows-10-updates-infect-you-with-magniber-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fake Windows 10 updates on crack sites are being used to distribute the Magniber ransomware in a massive campaign that started earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure flaws could allow accessing PostgreSQL DBs of other customers<a href="https://securityaffairs.co/wordpress/130750/security/azure-postgresql-flexible-server-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered flaws in the Azure Database for PostgreSQL Flexible Server that could result in unauthorized cross-account database access in a region.
+
+
+
+Microsoft addressed a couple of vulnerabilities impacting the Azure Database for PostgreSQL...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet tests new attack chain in low volume campaigns<a href="https://securityaffairs.co/wordpress/130739/cyber-crime/emotet-operators-test-new-techniques.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emotet operators are testing new attack techniques in response to Microsoft's move to disable Visual Basic for Applications (VBA) macros by default.
+
+
+
+The operators of the infamous Emotet botnet are testing new attack techniques in response to Microsoft's...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian group Killnet launched DDoS attacks on Romanian govt sites<a href="https://securityaffairs.co/wordpress/130732/hacking/russian-hacktivists-ddos-romanian-govt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of DDoS attacks launched by Russian hacktivists are targeting several Romanian government websites.
+
+
+
+The Romanian national cyber security and incident response team, DNSC, warns of a series of distributed denial-of-service (DDoS) attacks targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
