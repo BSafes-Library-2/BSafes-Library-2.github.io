@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese cyber-espionage group Moshen Dragon targets Asian telcos<a href="https://www.bleepingcomputer.com/news/security/chinese-cyber-espionage-group-moshen-dragon-targets-asian-telcos/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2022
+May 2, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rocket Kitten Targets VMware Flaws In the Wild<a href="https://cyware.com/news/rocket-kitten-targets-vmware-flaws-in-the-wild-a1c02ea2"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese "Override Panda" Hackers Resurface With New Espionage Attacks<a href="https://thehackernews.com/2022/05/chinese-override-panda-hackers.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2022
+May 2, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Can One Know When To Trust Hardware and Software?<a href="https://www.lawfareblog.com/how-can-one-know-when-trust-hardware-and-software"> Full Text</a>
@@ -99,7 +99,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2022
+May 2, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Car rental company Sixt hit by a cyberattack that caused temporary disruptions<a href="https://securityaffairs.co/wordpress/130820/security/sixt-suffered-cyber-attack.html"> Full Text</a>
@@ -119,7 +119,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender for Business stand-alone now generally available<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-business-stand-alone-now-generally-available/"> Full Text</a>
@@ -135,7 +135,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2022
+May 2, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon Web Services Targeted by a Package Backfill Attack<a href="https://www.whitesourcesoftware.com/resources/blog/aws-targeted-by-a-package-backfill-attack/?&web_view=true"> Full Text</a>
@@ -151,7 +151,7 @@ White Source Software
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Which Hole to Plug First? Solving Chronic Vulnerability Patching Overload<a href="https://thehackernews.com/2022/05/which-hole-to-plug-first-solving.html"> Full Text</a>
@@ -167,7 +167,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2022
+May 2, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The mystery behind the samples of the new REvil ransomware operation<a href="https://securityaffairs.co/wordpress/130811/cyber-crime/samples-new-revil-ransomware.html"> Full Text</a>
@@ -187,7 +187,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google SMTP relay service abused for sending phishing emails<a href="https://www.bleepingcomputer.com/news/security/google-smtp-relay-service-abused-for-sending-phishing-emails/"> Full Text</a>
@@ -203,7 +203,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2022
+May 2, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Steal $80 Million From Rari Capital's Fuse Platform, Fei Protocol Suffers From Exploit<a href="https://news.bitcoin.com/attackers-steal-80-million-from-rari-capitals-fuse-platform-fei-protocol-suffers-from-exploit/?&web_view=true"> Full Text</a>
@@ -219,7 +219,7 @@ Bitcoin
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Targeting Diplomatic Entities in Europe, Americas, and Asia<a href="https://thehackernews.com/2022/05/russian-hackers-targeting-diplomatic.html"> Full Text</a>
@@ -235,7 +235,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2022
+May 2, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Group-IB CEO remains in prison – the Russian-led company has been ‘blacklisted’ in Italy<a href="https://securityaffairs.co/wordpress/130806/security/group-ib-ceo-remains-in-prison.html"> Full Text</a>
@@ -255,7 +255,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberspies use IP cameras to deploy backdoors, steal Exchange emails<a href="https://www.bleepingcomputer.com/news/security/cyberspies-use-ip-cameras-to-deploy-backdoors-steal-exchange-emails/"> Full Text</a>
@@ -271,7 +271,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2022
+May 2, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Black Basta Ransomware Possibly Linked to Conti Group<a href="https://www.securityweek.com/new-black-basta-ransomware-possibly-linked-conti-group?&web_view=true"> Full Text</a>
@@ -287,7 +287,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2022
+May 2, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IoT and Cybersecurity: What’s the Future?<a href="https://securityaffairs.co/wordpress/130802/security/iot-cybersecurity-future.html"> Full Text</a>
@@ -311,7 +311,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Car rental giant Sixt facing disruptions due to a cyberattack<a href="https://www.bleepingcomputer.com/news/security/car-rental-giant-sixt-facing-disruptions-due-to-a-cyberattack/"> Full Text</a>
@@ -327,7 +327,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2022
+May 2, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Smallstep Raises $26 Million for Automated Certificate Management Platform<a href="https://www.securityweek.com/smallstep-raises-26-million-automated-certificate-management-platform?&web_view=true"> Full Text</a>
@@ -343,7 +343,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2022
+May 2, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked APT29 targets diplomatic and government organizations<a href="https://securityaffairs.co/wordpress/130787/apt/apt29-targets-diplomats.html"> Full Text</a>
@@ -363,7 +363,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. DoD tricked into paying $23.5 million to phishing actor<a href="https://www.bleepingcomputer.com/news/security/us-dod-tricked-into-paying-235-million-to-phishing-actor/"> Full Text</a>
@@ -379,7 +379,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2022
+May 2, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analysis on recent wiper attacks: examples and how wiper malware works<a href="https://cybersecurity.att.com/blogs/labs-research/analysis-on-recent-wiper-attacks-examples-and-how-they-wiper-malware-works?&web_view=true"> Full Text</a>
@@ -395,7 +395,7 @@ AT&T Cybersecurity
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2022
+May 2, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AvosLocker Ransomware Variant Abuses Driver File to Disable Anti-Virus, Scans for Log4shell<a href="https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html?&web_view=true"> Full Text</a>
@@ -411,7 +411,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 01, 2022
+May 01, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Releases First Developer Preview of Privacy Sandbox on Android 13<a href="https://thehackernews.com/2022/05/google-releases-first-developer-preview.html"> Full Text</a>
@@ -427,7 +427,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 01, 2022
+May 01, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Here's a New Tool That Scans Open-Source Repositories for Malicious Packages<a href="https://thehackernews.com/2022/05/heres-new-tool-that-scans-for-malicious.html"> Full Text</a>
@@ -443,7 +443,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 01, 2022
+May 01, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A YouTuber is encouraging you to DDoS Russia—how risky is this?<a href="https://www.bleepingcomputer.com/news/security/a-youtuber-is-encouraging-you-to-ddos-russia-how-risky-is-this/"> Full Text</a>

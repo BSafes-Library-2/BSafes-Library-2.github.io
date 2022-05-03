@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+May 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Steal $80 Million From Rari Capital's Fuse Platform, Fei Protocol Suffers From Exploit<a href="https://news.bitcoin.com/attackers-steal-80-million-from-rari-capitals-fuse-platform-fei-protocol-suffers-from-exploit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack on Saturday was also confirmed by Fei Protocol’s official Twitter account. Fei Protocol also offered the attacker a $10 million bounty to return the stolen funds.
+</details>
+<div style="text-align: right" markdown="1">
+Bitcoin
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. DoD tricked into paying $23.5 million to phishing actor<a href="https://www.bleepingcomputer.com/news/security/us-dod-tricked-into-paying-235-million-to-phishing-actor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) has announced the conviction of Sercan Oyuntur, 40, resident of California, for multiple counts relating to a phishing operation that caused $23.5 million in damages to the U.S. Department of Defense (DoD).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Black Basta Ransomware Possibly Linked to Conti Group<a href="https://www.securityweek.com/new-black-basta-ransomware-possibly-linked-conti-group?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware operation named Black Basta has targeted at least a dozen companies and some researchers believe there may be a connection to the notorious Conti ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AvosLocker Ransomware Variant Abuses Driver File to Disable Anti-Virus, Scans for Log4shell<a href="https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While previous AvosLocker infections employ similar routines, this is the first sample researchers observed from the US with the capability to disable a defense solution using a legitimate Avast Anti-Rootkit Driver file (asWarPot.sys).
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

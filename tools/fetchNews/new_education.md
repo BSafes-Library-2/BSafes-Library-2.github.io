@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Can One Know When To Trust Hardware and Software?<a href="https://www.lawfareblog.com/how-can-one-know-when-trust-hardware-and-software"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lawfare Institute convened a working group of experts to answer that question. The group's report, titled "Creating a Framework for Supply Chain Trust in Hardware and Software" is available now.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

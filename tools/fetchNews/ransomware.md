@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Windows 10 updates infect you with Magniber ransomware<a href="https://www.bleepingcomputer.com/news/security/fake-windows-10-updates-infect-you-with-magniber-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fake Windows 10 updates on crack sites are being used to distribute the Magniber ransomware in a massive campaign that started earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese "Override Panda" Hackers Resurface With New Espionage Attacks<a href="https://thehackernews.com/2022/05/chinese-override-panda-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese state-sponsored espionage group known as Override Panda  has resurfaced in recent weeks with a new phishing attack with the goal of stealing sensitive information.  "The Chinese APT used a spear-phishing email to deliver a beacon of a Red Team framework known as 'Viper,'" Cluster25&nbsp; said &nbsp;in a report published last week.  "The target of this attack is currently unknown but with high probability, given the previous history of the attack perpetrated by the group, it might be a government institution from a South Asian country."   Override Panda, also called&nbsp; Naikon , Hellsing, and Bronze Geneva, is known to operate on behalf of Chinese interests since at least 2005 to conduct intelligence-gathering operations targeting&nbsp; ASEAN countries .  Attack chains unleashed by the threat actor have involved the use of decoy documents attached to spear-phishing emails that are designed to entice the intended victims to open and compromise themselves with malware
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspies use IP cameras to deploy backdoors, steal Exchange emails<a href="https://www.bleepingcomputer.com/news/security/cyberspies-use-ip-cameras-to-deploy-backdoors-steal-exchange-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered and uncommonly stealthy Advanced Persistent Threat (APT) group is breaching corporate networks to steal Exchange (on-premise and online) emails from employees involved in corporate transactions such as mergers and acquisitions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

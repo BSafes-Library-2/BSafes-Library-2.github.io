@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT29 targets diplomatic and government organizations<a href="https://securityaffairs.co/wordpress/130787/apt/apt29-targets-diplomats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT29 (Cozy Bear or Nobelium) launched a spear-phishing campaign targeting diplomats and government entities.
+
+
+
+In mid-January 2022, security researchers from Mandiant have spotted a spear-phishing campaign, launched by the Russia-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+May 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smallstep Raises $26 Million for Automated Certificate Management Platform<a href="https://www.securityweek.com/smallstep-raises-26-million-automated-certificate-management-platform?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Smallstep says it will use the funds to invest in the open-source community, will continue to build products for practical zero trust, and will accelerate research and development.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

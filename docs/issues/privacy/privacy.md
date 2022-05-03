@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases First Developer Preview of Privacy Sandbox on Android 13<a href="https://thehackernews.com/2022/05/google-releases-first-developer-preview.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has officially&nbsp; released &nbsp;the first developer preview for the Privacy Sandbox  on Android 13, offering an "early look" at the SDK Runtime and Topics API to boost users' privacy online.  "The Privacy Sandbox on Android Developer Preview program will run over the course of 2022, with a beta release planned by the end of the year," the search giant&nbsp; said &nbsp;in an overview.  A "multi-year effort,"&nbsp; Privacy Sandbox &nbsp;on Android aims to create technologies that's both privacy-preserving as well as keep online content and services free without having to resort to opaque methods of digital advertising.   The idea is to limit sharing of user data with third-parties and operate without cross-app identifiers, including advertising ID, a unique, user-resettable string of letters and digits that can be used to track users as they move between apps.  Google originally&nbsp; announced &nbsp;its plans to bring Privacy Sandbox to Android earlier this February, following
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

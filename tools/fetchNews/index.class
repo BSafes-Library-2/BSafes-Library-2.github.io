@@ -34,6 +34,431 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese cyber-espionage group Moshen Dragon targets Asian telcos<a href="https://www.bleepingcomputer.com/news/security/chinese-cyber-espionage-group-moshen-dragon-targets-asian-telcos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified a new cluster of malicious cyber activity tracked as Moshen Dragon, targeting telecommunication service providers in Central Asia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rocket Kitten Targets VMware Flaws In the Wild<a href="https://cyware.com/news/rocket-kitten-targets-vmware-flaws-in-the-wild-a1c02ea2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked Rocket Kitten has been observed actively exploiting a recently patched VMware vulnerability to gain initial access and deploy the Core Impact penetration testing tool on vulnerable systems. Users of the associated VMWare products should review their VMware architecture to make sure the  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese "Override Panda" Hackers Resurface With New Espionage Attacks<a href="https://thehackernews.com/2022/05/chinese-override-panda-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese state-sponsored espionage group known as Override Panda  has resurfaced in recent weeks with a new phishing attack with the goal of stealing sensitive information.  "The Chinese APT used a spear-phishing email to deliver a beacon of a Red Team framework known as 'Viper,'" Cluster25  said  in a report published last week.  "The target of this attack is currently unknown but with high probability, given the previous history of the attack perpetrated by the group, it might be a government institution from a South Asian country."   Override Panda, also called  Naikon , Hellsing, and Bronze Geneva, is known to operate on behalf of Chinese interests since at least 2005 to conduct intelligence-gathering operations targeting  ASEAN countries .  Attack chains unleashed by the threat actor have involved the use of decoy documents attached to spear-phishing emails that are designed to entice the intended victims to open and compromise themselves with malware
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Can One Know When To Trust Hardware and Software?<a href="https://www.lawfareblog.com/how-can-one-know-when-trust-hardware-and-software"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lawfare Institute convened a working group of experts to answer that question. The group's report, titled "Creating a Framework for Supply Chain Trust in Hardware and Software" is available now.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Car rental company Sixt hit by a cyberattack that caused temporary disruptions<a href="https://securityaffairs.co/wordpress/130820/security/sixt-suffered-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The car rental company Sixt announced it was hit by a cyberattack that is causing temporary business disruptions at customer care centers and selective branches.
+
+
+
+The car rental company Sixt detected IT anomalies on April 29th, 2022 and immediately...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender for Business stand-alone now generally available<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-business-stand-alone-now-generally-available/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says that its enterprise-grade endpoint security for small to medium-sized businesses is now generally available.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Web Services Targeted by a Package Backfill Attack<a href="https://www.whitesourcesoftware.com/resources/blog/aws-targeted-by-a-package-backfill-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhiteSource identified, blocked, and reported two packages that were deemed to be malicious versions of original AWS packages. WhiteSource security experts have reached out to contacts at Amazon to notify them of their findings.
+</details>
+<div style="text-align: right" markdown="1">
+White Source Software
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Which Hole to Plug First? Solving Chronic Vulnerability Patching Overload<a href="https://thehackernews.com/2022/05/which-hole-to-plug-first-solving.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to folklore, witches were able to sail in a sieve, a strainer with holes in the bottom. Unfortunately, witches don't work in cybersecurity – where networks generally have so many vulnerabilities that they resemble sieves.   For most of us, keeping the sieve of our networks afloat requires nightmarishly hard work and frequent compromises on which holes to plug first.  The reason? In 2010, just under 5000 CVEs were recorded in the MITRE vulnerabilities database. By 2021, the yearly total had skyrocketed to  over 20,000 . Today, software and network integrity are synonymous with business continuity. And this makes the issue of which vulnerabilities to address first mission-critical. Yet owing to the countless documented vulnerabilities lurking in a typical enterprise ecosystem – across thousands of laptops, servers, and internet-connected devices – less than  one in ten  actually needs to be patched. The question is: how can we know which patches will ensure that our sieve does
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The mystery behind the samples of the new REvil ransomware operation<a href="https://securityaffairs.co/wordpress/130811/cyber-crime/samples-new-revil-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware gang has resumed its operations, experts found a new encryptor and a new attack infrastructure.
+
+
+
+The REvil ransomware operation shut down in October 2021, in January the Russian Federal Security Service (FSB) announced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google SMTP relay service abused for sending phishing emails<a href="https://www.bleepingcomputer.com/news/security/google-smtp-relay-service-abused-for-sending-phishing-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing actors abuse Google's SMTP relay service to bypass email security products and successfully deliver malicious emails to targeted users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Steal $80 Million From Rari Capital's Fuse Platform, Fei Protocol Suffers From Exploit<a href="https://news.bitcoin.com/attackers-steal-80-million-from-rari-capitals-fuse-platform-fei-protocol-suffers-from-exploit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack on Saturday was also confirmed by Fei Protocol’s official Twitter account. Fei Protocol also offered the attacker a $10 million bounty to return the stolen funds.
+</details>
+<div style="text-align: right" markdown="1">
+Bitcoin
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Targeting Diplomatic Entities in Europe, Americas, and Asia<a href="https://thehackernews.com/2022/05/russian-hackers-targeting-diplomatic.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian state-sponsored threat actor has been observed targeting diplomatic and government entities as part of a series of phishing campaigns commencing on January 17, 2022.  Threat intelligence and incident response firm Mandiant attributed the attacks to a hacking group tracked as APT29 (aka Cozy Bear), with some set of the activities associated with the crew assigned the moniker  Nobelium  (aka UNC2452/2652).  "This latest wave of spear phishing showcases APT29's enduring interests in obtaining diplomatic and foreign policy information from governments around the world," Mandiant  said  in a report published last week.  The initial access is said to have been aided through spear-phishing emails masquerading as administrative notices, using legitimate but compromised email addresses from other diplomatic entities.   These emails contain an HTML dropper attachment called ROOTSAW (aka  EnvyScout ) that, when opened, triggers an infection sequence that delivers and exec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group-IB CEO remains in prison – the Russian-led company has been ‘blacklisted’ in Italy<a href="https://securityaffairs.co/wordpress/130806/security/group-ib-ceo-remains-in-prison.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest executive order from the Italian ACN agency banned Group-IB, a Russian-led cybersecurity firm from working in the government sector
+
+
+
+The latest executive order from the Italian National Cybersecurity Agency (NCA) banned Group-IB, a Russian-led...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspies use IP cameras to deploy backdoors, steal Exchange emails<a href="https://www.bleepingcomputer.com/news/security/cyberspies-use-ip-cameras-to-deploy-backdoors-steal-exchange-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered and uncommonly stealthy Advanced Persistent Threat (APT) group is breaching corporate networks to steal Exchange (on-premise and online) emails from employees involved in corporate transactions such as mergers and acquisitions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Black Basta Ransomware Possibly Linked to Conti Group<a href="https://www.securityweek.com/new-black-basta-ransomware-possibly-linked-conti-group?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware operation named Black Basta has targeted at least a dozen companies and some researchers believe there may be a connection to the notorious Conti ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT and Cybersecurity: What’s the Future?<a href="https://securityaffairs.co/wordpress/130802/security/iot-cybersecurity-future.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IoT gizmos make our lives easier, but we forget that these doohickeys are IP endpoints that act as mini-radios. 
+
+
+
+They continuously send and receive data via the internet and can be the easiest way for a hacker to access your home network.
+
+
+
+IoT devices...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Car rental giant Sixt facing disruptions due to a cyberattack<a href="https://www.bleepingcomputer.com/news/security/car-rental-giant-sixt-facing-disruptions-due-to-a-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Car rental giant Sixt was hit by a weekend cyberattack causing business disruptions at customer care centers and select branch
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smallstep Raises $26 Million for Automated Certificate Management Platform<a href="https://www.securityweek.com/smallstep-raises-26-million-automated-certificate-management-platform?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Smallstep says it will use the funds to invest in the open-source community, will continue to build products for practical zero trust, and will accelerate research and development.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT29 targets diplomatic and government organizations<a href="https://securityaffairs.co/wordpress/130787/apt/apt29-targets-diplomats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT29 (Cozy Bear or Nobelium) launched a spear-phishing campaign targeting diplomats and government entities.
+
+
+
+In mid-January 2022, security researchers from Mandiant have spotted a spear-phishing campaign, launched by the Russia-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. DoD tricked into paying $23.5 million to phishing actor<a href="https://www.bleepingcomputer.com/news/security/us-dod-tricked-into-paying-235-million-to-phishing-actor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) has announced the conviction of Sercan Oyuntur, 40, resident of California, for multiple counts relating to a phishing operation that caused $23.5 million in damages to the U.S. Department of Defense (DoD).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis on recent wiper attacks: examples and how wiper malware works<a href="https://cybersecurity.att.com/blogs/labs-research/analysis-on-recent-wiper-attacks-examples-and-how-they-wiper-malware-works?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the last two months, since the war started in Eastern Europe, several wipers have been used in parallel with DDoS attacks to keep financial institutions and government organizations, mainly Ukrainian, inaccessible for extended periods of time.
+</details>
+<div style="text-align: right" markdown="1">
+AT&T Cybersecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AvosLocker Ransomware Variant Abuses Driver File to Disable Anti-Virus, Scans for Log4shell<a href="https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While previous AvosLocker infections employ similar routines, this is the first sample researchers observed from the US with the capability to disable a defense solution using a legitimate Avast Anti-Rootkit Driver file (asWarPot.sys).
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 01, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases First Developer Preview of Privacy Sandbox on Android 13<a href="https://thehackernews.com/2022/05/google-releases-first-developer-preview.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has officially  released  the first developer preview for the Privacy Sandbox  on Android 13, offering an "early look" at the SDK Runtime and Topics API to boost users' privacy online.  "The Privacy Sandbox on Android Developer Preview program will run over the course of 2022, with a beta release planned by the end of the year," the search giant  said  in an overview.  A "multi-year effort,"  Privacy Sandbox  on Android aims to create technologies that's both privacy-preserving as well as keep online content and services free without having to resort to opaque methods of digital advertising.   The idea is to limit sharing of user data with third-parties and operate without cross-app identifiers, including advertising ID, a unique, user-resettable string of letters and digits that can be used to track users as they move between apps.  Google originally  announced  its plans to bring Privacy Sandbox to Android earlier this February, following
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 01, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here's a New Tool That Scans Open-Source Repositories for Malicious Packages<a href="https://thehackernews.com/2022/05/heres-new-tool-that-scans-for-malicious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Open Source Security Foundation (OpenSSF) has announced the initial prototype release of a new tool that's capable of carrying out dynamic analysis of all packages uploaded to popular open source repositories.  Called the  Package Analysis  project, the initiative aims to secure open-source packages by detecting and alerting users to any malicious behavior with the goal of bolstering the security of the software supply chain and increasing trust in open-source software.   "The Package Analysis project seeks to understand the behavior and capabilities of packages available on open source repositories: what files do they access, what addresses do they connect to, and what commands do they run?," the OpenSSF  said .  "The project also tracks changes in how packages behave over time, to identify when previously safe software begins acting suspiciously," the foundation's Caleb Brown and David A. Wheeler added.  In a test run that lasted a month, the tool ide
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 01, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A YouTuber is encouraging you to DDoS Russia—how risky is this?<a href="https://www.bleepingcomputer.com/news/security/a-youtuber-is-encouraging-you-to-ddos-russia-how-risky-is-this/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A YouTube influencer with hundreds of thousands of subscribers is encouraging everyone to conduct cyber warfare against Russia. How risky is it and can you get in trouble?
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 01, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
