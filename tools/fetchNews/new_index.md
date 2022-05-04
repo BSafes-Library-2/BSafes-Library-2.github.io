@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla: Lack of Security Protections in Mental-Health Apps Is ‘Creepy’<a href="https://threatpost.com/mozilla-security-health-apps-creepy/179463/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular apps to support people’s psychological and spiritual well-being can harm them by sharing their personal and sensitive data with third parties, among other privacy offenses.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 03, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
