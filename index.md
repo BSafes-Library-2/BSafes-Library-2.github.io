@@ -34,6 +34,342 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ransomware strains linked to North Korean govt hackers<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-strains-linked-to-north-korean-govt-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several ransomware strains have been linked to APT38, a North Korean-sponsored hacking group known for its focus on targeting and stealing funds from financial institutions worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ Eyes SharePoint, VPNs, and VMs<a href="https://cyware.com/news/lapsus-eyes-sharepoint-vpns-and-vms-27bccf63"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report revealed the techniques and tactics of the highly unpredictable attacks by the Lapsus$ gang to target the victims, along with its interest in exploiting SharePoint, VPNs, and VMs. Researchers have observed mass deletion of VMs, storage, and configurations in cloud environments. For rem ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical TLStorm 2.0 Bugs Affect Widely-Used Aruba and Avaya Network Switches<a href="https://thehackernews.com/2022/05/critical-tlstorm-20-bugs-affect-widely.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed as many as five severe security flaws in the implementation of TLS protocol in several models of Aruba and Avaya network switches that could be abused to gain remote access to enterprise networks and steal valuable information.  The findings follow the March disclosure of  TLStorm , a set of three critical flaws in APC Smart-UPS devices that could permit an attacker to take over control and, worse, physically damage the appliances.  IoT security firm Armis, which uncovered the shortcomings, noted that the design flaws can be traced back to a common source: a misuse of  NanoSSL , a standards-based SSL developer suite from Mocana, a DigiCert subsidiary.   The new set of flaws, dubbed  TLStorm 2.0 , renders Aruba and Avaya network switches vulnerable to remote code execution vulnerabilities, enabling an adversary to commandeer the devices, move laterally across the network, and exfiltrate sensitive data.  Affected devices include Avaya ERS3500 Seri
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Does the 2022 NDS Fact Sheet Imply for the Forthcoming Cyber Strategy?<a href="https://www.lawfareblog.com/what-does-2022-nds-fact-sheet-imply-forthcoming-cyber-strategy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NDS fact sheet makes clear that campaigning is important for achieving security across the full spectrum of strategic competition and supporting integrated deterrence.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT Curious Gorge targeted Russian govt agencies<a href="https://securityaffairs.co/wordpress/130873/apt/china-curious-gorge-targeted-russian-govt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked Curious Gorge APT is targeting Russian government agencies, Google Threat Analysis Group (TAG) warns.
+
+
+
+Google Threat Analysis Group (TAG) reported that an APT group linked to China's People's Liberation Army Strategic Support Force (PLA...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti, REvil, LockBit ransomware bugs exploited to block encryption<a href="https://www.bleepingcomputer.com/news/security/conti-revil-lockbit-ransomware-bugs-exploited-to-block-encryption/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers commonly exploit vulnerabilities in corporate networks to gain access, but a researcher has turned the table by finding exploits in the most common ransomware and malware being distributed today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Gang is Back in the Game<a href="https://cyware.com/news/revil-ransomware-gang-is-back-in-the-game-b5124c01"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After reporting its TOR activity weeks ago, researchers claim the return of the REvil group with new infrastructure and an updated malware sample with a modified encryptor for more targeted attacks. It is recommended to keep security shields charged up to fend off such threats. Meanwhile, the publi ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Analyze Conti and Hive Ransomware Gangs' Chats With Their Victims<a href="https://thehackernews.com/2022/05/experts-analyze-conti-and-hive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of four months of chat logs spanning more than 40 conversations between the operators of Conti and Hive ransomware and their victims has offered an insight into the groups' inner workings and their negotiation techniques.  In one exchange, the Conti Team is said to have significantly reduced the ransom demand from a staggering $50 million to $1 million, a 98% drop, suggesting a willingness to settle for a far lower amount.  "Both Conti and Hive are quick to lower ransom demands, routinely offering substantial reductions multiple times throughout negotiations," Cisco Talos  said  in a report shared with The Hacker News. "This signals that despite popular belief, victims of a ransomware attack actually have significant negotiating power."  Conti  and  Hive  are among the most prevalent ransomware strains in the threat landscape, cumulatively accounting for  29.1% of attacks  detected during the three-month-period between October and December 2021.   A
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A DNS flaw impacts a library used by millions of IoT devices<a href="https://securityaffairs.co/wordpress/130865/security/dns-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the domain name system (DNS) component of the uClibc library impacts millions of IoT products.
+
+
+
+Nozomi Networks warns of a vulnerability, tracked as CVE-2022-05-02, in the domain name system (DNS) component of the uClibc...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New phishing warns: Your verified Twitter account may be at risk<a href="https://www.bleepingcomputer.com/news/security/new-phishing-warns-your-verified-twitter-account-may-be-at-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing emails increasingly target verified Twitter accounts with emails designed to steal their account credentials, as shown by numerous ongoing campaigns conducted by threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA410 Group has Got New Tools and Three Teams Working Under it<a href="https://cyware.com/news/ta410-group-has-got-new-tools-and-three-teams-working-under-it-dc4135ff"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysts revealed that threat group TA410 comprised three independent subgroups, that have been operating globally since 2018, to collect intelligence data via phishing campaigns. TA410 shares behavioral, tooling overlaps with APT10 and has a history of targeting U.S.-based organizations. Organizat ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Moshen Dragon abuses security software to sideload malware<a href="https://securityaffairs.co/wordpress/130851/apt/moshen-dragon-targets-telcos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked APT group, tracked as Moshen Dragon, is exploiting antivirus products to target the telecom sector in Asia.
+
+
+
+A China-linked APT group, tracked as Moshen Dragon, has been observed targeting the telecommunication sector in Central Asia...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC ramps up fight on cryptocurrency fraud by doubling cyber unit<a href="https://www.bleepingcomputer.com/news/security/sec-ramps-up-fight-on-cryptocurrency-fraud-by-doubling-cyber-unit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Securities and Exchange Commission (SEC) announced today that it will almost double the Crypto Assets and Cyber Unit to ramp up the fight against cryptocurrency fraud to protect investors from "cyber-related threats."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta and Onyx Leading the New Waves of Ransomware Attacks<a href="https://cyware.com/news/black-basta-and-onyx-leading-the-new-waves-of-ransomware-attacks-734f215a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two new ransomware strains have been doing the rounds. The first, tracked as Black Basta, has infiltrated at least a dozen companies in a matter of weeks. Another one, dubbed Onyx, has also managed to hit six organizations. The latter destroys large files instead of locking them, hence preventing d ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: Chinese state hackers keep targeting Russian govt agencies<a href="https://www.bleepingcomputer.com/news/security/google-chinese-state-hackers-keep-targeting-russian-govt-agencies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google said today that a Chinese-sponsored hacking group linked to China's People's Liberation Army Strategic Support Force (PLA SSF) is targeting Russian government agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at US Energy Supplier Riviera Utilities Potentially Exposed Sensitive Customer Information<a href="https://portswigger.net/daily-swig/data-breach-at-us-energy-supplier-riviera-utilities-exposes-customer-information?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach at Riviera Utilities, a utility company serving Baldwin County in Alabama, exposed the personal details of customers after employee email accounts were accessed.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched DNS bug affects millions of routers and IoT devices<a href="https://www.bleepingcomputer.com/news/security/unpatched-dns-bug-affects-millions-of-routers-and-iot-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the domain name system (DNS) component of a popular C standard library that is present in a wide range of IoT products may put millions of devices at DNS poisoning attack risk.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TLStorm 2.0: Critical bugs in widely-used Aruba, Avaya network switches<a href="https://www.helpnetsecurity.com/2022/05/03/tlstorm-2-0/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new TLStorm 2.0 research exposes vulnerabilities that could allow an attacker to take full control over network switches used in airports, hospitals, hotels, and other organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aruba and Avaya network switches are vulnerable to RCE attacks<a href="https://www.bleepingcomputer.com/news/security/aruba-and-avaya-network-switches-are-vulnerable-to-rce-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered five vulnerabilities in network equipment from Aruba (owned by HP) and Avaya (owned by ExtremeNetworks), that could allow malicious actors to execute code remotely on the devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Reveal Unpatched Vulnerability in C Library That Could Enable DNS Poisoning Attacks<a href="https://therecord.media/iot-vulnerability-ics-nozomi-networks-uclibc-ng/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability is in a library for the C programming language — uClibc / uClibc-ng — that is commonly used in creating software for IoT products, reported researchers at Nozomi Networks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 3, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

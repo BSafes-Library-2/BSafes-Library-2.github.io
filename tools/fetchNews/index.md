@@ -34,6 +34,142 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two vulnerabilities in Accusoft ImageGear could lead to DoS, arbitrary free<a href="https://blog.talosintelligence.com/2022/05/vuln-spotlight-accusoft-.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ImageGear library is a document-imaging developer toolkit that allows users to create, edit, annotate and convert various images. It supports more than 100 file formats such as DICOM, PDF and Microsoft Office.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC3524 APT uses IP cameras to deploy backdoors and target Exchange<a href="https://securityaffairs.co/wordpress/130838/apt/unc3524-apt-ip-cameras.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new APT group, tracked as UNC3524, uses IP cameras to deploy backdoors and steal Microsoft Exchange emails.
+
+
+
+Mandiant researchers discovered a new APT group, tracked as UNC3524, that heavily targets the emails of employees that focus on corporate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Package Analysis dynamic analyzes packages in open-source repositories<a href="https://securityaffairs.co/wordpress/130831/security/package-analysis-project.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Open Source Security Foundation (OpenSSF) is working on a tool to conduct a dynamic analysis of packages uploaded to popular open-source repositories.
+
+
+
+The Open Source Security Foundation (OpenSSF) announced the release of the first version of a new tool,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AvosLocker Ransomware Variant Using New Trick to Disable Antivirus Protection<a href="https://thehackernews.com/2022/05/avoslocker-ransomware-variant-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a new variant of the AvosLocker ransomware that disables antivirus solutions to evade detection after breaching target networks by taking advantage of unpatched security flaws.   "This is the first sample we observed from the U.S. with the capability to disable a defense solution using a legitimate Avast Anti-Rootkit Driver file (asWarPot.sys)," Trend Micro researchers, Christoper Ordonez and Alvin Nieto,  said  in a Monday analysis.  "In addition, the ransomware is also capable of scanning multiple endpoints for the Log4j vulnerability (Log4shell) using Nmap  NSE script ."  AvosLocker , one of the newer ransomware families to fill the vacuum left by  REvil , has been linked to a number of attacks that targeted critical infrastructure in the U.S., including financial services and government facilities.   A ransomware-as-a-service (RaaS) affiliate-based group first spotted in July 2021, AvosLocker goes beyond double extortion
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Caught Exploiting Popular Antivirus Products to Target Telecom Sector<a href="https://thehackernews.com/2022/05/chinese-hackers-caught-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-aligned cyberespionage group has been observed striking the telecommunication sector in Central Asia with versions of malware such as ShadowPad and PlugX.  Cybersecurity firm SentinelOne tied the intrusions to an actor it tracks under the name "Moshen Dragon," with tactical overlaps between the collective and another threat group referred to as Nomad Panda (aka  RedFoxtrot ).  "PlugX and ShadowPad have a well-established history of use among Chinese-speaking threat actors primarily for espionage activity," SentinelOne's Joey Chen  said . "Those tools have flexible, modular functionality and are compiled via shellcode to easily bypass traditional endpoint protection products."   ShadowPad , labeled a "masterpiece of privately sold malware in Chinese espionage," emerged as a successor to PlugX in 2015, even as variants of the latter have continually popped up as part of different campaigns associated with Chinese threat actors.  Alth
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched DNS Related Vulnerability Affects a Wide Range of IoT Devices<a href="https://thehackernews.com/2022/05/unpatched-dns-related-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed an unpatched security vulnerability that could pose a serious risk to IoT products.  The issue, which was originally reported in September 2021, affects the Domain Name System (DNS) implementation of two popular C libraries called  uClibc  and  uClibc-ng  that are used for developing embedded Linux systems.   uClibc is known to be used by major vendors such as Linksys, Netgear, and Axis, as well as Linux distributions like Embedded Gentoo, potentially exposing millions of IoT devices to security threats.  "The flaw is caused by the predictability of transaction IDs included in the DNS requests generated by the library, which may allow attackers to perform DNS poisoning attacks against the target device," Giannis Tsaraias and Andrea Palanca of Nozomi Networks  said  in a Monday write-up.   DNS poisoning , also referred to as DNS spoofing, is the technique of corrupting a DNS resolver cache — which provides clients with the IP address a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hacker Group Pursuing Corporate Employees Focused on Mergers and Acquisitions<a href="https://thehackernews.com/2022/05/new-hacker-group-pursuing-corporate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered suspected espionage threat actor has been targeting employees focusing on mergers and acquisitions as well as large corporate transactions to facilitate bulk email collection from victim environments.  Mandiant is tracking the activity cluster under the uncategorized moniker UNC3524, citing a lack of evidence linking it to an existing group. However, some of the intrusions are said to mirror techniques used by different Russia-based hacking crews like  APT28  and  APT29 .    "The high level of operational security, low malware footprint, adept evasive skills, and a large Internet of Things (IoT) device botnet set this group apart and emphasize the 'advanced' in Advanced Persistent Threat," the threat intelligence firm  said  in a Monday report.  The initial access route is unknown but upon gaining a foothold, attack chains involving UNC3524 culminate in the deployment of a novel backdoor called QUIETEXIT for persistent remote access for as long as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Says Recent Attack Involving Stolen OAuth Tokens Was "Highly Targeted"<a href="https://thehackernews.com/2022/05/github-says-recent-attack-involving.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud-based code hosting platform GitHub described the recent  attack campaign  involving the abuse of OAuth access tokens issued to Heroku and Travis-CI as "highly targeted" in nature.  "This pattern of behavior suggests the attacker was only listing organizations in order to identify accounts to selectively target for listing and downloading private repositories," GitHub's Mike Hanley  said  in an updated post.   The  security incident , which it discovered on April 12, related to an unidentified attacker leveraging stolen OAuth user tokens issued to two third-party OAuth integrators, Heroku and Travis-CI, to download data from dozens of organizations, including NPM.  The Microsoft-owned company said last week that it's in the process of sending a final set of notifications to GitHub customers who had either the Heroku or Travis CI OAuth app integrations authorized in their accounts.  According to a detailed step-by-step analysis carried out by GitHub, th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 02, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
