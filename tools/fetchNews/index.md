@@ -34,7 +34,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 3, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla: Lack of Security Protections in Mental-Health Apps Is ‘Creepy’<a href="https://threatpost.com/mozilla-security-health-apps-creepy/179463/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular apps to support people’s psychological and spiritual well-being can harm them by sharing their personal and sensitive data with third parties, among other privacy offenses.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ransomware strains linked to North Korean govt hackers<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-strains-linked-to-north-korean-govt-hackers/"> Full Text</a>
@@ -50,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lapsus$ Eyes SharePoint, VPNs, and VMs<a href="https://cyware.com/news/lapsus-eyes-sharepoint-vpns-and-vms-27bccf63"> Full Text</a>
@@ -67,7 +83,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical TLStorm 2.0 Bugs Affect Widely-Used Aruba and Avaya Network Switches<a href="https://thehackernews.com/2022/05/critical-tlstorm-20-bugs-affect-widely.html"> Full Text</a>
@@ -83,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What Does the 2022 NDS Fact Sheet Imply for the Forthcoming Cyber Strategy?<a href="https://www.lawfareblog.com/what-does-2022-nds-fact-sheet-imply-forthcoming-cyber-strategy"> Full Text</a>
@@ -99,7 +115,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT Curious Gorge targeted Russian govt agencies<a href="https://securityaffairs.co/wordpress/130873/apt/china-curious-gorge-targeted-russian-govt.html"> Full Text</a>
@@ -119,7 +135,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 03, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti, REvil, LockBit ransomware bugs exploited to block encryption<a href="https://www.bleepingcomputer.com/news/security/conti-revil-lockbit-ransomware-bugs-exploited-to-block-encryption/"> Full Text</a>
@@ -135,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Ransomware Gang is Back in the Game<a href="https://cyware.com/news/revil-ransomware-gang-is-back-in-the-game-b5124c01"> Full Text</a>
@@ -152,7 +168,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 03, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Analyze Conti and Hive Ransomware Gangs' Chats With Their Victims<a href="https://thehackernews.com/2022/05/experts-analyze-conti-and-hive.html"> Full Text</a>
@@ -168,7 +184,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A DNS flaw impacts a library used by millions of IoT devices<a href="https://securityaffairs.co/wordpress/130865/security/dns-vulnerability.html"> Full Text</a>
@@ -188,7 +204,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 03, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New phishing warns: Your verified Twitter account may be at risk<a href="https://www.bleepingcomputer.com/news/security/new-phishing-warns-your-verified-twitter-account-may-be-at-risk/"> Full Text</a>
@@ -204,7 +220,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA410 Group has Got New Tools and Three Teams Working Under it<a href="https://cyware.com/news/ta410-group-has-got-new-tools-and-three-teams-working-under-it-dc4135ff"> Full Text</a>
@@ -221,7 +237,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked Moshen Dragon abuses security software to sideload malware<a href="https://securityaffairs.co/wordpress/130851/apt/moshen-dragon-targets-telcos.html"> Full Text</a>
@@ -241,7 +257,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 03, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SEC ramps up fight on cryptocurrency fraud by doubling cyber unit<a href="https://www.bleepingcomputer.com/news/security/sec-ramps-up-fight-on-cryptocurrency-fraud-by-doubling-cyber-unit/"> Full Text</a>
@@ -257,7 +273,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta and Onyx Leading the New Waves of Ransomware Attacks<a href="https://cyware.com/news/black-basta-and-onyx-leading-the-new-waves-of-ransomware-attacks-734f215a"> Full Text</a>
@@ -274,7 +290,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 03, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google: Chinese state hackers keep targeting Russian govt agencies<a href="https://www.bleepingcomputer.com/news/security/google-chinese-state-hackers-keep-targeting-russian-govt-agencies/"> Full Text</a>
@@ -290,8 +306,8 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
-{: .fs-4 .fw-700 .lh-0  }
+May 3, 2022 
+{: .fs-4 .fw-- [Breach](/docs/issues/breach/breach/)<br>-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at US Energy Supplier Riviera Utilities Potentially Exposed Sensitive Customer Information<a href="https://portswigger.net/daily-swig/data-breach-at-us-energy-supplier-riviera-utilities-exposes-customer-information?&web_view=true"> Full Text</a>
 </p>
@@ -306,7 +322,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched DNS bug affects millions of routers and IoT devices<a href="https://www.bleepingcomputer.com/news/security/unpatched-dns-bug-affects-millions-of-routers-and-iot-devices/"> Full Text</a>
@@ -322,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TLStorm 2.0: Critical bugs in widely-used Aruba, Avaya network switches<a href="https://www.helpnetsecurity.com/2022/05/03/tlstorm-2-0/?&web_view=true"> Full Text</a>
@@ -338,7 +354,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aruba and Avaya network switches are vulnerable to RCE attacks<a href="https://www.bleepingcomputer.com/news/security/aruba-and-avaya-network-switches-are-vulnerable-to-rce-attacks/"> Full Text</a>
@@ -354,7 +370,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Reveal Unpatched Vulnerability in C Library That Could Enable DNS Poisoning Attacks<a href="https://therecord.media/iot-vulnerability-ics-nozomi-networks-uclibc-ng/?&web_view=true"> Full Text</a>
@@ -370,7 +386,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two vulnerabilities in Accusoft ImageGear could lead to DoS, arbitrary free<a href="https://blog.talosintelligence.com/2022/05/vuln-spotlight-accusoft-.html?&web_view=true"> Full Text</a>
@@ -386,7 +402,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UNC3524 APT uses IP cameras to deploy backdoors and target Exchange<a href="https://securityaffairs.co/wordpress/130838/apt/unc3524-apt-ip-cameras.html"> Full Text</a>
@@ -406,7 +422,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Package Analysis dynamic analyzes packages in open-source repositories<a href="https://securityaffairs.co/wordpress/130831/security/package-analysis-project.html"> Full Text</a>
@@ -426,7 +442,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AvosLocker Ransomware Variant Using New Trick to Disable Antivirus Protection<a href="https://thehackernews.com/2022/05/avoslocker-ransomware-variant-using-new.html"> Full Text</a>
@@ -442,7 +458,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Caught Exploiting Popular Antivirus Products to Target Telecom Sector<a href="https://thehackernews.com/2022/05/chinese-hackers-caught-exploiting.html"> Full Text</a>
@@ -458,7 +474,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched DNS Related Vulnerability Affects a Wide Range of IoT Devices<a href="https://thehackernews.com/2022/05/unpatched-dns-related-vulnerability.html"> Full Text</a>
@@ -474,7 +490,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Hacker Group Pursuing Corporate Employees Focused on Mergers and Acquisitions<a href="https://thehackernews.com/2022/05/new-hacker-group-pursuing-corporate.html"> Full Text</a>
@@ -490,7 +506,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Says Recent Attack Involving Stolen OAuth Tokens Was "Highly Targeted"<a href="https://thehackernews.com/2022/05/github-says-recent-attack-involving.html"> Full Text</a>

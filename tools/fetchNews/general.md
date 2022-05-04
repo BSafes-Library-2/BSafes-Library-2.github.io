@@ -8,6 +8,42 @@ nav_order: 900072
 
 ## General
 ---
+May 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT and Cybersecurity: What’s the Future?<a href="https://securityaffairs.co/wordpress/130802/security/iot-cybersecurity-future.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IoT gizmos make our lives easier, but we forget that these doohickeys are IP endpoints that act as mini-radios. 
+
+
+
+They continuously send and receive data via the internet and can be the easiest way for a hacker to access your home network.
+
+
+
+IoT devices...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A YouTuber is encouraging you to DDoS Russia—how risky is this?<a href="https://www.bleepingcomputer.com/news/security/a-youtuber-is-encouraging-you-to-ddos-russia-how-risky-is-this/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A YouTube influencer with hundreds of thousands of subscribers is encouraging everyone to conduct cyber warfare against Russia. How risky is it and can you get in trouble?
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

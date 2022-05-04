@@ -8,6 +8,122 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical TLStorm 2.0 Bugs Affect Widely-Used Aruba and Avaya Network Switches<a href="https://thehackernews.com/2022/05/critical-tlstorm-20-bugs-affect-widely.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed as many as five severe security flaws in the implementation of TLS protocol in several models of Aruba and Avaya network switches that could be abused to gain remote access to enterprise networks and steal valuable information.  The findings follow the March disclosure of&nbsp; TLStorm , a set of three critical flaws in APC Smart-UPS devices that could permit an attacker to take over control and, worse, physically damage the appliances.  IoT security firm Armis, which uncovered the shortcomings, noted that the design flaws can be traced back to a common source: a misuse of&nbsp; NanoSSL , a standards-based SSL developer suite from Mocana, a DigiCert subsidiary.   The new set of flaws, dubbed&nbsp; TLStorm 2.0 , renders Aruba and Avaya network switches vulnerable to remote code execution vulnerabilities, enabling an adversary to commandeer the devices, move laterally across the network, and exfiltrate sensitive data.  Affected devices include Avaya ERS3500 Seri
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A DNS flaw impacts a library used by millions of IoT devices<a href="https://securityaffairs.co/wordpress/130865/security/dns-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the domain name system (DNS) component&nbsp;of the uClibc library impacts millions of IoT products.
+
+
+
+Nozomi&nbsp;Networks warns of a vulnerability, tracked as CVE-2022-05-02, in the domain name system (DNS) component&nbsp;of the uClibc...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched DNS bug affects millions of routers and IoT devices<a href="https://www.bleepingcomputer.com/news/security/unpatched-dns-bug-affects-millions-of-routers-and-iot-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the domain name system (DNS) component&nbsp;of a&nbsp;popular C standard library that is&nbsp;present in a wide range of IoT products may put millions of devices at DNS poisoning attack risk.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TLStorm 2.0: Critical bugs in widely-used Aruba, Avaya network switches<a href="https://www.helpnetsecurity.com/2022/05/03/tlstorm-2-0/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new TLStorm 2.0 research exposes vulnerabilities that could allow an attacker to take full control over network switches used in airports, hospitals, hotels, and other organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aruba and Avaya network switches are vulnerable to RCE attacks<a href="https://www.bleepingcomputer.com/news/security/aruba-and-avaya-network-switches-are-vulnerable-to-rce-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered five vulnerabilities in network equipment from Aruba (owned by HP) and Avaya (owned by ExtremeNetworks), that could allow malicious actors to execute code remotely on the devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Reveal Unpatched Vulnerability in C Library That Could Enable DNS Poisoning Attacks<a href="https://therecord.media/iot-vulnerability-ics-nozomi-networks-uclibc-ng/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability is in a library for the C programming language — uClibc / uClibc-ng — that is commonly used in creating software for IoT products, reported researchers at Nozomi Networks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two vulnerabilities in Accusoft ImageGear could lead to DoS, arbitrary free<a href="https://blog.talosintelligence.com/2022/05/vuln-spotlight-accusoft-.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ImageGear library is a document-imaging developer toolkit that allows users to create, edit, annotate and convert various images. It supports more than 100 file formats such as DICOM, PDF and Microsoft Office.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched DNS Related Vulnerability Affects a Wide Range of IoT Devices<a href="https://thehackernews.com/2022/05/unpatched-dns-related-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed an unpatched security vulnerability that could pose a serious risk to IoT products.  The issue, which was originally reported in September 2021, affects the Domain Name System (DNS) implementation of two popular C libraries called&nbsp; uClibc &nbsp;and&nbsp; uClibc-ng &nbsp;that are used for developing embedded Linux systems.   uClibc is known to be used by major vendors such as Linksys, Netgear, and Axis, as well as Linux distributions like Embedded Gentoo, potentially exposing millions of IoT devices to security threats.  "The flaw is caused by the predictability of transaction IDs included in the DNS requests generated by the library, which may allow attackers to perform DNS poisoning attacks against the target device," Giannis Tsaraias and Andrea Palanca of Nozomi Networks&nbsp; said &nbsp;in a Monday write-up.   DNS poisoning , also referred to as DNS spoofing, is the technique of corrupting a DNS resolver cache — which provides clients with the IP address a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

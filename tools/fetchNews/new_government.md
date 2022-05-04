@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: Chinese state hackers keep targeting Russian govt agencies<a href="https://www.bleepingcomputer.com/news/security/google-chinese-state-hackers-keep-targeting-russian-govt-agencies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google said today that a Chinese-sponsored hacking group linked to China's&nbsp;People's Liberation Army Strategic Support Force (PLA SSF) is targeting Russian government agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

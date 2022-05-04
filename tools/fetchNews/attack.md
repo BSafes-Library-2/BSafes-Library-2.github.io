@@ -8,6 +8,77 @@ nav_order: 900015
 
 ## Attack
 ---
+May 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese cyber-espionage group Moshen Dragon targets Asian telcos<a href="https://www.bleepingcomputer.com/news/security/chinese-cyber-espionage-group-moshen-dragon-targets-asian-telcos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified a new cluster of malicious cyber activity tracked as Moshen Dragon, targeting telecommunication service providers in Central Asia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rocket Kitten Targets VMware Flaws In the Wild<a href="https://cyware.com/news/rocket-kitten-targets-vmware-flaws-in-the-wild-a1c02ea2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked Rocket Kitten has been observed actively exploiting a recently patched VMware vulnerability to gain initial access and deploy the Core Impact penetration testing tool on vulnerable systems. Users of the associated VMWare products should review their VMware architecture to make sure the  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Web Services Targeted by a Package Backfill Attack<a href="https://www.whitesourcesoftware.com/resources/blog/aws-targeted-by-a-package-backfill-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhiteSource identified, blocked, and reported two packages that were deemed to be malicious versions of original AWS packages. WhiteSource security experts have reached out to contacts at Amazon to notify them of their findings.
+</details>
+<div style="text-align: right" markdown="1">
+White Source Software
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Targeting Diplomatic Entities in Europe, Americas, and Asia<a href="https://thehackernews.com/2022/05/russian-hackers-targeting-diplomatic.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian state-sponsored threat actor has been observed targeting diplomatic and government entities as part of a series of phishing campaigns commencing on January 17, 2022.  Threat intelligence and incident response firm Mandiant attributed the attacks to a hacking group tracked as APT29 (aka Cozy Bear), with some set of the activities associated with the crew assigned the moniker&nbsp; Nobelium &nbsp;(aka UNC2452/2652).  "This latest wave of spear phishing showcases APT29's enduring interests in obtaining diplomatic and foreign policy information from governments around the world," Mandiant&nbsp; said &nbsp;in a report published last week.  The initial access is said to have been aided through spear-phishing emails masquerading as administrative notices, using legitimate but compromised email addresses from other diplomatic entities.   These emails contain an HTML dropper attachment called ROOTSAW (aka&nbsp; EnvyScout ) that, when opened, triggers an infection sequence that delivers and exec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Car rental giant Sixt facing disruptions due to a cyberattack<a href="https://www.bleepingcomputer.com/news/security/car-rental-giant-sixt-facing-disruptions-due-to-a-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Car rental giant Sixt was hit by a weekend cyberattack causing business disruptions at customer care centers and select branch
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+May 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender for Business stand-alone now generally available<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-business-stand-alone-now-generally-available/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says&nbsp;that its&nbsp;enterprise-grade endpoint security for small to medium-sized businesses is now generally available.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here's a New Tool That Scans Open-Source Repositories for Malicious Packages<a href="https://thehackernews.com/2022/05/heres-new-tool-that-scans-for-malicious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Open Source Security Foundation (OpenSSF) has announced the initial prototype release of a new tool that's capable of carrying out dynamic analysis of all packages uploaded to popular open source repositories.  Called the&nbsp; Package Analysis &nbsp;project, the initiative aims to secure open-source packages by detecting and alerting users to any malicious behavior with the goal of bolstering the security of the software supply chain and increasing trust in open-source software.   "The Package Analysis project seeks to understand the behavior and capabilities of packages available on open source repositories: what files do they access, what addresses do they connect to, and what commands do they run?," the OpenSSF&nbsp; said .  "The project also tracks changes in how packages behave over time, to identify when previously safe software begins acting suspiciously," the foundation's Caleb Brown and David A. Wheeler added.  In a test run that lasted a month, the tool ide
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

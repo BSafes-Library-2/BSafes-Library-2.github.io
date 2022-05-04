@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Which Hole to Plug First? Solving Chronic Vulnerability Patching Overload<a href="https://thehackernews.com/2022/05/which-hole-to-plug-first-solving.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to folklore, witches were able to sail in a sieve, a strainer with holes in the bottom. Unfortunately, witches don't work in cybersecurity – where networks generally have so many vulnerabilities that they resemble sieves.&nbsp;  For most of us, keeping the sieve of our networks afloat requires nightmarishly hard work and frequent compromises on which holes to plug first.  The reason? In 2010, just under 5000 CVEs were recorded in the MITRE vulnerabilities database. By 2021, the yearly total had skyrocketed to&nbsp; over 20,000 . Today, software and network integrity are synonymous with business continuity. And this makes the issue of which vulnerabilities to address first mission-critical. Yet owing to the countless documented vulnerabilities lurking in a typical enterprise ecosystem – across thousands of laptops, servers, and internet-connected devices – less than&nbsp; one in ten &nbsp;actually needs to be patched. The question is: how can we know which patches will ensure that our sieve does
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

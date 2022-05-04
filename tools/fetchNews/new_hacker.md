@@ -8,6 +8,50 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ Eyes SharePoint, VPNs, and VMs<a href="https://cyware.com/news/lapsus-eyes-sharepoint-vpns-and-vms-27bccf63"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report revealed the techniques and tactics of the highly unpredictable attacks by the Lapsus$ gang to target the victims, along with its interest in exploiting SharePoint, VPNs, and VMs. Researchers have observed mass deletion of VMs, storage, and configurations in cloud environments. For rem ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA410 Group has Got New Tools and Three Teams Working Under it<a href="https://cyware.com/news/ta410-group-has-got-new-tools-and-three-teams-working-under-it-dc4135ff"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysts revealed that threat group TA410 comprised three independent subgroups, that have been operating globally since 2018, to collect intelligence data via phishing campaigns. TA410 shares behavioral, tooling overlaps with APT10 and has a history of targeting U.S.-based organizations. Organizat ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hacker Group Pursuing Corporate Employees Focused on Mergers and Acquisitions<a href="https://thehackernews.com/2022/05/new-hacker-group-pursuing-corporate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered suspected espionage threat actor has been targeting employees focusing on mergers and acquisitions as well as large corporate transactions to facilitate bulk email collection from victim environments.  Mandiant is tracking the activity cluster under the uncategorized moniker UNC3524, citing a lack of evidence linking it to an existing group. However, some of the intrusions are said to mirror techniques used by different Russia-based hacking crews like&nbsp; APT28 &nbsp;and&nbsp; APT29 .&nbsp;   "The high level of operational security, low malware footprint, adept evasive skills, and a large Internet of Things (IoT) device botnet set this group apart and emphasize the 'advanced' in Advanced Persistent Threat," the threat intelligence firm&nbsp; said &nbsp;in a Monday report.  The initial access route is unknown but upon gaining a foothold, attack chains involving UNC3524 culminate in the deployment of a novel backdoor called QUIETEXIT for persistent remote access for as long as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

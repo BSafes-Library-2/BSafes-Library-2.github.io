@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla: Lack of Security Protections in Mental-Health Apps Is ‘Creepy’<a href="https://threatpost.com/mozilla-security-health-apps-creepy/179463/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular apps to support people’s psychological and spiritual well-being can harm them by sharing their personal and sensitive data with third parties, among other privacy offenses.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

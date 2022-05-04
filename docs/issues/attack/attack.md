@@ -11,6 +11,20 @@ nav_order: 900015
 May 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+GitHub Says Recent Attack Involving Stolen OAuth Tokens Was "Highly Targeted"<a href="https://thehackernews.com/2022/05/github-says-recent-attack-involving.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud-based code hosting platform GitHub described the recent&nbsp; attack campaign &nbsp;involving the abuse of OAuth access tokens issued to Heroku and Travis-CI as "highly targeted" in nature.  "This pattern of behavior suggests the attacker was only listing organizations in order to identify accounts to selectively target for listing and downloading private repositories," GitHub's Mike Hanley&nbsp; said &nbsp;in an updated post.   The&nbsp; security incident , which it discovered on April 12, related to an unidentified attacker leveraging stolen OAuth user tokens issued to two third-party OAuth integrators, Heroku and Travis-CI, to download data from dozens of organizations, including NPM.  The Microsoft-owned company said last week that it's in the process of sending a final set of notifications to GitHub customers who had either the Heroku or Travis CI OAuth app integrations authorized in their accounts.  According to a detailed step-by-step analysis carried out by GitHub, th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Chinese cyber-espionage group Moshen Dragon targets Asian telcos<a href="https://www.bleepingcomputer.com/news/security/chinese-cyber-espionage-group-moshen-dragon-targets-asian-telcos/"> Full Text</a>
 </p>
 <details>

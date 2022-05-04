@@ -8,6 +8,42 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The mystery behind the samples of the new REvil ransomware operation<a href="https://securityaffairs.co/wordpress/130811/cyber-crime/samples-new-revil-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware gang has resumed its operations, experts found a new encryptor and a new attack infrastructure.
+
+
+
+The&nbsp;REvil ransomware operation shut down&nbsp;in October 2021, in January the Russian Federal Security Service (FSB) announced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group-IB CEO remains in prison – the Russian-led company has been ‘blacklisted’ in Italy<a href="https://securityaffairs.co/wordpress/130806/security/group-ib-ceo-remains-in-prison.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest executive order from the Italian ACN agency banned Group-IB, a Russian-led cybersecurity firm from working in the government sector
+
+
+
+The latest executive order from the Italian National Cybersecurity Agency (NCA) banned Group-IB, a Russian-led...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
