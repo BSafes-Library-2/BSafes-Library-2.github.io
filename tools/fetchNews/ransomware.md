@@ -8,6 +8,49 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ransomware strains linked to North Korean govt hackers<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-strains-linked-to-north-korean-govt-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several ransomware strains have been linked to APT38, a North Korean-sponsored hacking group known for its focus on targeting and stealing funds from financial institutions worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta and Onyx Leading the New Waves of Ransomware Attacks<a href="https://cyware.com/news/black-basta-and-onyx-leading-the-new-waves-of-ransomware-attacks-734f215a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two new ransomware strains have been doing the rounds. The first, tracked as Black Basta, has infiltrated at least a dozen companies in a matter of weeks. Another one, dubbed Onyx, has also managed to hit six organizations. The latter destroys large files instead of locking them, hence preventing d ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AvosLocker Ransomware Variant Using New Trick to Disable Antivirus Protection<a href="https://thehackernews.com/2022/05/avoslocker-ransomware-variant-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a new variant of the AvosLocker ransomware that disables antivirus solutions to evade detection after breaching target networks by taking advantage of unpatched security flaws.&nbsp;  "This is the first sample we observed from the U.S. with the capability to disable a defense solution using a legitimate Avast Anti-Rootkit Driver file (asWarPot.sys)," Trend Micro researchers, Christoper Ordonez and Alvin Nieto,&nbsp; said &nbsp;in a Monday analysis.  "In addition, the ransomware is also capable of scanning multiple endpoints for the Log4j vulnerability (Log4shell) using Nmap&nbsp; NSE script ."  AvosLocker , one of the newer ransomware families to fill the vacuum left by&nbsp; REvil , has been linked to a number of attacks that targeted critical infrastructure in the U.S., including financial services and government facilities.   A ransomware-as-a-service (RaaS) affiliate-based group first spotted in July 2021, AvosLocker goes beyond double extortion
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

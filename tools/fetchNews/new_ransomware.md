@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An expert shows how to stop popular ransomware samples via DLL hijacking<a href="https://securityaffairs.co/wordpress/130883/malware/stoppin-ransomware-with-dll-hijacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher discovered that samples of Conti, REvil, LockBit ransomware were vulnerable to DLL hijacking.
+
+
+
+The security researcher John Page aka (hyp3rlinx) discovered that malware from multiple ransomware operations, including Conti, REvil,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

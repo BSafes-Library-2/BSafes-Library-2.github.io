@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 warns of critical BIG-IP RCE bug allowing device takeover<a href="https://www.bleepingcomputer.com/news/security/f5-warns-of-critical-big-ip-rce-bug-allowing-device-takeover/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 has issued a security advisory warning about a flaw that may allow unauthenticated attackers with network access to execute arbitrary system commands, perform file actions, and disable services on BIG-IP.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes NFVIS bugs that help gain root and hijack hosts<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-nfvis-bugs-that-help-gain-root-and-hijack-hosts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed several security flaws found in the&nbsp;Enterprise NFV Infrastructure Software (NFVIS), a solution that helps&nbsp;virtualize network services for easier management of virtual network functions (VNFs).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Bug Reported in dotCMS Content Management Software<a href="https://thehackernews.com/2022/05/critical-rce-bug-reported-in-dotcms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pre-authenticated remote code execution vulnerability has been disclosed in dotCMS, an open-source content management system written in Java and " used by  over 10,000 clients in over 70 countries around the globe, from Fortune 500 brands and mid-sized businesses."  The critical flaw, tracked as CVE-2022-26352 , stems from a directory traversal attack when performing file uploads, enabling an adversary to execute arbitrary commands on the underlying system.   "An attacker can upload arbitrary files to the system," Shubham Shah of Assetnote&nbsp; said &nbsp;in a report. "By uploading a JSP file to the tomcat's root directory, it is possible to achieve code execution, leading to command execution."  In other words, the arbitrary file upload flaw can be abused to replace already existing files in the system with a web shell, which can then be used to gain persistent remote access.   Although the exploit made it possible to write to arbitrary JavaScript files bei
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities Allow Hijacking of Most Ransomware to Prevent File Encryption<a href="https://www.securityweek.com/vulnerabilities-allow-hijacking-most-ransomware-prevent-file-encryption?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has shown how a type of vulnerability affecting many ransomware families can be exploited to control the malware and terminate it before it can encrypt files on compromised systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

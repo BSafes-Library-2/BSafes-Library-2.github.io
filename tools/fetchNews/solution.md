@@ -8,6 +8,24 @@ nav_order: 900195
 
 ## Solution
 ---
+May 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Package Analysis dynamic analyzes packages in open-source repositories<a href="https://securityaffairs.co/wordpress/130831/security/package-analysis-project.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Open Source Security Foundation (OpenSSF) is working on a tool to conduct a dynamic analysis of packages uploaded to popular open-source repositories.
+
+
+
+The Open Source Security Foundation (OpenSSF) announced the release of the first version of a new tool,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

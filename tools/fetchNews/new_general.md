@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+May 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Future of Executive Protection is Digital<a href="https://threatpost.com/the-future-of-executive-protection-is-digital/179469/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As threats to an executive’s safety and security increase, organizations should look to digital executive protection to help reduce risks manifesting in both the physical and digital worlds.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

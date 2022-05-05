@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole data undetected from US, European orgs since 2019<a href="https://www.bleepingcomputer.com/news/security/hackers-stole-data-undetected-from-us-european-orgs-since-2019/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity analysts have exposed a lengthy operation attributed to the group of Chinese hackers known as "Winnti" and tracked as APT41, which focused on stealing intellectual property assets like patents, copyrights, trademarks, and other types of valuable data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

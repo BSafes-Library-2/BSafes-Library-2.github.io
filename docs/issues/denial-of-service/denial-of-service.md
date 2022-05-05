@@ -8,6 +8,24 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+May 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Ukraine attackers compromise Docker images to launch DDoS attacks on Russian sites<a href="https://securityaffairs.co/wordpress/130901/cyber-warfare-2/docker-images-ddos-attack-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Ukraine hackers are using Docker images to launch distributed denial-of-service (DDoS)&nbsp;attacks against a dozen&nbsp;Russian and Belarusian&nbsp;websites.
+
+
+
+Pro-Ukraine hackers, likely linked to Ukraine IT Army, are using Docker images to launch...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

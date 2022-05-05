@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+May 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Does the 2022 NDS Fact Sheet Imply for the Forthcoming Cyber Strategy?<a href="https://www.lawfareblog.com/what-does-2022-nds-fact-sheet-imply-forthcoming-cyber-strategy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NDS fact sheet makes clear that campaigning is important for achieving security across the full spectrum of strategic competition and supporting integrated deterrence.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

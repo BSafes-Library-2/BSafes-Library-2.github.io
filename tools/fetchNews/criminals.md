@@ -8,6 +8,49 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Gang is Back in the Game<a href="https://cyware.com/news/revil-ransomware-gang-is-back-in-the-game-b5124c01"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After reporting its TOR activity weeks ago, researchers claim the return of the REvil group with new infrastructure and an updated malware sample with a modified encryptor for more targeted attacks. It is recommended to keep security shields charged up to fend off such threats. Meanwhile, the publi ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Analyze Conti and Hive Ransomware Gangs' Chats With Their Victims<a href="https://thehackernews.com/2022/05/experts-analyze-conti-and-hive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of four months of chat logs spanning more than 40 conversations between the operators of Conti and Hive ransomware and their victims has offered an insight into the groups' inner workings and their negotiation techniques.  In one exchange, the Conti Team is said to have significantly reduced the ransom demand from a staggering $50 million to $1 million, a 98% drop, suggesting a willingness to settle for a far lower amount.  "Both Conti and Hive are quick to lower ransom demands, routinely offering substantial reductions multiple times throughout negotiations," Cisco Talos&nbsp; said &nbsp;in a report shared with The Hacker News. "This signals that despite popular belief, victims of a ransomware attack actually have significant negotiating power."  Conti &nbsp;and&nbsp; Hive &nbsp;are among the most prevalent ransomware strains in the threat landscape, cumulatively accounting for&nbsp; 29.1% of attacks &nbsp;detected during the three-month-period between October and December 2021.   A
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Caught Exploiting Popular Antivirus Products to Target Telecom Sector<a href="https://thehackernews.com/2022/05/chinese-hackers-caught-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-aligned cyberespionage group has been observed striking the telecommunication sector in Central Asia with versions of malware such as ShadowPad and PlugX.  Cybersecurity firm SentinelOne tied the intrusions to an actor it tracks under the name "Moshen Dragon," with tactical overlaps between the collective and another threat group referred to as Nomad Panda (aka&nbsp; RedFoxtrot ).  "PlugX and ShadowPad have a well-established history of use among Chinese-speaking threat actors primarily for espionage activity," SentinelOne's Joey Chen&nbsp; said . "Those tools have flexible, modular functionality and are compiled via shellcode to easily bypass traditional endpoint protection products."   ShadowPad , labeled a "masterpiece of privately sold malware in Chinese espionage," emerged as a successor to PlugX in 2015, even as variants of the latter have continually popped up as part of different campaigns associated with Chinese threat actors.  Alth
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

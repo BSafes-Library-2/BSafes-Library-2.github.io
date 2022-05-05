@@ -8,6 +8,70 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT29 Phishing Campaigns Target Government and Diplomats<a href="https://cyware.com/news/apt29-phishing-campaigns-target-government-and-diplomats-576ae072"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing emails pretended to contain policy updates and originated from legitimate email addresses belonging to embassies. The campaign lasted from January to March 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Winnti APT steals intellectual property from companies worldwide<a href="https://securityaffairs.co/wordpress/130909/apt/china-winnti-apt-steals-intellectual-property.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated cyberespionage campaign, dubbed Operation CuckooBees, conducted by the China-linked Winnti group remained undetected since at least 2019.
+
+
+
+Researchers from Cybereason uncovered a sophisticated cyberespionage campaign, dubbed Operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT Caught Pilfering Treasure Trove of IP<a href="https://threatpost.com/china-linked-apt-caught-pilfering-treasure-trove-of-ip/179503/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A state-sponsored threat actor designed a house-of-cards style infection chain to exfiltrate massive troves of highly sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts linked multiple ransomware strains North Korea-backed APT38 group<a href="https://securityaffairs.co/wordpress/130892/apt/ransomware-strains-linked-to-nk-apt38.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Trellix linked multiple ransomware strains to the North Korea-backed APT38 group.
+
+
+
+The ransomware was employed in attacks on financial institutions, experts estimated that APT38 (Unit 180 of North Korea's cyber-army Bureau 121) has stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Naikon Group Back with New Espionage Attack<a href="https://cyware.com/news/chinese-naikon-group-back-with-new-espionage-attack-66a8413d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The spear-phishing email consists of a weaponized document pretending to be a call for tender.&nbsp;Two payloads are hidden in the document as document properties.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Caught Stealing Intellectual Property from Multinational Companies<a href="https://thehackernews.com/2022/05/chinese-hackers-caught-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An elusive and sophisticated cyberespionage campaign orchestrated by the China-backed Winnti group has managed to fly under the radar since at least 2019.  Dubbed " Operation CuckooBees " by Israeli cybersecurity company Cybereason, the massive intellectual property theft operation enabled the threat actor to exfiltrate hundreds of gigabytes of information.  Targets included technology and manufacturing companies primarily located in East Asia, Western Europe, and North America.  "The attackers targeted intellectual property developed by the victims, including sensitive documents, blueprints, diagrams, formulas, and manufacturing-related proprietary data," the researchers&nbsp; said .  "In addition, the attackers collected information that could be used for future cyberattacks, such as details about the target company's business units, network architecture, user accounts and credentials, employee emails, and customer data."   Winnti, also tracked by other
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine War Themed Files Become the Lure of Choice for a Wide Range of Hackers<a href="https://thehackernews.com/2022/05/ukraine-war-themed-files-become-lure-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A&nbsp; growing number of threat actors &nbsp;are using the ongoing Russo-Ukrainian war as a lure in various phishing and malware campaigns, even as critical infrastructure entities continue to be heavily targeted.  "Government-backed actors from China, Iran, North Korea and Russia, as well as various unattributed groups, have used various Ukraine war-related themes in an effort to get targets to open malicious emails or click malicious links," Google Threat Analysis Group's (TAG) Billy Leonard&nbsp; said &nbsp;in a report.  "Financially motivated and criminal actors are also using current events as a means for targeting users," Leonard added.  One notable threat actor is Curious Gorge, which TAG has attributed to China People's Liberation Army Strategic Support Force (PLA SSF) and has been observed striking government, military, logistics and manufacturing organizations in Ukraine, Russia and Central Asia.   Attacks aimed at Russia have singled out several governmental entiti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

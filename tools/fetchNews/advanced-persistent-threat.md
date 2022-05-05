@@ -8,6 +8,60 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT Curious Gorge targeted Russian govt agencies<a href="https://securityaffairs.co/wordpress/130873/apt/china-curious-gorge-targeted-russian-govt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked Curious Gorge APT is targeting Russian government agencies, Google Threat Analysis Group (TAG) warns.
+
+
+
+Google Threat Analysis Group (TAG) reported that an APT group linked to China's People's Liberation Army Strategic Support Force (PLA...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Moshen Dragon abuses security software to sideload malware<a href="https://securityaffairs.co/wordpress/130851/apt/moshen-dragon-targets-telcos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked APT group, tracked as Moshen Dragon, is exploiting antivirus products to target the telecom sector in Asia.
+
+
+
+A China-linked APT group, tracked as Moshen Dragon, has been observed targeting the telecommunication sector in Central Asia...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC3524 APT uses IP cameras to deploy backdoors and target Exchange<a href="https://securityaffairs.co/wordpress/130838/apt/unc3524-apt-ip-cameras.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new APT group, tracked as UNC3524, uses IP cameras to deploy backdoors and steal Microsoft Exchange emails.
+
+
+
+Mandiant researchers discovered a new APT group, tracked as UNC3524, that heavily targets the emails of employees that focus on corporate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
