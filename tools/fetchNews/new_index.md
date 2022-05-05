@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 04, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cisco Issues Patches for 3 New Flaws Affecting Enterprise NFVIS Software<a href="https://thehackernews.com/2022/05/cisco-issues-patches-for-3-new-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Systems on Wednesday shipped security patches to contain three flaws impacting its Enterprise NFV Infrastructure Software ( NFVIS ) that could permit an attacker to fully compromise and take control over the hosts.  Tracked as CVE-2022-20777, CVE-2022-20779, and CVE-2022-20780, the vulnerabilities "could allow an attacker to escape from the guest virtual machine (VM) to the host machine, inject commands that execute at the root level, or leak system data from the host to the VM," the company  said .  Credited for discovering and reporting the issues are Cyrille Chatras, Pierre Denouel, and Loïc Restoux of Orange Group. Updates have been released in version 4.7.1.   The networking equipment company said the flaws affect Cisco Enterprise NFVIS in the default configuration. Details of the three bugs are as follows -   CVE-2022-20777  (CVSS score: 9.9) - An issue with insufficient guest restrictions that allows an authenticated, remote attacker to escape from the guest VM
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 F5 Warns of a New Critical BIG-IP Remote Code Execution Vulnerability<a href="https://thehackernews.com/2022/05/f5-warns-of-new-critical-big-ip-remote.html"> Full Text</a>
 </p>
 <details>

@@ -6,13 +6,13 @@ nav_order: 500
 ---
 
 ## Publications
-* January 25, 2022, US Government - America COMPETES Act of 2022 [HTML](https://documents.bsafes.com/docs/government/America-COMPETES-Act-of-2022/)  
+* January 25, 2022, US Government - America COMPETES Act of 2022 [[HTML](https://documents.bsafes.com/docs/government/America-COMPETES-Act-of-2022/)]    
 * 2021, INTERNET CRIME REPORT, FEDERAL BUREAU OF INVESTIGATION, INTERNET CRIME COMPLAINT CENTER[[HTML](https://publications.bsafes.com/docs/fbi/internet-crime-report-2021/)]  
-* November, 2021, CISA - Cybersecurity Incident & Vulnerability Response Playbooks [HTML](https://archive-c.bsafes.com/docs/C/Cybersecurity-Incident-Vulnerability-Response-Playbooks/)
-* November, 2021, FTC - DATA BREACH RESPONSE, A Guide for Business [HTML](https://archive-d.bsafes.com/docs/D/DATA-BREACH-RESPONSE-A-Guide-for-Business/)
-* August 30, 2021, CISA - BAD PRACTICES [HTML](https://www.cisa.gov/BadPractices)
-* August 18, 2021, CISA - Protecting Sensitive and Personal Information from Ransomware-Caused Data Breaches [HTML](https://publications.bsafes.com/docs/cisa/protecting-sensitive-and-personal-information-from-ransomware-caused-data-breaches/)
-* July, 2021, CISA Analysis: FY2020 Risk and Vulnerability Assessments [HTML](https://publications.bsafes.com/docs/cisa/FY2020-Risk-and-Vulnerability-Assessments/)
+* November, 2021, CISA - Cybersecurity Incident & Vulnerability Response Playbooks [[HTML](https://archive-c.bsafes.com/docs/C/Cybersecurity-Incident-Vulnerability-Response-Playbooks/)]  
+* November, 2021, FTC - DATA BREACH RESPONSE, A Guide for Business [[HTML](https://archive-d.bsafes.com/docs/D/DATA-BREACH-RESPONSE-A-Guide-for-Business/)]  
+* August 30, 2021, CISA - BAD PRACTICES [[HTML](https://www.cisa.gov/BadPractices)]  
+* August 18, 2021, CISA - Protecting Sensitive and Personal Information from Ransomware-Caused Data Breaches [[HTML](https://publications.bsafes.com/docs/cisa/protecting-sensitive-and-personal-information-from-ransomware-caused-data-breaches/)]  
+* July, 2021, CISA Analysis: FY2020 Risk and Vulnerability Assessments [[HTML](https://publications.bsafes.com/docs/cisa/FY2020-Risk-and-Vulnerability-Assessments/)]  
 * June 25, 2021, Definition of Critical Software Under Executive Order (EO) 14028 [[HTML](https://publications.bsafes.com/docs/nist/Definition-of-Critical-Software-Under-Executive-Order-(EO)-14028/)]
 * June 9, 2021, CISA Fact Sheet: Rising Ransomware Threat to OT Assets [[HTML](https://publications.bsafes.com/docs/cisa/rising-ransomware-threat-to-operational-technology-assets/)]
 * June 2021, Cybersecurity Framework Profile for Ransomware Risk Management [[HTML](https://publications.bsafes.com/docs/nist/cybersecurity-framework-profile-for-ransomware-risk-management/)]
