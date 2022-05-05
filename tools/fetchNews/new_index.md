@@ -34,7 +34,488 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 warns of critical BIG-IP RCE bug allowing device takeover<a href="https://www.bleepingcomputer.com/news/security/f5-warns-of-critical-big-ip-rce-bug-allowing-device-takeover/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 has issued a security advisory warning about a flaw that may allow unauthenticated attackers with network access to execute arbitrary system commands, perform file actions, and disable services on BIG-IP.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT29 Phishing Campaigns Target Government and Diplomats<a href="https://cyware.com/news/apt29-phishing-campaigns-target-government-and-diplomats-576ae072"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing emails pretended to contain policy updates and originated from legitimate email addresses belonging to embassies. The campaign lasted from January to March 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC Plans to Hire More Staff in Crypto Enforcement Unit to Fight Frauds<a href="https://thehackernews.com/2022/05/sec-plans-to-hire-more-staff-in-crypto.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Securities and Exchange Commission (SEC) on Tuesday announced that it will expand and rebrand its Cyber Unit to fight against cyber-related threats and protect investors in cryptocurrency markets.  To that end, the SEC is renaming the Cyber Unit within the  Division of Enforcement  to Crypto Assets and Cyber Unit and plans to infuse 20 additional positions with the goal of investigating wrongdoing in the crypto markets.  The goal, per the agency, is to tackle cryptocurrency fraud and crackdown on  malicious actors  attempting to profit from crypto marketplaces.   The Cyber Unit was  instituted  in September 2017 with a focus on addressing cyber-based threats and protecting retail investors. But given the dramatic evolution of the digital assets markets in recent years, the new unit is expected to focus on securities law violations pertaining to -   Crypto asset offerings  Crypto asset exchanges  Crypto asset lending and staking products  Decentralized finance (DeFi) platforms
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Winnti APT steals intellectual property from companies worldwide<a href="https://securityaffairs.co/wordpress/130909/apt/china-winnti-apt-steals-intellectual-property.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated cyberespionage campaign, dubbed Operation CuckooBees, conducted by the China-linked Winnti group remained undetected since at least 2019.
+
+
+
+Researchers from Cybereason uncovered a sophisticated cyberespionage campaign, dubbed Operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT Caught Pilfering Treasure Trove of IP<a href="https://threatpost.com/china-linked-apt-caught-pilfering-treasure-trove-of-ip/179503/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A state-sponsored threat actor designed a house-of-cards style infection chain to exfiltrate massive troves of highly sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes NFVIS bugs that help gain root and hijack hosts<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-nfvis-bugs-that-help-gain-root-and-hijack-hosts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed several security flaws found in the Enterprise NFV Infrastructure Software (NFVIS), a solution that helps virtualize network services for easier management of virtual network functions (VNFs).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Naikon Group Back with New Espionage Attack<a href="https://cyware.com/news/chinese-naikon-group-back-with-new-espionage-attack-66a8413d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The spear-phishing email consists of a weaponized document pretending to be a call for tender.&nbsp;Two payloads are hidden in the document as document properties.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Caught Stealing Intellectual Property from Multinational Companies<a href="https://thehackernews.com/2022/05/chinese-hackers-caught-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An elusive and sophisticated cyberespionage campaign orchestrated by the China-backed Winnti group has managed to fly under the radar since at least 2019.  Dubbed " Operation CuckooBees " by Israeli cybersecurity company Cybereason, the massive intellectual property theft operation enabled the threat actor to exfiltrate hundreds of gigabytes of information.  Targets included technology and manufacturing companies primarily located in East Asia, Western Europe, and North America.  "The attackers targeted intellectual property developed by the victims, including sensitive documents, blueprints, diagrams, formulas, and manufacturing-related proprietary data," the researchers  said .  "In addition, the attackers collected information that could be used for future cyberattacks, such as details about the target company's business units, network architecture, user accounts and credentials, employee emails, and customer data."   Winnti, also tracked by other
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Ukraine attackers compromise Docker images to launch DDoS attacks on Russian sites<a href="https://securityaffairs.co/wordpress/130901/cyber-warfare-2/docker-images-ddos-attack-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Ukraine hackers are using Docker images to launch distributed denial-of-service (DDoS) attacks against a dozen Russian and Belarusian websites.
+
+
+
+Pro-Ukraine hackers, likely linked to Ukraine IT Army, are using Docker images to launch...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Future of Executive Protection is Digital<a href="https://threatpost.com/the-future-of-executive-protection-is-digital/179469/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As threats to an executive’s safety and security increase, organizations should look to digital executive protection to help reduce risks manifesting in both the physical and digital worlds.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pixiv, DeviantArt artists hit by NFT job offers pushing malware<a href="https://www.bleepingcomputer.com/news/security/pixiv-deviantart-artists-hit-by-nft-job-offers-pushing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users on Pixiv, DeviantArt, and other creator-oriented online platforms report receiving multiple messages from people claiming to be from the "Cyberpunk Ape Executives" NFT project, with the main goal to infect artists' devices with information-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Curious Gorge APT Targeted Russian Government Agencies<a href="https://securityaffairs.co/wordpress/130873/apt/china-curious-gorge-targeted-russian-govt.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Threat Analysis Group (TAG) reported that an APT group linked to China’s People’s Liberation Army Strategic Support Force (PLA SSF), tracked as Curious Gorge, is targeting Russian government agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Bug Reported in dotCMS Content Management Software<a href="https://thehackernews.com/2022/05/critical-rce-bug-reported-in-dotcms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pre-authenticated remote code execution vulnerability has been disclosed in dotCMS, an open-source content management system written in Java and " used by  over 10,000 clients in over 70 countries around the globe, from Fortune 500 brands and mid-sized businesses."  The critical flaw, tracked as CVE-2022-26352 , stems from a directory traversal attack when performing file uploads, enabling an adversary to execute arbitrary commands on the underlying system.   "An attacker can upload arbitrary files to the system," Shubham Shah of Assetnote  said  in a report. "By uploading a JSP file to the tomcat's root directory, it is possible to achieve code execution, leading to command execution."  In other words, the arbitrary file upload flaw can be abused to replace already existing files in the system with a web shell, which can then be used to gain persistent remote access.   Although the exploit made it possible to write to arbitrary JavaScript files bei
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts linked multiple ransomware strains North Korea-backed APT38 group<a href="https://securityaffairs.co/wordpress/130892/apt/ransomware-strains-linked-to-nk-apt38.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Trellix linked multiple ransomware strains to the North Korea-backed APT38 group.
+
+
+
+The ransomware was employed in attacks on financial institutions, experts estimated that APT38 (Unit 180 of North Korea's cyber-army Bureau 121) has stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers hijack UK NHS email accounts to steal Microsoft logins<a href="https://www.bleepingcomputer.com/news/security/attackers-hijack-uk-nhs-email-accounts-to-steal-microsoft-logins/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For about half a year, work email accounts belonging to over 100 employees of the National Health System (NHS) in the U.K. were used in several phishing campaigns, some aiming to steal Microsoft logins.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Winnti Hackers Perform Rare Windows Mechanism Abuse in Three-year-long Campaign<a href="https://www.zdnet.com/article/chinese-hackers-use-rarely-seen-windows-mechanism-abuse-in-campaign-undetected-for-years/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researchers, the attacks have been focused on infiltrating the networks of technology and manufacturing companies in Europe, Asia, and North America, focusing on stealing sensitive proprietary information.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine War Themed Files Become the Lure of Choice for a Wide Range of Hackers<a href="https://thehackernews.com/2022/05/ukraine-war-themed-files-become-lure-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A  growing number of threat actors  are using the ongoing Russo-Ukrainian war as a lure in various phishing and malware campaigns, even as critical infrastructure entities continue to be heavily targeted.  "Government-backed actors from China, Iran, North Korea and Russia, as well as various unattributed groups, have used various Ukraine war-related themes in an effort to get targets to open malicious emails or click malicious links," Google Threat Analysis Group's (TAG) Billy Leonard  said  in a report.  "Financially motivated and criminal actors are also using current events as a means for targeting users," Leonard added.  One notable threat actor is Curious Gorge, which TAG has attributed to China People's Liberation Army Strategic Support Force (PLA SSF) and has been observed striking government, military, logistics and manufacturing organizations in Ukraine, Russia and Central Asia.   Attacks aimed at Russia have singled out several governmental entiti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An expert shows how to stop popular ransomware samples via DLL hijacking<a href="https://securityaffairs.co/wordpress/130883/malware/stoppin-ransomware-with-dll-hijacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher discovered that samples of Conti, REvil, LockBit ransomware were vulnerable to DLL hijacking.
+
+
+
+The security researcher John Page aka (hyp3rlinx) discovered that malware from multiple ransomware operations, including Conti, REvil,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Heroku forces user password resets but fails to explain why<a href="https://www.bleepingcomputer.com/news/security/heroku-forces-user-password-resets-but-fails-to-explain-why/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Salesforce-owned Heroku is performing a forced password reset on a subset of user accounts in response to last month's security incident while providing no information as to why they are doing so other than vaguely mentioning it is to further secure accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC nearly doubles size of crypto and cyber enforcement unit<a href="https://www.zdnet.com/article/sec-nearly-doubles-size-of-crypto-and-cyber-enforcement-unit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unit, formerly known as the cyber unit, will be renamed as the crypto assets and cyber unit and will continue to reside in the Division of Enforcement. It will also gain 20 additional team members, taking the unit's total headcount to 50.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI says business email compromise is a $43 billion scam<a href="https://www.bleepingcomputer.com/news/security/fbi-says-business-email-compromise-is-a-43-billion-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) said today that the amount of money lost to business email compromise (BEC) scams continues to grow each year, with a 65% increase in the identified global exposed losses between July 2019 and December 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! Verified Twitter Accounts Are Targeted in Phishing Attacks<a href="https://heimdalsecurity.com/blog/watch-out-verified-twitter-accounts-are-targeted-in-phishing-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The targets were notified that there was a problem with their verified Twitter account and were advised to click on the ‘Check notifications’ button to find out more about what is wrong.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole data undetected from US, European orgs since 2019<a href="https://www.bleepingcomputer.com/news/security/hackers-stole-data-undetected-from-us-european-orgs-since-2019/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity analysts have exposed a lengthy operation attributed to the group of Chinese hackers known as "Winnti" and tracked as APT41, which focused on stealing intellectual property assets like patents, copyrights, trademarks, and other types of valuable data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transport for NSW struck by cyberattack<a href="https://www.zdnet.com/article/transport-for-nsw-struck-by-cyber-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Transport for NSW has confirmed its Authorised Inspection Scheme (AIS) online application was impacted by a cyber incident in early April.
+The AIS authorizes examiners to inspect vehicles to ensure a minimum safety standard.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub to require 2FA from active developers by the end of 2023<a href="https://www.bleepingcomputer.com/news/security/github-to-require-2fa-from-active-developers-by-the-end-of-2023/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub announced today that all users who contribute code on its platform (an estimated 83 million developers in total) will be required to enable two-factor authentication (2FA) on their accounts by the end of 2023.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Identity-Based Infrastructure Access Firm Teleport Raises $110 Million<a href="https://www.securityweek.com/identity-based-infrastructure-access-firm-teleport-raises-110-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series C funding round was led by Bessemer Venture Partners, with participation from Insight Partners and existing investors. This latest investment brings the total raised to $169.2 million and values the firm at $1.1 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Using PowerShell to manage password resets in Windows domains<a href="https://www.bleepingcomputer.com/news/security/using-powershell-to-manage-password-resets-in-windows-domains/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With breaches running rampant, it's common to force password resets on your Windows domain. This article shows how admins can use PowerShell to manage password resets and introduce software that makes it even easier.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities Allow Hijacking of Most Ransomware to Prevent File Encryption<a href="https://www.securityweek.com/vulnerabilities-allow-hijacking-most-ransomware-prevent-file-encryption?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has shown how a type of vulnerability affecting many ransomware families can be exploited to control the malware and terminate it before it can encrypt files on compromised systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Ukraine hackers use Docker images to DDoS Russian sites<a href="https://www.bleepingcomputer.com/news/security/pro-ukraine-hackers-use-docker-images-to-ddos-russian-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Docker images with a download count of over 150,000 have been used to run distributed denial-of-service (DDoS) attacks against a dozen Russian and Belarusian websites managed by government, military, and news organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla: Lack of Security Protections in Mental-Health Apps Is ‘Creepy’<a href="https://threatpost.com/mozilla-security-health-apps-creepy/179463/"> Full Text</a>
@@ -50,7 +531,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 03, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ransomware strains linked to North Korean govt hackers<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-strains-linked-to-north-korean-govt-hackers/"> Full Text</a>
@@ -66,7 +547,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lapsus$ Eyes SharePoint, VPNs, and VMs<a href="https://cyware.com/news/lapsus-eyes-sharepoint-vpns-and-vms-27bccf63"> Full Text</a>
@@ -83,7 +564,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical TLStorm 2.0 Bugs Affect Widely-Used Aruba and Avaya Network Switches<a href="https://thehackernews.com/2022/05/critical-tlstorm-20-bugs-affect-widely.html"> Full Text</a>
@@ -99,7 +580,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What Does the 2022 NDS Fact Sheet Imply for the Forthcoming Cyber Strategy?<a href="https://www.lawfareblog.com/what-does-2022-nds-fact-sheet-imply-forthcoming-cyber-strategy"> Full Text</a>
@@ -115,7 +596,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT Curious Gorge targeted Russian govt agencies<a href="https://securityaffairs.co/wordpress/130873/apt/china-curious-gorge-targeted-russian-govt.html"> Full Text</a>
@@ -135,7 +616,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 03, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti, REvil, LockBit ransomware bugs exploited to block encryption<a href="https://www.bleepingcomputer.com/news/security/conti-revil-lockbit-ransomware-bugs-exploited-to-block-encryption/"> Full Text</a>
@@ -151,7 +632,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Ransomware Gang is Back in the Game<a href="https://cyware.com/news/revil-ransomware-gang-is-back-in-the-game-b5124c01"> Full Text</a>
@@ -168,7 +649,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 03, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Analyze Conti and Hive Ransomware Gangs' Chats With Their Victims<a href="https://thehackernews.com/2022/05/experts-analyze-conti-and-hive.html"> Full Text</a>
@@ -184,7 +665,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A DNS flaw impacts a library used by millions of IoT devices<a href="https://securityaffairs.co/wordpress/130865/security/dns-vulnerability.html"> Full Text</a>
@@ -204,7 +685,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 03, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New phishing warns: Your verified Twitter account may be at risk<a href="https://www.bleepingcomputer.com/news/security/new-phishing-warns-your-verified-twitter-account-may-be-at-risk/"> Full Text</a>
@@ -220,7 +701,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA410 Group has Got New Tools and Three Teams Working Under it<a href="https://cyware.com/news/ta410-group-has-got-new-tools-and-three-teams-working-under-it-dc4135ff"> Full Text</a>
@@ -237,7 +718,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked Moshen Dragon abuses security software to sideload malware<a href="https://securityaffairs.co/wordpress/130851/apt/moshen-dragon-targets-telcos.html"> Full Text</a>
@@ -257,7 +738,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 03, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SEC ramps up fight on cryptocurrency fraud by doubling cyber unit<a href="https://www.bleepingcomputer.com/news/security/sec-ramps-up-fight-on-cryptocurrency-fraud-by-doubling-cyber-unit/"> Full Text</a>
@@ -273,7 +754,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta and Onyx Leading the New Waves of Ransomware Attacks<a href="https://cyware.com/news/black-basta-and-onyx-leading-the-new-waves-of-ransomware-attacks-734f215a"> Full Text</a>
@@ -290,7 +771,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 03, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google: Chinese state hackers keep targeting Russian govt agencies<a href="https://www.bleepingcomputer.com/news/security/google-chinese-state-hackers-keep-targeting-russian-govt-agencies/"> Full Text</a>
@@ -306,8 +787,8 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
-{: .fs-4 .fw-700 .lh-0  }
+May 3, 2022 
+{: .fs-4 .fw-- [Breach](/docs/issues/breach/breach/)<br>-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at US Energy Supplier Riviera Utilities Potentially Exposed Sensitive Customer Information<a href="https://portswigger.net/daily-swig/data-breach-at-us-energy-supplier-riviera-utilities-exposes-customer-information?&web_view=true"> Full Text</a>
 </p>
@@ -322,7 +803,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched DNS bug affects millions of routers and IoT devices<a href="https://www.bleepingcomputer.com/news/security/unpatched-dns-bug-affects-millions-of-routers-and-iot-devices/"> Full Text</a>
@@ -338,7 +819,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TLStorm 2.0: Critical bugs in widely-used Aruba, Avaya network switches<a href="https://www.helpnetsecurity.com/2022/05/03/tlstorm-2-0/?&web_view=true"> Full Text</a>
@@ -354,7 +835,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2022
+May 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aruba and Avaya network switches are vulnerable to RCE attacks<a href="https://www.bleepingcomputer.com/news/security/aruba-and-avaya-network-switches-are-vulnerable-to-rce-attacks/"> Full Text</a>
@@ -370,7 +851,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Reveal Unpatched Vulnerability in C Library That Could Enable DNS Poisoning Attacks<a href="https://therecord.media/iot-vulnerability-ics-nozomi-networks-uclibc-ng/?&web_view=true"> Full Text</a>
@@ -386,7 +867,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two vulnerabilities in Accusoft ImageGear could lead to DoS, arbitrary free<a href="https://blog.talosintelligence.com/2022/05/vuln-spotlight-accusoft-.html?&web_view=true"> Full Text</a>
@@ -402,7 +883,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UNC3524 APT uses IP cameras to deploy backdoors and target Exchange<a href="https://securityaffairs.co/wordpress/130838/apt/unc3524-apt-ip-cameras.html"> Full Text</a>
@@ -422,7 +903,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2022
+May 3, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Package Analysis dynamic analyzes packages in open-source repositories<a href="https://securityaffairs.co/wordpress/130831/security/package-analysis-project.html"> Full Text</a>
@@ -442,7 +923,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AvosLocker Ransomware Variant Using New Trick to Disable Antivirus Protection<a href="https://thehackernews.com/2022/05/avoslocker-ransomware-variant-using-new.html"> Full Text</a>
@@ -458,7 +939,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Caught Exploiting Popular Antivirus Products to Target Telecom Sector<a href="https://thehackernews.com/2022/05/chinese-hackers-caught-exploiting.html"> Full Text</a>
@@ -474,7 +955,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched DNS Related Vulnerability Affects a Wide Range of IoT Devices<a href="https://thehackernews.com/2022/05/unpatched-dns-related-vulnerability.html"> Full Text</a>
@@ -490,7 +971,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Hacker Group Pursuing Corporate Employees Focused on Mergers and Acquisitions<a href="https://thehackernews.com/2022/05/new-hacker-group-pursuing-corporate.html"> Full Text</a>
@@ -506,7 +987,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2022
+May 02, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Says Recent Attack Involving Stolen OAuth Tokens Was "Highly Targeted"<a href="https://thehackernews.com/2022/05/github-says-recent-attack-involving.html"> Full Text</a>
