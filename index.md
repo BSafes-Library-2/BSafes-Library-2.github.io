@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 Warns of a New Critical BIG-IP Remote Code Execution Vulnerability<a href="https://thehackernews.com/2022/05/f5-warns-of-new-critical-big-ip-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud security and application delivery network ( ADN ) provider F5 on Wednesday released patches to contain 43 bugs spanning its products.  Of the  43 issues addressed , one is rated Critical, 17 are rated High, 24 are rated Medium, and one is rated low in severity.  Chief among the flaws is  CVE-2022-1388 , which carries a CVSS score of 9.8 out of a maximum of 10 and stems from a lack of authentication check, potentially allowing an attacker to take control of an affected system.  "This vulnerability may allow an unauthenticated attacker with network access to the BIG-IP system through the management port and/or self IP addresses to execute arbitrary system commands, create or delete files, or disable services," F5 said in an advisory. "There is no data plane exposure; this is a control plane issue only."   The security vulnerability, which the company said was discovered internally, affects BIG-IP products with the following versions -   16.1.0 - 16.1.2  15.1.0
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,6 +7,7 @@ nav_order: 500
 
 ## Publications
 * January 25, 2022, US Government - America COMPETES Act of 2022 [HTML](https://documents.bsafes.com/docs/government/America-COMPETES-Act-of-2022/)  
+* 2021, INTERNET CRIME REPORT, FEDERAL BUREAU OF INVESTIGATION, INTERNET CRIME COMPLAINT CENTER[[HTML](https://publications.bsafes.com/docs/fbi/internet-crime-report-2021/
 * November, 2021, CISA - Cybersecurity Incident & Vulnerability Response Playbooks [HTML](https://archive-c.bsafes.com/docs/C/Cybersecurity-Incident-Vulnerability-Response-Playbooks/)
 * November, 2021, FTC - DATA BREACH RESPONSE, A Guide for Business [HTML](https://archive-d.bsafes.com/docs/D/DATA-BREACH-RESPONSE-A-Guide-for-Business/)
 * August 30, 2021, CISA - BAD PRACTICES [HTML](https://www.cisa.gov/BadPractices)
