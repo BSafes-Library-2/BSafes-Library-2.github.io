@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2022
+May 05, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Raspberry Robin worm uses Windows Installer to drop malware<a href="https://www.bleepingcomputer.com/news/security/new-raspberry-robin-worm-uses-windows-installer-to-drop-malware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2022
+May 5, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Network Perception Secures $13 Million Series A Funding Round<a href="https://finance.yahoo.com/news/network-perception-secures-13-million-100000525.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Yahoo Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2022
+May 05, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Releases Updated Cybersecurity Guidance for Managing Supply Chain Risks<a href="https://thehackernews.com/2022/05/nist-releases-updated-guidance-for.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2022
+May 5, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top Threats your Business Can Prevent on the DNS Level<a href="https://threatpost.com/prevent-dns-threats/179364/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2022
+May 05, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House: Prepare for cryptography-cracking quantum computers<a href="https://www.bleepingcomputer.com/news/security/white-house-prepare-for-cryptography-cracking-quantum-computers/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2022
+May 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Serious Snipe-IT bug exploitable to send password reset email traps<a href="https://portswigger.net/daily-swig/serious-snipe-it-bug-exploitable-to-send-password-reset-email-traps?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2022
+May 05, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google to Add Passwordless Authentication Support to Android and Chrome<a href="https://thehackernews.com/2022/05/google-to-add-passwordless.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2022
+May 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco addresses three bugs in Enterprise NFVIS Software<a href="https://securityaffairs.co/wordpress/130952/security/cisco-nfvis-software-bugs.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2022
+May 05, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine’s IT Army is disrupting Russia's alcohol distribution<a href="https://www.bleepingcomputer.com/news/security/ukraine-s-it-army-is-disrupting-russias-alcohol-distribution/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2022
+May 5, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Winnti APT Returns in New Operation CuckooBees Campaign<a href="https://cyware.com/news/winnti-apt-returns-in-new-operation-cuckoobees-campaign-2abea4ab"> Full Text</a>
@@ -218,7 +218,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2022
+May 05, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Importance of Defining Secure Code<a href="https://thehackernews.com/2022/05/the-importance-of-defining-secure-code.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2022
+May 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A couple of 10-Year-Old flaws affect Avast and AVG antivirus￼<a href="https://securityaffairs.co/wordpress/130944/security/avast-avg-antivirus-flaws.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2022
+May 05, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST updates guidance for defending against supply-chain attacks<a href="https://www.bleepingcomputer.com/news/security/nist-updates-guidance-for-defending-against-supply-chain-attacks/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2022
+May 5, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub launches new 2FA mandates for code developers, contributors<a href="https://www.zdnet.com/article/github-launches-new-two-factor-authentication-mandates-for-code-developers/?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2022
+May 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Disclose Years-Old Vulnerabilities in Avast and AVG Antivirus<a href="https://thehackernews.com/2022/05/researchers-disclose-10-year-old.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2022
+May 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 F5 warns its customers of tens of flaws in its products<a href="https://securityaffairs.co/wordpress/130934/security/f5-flaws.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2022
+May 05, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft, Apple, and Google to support FIDO passwordless logins<a href="https://www.bleepingcomputer.com/news/security/microsoft-apple-and-google-to-support-fido-passwordless-logins/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2022
+May 5, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 7 threat detection challenges CISOs face and what they can do about it<a href="https://www.helpnetsecurity.com/2022/05/05/cisos-threat-detection-challenges/?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2022
+May 05, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Heroku Forces User Password Resets Following GitHub OAuth Token Theft<a href="https://thehackernews.com/2022/05/heroku-forces-user-password-resets.html"> Full Text</a>
@@ -370,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2022
+May 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixes actively exploited Android kernel vulnerability<a href="https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-kernel-vulnerability/"> Full Text</a>
@@ -386,7 +386,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2022
+May 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Patches Critical VM Escape in NFV Infrastructure Software<a href="https://www.securityweek.com/cisco-patches-critical-vm-escape-nfv-infrastructure-software?&web_view=true"> Full Text</a>
@@ -402,7 +402,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2022
+May 05, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of Borrowers' Data Exposed from ENCollect Debt Collection Service<a href="https://thehackernews.com/2022/05/thousands-of-borrowers-data-exposed.html"> Full Text</a>
@@ -418,7 +418,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2022
+May 05, 2022 -- [Malware](/docs/issues/malware/malware/)<br
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New NetDooka malware spreads via poisoned search results<a href="https://www.bleepingcomputer.com/news/security/new-netdooka-malware-spreads-via-poisoned-search-results/"> Full Text</a>
@@ -434,7 +434,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2022
+May 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A couple of 10-Year-Old flaws affect Avast and AVG antivirus￼<a href="https://securityaffairs.co/wordpress/130944/security/avast-avg-antivirus-flaws.html?&web_view=true"> Full Text</a>
@@ -450,7 +450,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2022
+May 05, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tor project upgrades network speed performance with new system<a href="https://www.bleepingcomputer.com/news/security/tor-project-upgrades-network-speed-performance-with-new-system/"> Full Text</a>
@@ -466,7 +466,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2022
+May 5, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal Court of Australia finds RI Advice failed to manage cybersecurity risks in landmark decision<a href="https://www.zdnet.com/article/federal-court-finds-ri-advice-failed-to-manage-cybersecurity-risks-in-landmark-decision/?&web_view=true"> Full Text</a>
@@ -482,7 +482,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2022
+May 05, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Heroku admits that customer credentials were stolen in cyberattack<a href="https://www.bleepingcomputer.com/news/security/heroku-admits-that-customer-credentials-were-stolen-in-cyberattack/"> Full Text</a>
@@ -498,7 +498,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2022
+May 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched DNS Bug Puts Millions of Routers, IoT Devices at Risk<a href="https://threatpost.com/dns-bug-millions-routers-iot-risk/179478/"> Full Text</a>
@@ -514,7 +514,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2022
+May 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Issues Patches for 3 New Flaws Affecting Enterprise NFVIS Software<a href="https://thehackernews.com/2022/05/cisco-issues-patches-for-3-new-flaws.html"> Full Text</a>
@@ -530,7 +530,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2022
+May 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 F5 Warns of a New Critical BIG-IP Remote Code Execution Vulnerability<a href="https://thehackernews.com/2022/05/f5-warns-of-new-critical-big-ip-remote.html"> Full Text</a>

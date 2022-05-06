@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2022 - NIST
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Updates Cybersecurity Guidance for Supply Chain Risk Management <a href="https://www.nist.gov/news-events/news/2022/05/nist-updates-cybersecurity-guidance-supply-chain-risk-management"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerable spot in global commerce is the supply chain: It enables technology developers and vendors to create and deliver innovative products but can leave businesses, their finished wares, and ultimately their consumers open to cyberattacks. A new update to the National Institute of Standards and Technology’s (NIST’s) foundational cybersecurity supply chain risk management (C-SCRM) guidance aims to help organizations protect themselves as they acquire and use technology products and services.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2022 - White House 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Security Memorandum on Promoting United States Leadership in Quantum Computing While Mitigating Risks to Vulnerable Cryptographic Systems <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/04/national-security-memorandum-on-promoting-united-states-leadership-in-quantum-computing-while-mitigating-risks-to-vulnerable-cryptographic-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This memorandum outlines my Administration’s policies and initiatives related to quantum computing.  It identifies key steps needed to maintain the Nation’s competitive advantage in quantum information science (QIS), while mitigating the risks of quantum computers to the Nation’s cyber, economic, and national security. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 4, 2022 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

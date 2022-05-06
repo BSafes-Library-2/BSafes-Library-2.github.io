@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+May 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC Plans to Hire More Staff in Crypto Enforcement Unit to Fight Frauds<a href="https://thehackernews.com/2022/05/sec-plans-to-hire-more-staff-in-crypto.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Securities and Exchange Commission (SEC) on Tuesday announced that it will expand and rebrand its Cyber Unit to fight against cyber-related threats and protect investors in cryptocurrency markets.  To that end, the SEC is renaming the Cyber Unit within the&nbsp; Division of Enforcement &nbsp;to Crypto Assets and Cyber Unit and plans to infuse 20 additional positions with the goal of investigating wrongdoing in the crypto markets.  The goal, per the agency, is to tackle cryptocurrency fraud and crackdown on&nbsp; malicious actors &nbsp;attempting to profit from crypto marketplaces.   The Cyber Unit was&nbsp; instituted &nbsp;in September 2017 with a focus on addressing cyber-based threats and protecting retail investors. But given the dramatic evolution of the digital assets markets in recent years, the new unit is expected to focus on securities law violations pertaining to -   Crypto asset offerings  Crypto asset exchanges  Crypto asset lending and staking products  Decentralized finance (DeFi) platforms
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC nearly doubles size of crypto and cyber enforcement unit<a href="https://www.zdnet.com/article/sec-nearly-doubles-size-of-crypto-and-cyber-enforcement-unit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unit, formerly known as the cyber unit, will be renamed as the crypto assets and cyber unit and will continue to reside in the Division of Enforcement. It will also gain 20 additional team members, taking the unit's total headcount to 50.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI says business email compromise is a $43 billion scam<a href="https://www.bleepingcomputer.com/news/security/fbi-says-business-email-compromise-is-a-43-billion-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) said today that the amount of money lost to business email compromise (BEC) scams continues to grow each year, with a 65% increase in the identified global exposed losses between July 2019 and December 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

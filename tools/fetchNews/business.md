@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub to require 2FA from active developers by the end of 2023<a href="https://www.bleepingcomputer.com/news/security/github-to-require-2fa-from-active-developers-by-the-end-of-2023/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub announced today that all users who contribute code on its platform (an estimated 83 million&nbsp;developers in total) will be required to enable two-factor authentication (2FA) on their accounts by the end of 2023.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Identity-Based Infrastructure Access Firm Teleport Raises $110 Million<a href="https://www.securityweek.com/identity-based-infrastructure-access-firm-teleport-raises-110-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series C funding round was led by Bessemer Venture Partners, with participation from Insight Partners and existing investors. This latest investment brings the total raised to $169.2 million and values the firm at $1.1 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

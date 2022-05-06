@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+May 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Add Passwordless Authentication Support to Android and Chrome<a href="https://thehackernews.com/2022/05/google-to-add-passwordless.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google today announced&nbsp; plans &nbsp;to implement support for passwordless logins in Android and the Chrome web browser to allow users to seamlessly and securely sign in across different devices and websites irrespective of the platform.  "This will simplify sign-ins across devices, websites, and applications no matter the platform — without the need for a single password," Google&nbsp; said .   Apple and Microsoft are also expected to extend the support to iOS, macOS, and Windows operating systems as well as Safari and Edge browsers.  The common Fast IDentity Online ( FIDO ) sign-in system does away with passwords entirely in favor of displaying a prompt asking a user to unlock the phone when signing into a website or an application.  This is made possible by storing a cryptographically-secured FIDO credential called a passkey on the phone that's used to log in to the online account after unlocking the device.  "Once you've done this, you won't need your phone again a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft, Apple, and Google to support FIDO passwordless logins<a href="https://www.bleepingcomputer.com/news/security/microsoft-apple-and-google-to-support-fido-passwordless-logins/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft, Apple, and Google announced today plans to support a common passwordless sign-in standard&nbsp;(known as passkeys) developed by the&nbsp;World Wide Web Consortium&nbsp;(W3C) and the FIDO Alliance.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

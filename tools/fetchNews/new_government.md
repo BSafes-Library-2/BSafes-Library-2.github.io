@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+May 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Releases Updated Cybersecurity Guidance for Managing Supply Chain Risks<a href="https://thehackernews.com/2022/05/nist-releases-updated-guidance-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology (NIST) on Thursday released an updated cybersecurity guidance for managing risks in the supply chain, as it increasingly emerges as a lucrative attack vector.  "It encourages organizations to consider the vulnerabilities not only of a finished product they are considering using, but also of its components — which may have been developed elsewhere — and the journey those components took to reach their destination," NIST said in a statement.   The new&nbsp; directive &nbsp;outlines&nbsp; major security controls and practices &nbsp;that entities should adopt to identify, assess, and respond to risks at different stages of the supply chain, including the possibility of malicious functionality, flaws in third-party software, insertion of counterfeit hardware, and poor manufacturing and development practices.   The development follows an Executive Order issued by the U.S. President on " Improving the Nation's Cybersecurity (14028) " las
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine’s IT Army is disrupting Russia's alcohol distribution<a href="https://www.bleepingcomputer.com/news/security/ukraine-s-it-army-is-disrupting-russias-alcohol-distribution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hacktivists operating on the side of Ukraine have focused their DDoS attacks on a portal that is considered crucial for the distribution of alcoholic beverages in Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST updates guidance for defending against supply-chain attacks<a href="https://www.bleepingcomputer.com/news/security/nist-updates-guidance-for-defending-against-supply-chain-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology (NIST) has released updated guidance on securing the supply chain against cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

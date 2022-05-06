@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! Verified Twitter Accounts Are Targeted in Phishing Attacks<a href="https://heimdalsecurity.com/blog/watch-out-verified-twitter-accounts-are-targeted-in-phishing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The targets were notified that there was a problem with their verified Twitter account and were advised to click on the ‘Check notifications’ button to find out more about what is wrong.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

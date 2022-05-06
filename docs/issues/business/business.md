@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network Perception Secures $13 Million Series A Funding Round<a href="https://finance.yahoo.com/news/network-perception-secures-13-million-100000525.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding round was led by The Westly Group, with participation from Energy Impact Partners and other existing investors, including Serra Ventures, Okapi Venture Capital, Energy Foundry, and SaaS Venture Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub launches new 2FA mandates for code developers, contributors<a href="https://www.zdnet.com/article/github-launches-new-two-factor-authentication-mandates-for-code-developers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Wednesday, the Microsoft-owned code repository said that changes will be made to existing authentication rules as "part of a platform-wide effort to secure the software ecosystem through improving account security."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

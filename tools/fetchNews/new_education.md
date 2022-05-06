@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+May 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Threats your Business Can Prevent on the DNS Level<a href="https://threatpost.com/prevent-dns-threats/179364/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web-filtering solutions, a must-have for businesses of any size, will protect your corporate network from multiple origins. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Importance of Defining Secure Code<a href="https://thehackernews.com/2022/05/the-importance-of-defining-secure-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The developers who create the software, applications and programs that drive digital business have become the lifeblood of many organizations. Most modern businesses would not be able to (profitably) function, without competitive applications and programs, or without 24-hour access to their websites and other infrastructure.  And yet, these very same touchpoints are also often the gateway that hackers and other nefarious users employ in order to steal information, launch attacks and springboard to other criminal activities such as fraud and ransomware.&nbsp;  Successful attacks remain prevalent, even though spending on cybersecurity in most organizations is way up, and even though movements&nbsp; like DevSecOps &nbsp;are shifting security towards those developers who are the lifeblood of business today. Developers understand the importance of security, and overwhelmingly want to deploy secure and quality code, but software vulnerabilities continue to be exploited.&nbsp;  Why?  For the 2nd year, Secure Co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

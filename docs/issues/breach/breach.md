@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+May 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Heroku Forces User Password Resets Following GitHub OAuth Token Theft<a href="https://thehackernews.com/2022/05/heroku-forces-user-password-resets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Salesforce-owned subsidiary Heroku on Thursday acknowledged that the theft of GitHub integration OAuth tokens further involved unauthorized access to an internal customer database.  The company, in an&nbsp; updated notification , revealed that a compromised token was abused to breach the database and "exfiltrate the hashed and salted passwords for customers' user accounts."  As a consequence, Salesforce said it's resetting all Heroku user passwords and ensuring that potentially affected credentials are refreshed. It also emphasized that internal Heroku credentials were rotated and extra detections have been put in place.   The attack campaign, which GitHub&nbsp; discovered &nbsp;on April 12, related to an unidentified actor leveraging stolen OAuth user tokens issued to two third-party OAuth integrators, Heroku and Travis-CI, to download data from dozens of organizations, including NPM.  The timeline of events as shared by the cloud platform is as follows -   April 7, 2022 &nbsp;- Threat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Borrowers' Data Exposed from ENCollect Debt Collection Service<a href="https://thehackernews.com/2022/05/thousands-of-borrowers-data-exposed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ElasticSearch server instance that was left open on the Internet without a password contained sensitive financial information about loans from Indian and African financial services.  The leak, which was discovered by researchers from information security company UpGuard, amounted to 5.8GB and consisted of a total of 1,686,363 records.  "Those records included personal information like name, loan amount, date of birth, account number, and more," UpGuard&nbsp; said &nbsp;in a report shared with The Hacker News. "A total of 48,043 unique email addresses were in the collection, some of which were for the product administrators, corporate clients, and collection agents assigned to each case."   The exposed instance, used as data storage for a&nbsp; debt collection platform &nbsp;called ENCollect, was detected on February 16, 2022. The leaky server has since been rendered non-accessible to the public as of February 28 following intervention from the Indian Computer Emergency Response Tea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Heroku admits that customer credentials were stolen in cyberattack<a href="https://www.bleepingcomputer.com/news/security/heroku-admits-that-customer-credentials-were-stolen-in-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Heroku has now revealed that the stolen&nbsp;GitHub integration OAuth tokens from last month&nbsp;further led to the compromise of an internal customer database. The Salesforce-owned cloud platform acknowledged&nbsp;the same compromised token was used by attackers to&nbsp;exfiltrate&nbsp;customers'&nbsp;hashed and salted passwords from "a database."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2022 
 {: .fs-4 .fw<br>-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

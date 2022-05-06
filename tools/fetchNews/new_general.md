@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+May 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 threat detection challenges CISOs face and what they can do about it<a href="https://www.helpnetsecurity.com/2022/05/05/cisos-threat-detection-challenges/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When piecing together an attack campaign, manual correlation and investigation of disparate security sources drastically extends the time and resources required from a CISO and his/her team.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor project upgrades network speed performance with new system<a href="https://www.bleepingcomputer.com/news/security/tor-project-upgrades-network-speed-performance-with-new-system/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project has published details about a newly introduced system called Congestion Control that promises to eliminate speed limits on the network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

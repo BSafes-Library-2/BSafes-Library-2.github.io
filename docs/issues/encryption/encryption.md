@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+May 05, 2022 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House: Prepare for cryptography-cracking quantum computers<a href="https://www.bleepingcomputer.com/news/security/white-house-prepare-for-cryptography-cracking-quantum-computers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Joe Biden signed a national security memorandum (NSM) on Thursday asking government agencies to implement a set of measures that would&nbsp;mitigate risks posed by quantum computers to US national cyber security.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

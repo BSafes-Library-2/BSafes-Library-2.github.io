@@ -8,6 +8,172 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Serious Snipe-IT bug exploitable to send password reset email traps<a href="https://portswigger.net/daily-swig/serious-snipe-it-bug-exploitable-to-send-password-reset-email-traps?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers have patched a critical vulnerability in Snipe-IT that could be exploited to send users malicious password reset requests. Grokability’s Snipe-IT is a cloud-based, open-source project for user asset management.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco addresses three bugs in Enterprise NFVIS Software<a href="https://securityaffairs.co/wordpress/130952/security/cisco-nfvis-software-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addresses three flaws impacting its Enterprise NFV Infrastructure Software (NFVIS) that could allow the compromise of the hosts.
+
+
+
+Cisco addressed three vulnerabilities, tracked as CVE-2022-20777, CVE-2022-20779, and CVE-2022-20780, affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A couple of 10-Year-Old flaws affect Avast and AVG antivirus￼<a href="https://securityaffairs.co/wordpress/130944/security/avast-avg-antivirus-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher discovered a couple of high-severity security flaws that affect a driver used by Avast and AVG antivirus solutions.
+
+
+
+SentinelOne researcher Kasif Dekel discovered two high-severity security vulnerabilities, tracked as CVE-2022-26522 and CVE-2022-26523,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose Years-Old Vulnerabilities in Avast and AVG Antivirus<a href="https://thehackernews.com/2022/05/researchers-disclose-10-year-old.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two high-severity security vulnerabilities, which went undetected for several years, have been discovered in a&nbsp; legitimate driver &nbsp;that's part of Avast and AVG antivirus solutions.  "These vulnerabilities allow attackers to escalate privileges enabling them to disable security products, overwrite system components, corrupt the operating system, or perform malicious operations unimpeded," SentinelOne researcher Kasif Dekel&nbsp; said &nbsp;in a report shared with The Hacker News.   Tracked as CVE-2022-26522 and CVE-2022-26523, the flaws reside in a legitimate anti-rootkit kernel driver named aswArPot.sys and are said to have been introduced in Avast version 12.1, which was released in June 2016.  Specifically, the shortcomings are rooted in a socket connection handler in the kernel driver that could lead to privilege escalation by running code in the kernel from a non-administrator user, potentially causing the operating system to crash and display a blue screen of death ( BSoD ) e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 warns its customers of tens of flaws in its products<a href="https://securityaffairs.co/wordpress/130934/security/f5-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity provider F5 released security patches to address tens of vulnerabilities affecting its products.
+
+
+
+Security and application delivery solutions provider F5 released its security notification to inform customers that it has released security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes actively exploited Android kernel vulnerability<a href="https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-kernel-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released the second part of the May security patch for Android, including a fix for an actively exploited Linux kernel vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches Critical VM Escape in NFV Infrastructure Software<a href="https://www.securityweek.com/cisco-patches-critical-vm-escape-nfv-infrastructure-software?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday announced patches to address severe vulnerabilities in Enterprise Network Function Virtualization Infrastructure Software (NFVIS), including a critical bug that allows attackers to escape from a guest VM.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A couple of 10-Year-Old flaws affect Avast and AVG antivirus￼<a href="https://securityaffairs.co/wordpress/130944/security/avast-avg-antivirus-flaws.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelOne researcher Kasif Dekel discovered two high-severity security vulnerabilities, tracked as CVE-2022-26522 and CVE-2022-26523, that affect a driver used by Avast and AVG antivirus solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched DNS Bug Puts Millions of Routers, IoT Devices at Risk<a href="https://threatpost.com/dns-bug-millions-routers-iot-risk/179478/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in all versions of the popular C standard libraries uClibe and uClibe-ng can allow for DNS poisoning attacks against target devices.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Issues Patches for 3 New Flaws Affecting Enterprise NFVIS Software<a href="https://thehackernews.com/2022/05/cisco-issues-patches-for-3-new-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Systems on Wednesday shipped security patches to contain three flaws impacting its Enterprise NFV Infrastructure Software ( NFVIS ) that could permit an attacker to fully compromise and take control over the hosts.  Tracked as CVE-2022-20777, CVE-2022-20779, and CVE-2022-20780, the vulnerabilities "could allow an attacker to escape from the guest virtual machine (VM) to the host machine, inject commands that execute at the root level, or leak system data from the host to the VM," the company&nbsp; said .  Credited for discovering and reporting the issues are Cyrille Chatras, Pierre Denouel, and Loïc Restoux of Orange Group. Updates have been released in version 4.7.1.   The networking equipment company said the flaws affect Cisco Enterprise NFVIS in the default configuration. Details of the three bugs are as follows -   CVE-2022-20777 &nbsp;(CVSS score: 9.9) - An issue with insufficient guest restrictions that allows an authenticated, remote attacker to escape from the guest VM
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 Warns of a New Critical BIG-IP Remote Code Execution Vulnerability<a href="https://thehackernews.com/2022/05/f5-warns-of-new-critical-big-ip-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud security and application delivery network ( ADN ) provider F5 on Wednesday released patches to contain 43 bugs spanning its products.  Of the&nbsp; 43 issues addressed , one is rated Critical, 17 are rated High, 24 are rated Medium, and one is rated low in severity.  Chief among the flaws is&nbsp; CVE-2022-1388 , which carries a CVSS score of 9.8 out of a maximum of 10 and stems from a lack of authentication check, potentially allowing an attacker to take control of an affected system.  "This vulnerability may allow an unauthenticated attacker with network access to the BIG-IP system through the management port and/or self IP addresses to execute arbitrary system commands, create or delete files, or disable services," F5 said in an advisory. "There is no data plane exposure; this is a control plane issue only."   The security vulnerability, which the company said was discovered internally, affects BIG-IP products with the following versions -   16.1.0 - 16.1.2  15.1.0
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

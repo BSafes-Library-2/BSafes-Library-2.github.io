@@ -8,6 +8,77 @@ nav_order: 900015
 
 ## Attack
 ---
+May 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers hijack UK NHS email accounts to steal Microsoft logins<a href="https://www.bleepingcomputer.com/news/security/attackers-hijack-uk-nhs-email-accounts-to-steal-microsoft-logins/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For about half a year, work email accounts belonging to over 100 employees of the National Health System (NHS) in the U.K. were used in several phishing campaigns, some aiming to steal Microsoft logins.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Winnti Hackers Perform Rare Windows Mechanism Abuse in Three-year-long Campaign<a href="https://www.zdnet.com/article/chinese-hackers-use-rarely-seen-windows-mechanism-abuse-in-campaign-undetected-for-years/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researchers, the attacks have been focused on infiltrating the networks of technology and manufacturing companies in Europe, Asia, and North America, focusing on stealing sensitive proprietary information.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2022 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Heroku forces user password resets but fails to explain why<a href="https://www.bleepingcomputer.com/news/security/heroku-forces-user-password-resets-but-fails-to-explain-why/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Salesforce-owned Heroku is performing a forced password reset on a subset of user accounts in response to last month's security incident while providing no information as to why they are doing so other than vaguely mentioning it is to further secure accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transport for NSW struck by cyberattack<a href="https://www.zdnet.com/article/transport-for-nsw-struck-by-cyber-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Transport for NSW has confirmed its Authorised Inspection Scheme (AIS) online application was impacted by a cyber incident in early April.
+The AIS authorizes examiners to inspect vehicles to ensure a minimum safety standard.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Ukraine hackers use Docker images to DDoS Russian sites<a href="https://www.bleepingcomputer.com/news/security/pro-ukraine-hackers-use-docker-images-to-ddos-russian-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Docker images with a download count of over 150,000 have been used to run distributed denial-of-service (DDoS)&nbsp;attacks against a dozen&nbsp;Russian and Belarusian&nbsp;websites managed by&nbsp;government, military, and news organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

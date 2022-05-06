@@ -34,6 +34,518 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Raspberry Robin worm uses Windows Installer to drop malware<a href="https://www.bleepingcomputer.com/news/security/new-raspberry-robin-worm-uses-windows-installer-to-drop-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Red Canary intelligence analysts have discovered a new Windows malware with worm capabilities that spreads using external USB drives.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network Perception Secures $13 Million Series A Funding Round<a href="https://finance.yahoo.com/news/network-perception-secures-13-million-100000525.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding round was led by The Westly Group, with participation from Energy Impact Partners and other existing investors, including Serra Ventures, Okapi Venture Capital, Energy Foundry, and SaaS Venture Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Releases Updated Cybersecurity Guidance for Managing Supply Chain Risks<a href="https://thehackernews.com/2022/05/nist-releases-updated-guidance-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology (NIST) on Thursday released an updated cybersecurity guidance for managing risks in the supply chain, as it increasingly emerges as a lucrative attack vector.  "It encourages organizations to consider the vulnerabilities not only of a finished product they are considering using, but also of its components — which may have been developed elsewhere — and the journey those components took to reach their destination," NIST said in a statement.   The new  directive  outlines  major security controls and practices  that entities should adopt to identify, assess, and respond to risks at different stages of the supply chain, including the possibility of malicious functionality, flaws in third-party software, insertion of counterfeit hardware, and poor manufacturing and development practices.   The development follows an Executive Order issued by the U.S. President on " Improving the Nation's Cybersecurity (14028) " las
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google addresses actively exploited Android flaw in the kernel<a href="https://securityaffairs.co/wordpress/130960/security/android-actively-exploited-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released the May security bulletin for Android, 2022-05-05 security patch level, which fixed an actively exploited Linux kernel flaw.
+
+
+
+Google has released the second part of the May Security Bulletin for Android, which includes a fix for an actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Threats your Business Can Prevent on the DNS Level<a href="https://threatpost.com/prevent-dns-threats/179364/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web-filtering solutions, a must-have for businesses of any size, will protect your corporate network from multiple origins. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House: Prepare for cryptography-cracking quantum computers<a href="https://www.bleepingcomputer.com/news/security/white-house-prepare-for-cryptography-cracking-quantum-computers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Joe Biden signed a national security memorandum (NSM) on Thursday asking government agencies to implement a set of measures that would mitigate risks posed by quantum computers to US national cyber security.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Serious Snipe-IT bug exploitable to send password reset email traps<a href="https://portswigger.net/daily-swig/serious-snipe-it-bug-exploitable-to-send-password-reset-email-traps?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers have patched a critical vulnerability in Snipe-IT that could be exploited to send users malicious password reset requests. Grokability’s Snipe-IT is a cloud-based, open-source project for user asset management.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Add Passwordless Authentication Support to Android and Chrome<a href="https://thehackernews.com/2022/05/google-to-add-passwordless.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google today announced  plans  to implement support for passwordless logins in Android and the Chrome web browser to allow users to seamlessly and securely sign in across different devices and websites irrespective of the platform.  "This will simplify sign-ins across devices, websites, and applications no matter the platform — without the need for a single password," Google  said .   Apple and Microsoft are also expected to extend the support to iOS, macOS, and Windows operating systems as well as Safari and Edge browsers.  The common Fast IDentity Online ( FIDO ) sign-in system does away with passwords entirely in favor of displaying a prompt asking a user to unlock the phone when signing into a website or an application.  This is made possible by storing a cryptographically-secured FIDO credential called a passkey on the phone that's used to log in to the online account after unlocking the device.  "Once you've done this, you won't need your phone again a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco addresses three bugs in Enterprise NFVIS Software<a href="https://securityaffairs.co/wordpress/130952/security/cisco-nfvis-software-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addresses three flaws impacting its Enterprise NFV Infrastructure Software (NFVIS) that could allow the compromise of the hosts.
+
+
+
+Cisco addressed three vulnerabilities, tracked as CVE-2022-20777, CVE-2022-20779, and CVE-2022-20780, affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine’s IT Army is disrupting Russia's alcohol distribution<a href="https://www.bleepingcomputer.com/news/security/ukraine-s-it-army-is-disrupting-russias-alcohol-distribution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hacktivists operating on the side of Ukraine have focused their DDoS attacks on a portal that is considered crucial for the distribution of alcoholic beverages in Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winnti APT Returns in New Operation CuckooBees Campaign<a href="https://cyware.com/news/winnti-apt-returns-in-new-operation-cuckoobees-campaign-2abea4ab"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The covert attack campaign was aimed at multiple technology and manufacturing organizations across North America, Western Europe, and East Asia, with an aim of stealing intellectual property.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Importance of Defining Secure Code<a href="https://thehackernews.com/2022/05/the-importance-of-defining-secure-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The developers who create the software, applications and programs that drive digital business have become the lifeblood of many organizations. Most modern businesses would not be able to (profitably) function, without competitive applications and programs, or without 24-hour access to their websites and other infrastructure.  And yet, these very same touchpoints are also often the gateway that hackers and other nefarious users employ in order to steal information, launch attacks and springboard to other criminal activities such as fraud and ransomware.   Successful attacks remain prevalent, even though spending on cybersecurity in most organizations is way up, and even though movements  like DevSecOps  are shifting security towards those developers who are the lifeblood of business today. Developers understand the importance of security, and overwhelmingly want to deploy secure and quality code, but software vulnerabilities continue to be exploited.   Why?  For the 2nd year, Secure Co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A couple of 10-Year-Old flaws affect Avast and AVG antivirus￼<a href="https://securityaffairs.co/wordpress/130944/security/avast-avg-antivirus-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher discovered a couple of high-severity security flaws that affect a driver used by Avast and AVG antivirus solutions.
+
+
+
+SentinelOne researcher Kasif Dekel discovered two high-severity security vulnerabilities, tracked as CVE-2022-26522 and CVE-2022-26523,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST updates guidance for defending against supply-chain attacks<a href="https://www.bleepingcomputer.com/news/security/nist-updates-guidance-for-defending-against-supply-chain-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology (NIST) has released updated guidance on securing the supply chain against cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub launches new 2FA mandates for code developers, contributors<a href="https://www.zdnet.com/article/github-launches-new-two-factor-authentication-mandates-for-code-developers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Wednesday, the Microsoft-owned code repository said that changes will be made to existing authentication rules as "part of a platform-wide effort to secure the software ecosystem through improving account security."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose Years-Old Vulnerabilities in Avast and AVG Antivirus<a href="https://thehackernews.com/2022/05/researchers-disclose-10-year-old.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two high-severity security vulnerabilities, which went undetected for several years, have been discovered in a  legitimate driver  that's part of Avast and AVG antivirus solutions.  "These vulnerabilities allow attackers to escalate privileges enabling them to disable security products, overwrite system components, corrupt the operating system, or perform malicious operations unimpeded," SentinelOne researcher Kasif Dekel  said  in a report shared with The Hacker News.   Tracked as CVE-2022-26522 and CVE-2022-26523, the flaws reside in a legitimate anti-rootkit kernel driver named aswArPot.sys and are said to have been introduced in Avast version 12.1, which was released in June 2016.  Specifically, the shortcomings are rooted in a socket connection handler in the kernel driver that could lead to privilege escalation by running code in the kernel from a non-administrator user, potentially causing the operating system to crash and display a blue screen of death ( BSoD ) e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 warns its customers of tens of flaws in its products<a href="https://securityaffairs.co/wordpress/130934/security/f5-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity provider F5 released security patches to address tens of vulnerabilities affecting its products.
+
+
+
+Security and application delivery solutions provider F5 released its security notification to inform customers that it has released security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft, Apple, and Google to support FIDO passwordless logins<a href="https://www.bleepingcomputer.com/news/security/microsoft-apple-and-google-to-support-fido-passwordless-logins/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft, Apple, and Google announced today plans to support a common passwordless sign-in standard (known as passkeys) developed by the World Wide Web Consortium (W3C) and the FIDO Alliance.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 threat detection challenges CISOs face and what they can do about it<a href="https://www.helpnetsecurity.com/2022/05/05/cisos-threat-detection-challenges/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When piecing together an attack campaign, manual correlation and investigation of disparate security sources drastically extends the time and resources required from a CISO and his/her team.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Heroku Forces User Password Resets Following GitHub OAuth Token Theft<a href="https://thehackernews.com/2022/05/heroku-forces-user-password-resets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Salesforce-owned subsidiary Heroku on Thursday acknowledged that the theft of GitHub integration OAuth tokens further involved unauthorized access to an internal customer database.  The company, in an  updated notification , revealed that a compromised token was abused to breach the database and "exfiltrate the hashed and salted passwords for customers' user accounts."  As a consequence, Salesforce said it's resetting all Heroku user passwords and ensuring that potentially affected credentials are refreshed. It also emphasized that internal Heroku credentials were rotated and extra detections have been put in place.   The attack campaign, which GitHub  discovered  on April 12, related to an unidentified actor leveraging stolen OAuth user tokens issued to two third-party OAuth integrators, Heroku and Travis-CI, to download data from dozens of organizations, including NPM.  The timeline of events as shared by the cloud platform is as follows -   April 7, 2022  - Threat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes actively exploited Android kernel vulnerability<a href="https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-kernel-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released the second part of the May security patch for Android, including a fix for an actively exploited Linux kernel vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches Critical VM Escape in NFV Infrastructure Software<a href="https://www.securityweek.com/cisco-patches-critical-vm-escape-nfv-infrastructure-software?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday announced patches to address severe vulnerabilities in Enterprise Network Function Virtualization Infrastructure Software (NFVIS), including a critical bug that allows attackers to escape from a guest VM.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Borrowers' Data Exposed from ENCollect Debt Collection Service<a href="https://thehackernews.com/2022/05/thousands-of-borrowers-data-exposed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ElasticSearch server instance that was left open on the Internet without a password contained sensitive financial information about loans from Indian and African financial services.  The leak, which was discovered by researchers from information security company UpGuard, amounted to 5.8GB and consisted of a total of 1,686,363 records.  "Those records included personal information like name, loan amount, date of birth, account number, and more," UpGuard  said  in a report shared with The Hacker News. "A total of 48,043 unique email addresses were in the collection, some of which were for the product administrators, corporate clients, and collection agents assigned to each case."   The exposed instance, used as data storage for a  debt collection platform  called ENCollect, was detected on February 16, 2022. The leaky server has since been rendered non-accessible to the public as of February 28 following intervention from the Indian Computer Emergency Response Tea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2022 -- [Malware](/docs/issues/malware/malware/)<br
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New NetDooka malware spreads via poisoned search results<a href="https://www.bleepingcomputer.com/news/security/new-netdooka-malware-spreads-via-poisoned-search-results/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware framework known as NetDooka has been discovered being distributed through the PrivateLoader pay-per-install (PPI) malware distribution service, allowing threat actors full access to an infected device.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A couple of 10-Year-Old flaws affect Avast and AVG antivirus￼<a href="https://securityaffairs.co/wordpress/130944/security/avast-avg-antivirus-flaws.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelOne researcher Kasif Dekel discovered two high-severity security vulnerabilities, tracked as CVE-2022-26522 and CVE-2022-26523, that affect a driver used by Avast and AVG antivirus solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor project upgrades network speed performance with new system<a href="https://www.bleepingcomputer.com/news/security/tor-project-upgrades-network-speed-performance-with-new-system/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project has published details about a newly introduced system called Congestion Control that promises to eliminate speed limits on the network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal Court of Australia finds RI Advice failed to manage cybersecurity risks in landmark decision<a href="https://www.zdnet.com/article/federal-court-finds-ri-advice-failed-to-manage-cybersecurity-risks-in-landmark-decision/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decision comes after a significant number of cyber incidents affected authorized representatives of RI Advice between June 2014 and May 2020, leading ASIC to file against the company for breach of its license obligations.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Heroku admits that customer credentials were stolen in cyberattack<a href="https://www.bleepingcomputer.com/news/security/heroku-admits-that-customer-credentials-were-stolen-in-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Heroku has now revealed that the stolen GitHub integration OAuth tokens from last month further led to the compromise of an internal customer database. The Salesforce-owned cloud platform acknowledged the same compromised token was used by attackers to exfiltrate customers' hashed and salted passwords from "a database."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched DNS Bug Puts Millions of Routers, IoT Devices at Risk<a href="https://threatpost.com/dns-bug-millions-routers-iot-risk/179478/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in all versions of the popular C standard libraries uClibe and uClibe-ng can allow for DNS poisoning attacks against target devices.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Issues Patches for 3 New Flaws Affecting Enterprise NFVIS Software<a href="https://thehackernews.com/2022/05/cisco-issues-patches-for-3-new-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Systems on Wednesday shipped security patches to contain three flaws impacting its Enterprise NFV Infrastructure Software ( NFVIS ) that could permit an attacker to fully compromise and take control over the hosts.  Tracked as CVE-2022-20777, CVE-2022-20779, and CVE-2022-20780, the vulnerabilities "could allow an attacker to escape from the guest virtual machine (VM) to the host machine, inject commands that execute at the root level, or leak system data from the host to the VM," the company  said .  Credited for discovering and reporting the issues are Cyrille Chatras, Pierre Denouel, and Loïc Restoux of Orange Group. Updates have been released in version 4.7.1.   The networking equipment company said the flaws affect Cisco Enterprise NFVIS in the default configuration. Details of the three bugs are as follows -   CVE-2022-20777  (CVSS score: 9.9) - An issue with insufficient guest restrictions that allows an authenticated, remote attacker to escape from the guest VM
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 Warns of a New Critical BIG-IP Remote Code Execution Vulnerability<a href="https://thehackernews.com/2022/05/f5-warns-of-new-critical-big-ip-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud security and application delivery network ( ADN ) provider F5 on Wednesday released patches to contain 43 bugs spanning its products.  Of the  43 issues addressed , one is rated Critical, 17 are rated High, 24 are rated Medium, and one is rated low in severity.  Chief among the flaws is  CVE-2022-1388 , which carries a CVSS score of 9.8 out of a maximum of 10 and stems from a lack of authentication check, potentially allowing an attacker to take control of an affected system.  "This vulnerability may allow an unauthenticated attacker with network access to the BIG-IP system through the management port and/or self IP addresses to execute arbitrary system commands, create or delete files, or disable services," F5 said in an advisory. "There is no data plane exposure; this is a control plane issue only."   The security vulnerability, which the company said was discovered internally, affects BIG-IP products with the following versions -   16.1.0 - 16.1.2  15.1.0
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
