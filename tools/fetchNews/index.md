@@ -34,6 +34,90 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Scammers exploit talk on Cryptocurrency<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/crypto-scammers-exploit-talk-on-cryptocurrency/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The modified live streams make the original video smaller and put a frame around it advertising malicious sites that it claims will double the amount of cryptocurrency you send them.
+</details>
+<div style="text-align: right" markdown="1">
+McAfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover New Espionage Attacks by Chinese 'Mustang Panda' Hackers<a href="https://thehackernews.com/2022/05/experts-uncover-new-espionage-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-based threat actor known as Mustang Panda  has been observed refining and retooling its tactics and malware to strike entities located in Asia, the European Union, Russia, and the U.S.  "Mustang Panda is a highly motivated APT group relying primarily on the use of topical lures and social engineering to trick victims into infecting themselves," Cisco Talos  said  in a new report detailing the group's evolving modus operandi.   The group is known to have targeted a wide range of organizations since at least 2012, with the actor primarily relying on email-based social engineering to gain initial access to drop PlugX, a backdoor predominantly deployed for long-term access.  Phishing messages attributed to the campaign contain malicious lures masquerading as official European Union reports on the ongoing conflict in Ukraine or Ukrainian government reports, both of which download malware onto compromised machines.   Also observed are phishing messages tailored to ta
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine IT Army hit EGAIS portal impacting Russia’s alcohol distribution<a href="https://securityaffairs.co/wordpress/130966/cyber-warfare-2/ukraine-it-army-hit-egais.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine IT Army launched massive DDoS attacks on the EGAIS portal that has a crucial role in Russia's alcohol distribution.
+
+
+
+The collective of hacktivists Ukraine IT Army has launched a series of massive DDoS attacks on the Unified State Automated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android's May 2022 Security Updates Patch 36 Vulnerabilities<a href="https://www.securityweek.com/androids-may-2022-security-updates-patch-36-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most serious of these security holes, the internet giant notes in an advisory, is a high-severity issue in Android’s Framework component that could be exploited for privilege escalation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases Android Update to Patch Actively Exploited Vulnerability<a href="https://thehackernews.com/2022/05/google-releases-android-update-to-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released monthly security patches for Android with fixes for 37 flaws across different components, one of which is a fix for an actively exploited Linux kernel vulnerability that came to light earlier this year.  Tracked as  CVE-2021-22600  (CVSS score: 7.8), the vulnerability is ranked "High" for severity and could be exploited by a local user to escalate privileges or deny service.  The issue relates to a  double-free vulnerability  residing in the  Packet  network protocol implementation in the Linux kernel that could cause memory corruption, potentially leading to denial-of-service or execution of arbitrary code.   Patches were released by different Linux distributions, including  Debian ,  Red Hat ,  SUSE , and  Ubuntu  in January 2022.  "There are indications that CVE-2021-22600 may be under limited, targeted exploitation," Google  noted  in its Android Security Bulletin for May 2022. Specifics about the nature of the attacks are unknown as yet.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 05, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
