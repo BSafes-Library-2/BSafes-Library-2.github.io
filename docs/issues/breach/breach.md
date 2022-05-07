@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+May 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSea warns of Discord channel compromise<a href="https://blog.malwarebytes.com/scams/2022/05/opensea-warns-of-discord-channel-compromise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSea, the primary marketplace for buyers and sellers of non-fungible tokens (NFTs), has reported major problems with its Discord support channel owing to a “potential vulnerability” that allowed spambots to post phishing links to other users.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ferrari subdomain hijacked to push fake Ferrari NFT collection<a href="https://www.bleepingcomputer.com/news/security/ferrari-subdomain-hijacked-to-push-fake-ferrari-nft-collection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of Ferrari's subdomains was hijacked yesterday to host a scam promoting fake Ferrari NFT collection,&nbsp;according to researchers. The Ethereum wallet associated with the cryptocurrency&nbsp;scam appears to have collected a few&nbsp;hundred dollars before the hacked subdomain was shut down.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

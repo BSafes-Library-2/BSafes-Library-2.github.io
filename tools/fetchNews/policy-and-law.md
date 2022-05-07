@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal Court of Australia finds RI Advice failed to manage cybersecurity risks in landmark decision<a href="https://www.zdnet.com/article/federal-court-finds-ri-advice-failed-to-manage-cybersecurity-risks-in-landmark-decision/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decision comes after a significant number of cyber incidents affected authorized representatives of RI Advice between June 2014 and May 2020, leading ASIC to file against the company for breach of its license obligations.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

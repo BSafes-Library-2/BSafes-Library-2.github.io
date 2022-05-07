@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winnti APT Returns in New Operation CuckooBees Campaign<a href="https://cyware.com/news/winnti-apt-returns-in-new-operation-cuckoobees-campaign-2abea4ab"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The covert attack campaign was aimed at multiple technology and manufacturing organizations across North America, Western Europe, and East Asia, with an aim of stealing intellectual property.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

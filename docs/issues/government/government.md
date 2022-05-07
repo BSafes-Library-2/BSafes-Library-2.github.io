@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Sanctions Cryptocurrency Mixer Blender for Helping North Korea Launder Millions<a href="https://thehackernews.com/2022/05/us-sanctions-cryptocurrency-mixer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department on Friday moved to sanction virtual currency mixer Blender.io, marking the first time a mixing service has been subjected to economic blockades.  The move signals continued efforts on the part of the government to prevent North Korea's Lazarus Group from laundering the funds stolen from the&nbsp; unprecedented hack of Ronin Bridge &nbsp;in late March.  The newly imposed sanctions, issued by the U.S. Office of Foreign Assets Control (OFAC), target 45 Bitcoin addresses linked to Blender.io and four new wallets linked to Lazarus Group, an advanced persistent with ties to the Democratic People's Republic of Korea (DPRK).  "Blender was used in processing over $20.5 million of the illicit proceeds," the Treasury&nbsp; said , adding it was utilized by DPRK to "support its malicious cyber activities and money-laundering of stolen virtual currency."  Cryptocurrency mixers, also called&nbsp; tumblers , are privacy-focused services that allow users to move cr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

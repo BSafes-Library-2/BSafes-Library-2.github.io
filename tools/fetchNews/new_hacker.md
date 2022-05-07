@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using PrivateLoader PPI Service to Distribute New NetDooka Malware<a href="https://thehackernews.com/2022/05/hackers-using-privateloader-ppi-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pay-per-install (PPI) malware service known as PrivateLoader has been spotted distributing a "fairly sophisticated" framework called NetDooka, granting attackers complete control over the infected devices.  "The framework is distributed via a pay-per-install (PPI) service and contains multiple parts, including a loader, a dropper, a protection driver, and a full-featured remote access trojan (RAT) that implements its own network communication protocol," Trend Micro&nbsp; said &nbsp;in a report published Thursday.  PrivateLoader, as documented  by Intel 471 in February 2022, functions as a downloader responsible for downloading and installing additional malware onto the infected system, including SmokeLoader, RedLine Stealer, Vidar, Raccoon, GCleaner, and&nbsp; Anubis .   Featuring anti-analysis techniques, PrivateLoader is written in the C++ programming language and is said to be in active development, with the downloader malware family gaining traction among multiple threat ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

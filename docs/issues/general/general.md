@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+May 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Declaration for the Future of the Internet Is for Wavering Democracies, Not China and Russia<a href="https://www.lawfareblog.com/declaration-future-internet-wavering-democracies-not-china-and-russia"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The declaration means to persuade misbehaving democracies to stop internet transgressions.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

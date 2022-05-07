@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - May 6th 2022 - An evolving landscape<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-6th-2022-an-evolving-landscape/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operations continue to evolve, with new groups appearing and others quietly shutting down their operations or rebranding as new groups.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

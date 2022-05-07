@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US sanctions Bitcoin laundering service used by North Korean hackers<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-bitcoin-laundering-service-used-by-north-korean-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Treasury today sanctioned&nbsp;cryptocurrency&nbsp;mixer Blender.io used last month by the North Korean-backed Lazarus hacking group to launder funds stolen from&nbsp;Axie Infinity's Ronin bridge.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

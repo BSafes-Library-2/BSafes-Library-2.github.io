@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2022
+May 7, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSea warns of Discord channel compromise<a href="https://blog.malwarebytes.com/scams/2022/05/opensea-warns-of-discord-channel-compromise/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2022
+May 7, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Treasury sanctions cryptocurrency mixer Blender<a href="https://www.theregister.com/2022/05/06/us_treasury_sanctions_blender/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 06, 2022
+May 06, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - May 6th 2022 - An evolving landscape<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-6th-2022-an-evolving-landscape/"> Full Text</a>
@@ -82,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 06, 2022
+May 06, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Sanctions Cryptocurrency Mixer Blender for Helping North Korea Launder Millions<a href="https://thehackernews.com/2022/05/us-sanctions-cryptocurrency-mixer.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2022
+May 6, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Declaration for the Future of the Internet Is for Wavering Democracies, Not China and Russia<a href="https://www.lawfareblog.com/declaration-future-internet-wavering-democracies-not-china-and-russia"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2022
+May 6, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How the thriving fraud industry within Facebook attacks independent media<a href="https://securityaffairs.co/wordpress/131009/cyber-crime/fraud-industry-within-facebook.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 06, 2022
+May 06, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ferrari subdomain hijacked to push fake Ferrari NFT collection<a href="https://www.bleepingcomputer.com/news/security/ferrari-subdomain-hijacked-to-push-fake-ferrari-nft-collection/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 06, 2022
+May 06, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This New Fileless Malware Hides Shellcode in Windows Event Logs<a href="https://thehackernews.com/2022/05/this-new-fileless-malware-hides.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2022
+May 6, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP fixes multiple flaws, including a QVR RCE vulnerability<a href="https://securityaffairs.co/wordpress/131000/security/qnap-fixes-critical-flaws.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 06, 2022
+May 06, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US agricultural machinery maker AGCO hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/us-agricultural-machinery-maker-agco-hit-by-ransomware-attack/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2022
+May 6, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Instagram scammers talk users out of their accounts<a href="https://blog.malwarebytes.com/scams/2022/05/how-instagram-scammers-talk-users-out-of-their-accounts/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 06, 2022
+May 06, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP Releases Firmware Patches for 9 New Flaws Affecting NAS Devices<a href="https://thehackernews.com/2022/05/qnap-releases-firmware-patches-for-9.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2022
+May 6, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous and Ukraine IT Army continue to target Russian entities<a href="https://securityaffairs.co/wordpress/130992/hacktivism/anonymous-ukraine-it-army-vs-russia.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 06, 2022
+May 06, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP fixes critical QVR remote command execution vulnerability<a href="https://www.bleepingcomputer.com/news/security/qnap-fixes-critical-qvr-remote-command-execution-vulnerability/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2022
+May 6, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Steer clear of fake premium mobile app unlockers<a href="https://blog.malwarebytes.com/scams/2022/05/steer-clear-of-fake-premium-mobile-app-unlockers/?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 06, 2022
+May 06, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of 'Raspberry Robin' Malware Spreading via External Drives<a href="https://thehackernews.com/2022/05/researchers-warn-of-raspberry-robin.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2022
+May 6, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NetDooka framework distributed via a pay-per-install (PPI) malware service<a href="https://securityaffairs.co/wordpress/130979/cyber-crime/netdooka-framework.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 06, 2022
+May 06, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US sanctions Bitcoin laundering service used by North Korean hackers<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-bitcoin-laundering-service-used-by-north-korean-hackers/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2022
+May 6, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Ransomware Group Claims Attack on Bulgarian Refugee Agency<a href="https://www.cyberscoop.com/lockbit-ransomware-attack-bulgarian-refugee-agency/?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ CyberScoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 06, 2022
+May 06, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using PrivateLoader PPI Service to Distribute New NetDooka Malware<a href="https://thehackernews.com/2022/05/hackers-using-privateloader-ppi-service.html"> Full Text</a>
@@ -370,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2022
+May 6, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerable Docker Installations Are A Playhouse for Malware Attacks<a href="https://securityaffairs.co/wordpress/130973/cyber-crime/uptycs-docker-malware-attacks.html"> Full Text</a>
@@ -390,7 +390,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2022
+May 6, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto Scammers exploit talk on Cryptocurrency<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/crypto-scammers-exploit-talk-on-cryptocurrency/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ McAfee
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 06, 2022
+May 06, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover New Espionage Attacks by Chinese 'Mustang Panda' Hackers<a href="https://thehackernews.com/2022/05/experts-uncover-new-espionage-attacks.html"> Full Text</a>
@@ -422,7 +422,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2022
+May 6, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine IT Army hit EGAIS portal impacting Russia’s alcohol distribution<a href="https://securityaffairs.co/wordpress/130966/cyber-warfare-2/ukraine-it-army-hit-egais.html"> Full Text</a>
@@ -442,7 +442,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2022
+May 6, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android's May 2022 Security Updates Patch 36 Vulnerabilities<a href="https://www.securityweek.com/androids-may-2022-security-updates-patch-36-vulnerabilities?&web_view=true"> Full Text</a>
@@ -458,7 +458,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 05, 2022
+May 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Releases Android Update to Patch Actively Exploited Vulnerability<a href="https://thehackernews.com/2022/05/google-releases-android-update-to-patch.html"> Full Text</a>

@@ -7,6 +7,36 @@ nav_order: 700
 
 ## Laws and Regulations
 ---
+May 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Platform Transparency: Understanding the Impact of Social Media <a href="https://www.judiciary.senate.gov/meetings/platform-transparency-understanding-the-impact-of-social-media"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Subcommittee on Privacy, Technology, and the Law  
+DATE:	Wednesday, May 4, 2022  
+TIME:	02:00 PM  
+LOCATION:	Dirksen Senate Office Building Room 226  
+PRESIDING:	Chair Coons  
+</details>
+<div style="text-align: right" markdown="1">
+{: .fs-2 .fw-300 .lh-0}
+</div>
+
+April 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital Services Act: agreement for a transparent and safe online environment <a href="https://www.europarl.europa.eu/news/en/press-room/20220412IPR27111/digital-services-act-agreement-for-a-transparent-and-safe-online-environment"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EU negotiators agree on landmark rules to effectively tackle the spread of illegal content online and protect people's fundamental rights in the digital sphere.
+</details>
+<div style="text-align: right" markdown="1">
+{: .fs-2 .fw-300 .lh-0}
+</div>
+
 March 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -19,7 +49,6 @@ By the authority vested in me as President by the Constitution and the laws of t
 Section 1.  Policy.  Advances in digital and distributed ledger technology for financial services have led to dramatic growth in markets for digital assets, with profound implications for the protection of consumers, investors, and businesses, including data privacy and security;
 </details>
 <div style="text-align: right" markdown="1">
-Lawfare
 {: .fs-2 .fw-300 .lh-0}
 </div>
 
