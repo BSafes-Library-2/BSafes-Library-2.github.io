@@ -34,6 +34,362 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSea warns of Discord channel compromise<a href="https://blog.malwarebytes.com/scams/2022/05/opensea-warns-of-discord-channel-compromise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSea, the primary marketplace for buyers and sellers of non-fungible tokens (NFTs), has reported major problems with its Discord support channel owing to a “potential vulnerability” that allowed spambots to post phishing links to other users.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Treasury sanctions cryptocurrency mixer Blender<a href="https://www.theregister.com/2022/05/06/us_treasury_sanctions_blender/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a result, among other limitations, anyone in the United States or a US person can no longer do any business with Blender without special permission from the government.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - May 6th 2022 - An evolving landscape<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-6th-2022-an-evolving-landscape/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operations continue to evolve, with new groups appearing and others quietly shutting down their operations or rebranding as new groups.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Sanctions Cryptocurrency Mixer Blender for Helping North Korea Launder Millions<a href="https://thehackernews.com/2022/05/us-sanctions-cryptocurrency-mixer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department on Friday moved to sanction virtual currency mixer Blender.io, marking the first time a mixing service has been subjected to economic blockades.  The move signals continued efforts on the part of the government to prevent North Korea's Lazarus Group from laundering the funds stolen from the  unprecedented hack of Ronin Bridge  in late March.  The newly imposed sanctions, issued by the U.S. Office of Foreign Assets Control (OFAC), target 45 Bitcoin addresses linked to Blender.io and four new wallets linked to Lazarus Group, an advanced persistent with ties to the Democratic People's Republic of Korea (DPRK).  "Blender was used in processing over $20.5 million of the illicit proceeds," the Treasury  said , adding it was utilized by DPRK to "support its malicious cyber activities and money-laundering of stolen virtual currency."  Cryptocurrency mixers, also called  tumblers , are privacy-focused services that allow users to move cr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Declaration for the Future of the Internet Is for Wavering Democracies, Not China and Russia<a href="https://www.lawfareblog.com/declaration-future-internet-wavering-democracies-not-china-and-russia"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The declaration means to persuade misbehaving democracies to stop internet transgressions.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the thriving fraud industry within Facebook attacks independent media<a href="https://securityaffairs.co/wordpress/131009/cyber-crime/fraud-industry-within-facebook.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts investigate how stolen Facebook accounts are used as part of a well-established fraud industry inside Facebook.
+
+
+
+No eyebrows were raised in Quriums security operation center when the independent Philippine media outlet Bulatlat once again...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ferrari subdomain hijacked to push fake Ferrari NFT collection<a href="https://www.bleepingcomputer.com/news/security/ferrari-subdomain-hijacked-to-push-fake-ferrari-nft-collection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of Ferrari's subdomains was hijacked yesterday to host a scam promoting fake Ferrari NFT collection, according to researchers. The Ethereum wallet associated with the cryptocurrency scam appears to have collected a few hundred dollars before the hacked subdomain was shut down.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This New Fileless Malware Hides Shellcode in Windows Event Logs<a href="https://thehackernews.com/2022/05/this-new-fileless-malware-hides.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malicious campaign has been spotted taking advantage of Windows event logs to stash chunks of shellcode for the first time in the wild.  "It allows the 'fileless' last stage trojan to be hidden from plain sight in the file system," Kaspersky researcher Denis Legezo  said  in a technical write-up published this week.  The stealthy infection process, not attributed to a known actor, is believed to have commenced in September 2021 when the intended targets were lured into downloading compressed .RAR files containing Cobalt Strike and  Silent Break .   The adversary simulation software modules are then used as a launchpad to inject code into Windows system processes or trusted applications.  Also notable is the use of anti-detection wrappers as part of the toolset, suggesting an attempt on the part of the operators to fly under the radar.   One of the key methods is to keep encrypted shellcode containing the next-stage malware as 8KB pieces in event logs, a never-b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP fixes multiple flaws, including a QVR RCE vulnerability<a href="https://securityaffairs.co/wordpress/131000/security/qnap-fixes-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP addressed multiple vulnerabilities, including a critical remote execution flaw affecting the QVR video surveillance solution.
+
+
+
+QNAP has addressed multiple vulnerabilities, including a critical security issue, tracked as CVE-2022-27588 (CVSS score...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US agricultural machinery maker AGCO hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/us-agricultural-machinery-maker-agco-hit-by-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AGCO, a leading US-based agricultural machinery producer, has announced it was hit by a ransomware attack impacting some of its production facilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Instagram scammers talk users out of their accounts<a href="https://blog.malwarebytes.com/scams/2022/05/how-instagram-scammers-talk-users-out-of-their-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Regardless of the script they’re following, scammers will say you’ll receive a link on your phone via SMS. They will then ask you not to click the link but merely take a screenshot and send the image back to them.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Releases Firmware Patches for 9 New Flaws Affecting NAS Devices<a href="https://thehackernews.com/2022/05/qnap-releases-firmware-patches-for-9.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP, Taiwanese maker of network-attached storage (NAS) devices, on Friday released security updates to patch nine security weaknesses, including a critical issue that could be exploited to take over an affected system.  "A vulnerability has been reported to affect QNAP VS Series NVR running QVR," QNAP  said  in an advisory. "If exploited, this vulnerability allows remote attackers to run arbitrary commands."  Tracked as  CVE-2022-27588  (CVSS score: 9.8), the vulnerability has been addressed in QVR 5.1.6 build 20220401 and later. Credited with reporting the flaw is the Japan Computer Emergency Response Team Coordination Center (JPCERT/CC).   Aside from the critical shortcoming, QNAP has also resolved three high-severity and five medium-severity bugs in its software -   CVE-2021-38693  (CVSS score: 5.3) - A  path traversal vulnerability  in thttpd affecting QNAP devices running QTS, QuTS hero, QuTScloud, and QVR Pro Appliance, leading to information disclosure    C
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous and Ukraine IT Army continue to target Russian entities<a href="https://securityaffairs.co/wordpress/130992/hacktivism/anonymous-ukraine-it-army-vs-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Anonymous collective and the volunteer group Ukraine IT Army continues to launch cyber attacks on Russian entities.
+
+
+
+The Anonymous collective continues its cyber war on Russian businesses and government organizations. Below is the list of the most...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP fixes critical QVR remote command execution vulnerability<a href="https://www.bleepingcomputer.com/news/security/qnap-fixes-critical-qvr-remote-command-execution-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP has released several security advisories today to alert its customers about various fixes for flaws affecting its products. The one that stands out is a critical RCE (remote code execution) in QVR.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Steer clear of fake premium mobile app unlockers<a href="https://blog.malwarebytes.com/scams/2022/05/steer-clear-of-fake-premium-mobile-app-unlockers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The site offers “tweaked apps”, apparently available with a single click and requiring “no jailbreak, no root.” There’s an OnlyFans Premium, Netflix Premium, a Pokemon Go Spoofer Injector, and many more.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of 'Raspberry Robin' Malware Spreading via External Drives<a href="https://thehackernews.com/2022/05/researchers-warn-of-raspberry-robin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new Windows malware with worm-like capabilities and is propagated by means of removable USB devices.  Attributing the malware to a cluster named " Raspberry Robin ," Red Canary researchers  noted  that the worm "leverages Windows Installer to reach out to QNAP-associated domains and download a malicious DLL."  The earliest signs of the activity are said to date back to September 2021, with infections observed in organizations with ties to technology and manufacturing sectors.   Attack chains pertaining to Raspberry Robin start with connecting an infected USB drive to a Windows machine. Present within the device is the worm payload, which appears as a .LNK shortcut file to a legitimate folder.   The worm then takes care of spawning a new process using cmd.exe to read and execute a malicious file stored on the external drive.  This is followed by launching explorer.exe and msiexec.exe, the latter of which is used for extern
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NetDooka framework distributed via a pay-per-install (PPI) malware service<a href="https://securityaffairs.co/wordpress/130979/cyber-crime/netdooka-framework.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a sophisticated malware framework, dubbed NetDooka, distributed via a pay-per-install (PPI) malware service known as PrivateLoader.
+
+
+
+Trend Micro researchers uncovered a sophisticated malware framework dubbed NetDooka that is distributed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US sanctions Bitcoin laundering service used by North Korean hackers<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-bitcoin-laundering-service-used-by-north-korean-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Treasury today sanctioned cryptocurrency mixer Blender.io used last month by the North Korean-backed Lazarus hacking group to launder funds stolen from Axie Infinity's Ronin bridge.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Ransomware Group Claims Attack on Bulgarian Refugee Agency<a href="https://www.cyberscoop.com/lockbit-ransomware-attack-bulgarian-refugee-agency/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit 2.0 posted a notice to the dark web portal it uses to identify and extort its victims saying it had files from the Bulgarian State Agency for Refugees under the Council of Ministers.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using PrivateLoader PPI Service to Distribute New NetDooka Malware<a href="https://thehackernews.com/2022/05/hackers-using-privateloader-ppi-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pay-per-install (PPI) malware service known as PrivateLoader has been spotted distributing a "fairly sophisticated" framework called NetDooka, granting attackers complete control over the infected devices.  "The framework is distributed via a pay-per-install (PPI) service and contains multiple parts, including a loader, a dropper, a protection driver, and a full-featured remote access trojan (RAT) that implements its own network communication protocol," Trend Micro  said  in a report published Thursday.  PrivateLoader, as documented  by Intel 471 in February 2022, functions as a downloader responsible for downloading and installing additional malware onto the infected system, including SmokeLoader, RedLine Stealer, Vidar, Raccoon, GCleaner, and  Anubis .   Featuring anti-analysis techniques, PrivateLoader is written in the C++ programming language and is said to be in active development, with the downloader malware family gaining traction among multiple threat ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerable Docker Installations Are A Playhouse for Malware Attacks<a href="https://securityaffairs.co/wordpress/130973/cyber-crime/uptycs-docker-malware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uptycs researchers identified ongoing malicious campaigns through our Docker honeypot targeting exposed Docker API.
+
+
+
+The Uptycs Threat Research team has identified ongoing malicious campaigns through our Docker honeypot targeting exposed Docker API port...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 6, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
