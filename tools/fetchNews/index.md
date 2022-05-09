@@ -358,7 +358,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br
+May 7, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US gov sanctions cryptocurrency mixer Blender also used by North Korea-linked Lazarus APT<a href="https://securityaffairs.co/wordpress/131015/cyber-crime/us-gov-sanctioned-blender-mixer.html"> Full Text</a>
@@ -866,7 +866,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2022
+May 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google addresses actively exploited Android flaw in the kernel<a href="https://securityaffairs.co/wordpress/130960/security/android-actively-exploited-flaw.html"> Full Text</a>
