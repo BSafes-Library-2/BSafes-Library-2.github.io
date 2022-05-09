@@ -34,6 +34,350 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Check your gems: RubyGems fixes unauthorized package takeover bug<a href="https://www.bleepingcomputer.com/news/security/check-your-gems-rubygems-fixes-unauthorized-package-takeover-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RubyGems package repository has fixed a critical vulnerability that would allow anyone to unpublish ("yank") certain Ruby packages from the repository and republish their tainted or malicious versions with the same file names and version numbers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware claims to have hacked Peru MOF – Dirección General de Inteligencia (DIGIMIN)<a href="https://securityaffairs.co/wordpress/131093/cyber-crime/conti-ransomware-peru-direccion-general-de-inteligencia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti Ransomware gang claims to have hacked the Peru MOF - Dirección General de Inteligencia (DIGIMIN) and stolen 9.41 GB.
+
+
+
+The Conti ransomware gang added the Peru MOF - Dirección General de Inteligencia (DIGIMIN) to the list of its victims on its Tor leak...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploits created for critical F5 BIG-IP flaw, install patch immediately<a href="https://www.bleepingcomputer.com/news/security/exploits-created-for-critical-f5-big-ip-flaw-install-patch-immediately/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are warning F5 BIG-IP admins to immediately install the latest security updates after creating exploits for a recently disclosed critical CVE-2022-1388 remote code execution vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+May 01 – May 07 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/131074/cyber-crime/may-01-may-07-ukraine-russia-the-silent-cyber-conflict.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This post provides a timeline of the events related to Russia invasion of Ukraine from the cyber security perspective.
+
+
+
+Below is the timeline of the events related to the ongoing Russia invasion that occurred in the previous weeks:
+
+
+
+May 06 - Anonymous...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caramel credit card stealing service is growing in popularity<a href="https://www.bleepingcomputer.com/news/security/caramel-credit-card-stealing-service-is-growing-in-popularity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A credit card stealing service is growing in popularity, allowing any low-skilled threat actors an easy and automated way to get started in the world of financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST published updated guidance for supply chain risks<a href="https://securityaffairs.co/wordpress/131066/laws-and-regulations/nist-supply-chain-guidance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology (NIST) has released updated guidance for defending against supply-chain attacks.
+
+
+
+The National Institute of Standards and Technology (NIST) has released updated guidance for defending against supply...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US agricultural machinery manufacturer AGCO suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/131058/cyber-crime/agco-suffered-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American agricultural machinery manufacturer AGCO announced that has suffered a ransomware attack that impacted its production facilities.
+
+
+
+AGCO, one of the most important agricultural machinery manufacturers, announced that a ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 364 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/131055/breaking-news/security-affairs-newsletter-round-364-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DoS offers a reward of up to $15M for info on Conti ransomware gang<a href="https://securityaffairs.co/wordpress/131050/cyber-crime/us-dos-reward-15m-info-conti-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Government offers up to $15 million for information that helps identify and locate leadership and co-conspirators of the Conti ransomware gang.
+
+
+
+The US Department of State offers up to $15 million for information that helps identify and locate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Offers $15 Million Reward for Information on Conti Ransomware Group<a href="https://www.reuters.com/world/us-offers-15-mln-reward-information-conti-ransomware-group-2022-05-06/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States state department has offered a reward of up to $15 million for information on the Russia-based Conti ransomware group, which has been blamed for cyber extortion attacks worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Associate North-Korean APT38 Group with More Ransomware Strains<a href="https://cyware.com/news/researchers-associate-north-korean-apt38-group-with-more-ransomware-strains-e1696b02"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat researcher from Trellix claimed that APT38 operators (aka Unit 180 of North Korea) have used Beaf, ZZZZ, ChiChi, and PXJ ransomware strains to extort some of their victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DLL Hijacking Bug Puts a Hole in Prominent Ransomware Families<a href="https://cyware.com/news/dll-hijacking-bug-puts-a-hole-in-prominent-ransomware-families-e6e0da5d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher named hyp3rlinx claims that several malware samples are exposed to DLL hijacking, a method used to inject malicious code into a genuine app. The bug could be exploited to stop file encryption.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake crypto giveaways steal millions using Elon Musk Ark Invest video<a href="https://www.bleepingcomputer.com/news/security/fake-crypto-giveaways-steal-millions-using-elon-musk-ark-invest-video/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fake cryptocurrency giveaways are stealing millions of dollars simply by replaying old Elon Musk and Jack Dorsey Ark Invest videos on YouTube.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC3524 APT Has Got Backdoors, Persistency Tactics Under Its Sleeves<a href="https://cyware.com/news/unc3524-apt-has-got-backdoors-persistency-tactics-under-its-sleeves-3310970e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts noted that UNC3524 has been persistently targeting the emails of employees in the corporate world that focus on development, mergers and acquisitions, and large transactions, with financial motivation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro antivirus modified Windows registry by mistake — How to fix<a href="https://www.bleepingcomputer.com/news/security/trend-micro-antivirus-modified-windows-registry-by-mistake-how-to-fix/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro antivirus has fixed a false positive affecting its Apex One endpoint security solution that caused Microsoft Edge updates to be tagged as malware and the Windows registry to be incorrectly modified.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US offers $15 million reward for info on Conti ransomware gang<a href="https://www.bleepingcomputer.com/news/security/us-offers-15-million-reward-for-info-on-conti-ransomware-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of State is offering up to $15 million for information that helps identify and locate leadership and co-conspirators of the infamous Conti ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raspberry Robin spreads via removable USB devices<a href="https://securityaffairs.co/wordpress/131033/malware/raspberry-robin-spreads-usb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new Windows malware, dubbed Raspberry Robin, with worm-like capabilities that spreads via removable USB devices.
+
+
+
+Cybersecurity researchers from Red Canary have spotted a new Windows malware, dubbed Raspberry Robin, with worm-like...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware campaign hides a shellcode into Windows event logs<a href="https://securityaffairs.co/wordpress/131025/hacking/windows-event-logs-malware-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a malware campaign that is the first one using a technique of hiding a shellcode into Windows event logs.
+
+
+
+In February 2022 researchers from Kaspersky spotted a malicious campaign using a novel technique that consists of hiding the shellcode...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US gov sanctions cryptocurrency mixer Blender also used by North Korea-linked Lazarus APT<a href="https://securityaffairs.co/wordpress/131015/cyber-crime/us-gov-sanctioned-blender-mixer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Treasury sanctioned cryptocurrency mixer Blender.io used by North Korea-linked Lazarus APT.
+
+
+
+The U.S. Department of Treasury sanctioned the cryptocurrency mixer Blender.io used by the North Korea-linked Lazarus APT to launder...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 7, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
