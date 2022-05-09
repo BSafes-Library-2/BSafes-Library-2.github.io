@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US offers $15 million reward for info on Conti ransomware gang<a href="https://www.bleepingcomputer.com/news/security/us-offers-15-million-reward-for-info-on-conti-ransomware-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of State is offering up to $15 million for information that helps identify and locate leadership and co-conspirators of the infamous Conti ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,98 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP fixes multiple flaws, including a QVR RCE vulnerability<a href="https://securityaffairs.co/wordpress/131000/security/qnap-fixes-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP addressed multiple vulnerabilities, including a critical remote execution flaw affecting the QVR video surveillance solution.
+
+
+
+QNAP has addressed multiple vulnerabilities, including a critical security issue, tracked as CVE-2022-27588 (CVSS score...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Releases Firmware Patches for 9 New Flaws Affecting NAS Devices<a href="https://thehackernews.com/2022/05/qnap-releases-firmware-patches-for-9.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP, Taiwanese maker of network-attached storage (NAS) devices, on Friday released security updates to patch nine security weaknesses, including a critical issue that could be exploited to take over an affected system.  "A vulnerability has been reported to affect QNAP VS Series NVR running QVR," QNAP&nbsp; said &nbsp;in an advisory. "If exploited, this vulnerability allows remote attackers to run arbitrary commands."  Tracked as&nbsp; CVE-2022-27588 &nbsp;(CVSS score: 9.8), the vulnerability has been addressed in QVR 5.1.6 build 20220401 and later. Credited with reporting the flaw is the Japan Computer Emergency Response Team Coordination Center (JPCERT/CC).   Aside from the critical shortcoming, QNAP has also resolved three high-severity and five medium-severity bugs in its software -   CVE-2021-38693 &nbsp;(CVSS score: 5.3) - A&nbsp; path traversal vulnerability &nbsp;in thttpd affecting QNAP devices running QTS, QuTS hero, QuTScloud, and QVR Pro Appliance, leading to information disclosure    C
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP fixes critical QVR remote command execution vulnerability<a href="https://www.bleepingcomputer.com/news/security/qnap-fixes-critical-qvr-remote-command-execution-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP has released several security advisories today to alert its customers about various fixes for flaws affecting its products. The one that stands out is a critical RCE (remote code execution) in QVR.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerable Docker Installations Are A Playhouse for Malware Attacks<a href="https://securityaffairs.co/wordpress/130973/cyber-crime/uptycs-docker-malware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uptycs researchers identified ongoing malicious campaigns through our Docker honeypot targeting exposed Docker API.
+
+
+
+The Uptycs Threat Research team has identified ongoing malicious campaigns through our Docker honeypot targeting exposed Docker API port...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android's May 2022 Security Updates Patch 36 Vulnerabilities<a href="https://www.securityweek.com/androids-may-2022-security-updates-patch-36-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most serious of these security holes, the internet giant notes in an advisory, is a high-severity issue in Android’s Framework component that could be exploited for privilege escalation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases Android Update to Patch Actively Exploited Vulnerability<a href="https://thehackernews.com/2022/05/google-releases-android-update-to-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released monthly security patches for Android with fixes for 37 flaws across different components, one of which is a fix for an actively exploited Linux kernel vulnerability that came to light earlier this year.  Tracked as&nbsp; CVE-2021-22600 &nbsp;(CVSS score: 7.8), the vulnerability is ranked "High" for severity and could be exploited by a local user to escalate privileges or deny service.  The issue relates to a&nbsp; double-free vulnerability &nbsp;residing in the&nbsp; Packet &nbsp;network protocol implementation in the Linux kernel that could cause memory corruption, potentially leading to denial-of-service or execution of arbitrary code.   Patches were released by different Linux distributions, including&nbsp; Debian ,&nbsp; Red Hat ,&nbsp; SUSE , and&nbsp; Ubuntu &nbsp;in January 2022.  "There are indications that CVE-2021-22600 may be under limited, targeted exploitation," Google&nbsp; noted &nbsp;in its Android Security Bulletin for May 2022. Specifics about the nature of the attacks are unknown as yet.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

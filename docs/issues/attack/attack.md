@@ -8,6 +8,42 @@ nav_order: 900015
 
 ## Attack
 ---
+May 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware claims to have hacked Peru MOF – Dirección General de Inteligencia (DIGIMIN)<a href="https://securityaffairs.co/wordpress/131093/cyber-crime/conti-ransomware-peru-direccion-general-de-inteligencia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti Ransomware gang claims to have hacked the Peru MOF - Dirección General de Inteligencia (DIGIMIN) and stolen 9.41 GB.
+
+
+
+The Conti ransomware gang added the Peru MOF - Dirección General de Inteligencia (DIGIMIN) to the list of its victims on its Tor leak...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US agricultural machinery manufacturer AGCO suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/131058/cyber-crime/agco-suffered-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American&nbsp;agricultural machinery&nbsp;manufacturer AGCO announced that has suffered a ransomware attack that impacted its production facilities.
+
+
+
+AGCO, one of the most important agricultural machinery manufacturers, announced that a ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

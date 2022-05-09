@@ -8,6 +8,102 @@ nav_order: 900015
 
 ## Attack
 ---
+May 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the thriving fraud industry within Facebook attacks independent media<a href="https://securityaffairs.co/wordpress/131009/cyber-crime/fraud-industry-within-facebook.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts investigate how stolen Facebook accounts are used as part&nbsp;of a well-established fraud industry inside Facebook.
+
+
+
+No eyebrows were raised in Quriums security operation center when the independent Philippine media outlet Bulatlat&nbsp;once again...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US agricultural machinery maker AGCO hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/us-agricultural-machinery-maker-agco-hit-by-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AGCO, a leading US-based agricultural machinery producer, has announced it was hit by a ransomware attack impacting some of its production facilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous and Ukraine IT Army continue to target Russian entities<a href="https://securityaffairs.co/wordpress/130992/hacktivism/anonymous-ukraine-it-army-vs-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Anonymous collective and the volunteer group Ukraine IT Army continues to launch cyber attacks on Russian entities.
+
+
+
+The Anonymous collective continues its cyber war on Russian businesses and government organizations. Below is the list of the most...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Ransomware Group Claims Attack on Bulgarian Refugee Agency<a href="https://www.cyberscoop.com/lockbit-ransomware-attack-bulgarian-refugee-agency/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit 2.0 posted a notice to the dark web portal it uses to identify and extort its victims saying it had files from the Bulgarian State Agency for Refugees under the Council of Ministers.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover New Espionage Attacks by Chinese 'Mustang Panda' Hackers<a href="https://thehackernews.com/2022/05/experts-uncover-new-espionage-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-based threat actor known as Mustang Panda  has been observed refining and retooling its tactics and malware to strike entities located in Asia, the European Union, Russia, and the U.S.  "Mustang Panda is a highly motivated APT group relying primarily on the use of topical lures and social engineering to trick victims into infecting themselves," Cisco Talos&nbsp; said &nbsp;in a new report detailing the group's evolving modus operandi.   The group is known to have targeted a wide range of organizations since at least 2012, with the actor primarily relying on email-based social engineering to gain initial access to drop PlugX, a backdoor predominantly deployed for long-term access.  Phishing messages attributed to the campaign contain malicious lures masquerading as official European Union reports on the ongoing conflict in Ukraine or Ukrainian government reports, both of which download malware onto compromised machines.   Also observed are phishing messages tailored to ta
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine IT Army hit EGAIS portal impacting Russia’s alcohol distribution<a href="https://securityaffairs.co/wordpress/130966/cyber-warfare-2/ukraine-it-army-hit-egais.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine IT Army launched massive DDoS attacks on the EGAIS portal that has a crucial role in Russia's alcohol distribution.
+
+
+
+The collective of hacktivists Ukraine IT Army has launched a series of massive DDoS attacks on the Unified State Automated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

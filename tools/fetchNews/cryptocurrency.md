@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+May 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Treasury sanctions cryptocurrency mixer Blender<a href="https://www.theregister.com/2022/05/06/us_treasury_sanctions_blender/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a result, among other limitations, anyone in the United States or a US person can no longer do any business with Blender without special permission from the government.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Scammers exploit talk on Cryptocurrency<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/crypto-scammers-exploit-talk-on-cryptocurrency/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The modified live streams make the original video smaller and put a frame around it advertising malicious sites that it claims will double the amount of cryptocurrency you send them.
+</details>
+<div style="text-align: right" markdown="1">
+McAfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

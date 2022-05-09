@@ -8,6 +8,50 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Associate North-Korean APT38 Group with More Ransomware Strains<a href="https://cyware.com/news/researchers-associate-north-korean-apt38-group-with-more-ransomware-strains-e1696b02"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat researcher from Trellix claimed that APT38 operators (aka Unit 180 of North Korea) have used Beaf, ZZZZ, ChiChi, and PXJ ransomware strains to extort some of their victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC3524 APT Has Got Backdoors, Persistency Tactics Under Its Sleeves<a href="https://cyware.com/news/unc3524-apt-has-got-backdoors-persistency-tactics-under-its-sleeves-3310970e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts noted that UNC3524 has been persistently targeting the emails of employees in the corporate world that focus on development, mergers and acquisitions, and large transactions, with financial motivation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2022 <br {:="" .fs-4="" .fw-700="" .lh-0="" }="" <p="" style="font-weight:500; margin:0px" markdown="1">
+US gov sanctions cryptocurrency mixer Blender also used by North Korea-linked Lazarus APT<a href="https://securityaffairs.co/wordpress/131015/cyber-crime/us-gov-sanctioned-blender-mixer.html"> Full Text</a>
+<p></p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Treasury sanctioned cryptocurrency mixer Blender.io used by North Korea-linked Lazarus APT.
+
+
+
+The U.S. Department of Treasury sanctioned the cryptocurrency mixer Blender.io used by the North Korea-linked Lazarus APT to launder...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
