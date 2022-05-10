@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'A tragedy': Closure of 150-year-old college underscores toll of ransomware attacks<a href="https://www.nbcnews.com/tech/security/ransomware-attack-covid-combine-shutter-illinois-college-rcna24905?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A goodbye note posted to the school’s website said that it survived both World Wars, the Spanish flu and the Great Depression, but was unable to handle the combination of the Covid pandemic and a severe ransomware attack in December last year.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

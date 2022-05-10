@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+May 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lincoln College to close after 157 years due ransomware attack<a href="https://www.bleepingcomputer.com/news/security/lincoln-college-to-close-after-157-years-due-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lincoln College, a&nbsp;liberal-arts school from&nbsp;rural Illinois, says it will close its doors later this month, 157 years since it was founded and following a hard hit on its finances after the COVID-19 pandemic and a recent ransomware attack.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

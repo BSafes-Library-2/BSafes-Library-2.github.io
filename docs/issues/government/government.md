@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SHIELDS UP in bite sized chunks<a href="https://thehackernews.com/2022/05/shields-up-in-bite-sized-chunks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unless you are living completely off the grid, you know the horrifying war in Ukraine and the related geopolitical tensions have dramatically increased cyberattacks and the threat of even more to come.  The Cybersecurity and Infrastructure Security Agency (CISA) provides guidance to US federal agencies in their fight against cybercrime, and the agency's advice has proven so valuable that it's been widely adopted by commercial organizations too.  In February, CISA responded to the current situation by issuing an unusual " SHIELDS UP! " warning and advisory. According to CISA, "Every organization—large and small—must be prepared to respond to disruptive cyber incidents."  The announcement from CISA consisted of a range of recommendations to help organizations and individuals reduce the likelihood of a successful attack and limit damage in case the worst happens. It also contains general advice for C-level leaders, as well as a tip sheet on how to respond to r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Check your gems: RubyGems fixes unauthorized package takeover bug<a href="https://www.bleepingcomputer.com/news/security/check-your-gems-rubygems-fixes-unauthorized-package-takeover-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RubyGems&nbsp;package&nbsp;repository has fixed a critical vulnerability that would allow anyone to unpublish ("yank") certain Ruby packages&nbsp;from the repository and republish their tainted or malicious versions with the same file names and version numbers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploits created for critical F5 BIG-IP flaw, install patch immediately<a href="https://www.bleepingcomputer.com/news/security/exploits-created-for-critical-f5-big-ip-flaw-install-patch-immediately/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are warning F5 BIG-IP admins to immediately install the latest security updates after creating exploits for a recently disclosed critical CVE-2022-1388 remote code execution vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DLL Hijacking Bug Puts a Hole in Prominent Ransomware Families<a href="https://cyware.com/news/dll-hijacking-bug-puts-a-hole-in-prominent-ransomware-families-e6e0da5d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher named hyp3rlinx claims that several malware samples are exposed to DLL hijacking, a method used to inject malicious code into a genuine app. The bug could be exploited to stop file encryption.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro antivirus modified Windows registry by mistake — How to fix<a href="https://www.bleepingcomputer.com/news/security/trend-micro-antivirus-modified-windows-registry-by-mistake-how-to-fix/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro antivirus has fixed a false positive affecting its Apex One endpoint security solution that caused&nbsp;Microsoft Edge updates to be tagged as malware and the Windows registry to be incorrectly modified.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

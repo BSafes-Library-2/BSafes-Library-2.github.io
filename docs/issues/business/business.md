@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+May 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Near $1 Million Fine Proposed for Colonial Pipeline Following Cyber Attack<a href="https://www.hstoday.us/subject-matter-areas/cybersecurity/near-1-million-fine-proposed-for-colonial-pipeline-following-cyber-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Transportation’s Pipeline and Hazardous Materials Safety Administration (PHMSA) found management failings and has issued a Notice of Probable Violation and Proposed Compliance Order to Colonial Pipeline Company.
+</details>
+<div style="text-align: right" markdown="1">
+HS Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

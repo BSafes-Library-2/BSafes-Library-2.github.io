@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caramel credit card stealing service is growing in popularity<a href="https://www.bleepingcomputer.com/news/security/caramel-credit-card-stealing-service-is-growing-in-popularity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A credit card stealing service is growing in popularity, allowing any low-skilled threat actors an easy and automated way to get started in the world of financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Offers $15 Million Reward for Information on Conti Ransomware Group<a href="https://www.reuters.com/world/us-offers-15-mln-reward-information-conti-ransomware-group-2022-05-06/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States state department has offered a reward of up to $15 million for information on the Russia-based Conti ransomware group, which has been blamed for cyber extortion attacks worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

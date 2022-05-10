@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet is Testing New Attack Chain<a href="https://cyware.com/news/emotet-is-testing-new-attack-chain-25595957"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint researchers have spotted low-volume Emotet activity that is much different from typical Emotet threat behaviors, highly likely that the group is testing a new threat before using it. The campaign was spotted between April 4 and April 19.&nbsp; The testing of different attack chains is mo ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Offering $10 Million Reward for Information on Conti Ransomware Hackers<a href="https://thehackernews.com/2022/05/us-offering-10-million-reward-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department has&nbsp; announced &nbsp;rewards of up to $10 million for any information leading to the identification of key individuals who are part of the infamous Conti cybercrime gang.  Additionally, it's offering another $5 million for intelligence information that could help arrest or convict individuals who are conspiring or attempting to affiliate with the group in a ransomware attack.  The department called the Conti variant the "costliest strain of ransomware ever documented."   Conti , the work of a Russia-based transnational organized crime group dubbed Gold Ulrick, is one most prolific ransomware cartels that has continued to strike entities globally while simultaneously&nbsp; expanding its empire &nbsp;by absorbing TrickBot and running side hustles that involve data extortion.  After the syndicate expressed public support for Russia's invasion of Ukraine in February, it&nbsp; suffered a major breach &nbsp;of its own after its source code and internal chats were released
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

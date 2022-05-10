@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake crypto giveaways steal millions using Elon Musk Ark Invest video<a href="https://www.bleepingcomputer.com/news/security/fake-crypto-giveaways-steal-millions-using-elon-musk-ark-invest-video/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fake cryptocurrency giveaways are stealing millions of dollars simply by replaying old Elon Musk and Jack Dorsey Ark Invest videos on YouTube.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

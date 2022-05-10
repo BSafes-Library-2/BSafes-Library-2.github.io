@@ -8,6 +8,42 @@ nav_order: 900075
 
 ## Government
 ---
+May 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST published updated guidance for supply chain risks<a href="https://securityaffairs.co/wordpress/131066/laws-and-regulations/nist-supply-chain-guidance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology (NIST) has released updated guidance for defending against supply-chain attacks.
+
+
+
+The National Institute of Standards and Technology (NIST) has released updated guidance for defending against supply...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DoS offers a reward of up to $15M for info on Conti ransomware gang<a href="https://securityaffairs.co/wordpress/131050/cyber-crime/us-dos-reward-15m-info-conti-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Government offers up to $15 million for information that helps identify and locate leadership and co-conspirators of the Conti ransomware gang.
+
+
+
+The US Department of State offers up to $15 million for information that helps identify and locate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

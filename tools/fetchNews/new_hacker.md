@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers display “blood is on your hands" on Russian TV, take down RuTube<a href="https://www.bleepingcomputer.com/news/security/hackers-display-blood-is-on-your-hands-on-russian-tv-take-down-rutube/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Hackers continue to target Russia with cyberattacks, defacing Russian TV to show pro-Ukrainian messages and taking down the RuTube video streaming site.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploiting critical F5 BIG-IP bug, public exploits released<a href="https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-f5-big-ip-bug-public-exploits-released/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have started massively exploiting the critical vulnerability tracked as CVE-2022-1388, which affects multiple versions of all F5 BIG-IP modules, to drop malicious payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

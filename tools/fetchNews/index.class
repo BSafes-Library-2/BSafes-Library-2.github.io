@@ -34,6 +34,392 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lincoln College to close after 157 years due ransomware attack<a href="https://www.bleepingcomputer.com/news/security/lincoln-college-to-close-after-157-years-due-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lincoln College, a liberal-arts school from rural Illinois, says it will close its doors later this month, 157 years since it was founded and following a hard hit on its finances after the COVID-19 pandemic and a recent ransomware attack. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkAngels: A Rebranded Version of Babuk?<a href="https://cyware.com/news/darkangels-a-rebranded-version-of-babuk-8c62474b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified DarkAngels, a new ransomware, that bears an uncanny resemblance between it and the Babuk ransomware. It excludes file extensions such as .exe, .dll, and .babyk from encryption. Organizations are recommended to use reliable anti-malware and internet security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Sound Alarm on DCRat Backdoor Being Sold on Russian Hacking Forums<a href="https://thehackernews.com/2022/05/experts-sound-alarm-on-dcrat-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shed light on an actively maintained remote access trojan called DCRat (aka DarkCrystal RAT) that's offered on sale for "dirt cheap" prices, making it accessible to professional cybercriminal groups and novice actors alike.  "Unlike the well-funded, massive Russian threat groups crafting custom malware [...], this remote access Trojan (RAT) appears to be the work of a lone actor, offering a surprisingly effective homemade tool for opening backdoors on a budget," BlackBerry researchers said in a report  shared with The Hacker News.  "In fact, this threat actor's commercial RAT sells at a fraction of the standard price such tools command on Russian underground forums."  Written in .NET by an individual codenamed "boldenis44" and "crystalcoder," DCRat is a full-featured backdoor whose functionalities can be further augmented by third-party plugins developed by affiliates using a dedicated integrated
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DCRat, only $5 for a fully working remote access trojan<a href="https://securityaffairs.co/wordpress/131122/cyber-crime/dcrat-cheap-rat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a remote access trojan called DCRat (aka DarkCrystal RAT) that is available for sale on Russian cybercrime forums.
+
+
+
+Cybersecurity researchers from BlackBerry are warning of a remote access trojan called DCRat (aka DarkCrystal RAT)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Tech Powers the Hybrid-remote Workforce — and Increases Insider Risk<a href="https://threatpost.com/cloud-tech-powers-remote-workforce/179402/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity practitioners are sounding the alarm bells. Amplified by the not-going-away-anytime-soon Great Resignation and the here-to-stay shift to hybrid-remote work models, Insider Risk sees exponential growth.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers display “blood is on your hands" on Russian TV, take down RuTube<a href="https://www.bleepingcomputer.com/news/security/hackers-display-blood-is-on-your-hands-on-russian-tv-take-down-rutube/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Hackers continue to target Russia with cyberattacks, defacing Russian TV to show pro-Ukrainian messages and taking down the RuTube video streaming site.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw Identified in F5 BIG-IP Devices<a href="https://cyware.com/news/critical-flaw-identified-in-f5-big-ip-devices-cf00c8cd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers issued an alert to F5 BIG-IP admins to immediately update their devices after creating exploits for a recently disclosed critical CVE-2022-1388, an RCE flaw. The vulnerable devices are mostly used in the enterprise and may allow attackers to exploit the flaw for gaining initial ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SHIELDS UP in bite sized chunks<a href="https://thehackernews.com/2022/05/shields-up-in-bite-sized-chunks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unless you are living completely off the grid, you know the horrifying war in Ukraine and the related geopolitical tensions have dramatically increased cyberattacks and the threat of even more to come.  The Cybersecurity and Infrastructure Security Agency (CISA) provides guidance to US federal agencies in their fight against cybercrime, and the agency's advice has proven so valuable that it's been widely adopted by commercial organizations too.  In February, CISA responded to the current situation by issuing an unusual " SHIELDS UP! " warning and advisory. According to CISA, "Every organization—large and small—must be prepared to respond to disruptive cyber incidents."  The announcement from CISA consisted of a range of recommendations to help organizations and individuals reduce the likelihood of a successful attack and limit damage in case the worst happens. It also contains general advice for C-level leaders, as well as a tip sheet on how to respond to r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA warns of malspam attacks distributing the Jester info stealer<a href="https://securityaffairs.co/wordpress/131113/breaking-news/cert-ua-warns-jester-stealer-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) warns of attacks spreading info-stealing malware Jester Stealer.
+
+
+
+The Computer Emergency Response Team of Ukraine (CERT-UA) has detected malspam campaigns aimed at spreading an info-stealer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases fixes for Azure flaw allowing RCE attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-releases-fixes-for-azure-flaw-allowing-rce-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released security updates to address a security flaw affecting Azure Synapse and Azure Data Factory pipelines that could let attackers execute remote commands across Integration Runtime infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet is Testing New Attack Chain<a href="https://cyware.com/news/emotet-is-testing-new-attack-chain-25595957"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint researchers have spotted low-volume Emotet activity that is much different from typical Emotet threat behaviors, highly likely that the group is testing a new threat before using it. The campaign was spotted between April 4 and April 19.&nbsp; The testing of different attack chains is mo ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Set of Joker Trojan-Laced Android Apps Resurfaces on Google Play Store<a href="https://thehackernews.com/2022/05/another-set-of-joker-trojan-laced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new set of trojanized apps spread via the Google Play Store has been observed distributing the notorious Joker malware on compromised Android devices.  Joker, a  repeat   offender , refers to a class of harmful apps that are used for billing and SMS fraud, while also performing a number of actions of a malicious hacker's choice, such as stealing text messages, contact lists, and device information.  Despite continued attempts on the part of Google to scale up its defenses, the apps have been continually iterated to search for gaps and slip into the app store undetected.   "They're usually spread on Google Play, where scammers download legitimate apps from the store, add malicious code to them and re-upload them to the store under a different name," Kaspersky researcher Igor Golovin  said  in a report published last week.  The trojanized apps, taking the place of their removed counterparts, often appear as messaging, health tracking, and PDF scanner apps that, once
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts developed exploits for CVE-2022-1388 RCE in F5 BIG-IP products<a href="https://securityaffairs.co/wordpress/131102/hacking/f5-big-ip-exploit-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A few days after F5 addressed the critical CVE-2022-1388 Remote Code execution flaw in its BIG-IP products, researchers created exploits for it.
+
+
+
+Last week security and application delivery solutions provider F5 released its security notification to inform...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine warns of “chemical attack” phishing pushing stealer malware<a href="https://www.bleepingcomputer.com/news/security/ukraine-warns-of-chemical-attack-phishing-pushing-stealer-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's Computer Emergency Response Team (CERT-UA) is warning of the mass distribution of Jester Stealer malware via phishing emails using warnings of impending chemical attacks to scare recipients into opening attachments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'A tragedy': Closure of 150-year-old college underscores toll of ransomware attacks<a href="https://www.nbcnews.com/tech/security/ransomware-attack-covid-combine-shutter-illinois-college-rcna24905?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A goodbye note posted to the school’s website said that it survived both World Wars, the Spanish flu and the Great Depression, but was unable to handle the combination of the Covid pandemic and a severe ransomware attack in December last year.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian CERT Warns Citizens of a New Wave of Attacks Distributing Jester Malware<a href="https://thehackernews.com/2022/05/ukrainian-cert-warns-citizens-of-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of phishing attacks that deploy an information-stealing malware called Jester Stealer  on compromised systems.  The mass email campaign carries the subject line "chemical attack" and contains a link to a macro-enabled Microsoft Excel file, opening which leads to computers getting infected with Jester Stealer.  The attack, which requires potential victims to enable macros after opening the document, works by downloading and executing an .EXE file that is retrieved from compromised web resources, CERT-UA detailed.   Jester Stealer, which was  first documented  by Cyble in February 2022, comes with features to steal and transmit login credentials, cookies, and credit card information along with data from passwords managers, chat messengers, email clients, crypto wallets, and gaming apps to the attackers.  "The hackers get the stolen data via Telegram using statically configured proxy addresses (e.g., with
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts uncovered a new wave of attacks conducted by Mustang Panda<a href="https://securityaffairs.co/wordpress/131083/apt/mustang-panda-q1-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked Mustang Panda APT group targets entities in Asia, the European Union, Russia, and the US in a new wave of attacks.
+
+
+
+In February 2022, Cisco Talos researchers started observing China-linked cyberespionage group Mustang Panda conducting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploiting critical F5 BIG-IP bug, public exploits released<a href="https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-f5-big-ip-bug-public-exploits-released/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have started massively exploiting the critical vulnerability tracked as CVE-2022-1388, which affects multiple versions of all F5 BIG-IP modules, to drop malicious payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Near $1 Million Fine Proposed for Colonial Pipeline Following Cyber Attack<a href="https://www.hstoday.us/subject-matter-areas/cybersecurity/near-1-million-fine-proposed-for-colonial-pipeline-following-cyber-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Transportation’s Pipeline and Hazardous Materials Safety Administration (PHMSA) found management failings and has issued a Notice of Probable Violation and Proposed Compliance Order to Colonial Pipeline Company.
+</details>
+<div style="text-align: right" markdown="1">
+HS Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are now hiding malware in Windows Event Logs<a href="https://www.bleepingcomputer.com/news/security/hackers-are-now-hiding-malware-in-windows-event-logs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have noticed a malicious campaign that used Windows event logs to store malware, a technique that has not been previously documented publicly for attacks in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Costa Rica declares national emergency after Conti ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/costa-rica-declares-national-emergency-after-conti-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Costa Rican President Rodrigo Chaves has declared a national emergency following cyber attacks from Conti ransomware group. BleepingComputer also observed Conti published most of the 672 GB dump that appears to contain data belonging to the Costa Rican government agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Offering $10 Million Reward for Information on Conti Ransomware Hackers<a href="https://thehackernews.com/2022/05/us-offering-10-million-reward-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department has  announced  rewards of up to $10 million for any information leading to the identification of key individuals who are part of the infamous Conti cybercrime gang.  Additionally, it's offering another $5 million for intelligence information that could help arrest or convict individuals who are conspiring or attempting to affiliate with the group in a ransomware attack.  The department called the Conti variant the "costliest strain of ransomware ever documented."   Conti , the work of a Russia-based transnational organized crime group dubbed Gold Ulrick, is one most prolific ransomware cartels that has continued to strike entities globally while simultaneously  expanding its empire  by absorbing TrickBot and running side hustles that involve data extortion.  After the syndicate expressed public support for Russia's invasion of Ukraine in February, it  suffered a major breach  of its own after its source code and internal chats were released
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Develop RCE Exploit for the Latest F5 BIG-IP Vulnerability<a href="https://thehackernews.com/2022/05/researchers-develop-rce-exploit-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Days after F5 released patches for a critical remote code execution vulnerability affecting its BIG-IP family of products, security researchers are warning that they were able to create an exploit for the shortcoming.  Tracked  CVE-2022-1388  (CVSS score: 9.8), the flaw relates to an iControl REST authentication bypass that, if successfully exploited, could lead to remote code execution, allowing an attacker to gain initial access and take control of an affected system.  This could range anywhere from deploying cryptocurrency miners to deploying web shells for follow-on attacks, such as information theft and ransomware.   "We have reproduced the fresh CVE-2022-1388 in F5's BIG-IP," cybersecurity company Positive Technologies  said  in a tweet on Friday. "Patch ASAP!"  The critical security vulnerability impacts the following versions of BIG-IP products -   16.1.0 - 16.1.2  15.1.0 - 15.1.5  14.1.0 - 14.1.4  13.1.0 - 13.1.4  12.1.0 - 12.1.6  11.6.1 - 11.6.5   Fix
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 08, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -358,7 +744,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br
+May 7, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US gov sanctions cryptocurrency mixer Blender also used by North Korea-linked Lazarus APT<a href="https://securityaffairs.co/wordpress/131015/cyber-crime/us-gov-sanctioned-blender-mixer.html"> Full Text</a>
@@ -866,7 +1252,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 5, 2022
+May 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google addresses actively exploited Android flaw in the kernel<a href="https://securityaffairs.co/wordpress/130960/security/android-actively-exploited-flaw.html"> Full Text</a>
