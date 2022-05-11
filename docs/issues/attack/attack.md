@@ -8,6 +8,66 @@ nav_order: 900015
 
 ## Attack
 ---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical F5 BIG-IP vulnerability targeted by destructive attacks<a href="https://www.bleepingcomputer.com/news/security/critical-f5-big-ip-vulnerability-targeted-by-destructive-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently disclosed F5 BIG-IP vulnerability has been used in destructive attacks, attempting to erase a device's file system and make the server unusable.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are actively exploiting CVE-2022-1388 RCE in F5 BIG-IP<a href="https://securityaffairs.co/wordpress/131132/hacking/big-ip-cve-2022-1388-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting critical F5 BIG-IP flaw&nbsp;CVE-2022-1388 to deliver malicious code, cybersecurity researchers warn.
+
+
+
+Threat actors started massively exploiting the critical remote code execution vulnerability, tracked as&nbsp;CVE-2022-1388,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FluBot Android malware targets Finland in new SMS campaigns<a href="https://www.bleepingcomputer.com/news/security/flubot-android-malware-targets-finland-in-new-sms-campaigns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finland's National Cyber Security Center (NCSC-FI) has issued a warning about the FluBot&nbsp;Android malware infections increasing due to a new campaign that relies on SMS and MMS for distribution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German automakers targeted in year-long malware campaign<a href="https://www.bleepingcomputer.com/news/security/german-automakers-targeted-in-year-long-malware-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A years-long phishing campaign has targeted German companies in the automotive industry, attempting to infect their systems with password-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

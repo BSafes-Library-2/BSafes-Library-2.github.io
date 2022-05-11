@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixed RCE flaw in a driver used by Azure Synapse and Data Factory<a href="https://securityaffairs.co/wordpress/131159/hacking/azure-synapse-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft disclosed a now-fixed vulnerability in Azure Synapse and Azure Data Factory that could have allowed remote code execution.
+
+
+
+Microsoft announced to have addressed a critical remote code execution flaw, tracked as CVE-2022-29972 and named SynLapse,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Patches Critical Vulnerability in Network Surveillance Products<a href="https://www.securityweek.com/qnap-patches-critical-vulnerability-network-surveillance-products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP says only VS series NVR devices running QVR are impacted and that the issue was addressed with the release of QVR 5.1.6 build 20220401. The manufacturer encourages all users to update their systems to the latest release.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes new NTLM relay zero-day in all Windows versions<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-new-ntlm-relay-zero-day-in-all-windows-versions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has addressed an actively exploited&nbsp;Windows LSA spoofing zero-day that unauthenticated attackers can exploit remotely to force domain controllers to authenticate them via the Windows NT LAN Manager (NTLM) security protocol.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Mitigates RCE Vulnerability Affecting Azure Synapse and Data Factory<a href="https://thehackernews.com/2022/05/microsoft-mitigates-rce-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday disclosed that it mitigated a security flaw affecting Azure Synapse and Azure Data Factory that, if successfully exploited, could result in remote code execution.  The vulnerability, tracked as&nbsp; CVE-2022-29972 , has been codenamed " SynLapse " by researchers from Orca Security, who reported the flaw to Microsoft in January 2022.   "The vulnerability was specific to the third-party Open Database Connectivity ( ODBC ) driver used to connect to Amazon Redshift in Azure Synapse pipelines and Azure Data Factory Integration Runtime ( IR ) and did not impact Azure Synapse as a whole," the company&nbsp; said .  "The vulnerability could have allowed an attacker to perform remote command execution across IR infrastructure not limited to a single tenant."  In other words, a malicious actor can weaponize the bug to acquire the Azure Data Factory service certificate and access another tenant's Integration Runtimes to gain access to sensitive informa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft May 2022 Patch Tuesday fixes 3 zero-days, 75 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2022-patch-tuesday-fixes-3-zero-days-75-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's May 2022 Patch Tuesday, and with it comes fixes for three zero-day vulnerabilities, with&nbsp;one actively exploited,&nbsp;and a total of 75 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Gems Takeover Bug Reported in RubyGems Package Manager<a href="https://thehackernews.com/2022/05/critical-gems-takeover-bug-reported-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the RubyGems package manager have addressed a critical security flaw that could have been abused to remove gems and replace them with rogue versions under specific circumstances.  "Due to a bug in the yank action, it was possible for any RubyGems.org user to remove and replace certain gems even if that user was not authorized to do so," RubyGems&nbsp; said &nbsp;in a security advisory published on May 6, 2022.   RubyGems, like npm for JavaScript and pip for Python, is a&nbsp; package manager &nbsp;and a gem hosting service for the Ruby programming language, offering a repository of more than 171,500 libraries.  In a nutshell, the flaw in question, tracked as CVE-2022-29176, enabled anyone to pull certain gems and upload different files with the same name, same version number, and different platforms.  For this to happen, however, a gem needed to have one or more dashes in its name, where the word before the dash was the name of an attacker-controlled gem, and which was create
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exclusive: Welcome “Frappo” – Resecurity identified a new Phishing-as-a-Service<a href="https://securityaffairs.co/wordpress/131136/cyber-crime/frappo-phishing-as-a-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Resecurity HUNTER unit identified a new underground service called 'Frappo', which is available on the Dark Web. 
+
+
+
+“Frappo” acts as a Phishing-as-a-Service and enables cybercriminals the ability to host and generate high-quality phishing pages...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

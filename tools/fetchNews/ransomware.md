@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkAngels: A Rebranded Version of Babuk?<a href="https://cyware.com/news/darkangels-a-rebranded-version-of-babuk-8c62474b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified DarkAngels, a new ransomware, that bears an uncanny resemblance between it and the Babuk ransomware. It excludes file extensions such as .exe, .dll, and .babyk from encryption. Organizations are recommended to use reliable anti-malware and internet security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Flexes Security Vendor Muscles With Managed Services<a href="https://www.securityweek.com/microsoft-flexes-security-vendor-muscles-managed-services?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft rolled out a new suite of new managed services aimed at the mid-market, betting that short-staffed organizations will need outside help to reduce bloating attack surfaces and mitigate an ongoing surge in malware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

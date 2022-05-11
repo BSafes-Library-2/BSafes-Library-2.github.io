@@ -8,6 +8,85 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw Identified in F5 BIG-IP Devices<a href="https://cyware.com/news/critical-flaw-identified-in-f5-big-ip-devices-cf00c8cd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers issued an alert to F5 BIG-IP admins to immediately update their devices after creating exploits for a recently disclosed critical CVE-2022-1388, an RCE flaw. The vulnerable devices are mostly used in the enterprise and may allow attackers to exploit the flaw for gaining initial ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases fixes for Azure flaw allowing RCE attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-releases-fixes-for-azure-flaw-allowing-rce-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released security updates to address a security flaw affecting&nbsp;Azure Synapse and Azure Data Factory pipelines that could let attackers&nbsp;execute remote commands across&nbsp;Integration Runtime infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts developed exploits for CVE-2022-1388 RCE in F5 BIG-IP products<a href="https://securityaffairs.co/wordpress/131102/hacking/f5-big-ip-exploit-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A few days after F5 addressed the critical CVE-2022-1388 Remote Code execution flaw in its BIG-IP products, researchers created exploits for it.
+
+
+
+Last week security and application delivery solutions provider F5 released its security notification to inform...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Develop RCE Exploit for the Latest F5 BIG-IP Vulnerability<a href="https://thehackernews.com/2022/05/researchers-develop-rce-exploit-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Days after F5 released patches for a critical remote code execution vulnerability affecting its BIG-IP family of products, security researchers are warning that they were able to create an exploit for the shortcoming.  Tracked&nbsp; CVE-2022-1388 &nbsp;(CVSS score: 9.8), the flaw relates to an iControl REST authentication bypass that, if successfully exploited, could lead to remote code execution, allowing an attacker to gain initial access and take control of an affected system.  This could range anywhere from deploying cryptocurrency miners to deploying web shells for follow-on attacks, such as information theft and ransomware.   "We have reproduced the fresh CVE-2022-1388 in F5's BIG-IP," cybersecurity company Positive Technologies&nbsp; said &nbsp;in a tweet on Friday. "Patch ASAP!"  The critical security vulnerability impacts the following versions of BIG-IP products -   16.1.0 - 16.1.2  15.1.0 - 15.1.5  14.1.0 - 14.1.4  13.1.0 - 13.1.4  12.1.0 - 12.1.6  11.6.1 - 11.6.5   Fix
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google addresses actively exploited Android flaw in the kernel<a href="https://securityaffairs.co/wordpress/130960/security/android-actively-exploited-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released the May security bulletin for Android, 2022-05-05 security patch level, which fixed an actively exploited Linux kernel flaw.
+
+
+
+Google has released the second part of the May Security Bulletin for Android, which includes a fix for an actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Proposes $1 Million Fine on Colonial Pipeline for Safety Violations After Cyberattack<a href="https://thehackernews.com/2022/05/us-proposes-1-million-fine-on-colonial.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Transportation's Pipeline and Hazardous Materials Safety Administration (PHMSA) has proposed a penalty of nearly $1 million to Colonial Pipeline for violating federal safety regulations, worsening the impact of the ransomware attack last year.  The $986,400 penalty is the result of an inspection conducted by the regulator of the pipeline operator's control room management ( CRM ) procedures from January through November 2020.  The PHMSA&nbsp; said &nbsp;that "a probable failure to adequately plan and prepare for manual shutdown and restart of its pipeline system [...] contributed to the national impacts when the pipeline remained out of service after the May 2021 cyberattack."   Colonial Pipeline, operator of the largest U.S. fuel pipeline, was forced to temporarily take its systems offline in the wake of a&nbsp; DarkSide ransomware attack &nbsp;in early May 2021, disrupting gas supply and prompting a&nbsp; regional emergency declaration &nbsp;across 17 states.  The inciden
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

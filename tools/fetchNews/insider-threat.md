@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+May 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Tech Powers the Hybrid-remote Workforce — and Increases Insider Risk<a href="https://threatpost.com/cloud-tech-powers-remote-workforce/179402/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity practitioners are sounding the alarm bells. Amplified by the not-going-away-anytime-soon Great Resignation and the here-to-stay shift to hybrid-remote work models, Insider Risk sees exponential growth.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

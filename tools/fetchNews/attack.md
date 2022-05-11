@@ -8,6 +8,70 @@ nav_order: 900015
 
 ## Attack
 ---
+May 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA warns of malspam attacks distributing the Jester info stealer<a href="https://securityaffairs.co/wordpress/131113/breaking-news/cert-ua-warns-jester-stealer-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) warns of attacks spreading info-stealing malware Jester Stealer.
+
+
+
+The Computer Emergency Response Team of Ukraine (CERT-UA) has detected malspam campaigns aimed at spreading an info-stealer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian CERT Warns Citizens of a New Wave of Attacks Distributing Jester Malware<a href="https://thehackernews.com/2022/05/ukrainian-cert-warns-citizens-of-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of phishing attacks that deploy an information-stealing malware called Jester Stealer  on compromised systems.  The mass email campaign carries the subject line "chemical attack" and contains a link to a macro-enabled Microsoft Excel file, opening which leads to computers getting infected with Jester Stealer.  The attack, which requires potential victims to enable macros after opening the document, works by downloading and executing an .EXE file that is retrieved from compromised web resources, CERT-UA detailed.   Jester Stealer, which was&nbsp; first documented &nbsp;by Cyble in February 2022, comes with features to steal and transmit login credentials, cookies, and credit card information along with data from passwords managers, chat messengers, email clients, crypto wallets, and gaming apps to the attackers.  "The hackers get the stolen data via Telegram using statically configured proxy addresses (e.g., with
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts uncovered a new wave of attacks conducted by Mustang Panda<a href="https://securityaffairs.co/wordpress/131083/apt/mustang-panda-q1-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked Mustang Panda&nbsp;APT group targets entities in Asia, the European Union, Russia, and the US in a new wave of attacks.
+
+
+
+In February 2022, Cisco Talos researchers started observing China-linked cyberespionage group&nbsp;Mustang Panda&nbsp;conducting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Costa Rica declares national emergency after Conti ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/costa-rica-declares-national-emergency-after-conti-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Costa Rican President&nbsp;Rodrigo Chaves&nbsp;has declared a national emergency following cyber attacks from Conti ransomware group. BleepingComputer also observed&nbsp;Conti&nbsp;published most of the 672 GB&nbsp;dump that appears to contain data belonging to&nbsp;the Costa Rican government&nbsp;agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New REvil Samples Indicate Ransomware Gang is Back After Months of Inactivity<a href="https://thehackernews.com/2022/05/new-revil-samples-indicate-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious ransomware operation known as REvil (aka Sodin or Sodinokibi) has resumed after six months of inactivity, an analysis of new ransomware samples has revealed.  "Analysis of these samples indicates that the developer has access to REvil's source code, reinforcing the likelihood that the threat group has reemerged," researchers from Secureworks Counter Threat Unit (CTU)&nbsp; said &nbsp;in a report published Monday.  "The identification of multiple samples with varying modifications in such a short period of time and the lack of an official new version indicates that REvil is under heavy active development once again."  REvil, short for Ransomware Evil, is a ransomware-as-a-service (RaaS) scheme and attributed to a Russia-based/speaking group known as&nbsp; Gold Southfield , arising just as&nbsp; GandCrab &nbsp;activity declined and the latter announced their retirement.   It's also one of the earliest groups to adopt the double extortion scheme in which stolen data from
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Are Increasingly Exploiting Vulnerabilities in Windows Print Spooler<a href="https://www.darkreading.com/vulnerabilities-threats/cybercriminals-are-increasingly-exploiting-vulnerabilities-in-windows-print-spooler?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the past year, various vulnerabilities in Windows Print Spooler have been discovered. By abusing them, cybercriminals have been able to take control of servers and victims’ machines, even without special admin access.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

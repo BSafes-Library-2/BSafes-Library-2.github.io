@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine warns of “chemical attack” phishing pushing stealer malware<a href="https://www.bleepingcomputer.com/news/security/ukraine-warns-of-chemical-attack-phishing-pushing-stealer-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's&nbsp;Computer Emergency Response Team (CERT-UA) is warning of the mass distribution of Jester Stealer malware via phishing emails using warnings of impending chemical attacks to scare recipients into opening attachments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
