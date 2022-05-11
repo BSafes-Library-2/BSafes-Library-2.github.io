@@ -7,6 +7,18 @@ nav_order: 1200500
 
 ## Cases
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Document: Law Enforcement Seizure and Takedown of Two Major Cybercrime Forums <a href="https://www.lawfareblog.com/document-law-enforcement-seizure-and-takedown-two-major-cybercrime-forums"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Justice announced two indictments this past week relating to the seizure and shutdown of two major cybercrime forums and marketplaces. Both operations were the result of extensive collaborations and efforts between numerous U.S. agencies and departments that included the DEA, FBI, IRS, Postal Inspection Service and several more. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
