@@ -37,6 +37,362 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 11, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US charges hacker for breaching brokerage accounts, securities fraud<a href="https://www.bleepingcomputer.com/news/security/us-charges-hacker-for-breaching-brokerage-accounts-securities-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) has charged Idris Dayo Mustapha for a range of cybercrime activities that took place between 2011 and 2018, resulting in financial losses estimated to over $5,000,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Concentric AI Raises $14.5M in Series A Funding<a href="https://www.finsmes.com/2022/05/concentric-ai-raises-14-5m-in-series-a-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Concentric Inc. raised $14.5 million in Series A funding led by Ballistic Ventures with participation from Citi Ventures and current investors Core Ventures Group, Engineering Capital, and Clear Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitter APT Hackers Add Bangladesh to Their List of Targets in South Asia<a href="https://thehackernews.com/2022/05/bitter-apt-hackers-add-bangladesh-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An espionage-focused threat actor known for targeting China, Pakistan, and Saudi Arabia has expanded to set its sights on Bangladeshi government organizations as part of an ongoing campaign that commenced in August 2021.  Cybersecurity firm Cisco Talos attributed the activity with moderate confidence to a hacking group dubbed the  Bitter APT  based on overlaps in the command-and-control (C2) infrastructure with that of prior campaigns mounted by the same actor.  "Bangladesh fits the profile we have defined for this threat actor, previously targeting Southeast Asian countries including  China , Pakistan, and Saudi Arabia," Vitor Ventura, lead security researcher at Cisco Talos for EMEA and Asia, told  The Hacker News.   "And now, in this latest campaign, they have widened their reach to Bangladesh. Any new country in southeast Asia being targeted by Bitter APT shouldn't be of surprise."  Bitter (aka APT-C-08 or T-APT-17) is suspected to be a South Asian hacking
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds CVE-2022-1388 flaw in F5 BIG-IP to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/131183/security/cisa-cve-2022-1388-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Critical Infrastructure Security Agency (CISA) adds critical CVE-2022-1388 flaw in F5 BIG-IP products to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added critical CVE-2022-1388...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel Memory Bug Poses Risk for Hundreds of Products<a href="https://threatpost.com/intel-memory-bug-poses-risk-for-hundreds-of-products/179595/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dell and HP were among the first to release patches and fixes for the bug.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HP fixes bug letting attackers overwrite firmware in over 200 models<a href="https://www.bleepingcomputer.com/news/security/hp-fixes-bug-letting-attackers-overwrite-firmware-in-over-200-models/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP has released BIOS updates today to fix two high-severity vulnerabilities affecting a wide range of PC and notebook products, which might allow arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vanity URLs Could be Spoofed for Social Engineering Attacks<a href="https://www.darkreading.com/cloud/vanity-urls-could-be-spoofed-for-social-engineering-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vanity links created by companies to add their brand to well-known cloud services could become a useful vector for phishing attacks and a way to better fool victims, researchers warn.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Nerbian RAT Targeting Entities in Italy, Spain, and the U.K<a href="https://thehackernews.com/2022/05/researchers-warn-of-nerbian-rat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented remote access trojan (RAT) written in the Go programming language has been spotted disproportionately targeting entities in Italy, Spain, and the U.K.  Called  Nerbian RAT  by enterprise security firm Proofpoint, the novel malware leverages COVID-19-themed lures to propagate as part of a low volume email-borne phishing campaign that started on April 26, 2022.  "The newly identified Nerbian RAT leverages multiple anti-analysis components spread across several stages, including multiple open-source libraries," Proofpoint researchers  said  in a report shared with The Hacker News.    "It is written in operating system (OS) agnostic Go programming language, compiled for 64-bit systems, and leverages several encryption routines to further evade network analysis."  The messages, amounting to less than 100 in number, purport to be from the World Health Organization about safety measures related to COVID-19, urging potential victims to open a macr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Phishing Trick Uses Weird Links to Bypass Spam Filters<a href="https://threatpost.com/novel-phishing-trick-uses-weird-links-to-bypass-spam-filters/179587/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel form of phishing takes advantage of a disparity between how browsers and email inboxes read web domains.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New stealthy Nerbian RAT malware spotted in ongoing attacks<a href="https://www.bleepingcomputer.com/news/security/new-stealthy-nerbian-rat-malware-spotted-in-ongoing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new remote access trojan called Nerbian RAT has been discovered that includes a rich set of features, including the ability to evade detection and analysis by researchers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are using tech services companies as a 'launchpad' for attacks on customers<a href="https://www.zdnet.com/article/hackers-are-using-tech-services-companies-as-a-launchpad-for-attacks-on-customers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A warning from international cybersecurity agencies has urged IT service providers and their customers to take action to protect themselves from the threat of supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[White Paper] Social Engineering: What You Need to Know to Stay Resilient<a href="https://thehackernews.com/2022/05/white-paper-social-engineering-what-you.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security and IT teams are losing sleep as would-be intruders lay siege to the weakest link in any organization's digital defense: employees. By preying on human emotion, social engineering scams inflict billions of dollars of damage with minimal planning or expertise. Cybercriminals find it easier to manipulate people before resorting to technical "hacking" tactics. Recent research reveals that social engineering is leveraged in 98% of attacks.  As the rapid, ongoing acceleration of remote work raises the stakes, security leaders are fighting back with education and awareness. Resources developed by experts, like this new white paper — " Social Engineering: What You Need to Know to Stay Resilient " — identify the most common tactics, track how these types of attacks are evolving, and provide tips to protect organizations and their end-users. These insights not only inform security practitioners of the latest tactics and emerging threats, but help employees unde
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA tells federal agencies to fix actively exploited F5 BIG-IP bug<a href="https://www.bleepingcomputer.com/news/security/cisa-tells-federal-agencies-to-fix-actively-exploited-f5-big-ip-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a new security vulnerability to its list of actively exploited bugs, the critical severity CVE-2022-1388 affecting BIG-IP network devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yahoo! JAPAN Enables Fingerprint and Face Login to Its Service Apps and Smartphone Browsers<a href="https://about.yahoo.co.jp/en/pr/release/2021/02/08a/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yahoo Japan Corporation has completed the implementation of biometric authentication to the Android version of Yahoo! JAPAN service apps. With this, biometric authentication can now be used to log in to Yahoo! JAPAN’s various service apps.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious NPM Packages Target German Companies in Supply Chain Attack<a href="https://thehackernews.com/2022/05/malicious-npm-packages-target-german.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a number of malicious packages in the NPM registry specifically targeting a number of prominent media, logistics, and industrial firms based in Germany to carry out  supply chain attacks .  "Compared with most malware found in the NPM repository, this payload seems particularly dangerous: a highly-sophisticated, obfuscated piece of malware that acts as a backdoor and allows the attacker to take total control over the infected machine," researchers from JFrog  said  in a new report.  The DevOps company said that evidence points to it being either the work of a sophisticated threat actor or a "very aggressive" penetration test.   All the rogue packages, most of which have since been removed from the repository, have been traced to four "maintainers" - bertelsmannnpm, boschnodemodules, stihlnodemodules, and dbschenkernpm — indicating an attempt to impersonate legitimate firms like Bertelsmann, Bosch, Stihl, and DB Sc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Our Medical Devices' Open Source Problem – What Are the Risks?<a href="https://www.bleepingcomputer.com/news/security/our-medical-devices-open-source-problem-what-are-the-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is no doubt that open source powers our development processes, enabling software developers to build high quality, innovative products faster than ever before. But OSS also comes with its own set of risks that device manufacturers must address while leveraging its many advantages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitter APT Adds Bangladesh to its Targets<a href="https://blog.talosintelligence.com/2022/05/bitter-apt-adds-bangladesh-to-their.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitter APT, known for targeting China, Pakistan, and Saudi Arabia, reportedly added Bangladesh to its list of targets as researchers find malicious emails sent to officers of the Bangladesh police.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA, and NSA warn of hackers increasingly targeting MSPs<a href="https://www.bleepingcomputer.com/news/security/fbi-cisa-and-nsa-warn-of-hackers-increasingly-targeting-msps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Members of the Five Eyes (FVEY) intelligence alliance today warned managed service providers (MSPs) and their customers that they're increasingly targeted by supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Healthcare Technology Provider Omnicell Discloses Ransomware Attack<a href="https://www.securityweek.com/healthcare-technology-provider-omnicell-discloses-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its latest Form 10-Q filing with the SEC, the company noted that some of its internal systems were impacted by a ransomware attack on May 4, 2022. There is an impact on certain of the company’s products and services.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitter cyberspies target South Asian govts with new malware<a href="https://www.bleepingcomputer.com/news/security/bitter-cyberspies-target-south-asian-govts-with-new-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New activity has been observed from Bitter, an APT group focused on cyberespionage, targeting the government of Bangladesh with new malware with remote file execution capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abnormal Security Raises $200 Million to Provide Email Security Solutions for Businesses<a href="https://www.helpnetsecurity.com/2022/05/11/abnormal-security-financing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Abnormal Security announced the close of a $210 million Series C round of financing led by global software investor Insight Partners, with participation from Greylock Partners and Menlo Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New IceApple exploit toolset deployed on Microsoft Exchange servers<a href="https://www.bleepingcomputer.com/news/security/new-iceapple-exploit-toolset-deployed-on-microsoft-exchange-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have found a new post-exploitation framework that they dubbed IceApple, deployed mainly on Microsoft Exchange servers across a wide geography.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: The ransomware world is changing, here's what you need to know<a href="https://www.zdnet.com/article/microsoft-the-ransomware-world-is-changing-heres-what-you-need-to-know/?&web_view=true"> Full Text</a>
 </p>
 <details>
