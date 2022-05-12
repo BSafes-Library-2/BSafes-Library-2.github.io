@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivists hacked Russian TV schedules during Victory Day and displayed anti-war messages￼<a href="https://securityaffairs.co/wordpress/131144/hacking/hacktivists-hacked-russian-tv-schedules-victory-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hacktivists yesterday defaced the Russian TV with pro-Ukraine messages and took down the RuTube video streaming site.
+
+
+
+Hacktivists and white hat hackers continue to support Ukraine against the Russian invasion, in a recent attack, they defaced Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

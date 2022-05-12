@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti's Wrath Causes Havoc Across the Globe<a href="https://cyware.com/news/contis-wrath-causes-havoc-across-the-globe-3e55e3ff"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti&nbsp;becomes the most wanted cybercriminal gang right now on the dark web with the U.S. announcing a $15 million bounty for information on its members. The group has stirred national security concerns in Costa Rica. Further,&nbsp;Conti&nbsp;claims to have leaked intelligence data from the go ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

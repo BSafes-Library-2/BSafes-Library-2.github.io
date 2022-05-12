@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europe's GDPR coincides with huge drop in Android apps<a href="https://www.theregister.co.uk/2022/05/09/gdpr_europe_apps/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europe's data protection regime has reduced the number of apps available in Google Play by "a third," increased costs, and reduced developer revenues, according to a study published Monday.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Benefits of Detection-as-Code<a href="https://thehackernews.com/2022/05/5-benefits-of-detection-as-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TL;DR:&nbsp;  Adopt a modern, test-driven methodology for securing your organization with Detection-as-Code.  Over the past decade, threat detection has become business-critical and even more complicated. As businesses move to the cloud, manual threat detection processes are no longer able to keep up. How can teams automate security analysis at scale and address the challenges that threaten business objectives? The answer lies in treating threat detections like software or detection-as-code.  Watch Panther's On-Demand Webinar: Scaling Security with Detection-as-Code with Cedar &nbsp;to find out how Cedar uses Panther to leverage Detection-as-Code to build high-signal alerts.  Detection-as-Code: A New (Hope) Paradigm Detections define logic for analyzing security log data to identify attacker behaviors. When a rule is matched, an alert gets sent to your team for containment or investigation.  What is detection-as-code?  Detection-as-Code is a modern, flexible, and structured approach to writ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

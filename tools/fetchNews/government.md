@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK cybersecurity center sent 33 million alerts to companies<a href="https://www.bleepingcomputer.com/news/security/uk-cybersecurity-center-sent-33-million-alerts-to-companies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NCSC (National Cyber Security Centre) in the UK reports having served 33 million alerts to organizations signed up for its "Early Warning" service. Additionally, the government agency has dealt with a record number of online scams in 2021, removing more than 2.7 million from the internet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, EU blame Russia for cyberattack on satellite modems in Ukraine<a href="https://www.bleepingcomputer.com/news/security/us-eu-blame-russia-for-cyberattack-on-satellite-modems-in-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union formally accused Russia of coordinating the cyberattack that hit&nbsp;satellite Internet modems in Ukraine on February 24,&nbsp;roughly one hour before Russia invaded Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Rise in Business Email-based Attacks is a $43B Headache<a href="https://threatpost.com/fbi-bec-43b/179539/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A huge spike in fraudulent activities related to attacks leveraging business email accounts is a billion-dollar-problem.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

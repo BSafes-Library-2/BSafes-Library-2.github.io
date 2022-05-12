@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub announces enhanced 2FA experience for npm accounts<a href="https://www.bleepingcomputer.com/news/security/github-announces-enhanced-2fa-experience-for-npm-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, GitHub has launched a new public beta to notably improve the two-factor authentication (2FA) experience for all npm user accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK govt releases free tool to check for email cybersecurity risks<a href="https://www.bleepingcomputer.com/news/security/uk-govt-releases-free-tool-to-check-for-email-cybersecurity-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom's National Cyber Security Centre (NCSC) today released a new email security check service to help organizations easily identify vulnerabilities that could allow attackers to spoof emails or can lead to&nbsp;email privacy breaches.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

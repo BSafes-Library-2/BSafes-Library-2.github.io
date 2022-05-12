@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitter APT Hackers Add Bangladesh to Their List of Targets in South Asia<a href="https://thehackernews.com/2022/05/bitter-apt-hackers-add-bangladesh-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An espionage-focused threat actor known for targeting China, Pakistan, and Saudi Arabia has expanded to set its sights on Bangladeshi government organizations as part of an ongoing campaign that commenced in August 2021.  Cybersecurity firm Cisco Talos attributed the activity with moderate confidence to a hacking group dubbed the&nbsp; Bitter APT &nbsp;based on overlaps in the command-and-control (C2) infrastructure with that of prior campaigns mounted by the same actor.  "Bangladesh fits the profile we have defined for this threat actor, previously targeting Southeast Asian countries including&nbsp; China , Pakistan, and Saudi Arabia," Vitor Ventura, lead security researcher at Cisco Talos for EMEA and Asia, told  The Hacker News.   "And now, in this latest campaign, they have widened their reach to Bangladesh. Any new country in southeast Asia being targeted by Bitter APT shouldn't be of surprise."  Bitter (aka APT-C-08 or T-APT-17) is suspected to be a South Asian hacking
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitter APT Adds Bangladesh to its Targets<a href="https://blog.talosintelligence.com/2022/05/bitter-apt-adds-bangladesh-to-their.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitter APT, known for targeting China, Pakistan, and Saudi Arabia, reportedly added Bangladesh to its list of targets as researchers find malicious emails sent to officers of the Bangladesh police.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

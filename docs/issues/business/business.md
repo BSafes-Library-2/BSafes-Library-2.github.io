@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Concentric AI Raises $14.5M in Series A Funding<a href="https://www.finsmes.com/2022/05/concentric-ai-raises-14-5m-in-series-a-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Concentric Inc. raised $14.5 million in Series A funding led by Ballistic Ventures with participation from Citi Ventures and current investors Core Ventures Group, Engineering Capital, and Clear Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abnormal Security Raises $200 Million to Provide Email Security Solutions for Businesses<a href="https://www.helpnetsecurity.com/2022/05/11/abnormal-security-financing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Abnormal Security announced the close of a $210 million Series C round of financing led by global software investor Insight Partners, with participation from Greylock Partners and Menlo Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

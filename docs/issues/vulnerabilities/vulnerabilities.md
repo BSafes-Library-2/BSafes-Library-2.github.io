@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel Memory Bug Poses Risk for Hundreds of Products<a href="https://threatpost.com/intel-memory-bug-poses-risk-for-hundreds-of-products/179595/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dell and HP were among the first to release patches and fixes for the bug.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HP fixes bug letting attackers overwrite firmware in over 200 models<a href="https://www.bleepingcomputer.com/news/security/hp-fixes-bug-letting-attackers-overwrite-firmware-in-over-200-models/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP has released BIOS updates today to fix two high-severity vulnerabilities affecting a wide range of PC and notebook products, which might allow arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday updates for May 2022 fixes 3 zero-days, 1 under active attack<a href="https://securityaffairs.co/wordpress/131175/security/microsoft-patch-tuesday-updates-for-may-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday security updates for May 2022 address three zero-day vulnerabilities, one of them actively exploited.
+
+
+
+Microsoft Patch Tuesday security updates for May 2022 addressed three zero-day vulnerabilities, one of which is under active...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical F5 BIG-IP vulnerability exploited to wipe devices<a href="https://www.bleepingcomputer.com/news/security/critical-f5-big-ip-vulnerability-exploited-to-wipe-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently disclosed F5 BIG-IP vulnerability has been used in destructive attacks, attempting to erase a device's file system and make the server unusable.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Fix for New Zero-Day with May 2022 Patch Tuesday Updates<a href="https://thehackernews.com/2022/05/microsoft-releases-fix-for-new-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday rolled out fixes for as many as&nbsp; 74 security vulnerabilities , including one for a zero-day bug that's being actively exploited in the wild.  Of the 74 issues, seven are rated Critical, 66 are rated Important, and one is rated low in severity. Two of the flaws are listed as publicly known at the time of release.  These encompass 24 remote code execution (RCE), 21 elevation of privilege, 17 information disclosure, and six denial-of-service vulnerabilities, among others. The updates are in addition to&nbsp; 36 flaws &nbsp;patched in the Chromium-based Microsoft Edge browser on April 28, 2022.  Chief among the resolved bugs is&nbsp; CVE-2022-26925 &nbsp;(CVSS score: 8.1), a spoofing vulnerability affecting the Windows Local Security Authority ( LSA ), which Microsoft describes as a "protected subsystem that authenticates and logs users onto the local system."  "An unauthenticated attacker could call a method on the LSARPC interface and coerce the domain controller to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

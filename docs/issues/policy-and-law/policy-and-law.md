@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US charges hacker for breaching brokerage accounts, securities fraud<a href="https://www.bleepingcomputer.com/news/security/us-charges-hacker-for-breaching-brokerage-accounts-securities-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) has charged Idris Dayo Mustapha for a range of cybercrime activities that took place between 2011 and 2018, resulting in financial losses estimated to over $5,000,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

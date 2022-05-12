@@ -8,6 +8,64 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vanity URLs Could be Spoofed for Social Engineering Attacks<a href="https://www.darkreading.com/cloud/vanity-urls-could-be-spoofed-for-social-engineering-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vanity links created by companies to add their brand to well-known cloud services could become a useful vector for phishing attacks and a way to better fool victims, researchers warn.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Phishing Trick Uses Weird Links to Bypass Spam Filters<a href="https://threatpost.com/novel-phishing-trick-uses-weird-links-to-bypass-spam-filters/179587/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel form of phishing takes advantage of a disparity between how browsers and email inboxes read web domains.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing-as-a-Service Toolkit Depends on Impersonation Scams<a href="https://cyware.com/news/new-phishing-as-a-service-toolkit-depends-on-impersonation-scams-f023fd25"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts discovered a new underground service called Frappo, which is basically a Phishing-as-a-Service (PaaS), that lets cybercriminals host and launch sophisticated impersonation-based phishing scams. The cybercrime service was first seen on March 22, 2021. Given the rise in such threats ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Wave of Activities From Mustang Panda<a href="https://cyware.com/news/new-wave-of-activities-from-mustang-panda-40b37b28"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mustang Panda is on a spree to launch phishing campaigns targeting European and Russian entities and using relevant news to lure potential victims. In some cases, the group has used summit- and conference-themed lures in Asia and Europe, and aims to gain as much long-term access to carry out cybere ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
