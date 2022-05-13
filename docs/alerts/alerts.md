@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CYBERUK22 Jen Easterly, Director, Cybersecurity and Infrastructure Security Agency – Full Keynote <a href="https://www.youtube.com/watch?v=Cj4cLFKyWQk"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Will we lead on the development of smart tech and the growth of smart cities in a way that is not just secure by design but engineered for privacy by design?," asked Easterly, speaking via video at the National Cyber Security Centre's (NCSC) Cyber UK conference in Newport, Wales.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 11, 2022 - NCSC-UK, ACSC, CCCS, NCSC-NZ, CISA, NSA, FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

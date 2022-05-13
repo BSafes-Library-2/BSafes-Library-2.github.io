@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Deals Deathblow to 157-year-old College<a href="https://threatpost.com/ransomware-deathblow-college/179574/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Why a private college that stayed in business for 157 years had to close after the combo of COVID-19 and ransomware proved too much.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

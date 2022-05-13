@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+May 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Stakes 'Could Not be Any Higher': CISA Chief Talks About the Tech Challenges Ahead<a href="https://www.zdnet.com/article/the-stakes-could-not-be-any-higher-cisa-chief-talks-about-the-tech-challenges-ahead/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security by design needs to be ingrained in software development and innovative thinking is required to help secure society against cyber attacks as technology become a bigger part of our everyday lives.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Eyes agencies warn of attacks on MSPs<a href="https://securityaffairs.co/wordpress/131190/security/five-eyes-agencies-warn-attacks-msps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity authorities from Five Eye warn of threats targeting managed service providers (MSPs) and potential supply chain attacks through them.
+
+
+
+Multiple cybersecurity authorities from Australia, Canada, New Zealand, the U.K., and the U.S. this...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Government Agencies Warn of Increase in Cyberattacks Targeting MSPs<a href="https://thehackernews.com/2022/05/government-agencies-warned-of-increase.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple cybersecurity authorities from Australia, Canada, New Zealand, the U.K., and the U.S. on Wednesday released a&nbsp; joint advisory &nbsp;warning of threats targeting managed service providers (MSPs) and their customers.  Key among the recommendations include identifying and disabling accounts that are no longer in use, enforcing multi-factor authentication (MFA) on MSP accounts that access customer environments, and ensuring transparency in ownership of security roles and responsibilities.  MSPs have emerged as an attractive attack route for cybercriminals to scale their attacks, as a vulnerable provider can be weaponized as an initial access vector to breach several downstream customers at once.   The spillover effects of such intrusions, as witnessed in the wake of high-profile breaches aimed at&nbsp; SolarWinds &nbsp;and&nbsp; Kaseya &nbsp;in recent years, have once again underlined the need to secure the software supply chain.  The targeting of MSPs by malicious cyber actors in an effort to "expl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

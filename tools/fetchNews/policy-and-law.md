@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian imprisoned for selling access to thousands of PCs<a href="https://www.bleepingcomputer.com/news/security/ukrainian-imprisoned-for-selling-access-to-thousands-of-pcs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Glib Oleksandr Ivanov-Tolpintsev, a 28-year-old from Ukraine, was sentenced today to 4 years in prison for stealing thousands of login credentials per week and selling them on a dark web marketplace.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+E.U. Proposes New Rules for Tech Companies to Combat Online Child Sexual Abuse<a href="https://thehackernews.com/2022/05/eu-proposes-new-rules-for-tech.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Commission on Wednesday proposed new regulation that would require tech companies to scan for child sexual abuse material (CSAM) and grooming behavior, raising worries that it could undermine end-to-end encryption (E2EE).  To that end, online service providers, including hosting services and communication apps, are expected to proactively scan their platforms for CSAM as well as report, remove and disable access to such illicit content.  While instant messaging services like WhatsApp&nbsp; already &nbsp; rely &nbsp;on hashed versions of known CSAM to automatically block new uploads of images or videos matching them, the new plan requires such platforms to identify and flag new instances of CSAM.  "Detection technologies must only be used for the purpose of detecting child sexual abuse," the regulator&nbsp; said . "Providers will have to deploy technologies that are the least privacy-intrusive in accordance with the state of the art in the industry, and that limit the error rat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

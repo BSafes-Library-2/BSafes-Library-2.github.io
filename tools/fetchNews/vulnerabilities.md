@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HP Patches UEFI Vulnerabilities Affecting Over 200 Computers<a href="https://www.securityweek.com/hp-patches-uefi-vulnerabilities-affecting-over-200-computers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP on Wednesday announced the release of patches for two high-severity vulnerabilities that impact the UEFI firmware of more than 200 laptops, workstations, and other products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 101 Update Patches High-Severity Vulnerabilities<a href="https://www.securityweek.com/chrome-101-update-patches-high-severity-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Based on severity ratings and the currently listed bug bounties, the most important of these flaws is CVE-2022-1633, a high-severity use-after-free in Sharesheet that was reported by Khalil Zhani, who was awarded a $5,000 reward for the find.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Red TIM Research (RTR) founds 2 bugs affecting F5 Traffix SDC<a href="https://securityaffairs.co/wordpress/131196/hacking/f5-traffix-sdc-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts at TIM research laboratory, Red Team Research (RTR), have disclosed a couple of bugs affecting F5 Traffix SDC.
+
+
+
+Among these 45 bugs fixed by the well-known manufacturer of computer security systems, 2 were detected by TIM research laboratory,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel silently fixes critical RCE vulnerability in firewall products<a href="https://www.bleepingcomputer.com/news/security/zyxel-silently-fixes-critical-rce-vulnerability-in-firewall-products/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts who discovered a vulnerability affecting multiple Zyxel products report that the network equipment company fixed it via a silent update pushed out two weeks ago.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel Patches High-Severity Vulnerabilities in BIOS, Boot Guard<a href="https://www.securityweek.com/intel-patches-high-severity-vulnerabilities-bios-boot-guard?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel also announced the release of patches for a high-severity bug in Boot Guard and Trusted Execution Technology (TXT). Tracked as CVE-2022-0004 (CVSS score of 7.3), the bug could be exploited to elevate privileges on a vulnerable system.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Thousands of Konica Printers Vulnerable to Hacking via ​​Physical Access<a href="https://www.securityweek.com/konica-minolta-printers-vulnerable-hacking-physical-access?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Atos-owned cybersecurity consulting firm SEC Consult analyzed Konica Minolta printers to determine what could be achieved by an attacker who has physical access to a device. The answer: a lot!
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Actively Exploited Zero-Day Bug Patched by Microsoft<a href="https://threatpost.com/microsoft-zero-day-mays-patch-tuesday/179579/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft’s May Patch Tuesday roundup also included critical fixes for a number of flaws found in infrastructure present in many enterprise and cloud environments.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
