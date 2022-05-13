@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian hackers exposed in a highly targeted espionage campaign<a href="https://www.bleepingcomputer.com/news/security/iranian-hackers-exposed-in-a-highly-targeted-espionage-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have spotted a novel attack attributed to the Iranian hacking group known as APT34 group or Oilrig, who targeted a Jordanian diplomat with custom-crafted tools.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Leveraging BitLocker and DiskCryptor in Ransomware Attacks<a href="https://thehackernews.com/2022/05/iranian-hackers-leveraging-bitlocker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware group with an Iranian operational connection has been linked to a string of file-encrypting malware attacks targeting organizations in Israel, the U.S., Europe, and Australia.  Cybersecurity firm Secureworks attributed the intrusions to a threat actor it tracks under the moniker Cobalt Mirage, which it said is linked to an Iranian hacking crew dubbed Cobalt Illusion (aka APT35, Charming Kitten, Newscaster, or Phosphorus).  "Elements of Cobalt Mirage activity have been&nbsp; reported &nbsp;as&nbsp; Phosphorus &nbsp;and&nbsp; TunnelVision ," Secureworks Counter Threat Unit (CTU)&nbsp; said &nbsp;in a report shared with The Hacker News.   The threat actor is said to have conducted two different sets of intrusions, one of which relates to opportunistic ransomware attacks involving the use of legitimate tools like&nbsp; BitLocker &nbsp;and DiskCryptor for financial gain.  The second set of attacks are more targeted, carried out with the primary goal of securing access and gathering intelligence, while also depl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

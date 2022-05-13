@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caramel - New Credit Card Skimmer-as-a-Service<a href="https://cyware.com/news/caramel-new-credit-card-skimmer-as-a-service-4c3e6798"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new credit card stealing service, called Caramel, is growing in popularity. Launched by a Russian cybercrime organization named CaramelCorp, the skimmer-as-a-service can allow any low-skilled threat actors to get started with financial fraud.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

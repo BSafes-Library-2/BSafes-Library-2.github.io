@@ -8,6 +8,99 @@ nav_order: 900075
 
 ## Government
 ---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds CVE-2022-1388 flaw in F5 BIG-IP to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/131183/security/cisa-cve-2022-1388-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Critical Infrastructure Security Agency (CISA) adds critical CVE-2022-1388 flaw in F5 BIG-IP products to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added critical CVE-2022-1388...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA tells federal agencies to fix actively exploited F5 BIG-IP bug<a href="https://www.bleepingcomputer.com/news/security/cisa-tells-federal-agencies-to-fix-actively-exploited-f5-big-ip-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a new security vulnerability to its list of actively exploited bugs, the critical severity CVE-2022-1388 affecting BIG-IP network devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA, and NSA warn of hackers increasingly targeting MSPs<a href="https://www.bleepingcomputer.com/news/security/fbi-cisa-and-nsa-warn-of-hackers-increasingly-targeting-msps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Members of the Five Eyes (FVEY) intelligence alliance today warned managed service providers (MSPs) and their customers that they're increasingly targeted by supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+E.U. Blames Russia for Cyberattack on KA-SAT Satellite Network Operated by Viasat<a href="https://thehackernews.com/2022/05/eu-blames-russia-for-cyberattack-on-ka.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Five Eyes nations comprising&nbsp; Australia ,&nbsp; Canada ,&nbsp; New Zealand ,&nbsp; the U.K. , and&nbsp; the U.S. , along with Ukraine and the European Union, formally pinned Russia for masterminding an attack on an international satellite communication ( SATCOM ) provider that had "spillover" effects across Europe.  The&nbsp; cyber offensive , which took place one hour before the Kremlin's military invasion of Ukraine on February 24, targeted the KA-SAT satellite network operated by telecommunications company Viasat, crippling the operations of wind farms and internet users in central Europe.  Viasat, in late March,&nbsp; disclosed &nbsp;that it had shipped nearly 30,000 modems to distributors to restore service to customers whose modems were rendered unusable.   "This cyberattack had a significant impact causing indiscriminate communication outages and disruptions across several public authorities, businesses and users in Ukraine, as well as affecting several E.U. Member States," the Counci
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU condemns Russian cyber operations against Ukraine<a href="https://securityaffairs.co/wordpress/131168/cyber-warfare-2/russia-behind-attacks-on-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union condemns the cyberattacks conducted by Russia against Ukraine, which targeted the satellite KA-SAT network.
+
+
+
+The European Union accused Russia of the cyberattack that hit&nbsp;the satellite KA-SAT network in Ukraine, operated by Viasat,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malspam Campaigns Propagate Jester Infostealer - Warns CERT-UA<a href="https://cyware.com/news/new-malspam-campaigns-propagate-jester-infostealer-warns-cert-ua-1129b100"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CERT-UA warned against a phishing campaign that deploys Jester Stealer for data exfiltration from infected users’ devices. The email campaign carries the subject line chemical attack. The malware cannot be analyzed in virtual machines as the malware developers have implemented anti-analysis cap ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

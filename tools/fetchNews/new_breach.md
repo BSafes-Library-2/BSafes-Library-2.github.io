@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+May 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive hacking campaign compromised thousands of WordPress websites<a href="https://securityaffairs.co/wordpress/131202/hacking/wordpress-websites-hacking-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a massive hacking campaign that compromised thousands of WordPress websites to redirect visitors to scam sites.
+
+
+
+Cybersecurity researchers from Sucuri uncovered a massive campaign that compromised thousands of WordPress websites...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of WordPress Sites Hacked to Redirect Visitors to Scam Sites<a href="https://thehackernews.com/2022/05/thousands-of-wordpress-sites-hacked-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a massive campaign that's responsible for injecting malicious JavaScript code into compromised WordPress websites that redirects visitors to scam pages and other malicious websites to generate illegitimate traffic.  "The websites all shared a common issue — malicious JavaScript had been injected within their website's files and the database, including legitimate core WordPress files," Krasimir Konov, a malware analyst at Sucuri,&nbsp; said &nbsp;in a report published Wednesday.   This involved infecting files such as jquery.min.js and jquery-migrate.min.js with obfuscated JavaScript that's activated on every page load, allowing the attacker to redirect the website visitors to a destination of their choice.  The GoDaddy-owned website security company said that the domains at the end of the redirect chain could be used to load advertisements, phishing pages, malware, or even trigger another set of redirects.   In some instances, unsus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

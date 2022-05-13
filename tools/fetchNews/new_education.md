@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+May 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Everything We Learned From the LAPSUS$ Attacks<a href="https://thehackernews.com/2022/05/everything-we-learned-from-lapsus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In recent months, a cybercriminal gang known as LAPSUS$ has claimed responsibility for a number of high-profile attacks against technology companies, including:   T-Mobile (April 23, 2022)  Globant&nbsp;  Okta  Ubisoft  Samsung  Nvidia  Microsoft  Vodafone   In addition to these attacks, LAPSUS$ was also able to successfully launch a ransomware attack against the Brazilian Ministry of Health.  While high-profile cyber-attacks are certainly nothing new, there are several things that make LAPSUS$ unique.   The alleged mastermind of these attacks and several other alleged accomplices were all teenagers.  Unlike more traditional ransomware gangs, LAPSUS$ has a very strong social media presence.  The gang is best known for data exfiltration. It has stolen source code and other proprietary information and has often leaked this information on the Internet.   LAPSUS$ stolen credentials&nbsp;  In the case of Nvidia, for example, the&nbsp; attackers gained access to hundreds of gigabytes of proprietary data ,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Historic Hotel Stay, Complementary Emotet Exposure included<a href="https://www.bleepingcomputer.com/news/security/historic-hotel-stay-complementary-emotet-exposure-included/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Historic Hotel of America serving up modern malware to their guests. Why securing your inbox with more than just anti-malware engines is needed to prevent cybercrime attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

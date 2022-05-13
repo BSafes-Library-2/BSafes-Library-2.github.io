@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Healthcare Technology Provider Omnicell Discloses Ransomware Attack<a href="https://www.securityweek.com/healthcare-technology-provider-omnicell-discloses-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its latest Form 10-Q filing with the SEC, the company noted that some of its internal systems were impacted by a ransomware attack on May 4, 2022. There is an impact on certain of the company’s products and services.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitter cyberspies target South Asian govts with new malware<a href="https://www.bleepingcomputer.com/news/security/bitter-cyberspies-target-south-asian-govts-with-new-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New activity has been observed from Bitter, an APT group focused on cyberespionage, targeting the government of Bangladesh with new malware with remote file execution capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

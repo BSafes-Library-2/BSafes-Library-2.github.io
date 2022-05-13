@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yahoo! JAPAN Enables Fingerprint and Face Login to Its Service Apps and Smartphone Browsers<a href="https://about.yahoo.co.jp/en/pr/release/2021/02/08a/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yahoo Japan Corporation has completed the implementation of biometric authentication to the Android version of Yahoo! JAPAN service apps. With this, biometric authentication can now be used to log in to Yahoo! JAPAN’s various service apps.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

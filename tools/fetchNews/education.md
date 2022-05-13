@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[White Paper] Social Engineering: What You Need to Know to Stay Resilient<a href="https://thehackernews.com/2022/05/white-paper-social-engineering-what-you.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security and IT teams are losing sleep as would-be intruders lay siege to the weakest link in any organization's digital defense: employees. By preying on human emotion, social engineering scams inflict billions of dollars of damage with minimal planning or expertise. Cybercriminals find it easier to manipulate people before resorting to technical "hacking" tactics. Recent research reveals that social engineering is leveraged in 98% of attacks.  As the rapid, ongoing acceleration of remote work raises the stakes, security leaders are fighting back with education and awareness. Resources developed by experts, like this new white paper — " Social Engineering: What You Need to Know to Stay Resilient " — identify the most common tactics, track how these types of attacks are evolving, and provide tips to protect organizations and their end-users. These insights not only inform security practitioners of the latest tactics and emerging threats, but help employees unde
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

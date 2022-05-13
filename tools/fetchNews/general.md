@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Our Medical Devices' Open Source Problem – What Are the Risks?<a href="https://www.bleepingcomputer.com/news/security/our-medical-devices-open-source-problem-what-are-the-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is no doubt that open source powers our development processes, enabling software developers to build high quality, innovative products faster than ever before. But OSS also comes with its own set of risks that device manufacturers must address while leveraging its many advantages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: The ransomware world is changing, here's what you need to know<a href="https://www.zdnet.com/article/microsoft-the-ransomware-world-is-changing-heres-what-you-need-to-know/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft security teams are tracking more than 35 unique ransomware families and 250 threat actors across nation-state, ransomware and criminal activities. RaaS has forced Microsoft to look at attacks differently.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware has gone down because sanctions against Russia are making life harder for attackers<a href="https://www.zdnet.com/article/ransomware-has-gone-down-because-sanctions-against-russia-are-making-life-harder-for-attackers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks have long been a major cybersecurity issue for organisations around the world. The number of ransomware attacks has gone down in recent months because of increased sanctions against Russian cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
