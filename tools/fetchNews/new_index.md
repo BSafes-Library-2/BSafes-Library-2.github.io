@@ -34,7 +34,74 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Campaign Targets At Least 14 German Automakers<a href="https://cyware.com/news/malware-campaign-targets-at-least-14-german-automakers-db0e9ea1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers exposed a months-long campaign targeting German car dealerships and manufacturers to deploy a variety of info-stealing malware. Attacks were traced back to 14 targeted entities in the country. To remain protected, organizations are recommended to use a strong password, deploy anti-phish ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Clues Indicate REvil is All Set for a Comeback<a href="https://cyware.com/news/new-clues-indicate-revil-is-all-set-for-a-comeback-baf97deb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The once defunct REvil ransomware is indeed back on the scene as researchers throw light on new developments. The latest version of the malware tracked as 2.08 boasts some key modifications. Organizations must stay ahead of such threats and bolster their defense systems to thwart future ransomware  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FluBot Spreads via SMS Campaigns to Target Finnish People<a href="https://cyware.com/news/flubot-spreads-via-sms-campaigns-to-target-finnish-people-e35f22be"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NCSC-FI issued a warning about increased FluBot activities. Now, it has gone beyond Android to target iPhone users via a new campaign that uses SMS and MMS. These SMS messages contain links to voicemail, missed call notifications, or alerts about incoming money from an unknown financial transac ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel fixes firewall flaws that could lead to hacked networks<a href="https://www.bleepingcomputer.com/news/security/zyxel-fixes-firewall-flaws-that-could-lead-to-hacked-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts who discovered a vulnerability affecting multiple Zyxel products report that the network equipment company fixed it via a silent update pushed out two weeks ago.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian hackers exposed in a highly targeted espionage campaign<a href="https://www.bleepingcomputer.com/news/security/iranian-hackers-exposed-in-a-highly-targeted-espionage-campaign/"> Full Text</a>
@@ -50,7 +117,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HP Patches UEFI Vulnerabilities Affecting Over 200 Computers<a href="https://www.securityweek.com/hp-patches-uefi-vulnerabilities-affecting-over-200-computers?&web_view=true"> Full Text</a>
@@ -66,7 +133,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Leveraging BitLocker and DiskCryptor in Ransomware Attacks<a href="https://thehackernews.com/2022/05/iranian-hackers-leveraging-bitlocker.html"> Full Text</a>
@@ -82,7 +149,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Nerbian RAT spreads via malspam campaigns using COVID-19<a href="https://securityaffairs.co/wordpress/131221/cyber-crime/nerbian-rat-uses-covid-19-lure.html"> Full Text</a>
@@ -102,7 +169,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Builder Leverages Discord Webhooks<a href="https://threatpost.com/malware-discord-webhooks/179605/"> Full Text</a>
@@ -118,7 +185,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian imprisoned for selling access to thousands of PCs<a href="https://www.bleepingcomputer.com/news/security/ukrainian-imprisoned-for-selling-access-to-thousands-of-pcs/"> Full Text</a>
@@ -134,7 +201,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Stakes 'Could Not be Any Higher': CISA Chief Talks About the Tech Challenges Ahead<a href="https://www.zdnet.com/article/the-stakes-could-not-be-any-higher-cisa-chief-talks-about-the-tech-challenges-ahead/?&web_view=true"> Full Text</a>
@@ -150,7 +217,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 E.U. Proposes New Rules for Tech Companies to Combat Online Child Sexual Abuse<a href="https://thehackernews.com/2022/05/eu-proposes-new-rules-for-tech.html"> Full Text</a>
@@ -166,7 +233,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive hacking campaign compromised thousands of WordPress websites<a href="https://securityaffairs.co/wordpress/131202/hacking/wordpress-websites-hacking-campaign.html"> Full Text</a>
@@ -186,7 +253,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Eternity malware kit offers stealer, miner, worm, ransomware tools<a href="https://www.bleepingcomputer.com/news/security/eternity-malware-kit-offers-stealer-miner-worm-ransomware-tools/"> Full Text</a>
@@ -202,7 +269,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 101 Update Patches High-Severity Vulnerabilities<a href="https://www.securityweek.com/chrome-101-update-patches-high-severity-vulnerabilities?&web_view=true"> Full Text</a>
@@ -218,7 +285,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of WordPress Sites Hacked to Redirect Visitors to Scam Sites<a href="https://thehackernews.com/2022/05/thousands-of-wordpress-sites-hacked-to.html"> Full Text</a>
@@ -234,7 +301,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Red TIM Research (RTR) founds 2 bugs affecting F5 Traffix SDC<a href="https://securityaffairs.co/wordpress/131196/hacking/f5-traffix-sdc-flaws.html"> Full Text</a>
@@ -254,7 +321,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel silently fixes critical RCE vulnerability in firewall products<a href="https://www.bleepingcomputer.com/news/security/zyxel-silently-fixes-critical-rce-vulnerability-in-firewall-products/"> Full Text</a>
@@ -270,7 +337,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intel Patches High-Severity Vulnerabilities in BIOS, Boot Guard<a href="https://www.securityweek.com/intel-patches-high-severity-vulnerabilities-bios-boot-guard?&web_view=true"> Full Text</a>
@@ -286,7 +353,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android and Chrome Users Can Soon Generate Virtual Credit Cards to Protect Real Ones<a href="https://thehackernews.com/2022/05/blog-post.html"> Full Text</a>
@@ -302,7 +369,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Five Eyes agencies warn of attacks on MSPs<a href="https://securityaffairs.co/wordpress/131190/security/five-eyes-agencies-warn-attacks-msps.html"> Full Text</a>
@@ -322,7 +389,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BPFdoor: Stealthy Linux malware bypasses firewalls for remote access<a href="https://www.bleepingcomputer.com/news/security/bpfdoor-stealthy-linux-malware-bypasses-firewalls-for-remote-access/"> Full Text</a>
@@ -338,7 +405,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of Thousands of Konica Printers Vulnerable to Hacking via ​​Physical Access<a href="https://www.securityweek.com/konica-minolta-printers-vulnerable-hacking-physical-access?&web_view=true"> Full Text</a>
@@ -354,7 +421,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Everything We Learned From the LAPSUS$ Attacks<a href="https://thehackernews.com/2022/05/everything-we-learned-from-lapsus.html"> Full Text</a>
@@ -370,7 +437,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Historic Hotel Stay, Complementary Emotet Exposure included<a href="https://www.bleepingcomputer.com/news/security/historic-hotel-stay-complementary-emotet-exposure-included/"> Full Text</a>
@@ -386,7 +453,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2022
+May 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Actively Exploited Zero-Day Bug Patched by Microsoft<a href="https://threatpost.com/microsoft-zero-day-mays-patch-tuesday/179579/"> Full Text</a>
@@ -402,7 +469,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2022
+May 11, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Deals Deathblow to 157-year-old College<a href="https://threatpost.com/ransomware-deathblow-college/179574/"> Full Text</a>
@@ -418,7 +485,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2022
+May 11, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Government Agencies Warn of Increase in Cyberattacks Targeting MSPs<a href="https://thehackernews.com/2022/05/government-agencies-warned-of-increase.html"> Full Text</a>
@@ -434,7 +501,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2022
+May 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Deploy IceApple Exploitation Framework on Hacked MS Exchange Servers<a href="https://thehackernews.com/2022/05/hackers-deploy-iceapple-exploitation.html"> Full Text</a>
