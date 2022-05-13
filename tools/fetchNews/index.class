@@ -34,6 +34,422 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian hackers exposed in a highly targeted espionage campaign<a href="https://www.bleepingcomputer.com/news/security/iranian-hackers-exposed-in-a-highly-targeted-espionage-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have spotted a novel attack attributed to the Iranian hacking group known as APT34 group or Oilrig, who targeted a Jordanian diplomat with custom-crafted tools.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HP Patches UEFI Vulnerabilities Affecting Over 200 Computers<a href="https://www.securityweek.com/hp-patches-uefi-vulnerabilities-affecting-over-200-computers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP on Wednesday announced the release of patches for two high-severity vulnerabilities that impact the UEFI firmware of more than 200 laptops, workstations, and other products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Leveraging BitLocker and DiskCryptor in Ransomware Attacks<a href="https://thehackernews.com/2022/05/iranian-hackers-leveraging-bitlocker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware group with an Iranian operational connection has been linked to a string of file-encrypting malware attacks targeting organizations in Israel, the U.S., Europe, and Australia.  Cybersecurity firm Secureworks attributed the intrusions to a threat actor it tracks under the moniker Cobalt Mirage, which it said is linked to an Iranian hacking crew dubbed Cobalt Illusion (aka APT35, Charming Kitten, Newscaster, or Phosphorus).  "Elements of Cobalt Mirage activity have been  reported  as  Phosphorus  and  TunnelVision ," Secureworks Counter Threat Unit (CTU)  said  in a report shared with The Hacker News.   The threat actor is said to have conducted two different sets of intrusions, one of which relates to opportunistic ransomware attacks involving the use of legitimate tools like  BitLocker  and DiskCryptor for financial gain.  The second set of attacks are more targeted, carried out with the primary goal of securing access and gathering intelligence, while also depl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Nerbian RAT spreads via malspam campaigns using COVID-19<a href="https://securityaffairs.co/wordpress/131221/cyber-crime/nerbian-rat-uses-covid-19-lure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new remote access trojan, named Nerbian RAT, which implements sophisticated evasion and anti-analysis techniques.
+
+
+
+Researchers from Proofpoint discovered a new remote access trojan called Nerbian RAT that implements sophisticated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Builder Leverages Discord Webhooks<a href="https://threatpost.com/malware-discord-webhooks/179605/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a simple malware builder designed to steal credentials, then pinging them to Discord webhooks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian imprisoned for selling access to thousands of PCs<a href="https://www.bleepingcomputer.com/news/security/ukrainian-imprisoned-for-selling-access-to-thousands-of-pcs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Glib Oleksandr Ivanov-Tolpintsev, a 28-year-old from Ukraine, was sentenced today to 4 years in prison for stealing thousands of login credentials per week and selling them on a dark web marketplace.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Stakes 'Could Not be Any Higher': CISA Chief Talks About the Tech Challenges Ahead<a href="https://www.zdnet.com/article/the-stakes-could-not-be-any-higher-cisa-chief-talks-about-the-tech-challenges-ahead/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security by design needs to be ingrained in software development and innovative thinking is required to help secure society against cyber attacks as technology become a bigger part of our everyday lives.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+E.U. Proposes New Rules for Tech Companies to Combat Online Child Sexual Abuse<a href="https://thehackernews.com/2022/05/eu-proposes-new-rules-for-tech.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Commission on Wednesday proposed new regulation that would require tech companies to scan for child sexual abuse material (CSAM) and grooming behavior, raising worries that it could undermine end-to-end encryption (E2EE).  To that end, online service providers, including hosting services and communication apps, are expected to proactively scan their platforms for CSAM as well as report, remove and disable access to such illicit content.  While instant messaging services like WhatsApp  already   rely  on hashed versions of known CSAM to automatically block new uploads of images or videos matching them, the new plan requires such platforms to identify and flag new instances of CSAM.  "Detection technologies must only be used for the purpose of detecting child sexual abuse," the regulator  said . "Providers will have to deploy technologies that are the least privacy-intrusive in accordance with the state of the art in the industry, and that limit the error rat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive hacking campaign compromised thousands of WordPress websites<a href="https://securityaffairs.co/wordpress/131202/hacking/wordpress-websites-hacking-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a massive hacking campaign that compromised thousands of WordPress websites to redirect visitors to scam sites.
+
+
+
+Cybersecurity researchers from Sucuri uncovered a massive campaign that compromised thousands of WordPress websites...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eternity malware kit offers stealer, miner, worm, ransomware tools<a href="https://www.bleepingcomputer.com/news/security/eternity-malware-kit-offers-stealer-miner-worm-ransomware-tools/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have launched the 'Eternity Project,' a new malware-as-a-service where threat actors can purchase a malware toolkit that can be customized with different modules depending on the attack being conducted.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 101 Update Patches High-Severity Vulnerabilities<a href="https://www.securityweek.com/chrome-101-update-patches-high-severity-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Based on severity ratings and the currently listed bug bounties, the most important of these flaws is CVE-2022-1633, a high-severity use-after-free in Sharesheet that was reported by Khalil Zhani, who was awarded a $5,000 reward for the find.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of WordPress Sites Hacked to Redirect Visitors to Scam Sites<a href="https://thehackernews.com/2022/05/thousands-of-wordpress-sites-hacked-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a massive campaign that's responsible for injecting malicious JavaScript code into compromised WordPress websites that redirects visitors to scam pages and other malicious websites to generate illegitimate traffic.  "The websites all shared a common issue — malicious JavaScript had been injected within their website's files and the database, including legitimate core WordPress files," Krasimir Konov, a malware analyst at Sucuri,  said  in a report published Wednesday.   This involved infecting files such as jquery.min.js and jquery-migrate.min.js with obfuscated JavaScript that's activated on every page load, allowing the attacker to redirect the website visitors to a destination of their choice.  The GoDaddy-owned website security company said that the domains at the end of the redirect chain could be used to load advertisements, phishing pages, malware, or even trigger another set of redirects.   In some instances, unsus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Red TIM Research (RTR) founds 2 bugs affecting F5 Traffix SDC<a href="https://securityaffairs.co/wordpress/131196/hacking/f5-traffix-sdc-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts at TIM research laboratory, Red Team Research (RTR), have disclosed a couple of bugs affecting F5 Traffix SDC.
+
+
+
+Among these 45 bugs fixed by the well-known manufacturer of computer security systems, 2 were detected by TIM research laboratory,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel silently fixes critical RCE vulnerability in firewall products<a href="https://www.bleepingcomputer.com/news/security/zyxel-silently-fixes-critical-rce-vulnerability-in-firewall-products/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts who discovered a vulnerability affecting multiple Zyxel products report that the network equipment company fixed it via a silent update pushed out two weeks ago.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel Patches High-Severity Vulnerabilities in BIOS, Boot Guard<a href="https://www.securityweek.com/intel-patches-high-severity-vulnerabilities-bios-boot-guard?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel also announced the release of patches for a high-severity bug in Boot Guard and Trusted Execution Technology (TXT). Tracked as CVE-2022-0004 (CVSS score of 7.3), the bug could be exploited to elevate privileges on a vulnerable system.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android and Chrome Users Can Soon Generate Virtual Credit Cards to Protect Real Ones<a href="https://thehackernews.com/2022/05/blog-post.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Wednesday took to its annual developer conference to announce a host of privacy and security updates, including support for virtual credit cards on Android and Chrome.  "When you use autofill to enter your payment details at checkout, virtual cards will add an additional layer of security by replacing your actual card number with a distinct, virtual number," Google's Jen Fitzpatrick  said  in a statement.  The goal, the search giant, said to keep payment information safe and secure during online shopping and protect users from  skimming attacks  wherein threat actors inject malicious JavaScript code to plunder credit card numbers and sell them on the black market.   The feature is expected to roll out in the U.S. for Visa, American Express, Mastercard, and Capital One cards starting this summer.  Interestingly, while Apple offers an option to mask email addresses via  Hide My Email , which enables users to create unique, random email addresses to use with apps
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Eyes agencies warn of attacks on MSPs<a href="https://securityaffairs.co/wordpress/131190/security/five-eyes-agencies-warn-attacks-msps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity authorities from Five Eye warn of threats targeting managed service providers (MSPs) and potential supply chain attacks through them.
+
+
+
+Multiple cybersecurity authorities from Australia, Canada, New Zealand, the U.K., and the U.S. this...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BPFdoor: Stealthy Linux malware bypasses firewalls for remote access<a href="https://www.bleepingcomputer.com/news/security/bpfdoor-stealthy-linux-malware-bypasses-firewalls-for-remote-access/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered backdoor malware called BPFdoor has been stealthily targeting Linux and Solaris systems without being noticed for more than five years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Thousands of Konica Printers Vulnerable to Hacking via ​​Physical Access<a href="https://www.securityweek.com/konica-minolta-printers-vulnerable-hacking-physical-access?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Atos-owned cybersecurity consulting firm SEC Consult analyzed Konica Minolta printers to determine what could be achieved by an attacker who has physical access to a device. The answer: a lot!
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Everything We Learned From the LAPSUS$ Attacks<a href="https://thehackernews.com/2022/05/everything-we-learned-from-lapsus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In recent months, a cybercriminal gang known as LAPSUS$ has claimed responsibility for a number of high-profile attacks against technology companies, including:   T-Mobile (April 23, 2022)  Globant   Okta  Ubisoft  Samsung  Nvidia  Microsoft  Vodafone   In addition to these attacks, LAPSUS$ was also able to successfully launch a ransomware attack against the Brazilian Ministry of Health.  While high-profile cyber-attacks are certainly nothing new, there are several things that make LAPSUS$ unique.   The alleged mastermind of these attacks and several other alleged accomplices were all teenagers.  Unlike more traditional ransomware gangs, LAPSUS$ has a very strong social media presence.  The gang is best known for data exfiltration. It has stolen source code and other proprietary information and has often leaked this information on the Internet.   LAPSUS$ stolen credentials   In the case of Nvidia, for example, the  attackers gained access to hundreds of gigabytes of proprietary data ,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Historic Hotel Stay, Complementary Emotet Exposure included<a href="https://www.bleepingcomputer.com/news/security/historic-hotel-stay-complementary-emotet-exposure-included/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Historic Hotel of America serving up modern malware to their guests. Why securing your inbox with more than just anti-malware engines is needed to prevent cybercrime attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Actively Exploited Zero-Day Bug Patched by Microsoft<a href="https://threatpost.com/microsoft-zero-day-mays-patch-tuesday/179579/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft’s May Patch Tuesday roundup also included critical fixes for a number of flaws found in infrastructure present in many enterprise and cloud environments.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Deals Deathblow to 157-year-old College<a href="https://threatpost.com/ransomware-deathblow-college/179574/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Why a private college that stayed in business for 157 years had to close after the combo of COVID-19 and ransomware proved too much.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Government Agencies Warn of Increase in Cyberattacks Targeting MSPs<a href="https://thehackernews.com/2022/05/government-agencies-warned-of-increase.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple cybersecurity authorities from Australia, Canada, New Zealand, the U.K., and the U.S. on Wednesday released a  joint advisory  warning of threats targeting managed service providers (MSPs) and their customers.  Key among the recommendations include identifying and disabling accounts that are no longer in use, enforcing multi-factor authentication (MFA) on MSP accounts that access customer environments, and ensuring transparency in ownership of security roles and responsibilities.  MSPs have emerged as an attractive attack route for cybercriminals to scale their attacks, as a vulnerable provider can be weaponized as an initial access vector to breach several downstream customers at once.   The spillover effects of such intrusions, as witnessed in the wake of high-profile breaches aimed at  SolarWinds  and  Kaseya  in recent years, have once again underlined the need to secure the software supply chain.  The targeting of MSPs by malicious cyber actors in an effort to "expl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Deploy IceApple Exploitation Framework on Hacked MS Exchange Servers<a href="https://thehackernews.com/2022/05/hackers-deploy-iceapple-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have detailed a previously undocumented .NET-based post-exploitation framework called IceApple that has been deployed on Microsoft Exchange server instances to facilitate reconnaissance and data exfiltration.  "Suspected to be the work of a state-nexus adversary, IceApple remains under active development, with 18 modules observed in use across a number of enterprise environments, as of May 2022," CrowdStrike  said  in a Wednesday report.   The cybersecurity firm, which discovered the sophisticated malware in late 2021, noted its presence in multiple victim networks and in geographically distinct locations. Targeted victims span a wide range of sectors, including technology, academic, and government entities.  A post-exploitation toolset, as the name implies, is not used to provide initial access, but is rather employed to carry out follow-on attacks after having already compromised the hosts in question.   IceApple is notable for the fact that it's an in-memo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 11, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
