@@ -34,6 +34,73 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Campaign Targets At Least 14 German Automakers<a href="https://cyware.com/news/malware-campaign-targets-at-least-14-german-automakers-db0e9ea1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers exposed a months-long campaign targeting German car dealerships and manufacturers to deploy a variety of info-stealing malware. Attacks were traced back to 14 targeted entities in the country. To remain protected, organizations are recommended to use a strong password, deploy anti-phish ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Clues Indicate REvil is All Set for a Comeback<a href="https://cyware.com/news/new-clues-indicate-revil-is-all-set-for-a-comeback-baf97deb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The once defunct REvil ransomware is indeed back on the scene as researchers throw light on new developments. The latest version of the malware tracked as 2.08 boasts some key modifications. Organizations must stay ahead of such threats and bolster their defense systems to thwart future ransomware  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FluBot Spreads via SMS Campaigns to Target Finnish People<a href="https://cyware.com/news/flubot-spreads-via-sms-campaigns-to-target-finnish-people-e35f22be"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NCSC-FI issued a warning about increased FluBot activities. Now, it has gone beyond Android to target iPhone users via a new campaign that uses SMS and MMS. These SMS messages contain links to voicemail, missed call notifications, or alerts about incoming money from an unknown financial transac ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel fixes firewall flaws that could lead to hacked networks<a href="https://www.bleepingcomputer.com/news/security/zyxel-fixes-firewall-flaws-that-could-lead-to-hacked-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts who discovered a vulnerability affecting multiple Zyxel products report that the network equipment company fixed it via a silent update pushed out two weeks ago.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
