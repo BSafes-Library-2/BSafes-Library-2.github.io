@@ -8,6 +8,53 @@ nav_order: 900015
 
 ## Attack
 ---
+May 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Saitama backdoor Targeted Official from Jordan's Foreign Ministry<a href="https://thehackernews.com/2022/05/new-saitama-backdoor-targeted-official.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spear-phishing campaign targeting Jordan's foreign ministry has been observed dropping a new stealthy backdoor dubbed Saitama.  Researchers from Malwarebytes and Fortinet FortiGuard Labs&nbsp; attributed &nbsp;the campaign to an Iranian cyber espionage threat actor tracked under the moniker APT34, citing&nbsp; resemblances &nbsp;to past campaigns staged by the group.  "Like many of these attacks, the email contained a malicious attachment," Fortinet researcher Fred Gutierrez&nbsp; said . "However, the attached threat was not a garden-variety malware. Instead, it had the capabilities and techniques usually associated with advanced persistent threats (APTs)."   APT34, also known as OilRig, Helix Kitten, and Cobalt Gypsy, is known to be active since at least 2014 and has a track record of striking telecom, government, defense, oil, and financial sectors in the Middle East and North Africa (MENA) via targeted phishing attacks.  Earlier this February, ESET&nbsp; tied &nbsp;the group to a long-runni
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked COBALT MIRAGE group uses ransomware in its operations<a href="https://securityaffairs.co/wordpress/131218/apt/iran-cobalt-mirage-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian group used Bitlocker and DiskCryptor in a series of attacks targeting organizations in Israel, the US, Europe, and Australia.
+
+
+
+Researchers at Secureworks Counter Threat Unit (CTU) are investigating a series of attacks conducted by the Iran-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Campaign Targets At Least 14 German Automakers<a href="https://cyware.com/news/malware-campaign-targets-at-least-14-german-automakers-db0e9ea1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers exposed a months-long campaign targeting German car dealerships and manufacturers to deploy a variety of info-stealing malware. Attacks were traced back to 14 targeted entities in the country. To remain protected, organizations are recommended to use a strong password, deploy anti-phish ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

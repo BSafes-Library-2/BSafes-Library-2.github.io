@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - May 13th 2022 - A National Emergency<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-13th-2022-a-national-emergency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While ransomware attacks have slowed during Russia's invasion of Ukraine and the subsequent sanctions, the malware threat continues to affect organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -2546,6 +2560,20 @@ Cybersecurity firm Emsisoft has released a free decryption tool for past victims
 </details>
 <div style="text-align: right" markdown="1">
 Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter ransomware victims quietly helped using secret decryptor<a href="https://www.bleepingcomputer.com/news/security/blackmatter-ransomware-victims-quietly-helped-using-secret-decryptor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Emsisoft has been secretly decrypting BlackMatter ransomware victims since this summer, saving victims millions of dollars.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 ---

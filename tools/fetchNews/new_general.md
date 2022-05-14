@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+May 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Organizations Hit by Ransomware Would Pay If Hit Again<a href="https://www.theregister.com/2022/05/13/organizations_pay_ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost nine in 10 organizations that have suffered a ransomware attack would choose to pay the ransom if hit again, according to a new report, compared with two-thirds of those that have not experienced an attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome updates failing on Android devices in Russia<a href="https://www.bleepingcomputer.com/news/security/google-chrome-updates-failing-on-android-devices-in-russia/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A growing number of Russian Chrome users on Android report getting errors when attempting to install the latest available update of the popular web browser.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

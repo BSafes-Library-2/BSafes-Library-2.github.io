@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+May 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StackHawk Raises $20.7 Million in Series B Funding<a href="https://www.finsmes.com/2022/05/stackhawk-raises-20-7-million-in-series-b-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round, which brings total funding raised to $35.3m, was led by Sapphire and Costanoa Ventures with the participation of others. The company intends to use the funds to invest in product development.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

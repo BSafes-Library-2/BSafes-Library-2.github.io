@@ -8,6 +8,98 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities Provide Root Access to InHand Industrial Routers<a href="https://www.securityweek.com/critical-vulnerabilities-provide-root-access-inhand-industrial-routers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 17 vulnerabilities have been found in a wireless industrial router made by InHand Networks, including flaws that can be chained to gain root access by getting a user to click on a malicious link.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaw in Zyxel firewalls grants access to corporate networks<a href="https://www.helpnetsecurity.com/2022/05/13/cve-2022-30525/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, CVE-2022-30525, affecting several models of Zyxel firewalls has been publicly revealed, along with a Metasploit module that exploits it. The patches for the vulnerability are available.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall urges customers to fix SMA 1000 vulnerabilities<a href="https://securityaffairs.co/wordpress/131247/security/sonicwall-urges-customers-to-fix-sma-1000-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall warns customers to&nbsp;address several high-risk security flaws impacting its Secure Mobile Access (SMA) 1000 Series line of products.
+
+
+
+SonicWall urges&nbsp;customers to&nbsp;address several high-risk security vulnerabilities affecting its Secure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel fixed firewall unauthenticated remote command injection issue<a href="https://securityaffairs.co/wordpress/131243/hacking/zyxel-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel addressed a critical flaw affecting Zyxel firewall devices that allows unauthenticated, remote attackers to gain arbitrary code execution.
+
+
+
+Zyxel has moved to address a critical security vulnerability (CVE-2022-30525, CVSS score: 9.8) affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall ‘strongly urges’ admins to patch SSLVPN SMA1000 bugs<a href="https://www.bleepingcomputer.com/news/security/sonicwall-strongly-urges-admins-to-patch-sslvpn-sma1000-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall "strongly urges"&nbsp;customers to&nbsp;patch several high-risk security flaws impacting its Secure Mobile Access (SMA) 1000 Series line of products that can let&nbsp;attackers bypass authorization&nbsp;and, potentially, compromise unpatched appliances.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel fixes firewall flaws that could lead to hacked networks<a href="https://www.bleepingcomputer.com/news/security/zyxel-fixes-firewall-flaws-that-could-lead-to-hacked-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts who discovered a vulnerability affecting multiple Zyxel products report that the network equipment company fixed it via a silent update pushed out two weeks ago.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

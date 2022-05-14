@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Created 'Open Source Maintenance Crew' to Help Secure Critical Projects<a href="https://thehackernews.com/2022/05/google-created-open-source-maintenance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday&nbsp; announced &nbsp;the creation of a new "Open Source Maintenance Crew" to focus on bolstering the security of critical open source projects.  Additionally, the tech giant pointed out&nbsp; Open Source Insights &nbsp;as a tool for analyzing packages and their dependency graphs, using it to determine "whether a vulnerability in a dependency might affect your code."  "With this information, developers can understand how their software is put together and the consequences to changes in their dependencies," the company said.  The development comes as security and trust in the open source software ecosystem has been increasingly thrown into question in the aftermath of a&nbsp; string &nbsp;of&nbsp; supply chain &nbsp; attacks &nbsp;designed to compromise developer workflows.   In December 2021, a critical flaw in the ubiquitous open source&nbsp; Log4j logging library &nbsp;left several companies scrambling to patch their systems against potential abuse.  The announcement also comes less than
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

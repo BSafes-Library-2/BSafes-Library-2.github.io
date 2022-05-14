@@ -34,6 +34,357 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities Provide Root Access to InHand Industrial Routers<a href="https://www.securityweek.com/critical-vulnerabilities-provide-root-access-inhand-industrial-routers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 17 vulnerabilities have been found in a wireless industrial router made by InHand Networks, including flaws that can be chained to gain root access by getting a user to click on a malicious link.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaw in Zyxel firewalls grants access to corporate networks<a href="https://www.helpnetsecurity.com/2022/05/13/cve-2022-30525/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, CVE-2022-30525, affecting several models of Zyxel firewalls has been publicly revealed, along with a Metasploit module that exploits it. The patches for the vulnerability are available.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These ransomware attackers sent their ransom note to the victim's printer<a href="https://www.zdnet.com/article/these-ransomware-attackers-sent-their-ransom-note-to-the-victims-printer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have detailed a string of cyberattacks involving ransomware which took place in early 2022 to an Iranian hacking group they refer to as Cobalt Mirage – also known as APT35, Charming Kitten, Phosphorus, and TA453 by other research groups.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - May 13th 2022 - A National Emergency<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-13th-2022-a-national-emergency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While ransomware attacks have slowed during Russia's invasion of Ukraine and the subsequent sanctions, the malware threat continues to affect organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Created 'Open Source Maintenance Crew' to Help Secure Critical Projects<a href="https://thehackernews.com/2022/05/google-created-open-source-maintenance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday  announced  the creation of a new "Open Source Maintenance Crew" to focus on bolstering the security of critical open source projects.  Additionally, the tech giant pointed out  Open Source Insights  as a tool for analyzing packages and their dependency graphs, using it to determine "whether a vulnerability in a dependency might affect your code."  "With this information, developers can understand how their software is put together and the consequences to changes in their dependencies," the company said.  The development comes as security and trust in the open source software ecosystem has been increasingly thrown into question in the aftermath of a  string  of  supply chain   attacks  designed to compromise developer workflows.   In December 2021, a critical flaw in the ubiquitous open source  Log4j logging library  left several companies scrambling to patch their systems against potential abuse.  The announcement also comes less than
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Fight Foreign Hackers With Civil Litigation<a href="https://www.lawfareblog.com/how-fight-foreign-hackers-civil-litigation"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Major tech companies have begun to employ Microsoft’s strategy of suing cybercriminals who operate major botnets or engage in massive phishing schemes.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall urges customers to fix SMA 1000 vulnerabilities<a href="https://securityaffairs.co/wordpress/131247/security/sonicwall-urges-customers-to-fix-sma-1000-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall warns customers to address several high-risk security flaws impacting its Secure Mobile Access (SMA) 1000 Series line of products.
+
+
+
+SonicWall urges customers to address several high-risk security vulnerabilities affecting its Secure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian CERT: Hacktivists hit govt sites in ‘Slow HTTP’ DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/italian-cert-hacktivists-hit-govt-sites-in-slow-http-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy's Computer Security Incident Response Team (CSIRT) has published an announcement about the recent DDoS attacks that key sites in the country suffered in the last couple of days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Saitama backdoor Targeted Official from Jordan's Foreign Ministry<a href="https://thehackernews.com/2022/05/new-saitama-backdoor-targeted-official.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spear-phishing campaign targeting Jordan's foreign ministry has been observed dropping a new stealthy backdoor dubbed Saitama.  Researchers from Malwarebytes and Fortinet FortiGuard Labs  attributed  the campaign to an Iranian cyber espionage threat actor tracked under the moniker APT34, citing  resemblances  to past campaigns staged by the group.  "Like many of these attacks, the email contained a malicious attachment," Fortinet researcher Fred Gutierrez  said . "However, the attached threat was not a garden-variety malware. Instead, it had the capabilities and techniques usually associated with advanced persistent threats (APTs)."   APT34, also known as OilRig, Helix Kitten, and Cobalt Gypsy, is known to be active since at least 2014 and has a track record of striking telecom, government, defense, oil, and financial sectors in the Middle East and North Africa (MENA) via targeted phishing attacks.  Earlier this February, ESET  tied  the group to a long-runni
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel fixed firewall unauthenticated remote command injection issue<a href="https://securityaffairs.co/wordpress/131243/hacking/zyxel-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel addressed a critical flaw affecting Zyxel firewall devices that allows unauthenticated, remote attackers to gain arbitrary code execution.
+
+
+
+Zyxel has moved to address a critical security vulnerability (CVE-2022-30525, CVSS score: 9.8) affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Sysrv botnet targets Windows, Linux servers with new exploits<a href="https://www.bleepingcomputer.com/news/security/microsoft-sysrv-botnet-targets-windows-linux-servers-with-new-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says the Sysrv botnet is now exploiting vulnerabilities in the Spring Framework and WordPress to ensnare and deploy cryptomining malware on vulnerable Windows and Linux servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked COBALT MIRAGE group uses ransomware in its operations<a href="https://securityaffairs.co/wordpress/131218/apt/iran-cobalt-mirage-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian group used Bitlocker and DiskCryptor in a series of attacks targeting organizations in Israel, the US, Europe, and Australia.
+
+
+
+Researchers at Secureworks Counter Threat Unit (CTU) are investigating a series of attacks conducted by the Iran-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 -- [Malware](/docs/issues/malware/malware/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Binance NFT Mystery Box bots steal victim's crypto wallets<a href="https://www.bleepingcomputer.com/news/security/fake-binance-nft-mystery-box-bots-steal-victims-crypto-wallets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new RedLine malware distribution campaign promotes fake Binance NFT mystery box bots on YouTube to lure people into infecting themselves with the information-stealing malware from GitHub repositories.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Organizations Hit by Ransomware Would Pay If Hit Again<a href="https://www.theregister.com/2022/05/13/organizations_pay_ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost nine in 10 organizations that have suffered a ransomware attack would choose to pay the ransom if hit again, according to a new report, compared with two-thirds of those that have not experienced an attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall ‘strongly urges’ admins to patch SSLVPN SMA1000 bugs<a href="https://www.bleepingcomputer.com/news/security/sonicwall-strongly-urges-admins-to-patch-sslvpn-sma1000-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall "strongly urges" customers to patch several high-risk security flaws impacting its Secure Mobile Access (SMA) 1000 Series line of products that can let attackers bypass authorization and, potentially, compromise unpatched appliances.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StackHawk Raises $20.7 Million in Series B Funding<a href="https://www.finsmes.com/2022/05/stackhawk-raises-20-7-million-in-series-b-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round, which brings total funding raised to $35.3m, was led by Sapphire and Costanoa Ventures with the participation of others. The company intends to use the funds to invest in product development.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome updates failing on Android devices in Russia<a href="https://www.bleepingcomputer.com/news/security/google-chrome-updates-failing-on-android-devices-in-russia/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A growing number of Russian Chrome users on Android report getting errors when attempting to install the latest available update of the popular web browser.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Campaign Targets At Least 14 German Automakers<a href="https://cyware.com/news/malware-campaign-targets-at-least-14-german-automakers-db0e9ea1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers exposed a months-long campaign targeting German car dealerships and manufacturers to deploy a variety of info-stealing malware. Attacks were traced back to 14 targeted entities in the country. To remain protected, organizations are recommended to use a strong password, deploy anti-phish ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Clues Indicate REvil is All Set for a Comeback<a href="https://cyware.com/news/new-clues-indicate-revil-is-all-set-for-a-comeback-baf97deb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The once defunct REvil ransomware is indeed back on the scene as researchers throw light on new developments. The latest version of the malware tracked as 2.08 boasts some key modifications. Organizations must stay ahead of such threats and bolster their defense systems to thwart future ransomware  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FluBot Spreads via SMS Campaigns to Target Finnish People<a href="https://cyware.com/news/flubot-spreads-via-sms-campaigns-to-target-finnish-people-e35f22be"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NCSC-FI issued a warning about increased FluBot activities. Now, it has gone beyond Android to target iPhone users via a new campaign that uses SMS and MMS. These SMS messages contain links to voicemail, missed call notifications, or alerts about incoming money from an unknown financial transac ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel fixes firewall flaws that could lead to hacked networks<a href="https://www.bleepingcomputer.com/news/security/zyxel-fixes-firewall-flaws-that-could-lead-to-hacked-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts who discovered a vulnerability affecting multiple Zyxel products report that the network equipment company fixed it via a silent update pushed out two weeks ago.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
