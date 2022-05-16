@@ -8,6 +8,46 @@ nav_order: 900072
 
 ## General
 ---
+May 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+May 08 – May 14 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/131308/cyber-warfare-2/may-08-may-14-ukraine-russia-the-silent-cyber-conflict.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This post provides a timeline of the events related to Russia invasion of Ukraine from the cyber security perspective.
+
+
+
+Below is the timeline of the events related to the ongoing Russia invasion that occurred in the previous weeks:
+
+
+
+May 14 - The LEGION...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 365 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/131304/breaking-news/security-affairs-newsletter-round-365-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

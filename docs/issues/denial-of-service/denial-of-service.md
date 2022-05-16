@@ -8,6 +8,24 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+May 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The LEGION collective calls to action to attack the final of the Eurovision song contest<a href="https://securityaffairs.co/wordpress/131280/hacktivism/legion-collective-call-attack-eurovision.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pro-Russian volunteer movement known as LEGION is calling to launch DDoS attacks against the final of the Eurovision song contest.
+
+
+
+The LEGION is a Pro-Russian volunteer movement that focuses on DDOS attacks. The group made the headlines for attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

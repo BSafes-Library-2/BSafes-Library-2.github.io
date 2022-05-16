@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sysrv-K, a new variant of the Sysrv botnet includes new exploits<a href="https://securityaffairs.co/wordpress/131290/cyber-crime/microsoft-sysrv-botnet-new-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft reported that the&nbsp;Sysrv botnet is targeting Windows and Linux servers exploiting flaws in the&nbsp;Spring Framework and WordPress.
+
+
+
+Microsoft Security Intelligence team Microsoft reported that a new variant of the&nbsp;Sysrv botnet,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

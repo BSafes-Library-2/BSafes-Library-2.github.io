@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2022
+May 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers are exploiting critical bug in Zyxel firewalls and VPNs<a href="https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-bug-in-zyxel-firewalls-and-vpns/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2022
+May 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unique IceApple Attack Framework Targets Multiple Sectors<a href="https://cyware.com/news/unique-iceapple-attack-framework-targets-multiple-sectors-e2c2899c"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2022
+May 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 May 08 – May 14 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/131308/cyber-warfare-2/may-08-may-14-ukraine-russia-the-silent-cyber-conflict.html"> Full Text</a>
@@ -91,7 +91,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2022
+May 15, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Pixelmon NFT site infects you with password-stealing malware<a href="https://www.bleepingcomputer.com/news/security/fake-pixelmon-nft-site-infects-you-with-password-stealing-malware/"> Full Text</a>
@@ -107,7 +107,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2022
+May 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Eternity Project - A New Swiss Army Knife for Threat Actors<a href="https://cyware.com/news/eternity-project-a-new-swiss-army-knife-for-threat-actors-782bd03f"> Full Text</a>
@@ -124,7 +124,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2022
+May 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 365 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/131304/breaking-news/security-affairs-newsletter-round-365-by-pierluigi-paganini.html"> Full Text</a>
@@ -144,7 +144,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2022
+May 15, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine CERT-UA warns of new attacks launched by Russia-linked Armageddon APT<a href="https://securityaffairs.co/wordpress/131296/breaking-news/cert-ua-warns-armageddon-apt.html"> Full Text</a>
@@ -164,7 +164,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2022
+May 15, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sysrv-K, a new variant of the Sysrv botnet includes new exploits<a href="https://securityaffairs.co/wordpress/131290/cyber-crime/microsoft-sysrv-botnet-new-exploits.html"> Full Text</a>
@@ -184,7 +184,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2022
+May 14, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Get Lifetime Access to 2022 Cybersecurity Certification Prep Courses @ 95% Off<a href="https://thehackernews.com/2022/05/get-ultimate-2022-cybersecurity.html"> Full Text</a>
@@ -200,7 +200,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2022
+May 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes new PetitPotam Windows NTLM Relay attack vector<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-new-petitpotam-windows-ntlm-relay-attack-vector/"> Full Text</a>
@@ -216,7 +216,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2022
+May 14, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Angry IT admin wipes employer’s databases, gets 7 years in prison<a href="https://www.bleepingcomputer.com/news/security/angry-it-admin-wipes-employer-s-databases-gets-7-years-in-prison/"> Full Text</a>
@@ -232,7 +232,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2022
+May 14, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto robber who lured victims via Snapchat and stole £34,000 jailed<a href="https://www.bleepingcomputer.com/news/security/crypto-robber-who-lured-victims-via-snapchat-and-stole-34-000-jailed/"> Full Text</a>
@@ -248,7 +248,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2022
+May 14, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The LEGION collective calls to action to attack the final of the Eurovision song contest<a href="https://securityaffairs.co/wordpress/131280/hacktivism/legion-collective-call-attack-eurovision.html"> Full Text</a>
@@ -268,7 +268,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2022
+May 14, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpRussia update: Anonymous breached other organizations<a href="https://securityaffairs.co/wordpress/131264/hacktivism/anonymous-oprussia-updates.html"> Full Text</a>
@@ -288,7 +288,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2022
+May 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russian hacktivists target Italy government websites<a href="https://securityaffairs.co/wordpress/131256/hacktivism/pro-russian-hacktivists-target-italy.html"> Full Text</a>

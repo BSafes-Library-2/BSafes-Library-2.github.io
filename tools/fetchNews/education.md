@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Fight Foreign Hackers With Civil Litigation<a href="https://www.lawfareblog.com/how-fight-foreign-hackers-civil-litigation"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Major tech companies have begun to employ Microsoft’s strategy of suing cybercriminals who operate major botnets or engage in massive phishing schemes.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

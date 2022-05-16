@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These ransomware attackers sent their ransom note to the victim's printer<a href="https://www.zdnet.com/article/these-ransomware-attackers-sent-their-ransom-note-to-the-victims-printer/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have detailed a string of cyberattacks involving ransomware which took place in early 2022 to an Iranian hacking group they refer to as Cobalt Mirage – also known as APT35, Charming Kitten, Phosphorus, and TA453 by other research groups.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Clues Indicate REvil is All Set for a Comeback<a href="https://cyware.com/news/new-clues-indicate-revil-is-all-set-for-a-comeback-baf97deb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The once defunct REvil ransomware is indeed back on the scene as researchers throw light on new developments. The latest version of the malware tracked as 2.08 boasts some key modifications. Organizations must stay ahead of such threats and bolster their defense systems to thwart future ransomware  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

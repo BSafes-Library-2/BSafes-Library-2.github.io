@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Get Lifetime Access to 2022 Cybersecurity Certification Prep Courses @ 95% Off<a href="https://thehackernews.com/2022/05/get-ultimate-2022-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ever thought about working full-time in&nbsp; cybersecurity ? With millions of unfilled jobs around, now is a great time to get into the industry. Of course, there are many different roles in this field. But all of them require the same handful of professional certifications.  The 2022 Ultimate Advanced CyberSecurity Professional Certification Bundle &nbsp;helps you collect the full house, with five full-length courses working towards&nbsp; key exams . The included training has a total value of $1,475. But in a special deal for readers of The Hacker News, the bundle is now available for only $69.&nbsp;   Special Offer&nbsp; —&nbsp; You can currently get five top-rated cybersecurity certification courses for only $69, with lifetime access included!  Whether you want to be a&nbsp; penetration tester &nbsp;or a cybersecurity researcher, technical recruiters want to see proof of your security expertise. NIST is required for government projects. Meanwhile, CISSP, ISACA, and CASP+ can open doors in the private sector.  In this bu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

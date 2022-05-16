@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto robber who lured victims via Snapchat and stole £34,000 jailed<a href="https://www.bleepingcomputer.com/news/security/crypto-robber-who-lured-victims-via-snapchat-and-stole-34-000-jailed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online crypto scams and ponzi schemes&nbsp;leveraging social media platforms are hardly anything new. But, this gruesome case of a London-based crypto robber&nbsp;transcends the&nbsp;virtual realm and tells a shocking tale of&nbsp;real-life victims from whom the perpetrator successfully stole £34,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

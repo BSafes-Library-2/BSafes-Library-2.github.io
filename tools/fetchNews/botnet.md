@@ -8,6 +8,35 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Sysrv botnet targets Windows, Linux servers with new exploits<a href="https://www.bleepingcomputer.com/news/security/microsoft-sysrv-botnet-targets-windows-linux-servers-with-new-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says the&nbsp;Sysrv botnet is now exploiting vulnerabilities in the&nbsp;Spring Framework and WordPress to&nbsp;ensnare and deploy cryptomining malware on vulnerable Windows and Linux servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FluBot Spreads via SMS Campaigns to Target Finnish People<a href="https://cyware.com/news/flubot-spreads-via-sms-campaigns-to-target-finnish-people-e35f22be"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NCSC-FI issued a warning about increased FluBot activities. Now, it has gone beyond Android to target iPhone users via a new campaign that uses SMS and MMS. These SMS messages contain links to voicemail, missed call notifications, or alerts about incoming money from an unknown financial transac ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
