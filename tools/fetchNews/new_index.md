@@ -34,7 +34,281 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are exploiting critical bug in Zyxel firewalls and VPNs<a href="https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-bug-in-zyxel-firewalls-and-vpns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have started to exploit a recently patched critical vulnerability, tracked as CVE-2022-30525, that affects Zyxel firewall and VPN devices for businesses.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unique IceApple Attack Framework Targets Multiple Sectors<a href="https://cyware.com/news/unique-iceapple-attack-framework-targets-multiple-sectors-e2c2899c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike encountered a previously undocumented post-exploitation framework called IceApple deployed on Exchange servers for data exfiltration.   Its long-running campaign focuses on intelligence gathering and indicates that it is a state-sponsored mission, allegedly, aligning with China-nexus, s ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+May 08 – May 14 Ukraine – Russia the silent cyber conflict<a href="https://securityaffairs.co/wordpress/131308/cyber-warfare-2/may-08-may-14-ukraine-russia-the-silent-cyber-conflict.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This post provides a timeline of the events related to Russia invasion of Ukraine from the cyber security perspective.
+
+
+
+Below is the timeline of the events related to the ongoing Russia invasion that occurred in the previous weeks:
+
+
+
+May 14 - The LEGION...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Pixelmon NFT site infects you with password-stealing malware<a href="https://www.bleepingcomputer.com/news/security/fake-pixelmon-nft-site-infects-you-with-password-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fake Pixelmon NFT site entices fans with free tokens and collectibles while infecting them with malware that steals their cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eternity Project - A New Swiss Army Knife for Threat Actors<a href="https://cyware.com/news/eternity-project-a-new-swiss-army-knife-for-threat-actors-782bd03f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using Tor and Telegram to spread the Eternity malware that is customizable to modules, including a stealer, clipper, worm, miner, and ransomware. It can pilfer information from cryptocurrency extensions or even cold wallets. It also targets password managers, VPN clients, messenge ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 365 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/131304/breaking-news/security-affairs-newsletter-round-365-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine CERT-UA warns of new attacks launched by Russia-linked Armageddon APT<a href="https://securityaffairs.co/wordpress/131296/breaking-news/cert-ua-warns-armageddon-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine Computer Emergency Response Team (CERT-UA) reported a phishing campaign conducted by Armageddon APT using GammaLoad.PS1_v2 malware.
+
+
+
+Ukraine Computer Emergency Response Team (CERT-UA) reported a phishing campaign using messages with subject...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sysrv-K, a new variant of the Sysrv botnet includes new exploits<a href="https://securityaffairs.co/wordpress/131290/cyber-crime/microsoft-sysrv-botnet-new-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft reported that the Sysrv botnet is targeting Windows and Linux servers exploiting flaws in the Spring Framework and WordPress.
+
+
+
+Microsoft Security Intelligence team Microsoft reported that a new variant of the Sysrv botnet,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Get Lifetime Access to 2022 Cybersecurity Certification Prep Courses @ 95% Off<a href="https://thehackernews.com/2022/05/get-ultimate-2022-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ever thought about working full-time in  cybersecurity ? With millions of unfilled jobs around, now is a great time to get into the industry. Of course, there are many different roles in this field. But all of them require the same handful of professional certifications.  The 2022 Ultimate Advanced CyberSecurity Professional Certification Bundle  helps you collect the full house, with five full-length courses working towards  key exams . The included training has a total value of $1,475. But in a special deal for readers of The Hacker News, the bundle is now available for only $69.    Special Offer  —  You can currently get five top-rated cybersecurity certification courses for only $69, with lifetime access included!  Whether you want to be a  penetration tester  or a cybersecurity researcher, technical recruiters want to see proof of your security expertise. NIST is required for government projects. Meanwhile, CISSP, ISACA, and CASP+ can open doors in the private sector.  In this bu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes new PetitPotam Windows NTLM Relay attack vector<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-new-petitpotam-windows-ntlm-relay-attack-vector/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent security update for a Windows NTLM Relay Attack has been confirmed to be a previously unfixed vector for the PetitPotam attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Angry IT admin wipes employer’s databases, gets 7 years in prison<a href="https://www.bleepingcomputer.com/news/security/angry-it-admin-wipes-employer-s-databases-gets-7-years-in-prison/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Han Bing, a former database administrator for Lianjia, a Chinese real-estate brokerage giant, has been sentenced to 7 years in prison for logging into corporate systems and deleting the company's data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto robber who lured victims via Snapchat and stole £34,000 jailed<a href="https://www.bleepingcomputer.com/news/security/crypto-robber-who-lured-victims-via-snapchat-and-stole-34-000-jailed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online crypto scams and ponzi schemes leveraging social media platforms are hardly anything new. But, this gruesome case of a London-based crypto robber transcends the virtual realm and tells a shocking tale of real-life victims from whom the perpetrator successfully stole £34,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The LEGION collective calls to action to attack the final of the Eurovision song contest<a href="https://securityaffairs.co/wordpress/131280/hacktivism/legion-collective-call-attack-eurovision.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pro-Russian volunteer movement known as LEGION is calling to launch DDoS attacks against the final of the Eurovision song contest.
+
+
+
+The LEGION is a Pro-Russian volunteer movement that focuses on DDOS attacks. The group made the headlines for attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpRussia update: Anonymous breached other organizations<a href="https://securityaffairs.co/wordpress/131264/hacktivism/anonymous-oprussia-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Another week has passed and Anonymous has hacked other Russian companies and leaked their data via DDoSecrets.
+
+
+
+The #OpRussia launched by Anonymous on Russia after the criminal invasion of Ukraine continues, the collective claims to have hacked multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian hacktivists target Italy government websites<a href="https://securityaffairs.co/wordpress/131256/hacktivism/pro-russian-hacktivists-target-italy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russian hacker group Killnet targeted the websites of several Italian institutions, including the senate and the National Institute of Health.
+
+
+
+A group of Pro-Russian hackers known as "Killnet" launched an attack against multiple websites of several...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerabilities Provide Root Access to InHand Industrial Routers<a href="https://www.securityweek.com/critical-vulnerabilities-provide-root-access-inhand-industrial-routers?&web_view=true"> Full Text</a>
@@ -50,7 +324,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2022
+May 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical flaw in Zyxel firewalls grants access to corporate networks<a href="https://www.helpnetsecurity.com/2022/05/13/cve-2022-30525/?&web_view=true"> Full Text</a>
@@ -66,7 +340,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2022
+May 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 These ransomware attackers sent their ransom note to the victim's printer<a href="https://www.zdnet.com/article/these-ransomware-attackers-sent-their-ransom-note-to-the-victims-printer/?&web_view=true"> Full Text</a>
@@ -82,7 +356,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2022
+May 13, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - May 13th 2022 - A National Emergency<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-13th-2022-a-national-emergency/"> Full Text</a>
@@ -98,7 +372,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2022
+May 13, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Created 'Open Source Maintenance Crew' to Help Secure Critical Projects<a href="https://thehackernews.com/2022/05/google-created-open-source-maintenance.html"> Full Text</a>
@@ -114,7 +388,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2022
+May 13, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Fight Foreign Hackers With Civil Litigation<a href="https://www.lawfareblog.com/how-fight-foreign-hackers-civil-litigation"> Full Text</a>
@@ -130,7 +404,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2022
+May 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall urges customers to fix SMA 1000 vulnerabilities<a href="https://securityaffairs.co/wordpress/131247/security/sonicwall-urges-customers-to-fix-sma-1000-vulnerabilities.html"> Full Text</a>
@@ -150,7 +424,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2022
+May 13, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italian CERT: Hacktivists hit govt sites in ‘Slow HTTP’ DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/italian-cert-hacktivists-hit-govt-sites-in-slow-http-ddos-attacks/"> Full Text</a>
@@ -166,7 +440,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2022
+May 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Saitama backdoor Targeted Official from Jordan's Foreign Ministry<a href="https://thehackernews.com/2022/05/new-saitama-backdoor-targeted-official.html"> Full Text</a>
@@ -182,7 +456,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2022
+May 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel fixed firewall unauthenticated remote command injection issue<a href="https://securityaffairs.co/wordpress/131243/hacking/zyxel-critical-flaw.html"> Full Text</a>
@@ -202,7 +476,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2022
+May 13, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Sysrv botnet targets Windows, Linux servers with new exploits<a href="https://www.bleepingcomputer.com/news/security/microsoft-sysrv-botnet-targets-windows-linux-servers-with-new-exploits/"> Full Text</a>
@@ -218,7 +492,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2022
+May 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked COBALT MIRAGE group uses ransomware in its operations<a href="https://securityaffairs.co/wordpress/131218/apt/iran-cobalt-mirage-ransomware-attacks.html"> Full Text</a>
@@ -238,7 +512,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2022
+May 13, 2022 -- [Malware](/docs/issues/malware/malware/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Binance NFT Mystery Box bots steal victim's crypto wallets<a href="https://www.bleepingcomputer.com/news/security/fake-binance-nft-mystery-box-bots-steal-victims-crypto-wallets/"> Full Text</a>
@@ -254,7 +528,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2022
+May 13, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most Organizations Hit by Ransomware Would Pay If Hit Again<a href="https://www.theregister.com/2022/05/13/organizations_pay_ransomware/?&web_view=true"> Full Text</a>
@@ -270,7 +544,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2022
+May 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall ‘strongly urges’ admins to patch SSLVPN SMA1000 bugs<a href="https://www.bleepingcomputer.com/news/security/sonicwall-strongly-urges-admins-to-patch-sslvpn-sma1000-bugs/"> Full Text</a>
@@ -286,7 +560,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2022
+May 13, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 StackHawk Raises $20.7 Million in Series B Funding<a href="https://www.finsmes.com/2022/05/stackhawk-raises-20-7-million-in-series-b-funding.html?&web_view=true"> Full Text</a>
@@ -302,7 +576,7 @@ FinSMEs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2022
+May 13, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome updates failing on Android devices in Russia<a href="https://www.bleepingcomputer.com/news/security/google-chrome-updates-failing-on-android-devices-in-russia/"> Full Text</a>
@@ -318,7 +592,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2022
+May 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Campaign Targets At Least 14 German Automakers<a href="https://cyware.com/news/malware-campaign-targets-at-least-14-german-automakers-db0e9ea1"> Full Text</a>
@@ -335,7 +609,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2022
+May 13, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Clues Indicate REvil is All Set for a Comeback<a href="https://cyware.com/news/new-clues-indicate-revil-is-all-set-for-a-comeback-baf97deb"> Full Text</a>
@@ -352,7 +626,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2022
+May 13, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FluBot Spreads via SMS Campaigns to Target Finnish People<a href="https://cyware.com/news/flubot-spreads-via-sms-campaigns-to-target-finnish-people-e35f22be"> Full Text</a>
@@ -369,7 +643,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2022
+May 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel fixes firewall flaws that could lead to hacked networks<a href="https://www.bleepingcomputer.com/news/security/zyxel-fixes-firewall-flaws-that-could-lead-to-hacked-networks/"> Full Text</a>
