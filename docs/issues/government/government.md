@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns not to install May Windows updates on domain controllers<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-not-to-install-may-windows-updates-on-domain-controllers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has removed a Windows security flaw from its catalog of&nbsp;known exploited vulnerabilities due to&nbsp;Active Directory (AD) authentication issues caused by the&nbsp;May 2022 updates that patch it.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Removes Windows Vulnerability From 'Must-Patch' List Due to Buggy Update<a href="https://www.securityweek.com/cisa-removes-windows-vulnerability-must-patch-list-due-buggy-update?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has temporarily removed a Windows flaw from its Known Exploited Vulnerabilities Catalog after it was informed by Microsoft that a recent update can cause problems on some types of systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

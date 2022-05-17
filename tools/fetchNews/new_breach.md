@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Parker Hannifin reveals cyberattack exposed sensitive employee data<a href="https://portswigger.net/daily-swig/parker-hannifin-reveals-cyber-attack-exposed-sensitive-employee-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Parker Hannifin said it began notifying potential victims, who include current and former employees, their dependents, and members of Parker’s Group Health Plans, on May 12.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Engineering firm Parker discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/engineering-firm-parker-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Parker-Hannifin Corporation announced a data breach exposing employees' personal information after the Conti ransomware gang began publishing allegedly stolen data last month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

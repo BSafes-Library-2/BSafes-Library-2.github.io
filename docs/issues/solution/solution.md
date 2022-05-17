@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kali Linux 2022.2 released with 10 new tools, WSL improvements, and more<a href="https://www.bleepingcomputer.com/news/security/kali-linux-20222-released-with-10-new-tools-wsl-improvements-and-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Offensive Security has released ​Kali Linux 2022.2, the second version in 2022, with desktop enhancements, a fun April Fools screensaver, WSL GUI improvements, terminal tweaks, and best of all,&nbsp;new tools to play with!
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

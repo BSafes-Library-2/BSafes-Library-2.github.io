@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US links Thanos and Jigsaw ransomware to 55-year-old doctor<a href="https://www.bleepingcomputer.com/news/security/us-links-thanos-and-jigsaw-ransomware-to-55-year-old-doctor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice today said that&nbsp;Moises Luis Zagala Gonzalez (Zagala), a&nbsp;55-year-old cardiologist with French and Venezuelan citizenship residing in Ciudad Bolivar, Venezuela, created and rented Jigsaw and Thanos&nbsp;ransomware to cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

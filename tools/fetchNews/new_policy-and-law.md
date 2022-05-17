@@ -8,6 +8,38 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian national sentenced to 4 years in prison for selling access to hacked servers<a href="https://securityaffairs.co/wordpress/131329/cyber-crime/ukrainian-national-jail-selling-access-hacked-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 28-year-old Ukrainian national has been sentenced to four years in prison for selling access to hacked servers.
+
+
+
+Glib Oleksandr Ivanov-Tolpintsev, a 28-year-old Ukrainian national, has been sentenced to four years in prison for selling access to comprised...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europe Agrees to Adopt New NIS2 Directive Aimed at Hardening Cybersecurity<a href="https://thehackernews.com/2022/05/europe-agrees-to-adopt-new-nis2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Parliament announced a "provisional agreement" aimed at improving cybersecurity and resilience of both public and private sector entities in the European Union.  The revised directive, called " NIS2 " (short for network and information systems), is expected to replace the&nbsp; existing legislation &nbsp;on cybersecurity that was established in July 2016.  The revamp sets ground rules, requiring companies in energy, transport, financial markets, health, and digital infrastructure sectors to adhere to risk management measures and reporting obligations.  Among the provisions in the new legislation are flagging cybersecurity incidents to authorities within 24 hours, patching software vulnerabilities, and readying risk management measures to secure networks, failing which can incur monetary penalties.   "The directive will formally establish the European Cyber Crises Liaison Organization Network, EU-CyCLONe, which will support the coordinated management of larg
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

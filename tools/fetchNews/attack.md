@@ -8,6 +8,53 @@ nav_order: 900015
 
 ## Attack
 ---
+May 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are exploiting critical bug in Zyxel firewalls and VPNs<a href="https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-bug-in-zyxel-firewalls-and-vpns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have started to exploit a recently patched critical vulnerability, tracked as CVE-2022-30525, that affects Zyxel firewall and VPN devices for businesses.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unique IceApple Attack Framework Targets Multiple Sectors<a href="https://cyware.com/news/unique-iceapple-attack-framework-targets-multiple-sectors-e2c2899c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike encountered a previously undocumented post-exploitation framework called IceApple deployed on Exchange servers for data exfiltration.   Its long-running campaign focuses on intelligence gathering and indicates that it is a state-sponsored mission, allegedly, aligning with China-nexus, s ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian hacktivists target Italy government websites<a href="https://securityaffairs.co/wordpress/131256/hacktivism/pro-russian-hacktivists-target-italy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russian hacker group Killnet targeted the websites of several Italian institutions, including the senate and the National Institute of Health.
+
+
+
+A group of Pro-Russian hackers known as "Killnet" launched an attack against multiple websites of several...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

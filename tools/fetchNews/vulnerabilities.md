@@ -11,6 +11,20 @@ nav_order: 900220
 May 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes new PetitPotam Windows NTLM Relay attack vector<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-new-petitpotam-windows-ntlm-relay-attack-vector/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent security update for a Windows NTLM Relay Attack has been confirmed to be a previously unfixed vector for the PetitPotam attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerabilities Provide Root Access to InHand Industrial Routers<a href="https://www.securityweek.com/critical-vulnerabilities-provide-root-access-inhand-industrial-routers?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

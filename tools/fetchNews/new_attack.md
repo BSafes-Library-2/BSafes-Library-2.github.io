@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nerbian RAT Spreads via Emails in Ongoing Attacks<a href="https://cyware.com/news/nerbian-rat-spreads-via-emails-in-ongoing-attacks-39023cc1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nerbian RAT is impersonating the WHO and pretends to contain important information regarding COVID-19. It is currently targeting entities in Italy, Spain, and the U.K. Deploy anti-phishing solutions and email gateways to stay protected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine supporters in Germany targeted with PowerShell RAT malware<a href="https://www.bleepingcomputer.com/news/security/ukraine-supporters-in-germany-targeted-with-powershell-rat-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor is targeting German users interested in the Ukraine crisis, infecting them with a custom PowerShell RAT (remote access trojan) and stealing their data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

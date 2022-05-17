@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Temporarily Removes CVE-2022-26925 from Known Exploited Vulnerability Catalog <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/05/13/cisa-temporarily-removes-cve-2022-26925-known-exploited"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA is temporarily removing CVE-2022-26925 from its Known Exploited Vulnerability Catalog due to a risk of authentication failures when the May 10, 2022 Microsoft rollup update is applied to domain controllers. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 11, 2022 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,422 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HTML attachments remain popular among phishing actors in 2022<a href="https://www.bleepingcomputer.com/news/security/html-attachments-remain-popular-among-phishing-actors-in-2022/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HTML files remain one of the most popular attachments used in phishing attacks for the first four months of 2022, showing that the technique remains effective against antispam engines and works well on the victims themselves.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nerbian RAT Spreads via Emails in Ongoing Attacks<a href="https://cyware.com/news/nerbian-rat-spreads-via-emails-in-ongoing-attacks-39023cc1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nerbian RAT is impersonating the WHO and pretends to contain important information regarding COVID-19. It is currently targeting entities in Italy, Spain, and the U.K. Deploy anti-phishing solutions and email gateways to stay protected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Potential Way to Run Malware on iPhone Even When it's OFF<a href="https://thehackernews.com/2022/05/researchers-find-way-to-run-malware-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A first-of-its-kind security analysis of iOS Find My function has identified a novel attack surface that makes it possible to tamper with the firmware and load malware onto a Bluetooth chip that's executed while an iPhone is "off."  The mechanism takes advantage of the fact that wireless chips related to Bluetooth, Near-field communication ( NFC ), and ultra-wideband ( UWB ) continue to operate while iOS is shut down when entering a "power reserve" Low Power Mode (LPM).  While this is done so as to enable features like  Find My  and facilitate  Express Card transactions , all the three wireless chips have direct access to the secure element, academics from the Secure Mobile Networking Lab ( SEEMOO ) at the Technical University of Darmstadt  said  in a paper.   "The Bluetooth and UWB chips are hardwired to the Secure Element (SE) in the NFC chip, storing secrets that should be available in LPM," the researchers said.  "Since LPM support is impleme
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes the sixth zero-day since the beginning of 2022<a href="https://securityaffairs.co/wordpress/131346/security/apple-sixth-zero-day-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released security updates to address a zero-day bug actively exploited in attacks against Macs and Apple Watch devices.
+
+
+
+Apple has addressed a zero-day vulnerability, tracked as CVE-2022-22675, actively exploited in attacks aimed at Macs and Apple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third-party web trackers log what you type before submitting<a href="https://www.bleepingcomputer.com/news/security/third-party-web-trackers-log-what-you-type-before-submitting/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An extensive study looking into the top 100k ranking websites has revealed that many are leaking information you enter in the site forms to third-party trackers before you even press submit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SharePoint RCE bug resurfaces three months after being patched by Microsoft<a href="https://portswigger.net/daily-swig/sharepoint-rce-bug-resurfaces-three-months-after-being-patched-by-microsoft?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, a variant on an issue that was patched in February, uses the site creation features of SharePoint, Microsoft’s intranet platform, to upload and run malicious files on the server.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Clickjacking Bug Bounty Reports: The Key Facts<a href="https://thehackernews.com/2022/05/fake-clickjacking-bug-bounty-reports.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Are you aware of fake clickjacking bug bounty reports? If not, you should be. This article will get you up to speed and help you to stay alert.  What are clickjacking bug bounty reports?  If we start by breaking up the term into its component parts, a bug bounty is a program offered by an organization, in which individuals are rewarded for finding and reporting software bugs. These programs are often used by companies as a cost-effective way to find and fix software vulnerabilities, thereby improving the security of their products. They also help to build goodwill with the security community.   For the bounty hunters (or white hat hackers), they have an opportunity to earn money and recognition for their skills.   Clickjacking is a malicious technique used to trick users into clicking on something that they think is safe, but is actually harmful. For example, a hacker could create a fake button that looks like the "like" button on a social media site. When users click on it,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts show how to run malware on chips of a turned-off iPhone<a href="https://securityaffairs.co/wordpress/131336/hacking/malware-execution-iphone-turned-off.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers devised an attack technique to tamper the firmware and execute a malware onto a Bluetooth chip when an iPhone is "off."
+
+
+
+A team of researchers from the Secure Mobile Networking Lab (SEEMOO) at the Technical University of Darmstadt demonstrated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US links Thanos and Jigsaw ransomware to 55-year-old doctor<a href="https://www.bleepingcomputer.com/news/security/us-links-thanos-and-jigsaw-ransomware-to-55-year-old-doctor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice today said that Moises Luis Zagala Gonzalez (Zagala), a 55-year-old cardiologist with French and Venezuelan citizenship residing in Ciudad Bolivar, Venezuela, created and rented Jigsaw and Thanos ransomware to cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Mobile Apps Steal Facebook Credentials, Cryptocurrency-Related Keys<a href="https://www.trendmicro.com/en_us/research/22/e/fake-mobile-apps-steal-facebook-credentials--crypto-related-keys.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Similar to Joker, another piece of mobile malware, Facestealer changes its code frequently, thus spawning many variants. Since its discovery, the spyware has continuously beleaguered Google Play.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of "Eternity Project" Malware Service Being Sold via Telegram<a href="https://thehackernews.com/2022/05/researchers-warn-of-eternity-project.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unidentified threat actor has been linked to an actively in-development malware toolkit called the "Eternity Project" that lets professional and amateur cybercriminals buy stealers, clippers, worms, miners, ransomware, and a distributed denial-of-service (DDoS) bot.  What makes this malware-as-a-service (MaaS) stand out is that besides using a Telegram channel to communicate updates about the latest features, it also employs a  Telegram Bot  that enables the purchasers to build the binary.   "The [threat actors] provide an option in the Telegram channel to customize the binary features, which provides an effective way to build binaries without any dependencies," researchers from Cyble  said  in a report published last week.   Each of the modules can be leased separately and provides paid access to a wide variety of functions -   Eternity Stealer  ($260 for an annual subscription) - Siphon passwords, cookies, credit cards, browser cryptocurrency extensions, crypt
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian national sentenced to 4 years in prison for selling access to hacked servers<a href="https://securityaffairs.co/wordpress/131329/cyber-crime/ukrainian-national-jail-selling-access-hacked-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 28-year-old Ukrainian national has been sentenced to four years in prison for selling access to hacked servers.
+
+
+
+Glib Oleksandr Ivanov-Tolpintsev, a 28-year-old Ukrainian national, has been sentenced to four years in prison for selling access to comprised...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple emergency update fixes zero-day used to hack Macs, Watches<a href="https://www.bleepingcomputer.com/news/security/apple-emergency-update-fixes-zero-day-used-to-hack-macs-watches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to address a zero-day vulnerability that threat actors can exploit in attacks targeting Macs and Apple Watch devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This phishing attack delivers three forms of malware. And they all want to steal your data<a href="https://www.zdnet.com/article/this-phishing-attack-delivers-three-forms-of-malware-and-they-all-want-to-steal-your-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Detailed by cybersecurity researchers at Fortinet, those who unintentionally run the malicious attachment sent in phishing emails fall victim to AveMariaRAT, BitRAT and PandoraHVNC trojan malware.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eternity Project: You can pay $260 for a stealer and $490 for a ransomware<a href="https://securityaffairs.co/wordpress/131317/malware/eternity-project-malware-listings.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from threat intelligence firm Cyble analyzed the Eternity Project Tor website which offers any kind of malicious code.
+
+
+
+Researchers at cybersecurity firm Cyble analyzed a Tor website named named ‘Eternity Project' that offers for sale...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine supporters in Germany targeted with PowerShell RAT malware<a href="https://www.bleepingcomputer.com/news/security/ukraine-supporters-in-germany-targeted-with-powershell-rat-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor is targeting German users interested in the Ukraine crisis, infecting them with a custom PowerShell RAT (remote access trojan) and stealing their data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers warn of APTs, data leaks as serious threats against UK financial sector<a href="https://www.zdnet.com/article/researchers-warn-of-apts-data-leaks-as-serious-threats-against-uk-financial-sector/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APTs target organizations worldwide and those located in the UK are no exception. Over the past few years, APTs including the Chinese APT40 and APT31 have utilized vulnerabilities including ProxyLogon to compromise UK businesses.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns not to install May Windows updates on domain controllers<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-not-to-install-may-windows-updates-on-domain-controllers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has removed a Windows security flaw from its catalog of known exploited vulnerabilities due to Active Directory (AD) authentication issues caused by the May 2022 updates that patch it.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Parker Hannifin reveals cyberattack exposed sensitive employee data<a href="https://portswigger.net/daily-swig/parker-hannifin-reveals-cyber-attack-exposed-sensitive-employee-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Parker Hannifin said it began notifying potential victims, who include current and former employees, their dependents, and members of Parker’s Group Health Plans, on May 12.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kali Linux 2022.2 released with 10 new tools, WSL improvements, and more<a href="https://www.bleepingcomputer.com/news/security/kali-linux-20222-released-with-10-new-tools-wsl-improvements-and-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Offensive Security has released ​Kali Linux 2022.2, the second version in 2022, with desktop enhancements, a fun April Fools screensaver, WSL GUI improvements, terminal tweaks, and best of all, new tools to play with!
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Removes Windows Vulnerability From 'Must-Patch' List Due to Buggy Update<a href="https://www.securityweek.com/cisa-removes-windows-vulnerability-must-patch-list-due-buggy-update?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has temporarily removed a Windows flaw from its Known Exploited Vulnerabilities Catalog after it was informed by Microsoft that a recent update can cause problems on some types of systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Engineering firm Parker discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/engineering-firm-parker-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Parker-Hannifin Corporation announced a data breach exposing employees' personal information after the Conti ransomware gang began publishing allegedly stolen data last month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Patches Unauthorized Access Vulnerability in SMA Appliances<a href="https://www.securityweek.com/sonicwall-patches-unauthorized-access-vulnerability-sma-appliances?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has released patches for multiple vulnerabilities in its Secure Mobile Access (SMA) series appliances, including a high-severity issue that could lead to unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europe Agrees to Adopt New NIS2 Directive Aimed at Hardening Cybersecurity<a href="https://thehackernews.com/2022/05/europe-agrees-to-adopt-new-nis2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Parliament announced a "provisional agreement" aimed at improving cybersecurity and resilience of both public and private sector entities in the European Union.  The revised directive, called " NIS2 " (short for network and information systems), is expected to replace the  existing legislation  on cybersecurity that was established in July 2016.  The revamp sets ground rules, requiring companies in energy, transport, financial markets, health, and digital infrastructure sectors to adhere to risk management measures and reporting obligations.  Among the provisions in the new legislation are flagging cybersecurity incidents to authorities within 24 hours, patching software vulnerabilities, and readying risk management measures to secure networks, failing which can incur monetary penalties.   "The directive will formally establish the European Cyber Crises Liaison Organization Network, EU-CyCLONe, which will support the coordinated management of larg
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Hacker Jailed for 4-Years in U.S. for Selling Access to Hacked Servers<a href="https://thehackernews.com/2022/05/ukrainian-hacker-jailed-for-4-years-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 28-year-old Ukrainian national has been sentenced to four years in prison for siphoning thousands of server login credentials and selling them on the dark web for monetary gain as part of a credential theft scheme.  Glib Oleksandr Ivanov-Tolpintsev , who pleaded guilty to his offenses earlier this February, was arrested in Poland in October 2020, before being  extradited to the U.S.  in September 2021.  The illegal sale involved the trafficking of login credentials to servers located across the world and personally identifiable information such as dates of birth and Social Security numbers belonging to U.S. residents on a darknet marketplace.   The unnamed site purportedly offered over 700,000 compromised servers for sale, including at least 150,000 in the U.S. alone. Believed to have been operational from around October 2014, the underground marketplace was seized by law enforcement authorities on January 24, 2019, according to court documents.  This exactly coincides with the dism
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
