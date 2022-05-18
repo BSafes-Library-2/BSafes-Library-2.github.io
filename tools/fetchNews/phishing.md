@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HTML attachments remain popular among phishing actors in 2022<a href="https://www.bleepingcomputer.com/news/security/html-attachments-remain-popular-among-phishing-actors-in-2022/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HTML files remain one of the most popular attachments used in phishing attacks for the first four months of 2022, showing that the technique remains effective against antispam engines and works well on the victims themselves.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This phishing attack delivers three forms of malware. And they all want to steal your data<a href="https://www.zdnet.com/article/this-phishing-attack-delivers-three-forms-of-malware-and-they-all-want-to-steal-your-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Detailed by cybersecurity researchers at Fortinet, those who unintentionally run the malicious attachment sent in phishing emails fall victim to AveMariaRAT, BitRAT and PandoraHVNC trojan malware.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

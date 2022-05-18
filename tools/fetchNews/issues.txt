@@ -30,6 +30,9 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts: 
+. https://home.treasury.gov/system/files/126/20220516_dprk_it_worker_advisory.pdf
+. https://media.defense.gov/2022/May/17/2002998718/-1/-1/0/CSA_WEAK_SECURITY_CONTROLS_PRACTICES_EXPLOITED_FOR_INITIAL_ACCESS.PDF
+. https://www.aha.org/system/files/media/file/2022/05/fbi-flash-tlp-white-cyber-actors-scrape-credit-card-data-from-us-business-online-checkout-page-5-16-22.pdf
  
 Law
 

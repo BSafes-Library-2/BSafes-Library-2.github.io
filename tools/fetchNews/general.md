@@ -8,6 +8,52 @@ nav_order: 900072
 
 ## General
 ---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Clickjacking Bug Bounty Reports: The Key Facts<a href="https://thehackernews.com/2022/05/fake-clickjacking-bug-bounty-reports.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Are you aware of fake clickjacking bug bounty reports? If not, you should be. This article will get you up to speed and help you to stay alert.  What are clickjacking bug bounty reports?  If we start by breaking up the term into its component parts, a bug bounty is a program offered by an organization, in which individuals are rewarded for finding and reporting software bugs. These programs are often used by companies as a cost-effective way to find and fix software vulnerabilities, thereby improving the security of their products. They also help to build goodwill with the security community.&nbsp;  For the bounty hunters (or white hat hackers), they have an opportunity to earn money and recognition for their skills.&nbsp;  Clickjacking is a malicious technique used to trick users into clicking on something that they think is safe, but is actually harmful. For example, a hacker could create a fake button that looks like the "like" button on a social media site. When users click on it,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eternity Project: You can pay $260 for a stealer and $490 for a ransomware<a href="https://securityaffairs.co/wordpress/131317/malware/eternity-project-malware-listings.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from threat intelligence firm Cyble analyzed the Eternity Project Tor website which offers any kind of malicious code.
+
+
+
+Researchers at cybersecurity firm Cyble analyzed a Tor website named named ‘Eternity Project' that offers for sale...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers warn of APTs, data leaks as serious threats against UK financial sector<a href="https://www.zdnet.com/article/researchers-warn-of-apts-data-leaks-as-serious-threats-against-uk-financial-sector/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APTs target organizations worldwide and those located in the UK are no exception. Over the past few years, APTs including the Chinese APT40 and APT31 have utilized vulnerabilities including ProxyLogon to compromise UK businesses.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

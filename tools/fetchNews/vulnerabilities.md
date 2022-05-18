@@ -8,6 +8,98 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Potential Way to Run Malware on iPhone Even When it's OFF<a href="https://thehackernews.com/2022/05/researchers-find-way-to-run-malware-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A first-of-its-kind security analysis of iOS Find My function has identified a novel attack surface that makes it possible to tamper with the firmware and load malware onto a Bluetooth chip that's executed while an iPhone is "off."  The mechanism takes advantage of the fact that wireless chips related to Bluetooth, Near-field communication ( NFC ), and ultra-wideband ( UWB ) continue to operate while iOS is shut down when entering a "power reserve" Low Power Mode (LPM).  While this is done so as to enable features like&nbsp; Find My &nbsp;and facilitate&nbsp; Express Card transactions , all the three wireless chips have direct access to the secure element, academics from the Secure Mobile Networking Lab ( SEEMOO ) at the Technical University of Darmstadt&nbsp; said &nbsp;in a paper.   "The Bluetooth and UWB chips are hardwired to the Secure Element (SE) in the NFC chip, storing secrets that should be available in LPM," the researchers said.  "Since LPM support is impleme
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes the sixth zero-day since the beginning of 2022<a href="https://securityaffairs.co/wordpress/131346/security/apple-sixth-zero-day-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released security updates to address a zero-day bug actively exploited in attacks against Macs and Apple Watch devices.
+
+
+
+Apple has addressed a zero-day vulnerability, tracked as CVE-2022-22675, actively exploited in attacks aimed at Macs and Apple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SharePoint RCE bug resurfaces three months after being patched by Microsoft<a href="https://portswigger.net/daily-swig/sharepoint-rce-bug-resurfaces-three-months-after-being-patched-by-microsoft?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, a variant on an issue that was patched in February, uses the site creation features of SharePoint, Microsoft’s intranet platform, to upload and run malicious files on the server.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts show how to run malware on chips of a turned-off iPhone<a href="https://securityaffairs.co/wordpress/131336/hacking/malware-execution-iphone-turned-off.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers devised an attack technique to tamper the firmware and execute a malware onto a Bluetooth chip when an iPhone is "off."
+
+
+
+A team of researchers from the Secure Mobile Networking Lab (SEEMOO) at the Technical University of Darmstadt demonstrated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple emergency update fixes zero-day used to hack Macs, Watches<a href="https://www.bleepingcomputer.com/news/security/apple-emergency-update-fixes-zero-day-used-to-hack-macs-watches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates&nbsp;to address a zero-day vulnerability that threat actors can exploit in attacks targeting&nbsp;Macs and Apple Watch devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Patches Unauthorized Access Vulnerability in SMA Appliances<a href="https://www.securityweek.com/sonicwall-patches-unauthorized-access-vulnerability-sma-appliances?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has released patches for multiple vulnerabilities in its Secure Mobile Access (SMA) series appliances, including a high-severity issue that could lead to unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

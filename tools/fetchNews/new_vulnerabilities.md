@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA fixes ten vulnerabilities in Windows GPU display drivers<a href="https://www.bleepingcomputer.com/news/security/nvidia-fixes-ten-vulnerabilities-in-windows-gpu-display-drivers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NVIDIA has released a security update for a wide range of graphics card models, addressing four high-severity and six medium-severity vulnerabilities in its GPU drivers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can steal your Tesla Model 3, Y using new Bluetooth attack<a href="https://www.bleepingcomputer.com/news/security/hackers-can-steal-your-tesla-model-3-y-using-new-bluetooth-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers&nbsp;at the NCC Group have developed a tool to carry out a Bluetooth Low Energy (BLE) relay attack that bypasses all existing protections to authenticate on target devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns admins to patch actively exploited Spring, Zyxel bugs<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-spring-zyxel-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has added two more vulnerabilities to its list of actively exploited bugs, a code injection bug in the Spring Cloud Gateway library and a command injection flaw in Zyxel firmware for business firewalls and VPN devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

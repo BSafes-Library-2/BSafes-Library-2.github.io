@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French group Thales buys two cybersecurity firms<a href="https://www.reuters.com/technology/french-group-thales-buys-two-cybersecurity-firms-2022-05-17/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+France's Thales said on Tuesday it had struck a deal with Sonae Investment Management to acquire two European cybersecurity companies, S21sec and Excellium, for an enterprise value of 120 million euros (~$125 million).
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Access Orchestration Firm Pathlock Announces Several M&amp;As and $200M Funding<a href="https://www.securityweek.com/access-orchestration-firm-pathlock-announces-several-mas-and-200m-funding?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pathlock on Tuesday announced mergers with ERP data security firm Appsian, and Security Weaver, a company that provides governance, risk, and compliance management (GRCM) software for SAP.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pangea Lands $25 Million Investment for API Security Services<a href="https://www.securityweek.com/pangea-lands-25-million-investment-api-security-services?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pangea, the brainchild of serial entrepreneur Oliver Friedrichs, said the Series A funding round was led by Ballistic Ventures, a new investment firm focused exclusively on cybersecurity companies.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

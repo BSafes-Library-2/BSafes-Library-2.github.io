@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Hacker Jailed for 4-Years in U.S. for Selling Access to Hacked Servers<a href="https://thehackernews.com/2022/05/ukrainian-hacker-jailed-for-4-years-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 28-year-old Ukrainian national has been sentenced to four years in prison for siphoning thousands of server login credentials and selling them on the dark web for monetary gain as part of a credential theft scheme.  Glib Oleksandr Ivanov-Tolpintsev , who pleaded guilty to his offenses earlier this February, was arrested in Poland in October 2020, before being&nbsp; extradited to the U.S. &nbsp;in September 2021.  The illegal sale involved the trafficking of login credentials to servers located across the world and personally identifiable information such as dates of birth and Social Security numbers belonging to U.S. residents on a darknet marketplace.   The unnamed site purportedly offered over 700,000 compromised servers for sale, including at least 150,000 in the U.S. alone. Believed to have been operational from around October 2014, the underground marketplace was seized by law enforcement authorities on January 24, 2019, according to court documents.  This exactly coincides with the dism
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean devs pose as US freelancers and aid DRPK govt hackers<a href="https://www.bleepingcomputer.com/news/security/north-korean-devs-pose-as-us-freelancers-and-aid-drpk-govt-hackers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French group Thales buys two cybersecurity firms<a href="https://www.reuters.com/technology/french-group-thales-buys-two-cybersecurity-firms-2022-05-17/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UpdateAgent Returns with New macOS Malware Dropper Written in Swift<a href="https://thehackernews.com/2022/05/updateagent-returns-with-new-macos.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 President Biden’s Policy Changes for Offensive Cyber Operations<a href="https://www.lawfareblog.com/president-bidens-policy-changes-offensive-cyber-operations"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Venezuelan cardiologist accused of operating and selling Thanos ransomware<a href="https://securityaffairs.co/wordpress/131382/cyber-crime/venezuelan-man-accused-thanos-ransomware.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NVIDIA fixes ten vulnerabilities in Windows GPU display drivers<a href="https://www.bleepingcomputer.com/news/security/nvidia-fixes-ten-vulnerabilities-in-windows-gpu-display-drivers/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware of North Korean IT workers with fake credentials, US government warns<a href="https://therecord.media/north-korean-it-workers-fbi-state-treasury-warning/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Are You Investing in Securing Your Data in the Cloud?<a href="https://thehackernews.com/2022/05/are-you-investing-in-securing-your-data.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 200 Apps on Play Store were distributing Facestealer info-stealer<a href="https://securityaffairs.co/wordpress/131370/malware/facestealer-info-stealer-play-store.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender for Endpoint gets new troubleshooting mode<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-endpoint-gets-new-troubleshooting-mode/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Access Orchestration Firm Pathlock Announces Several M&As and $200M Funding<a href="https://www.securityweek.com/access-orchestration-firm-pathlock-announces-several-mas-and-200m-funding?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Charges Venezuelan Doctor for Using and Selling Thanos Ransomware<a href="https://thehackernews.com/2022/05/us-charges-venezuelan-doctor-for-using.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds CVE-2022-30525 flaw in Zyxel Firewalls to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/131363/hacking/cisa-cve-2022-30525-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity agencies reveal top initial access attack vectors<a href="https://www.bleepingcomputer.com/news/security/cybersecurity-agencies-reveal-top-initial-access-attack-vectors/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware-as-a-Service Operator AvosLocker Claims Data Theft from Another Healthcare Entity<a href="https://www.govinfosecurity.com/avoslocker-claims-data-theft-from-another-healthcare-entity-a-19083?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Sysrv Botnet Variant Hijacking Windows and Linux with Crypto Miners<a href="https://thehackernews.com/2022/05/new-sysrv-botnet-variant-hijacking.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A custom PowerShell RAT uses to target German users using Ukraine crisis as bait<a href="https://securityaffairs.co/wordpress/131353/intelligence/powershell-rat-targets-germany-ukraine-bait.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers can steal your Tesla Model 3, Y using new Bluetooth attack<a href="https://www.bleepingcomputer.com/news/security/hackers-can-steal-your-tesla-model-3-y-using-new-bluetooth-attack/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Best practices for healthcare delivery organizations to manage supply chain cybersecurity risks<a href="https://www.helpnetsecurity.com/2022/05/17/healthcare-supply-chains-risks/?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 200 Apps on Play Store Caught Spying on Android Users Using Facestealer<a href="https://thehackernews.com/2022/05/over-200-apps-on-play-store-caught.html"> Full Text</a>
@@ -370,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What is ISO 27001 and Why it Matters for Compliance Standards<a href="https://www.bleepingcomputer.com/news/security/what-is-iso-27001-and-why-it-matters-for-compliance-standards/"> Full Text</a>
@@ -386,7 +386,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pangea Lands $25 Million Investment for API Security Services<a href="https://www.securityweek.com/pangea-lands-25-million-investment-api-security-services?&web_view=true"> Full Text</a>
@@ -402,7 +402,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns admins to patch actively exploited Spring, Zyxel bugs<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-spring-zyxel-bugs/"> Full Text</a>
@@ -418,7 +418,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns of Hackers Using Malicious PHP Code to Steal Credit Card Data<a href="https://www.zdnet.com/article/fbi-hackers-used-malicious-php-code-to-grab-credit-card-data/?&web_view=true"> Full Text</a>
@@ -434,7 +434,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers target Tatsu WordPress plugin in millions of attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-target-tatsu-wordpress-plugin-in-millions-of-attacks/"> Full Text</a>
@@ -450,7 +450,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How cryptocurrencies enable attackers and defenders<a href="https://www.techtarget.com/searchsecurity/post/How-cryptocurrencies-enable-attackers-and-defenders?&web_view=true"> Full Text</a>
@@ -466,7 +466,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch Out! Hackers Begin Exploiting Recent Zyxel Firewalls RCE Vulnerability<a href="https://thehackernews.com/2022/05/watch-out-hackers-begin-exploiting.html"> Full Text</a>

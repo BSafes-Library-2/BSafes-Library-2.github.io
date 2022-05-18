@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Best practices for healthcare delivery organizations to manage supply chain cybersecurity risks<a href="https://www.helpnetsecurity.com/2022/05/17/healthcare-supply-chains-risks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Drafted by the Health Information Management Working Group, the report provides best practices that healthcare delivery organizations (HDOs) can use to manage the cybersecurity risks associated with their supply chains.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

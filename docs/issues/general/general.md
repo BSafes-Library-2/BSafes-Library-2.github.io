@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are You Investing in Securing Your Data in the Cloud?<a href="https://thehackernews.com/2022/05/are-you-investing-in-securing-your-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Traditional businesses migrating to the cloud need robust information security mechanisms.&nbsp; Gartner predicts&nbsp; that more than 95% of new digital workloads will continue to be deployed on cloud-native platforms by 2025.  Robust&nbsp; cloud data security &nbsp;is imperative for businesses adopting rapid digital transformation to the cloud. While a traditional hosting model could be considered more secure, not all organizations are receptive to relinquishing control over their infrastructure or applications by relying on a cloud provider at an increased risk of data theft from a cyberattack done by an outsider.  Having said so, let's try to understand the vital part.  What is Cloud Data Security?&nbsp;  Cloud data security entails securing data, whether at rest or in motion, on cloud-based infrastructure, applications, etc., against cyber threats like data breaches, unauthorized access, DDoS attacks, etc.  This includes the technologies, policies, controls, and services to protect cloud-based system
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity agencies reveal top initial access attack vectors<a href="https://www.bleepingcomputer.com/news/security/cybersecurity-agencies-reveal-top-initial-access-attack-vectors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint security advisory issued by multiple national cybersecurity authorities revealed today the top 10 attack vectors most exploited by threat actors for breaching networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is ISO 27001 and Why it Matters for Compliance Standards<a href="https://www.bleepingcomputer.com/news/security/what-is-iso-27001-and-why-it-matters-for-compliance-standards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ISO 27001 may seem like a big undertaking, but the certification can pay off in more ways than one—including overlap with compliance regulations. Read about the benefits of ISO 27001 and how to get started.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

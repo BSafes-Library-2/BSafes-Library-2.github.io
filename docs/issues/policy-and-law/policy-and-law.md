@@ -8,6 +8,52 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+President Biden’s Policy Changes for Offensive Cyber Operations<a href="https://www.lawfareblog.com/president-bidens-policy-changes-offensive-cyber-operations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Concerns about changes to the U.S. policy on offensive cyber operations raise an interesting and important question about the balance of power between the White House and the Department of Defense. But this is a poor framing of the problem.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Venezuelan cardiologist accused of operating and selling Thanos ransomware<a href="https://securityaffairs.co/wordpress/131382/cyber-crime/venezuelan-man-accused-thanos-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department accused a 55-year-old Venezuelan cardiologist of operating and selling the&nbsp;Thanos ransomware.
+
+
+
+The U.S. Justice Department accused Moises Luis Zagala Gonzalez, a 55-year-old cardiologist from Venezuela, of operating and selling...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Charges Venezuelan Doctor for Using and Selling Thanos Ransomware<a href="https://thehackernews.com/2022/05/us-charges-venezuelan-doctor-for-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department on Monday accused a 55-year-old cardiologist from Venezuela of being the mastermind behind&nbsp; Thanos ransomware , charging him with the use and sale of the malicious tool and entering into profit sharing arrangements.  Moises Luis Zagala Gonzalez, also known by the monikers Nosophoros, Aesculapius, and Nebuchadnezzar, is alleged to have both developed and marketed the ransomware to other cybercriminals to facilitate the intrusions and get a share of the bitcoin payment.  If convicted, Zagala faces up to five years' imprisonment for attempted computer intrusion, and five years' imprisonment for conspiracy to commit computer intrusions.&nbsp;   "The multi-tasking doctor treated patients, created and&nbsp; named his cyber tool after death , profited from a global ransomware ecosystem in which he sold the tools for conducting ransomware attacks, trained the attackers about how to extort victims, and then boasted about successful attacks, including by malicious
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

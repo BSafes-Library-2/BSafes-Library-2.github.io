@@ -8,6 +8,66 @@ nav_order: 900075
 
 ## Government
 ---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean devs pose as US freelancers and aid DRPK govt hackers<a href="https://www.bleepingcomputer.com/news/security/north-korean-devs-pose-as-us-freelancers-and-aid-drpk-govt-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government is warning that the Democratic People's Republic of Korea (DPRK) is dispatching its IT workers to get freelance jobs at companies across the world to obtain privileged access that is sometimes used to facilitate cyber intrusions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of North Korean IT workers with fake credentials, US government warns<a href="https://therecord.media/north-korean-it-workers-fbi-state-treasury-warning/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The federal agencies said the freelancers often send money back to North Korea, contributing to its weapons programs, which have earned broad sanctions from the U.S. and United Nations.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds CVE-2022-30525 flaw in Zyxel Firewalls to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/131363/hacking/cisa-cve-2022-30525-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Critical Infrastructure Security Agency (CISA) adds critical CVE-2022-30525 RCE flaw in Zyxel Firewalls to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency added&nbsp;the recently disclosed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Hackers Using Malicious PHP Code to Steal Credit Card Data<a href="https://www.zdnet.com/article/fbi-hackers-used-malicious-php-code-to-grab-credit-card-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers began targeting US businesses in September 2020 by inserting malicious PHP code into the customized online checkout pages. But earlier this year, the actors changed tactics using a different PHP function.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

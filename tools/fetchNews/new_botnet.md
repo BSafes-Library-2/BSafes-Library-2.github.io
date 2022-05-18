@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Sysrv Botnet Variant Hijacking Windows and Linux with Crypto Miners<a href="https://thehackernews.com/2022/05/new-sysrv-botnet-variant-hijacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of a new variant of the srv botnet  that's exploiting multiple security flaws in web applications and databases to install coin miners on both Windows and Linux systems.  The tech giant, which has called the new version Sysrv-K , is said to weaponize an&nbsp; array of exploits &nbsp;to gain control of web servers. The cryptojacking botnet first emerged in December 2020.  "Sysrv-K scans the internet to find web servers with various vulnerabilities to install itself," the company&nbsp; said &nbsp;in a series of tweets. "The vulnerabilities range from path traversal and remote file disclosure to arbitrary file download and remote code execution vulnerabilities."   This also includes&nbsp; CVE-2022-22947 &nbsp;(CVSS score: 10.0), a code injection vulnerability in Spring Cloud Gateway that could be exploited to allow arbitrary remote execution on a remote host via a maliciously crafted request.  It's worth noting that the abuse of CVE-2022-22947 has prompted the U.S. Cyb
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware-as-a-Service Operator AvosLocker Claims Data Theft from Another Healthcare Entity<a href="https://www.govinfosecurity.com/avoslocker-claims-data-theft-from-another-healthcare-entity-a-19083?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its most recent assault against a healthcare entity, ransomware-as-a-service operator AvosLocker claims to be behind an attack allegedly involving data theft from Texas-based CHRISTUS Health.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
