@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Weak Security Controls and Practices Routinely Exploited for Initial Access <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-137a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber actors routinely exploit poor security configurations (either misconfigured or left unsecured), weak controls, and other poor cyber hygiene practices to gain initial access or as part of other tactics to compromise a victim’s system. This joint Cybersecurity Advisory identifies commonly exploited controls and practices and includes best practices to mitigate the issues.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Actors Scrape Credit Card Data from US Business Online Checkout Page and Maintain Persistence by Injecting Malicious PHP Code <a href="https://www.aha.org/cybersecurity-government-intelligence-reports/2022-05-16-fbi-flash-tlp-white-cyber-actors-scrape"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of January 2022, unidentified cyber actors unlawfully scraped credit card data from a US business by injecting malicious PHP Hypertext Preprocessor (PHP) code into the business’ online checkout page and sending the scraped data to an actor-controlled server that spoofed a legitimate card processing server. The unidentified cyber actors also established backdoor access to the victim’s system by modifying two files within the checkout page. The FBI has identified and is sharing new indicators of compromise (IOCs), which may assist in network defense.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 13, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
