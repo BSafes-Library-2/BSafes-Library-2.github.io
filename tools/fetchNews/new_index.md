@@ -34,7 +34,455 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean devs pose as US freelancers and aid DRPK govt hackers<a href="https://www.bleepingcomputer.com/news/security/north-korean-devs-pose-as-us-freelancers-and-aid-drpk-govt-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government is warning that the Democratic People's Republic of Korea (DPRK) is dispatching its IT workers to get freelance jobs at companies across the world to obtain privileged access that is sometimes used to facilitate cyber intrusions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French group Thales buys two cybersecurity firms<a href="https://www.reuters.com/technology/french-group-thales-buys-two-cybersecurity-firms-2022-05-17/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+France's Thales said on Tuesday it had struck a deal with Sonae Investment Management to acquire two European cybersecurity companies, S21sec and Excellium, for an enterprise value of 120 million euros (~$125 million).
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UpdateAgent Returns with New macOS Malware Dropper Written in Swift<a href="https://thehackernews.com/2022/05/updateagent-returns-with-new-macos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the macOS malware tracked as UpdateAgent has been spotted in the wild, indicating ongoing attempts on the part of its authors to upgrade its functionalities.  "Perhaps one of the most identifiable features of the malware is that it relies on the AWS infrastructure to host its various payloads and perform its infection status updates to the server," researchers from Jamf Threat Labs  said  in a report.   UpdateAgent, first detected in late 2020, has since  evolved  into a malware dropper, facilitating the distribution of second-stage payloads such as adware while also bypassing macOS  Gatekeeper  protections.   The newly discovered Swift-based dropper masquerades as Mach-O binaries named " PDFCreator " and " ActiveDirectory " that, upon execution, establish a connection to a remote server and retrieve a bash script to be executed.   "The primary difference [between the two executables] is that it reaches out to a different URL from wh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+President Biden’s Policy Changes for Offensive Cyber Operations<a href="https://www.lawfareblog.com/president-bidens-policy-changes-offensive-cyber-operations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Concerns about changes to the U.S. policy on offensive cyber operations raise an interesting and important question about the balance of power between the White House and the Department of Defense. But this is a poor framing of the problem.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Venezuelan cardiologist accused of operating and selling Thanos ransomware<a href="https://securityaffairs.co/wordpress/131382/cyber-crime/venezuelan-man-accused-thanos-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department accused a 55-year-old Venezuelan cardiologist of operating and selling the Thanos ransomware.
+
+
+
+The U.S. Justice Department accused Moises Luis Zagala Gonzalez, a 55-year-old cardiologist from Venezuela, of operating and selling...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA fixes ten vulnerabilities in Windows GPU display drivers<a href="https://www.bleepingcomputer.com/news/security/nvidia-fixes-ten-vulnerabilities-in-windows-gpu-display-drivers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NVIDIA has released a security update for a wide range of graphics card models, addressing four high-severity and six medium-severity vulnerabilities in its GPU drivers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of North Korean IT workers with fake credentials, US government warns<a href="https://therecord.media/north-korean-it-workers-fbi-state-treasury-warning/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The federal agencies said the freelancers often send money back to North Korea, contributing to its weapons programs, which have earned broad sanctions from the U.S. and United Nations.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are You Investing in Securing Your Data in the Cloud?<a href="https://thehackernews.com/2022/05/are-you-investing-in-securing-your-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Traditional businesses migrating to the cloud need robust information security mechanisms.  Gartner predicts  that more than 95% of new digital workloads will continue to be deployed on cloud-native platforms by 2025.  Robust  cloud data security  is imperative for businesses adopting rapid digital transformation to the cloud. While a traditional hosting model could be considered more secure, not all organizations are receptive to relinquishing control over their infrastructure or applications by relying on a cloud provider at an increased risk of data theft from a cyberattack done by an outsider.  Having said so, let's try to understand the vital part.  What is Cloud Data Security?   Cloud data security entails securing data, whether at rest or in motion, on cloud-based infrastructure, applications, etc., against cyber threats like data breaches, unauthorized access, DDoS attacks, etc.  This includes the technologies, policies, controls, and services to protect cloud-based system
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 200 Apps on Play Store were distributing Facestealer info-stealer<a href="https://securityaffairs.co/wordpress/131370/malware/facestealer-info-stealer-play-store.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted over 200 Android apps on the Play Store distributing spyware called Facestealer used to steal sensitive data.
+
+
+
+Trend Micro researchers spotted over 200 Android apps on the Play Store distributing spyware called Facestealer used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender for Endpoint gets new troubleshooting mode<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-endpoint-gets-new-troubleshooting-mode/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says Defender for Endpoint now comes with a new 'troubleshooting mode' that will help Windows admins test Defender Antivirus performance and run compatibility scenarios without getting blocked by tamper protection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Access Orchestration Firm Pathlock Announces Several M&As and $200M Funding<a href="https://www.securityweek.com/access-orchestration-firm-pathlock-announces-several-mas-and-200m-funding?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pathlock on Tuesday announced mergers with ERP data security firm Appsian, and Security Weaver, a company that provides governance, risk, and compliance management (GRCM) software for SAP.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Charges Venezuelan Doctor for Using and Selling Thanos Ransomware<a href="https://thehackernews.com/2022/05/us-charges-venezuelan-doctor-for-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department on Monday accused a 55-year-old cardiologist from Venezuela of being the mastermind behind  Thanos ransomware , charging him with the use and sale of the malicious tool and entering into profit sharing arrangements.  Moises Luis Zagala Gonzalez, also known by the monikers Nosophoros, Aesculapius, and Nebuchadnezzar, is alleged to have both developed and marketed the ransomware to other cybercriminals to facilitate the intrusions and get a share of the bitcoin payment.  If convicted, Zagala faces up to five years' imprisonment for attempted computer intrusion, and five years' imprisonment for conspiracy to commit computer intrusions.    "The multi-tasking doctor treated patients, created and  named his cyber tool after death , profited from a global ransomware ecosystem in which he sold the tools for conducting ransomware attacks, trained the attackers about how to extort victims, and then boasted about successful attacks, including by malicious
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds CVE-2022-30525 flaw in Zyxel Firewalls to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/131363/hacking/cisa-cve-2022-30525-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Critical Infrastructure Security Agency (CISA) adds critical CVE-2022-30525 RCE flaw in Zyxel Firewalls to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency added the recently disclosed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity agencies reveal top initial access attack vectors<a href="https://www.bleepingcomputer.com/news/security/cybersecurity-agencies-reveal-top-initial-access-attack-vectors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint security advisory issued by multiple national cybersecurity authorities revealed today the top 10 attack vectors most exploited by threat actors for breaching networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware-as-a-Service Operator AvosLocker Claims Data Theft from Another Healthcare Entity<a href="https://www.govinfosecurity.com/avoslocker-claims-data-theft-from-another-healthcare-entity-a-19083?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its most recent assault against a healthcare entity, ransomware-as-a-service operator AvosLocker claims to be behind an attack allegedly involving data theft from Texas-based CHRISTUS Health.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Sysrv Botnet Variant Hijacking Windows and Linux with Crypto Miners<a href="https://thehackernews.com/2022/05/new-sysrv-botnet-variant-hijacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of a new variant of the srv botnet  that's exploiting multiple security flaws in web applications and databases to install coin miners on both Windows and Linux systems.  The tech giant, which has called the new version Sysrv-K , is said to weaponize an  array of exploits  to gain control of web servers. The cryptojacking botnet first emerged in December 2020.  "Sysrv-K scans the internet to find web servers with various vulnerabilities to install itself," the company  said  in a series of tweets. "The vulnerabilities range from path traversal and remote file disclosure to arbitrary file download and remote code execution vulnerabilities."   This also includes  CVE-2022-22947  (CVSS score: 10.0), a code injection vulnerability in Spring Cloud Gateway that could be exploited to allow arbitrary remote execution on a remote host via a maliciously crafted request.  It's worth noting that the abuse of CVE-2022-22947 has prompted the U.S. Cyb
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A custom PowerShell RAT uses to target German users using Ukraine crisis as bait<a href="https://securityaffairs.co/wordpress/131353/intelligence/powershell-rat-targets-germany-ukraine-bait.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a threat actor using a custom PowerShell RAT targeting German users to gain intelligence on the Ukraine crisis.
+
+
+
+Malwarebytes experts uncovered a campaign that targets German users with custom PowerShell RAT targeting. The threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can steal your Tesla Model 3, Y using new Bluetooth attack<a href="https://www.bleepingcomputer.com/news/security/hackers-can-steal-your-tesla-model-3-y-using-new-bluetooth-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at the NCC Group have developed a tool to carry out a Bluetooth Low Energy (BLE) relay attack that bypasses all existing protections to authenticate on target devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Best practices for healthcare delivery organizations to manage supply chain cybersecurity risks<a href="https://www.helpnetsecurity.com/2022/05/17/healthcare-supply-chains-risks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Drafted by the Health Information Management Working Group, the report provides best practices that healthcare delivery organizations (HDOs) can use to manage the cybersecurity risks associated with their supply chains.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 200 Apps on Play Store Caught Spying on Android Users Using Facestealer<a href="https://thehackernews.com/2022/05/over-200-apps-on-play-store-caught.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 200 Android apps masquerading as fitness, photo editing, and puzzle apps have been observed distributing spyware called Facestealer  to siphon user credentials and other valuable information.   "Similar to  Joker , another piece of mobile malware, Facestealer changes its code frequently, thus spawning many variants," Trend Micro analysts Cifer Fang, Ford Quin, and Zhengyu Dong  said  in a new report. "Since its discovery, the spyware has continuously beleaguered Google Play."  Facestealer, first  documented  by Doctor Web in July 2021, refers to a group of fraudulent apps that invade the official app marketplace for Android with the goal of plundering sensitive data such as Facebook login credentials.   Of the 200 apps, 42 are VPN services, followed by a camera (20) and photo editing applications (13). In addition to harvesting credentials, the apps are also designed to collect Facebook cookies and personally identifiable information associated with a vic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is ISO 27001 and Why it Matters for Compliance Standards<a href="https://www.bleepingcomputer.com/news/security/what-is-iso-27001-and-why-it-matters-for-compliance-standards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ISO 27001 may seem like a big undertaking, but the certification can pay off in more ways than one—including overlap with compliance regulations. Read about the benefits of ISO 27001 and how to get started.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pangea Lands $25 Million Investment for API Security Services<a href="https://www.securityweek.com/pangea-lands-25-million-investment-api-security-services?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pangea, the brainchild of serial entrepreneur Oliver Friedrichs, said the Series A funding round was led by Ballistic Ventures, a new investment firm focused exclusively on cybersecurity companies.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns admins to patch actively exploited Spring, Zyxel bugs<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-spring-zyxel-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has added two more vulnerabilities to its list of actively exploited bugs, a code injection bug in the Spring Cloud Gateway library and a command injection flaw in Zyxel firmware for business firewalls and VPN devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Hackers Using Malicious PHP Code to Steal Credit Card Data<a href="https://www.zdnet.com/article/fbi-hackers-used-malicious-php-code-to-grab-credit-card-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers began targeting US businesses in September 2020 by inserting malicious PHP code into the customized online checkout pages. But earlier this year, the actors changed tactics using a different PHP function.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target Tatsu WordPress plugin in millions of attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-target-tatsu-wordpress-plugin-in-millions-of-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are massively exploiting a remote code execution vulnerability, CVE-2021-25094, in the Tatsu Builder plugin for WordPress, which is installed on about 100,000 websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How cryptocurrencies enable attackers and defenders<a href="https://www.techtarget.com/searchsecurity/post/How-cryptocurrencies-enable-attackers-and-defenders?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A rise in the popularity of cryptocurrency-based crime, doubled with a lack of regulation, has paved the way for cybercriminals to extort vast amounts of money from legitimate organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! Hackers Begin Exploiting Recent Zyxel Firewalls RCE Vulnerability<a href="https://thehackernews.com/2022/05/watch-out-hackers-begin-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Image source: z3r00t  The U.S. Cybersecurity and Infrastructure Security Agency on Monday  added  two security flaws, including the recently disclosed remote code execution bug affecting Zyxel firewalls, to its  Known Exploited Vulnerabilities Catalog , citing evidence of active exploitation.  Tracked as  CVE-2022-30525 , the vulnerability is rated 9.8 for severity and relates to a command injection flaw in select versions of the Zyxel firewall that could enable an unauthenticated adversary to execute arbitrary commands on the underlying operating system.   Impacted devices include -   USG FLEX 100, 100W, 200, 500, 700  USG20-VPN, USG20W-VPN  ATP 100, 200, 500, 700, 800, and  VPN series   The issue, for which patches were released by the Taiwanese firm in late April (ZLD V5.30), became public knowledge on May 12 following a coordinated disclosure process with Rapid7.  Source: Shadowserver  Merely a day later, the Shadowserver Foundation  said  it began detecting exploitation attempts,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HTML attachments remain popular among phishing actors in 2022<a href="https://www.bleepingcomputer.com/news/security/html-attachments-remain-popular-among-phishing-actors-in-2022/"> Full Text</a>
@@ -50,7 +498,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nerbian RAT Spreads via Emails in Ongoing Attacks<a href="https://cyware.com/news/nerbian-rat-spreads-via-emails-in-ongoing-attacks-39023cc1"> Full Text</a>
@@ -66,7 +514,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find Potential Way to Run Malware on iPhone Even When it's OFF<a href="https://thehackernews.com/2022/05/researchers-find-way-to-run-malware-on.html"> Full Text</a>
@@ -82,7 +530,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes the sixth zero-day since the beginning of 2022<a href="https://securityaffairs.co/wordpress/131346/security/apple-sixth-zero-day-2022.html"> Full Text</a>
@@ -102,7 +550,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Third-party web trackers log what you type before submitting<a href="https://www.bleepingcomputer.com/news/security/third-party-web-trackers-log-what-you-type-before-submitting/"> Full Text</a>
@@ -118,7 +566,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SharePoint RCE bug resurfaces three months after being patched by Microsoft<a href="https://portswigger.net/daily-swig/sharepoint-rce-bug-resurfaces-three-months-after-being-patched-by-microsoft?&web_view=true"> Full Text</a>
@@ -134,7 +582,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Clickjacking Bug Bounty Reports: The Key Facts<a href="https://thehackernews.com/2022/05/fake-clickjacking-bug-bounty-reports.html"> Full Text</a>
@@ -150,7 +598,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts show how to run malware on chips of a turned-off iPhone<a href="https://securityaffairs.co/wordpress/131336/hacking/malware-execution-iphone-turned-off.html"> Full Text</a>
@@ -170,7 +618,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US links Thanos and Jigsaw ransomware to 55-year-old doctor<a href="https://www.bleepingcomputer.com/news/security/us-links-thanos-and-jigsaw-ransomware-to-55-year-old-doctor/"> Full Text</a>
@@ -186,7 +634,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Mobile Apps Steal Facebook Credentials, Cryptocurrency-Related Keys<a href="https://www.trendmicro.com/en_us/research/22/e/fake-mobile-apps-steal-facebook-credentials--crypto-related-keys.html?&web_view=true"> Full Text</a>
@@ -202,7 +650,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of "Eternity Project" Malware Service Being Sold via Telegram<a href="https://thehackernews.com/2022/05/researchers-warn-of-eternity-project.html"> Full Text</a>
@@ -218,7 +666,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian national sentenced to 4 years in prison for selling access to hacked servers<a href="https://securityaffairs.co/wordpress/131329/cyber-crime/ukrainian-national-jail-selling-access-hacked-servers.html"> Full Text</a>
@@ -238,7 +686,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple emergency update fixes zero-day used to hack Macs, Watches<a href="https://www.bleepingcomputer.com/news/security/apple-emergency-update-fixes-zero-day-used-to-hack-macs-watches/"> Full Text</a>
@@ -254,7 +702,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This phishing attack delivers three forms of malware. And they all want to steal your data<a href="https://www.zdnet.com/article/this-phishing-attack-delivers-three-forms-of-malware-and-they-all-want-to-steal-your-data/?&web_view=true"> Full Text</a>
@@ -270,7 +718,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Eternity Project: You can pay $260 for a stealer and $490 for a ransomware<a href="https://securityaffairs.co/wordpress/131317/malware/eternity-project-malware-listings.html"> Full Text</a>
@@ -290,7 +738,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine supporters in Germany targeted with PowerShell RAT malware<a href="https://www.bleepingcomputer.com/news/security/ukraine-supporters-in-germany-targeted-with-powershell-rat-malware/"> Full Text</a>
@@ -306,7 +754,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers warn of APTs, data leaks as serious threats against UK financial sector<a href="https://www.zdnet.com/article/researchers-warn-of-apts-data-leaks-as-serious-threats-against-uk-financial-sector/?&web_view=true"> Full Text</a>
@@ -322,7 +770,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns not to install May Windows updates on domain controllers<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-not-to-install-may-windows-updates-on-domain-controllers/"> Full Text</a>
@@ -338,7 +786,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Parker Hannifin reveals cyberattack exposed sensitive employee data<a href="https://portswigger.net/daily-swig/parker-hannifin-reveals-cyber-attack-exposed-sensitive-employee-data?&web_view=true"> Full Text</a>
@@ -354,7 +802,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kali Linux 2022.2 released with 10 new tools, WSL improvements, and more<a href="https://www.bleepingcomputer.com/news/security/kali-linux-20222-released-with-10-new-tools-wsl-improvements-and-more/"> Full Text</a>
@@ -370,7 +818,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Removes Windows Vulnerability From 'Must-Patch' List Due to Buggy Update<a href="https://www.securityweek.com/cisa-removes-windows-vulnerability-must-patch-list-due-buggy-update?&web_view=true"> Full Text</a>
@@ -386,7 +834,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Engineering firm Parker discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/engineering-firm-parker-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
@@ -402,7 +850,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2022
+May 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall Patches Unauthorized Access Vulnerability in SMA Appliances<a href="https://www.securityweek.com/sonicwall-patches-unauthorized-access-vulnerability-sma-appliances?&web_view=true"> Full Text</a>
@@ -418,7 +866,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2022
+May 15, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europe Agrees to Adopt New NIS2 Directive Aimed at Hardening Cybersecurity<a href="https://thehackernews.com/2022/05/europe-agrees-to-adopt-new-nis2.html"> Full Text</a>
@@ -434,7 +882,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2022
+May 15, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Hacker Jailed for 4-Years in U.S. for Selling Access to Hacked Servers<a href="https://thehackernews.com/2022/05/ukrainian-hacker-jailed-for-4-years-in.html"> Full Text</a>
