@@ -7,6 +7,42 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Exploiting F5 BIG-IP CVE-2022-1388 <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-138a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) and the Multi-State Information Sharing & Analysis Center (MS-ISAC) are releasing this joint Cybersecurity Advisory (CSA) in response to active exploitation of CVE-2022-1388. This recently disclosed vulnerability in certain versions of F5 Networks, Inc., (F5) BIG-IP enables an unauthenticated actor to gain control of affected systems via the management port or self-IP addresses. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EMERGENCY DIRECTIVE 22-03 MITIGATE VMWARE VULNERABILITIES <a href="https://www.cisa.gov/emergency-directive-22-03"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors, including likely advanced persistent threat (APT) actors, are exploiting vulnerabilities (CVE 2022-22954 and CVE 2022-22960) in the following VMware products: VMware Workspace ONE Access (Access), VMware Identity Manager (vIDM), VMware vRealize Automation (vRA), VMware Cloud Foundation, and vRealize Suite Lifecycle Manager. VMware released an update to address these vulnerabilities on April 6, 2022, and threat actors were able to reverse engineer the update and begin exploitation of impacted VMware products that remained unpatched within 48 hours of the update’s release.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 - U.S. DEPARTMENT of STATE, U.S. DEPARTMENT OF THE TREASURY, FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guidance on the Democratic People’s Republic of Korea Information Technology Workers <a href="https://www.state.gov/guidance-on-the-democratic-peoples-republic-of-korea-information-technology-workers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of State, the U.S. Department of the Treasury, and the Federal Bureau of Investigation issued a joint advisory to alert the international community, the private sector, and the public to attempts by the Democratic People’s Republic of Korea (DPRK) and remote DPRK information technology (IT) workers to obtain employment while posing as non-DPRK nationals.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 16, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

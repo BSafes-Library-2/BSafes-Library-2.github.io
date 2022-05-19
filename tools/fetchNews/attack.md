@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target Tatsu WordPress plugin in millions of attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-target-tatsu-wordpress-plugin-in-millions-of-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are massively exploiting a remote code execution vulnerability,&nbsp;CVE-2021-25094, in the Tatsu Builder plugin for WordPress, which is installed on about 100,000 websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! Hackers Begin Exploiting Recent Zyxel Firewalls RCE Vulnerability<a href="https://thehackernews.com/2022/05/watch-out-hackers-begin-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Image source: z3r00t  The U.S. Cybersecurity and Infrastructure Security Agency on Monday&nbsp; added &nbsp;two security flaws, including the recently disclosed remote code execution bug affecting Zyxel firewalls, to its&nbsp; Known Exploited Vulnerabilities Catalog , citing evidence of active exploitation.  Tracked as&nbsp; CVE-2022-30525 , the vulnerability is rated 9.8 for severity and relates to a command injection flaw in select versions of the Zyxel firewall that could enable an unauthenticated adversary to execute arbitrary commands on the underlying operating system.   Impacted devices include -   USG FLEX 100, 100W, 200, 500, 700  USG20-VPN, USG20W-VPN  ATP 100, 200, 500, 700, 800, and  VPN series   The issue, for which patches were released by the Taiwanese firm in late April (ZLD V5.30), became public knowledge on May 12 following a coordinated disclosure process with Rapid7.  Source: Shadowserver  Merely a day later, the Shadowserver Foundation&nbsp; said &nbsp;it began detecting exploitation attempts,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

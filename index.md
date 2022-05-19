@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spanish police dismantle phishing gang that emptied bank accounts<a href="https://www.bleepingcomputer.com/news/security/spanish-police-dismantle-phishing-gang-that-emptied-bank-accounts/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Phishing Attack Spreads Fileless Malware Trio | Cyware Hacker News<a href="https://cyware.com/news/new-phishing-attack-spreads-fileless-malware-trio-cyware-hacker-news-76fc5701"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Protect Your Data When Ransomware Strikes<a href="https://thehackernews.com/2022/05/how-to-protect-your-data-when.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixed a critical auth bypass issue in some of its products<a href="https://securityaffairs.co/wordpress/131429/security/vmware-critical-auth-bypass-issue.html"> Full Text</a>
@@ -103,7 +103,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Jupiter WordPress plugin flaws let hackers take over sites<a href="https://www.bleepingcomputer.com/news/security/critical-jupiter-wordpress-plugin-flaws-let-hackers-take-over-sites/"> Full Text</a>
@@ -119,7 +119,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UpdateAgent Updated with New Malware Dropper<a href="https://cyware.com/news/updateagent-updated-with-new-malware-dropper-9d50d689"> Full Text</a>
@@ -136,7 +136,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Expose Inner Workings of Billion-Dollar Wizard Spider Cybercrime Gang<a href="https://thehackernews.com/2022/05/researchers-expose-inner-working-of.html"> Full Text</a>
@@ -152,7 +152,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of attacks targeting MSSQL servers using the tool sqlps<a href="https://securityaffairs.co/wordpress/131418/hacking/mssql-servers-attacks.html"> Full Text</a>
@@ -172,7 +172,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 National bank hit by ransomware trolls hackers with dick pics<a href="https://www.bleepingcomputer.com/news/security/national-bank-hit-by-ransomware-trolls-hackers-with-dick-pics/"> Full Text</a>
@@ -188,7 +188,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SYK Crypter Propagates via Discord<a href="https://cyware.com/news/new-syk-crypter-propagates-via-discord-d5115d1e"> Full Text</a>
@@ -205,7 +205,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Gain Fileless Persistence on Targeted SQL Servers Using a Built-in Utility<a href="https://thehackernews.com/2022/05/hackers-gain-fileless-persistence-on.html"> Full Text</a>
@@ -221,7 +221,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of the rise of cryware targeting hot wallets<a href="https://securityaffairs.co/wordpress/131406/malware/microsoft-warns-cryware.html"> Full Text</a>
@@ -241,7 +241,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US recovers $15 million from global Kovter ad fraud operation<a href="https://www.bleepingcomputer.com/news/security/us-recovers-15-million-from-global-kovter-ad-fraud-operation/"> Full Text</a>
@@ -257,7 +257,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chaos Ransomware Variant Sides with Russia<a href="https://www.fortinet.com/blog/threat-research/chaos-ransomware-variant-sides-with-russia?&web_view=true"> Full Text</a>
@@ -273,7 +273,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [eBook] Your 90-Day MSSP Plan: How to Improve Margins and Scale-Up Service Delivery<a href="https://thehackernews.com/2022/05/ebook-your-90-day-mssp-plan-how-to.html"> Full Text</a>
@@ -289,7 +289,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti Ransomware gang threatens to overthrow the government of Costa Rica<a href="https://securityaffairs.co/wordpress/131399/cyber-crime/conti-ransomware-overthrow-costa-rica.html"> Full Text</a>
@@ -309,7 +309,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS orders federal agencies to patch VMware bugs within 5 days<a href="https://www.bleepingcomputer.com/news/security/dhs-orders-federal-agencies-to-patch-vmware-bugs-within-5-days/"> Full Text</a>
@@ -325,7 +325,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity pros spend hours on issues that should have been prevented<a href="https://www.techrepublic.com/article/cybersecurity-spend-hours-issues-prevented/?&web_view=true"> Full Text</a>
@@ -341,7 +341,7 @@ Tech Republic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Warns Against North Korean Hackers Posing as IT Freelancers<a href="https://thehackernews.com/2022/05/us-warns-against-north-korean-hackers.html"> Full Text</a>
@@ -357,7 +357,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts spotted a new variant of UpdateAgent macOS malware dropper written in Swift<a href="https://securityaffairs.co/wordpress/131391/malware/updateagent-macos-malware-swift.html"> Full Text</a>
@@ -377,7 +377,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese ‘Space Pirates’ are hacking Russian aerospace firms<a href="https://www.bleepingcomputer.com/news/security/chinese-space-pirates-are-hacking-russian-aerospace-firms/"> Full Text</a>
@@ -393,7 +393,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 380,000 Kubernetes API Servers Exposed to Internet: Shadowserver<a href="https://www.securityweek.com/over-380000-kubernetes-api-servers-exposed-internet-shadowserver?&web_view=true"> Full Text</a>
@@ -409,7 +409,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of "Cryware" Info-Stealing Malware Targeting Crypto Wallets<a href="https://thehackernews.com/2022/05/microsoft-warns-of-cryware-info.html"> Full Text</a>
@@ -425,7 +425,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware patches critical auth bypass flaw in multiple products<a href="https://www.bleepingcomputer.com/news/security/vmware-patches-critical-auth-bypass-flaw-in-multiple-products/"> Full Text</a>
@@ -441,7 +441,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Vulnerable Maritime Supply Chain - a Threat to the Global Economy<a href="https://www.securityweek.com/vulnerable-maritime-supply-chain-threat-global-economy?&web_view=true"> Full Text</a>
@@ -457,7 +457,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA shares guidance to block ongoing F5 BIG-IP attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-shares-guidance-to-block-ongoing-f5-big-ip-attacks/"> Full Text</a>
@@ -473,7 +473,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of 22.5 Million Malaysians Born 1940-2004 Allegedly Being Sold for $10,000<a href="https://www.straitstimes.com/asia/se-asia/data-of-225-million-malaysians-born-1940-2004-allegedly-being-sold-for-us10k?&web_view=true"> Full Text</a>
@@ -489,7 +489,7 @@ Straits Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake crypto sites lure wannabe thieves by spamming login credentials<a href="https://www.bleepingcomputer.com/news/security/fake-crypto-sites-lure-wannabe-thieves-by-spamming-login-credentials/"> Full Text</a>
@@ -505,7 +505,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bangladesh Added to Targets in Bitter APT’s Ongoing Campaign<a href="https://cyware.com/news/bangladesh-added-to-targets-in-bitter-apts-ongoing-campaign-bf391bdc"> Full Text</a>
@@ -521,7 +521,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of brute-force attacks targeting MSSQL servers<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-brute-force-attacks-targeting-mssql-servers/"> Full Text</a>
@@ -537,7 +537,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 iPhones Vulnerable to Attack Even When Turned Off<a href="https://threatpost.com/iphones-attack-turned-off/179641/"> Full Text</a>
@@ -553,7 +553,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Conti Ransomware Gang Threatens to Overthrow New Costa Rican Government<a href="https://thehackernews.com/2022/05/russian-conti-ransomware-gang-threatens.html"> Full Text</a>
@@ -569,7 +569,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022
+May 17, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean devs pose as US freelancers to aid DRPK govt hackers<a href="https://www.bleepingcomputer.com/news/security/north-korean-devs-pose-as-us-freelancers-to-aid-drpk-govt-hackers/"> Full Text</a>

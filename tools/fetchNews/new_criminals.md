@@ -8,6 +8,80 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish police dismantle phishing gang that emptied bank accounts<a href="https://www.bleepingcomputer.com/news/security/spanish-police-dismantle-phishing-gang-that-emptied-bank-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spanish police have announced the arrest of 13 people and the launch of investigations on another 7 for their participation in a phishing ring that defrauded at least 146 people.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Expose Inner Workings of Billion-Dollar Wizard Spider Cybercrime Gang<a href="https://thehackernews.com/2022/05/researchers-expose-inner-working-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The inner workings of a cybercriminal group known as the Wizard Spider have been exposed, shedding light on its organizational structure and motivations.  "Most of Wizard Spider's efforts go into hacking European and U.S. businesses, with a special cracking tool used by some of their attackers to breach high-value targets," Swiss cybersecurity company PRODAFT&nbsp; said &nbsp;in a new report shared with The Hacker News. "Some of the money they get is put back into the project to develop new tools and talent."  Wizard Spider, also known as Gold Blackburn, is believed to operate out of Russia and refers to a financially motivated threat actor that's been linked to the TrickBot botnet, a modular malware that was&nbsp; officially discontinued &nbsp;earlier this year in favor of improved malware such as BazarBackdoor.   That's not all. The TrickBot operators have also extensively cooperated with&nbsp; Conti , another Russia-linked cybercrime group notorious for offering ransomware-a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US recovers $15 million from global Kovter ad fraud operation<a href="https://www.bleepingcomputer.com/news/security/us-recovers-15-million-from-global-kovter-ad-fraud-operation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government has recovered over $15 million from Swiss bank accounts belonging to operators behind the '3ve' online advertising fraud scheme.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware gang threatens to overthrow the government of Costa Rica<a href="https://securityaffairs.co/wordpress/131399/cyber-crime/conti-ransomware-overthrow-costa-rica.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware gang is threatening to 'overthrow' the new government of Costa Rica after last month's attack.
+
+
+
+Last month, the Conti ransomware gang claimed responsibility for the attack on Costa Rica government infrastructure after that the government...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake crypto sites lure wannabe thieves by spamming login credentials<a href="https://www.bleepingcomputer.com/news/security/fake-crypto-sites-lure-wannabe-thieves-by-spamming-login-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are luring potential thieves by spamming login credentials for other people account's on fake crypto trading sites, illustrating once again, that there is no honor among thieves.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

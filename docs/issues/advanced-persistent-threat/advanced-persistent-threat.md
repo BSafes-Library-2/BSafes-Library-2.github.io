@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bangladesh Added to Targets in Bitter APT’s Ongoing Campaign<a href="https://cyware.com/news/bangladesh-added-to-targets-in-bitter-apts-ongoing-campaign-bf391bdc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos revealed an ongoing campaign operated by the APT actor since August 2021. The campaign has been launched against an elite unit of the Bangladeshi government via spear-phishing emails.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

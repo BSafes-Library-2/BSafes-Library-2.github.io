@@ -8,6 +8,80 @@ nav_order: 900015
 
 ## Attack
 ---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of attacks targeting MSSQL servers using the tool sqlps<a href="https://securityaffairs.co/wordpress/131418/hacking/mssql-servers-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of brute-forcing attacks targeting Microsoft SQL Server (MSSQL) database servers exposed online. 
+
+
+
+Microsoft warns of a new hacking campaign aimed at MSSQL servers, threat actors are launching brute-forcing attacks against poorly protected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Gain Fileless Persistence on Targeted SQL Servers Using a Built-in Utility<a href="https://thehackernews.com/2022/05/hackers-gain-fileless-persistence-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday warned that it recently spotted a malicious campaign targeting SQL Servers that leverages a built-in PowerShell binary to achieve persistence on compromised systems.  The intrusions, which leverage brute-force attacks as an initial compromise vector, stand out for their use of the utility " sqlps.exe ," the tech giant&nbsp; said &nbsp;in a series of tweets.  The ultimate goals of the campaign are unknown, as is the identity of the threat actor staging it. Microsoft is tracking the malware under the name " SuspSQLUsage ."   The sqlps.exe utility, which comes by default with all versions of SQL Servers, enables an SQL Agent — a Windows service to run scheduled tasks — to run jobs using the PowerShell subsystem.  "The attackers achieve fileless persistence by spawning the sqlps.exe utility, a PowerShell wrapper for running SQL-built cmdlets, to run recon commands and change the start mode of the SQL service to LocalSystem," Microsoft noted.   Addi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese ‘Space Pirates’ are hacking Russian aerospace firms<a href="https://www.bleepingcomputer.com/news/security/chinese-space-pirates-are-hacking-russian-aerospace-firms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown Chinese hacking group known as 'Space Pirates' targets enterprises in the Russian aerospace industry with phishing emails to install novel malware on their systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of brute-force attacks targeting MSSQL servers<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-brute-force-attacks-targeting-mssql-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned of brute-forcing attacks targeting Internet-exposed and poorly secured Microsoft SQL Server (MSSQL) database servers using weak passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Conti Ransomware Gang Threatens to Overthrow New Costa Rican Government<a href="https://thehackernews.com/2022/05/russian-conti-ransomware-gang-threatens.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious Conti ransomware gang, which last month staged an attack on Costa Rican administrative systems, has threatened to "overthrow" the new government of the country.  "We are determined to overthrow the government by means of a cyber attack, we have already shown you all the strength and power," the group said on its official website. "We have our insiders in your government. We are also working on gaining access to your other systems, you have no other options but to pay us."  In a further attempt to increase pressure, the Russian-speaking cybercrime syndicate has raised its ransom demand to $20 million in return for a decryption key to unlock their systems.  Another message posted on its dark web portal over the weekend issued a warning stating it will delete the decryption keys in a week, a move that would make it impossible for Costa Rica to recover access to the files encrypted by the ransomware.   "I appeal to every resident of Costa R
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

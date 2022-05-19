@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Protect Your Data When Ransomware Strikes<a href="https://thehackernews.com/2022/05/how-to-protect-your-data-when.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware &nbsp;is not a new attack vector. In fact, the&nbsp; first malware of its kind &nbsp;appeared more than 30 years ago and was distributed via 5.25-inch floppy disks. To pay the ransom, the victim had to mail money to a P.O. Box in Panama.  Fast forward to today, affordable ransomware-as-a-service (RaaS) kits are available on the dark web for anyone to purchase and deploy and attackers have an infinite number of channels available to them to infiltrate organizations as a result of reliance on cloud and mobile technologies.  Initiating a ransomware attack is all about discretely gaining access. And as employees can now access your data from anywhere, you have lost visibility into how they do so. To safeguard against these attacks, you're not just looking for malware, you need continuous insights into your users, the endpoints they use and the applications and data they access.  Lookout , a leader in endpoint-to-cloud security, has published an interactive infographic to help you visualiz
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] Your 90-Day MSSP Plan: How to Improve Margins and Scale-Up Service Delivery<a href="https://thehackernews.com/2022/05/ebook-your-90-day-mssp-plan-how-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To cash in on a thriving market, a managed security service provider (MSSP) must navigate unprecedented competition and complex challenges. The good news is that demand is through the roof. 69% of organizations plan to boost spending on cybersecurity in 2022.&nbsp;  The bad news is that everyone wants a piece of the pie. MSSPs must outshine each other while fending off encroachments by traditional IT vendors and MSPs. As a result, some MSSPs are succumbing to the squeeze of low margins. Others are struggling to scale successfully.&nbsp;  The most successful MSSPs are taking action to improve their current financial position while laying a foundation for long-term growth. A new eBook, " Your 90-Day MSSP Plan: How to Improve Margins and Scale Up Service Delivery ," to help MSSPs understand the current cybersecurity landscape, their current position in it, what you they're well, and where they can improve the most.&nbsp;  This nine-step plan offers a clear path for MSSPs to boost profitab
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
