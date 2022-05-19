@@ -34,6 +34,557 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish police dismantle phishing gang that emptied bank accounts<a href="https://www.bleepingcomputer.com/news/security/spanish-police-dismantle-phishing-gang-that-emptied-bank-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spanish police have announced the arrest of 13 people and the launch of investigations on another 7 for their participation in a phishing ring that defrauded at least 146 people.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing Attack Spreads Fileless Malware Trio | Cyware Hacker News<a href="https://cyware.com/news/new-phishing-attack-spreads-fileless-malware-trio-cyware-hacker-news-76fc5701"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign has been observed targeting Windows users with three different fileless malware to steal sensitive information. The three malware are identified as  BitRAT , PandoraHVNC, and AveMariaRAT.  VBA scripts and PowerShell are used to retrieve the malware and install it on the victim' ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Protect Your Data When Ransomware Strikes<a href="https://thehackernews.com/2022/05/how-to-protect-your-data-when.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware  is not a new attack vector. In fact, the  first malware of its kind  appeared more than 30 years ago and was distributed via 5.25-inch floppy disks. To pay the ransom, the victim had to mail money to a P.O. Box in Panama.  Fast forward to today, affordable ransomware-as-a-service (RaaS) kits are available on the dark web for anyone to purchase and deploy and attackers have an infinite number of channels available to them to infiltrate organizations as a result of reliance on cloud and mobile technologies.  Initiating a ransomware attack is all about discretely gaining access. And as employees can now access your data from anywhere, you have lost visibility into how they do so. To safeguard against these attacks, you're not just looking for malware, you need continuous insights into your users, the endpoints they use and the applications and data they access.  Lookout , a leader in endpoint-to-cloud security, has published an interactive infographic to help you visualiz
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed a critical auth bypass issue in some of its products<a href="https://securityaffairs.co/wordpress/131429/security/vmware-critical-auth-bypass-issue.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed a critical authentication bypass vulnerability "affecting local domain users" in multiple products.
+
+
+
+The virtualization giant warns that a threat actor can exploit the flaw, tracked as CVE-2022-22972 (CVSSv3 base score of 9.8),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Jupiter WordPress plugin flaws let hackers take over sites<a href="https://www.bleepingcomputer.com/news/security/critical-jupiter-wordpress-plugin-flaws-let-hackers-take-over-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress security analysts have discovered a set of vulnerabilities impacting the Jupiter Theme and JupiterX Core plugins for WordPress, one of which is a critical privilege escalation flaw.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UpdateAgent Updated with New Malware Dropper<a href="https://cyware.com/news/updateagent-updated-with-new-malware-dropper-9d50d689"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of UpdateAgent macOS malware was tracked, indicating ongoing attempts on the part of its authors to upgrade its functionalities.  The new dropper is a Swift-based executable, which masquerades as Mach-O binaries such as PDFCreator and ActiveDirectory.&nbsp; It is recommended to stay a ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Expose Inner Workings of Billion-Dollar Wizard Spider Cybercrime Gang<a href="https://thehackernews.com/2022/05/researchers-expose-inner-working-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The inner workings of a cybercriminal group known as the Wizard Spider have been exposed, shedding light on its organizational structure and motivations.  "Most of Wizard Spider's efforts go into hacking European and U.S. businesses, with a special cracking tool used by some of their attackers to breach high-value targets," Swiss cybersecurity company PRODAFT  said  in a new report shared with The Hacker News. "Some of the money they get is put back into the project to develop new tools and talent."  Wizard Spider, also known as Gold Blackburn, is believed to operate out of Russia and refers to a financially motivated threat actor that's been linked to the TrickBot botnet, a modular malware that was  officially discontinued  earlier this year in favor of improved malware such as BazarBackdoor.   That's not all. The TrickBot operators have also extensively cooperated with  Conti , another Russia-linked cybercrime group notorious for offering ransomware-a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of attacks targeting MSSQL servers using the tool sqlps<a href="https://securityaffairs.co/wordpress/131418/hacking/mssql-servers-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of brute-forcing attacks targeting Microsoft SQL Server (MSSQL) database servers exposed online. 
+
+
+
+Microsoft warns of a new hacking campaign aimed at MSSQL servers, threat actors are launching brute-forcing attacks against poorly protected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National bank hit by ransomware trolls hackers with dick pics<a href="https://www.bleepingcomputer.com/news/security/national-bank-hit-by-ransomware-trolls-hackers-with-dick-pics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After suffering a ransomware attack by the Hive operation, the Bank of Zambia made it clear that they were not going to pay by posting a picture of male genitalia and telling the hackers to s… (well, you can use your imagination).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SYK Crypter Propagates via Discord<a href="https://cyware.com/news/new-syk-crypter-propagates-via-discord-d5115d1e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are abusing Discord’s CDN with the new SYK crypter designed to dodge behavior-based security controls while opening a gate to different malware families, such as AsyncRAT, NanoCore RAT, and more. The increasing number of people using the community chat platform has continued attractin ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Gain Fileless Persistence on Targeted SQL Servers Using a Built-in Utility<a href="https://thehackernews.com/2022/05/hackers-gain-fileless-persistence-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday warned that it recently spotted a malicious campaign targeting SQL Servers that leverages a built-in PowerShell binary to achieve persistence on compromised systems.  The intrusions, which leverage brute-force attacks as an initial compromise vector, stand out for their use of the utility " sqlps.exe ," the tech giant  said  in a series of tweets.  The ultimate goals of the campaign are unknown, as is the identity of the threat actor staging it. Microsoft is tracking the malware under the name " SuspSQLUsage ."   The sqlps.exe utility, which comes by default with all versions of SQL Servers, enables an SQL Agent — a Windows service to run scheduled tasks — to run jobs using the PowerShell subsystem.  "The attackers achieve fileless persistence by spawning the sqlps.exe utility, a PowerShell wrapper for running SQL-built cmdlets, to run recon commands and change the start mode of the SQL service to LocalSystem," Microsoft noted.   Addi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of the rise of cryware targeting hot wallets<a href="https://securityaffairs.co/wordpress/131406/malware/microsoft-warns-cryware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft researchers warn of the rising threat of cryware targeting non-custodial cryptocurrency wallets, also known as hot wallets.
+
+
+
+Microsoft warns of the rise of cryware, malicious software used to steal info an dfunds from non-custodial cryptocurrency...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US recovers $15 million from global Kovter ad fraud operation<a href="https://www.bleepingcomputer.com/news/security/us-recovers-15-million-from-global-kovter-ad-fraud-operation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government has recovered over $15 million from Swiss bank accounts belonging to operators behind the '3ve' online advertising fraud scheme.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chaos Ransomware Variant Sides with Russia<a href="https://www.fortinet.com/blog/threat-research/chaos-ransomware-variant-sides-with-russia?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Such actions have created tension internally within the threat actor groups as it has caused dissension, and externally, as organizations fear being targeted due to the political nature of the war.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] Your 90-Day MSSP Plan: How to Improve Margins and Scale-Up Service Delivery<a href="https://thehackernews.com/2022/05/ebook-your-90-day-mssp-plan-how-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To cash in on a thriving market, a managed security service provider (MSSP) must navigate unprecedented competition and complex challenges. The good news is that demand is through the roof. 69% of organizations plan to boost spending on cybersecurity in 2022.   The bad news is that everyone wants a piece of the pie. MSSPs must outshine each other while fending off encroachments by traditional IT vendors and MSPs. As a result, some MSSPs are succumbing to the squeeze of low margins. Others are struggling to scale successfully.   The most successful MSSPs are taking action to improve their current financial position while laying a foundation for long-term growth. A new eBook, " Your 90-Day MSSP Plan: How to Improve Margins and Scale Up Service Delivery ," to help MSSPs understand the current cybersecurity landscape, their current position in it, what you they're well, and where they can improve the most.   This nine-step plan offers a clear path for MSSPs to boost profitab
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware gang threatens to overthrow the government of Costa Rica<a href="https://securityaffairs.co/wordpress/131399/cyber-crime/conti-ransomware-overthrow-costa-rica.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware gang is threatening to 'overthrow' the new government of Costa Rica after last month's attack.
+
+
+
+Last month, the Conti ransomware gang claimed responsibility for the attack on Costa Rica government infrastructure after that the government...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS orders federal agencies to patch VMware bugs within 5 days<a href="https://www.bleepingcomputer.com/news/security/dhs-orders-federal-agencies-to-patch-vmware-bugs-within-5-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security's cybersecurity unit ordered Federal Civilian Executive Branch (FCEB) agencies today to urgently update or remove VMware products from their networks by Monday due to an increased risk of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity pros spend hours on issues that should have been prevented<a href="https://www.techrepublic.com/article/cybersecurity-spend-hours-issues-prevented/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a survey commissioned by Invicti, some 41% of the security professionals and 32% of the developers surveyed said they spend more than five hours each workday addressing security issues that should not have occurred in the first place.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Warns Against North Korean Hackers Posing as IT Freelancers<a href="https://thehackernews.com/2022/05/us-warns-against-north-korean-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Highly skilled software and mobile app developers from the Democratic People's Republic of Korea (DPRK) are posing as "non-DPRK nationals" in hopes of landing freelance employment in an attempt to enable the regime's  malicious cyber intrusions .  That's according to a  joint advisory  from the U.S. Department of State, the Department of the Treasury, and the Federal Bureau of Investigation (FBI) issued on Monday.  Targets include financial, health, social media, sports, entertainment, and lifestyle-focused companies located in North America, Europe, and East Asia, with most of the dispatched workers situated in China, Russia, Africa, and Southeast Asia.  The goal, the U.S. agencies warn, is to generate a constant stream of revenue that sidesteps international sanctions imposed on the nation and help serve its economic and security priorities, including the development of nuclear and ballistic missiles.   "The North Korean government withholds up to 90 perce
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted a new variant of UpdateAgent macOS malware dropper written in Swift<a href="https://securityaffairs.co/wordpress/131391/malware/updateagent-macos-malware-swift.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new variant of the UpdateAgent macOS malware dropper that was employed in attacks in the wild.
+
+
+
+Researchers from the Jamf Threat Labs team have uncovered a new variant of the UpdateAgent macOS malware dropper. The new version...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese ‘Space Pirates’ are hacking Russian aerospace firms<a href="https://www.bleepingcomputer.com/news/security/chinese-space-pirates-are-hacking-russian-aerospace-firms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown Chinese hacking group known as 'Space Pirates' targets enterprises in the Russian aerospace industry with phishing emails to install novel malware on their systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 380,000 Kubernetes API Servers Exposed to Internet: Shadowserver<a href="https://www.securityweek.com/over-380000-kubernetes-api-servers-exposed-internet-shadowserver?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShadowServer is conducting daily scans of the IPv4 space on ports 443 and 6443, looking for IP addresses that respond with an HTTP 200 OK status, which indicates that the request has succeeded.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of "Cryware" Info-Stealing Malware Targeting Crypto Wallets<a href="https://thehackernews.com/2022/05/microsoft-warns-of-cryware-info.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of an emerging threat targeting internet-connected cryptocurrency wallets, signaling a departure in the use of digital coins in cyberattacks.  The tech giant dubbed the new threat "cryware," with the attacks resulting in the irreversible theft of virtual currencies by means of fraudulent transfers to an adversary-controlled wallet.  "Cryware are information stealers that collect and exfiltrate data directly from non-custodial cryptocurrency wallets, also known as  hot wallets ," Berman Enconado and Laurie Kirk of the Microsoft 365 Defender Research Team  said  in a new report.   "Because hot wallets, unlike custodial wallets, are stored locally on a device and provide easier access to cryptographic keys needed to perform transactions, more and more threats are targeting them."   Attacks of this kind are not theoretical. Earlier this year, Kaspersky  disclosed  a financially-motivated campaign staged by the North Korea-based Lazarus Gr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware patches critical auth bypass flaw in multiple products<a href="https://www.bleepingcomputer.com/news/security/vmware-patches-critical-auth-bypass-flaw-in-multiple-products/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware warned customers today to immediately patch a critical authentication bypass vulnerability "affecting local domain users" in multiple products that can be exploited to obtain admin privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Vulnerable Maritime Supply Chain - a Threat to the Global Economy<a href="https://www.securityweek.com/vulnerable-maritime-supply-chain-threat-global-economy?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The merchant maritime sector functions with vessels that have been operational for anything from a few years to a few decades. The older vessels have had new technology added to improve efficiency through digitization and automation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA shares guidance to block ongoing F5 BIG-IP attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-shares-guidance-to-block-ongoing-f5-big-ip-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a joint advisory issued today, CISA and the Multi-State Information Sharing and Analysis Center (MS-ISAC) warned admins of active attacks targeting a critical F5 BIG-IP network security vulnerability (CVE-2022-1388).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 22.5 Million Malaysians Born 1940-2004 Allegedly Being Sold for $10,000<a href="https://www.straitstimes.com/asia/se-asia/data-of-225-million-malaysians-born-1940-2004-allegedly-being-sold-for-us10k?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The alleged data leak involves information purportedly stolen from the National Registration Department (NRD). Local tech portal Amanz reported that the database, 160GB in size, is being sold for US$10,000 (S$13,846) on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Straits Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake crypto sites lure wannabe thieves by spamming login credentials<a href="https://www.bleepingcomputer.com/news/security/fake-crypto-sites-lure-wannabe-thieves-by-spamming-login-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are luring potential thieves by spamming login credentials for other people account's on fake crypto trading sites, illustrating once again, that there is no honor among thieves.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bangladesh Added to Targets in Bitter APT’s Ongoing Campaign<a href="https://cyware.com/news/bangladesh-added-to-targets-in-bitter-apts-ongoing-campaign-bf391bdc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos revealed an ongoing campaign operated by the APT actor since August 2021. The campaign has been launched against an elite unit of the Bangladeshi government via spear-phishing emails.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of brute-force attacks targeting MSSQL servers<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-brute-force-attacks-targeting-mssql-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned of brute-forcing attacks targeting Internet-exposed and poorly secured Microsoft SQL Server (MSSQL) database servers using weak passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iPhones Vulnerable to Attack Even When Turned Off<a href="https://threatpost.com/iphones-attack-turned-off/179641/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wireless features Bluetooth, NFC and UWB stay on even when the device is powered down, which could allow attackers to execute pre-loaded malware.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Conti Ransomware Gang Threatens to Overthrow New Costa Rican Government<a href="https://thehackernews.com/2022/05/russian-conti-ransomware-gang-threatens.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious Conti ransomware gang, which last month staged an attack on Costa Rican administrative systems, has threatened to "overthrow" the new government of the country.  "We are determined to overthrow the government by means of a cyber attack, we have already shown you all the strength and power," the group said on its official website. "We have our insiders in your government. We are also working on gaining access to your other systems, you have no other options but to pay us."  In a further attempt to increase pressure, the Russian-speaking cybercrime syndicate has raised its ransom demand to $20 million in return for a decryption key to unlock their systems.  Another message posted on its dark web portal over the weekend issued a warning stating it will delete the decryption keys in a week, a move that would make it impossible for Costa Rica to recover access to the files encrypted by the ransomware.   "I appeal to every resident of Costa R
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean devs pose as US freelancers to aid DRPK govt hackers<a href="https://www.bleepingcomputer.com/news/security/north-korean-devs-pose-as-us-freelancers-to-aid-drpk-govt-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government is warning that the Democratic People's Republic of Korea (DPRK) is dispatching its IT workers to get freelance jobs at companies across the world to obtain privileged access that is sometimes used to facilitate cyber intrusions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 17, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
