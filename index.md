@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware shuts down operation, rebrands into smaller units<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-shuts-down-operation-rebrands-into-smaller-units/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Legislation Promoting Cyber Collaboration Between DHS and States Awaits Biden Signature<a href="https://www.nextgov.com/cybersecurity/2022/05/legislation-promoting-cyber-collaboration-between-dhs-and-states-awaits-biden-signature/367104/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Bluetooth Hack Could Let Attackers Remotely Unlock Smart Locks and Cars<a href="https://thehackernews.com/2022/05/new-bluetooth-hack-could-let-attackers.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Privacy Shield 2.0 —Third Time’s the Charm?<a href="https://www.lawfareblog.com/privacy-shield-20%E2%80%86%E2%80%94third-times-charm"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google OAuth client library flaw allowed to deploy of malicious payloads<a href="https://securityaffairs.co/wordpress/131459/security/google-oauth-client-library-flaw.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Media giant Nikkei’s Asian unit hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/media-giant-nikkei-s-asian-unit-hit-by-ransomware-attack/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Washington Local Schools hit with cyberattack<a href="https://www.wtol.com/article/news/local/washington-local-schools-cyber-attack/512-a7c2deb6-5624-4ee8-8d6e-02fac00fcb1e?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ WTOL
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 7 Key Findings from the 2022 SaaS Security Survey Report<a href="https://thehackernews.com/2022/05/7-key-findings-from-2022-saas-security.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pwn2Own Vancouver 2022 D1: MS Teams exploits received $450,000<a href="https://securityaffairs.co/wordpress/131453/hacking/pwn2own-vancouver-2022-d1.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft detects massive surge in Linux XorDDoS malware activity<a href="https://www.bleepingcomputer.com/news/security/microsoft-detects-massive-surge-in-linux-xorddos-malware-activity/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Agencies Showcase Federal Cyber Progress, Outline Future Threats<a href="https://www.nextgov.com/cybersecurity/2022/05/agencies-showcase-federal-cyber-progress-outline-future-threats/367068/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Severity Bug Reported in Google's OAuth Client Library for Java<a href="https://thehackernews.com/2022/05/high-severity-bug-reported-in-googles.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked Space Pirates APT targets the Russian aerospace industry<a href="https://securityaffairs.co/wordpress/131440/apt/space-pirates-targets-space-industry.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. DOJ will no longer prosecute ethical hackers under CFAA<a href="https://www.bleepingcomputer.com/news/security/us-doj-will-no-longer-prosecute-ethical-hackers-under-cfaa/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rogue cloud users could sabotage fellow off-prem tenants via critical Flux flaw<a href="https://portswigger.net/daily-swig/rogue-cloud-users-could-sabotage-fellow-off-prem-tenants-via-critical-flux-flaw?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders federal agencies to fix VMware CVE-2022-22972 and CVE-2022-22973 flaws<a href="https://securityaffairs.co/wordpress/131436/security/cisa-orders-federal-agencies-to-vmware-flaws.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus hackers target VMware servers with Log4Shell exploits<a href="https://www.bleepingcomputer.com/news/security/lazarus-hackers-target-vmware-servers-with-log4shell-exploits/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaws in Jupiter WordPress Plugin<a href="https://cyware.com/news/critical-flaws-in-jupiter-wordpress-plugin-816bd8f7"> Full Text</a>
@@ -339,7 +339,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing websites now use chatbots to steal your credentials<a href="https://www.bleepingcomputer.com/news/security/phishing-websites-now-use-chatbots-to-steal-your-credentials/"> Full Text</a>
@@ -355,7 +355,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Wave of Brute-Force Attacks Target SQL Servers - Microsoft Warns<a href="https://cyware.com/news/new-wave-of-brute-force-attacks-target-sql-servers-microsoft-warns-d31b0eb4"> Full Text</a>
@@ -372,7 +372,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Teams, Windows 11 hacked on first day of Pwn2Own<a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-windows-11-hacked-on-first-day-of-pwn2own/"> Full Text</a>
@@ -388,7 +388,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishers Add Chatbot to the Phishing Lure<a href="https://www.securityweek.com/phishers-add-chatbot-phishing-lure?&web_view=true"> Full Text</a>
@@ -404,7 +404,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP alerts NAS customers of new DeadBolt ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/qnap-alerts-nas-customers-of-new-deadbolt-ransomware-attacks/"> Full Text</a>
@@ -420,7 +420,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Fronton Botnet Goes Beyond Just DDoS attacks at Scale<a href="https://www.zdnet.com/article/russian-fronton-botnet-spreads-misinformation-on-a-massive-scale/?&web_view=true"> Full Text</a>
@@ -436,7 +436,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gangs rely more on weaponizing vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-rely-more-on-weaponizing-vulnerabilities/"> Full Text</a>
@@ -452,7 +452,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Web Trackers Caught Intercepting Online Forms Even Before Users Hit Submit<a href="https://thehackernews.com/2022/05/web-trackers-caught-intercepting-online.html"> Full Text</a>
@@ -468,7 +468,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2022
+May 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Releases Patches for New Vulnerabilities Affecting Multiple Products<a href="https://thehackernews.com/2022/05/vmware-releases-patches-for-new.html"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean devs pose as US freelancers to aid DRPK govt hackers<a href="https://www.bleepingcomputer.com/news/security/north-korean-devs-pose-as-us-freelancers-to-aid-drpk-govt-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government is warning that the Democratic People's Republic of Korea (DPRK) is dispatching its IT workers to get freelance jobs at companies across the world to obtain privileged access that is sometimes used to facilitate cyber intrusions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

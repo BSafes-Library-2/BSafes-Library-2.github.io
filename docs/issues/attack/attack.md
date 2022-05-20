@@ -8,6 +8,63 @@ nav_order: 900015
 
 ## Attack
 ---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Media giant Nikkei’s Asian unit hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/media-giant-nikkei-s-asian-unit-hit-by-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Publishing giant Nikkei disclosed that the group's headquarters in Singapore was hit by a&nbsp;ransomware attack almost one week ago, on May 13th.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Washington Local Schools hit with cyberattack<a href="https://www.wtol.com/article/news/local/washington-local-schools-cyber-attack/512-a7c2deb6-5624-4ee8-8d6e-02fac00fcb1e?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack impacted the district's phones, email accounts, internet, WiFi networks, and Google Classroom. Currently, teachers do not have access to outgoing or incoming calls or emails.
+</details>
+<div style="text-align: right" markdown="1">
+WTOL
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Wave of Brute-Force Attacks Target SQL Servers - Microsoft Warns<a href="https://cyware.com/news/new-wave-of-brute-force-attacks-target-sql-servers-microsoft-warns-d31b0eb4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft uncovered a malicious campaign targeting SQL servers using a malware dubbed SuspSQLUsage. Attackers leverage a built-in PowerShell binary to achieve persistence on compromised systems.&nbsp;However, for initial compromise, they rely on brute-force tactics. It is recommended to monitor for ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP alerts NAS customers of new DeadBolt ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/qnap-alerts-nas-customers-of-new-deadbolt-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan-based network-attached storage (NAS) maker QNAP&nbsp;warned customers on Thursday to secure their devices against attacks pushing DeadBolt ransomware payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

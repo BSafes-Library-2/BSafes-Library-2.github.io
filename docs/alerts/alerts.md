@@ -10,6 +10,18 @@ nav_order: 150
 May 18, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+EMERGENCY DIRECTIVE 22-03 MITIGATE VMWARE VULNERABILITIES <a href="https://www.cisa.gov/emergency-directive-22-03"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors, including likely advanced persistent threat (APT) actors, are exploiting vulnerabilities (CVE 2022-22954 and CVE 2022-22960) in the following VMware products: VMware Workspace ONE Access (Access), VMware Identity Manager (vIDM), VMware vRealize Automation (vRA), VMware Cloud Foundation, and vRealize Suite Lifecycle Manager. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Exploiting F5 BIG-IP CVE-2022-1388 <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-138a"> Full Text</a>
 </p>
 <details>

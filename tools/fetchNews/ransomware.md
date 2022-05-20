@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chaos Ransomware Variant Sides with Russia<a href="https://www.fortinet.com/blog/threat-research/chaos-ransomware-variant-sides-with-russia?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Such actions have created tension internally within the threat actor groups as it has caused dissension, and externally, as organizations fear being targeted due to the political nature of the war.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

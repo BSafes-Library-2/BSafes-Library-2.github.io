@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware shuts down operation, rebrands into smaller units<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-shuts-down-operation-rebrands-into-smaller-units/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious Conti ransomware gang has officially shut down their operation, with infrastructure taken offline and team leaders told that the brand is no more.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs rely more on weaponizing vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-rely-more-on-weaponizing-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are warning that external remote access services continue to be the main vector for ransomware gangs to breach company networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

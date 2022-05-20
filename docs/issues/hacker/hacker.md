@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus hackers target VMware servers with Log4Shell exploits<a href="https://www.bleepingcomputer.com/news/security/lazarus-hackers-target-vmware-servers-with-log4shell-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean hacking group known as Lazarus is exploiting the Log4J remote code execution vulnerability to inject backdoors that fetch information-stealing payloads on VMware Horizon servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

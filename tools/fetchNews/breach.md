@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National bank hit by ransomware trolls hackers with dick pics<a href="https://www.bleepingcomputer.com/news/security/national-bank-hit-by-ransomware-trolls-hackers-with-dick-pics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After suffering a ransomware attack by the Hive operation, the Bank of Zambia made it clear that they were not going to pay by posting a picture of male genitalia and telling the hackers to s… (well, you can use your imagination).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 22.5 Million Malaysians Born 1940-2004 Allegedly Being Sold for $10,000<a href="https://www.straitstimes.com/asia/se-asia/data-of-225-million-malaysians-born-1940-2004-allegedly-being-sold-for-us10k?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The alleged data leak involves information purportedly stolen from the National Registration Department (NRD). Local tech portal Amanz reported that the database, 160GB in size, is being sold for US$10,000 (S$13,846) on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Straits Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

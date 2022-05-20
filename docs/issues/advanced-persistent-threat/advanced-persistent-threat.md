@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Space Pirates APT targets the Russian aerospace industry<a href="https://securityaffairs.co/wordpress/131440/apt/space-pirates-targets-space-industry.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new China-linked cyberespionage group known as 'Space Pirates' is targeting enterprises in the Russian aerospace industry.
+
+
+
+A previously unknown Chinese cyberespionage group, tracked as 'Space Pirates', targets enterprises in the Russian aerospace...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

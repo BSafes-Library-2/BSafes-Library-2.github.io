@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS orders federal agencies to patch VMware bugs within 5 days<a href="https://www.bleepingcomputer.com/news/security/dhs-orders-federal-agencies-to-patch-vmware-bugs-within-5-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security's cybersecurity unit ordered Federal Civilian Executive Branch (FCEB) agencies today to urgently update or remove VMware products from their networks by Monday due to an increased risk of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Warns Against North Korean Hackers Posing as IT Freelancers<a href="https://thehackernews.com/2022/05/us-warns-against-north-korean-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Highly skilled software and mobile app developers from the Democratic People's Republic of Korea (DPRK) are posing as "non-DPRK nationals" in hopes of landing freelance employment in an attempt to enable the regime's&nbsp; malicious cyber intrusions .  That's according to a&nbsp; joint advisory &nbsp;from the U.S. Department of State, the Department of the Treasury, and the Federal Bureau of Investigation (FBI) issued on Monday.  Targets include financial, health, social media, sports, entertainment, and lifestyle-focused companies located in North America, Europe, and East Asia, with most of the dispatched workers situated in China, Russia, Africa, and Southeast Asia.  The goal, the U.S. agencies warn, is to generate a constant stream of revenue that sidesteps international sanctions imposed on the nation and help serve its economic and security priorities, including the development of nuclear and ballistic missiles.   "The North Korean government withholds up to 90 perce
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA shares guidance to block ongoing F5 BIG-IP attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-shares-guidance-to-block-ongoing-f5-big-ip-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a joint advisory issued today,&nbsp;CISA and the Multi-State Information Sharing and Analysis Center (MS-ISAC) warned admins of active&nbsp;attacks targeting a critical F5 BIG-IP network security vulnerability (CVE-2022-1388).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

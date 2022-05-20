@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed a critical auth bypass issue in some of its products<a href="https://securityaffairs.co/wordpress/131429/security/vmware-critical-auth-bypass-issue.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed a critical authentication bypass vulnerability "affecting local domain users" in multiple products.
+
+
+
+The virtualization giant warns that a threat actor can exploit the flaw, tracked as CVE-2022-22972 (CVSSv3 base score of&nbsp;9.8),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Jupiter WordPress plugin flaws let hackers take over sites<a href="https://www.bleepingcomputer.com/news/security/critical-jupiter-wordpress-plugin-flaws-let-hackers-take-over-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress security analysts have discovered a set of vulnerabilities impacting the Jupiter Theme and JupiterX Core plugins for WordPress, one of which is a critical privilege escalation flaw.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 380,000 Kubernetes API Servers Exposed to Internet: Shadowserver<a href="https://www.securityweek.com/over-380000-kubernetes-api-servers-exposed-internet-shadowserver?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShadowServer is conducting daily scans of the IPv4 space on ports 443 and 6443, looking for IP addresses that respond with an HTTP 200 OK status, which indicates that the request has succeeded.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware patches critical auth bypass flaw in multiple products<a href="https://www.bleepingcomputer.com/news/security/vmware-patches-critical-auth-bypass-flaw-in-multiple-products/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware warned customers today to immediately patch a critical authentication bypass vulnerability "affecting local domain users" in multiple products that can be exploited&nbsp;to obtain admin privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iPhones Vulnerable to Attack Even When Turned Off<a href="https://threatpost.com/iphones-attack-turned-off/179641/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wireless features Bluetooth, NFC and UWB stay on even when the device is powered down, which could allow attackers to execute pre-loaded malware.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
