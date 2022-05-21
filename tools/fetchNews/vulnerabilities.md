@@ -8,6 +8,95 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Bluetooth Hack Could Let Attackers Remotely Unlock Smart Locks and Cars<a href="https://thehackernews.com/2022/05/new-bluetooth-hack-could-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel Bluetooth relay attack can let cybercriminals more easily than ever remotely&nbsp; unlock and operate cars ,&nbsp; break open residential smart locks , and breach secure areas.  The vulnerability has to do with weaknesses in the current implementation of Bluetooth Low Energy (BLE), a wireless technology used for authenticating Bluetooth devices that are physically located within a close range.   "An attacker can falsely indicate the proximity of Bluetooth LE (BLE) devices to one another through the use of a relay attack," U.K.-based cybersecurity company NCC Group&nbsp; said . "This may enable unauthorized access to devices in BLE-based proximity authentication systems."  Relay attacks , also called two-thief attacks, are a variation of person-in-the-middle attacks in which an adversary intercepts communication between two parties, one of whom is also an attacker, and then relays it to the target device without any manipulation.  While various mitigations have been implem
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google OAuth client library flaw allowed to deploy of malicious payloads<a href="https://securityaffairs.co/wordpress/131459/security/google-oauth-client-library-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google addressed a high-severity flaw in its OAuth client library for Java that could allow attackers with a compromised token to deploy malicious payloads.
+
+
+
+Google addressed a high-severity authentication bypass flaw in Google OAuth Client Library...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Bug Reported in Google's OAuth Client Library for Java<a href="https://thehackernews.com/2022/05/high-severity-bug-reported-in-googles.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google last month addressed a high-severity flaw in its OAuth client library for Java that could be abused by a malicious actor with a compromised token to deploy arbitrary payloads.  Tracked as&nbsp; CVE-2021-22573 , the vulnerability is rated 8.7 out of 10 for severity and relates to an authentication bypass in the library that stems from an improper verification of the cryptographic signature.  Credited with discovering and reporting the flaw on March 12 is&nbsp; Tamjid Al Rahat , a fourth-year Ph.D. student of Computer Science at the University of Virginia, who has been awarded $5,000 as part of Google's bug bounty program.   "The vulnerability is that the IDToken verifier does not verify if the token is properly signed," an&nbsp; advisory &nbsp;for the flaw reads.  "Signature verification makes sure that the token's payload comes from a valid provider, not from someone else. An attacker can provide a compromised token with custom payload. The token will pass the validation on
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rogue cloud users could sabotage fellow off-prem tenants via critical Flux flaw<a href="https://portswigger.net/daily-swig/rogue-cloud-users-could-sabotage-fellow-off-prem-tenants-via-critical-flux-flaw?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Flux2, the continuous delivery (CD) tool for Kubernetes, can enable rogue tenants in multi-tenancy deployments to sabotage ‘neighbors’ using the same off-premise infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws in Jupiter WordPress Plugin<a href="https://cyware.com/news/critical-flaws-in-jupiter-wordpress-plugin-816bd8f7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress researchers unearthed a set of flaws in the Jupiter Theme and JupiterX Core plugins for the WordPress CMS, including a high-severity flaw that allows a third party to gain administrative privileges and completely take over a live site. Users are recommended to keep their machines up-to-da ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Releases Patches for New Vulnerabilities Affecting Multiple Products<a href="https://thehackernews.com/2022/05/vmware-releases-patches-for-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has issued patches to contain&nbsp; two security flaws &nbsp;impacting Workspace ONE Access, Identity Manager, and vRealize Automation that could be exploited to backdoor enterprise networks.  The first of the two flaws, tracked as CVE-2022-22972 (CVSS score: 9.8), concerns an authentication bypass that could enable an actor with network access to the UI to gain administrative access without prior authentication.  CVE-2022-22973 (CVSS score: 7.8), the other bug, is a case of local privilege escalation that could enable an attacker with local access to elevate privileges to the "root" user on vulnerable virtual appliances.  "It is extremely important that you quickly take steps to patch or mitigate these issues in on-premises deployments," VMware&nbsp; said .   The disclosure follows a&nbsp; warning &nbsp;from the U.S. Cybersecurity and Infrastructure Agency (CISA) that advanced persistent threat (APT) groups are exploiting CVE-2022-22954 and CVE-2022-22960 — two other VMware flaws t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

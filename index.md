@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2022
+May 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A year after report, task force urges U.S. to keep ransomware on front burner<a href="https://www.cyberscoop.com/ransomware-task-force-one-year-report/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ CyberScoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2022
+May 21, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The activity of the Linux XorDdos bot increased by 254% over the last six months<a href="https://securityaffairs.co/wordpress/131478/hacking/linux-bornet-xorddos-254-surge.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2022
+May 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP warns of a new wave of DeadBolt ransomware attacks against its NAS devices<a href="https://securityaffairs.co/wordpress/131494/iot/qnap-nas-deadbolt-ransomware-2.html?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2022
+May 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft's out-of-band patch fixes Windows AD authentication failures<a href="https://www.zdnet.com/article/microsofts-out-of-band-patch-fixes-windows-ad-authentication-failures/?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - May 20th 2022 - Another one bites the dust<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-20th-2022-another-one-bites-the-dust/"> Full Text</a>
@@ -114,7 +114,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find Backdoor in School Management Plugin for WordPress<a href="https://thehackernews.com/2022/05/researchers-find-backdoor-in-school.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP warns of a new wave of DeadBolt ransomware attacks against its NAS devices<a href="https://securityaffairs.co/wordpress/131494/iot/qnap-nas-deadbolt-ransomware-2.html"> Full Text</a>
@@ -154,7 +154,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Executives’ Personal Digital Lives are the Soft-Underbelly of Enterprise Security<a href="https://threatpost.com/executives-personal-lives-enterprise-security/179685/"> Full Text</a>
@@ -170,7 +170,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco urges admins to patch IOS XR zero-day exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisco-urges-admins-to-patch-ios-xr-zero-day-exploited-in-attacks/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Issues Patch for New IOS XR Zero-Day Vulnerability Exploited in the Wild<a href="https://thehackernews.com/2022/05/cisco-issues-patches-for-new-ios-xr.html"> Full Text</a>
@@ -202,7 +202,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pwn2Own Vancouver 2022 D2<a href="https://securityaffairs.co/wordpress/131485/hacking/pwn2own-vancouver-2022-d2.html"> Full Text</a>
@@ -222,7 +222,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Backdoor baked into premium school management plugin for WordPress<a href="https://www.bleepingcomputer.com/news/security/backdoor-baked-into-premium-school-management-plugin-for-wordpress/"> Full Text</a>
@@ -238,7 +238,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns Rise in XorDdos Malware Targeting Linux Devices<a href="https://thehackernews.com/2022/05/microsoft-warns-rise-in-xorddos-malware.html"> Full Text</a>
@@ -254,7 +254,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The activity of the Linux XorDdos bot increased by 254% over the last six months<a href="https://securityaffairs.co/wordpress/131478/hacking/linux-bornet-xorddos-254-surge.html"> Full Text</a>
@@ -274,7 +274,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 11 hacked again at Pwn2Own, Telsa Model 3 also falls<a href="https://www.bleepingcomputer.com/news/security/windows-11-hacked-again-at-pwn2own-telsa-model-3-also-falls/"> Full Text</a>
@@ -290,7 +290,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cytrox's Predator Spyware Targeted Android Users with Zero-Day Exploits<a href="https://thehackernews.com/2022/05/cytroxs-predator-spyware-target-android.html"> Full Text</a>
@@ -306,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware is shutting down operations, what will happen now?<a href="https://securityaffairs.co/wordpress/131464/cyber-crime/conti-ransomware-shut-down.html"> Full Text</a>
@@ -326,7 +326,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Sberbank says it’s facing massive waves of DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/russian-sberbank-says-it-s-facing-massive-waves-of-ddos-attacks/"> Full Text</a>
@@ -342,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 K-12 school districts in New Mexico, Ohio crippled by cyberattacks<a href="https://therecord.media/k-12-cyberattacks-new-mexico-ohio/?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Rust Supply Chain Attack Targeting Cloud CI Pipelines<a href="https://thehackernews.com/2022/05/researchers-uncover-rust-supply-chain.html"> Full Text</a>
@@ -374,7 +374,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canada bans Huawei and ZTE from 5G networks over security concerns<a href="https://www.bleepingcomputer.com/news/security/canada-bans-huawei-and-zte-from-5g-networks-over-security-concerns/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dridex Infection Chain Case Studies<a href="https://unit42.paloaltonetworks.com/excel-add-ins-dridex-infection-chain/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploiting VMware Horizon to Target South Korea with NukeSped Backdoor<a href="https://thehackernews.com/2022/05/hackers-exploiting-vmware-horizon-to.html"> Full Text</a>
@@ -422,7 +422,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2022
+May 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 46% of organizations still store passwords in shared documents<a href="https://www.helpnetsecurity.com/2022/05/19/store-passwords-in-shared-documents/?&web_view=true"> Full Text</a>
@@ -438,7 +438,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2022
+May 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Trick Users with Fake Windows 11 Downloads to Distribute Vidar Malware<a href="https://thehackernews.com/2022/05/hackers-trick-users-with-fake-windows.html"> Full Text</a>

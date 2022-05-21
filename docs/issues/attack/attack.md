@@ -8,6 +8,88 @@ nav_order: 900015
 
 ## Attack
 ---
+May 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of a new wave of DeadBolt ransomware attacks against its NAS devices<a href="https://securityaffairs.co/wordpress/131494/iot/qnap-nas-deadbolt-ransomware-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP warned customers of a new wave of DeadBolt ransomware attacks and urges them to install the latest updates.
+
+
+
+Taiwanese vendor QNAP is asking users to install the latest update on their NAS devices and avoid exposing them on the&nbsp;Internet.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The activity of the Linux XorDdos bot increased by 254% over the last six months<a href="https://securityaffairs.co/wordpress/131478/hacking/linux-bornet-xorddos-254-surge.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft researchers have observed a spike in the activity of the Linux bot XorDdos over the last six months.
+
+
+
+XORDDoS, also known as&nbsp;XOR.DDoS, first appeared in the threat landscape in 2014 it is a Linux&nbsp;Botnet that was employed in attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Rust Supply Chain Attack Targeting Cloud CI Pipelines<a href="https://thehackernews.com/2022/05/researchers-uncover-rust-supply-chain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A case of software supply chain attack has been observed in the Rust programming language's&nbsp; crate registry &nbsp;that leveraged typosquatting techniques to publish a rogue library containing malware.  Cybersecurity firm SentinelOne dubbed the attack " CrateDepression ."  Typosquatting attacks&nbsp; take place &nbsp;when an adversary mimics the name of a popular package on a public registry in hopes that developers will accidentally download the malicious package instead of the legitimate library.   In this case, the crate in question is "rustdecimal," a typosquat of the real " rust_decimal " package that's been downloaded over 3.5 million times to date. The package was&nbsp; flagged &nbsp;earlier this month on May 3 by Askar Safin, a Moscow-based developer.  According to an&nbsp; advisory &nbsp;published by the Rust maintainers, the crate is said to have been first pushed on March 25, 2022, attracting fewer than 500 downloads before it was permanently removed from the repository.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting VMware Horizon to Target South Korea with NukeSped Backdoor<a href="https://thehackernews.com/2022/05/hackers-exploiting-vmware-horizon-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-backed Lazarus Group has been observed leveraging the&nbsp; Log4Shell vulnerability &nbsp;in VMware Horizon servers to deploy the NukeSped  (aka Manuscrypt) implant against targets located in its southern counterpart.  "The attacker used the Log4j vulnerability on VMware Horizon products that were not applied with the security patch," AhnLab Security Emergency Response Center (ASEC)&nbsp; said &nbsp;in a new report.   The intrusions are said to have been first discovered in April, although&nbsp; multiple threat actors , including those aligned with&nbsp; China &nbsp;and&nbsp; Iran , have employed the same approach to further their objectives over the past few months.   NukeSped is a backdoor that can perform various malicious activities based on commands received from a remote attacker-controlled domain. Last year, Kaspersky disclosed a spear-phishing campaign aimed at stealing critical data from defense companies using a NukeSped variant called&nbsp; ThreatNeedle .  Some of the key functions of the bac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Trick Users with Fake Windows 11 Downloads to Distribute Vidar Malware<a href="https://thehackernews.com/2022/05/hackers-trick-users-with-fake-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fraudulent domains masquerading as Microsoft's Windows 11 download portal are attempting to trick users into deploying trojanized installation files to infect systems with the Vidar information stealer malware.  "The spoofed sites were created to distribute malicious ISO files which lead to a Vidar info-stealer infection on the endpoint," Zscaler&nbsp; said &nbsp;in a report. "These variants of Vidar malware fetch the C2 configuration from attacker-controlled social media channels hosted on Telegram and Mastodon network."  Some of the rogue distribution vector domains, which were registered last month on April 20, consist of ms-win11[.]com, win11-serv[.]com, and win11install[.]com, and ms-teams-app[.]net.   In addition, the cybersecurity firm cautioned that the threat actor behind the impersonation campaign is also leveraging backdoored versions of Adobe Photoshop and other legitimate software such as Microsoft Teams to deliver Vidar malware.  The ISO file, for its part,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

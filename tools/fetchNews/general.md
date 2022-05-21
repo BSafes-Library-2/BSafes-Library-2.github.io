@@ -8,6 +8,52 @@ nav_order: 900072
 
 ## General
 ---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacy Shield 2.0 —Third Time’s the Charm?<a href="https://www.lawfareblog.com/privacy-shield-20%E2%80%86%E2%80%94third-times-charm"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What commitments has the United States made in the recent Trans-Atlantic Data Privacy Framework? And will those reforms be enough to pass muster when this next agreement goes before the Court of Justice for the European Union?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 Key Findings from the 2022 SaaS Security Survey Report<a href="https://thehackernews.com/2022/05/7-key-findings-from-2022-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp; 2022 SaaS Security Survey Report, &nbsp;in collaboration with CSA, examines the state of SaaS security as seen in the eyes of CISOs and security professionals in today's enterprises. The report gathers anonymous responses from 340 CSA members to examine not only the growing risks in SaaS security but also how different organizations are currently working to secure themselves.  Demographics  The majority (71%) of respondents were located in the Americas, another 17% from Asia, and 13% from EMEA. Of these participants 49% influence the decision-making process while 39% run the process itself. The survey examined organizations from a variety of industries, such as telecommunications (25%), finance (22%), and government (9%).&nbsp;  While there are many takeaways from the survey, these are our top seven.&nbsp;  1: SaaS Misconfigurations are Leading to Security Incidents  Since 2019, SaaS misconfigurations have become a top concern for organizations, with at least 43% of organizations reporting
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Vancouver 2022 D1: MS Teams exploits received $450,000<a href="https://securityaffairs.co/wordpress/131453/hacking/pwn2own-vancouver-2022-d1.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White hat hackers earned a total of $800,000 on the first day of the Pwn2Own Vancouver 2022, $450,000 for exploits targeting Microsoft Teams.
+
+
+
+Pwn2Own Vancouver 2022 hacking contest has begun, it is the 15th edition of this important event organized...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

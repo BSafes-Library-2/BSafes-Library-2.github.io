@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams, Windows 11 hacked on first day of Pwn2Own<a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-windows-11-hacked-on-first-day-of-pwn2own/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the first day of Pwn2Own Vancouver 2022, contestants won $800,000 after successfully exploiting 16 zero-day bugs to hack&nbsp;multiple products, including Microsoft's Windows 11&nbsp;operating system and the Teams communication platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

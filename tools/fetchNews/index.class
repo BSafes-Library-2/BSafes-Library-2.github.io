@@ -34,6 +34,426 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A year after report, task force urges U.S. to keep ransomware on front burner<a href="https://www.cyberscoop.com/ransomware-task-force-one-year-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The federal government has made strides in deterring ransomware over the past year, but still has a number of milestones to reach, according to a new paper from the Institute for Security and Technology’s Ransomware Task Force.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The activity of the Linux XorDdos bot increased by 254% over the last six months<a href="https://securityaffairs.co/wordpress/131478/hacking/linux-bornet-xorddos-254-surge.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+XorDdos leverages persistence mechanisms, efficient evasion, and anti-forensic techniques, including obfuscating the malware’s activities, evading rule-based detection mechanisms, and hash-based malicious file lookup.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of a new wave of DeadBolt ransomware attacks against its NAS devices<a href="https://securityaffairs.co/wordpress/131494/iot/qnap-nas-deadbolt-ransomware-2.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP is asking users to install the latest update on their NAS devices and avoid exposing them on the Internet. The company issued the alert in response to a new wave of DeadBolt ransomware attacks targeting NAS devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's out-of-band patch fixes Windows AD authentication failures<a href="https://www.zdnet.com/article/microsofts-out-of-band-patch-fixes-windows-ad-authentication-failures/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released an out-of-band patch to fix authentication failures on Windows after installing the May 10, 2022 security update on Windows Server domain controllers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - May 20th 2022 - Another one bites the dust<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-20th-2022-another-one-bites-the-dust/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks continue to slow down, likely due to the invasion of Ukraine, instability in the region, and subsequent worldwide sanctions against Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Backdoor in School Management Plugin for WordPress<a href="https://thehackernews.com/2022/05/researchers-find-backdoor-in-school.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple versions of a WordPress plugin by the name of "School Management Pro" harbored a backdoor that could grant an adversary complete control over vulnerable websites.  The issue, spotted in premium versions before 9.9.7, has been assigned the CVE identifier  CVE-2022-1609  and is rated 10 out of 10 for severity.  The backdoor, which is believed to have existed since version 8.9, enables "an unauthenticated attacker to execute arbitrary PHP code on sites with the plugin installed," Jetpack's Harald Eilertsen  said  in a Friday write-up.   School Management, developed by an India-based company called  Weblizar , is billed as a Wordpress add-on to "manage complete school operation." It also claims more than 340,000 customers of its premium and free WordPress themes and plugins.  The WordPress security company noted that it uncovered the implant on May 4 after it was alerted to the presence of heavily obfuscated code in the license-checking code of t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of a new wave of DeadBolt ransomware attacks against its NAS devices<a href="https://securityaffairs.co/wordpress/131494/iot/qnap-nas-deadbolt-ransomware-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP warned customers of a new wave of DeadBolt ransomware attacks and urges them to install the latest updates.
+
+
+
+Taiwanese vendor QNAP is asking users to install the latest update on their NAS devices and avoid exposing them on the Internet.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Executives’ Personal Digital Lives are the Soft-Underbelly of Enterprise Security<a href="https://threatpost.com/executives-personal-lives-enterprise-security/179685/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are attacking executives and board members in their personal digital lives. This adds additional risk to the enterprise, and is a problem that CISOs and security teams cannot solve.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco urges admins to patch IOS XR zero-day exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisco-urges-admins-to-patch-ios-xr-zero-day-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a zero-day vulnerability in its IOS XR router software that allowed unauthenticated attackers to remotely gain access to Redis instances running in NOSi Docker containers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Issues Patch for New IOS XR Zero-Day Vulnerability Exploited in the Wild<a href="https://thehackernews.com/2022/05/cisco-issues-patches-for-new-ios-xr.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Friday rolled out fixes for a medium-severity vulnerability affecting IOS XR Software that it said has been exploited in real-world attacks.  Tracked as CVE-2022-20821 (CVSS score: 6.5), the issue relates to an open port vulnerability that could be abused by an unauthenticated, remote attacker to connect to a Redis instance and achieve code execution.  "A successful exploit could allow the attacker to write to the Redis in-memory database, write arbitrary files to the container filesystem, and retrieve information about the Redis database," Cisco  said  in an advisory.   "Given the configuration of the sandboxed container that the Redis instance runs in, a remote attacker would be unable to execute remote code or abuse the integrity of the Cisco IOS XR Software host system."  The flaw, which it said was identified during the resolution of a technical assistance center (TAC) case, impacts Cisco 8000 Series routers running IOS XR Software that has the health
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Vancouver 2022 D2<a href="https://securityaffairs.co/wordpress/131485/hacking/pwn2own-vancouver-2022-d2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the second day of the Pwn2Own Vancouver 2022 hacking competition, contestants demonstrated a working exploit for Microsoft Windows 11.
+
+
+
+During the second day of the Pwn2Own Vancouver 2022 hacking competition, white hat hackers demonstrated a working...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Backdoor baked into premium school management plugin for WordPress<a href="https://www.bleepingcomputer.com/news/security/backdoor-baked-into-premium-school-management-plugin-for-wordpress/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered a backdoor in a premium WordPress plugin built as a complete management solution for schools. The malicious code enables a threat actor to execute PHP code without authenticating.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns Rise in XorDdos Malware Targeting Linux Devices<a href="https://thehackernews.com/2022/05/microsoft-warns-rise-in-xorddos-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Linux botnet malware known as XorDdos  has witnessed a 254% surge in activity over the last six months, according to latest research from Microsoft.  The trojan, so named for carrying out denial-of-service attacks on Linux systems and its use of XOR-based encryption for communications with its command-and-control (C2) server, is  known  to have been  active  since at least 2014.  "XorDdos' modular nature provides attackers with a versatile trojan capable of infecting a variety of Linux system architectures," Ratnesh Pandey, Yevgeny Kulakov, and Jonathan Bar Or of the Microsoft 365 Defender Research Team  said  in an exhaustive deep-dive of the malware.   "Its SSH brute-force attacks are a relatively simple yet effective technique for gaining root access over a number of potential targets."  Remote control over vulnerable IoT and other internet-connected devices is gained by means of secure shell (SSH) brute-force attacks, enabling the malware to form a botnet
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The activity of the Linux XorDdos bot increased by 254% over the last six months<a href="https://securityaffairs.co/wordpress/131478/hacking/linux-bornet-xorddos-254-surge.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft researchers have observed a spike in the activity of the Linux bot XorDdos over the last six months.
+
+
+
+XORDDoS, also known as XOR.DDoS, first appeared in the threat landscape in 2014 it is a Linux Botnet that was employed in attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 hacked again at Pwn2Own, Telsa Model 3 also falls<a href="https://www.bleepingcomputer.com/news/security/windows-11-hacked-again-at-pwn2own-telsa-model-3-also-falls/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the second day of the Pwn2Own Vancouver 2022 hacking competition, contestants hacked Microsoft's Windows 11 OS again and demoed zero-days in Tesla Model 3's infotainment system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cytrox's Predator Spyware Targeted Android Users with Zero-Day Exploits<a href="https://thehackernews.com/2022/05/cytroxs-predator-spyware-target-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) on Thursday pointed fingers at a North Macedonian spyware developer named Cytrox for developing exploits against five zero-day (aka 0-day) flaws, four in Chrome and one in Android, to target Android users.  "The 0-day exploits were used alongside n-day exploits as the developers took advantage of the time difference between when some critical bugs were patched but not flagged as security issues and when these patches were fully deployed across the Android ecosystem," TAG researchers Clement Lecigne and Christian Resell  said .  Cytrox is alleged to have packaged the exploits and sold them to different government-backed actors located in Egypt, Armenia, Greece, Madagascar, Côte d'Ivoire, Serbia, Spain, and Indonesia, who, in turn, weaponized the bugs in at least three different campaigns.  The commercial surveillance company is the maker of  Predator , an implant  analogous  to that of NSO Group's  Pegasus , and is known to hav
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware is shutting down operations, what will happen now?<a href="https://securityaffairs.co/wordpress/131464/cyber-crime/conti-ransomware-shut-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware gang shut down its operation, and some of its administrators announced a branding of the gang.
+
+
+
+Advanced Intel researcher Yelisey Boguslavskiy announced the that Conti Ransomware gang shuts its infrastructure and some of its administrators...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Sberbank says it’s facing massive waves of DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/russian-sberbank-says-it-s-facing-massive-waves-of-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sberbank's vice president and director of cybersecurity, Sergei Lebed, has told participants of the Positive Hack Days forum that the company is going through a period of unprecedented targeting by hackers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+K-12 school districts in New Mexico, Ohio crippled by cyberattacks<a href="https://therecord.media/k-12-cyberattacks-new-mexico-ohio/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the Cl0p ransomware group’s leak site displayed sensitive information from students, faculty members, and parents from Fort Sumner Municipal Schools. The leak included scans of driver’s licenses and more.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Rust Supply Chain Attack Targeting Cloud CI Pipelines<a href="https://thehackernews.com/2022/05/researchers-uncover-rust-supply-chain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A case of software supply chain attack has been observed in the Rust programming language's  crate registry  that leveraged typosquatting techniques to publish a rogue library containing malware.  Cybersecurity firm SentinelOne dubbed the attack " CrateDepression ."  Typosquatting attacks  take place  when an adversary mimics the name of a popular package on a public registry in hopes that developers will accidentally download the malicious package instead of the legitimate library.   In this case, the crate in question is "rustdecimal," a typosquat of the real " rust_decimal " package that's been downloaded over 3.5 million times to date. The package was  flagged  earlier this month on May 3 by Askar Safin, a Moscow-based developer.  According to an  advisory  published by the Rust maintainers, the crate is said to have been first pushed on March 25, 2022, attracting fewer than 500 downloads before it was permanently removed from the repository.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada bans Huawei and ZTE from 5G networks over security concerns<a href="https://www.bleepingcomputer.com/news/security/canada-bans-huawei-and-zte-from-5g-networks-over-security-concerns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Government of Canada announced its intention to ban the use of Huawei and ZTE telecommunications equipment and services across the country's 5G and 4G networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dridex Infection Chain Case Studies<a href="https://unit42.paloaltonetworks.com/excel-add-ins-dridex-infection-chain/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, during December 2021, Unit 42 researchers received various Dridex samples, which were exploiting XLL and XLM 4.0 in combination with Discord and OneDrive to download the final payload.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting VMware Horizon to Target South Korea with NukeSped Backdoor<a href="https://thehackernews.com/2022/05/hackers-exploiting-vmware-horizon-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-backed Lazarus Group has been observed leveraging the  Log4Shell vulnerability  in VMware Horizon servers to deploy the NukeSped  (aka Manuscrypt) implant against targets located in its southern counterpart.  "The attacker used the Log4j vulnerability on VMware Horizon products that were not applied with the security patch," AhnLab Security Emergency Response Center (ASEC)  said  in a new report.   The intrusions are said to have been first discovered in April, although  multiple threat actors , including those aligned with  China  and  Iran , have employed the same approach to further their objectives over the past few months.   NukeSped is a backdoor that can perform various malicious activities based on commands received from a remote attacker-controlled domain. Last year, Kaspersky disclosed a spear-phishing campaign aimed at stealing critical data from defense companies using a NukeSped variant called  ThreatNeedle .  Some of the key functions of the bac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+46% of organizations still store passwords in shared documents<a href="https://www.helpnetsecurity.com/2022/05/19/store-passwords-in-shared-documents/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+That’s despite an overwhelming 93% of respondents that require password management training, with 63% holding training more than once per year, according to a survey conducted by Pulse on behalf of Hitachi ID.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Trick Users with Fake Windows 11 Downloads to Distribute Vidar Malware<a href="https://thehackernews.com/2022/05/hackers-trick-users-with-fake-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fraudulent domains masquerading as Microsoft's Windows 11 download portal are attempting to trick users into deploying trojanized installation files to infect systems with the Vidar information stealer malware.  "The spoofed sites were created to distribute malicious ISO files which lead to a Vidar info-stealer infection on the endpoint," Zscaler  said  in a report. "These variants of Vidar malware fetch the C2 configuration from attacker-controlled social media channels hosted on Telegram and Mastodon network."  Some of the rogue distribution vector domains, which were registered last month on April 20, consist of ms-win11[.]com, win11-serv[.]com, and win11install[.]com, and ms-teams-app[.]net.   In addition, the cybersecurity firm cautioned that the threat actor behind the impersonation campaign is also leveraging backdoored versions of Adobe Photoshop and other legitimate software such as Microsoft Teams to deliver Vidar malware.  The ISO file, for its part,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,98 @@ nav_order: 900072
 
 ## General
 ---
+May 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A year after report, task force urges U.S. to keep ransomware on front burner<a href="https://www.cyberscoop.com/ransomware-task-force-one-year-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The federal government has made strides in deterring ransomware over the past year, but still has a number of milestones to reach, according to a new paper from the Institute for Security and Technology’s Ransomware Task Force.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Executives’ Personal Digital Lives are the Soft-Underbelly of Enterprise Security<a href="https://threatpost.com/executives-personal-lives-enterprise-security/179685/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are attacking executives and board members in their personal digital lives. This adds additional risk to the enterprise, and is a problem that CISOs and security teams cannot solve.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Vancouver 2022 D2<a href="https://securityaffairs.co/wordpress/131485/hacking/pwn2own-vancouver-2022-d2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the second day of the Pwn2Own Vancouver 2022 hacking competition, contestants demonstrated a working exploit for Microsoft Windows 11.
+
+
+
+During the second day of the Pwn2Own Vancouver 2022 hacking competition, white hat hackers demonstrated a working...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware is shutting down operations, what will happen now?<a href="https://securityaffairs.co/wordpress/131464/cyber-crime/conti-ransomware-shut-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware gang shut down its operation, and some of its administrators announced a branding of the gang.
+
+
+
+Advanced Intel researcher&nbsp;Yelisey Boguslavskiy announced the that Conti Ransomware gang shuts its infrastructure and some of its administrators...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada bans Huawei and ZTE from 5G networks over security concerns<a href="https://www.bleepingcomputer.com/news/security/canada-bans-huawei-and-zte-from-5g-networks-over-security-concerns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Government of Canada announced its intention to ban the use of&nbsp;Huawei and ZTE telecommunications equipment and services across the country's&nbsp;5G and 4G networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+46% of organizations still store passwords in shared documents<a href="https://www.helpnetsecurity.com/2022/05/19/store-passwords-in-shared-documents/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+That’s despite an overwhelming 93% of respondents that require password management training, with 63% holding training more than once per year, according to a survey conducted by Pulse on behalf of Hitachi ID.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

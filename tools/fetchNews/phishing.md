@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing websites now use chatbots to steal your credentials<a href="https://www.bleepingcomputer.com/news/security/phishing-websites-now-use-chatbots-to-steal-your-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing attacks are now using automated&nbsp;chatbots&nbsp;to guide visitors through the process of handing over their login credentials to threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishers Add Chatbot to the Phishing Lure<a href="https://www.securityweek.com/phishers-add-chatbot-phishing-lure?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered a new approach being taken by phishers to increase victim engagement and confidence: the addition of an interactive chatbot. The phishers hope that this will help lower the attention of the target victim.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

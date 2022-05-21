@@ -8,6 +8,34 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+May 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The activity of the Linux XorDdos bot increased by 254% over the last six months<a href="https://securityaffairs.co/wordpress/131478/hacking/linux-bornet-xorddos-254-surge.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+XorDdos leverages persistence mechanisms, efficient evasion, and anti-forensic techniques, including obfuscating the malware’s activities, evading rule-based detection mechanisms, and hash-based malicious file lookup.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Sberbank says it’s facing massive waves of DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/russian-sberbank-says-it-s-facing-massive-waves-of-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sberbank's vice president and director of cybersecurity, Sergei Lebed, has told participants of the Positive Hack Days forum that the company is going through a period of unprecedented targeting by hackers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

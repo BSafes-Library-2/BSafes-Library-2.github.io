@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cytrox's Predator Spyware Targeted Android Users with Zero-Day Exploits<a href="https://thehackernews.com/2022/05/cytroxs-predator-spyware-target-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) on Thursday pointed fingers at a North Macedonian spyware developer named Cytrox for developing exploits against five zero-day (aka 0-day) flaws, four in Chrome and one in Android, to target Android users.  "The 0-day exploits were used alongside n-day exploits as the developers took advantage of the time difference between when some critical bugs were patched but not flagged as security issues and when these patches were fully deployed across the Android ecosystem," TAG researchers Clement Lecigne and Christian Resell&nbsp; said .  Cytrox is alleged to have packaged the exploits and sold them to different government-backed actors located in Egypt, Armenia, Greece, Madagascar, Côte d'Ivoire, Serbia, Spain, and Indonesia, who, in turn, weaponized the bugs in at least three different campaigns.  The commercial surveillance company is the maker of&nbsp; Predator , an implant&nbsp; analogous &nbsp;to that of NSO Group's&nbsp; Pegasus , and is known to hav
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

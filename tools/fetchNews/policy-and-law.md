@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. DOJ will no longer prosecute ethical hackers under CFAA<a href="https://www.bleepingcomputer.com/news/security/us-doj-will-no-longer-prosecute-ethical-hackers-under-cfaa/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DOJ) has announced a revision of its policy on how federal prosecutors should charge violations of the Computer Fraud and Abuse Act (CFAA), carving out "good-fath" security research from being prosecuted.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

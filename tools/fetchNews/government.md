@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Legislation Promoting Cyber Collaboration Between DHS and States Awaits Biden Signature<a href="https://www.nextgov.com/cybersecurity/2022/05/legislation-promoting-cyber-collaboration-between-dhs-and-states-awaits-biden-signature/367104/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Having cleared the Senate in January, the State and Local Government Cybersecurity Act passed the House of Representatives Tuesday and now awaits President Joe Biden’s signature.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agencies Showcase Federal Cyber Progress, Outline Future Threats<a href="https://www.nextgov.com/cybersecurity/2022/05/agencies-showcase-federal-cyber-progress-outline-future-threats/367068/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers explored courses of action to help bolster and secure the federal government’s digital networks, primarily through ongoing security software implementation and steady federal funding to protect sensitive U.S. data.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal agencies to fix VMware CVE-2022-22972 and CVE-2022-22973 flaws<a href="https://securityaffairs.co/wordpress/131436/security/cisa-orders-federal-agencies-to-vmware-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA orders federal agencies to fix VMware CVE-2022-22972 and CVE-2022-22973 vulnerabilities by May 23, 2022.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) issued the Emergency Directive 22-03 to order federal agencies to fix VMware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

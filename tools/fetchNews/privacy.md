@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web Trackers Caught Intercepting Online Forms Even Before Users Hit Submit<a href="https://thehackernews.com/2022/05/web-trackers-caught-intercepting-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new research published by academics from KU Leuven, Radboud University, and the University of Lausanne has revealed that users' email addresses are exfiltrated to tracking, marketing, and analytics domains before such is submitted and without prior consent.  The study&nbsp; involved &nbsp;crawling 2.8 million pages from the top 100 websites, and found that as many as 1,844 websites allowed trackers to capture email addresses before form submission in the European Union, a number that jumped to 2,950 when the same set of websites were visited from the U.S.  "Emails (or their hashes) were sent to 174 distinct domains ( eTLD+1 ) in the U.S. crawl, and 157 distinct domains in the EU crawl," the researchers&nbsp; said . Furthermore, 52 websites were determined to be collecting passwords in the same manner, an issue that has since been addressed following responsible disclosure.   LiveRamp, Taboola, Adobe, Verizon, Yandex, Meta Platforms, TikTok, Salesforce, Listrak, and Oracle accounted f
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
