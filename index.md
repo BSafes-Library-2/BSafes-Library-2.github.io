@@ -34,6 +34,270 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elon Musk deep fakes promote new cryptocurrency scam<a href="https://www.bleepingcomputer.com/news/security/elon-musk-deep-fakes-promote-new-cryptocurrency-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency scammers are using deep fake videos of Elon Musk and other prominent cryptocurrency advocates to promote a BitVex trading platform scam that steals deposited currency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 366 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/131549/breaking-news/security-affairs-newsletter-round-366-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PDF smuggles Microsoft Word doc to drop Snake Keylogger malware<a href="https://www.bleepingcomputer.com/news/security/pdf-smuggles-microsoft-word-doc-to-drop-snake-keylogger-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have discovered a recent malware distribution campaign using PDF attachments to smuggle malicious Word documents that infect users with malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Lazarus APT uses Log4J to target VMware servers<a href="https://securityaffairs.co/wordpress/131483/apt/lazarus-apt-log4j-vmware-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked Lazarus APT is exploiting the Log4J remote code execution (RCE) in attacks aimed at VMware Horizon servers.
+
+
+
+North Korea-linked group Lazarus is exploiting the Log4J RCE vulnerability (CVE-2021-44228) to compromise VMware Horizon...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: Predator spyware infected Android devices using zero-days<a href="https://www.bleepingcomputer.com/news/security/google-predator-spyware-infected-android-devices-using-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) says that state-backed threat actors used five zero-day vulnerabilities to install Predator spyware developed by commercial surveillance developer Cytrox.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Pwn2Own Vancouver 2022: Trend Micro and ZDI awarded $1,155,000<a href="https://securityaffairs.co/wordpress/131539/hacking/pwn2own-vancouver-2022-d3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pwn2Own Vancouver 2022 hacking contest ended, Trend Micro and ZDI awarded a total of $1,155,000 for successful attempts!
+
+
+
+During the third day of the Pwn2Own Vancouver 2022 hacking competition, white hat hackers demonstrated a working exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Details About Wizard Spider Emerge<a href="https://cyware.com/news/new-details-about-wizard-spider-emerge-6dcc3623"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+First detected in 2017, Wizard Spider has come a long way. A recent investigation by Prodaft revealed that the gang is one of the wealthiest ones and its assets exceed hundreds of millions of dollars.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Emergence of Physically Mediated Cyberattacks?<a href="https://www.lawfareblog.com/emergence-physically-mediated-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Physical violence against personnel in lawless environments as an element of cyberattack is another dimension of cyber conflict, and its importance has been neglected for way too long.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India to press ahead with strict cybersecurity rules despite industry concerns<a href="https://indianexpress.com/article/technology/tech-news-technology/india-to-press-ahead-with-strict-cybersecurity-rules-despite-industry-concerns-7924272/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite growing industry concerns, India will not change upcoming cybersecurity rules that force social media, technology companies, and cloud service providers to report data breaches swiftly.
+</details>
+<div style="text-align: right" markdown="1">
+The Indian Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack exposes data of 500,000 Chicago students<a href="https://www.bleepingcomputer.com/news/security/ransomware-attack-exposes-data-of-500-000-chicago-students/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chicago Public Schools has suffered a massive data breach that exposed the data of almost 500,000 students and 60,000 employee after their vendor, Battelle for Kids, suffered a ransomware attack in December.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asian media company Nikkei suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/131533/data-breach/nikkei-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The media company Nikkei has disclosed a ransomware attack and revealed that the incident might have impacted customer data.
+
+
+
+The Japanese-based media company Nikkey is focused on the business and financial industry, it is the world's largest financial...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PyPI package opens backdoors on Windows, Linux, and Macs<a href="https://www.bleepingcomputer.com/news/security/malicious-pypi-package-opens-backdoors-on-windows-linux-and-macs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yet another malicious Python package has been spotted in the PyPI registry performing supply chain attacks to drop Cobalt Strike beacons and backdoors on Windows, Linux, and macOS systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Sandworm continues to conduct attacks against Ukraine<a href="https://securityaffairs.co/wordpress/131523/apt/sandworm-attacks-against-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from ESET reported that the Russia-linked APT group Sandworm continues to target Ukraine.
+
+
+
+Security experts from ESET reported that the Russia-linked cyberespionage group Sandworm continues to launch cyber attacks against entities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 hacked three more times on last day of Pwn2Own contest<a href="https://www.bleepingcomputer.com/news/security/windows-11-hacked-three-more-times-on-last-day-of-pwn2own-contest/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the third and last day of the 2022 Pwn2Own Vancouver hacking contest, security researchers successfully hacked Microsoft's Windows 11 operating system three more times using zero-day exploits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes an IOS XR flaw actively exploited in the wild<a href="https://securityaffairs.co/wordpress/131516/security/cisco-ios-xr-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a medium-severity vulnerability affecting IOS XR Software, the company warns that the flaw is actively exploited in the wild.
+
+
+
+Cisco released security updates to address a medium-severity vulnerability affecting IOS XR Software, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
