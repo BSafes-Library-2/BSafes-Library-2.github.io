@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - May 20th 2022 - Another one bites the dust<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-20th-2022-another-one-bites-the-dust/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks continue to&nbsp;slow down, likely due to the invasion of Ukraine, instability in the region, and subsequent worldwide sanctions against Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

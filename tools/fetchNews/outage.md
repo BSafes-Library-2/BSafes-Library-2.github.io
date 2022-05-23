@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+May 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+K-12 school districts in New Mexico, Ohio crippled by cyberattacks<a href="https://therecord.media/k-12-cyberattacks-new-mexico-ohio/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the Cl0p ransomware group’s leak site displayed sensitive information from students, faculty members, and parents from Fort Sumner Municipal Schools. The leak included scans of driver’s licenses and more.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

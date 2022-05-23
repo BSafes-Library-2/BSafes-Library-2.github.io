@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of a new wave of DeadBolt ransomware attacks against its NAS devices<a href="https://securityaffairs.co/wordpress/131494/iot/qnap-nas-deadbolt-ransomware-2.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP is asking users to install the latest update on their NAS devices and avoid exposing them on the Internet. The company issued the alert in response to a new wave of DeadBolt ransomware attacks targeting NAS devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's out-of-band patch fixes Windows AD authentication failures<a href="https://www.zdnet.com/article/microsofts-out-of-band-patch-fixes-windows-ad-authentication-failures/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released an out-of-band patch to fix authentication failures on Windows after installing the May 10, 2022 security update on Windows Server domain controllers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco urges admins to patch IOS XR zero-day exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisco-urges-admins-to-patch-ios-xr-zero-day-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a zero-day vulnerability in its&nbsp;IOS XR router software that allowed unauthenticated attackers to remotely gain access to&nbsp;Redis instances running in NOSi Docker containers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Issues Patch for New IOS XR Zero-Day Vulnerability Exploited in the Wild<a href="https://thehackernews.com/2022/05/cisco-issues-patches-for-new-ios-xr.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Friday rolled out fixes for a medium-severity vulnerability affecting IOS XR Software that it said has been exploited in real-world attacks.  Tracked as CVE-2022-20821 (CVSS score: 6.5), the issue relates to an open port vulnerability that could be abused by an unauthenticated, remote attacker to connect to a Redis instance and achieve code execution.  "A successful exploit could allow the attacker to write to the Redis in-memory database, write arbitrary files to the container filesystem, and retrieve information about the Redis database," Cisco&nbsp; said &nbsp;in an advisory.   "Given the configuration of the sandboxed container that the Redis instance runs in, a remote attacker would be unable to execute remote code or abuse the integrity of the Cisco IOS XR Software host system."  The flaw, which it said was identified during the resolution of a technical assistance center (TAC) case, impacts Cisco 8000 Series routers running IOS XR Software that has the health
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 hacked again at Pwn2Own, Telsa Model 3 also falls<a href="https://www.bleepingcomputer.com/news/security/windows-11-hacked-again-at-pwn2own-telsa-model-3-also-falls/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the second day of the Pwn2Own Vancouver 2022 hacking competition, contestants hacked Microsoft's Windows 11 OS again and demoed zero-days in Tesla Model 3's infotainment system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

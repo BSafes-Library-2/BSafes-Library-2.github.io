@@ -8,6 +8,20 @@ nav_order: 900041
 
 ## Deepfake
 ---
+May 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elon Musk deep fakes promote new cryptocurrency scam<a href="https://www.bleepingcomputer.com/news/security/elon-musk-deep-fakes-promote-new-cryptocurrency-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency scammers are using deep fake videos of Elon Musk and other prominent cryptocurrency advocates to promote a BitVex trading platform scam that steals deposited currency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

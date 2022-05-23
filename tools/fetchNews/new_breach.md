@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack exposes data of 500,000 Chicago students<a href="https://www.bleepingcomputer.com/news/security/ransomware-attack-exposes-data-of-500-000-chicago-students/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chicago Public Schools has suffered a massive data breach that exposed the data of almost 500,000 students and 60,000 employee after their vendor, Battelle for Kids, suffered a ransomware attack in December.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

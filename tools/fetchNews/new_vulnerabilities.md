@@ -11,6 +11,38 @@ nav_order: 900220
 May 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 hacked three more times on last day of Pwn2Own contest<a href="https://www.bleepingcomputer.com/news/security/windows-11-hacked-three-more-times-on-last-day-of-pwn2own-contest/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the third and last day of the&nbsp;2022 Pwn2Own Vancouver hacking contest, security researchers successfully hacked&nbsp;Microsoft's Windows 11 operating system three more times using zero-day exploits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes an IOS XR flaw actively exploited in the wild<a href="https://securityaffairs.co/wordpress/131516/security/cisco-ios-xr-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a medium-severity vulnerability affecting IOS XR Software, the company warns that the flaw is actively exploited in the wild.
+
+
+
+Cisco released security updates to address a medium-severity vulnerability affecting IOS XR Software, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 QNAP warns of a new wave of DeadBolt ransomware attacks against its NAS devices<a href="https://securityaffairs.co/wordpress/131494/iot/qnap-nas-deadbolt-ransomware-2.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

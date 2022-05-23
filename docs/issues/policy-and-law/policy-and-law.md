@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India to press ahead with strict cybersecurity rules despite industry concerns<a href="https://indianexpress.com/article/technology/tech-news-technology/india-to-press-ahead-with-strict-cybersecurity-rules-despite-industry-concerns-7924272/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite growing industry concerns, India will not change upcoming cybersecurity rules that force social media, technology companies, and cloud service providers to report data breaches swiftly.
+</details>
+<div style="text-align: right" markdown="1">
+The Indian Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

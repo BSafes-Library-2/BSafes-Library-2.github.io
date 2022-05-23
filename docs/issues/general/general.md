@@ -8,6 +8,56 @@ nav_order: 900072
 
 ## General
 ---
+May 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 366 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/131549/breaking-news/security-affairs-newsletter-round-366-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Pwn2Own Vancouver 2022: Trend Micro and ZDI awarded $1,155,000<a href="https://securityaffairs.co/wordpress/131539/hacking/pwn2own-vancouver-2022-d3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pwn2Own Vancouver 2022 hacking contest ended, Trend Micro and ZDI awarded a total of $1,155,000 for successful attempts!
+
+
+
+During the third day of the&nbsp;Pwn2Own Vancouver 2022&nbsp;hacking competition, white hat hackers demonstrated a working exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Emergence of Physically Mediated Cyberattacks?<a href="https://www.lawfareblog.com/emergence-physically-mediated-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Physical violence against personnel in lawless environments as an element of cyberattack is another dimension of cyber conflict, and its importance has been neglected for way too long.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
