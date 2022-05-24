@@ -31,6 +31,18 @@ Threat actors, including likely advanced persistent threat (APT) actors, are exp
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Weak Security Controls and Practices Routinely Exploited for Initial Access <a href="https://publications.bsafes.com/docs/cisa/20220517-weak-security-controls-and-practices-routinely-exploited-for-initial-access/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber actors routinely exploit poor security configurations (either misconfigured or left unsecured), weak controls, and other poor cyber hygiene practices to gain initial access or as part of other tactics to compromise a victims’ system. This joint Cybersecurity Advisory identifies commonly exploited controls and practices and includes best practices to mitigate the issues.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 16, 2022 - U.S. DEPARTMENT of STATE, U.S. DEPARTMENT OF THE TREASURY, FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
