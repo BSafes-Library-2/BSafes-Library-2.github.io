@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GM credential stuffing attack exposed car owners' personal info<a href="https://www.bleepingcomputer.com/news/security/gm-credential-stuffing-attack-exposed-car-owners-personal-info/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blockchain bridge Wormhole pays record $10m bug bounty reward<a href="https://portswigger.net/daily-swig/blockchain-bridge-wormhole-pays-record-10m-bug-bounty-reward?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Yes, Containers Are Terrific, But Watch the Security Risks<a href="https://thehackernews.com/2022/05/yes-containers-are-terrific-but-watch.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Fronton botnet could run disinformation campaigns<a href="https://securityaffairs.co/wordpress/131574/cyber-warfare-2/fronton-botnet-disinformation.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrime Getting More Sophisticated: How to Protect Your Business?<a href="https://threatpost.com/cybercrime-more-sophisticated/179676/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Windows exploits target infosec community with Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/fake-windows-exploits-target-infosec-community-with-cobalt-strike/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Yik Yak fixes information disclosure bug that leaked users’ GPS location<a href="https://portswigger.net/daily-swig/yik-yak-fixes-information-disclosure-bug-that-leaked-users-gps-location?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fronton: Russian IoT Botnet Designed to Run Social Media Disinformation Campaigns<a href="https://thehackernews.com/2022/05/fronton-russian-iot-botnet-designed-to.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in PayPal can allow attackers to steal money from users’ account<a href="https://securityaffairs.co/wordpress/131569/hacking/paypal-clickjacking-attack.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Photos of abused victims used in new ID verification scam<a href="https://www.bleepingcomputer.com/news/security/photos-of-abused-victims-used-in-new-id-verification-scam/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 South Korea and US agree to cooperate on combating on North Korea's cyber-offensives<a href="https://www.theregister.com/2022/05/23/s_korean_and_us_presidents/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Unpatched Bug Could Let Attackers Steal Money from PayPal Users<a href="https://thehackernews.com/2022/05/paypal-pays-hacker-200000-for.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cytrox’s Predator spyware used zero-day exploits in 3 campaigns<a href="https://securityaffairs.co/wordpress/131561/hacking/predator-spyware-zero-day-exploits.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers can hack your online accounts before you even register them<a href="https://www.bleepingcomputer.com/news/security/hackers-can-hack-your-online-accounts-before-you-even-register-them/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Target the Infosec Community with Fake PoC Exploits<a href="https://securityaffairs.co/wordpress/131553/intelligence/fake-poc-exploits-attacks.html?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors target the infoSec community with fake PoC exploits<a href="https://securityaffairs.co/wordpress/131553/intelligence/fake-poc-exploits-attacks.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New RansomHouse group sets up extortion market, adds first victims<a href="https://www.bleepingcomputer.com/news/security/new-ransomhouse-group-sets-up-extortion-market-adds-first-victims/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mirai Malware for Linux Double Down on Stronger Chips<a href="https://www.crowdstrike.com/blog/linux-mirai-malware-double-on-stronger-chips/?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Crowdstrike
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2022
+May 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian hackers perform reconnaissance against Austria, Estonia<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-perform-reconnaissance-against-austria-estonia/"> Full Text</a>
@@ -354,7 +354,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2022
+May 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese "Twisted Panda" Hackers Caught Spying on Russian Defense Institutes<a href="https://thehackernews.com/2022/05/chinese-twisted-panda-hackers-caught.html"> Full Text</a>
@@ -370,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2022
+May 22, 2022 -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Elon Musk deep fakes promote new BitVex cryptocurrency scam<a href="https://www.bleepingcomputer.com/news/security/elon-musk-deep-fakes-promote-new-bitvex-cryptocurrency-scam/"> Full Text</a>

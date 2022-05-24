@@ -34,6 +34,18 @@ Threat actors, including likely advanced persistent threat (APT) actors, are exp
 May 16, 2022 - U.S. DEPARTMENT of STATE, U.S. DEPARTMENT OF THE TREASURY, FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+[Full Version] Guidance on the Democratic People’s Republic of Korea Information Technology Workers <a href="https://publications.bsafes.com/docs/state/advisory-20220516-guidance-on-the-democratic-peoples-republic-of-korea-information-technology-workers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of State, the U.S. Department of the Treasury, and the Federal Bureau of Investigation (FBI) are issuing this advisory for the international community, the private sector, and the public to warn of attempts by Democratic People’s Republic of Korea (DPRK, a.k.a. North Korea) information technology (IT) workers to obtain employment while posing as non-North Korean nationals. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 - U.S. DEPARTMENT of STATE, U.S. DEPARTMENT OF THE TREASURY, FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Guidance on the Democratic People’s Republic of Korea Information Technology Workers <a href="https://www.state.gov/guidance-on-the-democratic-peoples-republic-of-korea-information-technology-workers/"> Full Text</a>
 </p>
 <details>
