@@ -31,7 +31,7 @@ Threat actors, including likely advanced persistent threat (APT) actors, are exp
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2022 - CISA
+May 17, 2022 - CISA, the FBI, NSA, CCCS, NCSC-NZ, CERT-NZ, NCSC-NL, and NCSC-UK  
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [Full Version] Weak Security Controls and Practices Routinely Exploited for Initial Access <a href="https://publications.bsafes.com/docs/cisa/20220517-weak-security-controls-and-practices-routinely-exploited-for-initial-access/"> Full Text</a>
