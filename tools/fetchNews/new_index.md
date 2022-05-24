@@ -34,7 +34,359 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GM credential stuffing attack exposed car owners' personal info<a href="https://www.bleepingcomputer.com/news/security/gm-credential-stuffing-attack-exposed-car-owners-personal-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US car manufacturer GM disclosed that it was the victim of a credential stuffing attack last month that exposed customer information and allowed hackers to redeem rewards points for gift cards.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blockchain bridge Wormhole pays record $10m bug bounty reward<a href="https://portswigger.net/daily-swig/blockchain-bridge-wormhole-pays-record-10m-bug-bounty-reward?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker exploiting the vulnerability “could have held the entire protocol [to] ransom with the threat that the Ethereum Wormhole bridge would be bricked, and all the funds residing in that contract lost forever,” according to a PoC on GitHub.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yes, Containers Are Terrific, But Watch the Security Risks<a href="https://thehackernews.com/2022/05/yes-containers-are-terrific-but-watch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Containers revolutionized the development process, acting as a cornerstone for DevOps initiatives, but containers bring complex security risks that are not always obvious. Organizations that don't mitigate these risks are vulnerable to attack.   In this article, we outline how containers contributed to agile development, which unique security risks containers bring into the picture – and what organizations can do to secure containerized workloads, going beyond DevOps to achieve  DevSecOps .  Why did containers catch on so fast?  Containers are, in many ways, the evolution of virtualization. The goal was to speed up the development process, creating a more agile route from development through to testing and implementation – a method that's more lightweight than using full-blown virtual machines, anyway.  At the core of this issue is application compatibility, as applications require certain versions of libraries – which could clash with the requirements of other applications. Container
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Fronton botnet could run disinformation campaigns<a href="https://securityaffairs.co/wordpress/131574/cyber-warfare-2/fronton-botnet-disinformation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that the Fronton botnet was used by Russia-linked threat actors for coordinated disinformation campaigns.
+
+
+
+Fronton is a distributed denial-of-service (DDoS) botnet that was used by Russia-linked threat actors for coordinated disinformation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Getting More Sophisticated: How to Protect Your Business?<a href="https://threatpost.com/cybercrime-more-sophisticated/179676/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers continuously expand their capabilities and take advantage of limited cybersecurity awareness among businesses. With multiple attack vectors, they sabotage or bypass the victim’s security strengths while targeting their weaknesses. Hence it is more crucial than ever to have a Next-gen WAF.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Windows exploits target infosec community with Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/fake-windows-exploits-target-infosec-community-with-cobalt-strike/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor targeted security researchers with fake Windows proof-of-concept exploits that infected devices with the Cobalt Strike backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yik Yak fixes information disclosure bug that leaked users’ GPS location<a href="https://portswigger.net/daily-swig/yik-yak-fixes-information-disclosure-bug-that-leaked-users-gps-location?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+‘Anonymous’ social network Yik Yak took more than three months to address vulnerabilities which meant it wasn’t anonymous at all, despite reports from two different security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fronton: Russian IoT Botnet Designed to Run Social Media Disinformation Campaigns<a href="https://thehackernews.com/2022/05/fronton-russian-iot-botnet-designed-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fronton, a distributed denial-of-service (DDoS) botnet that came to light in March 2020, is much more powerful than previously thought, per the latest research.  "Fronton is a system developed for coordinated inauthentic behavior on a massive scale," threat intelligence firm Nisos said in a  report  published last week.  "This system includes a web-based dashboard known as SANA that enables a user to formulate and deploy trending social media events en masse. The system creates these events that it refers to as Инфоповоды, 'newsbreaks,' utilizing the botnet as a geographically distributed transport."  The existence of Fronton, an IoT botnet, became public knowledge following revelations from  BBC Russia  and  ZDNet  in March 2020 after a Russian hacker group known as Digital Revolution published documents that it claimed were obtained after breaking into a subcontractor to the FSB, the Federal Security Service of the Russian Federation.   Further investigat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in PayPal can allow attackers to steal money from users’ account<a href="https://securityaffairs.co/wordpress/131569/hacking/paypal-clickjacking-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher announced the discovery of an unpatched flaw in PayPal that could allow attackers to steal money from users.
+
+
+
+TheHackerNews first reported that a security researcher (that goes online with the moniker h4x0r_dz) has discovered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Photos of abused victims used in new ID verification scam<a href="https://www.bleepingcomputer.com/news/security/photos-of-abused-victims-used-in-new-id-verification-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are now leveraging dating apps like Tinder and Grindr to pose themselves as former victims of physical abuse to gain your trust and sympathy and sell you "ID verification" services. BleepingComputer came across multiple instances of users on online dating apps being approached by these catfishing profiles.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korea and US agree to cooperate on combating on North Korea's cyber-offensives<a href="https://www.theregister.com/2022/05/23/s_korean_and_us_presidents/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last month, the US government offered a reward of up to $5 million for information to disrupt North Korea's cryptocurrency theft, cyber-espionage, and other illicit state-backed activities.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Unpatched Bug Could Let Attackers Steal Money from PayPal Users<a href="https://thehackernews.com/2022/05/paypal-pays-hacker-200000-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher claims to have discovered an unpatched vulnerability in PayPal's money transfer service that could allow attackers to trick victims into unknowingly completing attacker-directed transactions with a single click.  Clickjacking, also called UI redressing, refers to a technique wherein an unwitting user is tricked into clicking seemingly innocuous webpage elements like buttons with the goal of downloading malware, redirecting to malicious websites, or disclose sensitive information.   This is typically achieved by displaying an invisible page or HTML element on top of the visible page, resulting in a scenario where users are fooled into thinking that they are clicking the legitimate page when they are in fact clicking the rogue element overlaid atop it.  "Thus, the attacker is 'hijacking' clicks meant for [the legitimate] page and routing them to another page, most likely owned by another application, domain, or both," security researcher h4x0r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cytrox’s Predator spyware used zero-day exploits in 3 campaigns<a href="https://securityaffairs.co/wordpress/131561/hacking/predator-spyware-zero-day-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) uncovered campaigns targeting Android users with five zero-day vulnerabilities.
+
+
+
+Google's Threat Analysis Group (TAG) researchers discovered three campaigns, between August and October 2021, targeting Android users...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can hack your online accounts before you even register them<a href="https://www.bleepingcomputer.com/news/security/hackers-can-hack-your-online-accounts-before-you-even-register-them/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have revealed that hackers can hijack your online accounts before you even register them by exploiting flaws that have been already been fixed on popular websites, including Instagram, LinkedIn, Zoom, WordPress, and Dropbox.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Target the Infosec Community with Fake PoC Exploits<a href="https://securityaffairs.co/wordpress/131553/intelligence/fake-poc-exploits-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An account was found sharing a fake Proof of Concept (POC) exploit code for an RPC Runtime Library Remote Code Execution flaw (CVE-2022-26809 CVSS 9.8). The malware, disguised as a fake PoC code, was available on GitHub.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors target the infoSec community with fake PoC exploits<a href="https://securityaffairs.co/wordpress/131553/intelligence/fake-poc-exploits-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a malware campaign targeting the infoSec community with fake Proof Of Concept to deliver a Cobalt Strike beacon.
+
+
+
+Researchers from threat intelligence firm Cyble uncovered a malware campaign targeting the infoSec community. The expert...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RansomHouse group sets up extortion market, adds first victims<a href="https://www.bleepingcomputer.com/news/security/new-ransomhouse-group-sets-up-extortion-market-adds-first-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yet another data-extortion cybercrime operation has appeared on the darknet named 'RansomHouse' where threat actors publish evidence of stolen files and leak data of organizations that refuse to make a ransom payment.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Malware for Linux Double Down on Stronger Chips<a href="https://www.crowdstrike.com/blog/linux-mirai-malware-double-on-stronger-chips/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular for compromising internet-connected devices and conducting distributed denial of service (DDoS) attacks, Mirai malware variants have been known to compromise devices that run on Linux builds.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers perform reconnaissance against Austria, Estonia<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-perform-reconnaissance-against-austria-estonia/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new reconnaissance campaign, the Russian state-sponsored hacking group Turla was observed targeting the Austrian Economic Chamber, a NATO platform, and the Baltic Defense College.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese "Twisted Panda" Hackers Caught Spying on Russian Defense Institutes<a href="https://thehackernews.com/2022/05/chinese-twisted-panda-hackers-caught.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least two research institutes located in Russia and a third likely target in Belarus have been at the receiving end of an espionage attack by a Chinese nation-state advanced persistent threat (APT).  The attacks, codenamed " Twisted Panda ," come in the backdrop of Russia's military invasion of Ukraine, prompting a  wide range  of  threat actors  to swiftly adapt their campaigns on the ongoing conflict to distribute malware and stage opportunistic attacks.  They have materialized in the form of social engineering schemes with topical war and sanctions-themed baits orchestrated to trick potential victims into clicking malicious links or opening weaponized documents.  Israeli cybersecurity firm Check Point, which  disclosed  details of the latest intelligence-gathering operation, attributed it a Chinese threat actor, with connections to that of  Stone Panda  (aka  APT 10 , Cicada, or Potassium) and  Mustang Panda  (aka Bronze President, HoneyMyte, or RedDelta).   Callin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elon Musk deep fakes promote new BitVex cryptocurrency scam<a href="https://www.bleepingcomputer.com/news/security/elon-musk-deep-fakes-promote-new-bitvex-cryptocurrency-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency scammers are using deep fake videos of Elon Musk and other prominent cryptocurrency advocates to promote a BitVex trading platform scam that steals deposited currency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2022 -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Elon Musk deep fakes promote new cryptocurrency scam<a href="https://www.bleepingcomputer.com/news/security/elon-musk-deep-fakes-promote-new-cryptocurrency-scam/"> Full Text</a>
@@ -50,7 +402,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2022
+May 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 366 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/131549/breaking-news/security-affairs-newsletter-round-366-by-pierluigi-paganini.html"> Full Text</a>
@@ -70,7 +422,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2022
+May 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PDF smuggles Microsoft Word doc to drop Snake Keylogger malware<a href="https://www.bleepingcomputer.com/news/security/pdf-smuggles-microsoft-word-doc-to-drop-snake-keylogger-malware/"> Full Text</a>
@@ -86,7 +438,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2022
+May 22, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked Lazarus APT uses Log4J to target VMware servers<a href="https://securityaffairs.co/wordpress/131483/apt/lazarus-apt-log4j-vmware-servers.html"> Full Text</a>
@@ -106,7 +458,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2022
+May 22, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google: Predator spyware infected Android devices using zero-days<a href="https://www.bleepingcomputer.com/news/security/google-predator-spyware-infected-android-devices-using-zero-days/"> Full Text</a>
@@ -122,7 +474,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2022
+May 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Pwn2Own Vancouver 2022: Trend Micro and ZDI awarded $1,155,000<a href="https://securityaffairs.co/wordpress/131539/hacking/pwn2own-vancouver-2022-d3.html"> Full Text</a>
@@ -142,7 +494,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2022
+May 21, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Details About Wizard Spider Emerge<a href="https://cyware.com/news/new-details-about-wizard-spider-emerge-6dcc3623"> Full Text</a>
@@ -158,7 +510,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2022
+May 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Emergence of Physically Mediated Cyberattacks?<a href="https://www.lawfareblog.com/emergence-physically-mediated-cyberattacks"> Full Text</a>
@@ -174,7 +526,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2022
+May 21, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India to press ahead with strict cybersecurity rules despite industry concerns<a href="https://indianexpress.com/article/technology/tech-news-technology/india-to-press-ahead-with-strict-cybersecurity-rules-despite-industry-concerns-7924272/?&web_view=true"> Full Text</a>
@@ -190,7 +542,7 @@ The Indian Express
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2022
+May 21, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attack exposes data of 500,000 Chicago students<a href="https://www.bleepingcomputer.com/news/security/ransomware-attack-exposes-data-of-500-000-chicago-students/"> Full Text</a>
@@ -206,7 +558,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2022
+May 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Asian media company Nikkei suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/131533/data-breach/nikkei-data-breach.html"> Full Text</a>
@@ -226,7 +578,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2022
+May 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious PyPI package opens backdoors on Windows, Linux, and Macs<a href="https://www.bleepingcomputer.com/news/security/malicious-pypi-package-opens-backdoors-on-windows-linux-and-macs/"> Full Text</a>
@@ -242,7 +594,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2022
+May 21, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Sandworm continues to conduct attacks against Ukraine<a href="https://securityaffairs.co/wordpress/131523/apt/sandworm-attacks-against-ukraine.html"> Full Text</a>
@@ -262,7 +614,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2022
+May 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 11 hacked three more times on last day of Pwn2Own contest<a href="https://www.bleepingcomputer.com/news/security/windows-11-hacked-three-more-times-on-last-day-of-pwn2own-contest/"> Full Text</a>
@@ -278,7 +630,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2022
+May 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes an IOS XR flaw actively exploited in the wild<a href="https://securityaffairs.co/wordpress/131516/security/cisco-ios-xr-flaw.html"> Full Text</a>
