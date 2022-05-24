@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+May 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asian media company Nikkei suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/131533/data-breach/nikkei-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The media company Nikkei has disclosed a ransomware attack and revealed that the incident might have impacted customer data.
+
+
+
+The Japanese-based media company Nikkey is focused on the business and financial industry, it is the world's largest financial...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Details About Wizard Spider Emerge<a href="https://cyware.com/news/new-details-about-wizard-spider-emerge-6dcc3623"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+First detected in 2017, Wizard Spider has come a long way. A recent investigation by Prodaft revealed that the gang is one of the wealthiest ones and its assets exceed hundreds of millions of dollars.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

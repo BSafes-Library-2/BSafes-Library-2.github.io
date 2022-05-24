@@ -8,6 +8,42 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Lazarus APT uses Log4J to target VMware servers<a href="https://securityaffairs.co/wordpress/131483/apt/lazarus-apt-log4j-vmware-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked Lazarus APT is exploiting the Log4J remote code execution (RCE) in attacks aimed at VMware Horizon servers.
+
+
+
+North Korea-linked group Lazarus is exploiting the Log4J RCE vulnerability (CVE-2021-44228) to compromise VMware Horizon...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Sandworm continues to conduct attacks against Ukraine<a href="https://securityaffairs.co/wordpress/131523/apt/sandworm-attacks-against-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from ESET reported that the Russia-linked APT group Sandworm continues to target Ukraine.
+
+
+
+Security experts from ESET reported that the Russia-linked cyberespionage group Sandworm continues to launch cyber attacks against entities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

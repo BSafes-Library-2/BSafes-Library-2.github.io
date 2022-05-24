@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Target the Infosec Community with Fake PoC Exploits<a href="https://securityaffairs.co/wordpress/131553/intelligence/fake-poc-exploits-attacks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An account was found sharing a fake Proof of Concept (POC) exploit code for an RPC Runtime Library Remote Code Execution flaw (CVE-2022-26809 CVSS 9.8). The malware, disguised as a fake PoC code, was available on GitHub.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers perform reconnaissance against Austria, Estonia<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-perform-reconnaissance-against-austria-estonia/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new reconnaissance campaign, the Russian state-sponsored hacking group Turla was observed targeting the Austrian Economic Chamber, a NATO platform, and the Baltic Defense College.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

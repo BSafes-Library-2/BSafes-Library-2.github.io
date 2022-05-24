@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blockchain bridge Wormhole pays record $10m bug bounty reward<a href="https://portswigger.net/daily-swig/blockchain-bridge-wormhole-pays-record-10m-bug-bounty-reward?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker exploiting the vulnerability “could have held the entire protocol [to] ransom with the threat that the Ethereum Wormhole bridge would be bricked, and all the funds residing in that contract lost forever,” according to a PoC on GitHub.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yes, Containers Are Terrific, But Watch the Security Risks<a href="https://thehackernews.com/2022/05/yes-containers-are-terrific-but-watch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Containers revolutionized the development process, acting as a cornerstone for DevOps initiatives, but containers bring complex security risks that are not always obvious. Organizations that don't mitigate these risks are vulnerable to attack.&nbsp;  In this article, we outline how containers contributed to agile development, which unique security risks containers bring into the picture – and what organizations can do to secure containerized workloads, going beyond DevOps to achieve&nbsp; DevSecOps .  Why did containers catch on so fast?  Containers are, in many ways, the evolution of virtualization. The goal was to speed up the development process, creating a more agile route from development through to testing and implementation – a method that's more lightweight than using full-blown virtual machines, anyway.  At the core of this issue is application compatibility, as applications require certain versions of libraries – which could clash with the requirements of other applications. Container
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Getting More Sophisticated: How to Protect Your Business?<a href="https://threatpost.com/cybercrime-more-sophisticated/179676/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers continuously expand their capabilities and take advantage of limited cybersecurity awareness among businesses. With multiple attack vectors, they sabotage or bypass the victim’s security strengths while targeting their weaknesses. Hence it is more crucial than ever to have a Next-gen WAF.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can hack your online accounts before you even register them<a href="https://www.bleepingcomputer.com/news/security/hackers-can-hack-your-online-accounts-before-you-even-register-them/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have revealed that hackers can hijack your online accounts before you even register them by exploiting flaws that have been already been fixed on popular websites, including Instagram, LinkedIn, Zoom, WordPress, and Dropbox.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

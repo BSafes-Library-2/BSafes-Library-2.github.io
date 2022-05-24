@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Fronton botnet could run disinformation campaigns<a href="https://securityaffairs.co/wordpress/131574/cyber-warfare-2/fronton-botnet-disinformation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that the Fronton botnet was used by Russia-linked threat actors for coordinated disinformation campaigns.
+
+
+
+Fronton is a distributed denial-of-service (DDoS) botnet that was used by Russia-linked threat actors for coordinated disinformation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

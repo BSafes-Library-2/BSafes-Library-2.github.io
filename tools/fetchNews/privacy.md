@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: Predator spyware infected Android devices using zero-days<a href="https://www.bleepingcomputer.com/news/security/google-predator-spyware-infected-android-devices-using-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) says that state-backed threat actors used five zero-day vulnerabilities to install Predator spyware developed by commercial surveillance developer Cytrox.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

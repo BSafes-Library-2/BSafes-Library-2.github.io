@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yik Yak fixes information disclosure bug that leaked users’ GPS location<a href="https://portswigger.net/daily-swig/yik-yak-fixes-information-disclosure-bug-that-leaked-users-gps-location?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+‘Anonymous’ social network Yik Yak took more than three months to address vulnerabilities which meant it wasn’t anonymous at all, despite reports from two different security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in PayPal can allow attackers to steal money from users’ account<a href="https://securityaffairs.co/wordpress/131569/hacking/paypal-clickjacking-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher announced the discovery of an unpatched flaw in PayPal that could allow attackers to steal money from users.
+
+
+
+TheHackerNews first reported that a security researcher (that goes online with the moniker h4x0r_dz) has discovered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Unpatched Bug Could Let Attackers Steal Money from PayPal Users<a href="https://thehackernews.com/2022/05/paypal-pays-hacker-200000-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher claims to have discovered an unpatched vulnerability in PayPal's money transfer service that could allow attackers to trick victims into unknowingly completing attacker-directed transactions with a single click.  Clickjacking, also called UI redressing, refers to a technique wherein an unwitting user is tricked into clicking seemingly innocuous webpage elements like buttons with the goal of downloading malware, redirecting to malicious websites, or disclose sensitive information.   This is typically achieved by displaying an invisible page or HTML element on top of the visible page, resulting in a scenario where users are fooled into thinking that they are clicking the legitimate page when they are in fact clicking the rogue element overlaid atop it.  "Thus, the attacker is 'hijacking' clicks meant for [the legitimate] page and routing them to another page, most likely owned by another application, domain, or both," security researcher h4x0r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
