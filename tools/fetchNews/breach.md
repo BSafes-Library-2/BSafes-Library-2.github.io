@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GM credential stuffing attack exposed car owners' personal info<a href="https://www.bleepingcomputer.com/news/security/gm-credential-stuffing-attack-exposed-car-owners-personal-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US car manufacturer GM disclosed that it was the victim of a credential stuffing attack last month that exposed customer information and allowed hackers to redeem rewards points for gift cards.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

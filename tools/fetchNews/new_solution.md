@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SIM-based Authentication Aims to Transform Device Binding Security to End Phishing<a href="https://thehackernews.com/2022/05/sim-based-authentication-aims-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Let's face it: we all use email, and we all use passwords. Passwords create inherent vulnerability in the system. The success rate of phishing attacks is&nbsp; skyrocketing , and opportunities for the attack have greatly multiplied as lives moved online. All it takes is one password to be compromised for all other users to become victims of a data breach.&nbsp;  To deliver additional security, therefore, digital identities rely on verification plasters. MFA (multi-factor authentication) often falls back to knowledge factors such as password resets and OTP codes, but these are still vulnerable. As long as credentials can be shared or intercepted, they can be misused.&nbsp;  What is needed is a paradigm shift – from knowledge-based credentials to strong possession-factor security that can't be compromised, alongside other verification security such as biometrics.  A new possession-factor API now aims to do precisely that, replacing knowledge-based credentials, by using the SIM card for possess
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

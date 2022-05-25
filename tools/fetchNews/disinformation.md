@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fronton: Russian IoT Botnet Designed to Run Social Media Disinformation Campaigns<a href="https://thehackernews.com/2022/05/fronton-russian-iot-botnet-designed-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fronton, a distributed denial-of-service (DDoS) botnet that came to light in March 2020, is much more powerful than previously thought, per the latest research.  "Fronton is a system developed for coordinated inauthentic behavior on a massive scale," threat intelligence firm Nisos said in a&nbsp; report &nbsp;published last week.  "This system includes a web-based dashboard known as SANA that enables a user to formulate and deploy trending social media events en masse. The system creates these events that it refers to as Инфоповоды, 'newsbreaks,' utilizing the botnet as a geographically distributed transport."  The existence of Fronton, an IoT botnet, became public knowledge following revelations from&nbsp; BBC Russia &nbsp;and&nbsp; ZDNet &nbsp;in March 2020 after a Russian hacker group known as Digital Revolution published documents that it claimed were obtained after breaking into a subcontractor to the FSB, the Federal Security Service of the Russian Federation.   Further investigat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

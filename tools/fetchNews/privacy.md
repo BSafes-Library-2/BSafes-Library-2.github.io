@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cytrox’s Predator spyware used zero-day exploits in 3 campaigns<a href="https://securityaffairs.co/wordpress/131561/hacking/predator-spyware-zero-day-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) uncovered campaigns targeting Android users with five zero-day vulnerabilities.
+
+
+
+Google's Threat Analysis Group (TAG) researchers discovered three campaigns, between August and October 2021, targeting Android users...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

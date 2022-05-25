@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target Russian govt with fake Windows updates pushing RATs<a href="https://www.bleepingcomputer.com/news/security/hackers-target-russian-govt-with-fake-windows-updates-pushing-rats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are targeting Russian government agencies with phishing emails that pretend to be Windows security updates and other lures to install remote access malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+General Motors credential stuffing attack exposes car owners info<a href="https://www.bleepingcomputer.com/news/security/general-motors-credential-stuffing-attack-exposes-car-owners-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US car manufacturer GM disclosed that it was the victim of a credential stuffing attack last month that exposed customer information and allowed hackers to redeem rewards points for gift cards.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

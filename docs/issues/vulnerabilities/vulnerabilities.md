@@ -8,6 +8,95 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro addressed a flaw exploited by China-linked Moshen Dragon APT<a href="https://securityaffairs.co/wordpress/131635/hacking/trend-micro-flaw-moshen-dragon.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro addressed a DLL hijacking issue in Trend Micro Security actively exploited by a China-linked threat group to deploy malware.
+
+
+
+Trend Micro addressed a DLL hijacking flaw in Trend Micro Security that a China-linked threat actor actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla fixes Firefox, Thunderbird zero-days exploited at Pwn2Own<a href="https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-thunderbird-zero-days-exploited-at-pwn2own/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has released security updates for multiple products to address zero-day vulnerabilities exploited during the&nbsp;Pwn2Own Vancouver 2022 hacking contest.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Corrupted PyPI Package Opens Backdoors for Different OSes<a href="https://cyware.com/news/corrupted-pypi-package-opens-backdoors-for-different-oses-d22f98d8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sonatype warns developers against malicious packages in the PyPI registry that were rooted by cybercriminals to perform supply chain attacks by deploying Cobalt Strike beacons and backdoors on Windows, macOS, and Linux systems. It could provide hackers initial access to the developer's network for  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Screencastify Chrome extension flaws allow webcam hijacks<a href="https://www.bleepingcomputer.com/news/security/screencastify-chrome-extension-flaws-allow-webcam-hijacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular Screencastify Chrome extension has fixed a vulnerability that allowed malicious sites to hijack users' webcams and steal recorded videos. However, security flaws still exist that could be exploited by unscrupulous insiders.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro fixes bug Chinese hackers exploited for espionage<a href="https://www.bleepingcomputer.com/news/security/trend-micro-fixes-bug-chinese-hackers-exploited-for-espionage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro says it patched a DLL hijacking flaw in Trend Micro Security used by a Chinese threat group to side-load malicious DLLs&nbsp;and deploy malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers to release exploit for new VMware auth bypass, patch now<a href="https://www.bleepingcomputer.com/news/security/researchers-to-release-exploit-for-new-vmware-auth-bypass-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code is about to be published for a vulnerability that allows administrative access without authentication in several VMware products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

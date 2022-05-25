@@ -8,6 +8,24 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors target the infoSec community with fake PoC exploits<a href="https://securityaffairs.co/wordpress/131553/intelligence/fake-poc-exploits-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a malware campaign targeting the infoSec community with fake Proof Of Concept to deliver a Cobalt Strike beacon.
+
+
+
+Researchers from threat intelligence firm Cyble uncovered a malware campaign targeting the infoSec community. The expert...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

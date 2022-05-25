@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RansomHouse group sets up extortion market, adds first victims<a href="https://www.bleepingcomputer.com/news/security/new-ransomhouse-group-sets-up-extortion-market-adds-first-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yet another data-extortion cybercrime operation has appeared on the darknet named 'RansomHouse' where threat actors publish evidence of stolen files and leak data of organizations that refuse to make a ransom payment.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese "Twisted Panda" Hackers Caught Spying on Russian Defense Institutes<a href="https://thehackernews.com/2022/05/chinese-twisted-panda-hackers-caught.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least two research institutes located in Russia and a third likely target in Belarus have been at the receiving end of an espionage attack by a Chinese nation-state advanced persistent threat (APT).  The attacks, codenamed " Twisted Panda ," come in the backdrop of Russia's military invasion of Ukraine, prompting a&nbsp; wide range &nbsp;of&nbsp; threat actors &nbsp;to swiftly adapt their campaigns on the ongoing conflict to distribute malware and stage opportunistic attacks.  They have materialized in the form of social engineering schemes with topical war and sanctions-themed baits orchestrated to trick potential victims into clicking malicious links or opening weaponized documents.  Israeli cybersecurity firm Check Point, which&nbsp; disclosed &nbsp;details of the latest intelligence-gathering operation, attributed it a Chinese threat actor, with connections to that of&nbsp; Stone Panda &nbsp;(aka&nbsp; APT 10 , Cicada, or Potassium) and&nbsp; Mustang Panda &nbsp;(aka Bronze President, HoneyMyte, or RedDelta).   Callin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

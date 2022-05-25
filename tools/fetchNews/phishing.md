@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Photos of abused victims used in new ID verification scam<a href="https://www.bleepingcomputer.com/news/security/photos-of-abused-victims-used-in-new-id-verification-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are now leveraging dating apps like Tinder and Grindr to pose themselves as former victims of&nbsp;physical abuse to gain your trust and sympathy and sell you "ID verification" services. BleepingComputer came across multiple instances of users on online dating apps being approached by these catfishing profiles.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

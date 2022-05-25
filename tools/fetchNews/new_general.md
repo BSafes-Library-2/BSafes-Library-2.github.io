@@ -8,6 +8,66 @@ nav_order: 900072
 
 ## General
 ---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation-state malware could become a commodity on dark web soon, Interpol warns<a href="https://securityaffairs.co/wordpress/131618/cyber-crime/nation-state-malware-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol Secretary warns that nation-state malware will become available on the cybercrime underground in a couple of years.
+
+
+
+Interpol Secretary General Jurgen Stock declared that nation-state malwre will become available on the darknet in a couple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How confident are CISOs about their security posture?<a href="https://www.helpnetsecurity.com/2022/05/24/cisos-key-challenges/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new report by Proofpoint, many CISOs now feel much more in control of their environment. 48% feel that their organization is at risk of suffering a material cyber attack in the next 12 months, down from 64% last year.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Paying the ransom is not a good recovery strategy<a href="https://www.helpnetsecurity.com/2022/05/24/recover-data-paying-ransom/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Businesses are losing the battle when it comes to defending against ransomware attacks, according to a Veeam report, which found that 72% of organizations had partial or complete attacks on their backup repositories.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vishing cases reach all time high<a href="https://www.helpnetsecurity.com/2022/05/24/vishing-cases-increased/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vishing (voice phishing) cases have increased almost 550 percent over the last twelve months (Q1 2022 to Q1 2021), according to the latest Quarterly Threat Trends &amp; Intelligence Report from Agari and PhishLabs.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

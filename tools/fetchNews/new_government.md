@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 41 vulnerabilities to list of bugs used in cyberattacks<a href="https://www.bleepingcomputer.com/news/security/cisa-adds-41-vulnerabilities-to-list-of-bugs-used-in-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity &amp; Infrastructure Security Agency (CISA) has added 41 vulnerabilities to its catalog of known exploited flaws over the past two days, including flaws for the Android kernel and Cisco IOS XR.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Senate: Govt’s ransomware fight hindered by limited reporting<a href="https://www.bleepingcomputer.com/news/security/us-senate-govt-s-ransomware-fight-hindered-by-limited-reporting/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report published today by U.S. Senator Gary Peters, Chairman of the Senate Homeland Security and Governmental Affairs Committee, says law enforcement and regulatory agencies lack insight into ransomware attacks to fight against them effectively.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

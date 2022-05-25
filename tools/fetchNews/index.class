@@ -34,6 +34,487 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DuckDuckGo browser allows Microsoft trackers due to search agreement<a href="https://www.bleepingcomputer.com/news/security/duckduckgo-browser-allows-microsoft-trackers-due-to-search-agreement/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The privacy-focused DuckDuckGo browser purposely allows Microsoft trackers on third-party sites due to an agreement in their syndicated search content contract between the two companies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twisted Panda: Chinese APT Targets Russian Orgs<a href="https://cyware.com/news/twisted-panda-chinese-apt-targets-russian-orgs-5bea837a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The targeted attack, dubbed Twisted Panda, has been going on since at least June 2021 and spied on at least two Russian defense research institutes and another unknown target in Belarus.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular PyPI Package 'ctx' and PHP Library 'phpass' Hijacked to Steal AWS Keys<a href="https://thehackernews.com/2022/05/pypi-package-ctx-and-php-library-phpass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two trojanized Python and PHP packages have been uncovered in what's yet another instance of a software supply chain attack targeting the open source ecosystem.  One of the packages in question is "ctx," a Python module available in the PyPi repository. The other involves "phpass," a PHP package that's been forked on GitHub to distribute a rogue update.  "In both cases the attacker appears to have taken over packages that have not been updated in a while," the SANS Internet Storm Center (ISC)  said , one of whose volunteer incident handlers, Yee Ching, analyzed the ctx package.  It's worth noting that ctx was last published to PyPi on December 19, 2014. On the other hand, phpass hasn't received an update since it was uploaded to Packagist on August 31, 2012.  The malicious Python package, which was pushed to PyPi on May 21, 2022, has been  removed from the repository , but the PHP library still continues to be  available  on GitHub.   In b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro addressed a flaw exploited by China-linked Moshen Dragon APT<a href="https://securityaffairs.co/wordpress/131635/hacking/trend-micro-flaw-moshen-dragon.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro addressed a DLL hijacking issue in Trend Micro Security actively exploited by a China-linked threat group to deploy malware.
+
+
+
+Trend Micro addressed a DLL hijacking flaw in Trend Micro Security that a China-linked threat actor actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla fixes Firefox, Thunderbird zero-days exploited at Pwn2Own<a href="https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-thunderbird-zero-days-exploited-at-pwn2own/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has released security updates for multiple products to address zero-day vulnerabilities exploited during the Pwn2Own Vancouver 2022 hacking contest.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Corrupted PyPI Package Opens Backdoors for Different OSes<a href="https://cyware.com/news/corrupted-pypi-package-opens-backdoors-for-different-oses-d22f98d8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sonatype warns developers against malicious packages in the PyPI registry that were rooted by cybercriminals to perform supply chain attacks by deploying Cobalt Strike beacons and backdoors on Windows, macOS, and Linux systems. It could provide hackers initial access to the developer's network for  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SIM-based Authentication Aims to Transform Device Binding Security to End Phishing<a href="https://thehackernews.com/2022/05/sim-based-authentication-aims-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Let's face it: we all use email, and we all use passwords. Passwords create inherent vulnerability in the system. The success rate of phishing attacks is  skyrocketing , and opportunities for the attack have greatly multiplied as lives moved online. All it takes is one password to be compromised for all other users to become victims of a data breach.   To deliver additional security, therefore, digital identities rely on verification plasters. MFA (multi-factor authentication) often falls back to knowledge factors such as password resets and OTP codes, but these are still vulnerable. As long as credentials can be shared or intercepted, they can be misused.   What is needed is a paradigm shift – from knowledge-based credentials to strong possession-factor security that can't be compromised, alongside other verification security such as biometrics.  A new possession-factor API now aims to do precisely that, replacing knowledge-based credentials, by using the SIM card for possess
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Skimming](/docs/issues/skimming/skimming/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of new highly evasive web skimming campaigns<a href="https://securityaffairs.co/wordpress/131625/hacking/web-skimming-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind web skimming campaigns are using malicious JavaScript to mimic Google Analytics and Meta Pixel scripts to avoid detection.
+
+
+
+Microsoft security researchers recently observed web skimming campaigns that used multiple obfuscation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target Russian govt with fake Windows updates pushing RATs<a href="https://www.bleepingcomputer.com/news/security/hackers-target-russian-govt-with-fake-windows-updates-pushing-rats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are targeting Russian government agencies with phishing emails that pretend to be Windows security updates and other lures to install remote access malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation-state malware could become a commodity on dark web soon, Interpol warns<a href="https://securityaffairs.co/wordpress/131618/cyber-crime/nation-state-malware-dark-web.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the ongoing conflict between Russia and Ukraine, the malware developed by both nation-state actors and non state actors represents a serious risk for critical infrastructure and organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chaos Ransomware Builder Variant "Yashma" Discovered in the Wild<a href="https://thehackernews.com/2022/05/new-chaos-ransomware-builder-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details of the latest version of the Chaos ransomware line, dubbed Yashma.  "Though Chaos ransomware builder has only been in the wild for a year, Yashma claims to be the sixth version (v6.0) of this malware," BlackBerry research and intelligence team said in a report  shared with The Hacker News.  Chaos is a customizable ransomware builder that  emerged  in underground forums on June 9, 2021, by falsely marketing itself as the .NET version of Ryuk despite sharing no such overlaps with the notorious counterpart.  The fact that it's offered for sale also means that any malicious actor can purchase the builder and develop their own ransomware strains, turning it into a potent threat.  It has since undergone five successive iterations aimed at improving its functionalities: version 2.0 on June 17, version 3.0 on July 5, version 4.0 on August 5, and version 5.0 in early 2022.   While the first three variants of Chaos functioned more l
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation-state malware could become a commodity on dark web soon, Interpol warns<a href="https://securityaffairs.co/wordpress/131618/cyber-crime/nation-state-malware-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol Secretary warns that nation-state malware will become available on the cybercrime underground in a couple of years.
+
+
+
+Interpol Secretary General Jurgen Stock declared that nation-state malwre will become available on the darknet in a couple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Credit card stealers are getting much stealthier<a href="https://www.bleepingcomputer.com/news/security/microsoft-credit-card-stealers-are-getting-much-stealthier/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's security researchers have observed a worrying trend in credit card skimming, where threat actors employ more advanced techniques to hide their malicious info-stealing code.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How confident are CISOs about their security posture?<a href="https://www.helpnetsecurity.com/2022/05/24/cisos-key-challenges/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new report by Proofpoint, many CISOs now feel much more in control of their environment. 48% feel that their organization is at risk of suffering a material cyber attack in the next 12 months, down from 64% last year.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Analysis: Trickbot<a href="https://thehackernews.com/2022/05/malware-analysis-trickbot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this day and age, we are not dealing with roughly pieced together, homebrew type of viruses anymore. Malware is an industry, and professional developers are found to exchange, be it by stealing one's code or deliberate collaboration. Attacks are multi-layer these days, with diverse sophisticated software apps taking over different jobs along the attack-chain from initial compromise to ultimate data exfiltration or encryption. The specific tools for each stage are highly specialized and can often be rented as a service, including customer support and subscription models for professional (ab)use. Obviously, this has largely increased both the availability and the potential effectiveness and impact of malware. Sound scary?   Well, it does, but the apparent professionalization actually does have some good sides too. One factor is that certain reused modules commonly found in malware can be used to identify, track, and analyze professional attack software. Ultimately this means that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 41 vulnerabilities to list of bugs used in cyberattacks<a href="https://www.bleepingcomputer.com/news/security/cisa-adds-41-vulnerabilities-to-list-of-bugs-used-in-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity & Infrastructure Security Agency (CISA) has added 41 vulnerabilities to its catalog of known exploited flaws over the past two days, including flaws for the Android kernel and Cisco IOS XR.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unknown APT group has targeted Russia repeatedly since Ukraine invasion<a href="https://blog.malwarebytes.com/malwarebytes-news/2022/05/unknown-apt-group-has-targeted-russia-repeatedly-since-ukraine-invasion/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown Advanced Persistent Threat (APT) group has targeted Russian government entities through at least four separate spear-phishing campaigns since late February 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware Operation Shut Down After Splitting into Smaller Groups<a href="https://thehackernews.com/2022/05/conti-ransomware-gang-shut-down-after.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even as the operators of Conti threatened to  overthrow the Costa Rican government , the notorious cybercrime gang officially took down their infrastructure in favor of migrating their criminal activities to other ancillary operations, including Karakurt and BlackByte.  "From the negotiations site, chatrooms, messengers to servers and proxy hosts - the Conti brand, not the organization itself, is shutting down," AdvIntel researchers Yelisey Bogusalvskiy and Vitali Kremez  said  in a report. "However, this does not mean that the threat actors themselves are retiring."  The voluntary termination, with the exception of its name-and-shame blog, is said to have occurred on May 19, 2022, while an organizational rejig was happening simultaneously to ensure a smooth transition of the ransomware group's members.  AdvIntel said Conti, which is also tracked under the moniker  Gold Ulrick , orchestrated its own demise by utilizing information warfare techniques.   The disb
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Senate: Govt’s ransomware fight hindered by limited reporting<a href="https://www.bleepingcomputer.com/news/security/us-senate-govt-s-ransomware-fight-hindered-by-limited-reporting/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report published today by U.S. Senator Gary Peters, Chairman of the Senate Homeland Security and Governmental Affairs Committee, says law enforcement and regulatory agencies lack insight into ransomware attacks to fight against them effectively.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Paying the ransom is not a good recovery strategy<a href="https://www.helpnetsecurity.com/2022/05/24/recover-data-paying-ransom/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Businesses are losing the battle when it comes to defending against ransomware attacks, according to a Veeam report, which found that 72% of organizations had partial or complete attacks on their backup repositories.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Web Skimmers Mimicking Google Analytics and Meta Pixel Code<a href="https://thehackernews.com/2022/05/microsoft-warns-of-web-skimmers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind web skimming campaigns are leveraging malicious JavaScript code that mimics Google Analytics and Meta Pixel scripts in an attempt to sidestep detection.  "It's a shift from earlier tactics where attackers conspicuously injected malicious scripts into e-commerce platforms and content management systems (CMSs) via vulnerability exploitation, making this threat highly evasive to traditional security solutions," Microsoft 365 Defender Research Team  said  in a new report.  Skimming attacks, such as those by Magecart, are carried out with the goal of harvesting and exporting users' payment information, such as credit card details, entered into online payment forms in e-commerce platforms, typically during the checkout process.   This is achieved by taking advantage of security vulnerabilities in third-party plugins and other tools to inject rogue JavaScript code into the online portals without the owners' knowledge.  As skimming attacks have incre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Screencastify Chrome extension flaws allow webcam hijacks<a href="https://www.bleepingcomputer.com/news/security/screencastify-chrome-extension-flaws-allow-webcam-hijacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular Screencastify Chrome extension has fixed a vulnerability that allowed malicious sites to hijack users' webcams and steal recorded videos. However, security flaws still exist that could be exploited by unscrupulous insiders.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Breach Zola Wedding Registry Accounts and Make Fraudulent Purchases<a href="https://www.theverge.com/2022/5/23/23137944/zola-wedding-hack-gift-card-fraudulent-transfer?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular wedding planning website Zola confirmed Monday that hackers had managed to access the accounts of a number of its users and tried to initiate fraudulent cash transfers.
+</details>
+<div style="text-align: right" markdown="1">
+The Verge
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro fixes bug Chinese hackers exploited for espionage<a href="https://www.bleepingcomputer.com/news/security/trend-micro-fixes-bug-chinese-hackers-exploited-for-espionage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro says it patched a DLL hijacking flaw in Trend Micro Security used by a Chinese threat group to side-load malicious DLLs and deploy malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vishing cases reach all time high<a href="https://www.helpnetsecurity.com/2022/05/24/vishing-cases-increased/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vishing (voice phishing) cases have increased almost 550 percent over the last twelve months (Q1 2022 to Q1 2021), according to the latest Quarterly Threat Trends & Intelligence Report from Agari and PhishLabs.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers to release exploit for new VMware auth bypass, patch now<a href="https://www.bleepingcomputer.com/news/security/researchers-to-release-exploit-for-new-vmware-auth-bypass-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code is about to be published for a vulnerability that allows administrative access without authentication in several VMware products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Python and PHP libraries hijacked to steal AWS keys<a href="https://www.bleepingcomputer.com/news/security/popular-python-and-php-libraries-hijacked-to-steal-aws-keys/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PyPI module 'ctx' that gets downloaded over 20,000 times a week has been compromised in a software supply chain attack with malicious versions stealing the developer's environment variables. Additionally, versions of a 'phpass' fork published to the PHP/Composer package repository Packagist had been altered to steal secrets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Turla APT targets Austria, Estonia, and NATO platform<a href="https://securityaffairs.co/wordpress/131586/apt/turla-apt-austria-estonia-nato.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT group Turla was observed targeting the Austrian Economic Chamber, a NATO eLearning platform, and the Baltic Defense College.
+
+
+
+Researchers from SEKOIA.IO Threat & Detection Research (TDR) team have uncovered a reconnaissance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+General Motors credential stuffing attack exposes car owners info<a href="https://www.bleepingcomputer.com/news/security/general-motors-credential-stuffing-attack-exposes-car-owners-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US car manufacturer GM disclosed that it was the victim of a credential stuffing attack last month that exposed customer information and allowed hackers to redeem rewards points for gift cards.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

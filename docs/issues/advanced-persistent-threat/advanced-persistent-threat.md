@@ -8,6 +8,52 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twisted Panda: Chinese APT Targets Russian Orgs<a href="https://cyware.com/news/twisted-panda-chinese-apt-targets-russian-orgs-5bea837a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The targeted attack, dubbed Twisted Panda, has been going on since at least June 2021 and spied on at least two Russian defense research institutes and another unknown target in Belarus.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unknown APT group has targeted Russia repeatedly since Ukraine invasion<a href="https://blog.malwarebytes.com/malwarebytes-news/2022/05/unknown-apt-group-has-targeted-russia-repeatedly-since-ukraine-invasion/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown Advanced Persistent Threat (APT) group has targeted Russian government entities through at least four separate spear-phishing campaigns since late February 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Turla APT targets Austria, Estonia, and NATO platform<a href="https://securityaffairs.co/wordpress/131586/apt/turla-apt-austria-estonia-nato.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT group Turla was observed targeting the Austrian Economic Chamber, a NATO eLearning platform, and the Baltic Defense College.
+
+
+
+Researchers from SEKOIA.IO Threat &amp; Detection Research (TDR) team have uncovered a&nbsp;reconnaissance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

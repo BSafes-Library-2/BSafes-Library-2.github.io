@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware Operation Shut Down After Splitting into Smaller Groups<a href="https://thehackernews.com/2022/05/conti-ransomware-gang-shut-down-after.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even as the operators of Conti threatened to&nbsp; overthrow the Costa Rican government , the notorious cybercrime gang officially took down their infrastructure in favor of migrating their criminal activities to other ancillary operations, including Karakurt and BlackByte.  "From the negotiations site, chatrooms, messengers to servers and proxy hosts - the Conti brand, not the organization itself, is shutting down," AdvIntel researchers Yelisey Bogusalvskiy and Vitali Kremez&nbsp; said &nbsp;in a report. "However, this does not mean that the threat actors themselves are retiring."  The voluntary termination, with the exception of its name-and-shame blog, is said to have occurred on May 19, 2022, while an organizational rejig was happening simultaneously to ensure a smooth transition of the ransomware group's members.  AdvIntel said Conti, which is also tracked under the moniker&nbsp; Gold Ulrick , orchestrated its own demise by utilizing information warfare techniques.   The disb
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Web Skimmers Mimicking Google Analytics and Meta Pixel Code<a href="https://thehackernews.com/2022/05/microsoft-warns-of-web-skimmers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind web skimming campaigns are leveraging malicious JavaScript code that mimics Google Analytics and Meta Pixel scripts in an attempt to sidestep detection.  "It's a shift from earlier tactics where attackers conspicuously injected malicious scripts into e-commerce platforms and content management systems (CMSs) via vulnerability exploitation, making this threat highly evasive to traditional security solutions," Microsoft 365 Defender Research Team&nbsp; said &nbsp;in a new report.  Skimming attacks, such as those by Magecart, are carried out with the goal of harvesting and exporting users' payment information, such as credit card details, entered into online payment forms in e-commerce platforms, typically during the checkout process.   This is achieved by taking advantage of security vulnerabilities in third-party plugins and other tools to inject rogue JavaScript code into the online portals without the owners' knowledge.  As skimming attacks have incre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

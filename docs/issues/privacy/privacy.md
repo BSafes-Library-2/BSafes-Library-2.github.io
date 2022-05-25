@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DuckDuckGo browser allows Microsoft trackers due to search agreement<a href="https://www.bleepingcomputer.com/news/security/duckduckgo-browser-allows-microsoft-trackers-due-to-search-agreement/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The privacy-focused DuckDuckGo browser purposely allows Microsoft trackers on third-party sites due to an agreement in their syndicated search content contract between the two companies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
