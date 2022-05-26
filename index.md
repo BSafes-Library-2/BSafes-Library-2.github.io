@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ‘Cheers’ Linux ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/new-cheers-linux-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities in Open Automation Software Platform could lead to information disclosure, denial of service<a href="https://blog.talosintelligence.com/2022/05/vuln-spotlight-open-automation-platform.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol Arrest Leader of SilverTerrier Cybercrime Gang Behind BEC Attacks<a href="https://thehackernews.com/2022/05/interpol-arrest-leader-of-silverterrier.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ChromeLoader malware surge threatens browsers worldwide<a href="https://www.bleepingcomputer.com/news/security/new-chromeloader-malware-surge-threatens-browsers-worldwide/"> Full Text</a>
@@ -98,7 +98,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Washington University School of Medicine notifies patients of data breach<a href="https://www.beckershospitalreview.com/cybersecurity/washington-university-school-of-medicine-notifies-patients-of-data-breach-2.html?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Becker's Health IT Review
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lumos System Can Find Hidden Cameras and IoT Devices in Your Airbnb or Hotel Room<a href="https://thehackernews.com/2022/05/lumos-system-can-find-hidden-cameras.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tails 5.0 Linux users warned against using it "for sensitive information"<a href="https://www.bleepingcomputer.com/news/security/tails-50-linux-users-warned-against-using-it-for-sensitive-information/"> Full Text</a>
@@ -146,7 +146,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows Exploits Used to Target Infosec Community<a href="https://cyware.com/news/windows-exploits-used-to-target-infosec-community-91ff2991"> Full Text</a>
@@ -163,7 +163,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Secrets Lurking in Source Code Lead to Major Breaches<a href="https://thehackernews.com/2022/05/how-secrets-lurking-in-source-code-lead.html"> Full Text</a>
@@ -179,7 +179,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Darknet market Versus shuts down after hacker leaks security flaw<a href="https://www.bleepingcomputer.com/news/security/darknet-market-versus-shuts-down-after-hacker-leaks-security-flaw/"> Full Text</a>
@@ -195,7 +195,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux-Based Ransomware 'Cheerscrypt' Targets VMware ESXi Servers<a href="https://www.trendmicro.com/en_us/research/22/e/new-linux-based-ransomware-cheerscrypt-targets-exsi-devices.html?&web_view=true"> Full Text</a>
@@ -211,7 +211,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Learn How Hackers Can Hijack Your Online Accounts Even Before You Create Them<a href="https://thehackernews.com/2022/05/learn-how-hackers-can-hijack-your.html"> Full Text</a>
@@ -227,7 +227,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is 100% Cybersecurity Readiness Possible? Medical Device Pros Weigh In<a href="https://www.bleepingcomputer.com/news/security/is-100-percent-cybersecurity-readiness-possible-medical-device-pros-weigh-in/"> Full Text</a>
@@ -243,7 +243,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Iran Group ALtahrea Hits Port of London Website by DDoS Attack<a href="https://www.hackread.com/pro-iran-altahrea-hit-port-of-london-website-ddos-attack/?&web_view=true"> Full Text</a>
@@ -259,7 +259,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find New Malware Attacks Targeting Russian Government Entities<a href="https://thehackernews.com/2022/05/researchers-find-new-malware-attacks.html"> Full Text</a>
@@ -275,7 +275,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker says hijacking libraries, stealing AWS keys was ethical research<a href="https://www.bleepingcomputer.com/news/security/hacker-says-hijacking-libraries-stealing-aws-keys-was-ethical-research/"> Full Text</a>
@@ -291,7 +291,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 102 Patches 32 Vulnerabilities<a href="https://www.securityweek.com/chrome-102-patches-32-vulnerabilities?&web_view=true"> Full Text</a>
@@ -307,7 +307,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [Template] Incident Response for Management Presentation<a href="https://thehackernews.com/2022/05/template-incident-response-for.html"> Full Text</a>
@@ -323,7 +323,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol arrests alleged leader of the SilverTerrier BEC gang<a href="https://www.bleepingcomputer.com/news/security/interpol-arrests-alleged-leader-of-the-silverterrier-bec-gang/"> Full Text</a>
@@ -339,7 +339,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Credit Card Stealer Targets PsiGate Payment Gateway Software<a href="https://blog.sucuri.net/2022/05/credit-card-stealer-targets-psigate-payment-gateway-software.html?&web_view=true"> Full Text</a>
@@ -355,7 +355,7 @@ Sucuri
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SpiceJet airline passengers stranded after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/spicejet-airline-passengers-stranded-after-ransomware-attack/"> Full Text</a>
@@ -371,7 +371,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BPFDoor malware uses Solaris vulnerability to get root privileges<a href="https://www.bleepingcomputer.com/news/security/bpfdoor-malware-uses-solaris-vulnerability-to-get-root-privileges/"> Full Text</a>
@@ -387,7 +387,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unknown APT group is targeting Russian government entities<a href="https://securityaffairs.co/wordpress/131658/apt/unknown-apt-group-target-russia.html"> Full Text</a>
@@ -407,7 +407,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Link Found Connecting Chaos, Onyx and Yashma Ransomware<a href="https://threatpost.com/chaos-onyx-and-yashma-ransomware/179730/"> Full Text</a>
@@ -423,7 +423,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Internationa police operation led to the arrest of the SilverTerrier gang leader<a href="https://securityaffairs.co/wordpress/131659/cyber-crime/silverterrier-leader-arrested.html"> Full Text</a>
@@ -443,7 +443,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoom Patches ‘Zero-Click’ RCE Bug<a href="https://threatpost.com/zoom-patches-zero-click-rce-bug/179727/"> Full Text</a>
@@ -459,7 +459,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chaining Zoom bugs is possible to hack users in a chat by sending them a message<a href="https://securityaffairs.co/wordpress/131654/hacking/zoom-vulnerabilities.html"> Full Text</a>
@@ -479,7 +479,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Verizon Report: Ransomware, Human Error Among Top Security Risks<a href="https://threatpost.com/verizon-dbir-report-2022/179725/"> Full Text</a>
@@ -495,7 +495,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2022
+May 25, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds 41 flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/131646/security/known-exploited-vulnerabilities-catalog-flaws-2.html"> Full Text</a>

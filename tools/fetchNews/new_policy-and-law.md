@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol arrests alleged leader of the SilverTerrier BEC gang<a href="https://www.bleepingcomputer.com/news/security/interpol-arrests-alleged-leader-of-the-silverterrier-bec-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a year-long investigation that involved Interpol and several cybersecurity companies, the Nigeria Police Force has arrested an individual believed to be in the top ranks of a prominent business email compromise (BEC) group known as SilverTerrier or TMT.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

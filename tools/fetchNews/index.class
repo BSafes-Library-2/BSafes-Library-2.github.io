@@ -34,6 +34,359 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘Cheers’ Linux ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/new-cheers-linux-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware named 'Cheers' has appeared in the cybercrime space and has started its operations by targeting vulnerable VMware ESXi servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in Open Automation Software Platform could lead to information disclosure, denial of service<a href="https://blog.talosintelligence.com/2022/05/vuln-spotlight-open-automation-platform.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos discovered eight vulnerabilities that could allow an adversary to carry out a variety of malicious actions, including improperly authenticating into the targeted device and causing a denial of service.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol Arrest Leader of SilverTerrier Cybercrime Gang Behind BEC Attacks<a href="https://thehackernews.com/2022/05/interpol-arrest-leader-of-silverterrier.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A year-long international investigation has resulted in the arrest of the suspected head of the SilverTerrier cybercrime group by the Nigeria Police Force.  "The suspect is alleged to have run a transnational cybercrime syndicate that launched mass phishing campaigns and business email compromise schemes targeting companies and individual victims," Interpol  said  in a statement.   Operation Delilah, as the coordinated international effort is called, involved tracking the 37-year-old Nigerian man's physical movements, before he was apprehended at Murtala Mohammed International Airport in Lagos.  Singapore-headquartered cybersecurity company Group-IB said  it provided threat intelligence that led to the arrest as part of the police operation that commenced in May 2021.   The development is the third in a series of law enforcement actions aimed at the identification and arrest of the suspected members of the SilverTerrier gang (aka TMT).   In November 2020, three alleged m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ChromeLoader malware surge threatens browsers worldwide<a href="https://www.bleepingcomputer.com/news/security/new-chromeloader-malware-surge-threatens-browsers-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ChromeLoader malware is seeing an uptick in detections this month, following a relatively stable operation volume since the start of the year, which means that the malvertiser is now becoming a widespread threat.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Washington University School of Medicine notifies patients of data breach<a href="https://www.beckershospitalreview.com/cybersecurity/washington-university-school-of-medicine-notifies-patients-of-data-breach-2.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the Washington University School of Medicine's website, the health system learned that an unauthorized person gained access to certain employee email accounts between March 4 and March 28.
+</details>
+<div style="text-align: right" markdown="1">
+Becker's Health IT Review
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lumos System Can Find Hidden Cameras and IoT Devices in Your Airbnb or Hotel Room<a href="https://thehackernews.com/2022/05/lumos-system-can-find-hidden-cameras.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics has devised a system that can be used on a phone or a laptop to identify and locate Wi-Fi-connected hidden IoT devices in unfamiliar physical spaces.  With hidden cameras being  increasingly   used  to  snoop  on  individuals  in hotel rooms and Airbnbs, the goal is to be able to pinpoint such rogue devices without much of a hassle.  The system, dubbed Lumos , is designed with this intent in mind and to "visualize their presence using an augmented reality interface,"  said  Rahul Anand Sharma, Elahe Soltanaghaei, Anthony Rowe, and Vyas Sekar of Carnegie Mellon University in a new paper.   At its core, the platform works by snuffing and collecting encrypted wireless packets over the air to detect and identify concealed devices. Subsequently, it estimates the location of each identified device with respect to the user as they walk around the perimeter of the space.  The localization module, for its part, combines signal strength measurements that are avail
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tails 5.0 Linux users warned against using it "for sensitive information"<a href="https://www.bleepingcomputer.com/news/security/tails-50-linux-users-warned-against-using-it-for-sensitive-information/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tails developers have warned users to stop using the portable Debian-based Linux distro until the next release if they're entering or accessing sensitive information using the bundled Tor Browser application.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Exploits Used to Target Infosec Community<a href="https://cyware.com/news/windows-exploits-used-to-target-infosec-community-91ff2991"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble researchers spotted a malware campaign targeting the infoSec community via a fake PoC exploit code for RPC Runtime RCE flaw. The fake exploit was distributed via GitHub. By attacking the infosec community, attackers are probably trying to gain access to vulnerability research or steal other p ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Secrets Lurking in Source Code Lead to Major Breaches<a href="https://thehackernews.com/2022/05/how-secrets-lurking-in-source-code-lead.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If one word could sum up the 2021 infosecurity year (well, actually three), it would be these: "supply chain attack".   A software supply chain attack happens when hackers manipulate the code in third-party software components to compromise the 'downstream' applications that use them. In 2021, we have seen a dramatic rise in such attacks: high profile security incidents like the SolarWinds, Kaseya, and  Codecov  data breaches have shaken enterprise's confidence in the security practices of third-party service providers.  What does this have to do with secrets, you might ask? In short, a lot. Take the Codecov case (we'll go back to it quickly): it is a textbook example to illustrate how hackers leverage hardcoded credentials to gain initial access into their victims' systems and harvest more secrets down the chain.   Secrets-in-code remains one of the most overlooked vulnerabilities in the application security space, despite being a priority target in hack
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darknet market Versus shuts down after hacker leaks security flaw<a href="https://www.bleepingcomputer.com/news/security/darknet-market-versus-shuts-down-after-hacker-leaks-security-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​The Versus Market, one of the most popular English-speaking criminal darknet markets, is shutting down after discovering a severe exploit that could have allowed access to its database and exposed the IP address of its servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux-Based Ransomware 'Cheerscrypt' Targets VMware ESXi Servers<a href="https://www.trendmicro.com/en_us/research/22/e/new-linux-based-ransomware-cheerscrypt-targets-exsi-devices.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the past, ESXi servers were also attacked by other known ransomware families such as LockBit, Hive, and RansomEXX as an efficient way to infect many computers with ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Learn How Hackers Can Hijack Your Online Accounts Even Before You Create Them<a href="https://thehackernews.com/2022/05/learn-how-hackers-can-hijack-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors can gain unauthorized access to users' online accounts via a new technique called "account pre-hijacking," new research has found.  The attack takes aim at the account creation process that's ubiquitous in websites and other online platforms, enabling an adversary to perform a set of actions before an unsuspecting victim creates an account in a target service.  The study was led by independent security researcher Avinash Sudhodanan in collaboration with Andrew Paverd of the Microsoft Security Response Center (MSRC).  Pre-hijacking banks on the prerequisite that an attacker is already in possession of a unique identifier associated with a victim, such as an email address or phone number, which can be obtained either from the target's social media accounts or credential dumps circulating on the web.   The attacks can then play out in five different ways, including the use of the same email address during account creation by both the adversary and t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is 100% Cybersecurity Readiness Possible? Medical Device Pros Weigh In<a href="https://www.bleepingcomputer.com/news/security/is-100-percent-cybersecurity-readiness-possible-medical-device-pros-weigh-in/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As medical devices become more connected and reliant on software, their codebase grows both in size and complexity, and they are increasingly reliant on third-party and open source software components. Learn more from 150 senior decision makers who oversee product security or cybersecurity compliance in the medical device industry,
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Iran Group ALtahrea Hits Port of London Website by DDoS Attack<a href="https://www.hackread.com/pro-iran-altahrea-hit-port-of-london-website-ddos-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Port of London Authority/PLA has become the latest victim of a cyberattack that caused the forced shut down of its website, the company confirmed on Tuesday, May 24th.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find New Malware Attacks Targeting Russian Government Entities<a href="https://thehackernews.com/2022/05/researchers-find-new-malware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown advanced persistent threat (APT) group has been linked to a series of spear-phishing attacks targeting Russian government entities since the onset of the Russo-Ukrainian war in late February 2022.  "The campaigns [...] are designed to implant a Remote Access Trojan (RAT) that can be used to surveil the computers it infects, and run commands on them remotely," Malwarebytes  said  in a technical report published Tuesday.  The cybersecurity company attributed the attacks with low confidence to a Chinese hacking group, citing infrastructure overlaps between the RAT and Sakula Rat malware used by a threat actor known as  Deep Panda .  The attack chains, while leveraging different lures over the course of two months, all employed the same malware barring small differences in the source code.   The campaign is said to have commenced around February 26, days after Russia's military invasion of Ukraine, with the emails distributing the RAT under the guise of an interac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker says hijacking libraries, stealing AWS keys was ethical research<a href="https://www.bleepingcomputer.com/news/security/hacker-says-hijacking-libraries-stealing-aws-keys-was-ethical-research/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker of 'ctx' and 'PHPass' libraries has now broken silence and explained the reasons behind this hijack to BleepingComputer. According to the hacker, this was a bug bounty exercise and no malicious activity was intended.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 102 Patches 32 Vulnerabilities<a href="https://www.securityweek.com/chrome-102-patches-32-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The critical security hole, tracked as CVE-2022-1853, has been described as a use-after-free bug affecting Indexed DB. Google learned about it on May 12 and it has yet to determine the bug bounty for this vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Template] Incident Response for Management Presentation<a href="https://thehackernews.com/2022/05/template-incident-response-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security incidents occur. It's not a matter of "if," but of "when." That's why you implemented security products and procedures to optimize the incident response (IR) process.  However, many security pros who are doing an excellent job in handling incidents find effectively communicating the ongoing process with their management a much more challenging task.  Feels familiar?  In many organizations, leadership is not security savvy, and they aren't interested in the details regarding all the bits and bytes in which the security pro masters.   Luckily, there is a template that security leads can use when presenting to management. It's called the  IR Reporting for Management template , providing CISOs and CIOs with a clear and intuitive tool to report both the ongoing IR process and its conclusion.  The IR Reporting for Management template enables CISOs and CIOs to communicate with the two key points that management cares about—assurance that the incid
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol arrests alleged leader of the SilverTerrier BEC gang<a href="https://www.bleepingcomputer.com/news/security/interpol-arrests-alleged-leader-of-the-silverterrier-bec-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a year-long investigation that involved Interpol and several cybersecurity companies, the Nigeria Police Force has arrested an individual believed to be in the top ranks of a prominent business email compromise (BEC) group known as SilverTerrier or TMT.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credit Card Stealer Targets PsiGate Payment Gateway Software<a href="https://blog.sucuri.net/2022/05/credit-card-stealer-targets-psigate-payment-gateway-software.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware injection leverages the #psigate_cc_number, #psigate_expiration, #psigate_expiration_yr and #psigate_cc_cid fields (among others) to harvest customer’s payment data and details whenever the text fields are submitted on the checkout page.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpiceJet airline passengers stranded after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/spicejet-airline-passengers-stranded-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indian low-cost airline SpiceJet has informed its customers of an attempted ransomware attack that has impacted some of its systems and caused delays on flight departures today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BPFDoor malware uses Solaris vulnerability to get root privileges<a href="https://www.bleepingcomputer.com/news/security/bpfdoor-malware-uses-solaris-vulnerability-to-get-root-privileges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research into the inner workings of the stealthy BPFdoor malware for Linux and Solaris reveals that the threat actor behind it leveraged an old vulnerability to achieve persistence on targeted systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 25, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

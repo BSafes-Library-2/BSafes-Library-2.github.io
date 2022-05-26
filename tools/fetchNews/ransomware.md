@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chaos Ransomware Builder Variant "Yashma" Discovered in the Wild<a href="https://thehackernews.com/2022/05/new-chaos-ransomware-builder-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details of the latest version of the Chaos ransomware line, dubbed Yashma.  "Though Chaos ransomware builder has only been in the wild for a year, Yashma claims to be the sixth version (v6.0) of this malware," BlackBerry research and intelligence team said in a report  shared with The Hacker News.  Chaos is a customizable ransomware builder that&nbsp; emerged &nbsp;in underground forums on June 9, 2021, by falsely marketing itself as the .NET version of Ryuk despite sharing no such overlaps with the notorious counterpart.  The fact that it's offered for sale also means that any malicious actor can purchase the builder and develop their own ransomware strains, turning it into a potent threat.  It has since undergone five successive iterations aimed at improving its functionalities: version 2.0 on June 17, version 3.0 on July 5, version 4.0 on August 5, and version 5.0 in early 2022.   While the first three variants of Chaos functioned more l
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 41 flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/131646/security/known-exploited-vulnerabilities-catalog-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Critical Infrastructure Security Agency (CISA) adds 41 new vulnerabilities to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The Cybersecurity &amp; Infrastructure Security Agency (CISA) has added 41 flaws to its Known Exploited Vulnerabilities Catalog,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

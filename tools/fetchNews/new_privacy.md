@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lumos System Can Find Hidden Cameras and IoT Devices in Your Airbnb or Hotel Room<a href="https://thehackernews.com/2022/05/lumos-system-can-find-hidden-cameras.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics has devised a system that can be used on a phone or a laptop to identify and locate Wi-Fi-connected hidden IoT devices in unfamiliar physical spaces.  With hidden cameras being&nbsp; increasingly &nbsp; used &nbsp;to&nbsp; snoop &nbsp;on&nbsp; individuals &nbsp;in hotel rooms and Airbnbs, the goal is to be able to pinpoint such rogue devices without much of a hassle.  The system, dubbed Lumos , is designed with this intent in mind and to "visualize their presence using an augmented reality interface,"&nbsp; said &nbsp;Rahul Anand Sharma, Elahe Soltanaghaei, Anthony Rowe, and Vyas Sekar of Carnegie Mellon University in a new paper.   At its core, the platform works by snuffing and collecting encrypted wireless packets over the air to detect and identify concealed devices. Subsequently, it estimates the location of each identified device with respect to the user as they walk around the perimeter of the space.  The localization module, for its part, combines signal strength measurements that are avail
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

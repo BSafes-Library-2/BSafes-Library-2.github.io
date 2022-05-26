@@ -8,6 +8,24 @@ nav_order: 900190
 
 ## Skimming
 ---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of new highly evasive web skimming campaigns<a href="https://securityaffairs.co/wordpress/131625/hacking/web-skimming-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind web skimming campaigns are using malicious JavaScript to mimic Google Analytics and Meta Pixel scripts to avoid detection.
+
+
+
+Microsoft security researchers recently observed web skimming campaigns that used multiple obfuscation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

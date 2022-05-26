@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Secrets Lurking in Source Code Lead to Major Breaches<a href="https://thehackernews.com/2022/05/how-secrets-lurking-in-source-code-lead.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If one word could sum up the 2021 infosecurity year (well, actually three), it would be these: "supply chain attack".&nbsp;  A software supply chain attack happens when hackers manipulate the code in third-party software components to compromise the 'downstream' applications that use them. In 2021, we have seen a dramatic rise in such attacks: high profile security incidents like the SolarWinds, Kaseya, and&nbsp; Codecov &nbsp;data breaches have shaken enterprise's confidence in the security practices of third-party service providers.  What does this have to do with secrets, you might ask? In short, a lot. Take the Codecov case (we'll go back to it quickly): it is a textbook example to illustrate how hackers leverage hardcoded credentials to gain initial access into their victims' systems and harvest more secrets down the chain.&nbsp;  Secrets-in-code remains one of the most overlooked vulnerabilities in the application security space, despite being a priority target in hack
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Learn How Hackers Can Hijack Your Online Accounts Even Before You Create Them<a href="https://thehackernews.com/2022/05/learn-how-hackers-can-hijack-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors can gain unauthorized access to users' online accounts via a new technique called "account pre-hijacking," new research has found.  The attack takes aim at the account creation process that's ubiquitous in websites and other online platforms, enabling an adversary to perform a set of actions before an unsuspecting victim creates an account in a target service.  The study was led by independent security researcher Avinash Sudhodanan in collaboration with Andrew Paverd of the Microsoft Security Response Center (MSRC).  Pre-hijacking banks on the prerequisite that an attacker is already in possession of a unique identifier associated with a victim, such as an email address or phone number, which can be obtained either from the target's social media accounts or credential dumps circulating on the web.   The attacks can then play out in five different ways, including the use of the same email address during account creation by both the adversary and t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find New Malware Attacks Targeting Russian Government Entities<a href="https://thehackernews.com/2022/05/researchers-find-new-malware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown advanced persistent threat (APT) group has been linked to a series of spear-phishing attacks targeting Russian government entities since the onset of the Russo-Ukrainian war in late February 2022.  "The campaigns [...] are designed to implant a Remote Access Trojan (RAT) that can be used to surveil the computers it infects, and run commands on them remotely," Malwarebytes&nbsp; said &nbsp;in a technical report published Tuesday.  The cybersecurity company attributed the attacks with low confidence to a Chinese hacking group, citing infrastructure overlaps between the RAT and Sakula Rat malware used by a threat actor known as&nbsp; Deep Panda .  The attack chains, while leveraging different lures over the course of two months, all employed the same malware barring small differences in the source code.   The campaign is said to have commenced around February 26, days after Russia's military invasion of Ukraine, with the emails distributing the RAT under the guise of an interac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpiceJet airline passengers stranded after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/spicejet-airline-passengers-stranded-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indian low-cost airline SpiceJet has informed its customers of an attempted ransomware attack that has impacted some of its systems and caused delays on flight departures today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular PyPI Package 'ctx' and PHP Library 'phpass' Hijacked to Steal AWS Keys<a href="https://thehackernews.com/2022/05/pypi-package-ctx-and-php-library-phpass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two trojanized Python and PHP packages have been uncovered in what's yet another instance of a software supply chain attack targeting the open source ecosystem.  One of the packages in question is "ctx," a Python module available in the PyPi repository. The other involves "phpass," a PHP package that's been forked on GitHub to distribute a rogue update.  "In both cases the attacker appears to have taken over packages that have not been updated in a while," the SANS Internet Storm Center (ISC)&nbsp; said , one of whose volunteer incident handlers, Yee Ching, analyzed the ctx package.  It's worth noting that ctx was last published to PyPi on December 19, 2014. On the other hand, phpass hasn't received an update since it was uploaded to Packagist on August 31, 2012.  The malicious Python package, which was pushed to PyPi on May 21, 2022, has been&nbsp; removed from the repository , but the PHP library still continues to be&nbsp; available &nbsp;on GitHub.   In b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Breach Zola Wedding Registry Accounts and Make Fraudulent Purchases<a href="https://www.theverge.com/2022/5/23/23137944/zola-wedding-hack-gift-card-fraudulent-transfer?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular wedding planning website Zola confirmed Monday that hackers had managed to access the accounts of a number of its users and tried to initiate fraudulent cash transfers.
+</details>
+<div style="text-align: right" markdown="1">
+The Verge
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Python and PHP libraries hijacked to steal AWS keys<a href="https://www.bleepingcomputer.com/news/security/popular-python-and-php-libraries-hijacked-to-steal-aws-keys/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PyPI&nbsp;module 'ctx' that gets downloaded over 20,000 times a week has been compromised in a software supply chain attack with malicious versions stealing the developer's environment variables. Additionally, versions of a 'phpass' fork published to the PHP/Composer package repository Packagist&nbsp;had been altered to steal secrets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

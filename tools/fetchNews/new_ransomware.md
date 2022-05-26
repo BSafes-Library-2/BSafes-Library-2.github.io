@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘Cheers’ Linux ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/new-cheers-linux-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware named 'Cheers' has appeared in the cybercrime space and has started its operations by targeting vulnerable VMware ESXi servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux-Based Ransomware 'Cheerscrypt' Targets VMware ESXi Servers<a href="https://www.trendmicro.com/en_us/research/22/e/new-linux-based-ransomware-cheerscrypt-targets-exsi-devices.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the past, ESXi servers were also attacked by other known ransomware families such as LockBit, Hive, and RansomEXX as an efficient way to infect many computers with ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Link Found Connecting Chaos, Onyx and Yashma Ransomware<a href="https://threatpost.com/chaos-onyx-and-yashma-ransomware/179730/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A slip-up by a malware author has allowed researchers to taxonomize three ransomware variations going by different names.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
