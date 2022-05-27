@@ -8,6 +8,21 @@ nav_order: 900190
 
 ## Skimming
 ---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credit Card Stealers Adopt Advanced Evasion Techniques<a href="https://cyware.com/news/credit-card-stealers-adopt-advanced-evasion-techniques-f401c33f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft found that scammers are using image files with a hidden malicious PHP script to manipulate e-commerce checkout pages and capture payment card details in their latest attack campaigns. The attackers are obfuscating their code snippets, injecting them into image files, and masquerading as w ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

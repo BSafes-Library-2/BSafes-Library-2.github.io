@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol Arrest Leader of SilverTerrier Cybercrime Gang Behind BEC Attacks<a href="https://thehackernews.com/2022/05/interpol-arrest-leader-of-silverterrier.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A year-long international investigation has resulted in the arrest of the suspected head of the SilverTerrier cybercrime group by the Nigeria Police Force.  "The suspect is alleged to have run a transnational cybercrime syndicate that launched mass phishing campaigns and business email compromise schemes targeting companies and individual victims," Interpol&nbsp; said &nbsp;in a statement.   Operation Delilah, as the coordinated international effort is called, involved tracking the 37-year-old Nigerian man's physical movements, before he was apprehended at Murtala Mohammed International Airport in Lagos.  Singapore-headquartered cybersecurity company Group-IB said  it provided threat intelligence that led to the arrest as part of the police operation that commenced in May 2021.   The development is the third in a series of law enforcement actions aimed at the identification and arrest of the suspected members of the SilverTerrier gang (aka TMT).   In November 2020, three alleged m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darknet market Versus shuts down after hacker leaks security flaw<a href="https://www.bleepingcomputer.com/news/security/darknet-market-versus-shuts-down-after-hacker-leaks-security-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​The Versus Market, one of the most popular English-speaking criminal darknet markets, is shutting down after discovering a severe exploit that could have allowed access to its database and exposed the IP address of its servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internationa police operation led to the arrest of the SilverTerrier gang leader<a href="https://securityaffairs.co/wordpress/131659/cyber-crime/silverterrier-leader-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Nigeria Police Force has arrested the suspected leader of the SilverTerrier cybercrime group as a result of an international operation.
+
+
+
+The Nigeria Police Force has arrested the suspected leader of the SilverTerrier cybercrime gang (aka TMT) after...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

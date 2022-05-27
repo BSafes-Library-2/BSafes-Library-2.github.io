@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Iran Group ALtahrea Hits Port of London Website by DDoS Attack<a href="https://www.hackread.com/pro-iran-altahrea-hit-port-of-london-website-ddos-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Port of London Authority/PLA has become the latest victim of a cyberattack that caused the forced shut down of its website, the company confirmed on Tuesday, May 24th.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

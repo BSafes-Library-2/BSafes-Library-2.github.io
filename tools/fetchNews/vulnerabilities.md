@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in Open Automation Software Platform could lead to information disclosure, denial of service<a href="https://blog.talosintelligence.com/2022/05/vuln-spotlight-open-automation-platform.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos discovered eight vulnerabilities that could allow an adversary to carry out a variety of malicious actions, including improperly authenticating into the targeted device and causing a denial of service.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tails 5.0 Linux users warned against using it "for sensitive information"<a href="https://www.bleepingcomputer.com/news/security/tails-50-linux-users-warned-against-using-it-for-sensitive-information/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tails developers have warned users to stop using the portable Debian-based Linux distro until the next release if they're entering or accessing sensitive information using the bundled Tor Browser application.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 102 Patches 32 Vulnerabilities<a href="https://www.securityweek.com/chrome-102-patches-32-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The critical security hole, tracked as CVE-2022-1853, has been described as a use-after-free bug affecting Indexed DB. Google learned about it on May 12 and it has yet to determine the bug bounty for this vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom Patches ‘Zero-Click’ RCE Bug<a href="https://threatpost.com/zoom-patches-zero-click-rce-bug/179727/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Google Project Zero researcher found a bug in XML parsing on the Zoom client and server.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chaining Zoom bugs is possible to hack users in a chat by sending them a message<a href="https://securityaffairs.co/wordpress/131654/hacking/zoom-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security flaws in Zoom can be exploited to compromise another user over chat by sending specially crafted messages.
+
+
+
+A set of four security flaws in the popular video conferencing service Zoom could be exploited to compromise another user over chat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

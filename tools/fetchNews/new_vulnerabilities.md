@@ -8,6 +8,154 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical 'Pantsdown' BMC Vulnerability Affects QCT Servers Used in Data Centers<a href="https://thehackernews.com/2022/05/critical-pantsdown-bmc-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Quanta Cloud Technology (QCT) servers have been identified as vulnerable to the severe "Pantsdown" Baseboard Management Controller (BMC) flaw, according to new research published today.  "An attacker running code on a vulnerable QCT server would be able to 'hop' from the server host to the BMC and move their attacks to the server management network, possibly continue and obtain further permissions to other BMCs on the network and by doing that gaining access to other servers," firmware and hardware security firm Eclypsium&nbsp; said .  A baseboard management controller is a specialized system used for remote monitoring and management of servers, including controlling low-level hardware settings as well as installing firmware and software updates.   Tracked as&nbsp; CVE-2019-6260 &nbsp;(CVSS score: 9.8), the&nbsp; critical security flaw &nbsp;came to light in January 2019 and relates to a case of arbitrary read and write access to the BMC's physical address space, resulting in a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 KB5014019 breaks Trend Micro ransomware protection<a href="https://www.bleepingcomputer.com/news/security/windows-11-kb5014019-breaks-trend-micro-ransomware-protection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's&nbsp;Windows optional cumulative update previews have introduced a compatibility issue with some of Trend Micro's security products that breaks some of their capabilities, including the&nbsp;ransomware protection feature.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel addresses four flaws affecting APs, AP controllers, and firewalls<a href="https://securityaffairs.co/wordpress/131691/security/zyxel-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel addressed multiple vulnerabilities impacting many of its products, including APs, AP controllers, and firewalls.
+
+
+
+Zyxel has released security updates to address multiple vulnerabilities affecting multiple products, including firewall, AP, and AP controller...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OAS platform vulnerable to critical RCE and API access flaws<a href="https://www.bleepingcomputer.com/news/security/oas-platform-vulnerable-to-critical-rce-and-api-access-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have disclosed vulnerabilities affecting the Open Automation Software (OAS) platform, leading to device access, denial of service, and remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit released for critical VMware auth bypass bug, patch now<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-vmware-auth-bypass-bug-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code is now available online for a critical authentication bypass vulnerability in multiple VMware products that allows attackers to gain admin privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quanta Servers Caught With 'Pantsdown' BMC Vulnerability<a href="https://www.darkreading.com/cloud/quanta-servers-caught-with-pantsdown-bmc-vuln?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several Quanta Cloud Technology (QCT) server models are vulnerable to a critical firmware vulnerability that puts them at risk of attacks that take full control over the server — and that can spread across numerous servers on the same network.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Added Dangers Privileged Accounts Pose to Your Active Directory<a href="https://thehackernews.com/2022/05/the-added-dangers-privileged-accounts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In any organization, there are certain accounts that are designated as being privileged. These privileged accounts differ from standard user accounts in that they have permission to perform actions that go beyond what standard users can do. The actions vary based on the nature of the account but can include anything from setting up new user accounts to shutting down mission-critical systems.  Privileged accounts are essential tools. Without these accounts, the IT staff would be unable to do its job. At the same time, privileged accounts can pose a serious threat to an organization's security.  Added risk of a privileged account&nbsp;  Imagine for a moment that a hacker manages to steal a standard user's password and is able to log in as that user. Even though the hacker would have access to certain resources at that point, they would be constrained by the user's privileges (or lack thereof). In other words, the hacker would be able to browse the Internet, open some applications, and access
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Do not use Tails OS until a flaw in the bundled Tor Browser will be fixed<a href="https://securityaffairs.co/wordpress/131680/digital-id/tails-os-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the Tails project (The Amnesic Incognito Live System) warn users that the Tor Browser bundled with the OS could expose their sensitive information. 
+
+
+
+The maintainers confirmed that Tor Browser&nbsp;in Tails 5.0 and earlier is unsafe...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tails OS Users Advised Not to Use Tor Browser Until Critical Firefox Bugs are Patched<a href="https://thehackernews.com/2022/05/tails-os-users-advised-not-to-use-tor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the Tails project have issued a warning that the Tor Browser that's bundled with the operating system is unsafe to use for accessing or entering sensitive information.  "We recommend that you stop using Tails until the release of 5.1 (May 31) if you use Tor Browser for sensitive information (passwords, private messages, personal information, etc.)," the project&nbsp; said &nbsp;in an advisory issued this week.  Tails, short for The Amnesic Incognito Live System, is a security-oriented Debian-based Linux distribution aimed at preserving privacy and anonymity by connecting to the internet through the Tor network.   The alert comes as Mozilla on May 20, 2022 rolled out fixes for&nbsp; two critical zero-day flaws &nbsp;in its Firefox browser, a modified version of which acts as the foundation of the Tor Browser.  Tracked as CVE-2022-1802 and CVE-2022-1529, the two vulnerabilities are what's referred to as&nbsp; prototype pollution &nbsp;that could be weaponized to gain JavaScript c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel warns of flaws impacting firewalls, APs, and controllers<a href="https://www.bleepingcomputer.com/news/security/zyxel-warns-of-flaws-impacting-firewalls-aps-and-controllers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has published a security advisory to warn admins about multiple vulnerabilities affecting a wide range of firewall, AP, and AP controller products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

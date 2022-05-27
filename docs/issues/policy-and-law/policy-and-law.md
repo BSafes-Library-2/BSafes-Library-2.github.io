@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Fined $150 Million for Misusing Users' Data for Advertising Without Consent<a href="https://thehackernews.com/2022/05/twitter-fined-150-million-for-misusing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter, which is in the process of being acquired by Tesla CEO Elon Musk, has agreed to pay $150 million to the U.S. Federal Trade Commission (FTC) to settle allegations that it abused non-public information collected for security purposes to serve targeted ads.  In addition to the monetary penalty for "misrepresenting its privacy and security practices," the company has been banned from profiting from the deceptively collected data and ordered to notify all affected users.  "Twitter obtained data from users on the pretext of harnessing it for security purposes but then ended up also using the data to target users with ads," FTC Chair Lina M. Khan&nbsp; said &nbsp;in a statement. "This practice affected more than 140 million Twitter users, while boosting Twitter's primary source of revenue."   According to a&nbsp; complaint &nbsp;filed by the U.S. Justice Department, Twitter in May 2013 began enforcing a requirement for users to provide either a phone number or email ad
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

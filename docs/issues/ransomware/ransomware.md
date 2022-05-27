@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chaos and Nokoyawa Ransomware Variants Found<a href="https://cyware.com/news/new-chaos-and-nokoyawa-ransomware-variants-found-d0af4dfa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts spotted two new ransomware variants for Nokoyawa and Chaos ransomware, in two separate reports. Chaos' variant named Yashma includes two new improvements: the ability to stop execution on the basis of a victim's location and stop different running processes linked with antivirus a ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

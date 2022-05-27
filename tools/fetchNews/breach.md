@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Washington University School of Medicine notifies patients of data breach<a href="https://www.beckershospitalreview.com/cybersecurity/washington-university-school-of-medicine-notifies-patients-of-data-breach-2.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the Washington University School of Medicine's website, the health system learned that an unauthorized person gained access to certain employee email accounts between March 4 and March 28.
+</details>
+<div style="text-align: right" markdown="1">
+Becker's Health IT Review
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

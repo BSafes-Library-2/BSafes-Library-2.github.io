@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is 100% Cybersecurity Readiness Possible? Medical Device Pros Weigh In<a href="https://www.bleepingcomputer.com/news/security/is-100-percent-cybersecurity-readiness-possible-medical-device-pros-weigh-in/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As medical devices become more connected and reliant on software, their codebase grows both in size and complexity, and they are increasingly reliant on third-party and open source software components. Learn more from 150 senior decision makers who oversee product security or cybersecurity compliance in the medical device industry,
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Template] Incident Response for Management Presentation<a href="https://thehackernews.com/2022/05/template-incident-response-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security incidents occur. It's not a matter of "if," but of "when." That's why you implemented security products and procedures to optimize the incident response (IR) process.  However, many security pros who are doing an excellent job in handling incidents find effectively communicating the ongoing process with their management a much more challenging task.  Feels familiar?  In many organizations, leadership is not security savvy, and they aren't interested in the details regarding all the bits and bytes in which the security pro masters.&nbsp;  Luckily, there is a template that security leads can use when presenting to management. It's called the&nbsp; IR Reporting for Management template , providing CISOs and CIOs with a clear and intuitive tool to report both the ongoing IR process and its conclusion.  The IR Reporting for Management template enables CISOs and CIOs to communicate with the two key points that management cares about—assurance that the incid
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verizon Report: Ransomware, Human Error Among Top Security Risks<a href="https://threatpost.com/verizon-dbir-report-2022/179725/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2022’s DBIR also highlighted the far-reaching impact of supply-chain breaches and how organizations and their employees are the reasons why incidents occur.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

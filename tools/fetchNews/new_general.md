@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial Spy data extortion market gets into the ransomware game<a href="https://www.bleepingcomputer.com/news/security/industrial-spy-data-extortion-market-gets-into-the-ransomware-game/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Industrial Spy data extortion marketplace has now launched its own ransomware operation, where they now also encrypt victim's devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
