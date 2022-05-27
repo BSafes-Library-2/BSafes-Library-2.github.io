@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intuit warns of QuickBooks phishing threatening to suspend accounts<a href="https://www.bleepingcomputer.com/news/security/intuit-warns-of-quickbooks-phishing-threatening-to-suspend-accounts/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attack Disrupts Multiple Civil Services in Somerset County<a href="https://therecord.media/ransomware-attack-disrupts-a-range-of-services-in-a-new-jersey-county/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical 'Pantsdown' BMC Vulnerability Affects QCT Servers Used in Data Centers<a href="https://thehackernews.com/2022/05/critical-pantsdown-bmc-vulnerability.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exposed: the threat actors who are poisoning Facebook<a href="https://securityaffairs.co/wordpress/131694/cyber-crime/threat-actors-poisoning-facebook.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 11 KB5014019 breaks Trend Micro ransomware protection<a href="https://www.bleepingcomputer.com/news/security/windows-11-kb5014019-breaks-trend-micro-ransomware-protection/"> Full Text</a>
@@ -122,7 +122,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Chaos and Nokoyawa Ransomware Variants Found<a href="https://cyware.com/news/new-chaos-and-nokoyawa-ransomware-variants-found-d0af4dfa"> Full Text</a>
@@ -139,7 +139,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Warn of Rise in ChromeLoader Malware Hijacking Users' Browsers<a href="https://thehackernews.com/2022/05/experts-warn-of-rise-in-chromeloader.html"> Full Text</a>
@@ -155,7 +155,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel addresses four flaws affecting APs, AP controllers, and firewalls<a href="https://securityaffairs.co/wordpress/131691/security/zyxel-flaws.html"> Full Text</a>
@@ -175,7 +175,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OAS platform vulnerable to critical RCE and API access flaws<a href="https://www.bleepingcomputer.com/news/security/oas-platform-vulnerable-to-critical-rce-and-api-access-flaws/"> Full Text</a>
@@ -191,7 +191,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Credit Card Stealers Adopt Advanced Evasion Techniques<a href="https://cyware.com/news/credit-card-stealers-adopt-advanced-evasion-techniques-f401c33f"> Full Text</a>
@@ -208,7 +208,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Increasingly Using Browser Automation Frameworks for Malicious Activities<a href="https://thehackernews.com/2022/05/hackers-increasingly-using-browser.html"> Full Text</a>
@@ -224,7 +224,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of a new malvertising campaign spreading the ChromeLoader<a href="https://securityaffairs.co/wordpress/131685/malware/chromeloader-malspam-campaign.html"> Full Text</a>
@@ -248,7 +248,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit released for critical VMware auth bypass bug, patch now<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-vmware-auth-bypass-bug-patch-now/"> Full Text</a>
@@ -264,7 +264,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quanta Servers Caught With 'Pantsdown' BMC Vulnerability<a href="https://www.darkreading.com/cloud/quanta-servers-caught-with-pantsdown-bmc-vuln?&web_view=true"> Full Text</a>
@@ -280,7 +280,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Added Dangers Privileged Accounts Pose to Your Active Directory<a href="https://thehackernews.com/2022/05/the-added-dangers-privileged-accounts.html"> Full Text</a>
@@ -296,7 +296,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Do not use Tails OS until a flaw in the bundled Tor Browser will be fixed<a href="https://securityaffairs.co/wordpress/131680/digital-id/tails-os-critical-flaw.html"> Full Text</a>
@@ -316,7 +316,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft shares mitigation for Windows KrbRelayUp LPE attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-shares-mitigation-for-windows-krbrelayup-lpe-attacks/"> Full Text</a>
@@ -332,7 +332,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Broadcom announces plans to buy VMware in $61 billion deal<a href="https://www.cnbc.com/2022/05/26/broadcom-announces-plans-to-buy-vmware.html?&web_view=true"> Full Text</a>
@@ -348,7 +348,7 @@ CNBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tails OS Users Advised Not to Use Tor Browser Until Critical Firefox Bugs are Patched<a href="https://thehackernews.com/2022/05/tails-os-users-advised-not-to-use-tor.html"> Full Text</a>
@@ -364,7 +364,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italy announced its National Cybersecurity Strategy 2022/26<a href="https://securityaffairs.co/wordpress/131674/security/italy-national-cybersecurity-strategy.html"> Full Text</a>
@@ -384,7 +384,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel warns of flaws impacting firewalls, APs, and controllers<a href="https://www.bleepingcomputer.com/news/security/zyxel-warns-of-flaws-impacting-firewalls-aps-and-controllers/"> Full Text</a>
@@ -400,7 +400,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Conti leaks data stolen during January attack on Oregon county<a href="https://therecord.media/linn-county-oregon-data-leak-conti-ransomware/?&web_view=true"> Full Text</a>
@@ -416,7 +416,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter Fined $150 Million for Misusing Users' Data for Advertising Without Consent<a href="https://thehackernews.com/2022/05/twitter-fined-150-million-for-misusing.html"> Full Text</a>
@@ -432,7 +432,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Industrial Spy data extortion market gets into the ransomware game<a href="https://www.bleepingcomputer.com/news/security/industrial-spy-data-extortion-market-gets-into-the-ransomware-game/"> Full Text</a>
@@ -448,7 +448,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2022
+May 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ERMAC 2.0 Android malware steals accounts, wallets from 467 apps<a href="https://www.bleepingcomputer.com/news/security/new-ermac-20-android-malware-steals-accounts-wallets-from-467-apps/"> Full Text</a>

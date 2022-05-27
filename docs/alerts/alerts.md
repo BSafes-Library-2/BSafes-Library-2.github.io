@@ -103,6 +103,18 @@ Cyber actors routinely exploit poor security configurations (either misconfigure
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2022 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Full Version] Cyber Actors Scrape Credit Card Data from US Business Online Checkout Page and Maintain Persistence by Injecting Malicious PHP Code <a href="https://publications.bsafes.com/docs/fbi/flash-2022-0516-cyber-actors-scrape-credit-card-data-from-us-business-online-checkout-page-and-maintain-persistence-by-injecting-malicious-php-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of January 2022, unidentified cyber actors unlawfully scraped credit card data from a US business by injecting malicious PHP Hypertext Preprocessor (PHP) code into the business’ online checkout page and sending the scraped data to an actor-controlled server that spoofed a legitimate card processing server. The unidentified cyber actors also established backdoor access to the victim’s system by modifying two files within the checkout page. The FBI has identified and is sharing new indicators of compromise (IOCs), which may assist in network defense.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 16, 2022 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
