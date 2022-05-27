@@ -34,6 +34,436 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intuit warns of QuickBooks phishing threatening to suspend accounts<a href="https://www.bleepingcomputer.com/news/security/intuit-warns-of-quickbooks-phishing-threatening-to-suspend-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tax software vendor Intuit has warned that QuickBooks customers are being targeted in an ongoing series of phishing attacks impersonating the company and trying to lure them with fake account suspension warnings.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Disrupts Multiple Civil Services in Somerset County<a href="https://therecord.media/ransomware-attack-disrupts-a-range-of-services-in-a-new-jersey-county/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The county had to create temporary Gmail accounts so that residents can contact “critical departments such as the County Commissioners, Health, Emergency Operations, the County Clerk, Sheriff, and Surrogate.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical 'Pantsdown' BMC Vulnerability Affects QCT Servers Used in Data Centers<a href="https://thehackernews.com/2022/05/critical-pantsdown-bmc-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Quanta Cloud Technology (QCT) servers have been identified as vulnerable to the severe "Pantsdown" Baseboard Management Controller (BMC) flaw, according to new research published today.  "An attacker running code on a vulnerable QCT server would be able to 'hop' from the server host to the BMC and move their attacks to the server management network, possibly continue and obtain further permissions to other BMCs on the network and by doing that gaining access to other servers," firmware and hardware security firm Eclypsium  said .  A baseboard management controller is a specialized system used for remote monitoring and management of servers, including controlling low-level hardware settings as well as installing firmware and software updates.   Tracked as  CVE-2019-6260  (CVSS score: 9.8), the  critical security flaw  came to light in January 2019 and relates to a case of arbitrary read and write access to the BMC's physical address space, resulting in a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exposed: the threat actors who are poisoning Facebook<a href="https://securityaffairs.co/wordpress/131694/cyber-crime/threat-actors-poisoning-facebook.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation of the infamous “Is That You?” video scam led Cybernews researchers into exposing threat actors who are poisoning Facebook
+
+
+
+Original post @ https://cybernews.com/security/exposed-the-threat-actors-who-are-poisoning-facebook/
+
+
+
+An...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 KB5014019 breaks Trend Micro ransomware protection<a href="https://www.bleepingcomputer.com/news/security/windows-11-kb5014019-breaks-trend-micro-ransomware-protection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's Windows optional cumulative update previews have introduced a compatibility issue with some of Trend Micro's security products that breaks some of their capabilities, including the ransomware protection feature.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chaos and Nokoyawa Ransomware Variants Found<a href="https://cyware.com/news/new-chaos-and-nokoyawa-ransomware-variants-found-d0af4dfa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts spotted two new ransomware variants for Nokoyawa and Chaos ransomware, in two separate reports. Chaos' variant named Yashma includes two new improvements: the ability to stop execution on the basis of a victim's location and stop different running processes linked with antivirus a ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of Rise in ChromeLoader Malware Hijacking Users' Browsers<a href="https://thehackernews.com/2022/05/experts-warn-of-rise-in-chromeloader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malvertising threat is witnessing a new surge in activity since its emergence earlier this year.  Dubbed ChromeLoader , the malware is a "pervasive and persistent browser hijacker that modifies its victims' browser settings and redirects user traffic to advertisement websites," Aedan Russell of Red Canary  said  in a new report.  ChromeLoader is a rogue Chrome browser extension and is typically distributed in the form of ISO files via pay-per-install sites and baited social media posts that advertise QR codes to cracked video games and pirated movies.   While it primarily functions by hijacking user search queries to Google, Yahoo, and Bing and redirecting traffic to an advertising site, it's also notable for its use of PowerShell to inject itself into the browser and get the extension added.   The malware, also known as Choziosi Loader, was first documented by G DATA earlier this February.   "For now the only purpose is getting revenue via unsolicited adverti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel addresses four flaws affecting APs, AP controllers, and firewalls<a href="https://securityaffairs.co/wordpress/131691/security/zyxel-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel addressed multiple vulnerabilities impacting many of its products, including APs, AP controllers, and firewalls.
+
+
+
+Zyxel has released security updates to address multiple vulnerabilities affecting multiple products, including firewall, AP, and AP controller...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OAS platform vulnerable to critical RCE and API access flaws<a href="https://www.bleepingcomputer.com/news/security/oas-platform-vulnerable-to-critical-rce-and-api-access-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have disclosed vulnerabilities affecting the Open Automation Software (OAS) platform, leading to device access, denial of service, and remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credit Card Stealers Adopt Advanced Evasion Techniques<a href="https://cyware.com/news/credit-card-stealers-adopt-advanced-evasion-techniques-f401c33f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft found that scammers are using image files with a hidden malicious PHP script to manipulate e-commerce checkout pages and capture payment card details in their latest attack campaigns. The attackers are obfuscating their code snippets, injecting them into image files, and masquerading as w ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Increasingly Using Browser Automation Frameworks for Malicious Activities<a href="https://thehackernews.com/2022/05/hackers-increasingly-using-browser.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are calling attention to a free-to-use browser automation framework that's being increasingly used by threat actors as part of their attack campaigns.  "The framework contains numerous features which we assess may be utilized in the enablement of malicious activities," researchers from Team Cymru  said  in a new report published Wednesday.  "The technical entry bar for the framework is purposefully kept low, which has served to create an active community of content developers and contributors, with actors in the underground economy advertising their time for the creation of bespoke tooling."   The U.S. cybersecurity company said it observed command-and-control (C2) IP addresses associated with malware such as  Bumblebee ,  BlackGuard , and  RedLine Stealer  establishing connections to the downloads subdomain of Bablosoft ("downloads.bablosoft[.]com"), the maker of the Browser Automation Studio (BAS).  Bablosoft was previously
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of a new malvertising campaign spreading the ChromeLoader<a href="https://securityaffairs.co/wordpress/131685/malware/chromeloader-malspam-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a new malvertising campaign spreading the ChromeLoader malware that hijacks the victims' browsers.
+
+
+
+Researchers from Red Canary observed a new malvertising campaign spreading the ChromeLoader malware that hijacks the victims' browsers.
+
+
+
+ChromeLoader...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit released for critical VMware auth bypass bug, patch now<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-vmware-auth-bypass-bug-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code is now available online for a critical authentication bypass vulnerability in multiple VMware products that allows attackers to gain admin privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quanta Servers Caught With 'Pantsdown' BMC Vulnerability<a href="https://www.darkreading.com/cloud/quanta-servers-caught-with-pantsdown-bmc-vuln?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several Quanta Cloud Technology (QCT) server models are vulnerable to a critical firmware vulnerability that puts them at risk of attacks that take full control over the server — and that can spread across numerous servers on the same network.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Added Dangers Privileged Accounts Pose to Your Active Directory<a href="https://thehackernews.com/2022/05/the-added-dangers-privileged-accounts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In any organization, there are certain accounts that are designated as being privileged. These privileged accounts differ from standard user accounts in that they have permission to perform actions that go beyond what standard users can do. The actions vary based on the nature of the account but can include anything from setting up new user accounts to shutting down mission-critical systems.  Privileged accounts are essential tools. Without these accounts, the IT staff would be unable to do its job. At the same time, privileged accounts can pose a serious threat to an organization's security.  Added risk of a privileged account   Imagine for a moment that a hacker manages to steal a standard user's password and is able to log in as that user. Even though the hacker would have access to certain resources at that point, they would be constrained by the user's privileges (or lack thereof). In other words, the hacker would be able to browse the Internet, open some applications, and access
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Do not use Tails OS until a flaw in the bundled Tor Browser will be fixed<a href="https://securityaffairs.co/wordpress/131680/digital-id/tails-os-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the Tails project (The Amnesic Incognito Live System) warn users that the Tor Browser bundled with the OS could expose their sensitive information. 
+
+
+
+The maintainers confirmed that Tor Browser in Tails 5.0 and earlier is unsafe...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares mitigation for Windows KrbRelayUp LPE attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-shares-mitigation-for-windows-krbrelayup-lpe-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared guidance to help admins defend their Windows enterprise environments against KrbRelayUp attacks that enable attackers to gain SYSTEM privileges on Windows systems with default configurations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Broadcom announces plans to buy VMware in $61 billion deal<a href="https://www.cnbc.com/2022/05/26/broadcom-announces-plans-to-buy-vmware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Broadcom will buy VMware in a cash-and-stock transaction valued at $61 billion, based on the closing price of Broadcom common stock on May 25, 2022, the companies announced Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+CNBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tails OS Users Advised Not to Use Tor Browser Until Critical Firefox Bugs are Patched<a href="https://thehackernews.com/2022/05/tails-os-users-advised-not-to-use-tor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the Tails project have issued a warning that the Tor Browser that's bundled with the operating system is unsafe to use for accessing or entering sensitive information.  "We recommend that you stop using Tails until the release of 5.1 (May 31) if you use Tor Browser for sensitive information (passwords, private messages, personal information, etc.)," the project  said  in an advisory issued this week.  Tails, short for The Amnesic Incognito Live System, is a security-oriented Debian-based Linux distribution aimed at preserving privacy and anonymity by connecting to the internet through the Tor network.   The alert comes as Mozilla on May 20, 2022 rolled out fixes for  two critical zero-day flaws  in its Firefox browser, a modified version of which acts as the foundation of the Tor Browser.  Tracked as CVE-2022-1802 and CVE-2022-1529, the two vulnerabilities are what's referred to as  prototype pollution  that could be weaponized to gain JavaScript c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy announced its National Cybersecurity Strategy 2022/26<a href="https://securityaffairs.co/wordpress/131674/security/italy-national-cybersecurity-strategy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy announced its National Cybersecurity Strategy for 2022/26, a crucial document to address cyber threats and increase the resilience of the country.
+
+
+
+Italy presented its National Cybersecurity Strategy for 2022/26 and reinforce the government's...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel warns of flaws impacting firewalls, APs, and controllers<a href="https://www.bleepingcomputer.com/news/security/zyxel-warns-of-flaws-impacting-firewalls-aps-and-controllers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has published a security advisory to warn admins about multiple vulnerabilities affecting a wide range of firewall, AP, and AP controller products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Conti leaks data stolen during January attack on Oregon county<a href="https://therecord.media/linn-county-oregon-data-leak-conti-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Darrin Lane, administrative officer for Linn County, told The Record that the attack began on the morning of January 24 and that the county’s IT team immediately began shutting down systems in order to limit the damage.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Fined $150 Million for Misusing Users' Data for Advertising Without Consent<a href="https://thehackernews.com/2022/05/twitter-fined-150-million-for-misusing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter, which is in the process of being acquired by Tesla CEO Elon Musk, has agreed to pay $150 million to the U.S. Federal Trade Commission (FTC) to settle allegations that it abused non-public information collected for security purposes to serve targeted ads.  In addition to the monetary penalty for "misrepresenting its privacy and security practices," the company has been banned from profiting from the deceptively collected data and ordered to notify all affected users.  "Twitter obtained data from users on the pretext of harnessing it for security purposes but then ended up also using the data to target users with ads," FTC Chair Lina M. Khan  said  in a statement. "This practice affected more than 140 million Twitter users, while boosting Twitter's primary source of revenue."   According to a  complaint  filed by the U.S. Justice Department, Twitter in May 2013 began enforcing a requirement for users to provide either a phone number or email ad
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial Spy data extortion market gets into the ransomware game<a href="https://www.bleepingcomputer.com/news/security/industrial-spy-data-extortion-market-gets-into-the-ransomware-game/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Industrial Spy data extortion marketplace has now launched its own ransomware operation, where they now also encrypt victim's devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ERMAC 2.0 Android malware steals accounts, wallets from 467 apps<a href="https://www.bleepingcomputer.com/news/security/new-ermac-20-android-malware-steals-accounts-wallets-from-467-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ERMAC Android banking trojan has released version 2.0, increasing the number of applications targeted from 378 to 467, covering a much wider range of apps to steal account credentials and crypto wallets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 25, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
