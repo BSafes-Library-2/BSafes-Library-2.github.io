@@ -34,6 +34,378 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub saved plaintext passwords of npm users in log files<a href="https://www.theregister.com/2022/05/27/github_publishes_a_post_mortem/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub has revealed it stored a "number of plaintext user credentials for the npm registry" in internal logs following the integration of the JavaScript package registry into GitHub's logging systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 75 actively exploited bugs to its must-patch list in just a week<a href="https://www.zdnet.com/article/cisa-adds-75-actively-exploited-bugs-to-its-must-patch-list-in-just-a-week/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US cybersecurity authority is urging everyone to patch a number of software flaws, including some older ones in Microsoft's Silverlight plug-in and Adobe Flash Player.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of hackers selling credentials for U.S. college networks<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-selling-credentials-for-us-college-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are offering to sell for thousands of U.S. dollars network access credentials for higher education institutions based in the United States.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Detail New RCE Vulnerability Affecting Google Chrome Dev Channel<a href="https://thehackernews.com/2022/05/experts-detail-new-rce-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a recently patched critical remote code execution vulnerability in the V8 JavaScript and WebAssembly engine used in Google Chrome and Chromium-based browsers.  The issue relates to a case of use-after-free in the instruction optimization component, successful exploitation of which could "allow an attacker to execute arbitrary code in the context of the browser."  The flaw, which  was identified  in the Dev channel version of Chrome 101, was reported to Google by Weibo Wang, a security researcher at Singapore cybersecurity company  Numen Cyber Technology  and has since been quietly fixed by the company.   "This vulnerability occurs in the instruction selection stage, where the wrong instruction has been selected and resulting in memory access exception," Wang said .  Use-after-free flaws  occur  when previous-freed memory is accessed, inducing undefined behavior and causing a program to crash, use corrupted data, or even achieve execution
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Start a Cybersecurity Clinic<a href="https://www.lawfareblog.com/how-start-cybersecurity-clinic"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+University-based cybersecurity clinics are a way for universities to meet their ideals and responsibilities for public service by addressing two intersecting challenges at once: the growing need for experienced cybersecurity talent and developing resilience in important, at-risk sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Effects of Digital Transnational Repression and the Responsibility of Host States<a href="https://www.lawfareblog.com/effects-digital-transnational-repression-and-responsibility-host-states"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital transnational repression has a chilling effect on exiled and diaspora activists and dissidents who find themselves repressed by authoritarian states, even in places where they assumed they had a relative degree of safety and freedom.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android pre-installed apps are affected by high-severity vulnerabilities<a href="https://securityaffairs.co/wordpress/131726/mobile-2/android-pre-installed-apps-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft found several high-severity vulnerabilities in a mobile framework used in pre-installed Android System apps.
+
+
+
+The Microsoft 365 Defender Research Team discovered four vulnerabilities (CVE-2021-42598, CVE-2021-42599, CVE-2021-42600,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub: Attackers stole login details of 100K npm user accounts<a href="https://www.bleepingcomputer.com/news/security/github-attackers-stole-login-details-of-100k-npm-user-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub revealed today that an attacker stole the login details of roughly 100,000 npm accounts during a mid-April security breach with the help of stolen OAuth app tokens issued to Heroku and Travis-CI.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 100,000 NPM Users' Credentials Stolen in GitHub OAuth Breach<a href="https://thehackernews.com/2022/05/nearly-100000-npm-users-credentials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud-based repository hosting service GitHub on Friday shared additional details into the  theft of GitHub integration OAuth tokens  last month, noting that the attacker was able to access internal NPM data and its customer information.  "Using stolen OAuth user tokens originating from two third-party integrators, Heroku and Travis CI, the attacker was able to escalate access to NPM infrastructure," Greg Ose said , adding the attacker then managed to obtain a number of files -   A database backup of skimdb.npmjs.com consisting of data as of April 7, 2021, including an archive of user information from 2015 and all private NPM package manifests and package metadata. The archive contained NPM usernames, password hashes, and email addresses for roughly 100,000 users  A set of CSV files encompassing an archive of all names and version numbers of published versions of all NPM private packages as of April 10, 2022, and   A "small subset" of private packages from two orga
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostTouch: how to remotely control touchscreens with EMI<a href="https://securityaffairs.co/wordpress/131714/hacking/ghosttouch-touchscreens-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers devised a technique, dubbed GhostTouch, to remotely control touchscreens using electromagnetic signals.
+
+
+
+A team of researchers from Zhejiang University and Technical University of Darmstadt devised a technique, dubbed GhostTouch,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft finds severe bugs in Android apps from large mobile providers<a href="https://www.bleepingcomputer.com/news/security/microsoft-finds-severe-bugs-in-android-apps-from-large-mobile-providers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft security researchers have found high severity vulnerabilities in a framework used by Android apps from multiple large international mobile service providers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch released for cross-domain cookie leakage flaw in Guzzle<a href="https://portswigger.net/daily-swig/patch-released-for-cross-domain-cookie-leakage-flaw-in-guzzle?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw resides in Guzzle’s cookie middleware, which is disabled by default, “so most library consumers will not be affected by this issue”, reads a GitHub security advisory published by a Guzzle maintainer on Wednesday (May 25).
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Myths of Ransomware Attacks and How To Mitigate Risk<a href="https://thehackernews.com/2022/05/the-myths-of-ransomware-attacks-and-how.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today's modern companies are built on data, which now resides across countless cloud apps. Therefore  preventing data loss  is essential to your success. This is especially critical for mitigating against rising ransomware attacks — a threat that  57% of security leaders expect to be compromised by within the next year .   As  organizations continue to evolve, in turn so does ransomware . To help you stay ahead, Lookout Chief Strategy Officer, Aaron Cockerill met with Microsoft Chief Security Advisor, Sarah Armstrong-Smith to discuss how  remote work  and the cloud have made it more difficult to spot a ransomware attack, as well as how deploying behavioral-anomaly-based detection can help mitigate ransomware risk.  Access the full interview .   Aaron Cockerill:  I feel like the way modern enterprises operate, which includes a combination of technologies, has allowed the ransomware to thrive. Having experienced this type of attack in my past roles, I know how many CISOs are feeling
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Compromised US academic credentials available on various cybercrime forums<a href="https://securityaffairs.co/wordpress/131711/cyber-crime/fbi-us-academic-credentials-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns organizations in the higher education sector of credentials sold on cybercrime forums that can allow threat actors to access their networks.
+
+
+
+The FBI issued an alert to inform the higher education sector about the availability of login...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft to force better security defaults for all Azure AD tenants<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-better-security-defaults-for-all-azure-ad-tenants/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced that it will force enable stricter secure default settings known as 'security defaults' on all existing Azure Active Directory (Azure AD) tenants starting in late June 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber attack downs Regina Public Schools' computer systems<a href="https://www.cbc.ca/news/canada/saskatchewan/regina-public-schools-cyber-attack-1.6467451?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a statement published to social media networks on Thursday afternoon, officials said that after "several days of investigation" it has become clear that the incident that first began on Sunday is a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+CBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Can Use Electromagnetic Signals to Control Touchscreens Remotely<a href="https://thehackernews.com/2022/05/attackers-can-use-electromagnetic.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have demonstrated what they call the "first active contactless attack against capacitive touchscreens."  GhostTouch , as it's called, "uses electromagnetic interference (EMI) to inject fake touch points into a touchscreen without the need to physically touch it," a group of academics from Zhejiang University and Technical University of Darmstadt  said  in a new research paper.  The core idea is to take advantage of the electromagnetic signals to execute basic touch events such as taps and swipes into targeted locations of the touchscreen with the goal of taking over remote control and manipulating the underlying device.   The attack, which works from a distance of up to 40mm, hinges on the fact that  capacitive touchscreens  are sensitive to EMI, leveraging it to inject electromagnetic signals into transparent electrodes that are built into the touchscreen so as to register them as touch events.  The experimental setup  involves an electrostatic gun
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ERMAC 2.0 Android Banking Trojan targets over 400 apps<a href="https://securityaffairs.co/wordpress/131705/malware/ermac-2-0-android-banking-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the ERMAC Android banking trojan is able to target an increased number of apps.
+
+
+
+The ERMAC Android banking trojan version 2.0 can target an increasing number of applications, passing from 378 to 467 target applications to steal account...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat/ALPHV ransomware asks $5 million to unlock Austrian state<a href="https://www.bleepingcomputer.com/news/security/blackcat-alphv-ransomware-asks-5-million-to-unlock-austrian-state/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Austrian federal state Carinthia has been hit by the BlackCat ransomware gang, also known as ALPHV, who demanded a $5 million to unlock the encrypted computer systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exposed: the threat actors who are poisoning Facebook<a href="https://securityaffairs.co/wordpress/131694/cyber-crime/threat-actors-poisoning-facebook.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation of the infamous “Is That You?” video scam has led Cybernews researchers to a cybercriminal stronghold, from which threat actors have been infecting the social media giant with thousands of malicious links every day.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Issues Patches for 4 New Flaws Affecting AP, API Controller, and Firewall Devices<a href="https://thehackernews.com/2022/05/zyxel-issues-patches-for-4-new-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has released  patches  to address four security flaws affecting its firewall, AP Controller, and AP products to execute arbitrary operating system commands and steal select information.  The list of security vulnerabilities is as follows -   CVE-2022-0734  - A cross-site scripting (XSS) vulnerability in some firewall versions that could be exploited to access information stored in the user's browser, such as cookies or session tokens, via a malicious script.    CVE-2022-26531  - Several input validation flaws in command line interface (CLI) commands for some versions of firewall, AP controller, and AP devices that could be exploited to cause a system crash.    CVE-2022-26532  - A command injection vulnerability in the " packet-trace " CLI command for some versions of firewall, AP controller, and AP devices that could lead to execution of arbitrary OS commands.    CVE-2022-0910  - An authentication bypass vulnerability affecting select firewall versions that could p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts released PoC exploit code for critical VMware CVE-2022-22972 flaw<a href="https://securityaffairs.co/wordpress/131698/hacking/poc-exploit-code-vmware-cve-2022-22972.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers released PoC exploit code for the critical authentication bypass vulnerability CVE-2022-22972 affecting multiple VMware products.
+
+
+
+Horizon3 security researchers have released a proof-of-concept (PoC) exploit and technical analysis...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 26, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
