@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Increasingly Using Browser Automation Frameworks for Malicious Activities<a href="https://thehackernews.com/2022/05/hackers-increasingly-using-browser.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are calling attention to a free-to-use browser automation framework that's being increasingly used by threat actors as part of their attack campaigns.  "The framework contains numerous features which we assess may be utilized in the enablement of malicious activities," researchers from Team Cymru&nbsp; said &nbsp;in a new report published Wednesday.  "The technical entry bar for the framework is purposefully kept low, which has served to create an active community of content developers and contributors, with actors in the underground economy advertising their time for the creation of bespoke tooling."   The U.S. cybersecurity company said it observed command-and-control (C2) IP addresses associated with malware such as&nbsp; Bumblebee ,&nbsp; BlackGuard , and&nbsp; RedLine Stealer &nbsp;establishing connections to the downloads subdomain of Bablosoft ("downloads.bablosoft[.]com"), the maker of the Browser Automation Studio (BAS).  Bablosoft was previously
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

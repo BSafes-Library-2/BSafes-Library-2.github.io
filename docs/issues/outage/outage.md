@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+May 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber attack downs Regina Public Schools' computer systems<a href="https://www.cbc.ca/news/canada/saskatchewan/regina-public-schools-cyber-attack-1.6467451?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a statement published to social media networks on Thursday afternoon, officials said that after "several days of investigation" it has become clear that the incident that first began on Sunday is a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+CBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

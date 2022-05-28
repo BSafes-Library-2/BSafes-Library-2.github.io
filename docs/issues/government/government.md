@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+May 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 75 actively exploited bugs to its must-patch list in just a week<a href="https://www.zdnet.com/article/cisa-adds-75-actively-exploited-bugs-to-its-must-patch-list-in-just-a-week/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US cybersecurity authority is urging everyone to patch a number of software flaws, including some older ones in Microsoft's Silverlight plug-in and Adobe Flash Player.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of hackers selling credentials for U.S. college networks<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-selling-credentials-for-us-college-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are offering to sell for thousands of U.S. dollars network access credentials for higher education institutions based in the United States.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Compromised US academic credentials available on various cybercrime forums<a href="https://securityaffairs.co/wordpress/131711/cyber-crime/fbi-us-academic-credentials-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns organizations in the higher education sector of credentials sold on cybercrime forums that can allow threat actors to access their networks.
+
+
+
+The FBI issued an alert to inform the higher education sector about the availability of login...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Conti leaks data stolen during January attack on Oregon county<a href="https://therecord.media/linn-county-oregon-data-leak-conti-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Darrin Lane, administrative officer for Linn County, told The Record that the attack began on the morning of January 24 and that the county’s IT team immediately began shutting down systems in order to limit the damage.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,42 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intuit warns of QuickBooks phishing threatening to suspend accounts<a href="https://www.bleepingcomputer.com/news/security/intuit-warns-of-quickbooks-phishing-threatening-to-suspend-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tax software vendor Intuit has warned that QuickBooks customers are being targeted in an ongoing series of phishing attacks impersonating the company and trying to lure them with fake account suspension warnings.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exposed: the threat actors who are poisoning&nbsp;Facebook<a href="https://securityaffairs.co/wordpress/131694/cyber-crime/threat-actors-poisoning-facebook.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation of the infamous “Is That You?” video scam led Cybernews researchers into exposing threat actors who are poisoning Facebook
+
+
+
+Original post @ https://cybernews.com/security/exposed-the-threat-actors-who-are-poisoning-facebook/
+
+
+
+An...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

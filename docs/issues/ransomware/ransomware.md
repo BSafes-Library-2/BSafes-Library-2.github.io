@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat/ALPHV ransomware asks $5 million to unlock Austrian state<a href="https://www.bleepingcomputer.com/news/security/blackcat-alphv-ransomware-asks-5-million-to-unlock-austrian-state/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Austrian federal state Carinthia has been hit by the BlackCat&nbsp;ransomware gang, also known as ALPHV, who demanded a&nbsp;$5 million to unlock the encrypted computer systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

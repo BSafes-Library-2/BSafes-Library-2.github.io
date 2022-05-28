@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+May 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub: Attackers stole login details of 100K npm user accounts<a href="https://www.bleepingcomputer.com/news/security/github-attackers-stole-login-details-of-100k-npm-user-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub revealed today that an attacker stole the login details of roughly 100,000 npm accounts during a mid-April security breach with the help of&nbsp;stolen OAuth app tokens issued to Heroku and Travis-CI.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 100,000 NPM Users' Credentials Stolen in GitHub OAuth Breach<a href="https://thehackernews.com/2022/05/nearly-100000-npm-users-credentials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud-based repository hosting service GitHub on Friday shared additional details into the&nbsp; theft of GitHub integration OAuth tokens &nbsp;last month, noting that the attacker was able to access internal NPM data and its customer information.  "Using stolen OAuth user tokens originating from two third-party integrators, Heroku and Travis CI, the attacker was able to escalate access to NPM infrastructure," Greg Ose said , adding the attacker then managed to obtain a number of files -   A database backup of skimdb.npmjs.com consisting of data as of April 7, 2021, including an archive of user information from 2015 and all private NPM package manifests and package metadata. The archive contained NPM usernames, password hashes, and email addresses for roughly 100,000 users  A set of CSV files encompassing an archive of all names and version numbers of published versions of all NPM private packages as of April 10, 2022, and&nbsp;  A "small subset" of private packages from two orga
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

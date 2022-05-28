@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub saved plaintext passwords of npm users in log files<a href="https://www.theregister.com/2022/05/27/github_publishes_a_post_mortem/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub has revealed it stored a "number of plaintext user credentials for the npm registry" in internal logs following the integration of the JavaScript package registry into GitHub's logging systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Detail New RCE Vulnerability Affecting Google Chrome Dev Channel<a href="https://thehackernews.com/2022/05/experts-detail-new-rce-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a recently patched critical remote code execution vulnerability in the V8 JavaScript and WebAssembly engine used in Google Chrome and Chromium-based browsers.  The issue relates to a case of use-after-free in the instruction optimization component, successful exploitation of which could "allow an attacker to execute arbitrary code in the context of the browser."  The flaw, which&nbsp; was identified &nbsp;in the Dev channel version of Chrome 101, was reported to Google by Weibo Wang, a security researcher at Singapore cybersecurity company&nbsp; Numen Cyber Technology &nbsp;and has since been quietly fixed by the company.   "This vulnerability occurs in the instruction selection stage, where the wrong instruction has been selected and resulting in memory access exception," Wang said .  Use-after-free flaws&nbsp; occur &nbsp;when previous-freed memory is accessed, inducing undefined behavior and causing a program to crash, use corrupted data, or even achieve execution
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft finds severe bugs in Android apps from large mobile providers<a href="https://www.bleepingcomputer.com/news/security/microsoft-finds-severe-bugs-in-android-apps-from-large-mobile-providers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft security researchers have found high severity vulnerabilities in a framework used by Android&nbsp;apps from multiple large international mobile service providers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch released for cross-domain cookie leakage flaw in Guzzle<a href="https://portswigger.net/daily-swig/patch-released-for-cross-domain-cookie-leakage-flaw-in-guzzle?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw resides in Guzzle’s cookie middleware, which is disabled by default, “so most library consumers will not be affected by this issue”, reads a GitHub security advisory published by a Guzzle maintainer on Wednesday (May 25).
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Can Use Electromagnetic Signals to Control Touchscreens Remotely<a href="https://thehackernews.com/2022/05/attackers-can-use-electromagnetic.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have demonstrated what they call the "first active contactless attack against capacitive touchscreens."  GhostTouch , as it's called, "uses electromagnetic interference (EMI) to inject fake touch points into a touchscreen without the need to physically touch it," a group of academics from Zhejiang University and Technical University of Darmstadt&nbsp; said &nbsp;in a new research paper.  The core idea is to take advantage of the electromagnetic signals to execute basic touch events such as taps and swipes into targeted locations of the touchscreen with the goal of taking over remote control and manipulating the underlying device.   The attack, which works from a distance of up to 40mm, hinges on the fact that&nbsp; capacitive touchscreens &nbsp;are sensitive to EMI, leveraging it to inject electromagnetic signals into transparent electrodes that are built into the touchscreen so as to register them as touch events.  The experimental setup  involves an electrostatic gun
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Issues Patches for 4 New Flaws Affecting AP, API Controller, and Firewall Devices<a href="https://thehackernews.com/2022/05/zyxel-issues-patches-for-4-new-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has released&nbsp; patches &nbsp;to address four security flaws affecting its firewall, AP Controller, and AP products to execute arbitrary operating system commands and steal select information.  The list of security vulnerabilities is as follows -   CVE-2022-0734 &nbsp;- A cross-site scripting (XSS) vulnerability in some firewall versions that could be exploited to access information stored in the user's browser, such as cookies or session tokens, via a malicious script.    CVE-2022-26531 &nbsp;- Several input validation flaws in command line interface (CLI) commands for some versions of firewall, AP controller, and AP devices that could be exploited to cause a system crash.    CVE-2022-26532 &nbsp;- A command injection vulnerability in the " packet-trace " CLI command for some versions of firewall, AP controller, and AP devices that could lead to execution of arbitrary OS commands.    CVE-2022-0910 &nbsp;- An authentication bypass vulnerability affecting select firewall versions that could p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts released PoC exploit code for critical VMware CVE-2022-22972 flaw<a href="https://securityaffairs.co/wordpress/131698/hacking/poc-exploit-code-vmware-cve-2022-22972.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers released PoC exploit code for the critical authentication bypass vulnerability CVE-2022-22972 affecting multiple VMware products.
+
+
+
+Horizon3 security researchers have released a&nbsp;proof-of-concept (PoC)&nbsp;exploit&nbsp;and technical analysis...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

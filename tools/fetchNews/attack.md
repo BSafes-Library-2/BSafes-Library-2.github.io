@@ -8,6 +8,42 @@ nav_order: 900015
 
 ## Attack
 ---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of a new malvertising campaign spreading the ChromeLoader<a href="https://securityaffairs.co/wordpress/131685/malware/chromeloader-malspam-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a new malvertising campaign spreading the ChromeLoader malware that hijacks the victims' browsers.
+
+
+
+Researchers from Red Canary observed a new malvertising campaign spreading the ChromeLoader malware that hijacks the victims' browsers.
+
+
+
+ChromeLoader...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares mitigation for Windows KrbRelayUp LPE attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-shares-mitigation-for-windows-krbrelayup-lpe-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared guidance to help admins defend their Windows enterprise environments against KrbRelayUp attacks that enable&nbsp;attackers to gain SYSTEM privileges on Windows systems with default configurations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
