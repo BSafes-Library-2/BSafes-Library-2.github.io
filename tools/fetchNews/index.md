@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 May 29, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New 'GoodWill' Ransomware Forces Victims to Donate Money and Clothes to the Poor<a href="https://thehackernews.com/2022/05/new-goodwill-ransomware-forces-victims.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a new ransomware strain called  GoodWill  that compels victims into donating for social causes and provide financial assistance to people in need.  "The ransomware group propagates very unusual demands in exchange for the decryption key," researchers from CloudSEK  said  in a report published last week. "The Robin Hood-like group claims to be interested in helping the less fortunate, rather than extorting victims for financial motivations."   Written in .NET, the ransomware was first identified by the India-based cybersecurity firm in March 2022, with the infections rendering sensitive files inaccessible without decrypting them. The malware, which makes use of the  AES algorithm  for encryption, is also notable for sleeping for 722.45 seconds to interfere with dynamic analysis.  The encryption process is followed by displaying a multiple-paged ransom note that requires the victims to carry out three socially-driven activitie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns About Hackers Selling VPN Credentials for U.S. College Networks<a href="https://thehackernews.com/2022/05/fbi-warns-about-hackers-selling-vpn.html"> Full Text</a>
 </p>
 <details>
