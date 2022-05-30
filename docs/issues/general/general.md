@@ -8,6 +8,42 @@ nav_order: 900072
 
 ## General
 ---
+May 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile trojan detections rise as malware distribution level declines<a href="https://www.bleepingcomputer.com/news/security/mobile-trojan-detections-rise-as-malware-distribution-level-declines/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky's quarterly report on mobile malware distribution records a downward trend that started at the end of 2020, detecting one-third of the malicious installations reported in Q1 2021, and about 85% of those counted in Q4 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 367 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/131772/breaking-news/security-affairs-newsletter-round-367-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here.
+
+
+
+Experts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

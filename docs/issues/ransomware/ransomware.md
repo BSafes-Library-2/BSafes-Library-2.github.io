@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cheerscrypt Ransomware Targets VMware ESXi Servers<a href="https://cyware.com/news/cheerscrypt-ransomware-targets-vmware-esxi-servers-d5f3f79a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The widescale use of VMware ESXi in enterprises has now attracted a new Cheerscrypt ransomware threat that is targeting poorly secured ESXi servers. According to the ransom notes, the attackers give their victims three days to access the provided Tor site to negotiate the ransom payment for a worki ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

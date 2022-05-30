@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Myths of Ransomware Attacks and How To Mitigate Risk<a href="https://thehackernews.com/2022/05/the-myths-of-ransomware-attacks-and-how.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today's modern companies are built on data, which now resides across countless cloud apps. Therefore&nbsp; preventing data loss &nbsp;is essential to your success. This is especially critical for mitigating against rising ransomware attacks — a threat that&nbsp; 57% of security leaders expect to be compromised by within the next year .&nbsp;  As&nbsp; organizations continue to evolve, in turn so does ransomware . To help you stay ahead, Lookout Chief Strategy Officer, Aaron Cockerill met with Microsoft Chief Security Advisor, Sarah Armstrong-Smith to discuss how&nbsp; remote work &nbsp;and the cloud have made it more difficult to spot a ransomware attack, as well as how deploying behavioral-anomaly-based detection can help mitigate ransomware risk.&nbsp; Access the full interview .&nbsp;  Aaron Cockerill: &nbsp;I feel like the way modern enterprises operate, which includes a combination of technologies, has allowed the ransomware to thrive. Having experienced this type of attack in my past roles, I know how many CISOs are feeling
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

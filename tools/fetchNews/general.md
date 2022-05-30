@@ -8,6 +8,70 @@ nav_order: 900072
 
 ## General
 ---
+May 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Start a Cybersecurity Clinic<a href="https://www.lawfareblog.com/how-start-cybersecurity-clinic"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+University-based cybersecurity clinics are a way for universities to meet their ideals and responsibilities for public service by addressing two intersecting challenges at once: the growing need for experienced cybersecurity talent and developing resilience in important, at-risk sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Effects of Digital Transnational Repression and the Responsibility of Host States<a href="https://www.lawfareblog.com/effects-digital-transnational-repression-and-responsibility-host-states"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital transnational repression has a chilling effect on exiled and diaspora activists and dissidents who find themselves repressed by authoritarian states, even in places where they assumed they had a relative degree of safety and freedom.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android pre-installed apps are affected by high-severity vulnerabilities<a href="https://securityaffairs.co/wordpress/131726/mobile-2/android-pre-installed-apps-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft found several high-severity vulnerabilities in a mobile framework used in pre-installed Android System apps.
+
+
+
+The Microsoft 365 Defender Research Team discovered four vulnerabilities (CVE-2021-42598,&nbsp;CVE-2021-42599,&nbsp;CVE-2021-42600,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostTouch: how to remotely control touchscreens with EMI<a href="https://securityaffairs.co/wordpress/131714/hacking/ghosttouch-touchscreens-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers devised a technique, dubbed GhostTouch, to remotely control touchscreens using electromagnetic signals.
+
+
+
+A team of researchers from Zhejiang University and Technical University of Darmstadt&nbsp;devised a technique, dubbed GhostTouch,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

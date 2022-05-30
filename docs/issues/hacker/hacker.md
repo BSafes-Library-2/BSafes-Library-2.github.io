@@ -8,6 +8,32 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian hacker group KillNet plans to attack Italy on May 30<a href="https://securityaffairs.co/wordpress/131776/hacking/killnet-threatens-italy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russian hacker group KillNet is threatening again Italy, it announced a massive and unprecedented attack on May 30.
+
+
+
+
+
+
+
+Pro-Russian hacker group KillNet is threatening again Italy, it announced a massive and unprecedented attack on May 30.
+
+
+
+Pro-Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

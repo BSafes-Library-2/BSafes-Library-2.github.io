@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+May 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub: Nearly 100,000 NPM Users’ credentials stolen in the April OAuth token attack<a href="https://securityaffairs.co/wordpress/131733/hacking/100k-npm-credential-github-oauth-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub provided additional details into the theft of its&nbsp;integration OAuth tokens&nbsp;that occurred in April, with nearly 100,000 NPM users' credentials.
+
+
+
+GitHub provided additional details about the incident that suffered in April, the attackers were...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

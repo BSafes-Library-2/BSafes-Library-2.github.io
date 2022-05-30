@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2022
+May 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EnemyBot malware adds exploits for critical VMware, F5 BIG-IP flaws<a href="https://www.bleepingcomputer.com/news/security/enemybot-malware-adds-exploits-for-critical-vmware-f5-big-ip-flaws/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2022
+May 29, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russian hacker group KillNet plans to attack Italy on May 30<a href="https://securityaffairs.co/wordpress/131776/hacking/killnet-threatens-italy.html"> Full Text</a>
@@ -78,7 +78,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2022
+May 29, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mobile trojan detections rise as malware distribution level declines<a href="https://www.bleepingcomputer.com/news/security/mobile-trojan-detections-rise-as-malware-distribution-level-declines/"> Full Text</a>
@@ -94,7 +94,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2022
+May 29, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 367 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/131772/breaking-news/security-affairs-newsletter-round-367-by-pierluigi-paganini.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2022
+May 29, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Yorker imprisoned for role in carding group behind $568M damages<a href="https://www.bleepingcomputer.com/news/security/new-yorker-imprisoned-for-role-in-carding-group-behind-568m-damages/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2022
+May 29, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US man sentenced to 4 years in prison for his role in Infraud scheme<a href="https://securityaffairs.co/wordpress/131766/cyber-crime/man-arrested-infraud-scheme.html"> Full Text</a>
@@ -154,7 +154,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2022
+May 28, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cheerscrypt Ransomware Targets VMware ESXi Servers<a href="https://cyware.com/news/cheerscrypt-ransomware-targets-vmware-esxi-servers-d5f3f79a"> Full Text</a>
@@ -171,7 +171,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2022
+May 28, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New York Man Sentenced to 4 Years in Transnational Cybercrime Scheme<a href="https://thehackernews.com/2022/05/new-york-man-sentenced-to-4-years-in.html"> Full Text</a>
@@ -187,7 +187,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2022
+May 28, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Industrial Spy: Data Extortion Marketplace Ventures into Ransomware<a href="https://cyware.com/news/industrial-spy-data-extortion-marketplace-ventures-into-ransomware-e216dc82"> Full Text</a>
@@ -203,7 +203,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2022
+May 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Finds Critical Bugs in Pre-Installed Apps on Millions of Android Devices<a href="https://thehackernews.com/2022/05/microsoft-finds-critical-bugs-in-pre.html"> Full Text</a>
@@ -219,7 +219,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2022
+May 28, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop ransomware gang is back, hits 21 victims in a single month<a href="https://www.bleepingcomputer.com/news/security/clop-ransomware-gang-is-back-hits-21-victims-in-a-single-month/"> Full Text</a>
@@ -235,7 +235,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2022
+May 28, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts believe that Russian Gamaredon APT could fuel a new round of DDoS attacks<a href="https://securityaffairs.co/wordpress/131762/apt/gamaredon-apt-ddos-attacks.html"> Full Text</a>
@@ -255,7 +255,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2022
+May 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Windows Subsystem for Linux malware steals browser auth cookies<a href="https://www.bleepingcomputer.com/news/security/new-windows-subsystem-for-linux-malware-steals-browser-auth-cookies/"> Full Text</a>
@@ -271,7 +271,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2022
+May 28, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The strange link between Industrial Spy and the Cuba ransomware operation<a href="https://securityaffairs.co/wordpress/131754/cyber-crime/industrial-spy-cuba-ransomware.html"> Full Text</a>
@@ -291,7 +291,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2022
+May 28, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reuters: Russia-linked APT behind Brexit leak website<a href="https://securityaffairs.co/wordpress/131740/data-breach/brexit-data-leak-site.html"> Full Text</a>
@@ -311,7 +311,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2022
+May 28, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub: Nearly 100,000 NPM Users’ credentials stolen in the April OAuth token attack<a href="https://securityaffairs.co/wordpress/131733/hacking/100k-npm-credential-github-oauth-breach.html"> Full Text</a>

@@ -8,6 +8,42 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts believe that Russian Gamaredon APT could fuel a new round of DDoS attacks<a href="https://securityaffairs.co/wordpress/131762/apt/gamaredon-apt-ddos-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+360 Qihoo reported DDoS attacks launched by APT-C-53 (aka Gamaredon) conducted through the open-source&nbsp;DDoS&nbsp;Trojan&nbsp;program LOIC.
+
+
+
+Researchers at 360 Qihoo observed a wave of  DDoS attacks launched by Russia-linked APT-C-53 (aka Gamaredon) and reported...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reuters: Russia-linked APT behind Brexit leak website<a href="https://securityaffairs.co/wordpress/131740/data-breach/brexit-data-leak-site.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked threat actors are behind a new website that published leaked emails from leading proponents of Britain's exit from the EU, the Reuters reported.
+
+
+
+According to a Google cybersecurity official and the former head of UK foreign intelligence,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

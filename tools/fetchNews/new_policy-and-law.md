@@ -8,6 +8,38 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US man sentenced to 4 years in prison for his role in Infraud scheme<a href="https://securityaffairs.co/wordpress/131766/cyber-crime/man-arrested-infraud-scheme.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A man from New York was sentenced to four years in prison for trading stolen credit card data and assisting the Infraud Organization.
+
+
+
+John Telusma (aka 'Peterelliot'), a New York man from New York (37), was sentenced this week to four years in prison...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York Man Sentenced to 4 Years in Transnational Cybercrime Scheme<a href="https://thehackernews.com/2022/05/new-york-man-sentenced-to-4-years-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 37-year-old man from New York has been sentenced to four years in prison for buying stolen credit card information and working in cahoots with a cybercrime cartel known as the Infraud Organization.  John Telusma, who went by the alias "Peterelliot," pleaded guilty to one count of racketeering conspiracy on October 13, 2021. He joined the gang in August 2011 and remained a member for five-and-a-half years.  "Telusma was among the most prolific and active members of the Infraud Organization, purchasing and fraudulently using compromised credit card numbers for his own personal gain," the U.S. Justice Department (DoJ)&nbsp; said .   Infraud, a transnational cybercrime behemoth, operated for more than seven years, advertising its activities under the slogan "In Fraud We Trust," before its online infrastructure was dismantled by U.S. law enforcement authorities in February 2018.  The rogue enterprise dabbled in the large-scale acquisition and sale of compromised
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
