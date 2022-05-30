@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns About Hackers Selling VPN Credentials for U.S. College Networks<a href="https://thehackernews.com/2022/05/fbi-warns-about-hackers-selling-vpn.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network credentials and virtual private network (VPN) access for colleges and universities based in the U.S. are being advertised for sale on underground and public criminal marketplaces.  "This exposure of sensitive credential and network access information, especially privileged user accounts, could lead to subsequent cyber attacks against individual users or affiliated organizations," the U.S. Federal Bureau of Investigation (FBI)  said  in an advisory published last week.   The cyber intrusions against educational institutions involve threat actors leveraging tactics like spear-phishing and ransomware to carry out credential harvesting activities. The gathered credentials are then exfiltrated and sold on Russian cybercrime forums for prices ranging from a few to thousands of U.S. dollars.  Armed with this login information, the agency pointed out, adversaries can proceed to conduct brute-force  credential stuffing  attacks to break into victim accounts spanning different
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
