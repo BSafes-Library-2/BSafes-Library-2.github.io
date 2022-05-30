@@ -34,6 +34,303 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EnemyBot malware adds exploits for critical VMware, F5 BIG-IP flaws<a href="https://www.bleepingcomputer.com/news/security/enemybot-malware-adds-exploits-for-critical-vmware-f5-big-ip-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EnemyBot, a botnet based on code from multiple malware pieces, is expanding its reach by quickly adding exploits for recently disclosed critical vulnerabilities in web servers, content management systems, IoT, and Android devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian hacker group KillNet plans to attack Italy on May 30<a href="https://securityaffairs.co/wordpress/131776/hacking/killnet-threatens-italy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russian hacker group KillNet is threatening again Italy, it announced a massive and unprecedented attack on May 30.
+
+
+
+
+
+
+
+Pro-Russian hacker group KillNet is threatening again Italy, it announced a massive and unprecedented attack on May 30.
+
+
+
+Pro-Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile trojan detections rise as malware distribution level declines<a href="https://www.bleepingcomputer.com/news/security/mobile-trojan-detections-rise-as-malware-distribution-level-declines/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky's quarterly report on mobile malware distribution records a downward trend that started at the end of 2020, detecting one-third of the malicious installations reported in Q1 2021, and about 85% of those counted in Q4 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 367 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/131772/breaking-news/security-affairs-newsletter-round-367-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+Experts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Yorker imprisoned for role in carding group behind $568M damages<a href="https://www.bleepingcomputer.com/news/security/new-yorker-imprisoned-for-role-in-carding-group-behind-568m-damages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+John Telusma, a 37-year-old man from New York, was sentenced to four years in prison for selling and using stolen and compromised credit cards on the Infraud carding portal operated by the transnational cybercrime organization with the same name.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US man sentenced to 4 years in prison for his role in Infraud scheme<a href="https://securityaffairs.co/wordpress/131766/cyber-crime/man-arrested-infraud-scheme.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A man from New York was sentenced to four years in prison for trading stolen credit card data and assisting the Infraud Organization.
+
+
+
+John Telusma (aka 'Peterelliot'), a New York man from New York (37), was sentenced this week to four years in prison...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cheerscrypt Ransomware Targets VMware ESXi Servers<a href="https://cyware.com/news/cheerscrypt-ransomware-targets-vmware-esxi-servers-d5f3f79a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The widescale use of VMware ESXi in enterprises has now attracted a new Cheerscrypt ransomware threat that is targeting poorly secured ESXi servers. According to the ransom notes, the attackers give their victims three days to access the provided Tor site to negotiate the ransom payment for a worki ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York Man Sentenced to 4 Years in Transnational Cybercrime Scheme<a href="https://thehackernews.com/2022/05/new-york-man-sentenced-to-4-years-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 37-year-old man from New York has been sentenced to four years in prison for buying stolen credit card information and working in cahoots with a cybercrime cartel known as the Infraud Organization.  John Telusma, who went by the alias "Peterelliot," pleaded guilty to one count of racketeering conspiracy on October 13, 2021. He joined the gang in August 2011 and remained a member for five-and-a-half years.  "Telusma was among the most prolific and active members of the Infraud Organization, purchasing and fraudulently using compromised credit card numbers for his own personal gain," the U.S. Justice Department (DoJ)  said .   Infraud, a transnational cybercrime behemoth, operated for more than seven years, advertising its activities under the slogan "In Fraud We Trust," before its online infrastructure was dismantled by U.S. law enforcement authorities in February 2018.  The rogue enterprise dabbled in the large-scale acquisition and sale of compromised
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial Spy: Data Extortion Marketplace Ventures into Ransomware<a href="https://cyware.com/news/industrial-spy-data-extortion-marketplace-ventures-into-ransomware-e216dc82"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MalwareHunterTeam discovered a new malware sample containing a ransom note instead of a promotional text. The note states that the gang has stolen the victim’s data, along with encrypting it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Finds Critical Bugs in Pre-Installed Apps on Millions of Android Devices<a href="https://thehackernews.com/2022/05/microsoft-finds-critical-bugs-in-pre.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four high severity vulnerabilities have been disclosed in a framework used by pre-installed Android System apps with millions of downloads.  The issues, now fixed by its Israeli developer MCE Systems, could have potentially allowed threat actors to stage remote and local attacks or be abused as vectors to obtain sensitive information by taking advantage of their extensive system privileges.  "As it is with many of pre-installed or default applications that most Android devices come with these days, some of the affected apps cannot be fully uninstalled or disabled without gaining root access to the device," the Microsoft 365 Defender Research Team  said  in a report published Friday.   The weaknesses, which range from command-injection to local privilege escalation, have been assigned the identifiers CVE-2021-42598, CVE-2021-42599, CVE-2021-42600, and CVE-2021-42601, with CVSS scores between 7.0 and 8.9.  Command injection proof-of-concept (POC) exploit code Injecting a simil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop ransomware gang is back, hits 21 victims in a single month<a href="https://www.bleepingcomputer.com/news/security/clop-ransomware-gang-is-back-hits-21-victims-in-a-single-month/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After effectively shutting down their entire operation for several months, between November and February, the Clop ransomware is now back according to NCC Group researchers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts believe that Russian Gamaredon APT could fuel a new round of DDoS attacks<a href="https://securityaffairs.co/wordpress/131762/apt/gamaredon-apt-ddos-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+360 Qihoo reported DDoS attacks launched by APT-C-53 (aka Gamaredon) conducted through the open-source DDoS Trojan program LOIC.
+
+
+
+Researchers at 360 Qihoo observed a wave of  DDoS attacks launched by Russia-linked APT-C-53 (aka Gamaredon) and reported...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows Subsystem for Linux malware steals browser auth cookies<a href="https://www.bleepingcomputer.com/news/security/new-windows-subsystem-for-linux-malware-steals-browser-auth-cookies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are showing an increased interest in the Windows Subsystem for Linux (WSL) as an attack surface as they build new malware, the more advanced samples being suitable for espionage and downloading additional malicious modules.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The strange link between Industrial Spy and the Cuba ransomware operation<a href="https://securityaffairs.co/wordpress/131754/cyber-crime/industrial-spy-cuba-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently launched Industrial Spy data extortion marketplace has now started its ransomware operation.
+
+
+
+In April, Malware HunterTeam and Bleeping Computer reported the launch of a new dark web marketplace called Industrial Spy that sells stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reuters: Russia-linked APT behind Brexit leak website<a href="https://securityaffairs.co/wordpress/131740/data-breach/brexit-data-leak-site.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked threat actors are behind a new website that published leaked emails from leading proponents of Britain's exit from the EU, the Reuters reported.
+
+
+
+According to a Google cybersecurity official and the former head of UK foreign intelligence,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub: Nearly 100,000 NPM Users’ credentials stolen in the April OAuth token attack<a href="https://securityaffairs.co/wordpress/131733/hacking/100k-npm-credential-github-oauth-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub provided additional details into the theft of its integration OAuth tokens that occurred in April, with nearly 100,000 NPM users' credentials.
+
+
+
+GitHub provided additional details about the incident that suffered in April, the attackers were...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
