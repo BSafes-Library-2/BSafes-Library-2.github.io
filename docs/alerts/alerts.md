@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2022 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Compromised US Academic Credentials Identified Across Various Public and Dark Web Forums <a href="https://publications.bsafes.com/docs/fbi/pin-2022-05-26-001-compromised-us-academic-credentials-identified-across-various-public-and-dark-web-forums/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is informing academic partners of identified US college and university credentials advertised for sale on online criminal marketplaces and publically accessible forums. This exposure of sensitive credential and network access information, especially privileged user accounts, could lead to subsequent cyber attacks against individual users or affiliated organizations.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 26, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
