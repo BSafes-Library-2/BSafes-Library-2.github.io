@@ -8,6 +8,21 @@ nav_order: 900075
 
 ## Government
 ---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credentials of Higher Education Institutions Available For Sale: FBI Warns<a href="https://cyware.com/news/credentials-of-higher-education-institutions-available-for-sale-fbi-warns-85c10939"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI alerted that credentials stolen from the higher education sector are being sold on multiple public and dark web marketplaces. In some cases, VPN and network access credentials are being sold for thousands of dollars. The FBI recommends colleges and universities pay special attention to conn ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,20 @@ nav_order: 900220
 May 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Finds Critical Bugs in Pre-Installed Apps on Millions of Android Devices<a href="https://thehackernews.com/2022/05/microsoft-finds-critical-bugs-in-pre.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four high severity vulnerabilities have been disclosed in a framework used by pre-installed Android System apps with millions of downloads.  The issues, now fixed by its Israeli developer MCE Systems, could have potentially allowed threat actors to stage remote and local attacks or be abused as vectors to obtain sensitive information by taking advantage of their extensive system privileges.  "As it is with many of pre-installed or default applications that most Android devices come with these days, some of the affected apps cannot be fully uninstalled or disabled without gaining root access to the device," the Microsoft 365 Defender Research Team&nbsp; said &nbsp;in a report published Friday.   The weaknesses, which range from command-injection to local privilege escalation, have been assigned the identifiers CVE-2021-42598, CVE-2021-42599, CVE-2021-42600, and CVE-2021-42601, with CVSS scores between 7.0 and 8.9.  Command injection proof-of-concept (POC) exploit code Injecting a simil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 GitHub saved plaintext passwords of npm users in log files<a href="https://www.theregister.com/2022/05/27/github_publishes_a_post_mortem/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

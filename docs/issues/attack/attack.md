@@ -8,6 +8,80 @@ nav_order: 900015
 
 ## Attack
 ---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Orange County Community College District was hit by ransomware in January<a href="https://www.databreaches.net/north-orange-county-community-college-district-was-hit-by-ransomware-in-january/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cypress College and Fullerton College experienced a ransomware attack. They immediately took steps to confirm the security of their systems, including the deployment of an advanced threat protection and monitoring tool.
+</details>
+<div style="text-align: right" markdown="1">
+Data Breaches
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Microsoft Office zero-day used in attacks to execute PowerShell<a href="https://www.bleepingcomputer.com/news/security/new-microsoft-office-zero-day-used-in-attacks-to-execute-powershell/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered a new Microsoft Office zero-day vulnerability that is being used in attacks to execute malicious PowerShell commands via&nbsp;Microsoft Diagnostic Tool&nbsp;(MSDT) simply by opening a Word document.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoodWill Ransomware victims have to perform socially driven activities to decryption their data<a href="https://securityaffairs.co/wordpress/131792/hacking/goodwill-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new ransomware family called&nbsp;GoodWill&nbsp;that asks victims to donate the ransom for social causes.
+
+
+
+CloudSEK’s Threat Intelligence Research team has disclosed a new ransomware strain called&nbsp;GoodWill, that demands...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Document Exploiting New Microsoft Office Zero-Day Seen in the Wild<a href="https://www.securityweek.com/document-exploiting-new-microsoft-office-zero-day-seen-wild?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On May 27, a researcher who uses the online moniker “nao_sec” reported on Twitter that they had found an interesting malicious document on the VirusTotal malware scanning service.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'GoodWill' Ransomware Forces Victims to Donate Money and Clothes to the Poor<a href="https://thehackernews.com/2022/05/new-goodwill-ransomware-forces-victims.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a new ransomware strain called&nbsp; GoodWill &nbsp;that compels victims into donating for social causes and provide financial assistance to people in need.  "The ransomware group propagates very unusual demands in exchange for the decryption key," researchers from CloudSEK&nbsp; said &nbsp;in a report published last week. "The Robin Hood-like group claims to be interested in helping the less fortunate, rather than extorting victims for financial motivations."   Written in .NET, the ransomware was first identified by the India-based cybersecurity firm in March 2022, with the infections rendering sensitive files inaccessible without decrypting them. The malware, which makes use of the&nbsp; AES algorithm &nbsp;for encryption, is also notable for sleeping for 722.45 seconds to interfere with dynamic analysis.  The encryption process is followed by displaying a multiple-paged ransom note that requires the victims to carry out three socially-driven activitie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

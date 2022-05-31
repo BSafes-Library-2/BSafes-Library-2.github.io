@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spirit Super Member Data Exposed After Security Breach<a href="https://www.financialstandard.com.au/news/spirit-super-member-data-exposed-after-security-attack-179795303?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal data that may have been comprised is akin to the information found in an annual statement. It includes items like name, addresses, ages, email addresses, telephone numbers, member account numbers and member balances.
+</details>
+<div style="text-align: right" markdown="1">
+financialstandard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns About Hackers Selling VPN Credentials for U.S. College Networks<a href="https://thehackernews.com/2022/05/fbi-warns-about-hackers-selling-vpn.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network credentials and virtual private network (VPN) access for colleges and universities based in the U.S. are being advertised for sale on underground and public criminal marketplaces.  "This exposure of sensitive credential and network access information, especially privileged user accounts, could lead to subsequent cyber attacks against individual users or affiliated organizations," the U.S. Federal Bureau of Investigation (FBI)&nbsp; said &nbsp;in an advisory published last week.   The cyber intrusions against educational institutions involve threat actors leveraging tactics like spear-phishing and ransomware to carry out credential harvesting activities. The gathered credentials are then exfiltrated and sold on Russian cybercrime forums for prices ranging from a few to thousands of U.S. dollars.  Armed with this login information, the agency pointed out, adversaries can proceed to conduct brute-force&nbsp; credential stuffing &nbsp;attacks to break into victim accounts spanning different
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

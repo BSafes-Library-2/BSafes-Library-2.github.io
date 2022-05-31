@@ -8,6 +8,24 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new WhatsApp OTP scam could allow the hijacking of users’ accounts<a href="https://securityaffairs.co/wordpress/131807/hacking/whatsapp-otp-scam.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a new ongoing WhatsApp OTP scam that could allow attackers to hijack users’ accounts through phone calls.
+
+
+
+Recently CloudSEK founder Rahul Sasi warned of an ongoing WhatsApp OTP scam that could allow threat actors to hijack users’...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

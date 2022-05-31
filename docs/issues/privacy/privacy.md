@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vodafone plans carrier-level user tracking for targeted ads<a href="https://www.bleepingcomputer.com/news/security/vodafone-plans-carrier-level-user-tracking-for-targeted-ads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vodafone is&nbsp;piloting a new advertising ID system called TrustPid, which will work as a persistent user tracker at the mobile Internet Service Provider (ISP) level.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

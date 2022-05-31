@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EnemyBot Linux Botnet Now Exploits Web Server, Android and CMS Vulnerabilities<a href="https://thehackernews.com/2022/05/enemybot-linux-botnet-now-exploits-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nascent Linux-based botnet named Enemybot  has expanded its capabilities to include recently disclosed security vulnerabilities in its arsenal to target web servers, Android devices, and content management systems (CMS).  "The malware is rapidly adopting one-day vulnerabilities as part of its exploitation capabilities," AT&amp;T Alien Labs&nbsp; said &nbsp;in a technical write-up published last week. "Services such as VMware Workspace ONE, Adobe ColdFusion, WordPress, PHP Scriptcase and more are being targeted as well as IoT and Android devices."  First disclosed by&nbsp; Securonix &nbsp;in March and later by&nbsp; Fortinet , Enemybot has been linked to a threat actor tracked as Keksec (aka Kek Security, Necro, and FreakOut), with early attacks targeting routers from Seowon Intech, D-Link, and iRZ.   Enemybot, which is capable of carrying out&nbsp; DDoS attacks , draws its origins from several other botnets like Mirai, Qbot, Zbot, Gafgyt, and LolFMe. An analysis of the latest variant reveals
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

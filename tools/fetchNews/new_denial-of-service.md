@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy warns organizations to brace for incoming DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/italy-warns-organizations-to-brace-for-incoming-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Security Incident Response Team in Italy issued an urgent alert yesterday to raise awareness about the high risk of cyberattacks against national bodies and organizations on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

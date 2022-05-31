@@ -8,6 +8,24 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Microsoft Office versions impacted by an actively exploited zero-day<a href="https://securityaffairs.co/wordpress/131800/hacking/multiple-microsoft-office-versions-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day flaw in Microsoft Office that could be exploited by attackers to achieve arbitrary code execution on Windows systems.
+
+
+
+The cybersecurity researcher nao_sec discovered a malicious Word document ("05-2022-0438.doc") that was uploaded to VirusTotal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

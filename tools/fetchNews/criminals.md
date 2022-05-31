@@ -8,6 +8,66 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Yorker imprisoned for role in carding group behind $568M damages<a href="https://www.bleepingcomputer.com/news/security/new-yorker-imprisoned-for-role-in-carding-group-behind-568m-damages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+John Telusma, a 37-year-old man from New York, was sentenced to four years in prison for selling and using stolen and compromised credit cards on the&nbsp;Infraud&nbsp;carding portal operated by&nbsp;the transnational cybercrime organization with the same name.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial Spy: Data Extortion Marketplace Ventures into Ransomware<a href="https://cyware.com/news/industrial-spy-data-extortion-marketplace-ventures-into-ransomware-e216dc82"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MalwareHunterTeam discovered a new malware sample containing a ransom note instead of a promotional text. The note states that the gang has stolen the victim’s data, along with encrypting it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop ransomware gang is back, hits 21 victims in a single month<a href="https://www.bleepingcomputer.com/news/security/clop-ransomware-gang-is-back-hits-21-victims-in-a-single-month/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After effectively shutting down their entire operation for several months, between November and February, the Clop ransomware is now back according to NCC Group researchers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The strange link between Industrial Spy and the Cuba ransomware operation<a href="https://securityaffairs.co/wordpress/131754/cyber-crime/industrial-spy-cuba-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently launched Industrial Spy data extortion marketplace has now started its ransomware operation.
+
+
+
+In April, Malware HunterTeam and Bleeping Computer reported&nbsp;the launch of a new dark web marketplace called Industrial Spy that sells stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
