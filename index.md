@@ -34,6 +34,363 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vodafone plans carrier-level user tracking for targeted ads<a href="https://www.bleepingcomputer.com/news/security/vodafone-plans-carrier-level-user-tracking-for-targeted-ads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vodafone is piloting a new advertising ID system called TrustPid, which will work as a persistent user tracker at the mobile Internet Service Provider (ISP) level.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Double-whammy attack follows fake Covid alert with a bogus bank call<a href="https://blog.malwarebytes.com/scams/2022/05/double-whammy-attack-follows-fake-covid-alert-with-a-bogus-bank-call/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BBC has revealed details of how a food bank in the United Kingdom was conned out of about $63,000 (£50,000) by scammers who used two separate attacks to fleece their victims.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is 3rd Party App Access the New Executable File?<a href="https://thehackernews.com/2022/05/is-3rd-party-app-access-new-executable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's no secret that 3rd party apps can boost productivity, enable remote and hybrid work and are overall, essential in building and scaling a company's work processes.   An innocuous process much like clicking on an attachment was in the earlier days of email, people don't think twice when connecting an app they need with their Google workspace or M365 environment, etc. Simple actions that users take, from creating an email to updating a contact in the CRM, can result in several other automatic actions and notifications in the connected platforms.   As seen in the image below, the OAuth mechanism makes it incredibly easy to interconnect apps and many don't consider what the possible ramifications could be. When these apps and other add-ons for SaaS platforms ask for permissions' access, they are usually granted without a second thought, presenting more opportunities for bad actors to gain access to a company's data. This puts companies at risk for supply chain
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Nigerian men arrested in INTERPOL Operation Killer Bee<a href="https://securityaffairs.co/wordpress/131811/cyber-crime/three-nigerians-arrested-by-interpol.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol arrested three Nigerian men in Lagos, who are suspected of using the Agent Tesla RAT to reroute financial transactions and steal sensitive data.
+
+
+
+Interpol arrested 3 Nigerian men in Lagos, as part of an international operation codenamed Killer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy warns organizations to brace for incoming DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/italy-warns-organizations-to-brace-for-incoming-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Security Incident Response Team in Italy issued an urgent alert yesterday to raise awareness about the high risk of cyberattacks against national bodies and organizations on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Orange County Community College District was hit by ransomware in January<a href="https://www.databreaches.net/north-orange-county-community-college-district-was-hit-by-ransomware-in-january/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cypress College and Fullerton College experienced a ransomware attack. They immediately took steps to confirm the security of their systems, including the deployment of an advanced threat protection and monitoring tool.
+</details>
+<div style="text-align: right" markdown="1">
+Data Breaches
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EnemyBot Linux Botnet Now Exploits Web Server, Android and CMS Vulnerabilities<a href="https://thehackernews.com/2022/05/enemybot-linux-botnet-now-exploits-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nascent Linux-based botnet named Enemybot  has expanded its capabilities to include recently disclosed security vulnerabilities in its arsenal to target web servers, Android devices, and content management systems (CMS).  "The malware is rapidly adopting one-day vulnerabilities as part of its exploitation capabilities," AT&T Alien Labs  said  in a technical write-up published last week. "Services such as VMware Workspace ONE, Adobe ColdFusion, WordPress, PHP Scriptcase and more are being targeted as well as IoT and Android devices."  First disclosed by  Securonix  in March and later by  Fortinet , Enemybot has been linked to a threat actor tracked as Keksec (aka Kek Security, Necro, and FreakOut), with early attacks targeting routers from Seowon Intech, D-Link, and iRZ.   Enemybot, which is capable of carrying out  DDoS attacks , draws its origins from several other botnets like Mirai, Qbot, Zbot, Gafgyt, and LolFMe. An analysis of the latest variant reveals
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new WhatsApp OTP scam could allow the hijacking of users’ accounts<a href="https://securityaffairs.co/wordpress/131807/hacking/whatsapp-otp-scam.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a new ongoing WhatsApp OTP scam that could allow attackers to hijack users’ accounts through phone calls.
+
+
+
+Recently CloudSEK founder Rahul Sasi warned of an ongoing WhatsApp OTP scam that could allow threat actors to hijack users’...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Nigerians arrested for malware-assisted financial crimes<a href="https://www.bleepingcomputer.com/news/security/three-nigerians-arrested-for-malware-assisted-financial-crimes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol has announced the arrest of three Nigerian men in Lagos, who are suspected of using remote access trojans (RATs) to reroute financial transactions and steal account credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux malware is on the rise—6 types of attacks to look for<a href="https://www.csoonline.com/article/3662151/linux-malware-is-on-the-rise-6-types-of-attacks-to-look-for.html#tk.rss_all?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security is the weakest when sysadmins and developers race against time and deadlines. Opportunistic attackers take advantage of the "economy of attention" as developers can often overlook security risks.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! Researchers Spot New Microsoft Office Zero-Day Exploit in the Wild<a href="https://thehackernews.com/2022/05/watch-out-researchers-spot-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are calling attention to a zero-day flaw in Microsoft Office that could be abused to achieve arbitrary code execution on affected Windows systems.  The vulnerability came to light after an independent cybersecurity research team known as nao_sec uncovered a Word document (" 05-2022-0438.doc ") that was uploaded to VirusTotal from an IP address in Belarus.  "It uses Word's external link to load the HTML and then uses the 'ms-msdt' scheme to execute PowerShell code," the researchers  noted  in a series of tweets last week.   According to security researcher Kevin Beaumont, who dubbed the flaw "Follina," the maldoc leverages Word's  remote template  feature to fetch an HTML file from a server, which then makes use of the "ms-msdt://" URI scheme to run the malicious payload.  The shortcoming has been so named because the malicious sample references 0438, which is the area code of Follina, a municipality in t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Microsoft Office versions impacted by an actively exploited zero-day<a href="https://securityaffairs.co/wordpress/131800/hacking/multiple-microsoft-office-versions-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day flaw in Microsoft Office that could be exploited by attackers to achieve arbitrary code execution on Windows systems.
+
+
+
+The cybersecurity researcher nao_sec discovered a malicious Word document ("05-2022-0438.doc") that was uploaded to VirusTotal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Microsoft Office zero-day used in attacks to execute PowerShell<a href="https://www.bleepingcomputer.com/news/security/new-microsoft-office-zero-day-used-in-attacks-to-execute-powershell/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered a new Microsoft Office zero-day vulnerability that is being used in attacks to execute malicious PowerShell commands via Microsoft Diagnostic Tool (MSDT) simply by opening a Word document.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credentials of Higher Education Institutions Available For Sale: FBI Warns<a href="https://cyware.com/news/credentials-of-higher-education-institutions-available-for-sale-fbi-warns-85c10939"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI alerted that credentials stolen from the higher education sector are being sold on multiple public and dark web marketplaces. In some cases, VPN and network access credentials are being sold for thousands of dollars. The FBI recommends colleges and universities pay special attention to conn ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoodWill Ransomware victims have to perform socially driven activities to decryption their data<a href="https://securityaffairs.co/wordpress/131792/hacking/goodwill-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new ransomware family called GoodWill that asks victims to donate the ransom for social causes.
+
+
+
+CloudSEK’s Threat Intelligence Research team has disclosed a new ransomware strain called GoodWill, that demands...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$39.5 billion lost to phone scams in last year<a href="https://www.helpnetsecurity.com/2022/05/30/spam-phone-scams-impact/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent study estimates that a staggering $39.5 billion was lost to phone scams this past year, which is the highest number recorded since Truecaller began researching scam and spam calls in the U.S. eight years ago.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EnemyBot malware adds new exploits to target CMS servers and Android devices<a href="https://securityaffairs.co/wordpress/131783/malware/enemybot-botnet-new-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the EnemyBot botnet added exploits for recently disclosed flaws in VMware, F5 BIG-IP, and Android systems.
+
+
+
+Operators behind the EnemyBot botnet are expanding the list of potential targets adding exploits for recently disclosed critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spirit Super Member Data Exposed After Security Breach<a href="https://www.financialstandard.com.au/news/spirit-super-member-data-exposed-after-security-attack-179795303?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal data that may have been comprised is akin to the information found in an annual statement. It includes items like name, addresses, ages, email addresses, telephone numbers, member account numbers and member balances.
+</details>
+<div style="text-align: right" markdown="1">
+financialstandard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT threat evolution in Q1 2022. Mobile statistics<a href="https://securelist.com/it-threat-evolution-in-q1-2022-mobile-statistics/106589/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the schemes used by scammers which has been becoming more popular since last year are scam apps for receiving social benefits. These apps redirect to a webpage asking for personal data to claim a large sum of money.
+</details>
+<div style="text-align: right" markdown="1">
+Securelist
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hornetsecurity acquires IT-Seal to add security training services to its portfolio<a href="https://www.helpnetsecurity.com/2022/05/26/hornetsecurity-it-seal/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Located in Darmstadt, Germany, IT-Seal specializes in establishing a sustainable security culture. It employs innovative technologies to train employees at businesses and organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Document Exploiting New Microsoft Office Zero-Day Seen in the Wild<a href="https://www.securityweek.com/document-exploiting-new-microsoft-office-zero-day-seen-wild?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On May 27, a researcher who uses the online moniker “nao_sec” reported on Twitter that they had found an interesting malicious document on the VirusTotal malware scanning service.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 29, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
