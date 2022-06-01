@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Learn Raspberry Pi and Arduino with 9 Online Developer Training Courses<a href="https://thehackernews.com/2022/05/learn-raspberry-pi-and-arduino-with-9.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This is an exciting time for the&nbsp; Internet of Things . According to Deloitte research, the average U.S. household now has 25 connected devices — and new products are being launched every day. This rush of demand means that many tech companies are looking for developers with IoT knowledge. And even if you don't want to specialize in this field, the&nbsp; programming skills &nbsp;are transferable.  Featuring nine full-length video courses,&nbsp; The 2022 Complete Raspberry Pi &amp; Arduino Developer Bundle &nbsp;provides a really good introduction to this world. The included training is worth a total of $1,800, but readers of The Hacker News can currently pick up the bundle for&nbsp; only $39.99 .&nbsp;  Special Offer &nbsp;—&nbsp; For a limited time, you can get lifetime access to nine courses on Arduino and Raspberry Pi development&nbsp; for just $39.99 . That's a massive 97% off the total price.  Both the Raspberry Pi and the Arduino were specifically designed to help people learn how to code. But both devices have also been us
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aligning Your Password Policy enforcement with NIST Guidelines<a href="https://www.bleepingcomputer.com/news/security/aligning-your-password-policy-enforcement-with-nist-guidelines/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although most organizations are not required by law to comply with NIST standards, it is usually in an organization's best interest to follow NIST's cybersecurity standards. This is especially true for NIST's password guidelines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

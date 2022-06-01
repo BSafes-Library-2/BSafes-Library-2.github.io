@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft is rolling out these security settings to protect millions of accounts<a href="https://www.zdnet.com/article/microsoft-were-rolling-out-these-security-settings-to-protect-millions-of-accounts-heres-whats-changing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft began rolling out security defaults to customers who created a new Azure AD tenant after October 2019, but didn't enable the defaults for customers that created Azure AD tenants prior to October 2019.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares mitigation for Office zero-day exploited in attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-office-zero-day-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared mitigation measures to block attacks exploiting a newly discovered Microsoft Office zero-day flaw abused in the wild to execute malicious code remotely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

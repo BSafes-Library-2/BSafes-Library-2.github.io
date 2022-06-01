@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is 3rd Party App Access the New Executable File?<a href="https://thehackernews.com/2022/05/is-3rd-party-app-access-new-executable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's no secret that 3rd party apps can boost productivity, enable remote and hybrid work and are overall, essential in building and scaling a company's work processes.&nbsp;  An innocuous process much like clicking on an attachment was in the earlier days of email, people don't think twice when connecting an app they need with their Google workspace or M365 environment, etc. Simple actions that users take, from creating an email to updating a contact in the CRM, can result in several other automatic actions and notifications in the connected platforms.&nbsp;  As seen in the image below, the OAuth mechanism makes it incredibly easy to interconnect apps and many don't consider what the possible ramifications could be. When these apps and other add-ons for SaaS platforms ask for permissions' access, they are usually granted without a second thought, presenting more opportunities for bad actors to gain access to a company's data. This puts companies at risk for supply chain
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$39.5 billion lost to phone scams in last year<a href="https://www.helpnetsecurity.com/2022/05/30/spam-phone-scams-impact/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent study estimates that a staggering $39.5 billion was lost to phone scams this past year, which is the highest number recorded since Truecaller began researching scam and spam calls in the U.S. eight years ago.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT threat evolution in Q1 2022. Mobile statistics<a href="https://securelist.com/it-threat-evolution-in-q1-2022-mobile-statistics/106589/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the schemes used by scammers which has been becoming more popular since last year are scam apps for receiving social benefits. These apps redirect to a webpage asking for personal data to claim a large sum of money.
+</details>
+<div style="text-align: right" markdown="1">
+Securelist
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

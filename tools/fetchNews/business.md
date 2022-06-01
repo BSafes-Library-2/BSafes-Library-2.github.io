@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hornetsecurity acquires IT-Seal to add security training services to its portfolio<a href="https://www.helpnetsecurity.com/2022/05/26/hornetsecurity-it-seal/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Located in Darmstadt, Germany, IT-Seal specializes in establishing a sustainable security culture. It employs innovative technologies to train employees at businesses and organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

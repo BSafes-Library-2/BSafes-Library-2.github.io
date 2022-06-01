@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Volumes Decline as Trojan Distribution Surges<a href="https://cyware.com/news/malware-volumes-decline-as-trojan-distribution-surges-121a83da"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trojan families that affected users the most included Mobtes (44.35%), Piom (32.61%), and Boogr (14.32%). Iran at 35.25% stands as the most impacted country by mobile malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Mobile Malware Report Suggests On-Device Fraud is on the Rise<a href="https://thehackernews.com/2022/05/latest-mobile-malware-report-suggests.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of the mobile threat landscape in 2022 shows that Spain and Turkey are the most targeted countries for malware campaigns, even as a mix of new and existing banking trojans are increasingly targeting Android devices to conduct on-device fraud (ODF).  Other frequently targeted countries include Poland, Australia, the U.S., Germany, the U.K., Italy, France, and Portugal.  "The most worrying leitmotif is the increasing attention to On-Device Fraud (ODF)," Dutch cybersecurity company ThreatFabric&nbsp; said &nbsp;in a report shared with The Hacker News.  "Just in the first five months of 2022 there has been an increase of more than 40% in malware families that abuse Android OS to perform fraud using the device itself, making it almost impossible to detect them using traditional fraud scoring engines."   Hydra ,&nbsp; FluBot &nbsp;(aka Cabassous),&nbsp; Cerberus ,&nbsp; Octo , and&nbsp; ERMAC &nbsp;accounted for the most active banking trojans based on the number of samples observed during the same
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Key Trends in The Verizon Data Breach Investigation Report 2022<a href="https://cyware.com/news/key-trends-in-the-verizon-data-breach-investigation-report-2022-b378f49b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the report, ransomware attacks continue to mount pressure on organizations worldwide as researchers recorded a 13% increase in such attacks.  While 40% of ransomware incidents were executed via desktop sharing software, 35% involved the use of email.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

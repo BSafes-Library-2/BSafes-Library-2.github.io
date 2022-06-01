@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal WhatsApp accounts using call forwarding trick<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-whatsapp-accounts-using-call-forwarding-trick/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There's a trick that allows attackers to hijack a victim's WhatsApp account and gain access to personal messages and contact list.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

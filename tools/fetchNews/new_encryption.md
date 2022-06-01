@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore ups investment in quantum computing to stay ahead of security threats<a href="https://www.zdnet.com/article/singapore-ups-investment-in-quantum-computing-to-stay-ahead-of-security-threats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Singapore government on Tuesday announced plans to set aside SG$23.5 million (US$17.09 million) to support three national platforms, parked under its Quantum Engineering Programme (QEP), for up to 3.5 years.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 05, 2022 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

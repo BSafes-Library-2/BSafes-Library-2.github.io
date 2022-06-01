@@ -34,6 +34,386 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal WhatsApp accounts using call forwarding trick<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-whatsapp-accounts-using-call-forwarding-trick/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There's a trick that allows attackers to hijack a victim's WhatsApp account and gain access to personal messages and contact list.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Volumes Decline as Trojan Distribution Surges<a href="https://cyware.com/news/malware-volumes-decline-as-trojan-distribution-surges-121a83da"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trojan families that affected users the most included Mobtes (44.35%), Piom (32.61%), and Boogr (14.32%). Iran at 35.25% stands as the most impacted country by mobile malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Mobile Malware Report Suggests On-Device Fraud is on the Rise<a href="https://thehackernews.com/2022/05/latest-mobile-malware-report-suggests.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of the mobile threat landscape in 2022 shows that Spain and Turkey are the most targeted countries for malware campaigns, even as a mix of new and existing banking trojans are increasingly targeting Android devices to conduct on-device fraud (ODF).  Other frequently targeted countries include Poland, Australia, the U.S., Germany, the U.K., Italy, France, and Portugal.  "The most worrying leitmotif is the increasing attention to On-Device Fraud (ODF)," Dutch cybersecurity company ThreatFabric  said  in a report shared with The Hacker News.  "Just in the first five months of 2022 there has been an increase of more than 40% in malware families that abuse Android OS to perform fraud using the device itself, making it almost impossible to detect them using traditional fraud scoring engines."   Hydra ,  FluBot  (aka Cabassous),  Cerberus ,  Octo , and  ERMAC  accounted for the most active banking trojans based on the number of samples observed during the same
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideWinder carried out over 1,000 attacks since April 2020<a href="https://securityaffairs.co/wordpress/131831/apt/sidewinder-aggressive-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SideWinder, an aggressive APT group, is believed to have carried out over 1,000 attacks since April 2020, Kaspersky reported.
+
+
+
+Researchers from Kaspersky have analyzed the activity of an aggressive threat actor tracked as SideWinder (aka RattleSnake...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows MSDT zero-day now exploited by Chinese APT hackers<a href="https://www.bleepingcomputer.com/news/security/windows-msdt-zero-day-now-exploited-by-chinese-apt-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese-linked threat actors are now actively exploiting a Microsoft Office zero-day vulnerability (known as 'Follina') to execute malicious code remotely on Windows systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Key Trends in The Verizon Data Breach Investigation Report 2022<a href="https://cyware.com/news/key-trends-in-the-verizon-data-breach-investigation-report-2022-b378f49b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the report, ransomware attacks continue to mount pressure on organizations worldwide as researchers recorded a 13% increase in such attacks.  While 40% of ransomware incidents were executed via desktop sharing software, 35% involved the use of email.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideWinder Hackers Launched Over a 1,000 Cyber Attacks Over the Past 2 Years<a href="https://thehackernews.com/2022/05/sidewinder-hackers-launched-over-1000.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An "aggressive" advanced persistent threat (APT) group known as SideWinder  has been linked to over 1,000 new attacks since April 2020.  "Some of the main characteristics of this threat actor that make it stand out among the others, are the sheer number, high frequency and persistence of their attacks and the large collection of encrypted and obfuscated malicious components used in their operations," cybersecurity firm Kaspersky  said  in a report that was presented at Black Hat Asia this month.  SideWinder , also called Rattlesnake or T-APT-04, is said to have been active since at least 2012 with a  track record  of targeting military, defense, aviation, IT companies, and legal firms in Central Asian countries such as Afghanistan, Bangladesh, Nepal, and Pakistan.   Kaspersky's APT trends report for Q1 2022  published  late last month revealed that the threat actor is actively expanding the geography of its targets beyond its traditional victim profile to other
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shared workarounds for the Microsoft Office zero-day dubbed Follina<a href="https://securityaffairs.co/wordpress/131824/security/microsoft-workarounds-microsoft-office-0day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released workarounds for a recently discovered zero-day vulnerability, dubbed Follina, in the Microsoft Office productivity suite.
+
+
+
+Microsoft has released workarounds for a recently discovered zero-day vulnerability, dubbed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 3.6 million MySQL servers found exposed on the Internet<a href="https://www.bleepingcomputer.com/news/security/over-36-million-mysql-servers-found-exposed-on-the-internet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Over 3.6 million MySQL servers are publicly exposed on the Internet and responding to queries, making them an attractive target to hackers and extortionists.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia's National Disability Insurance Scheme Hit by Breach at Case Management System Provider<a href="https://www.itnews.com.au/news/ndis-case-management-system-provider-breached-580729?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CTARS, a Sydney-based software and analytics provider for the disability and care sectors, this week revealed an unauthorized third-party had gained access to its systems on May 15.
+</details>
+<div style="text-align: right" markdown="1">
+IT News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Learn Raspberry Pi and Arduino with 9 Online Developer Training Courses<a href="https://thehackernews.com/2022/05/learn-raspberry-pi-and-arduino-with-9.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This is an exciting time for the  Internet of Things . According to Deloitte research, the average U.S. household now has 25 connected devices — and new products are being launched every day. This rush of demand means that many tech companies are looking for developers with IoT knowledge. And even if you don't want to specialize in this field, the  programming skills  are transferable.  Featuring nine full-length video courses,  The 2022 Complete Raspberry Pi & Arduino Developer Bundle  provides a really good introduction to this world. The included training is worth a total of $1,800, but readers of The Hacker News can currently pick up the bundle for  only $39.99 .   Special Offer  —  For a limited time, you can get lifetime access to nine courses on Arduino and Raspberry Pi development  for just $39.99 . That's a massive 97% off the total price.  Both the Raspberry Pi and the Arduino were specifically designed to help people learn how to code. But both devices have also been us
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of ransomware attacks against government organizations of small states<a href="https://securityaffairs.co/wordpress/131816/malware/ransomware-attacks-small-states-q2-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Research Labs reported a rise in ransomware attacks in the second quarter of 2022, small states are more exposed to these attacks.
+
+
+
+Cyber Research Labs observed a rise in ransomware attacks in the second quarter of 2022, some of them with a severe...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of Ukrainian charities impersonated to steal donations<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-ukrainian-charities-impersonated-to-steal-donations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are claiming to be collecting donations to help Ukrainian refugees and war victims while impersonating legitimate Ukrainian humanitarian aid organizations, according to the Federal Bureau of Investigation (FBI).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft is rolling out these security settings to protect millions of accounts<a href="https://www.zdnet.com/article/microsoft-were-rolling-out-these-security-settings-to-protect-millions-of-accounts-heres-whats-changing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft began rolling out security defaults to customers who created a new Azure AD tenant after October 2019, but didn't enable the defaults for customers that created Azure AD tenants prior to October 2019.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Costa Rica’s public health agency hit by Hive ransomware<a href="https://www.bleepingcomputer.com/news/security/costa-rica-s-public-health-agency-hit-by-hive-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All computer systems on the network of Costa Rica's public health service (known as Costa Rican Social Security Fund or CCCS) are now offline following a Hive ransomware attack that hit them this morning.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hoxhunt Raises $40M in Series B Funding<a href="https://www.finsmes.com/2022/05/hoxhunt-raises-40m-in-series-b-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hoxhunt, a Helsinki, Finland–based cybersecurity training platform provider, raised $40 million in Series B funding. The round was led by Level Equity Management, with participation from existing investor Icebreaker.vc.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New XLoader botnet uses probability theory to hide its servers<a href="https://www.bleepingcomputer.com/news/security/new-xloader-botnet-uses-probability-theory-to-hide-its-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have spotted a new version of the XLoader botnet malware that uses probability theory to hide its command and control servers, making it difficult to disrupt the malware's operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of ransomware attacks against government organizations of small states<a href="https://securityaffairs.co/wordpress/131816/malware/ransomware-attacks-small-states-q2-2022.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The experts at Cyber Research Labs warn of ransomware attacks against government organizations. They observed a total of 48 government organizations from 21 countries that were hit by 13 ransomware attacks in 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aligning Your Password Policy enforcement with NIST Guidelines<a href="https://www.bleepingcomputer.com/news/security/aligning-your-password-policy-enforcement-with-nist-guidelines/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although most organizations are not required by law to comply with NIST standards, it is usually in an organization's best interest to follow NIST's cybersecurity standards. This is especially true for NIST's password guidelines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore ups investment in quantum computing to stay ahead of security threats<a href="https://www.zdnet.com/article/singapore-ups-investment-in-quantum-computing-to-stay-ahead-of-security-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Singapore government on Tuesday announced plans to set aside SG$23.5 million (US$17.09 million) to support three national platforms, parked under its Quantum Engineering Programme (QEP), for up to 3.5 years.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares mitigation for Office zero-day exploited in attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-office-zero-day-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared mitigation measures to block attacks exploiting a newly discovered Microsoft Office zero-day flaw abused in the wild to execute malicious code remotely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol Nabs 3 Nigerian Scammers Behind Malware-based Attacks<a href="https://thehackernews.com/2022/05/interpol-nabs-3-nigerian-scammers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol on Monday announced the arrest of three suspected global scammers in Nigeria for using remote access trojans (RATs) such as Agent Tesla to facilitate malware-enabled cyber fraud.  "The men are thought to have used the RAT to reroute financial transactions, stealing confidential online connection details from corporate organizations, including oil and gas companies in South East Asia, the Middle East and North Africa," the International Criminal Police Organization  said  in a statement.   One of the scammers in question, named Hendrix Omorume, has been charged and convicted of three counts of financial fraud and has been sentenced to a 12-month prison term. The two other suspects are still on trial.  The three Nigerian individuals, who are aged between 31 and 38, have been apprehended for being in possession of fake documents such as fraudulent invoices and forged official letters.  The law enforcement said that the suspects systematically used Agent Tesla to breach
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Workarounds for Office Vulnerability Under Active Exploitation<a href="https://thehackernews.com/2022/05/microsoft-releases-workarounds-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday published guidance for a newly discovered  zero-day security flaw  in its Office productivity suite that could be exploited to achieve code execution on affected systems.  The weakness, now assigned the identifier  CVE-2022-30190 , is rated 7.8 out of 10 for severity on the CVSS vulnerability scoring system. Microsoft Office versions Office 2013, Office 2016, Office 2019, and Office 2021, as well as Professional Plus editions, are impacted.   "To help protect customers, we've published CVE-2022-30190 and additional guidance  here ," a Microsoft spokesperson told The Hacker News in an emailed statement.   The  Follina  vulnerability, which came to light late last week, involved a real-world exploit that leveraged the shortcoming in a weaponized Word document to execute arbitrary PowerShell code by making use of the "ms-msdt:" URI scheme. The sample was uploaded to VirusTotal from Belarus.  But first signs of exploitation of the flaw date back
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 30, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

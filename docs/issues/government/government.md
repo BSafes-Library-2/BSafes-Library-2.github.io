@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of Ukrainian charities impersonated to steal donations<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-ukrainian-charities-impersonated-to-steal-donations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are claiming to be collecting donations to help Ukrainian refugees and war victims while impersonating legitimate Ukrainian humanitarian aid organizations, according to the Federal Bureau of Investigation (FBI).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

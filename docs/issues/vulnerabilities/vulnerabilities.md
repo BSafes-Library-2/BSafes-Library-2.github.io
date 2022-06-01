@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shared workarounds for the Microsoft Office zero-day dubbed Follina<a href="https://securityaffairs.co/wordpress/131824/security/microsoft-workarounds-microsoft-office-0day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released workarounds for a recently discovered&nbsp;zero-day&nbsp;vulnerability, dubbed Follina, in the Microsoft Office productivity suite.
+
+
+
+Microsoft has released workarounds for a recently discovered&nbsp;zero-day&nbsp;vulnerability, dubbed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 3.6 million MySQL servers found exposed on the Internet<a href="https://www.bleepingcomputer.com/news/security/over-36-million-mysql-servers-found-exposed-on-the-internet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Over 3.6 million MySQL servers are publicly exposed on the Internet and responding to queries, making them an attractive target to hackers and extortionists.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Workarounds for Office Vulnerability Under Active Exploitation<a href="https://thehackernews.com/2022/05/microsoft-releases-workarounds-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday published guidance for a newly discovered&nbsp; zero-day security flaw &nbsp;in its Office productivity suite that could be exploited to achieve code execution on affected systems.  The weakness, now assigned the identifier&nbsp; CVE-2022-30190 , is rated 7.8 out of 10 for severity on the CVSS vulnerability scoring system. Microsoft Office versions Office 2013, Office 2016, Office 2019, and Office 2021, as well as Professional Plus editions, are impacted.&nbsp;  "To help protect customers, we've published CVE-2022-30190 and additional guidance&nbsp; here ," a Microsoft spokesperson told The Hacker News in an emailed statement.   The&nbsp; Follina &nbsp;vulnerability, which came to light late last week, involved a real-world exploit that leveraged the shortcoming in a weaponized Word document to execute arbitrary PowerShell code by making use of the "ms-msdt:" URI scheme. The sample was uploaded to VirusTotal from Belarus.  But first signs of exploitation of the flaw date back
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

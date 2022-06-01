@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers steal WhatsApp accounts using call forwarding trick<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-whatsapp-accounts-using-call-forwarding-trick/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Volumes Decline as Trojan Distribution Surges<a href="https://cyware.com/news/malware-volumes-decline-as-trojan-distribution-surges-121a83da"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest Mobile Malware Report Suggests On-Device Fraud is on the Rise<a href="https://thehackernews.com/2022/05/latest-mobile-malware-report-suggests.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SideWinder carried out over 1,000 attacks since April 2020<a href="https://securityaffairs.co/wordpress/131831/apt/sidewinder-aggressive-apt.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows MSDT zero-day now exploited by Chinese APT hackers<a href="https://www.bleepingcomputer.com/news/security/windows-msdt-zero-day-now-exploited-by-chinese-apt-hackers/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Key Trends in The Verizon Data Breach Investigation Report 2022<a href="https://cyware.com/news/key-trends-in-the-verizon-data-breach-investigation-report-2022-b378f49b"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SideWinder Hackers Launched Over a 1,000 Cyber Attacks Over the Past 2 Years<a href="https://thehackernews.com/2022/05/sidewinder-hackers-launched-over-1000.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft shared workarounds for the Microsoft Office zero-day dubbed Follina<a href="https://securityaffairs.co/wordpress/131824/security/microsoft-workarounds-microsoft-office-0day.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 3.6 million MySQL servers found exposed on the Internet<a href="https://www.bleepingcomputer.com/news/security/over-36-million-mysql-servers-found-exposed-on-the-internet/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia's National Disability Insurance Scheme Hit by Breach at Case Management System Provider<a href="https://www.itnews.com.au/news/ndis-case-management-system-provider-breached-580729?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ IT News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Learn Raspberry Pi and Arduino with 9 Online Developer Training Courses<a href="https://thehackernews.com/2022/05/learn-raspberry-pi-and-arduino-with-9.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of ransomware attacks against government organizations of small states<a href="https://securityaffairs.co/wordpress/131816/malware/ransomware-attacks-small-states-q2-2022.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns of Ukrainian charities impersonated to steal donations<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-ukrainian-charities-impersonated-to-steal-donations/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft is rolling out these security settings to protect millions of accounts<a href="https://www.zdnet.com/article/microsoft-were-rolling-out-these-security-settings-to-protect-millions-of-accounts-heres-whats-changing/?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Costa Rica’s public health agency hit by Hive ransomware<a href="https://www.bleepingcomputer.com/news/security/costa-rica-s-public-health-agency-hit-by-hive-ransomware/"> Full Text</a>
@@ -286,7 +286,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hoxhunt Raises $40M in Series B Funding<a href="https://www.finsmes.com/2022/05/hoxhunt-raises-40m-in-series-b-funding.html?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ FinSMEs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New XLoader botnet uses probability theory to hide its servers<a href="https://www.bleepingcomputer.com/news/security/new-xloader-botnet-uses-probability-theory-to-hide-its-servers/"> Full Text</a>
@@ -318,7 +318,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of ransomware attacks against government organizations of small states<a href="https://securityaffairs.co/wordpress/131816/malware/ransomware-attacks-small-states-q2-2022.html?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aligning Your Password Policy enforcement with NIST Guidelines<a href="https://www.bleepingcomputer.com/news/security/aligning-your-password-policy-enforcement-with-nist-guidelines/"> Full Text</a>
@@ -350,7 +350,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Singapore ups investment in quantum computing to stay ahead of security threats<a href="https://www.zdnet.com/article/singapore-ups-investment-in-quantum-computing-to-stay-ahead-of-security-threats/?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft shares mitigation for Office zero-day exploited in attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-office-zero-day-exploited-in-attacks/"> Full Text</a>
@@ -382,7 +382,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2022
+May 30, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol Nabs 3 Nigerian Scammers Behind Malware-based Attacks<a href="https://thehackernews.com/2022/05/interpol-nabs-3-nigerian-scammers.html"> Full Text</a>
@@ -398,7 +398,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2022
+May 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Releases Workarounds for Office Vulnerability Under Active Exploitation<a href="https://thehackernews.com/2022/05/microsoft-releases-workarounds-for.html"> Full Text</a>

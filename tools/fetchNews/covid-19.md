@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Double-whammy attack follows fake Covid alert with a bogus bank call<a href="https://blog.malwarebytes.com/scams/2022/05/double-whammy-attack-follows-fake-covid-alert-with-a-bogus-bank-call/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BBC has revealed details of how a food bank in the United Kingdom was conned out of about $63,000 (£50,000) by scammers who used two separate attacks to fleece their victims.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

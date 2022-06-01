@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New XLoader botnet uses probability theory to hide its servers<a href="https://www.bleepingcomputer.com/news/security/new-xloader-botnet-uses-probability-theory-to-hide-its-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have spotted a new version of the XLoader botnet malware that uses probability theory to hide its command and control servers, making it difficult to disrupt the malware's operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

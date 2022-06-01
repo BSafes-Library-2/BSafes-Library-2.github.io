@@ -11,6 +11,20 @@ nav_order: 900031
 May 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Interpol Nabs 3 Nigerian Scammers Behind Malware-based Attacks<a href="https://thehackernews.com/2022/05/interpol-nabs-3-nigerian-scammers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol on Monday announced the arrest of three suspected global scammers in Nigeria for using remote access trojans (RATs) such as Agent Tesla to facilitate malware-enabled cyber fraud.  "The men are thought to have used the RAT to reroute financial transactions, stealing confidential online connection details from corporate organizations, including oil and gas companies in South East Asia, the Middle East and North Africa," the International Criminal Police Organization&nbsp; said &nbsp;in a statement.   One of the scammers in question, named Hendrix Omorume, has been charged and convicted of three counts of financial fraud and has been sentenced to a 12-month prison term. The two other suspects are still on trial.  The three Nigerian individuals, who are aged between 31 and 38, have been apprehended for being in possession of fake documents such as fraudulent invoices and forged official letters.  The law enforcement said that the suspects systematically used Agent Tesla to breach
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Three Nigerian men arrested in INTERPOL Operation Killer Bee<a href="https://securityaffairs.co/wordpress/131811/cyber-crime/three-nigerians-arrested-by-interpol.html"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,66 @@ nav_order: 900015
 
 ## Attack
 ---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideWinder Hackers Launched Over a 1,000 Cyber Attacks Over the Past 2 Years<a href="https://thehackernews.com/2022/05/sidewinder-hackers-launched-over-1000.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An "aggressive" advanced persistent threat (APT) group known as SideWinder  has been linked to over 1,000 new attacks since April 2020.  "Some of the main characteristics of this threat actor that make it stand out among the others, are the sheer number, high frequency and persistence of their attacks and the large collection of encrypted and obfuscated malicious components used in their operations," cybersecurity firm Kaspersky&nbsp; said &nbsp;in a report that was presented at Black Hat Asia this month.  SideWinder , also called Rattlesnake or T-APT-04, is said to have been active since at least 2012 with a&nbsp; track record &nbsp;of targeting military, defense, aviation, IT companies, and legal firms in Central Asian countries such as Afghanistan, Bangladesh, Nepal, and Pakistan.   Kaspersky's APT trends report for Q1 2022&nbsp; published &nbsp;late last month revealed that the threat actor is actively expanding the geography of its&nbsp;targets beyond its traditional victim profile to other
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of ransomware attacks against government organizations of small states<a href="https://securityaffairs.co/wordpress/131816/malware/ransomware-attacks-small-states-q2-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Research Labs reported a rise in ransomware attacks in the second quarter of 2022, small states are more exposed to these attacks.
+
+
+
+Cyber Research Labs observed a rise in ransomware attacks in the second quarter of 2022, some of them with a severe...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Costa Rica’s public health agency hit by Hive ransomware<a href="https://www.bleepingcomputer.com/news/security/costa-rica-s-public-health-agency-hit-by-hive-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All computer systems on the network of Costa Rica's public health service&nbsp;(known as Costa Rican Social Security Fund or CCCS) are now offline following a Hive ransomware attack that hit them this morning.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of ransomware attacks against government organizations of small states<a href="https://securityaffairs.co/wordpress/131816/malware/ransomware-attacks-small-states-q2-2022.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The experts at Cyber Research Labs warn of ransomware attacks against government organizations. They observed a total of 48 government organizations from 21 countries that were hit by 13 ransomware attacks in 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
