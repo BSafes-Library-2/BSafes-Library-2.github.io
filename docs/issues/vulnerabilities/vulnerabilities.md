@@ -8,6 +8,63 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows Search zero-day added to Microsoft protocol nightmare<a href="https://www.bleepingcomputer.com/news/security/new-windows-search-zero-day-added-to-microsoft-protocol-nightmare/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Windows Search zero-day vulnerability can be used to automatically open a search window containing remotely-hosted&nbsp;malware executables simply by launching a Word document.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Unpatched Horde Webmail Bug Lets Hackers Take Over Server by Sending Email<a href="https://thehackernews.com/2022/06/new-unpatched-horde-webmail-bug-lets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new unpatched security vulnerability has been disclosed in the open-source Horde Webmail client that could be exploited to achieve remote code execution on the email server simply by sending a specially crafted email to a victim.  "Once the email is viewed, the attacker can silently take over the complete mail server without any further user interaction," SonarSource said in a report  shared with The Hacker News. "The vulnerability exists in the default configuration and can be exploited with no knowledge of a targeted Horde instance."  The issue, which has been assigned the CVE identifier&nbsp; CVE-2022-30287 , was reported to the vendor on February 2, 2022. The maintainers of the Horde Project did not immediately respond to a request for comment regarding the unresolved vulnerability.   At its core, the issue makes it possible for an authenticated user of a Horde instance to run malicious code on the underlying server by taking advantage of a quirk in how the client
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Browser Automation Framework is the New Threat<a href="https://cyware.com/news/browser-automation-framework-is-the-new-threat-605f08b8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have warned against the increased use of free-to-use browser automation frameworks by attackers that can be abused in malicious activities.&nbsp; Researchers  observed  C2 IP addresses linked with malware such as BlackGuard, Bumblebee, and RedLine Stealer communicating with the subdomai ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows MSDT zero-day vulnerability gets free unofficial patch<a href="https://www.bleepingcomputer.com/news/security/windows-msdt-zero-day-vulnerability-gets-free-unofficial-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free unofficial patch is now available to block&nbsp;ongoing attacks against Windows systems that target a critical zero-day vulnerability known as 'Follina.'
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Activities by Clop and REvil - Copycats or Final Wrapups?<a href="https://cyware.com/news/new-activities-by-clop-and-revil-copycats-or-final-wrapups-6760ccbb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two prominent ransomware groups, Clop and REvil, had claimed to have shut down but there are some activities that suggest cybercriminals may have not gone completely.  Clop had an unexpected return with a jump from the least active threat in March to the fourth most active in April. The so-thought- ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI seizes domains used to sell stolen data, DDoS services<a href="https://www.bleepingcomputer.com/news/security/fbi-seizes-domains-used-to-sell-stolen-data-ddos-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) and&nbsp;the U.S. Department of Justice announced today the seizure of three domains used by cybercriminals to sell personal info stolen in data breaches and to provide DDoS attack services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

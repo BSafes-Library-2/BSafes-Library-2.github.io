@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideWinder carried out over 1,000 attacks since April 2020<a href="https://securityaffairs.co/wordpress/131831/apt/sidewinder-aggressive-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SideWinder, an aggressive APT group, is believed to have carried out over 1,000 attacks since April 2020, Kaspersky reported.
+
+
+
+Researchers from Kaspersky have analyzed the activity of an aggressive threat actor tracked as SideWinder (aka RattleSnake...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows MSDT zero-day now exploited by Chinese APT hackers<a href="https://www.bleepingcomputer.com/news/security/windows-msdt-zero-day-now-exploited-by-chinese-apt-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese-linked threat actors are now actively exploiting a Microsoft Office zero-day vulnerability (known as 'Follina') to execute malicious code remotely on Windows systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

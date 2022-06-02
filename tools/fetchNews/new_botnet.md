@@ -8,6 +8,53 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New XLoader Botnet version uses new techniques to obscure its C2 servers<a href="https://securityaffairs.co/wordpress/131860/cyber-crime/xloader-botnet-obscures-c2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the XLoader botnet is implementing a new technique to obscure the Command and Control infrastructure.
+
+
+
+Researchers from Check Point have discovered a new version of the XLoader botnet, which implements significant enhancements, such...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EnemyBot Botnet Expanding its Scope by Targeting Latest Vulnerabilities<a href="https://cyware.com/news/enemybot-botnet-expanding-its-scope-by-targeting-latest-vulnerabilities-8dd02539"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EnemyBot botnet expanded its attack scope to exploit critical vulnerabilities found in VMware, Android, and F5 BIG-IP. It is suspected to have some strong correlation with the LolFMe botnet in terms of having similar strings, structure, and patterns in the code. The botnet is under active developme ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New XLoader Botnet Version Using Probability Theory to Hide its C&amp;C Servers<a href="https://thehackernews.com/2022/06/new-xloader-botnet-version-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An enhanced version of the XLoader malware has been spotted adopting a probability-based approach to camouflage its command-and-control (C&amp;C) infrastructure, according to the latest research.  "Now it is significantly harder to separate the wheat from the chaff and discover the real C&amp;C servers among thousands of legitimate domains used by Xloader as a smokescreen," Israeli cybersecurity company Check Point&nbsp; said .  First spotted in the wild in October 2020, XLoader is a successor to Formbook and a&nbsp; cross-platform information stealer &nbsp;that's capable of plundering credentials from web browsers, capturing keystrokes and screenshots, and executing arbitrary commands and payloads.   More recently, the&nbsp; ongoing geopolitical conflict &nbsp;between Russia and Ukraine has proved to be a lucrative fodder for&nbsp; distributing XLoader &nbsp;by means of&nbsp; phishing emails &nbsp;aimed at high-ranking government officials in Ukraine.  The latest findings from Check Point build on a previous repor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RuneScape phishing steals accounts and in-game item bank PINs<a href="https://www.bleepingcomputer.com/news/security/runescape-phishing-steals-accounts-and-in-game-item-bank-pins/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new RuneScape-themed phishing campaign, and it stands out among the various operations for being exceptionally well-crafted.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telegram’s blogging platform abused in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/telegram-s-blogging-platform-abused-in-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telegram's anonymous blogging platform, Telegraph, is being actively exploited by phishing actors who take advantage of the platform's lax policies to set up interim landing pages that lead to the theft of account credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

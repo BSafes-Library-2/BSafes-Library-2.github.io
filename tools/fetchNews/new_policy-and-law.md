@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FluBot Android Spyware Taken Down in Global Law Enforcement Operation<a href="https://thehackernews.com/2022/06/flubot-android-spyware-taken-down-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation involving 11 countries has culminated in the takedown of a notorious mobile malware threat called&nbsp; FluBot .  "This Android malware has been spreading aggressively through SMS, stealing passwords, online banking details and other sensitive information from infected smartphones across the world," Europol&nbsp; said &nbsp;in a statement.   The "complex investigation" included authorities from Australia, Belgium, Finland, Hungary, Ireland, Romania, Spain, Sweden, Switzerland, the Netherlands, and the U.S.  FluBot , also called Cabassous, emerged in the wild in December 2020, masking its insidious intent behind the veneer of seemingly innocuous package tracking applications such as FedEx, DHL, and Correos.&nbsp;  It primarily spreads via smishing (aka SMS-based phishing) messages that trick unsuspecting recipients into clicking on a link to download the malware-laced apps.   Once launched, the app would proceed to request access to Android
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FluBot Android malware operation shutdown by law enforcement<a href="https://www.bleepingcomputer.com/news/security/flubot-android-malware-operation-shutdown-by-law-enforcement/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol has announced the takedown of the FluBot operation, one of the largest and fastest-growing Android malware operations in existence.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

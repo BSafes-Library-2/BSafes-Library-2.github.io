@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hoxhunt Raises $40M in Series B Funding<a href="https://www.finsmes.com/2022/05/hoxhunt-raises-40m-in-series-b-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hoxhunt, a Helsinki, Finland–based cybersecurity training platform provider, raised $40 million in Series B funding. The round was led by Level Equity Management, with participation from existing investor Icebreaker.vc.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,458 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows Search zero-day added to Microsoft protocol nightmare<a href="https://www.bleepingcomputer.com/news/security/new-windows-search-zero-day-added-to-microsoft-protocol-nightmare/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Windows Search zero-day vulnerability can be used to automatically open a search window containing remotely-hosted malware executables simply by launching a Word document.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Activities by Clop and REvil - Copycats or Final Wrapups?<a href="https://cyware.com/news/new-activities-by-clop-and-revil-copycats-or-final-wrapups-6760ccbb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two prominent ransomware groups, Clop and REvil, had claimed to have shut down but there are some activities that suggest cybercriminals may have not gone completely.  Clop had an unexpected return with a jump from the least active threat in March to the fourth most active in April. The so-thought- ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Unpatched Horde Webmail Bug Lets Hackers Take Over Server by Sending Email<a href="https://thehackernews.com/2022/06/new-unpatched-horde-webmail-bug-lets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new unpatched security vulnerability has been disclosed in the open-source Horde Webmail client that could be exploited to achieve remote code execution on the email server simply by sending a specially crafted email to a victim.  "Once the email is viewed, the attacker can silently take over the complete mail server without any further user interaction," SonarSource said in a report  shared with The Hacker News. "The vulnerability exists in the default configuration and can be exploited with no knowledge of a targeted Horde instance."  The issue, which has been assigned the CVE identifier  CVE-2022-30287 , was reported to the vendor on February 2, 2022. The maintainers of the Horde Project did not immediately respond to a request for comment regarding the unresolved vulnerability.   At its core, the issue makes it possible for an authenticated user of a Horde instance to run malicious code on the underlying server by taking advantage of a quirk in how the client
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New XLoader Botnet version uses new techniques to obscure its C2 servers<a href="https://securityaffairs.co/wordpress/131860/cyber-crime/xloader-botnet-obscures-c2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the XLoader botnet is implementing a new technique to obscure the Command and Control infrastructure.
+
+
+
+Researchers from Check Point have discovered a new version of the XLoader botnet, which implements significant enhancements, such...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Elasticsearch databases targeted in ransom attacks<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-elasticsearch-databases-targeted-in-ransom-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A campaign targeting poorly secured Elasticsearch databases has deleted their contents and dropped ransom notes on 450 instances, demanding a payment of $620 to give them back their indexes, totaling a demand of $279,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gamaredon Prepares for Next Wave of DDoS Attacks<a href="https://cyware.com/news/gamaredon-prepares-for-next-wave-of-ddos-attacks-11ddb3db"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported a wave of DDoS attacks by the Russian Gamaredon APT group. Also, criminals have open-sourced code of a DDoS trojan called LOIC. Besides, experts observed attackers launch multiple attacks, such as phishing campaigns and malware attacks.&nbsp;Organizations are suggested to stay  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FluBot Android Spyware Taken Down in Global Law Enforcement Operation<a href="https://thehackernews.com/2022/06/flubot-android-spyware-taken-down-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation involving 11 countries has culminated in the takedown of a notorious mobile malware threat called  FluBot .  "This Android malware has been spreading aggressively through SMS, stealing passwords, online banking details and other sensitive information from infected smartphones across the world," Europol  said  in a statement.   The "complex investigation" included authorities from Australia, Belgium, Finland, Hungary, Ireland, Romania, Spain, Sweden, Switzerland, the Netherlands, and the U.S.  FluBot , also called Cabassous, emerged in the wild in December 2020, masking its insidious intent behind the veneer of seemingly innocuous package tracking applications such as FedEx, DHL, and Correos.   It primarily spreads via smishing (aka SMS-based phishing) messages that trick unsuspecting recipients into clicking on a link to download the malware-laced apps.   Once launched, the app would proceed to request access to Android
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts uncovered over 3.6M accessible MySQL servers worldwide<a href="https://securityaffairs.co/wordpress/131851/security/3-6-million-mysql-servers-accessible-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered 3.6M accessible MySQL servers worldwide that represent a potential attack surface for their owners.
+
+
+
+Researchers from Shadow Server scanned the internet for publicly accessible MySQL server instances on port 3306/TCP...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI seizes domains used to sell stolen data, DDoS services<a href="https://www.bleepingcomputer.com/news/security/fbi-seizes-domains-used-to-sell-stolen-data-ddos-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) and the U.S. Department of Justice announced today the seizure of three domains used by cybercriminals to sell personal info stolen in data breaches and to provide DDoS attack services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EnemyBot Botnet Expanding its Scope by Targeting Latest Vulnerabilities<a href="https://cyware.com/news/enemybot-botnet-expanding-its-scope-by-targeting-latest-vulnerabilities-8dd02539"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EnemyBot botnet expanded its attack scope to exploit critical vulnerabilities found in VMware, Android, and F5 BIG-IP. It is suspected to have some strong correlation with the LolFMe botnet in terms of having similar strings, structure, and patterns in the code. The botnet is under active developme ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YODA Tool Found ~47,000 Malicious WordPress Plugins Installed in Over 24,000 Sites<a href="https://thehackernews.com/2022/06/yoda-tool-found-47000-malicious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 47,337 malicious plugins have been uncovered on 24,931 unique websites, out of which 3,685 plugins were sold on legitimate marketplaces, netting the attackers $41,500 in illegal revenues.  The findings come from a new tool called  YODA  that aims to detect rogue WordPress plugins and track down their origin, according to an 8-year-long study conducted by a group of researchers from the Georgia Institute of Technology.  "Attackers impersonated benign plugin authors and spread malware by distributing pirated plugins," the researchers  said  in a new paper titled " Mistrust Plugins You Must ."   "The number of malicious plugins on websites has steadily increased over the years, and malicious activity peaked in March 2020. Shockingly, 94% of the malicious plugins installed over those 8 years are still active today."  The large-scale research entailed analyzing WordPress plugins installed in 410,122 unique web servers dating all the way back to 2012
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked TA413 group actively exploits Microsoft Follina zero-day flaw<a href="https://securityaffairs.co/wordpress/131843/apt/china-apt-exploits-follina-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked APT group is actively exploiting the recently disclosed Follina zero-day flaw in Microsoft Office in attacks in the wild.
+
+
+
+China-linked APT group TA413 has been observed exploiting the recently disclosed Follina zero-day flaw (tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt: Paying Karakurt extortion ransoms won’t stop data leaks<a href="https://www.bleepingcomputer.com/news/security/us-govt-paying-karakurt-extortion-ransoms-won-t-stop-data-leaks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several U.S. federal agencies warned organizations today against paying ransom demands made by the Karakurt gang since that will not prevent their stolen data from being sold to others. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Browser Automation Framework is the New Threat<a href="https://cyware.com/news/browser-automation-framework-is-the-new-threat-605f08b8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have warned against the increased use of free-to-use browser automation frameworks by attackers that can be abused in malicious activities.&nbsp; Researchers  observed  C2 IP addresses linked with malware such as BlackGuard, Bumblebee, and RedLine Stealer communicating with the subdomai ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New XLoader Botnet Version Using Probability Theory to Hide its C&C Servers<a href="https://thehackernews.com/2022/06/new-xloader-botnet-version-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An enhanced version of the XLoader malware has been spotted adopting a probability-based approach to camouflage its command-and-control (C&C) infrastructure, according to the latest research.  "Now it is significantly harder to separate the wheat from the chaff and discover the real C&C servers among thousands of legitimate domains used by Xloader as a smokescreen," Israeli cybersecurity company Check Point  said .  First spotted in the wild in October 2020, XLoader is a successor to Formbook and a  cross-platform information stealer  that's capable of plundering credentials from web browsers, capturing keystrokes and screenshots, and executing arbitrary commands and payloads.   More recently, the  ongoing geopolitical conflict  between Russia and Ukraine has proved to be a lucrative fodder for  distributing XLoader  by means of  phishing emails  aimed at high-ranking government officials in Ukraine.  The latest findings from Check Point build on a previous repor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive ransomware gang hit Costa Rica public health service<a href="https://securityaffairs.co/wordpress/131837/cyber-crime/costa-rica-cccs-hive-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Costa Rican Social Security Fund, Costa Rica 's public health service, was hit by a Hive ransomware attack.
+
+
+
+Costa Rican Social Security Fund, Costa Rica 's public health service (aka CCCS), was hit today by a Hive ransomware attack, BleepingComputer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RuneScape phishing steals accounts and in-game item bank PINs<a href="https://www.bleepingcomputer.com/news/security/runescape-phishing-steals-accounts-and-in-game-item-bank-pins/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new RuneScape-themed phishing campaign, and it stands out among the various operations for being exceptionally well-crafted.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Devise Attack Using IoT and IT to Deliver Ransomware Against OT<a href="https://www.securityweek.com/researchers-devise-attack-using-iot-and-it-deliver-ransomware-against-ot?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attacks against OT are more difficult to achieve, but the effect is equally more difficult to mitigate. The evolution of cyber extortion makes this more than just a possible development.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows MSDT zero-day vulnerability gets free unofficial patch<a href="https://www.bleepingcomputer.com/news/security/windows-msdt-zero-day-vulnerability-gets-free-unofficial-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free unofficial patch is now available to block ongoing attacks against Windows systems that target a critical zero-day vulnerability known as 'Follina.'
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vendor Refuses to Remove Backdoor Account That Can Facilitate Attacks on Industrial Firms<a href="https://www.securityweek.com/vendor-refuses-remove-backdoor-account-can-facilitate-attacks-industrial-firms?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The existence of the backdoor account, tracked as CVE-2020-12501, was discovered by SEC Consult in 2020, but it was only made public now, after a lengthy disclosure process that ended with the vendor saying that the account will not be removed.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FluBot Android malware operation shutdown by law enforcement<a href="https://www.bleepingcomputer.com/news/security/flubot-android-malware-operation-shutdown-by-law-enforcement/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol has announced the takedown of the FluBot operation, one of the largest and fastest-growing Android malware operations in existence.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminal Scams the City of Portland for $1.4 Million by Compromising Email Account<a href="https://therecord.media/cybercriminal-scams-city-of-portland-ore-for-1-4-million/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Preliminary evidence indicates that an unauthorized, outside entity gained access to a City of Portland email account to conduct this illegal activity,” according to a statement by the city authorities.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideWinder hackers plant fake Android VPN app in Google Play Store<a href="https://www.bleepingcomputer.com/news/security/sidewinder-hackers-plant-fake-android-vpn-app-in-google-play-store/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing campaigns attributed to an advanced threat actor called SideWinder involved a fake VPN app for Android devices published on Google Play Store along with a custom tool that filters victims for better targeting.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Scammers Soliciting Donations Related to the Crisis in Ukraine<a href="https://www.ic3.gov/Media/Y2022/PSA220531?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although the Ukrainian Government and other private organizations do maintain official donation mechanisms, people must be cautious and verify information about entities purporting to solicit aid for causes linked to the crisis in Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+IC3
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attacks need less than four days to encrypt systems<a href="https://www.bleepingcomputer.com/news/security/ransomware-attacks-need-less-than-four-days-to-encrypt-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The duration of ransomware attacks in 2021 averaged 92.5 hours, measured from initial network access to payload deployment. In 2020, ransomware actors spent an average of 230 hours to complete their attacks and 1637.6 hours in 2019.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telegram’s blogging platform abused in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/telegram-s-blogging-platform-abused-in-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telegram's anonymous blogging platform, Telegraph, is being actively exploited by phishing actors who take advantage of the platform's lax policies to set up interim landing pages that lead to the theft of account credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Begin Exploiting Latest Microsoft Office Zero-Day Vulnerability<a href="https://thehackernews.com/2022/05/chinese-hackers-begin-exploiting-latest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) actor aligned with Chinese state interests has been observed weaponizing the new  zero-day flaw  in Microsoft Office to achieve code execution on affected systems.  "TA413 CN APT spotted [in-the-wild] exploiting the Follina zero-day using URLs to deliver ZIP archives which contain Word Documents that use the technique," enterprise security firm Proofpoint  said  in a tweet.  "Campaigns impersonate the 'Women Empowerments Desk' of the Central Tibetan Administration and use the domain tibet-gov.web[.]app."  TA413  is best known for its campaigns aimed at the Tibetan diaspora to deliver implants such as  Exile RAT  and  Sepulcher  as well as a rogue Firefox browser extension dubbed  FriarFox .   The high-severity security flaw, dubbed Follina and tracked as CVE-2022-30190 (CVSS score: 7.8), relates to a case of remote code execution that abuses the "ms-msdt:" protocol URI scheme to execute arbitrary code.  Specific
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 31, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

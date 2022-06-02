@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia's National Disability Insurance Scheme Hit by Breach at Case Management System Provider<a href="https://www.itnews.com.au/news/ndis-case-management-system-provider-breached-580729?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CTARS, a Sydney-based software and analytics provider for the disability and care sectors, this week revealed an unauthorized third-party had gained access to its systems on May 15.
+</details>
+<div style="text-align: right" markdown="1">
+IT News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

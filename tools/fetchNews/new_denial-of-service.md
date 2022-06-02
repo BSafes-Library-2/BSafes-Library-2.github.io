@@ -8,6 +8,21 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+June 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gamaredon Prepares for Next Wave of DDoS Attacks<a href="https://cyware.com/news/gamaredon-prepares-for-next-wave-of-ddos-attacks-11ddb3db"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported a wave of DDoS attacks by the Russian Gamaredon APT group. Also, criminals have open-sourced code of a DDoS trojan called LOIC. Besides, experts observed attackers launch multiple attacks, such as phishing campaigns and malware attacks.&nbsp;Organizations are suggested to stay  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

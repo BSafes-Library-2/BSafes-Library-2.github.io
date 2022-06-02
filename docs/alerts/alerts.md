@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2022 - FBI, CISA, Treasury, FinCEN
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Karakurt Data Extortion Group <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-152a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), the Department of the Treasury (Treasury), and the Financial Crimes Enforcement Network (FinCEN) are releasing this joint Cybersecurity Advisory (CSA) to provide information on the Karakurt data extortion group, also known as the Karakurt Team and Karakurt Lair. Karakurt actors have employed a variety of tactics, techniques, and procedures (TTPs), creating significant challenges for defense and mitigation. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 26, 2022 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

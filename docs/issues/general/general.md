@@ -8,6 +8,52 @@ nav_order: 900072
 
 ## General
 ---
+June 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts uncovered over 3.6M&nbsp;accessible MySQL servers worldwide<a href="https://securityaffairs.co/wordpress/131851/security/3-6-million-mysql-servers-accessible-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered&nbsp;3.6M&nbsp;accessible MySQL servers worldwide that represent a potential attack surface for their owners.
+
+
+
+Researchers from Shadow Server scanned the internet for publicly accessible&nbsp;MySQL&nbsp;server instances on port 3306/TCP...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YODA Tool Found ~47,000 Malicious WordPress Plugins Installed in Over 24,000 Sites<a href="https://thehackernews.com/2022/06/yoda-tool-found-47000-malicious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 47,337 malicious plugins have been uncovered on 24,931 unique websites, out of which 3,685 plugins were sold on legitimate marketplaces, netting the attackers $41,500 in illegal revenues.  The findings come from a new tool called&nbsp; YODA &nbsp;that aims to detect rogue WordPress plugins and track down their origin, according to an 8-year-long study conducted by a group of researchers from the Georgia Institute of Technology.  "Attackers impersonated benign plugin authors and spread malware by distributing pirated plugins," the researchers&nbsp; said &nbsp;in a new paper titled " Mistrust Plugins You Must ."   "The number of malicious plugins on websites has steadily increased over the years, and malicious activity peaked in March 2020. Shockingly, 94% of the malicious plugins installed over those 8 years are still active today."  The large-scale research entailed analyzing WordPress plugins installed in 410,122 unique web servers dating all the way back to 2012
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vendor Refuses to Remove Backdoor Account That Can Facilitate Attacks on Industrial Firms<a href="https://www.securityweek.com/vendor-refuses-remove-backdoor-account-can-facilitate-attacks-industrial-firms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The existence of the backdoor account, tracked as CVE-2020-12501, was discovered by SEC Consult in 2020, but it was only made public now, after a lengthy disclosure process that ended with the vendor saying that the account will not be removed.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

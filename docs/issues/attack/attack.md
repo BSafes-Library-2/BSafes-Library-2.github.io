@@ -8,6 +8,66 @@ nav_order: 900015
 
 ## Attack
 ---
+June 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Elasticsearch databases targeted in ransom attacks<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-elasticsearch-databases-targeted-in-ransom-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A campaign targeting poorly secured Elasticsearch databases has deleted their contents and dropped ransom notes on 450 instances, demanding a payment of $620 to give them back their indexes, totaling a demand of $279,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive ransomware gang hit Costa Rica public health service<a href="https://securityaffairs.co/wordpress/131837/cyber-crime/costa-rica-cccs-hive-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Costa Rican Social Security Fund, Costa Rica 's public health service, was hit by a Hive ransomware attack.
+
+
+
+Costa Rican Social Security Fund, Costa Rica 's public health service (aka CCCS), was hit today by a Hive ransomware attack, BleepingComputer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Devise Attack Using IoT and IT to Deliver Ransomware Against OT<a href="https://www.securityweek.com/researchers-devise-attack-using-iot-and-it-deliver-ransomware-against-ot?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attacks against OT are more difficult to achieve, but the effect is equally more difficult to mitigate. The evolution of cyber extortion makes this more than just a possible development.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attacks need less than four days to encrypt systems<a href="https://www.bleepingcomputer.com/news/security/ransomware-attacks-need-less-than-four-days-to-encrypt-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The duration of ransomware attacks in 2021 averaged 92.5 hours, measured from initial network access to payload deployment. In 2020, ransomware actors spent an average of&nbsp;230 hours to complete their attacks and 1637.6 hours in 2019.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
