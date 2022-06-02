@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2022
+June 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Windows Search zero-day added to Microsoft protocol nightmare<a href="https://www.bleepingcomputer.com/news/security/new-windows-search-zero-day-added-to-microsoft-protocol-nightmare/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2022
+June 1, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Activities by Clop and REvil - Copycats or Final Wrapups?<a href="https://cyware.com/news/new-activities-by-clop-and-revil-copycats-or-final-wrapups-6760ccbb"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2022
+June 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Unpatched Horde Webmail Bug Lets Hackers Take Over Server by Sending Email<a href="https://thehackernews.com/2022/06/new-unpatched-horde-webmail-bug-lets.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2022
+June 1, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New XLoader Botnet version uses new techniques to obscure its C2 servers<a href="https://securityaffairs.co/wordpress/131860/cyber-crime/xloader-botnet-obscures-c2.html"> Full Text</a>
@@ -103,7 +103,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2022
+June 01, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of Elasticsearch databases targeted in ransom attacks<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-elasticsearch-databases-targeted-in-ransom-attacks/"> Full Text</a>
@@ -119,7 +119,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2022
+June 1, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gamaredon Prepares for Next Wave of DDoS Attacks<a href="https://cyware.com/news/gamaredon-prepares-for-next-wave-of-ddos-attacks-11ddb3db"> Full Text</a>
@@ -136,7 +136,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2022
+June 01, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FluBot Android Spyware Taken Down in Global Law Enforcement Operation<a href="https://thehackernews.com/2022/06/flubot-android-spyware-taken-down-by.html"> Full Text</a>
@@ -152,7 +152,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2022
+June 1, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts uncovered over 3.6M accessible MySQL servers worldwide<a href="https://securityaffairs.co/wordpress/131851/security/3-6-million-mysql-servers-accessible-online.html"> Full Text</a>
@@ -172,7 +172,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2022
+June 01, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI seizes domains used to sell stolen data, DDoS services<a href="https://www.bleepingcomputer.com/news/security/fbi-seizes-domains-used-to-sell-stolen-data-ddos-services/"> Full Text</a>
@@ -188,7 +188,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2022
+June 1, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EnemyBot Botnet Expanding its Scope by Targeting Latest Vulnerabilities<a href="https://cyware.com/news/enemybot-botnet-expanding-its-scope-by-targeting-latest-vulnerabilities-8dd02539"> Full Text</a>
@@ -205,7 +205,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2022
+June 01, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 YODA Tool Found ~47,000 Malicious WordPress Plugins Installed in Over 24,000 Sites<a href="https://thehackernews.com/2022/06/yoda-tool-found-47000-malicious.html"> Full Text</a>
@@ -221,7 +221,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2022
+June 1, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked TA413 group actively exploits Microsoft Follina zero-day flaw<a href="https://securityaffairs.co/wordpress/131843/apt/china-apt-exploits-follina-flaw.html"> Full Text</a>
@@ -241,7 +241,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2022
+June 01, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt: Paying Karakurt extortion ransoms won’t stop data leaks<a href="https://www.bleepingcomputer.com/news/security/us-govt-paying-karakurt-extortion-ransoms-won-t-stop-data-leaks/"> Full Text</a>
@@ -257,7 +257,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2022
+June 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Browser Automation Framework is the New Threat<a href="https://cyware.com/news/browser-automation-framework-is-the-new-threat-605f08b8"> Full Text</a>
@@ -274,7 +274,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2022
+June 01, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New XLoader Botnet Version Using Probability Theory to Hide its C&C Servers<a href="https://thehackernews.com/2022/06/new-xloader-botnet-version-using.html"> Full Text</a>
@@ -290,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2022
+June 1, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive ransomware gang hit Costa Rica public health service<a href="https://securityaffairs.co/wordpress/131837/cyber-crime/costa-rica-cccs-hive-ransomware.html"> Full Text</a>
@@ -310,7 +310,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2022
+June 01, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RuneScape phishing steals accounts and in-game item bank PINs<a href="https://www.bleepingcomputer.com/news/security/runescape-phishing-steals-accounts-and-in-game-item-bank-pins/"> Full Text</a>
@@ -326,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2022
+June 1, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Devise Attack Using IoT and IT to Deliver Ransomware Against OT<a href="https://www.securityweek.com/researchers-devise-attack-using-iot-and-it-deliver-ransomware-against-ot?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2022
+June 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows MSDT zero-day vulnerability gets free unofficial patch<a href="https://www.bleepingcomputer.com/news/security/windows-msdt-zero-day-vulnerability-gets-free-unofficial-patch/"> Full Text</a>
@@ -358,7 +358,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2022
+June 1, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vendor Refuses to Remove Backdoor Account That Can Facilitate Attacks on Industrial Firms<a href="https://www.securityweek.com/vendor-refuses-remove-backdoor-account-can-facilitate-attacks-industrial-firms?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2022
+June 01, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FluBot Android malware operation shutdown by law enforcement<a href="https://www.bleepingcomputer.com/news/security/flubot-android-malware-operation-shutdown-by-law-enforcement/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2022
+June 1, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminal Scams the City of Portland for $1.4 Million by Compromising Email Account<a href="https://therecord.media/cybercriminal-scams-city-of-portland-ore-for-1-4-million/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2022
+June 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SideWinder hackers plant fake Android VPN app in Google Play Store<a href="https://www.bleepingcomputer.com/news/security/sidewinder-hackers-plant-fake-android-vpn-app-in-google-play-store/"> Full Text</a>
@@ -422,7 +422,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2022
+June 1, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns of Scammers Soliciting Donations Related to the Crisis in Ukraine<a href="https://www.ic3.gov/Media/Y2022/PSA220531?&web_view=true"> Full Text</a>
@@ -438,7 +438,7 @@ IC3
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2022
+June 01, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attacks need less than four days to encrypt systems<a href="https://www.bleepingcomputer.com/news/security/ransomware-attacks-need-less-than-four-days-to-encrypt-systems/"> Full Text</a>
@@ -454,7 +454,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 01, 2022
+June 01, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telegram’s blogging platform abused in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/telegram-s-blogging-platform-abused-in-phishing-attacks/"> Full Text</a>
@@ -470,7 +470,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2022
+May 31, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Begin Exploiting Latest Microsoft Office Zero-Day Vulnerability<a href="https://thehackernews.com/2022/05/chinese-hackers-begin-exploiting-latest.html"> Full Text</a>

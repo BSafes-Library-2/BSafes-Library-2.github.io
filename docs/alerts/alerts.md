@@ -19,6 +19,18 @@ The Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2022 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The FBI Warns of Scammers Soliciting Donations Related to the Crisis in Ukraine <a href="https://www.ic3.gov/Media/Y2022/PSA220531"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns the public of fraudulent schemes seeking donations or other financial assistance related to the crisis in Ukraine.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 26, 2022 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
