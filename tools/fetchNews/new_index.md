@@ -34,6 +34,610 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab security update fixes critical account take over flaw<a href="https://www.bleepingcomputer.com/news/security/gitlab-security-update-fixes-critical-account-take-over-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has released a critical security update for multiple versions of its Community and Enterprise Edition products to address eight vulnerabilities, one of which allows account takeover.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Logging and Security Analytics Firm Devo Banks New $100 Million Investment<a href="https://www.securityweek.com/logging-and-security-analytics-firm-devo-banks-new-100-million-investment?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series F round was led by Eurazeo, a global investment firm with over $30 billion in assets under management.  Existing investors Insight Partners, Georgian, TCV, General Atlantic, Bessemer Venture Partners, and Kibo Ventures also participated.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese LuoYu Hackers Using Man-on-the-Side Attacks to Deploy WinDealer Backdoor<a href="https://thehackernews.com/2022/06/chinese-luoyu-hackers-using-man-on-side.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An "extremely sophisticated" Chinese-speaking advanced persistent threat (APT) actor dubbed  LuoYu  has been observed using a malicious Windows tool called WinDealer that's delivered by means of man-on-the-side attacks.  "This groundbreaking development allows the actor to modify network traffic in-transit to insert malicious payloads," Russian cybersecurity company Kaspersky  said  in a new report. "Such attacks are especially dangerous and devastating because they do not require any interaction with the target to lead to a successful infection."  Known to be active since 2008, organizations targeted by LuoYu are predominantly foreign diplomatic organizations established in China and members of the academic community as well as financial, defense, logistics, and telecommunications companies.   LuoYu's use of  WinDealer  was first documented by Taiwanese cybersecurity firm  TeamT5  at the Japan Security Analyst Conference (JSAC) in January 2021. S
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clipminer Botnet already allowed operators to make at least $1.7 Million<a href="https://securityaffairs.co/wordpress/131913/malware/clipminer-botnet-1-7-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Clipminer botnet allowed operators to earn at least $1.7 million, according to a report published by security researchers at Symantec.
+
+
+
+Researchers at Symantec’s Threat Hunter Team uncovered a cryptomining operation that has potentially made...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Ultimate SaaS Security Posture Management (SSPM) Checklist<a href="https://threatpost.com/ultimate-saas-security-posture-checklist/179771/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As one might expect, not all SSPM solutions are created equal. Monitoring, alerts, and remediation should sit at the heart of your SSPM solution. They ensure that any vulnerabilities are quickly closed before they are exploited by cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exiled Iran Group Claims Tehran Hacking Attack<a href="https://www.securityweek.com/exiled-iran-group-claims-tehran-hacking-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian state media said earlier that the internal computer system of the municipality of Tehran was targeted in a "deliberate" shutdown Thursday in the latest apparent cyberattack in the country.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Malware Controlling Thousands of Sites in Parrot TDS Network<a href="https://thehackernews.com/2022/06/researchers-uncover-malware-controlling.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Parrot traffic direction system (TDS) that came to light earlier this year has had a larger impact than previously thought, according to new research.  Sucuri, which has been tracking the same campaign since February 2019 under the name "NDSW/NDSX," said that "the malware was one of the top infections" detected in 2021, accounting for more than 61,000 websites.  Parrot TDS was  documented  in April 2022 by Czech cybersecurity company Avast, noting that the PHP script had ensnared web servers hosting more than 16,500 websites to act as a gateway for further attack campaigns.  This involves appending a piece of malicious code to all JavaScript files on compromised web servers hosting content management systems (CMS) such as WordPress that are in turn said to be breached by taking advantage of weak login credentials and vulnerable plugins.   Besides using different obfuscation tactics to conceal the code, the "injected JavaScript may also be found well indent
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert! Unpatched critical Atlassian Confluence Zero-Day RCE flaw actively exploited<a href="https://securityaffairs.co/wordpress/131909/hacking/atlassian-confluence-zero-day-cve-2022-26134.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian warned of an actively exploited critical unpatched remote code execution flaw (CVE-2022-26134) in Confluence Server and Data Center products.
+
+
+
+Atlassian is warning of a critical unpatched remote code execution vulnerability affecting all Confluence...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's draft cybersecurity rules pose risks for financial firms, lobby group warns<a href="https://www.reuters.com/world/china/chinas-draft-cybersecurity-rules-pose-risks-financial-firms-lobby-group-warns-2022-06-02/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China's proposed cybersecurity rules for financial firms could pose risks to the operations of western companies by making their data vulnerable to hacking, among other things, a leading lobby group has said in a letter seen by Reuters.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Blocks Iran-linked Lebanese Hackers Targeting Israeli Companies<a href="https://thehackernews.com/2022/06/microsoft-blocks-iran-linked-lebanese.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday said it took steps to disable malicious activity stemming from abuse of OneDrive by a previously undocumented threat actor it tracks under the chemical element-themed moniker Polonium.  In addition to removing the offending accounts created by the Lebanon-based activity group, the tech giant's Threat Intelligence Center (MSTIC) said it suspended over 20 malicious OneDrive applications created and that it notified affected organizations.  "The observed activity was coordinated with other actors affiliated with Iran's Ministry of Intelligence and Security (MOIS), based primarily on victim overlap and commonality of tools and techniques," MSTIC  assessed  with "moderate confidence."   The adversarial collective is believed to have breached more than 20 organizations based in Israel and one intergovernmental organization with operations in Lebanon since February 2022.  Targets of interest included entities in the manufacturing, IT, transpo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft blocked Polonium attacks against Israeli organizations<a href="https://securityaffairs.co/wordpress/131902/hacking/microsoft-blocked-polonium-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft blocked an attack activity aimed at Israeli organizations attributed to a previously unknown Lebanon-based hacking group tracked as POLONIUM.
+
+
+
+Microsoft announced to have blocked a series of attacks targeting Israeli organizations that have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia is ‘failing’ in its mission to destabilize Ukraine’s networks after a series of thwarted cyber-attacks<a href="https://portswigger.net/daily-swig/insight-russia-is-failing-in-its-mission-to-destabilize-ukraines-networks-after-a-series-of-thwarted-cyber-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since even before its invasion of Ukraine began on February 24, 2022, Russia has conducted a series of cyberattacks against both the country’s internet infrastructure and other critical services in an attempt to destabilize Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clipminer Botnet Operators Rake in $1.7 Million Through Cryptomining<a href="https://www.securityweek.com/report-clipminer-botnet-operators-rake-17-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spreading via trojanized cracked or pirated software, the Clipminer trojan shows similarities with the cryptomining trojan KryptoCibule, suggesting that it could be either a copycat or an evolution of the latter.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Has the Time for an EU-U.S. Agreement on E-Evidence Come and Gone?<a href="https://www.lawfareblog.com/has-time-eu-us-agreement-e-evidence-come-and-gone"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the past several years, Europe and the United States have put in place numerous incentives for an overarching consensual solution to the problem of foreign access to evidence in electronic form. However, a legislative deadlock in Brussels risks the future of U.S.-EU negotiations.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Turns Out It Is Not 85 Percent<a href="https://www.lawfareblog.com/turns-out-it-not-85-percent"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently published paper from three George Washington University students refutes a commonly cited statistic about ownership of critical infrastructure and offers a more accurate portrayal of public and private ownership.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Atlassian Confluence zero-day actively used in attacks<a href="https://www.bleepingcomputer.com/news/security/critical-atlassian-confluence-zero-day-actively-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are actively exploiting a new Atlassian Confluence zero-day vulnerability tracked as CVE-2022-26134 to install web shells, with no fix available at this time.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Challenge Digital Executive Protection Poses to Enterprise Security Teams<a href="https://threatpost.com/executive-protection-digital-security/179803/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISOs do heroic work protecting their executives when inside the organization’s four walls. But risks originating in personal digital lives present a challenge that enterprise security teams cannot solve, even if they wanted to.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 10 Android banking trojans target apps with 1 billion downloads<a href="https://www.bleepingcomputer.com/news/security/top-10-android-banking-trojans-target-apps-with-1-billion-downloads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ten most prolific Android mobile banking trojans target 639 financial applications that collectively have over one billion downloads on the Google Play Store.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Target NFT Discord Channel<a href="https://threatpost.com/scammers-target-nft-discord-channel/179827/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers escalate phishing and scamming attacks to exploit popular Discord bot and persuade users to click on the malicious links.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp switches to LockBit ransomware to evade sanctions<a href="https://www.bleepingcomputer.com/news/security/evil-corp-switches-to-lockbit-ransomware-to-evade-sanctions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Evil Corp cybercrime group has now switched to deploying LockBit ransomware on targets' networks to evade sanctions imposed by the U.S. Treasury Department's Office of Foreign Assets Control (OFAC).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Unpatched Critical Atlassian Confluence Zero-Day Vulnerability<a href="https://thehackernews.com/2022/06/hackers-exploiting-unpatched-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has warned of a critical unpatched remote code execution vulnerability impacting Confluence Server and Data Center products that it said is being actively exploited in the wild.  The Australian software company credited cybersecurity firm Volexity for identifying the flaw, which is being tracked as  CVE-2022-26134 .  "Atlassian has been made aware of current active exploitation of a critical severity unauthenticated remote code execution vulnerability in Confluence Data Center and Server," it  said  in an advisory.  "There are currently no fixed versions of Confluence Server and Data Center available. Atlassian is working with the highest priority to issue a fix." Specifics of the security flaw have been withheld until a software patch is available.   All supported versions of Confluence Server and Data Center are affected, although it's expected that all versions of the enterprise solution are potentially vulnerable. The earliest impacted version is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware attack impacted production in a Mexican Foxconn plant<a href="https://securityaffairs.co/wordpress/131891/cyber-crime/lockbit-ransomware-foxconn-plant-mexico.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware gang claimed responsibility for an attack against the electronics manufacturing giant Foxconn that impacted production in Mexico
+
+
+
+The electronics manufacturing giant Foxconn confirmed that its production plant in Tijuana (Mexico)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Being Prepared for Adversarial Attacks – Podcast<a href="https://threatpost.com/threatpost-manky-fortinet/179821/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is no question that the level of threats facing today’s businesses continues to change on a daily basis. So what are the trends that CISOs need to be on the lookout for? For this episode of the Threatpost podcast, I am joined by Derek Manky, Chief Security Strategist & VP Global Threat Intelligence, Fortinet’s […]
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang now hacks corporate websites to show ransom notes<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-now-hacks-corporate-websites-to-show-ransom-notes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware gang is taking extortion to a new level by publicly hacking corporate websites to publicly display ransom notes.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Detection Software: A Deep Dive<a href="https://thehackernews.com/2022/06/threat-detection-software-deep-dive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the threat landscape evolves and multiplies with more advanced attacks than ever, defending against these modern cyber threats is a monumental challenge for almost any organization.   Threat detection is about an organization's ability to accurately identify threats, be it to the network, an endpoint, another asset or an application – including cloud infrastructure and assets. At scale, threat detection analyzes the entire security infrastructure to identify malicious activity that could compromise the ecosystem.  Countless solutions support threat detection, but the key is to have as much data as possible available to bolster your security visibility. If you don't know what is happening on your systems, threat detection is impossible.   Deploying the right security software is critical for protecting you from threats.  What do we mean by threat detection software?  In the early days of threat detection, software was deployed to protect against different forms of malware. However,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti leaked chats confirm that the gang’s ability to conduct firmware-based attacks<a href="https://securityaffairs.co/wordpress/131885/hacking/conti-leaked-chat-firmware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The analysis of the internal chats of the Conti ransomware group revealed the gang was working on firmware attack techniques.
+
+
+
+The analysis of Conti group's chats, which were leaked earlier this year, revealed that the ransomware gang has been...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft blocks Polonium hackers from using OneDrive in attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-blocks-polonium-hackers-from-using-onedrive-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said it blocked a Lebanon-based hacking group it tracks as Polonium from using the OneDrive cloud storage platform for data exfiltration and command and control while targeting and compromising Israelian organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Leaks Reveal Ransomware Gang's Interest in Firmware-based Attacks<a href="https://thehackernews.com/2022/06/conti-leaks-reveal-ransomware-gangs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of  leaked chats  from the notorious  Conti ransomware group  earlier this year has revealed that the syndicate has been working on a set of firmware attack techniques that could offer a path to accessing privileged code on compromised devices.  "Control over firmware gives attackers virtually unmatched powers both to directly cause damage and to enable other long-term strategic goals," firmware and hardware security firm Eclypsium  said  in a report shared with The Hacker News.  "Such level of access would allow an adversary to cause irreparable damage to a system or to establish ongoing persistence that is virtually invisible to the operating system."   Specifically, this includes attacks aimed at embedded microcontrollers such as the Intel  Management Engine  ( ME ), a privileged component that's part of the company's processor chipsets and which can completely bypass the operating system.  It's worth noting that the reason for this evolv
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An international police operation dismantled FluBot spyware<a href="https://securityaffairs.co/wordpress/131878/malware/flubot-android-malware-takedown.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation involving 11 countries resulted in the takedown of the FluBot Android malware.
+
+
+
+An international law enforcement operation involving 11 countries led to the takedown of the infamous FluBot Android malware....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese LuoYu hackers deploy cyber-espionage malware via app updates<a href="https://www.bleepingcomputer.com/news/security/chinese-luoyu-hackers-deploy-cyber-espionage-malware-via-app-updates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking hacking group known as LuoYu is infecting victims WinDealer information stealer malware deployed by switching legitimate app updates with malicious payloads in man-on-the-side attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Demonstrate Ransomware for IoT Devices That Targets IT and OT Networks<a href="https://thehackernews.com/2022/06/researchers-demonstrate-ransomware-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As ransomware infections have evolved from purely encrypting data to schemes such as double and triple extortion, a new attack vector is likely to set the stage for future campaigns.  Called Ransomware for IoT or  R4IoT  by Forescout, it's a "novel, proof-of-concept ransomware that exploits an IoT device to gain access and move laterally in an IT [information technology] network and impact the OT [operational technology] network."  This potential pivot is based on the rapid growth in the number of IoT devices as well as the convergence of IT and OT networks in organizations.   The ultimate goal of R4IoT is to leverage exposed and vulnerable IoT devices such as IP cameras to gain an initial foothold, followed by deploying ransomware in the IT network and taking advantage of poor operational security practices to hold mission-critical processes hostage.  "By compromising IoT, IT, and OT assets, R4IoT goes beyond the usual encryption and data exfiltration to cause phys
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A critical RCE flaw in Horde Webmail has yet to be addressed<a href="https://securityaffairs.co/wordpress/131870/hacking/rce-flaw-horde-webmail.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A remote code execution vulnerability in the open-source Horde Webmail client can allow to take over servers by sending a specially crafted email.
+
+
+
+Researchers from SonarSource discovered a remote code execution vulnerability (CVE-2022-30287) in the open-source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware targeted Intel firmware for stealthy attacks<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-targeted-intel-firmware-for-stealthy-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers analyzing the leaked chats of the notorious Conti ransomware operation have discovered that teams inside the Russian cybercrime group were actively developing firmware hacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clipminer malware gang stole $1.7M by hijacking crypto payments<a href="https://www.bleepingcomputer.com/news/security/clipminer-malware-gang-stole-17m-by-hijacking-crypto-payments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have discovered a large operation of a new cryptocurrency mining malware called Clipminer that brought its operators at least $1.7 million from transaction hijacking.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foxconn confirms ransomware attack disrupted production in Mexico<a href="https://www.bleepingcomputer.com/news/security/foxconn-confirms-ransomware-attack-disrupted-production-in-mexico/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Foxconn electronics manufacturer has confirmed that one of its Mexico-based production plants has been impacted by a ransomware attack in late May.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Workaround for ‘One-Click’ 0Day Under Active Attack<a href="https://threatpost.com/microsoft-workaround-0day-attack/179776/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors already are exploiting vulnerability, dubbed ‘Follina’ and originally identified back in April, to target organizations in Russia and Tibet, researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
