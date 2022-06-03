@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+June 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti leaked chats confirm that the gang’s ability to conduct firmware-based attacks<a href="https://securityaffairs.co/wordpress/131885/hacking/conti-leaked-chat-firmware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The analysis of the internal chats of the Conti ransomware group&nbsp;revealed the gang was working on firmware attack techniques.
+
+
+
+The analysis of&nbsp;Conti group's chats, which were leaked&nbsp;earlier this year, revealed that the ransomware gang has been...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,126 @@ nav_order: 900015
 
 ## Attack
 ---
+June 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese LuoYu Hackers Using Man-on-the-Side Attacks to Deploy WinDealer Backdoor<a href="https://thehackernews.com/2022/06/chinese-luoyu-hackers-using-man-on-side.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An "extremely sophisticated" Chinese-speaking advanced persistent threat (APT) actor dubbed&nbsp; LuoYu &nbsp;has been observed using a malicious Windows tool called WinDealer that's delivered by means of man-on-the-side attacks.  "This groundbreaking development allows the actor to modify network traffic in-transit to insert malicious payloads," Russian cybersecurity company Kaspersky&nbsp; said &nbsp;in a new report. "Such attacks are especially dangerous and devastating because they do not require any interaction with the target to lead to a successful infection."  Known to be active since 2008, organizations targeted by LuoYu are predominantly foreign diplomatic organizations established in China and members of the academic community as well as financial, defense, logistics, and telecommunications companies.   LuoYu's use of&nbsp; WinDealer &nbsp;was first documented by Taiwanese cybersecurity firm&nbsp; TeamT5 &nbsp;at the Japan Security Analyst Conference (JSAC) in January 2021. S
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Blocks Iran-linked Lebanese Hackers Targeting Israeli Companies<a href="https://thehackernews.com/2022/06/microsoft-blocks-iran-linked-lebanese.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday said it took steps to disable malicious activity stemming from abuse of OneDrive by a previously undocumented threat actor it tracks under the chemical element-themed moniker Polonium.  In addition to removing the offending accounts created by the Lebanon-based activity group, the tech giant's Threat Intelligence Center (MSTIC) said it suspended over 20 malicious OneDrive applications created and that it notified affected organizations.  "The observed activity was coordinated with other actors affiliated with Iran's Ministry of Intelligence and Security (MOIS), based primarily on victim overlap and commonality of tools and techniques," MSTIC&nbsp; assessed &nbsp;with "moderate confidence."   The adversarial collective is believed to have breached more than 20 organizations based in Israel and one intergovernmental organization with operations in Lebanon since February 2022.  Targets of interest included entities in the manufacturing, IT, transpo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft blocked Polonium attacks against Israeli organizations<a href="https://securityaffairs.co/wordpress/131902/hacking/microsoft-blocked-polonium-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft blocked an attack activity aimed at Israeli organizations attributed to a previously unknown Lebanon-based hacking group tracked as POLONIUM.
+
+
+
+Microsoft announced to have blocked a series of attacks targeting Israeli organizations that have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia is ‘failing’ in its mission to destabilize Ukraine’s networks after a series of thwarted cyber-attacks<a href="https://portswigger.net/daily-swig/insight-russia-is-failing-in-its-mission-to-destabilize-ukraines-networks-after-a-series-of-thwarted-cyber-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since even before its invasion of Ukraine began on February 24, 2022, Russia has conducted a series of cyberattacks against both the country’s internet infrastructure and other critical services in an attempt to destabilize Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Atlassian Confluence zero-day actively used in attacks<a href="https://www.bleepingcomputer.com/news/security/critical-atlassian-confluence-zero-day-actively-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are actively exploiting a new Atlassian Confluence zero-day vulnerability tracked as CVE-2022-26134 to install web shells, with no fix available at this time.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware attack impacted production in a Mexican Foxconn plant<a href="https://securityaffairs.co/wordpress/131891/cyber-crime/lockbit-ransomware-foxconn-plant-mexico.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware gang claimed responsibility for an attack against the electronics manufacturing giant Foxconn that impacted production in Mexico
+
+
+
+The electronics manufacturing giant Foxconn confirmed that its production plant in Tijuana (Mexico)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft blocks Polonium hackers from using OneDrive in attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-blocks-polonium-hackers-from-using-onedrive-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said&nbsp;it blocked a&nbsp;Lebanon-based hacking group it tracks as Polonium from using the&nbsp;OneDrive&nbsp;cloud storage platform for data exfiltration and command and control while targeting and compromising&nbsp;Israelian organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese LuoYu hackers deploy cyber-espionage malware via app updates<a href="https://www.bleepingcomputer.com/news/security/chinese-luoyu-hackers-deploy-cyber-espionage-malware-via-app-updates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking hacking group known as&nbsp;LuoYu is infecting victims WinDealer&nbsp;information stealer malware deployed by switching legitimate&nbsp;app updates&nbsp;with malicious payloads in man-on-the-side attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

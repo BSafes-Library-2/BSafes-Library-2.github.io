@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Unpatched Critical Atlassian Confluence Zero-Day Vulnerability<a href="https://thehackernews.com/2022/06/hackers-exploiting-unpatched-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has warned of a critical unpatched remote code execution vulnerability impacting Confluence Server and Data Center products that it said is being actively exploited in the wild.  The Australian software company credited cybersecurity firm Volexity for identifying the flaw, which is being tracked as&nbsp; CVE-2022-26134 .  "Atlassian has been made aware of current active exploitation of a critical severity unauthenticated remote code execution vulnerability in Confluence Data Center and Server," it&nbsp; said &nbsp;in an advisory.  "There are currently no fixed versions of Confluence Server and Data Center available. Atlassian is working with the highest priority to issue a fix." Specifics of the security flaw have been withheld until a software patch is available.   All supported versions of Confluence Server and Data Center are affected, although it's expected that all versions of the enterprise solution are potentially vulnerable. The earliest impacted version is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

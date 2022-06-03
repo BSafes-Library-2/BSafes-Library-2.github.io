@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Detection Software: A Deep Dive<a href="https://thehackernews.com/2022/06/threat-detection-software-deep-dive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the threat landscape evolves and multiplies with more advanced attacks than ever, defending against these modern cyber threats is a monumental challenge for almost any organization.&nbsp;  Threat detection is about an organization's ability to accurately identify threats, be it to the network, an endpoint, another asset or an application – including cloud infrastructure and assets. At scale, threat detection analyzes the entire security infrastructure to identify malicious activity that could compromise the ecosystem.  Countless solutions support threat detection, but the key is to have as much data as possible available to bolster your security visibility. If you don't know what is happening on your systems, threat detection is impossible.&nbsp;  Deploying the right security software is critical for protecting you from threats.  What do we mean by threat detection software?  In the early days of threat detection, software was deployed to protect against different forms of malware. However,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

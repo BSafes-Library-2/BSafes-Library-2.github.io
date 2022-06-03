@@ -8,6 +8,70 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab security update fixes critical account take over flaw<a href="https://www.bleepingcomputer.com/news/security/gitlab-security-update-fixes-critical-account-take-over-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has released a critical security update for multiple versions of its Community and Enterprise Edition products to address eight vulnerabilities, one of which allows account takeover.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert! Unpatched critical Atlassian Confluence Zero-Day RCE flaw actively exploited<a href="https://securityaffairs.co/wordpress/131909/hacking/atlassian-confluence-zero-day-cve-2022-26134.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian warned of an actively exploited critical unpatched remote code execution flaw (CVE-2022-26134) in Confluence Server and Data Center products.
+
+
+
+Atlassian is warning of a critical unpatched remote code execution vulnerability affecting all Confluence...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A critical RCE flaw in Horde Webmail has yet to be addressed<a href="https://securityaffairs.co/wordpress/131870/hacking/rce-flaw-horde-webmail.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A remote code execution vulnerability in the open-source Horde Webmail client can allow to take over servers by sending a specially crafted email.
+
+
+
+Researchers from SonarSource discovered a remote code execution vulnerability (CVE-2022-30287) in the open-source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Workaround for ‘One-Click’ 0Day Under Active Attack<a href="https://threatpost.com/microsoft-workaround-0day-attack/179776/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors already are exploiting vulnerability, dubbed ‘Follina’ and originally identified back in April, to target organizations in Russia and Tibet, researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

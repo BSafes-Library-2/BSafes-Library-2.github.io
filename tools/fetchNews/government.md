@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+June 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt: Paying Karakurt extortion ransoms won’t stop data leaks<a href="https://www.bleepingcomputer.com/news/security/us-govt-paying-karakurt-extortion-ransoms-won-t-stop-data-leaks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several U.S. federal agencies warned organizations today against paying ransom demands made by the Karakurt gang since that will not prevent their stolen data from being sold to others.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Scammers Soliciting Donations Related to the Crisis in Ukraine<a href="https://www.ic3.gov/Media/Y2022/PSA220531?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although the Ukrainian Government and other private organizations do maintain official donation mechanisms, people must be cautious and verify information about entities purporting to solicit aid for causes linked to the crisis in Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+IC3
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

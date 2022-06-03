@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+June 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Logging and Security Analytics Firm Devo Banks New $100 Million Investment<a href="https://www.securityweek.com/logging-and-security-analytics-firm-devo-banks-new-100-million-investment?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series F round was led by Eurazeo, a global investment firm with over $30 billion in assets under management.  Existing investors Insight Partners, Georgian, TCV, General Atlantic, Bessemer Venture Partners, and Kibo Ventures also participated.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

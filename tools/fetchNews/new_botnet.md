@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clipminer Botnet already allowed operators to make at least $1.7 Million<a href="https://securityaffairs.co/wordpress/131913/malware/clipminer-botnet-1-7-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Clipminer botnet allowed operators to earn at least $1.7 million, according to a report published by security researchers at Symantec.
+
+
+
+Researchers at Symantec’s Threat Hunter Team uncovered a cryptomining operation that has potentially made...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

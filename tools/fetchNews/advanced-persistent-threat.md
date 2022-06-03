@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked TA413 group actively exploits Microsoft Follina zero-day flaw<a href="https://securityaffairs.co/wordpress/131843/apt/china-apt-exploits-follina-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked APT group is actively exploiting the recently disclosed Follina&nbsp;zero-day flaw&nbsp;in Microsoft Office in attacks in the wild.
+
+
+
+China-linked APT group TA413 has been observed exploiting the recently disclosed Follina&nbsp;zero-day flaw (tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Begin Exploiting Latest Microsoft Office Zero-Day Vulnerability<a href="https://thehackernews.com/2022/05/chinese-hackers-begin-exploiting-latest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) actor aligned with Chinese state interests has been observed weaponizing the new&nbsp; zero-day flaw &nbsp;in Microsoft Office to achieve code execution on affected systems.  "TA413 CN APT spotted [in-the-wild] exploiting the Follina zero-day using URLs to deliver ZIP archives which contain Word Documents that use the technique," enterprise security firm Proofpoint&nbsp; said &nbsp;in a tweet.  "Campaigns impersonate the 'Women Empowerments Desk' of the Central Tibetan Administration and use the domain tibet-gov.web[.]app."  TA413 &nbsp;is best known for its campaigns aimed at the Tibetan diaspora to deliver implants such as&nbsp; Exile RAT &nbsp;and&nbsp; Sepulcher &nbsp;as well as a rogue Firefox browser extension dubbed&nbsp; FriarFox .   The high-severity security flaw, dubbed Follina and tracked as CVE-2022-30190 (CVSS score: 7.8), relates to a case of remote code execution that abuses the "ms-msdt:" protocol URI scheme to execute arbitrary code.  Specific
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Demonstrate Ransomware for IoT Devices That Targets IT and OT Networks<a href="https://thehackernews.com/2022/06/researchers-demonstrate-ransomware-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As ransomware infections have evolved from purely encrypting data to schemes such as double and triple extortion, a new attack vector is likely to set the stage for future campaigns.  Called Ransomware for IoT or&nbsp; R4IoT &nbsp;by Forescout, it's a "novel, proof-of-concept ransomware that exploits an IoT device to gain access and move laterally in an IT [information technology] network and impact the OT [operational technology] network."  This potential pivot is based on the rapid growth in the number of IoT devices as well as the convergence of IT and OT networks in organizations.   The ultimate goal of R4IoT is to leverage exposed and vulnerable IoT devices such as IP cameras to gain an initial foothold, followed by deploying ransomware in the IT network and taking advantage of poor operational security practices to hold mission-critical processes hostage.  "By compromising IoT, IT, and OT assets, R4IoT goes beyond the usual encryption and data exfiltration to cause phys
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware targeted Intel firmware for stealthy attacks<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-targeted-intel-firmware-for-stealthy-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers analyzing the leaked chats of the notorious Conti ransomware operation have discovered that teams inside the Russian cybercrime group were actively developing firmware hacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

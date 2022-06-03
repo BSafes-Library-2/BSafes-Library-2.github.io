@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+June 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exiled Iran Group Claims Tehran Hacking Attack<a href="https://www.securityweek.com/exiled-iran-group-claims-tehran-hacking-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian state media said earlier that the internal computer system of the municipality of Tehran was targeted in a "deliberate" shutdown Thursday in the latest apparent cyberattack in the country.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foxconn confirms ransomware attack disrupted production in Mexico<a href="https://www.bleepingcomputer.com/news/security/foxconn-confirms-ransomware-attack-disrupted-production-in-mexico/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Foxconn electronics manufacturer has confirmed that one of its Mexico-based production plants has been impacted by a ransomware attack in late May.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

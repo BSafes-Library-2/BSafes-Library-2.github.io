@@ -8,6 +8,94 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clipminer Botnet Operators Rake in $1.7 Million Through Cryptomining<a href="https://www.securityweek.com/report-clipminer-botnet-operators-rake-17-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spreading via trojanized cracked or pirated software, the Clipminer trojan shows similarities with the cryptomining trojan KryptoCibule, suggesting that it could be either a copycat or an evolution of the latter.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp switches to LockBit ransomware to evade sanctions<a href="https://www.bleepingcomputer.com/news/security/evil-corp-switches-to-lockbit-ransomware-to-evade-sanctions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Evil Corp cybercrime group has now switched to deploying LockBit ransomware on targets' networks to evade sanctions imposed by the U.S. Treasury Department's Office of Foreign Assets Control (OFAC).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang now hacks corporate websites to show ransom notes<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-now-hacks-corporate-websites-to-show-ransom-notes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware gang is taking extortion to a new level by publicly hacking corporate websites to publicly display ransom notes.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Leaks Reveal Ransomware Gang's Interest in Firmware-based Attacks<a href="https://thehackernews.com/2022/06/conti-leaks-reveal-ransomware-gangs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of&nbsp; leaked chats &nbsp;from the notorious&nbsp; Conti ransomware group &nbsp;earlier this year has revealed that the syndicate has been working on a set of firmware attack techniques that could offer a path to accessing privileged code on compromised devices.  "Control over firmware gives attackers virtually unmatched powers both to directly cause damage and to enable other long-term strategic goals," firmware and hardware security firm Eclypsium&nbsp; said &nbsp;in a report shared with The Hacker News.  "Such level of access would allow an adversary to cause irreparable damage to a system or to establish ongoing persistence that is virtually invisible to the operating system."   Specifically, this includes attacks aimed at embedded microcontrollers such as the Intel&nbsp; Management Engine &nbsp;( ME ), a privileged component that's part of the company's processor chipsets and which can completely bypass the operating system.  It's worth noting that the reason for this evolv
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An international police operation dismantled FluBot spyware<a href="https://securityaffairs.co/wordpress/131878/malware/flubot-android-malware-takedown.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation involving 11 countries resulted in the takedown of the FluBot Android malware.
+
+
+
+An international law enforcement operation involving 11 countries led to the takedown of the infamous FluBot Android malware....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clipminer malware gang stole $1.7M by hijacking crypto payments<a href="https://www.bleepingcomputer.com/news/security/clipminer-malware-gang-stole-17m-by-hijacking-crypto-payments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have discovered a large operation of a new cryptocurrency mining malware called Clipminer that brought its operators at least $1.7 million from transaction hijacking.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
