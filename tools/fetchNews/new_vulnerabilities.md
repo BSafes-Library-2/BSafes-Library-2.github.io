@@ -11,6 +11,34 @@ nav_order: 900220
 June 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+GitLab Issues Security Patch for Critical Account Takeover Vulnerability<a href="https://thehackernews.com/2022/06/gitlab-issues-security-patch-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has moved to address a critical security flaw in its service that, if successfully exploited, could result in an account takeover.  Tracked as&nbsp; CVE-2022-1680 , the issue has a CVSS severity score of 9.9 and was discovered internally by the company. The security flaw affects all versions of GitLab Enterprise Edition (EE) starting from 11.10 before 14.9.5, all versions starting from 14.10 before 14.10.4, and all versions starting from 15.0 before 15.0.1.   "When group SAML SSO is configured, the SCIM feature (available only on Premium+ subscriptions) may allow any owner of a Premium group to invite arbitrary users through their username and email, then change those users' email addresses via SCIM to an attacker controlled email address and thus — in the absence of 2FA — take over those accounts," GitLab&nbsp; said .  Having achieved this, a malicious actor can also change the display name and username of the targeted account, the DevOps platform provider cautioned in its
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian fixes Confluence zero-day widely exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/atlassian-fixes-confluence-zero-day-widely-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has released security updates to address a critical zero-day vulnerability in&nbsp;Confluence Server and Data Center actively exploited in the wild to backdoor Internet-exposed servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 GitLab security update fixes critical account take over flaw<a href="https://www.bleepingcomputer.com/news/security/gitlab-security-update-fixes-critical-account-take-over-flaw/"> Full Text</a>
 </p>
 <details>

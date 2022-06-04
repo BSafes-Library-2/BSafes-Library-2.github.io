@@ -8,6 +8,43 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LuoYu&nbsp;APT delivers WinDealer malware via man-on-the-side attacks<a href="https://securityaffairs.co/wordpress/131921/apt/luoyu-apt-windealer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese LuoYu Hackers Using Man-on-the-Side Attacks to Deploy WinDealer Backdoor
+
+
+
+An "extremely sophisticated" China-linked APT tracked as LuoYu&nbsp;was delivering malware called WinDealer via man-on-the-side attacks.
+
+
+
+Researchers from Kaspersky have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideWinder Launched More than 1,000 Attacks in Two Years<a href="https://cyware.com/news/sidewinder-launched-more-than-1000-attacks-in-two-years-1244cd6e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SideWinder APT has launched more than 1,000 attacks while leveraging over 400 domains and subdomains, with additional stealth mechanisms. The threat group is maintaining a large C2 infrastructure comprising more than 400 domains and subdomains that were used to host malicious payloads and manag ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

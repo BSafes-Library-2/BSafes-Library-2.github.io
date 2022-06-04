@@ -11,6 +11,21 @@ nav_order: 900163
 June 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Global Law Enforcement Operation Shuts Down FluBot<a href="https://cyware.com/news/global-law-enforcement-operation-shuts-down-flubot-6dedb412"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol, along with law enforcement agencies from Finland, Austria, Belgium, Ireland, Spain, Sweden, Hungary, the U.S., the Netherlands, and Switzerland, took down FluBot's infrastructure. The Dutch Police claimed to have disconnected 10,000 victims from the FluBot network and stopped over 6.5 mill ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 China's draft cybersecurity rules pose risks for financial firms, lobby group warns<a href="https://www.reuters.com/world/china/chinas-draft-cybersecurity-rules-pose-risks-financial-firms-lobby-group-warns-2022-06-02/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

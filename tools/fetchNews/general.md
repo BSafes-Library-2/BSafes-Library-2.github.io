@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+June 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Ultimate SaaS Security Posture Management (SSPM) Checklist<a href="https://threatpost.com/ultimate-saas-security-posture-checklist/179771/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As one might expect, not all SSPM solutions are created equal. Monitoring, alerts, and remediation should sit at the heart of your SSPM solution. They ensure that any vulnerabilities are quickly closed before they are exploited by cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Has the Time for an EU-U.S. Agreement on E-Evidence Come and Gone?<a href="https://www.lawfareblog.com/has-time-eu-us-agreement-e-evidence-come-and-gone"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the past several years, Europe and the United States have put in place numerous incentives for an overarching consensual solution to the problem of foreign access to evidence in electronic form. However, a legislative deadlock in Brussels risks the future of U.S.-EU negotiations.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Turns Out It Is Not 85 Percent<a href="https://www.lawfareblog.com/turns-out-it-not-85-percent"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently published paper from three George Washington University students refutes a commonly cited statistic about ownership of critical infrastructure and offers a more accurate portrayal of public and private ownership.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Challenge Digital Executive Protection Poses to Enterprise Security Teams<a href="https://threatpost.com/executive-protection-digital-security/179803/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISOs do heroic work protecting their executives when inside the organization’s four walls. But risks originating in personal digital lives present a challenge that enterprise security teams cannot solve, even if they wanted to.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Being Prepared for Adversarial Attacks – Podcast<a href="https://threatpost.com/threatpost-manky-fortinet/179821/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is no question that the level of threats facing today’s businesses continues to change on a daily basis. So what are the trends that CISOs need to be on the lookout for? For this episode of the Threatpost podcast, I am joined by Derek Manky, Chief Security Strategist &amp; VP Global Threat Intelligence, Fortinet’s […]
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

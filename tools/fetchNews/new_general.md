@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Americans report losing over $1 billion to cryptocurrency scams<a href="https://www.bleepingcomputer.com/news/security/americans-report-losing-over-1-billion-to-cryptocurrency-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission (FTC) says over 46,000 people Americans have reported losing more than $1 billion worth of cryptocurrency to scams between January 2021 and March 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Underground Company That Hacks iPhones for Ordinary Consumers<a href="https://www.vice.com/en/article/jgmygb/checkm8-info-remove-icloud-activation-lock?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An underground group is offering people a way to strip that lock from certain iPhones with its pay-for-hacking service. iOS security experts suspect it is being used to remove protections from stolen iPhones.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

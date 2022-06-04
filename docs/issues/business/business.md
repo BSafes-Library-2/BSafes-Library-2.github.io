@@ -11,6 +11,20 @@ nav_order: 900027
 June 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Chainguard raises $50M Series A for supply chain security<a href="https://techcrunch.com/2022/06/02/chainguard-raises-50m-to-guard-supply-chains/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by Sequoia Capital. Amplify, the Chainsmokers’ Mantis VC, LiveOak Venture Partners, Banana Capital, K5/JPMC, and CISOs from Google and Square, among others, also participated in this round.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Logging and Security Analytics Firm Devo Banks New $100 Million Investment<a href="https://www.securityweek.com/logging-and-security-analytics-firm-devo-banks-new-100-million-investment?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

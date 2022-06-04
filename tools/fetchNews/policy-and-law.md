@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's draft cybersecurity rules pose risks for financial firms, lobby group warns<a href="https://www.reuters.com/world/china/chinas-draft-cybersecurity-rules-pose-risks-financial-firms-lobby-group-warns-2022-06-02/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China's proposed cybersecurity rules for financial firms could pose risks to the operations of western companies by making their data vulnerable to hacking, among other things, a leading lobby group has said in a letter seen by Reuters.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

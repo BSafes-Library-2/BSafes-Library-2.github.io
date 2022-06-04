@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+June 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Elasticsearch Databases Attacked for Ransom<a href="https://cyware.com/news/several-elasticsearch-databases-attacked-for-ransom-92160ded"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Secureworks spotted a new campaign targeting vulnerable Elasticsearch databases to replace their indexes with a ransom note; a total ransom of $280,000 has been demanded. The attackers have used an automated script to parse unprotected databases, wipe out their data, and add the ransom note. Admins ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novartis says no sensitive data was compromised in cyberattack<a href="https://www.bleepingcomputer.com/news/security/novartis-says-no-sensitive-data-was-compromised-in-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pharmaceutical giant Novartis says no sensitive data was compromised in a recent cyberattack by the Industrial Spy data-extortion gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,257 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - June 3rd 2022 - Evading sanctions<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-3rd-2022-evading-sanctions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs continue to evolve their operations as victims refuse to pay ransoms due to sanctions or other reasons.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Elasticsearch Databases Attacked for Ransom<a href="https://cyware.com/news/several-elasticsearch-databases-attacked-for-ransom-92160ded"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Secureworks spotted a new campaign targeting vulnerable Elasticsearch databases to replace their indexes with a ransom note; a total ransom of $280,000 has been demanded. The attackers have used an automated script to parse unprotected databases, wipe out their data, and add the ransom note. Admins ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab Issues Security Patch for Critical Account Takeover Vulnerability<a href="https://thehackernews.com/2022/06/gitlab-issues-security-patch-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has moved to address a critical security flaw in its service that, if successfully exploited, could result in an account takeover.  Tracked as  CVE-2022-1680 , the issue has a CVSS severity score of 9.9 and was discovered internally by the company. The security flaw affects all versions of GitLab Enterprise Edition (EE) starting from 11.10 before 14.9.5, all versions starting from 14.10 before 14.10.4, and all versions starting from 15.0 before 15.0.1.   "When group SAML SSO is configured, the SCIM feature (available only on Premium+ subscriptions) may allow any owner of a Premium group to invite arbitrary users through their username and email, then change those users' email addresses via SCIM to an attacker controlled email address and thus — in the absence of 2FA — take over those accounts," GitLab  said .  Having achieved this, a malicious actor can also change the display name and username of the targeted account, the DevOps platform provider cautioned in its
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LuoYu APT delivers WinDealer malware via man-on-the-side attacks<a href="https://securityaffairs.co/wordpress/131921/apt/luoyu-apt-windealer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese LuoYu Hackers Using Man-on-the-Side Attacks to Deploy WinDealer Backdoor
+
+
+
+An "extremely sophisticated" China-linked APT tracked as LuoYu was delivering malware called WinDealer via man-on-the-side attacks.
+
+
+
+Researchers from Kaspersky have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novartis says no sensitive data was compromised in cyberattack<a href="https://www.bleepingcomputer.com/news/security/novartis-says-no-sensitive-data-was-compromised-in-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pharmaceutical giant Novartis says no sensitive data was compromised in a recent cyberattack by the Industrial Spy data-extortion gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Law Enforcement Operation Shuts Down FluBot<a href="https://cyware.com/news/global-law-enforcement-operation-shuts-down-flubot-6dedb412"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol, along with law enforcement agencies from Finland, Austria, Belgium, Ireland, Spain, Sweden, Hungary, the U.S., the Netherlands, and Switzerland, took down FluBot's infrastructure. The Dutch Police claimed to have disconnected 10,000 victims from the FluBot network and stopped over 6.5 mill ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WatchDog hacking group launches new Docker cryptojacking campaign<a href="https://www.bleepingcomputer.com/news/security/watchdog-hacking-group-launches-new-docker-cryptojacking-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​The WatchDog hacking group is conducting a new cryptojacking campaign with advanced techniques for intrusion, worm-like propagation, and evasion of security software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Critical Vulnerabilities in Illumina Genetic Analysis Devices<a href="https://www.securityweek.com/cisa-warns-critical-vulnerabilities-illumina-genetic-analysis-devices?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaws affect Illumina Local Run Manager (LRM), which is used by sequencing instruments designed for clinical diagnostic use in the sequencing of a person's DNA, testing for various genetic conditions, as well as research.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian fixes Confluence zero-day widely exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/atlassian-fixes-confluence-zero-day-widely-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has released security updates to address a critical zero-day vulnerability in Confluence Server and Data Center actively exploited in the wild to backdoor Internet-exposed servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideWinder Launched More than 1,000 Attacks in Two Years<a href="https://cyware.com/news/sidewinder-launched-more-than-1000-attacks-in-two-years-1244cd6e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SideWinder APT has launched more than 1,000 attacks while leveraging over 400 domains and subdomains, with additional stealth mechanisms. The threat group is maintaining a large C2 infrastructure comprising more than 400 domains and subdomains that were used to host malicious payloads and manag ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Americans report losing over $1 billion to cryptocurrency scams<a href="https://www.bleepingcomputer.com/news/security/americans-report-losing-over-1-billion-to-cryptocurrency-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission (FTC) says over 46,000 people Americans have reported losing more than $1 billion worth of cryptocurrency to scams between January 2021 and March 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chainguard raises $50M Series A for supply chain security<a href="https://techcrunch.com/2022/06/02/chainguard-raises-50m-to-guard-supply-chains/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by Sequoia Capital. Amplify, the Chainsmokers’ Mantis VC, LiveOak Venture Partners, Banana Capital, K5/JPMC, and CISOs from Google and Square, among others, also participated in this round.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disrupts Bohrium hackers’ spear-phishing operation<a href="https://www.bleepingcomputer.com/news/security/microsoft-disrupts-bohrium-hackers-spear-phishing-operation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Digital Crimes Unit (DCU) has disrupted a spear-phishing operation linked to an Iranian threat actor tracked as Bohrium that targeted customers in the U.S., Middle East, and India.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Underground Company That Hacks iPhones for Ordinary Consumers<a href="https://www.vice.com/en/article/jgmygb/checkm8-info-remove-icloud-activation-lock?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An underground group is offering people a way to strip that lock from certain iPhones with its pay-for-hacking service. iOS security experts suspect it is being used to remove protections from stolen iPhones.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Access Brokers and Ransomware-as-a-Service Gangs Tighten Relationships<a href="https://www.securityweek.com/access-brokers-and-ransomware-service-gangs-tighten-relationships?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dark web watchers have noted the increasing professionalism of cybercrime groups over the last few years. Criminal groups are well-organized and have just one purpose: streamlining operations to maximize profits.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

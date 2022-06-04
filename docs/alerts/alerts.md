@@ -7,6 +7,19 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Illumina Local Run Manager <a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-153-02"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Successful exploitation of these vulnerabilities may allow an unauthenticated malicious actor to take control of the affected product remotely and take any action at the operating system level. An attacker could impact settings, configurations, software, or data on the affected product and interact through the affected product with the connected network.  
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 1, 2022 - FBI, CISA, Treasury, FinCEN
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
