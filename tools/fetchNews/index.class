@@ -34,6 +34,274 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit released for Atlassian Confluence RCE bug, patch now<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-atlassian-confluence-rce-bug-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploits for the actively exploited critical CVE-2022-26134 vulnerability impacting Atlassian Confluence and Data Center servers have been widely released this weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC exploits for Atlassian CVE-2022-26134 RCE flaw released online<a href="https://securityaffairs.co/wordpress/131961/hacking/atlassian-cve-2022-26134-rce-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploits for the critical CVE-2022-26134 vulnerability in Atlassian Confluence and Data Center servers are available online.
+
+
+
+Proof-of-concept exploits for the critical CVE-2022-26134 flaw, affecting Atlassian Confluence and Data Center...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 05, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evasive phishing mixes reverse tunnels and URL shortening services<a href="https://www.bleepingcomputer.com/news/security/evasive-phishing-mixes-reverse-tunnels-and-url-shortening-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are seeing an uptick in the use of reverse tunnel services along with URL shorteners​​​​​​​ for large-scale phishing campaigns, making the malicious activity more difficult to stop.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 368 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/131958/breaking-news/security-affairs-newsletter-round-368-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+Anonymous:...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole over $250,000 in Ethereum from Bored Ape Yacht Club<a href="https://securityaffairs.co/wordpress/131950/hacking/bored-ape-yacht-club-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have stolen over $250,000 in Ethereum from Bored Ape Yacht Club (BAYC), this is the third security breach it suffered this year.
+
+
+
+Threat actors compromised Bored Ape Yacht Club (BAYC) for the third time this year, they have stolen and sold...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian rolled out fixes for Confluence zero-day actively exploited in the wild<a href="https://securityaffairs.co/wordpress/131942/security/atlassian-fixes-confluence-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has addressed on Friday an actively exploited critical remote code execution flaw (CVE-2022-26134) in Confluence Server and Data Center products.
+
+
+
+Early this week, Atlassian warned of a critical unpatched remote code execution vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clipminer group rakes in $1.7 million in crypto hijacking<a href="https://www.theregister.com/2022/06/03/clipminer-cryptocurrency-millions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware, dubbed Trojan.Clipminer, leverages the compute power of compromised systems to mine for cryptocurrency as well as identify crypto-wallet addresses in clipboard text and replace it to redirect transactions.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 04, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Releases Patch for Confluence Zero-Day Flaw Exploited in the Wild<a href="https://thehackernews.com/2022/06/atlassian-releases-patch-for-confluence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian on Friday rolled out fixes to address a  critical security flaw  affecting its Confluence Server and Data Center products that have come under active exploitation by threat actors to achieve remote code execution.  Tracked as  CVE-2022-26134 , the issue is similar to  CVE-2021-26084  — another security flaw the Australian software company patched in August 2021.  Both relate to a case of Object-Graph Navigation Language ( OGNL ) injection that could be exploited to achieve arbitrary code execution on a Confluence Server or Data Center instance.   The newly discovered shortcoming impacts all supported versions of Confluence Server and Data Center, with every version after 1.3.0 also affected. It's been resolved in the following versions -   7.4.17  7.13.7  7.14.3  7.15.2  7.16.4  7.17.4  7.18.1   According to stats from internet asset discovery platform  Censys , there are about 9,325 services across 8,347 distinct hosts running a vulnerable version of Atlassian Confluenc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ten Eleven Ventures Raises $600M Fund for Cybersecurity Investments<a href="https://www.securityweek.com/ten-eleven-ventures-raises-600m-fund-cybersecurity-investments?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the heels of similar announcements by YL Ventures and SYN Ventures, Ten Eleven this week announced it had raised $600 million for its third generation fund to invest in the next wave of security companies, from seed to growth stages.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 04, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bored Ape Yacht Club, Otherside NFTs stolen in Discord server hack<a href="https://www.bleepingcomputer.com/news/security/bored-ape-yacht-club-otherside-nfts-stolen-in-discord-server-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers reportedly stole over $257,000 in Ethereum and thirty-two NFTs after the Yuga Lab's Bored Ape Yacht Club and Otherside Metaverse Discord servers were compromised to post a phishing scam.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Trading Giant ACY Securities Exposed 60GB of User Data<a href="https://www.hackread.com/australian-trading-giant-acy-securities-exposed-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach happened due to a misconfigured database owned by ACY Securities. The worse part of the data leak is the fact that it contained over 60GB worth of data that was left exposed without any security authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 04, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple blocked 1.6 millions apps from defrauding users in 2021<a href="https://www.bleepingcomputer.com/news/security/apple-blocked-16-millions-apps-from-defrauding-users-in-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple said this week that it blocked more than 343,000 iOS apps were blocked by the App Store App Review team for privacy violations last year, while another 157,000 were rejected for attempting to mislead or spamming iOS users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SMSFactory Android malware sneakily subscribes to premium services<a href="https://www.bleepingcomputer.com/news/security/smsfactory-android-malware-sneakily-subscribes-to-premium-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are warning of an Android malware named SMSFactory that adds unwanted costs to the phone bill by subscribing victims to premium services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous: Operation Russia after 100 days of war<a href="https://securityaffairs.co/wordpress/131933/hacktivism/anonymous-operation-russia-100-days.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operation Russia continues, albeit much more slowly than last month, RKPLaw, Vyberi Radio, and Metprom Group are the last victims.
+
+
+
+The #OpRussia launched by Anonymous on Russia after the criminal invasion of Ukraine continues, albeit much more slowly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab addressed critical account take over via SCIM email change<a href="https://securityaffairs.co/wordpress/131928/hacking/gitlab-critical-account-take-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab addresses a critical security vulnerability, tracked as CVE-2022-1680, that could be exploited by an attacker to take over users' accounts.
+
+
+
+GitLab has fixed a critical security flaw in its GitLab Enterprise Edition (EE), tracked as CVE-2022-1680...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 03, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

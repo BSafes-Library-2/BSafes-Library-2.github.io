@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Trading Giant ACY Securities Exposed 60GB of User Data<a href="https://www.hackread.com/australian-trading-giant-acy-securities-exposed-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach happened due to a misconfigured database owned by ACY Securities. The worse part of the data leak is the fact that it contained over 60GB worth of data that was left exposed without any security authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Releases Patch for Confluence Zero-Day Flaw Exploited in the Wild<a href="https://thehackernews.com/2022/06/atlassian-releases-patch-for-confluence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian on Friday rolled out fixes to address a&nbsp; critical security flaw &nbsp;affecting its Confluence Server and Data Center products that have come under active exploitation by threat actors to achieve remote code execution.  Tracked as&nbsp; CVE-2022-26134 , the issue is similar to&nbsp; CVE-2021-26084 &nbsp;— another security flaw the Australian software company patched in August 2021.  Both relate to a case of Object-Graph Navigation Language ( OGNL ) injection that could be exploited to achieve arbitrary code execution on a Confluence Server or Data Center instance.   The newly discovered shortcoming impacts all supported versions of Confluence Server and Data Center, with every version after 1.3.0 also affected. It's been resolved in the following versions -   7.4.17  7.13.7  7.14.3  7.15.2  7.16.4  7.17.4  7.18.1   According to stats from internet asset discovery platform&nbsp; Censys , there are about 9,325 services across 8,347 distinct hosts running a vulnerable version of Atlassian Confluenc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

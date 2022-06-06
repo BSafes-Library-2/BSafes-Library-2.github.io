@@ -8,6 +8,56 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit released for Atlassian Confluence RCE bug, patch now<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-atlassian-confluence-rce-bug-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploits for the actively exploited critical CVE-2022-26134 vulnerability impacting Atlassian Confluence and Data Center servers have been widely released this weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC exploits for Atlassian CVE-2022-26134 RCE flaw released online<a href="https://securityaffairs.co/wordpress/131961/hacking/atlassian-cve-2022-26134-rce-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploits for the critical CVE-2022-26134 vulnerability in Atlassian Confluence and Data Center servers are available online.
+
+
+
+Proof-of-concept exploits for the critical CVE-2022-26134 flaw, affecting Atlassian Confluence and Data Center...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab addressed critical account take over via SCIM email change<a href="https://securityaffairs.co/wordpress/131928/hacking/gitlab-critical-account-take-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab addresses a critical security vulnerability, tracked as CVE-2022-1680, that could be exploited by an attacker to take over users' accounts.
+
+
+
+GitLab has fixed a critical security flaw in its GitLab Enterprise Edition (EE), tracked as CVE-2022-1680...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disrupts Bohrium hackers’ spear-phishing operation<a href="https://www.bleepingcomputer.com/news/security/microsoft-disrupts-bohrium-hackers-spear-phishing-operation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Digital Crimes Unit (DCU) has disrupted a spear-phishing operation linked to an Iranian threat actor tracked as Bohrium that targeted customers in the U.S., Middle East, and India.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Access Brokers and Ransomware-as-a-Service Gangs Tighten Relationships<a href="https://www.securityweek.com/access-brokers-and-ransomware-service-gangs-tighten-relationships?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dark web watchers have noted the increasing professionalism of cybercrime groups over the last few years. Criminal groups are well-organized and have just one purpose: streamlining operations to maximize profits.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

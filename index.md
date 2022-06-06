@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 05, 2022
+June 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit released for Atlassian Confluence RCE bug, patch now<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-atlassian-confluence-rce-bug-patch-now/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2022
+June 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC exploits for Atlassian CVE-2022-26134 RCE flaw released online<a href="https://securityaffairs.co/wordpress/131961/hacking/atlassian-cve-2022-26134-rce-poc.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 05, 2022
+June 05, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evasive phishing mixes reverse tunnels and URL shortening services<a href="https://www.bleepingcomputer.com/news/security/evasive-phishing-mixes-reverse-tunnels-and-url-shortening-services/"> Full Text</a>
@@ -86,7 +86,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2022
+June 5, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 368 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/131958/breaking-news/security-affairs-newsletter-round-368-by-pierluigi-paganini.html"> Full Text</a>
@@ -110,7 +110,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2022
+June 5, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers stole over $250,000 in Ethereum from Bored Ape Yacht Club<a href="https://securityaffairs.co/wordpress/131950/hacking/bored-ape-yacht-club-hacked.html"> Full Text</a>
@@ -130,7 +130,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2022
+June 5, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian rolled out fixes for Confluence zero-day actively exploited in the wild<a href="https://securityaffairs.co/wordpress/131942/security/atlassian-fixes-confluence-zero-day.html"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2022
+June 4, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clipminer group rakes in $1.7 million in crypto hijacking<a href="https://www.theregister.com/2022/06/03/clipminer-cryptocurrency-millions/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2022
+June 04, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Releases Patch for Confluence Zero-Day Flaw Exploited in the Wild<a href="https://thehackernews.com/2022/06/atlassian-releases-patch-for-confluence.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2022
+June 4, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ten Eleven Ventures Raises $600M Fund for Cybersecurity Investments<a href="https://www.securityweek.com/ten-eleven-ventures-raises-600m-fund-cybersecurity-investments?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2022
+June 04, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bored Ape Yacht Club, Otherside NFTs stolen in Discord server hack<a href="https://www.bleepingcomputer.com/news/security/bored-ape-yacht-club-otherside-nfts-stolen-in-discord-server-hack/"> Full Text</a>
@@ -214,7 +214,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2022
+June 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian Trading Giant ACY Securities Exposed 60GB of User Data<a href="https://www.hackread.com/australian-trading-giant-acy-securities-exposed-data/?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2022
+June 04, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple blocked 1.6 millions apps from defrauding users in 2021<a href="https://www.bleepingcomputer.com/news/security/apple-blocked-16-millions-apps-from-defrauding-users-in-2021/"> Full Text</a>
@@ -246,7 +246,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2022
+June 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SMSFactory Android malware sneakily subscribes to premium services<a href="https://www.bleepingcomputer.com/news/security/smsfactory-android-malware-sneakily-subscribes-to-premium-services/"> Full Text</a>
@@ -262,7 +262,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2022
+June 4, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous: Operation Russia after 100 days of war<a href="https://securityaffairs.co/wordpress/131933/hacktivism/anonymous-operation-russia-100-days.html"> Full Text</a>
@@ -282,7 +282,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2022
+June 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitLab addressed critical account take over via SCIM email change<a href="https://securityaffairs.co/wordpress/131928/hacking/gitlab-critical-account-take-over.html"> Full Text</a>

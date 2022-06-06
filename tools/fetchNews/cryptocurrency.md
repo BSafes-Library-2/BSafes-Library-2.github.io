@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WatchDog hacking group launches new Docker cryptojacking campaign<a href="https://www.bleepingcomputer.com/news/security/watchdog-hacking-group-launches-new-docker-cryptojacking-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​The WatchDog hacking group is conducting a new cryptojacking campaign with advanced techniques for intrusion, worm-like propagation, and evasion of security software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

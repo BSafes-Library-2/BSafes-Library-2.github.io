@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - June 3rd 2022 - Evading sanctions<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-3rd-2022-evading-sanctions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs continue to evolve their operations as victims refuse to pay ransoms due to sanctions or other reasons.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
