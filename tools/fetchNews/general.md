@@ -8,6 +8,78 @@ nav_order: 900072
 
 ## General
 ---
+June 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 368 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/131958/breaking-news/security-affairs-newsletter-round-368-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here.
+
+
+
+Anonymous:...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian rolled out fixes for Confluence zero-day actively exploited in the wild<a href="https://securityaffairs.co/wordpress/131942/security/atlassian-fixes-confluence-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has addressed on Friday an actively exploited critical remote code execution flaw (CVE-2022-26134) in Confluence Server and Data Center products.
+
+
+
+Early this week, Atlassian warned of a critical unpatched remote code execution vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple blocked 1.6 millions apps from defrauding users in 2021<a href="https://www.bleepingcomputer.com/news/security/apple-blocked-16-millions-apps-from-defrauding-users-in-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple said this week that it&nbsp;blocked more than 343,000 iOS apps were blocked by the App Store&nbsp;App Review team for privacy violations last year, while another 157,000 were rejected for attempting to mislead or spamming&nbsp;iOS users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous: Operation Russia after 100 days of war<a href="https://securityaffairs.co/wordpress/131933/hacktivism/anonymous-operation-russia-100-days.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operation Russia continues, albeit much more slowly than last month, RKPLaw, Vyberi Radio, and Metprom Group are the last victims.
+
+
+
+The #OpRussia launched by Anonymous on Russia after the criminal invasion of Ukraine continues, albeit much more slowly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

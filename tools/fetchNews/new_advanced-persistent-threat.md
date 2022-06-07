@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft seized 41 domains used by Iran-linked Bohrium APT<a href="https://securityaffairs.co/wordpress/132002/apt/microsoft-seized-bohrium-apt-domains.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Digital Crimes Unit (DCU) announced the seizure of domains used by Iran-linked APT Bohrium&nbsp;in spear-phishing campaigns.
+
+
+
+Microsoft's Digital Crimes Unit (DCU) announced to have taken legal action to disrupt a spear-phishing operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,131 @@ nav_order: 900015
 
 ## Attack
 ---
+June 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit ransomware gang claims to have hacked cybersecurity giant Mandiant<a href="https://securityaffairs.co/wordpress/132011/cyber-crime/lockbit-claims-mandiant-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware gang claims to have hacked the cybersecurity firm Mandiant, which is investigating the alleged security breach.
+
+
+
+Today the LockBit ransomware gang has added the cybersecurity firm Mandiant to the list of victims published on its darkweb...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mandiant: “No evidence” we were hacked by LockBit ransomware<a href="https://www.bleepingcomputer.com/news/security/mandiant-no-evidence-we-were-hacked-by-lockbit-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American cybersecurity firm Mandiant is investigating LockBit ransomware gang's claims that they hacked the company's network and stole data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SMSFactory Targets Android Users Across Eight Countries<a href="https://cyware.com/news/smsfactory-targets-android-users-across-eight-countries-6c2b9618"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SMSFactory has already targeted more than 165,000 Avast customers from May 2021 to May 2022. Most of the victims were located in Brazil, Ukraine, Argentina, Russia, and Turkey. The main goal is to send premium texts and make calls to premium phone numbers. However, the malware can steal the contact ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Seizes 41 Domains Used in Spear-Phishing Attacks by Bohrium Hackers<a href="https://thehackernews.com/2022/06/microsoft-seizes-41-domains-used-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Digital Crimes Unit (DCU) last week disclosed that it had taken legal proceedings against an Iranian threat actor dubbed&nbsp; Bohrium &nbsp;in connection with a spear-phishing operation.  The adversarial collective is said to have targeted entities in tech, transportation, government, and education sectors located in the U.S., Middle East, and India.   "Bohrium actors create fake social media profiles, often posing as recruiters," Amy Hogan-Burney of the DCU&nbsp; said &nbsp;in a tweet. "Once personal information was obtained from the victims, Bohrium sent malicious emails with links that ultimately infected their target's computers with malware."  According to an&nbsp; ex parte order &nbsp;shared by the tech giant, the goal of the intrusions was to steal and exfiltrate sensitive information, take control over the infected machines, and carry out remote reconnaissance.  To halt the malicious activities of Bohrium, Microsoft said it took down 41 ".com," ".info
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another nation-state actor exploits Microsoft Follina to attack European and US entities<a href="https://securityaffairs.co/wordpress/131992/apt/nation-state-actors-follina-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nation-state actor is attempting to exploit the Follina flaw in a recent wave of attacks against government entities in Europe and the U.S.
+
+
+
+An alleged nation-state actor is attempting to exploit the recently disclosed Microsoft Office Follina vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WatchDog Targets Docker And Redis Servers In New Cryptojacking Campaign<a href="https://cyware.com/news/watchdog-targets-docker-and-redis-servers-in-new-cryptojacking-campaign-a5681a92"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group targets misconfigured Docker Engine API endpoints with an open port 2375 for accessing daemon in default settings.  Subsequently, it lists or modifies containers and runs arbitrary shell commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exclusive: Pro-Russia group ‘Cyber Spetsnaz’ is attacking government agencies<a href="https://securityaffairs.co/wordpress/131967/hacking/exclusive-pro-russia-cyber-spetsnaz-is-attacking-government-agencies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity, Inc. (USA) has identified an increase in activity within hacktivist groups conducted by a new group called “Cyber Spetsnaz”. 
+
+
+
+Resecurity, Inc. (USA) has identified an increase in activity within hacktivist groups, they’re leveraging...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-Backed Hackers Exploit Microsoft 'Follina' Bug to Target Entities in Europe and U.S<a href="https://thehackernews.com/2022/06/state-backed-hackers-exploit-microsoft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected state-aligned threat actor has been attributed to a new set of attacks exploiting the Microsoft Office "Follina" vulnerability to target government entities in Europe and the U.S.  Enterprise security firm Proofpoint said it blocked attempts at exploiting the remote code execution flaw, which is being tracked&nbsp; CVE-2022-30190 &nbsp;(CVSS score: 7.8). No less than 1,000 phishing messages containing a lure document were sent to the targets.  "This campaign masqueraded as a salary increase and utilized an RTF with the exploit payload downloaded from 45.76.53[.]253," the company&nbsp; said &nbsp;in a series of tweets.   The payload, which manifests in the form of a PowerShell script, is Base64-encoded and functions as a downloader to retrieve a second PowerShell script from a remote server named "seller-notification[.]live."  "This script checks for virtualization, steals information from local browsers, mail clients and file services, conducts machine recon
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

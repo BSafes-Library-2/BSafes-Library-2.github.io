@@ -8,6 +8,52 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole over $250,000 in Ethereum from Bored Ape Yacht Club<a href="https://securityaffairs.co/wordpress/131950/hacking/bored-ape-yacht-club-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have stolen over $250,000 in Ethereum from Bored Ape Yacht Club (BAYC), this is the third security breach it suffered this year.
+
+
+
+Threat actors compromised Bored Ape Yacht Club (BAYC) for the third time this year, they have stolen and sold...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clipminer group rakes in $1.7 million in crypto hijacking<a href="https://www.theregister.com/2022/06/03/clipminer-cryptocurrency-millions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware, dubbed Trojan.Clipminer, leverages the compute power of compromised systems to mine for cryptocurrency as well as identify crypto-wallet addresses in clipboard text and replace it to redirect transactions.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bored Ape Yacht Club, Otherside NFTs stolen in Discord server hack<a href="https://www.bleepingcomputer.com/news/security/bored-ape-yacht-club-otherside-nfts-stolen-in-discord-server-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers reportedly stole over $257,000 in Ethereum and thirty-two NFTs after the Yuga Lab's Bored Ape Yacht Club and Otherside Metaverse Discord servers were compromised to post a phishing scam.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

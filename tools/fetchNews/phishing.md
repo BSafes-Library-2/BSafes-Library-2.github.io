@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evasive phishing mixes reverse tunnels and URL shortening services<a href="https://www.bleepingcomputer.com/news/security/evasive-phishing-mixes-reverse-tunnels-and-url-shortening-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are seeing an uptick in the use of reverse tunnel services along with URL shorteners​​​​​​​&nbsp;for large-scale phishing campaigns, making the malicious activity more difficult to stop.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

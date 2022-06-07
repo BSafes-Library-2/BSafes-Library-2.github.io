@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Information of Over 30,000 Students Exposed in Unprotected Database<a href="https://www.securityweek.com/personal-information-over-30000-students-exposed-unprotected-database?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed information included full names, email addresses, and phone numbers, along with credit card information, transaction and purchased meals details, and login information stored in plain text.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 06, 2022
+June 06, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QBot now pushes Black Basta ransomware in bot-powered attacks<a href="https://www.bleepingcomputer.com/news/security/qbot-now-pushes-black-basta-ransomware-in-bot-powered-attacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2022
+June 6, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evil Corp Shifts to LockBit to Evade Sanctions<a href="https://cyware.com/news/evil-corp-shifts-to-lockbit-to-evade-sanctions-486d6cb7"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 06, 2022
+June 06, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 10 Most Prolific Banking Trojans Targeting Hundreds of Financial Apps with Over a Billion Users<a href="https://thehackernews.com/2022/06/10-most-prolific-banking-trojans.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2022
+June 6, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hack Global, Buy Local: The Inefficiencies of the Zero-Day Exploit Market<a href="https://www.lawfareblog.com/hack-global-buy-local-inefficiencies-zero-day-exploit-market"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2022
+June 6, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lockbit ransomware gang claims to have hacked cybersecurity giant Mandiant<a href="https://securityaffairs.co/wordpress/132011/cyber-crime/lockbit-claims-mandiant-hack.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 06, 2022
+June 06, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mandiant: “No evidence” we were hacked by LockBit ransomware<a href="https://www.bleepingcomputer.com/news/security/mandiant-no-evidence-we-were-hacked-by-lockbit-ransomware/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2022
+June 6, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SMSFactory Targets Android Users Across Eight Countries<a href="https://cyware.com/news/smsfactory-targets-android-users-across-eight-countries-6c2b9618"> Full Text</a>
@@ -151,7 +151,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 06, 2022
+June 06, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Critical Flaws Disclosed in U-Boot Bootloader for Embedded Devices<a href="https://thehackernews.com/2022/06/unpatched-critical-flaws-disclosed-in-u.html"> Full Text</a>
@@ -167,7 +167,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2022
+June 6, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft seized 41 domains used by Iran-linked Bohrium APT<a href="https://securityaffairs.co/wordpress/132002/apt/microsoft-seized-bohrium-apt-domains.html"> Full Text</a>
@@ -187,7 +187,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 06, 2022
+June 06, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gangs now give victims time to save their reputation<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-now-give-victims-time-to-save-their-reputation/"> Full Text</a>
@@ -203,7 +203,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2022
+June 6, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Shuts Down Bohrium and Polonium Operations<a href="https://cyware.com/news/microsoft-shuts-down-bohrium-and-polonium-operations-7d2a3460"> Full Text</a>
@@ -219,7 +219,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 06, 2022
+June 06, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Seizes 41 Domains Used in Spear-Phishing Attacks by Bohrium Hackers<a href="https://thehackernews.com/2022/06/microsoft-seizes-41-domains-used-in.html"> Full Text</a>
@@ -235,7 +235,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2022
+June 6, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Another nation-state actor exploits Microsoft Follina to attack European and US entities<a href="https://securityaffairs.co/wordpress/131992/apt/nation-state-actors-follina-exploits.html"> Full Text</a>
@@ -255,7 +255,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 06, 2022
+June 06, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows zero-day exploited in US local govt phishing attacks<a href="https://www.bleepingcomputer.com/news/security/windows-zero-day-exploited-in-us-local-govt-phishing-attacks/"> Full Text</a>
@@ -271,7 +271,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2022
+June 6, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AlphaBay Is Taking Over the Dark Web—Again<a href="https://www.wired.com/story/alphabay-dark-web-market-ranking/?&web_view=true"> Full Text</a>
@@ -287,7 +287,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 06, 2022
+June 06, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Be Proactive! Shift Security Validation Left<a href="https://thehackernews.com/2022/06/be-proactive-shift-security-validation.html"> Full Text</a>
@@ -303,7 +303,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2022
+June 6, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Red TIM Research discovers a Command Injection with a 9,8 score on Resi<a href="https://securityaffairs.co/wordpress/131985/security/resi-critical-command-injection.html"> Full Text</a>
@@ -323,7 +323,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 06, 2022
+June 06, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italian city of Palermo shuts down all systems to fend off cyberattack<a href="https://www.bleepingcomputer.com/news/security/italian-city-of-palermo-shuts-down-all-systems-to-fend-off-cyberattack/"> Full Text</a>
@@ -339,7 +339,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2022
+June 6, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WatchDog Targets Docker And Redis Servers In New Cryptojacking Campaign<a href="https://cyware.com/news/watchdog-targets-docker-and-redis-servers-in-new-cryptojacking-campaign-a5681a92"> Full Text</a>
@@ -355,7 +355,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 06, 2022
+June 06, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warned About Critical Vulnerabilities in Illumina's DNA Sequencing Devices<a href="https://thehackernews.com/2022/06/cisa-warned-about-critical.html"> Full Text</a>
@@ -371,7 +371,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2022
+June 6, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exclusive: Pro-Russia group ‘Cyber Spetsnaz’ is attacking government agencies<a href="https://securityaffairs.co/wordpress/131967/hacking/exclusive-pro-russia-cyber-spetsnaz-is-attacking-government-agencies.html"> Full Text</a>
@@ -391,7 +391,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2022
+June 6, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched bug chain poses ‘mass account takeover’ threat to Yunmai weight monitoring app<a href="https://portswigger.net/daily-swig/unpatched-bug-chain-poses-mass-account-takeover-threat-to-yunmai-weight-monitoring-app?&web_view=true"> Full Text</a>
@@ -407,7 +407,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2022
+June 6, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 As Linux Malware is on the Rise, Look Out for These Attacks<a href="https://cyware.com/news/as-linux-malware-is-on-the-rise-look-out-for-these-attacks-5c8bc302"> Full Text</a>
@@ -423,7 +423,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2022
+June 6, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Personal Information of Over 30,000 Students Exposed in Unprotected Database<a href="https://www.securityweek.com/personal-information-over-30000-students-exposed-unprotected-database?&web_view=true"> Full Text</a>
@@ -439,7 +439,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 05, 2022
+June 05, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State-Backed Hackers Exploit Microsoft 'Follina' Bug to Target Entities in Europe and U.S<a href="https://thehackernews.com/2022/06/state-backed-hackers-exploit-microsoft.html"> Full Text</a>

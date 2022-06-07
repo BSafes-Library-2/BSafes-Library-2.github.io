@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+June 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hack Global, Buy Local: The Inefficiencies of the Zero-Day Exploit Market<a href="https://www.lawfareblog.com/hack-global-buy-local-inefficiencies-zero-day-exploit-market"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Why the market for zero-day exploits is less efficient and more local than you might think.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Be Proactive! Shift Security Validation Left<a href="https://thehackernews.com/2022/06/be-proactive-shift-security-validation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Shifting (security)" left approach in Software Development Life Cycle (SDLC) means starting security earlier in the process. As organizations realized that software never comes out perfectly and are riddled with many exploitable holes, bugs, and business logic vulnerabilities that require going back to fix and patch, they understood that building secure software requires incorporating and consolidating numerous resources.  This conclusion led DevOps and R&amp;D leaders to become proactive, acquiring technology to find and close these gaps in advance, with the aim of reducing the cost and effort while improving the quality of their outcomes.&nbsp;  With emerging comprehensive&nbsp; continuous security validation technology , the demonstrated benefits of 'shifting left' as a fundamental part of SDLC can now be applied to your cybersecurity program, with results far exceeding the purely technical aspects of security posture management.&nbsp;  At the development level, the conceptuali
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Linux Malware is on the Rise, Look Out for These Attacks<a href="https://cyware.com/news/as-linux-malware-is-on-the-rise-look-out-for-these-attacks-5c8bc302"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although 90% of cloud apps run on Linux, not much is being done to protect them from malware. Ransomware gangs and cryptomining attackers have put their sights on Linux environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

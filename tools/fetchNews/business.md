@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+June 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ten Eleven Ventures Raises $600M Fund for Cybersecurity Investments<a href="https://www.securityweek.com/ten-eleven-ventures-raises-600m-fund-cybersecurity-investments?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the heels of similar announcements by YL Ventures and SYN Ventures, Ten Eleven this week announced it had raised $600 million for its third generation fund to invest in the next wave of security companies, from seed to growth stages.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
