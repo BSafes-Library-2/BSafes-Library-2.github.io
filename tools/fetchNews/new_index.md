@@ -34,7 +34,428 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QBot now pushes Black Basta ransomware in bot-powered attacks<a href="https://www.bleepingcomputer.com/news/security/qbot-now-pushes-black-basta-ransomware-in-bot-powered-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Basta ransomware gang has partnered with the QBot malware operation to gain spread laterally through hacked corporate environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp Shifts to LockBit to Evade Sanctions<a href="https://cyware.com/news/evil-corp-shifts-to-lockbit-to-evade-sanctions-486d6cb7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2019, the U.S. Treasury issued sanctions against 17 individuals and seven entities of Evil Corp cyber operations for causing financial losses of more than $100 million with the Dridex malware.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+10 Most Prolific Banking Trojans Targeting Hundreds of Financial Apps with Over a Billion Users<a href="https://thehackernews.com/2022/06/10-most-prolific-banking-trojans.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+10 of the most prolific mobile banking trojans have set their eyes on 639 financial applications that are available on the Google Play Store and have been cumulatively downloaded over 1.01 billion times.  Some of the most targeted apps include Walmart-backed PhonePe, Binance, Cash App, Garanti BBVA Mobile, La Banque Postale, Ma Banque, Caf - Mon Compte, Postepay, and BBVA México. These apps alone account for more than 260 million downloads from the official app marketplace.  Of the 639 apps tracked, 121 are based in the U.S., followed by the U.K. (55), Italy (43), Turkey (34), Australia (33), France (31), Spain (29), and Portugal (27).  " TeaBot  is targeting 410 of the 639 applications tracked," mobile security company Zimperium  said  in a new analysis of Android threats during the first half of 2022. " Octo  targets 324 of the 639 applications tracked and is the only one targeting popular, non-financial applications for credential theft."   Aside from  TeaBot  (
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hack Global, Buy Local: The Inefficiencies of the Zero-Day Exploit Market<a href="https://www.lawfareblog.com/hack-global-buy-local-inefficiencies-zero-day-exploit-market"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Why the market for zero-day exploits is less efficient and more local than you might think.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit ransomware gang claims to have hacked cybersecurity giant Mandiant<a href="https://securityaffairs.co/wordpress/132011/cyber-crime/lockbit-claims-mandiant-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware gang claims to have hacked the cybersecurity firm Mandiant, which is investigating the alleged security breach.
+
+
+
+Today the LockBit ransomware gang has added the cybersecurity firm Mandiant to the list of victims published on its darkweb...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mandiant: “No evidence” we were hacked by LockBit ransomware<a href="https://www.bleepingcomputer.com/news/security/mandiant-no-evidence-we-were-hacked-by-lockbit-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American cybersecurity firm Mandiant is investigating LockBit ransomware gang's claims that they hacked the company's network and stole data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SMSFactory Targets Android Users Across Eight Countries<a href="https://cyware.com/news/smsfactory-targets-android-users-across-eight-countries-6c2b9618"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SMSFactory has already targeted more than 165,000 Avast customers from May 2021 to May 2022. Most of the victims were located in Brazil, Ukraine, Argentina, Russia, and Turkey. The main goal is to send premium texts and make calls to premium phone numbers. However, the malware can steal the contact ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Critical Flaws Disclosed in U-Boot Bootloader for Embedded Devices<a href="https://thehackernews.com/2022/06/unpatched-critical-flaws-disclosed-in-u.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed  two unpatched security vulnerabilities  in the open-source U-Boot boot loader.  The issues, which were uncovered in the  IP defragmentation  algorithm implemented in U-Boot by NCC Group, could be abused to achieve arbitrary out-of-bounds write and denial-of-service (DoS).  U-Boot is a  boot loader  used in Linux-based embedded systems such as ChromeOS as well as ebook readers such as Amazon Kindle and Kobo eReader.   The issues are summarized below -   CVE-2022-30790  (CVSS score: 9.6) - Hole Descriptor overwrite in U-Boot IP packet defragmentation leads to an arbitrary out-of-bounds write primitive.  CVE-2022-30552  (CVSS score: 7.1) - Large buffer overflow leads to DoS in U-Boot IP packet defragmentation code   It's worth noting that both the flaws are exploitable only from the local network. But doing so can enable an attacker to root the devices and lead to a DoS by crafting a malformed packet.  The shortcomings are expected to be addr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft seized 41 domains used by Iran-linked Bohrium APT<a href="https://securityaffairs.co/wordpress/132002/apt/microsoft-seized-bohrium-apt-domains.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Digital Crimes Unit (DCU) announced the seizure of domains used by Iran-linked APT Bohrium in spear-phishing campaigns.
+
+
+
+Microsoft's Digital Crimes Unit (DCU) announced to have taken legal action to disrupt a spear-phishing operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs now give victims time to save their reputation<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-now-give-victims-time-to-save-their-reputation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have observed an unusual trend in ransomware group tactics, reporting that initial phases of victim extortion are becoming less open to the public as the actors tend to use hidden or anonymous entries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Shuts Down Bohrium and Polonium Operations<a href="https://cyware.com/news/microsoft-shuts-down-bohrium-and-polonium-operations-7d2a3460"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Digital Crimes Unit (DCU) has successfully dismantled a spear-phishing operation associated with an Iranian threat actor, named Bohrium, that targeted customers in the Middle East, the U.S., and India.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Seizes 41 Domains Used in Spear-Phishing Attacks by Bohrium Hackers<a href="https://thehackernews.com/2022/06/microsoft-seizes-41-domains-used-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Digital Crimes Unit (DCU) last week disclosed that it had taken legal proceedings against an Iranian threat actor dubbed  Bohrium  in connection with a spear-phishing operation.  The adversarial collective is said to have targeted entities in tech, transportation, government, and education sectors located in the U.S., Middle East, and India.   "Bohrium actors create fake social media profiles, often posing as recruiters," Amy Hogan-Burney of the DCU  said  in a tweet. "Once personal information was obtained from the victims, Bohrium sent malicious emails with links that ultimately infected their target's computers with malware."  According to an  ex parte order  shared by the tech giant, the goal of the intrusions was to steal and exfiltrate sensitive information, take control over the infected machines, and carry out remote reconnaissance.  To halt the malicious activities of Bohrium, Microsoft said it took down 41 ".com," ".info
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another nation-state actor exploits Microsoft Follina to attack European and US entities<a href="https://securityaffairs.co/wordpress/131992/apt/nation-state-actors-follina-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nation-state actor is attempting to exploit the Follina flaw in a recent wave of attacks against government entities in Europe and the U.S.
+
+
+
+An alleged nation-state actor is attempting to exploit the recently disclosed Microsoft Office Follina vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows zero-day exploited in US local govt phishing attacks<a href="https://www.bleepingcomputer.com/news/security/windows-zero-day-exploited-in-us-local-govt-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European governments and US local governments were the targets of a phishing campaign using malicious Rich Text Format (RTF) documents designed to exploit a critical Windows zero-day vulnerability known as Follina.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AlphaBay Is Taking Over the Dark Web—Again<a href="https://www.wired.com/story/alphabay-dark-web-market-ranking/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In July 2017, a global law enforcement sting called Operation Bayonet took down AlphaBay’s sprawling marketplace, seizing the site’s central server in Lithuania and arresting its creator, Alexandre Cazes, outside his home in Bangkok.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Be Proactive! Shift Security Validation Left<a href="https://thehackernews.com/2022/06/be-proactive-shift-security-validation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Shifting (security)" left approach in Software Development Life Cycle (SDLC) means starting security earlier in the process. As organizations realized that software never comes out perfectly and are riddled with many exploitable holes, bugs, and business logic vulnerabilities that require going back to fix and patch, they understood that building secure software requires incorporating and consolidating numerous resources.  This conclusion led DevOps and R&D leaders to become proactive, acquiring technology to find and close these gaps in advance, with the aim of reducing the cost and effort while improving the quality of their outcomes.   With emerging comprehensive  continuous security validation technology , the demonstrated benefits of 'shifting left' as a fundamental part of SDLC can now be applied to your cybersecurity program, with results far exceeding the purely technical aspects of security posture management.   At the development level, the conceptuali
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Red TIM Research discovers a Command Injection with a 9,8 score on Resi<a href="https://securityaffairs.co/wordpress/131985/security/resi-critical-command-injection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the bug hunting activity, Red Team Research (RTR) detected 2 zero-day bugs on GEMINI-NET, a RESI Informatica solution.
+
+
+
+It’s been detected an OS Command Injection, which has been identified from NIST as a Critical one, its score is 9,8. ...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian city of Palermo shuts down all systems to fend off cyberattack<a href="https://www.bleepingcomputer.com/news/security/italian-city-of-palermo-shuts-down-all-systems-to-fend-off-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The municipality of Palermo in Southern Italy suffered a cyberattack on Friday, which appears to have had a massive impact on a broad range of operations and services to both citizens and visiting tourists.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WatchDog Targets Docker And Redis Servers In New Cryptojacking Campaign<a href="https://cyware.com/news/watchdog-targets-docker-and-redis-servers-in-new-cryptojacking-campaign-a5681a92"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group targets misconfigured Docker Engine API endpoints with an open port 2375 for accessing daemon in default settings.  Subsequently, it lists or modifies containers and runs arbitrary shell commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warned About Critical Vulnerabilities in Illumina's DNA Sequencing Devices<a href="https://thehackernews.com/2022/06/cisa-warned-about-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Food and Drug Administration (FDA) have issued an advisory about critical security vulnerabilities in Illumina's next-generation sequencing ( NGS ) software.  Three of the flaws are rated 10 out of 10 for severity on the Common Vulnerability Scoring System ( CVSS ), with two others having severity ratings of 9.1 and 7.4.  The issues impact software in medical devices used for "clinical diagnostic use in sequencing a person's DNA or testing for various genetic conditions, or for research use only,"  according to the FDA .   "Successful exploitation of these vulnerabilities may allow an unauthenticated malicious actor to take control of the affected product remotely and take any action at the operating system level," CISA  said  in an alert.  "An attacker could impact settings, configurations, software, or data on the affected product and interact through the affected product with the c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exclusive: Pro-Russia group ‘Cyber Spetsnaz’ is attacking government agencies<a href="https://securityaffairs.co/wordpress/131967/hacking/exclusive-pro-russia-cyber-spetsnaz-is-attacking-government-agencies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity, Inc. (USA) has identified an increase in activity within hacktivist groups conducted by a new group called “Cyber Spetsnaz”. 
+
+
+
+Resecurity, Inc. (USA) has identified an increase in activity within hacktivist groups, they’re leveraging...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched bug chain poses ‘mass account takeover’ threat to Yunmai weight monitoring app<a href="https://portswigger.net/daily-swig/unpatched-bug-chain-poses-mass-account-takeover-threat-to-yunmai-weight-monitoring-app?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A chained, zero-day exploit could potentially expose all user data in the backend of the companion mobile application for a popular smart weight scale, security researchers have claimed.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Linux Malware is on the Rise, Look Out for These Attacks<a href="https://cyware.com/news/as-linux-malware-is-on-the-rise-look-out-for-these-attacks-5c8bc302"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although 90% of cloud apps run on Linux, not much is being done to protect them from malware. Ransomware gangs and cryptomining attackers have put their sights on Linux environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Information of Over 30,000 Students Exposed in Unprotected Database<a href="https://www.securityweek.com/personal-information-over-30000-students-exposed-unprotected-database?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed information included full names, email addresses, and phone numbers, along with credit card information, transaction and purchased meals details, and login information stored in plain text.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-Backed Hackers Exploit Microsoft 'Follina' Bug to Target Entities in Europe and U.S<a href="https://thehackernews.com/2022/06/state-backed-hackers-exploit-microsoft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected state-aligned threat actor has been attributed to a new set of attacks exploiting the Microsoft Office "Follina" vulnerability to target government entities in Europe and the U.S.  Enterprise security firm Proofpoint said it blocked attempts at exploiting the remote code execution flaw, which is being tracked  CVE-2022-30190  (CVSS score: 7.8). No less than 1,000 phishing messages containing a lure document were sent to the targets.  "This campaign masqueraded as a salary increase and utilized an RTF with the exploit payload downloaded from 45.76.53[.]253," the company  said  in a series of tweets.   The payload, which manifests in the form of a PowerShell script, is Base64-encoded and functions as a downloader to retrieve a second PowerShell script from a remote server named "seller-notification[.]live."  "This script checks for virtualization, steals information from local browsers, mail clients and file services, conducts machine recon
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit released for Atlassian Confluence RCE bug, patch now<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-atlassian-confluence-rce-bug-patch-now/"> Full Text</a>
@@ -50,7 +471,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2022
+June 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC exploits for Atlassian CVE-2022-26134 RCE flaw released online<a href="https://securityaffairs.co/wordpress/131961/hacking/atlassian-cve-2022-26134-rce-poc.html"> Full Text</a>
@@ -70,7 +491,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 05, 2022
+June 05, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evasive phishing mixes reverse tunnels and URL shortening services<a href="https://www.bleepingcomputer.com/news/security/evasive-phishing-mixes-reverse-tunnels-and-url-shortening-services/"> Full Text</a>
@@ -86,7 +507,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2022
+June 5, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 368 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/131958/breaking-news/security-affairs-newsletter-round-368-by-pierluigi-paganini.html"> Full Text</a>
@@ -110,7 +531,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2022
+June 5, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers stole over $250,000 in Ethereum from Bored Ape Yacht Club<a href="https://securityaffairs.co/wordpress/131950/hacking/bored-ape-yacht-club-hacked.html"> Full Text</a>
@@ -130,7 +551,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2022
+June 5, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian rolled out fixes for Confluence zero-day actively exploited in the wild<a href="https://securityaffairs.co/wordpress/131942/security/atlassian-fixes-confluence-zero-day.html"> Full Text</a>
@@ -150,7 +571,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2022
+June 4, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clipminer group rakes in $1.7 million in crypto hijacking<a href="https://www.theregister.com/2022/06/03/clipminer-cryptocurrency-millions/?&web_view=true"> Full Text</a>
@@ -166,7 +587,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2022
+June 04, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Releases Patch for Confluence Zero-Day Flaw Exploited in the Wild<a href="https://thehackernews.com/2022/06/atlassian-releases-patch-for-confluence.html"> Full Text</a>
@@ -182,7 +603,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2022
+June 4, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ten Eleven Ventures Raises $600M Fund for Cybersecurity Investments<a href="https://www.securityweek.com/ten-eleven-ventures-raises-600m-fund-cybersecurity-investments?&web_view=true"> Full Text</a>
@@ -198,7 +619,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2022
+June 04, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bored Ape Yacht Club, Otherside NFTs stolen in Discord server hack<a href="https://www.bleepingcomputer.com/news/security/bored-ape-yacht-club-otherside-nfts-stolen-in-discord-server-hack/"> Full Text</a>
@@ -214,7 +635,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2022
+June 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian Trading Giant ACY Securities Exposed 60GB of User Data<a href="https://www.hackread.com/australian-trading-giant-acy-securities-exposed-data/?&web_view=true"> Full Text</a>
@@ -230,7 +651,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2022
+June 04, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple blocked 1.6 millions apps from defrauding users in 2021<a href="https://www.bleepingcomputer.com/news/security/apple-blocked-16-millions-apps-from-defrauding-users-in-2021/"> Full Text</a>
@@ -246,7 +667,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 04, 2022
+June 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SMSFactory Android malware sneakily subscribes to premium services<a href="https://www.bleepingcomputer.com/news/security/smsfactory-android-malware-sneakily-subscribes-to-premium-services/"> Full Text</a>
@@ -262,7 +683,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2022
+June 4, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous: Operation Russia after 100 days of war<a href="https://securityaffairs.co/wordpress/131933/hacktivism/anonymous-operation-russia-100-days.html"> Full Text</a>
@@ -282,7 +703,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2022
+June 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitLab addressed critical account take over via SCIM email change<a href="https://securityaffairs.co/wordpress/131928/hacking/gitlab-critical-account-take-over.html"> Full Text</a>
