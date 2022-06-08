@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+June 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian city of Palermo shuts down all systems to fend off cyberattack<a href="https://www.bleepingcomputer.com/news/security/italian-city-of-palermo-shuts-down-all-systems-to-fend-off-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The municipality of Palermo in Southern Italy suffered a cyberattack on Friday, which appears to have had a massive impact on a broad range of operations and services to both citizens and visiting tourists.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

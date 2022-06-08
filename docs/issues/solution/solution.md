@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple's New Feature Will Install Security Updates Automatically Without Full OS Update<a href="https://thehackernews.com/2022/06/apples-new-feature-will-install.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has introduced a Rapid Security Response feature  in iOS 16 and macOS Ventura that's designed to deploy security fixes without the need for a full operating system version update.  "macOS security gets even stronger with new tools that make the Mac more resistant to attack, including Rapid Security Response that works in between normal updates to easily keep security up to date without a reboot," the company&nbsp; said &nbsp;in a statement on Monday.  The feature, which also works on iOS , aims to separate regular software updates from critical security improvements and are applied automatically so that users are quickly protected against in-the-wild attacks  and unexpected threats. It's worth noting that Apple tested an analogous option  in iOS 14.5.   Rapid Security Response, viewed in that light, mirrors a similar approach taken by Google through Play Services  and Play Protect  to secure Android devices from malware and other kinds of fraud.  Another key security fea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

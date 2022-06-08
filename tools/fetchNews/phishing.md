@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows zero-day exploited in US local govt phishing attacks<a href="https://www.bleepingcomputer.com/news/security/windows-zero-day-exploited-in-us-local-govt-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European governments and US local governments were the targets of a phishing campaign using malicious Rich Text Format (RTF) documents designed to exploit a critical Windows zero-day vulnerability known as Follina.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

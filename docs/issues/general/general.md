@@ -8,6 +8,63 @@ nav_order: 900072
 
 ## General
 ---
+June 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conducting Modern Insider Risk Investigations<a href="https://threatpost.com/conducting-modern-insider-risk-investigations/179869/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insider Risk Management requires a different approach than to those from external threats. IRM is unique from other domains of security in that the data sources which serve as inputs are as often people as they are tools. Shifting the analyst‘s mindset when handling risks presented by insiders requires us to move through the stages of inquiry, investigation, and determining outcomes.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Around 94% Reduction in Average Ransomware Attack Duration - IBM<a href="https://cyware.com/news/around-94-reduction-in-average-ransomware-attack-duration-ibm-f6a83827"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM X-Force has analyzed multiple ransomware attack investigations and shared multiple insights for attacks that occurred between 2019 and 2021. The average attack time got reduced to 3.85 days in 2021. X-Force disclosed five main security controls to stop the ransomware attack lifecycle, such as i ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Language-based BEC Attacks on the Rise<a href="https://cyware.com/news/language-based-bec-attacks-on-the-rise-ae541ab8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apart from socially engineered emails, attackers are adopting graymail. Graymails are legitimate-looking emails that can bypass spam filters and can enable attackers to identify out-of-office employees.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Netflix isn't the Only One Bummed About Password Sharing<a href="https://www.bleepingcomputer.com/news/security/why-netflix-isnt-the-only-one-bummed-about-password-sharing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Carnegie Mellen found that as much as 28% of end-users willingly share passwords with others, and a Specops study found that of those who share passwords 21% of people don't know who else their password has been shared with. That's a lot of sharing going on.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

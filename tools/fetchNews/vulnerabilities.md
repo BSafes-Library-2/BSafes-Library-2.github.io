@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Critical Flaws Disclosed in U-Boot Bootloader for Embedded Devices<a href="https://thehackernews.com/2022/06/unpatched-critical-flaws-disclosed-in-u.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed&nbsp; two unpatched security vulnerabilities &nbsp;in the open-source U-Boot boot loader.  The issues, which were uncovered in the&nbsp; IP defragmentation &nbsp;algorithm implemented in U-Boot by NCC Group, could be abused to achieve arbitrary out-of-bounds write and denial-of-service (DoS).  U-Boot is a&nbsp; boot loader &nbsp;used in Linux-based embedded systems such as ChromeOS as well as ebook readers such as Amazon Kindle and Kobo eReader.   The issues are summarized below -   CVE-2022-30790 &nbsp;(CVSS score: 9.6) - Hole Descriptor overwrite in U-Boot IP packet defragmentation leads to an arbitrary out-of-bounds write primitive.  CVE-2022-30552 &nbsp;(CVSS score: 7.1) - Large buffer overflow leads to DoS in U-Boot IP packet defragmentation code   It's worth noting that both the flaws are exploitable only from the local network. But doing so can enable an attacker to root the devices and lead to a DoS by crafting a malformed packet.  The shortcomings are expected to be addr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Red TIM Research discovers a Command Injection with a 9,8 score on Resi<a href="https://securityaffairs.co/wordpress/131985/security/resi-critical-command-injection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the bug hunting activity, Red Team Research (RTR) detected 2 zero-day bugs on GEMINI-NET, a RESI Informatica solution.
+
+
+
+It’s been detected an OS Command Injection, which has been identified from NIST as a Critical one, its score is 9,8.&nbsp;...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched bug chain poses ‘mass account takeover’ threat to Yunmai weight monitoring app<a href="https://portswigger.net/daily-swig/unpatched-bug-chain-poses-mass-account-takeover-threat-to-yunmai-weight-monitoring-app?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A chained, zero-day exploit could potentially expose all user data in the backend of the companion mobile application for a popular smart weight scale, security researchers have claimed.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

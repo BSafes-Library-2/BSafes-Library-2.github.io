@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2022
+June 07, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US seizes SSNDOB market for selling personal info of 24 million people<a href="https://www.bleepingcomputer.com/news/security/us-seizes-ssndob-market-for-selling-personal-info-of-24-million-people/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2022
+June 7, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Follina Exploited in Phishing Attacks<a href="https://cyware.com/news/follina-exploited-in-phishing-attacks-16fca1ae"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2022
+June 07, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evil Corp Cybercrime Group Shifts to LockBit Ransomware to Evade Sanctions<a href="https://thehackernews.com/2022/06/evil-corp-cybercrime-group-shifts-to.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2022
+June 7, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evil Corp gang starts using LockBit Ransomware to evade sanctions<a href="https://securityaffairs.co/wordpress/132031/cyber-crime/evil-corp-lockbit-ransomware.html"> Full Text</a>
@@ -103,7 +103,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2022
+June 7, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conducting Modern Insider Risk Investigations<a href="https://threatpost.com/conducting-modern-insider-risk-investigations/179869/"> Full Text</a>
@@ -119,7 +119,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2022
+June 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US: Chinese govt hackers breached telcos to snoop on network traffic<a href="https://www.bleepingcomputer.com/news/security/us-chinese-govt-hackers-breached-telcos-to-snoop-on-network-traffic/"> Full Text</a>
@@ -135,7 +135,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2022
+June 7, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QBot Delivers Black Basta Ransomware<a href="https://cyware.com/news/qbot-delivers-black-basta-ransomware-176ed81a"> Full Text</a>
@@ -152,7 +152,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2022
+June 07, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacking Scenarios: How Hackers Choose Their Victims<a href="https://thehackernews.com/2022/06/hacking-scenarios-how-hackers-choose.html"> Full Text</a>
@@ -168,7 +168,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2022
+June 7, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta ransomware operators leverage QBot for lateral movements<a href="https://securityaffairs.co/wordpress/132018/hacking/black-basta-ransomware-qbot.html"> Full Text</a>
@@ -188,7 +188,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2022
+June 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SVCReady malware loads from Word doc properties<a href="https://www.bleepingcomputer.com/news/security/new-svcready-malware-loads-from-word-doc-properties/"> Full Text</a>
@@ -204,7 +204,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2022
+June 7, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deadbolt Ransomware Adopts Multi-Tiered Extortion Scheme<a href="https://cyware.com/news/deadbolt-ransomware-adopts-multi-tiered-extortion-scheme-ad3eebfa"> Full Text</a>
@@ -220,7 +220,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2022
+June 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of Spam Campaign Targeting Victims with SVCReady Malware<a href="https://thehackernews.com/2022/06/researchers-warn-of-spam-campaign.html"> Full Text</a>
@@ -236,7 +236,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2022
+June 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qbot malware now uses Windows MSDT zero-day in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/qbot-malware-now-uses-windows-msdt-zero-day-in-phishing-attacks/"> Full Text</a>
@@ -252,7 +252,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2022
+June 7, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Around 94% Reduction in Average Ransomware Attack Duration - IBM<a href="https://cyware.com/news/around-94-reduction-in-average-ransomware-attack-duration-ibm-f6a83827"> Full Text</a>
@@ -269,7 +269,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2022
+June 07, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux version of Black Basta ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/linux-version-of-black-basta-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
@@ -285,7 +285,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2022
+June 7, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Karakurt Steals Data and Demands Ransom - FBI Warns<a href="https://cyware.com/news/karakurt-steals-data-and-demands-ransom-fbi-warns-d7c79a56"> Full Text</a>
@@ -301,7 +301,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2022
+June 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ‘DogWalk’ Windows zero-day bug gets free unofficial patches<a href="https://www.bleepingcomputer.com/news/security/new-dogwalk-windows-zero-day-bug-gets-free-unofficial-patches/"> Full Text</a>
@@ -317,7 +317,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2022
+June 7, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 YourCyanide: Latest CMD-Based Ransomware with Advanced Capabilities<a href="https://cyware.com/news/yourcyanide-latest-cmd-based-ransomware-with-advanced-capabilities-518371ac"> Full Text</a>
@@ -333,7 +333,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2022
+June 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Online gun shops in the US hacked to steal credit cards<a href="https://www.bleepingcomputer.com/news/security/online-gun-shops-in-the-us-hacked-to-steal-credit-cards/"> Full Text</a>
@@ -349,7 +349,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2022
+June 7, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Language-based BEC Attacks on the Rise<a href="https://cyware.com/news/language-based-bec-attacks-on-the-rise-ae541ab8"> Full Text</a>
@@ -365,7 +365,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2022
+June 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shields Health Care Group data breach affects 2 million patients<a href="https://www.bleepingcomputer.com/news/security/shields-health-care-group-data-breach-affects-2-million-patients/"> Full Text</a>
@@ -381,7 +381,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2022
+June 7, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Awareness Firm CybSafe Bags $28 Million in Series B Funding<a href="https://www.securityweek.com/security-awareness-firm-cybsafe-bags-28-million-series-b-funding?&web_view=true"> Full Text</a>
@@ -397,7 +397,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2022
+June 07, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Netflix isn't the Only One Bummed About Password Sharing<a href="https://www.bleepingcomputer.com/news/security/why-netflix-isnt-the-only-one-bummed-about-password-sharing/"> Full Text</a>
@@ -413,7 +413,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2022
+June 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android June 2022 updates bring fix for critical RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/android-june-2022-updates-bring-fix-for-critical-rce-vulnerability/"> Full Text</a>
@@ -429,7 +429,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 06, 2022
+June 06, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple's New Feature Will Install Security Updates Automatically Without Full OS Update<a href="https://thehackernews.com/2022/06/apples-new-feature-will-install.html"> Full Text</a>

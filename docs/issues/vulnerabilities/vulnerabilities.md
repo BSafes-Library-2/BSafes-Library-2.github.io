@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘DogWalk’ Windows zero-day bug gets free unofficial patches<a href="https://www.bleepingcomputer.com/news/security/new-dogwalk-windows-zero-day-bug-gets-free-unofficial-patches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Free unofficial patches for a new Windows zero-day vulnerability in the Microsoft Support Diagnostic Tool (MSDT) have been released today through the 0patch platform.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android June 2022 updates bring fix for critical RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/android-june-2022-updates-bring-fix-for-critical-rce-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released the June 2022 security updates for Android devices running OS versions 10, 11, and 12, fixing 41 vulnerabilities, five rated critical.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

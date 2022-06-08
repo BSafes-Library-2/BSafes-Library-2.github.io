@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+June 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Spam Campaign Targeting Victims with SVCReady Malware<a href="https://thehackernews.com/2022/06/researchers-warn-of-spam-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of phishing campaigns has been observed spreading a previously documented malware called SVCReady .  "The malware is notable for the unusual way it is delivered to target PCs — using shellcode hidden in the properties of Microsoft Office documents," Patrick Schläpfer, a threat analyst at HP,&nbsp; said &nbsp;in a technical write-up.  SVCReady is said to be in its early stage of development, with the authors iteratively updating the malware several times last month. First signs of activity date back to April 22, 2022.  Infection chains involve sending Microsoft Word document attachments to targets via email that contain VBA macros to activate the deployment of malicious payloads.   But where this campaign stands apart is that instead of employing PowerShell or MSHTA to retrieve next-stage executables from a remote server, the macro runs shellcode stored in the&nbsp; document properties , which subsequently drops the SVCReady malware.  In addition to achieving persistence on the i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online gun shops in the US hacked to steal credit cards<a href="https://www.bleepingcomputer.com/news/security/online-gun-shops-in-the-us-hacked-to-steal-credit-cards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rainier Arms and Numrich Gun Parts, two American gun shops that operate e-commerce sites on rainierarms.com and gunpartscorp.com, have disclosed data breach incidents resulting from card skimmer infections on their sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

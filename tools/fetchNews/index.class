@@ -34,6 +34,417 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US seizes SSNDOB market for selling personal info of 24 million people<a href="https://www.bleepingcomputer.com/news/security/us-seizes-ssndob-market-for-selling-personal-info-of-24-million-people/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SSNDOB, an online marketplace that sold the names, social security numbers, and dates of birth of approximately 24 million US people, has been taken offline following an international law enforcement operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Follina Exploited in Phishing Attacks<a href="https://cyware.com/news/follina-exploited-in-phishing-attacks-16fca1ae"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. local governments and European governments were targeted in a phishing campaign using malicious RTF documents that abuse the Windows Follina flaw. The attack gathers passwords from a large number of browsers including Chrome, Firefox, Edge, Opera, Yandex, Vivaldi, and CentBrowser. The CISA sug ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp Cybercrime Group Shifts to LockBit Ransomware to Evade Sanctions<a href="https://thehackernews.com/2022/06/evil-corp-cybercrime-group-shifts-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat cluster dubbed UNC2165, which shares numerous overlaps with a Russia-based cybercrime group known as Evil Corp, has been linked to multiple LockBit ransomware intrusions in an attempt to get around  sanctions  imposed by the U.S. Treasury in December 2019.  "These actors have shifted away from using exclusive ransomware variants to LockBit — a well-known ransomware as a service (RaaS) — in their operations, likely to hinder attribution efforts in order to evade sanctions," threat intelligence firm Mandiant  noted  in an analysis last week.  Active since 2019, UNC2165 is known to obtain initial access to victim networks via stolen credentials and a JavaScript-based downloader malware called  FakeUpdates  (aka SocGholish), leveraging it to previously deploy  Hades  ransomware.   Hades is the work of a financially motivated hacking group named Evil Corp, which is also called by the monikers Gold Drake and Indrik Spider and has been attributed to the infamous  Dridex
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp gang starts using LockBit Ransomware to evade sanctions<a href="https://securityaffairs.co/wordpress/132031/cyber-crime/evil-corp-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant researchers associate multiple LockBit ransomware attacks with the notorious Evil Corp Cybercrime Group.
+
+
+
+Mandiant researchers have investigated multiple LOCKBIT ransomware attacks that have been attributed to the financially motivated threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conducting Modern Insider Risk Investigations<a href="https://threatpost.com/conducting-modern-insider-risk-investigations/179869/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insider Risk Management requires a different approach than to those from external threats. IRM is unique from other domains of security in that the data sources which serve as inputs are as often people as they are tools. Shifting the analyst‘s mindset when handling risks presented by insiders requires us to move through the stages of inquiry, investigation, and determining outcomes.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US: Chinese govt hackers breached telcos to snoop on network traffic<a href="https://www.bleepingcomputer.com/news/security/us-chinese-govt-hackers-breached-telcos-to-snoop-on-network-traffic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several US federal agencies today revealed that Chinese-backed threat actors have targeted and compromised major telecommunications companies and network service providers to steal credentials and harvest data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QBot Delivers Black Basta Ransomware<a href="https://cyware.com/news/qbot-delivers-black-basta-ransomware-176ed81a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NCC Group has reported that the Black Basta ransomware group has formed an alliance with QBot for lateral movement across the target network. Additionally, the attackers were spotted using Cobalt Strike beacons during the compromise. QBot is still propagated via malicious emails, users should stay  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking Scenarios: How Hackers Choose Their Victims<a href="https://thehackernews.com/2022/06/hacking-scenarios-how-hackers-choose.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enforcing the "double-extortion" technique aka pay-now-or-get-breached emerged as a head-turner last year.   May 6th, 2022 is a recent example.  The State Department said the Conti strain of ransomware was the most costly in terms of payments made by victims as of January .  Conti, a ransomware-as-a-service (RaaS) program, is one of the most notorious ransomware groups and has been responsible for infecting hundreds of servers with malware to gain corporate data or digital damage systems, essentially spreading misery to individuals and hospitals, businesses, government agencies and more all over the world.  So, how different is a  ransomware attack  like Conti from the infamous "WannaCry" or "NotPetya"?  While other Ransomware variants can spread fast and encrypt files within short time frames, Conti ransomware has demonstrated unmatched speed by which it can access victims' systems.  Given the recent spate of data breaches, it is extremely challengin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta ransomware operators leverage QBot for lateral movements<a href="https://securityaffairs.co/wordpress/132018/hacking/black-basta-ransomware-qbot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The QBot malware operation has partnered with Black Basta ransomware group to target organizations worldwide.
+
+
+
+Researchers from NCC Group spotted a new partnership in the threat landscape between the Black Basta ransomware group and the QBot malware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SVCReady malware loads from Word doc properties<a href="https://www.bleepingcomputer.com/news/security/new-svcready-malware-loads-from-word-doc-properties/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown malware loader named SVCReady has been discovered in phishing attacks, featuring an unusual way of loading the malware from Word documents onto compromised machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deadbolt Ransomware Adopts Multi-Tiered Extortion Scheme<a href="https://cyware.com/news/deadbolt-ransomware-adopts-multi-tiered-extortion-scheme-ad3eebfa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not only QNAP but Asustor—another NAS devices vendor—underwent DeadBolt attacks in February. The next month, the attackers again shifted to targeting QNAP devices and the number of infections reached 1,146.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Spam Campaign Targeting Victims with SVCReady Malware<a href="https://thehackernews.com/2022/06/researchers-warn-of-spam-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of phishing campaigns has been observed spreading a previously documented malware called SVCReady .  "The malware is notable for the unusual way it is delivered to target PCs — using shellcode hidden in the properties of Microsoft Office documents," Patrick Schläpfer, a threat analyst at HP,  said  in a technical write-up.  SVCReady is said to be in its early stage of development, with the authors iteratively updating the malware several times last month. First signs of activity date back to April 22, 2022.  Infection chains involve sending Microsoft Word document attachments to targets via email that contain VBA macros to activate the deployment of malicious payloads.   But where this campaign stands apart is that instead of employing PowerShell or MSHTA to retrieve next-stage executables from a remote server, the macro runs shellcode stored in the  document properties , which subsequently drops the SVCReady malware.  In addition to achieving persistence on the i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qbot malware now uses Windows MSDT zero-day in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/qbot-malware-now-uses-windows-msdt-zero-day-in-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical Windows zero-day vulnerability, known as Follina and still waiting for an official fix from Microsoft, is now being actively exploited in ongoing phishing attacks to infect recipients with Qbot malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Around 94% Reduction in Average Ransomware Attack Duration - IBM<a href="https://cyware.com/news/around-94-reduction-in-average-ransomware-attack-duration-ibm-f6a83827"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM X-Force has analyzed multiple ransomware attack investigations and shared multiple insights for attacks that occurred between 2019 and 2021. The average attack time got reduced to 3.85 days in 2021. X-Force disclosed five main security controls to stop the ransomware attack lifecycle, such as i ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux version of Black Basta ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/linux-version-of-black-basta-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Basta is the latest ransomware gang to add support for encrypting VMware ESXi virtual machines running on enterprise Linux servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Karakurt Steals Data and Demands Ransom - FBI Warns<a href="https://cyware.com/news/karakurt-steals-data-and-demands-ransom-fbi-warns-d7c79a56"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a part of the extortion routine, the attackers send ransom notes to the employees of the victim firm, threatening to leak the stolen information. The twist is that although there is a deadline for paying the ransom, the hackers do not sit and wait.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘DogWalk’ Windows zero-day bug gets free unofficial patches<a href="https://www.bleepingcomputer.com/news/security/new-dogwalk-windows-zero-day-bug-gets-free-unofficial-patches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Free unofficial patches for a new Windows zero-day vulnerability in the Microsoft Support Diagnostic Tool (MSDT) have been released today through the 0patch platform. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YourCyanide: Latest CMD-Based Ransomware with Advanced Capabilities<a href="https://cyware.com/news/yourcyanide-latest-cmd-based-ransomware-with-advanced-capabilities-518371ac"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With multiple obfuscation layers, the ransomware leverages custom environment variables, as well as the Enable Delayed Expansion function, to evade detection.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online gun shops in the US hacked to steal credit cards<a href="https://www.bleepingcomputer.com/news/security/online-gun-shops-in-the-us-hacked-to-steal-credit-cards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rainier Arms and Numrich Gun Parts, two American gun shops that operate e-commerce sites on rainierarms.com and gunpartscorp.com, have disclosed data breach incidents resulting from card skimmer infections on their sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Language-based BEC Attacks on the Rise<a href="https://cyware.com/news/language-based-bec-attacks-on-the-rise-ae541ab8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apart from socially engineered emails, attackers are adopting graymail. Graymails are legitimate-looking emails that can bypass spam filters and can enable attackers to identify out-of-office employees.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shields Health Care Group data breach affects 2 million patients<a href="https://www.bleepingcomputer.com/news/security/shields-health-care-group-data-breach-affects-2-million-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shields Health Care Group (Shields) suffered a data breach that exposed the data of approximately 2,000,000 people in the United States after hackers breached their network and stole data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Awareness Firm CybSafe Bags $28 Million in Series B Funding<a href="https://www.securityweek.com/security-awareness-firm-cybsafe-bags-28-million-series-b-funding?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new Series B investment round was led by Evolution Equity Partners, with participation from Emerald Development Managers, Hannover Digital Investments (HDI), and IQ Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Netflix isn't the Only One Bummed About Password Sharing<a href="https://www.bleepingcomputer.com/news/security/why-netflix-isnt-the-only-one-bummed-about-password-sharing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Carnegie Mellen found that as much as 28% of end-users willingly share passwords with others, and a Specops study found that of those who share passwords 21% of people don't know who else their password has been shared with. That's a lot of sharing going on.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android June 2022 updates bring fix for critical RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/android-june-2022-updates-bring-fix-for-critical-rce-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released the June 2022 security updates for Android devices running OS versions 10, 11, and 12, fixing 41 vulnerabilities, five rated critical.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple's New Feature Will Install Security Updates Automatically Without Full OS Update<a href="https://thehackernews.com/2022/06/apples-new-feature-will-install.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has introduced a Rapid Security Response feature  in iOS 16 and macOS Ventura that's designed to deploy security fixes without the need for a full operating system version update.  "macOS security gets even stronger with new tools that make the Mac more resistant to attack, including Rapid Security Response that works in between normal updates to easily keep security up to date without a reboot," the company  said  in a statement on Monday.  The feature, which also works on iOS , aims to separate regular software updates from critical security improvements and are applied automatically so that users are quickly protected against in-the-wild attacks  and unexpected threats. It's worth noting that Apple tested an analogous option  in iOS 14.5.   Rapid Security Response, viewed in that light, mirrors a similar approach taken by Google through Play Services  and Play Protect  to secure Android devices from malware and other kinds of fraud.  Another key security fea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 06, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

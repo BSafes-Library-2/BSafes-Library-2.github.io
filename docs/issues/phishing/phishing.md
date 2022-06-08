@@ -8,6 +8,21 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Follina Exploited in Phishing Attacks<a href="https://cyware.com/news/follina-exploited-in-phishing-attacks-16fca1ae"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. local governments and European governments were targeted in a phishing campaign using malicious RTF documents that abuse the Windows Follina flaw. The attack gathers passwords from a large number of browsers including Chrome, Firefox, Edge, Opera, Yandex, Vivaldi, and CentBrowser. The CISA sug ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

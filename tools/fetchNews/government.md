@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+June 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warned About Critical Vulnerabilities in Illumina's DNA Sequencing Devices<a href="https://thehackernews.com/2022/06/cisa-warned-about-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Food and Drug Administration (FDA) have issued an advisory about critical security vulnerabilities in Illumina's next-generation sequencing ( NGS ) software.  Three of the flaws are rated 10 out of 10 for severity on the Common Vulnerability Scoring System ( CVSS ), with two others having severity ratings of 9.1 and 7.4.  The issues impact software in medical devices used for "clinical diagnostic use in sequencing a person's DNA or testing for various genetic conditions, or for research use only,"&nbsp; according to the FDA .   "Successful exploitation of these vulnerabilities may allow an unauthenticated malicious actor to take control of the affected product remotely and take any action at the operating system level," CISA&nbsp; said &nbsp;in an alert.  "An attacker could impact settings, configurations, software, or data on the affected product and interact through the affected product with the c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

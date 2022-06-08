@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+June 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Awareness Firm CybSafe Bags $28 Million in Series B Funding<a href="https://www.securityweek.com/security-awareness-firm-cybsafe-bags-28-million-series-b-funding?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new Series B investment round was led by Evolution Equity Partners, with participation from Emerald Development Managers, Hannover Digital Investments (HDI), and IQ Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

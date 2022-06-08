@@ -8,6 +8,66 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp gang starts using LockBit Ransomware to evade sanctions<a href="https://securityaffairs.co/wordpress/132031/cyber-crime/evil-corp-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant researchers associate multiple LockBit ransomware attacks with the notorious Evil Corp Cybercrime Group.
+
+
+
+Mandiant researchers have investigated multiple&nbsp;LOCKBIT&nbsp;ransomware attacks that have been attributed to the financially motivated threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deadbolt Ransomware Adopts Multi-Tiered Extortion Scheme<a href="https://cyware.com/news/deadbolt-ransomware-adopts-multi-tiered-extortion-scheme-ad3eebfa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not only QNAP but Asustor—another NAS devices vendor—underwent DeadBolt attacks in February. The next month, the attackers again shifted to targeting QNAP devices and the number of infections reached 1,146.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux version of Black Basta ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/linux-version-of-black-basta-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Basta is the latest ransomware gang to add support for encrypting&nbsp;VMware ESXi virtual machines running on enterprise Linux servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YourCyanide: Latest CMD-Based Ransomware with Advanced Capabilities<a href="https://cyware.com/news/yourcyanide-latest-cmd-based-ransomware-with-advanced-capabilities-518371ac"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With multiple obfuscation layers, the ransomware leverages custom environment variables, as well as the Enable Delayed Expansion function, to evade detection.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

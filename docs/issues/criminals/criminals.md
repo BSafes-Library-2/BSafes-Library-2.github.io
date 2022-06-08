@@ -8,6 +8,67 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US seizes SSNDOB market for selling personal info of 24 million people<a href="https://www.bleepingcomputer.com/news/security/us-seizes-ssndob-market-for-selling-personal-info-of-24-million-people/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SSNDOB, an online marketplace that sold the names, social security numbers, and dates of birth of approximately 24 million US people, has been taken offline following an international law enforcement operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp Cybercrime Group Shifts to LockBit Ransomware to Evade Sanctions<a href="https://thehackernews.com/2022/06/evil-corp-cybercrime-group-shifts-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat cluster dubbed UNC2165, which shares numerous overlaps with a Russia-based cybercrime group known as Evil Corp, has been linked to multiple LockBit ransomware intrusions in an attempt to get around&nbsp; sanctions &nbsp;imposed by the U.S. Treasury in December 2019.  "These actors have shifted away from using exclusive ransomware variants to LockBit — a well-known ransomware as a service (RaaS) — in their operations, likely to hinder attribution efforts in order to evade sanctions," threat intelligence firm Mandiant&nbsp; noted &nbsp;in an analysis last week.  Active since 2019, UNC2165 is known to obtain initial access to victim networks via stolen credentials and a JavaScript-based downloader malware called&nbsp; FakeUpdates &nbsp;(aka SocGholish), leveraging it to previously deploy&nbsp; Hades &nbsp;ransomware.   Hades is the work of a financially motivated hacking group named Evil Corp, which is also called by the monikers Gold Drake and Indrik Spider and has been attributed to the infamous&nbsp; Dridex
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QBot Delivers Black Basta Ransomware<a href="https://cyware.com/news/qbot-delivers-black-basta-ransomware-176ed81a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NCC Group has reported that the Black Basta ransomware group has formed an alliance with QBot for lateral movement across the target network. Additionally, the attackers were spotted using Cobalt Strike beacons during the compromise. QBot is still propagated via malicious emails, users should stay  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta ransomware operators leverage QBot for lateral movements<a href="https://securityaffairs.co/wordpress/132018/hacking/black-basta-ransomware-qbot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The QBot malware operation has partnered with Black Basta ransomware group to target organizations worldwide.
+
+
+
+Researchers from NCC Group spotted a new partnership in the threat landscape between the Black Basta ransomware group and the QBot malware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

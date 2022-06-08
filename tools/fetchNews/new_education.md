@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking Scenarios: How Hackers Choose Their Victims<a href="https://thehackernews.com/2022/06/hacking-scenarios-how-hackers-choose.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enforcing the "double-extortion" technique aka pay-now-or-get-breached emerged as a head-turner last year.&nbsp;  May 6th, 2022 is a recent example.  The State Department said the Conti strain of ransomware was the most costly in terms of payments made by victims as of January .  Conti, a ransomware-as-a-service (RaaS) program, is one of the most notorious ransomware groups and has been responsible for infecting hundreds of servers with malware to gain corporate data or digital damage systems, essentially spreading misery to individuals and hospitals, businesses, government agencies and more all over the world.  So, how different is a&nbsp; ransomware attack &nbsp;like Conti from the infamous "WannaCry" or "NotPetya"?  While other Ransomware variants can spread fast and encrypt files within short time frames, Conti ransomware has demonstrated unmatched speed by which it can access victims' systems.  Given the recent spate of data breaches, it is extremely challengin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

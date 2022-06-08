@@ -8,6 +8,76 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QBot now pushes Black Basta ransomware in bot-powered attacks<a href="https://www.bleepingcomputer.com/news/security/qbot-now-pushes-black-basta-ransomware-in-bot-powered-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Basta ransomware gang has partnered with the QBot malware operation to gain spread laterally through hacked corporate environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp Shifts to LockBit to Evade Sanctions<a href="https://cyware.com/news/evil-corp-shifts-to-lockbit-to-evade-sanctions-486d6cb7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2019, the U.S. Treasury issued sanctions against 17 individuals and seven entities of Evil Corp cyber operations for causing financial losses of more than $100 million with the Dridex malware.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs now give victims time to save their reputation<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-now-give-victims-time-to-save-their-reputation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have observed an unusual trend in ransomware group tactics, reporting that initial phases of victim extortion are becoming less open to the public as the actors tend to use hidden or anonymous entries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Shuts Down Bohrium and Polonium Operations<a href="https://cyware.com/news/microsoft-shuts-down-bohrium-and-polonium-operations-7d2a3460"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Digital Crimes Unit (DCU) has successfully dismantled a spear-phishing operation associated with an Iranian threat actor, named Bohrium, that targeted customers in the Middle East, the U.S., and India.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AlphaBay Is Taking Over the Dark Web—Again<a href="https://www.wired.com/story/alphabay-dark-web-market-ranking/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In July 2017, a global law enforcement sting called Operation Bayonet took down AlphaBay’s sprawling marketplace, seizing the site’s central server in Lithuania and arresting its creator, Alexandre Cazes, outside his home in Bangkok.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
