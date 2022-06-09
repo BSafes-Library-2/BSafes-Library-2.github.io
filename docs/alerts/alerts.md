@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+People’s Republic of China State-Sponsored Cyber Actors Exploit Network Providers and Devices <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/06/07/peoples-republic-china-state-sponsored-cyber-actors-exploit"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA, the National Security Agency (NSA), and the Federal Bureau of Investigation (FBI) have released a joint Cybersecurity Advisory (CSA) to provide information on ways in which People’s Republic of China (PRC) state-sponsored cyber actors continue to exploit publicly known vulnerabilities in order to establish a broad network of compromised infrastructure across public and private sector organizations. The advisory details PRC state-sponsored targeting and compromise of major telecommunications companies and network service providers. It also provides information on the top vulnerabilities associated with network devices routinely exploited by PRC cyber actors since 2020.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 2, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

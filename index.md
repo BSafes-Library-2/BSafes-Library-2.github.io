@@ -34,6 +34,86 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hacking group Aoqin Dragon quietly spied orgs for a decade<a href="https://www.bleepingcomputer.com/news/security/chinese-hacking-group-aoqin-dragon-quietly-spied-orgs-for-a-decade/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown Chinese-speaking threat actor has been uncovered by threat analysts SentinelLabs who were able to link it to malicious activity going as far back as 2013.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India Revamps Rules On Mandatory Incident Reporting and Allied Compliances<a href="https://www.natlawreview.com/article/cyber-security-india-revamps-rules-mandatory-incident-reporting-and-allied?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Considering the wide wording of the Direction, it is likely to be applicable to almost each and every type of business operating within India. The Direction will be effective from June 28, 2022.
+</details>
+<div style="text-align: right" markdown="1">
+The National Law Review
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Decade-Long Chinese Espionage Campaign Targets Southeast Asia and Australia<a href="https://thehackernews.com/2022/06/a-decade-long-chinese-espionage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented Chinese-speaking advanced persistent threat (APT) actor dubbed  Aoqin Dragon  has been linked to a string of espionage-oriented attacks aimed at government, education, and telecom entities chiefly in Southeast Asia and Australia dating as far back as 2013.  "Aoqin Dragon seeks initial access primarily through document exploits and the use of fake removable devices," SentinelOne researcher Joey Chen  said  in a report shared with The Hacker News. "Other techniques the attacker has been observed using include DLL hijacking,  Themida-packed files , and DNS tunneling to evade post-compromise detection."  The group is said to have some level of association with another threat actor known as  Naikon  (aka Override Panda), with campaigns primarily directed against targets in Australia, Cambodia, Hong Kong, Singapore, and Vietnam.   Infections chains mounted by Aoqin Dragon have banked on Asia-Pacific political affairs and pornographic-themed docu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA director promotes collaboration and trust at RSAC 2022<a href="https://www.techtarget.com/searchsecurity/news/252521282/CISA-director-promotes-collaboration-and-trust-at-RSAC-2022?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA Director Jen Easterly said there's growing momentum for stronger collaboration and communication between government agencies like CISA and private-sector cybersecurity companies.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decentralized Crypto Exchange Goes Offline After Hacker Steals $113 Million<a href="https://www.vice.com/en/article/88q45a/decentralized-crypto-exchange-maiar-offline-after-hacker-steals-dollar113m?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a blockchain researcher who goes by Foudres, the hacker stole around 1,650,000 EGLD, the native token of the Elrond blockchain, with around $113 million at the time of the hack.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 9, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

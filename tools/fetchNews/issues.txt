@@ -30,8 +30,6 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts: 
-. https://cyware.com/news/cisa-issues-warning-on-chinese-cyber-espionage-attacks-f9617188
-
 
 Law
 
