@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+June 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tainted CCleaner Pro Cracker spreads via Black Seo campaign<a href="https://securityaffairs.co/wordpress/132076/cyber-crime/ccleaner-black-seo-malware-fakecrack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors spread info-stealing malware through the search results for a pirated copy of the CCleaner Pro Windows optimization program.
+
+
+
+Researchers from Avast have uncovered a malware campaign, tracked as FakeCrack,&nbsp;spreading through the search...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MakeMoney malvertising campaign adds fake update template<a href="https://blog.malwarebytes.com/threat-intelligence/2022/06/makemoney-malvertising-campaign-adds-fake-update-template/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malwarebytes researchers identified a malvertising campaign leading to a fake Firefox update. The template is strongly inspired from similar schemes and in particular the one distributed by the FakeUpdates (SocGholish) threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Follina Exploited by State-Sponsored Hackers<a href="https://threatpost.com/follina-exploited-by-state-sponsored-hackers/179890/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A government-aligned attacker tried using a Microsoft vulnerability to attack U.S. and E.U. government targets.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

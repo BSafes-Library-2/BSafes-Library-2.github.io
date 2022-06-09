@@ -8,6 +8,42 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba ransomware returns to extorting victims with updated encryptor<a href="https://www.bleepingcomputer.com/news/security/cuba-ransomware-returns-to-extorting-victims-with-updated-encryptor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cuba ransomware operation has returned to regular operations with a new version of its malware found used in recent attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta ransomware now supports encrypting VMware ESXi servers<a href="https://securityaffairs.co/wordpress/132037/hacking/black-basta-ransomware-vmware-esxi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Basta ransomware gang implemented a new feature to encrypt VMware ESXi virtual machines (VMs) running on Linux servers.
+
+
+
+The Black Basta ransomware gang now supports encryption of VMware ESXi virtual machines (VMs) running on Linux servers. 
+
+
+
+Researchers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

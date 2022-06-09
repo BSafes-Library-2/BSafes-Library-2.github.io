@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+June 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Clarifies Criteria for Adding Vulnerabilities to 'Must Patch' List<a href="https://www.securityweek.com/cisa-clarifies-criteria-adding-vulnerabilities-must-patch-list?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some of the vulnerabilities added by CISA to its Must Patch list were discovered more than a decade ago and for some flaws there do not appear to be any public reports describing malicious exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Agencies Warn About Chinese Hackers Targeting Telecoms and Network Service Providers<a href="https://thehackernews.com/2022/06/us-agencies-warn-about-chinese-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. cybersecurity and intelligence agencies have&nbsp; warned &nbsp;about China-based state-sponsored cyber actors leveraging network vulnerabilities to exploit public and private sector organizations since at least 2020.  The widespread intrusion campaigns aim to exploit publicly identified security flaws in network devices such as Small Office/Home Office (SOHO) routers and Network Attached Storage (NAS) devices with the goal of gaining deeper access to victim networks.  In addition, the actors used these compromised devices as route command-and-control (C2) traffic to break into other targets at scale, the U.S. National Security Agency (NSA), the Cybersecurity and Infrastructure Security Agency (CISA), and the Federal Bureau of Investigation (FBI)&nbsp; said &nbsp;in a joint advisory.   The perpetrators, besides shifting their tactics in response to public disclosures, are known to employ a mix of open-source and custom tools for reconnaissance and vulnerability scanning as well as to obscure and ble
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Warning on Chinese Cyber Espionage Attacks<a href="https://cyware.com/news/cisa-issues-warning-on-chinese-cyber-espionage-attacks-f9617188"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are exploiting vulnerabilities affecting Cisco devices, four affecting QNAP devices, two affecting Pulse Secure devices, and one each in devices from Citrix, D-Link, Fortinet, Netgear, MikroTik, and DrayTek.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

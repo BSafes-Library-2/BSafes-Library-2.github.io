@@ -34,6 +34,434 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The scope of artificial intelligence in fighting cybercrime<a href="https://cio.economictimes.indiatimes.com/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Effective use of new-age technologies like artificial intelligence, machine learning, and blockchain can help prevent cyber frauds and make ecosystems safe and secure for individuals and businesses.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Emotet variant uses a module to steal data from Google Chrome<a href="https://securityaffairs.co/wordpress/132090/cyber-crime/emotet-google-chrome-info-stealer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new variant of the Emotet bot that uses a new module to steal credit card information stored in the Chrome web browser.
+
+
+
+Proofpoint researchers reported a new wave of Emotet infections, in particular, a new variant is using a new info-stealing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Clarifies Criteria for Adding Vulnerabilities to 'Must Patch' List<a href="https://www.securityweek.com/cisa-clarifies-criteria-adding-vulnerabilities-must-patch-list?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some of the vulnerabilities added by CISA to its Must Patch list were discovered more than a decade ago and for some flaws there do not appear to be any public reports describing malicious exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tainted CCleaner Pro Cracker spreads via Black Seo campaign<a href="https://securityaffairs.co/wordpress/132076/cyber-crime/ccleaner-black-seo-malware-fakecrack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors spread info-stealing malware through the search results for a pirated copy of the CCleaner Pro Windows optimization program.
+
+
+
+Researchers from Avast have uncovered a malware campaign, tracked as FakeCrack, spreading through the search...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MakeMoney malvertising campaign adds fake update template<a href="https://blog.malwarebytes.com/threat-intelligence/2022/06/makemoney-malvertising-campaign-adds-fake-update-template/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malwarebytes researchers identified a malvertising campaign leading to a fake Firefox update. The template is strongly inspired from similar schemes and in particular the one distributed by the FakeUpdates (SocGholish) threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kali Linux team to stream free penetration testing course on Twitch<a href="https://www.bleepingcomputer.com/news/security/kali-linux-team-to-stream-free-penetration-testing-course-on-twitch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Offensive Security, the creators of Kali Linux, announced today that they would be offering free access to their live-streamed 'Penetration Testing with Kali Linux (PEN-200/PWK)' training course later this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Emotet Variant Stealing Users' Credit Card Information from Google Chrome<a href="https://thehackernews.com/2022/06/new-emotet-variant-stealing-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Image Source: Toptal  The notorious Emotet malware has turned to deploy a new module designed to siphon credit card information stored in the Chrome web browser.  The credit card stealer, which exclusively singles out Chrome, has the ability to exfiltrate the collected information to different remote command-and-control (C2) servers, according to enterprise security company  Proofpoint , which observed the component on June 6.  The development comes amid a  spike  in  Emotet   activity  since it was resurrected late last year following a 10-month-long hiatus in the wake of a law enforcement operation that  took down its attack infrastructure  in January 2021.  Emotet, attributed to a threat actor known as TA542 (aka Mummy Spider or Gold Crestwood), is an advanced, self-propagating and modular trojan that's delivered via email campaigns and is used as a distributor for other payloads such as ransomware.   As of April 2022, Emotet is still the most popular malware with a global impac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Facebook Messenger phishing operation generates millions<a href="https://www.bleepingcomputer.com/news/security/massive-facebook-messenger-phishing-operation-generates-millions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered a large-scale phishing operation that abused Facebook and Messenger to lure millions of users to phishing pages, tricking them into entering their account credentials and seeing advertisements.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Unpatched "DogWalk" Microsoft Windows Vulnerability<a href="https://thehackernews.com/2022/06/researchers-warn-of-unpatched-dogwalk.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unofficial security patch has been made available for a new Windows zero-day vulnerability in the Microsoft Support Diagnostic Tool (MSDT), even as the Follina flaw continues to be exploited in the wild.  The issue — referenced as  DogWalk  — relates to a path traversal flaw that can be exploited to stash a malicious executable file to the Windows Startup folder when a potential target opens a specially crafted ".diagcab" archive file that contains a diagnostics configuration file.  The idea is that the payload would get executed the next time the victim logs in to the system after a restart. The vulnerability affects all Windows versions, starting from Windows 7 and Server Server 2008 to the latest releases.   DogWalk was originally  disclosed  by security researcher Imre Rad in January 2020 after Microsoft, having acknowledged the problem, deemed it as not a security issue.  "There are a number of file types that can execute code in such a way but aren't techni
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux botnets now exploit critical Atlassian Confluence bug<a href="https://www.bleepingcomputer.com/news/security/linux-botnets-now-exploit-critical-atlassian-confluence-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several botnets are now using exploits targeting a critical remote code execution (RCE) vulnerability to infect Linux servers running unpatched Atlassian Confluence Server and Data Center installs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Agencies Warn About Chinese Hackers Targeting Telecoms and Network Service Providers<a href="https://thehackernews.com/2022/06/us-agencies-warn-about-chinese-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. cybersecurity and intelligence agencies have  warned  about China-based state-sponsored cyber actors leveraging network vulnerabilities to exploit public and private sector organizations since at least 2020.  The widespread intrusion campaigns aim to exploit publicly identified security flaws in network devices such as Small Office/Home Office (SOHO) routers and Network Attached Storage (NAS) devices with the goal of gaining deeper access to victim networks.  In addition, the actors used these compromised devices as route command-and-control (C2) traffic to break into other targets at scale, the U.S. National Security Agency (NSA), the Cybersecurity and Infrastructure Security Agency (CISA), and the Federal Bureau of Investigation (FBI)  said  in a joint advisory.   The perpetrators, besides shifting their tactics in response to public disclosures, are known to employ a mix of open-source and custom tools for reconnaissance and vulnerability scanning as well as to obscure and ble
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+0Patch released unofficial security patch for new DogWalk Windows zero-day<a href="https://securityaffairs.co/wordpress/132070/hacking/unofficial-security-patch-dogwalk.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+0patch researchers released an unofficial security patch for  a Windows zero-day vulnerability dubbed DogWalk.
+
+
+
+0patch released an unofficial security patch for a new Windows zero-day vulnerability in the Microsoft Support Diagnostic Tool (MSDT) dubbed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet malware now steals credit cards from Google Chrome users<a href="https://www.bleepingcomputer.com/news/security/emotet-malware-now-steals-credit-cards-from-google-chrome-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet botnet is now attempting to infect potential victims with a credit card stealer module designed to harvest credit card information stored in Google Chrome user profiles.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Warning on Chinese Cyber Espionage Attacks<a href="https://cyware.com/news/cisa-issues-warning-on-chinese-cyber-espionage-attacks-f9617188"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are exploiting vulnerabilities affecting Cisco devices, four affecting QNAP devices, two affecting Pulse Secure devices, and one each in devices from Citrix, D-Link, Fortinet, Netgear, MikroTik, and DrayTek.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US dismantled and seized SSNDOB cybercrime marketplace<a href="https://securityaffairs.co/wordpress/132061/cyber-crime/us-seized-ssndob-marketplace.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international operation led by the US authorities dismantled and seized the infrastructure of the online marketplace SSNDOB.
+
+
+
+US DoJ announced the seizure of the SSNDOB Marketplace, a series of websites offering personal information, including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba ransomware returns to extorting victims with updated encryptor<a href="https://www.bleepingcomputer.com/news/security/cuba-ransomware-returns-to-extorting-victims-with-updated-encryptor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cuba ransomware operation has returned to regular operations with a new version of its malware found used in recent attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evolving Ransomware Tactics and Trends Observed in Q1 2022<a href="https://cyware.com/news/evolving-ransomware-tactics-and-trends-observed-in-q1-2022-6719b724"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a Q1 2022 ransomware report, KELA researchers revealed that more than 150 networks were accessed in ransomware attacks carried out by BlackByte, Quantum, and BlackCat.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked threat actors have breached telcos and network service providers<a href="https://securityaffairs.co/wordpress/132042/apt/us-warns-china-linked-threat-actors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked threat actors have breached telecommunications companies and network service providers to spy on the traffic and steal data.
+
+
+
+US NSA, CISA, and the FBI published a joint cybersecurity advisory to warn that China-linked threat actors have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poisoned CCleaner search results spread information-stealing malware<a href="https://www.bleepingcomputer.com/news/security/poisoned-ccleaner-search-results-spread-information-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware that steals your passwords, credit cards, and crypto wallets is being promoted through search results for a pirated copy of the CCleaner Pro Windows optimization program.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware Group’s New Variant Found Using Optimized Infection Techniques<a href="https://www.trendmicro.com/en_us/research/22/f/cuba-ransomware-group-s-new-variant-found-using-optimized-infect.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the updates did not change much in terms of overall functionality, researchers believe that it aims to optimize its execution, minimize unintended system behavior, and provide technical support to ransomware victims if they choose to negotiate.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta ransomware now supports encrypting VMware ESXi servers<a href="https://securityaffairs.co/wordpress/132037/hacking/black-basta-ransomware-vmware-esxi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Basta ransomware gang implemented a new feature to encrypt VMware ESXi virtual machines (VMs) running on Linux servers.
+
+
+
+The Black Basta ransomware gang now supports encryption of VMware ESXi virtual machines (VMs) running on Linux servers. 
+
+
+
+Researchers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Data Access Firm Immuta Raises $100 Million<a href="https://www.securityweek.com/cloud-data-access-firm-immuta-raises-100-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boston-based cloud data access and security firm Immuta has raised $100 million in a Series E round led by NightDragon, and joined by new investor Snowflake Ventures (the VC arm of Snowflake), with participation from existing investors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Risk Retainers: Not Another Insurance Policy<a href="https://threatpost.com/cyber-risk-retainers-not-another-insurance-policy/179895/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The costs associated with a cyberattack can be significant, especially if a company does not have an Incident Response plan that addresses risk. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Follina Exploited by State-Sponsored Hackers<a href="https://threatpost.com/follina-exploited-by-state-sponsored-hackers/179890/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A government-aligned attacker tried using a Microsoft vulnerability to attack U.S. and E.U. government targets.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Seizes 'SSNDOB' ID Theft Service for Selling Personal Info of 24 Million People<a href="https://thehackernews.com/2022/06/fbi-seizes-ssndob-id-theft-service-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An illicit online marketplace known as SSNDOB  was taken down in operation led by U.S. law enforcement agencies, the Department of Justice (DoJ) announced Tuesday.  SSNDOB trafficked in personal information such as names, dates of birth, credit card numbers, and Social Security numbers of about 24 million individuals in the U.S., generating its operators $19 million in sales revenue.  The action saw the seizure of several domains associated with the marketplace — ssndob.ws, ssndob.vip, ssndob.club, and blackjob.biz — in cooperation with authorities from Cyprus and Latvia.  According to blockchain analytics firm  Chainalysis , SSNDOB's Bitcoin payment processing system has received nearly $22 million worth of Bitcoin across over 100,000 transactions since April 2015.   Furthermore, bitcoin transfers to the tune of more than $100,000 have been unearthed between SSNDOB and  Joker's Stash , another darknet market that specialized in stolen credit card information and voluntarily c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 07, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

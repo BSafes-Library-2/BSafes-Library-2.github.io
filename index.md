@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The scope of artificial intelligence in fighting cybercrime<a href="https://cio.economictimes.indiatimes.com/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Emotet variant uses a module to steal data from Google Chrome<a href="https://securityaffairs.co/wordpress/132090/cyber-crime/emotet-google-chrome-info-stealer.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Clarifies Criteria for Adding Vulnerabilities to 'Must Patch' List<a href="https://www.securityweek.com/cisa-clarifies-criteria-adding-vulnerabilities-must-patch-list?&web_view=true"> Full Text</a>
@@ -86,7 +86,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tainted CCleaner Pro Cracker spreads via Black Seo campaign<a href="https://securityaffairs.co/wordpress/132076/cyber-crime/ccleaner-black-seo-malware-fakecrack.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MakeMoney malvertising campaign adds fake update template<a href="https://blog.malwarebytes.com/threat-intelligence/2022/06/makemoney-malvertising-campaign-adds-fake-update-template/?&web_view=true"> Full Text</a>
@@ -122,7 +122,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2022
+June 08, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kali Linux team to stream free penetration testing course on Twitch<a href="https://www.bleepingcomputer.com/news/security/kali-linux-team-to-stream-free-penetration-testing-course-on-twitch/"> Full Text</a>
@@ -138,7 +138,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2022
+June 08, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Emotet Variant Stealing Users' Credit Card Information from Google Chrome<a href="https://thehackernews.com/2022/06/new-emotet-variant-stealing-users.html"> Full Text</a>
@@ -154,7 +154,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2022
+June 08, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive Facebook Messenger phishing operation generates millions<a href="https://www.bleepingcomputer.com/news/security/massive-facebook-messenger-phishing-operation-generates-millions/"> Full Text</a>
@@ -170,7 +170,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2022
+June 08, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of Unpatched "DogWalk" Microsoft Windows Vulnerability<a href="https://thehackernews.com/2022/06/researchers-warn-of-unpatched-dogwalk.html"> Full Text</a>
@@ -186,7 +186,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2022
+June 08, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux botnets now exploit critical Atlassian Confluence bug<a href="https://www.bleepingcomputer.com/news/security/linux-botnets-now-exploit-critical-atlassian-confluence-bug/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2022
+June 08, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Agencies Warn About Chinese Hackers Targeting Telecoms and Network Service Providers<a href="https://thehackernews.com/2022/06/us-agencies-warn-about-chinese-hackers.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2022
+June 8, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 0Patch released unofficial security patch for new DogWalk Windows zero-day<a href="https://securityaffairs.co/wordpress/132070/hacking/unofficial-security-patch-dogwalk.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2022
+June 08, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet malware now steals credit cards from Google Chrome users<a href="https://www.bleepingcomputer.com/news/security/emotet-malware-now-steals-credit-cards-from-google-chrome-users/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2022
+June 8, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Issues Warning on Chinese Cyber Espionage Attacks<a href="https://cyware.com/news/cisa-issues-warning-on-chinese-cyber-espionage-attacks-f9617188"> Full Text</a>
@@ -270,7 +270,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2022
+June 8, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US dismantled and seized SSNDOB cybercrime marketplace<a href="https://securityaffairs.co/wordpress/132061/cyber-crime/us-seized-ssndob-marketplace.html"> Full Text</a>
@@ -290,7 +290,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2022
+June 08, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cuba ransomware returns to extorting victims with updated encryptor<a href="https://www.bleepingcomputer.com/news/security/cuba-ransomware-returns-to-extorting-victims-with-updated-encryptor/"> Full Text</a>
@@ -306,7 +306,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2022
+June 8, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evolving Ransomware Tactics and Trends Observed in Q1 2022<a href="https://cyware.com/news/evolving-ransomware-tactics-and-trends-observed-in-q1-2022-6719b724"> Full Text</a>
@@ -322,7 +322,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2022
+June 8, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked threat actors have breached telcos and network service providers<a href="https://securityaffairs.co/wordpress/132042/apt/us-warns-china-linked-threat-actors.html"> Full Text</a>
@@ -342,7 +342,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2022
+June 08, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poisoned CCleaner search results spread information-stealing malware<a href="https://www.bleepingcomputer.com/news/security/poisoned-ccleaner-search-results-spread-information-stealing-malware/"> Full Text</a>
@@ -358,7 +358,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2022
+June 8, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cuba Ransomware Group’s New Variant Found Using Optimized Infection Techniques<a href="https://www.trendmicro.com/en_us/research/22/f/cuba-ransomware-group-s-new-variant-found-using-optimized-infect.html?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2022
+June 8, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta ransomware now supports encrypting VMware ESXi servers<a href="https://securityaffairs.co/wordpress/132037/hacking/black-basta-ransomware-vmware-esxi.html"> Full Text</a>
@@ -398,7 +398,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2022
+June 8, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud Data Access Firm Immuta Raises $100 Million<a href="https://www.securityweek.com/cloud-data-access-firm-immuta-raises-100-million?&web_view=true"> Full Text</a>
@@ -414,7 +414,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2022
+June 7, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Risk Retainers: Not Another Insurance Policy<a href="https://threatpost.com/cyber-risk-retainers-not-another-insurance-policy/179895/"> Full Text</a>
@@ -430,7 +430,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2022
+June 7, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Follina Exploited by State-Sponsored Hackers<a href="https://threatpost.com/follina-exploited-by-state-sponsored-hackers/179890/"> Full Text</a>
@@ -446,7 +446,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2022
+June 07, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Seizes 'SSNDOB' ID Theft Service for Selling Personal Info of 24 Million People<a href="https://thehackernews.com/2022/06/fbi-seizes-ssndob-id-theft-service-for.html"> Full Text</a>

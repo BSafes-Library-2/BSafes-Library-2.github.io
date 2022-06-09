@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+June 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US: Chinese govt hackers breached telcos to snoop on network traffic<a href="https://www.bleepingcomputer.com/news/security/us-chinese-govt-hackers-breached-telcos-to-snoop-on-network-traffic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several US federal agencies today revealed that Chinese-backed threat actors have targeted and compromised major telecommunications companies and network service providers to steal credentials and harvest data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shields Health Care Group data breach affects 2 million patients<a href="https://www.bleepingcomputer.com/news/security/shields-health-care-group-data-breach-affects-2-million-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shields Health Care Group (Shields)&nbsp;suffered a data breach that exposed the data of approximately 2,000,000 people in the United States after hackers breached their network and stole data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

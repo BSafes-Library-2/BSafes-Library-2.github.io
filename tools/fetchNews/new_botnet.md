@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux botnets now exploit critical Atlassian Confluence bug<a href="https://www.bleepingcomputer.com/news/security/linux-botnets-now-exploit-critical-atlassian-confluence-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several botnets are now using exploits targeting a critical remote code execution (RCE) vulnerability to infect&nbsp;Linux servers running unpatched Atlassian Confluence Server and Data Center&nbsp;installs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

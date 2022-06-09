@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+June 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Karakurt Steals Data and Demands Ransom - FBI Warns<a href="https://cyware.com/news/karakurt-steals-data-and-demands-ransom-fbi-warns-d7c79a56"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a part of the extortion routine, the attackers send ransom notes to the employees of the victim firm, threatening to leak the stolen information. The twist is that although there is a deadline for paying the ransom, the hackers do not sit and wait.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

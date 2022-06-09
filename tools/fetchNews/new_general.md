@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+June 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The scope of artificial intelligence in fighting cybercrime<a href="https://cio.economictimes.indiatimes.com/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Effective use of new-age technologies like artificial intelligence, machine learning, and blockchain can help prevent cyber frauds and make ecosystems safe and secure for individuals and businesses.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evolving Ransomware Tactics and Trends Observed in Q1 2022<a href="https://cyware.com/news/evolving-ransomware-tactics-and-trends-observed-in-q1-2022-6719b724"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a Q1 2022 ransomware report, KELA researchers revealed that more than 150 networks were accessed in ransomware attacks carried out by BlackByte, Quantum, and BlackCat.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Risk Retainers: Not Another Insurance Policy<a href="https://threatpost.com/cyber-risk-retainers-not-another-insurance-policy/179895/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The costs associated with a cyberattack can be significant, especially if a company does not have an Incident Response plan that addresses risk. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Unpatched "DogWalk" Microsoft Windows Vulnerability<a href="https://thehackernews.com/2022/06/researchers-warn-of-unpatched-dogwalk.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unofficial security patch has been made available for a new Windows zero-day vulnerability in the Microsoft Support Diagnostic Tool (MSDT), even as the Follina flaw continues to be exploited in the wild.  The issue — referenced as&nbsp; DogWalk &nbsp;— relates to a path traversal flaw that can be exploited to stash a malicious executable file to the Windows Startup folder when a potential target opens a specially crafted ".diagcab" archive file that contains a diagnostics configuration file.  The idea is that the payload would get executed the next time the victim logs in to the system after a restart. The vulnerability affects all Windows versions, starting from Windows 7 and Server Server 2008 to the latest releases.   DogWalk was originally&nbsp; disclosed &nbsp;by security researcher Imre Rad in January 2020 after Microsoft, having acknowledged the problem, deemed it as not a security issue.  "There are a number of file types that can execute code in such a way but aren't techni
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+0Patch released unofficial security patch for new DogWalk Windows zero-day<a href="https://securityaffairs.co/wordpress/132070/hacking/unofficial-security-patch-dogwalk.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+0patch researchers released an unofficial security patch for  a Windows zero-day vulnerability dubbed DogWalk.
+
+
+
+0patch released an unofficial security patch for a new Windows zero-day vulnerability in the Microsoft Support Diagnostic Tool (MSDT) dubbed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
