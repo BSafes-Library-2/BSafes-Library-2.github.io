@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kali Linux team to stream free penetration testing course on Twitch<a href="https://www.bleepingcomputer.com/news/security/kali-linux-team-to-stream-free-penetration-testing-course-on-twitch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Offensive Security, the creators of Kali Linux, announced today that they would be offering free access to their live-streamed 'Penetration Testing with Kali Linux (PEN-200/PWK)' training course later this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Summer holiday season fuels upswing of travel-themed spam<a href="https://www.helpnetsecurity.com/2022/06/09/travel-themed-spam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Current phishing emails run the gamut from airline ticket giveaways, gift cards, and offers of bonus flight hours to booking confirmations and bargain offers for holiday rentals and all-inclusive deals.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US dismantled and seized SSNDOB cybercrime marketplace<a href="https://securityaffairs.co/wordpress/132061/cyber-crime/us-seized-ssndob-marketplace.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international operation led by the US authorities dismantled and seized the infrastructure&nbsp;of the online marketplace SSNDOB.
+
+
+
+US DoJ announced the seizure of the SSNDOB Marketplace, a series of websites offering personal information, including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware Group’s New Variant Found Using Optimized Infection Techniques<a href="https://www.trendmicro.com/en_us/research/22/f/cuba-ransomware-group-s-new-variant-found-using-optimized-infect.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the updates did not change much in terms of overall functionality, researchers believe that it aims to optimize its execution, minimize unintended system behavior, and provide technical support to ransomware victims if they choose to negotiate.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Seizes 'SSNDOB' ID Theft Service for Selling Personal Info of 24 Million People<a href="https://thehackernews.com/2022/06/fbi-seizes-ssndob-id-theft-service-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An illicit online marketplace known as SSNDOB  was taken down in operation led by U.S. law enforcement agencies, the Department of Justice (DoJ) announced Tuesday.  SSNDOB trafficked in personal information such as names, dates of birth, credit card numbers, and Social Security numbers of about 24 million individuals in the U.S., generating its operators $19 million in sales revenue.  The action saw the seizure of several domains associated with the marketplace — ssndob.ws, ssndob.vip, ssndob.club, and blackjob.biz — in cooperation with authorities from Cyprus and Latvia.  According to blockchain analytics firm&nbsp; Chainalysis , SSNDOB's Bitcoin payment processing system has received nearly $22 million worth of Bitcoin across over 100,000 transactions since April 2015.   Furthermore, bitcoin transfers to the tune of more than $100,000 have been unearthed between SSNDOB and&nbsp; Joker's Stash , another darknet market that specialized in stolen credit card information and voluntarily c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

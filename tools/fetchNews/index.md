@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 09, 2022
+June 09, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bizarre ransomware sells decryptor on Roblox Game Pass store<a href="https://www.bleepingcomputer.com/news/security/bizarre-ransomware-sells-decryptor-on-roblox-game-pass-store/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multifactor authentication could be long haul for some federal agencies, CISA official says<a href="https://www.cyberscoop.com/multifactor-authentication-cisa-eric-goldstein-federal-legacy-it/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ CyberScoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 09, 2022
+June 09, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Privacy Framework for IoT Devices Gives Users Control Over Data Sharing<a href="https://thehackernews.com/2022/06/new-privacy-framework-for-iot-devices.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medical Device Security Offers Proving Ground for Cybersecurity Action<a href="https://www.lawfareblog.com/medical-device-security-offers-proving-ground-cybersecurity-action"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Symbiote, a nearly-impossible-to-detect Linux malware￼<a href="https://securityaffairs.co/wordpress/132113/malware/symbiote-linux-malware.html"> Full Text</a>
@@ -122,7 +122,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 09, 2022
+June 09, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender now isolates hacked, unmanaged Windows devices<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-now-isolates-hacked-unmanaged-windows-devices/"> Full Text</a>
@@ -138,7 +138,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Spetsnaz’s Operation Panopticon Launches Espionage Attacks<a href="https://cyware.com/news/cyber-spetsnazs-operation-panopticon-launches-espionage-attacks-3d49eade"> Full Text</a>
@@ -155,7 +155,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 09, 2022
+June 09, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Symbiote: A Stealthy Linux Malware Targeting Latin American Financial Sector<a href="https://thehackernews.com/2022/06/symbiote-stealthy-linux-malware.html"> Full Text</a>
@@ -171,7 +171,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Previously undocumented Aoqin Dragon APT targets entities in Southeast Asia and Australia<a href="https://securityaffairs.co/wordpress/132099/apt/aoqin-dragon-targets-south-asia-australia.html"> Full Text</a>
@@ -191,7 +191,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 09, 2022
+June 09, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vice Society ransomware claims attack on Italian city of Palermo<a href="https://www.bleepingcomputer.com/news/security/vice-society-ransomware-claims-attack-on-italian-city-of-palermo/"> Full Text</a>
@@ -207,7 +207,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three Actively Exploited SAP Vulnerabilities Identified<a href="https://onapsis.com/blog/three-actively-exploited-sap-vulnerabilities-identified-onapsis-research-labs?&web_view=true"> Full Text</a>
@@ -223,7 +223,7 @@ Onapsis
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 09, 2022
+June 09, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Even the Most Advanced Threats Rely on Unpatched Systems<a href="https://thehackernews.com/2022/06/even-most-advanced-threats-rely-on.html"> Full Text</a>
@@ -239,7 +239,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 09, 2022
+June 09, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark web sites selling alleged Western weapons sent to Ukraine<a href="https://www.bleepingcomputer.com/news/security/dark-web-sites-selling-alleged-western-weapons-sent-to-ukraine/"> Full Text</a>
@@ -255,7 +255,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Summer holiday season fuels upswing of travel-themed spam<a href="https://www.helpnetsecurity.com/2022/06/09/travel-themed-spam/?&web_view=true"> Full Text</a>
@@ -271,7 +271,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 09, 2022
+June 09, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Symbiote malware infects all running processes on Linux systems<a href="https://www.bleepingcomputer.com/news/security/new-symbiote-malware-infects-all-running-processes-on-linux-systems/"> Full Text</a>
@@ -287,7 +287,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top three most critical areas of web security<a href="https://www.helpnetsecurity.com/2022/06/09/web-security-critical-areas/?&web_view=true"> Full Text</a>
@@ -303,7 +303,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts, NSA cyber director say ransomware could threaten campaigns in 2022<a href="https://www.cyberscoop.com/election-security-microsoft-phishing-google-ransomware/?&web_view=true"> Full Text</a>
@@ -319,7 +319,7 @@ CyberScoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MyEasyDocs Exposed 30GB of Israeli and Indian Students PII Data<a href="https://www.hackread.com/myeasydocs-exposed-30gb-israel-india-students-pii-data/?&web_view=true"> Full Text</a>
@@ -335,7 +335,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newly-Discovered Chinese-linked APT Has Been Quietly Spying On Organizations For 10 Years<a href="https://www.sentinelone.com/labs/aoqin-dragon-newly-discovered-chinese-linked-apt-has-been-quietly-spying-on-organizations-for-10-years/?&web_view=true"> Full Text</a>
@@ -351,7 +351,7 @@ Sentinel One
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 09, 2022
+June 09, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese hacking group Aoqin Dragon quietly spied orgs for a decade<a href="https://www.bleepingcomputer.com/news/security/chinese-hacking-group-aoqin-dragon-quietly-spied-orgs-for-a-decade/"> Full Text</a>
@@ -367,7 +367,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India Revamps Rules On Mandatory Incident Reporting and Allied Compliances<a href="https://www.natlawreview.com/article/cyber-security-india-revamps-rules-mandatory-incident-reporting-and-allied?&web_view=true"> Full Text</a>
@@ -383,7 +383,7 @@ The National Law Review
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 09, 2022
+June 09, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Decade-Long Chinese Espionage Campaign Targets Southeast Asia and Australia<a href="https://thehackernews.com/2022/06/a-decade-long-chinese-espionage.html"> Full Text</a>
@@ -399,7 +399,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA director promotes collaboration and trust at RSAC 2022<a href="https://www.techtarget.com/searchsecurity/news/252521282/CISA-director-promotes-collaboration-and-trust-at-RSAC-2022?&web_view=true"> Full Text</a>
@@ -415,7 +415,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Decentralized Crypto Exchange Goes Offline After Hacker Steals $113 Million<a href="https://www.vice.com/en/article/88q45a/decentralized-crypto-exchange-maiar-offline-after-hacker-steals-dollar113m?&web_view=true"> Full Text</a>

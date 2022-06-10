@@ -11,6 +11,49 @@ nav_order: 900015
 June 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyber Spetsnaz’s Operation Panopticon Launches Espionage Attacks<a href="https://cyware.com/news/cyber-spetsnazs-operation-panopticon-launches-espionage-attacks-3d49eade"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified an increase in activity by a new hacktivist group called Cyber Spetsnaz that has been targeting NATO infrastructure. In April, Cyber Spetsnaz created its first division called Zarya, with a bunch of experienced penetration testers, OSINT specialists, and hackers. The gro ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society ransomware claims attack on Italian city of Palermo<a href="https://www.bleepingcomputer.com/news/security/vice-society-ransomware-claims-attack-on-italian-city-of-palermo/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society ransomware group has claimed responsibility for the recent cyber attack on the city of Palermo in Italy, which has caused a large-scale service outage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Decade-Long Chinese Espionage Campaign Targets Southeast Asia and Australia<a href="https://thehackernews.com/2022/06/a-decade-long-chinese-espionage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented Chinese-speaking advanced persistent threat (APT) actor dubbed&nbsp; Aoqin Dragon &nbsp;has been linked to a string of espionage-oriented attacks aimed at government, education, and telecom entities chiefly in Southeast Asia and Australia dating as far back as 2013.  "Aoqin Dragon seeks initial access primarily through document exploits and the use of fake removable devices," SentinelOne researcher Joey Chen&nbsp; said &nbsp;in a report shared with The Hacker News. "Other techniques the attacker has been observed using include DLL hijacking,&nbsp; Themida-packed files , and DNS tunneling to evade post-compromise detection."  The group is said to have some level of association with another threat actor known as&nbsp; Naikon &nbsp;(aka Override Panda), with campaigns primarily directed against targets in Australia, Cambodia, Hong Kong, Singapore, and Vietnam.   Infections chains mounted by Aoqin Dragon have banked on Asia-Pacific political affairs and pornographic-themed docu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Tainted CCleaner Pro Cracker spreads via Black Seo campaign<a href="https://securityaffairs.co/wordpress/132076/cyber-crime/ccleaner-black-seo-malware-fakecrack.html"> Full Text</a>
 </p>
 <details>

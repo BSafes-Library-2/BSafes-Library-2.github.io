@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Facebook Messenger phishing operation generates millions<a href="https://www.bleepingcomputer.com/news/security/massive-facebook-messenger-phishing-operation-generates-millions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered a large-scale phishing operation that abused Facebook and Messenger to lure millions of users to phishing pages, tricking them into entering their account credentials and seeing advertisements.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poisoned CCleaner search results spread information-stealing malware<a href="https://www.bleepingcomputer.com/news/security/poisoned-ccleaner-search-results-spread-information-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware that steals your passwords, credit cards, and crypto wallets is being promoted through search results for a pirated copy of the CCleaner Pro Windows optimization program.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

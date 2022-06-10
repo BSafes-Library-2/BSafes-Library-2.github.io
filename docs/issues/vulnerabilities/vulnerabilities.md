@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Actively Exploited SAP Vulnerabilities Identified<a href="https://onapsis.com/blog/three-actively-exploited-sap-vulnerabilities-identified-onapsis-research-labs?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, Onapsis researchers detected exploitation activity related to three vulnerabilities that were already patched by SAP - CVE-2021-38163, CVE-2016-2386, and CVE-2016-2388.
+</details>
+<div style="text-align: right" markdown="1">
+Onapsis
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

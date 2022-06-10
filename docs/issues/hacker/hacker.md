@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hacking group Aoqin Dragon quietly spied orgs for a decade<a href="https://www.bleepingcomputer.com/news/security/chinese-hacking-group-aoqin-dragon-quietly-spied-orgs-for-a-decade/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown Chinese-speaking threat actor has been uncovered by threat analysts SentinelLabs who were able to link it to malicious activity going as far back as 2013.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

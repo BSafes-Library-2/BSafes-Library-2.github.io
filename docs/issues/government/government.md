@@ -11,6 +11,48 @@ nav_order: 900075
 June 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Multifactor authentication could be long haul for some federal agencies, CISA official says<a href="https://www.cyberscoop.com/multifactor-authentication-cisa-eric-goldstein-federal-legacy-it/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Congressional exasperation with the slow pace of agencies deploying MFA emerged at a House hearing last month. The May executive order had “aggressive but achievable” deadlines, a White House official said last year.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts, NSA cyber director say ransomware could threaten campaigns in 2022<a href="https://www.cyberscoop.com/election-security-microsoft-phishing-google-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the 2022 election season around the corner, campaigns of all sizes need to be prepared for a widened set of potential cybersecurity risks, experts and a top intelligence official said.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA director promotes collaboration and trust at RSAC 2022<a href="https://www.techtarget.com/searchsecurity/news/252521282/CISA-director-promotes-collaboration-and-trust-at-RSAC-2022?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA Director Jen Easterly said there's growing momentum for stronger collaboration and communication between government agencies like CISA and private-sector cybersecurity companies.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA Clarifies Criteria for Adding Vulnerabilities to 'Must Patch' List<a href="https://www.securityweek.com/cisa-clarifies-criteria-adding-vulnerabilities-must-patch-list?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

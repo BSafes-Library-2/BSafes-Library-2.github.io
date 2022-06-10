@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India Revamps Rules On Mandatory Incident Reporting and Allied Compliances<a href="https://www.natlawreview.com/article/cyber-security-india-revamps-rules-mandatory-incident-reporting-and-allied?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Considering the wide wording of the Direction, it is likely to be applicable to almost each and every type of business operating within India. The Direction will be effective from June 28, 2022.
+</details>
+<div style="text-align: right" markdown="1">
+The National Law Review
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

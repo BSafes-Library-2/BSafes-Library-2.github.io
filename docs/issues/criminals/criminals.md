@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark web sites selling alleged Western weapons sent to Ukraine<a href="https://www.bleepingcomputer.com/news/security/dark-web-sites-selling-alleged-western-weapons-sent-to-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several weapon marketplaces on the dark web have listed military-grade firearms allegedly coming from Western countries that sent them to support the Ukrainian army in its fight against the Russian invaders.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

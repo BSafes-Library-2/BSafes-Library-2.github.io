@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Privacy Framework for IoT Devices Gives Users Control Over Data Sharing<a href="https://thehackernews.com/2022/06/new-privacy-framework-for-iot-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly designed privacy-sensitive architecture aims to enable developers to create smart home apps in a manner that addresses data sharing concerns and puts users in control over their personal information.&nbsp;  Dubbed&nbsp; Peekaboo &nbsp;by researchers from Carnegie Mellon University, the&nbsp; system &nbsp;"leverages an in-home hub to pre-process and minimize outgoing data in a structured and enforceable manner before sending it to external cloud servers."  Peekaboo operates on the principle of data minimization, which refers to the practice of limiting data collection to only what is required to fulfill a specific purpose.   To achieve this the system requires developers to explicitly declare the relevant data collection behaviors in the form of a manifest file that's then fed into an in-home trusted hub to transmit sensitive data from smart home apps such as smart doorbells on a need-to-know basis.  The hub not only functions as a mediator between raw data from IoT devices and the respec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
