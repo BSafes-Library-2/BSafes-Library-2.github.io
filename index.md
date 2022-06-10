@@ -37,6 +37,323 @@ BSafes library includes mobile-friendly cybersecurity publications.
 June 09, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Bizarre ransomware sells decryptor on Roblox Game Pass store<a href="https://www.bleepingcomputer.com/news/security/bizarre-ransomware-sells-decryptor-on-roblox-game-pass-store/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware is taking the unusual approach of selling its decryptor on the Roblox gaming platform using the service's in-game Robux currency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multifactor authentication could be long haul for some federal agencies, CISA official says<a href="https://www.cyberscoop.com/multifactor-authentication-cisa-eric-goldstein-federal-legacy-it/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Congressional exasperation with the slow pace of agencies deploying MFA emerged at a House hearing last month. The May executive order had “aggressive but achievable” deadlines, a White House official said last year.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Privacy Framework for IoT Devices Gives Users Control Over Data Sharing<a href="https://thehackernews.com/2022/06/new-privacy-framework-for-iot-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly designed privacy-sensitive architecture aims to enable developers to create smart home apps in a manner that addresses data sharing concerns and puts users in control over their personal information.   Dubbed  Peekaboo  by researchers from Carnegie Mellon University, the  system  "leverages an in-home hub to pre-process and minimize outgoing data in a structured and enforceable manner before sending it to external cloud servers."  Peekaboo operates on the principle of data minimization, which refers to the practice of limiting data collection to only what is required to fulfill a specific purpose.   To achieve this the system requires developers to explicitly declare the relevant data collection behaviors in the form of a manifest file that's then fed into an in-home trusted hub to transmit sensitive data from smart home apps such as smart doorbells on a need-to-know basis.  The hub not only functions as a mediator between raw data from IoT devices and the respec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical Device Security Offers Proving Ground for Cybersecurity Action<a href="https://www.lawfareblog.com/medical-device-security-offers-proving-ground-cybersecurity-action"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Legislation moving through Congress on medical devices suggests broader lessons for how to improve the cybersecurity of essential products and critical infrastructures. The bill’s proposed system of regulation and oversight holds promise for meeting the competing criteria of certainty and flexibility, stability and adaptability, mandate and innovation.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Symbiote, a nearly-impossible-to-detect Linux malware￼<a href="https://securityaffairs.co/wordpress/132113/malware/symbiote-linux-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a high stealth Linux malware, dubbed Symbiote, that could be used to backdoor infected systems.
+
+
+
+Joint research conducted by security firms Intezer and BlackBerry uncovered a new Linux threat dubbed Symbiote.
+
+
+
+The name comes...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender now isolates hacked, unmanaged Windows devices<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-now-isolates-hacked-unmanaged-windows-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced a new feature for Microsoft Defender for Endpoint (MDE) to help organizations prevent attackers and malware from using compromised unmanaged devices to move laterally through the network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Spetsnaz’s Operation Panopticon Launches Espionage Attacks<a href="https://cyware.com/news/cyber-spetsnazs-operation-panopticon-launches-espionage-attacks-3d49eade"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified an increase in activity by a new hacktivist group called Cyber Spetsnaz that has been targeting NATO infrastructure. In April, Cyber Spetsnaz created its first division called Zarya, with a bunch of experienced penetration testers, OSINT specialists, and hackers. The gro ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Symbiote: A Stealthy Linux Malware Targeting Latin American Financial Sector<a href="https://thehackernews.com/2022/06/symbiote-stealthy-linux-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have taken the wraps off what they call a "nearly-impossible-to-detect" Linux malware that could be weaponized to backdoor infected systems.  Dubbed  Symbiote  by threat intelligence firms BlackBerry and Intezer, the stealthy malware is so named for its ability to conceal itself within running processes and network traffic and drain a victim's resources like a  parasite .  The operators behind Symbiote are believed to have commenced development on the malware in November 2021, with the threat actor predominantly using it to target the financial sector in Latin America, including banks like Banco do Brasil and Caixa.  "Symbiote's main objective is to capture credentials and to facilitate backdoor access to a victim's machine," researchers Joakim Kennedy and Ismael Valenzuela said in a report  shared with The Hacker News. "What makes Symbiote different from other Linux malware is that it infects running processes rather than
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Previously undocumented Aoqin Dragon APT targets entities in Southeast Asia and Australia<a href="https://securityaffairs.co/wordpress/132099/apt/aoqin-dragon-targets-south-asia-australia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a previously undocumented Chinese-speaking APT, tracked as Aoqin Dragon, targeting entities in Southeast Asia and Australia.
+
+
+
+SentinelOne documented a series of attacks aimed at government, education, and telecom entities in Southeast...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society ransomware claims attack on Italian city of Palermo<a href="https://www.bleepingcomputer.com/news/security/vice-society-ransomware-claims-attack-on-italian-city-of-palermo/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society ransomware group has claimed responsibility for the recent cyber attack on the city of Palermo in Italy, which has caused a large-scale service outage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Actively Exploited SAP Vulnerabilities Identified<a href="https://onapsis.com/blog/three-actively-exploited-sap-vulnerabilities-identified-onapsis-research-labs?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, Onapsis researchers detected exploitation activity related to three vulnerabilities that were already patched by SAP - CVE-2021-38163, CVE-2016-2386, and CVE-2016-2388.
+</details>
+<div style="text-align: right" markdown="1">
+Onapsis
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Even the Most Advanced Threats Rely on Unpatched Systems<a href="https://thehackernews.com/2022/06/even-most-advanced-threats-rely-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Common cybercriminals are a menace, there's no doubt about it – from bedroom hackers through to ransomware groups, cybercriminals are causing a lot of damage. But both the tools used and the threat posed by common cybercriminals pale in comparison to the tools used by more professional groups such as the famous hacking groups and state-sponsored groups.  In fact, these tools can prove almost impossible to detect – and guard against. BVP47 is a case in point. In this article, we'll outline how this powerful state-sponsored malware has been quietly circulating for years, how it so cleverly disguises itself, and explain what that means for cybersecurity in the enterprise.  Background story behind BVP47  It's a long story, fit for a spy novel. Earlier this year, a Chinese cybersecurity research group called Pangu Lab published an in-depth, 56-page report covering a piece of malicious code that the research group decided to call BVP47 (because BVP was the most common string in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark web sites selling alleged Western weapons sent to Ukraine<a href="https://www.bleepingcomputer.com/news/security/dark-web-sites-selling-alleged-western-weapons-sent-to-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several weapon marketplaces on the dark web have listed military-grade firearms allegedly coming from Western countries that sent them to support the Ukrainian army in its fight against the Russian invaders.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Summer holiday season fuels upswing of travel-themed spam<a href="https://www.helpnetsecurity.com/2022/06/09/travel-themed-spam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Current phishing emails run the gamut from airline ticket giveaways, gift cards, and offers of bonus flight hours to booking confirmations and bargain offers for holiday rentals and all-inclusive deals.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Symbiote malware infects all running processes on Linux systems<a href="https://www.bleepingcomputer.com/news/security/new-symbiote-malware-infects-all-running-processes-on-linux-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have discovered a new malware targeting Linux systems that operates as a symbiote in the host, blending perfectly with running processes and network traffic to steal account credentials and give its operators backdoor access.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top three most critical areas of web security<a href="https://www.helpnetsecurity.com/2022/06/09/web-security-critical-areas/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent analysis of ransomware attack trends by Akamai highlights the risks and suggest mitigation, while an analysis of Web app and API attack trends offers a fresh look at the infection vectors used by ransomware operators and others.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts, NSA cyber director say ransomware could threaten campaigns in 2022<a href="https://www.cyberscoop.com/election-security-microsoft-phishing-google-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the 2022 election season around the corner, campaigns of all sizes need to be prepared for a widened set of potential cybersecurity risks, experts and a top intelligence official said.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MyEasyDocs Exposed 30GB of Israeli and Indian Students PII Data<a href="https://www.hackread.com/myeasydocs-exposed-30gb-israel-india-students-pii-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The team of IT security researchers at vpnMentor led by Noam Rotem identified a misconfigured Microsoft Azure server that exposed the personal and educational records of tens of thousands of students from India and Israel.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly-Discovered Chinese-linked APT Has Been Quietly Spying On Organizations For 10 Years<a href="https://www.sentinelone.com/labs/aoqin-dragon-newly-discovered-chinese-linked-apt-has-been-quietly-spying-on-organizations-for-10-years/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor has a history of using document lures with pornographic themes to infect users and makes heavy use of USB shortcut techniques to spread the malware and infect additional targets.
+</details>
+<div style="text-align: right" markdown="1">
+Sentinel One
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Chinese hacking group Aoqin Dragon quietly spied orgs for a decade<a href="https://www.bleepingcomputer.com/news/security/chinese-hacking-group-aoqin-dragon-quietly-spied-orgs-for-a-decade/"> Full Text</a>
 </p>
 <details>
