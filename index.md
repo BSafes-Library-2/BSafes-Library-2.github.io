@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - June 10th 2022 - Targeting Linux<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-10th-2022-targeting-linux/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'PACMAN' Hardware Vulnerability Can Enable Memory Defense Bypass<a href="https://www.theregister.com/2022/06/10/apple_m1_pacman_flaw/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find Bluetooth Signals Can be Fingerprinted to Track Smartphones<a href="https://thehackernews.com/2022/06/researchers-find-bluetooth-signals-can.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors exploit recently disclosed Atlassian Confluence flaw in cryptomining campaign<a href="https://securityaffairs.co/wordpress/132140/cyber-crime/cryptomining-campaign-atlassian-confluence-flaw.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PACMAN hardware attack targets Macs with Apple M1 CPUs<a href="https://www.bleepingcomputer.com/news/security/new-pacman-hardware-attack-targets-macs-with-apple-m1-cpus/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Variant of Black Basta Targets VMware ESXi Servers<a href="https://cyware.com/news/new-variant-of-black-basta-targets-vmware-esxi-servers-1a158eec"> Full Text</a>
@@ -135,7 +135,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detail How Cyber Criminals Targeting Cryptocurrency Users<a href="https://thehackernews.com/2022/06/researchers-detail-how-cyber-criminals.html"> Full Text</a>
@@ -151,7 +151,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts spotted a new variant of the Cuba Ransomware with optimized infection techniques<a href="https://securityaffairs.co/wordpress/132134/malware/cuba-ransomware-new-variant.html"> Full Text</a>
@@ -171,7 +171,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian hackers target energy sector with new DNS backdoor<a href="https://www.bleepingcomputer.com/news/security/iranian-hackers-target-energy-sector-with-new-dns-backdoor/"> Full Text</a>
@@ -187,7 +187,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 8 zero-day vulnerabilities discovered in popular industrial control system from Carrier<a href="https://therecord.media/8-zero-day-vulnerabilities-discovered-in-popular-industrial-control-system-from-carrier/?&web_view=true"> Full Text</a>
@@ -203,7 +203,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Disclose Critical Flaws in Industrial Access Control System from Carrier<a href="https://thehackernews.com/2022/06/researchers-disclose-critical-flaws-in.html"> Full Text</a>
@@ -219,7 +219,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vice Society ransomware gang adds the Italian City of Palermo to its data leak site<a href="https://securityaffairs.co/wordpress/132122/cyber-crime/city-of-palermo-vice-society-ransomware.html"> Full Text</a>
@@ -239,7 +239,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploit recently patched Confluence bug for cryptomining<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-recently-patched-confluence-bug-for-cryptomining/"> Full Text</a>
@@ -255,7 +255,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 InfiRay Thermal Camera Flaws Can Allow Hackers to Tamper With Industrial Processes<a href="https://www.securityweek.com/infiray-thermal-camera-flaws-can-allow-hackers-tamper-industrial-processes?&web_view=true"> Full Text</a>
@@ -271,7 +271,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 102 Update Patches High-Severity Vulnerabilities<a href="https://www.securityweek.com/chrome-102-update-patches-high-severity-vulnerabilities?&web_view=true"> Full Text</a>
@@ -287,7 +287,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Banking Trojan Resurfaces, Skating Past Email Security<a href="https://www.darkreading.com/threat-intelligence/emotet-banking-trojan-resurfaces-email-security?&web_view=true"> Full Text</a>
@@ -303,7 +303,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DigiCert Acquires DNS Made Easy<a href="https://www.darkreading.com/operations/digicert-acquires-dns-made-easy?&web_view=true"> Full Text</a>
@@ -319,7 +319,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Separate Fujitsu cloud storage vulnerabilities could enable attackers to destroy virtual backups<a href="https://portswigger.net/daily-swig/separate-fujitsu-cloud-storage-vulnerabilities-could-enable-attackers-to-destroy-virtual-backups?&web_view=true"> Full Text</a>
@@ -335,7 +335,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2022
+June 10, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Whistic Raises $35 Million in Series B Funding for Vendor Security Network<a href="https://www.securityweek.com/whistic-raises-35-million-series-b-funding-vendor-security-network?&web_view=true"> Full Text</a>
@@ -351,7 +351,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 9, 2022
+June 9, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds Forced Travel Firms to Share Surveillance Data on Hacker<a href="https://threatpost.com/feds-forced-travel-firms-to-share-surveillance-data-on-hacker/179929/"> Full Text</a>
@@ -367,7 +367,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 09, 2022
+June 09, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Roblox Game Pass store used to sell ransomware decryptor<a href="https://www.bleepingcomputer.com/news/security/roblox-game-pass-store-used-to-sell-ransomware-decryptor/"> Full Text</a>

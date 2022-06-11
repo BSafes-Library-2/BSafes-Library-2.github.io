@@ -11,6 +11,20 @@ nav_order: 900075
 June 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Feds Forced Travel Firms to Share Surveillance Data on Hacker<a href="https://threatpost.com/feds-forced-travel-firms-to-share-surveillance-data-on-hacker/179929/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sabre and Travelport had to report the weekly activities of former “Cardplanet” cybercriminal Aleksei Burkov for two years, info that eventually led to his arrest and prosecution.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Multifactor authentication could be long haul for some federal agencies, CISA official says<a href="https://www.cyberscoop.com/multifactor-authentication-cisa-eric-goldstein-federal-legacy-it/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

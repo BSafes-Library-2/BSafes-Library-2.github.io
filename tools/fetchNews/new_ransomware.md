@@ -8,6 +8,52 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - June 10th 2022 - Targeting Linux<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-10th-2022-targeting-linux/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has been relatively quiet this week with many companies and researchers at the RSA conference. However, we still had some interesting ransomware reports released this week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted a new variant of the Cuba Ransomware with optimized infection techniques<a href="https://securityaffairs.co/wordpress/132134/malware/cuba-ransomware-new-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cuba ransomware operators are back and employed a new version of its malware in recent attacks.
+
+
+
+Cuba ransomware has been active since at least January 2020. Its operators have a data leak site, where they post exfiltrated data from their victims...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roblox Game Pass store used to sell ransomware decryptor<a href="https://www.bleepingcomputer.com/news/security/roblox-game-pass-store-used-to-sell-ransomware-decryptor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware is taking the unusual approach of selling its decryptor on the Roblox gaming platform using the service's in-game Robux currency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

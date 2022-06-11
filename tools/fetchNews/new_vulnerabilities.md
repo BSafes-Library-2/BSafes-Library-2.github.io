@@ -8,6 +8,104 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'PACMAN' Hardware Vulnerability Can Enable Memory Defense Bypass<a href="https://www.theregister.com/2022/06/10/apple_m1_pacman_flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple's M1 chip has been found to contain a hardware vulnerability that can be abused to disable one of its defense mechanisms against memory corruption exploits, giving such attacks a greater chance of success.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Bluetooth Signals Can be Fingerprinted to Track Smartphones<a href="https://thehackernews.com/2022/06/researchers-find-bluetooth-signals-can.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new research undertaken by a group of academics from the University of California San Diego has revealed for the first time that Bluetooth signals can be fingerprinted to track smartphones (and therefore, individuals).  The identification, at its core, hinges on imperfections in the Bluetooth chipset hardware introduced during the manufacturing process, resulting in a "unique physical-layer fingerprint."  "To perform a physical-layer fingerprinting attack, the attacker must be equipped with a Software Defined Radio sniffer: a radio receiver capable of recording raw IQ radio signals," the researchers&nbsp; said &nbsp;in a&nbsp; new paper &nbsp; titled &nbsp;"Evaluating Physical-Layer BLE Location Tracking Attacks on Mobile Devices."   The&nbsp; attack &nbsp;is made possible due to the ubiquitous nature of Bluetooth Low Energy (BLE) beacons that are continuously transmitted by modern devices to enable crucial functions such as&nbsp; contact tracing &nbsp;during public health emergencies.  The hardwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8 zero-day vulnerabilities discovered in popular industrial control system from Carrier<a href="https://therecord.media/8-zero-day-vulnerabilities-discovered-in-popular-industrial-control-system-from-carrier/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Carrier’s LenelS2 Mercury access control panels are widely used across hundreds of companies in the healthcare, education, and transportation industries as well as federal government agencies and organizations.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose Critical Flaws in Industrial Access Control System from Carrier<a href="https://thehackernews.com/2022/06/researchers-disclose-critical-flaws-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as eight zero-day vulnerabilities have been disclosed in Carrier's LenelS2 HID Mercury access control system that's used widely in healthcare, education, transportation, and government facilities.  "The vulnerabilities uncovered allowed us to demonstrate the ability to remotely unlock and lock doors, subvert alarms and undermine logging and notification systems," Trellix security researchers Steve Povolny and Sam Quinn said in a report shared with The Hacker News.  The issues, in a nutshell, could be weaponized by a malicious actor to gain full system control, including the ability to manipulate door locks. One of the bugs (CVE-2022-31481) includes an unauthenticated remote execution flaw that's rated 10 out of 10 for severity on the CVSS scoring system.   Other shortcomings could lead to command injection (CVE-2022-31479, CVE-2022-31486), denial-of-service (CVE-2022-31480, CVE-2022-31482), user modification (CVE-2022-31484), and information spoofing (CVE
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+InfiRay Thermal Camera Flaws Can Allow Hackers to Tamper With Industrial Processes<a href="https://www.securityweek.com/infiray-thermal-camera-flaws-can-allow-hackers-tamper-industrial-processes?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Austria-based cybersecurity consultancy SEC Consult discovered that at least one of the vendor’s thermal cameras, the A8Z3 model, is affected by several potentially serious vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 102 Update Patches High-Severity Vulnerabilities<a href="https://www.securityweek.com/chrome-102-update-patches-high-severity-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-2007, the first of these bugs is described as a use-after-free in WebGPU. The security hole was reported by David Manouchehri, who received a $10,000 bug bounty reward for his finding.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Separate Fujitsu cloud storage vulnerabilities could enable attackers to destroy virtual backups<a href="https://portswigger.net/daily-swig/separate-fujitsu-cloud-storage-vulnerabilities-could-enable-attackers-to-destroy-virtual-backups?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security vulnerabilities were present in the enterprise-grade Fujitsu Eternus CS8000 (Control Center) V8.1. Researchers from the NCC Group found two separate issues due to a lack of user input validation in two PHP scripts.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

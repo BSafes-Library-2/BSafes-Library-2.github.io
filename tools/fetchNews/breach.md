@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MyEasyDocs Exposed 30GB of Israeli and Indian Students PII Data<a href="https://www.hackread.com/myeasydocs-exposed-30gb-israel-india-students-pii-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The team of IT security researchers at vpnMentor led by Noam Rotem identified a misconfigured Microsoft Azure server that exposed the personal and educational records of tens of thousands of students from India and Israel.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

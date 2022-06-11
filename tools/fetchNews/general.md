@@ -11,6 +11,48 @@ nav_order: 900072
 June 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Medical Device Security Offers Proving Ground for Cybersecurity Action<a href="https://www.lawfareblog.com/medical-device-security-offers-proving-ground-cybersecurity-action"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Legislation moving through Congress on medical devices suggests broader lessons for how to improve the cybersecurity of essential products and critical infrastructures. The bill’s proposed system of regulation and oversight&nbsp;holds promise for meeting the competing criteria of certainty and flexibility, stability and adaptability, mandate and innovation.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Even the Most Advanced Threats Rely on Unpatched Systems<a href="https://thehackernews.com/2022/06/even-most-advanced-threats-rely-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Common cybercriminals are a menace, there's no doubt about it – from bedroom hackers through to ransomware groups, cybercriminals are causing a lot of damage. But both the tools used and the threat posed by common cybercriminals pale in comparison to the tools used by more professional groups such as the famous hacking groups and state-sponsored groups.  In fact, these tools can prove almost impossible to detect – and guard against. BVP47 is a case in point. In this article, we'll outline how this powerful state-sponsored malware has been quietly circulating for years, how it so cleverly disguises itself, and explain what that means for cybersecurity in the enterprise.  Background story behind BVP47  It's a long story, fit for a spy novel. Earlier this year, a Chinese cybersecurity research group called Pangu Lab published an in-depth, 56-page report covering a piece of malicious code that the research group decided to call BVP47 (because BVP was the most common string in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top three most critical areas of web security<a href="https://www.helpnetsecurity.com/2022/06/09/web-security-critical-areas/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent analysis of ransomware attack trends by Akamai highlights the risks and suggest mitigation, while an analysis of Web app and API attack trends offers a fresh look at the infection vectors used by ransomware operators and others.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The scope of artificial intelligence in fighting cybercrime<a href="https://cio.economictimes.indiatimes.com/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

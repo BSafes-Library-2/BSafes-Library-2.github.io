@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+June 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decentralized Crypto Exchange Goes Offline After Hacker Steals $113 Million<a href="https://www.vice.com/en/article/88q45a/decentralized-crypto-exchange-maiar-offline-after-hacker-steals-dollar113m?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a blockchain researcher who goes by Foudres, the hacker stole around 1,650,000 EGLD, the native token of the Elrond blockchain, with around $113 million at the time of the hack.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

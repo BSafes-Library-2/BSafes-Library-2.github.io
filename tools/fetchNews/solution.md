@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender now isolates hacked, unmanaged Windows devices<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-now-isolates-hacked-unmanaged-windows-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced a new feature for Microsoft Defender for Endpoint (MDE) to&nbsp;help organizations prevent attackers and malware from using compromised unmanaged devices to move laterally through the network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
