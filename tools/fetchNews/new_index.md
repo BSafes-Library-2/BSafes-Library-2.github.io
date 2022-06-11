@@ -34,6 +34,355 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - June 10th 2022 - Targeting Linux<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-10th-2022-targeting-linux/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has been relatively quiet this week with many companies and researchers at the RSA conference. However, we still had some interesting ransomware reports released this week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'PACMAN' Hardware Vulnerability Can Enable Memory Defense Bypass<a href="https://www.theregister.com/2022/06/10/apple_m1_pacman_flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple's M1 chip has been found to contain a hardware vulnerability that can be abused to disable one of its defense mechanisms against memory corruption exploits, giving such attacks a greater chance of success.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Bluetooth Signals Can be Fingerprinted to Track Smartphones<a href="https://thehackernews.com/2022/06/researchers-find-bluetooth-signals-can.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new research undertaken by a group of academics from the University of California San Diego has revealed for the first time that Bluetooth signals can be fingerprinted to track smartphones (and therefore, individuals).  The identification, at its core, hinges on imperfections in the Bluetooth chipset hardware introduced during the manufacturing process, resulting in a "unique physical-layer fingerprint."  "To perform a physical-layer fingerprinting attack, the attacker must be equipped with a Software Defined Radio sniffer: a radio receiver capable of recording raw IQ radio signals," the researchers  said  in a  new paper   titled  "Evaluating Physical-Layer BLE Location Tracking Attacks on Mobile Devices."   The  attack  is made possible due to the ubiquitous nature of Bluetooth Low Energy (BLE) beacons that are continuously transmitted by modern devices to enable crucial functions such as  contact tracing  during public health emergencies.  The hardwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors exploit recently disclosed Atlassian Confluence flaw in cryptomining campaign<a href="https://securityaffairs.co/wordpress/132140/cyber-crime/cryptomining-campaign-atlassian-confluence-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting the recently disclosed CVE-2022-26134 RCE in Atlassian Confluence servers to deploy cryptocurrency miners.
+
+
+
+CheckPoint researchers have observed threat actors exploiting the recently disclosed CVE-2022-26134 remote code...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PACMAN hardware attack targets Macs with Apple M1 CPUs<a href="https://www.bleepingcomputer.com/news/security/new-pacman-hardware-attack-targets-macs-with-apple-m1-cpus/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new hardware attack targeting Pointer Authentication in Apple M1 CPUs with speculative execution enables attackers to gain arbitrary code execution on Mac systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Variant of Black Basta Targets VMware ESXi Servers<a href="https://cyware.com/news/new-variant-of-black-basta-targets-vmware-esxi-servers-1a158eec"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Basta ransomware developed a Linux version that is now targeting VMware ESXi servers. The updated version allows faster encryption of multiple servers with a single command. Recently, the ransomware group joined hands with QBot to move laterally across the victim's network. Organizations  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail How Cyber Criminals Targeting Cryptocurrency Users<a href="https://thehackernews.com/2022/06/researchers-detail-how-cyber-criminals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are impersonating popular crypto platforms such as Binance, Celo, and Trust Wallet with spoofed emails and fake login pages in an attempt to steal login details and deceptively transfer virtual funds.  "As cryptocurrency and non-fungible tokens (NFTs) become more mainstream, and capture headlines for their volatility, there is a greater likelihood of more individuals falling victim to fraud attempting to exploit people for digital currencies," Proofpoint  said  in a new report.  "The rise and proliferation of cryptocurrency has also provided attackers with a new method of financial extraction."  The targeting of sensitive cryptocurrency data by threat actors was recently echoed by the Microsoft 365 Defender Research Team, which warned about the emerging threat of  cryware  wherein private keys, seed phrases, and wallet addresses are plundered with the goal of siphoning virtual currencies by means of fraudulent transfers.   The  swift popularity of We
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted a new variant of the Cuba Ransomware with optimized infection techniques<a href="https://securityaffairs.co/wordpress/132134/malware/cuba-ransomware-new-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cuba ransomware operators are back and employed a new version of its malware in recent attacks.
+
+
+
+Cuba ransomware has been active since at least January 2020. Its operators have a data leak site, where they post exfiltrated data from their victims...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian hackers target energy sector with new DNS backdoor<a href="https://www.bleepingcomputer.com/news/security/iranian-hackers-target-energy-sector-with-new-dns-backdoor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian Lycaeum APT hacking group uses a new .NET-based DNS backdoor to conduct attacks on companies in the energy and telecommunication sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8 zero-day vulnerabilities discovered in popular industrial control system from Carrier<a href="https://therecord.media/8-zero-day-vulnerabilities-discovered-in-popular-industrial-control-system-from-carrier/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Carrier’s LenelS2 Mercury access control panels are widely used across hundreds of companies in the healthcare, education, and transportation industries as well as federal government agencies and organizations.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose Critical Flaws in Industrial Access Control System from Carrier<a href="https://thehackernews.com/2022/06/researchers-disclose-critical-flaws-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as eight zero-day vulnerabilities have been disclosed in Carrier's LenelS2 HID Mercury access control system that's used widely in healthcare, education, transportation, and government facilities.  "The vulnerabilities uncovered allowed us to demonstrate the ability to remotely unlock and lock doors, subvert alarms and undermine logging and notification systems," Trellix security researchers Steve Povolny and Sam Quinn said in a report shared with The Hacker News.  The issues, in a nutshell, could be weaponized by a malicious actor to gain full system control, including the ability to manipulate door locks. One of the bugs (CVE-2022-31481) includes an unauthenticated remote execution flaw that's rated 10 out of 10 for severity on the CVSS scoring system.   Other shortcomings could lead to command injection (CVE-2022-31479, CVE-2022-31486), denial-of-service (CVE-2022-31480, CVE-2022-31482), user modification (CVE-2022-31484), and information spoofing (CVE
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society ransomware gang adds the Italian City of Palermo to its data leak site<a href="https://securityaffairs.co/wordpress/132122/cyber-crime/city-of-palermo-vice-society-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society group has claimed responsibility for the ransomware attack that hit the Italian city of Palermo forcing the IT admins to shut down its infrastructure.
+
+
+
+The Vice Society ransomware group has claimed responsibility for the recent cyber...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit recently patched Confluence bug for cryptomining<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-recently-patched-confluence-bug-for-cryptomining/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cryptomining hacking group has been observed exploiting the recently disclosed remote code execution flaw in Atlassian Confluence servers to install miners on vulnerable servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+InfiRay Thermal Camera Flaws Can Allow Hackers to Tamper With Industrial Processes<a href="https://www.securityweek.com/infiray-thermal-camera-flaws-can-allow-hackers-tamper-industrial-processes?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Austria-based cybersecurity consultancy SEC Consult discovered that at least one of the vendor’s thermal cameras, the A8Z3 model, is affected by several potentially serious vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 102 Update Patches High-Severity Vulnerabilities<a href="https://www.securityweek.com/chrome-102-update-patches-high-severity-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-2007, the first of these bugs is described as a use-after-free in WebGPU. The security hole was reported by David Manouchehri, who received a $10,000 bug bounty reward for his finding.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Banking Trojan Resurfaces, Skating Past Email Security<a href="https://www.darkreading.com/threat-intelligence/emotet-banking-trojan-resurfaces-email-security?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"The attacks are using hijacked email threads and then using those accounts as a launch point to trick victims into enabling macros of attached malicious office documents," a Thursday report from Deep Instinct explained.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DigiCert Acquires DNS Made Easy<a href="https://www.darkreading.com/operations/digicert-acquires-dns-made-easy?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The addition of DNS Made Easy enhances the company's certificate validation and lifecycle management portfolio, it said in a company statement on the acquisition. The terms of the deal were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Separate Fujitsu cloud storage vulnerabilities could enable attackers to destroy virtual backups<a href="https://portswigger.net/daily-swig/separate-fujitsu-cloud-storage-vulnerabilities-could-enable-attackers-to-destroy-virtual-backups?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security vulnerabilities were present in the enterprise-grade Fujitsu Eternus CS8000 (Control Center) V8.1. Researchers from the NCC Group found two separate issues due to a lack of user input validation in two PHP scripts.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Whistic Raises $35 Million in Series B Funding for Vendor Security Network<a href="https://www.securityweek.com/whistic-raises-35-million-series-b-funding-vendor-security-network?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new funding round was led by JMI Equity, with participation from Album VC, Emergence Capital, Forgepoint Capital, and FJ Labs. This brings the total investment in the company to $51 million.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Forced Travel Firms to Share Surveillance Data on Hacker<a href="https://threatpost.com/feds-forced-travel-firms-to-share-surveillance-data-on-hacker/179929/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sabre and Travelport had to report the weekly activities of former “Cardplanet” cybercriminal Aleksei Burkov for two years, info that eventually led to his arrest and prosecution.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roblox Game Pass store used to sell ransomware decryptor<a href="https://www.bleepingcomputer.com/news/security/roblox-game-pass-store-used-to-sell-ransomware-decryptor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware is taking the unusual approach of selling its decryptor on the Roblox gaming platform using the service's in-game Robux currency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 09, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
