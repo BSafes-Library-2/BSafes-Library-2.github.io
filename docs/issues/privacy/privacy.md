@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Vytal Chrome extension hides location info that your VPN can't<a href="https://www.bleepingcomputer.com/news/security/new-vytal-chrome-extension-hides-location-info-that-your-vpn-cant/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Google Chrome browser extension called Vytal prevents webpages from using programming APIs to find your geographic location leaked, even when using a VPN.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WiFi probing exposes smartphone users to tracking, info leaks<a href="https://www.bleepingcomputer.com/news/security/wifi-probing-exposes-smartphone-users-to-tracking-info-leaks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at the University of Hamburg in Germany have conducted a field experiment capturing hundreds of thousands of passersby's WiFi connection probe requests to determine the type of data transmitted without the device owners realizing it.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

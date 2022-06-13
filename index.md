@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2022
+June 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPI package 'keep' mistakenly included a password stealer<a href="https://www.bleepingcomputer.com/news/security/pypi-package-keep-mistakenly-included-a-password-stealer/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2022
+June 12, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 369 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/132194/breaking-news/security-affairs-newsletter-round-369-by-pierluigi-paganini.html"> Full Text</a>
@@ -74,7 +74,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2022
+June 12, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Vytal Chrome extension hides location info that your VPN can't<a href="https://www.bleepingcomputer.com/news/security/new-vytal-chrome-extension-hides-location-info-that-your-vpn-cant/"> Full Text</a>
@@ -90,7 +90,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2022
+June 12, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gangs are exploiting CVE-2022-26134 RCE in Atlassian Confluence servers<a href="https://securityaffairs.co/wordpress/132186/cyber-crime/ransomware-gangs-cve-2022-26134-rce-atlassian-confluence.html"> Full Text</a>
@@ -110,7 +110,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2022
+June 12, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hello XD ransomware now drops a backdoor while encrypting<a href="https://www.bleepingcomputer.com/news/security/hello-xd-ransomware-now-drops-a-backdoor-while-encrypting/"> Full Text</a>
@@ -126,7 +126,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2022
+June 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HID Mercury Access Controller flaws could allow to unlock Doors<a href="https://securityaffairs.co/wordpress/132175/hacking/hid-mercury-access-controller-flaws.html"> Full Text</a>
@@ -146,7 +146,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Goes After Google Chrome Users to Steal Credit Card Details<a href="https://cyware.com/news/emotet-goes-after-google-chrome-users-to-steal-credit-card-details-f1a3c676"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MIT Researchers Discover New Flaw in Apple M1 CPUs That Can't Be Patched<a href="https://thehackernews.com/2022/06/mit-researchers-discover-new-flaw-in.html"> Full Text</a>
@@ -178,7 +178,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Derails Bohrium Hackers’ Spear-phishing Operation<a href="https://cyware.com/news/microsoft-derails-bohrium-hackers-spear-phishing-operation-0c2f0c11"> Full Text</a>
@@ -195,7 +195,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC Exploits for Atlassian RCE Bug Exploit Released Online<a href="https://cyware.com/news/poc-exploits-for-atlassian-rce-bug-exploit-released-online-463354a9"> Full Text</a>
@@ -212,7 +212,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WiFi probing exposes smartphone users to tracking, info leaks<a href="https://www.bleepingcomputer.com/news/security/wifi-probing-exposes-smartphone-users-to-tracking-info-leaks/"> Full Text</a>
@@ -228,7 +228,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exposing HelloXD Ransomware and x4k<a href="https://unit42.paloaltonetworks.com/helloxd-ransomware/?&web_view=true"> Full Text</a>
@@ -244,7 +244,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked Lyceum APT adds a new .NET DNS Backdoor to its arsenal<a href="https://securityaffairs.co/wordpress/132164/apt/lyceum-apt-target-energy-dns-backdoor.html"> Full Text</a>
@@ -264,7 +264,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Confluence servers hacked to deploy AvosLocker, Cerber2021 ransomware<a href="https://www.bleepingcomputer.com/news/security/confluence-servers-hacked-to-deploy-avoslocker-cerber2021-ransomware/"> Full Text</a>
@@ -280,7 +280,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PACMAN, a new attack technique against Apple M1 CPUs<a href="https://securityaffairs.co/wordpress/132154/hacking/pacman-attack-apple-m1-cpus.html"> Full Text</a>

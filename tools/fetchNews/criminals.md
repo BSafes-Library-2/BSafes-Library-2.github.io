@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail How Cyber Criminals Targeting Cryptocurrency Users<a href="https://thehackernews.com/2022/06/researchers-detail-how-cyber-criminals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are impersonating popular crypto platforms such as Binance, Celo, and Trust Wallet with spoofed emails and fake login pages in an attempt to steal login details and deceptively transfer virtual funds.  "As cryptocurrency and non-fungible tokens (NFTs) become more mainstream, and capture headlines for their volatility, there is a greater likelihood of more individuals falling victim to fraud attempting to exploit people for digital currencies," Proofpoint&nbsp; said &nbsp;in a new report.  "The rise and proliferation of cryptocurrency has also provided attackers with a new method of financial extraction."  The targeting of sensitive cryptocurrency data by threat actors was recently echoed by the Microsoft 365 Defender Research Team, which warned about the emerging threat of&nbsp; cryware &nbsp;wherein private keys, seed phrases, and wallet addresses are plundered with the goal of siphoning virtual currencies by means of fraudulent transfers.   The&nbsp; swift popularity of We
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society ransomware gang adds the Italian City of Palermo to its data leak site<a href="https://securityaffairs.co/wordpress/132122/cyber-crime/city-of-palermo-vice-society-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society group has claimed responsibility for the ransomware attack that hit the Italian city of Palermo forcing the IT admins to shut down its infrastructure.
+
+
+
+The Vice Society ransomware group has claimed responsibility for the recent cyber...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

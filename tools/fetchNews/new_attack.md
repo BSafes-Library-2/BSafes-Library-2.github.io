@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+June 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Confluence servers hacked to deploy AvosLocker, Cerber2021 ransomware<a href="https://www.bleepingcomputer.com/news/security/confluence-servers-hacked-to-deploy-avoslocker-cerber2021-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs are now targeting&nbsp;a recently patched&nbsp;and actively exploited remote code execution (RCE) vulnerability affecting&nbsp;Atlassian Confluence Server and Data Center instances&nbsp;for initial access to corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PACMAN, a new attack technique against Apple M1 CPUs<a href="https://securityaffairs.co/wordpress/132154/hacking/pacman-attack-apple-m1-cpus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PACMAN is a new attack technique demonstrated against Apple M1 processor chipsets that could be used to hack macOS systems.
+
+
+
+PACMAN is a novel hardware attack technique that can allow attackers to bypass&nbsp;Pointer Authentication&nbsp;(PAC) on the&nbsp;Apple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,39 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs are exploiting CVE-2022-26134 RCE in Atlassian Confluence servers<a href="https://securityaffairs.co/wordpress/132186/cyber-crime/ransomware-gangs-cve-2022-26134-rce-atlassian-confluence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs are actively exploiting CVE-2022-26134 remote code execution (RCE) flaw in Atlassian Confluence Server and Data Center.
+
+
+
+Multiple ransomware groups are actively exploiting the recently disclosed remote code execution (RCE) vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Derails Bohrium Hackers’ Spear-phishing Operation<a href="https://cyware.com/news/microsoft-derails-bohrium-hackers-spear-phishing-operation-0c2f0c11"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Digital Crimes Unit has dismantled a spear-phishing campaign run by an Iranian threat actor Bohrium to target users in the U.S., Middle East, and India. Bohrium actors often create fake social media profiles, often posing as recruiters. The companies need to stay vigilant to keep them ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

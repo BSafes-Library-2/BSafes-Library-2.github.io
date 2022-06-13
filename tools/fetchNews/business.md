@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+June 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DigiCert Acquires DNS Made Easy<a href="https://www.darkreading.com/operations/digicert-acquires-dns-made-easy?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The addition of DNS Made Easy enhances the company's certificate validation and lifecycle management portfolio, it said in a company statement on the acquisition. The terms of the deal were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Whistic Raises $35 Million in Series B Funding for Vendor Security Network<a href="https://www.securityweek.com/whistic-raises-35-million-series-b-funding-vendor-security-network?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new funding round was led by JMI Equity, with participation from Album VC, Emergence Capital, Forgepoint Capital, and FJ Labs. This brings the total investment in the company to $51 million.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

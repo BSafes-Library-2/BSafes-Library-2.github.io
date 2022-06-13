@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit recently patched Confluence bug for cryptomining<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-recently-patched-confluence-bug-for-cryptomining/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cryptomining hacking group has been observed exploiting the recently disclosed remote code execution flaw in Atlassian Confluence servers to install miners on vulnerable servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

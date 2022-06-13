@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+June 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors exploit recently disclosed Atlassian Confluence flaw in cryptomining campaign<a href="https://securityaffairs.co/wordpress/132140/cyber-crime/cryptomining-campaign-atlassian-confluence-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting the recently disclosed CVE-2022-26134 RCE in Atlassian Confluence servers to deploy cryptocurrency miners.
+
+
+
+CheckPoint researchers have observed threat actors exploiting the recently disclosed CVE-2022-26134 remote code...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PACMAN hardware attack targets Macs with Apple M1 CPUs<a href="https://www.bleepingcomputer.com/news/security/new-pacman-hardware-attack-targets-macs-with-apple-m1-cpus/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new hardware attack targeting Pointer Authentication in Apple M1 CPUs with speculative execution enables attackers to gain arbitrary code execution on Mac systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian hackers target energy sector with new DNS backdoor<a href="https://www.bleepingcomputer.com/news/security/iranian-hackers-target-energy-sector-with-new-dns-backdoor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian Lycaeum APT hacking group uses a new .NET-based DNS backdoor to conduct attacks on companies in the energy and telecommunication sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

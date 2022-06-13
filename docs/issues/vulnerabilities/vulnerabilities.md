@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HID Mercury Access Controller flaws could allow to unlock Doors<a href="https://securityaffairs.co/wordpress/132175/hacking/hid-mercury-access-controller-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found vulnerabilities in HID Mercury Access Controllers can be exploited by attackers to remotely unlock doors.
+
+
+
+Researchers from security firm Trellix discovered some critical vulnerabilities in HID Mercury Access Controllers that can be exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MIT Researchers Discover New Flaw in Apple M1 CPUs That Can't Be Patched<a href="https://thehackernews.com/2022/06/mit-researchers-discover-new-flaw-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel hardware attack dubbed&nbsp; PACMAN &nbsp;has been demonstrated against Apple's M1 processor chipsets, potentially arming a malicious actor with the capability to gain arbitrary code execution on macOS systems.  It leverages "speculative execution attacks to bypass an important memory protection mechanism, ARM Pointer Authentication, a security feature that is used to enforce pointer integrity," MIT researchers Joseph Ravichandran, Weon Taek Na, Jay Lang, and Mengjia Yan&nbsp; said &nbsp;in a new paper. What's more concerning is that "while the hardware mechanisms used by PACMAN cannot be patched with software features, memory corruption bugs can be," the researchers added.  The vulnerability is rooted in pointer authentication codes ( PACs ), a line of defense introduced in arm64e architecture that aims to detect and secure against unexpected changes to&nbsp; pointers &nbsp;— objects that store a memory address — in memory.   PACs aim to solve a common problem in software secur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
