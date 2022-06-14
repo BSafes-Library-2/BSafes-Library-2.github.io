@@ -34,7 +34,360 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaiser Permanente data breach exposes health data of 69K people<a href="https://www.bleepingcomputer.com/news/security/kaiser-permanente-data-breach-exposes-health-data-of-69k-people/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaiser Permanente, one of America's leading not-for-profit health plans and health care providers, has recently disclosed a data breach that exposed the health information of more than 69,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three PyPI Packages Found Including Password Stealer by Mistake<a href="https://cyware.com/news/three-pypi-packages-found-including-password-stealer-by-mistake-0e027dc8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three PyPI packages were found to contain a backdoor due to a malicious dependency within certain versions, thereby exposing users to supply chain attacks. The threat included with the ‘Keep’ package is pretty high as it particularly receives over 8,000 downloads per week on average.&nbsp;Even if P ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Distribute Backdoored Web3 Wallets for iOS and Android Users<a href="https://thehackernews.com/2022/06/chinese-hackers-distribute-backdoored.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A technically sophisticated threat actor known as  SeaFlower  has been targeting Android and iOS users as part of an extensive campaign that mimics official cryptocurrency wallet websites intending to distribute backdoored apps that drain victims' funds.  Said to be first discovered in March 2022, the cluster of activity "hint[s] to a strong relationship with a Chinese-speaking entity yet to be uncovered," based on the macOS usernames, source code comments in the backdoor code, and its abuse of Alibaba's Content Delivery Network (CDN).   "As of today, the main current objective of SeaFlower is to modify Web3 wallets with backdoor code that ultimately exfiltrates the seed phrase," Confiant's Taha Karim  said  in a technical deep-dive of the campaign.  Targeted apps include Android and iOS versions of Coinbase Wallet, MetaMask, TokenPocket, and imToken.   SeaFlower's modus operandi involves setting up cloned websites that act as a conduit to download
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT targets Ukraine by exploiting the Follina RCE vulnerability<a href="https://securityaffairs.co/wordpress/132227/apt/cert-ua-sandworm-follina-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's Computer Emergency Response Team (CERT) warns that the Russia-linked Sandworm APT group may exploit the Follina RCE vulnerability.
+
+
+
+Ukraine's Computer Emergency Response Team (CERT) is warning that the Russia-linked Sandworm APT may be exploiting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gallium hackers backdoor finance, govt orgs using new PingPull malware<a href="https://www.bleepingcomputer.com/news/security/gallium-hackers-backdoor-finance-govt-orgs-using-new-pingpull-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Gallium state-sponsored hacking group has been spotted using a new 'PingPull' remote access trojan against financial institutions and government entities in Europe, Southeast Asia, and Africa.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credentials for thousands of open source projects free for the taking<a href="https://arstechnica.com/information-technology/2022/06/credentials-for-thousands-of-open-source-projects-free-for-the-taking-again/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of two batches of data the Aqua Security researchers accessed using the Travis CI programming interface yielded 4.28 million and 770 million logs from 2013 through May 2022.
+</details>
+<div style="text-align: right" markdown="1">
+ARS Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese 'Gallium' Hackers Using New PingPull Malware in Cyberespionage Attacks<a href="https://thehackernews.com/2022/06/chinese-gallium-hackers-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese advanced persistent threat (APT) known as Gallium has been observed using a previously undocumented remote access trojan in its espionage attacks targeting companies operating in Southeast Asia, Europe, and Africa.  Called  PingPull , the "difficult-to-detect" backdoor is notable for its use of the Internet Control Message Protocol ( ICMP ) for command-and-control (C2) communications, according to new research published by Palo Alto Networks Unit 42 today.   Gallium is known for its attacks primarily aimed at telecom companies dating as far back as 2012. Also tracked under the name  Soft Cell  by Cybereason, the state-sponsored actor has been  connected  to a broader set of attacks targeting five major telecom companies located in Southeast Asian countries since 2017.  Over the past year, however, the group is said to have expanded its victimology footprint to include financial institutions and government entities located in Afghanistan, Australia, Belgium, Cambodi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GALLIUM APT used a new PingPull RAT in recent campaigns<a href="https://securityaffairs.co/wordpress/132217/apt/gallium-apt-pingpull-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked Gallium APT employed a previously undocumented RAT, tracked as PingPull, in recent cyber espionage campaign targeting South Asia, Europe, and Africa.
+
+
+
+China-linked Gallium APT (aka Softcell) used a previously undocumented remote access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers clone Coinbase, MetaMask mobile wallets to steal your crypto<a href="https://www.bleepingcomputer.com/news/security/hackers-clone-coinbase-metamask-mobile-wallets-to-steal-your-crypto/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered a large-scale malicious operation that uses trojanized mobile cryptocurrency wallet applications for Coinbase, MetaMask, TokenPocket, and imToken services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Africa: Shoprite Group issues warning on 'suspected data compromise'<a href="https://www.sowetanlive.co.za/news/south-africa/2022-06-11-shoprite-group-issues-warning-on-suspected-data-compromise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Shoprite Group said on Friday evening it had become aware of a suspected data compromise, including names and ID numbers, which may affect some customers who engaged in money transfers to and within Eswatini and within Namibia and Zambia.
+</details>
+<div style="text-align: right" markdown="1">
+Sowetan Live
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose Rooting Backdoor in Mitel IP Phones for Businesses<a href="https://thehackernews.com/2022/06/researchers-disclose-rooting-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details of two medium-security flaws in Mitel 6800/6900 desk phones that, if successfully exploited, could allow an attacker to gain root privileges on the devices.  Tracked as  CVE-2022-29854  and  CVE-2022-29855  (CVSS score: 6.8), the access control issues were discovered by German penetration testing firm SySS, following which patches were shipped in May 2022.   "Due to this undocumented backdoor, an attacker with physical access to a vulnerable desk phone can gain root access by pressing specific keys on system boot, and then connect to a provided Telnet service as root user," SySS researcher Matthias Deeg said in a statement shared with The Hacker News.  Specifically, the issue relates to a previously unknown functionality present in a shell script ("check_mft.sh") in the phones' firmware that's designed to be executed at system boot.  "The shell script 'check_mft.sh,' which is located in the direc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelloXD Ransomware operators install MicroBackdoor on target systems<a href="https://securityaffairs.co/wordpress/132207/malware/helloxd-ransomware-installs-microbackdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts observed the HelloXD ransomware deploying a backdoor to facilitate persistent remote access to infected hosts.
+
+
+
+The HelloXD ransomware first appeared in the threat landscape on November 30, 2021, it borrows the code from Babuk ransomware,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Metasploit 6.2.0 improves credential theft, SMB support features, more<a href="https://www.bleepingcomputer.com/news/security/metasploit-620-improves-credential-theft-smb-support-features-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Metasploit 6.2.0 has been released with 138 new modules, 148 new improvements/features, and 156 bug fixes since version 6.1.0 was released in August 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, DOJ say less than 25% of NetWalker ransomware victims reported incidents<a href="https://therecord.media/fbi-doj-say-less-than-25-of-netwalker-ransomware-victims-reported-incidents/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and DOJ officials were able to obtain a trove of information on the group after seizing NetWalker’s backend servers in Bulgaria during an investigation throughout 2020.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quick and Simple: BPFDoor Explained<a href="https://thehackernews.com/2022/06/quick-and-simple-bpfdoor-explained.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BPFDoor isn't new to the  cyberattack  game — in fact, it's gone undetected for years — but PwC researchers discovered the piece of malware in 2021. Subsequently, the cybersecurity community is learning more about the  stealthy nature of malware , how it works, and how it can be prevented.  What's BPFDoor?  BPFDoor  is a piece of malware associated with China-based threat actor Red Menshen that has hit mostly Linux operating systems. It's undetected by firewalls and goes unnoticed by most detection systems — so unnoticed that it's been a work in progress over the last five years, going through various phases of development and complexity.  How Does It Work?  BPF stands for Berkley Packet Filters, which is appropriate given that the virus exploits packet filters. BPFDoor uses BPF " sniffers " to see all network traffic and find vulnerabilities. Packet filters are programs that analyze "packets" (files, metadata, network traffic) and permit or dec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Using WiFi connection probe requests to track users<a href="https://securityaffairs.co/wordpress/132193/mobile-2/wifi-probe-requests-track-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at the University of Hamburg demonstrated that WiFi connection probe requests expose users to track.
+
+
+
+A group of academics at the University of Hamburg (Germany) demonstrated that it is possible to use  WiFi connection probe requests to identify...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Exchange servers hacked to deploy BlackCat ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-to-deploy-blackcat-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says BlackCat ransomware affiliates are now attacking Microsoft Exchange servers using exploits targeting unpatched vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelloXD Ransomware Installing Backdoor on Targeted Windows and Linux Systems<a href="https://thehackernews.com/2022/06/hello-xd-ransomware-installing-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows and Linux systems are being targeted by a ransomware variant called HelloXD, with the infections also involving the deployment of a backdoor to facilitate persistent remote access to infected hosts.  "Unlike other ransomware groups, this ransomware family doesn't have an active leak site; instead it prefers to direct the impacted victim to negotiations through  Tox chat  and onion-based messenger instances," Daniel Bunce and Doel Santos, security researchers from Palo Alto Networks Unit 42,  said  in a new write-up.  HelloXD  surfaced in the wild on November 30, 2021, and is based off leaked code from Babuk, which was  published  on a Russian-language cybercrime forum in September 2021.   The ransomware family is no exception to the norm in that the operators follow the tried-and-tested approach of  double extortion  to demand cryptocurrency payments by exfiltrating a victim's sensitive data in addition to encrypting it and threatening to publicize the inform
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Syslogk Linux rootkit uses magic packets to trigger backdoor<a href="https://www.bleepingcomputer.com/news/security/new-syslogk-linux-rootkit-uses-magic-packets-to-trigger-backdoor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new rootkit malware named 'Syslogk' has been spotted in the wild, and it features advanced process and file hiding techniques that make detection highly unlikely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers start targeting Ukraine with Follina exploits<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-start-targeting-ukraine-with-follina-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's Computer Emergency Response Team (CERT) is warning that the Russian hacking group Sandworm may be exploiting Follina, a remote code execution vulnerability in Microsoft Windows Support Diagnostic Tool (MSDT) currently tracked as CVE-2022-30190.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Spotted Using a new DNS Hijacking Malware in Recent Attacks<a href="https://thehackernews.com/2022/06/iranian-hackers-spotted-using-new-dns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian state-sponsored threat actor tracked under the moniker Lyceum has turned to using a new custom .NET-based backdoor in recent campaigns directed against the Middle East.  "The new malware is a .NET based DNS Backdoor which is a customized version of the open source tool 'DIG.net,'" Zscaler ThreatLabz researchers Niraj Shivtarkar and Avinash Kumar  said  in a report published last week.  "The malware leverages a DNS attack technique called 'DNS Hijacking' in which an attacker-controlled DNS server manipulates the response of DNS queries and resolves them as per their malicious requirements."   DNS hijacking is a  redirection attack  in which DNS queries to genuine websites are intercepted to take an unsuspecting user to fraudulent pages under an adversary's control. Unlike  cache poisoning , DNS hijacking targets the DNS record of the website on the nameserver, rather than a resolver's cache.   Lyceum , also known as Hexane, Spirli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPI package 'keep' mistakenly included a password stealer<a href="https://www.bleepingcomputer.com/news/security/pypi-package-keep-mistakenly-included-a-password-stealer/"> Full Text</a>
@@ -50,7 +403,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2022
+June 12, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 369 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/132194/breaking-news/security-affairs-newsletter-round-369-by-pierluigi-paganini.html"> Full Text</a>
@@ -74,7 +427,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2022
+June 12, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Vytal Chrome extension hides location info that your VPN can't<a href="https://www.bleepingcomputer.com/news/security/new-vytal-chrome-extension-hides-location-info-that-your-vpn-cant/"> Full Text</a>
@@ -90,7 +443,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2022
+June 12, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gangs are exploiting CVE-2022-26134 RCE in Atlassian Confluence servers<a href="https://securityaffairs.co/wordpress/132186/cyber-crime/ransomware-gangs-cve-2022-26134-rce-atlassian-confluence.html"> Full Text</a>
@@ -110,7 +463,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2022
+June 12, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hello XD ransomware now drops a backdoor while encrypting<a href="https://www.bleepingcomputer.com/news/security/hello-xd-ransomware-now-drops-a-backdoor-while-encrypting/"> Full Text</a>
@@ -126,7 +479,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2022
+June 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HID Mercury Access Controller flaws could allow to unlock Doors<a href="https://securityaffairs.co/wordpress/132175/hacking/hid-mercury-access-controller-flaws.html"> Full Text</a>
@@ -146,7 +499,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Goes After Google Chrome Users to Steal Credit Card Details<a href="https://cyware.com/news/emotet-goes-after-google-chrome-users-to-steal-credit-card-details-f1a3c676"> Full Text</a>
@@ -162,7 +515,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MIT Researchers Discover New Flaw in Apple M1 CPUs That Can't Be Patched<a href="https://thehackernews.com/2022/06/mit-researchers-discover-new-flaw-in.html"> Full Text</a>
@@ -178,7 +531,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Derails Bohrium Hackers’ Spear-phishing Operation<a href="https://cyware.com/news/microsoft-derails-bohrium-hackers-spear-phishing-operation-0c2f0c11"> Full Text</a>
@@ -195,7 +548,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC Exploits for Atlassian RCE Bug Exploit Released Online<a href="https://cyware.com/news/poc-exploits-for-atlassian-rce-bug-exploit-released-online-463354a9"> Full Text</a>
@@ -212,7 +565,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WiFi probing exposes smartphone users to tracking, info leaks<a href="https://www.bleepingcomputer.com/news/security/wifi-probing-exposes-smartphone-users-to-tracking-info-leaks/"> Full Text</a>
@@ -228,7 +581,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exposing HelloXD Ransomware and x4k<a href="https://unit42.paloaltonetworks.com/helloxd-ransomware/?&web_view=true"> Full Text</a>
@@ -244,7 +597,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked Lyceum APT adds a new .NET DNS Backdoor to its arsenal<a href="https://securityaffairs.co/wordpress/132164/apt/lyceum-apt-target-energy-dns-backdoor.html"> Full Text</a>
@@ -264,7 +617,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Confluence servers hacked to deploy AvosLocker, Cerber2021 ransomware<a href="https://www.bleepingcomputer.com/news/security/confluence-servers-hacked-to-deploy-avoslocker-cerber2021-ransomware/"> Full Text</a>
@@ -280,7 +633,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2022
+June 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PACMAN, a new attack technique against Apple M1 CPUs<a href="https://securityaffairs.co/wordpress/132154/hacking/pacman-attack-apple-m1-cpus.html"> Full Text</a>
