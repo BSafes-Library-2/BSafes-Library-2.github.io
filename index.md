@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaiser Permanente data breach exposes health data of 69K people<a href="https://www.bleepingcomputer.com/news/security/kaiser-permanente-data-breach-exposes-health-data-of-69k-people/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three PyPI Packages Found Including Password Stealer by Mistake<a href="https://cyware.com/news/three-pypi-packages-found-including-password-stealer-by-mistake-0e027dc8"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Distribute Backdoored Web3 Wallets for iOS and Android Users<a href="https://thehackernews.com/2022/06/chinese-hackers-distribute-backdoored.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked APT targets Ukraine by exploiting the Follina RCE vulnerability<a href="https://securityaffairs.co/wordpress/132227/apt/cert-ua-sandworm-follina-rce.html"> Full Text</a>
@@ -103,7 +103,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gallium hackers backdoor finance, govt orgs using new PingPull malware<a href="https://www.bleepingcomputer.com/news/security/gallium-hackers-backdoor-finance-govt-orgs-using-new-pingpull-malware/"> Full Text</a>
@@ -119,7 +119,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Credentials for thousands of open source projects free for the taking<a href="https://arstechnica.com/information-technology/2022/06/credentials-for-thousands-of-open-source-projects-free-for-the-taking-again/?&web_view=true"> Full Text</a>
@@ -135,7 +135,7 @@ ARS Technica
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese 'Gallium' Hackers Using New PingPull Malware in Cyberespionage Attacks<a href="https://thehackernews.com/2022/06/chinese-gallium-hackers-using-new.html"> Full Text</a>
@@ -151,7 +151,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GALLIUM APT used a new PingPull RAT in recent campaigns<a href="https://securityaffairs.co/wordpress/132217/apt/gallium-apt-pingpull-trojan.html"> Full Text</a>
@@ -171,7 +171,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers clone Coinbase, MetaMask mobile wallets to steal your crypto<a href="https://www.bleepingcomputer.com/news/security/hackers-clone-coinbase-metamask-mobile-wallets-to-steal-your-crypto/"> Full Text</a>
@@ -187,7 +187,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Africa: Shoprite Group issues warning on 'suspected data compromise'<a href="https://www.sowetanlive.co.za/news/south-africa/2022-06-11-shoprite-group-issues-warning-on-suspected-data-compromise/?&web_view=true"> Full Text</a>
@@ -203,7 +203,7 @@ Sowetan Live
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Disclose Rooting Backdoor in Mitel IP Phones for Businesses<a href="https://thehackernews.com/2022/06/researchers-disclose-rooting-backdoor.html"> Full Text</a>
@@ -219,7 +219,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HelloXD Ransomware operators install MicroBackdoor on target systems<a href="https://securityaffairs.co/wordpress/132207/malware/helloxd-ransomware-installs-microbackdoor.html"> Full Text</a>
@@ -239,7 +239,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Metasploit 6.2.0 improves credential theft, SMB support features, more<a href="https://www.bleepingcomputer.com/news/security/metasploit-620-improves-credential-theft-smb-support-features-more/"> Full Text</a>
@@ -255,7 +255,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI, DOJ say less than 25% of NetWalker ransomware victims reported incidents<a href="https://therecord.media/fbi-doj-say-less-than-25-of-netwalker-ransomware-victims-reported-incidents/?&web_view=true"> Full Text</a>
@@ -271,7 +271,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quick and Simple: BPFDoor Explained<a href="https://thehackernews.com/2022/06/quick-and-simple-bpfdoor-explained.html"> Full Text</a>
@@ -287,7 +287,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Using WiFi connection probe requests to track users<a href="https://securityaffairs.co/wordpress/132193/mobile-2/wifi-probe-requests-track-users.html"> Full Text</a>
@@ -307,7 +307,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Exchange servers hacked to deploy BlackCat ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-to-deploy-blackcat-ransomware/"> Full Text</a>
@@ -323,7 +323,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HelloXD Ransomware Installing Backdoor on Targeted Windows and Linux Systems<a href="https://thehackernews.com/2022/06/hello-xd-ransomware-installing-backdoor.html"> Full Text</a>
@@ -339,7 +339,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Syslogk Linux rootkit uses magic packets to trigger backdoor<a href="https://www.bleepingcomputer.com/news/security/new-syslogk-linux-rootkit-uses-magic-packets-to-trigger-backdoor/"> Full Text</a>
@@ -355,7 +355,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2022
+June 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian hackers start targeting Ukraine with Follina exploits<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-start-targeting-ukraine-with-follina-exploits/"> Full Text</a>
@@ -371,7 +371,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2022
+June 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Spotted Using a new DNS Hijacking Malware in Recent Attacks<a href="https://thehackernews.com/2022/06/iranian-hackers-spotted-using-new-dns.html"> Full Text</a>

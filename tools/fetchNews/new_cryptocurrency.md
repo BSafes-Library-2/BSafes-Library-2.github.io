@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Distribute Backdoored Web3 Wallets for iOS and Android Users<a href="https://thehackernews.com/2022/06/chinese-hackers-distribute-backdoored.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A technically sophisticated threat actor known as&nbsp; SeaFlower &nbsp;has been targeting Android and iOS users as part of an extensive campaign that mimics official cryptocurrency wallet websites intending to distribute backdoored apps that drain victims' funds.  Said to be first discovered in March 2022, the cluster of activity "hint[s] to a strong relationship with a Chinese-speaking entity yet to be uncovered," based on the macOS usernames, source code comments in the backdoor code, and its abuse of Alibaba's Content Delivery Network (CDN).   "As of today, the main current objective of SeaFlower is to modify Web3 wallets with backdoor code that ultimately exfiltrates the seed phrase," Confiant's Taha Karim&nbsp; said &nbsp;in a technical deep-dive of the campaign.  Targeted apps include Android and iOS versions of Coinbase Wallet, MetaMask, TokenPocket, and imToken.   SeaFlower's modus operandi involves setting up cloned websites that act as a conduit to download
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers clone Coinbase, MetaMask mobile wallets to steal your crypto<a href="https://www.bleepingcomputer.com/news/security/hackers-clone-coinbase-metamask-mobile-wallets-to-steal-your-crypto/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered a large-scale malicious operation that uses trojanized&nbsp;mobile&nbsp;cryptocurrency wallet applications for Coinbase, MetaMask, TokenPocket, and imToken services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

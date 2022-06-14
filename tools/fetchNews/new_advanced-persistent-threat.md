@@ -8,6 +8,42 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT targets Ukraine by exploiting the Follina RCE vulnerability<a href="https://securityaffairs.co/wordpress/132227/apt/cert-ua-sandworm-follina-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's Computer Emergency Response Team (CERT) warns that the Russia-linked Sandworm APT group may exploit the Follina RCE vulnerability.
+
+
+
+Ukraine's Computer Emergency Response Team (CERT) is warning that the Russia-linked Sandworm APT may be exploiting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GALLIUM APT used a new PingPull RAT in recent campaigns<a href="https://securityaffairs.co/wordpress/132217/apt/gallium-apt-pingpull-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked Gallium APT employed a previously undocumented RAT, tracked as PingPull, in recent cyber espionage campaign targeting South Asia, Europe, and Africa.
+
+
+
+China-linked Gallium APT (aka Softcell) used a previously undocumented remote access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

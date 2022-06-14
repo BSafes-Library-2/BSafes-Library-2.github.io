@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quick and Simple: BPFDoor Explained<a href="https://thehackernews.com/2022/06/quick-and-simple-bpfdoor-explained.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BPFDoor isn't new to the&nbsp; cyberattack &nbsp;game — in fact, it's gone undetected for years — but PwC researchers discovered the piece of malware in 2021. Subsequently, the cybersecurity community is learning more about the&nbsp; stealthy nature of malware , how it works, and how it can be prevented.  What's BPFDoor?  BPFDoor &nbsp;is a piece of malware associated with China-based threat actor Red Menshen that has hit mostly Linux operating systems. It's undetected by firewalls and goes unnoticed by most detection systems — so unnoticed that it's been a work in progress over the last five years, going through various phases of development and complexity.  How Does It Work?  BPF stands for Berkley Packet Filters, which is appropriate given that the virus exploits packet filters. BPFDoor uses BPF " sniffers " to see all network traffic and find vulnerabilities. Packet filters are programs that analyze "packets" (files, metadata, network traffic) and permit or dec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

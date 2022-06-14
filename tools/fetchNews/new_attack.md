@@ -8,6 +8,94 @@ nav_order: 900015
 
 ## Attack
 ---
+June 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gallium hackers backdoor finance, govt orgs using new PingPull malware<a href="https://www.bleepingcomputer.com/news/security/gallium-hackers-backdoor-finance-govt-orgs-using-new-pingpull-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Gallium state-sponsored hacking group has been spotted using a new 'PingPull' remote access trojan against&nbsp;financial institutions and government entities in&nbsp;Europe, Southeast Asia, and Africa.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese 'Gallium' Hackers Using New PingPull Malware in Cyberespionage Attacks<a href="https://thehackernews.com/2022/06/chinese-gallium-hackers-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese advanced persistent threat (APT) known as Gallium has been observed using a previously undocumented remote access trojan in its espionage attacks targeting companies operating in Southeast Asia, Europe, and Africa.  Called&nbsp; PingPull , the "difficult-to-detect" backdoor is notable for its use of the Internet Control Message Protocol ( ICMP ) for command-and-control (C2) communications, according to new research published by Palo Alto Networks Unit 42 today.   Gallium is known for its attacks primarily aimed at telecom companies dating as far back as 2012. Also tracked under the name&nbsp; Soft Cell &nbsp;by Cybereason, the state-sponsored actor has been&nbsp; connected &nbsp;to a broader set of attacks targeting five major telecom companies located in Southeast Asian countries since 2017.  Over the past year, however, the group is said to have expanded its victimology footprint to include financial institutions and government entities located in Afghanistan, Australia, Belgium, Cambodi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelloXD Ransomware operators install MicroBackdoor on target systems<a href="https://securityaffairs.co/wordpress/132207/malware/helloxd-ransomware-installs-microbackdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts observed the HelloXD ransomware deploying a backdoor to facilitate persistent remote access to infected hosts.
+
+
+
+The HelloXD&nbsp;ransomware first appeared in the threat landscape on November 30, 2021, it borrows the code from Babuk ransomware,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Exchange servers hacked to deploy BlackCat ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-to-deploy-blackcat-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says&nbsp;BlackCat ransomware affiliates are now attacking Microsoft Exchange servers&nbsp;using exploits targeting&nbsp;unpatched vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers start targeting Ukraine with Follina exploits<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-start-targeting-ukraine-with-follina-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's Computer Emergency Response Team (CERT) is warning that the Russian hacking group Sandworm may be exploiting Follina, a remote code execution vulnerability in Microsoft Windows Support Diagnostic Tool (MSDT) currently tracked as CVE-2022-30190.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Spotted Using a new DNS Hijacking Malware in Recent Attacks<a href="https://thehackernews.com/2022/06/iranian-hackers-spotted-using-new-dns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian state-sponsored threat actor tracked under the moniker Lyceum has turned to using a new custom .NET-based backdoor in recent campaigns directed against the Middle East.  "The new malware is a .NET based DNS Backdoor which is a customized version of the open source tool 'DIG.net,'" Zscaler ThreatLabz researchers Niraj Shivtarkar and Avinash Kumar&nbsp; said &nbsp;in a report published last week.  "The malware leverages a DNS attack technique called 'DNS Hijacking' in which an attacker-controlled DNS server manipulates the response of DNS queries and resolves them as per their malicious requirements."   DNS hijacking is a&nbsp; redirection attack &nbsp;in which DNS queries to genuine websites are intercepted to take an unsuspecting user to fraudulent pages under an adversary's control. Unlike&nbsp; cache poisoning , DNS hijacking targets the DNS record of the website on the nameserver, rather than a resolver's cache.   Lyceum , also known as Hexane, Spirli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

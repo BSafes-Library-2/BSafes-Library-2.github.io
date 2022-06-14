@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Using WiFi connection probe requests to track users<a href="https://securityaffairs.co/wordpress/132193/mobile-2/wifi-probe-requests-track-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at the University of Hamburg demonstrated that WiFi connection probe requests expose users to track.
+
+
+
+A group of academics at the University of Hamburg (Germany) demonstrated that it is possible to use  WiFi connection probe requests to identify...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

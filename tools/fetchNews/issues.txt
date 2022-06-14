@@ -29,7 +29,7 @@
  -- [Solution](/docs/issues/solution/solution/)<br>
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
-Alerts: 
+Alerts:
 
 Law
 

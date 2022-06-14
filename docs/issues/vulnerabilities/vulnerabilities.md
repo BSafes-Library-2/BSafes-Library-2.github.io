@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose Rooting Backdoor in Mitel IP Phones for Businesses<a href="https://thehackernews.com/2022/06/researchers-disclose-rooting-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details of two medium-security flaws in Mitel 6800/6900 desk phones that, if successfully exploited, could allow an attacker to gain root privileges on the devices.  Tracked as&nbsp; CVE-2022-29854 &nbsp;and&nbsp; CVE-2022-29855 &nbsp;(CVSS score: 6.8), the access control issues were discovered by German penetration testing firm SySS, following which patches were shipped in May 2022.   "Due to this undocumented backdoor, an attacker with physical access to a vulnerable desk phone can gain root access by pressing specific keys on system boot, and then connect to a provided Telnet service as root user," SySS researcher Matthias Deeg said in a statement shared with The Hacker News.  Specifically, the issue relates to a previously unknown functionality present in a shell script ("check_mft.sh") in the phones' firmware that's designed to be executed at system boot.  "The shell script 'check_mft.sh,' which is located in the direc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hello XD ransomware now drops a backdoor while encrypting<a href="https://www.bleepingcomputer.com/news/security/hello-xd-ransomware-now-drops-a-backdoor-while-encrypting/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers report increased activity of the Hello XD ransomware, whose operators are now deploying an upgraded sample featuring stronger encryption.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exposing HelloXD Ransomware and x4k<a href="https://unit42.paloaltonetworks.com/helloxd-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unlike other ransomware groups, this ransomware family doesn’t have an active leak site; instead it prefers to direct the impacted victim to negotiations through TOX chat and onion-based messenger instances.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
