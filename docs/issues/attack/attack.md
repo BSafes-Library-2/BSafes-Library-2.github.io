@@ -8,6 +8,67 @@ nav_order: 900015
 
 ## Attack
 ---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hertzbleed side-channel attack affects Intel, AMD CPUs<a href="https://www.bleepingcomputer.com/news/security/new-hertzbleed-side-channel-attack-affects-intel-amd-cpus/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new side-channel attack known as Hertzbleed allows remote attackers to steal&nbsp;full cryptographic keys by observing variations in CPU frequency enabled by&nbsp;dynamic voltage&nbsp;and frequency scaling (DVFS).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti's Attack Against Costa Rica Sparks a New Ransomware Era<a href="https://www.wired.com/story/costa-rica-ransomware-conti/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti claimed responsibility for the first attack against Costa Rica’s government and is believed to have some links to the ransomware-as-a-service operation HIVE, which was responsible for the second attack impacting the country's healthcare system.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SeaFlower campaign distributes backdoored versions of Web3 wallets to steal seed phrases<a href="https://securityaffairs.co/wordpress/132250/cyber-crime/seaflower-malware-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese cybercriminals are using SeaFlower backdoored versions of iOS and Android Web3 wallets to steal users’ seed phrase.
+
+
+
+Researchers from Confiant have uncovered a sophisticated malware campaign, tracked as SeaFlower, targeting Web3 wallet users....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PACMAN Attack Targets Apple M1 Chip Embedded CPUs<a href="https://cyware.com/news/pacman-attack-targets-apple-m1-chip-embedded-cpus-3d9d9248"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers devised a new hardware attack aimed at Pointer Authentication in Apple M1 chip-based CPUs, that may allow an attacker to run arbitrary code on Mac systems. The attack is an exploitation technique but it cannot affect the system on its own.&nbsp;Apple has claimed that the issue does not  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zimbra Email Vulnerability Could Let Attackers Steal Your Login Credentials<a href="https://thehackernews.com/2022/06/new-zimbra-email-vulnerability-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new high-severity vulnerability has been disclosed in the Zimbra email suite that, if successfully exploited, enables an unauthenticated attacker to steal cleartext passwords of users sans any user interaction.  "With the consequent access to the victims' mailboxes, attackers can potentially escalate their access to targeted organizations and gain access to various internal services and steal highly sensitive information," SonarSource&nbsp; said &nbsp;in a report shared with The Hacker News.  Tracked as&nbsp; CVE-2022-27924 &nbsp;(CVSS score: 7.5), the issue has been characterized as a case of "Memcached poisoning with unauthenticated request," leading to a scenario where an adversary can inject malicious commands and siphon sensitive information.   This is made possible by poisoning the&nbsp; IMAP &nbsp;route cache entries in the Memcached server that's used to look up Zimbra users and forward their HTTP requests to appropriate backend services.   Given that Memcached parses incoming
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in Zimbra email suite allows stealing login credentials of the users<a href="https://securityaffairs.co/wordpress/132269/hacking/zimbra-email-suite-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability in the Zimbra email suite could be exploited by an unauthenticated attacker to steal login credentials of users.
+
+
+
+Researchers from Sonarsource have discovered a high-severity vulnerability impacting the Zimbra email suite,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Technical Details Released for 'SynLapse' RCE Vulnerability Reported in Microsoft Azure<a href="https://thehackernews.com/2022/06/technical-details-released-for-synlapse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has incorporated additional improvements to address the recently disclosed&nbsp; SynLapse &nbsp;security vulnerability in order to meet comprehensive&nbsp; tenant isolation &nbsp; requirements &nbsp;in Azure Data Factory and Azure Synapse Pipelines.  The latest safeguards include moving the shared integration runtimes to sandboxed ephemeral instances and using scoped tokens to prevent adversaries from using a client certificate to access other tenants' information.  "This means that if an attacker could execute code on the&nbsp; integration runtime , it is never shared between two different tenants, so no sensitive data is in danger," Orca Security said in a technical report  detailing the flaw.   The high-severity issue, tracked as&nbsp; CVE-2022-29972 &nbsp;(CVSS score: 7.8) and disclosed early last month, could have allowed an attacker to perform remote command execution and gain access to another Azure client's cloud environment.  Originally reported by the cloud security company on January 4
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft patches actively exploited Follina Windows zero-day<a href="https://www.bleepingcomputer.com/news/security/microsoft-patches-actively-exploited-follina-windows-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released security updates with the June 2022 cumulative Windows Updates to address a critical Windows zero-day vulnerability known as Follina and actively exploited in ongoing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Travis CI API Bug Exposes Thousands of Secret User Access Tokens<a href="https://thehackernews.com/2022/06/unpatched-travis-ci-api-bug-exposes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unpatched security issue in the Travis CI API has left tens of thousands of developers' user tokens exposed to potential attacks, effectively allowing threat actors to breach cloud infrastructures, make unauthorized code changes, and initiate supply chain attacks.  "More than 770 million logs of free tier users are available, from which you can easily extract tokens, secrets, and other credentials associated with popular cloud service providers such as GitHub, AWS, and Docker Hub," researchers from cloud security firm Aqua&nbsp; said &nbsp;in a Monday report.  Travis CI is a&nbsp; continuous integration &nbsp;service used to build and test software projects hosted on cloud repository platforms such as GitHub and Bitbucket.   The issue, previously reported in 2015 and&nbsp; 2019 , is rooted in the fact that the&nbsp; API &nbsp;permits access to historical logs in cleartext format, enabling a malicious party to even "fetch the logs that were previously unavailable via the API."  The logs go all
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft June 2022 Patch Tuesday fixes 1 zero-day, 55 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2022-patch-tuesday-fixes-1-zero-day-55-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's June 2022 Patch Tuesday, and with it comes fixes for 55 vulnerabilities, including fixes for the Windows MSDT 'Follina' zero-day vulnerability and new Intel MMIO&nbsp;flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Shows How Tesla Key Card Feature Can Be Abused to Steal Cars<a href="https://www.securityweek.com/researcher-shows-how-tesla-key-card-feature-can-be-abused-steal-cars?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researcher found that when a Tesla is unlocked using the key card via NFC, there is a 130-second window when an attacker within Bluetooth range of the targeted vehicle can add their own key, which they can later use to unlock and drive the car.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

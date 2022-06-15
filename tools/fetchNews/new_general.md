@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How DOJ took the malware fight into your computer<a href="https://www.politico.com/news/2022/06/13/how-doj-took-the-malware-fight-into-your-computer-00038932?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest example of this approach came in April, when U.S. authorities wiped malware off of hacked servers used to control a Russian intelligence agency’s botnet, preventing operators from sending instructions to the thousands of infected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What the New OWASP Top 10 Changes Mean to You?<a href="https://threatpost.com/what-the-new-owasp-top-10-changes-mean-to-you/179881/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OWASP top 10 list of critical security risks will have a big impact on how businesses address application security moving forward. The changes to the list will require businesses to reevaluate their application security posture holistically. Learn more about the most significant changes that have emerged and how businesses can address them.   
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is the Essential Eight (And Why Non-Aussies Should Care)<a href="https://thehackernews.com/2022/06/what-is-essential-eight-and-why-non.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2017, The Australian Cyber Security Center (ACSC) published a set of mitigation strategies that were designed to help organizations to protect themselves against cyber security incidents. These strategies, which became known as&nbsp; the Essential Eight , are designed specifically for use on Windows networks, although variations of these strategies are commonly applied to other platforms.  What is the Essential Eight?&nbsp;  The Essential Eight is essentially a cyber security framework that is made up of objectives and controls (with each objective including multiple controls). Initially, the Australian government only mandated that companies adhere to four of the security controls that were included in the first objective. Starting in June of 2022 however, all 98 non-corporate Commonwealth entities (NCCEs) are going to be&nbsp; required to comply with the entire framework .  Non-Australians take note&nbsp;  Although the Essential Eight is specific to Australia, organizations outside of Australia shou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

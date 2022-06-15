@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang creates site for employees to search for their stolen data<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-creates-site-for-employees-to-search-for-their-stolen-data/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How DOJ took the malware fight into your computer<a href="https://www.politico.com/news/2022/06/13/how-doj-took-the-malware-fight-into-your-computer-00038932?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Politico
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Zimbra Email Vulnerability Could Let Attackers Steal Your Login Credentials<a href="https://thehackernews.com/2022/06/new-zimbra-email-vulnerability-could.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in Zimbra email suite allows stealing login credentials of the users<a href="https://securityaffairs.co/wordpress/132269/hacking/zimbra-email-suite-flaw.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What the New OWASP Top 10 Changes Mean to You?<a href="https://threatpost.com/what-the-new-owasp-top-10-changes-mean-to-you/179881/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Hertzbleed side-channel attack affects Intel, AMD CPUs<a href="https://www.bleepingcomputer.com/news/security/new-hertzbleed-side-channel-attack-affects-intel-amd-cpus/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti's Attack Against Costa Rica Sparks a New Ransomware Era<a href="https://www.wired.com/story/costa-rica-ransomware-conti/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What is the Essential Eight (And Why Non-Aussies Should Care)<a href="https://thehackernews.com/2022/06/what-is-essential-eight-and-why-non.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 API Security Best Practices<a href="https://securityaffairs.co/wordpress/132244/security/api-security-best-practices.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android malware on the Google Play Store gets 2 million downloads<a href="https://www.bleepingcomputer.com/news/security/android-malware-on-the-google-play-store-gets-2-million-downloads/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Industroyer: A cyber‑weapon that brought down a power grid<a href="https://www.welivesecurity.com/2022/06/13/industroyer-cyber-weapon-brought-down-power-grid/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ ESET Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Technical Details Released for 'SynLapse' RCE Vulnerability Reported in Microsoft Azure<a href="https://thehackernews.com/2022/06/technical-details-released-for-synlapse.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SeaFlower campaign distributes backdoored versions of Web3 wallets to steal seed phrases<a href="https://securityaffairs.co/wordpress/132250/cyber-crime/seaflower-malware-campaign.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft patches actively exploited Follina Windows zero-day<a href="https://www.bleepingcomputer.com/news/security/microsoft-patches-actively-exploited-follina-windows-zero-day/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PACMAN Attack Targets Apple M1 Chip Embedded CPUs<a href="https://cyware.com/news/pacman-attack-targets-apple-m1-chip-embedded-cpus-3d9d9248"> Full Text</a>
@@ -287,7 +287,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Travis CI API Bug Exposes Thousands of Secret User Access Tokens<a href="https://thehackernews.com/2022/06/unpatched-travis-ci-api-bug-exposes.html"> Full Text</a>
@@ -303,7 +303,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts spotted Syslogk, a Linux rootkit under development<a href="https://securityaffairs.co/wordpress/132232/malware/syslogk-linux-rootkit.html"> Full Text</a>
@@ -323,7 +323,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft June 2022 Patch Tuesday fixes 1 zero-day, 55 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2022-patch-tuesday-fixes-1-zero-day-55-flaws/"> Full Text</a>
@@ -339,7 +339,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 At least $413,000 lost to parcel scams in Singapore since Jan<a href="https://uk.news.yahoo.com/574000-lost-parcel-scams-singapore-042437026.html?&web_view=true"> Full Text</a>
@@ -355,7 +355,7 @@ Yahoo Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Syslogk Linux Rootkit Lets Attackers Remotely Command It Using "Magic Packets"<a href="https://thehackernews.com/2022/06/new-syslogk-linux-rootkit-lets.html"> Full Text</a>
@@ -371,7 +371,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Owner of ‘DownThem’ DDoS service gets 2 years in prison<a href="https://www.bleepingcomputer.com/news/security/owner-of-downthem-ddos-service-gets-2-years-in-prison/"> Full Text</a>
@@ -387,7 +387,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher Shows How Tesla Key Card Feature Can Be Abused to Steal Cars<a href="https://www.securityweek.com/researcher-shows-how-tesla-key-card-feature-can-be-abused-steal-cars?&web_view=true"> Full Text</a>
@@ -403,7 +403,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detail PureCrypter Loader Cyber Criminals Using to Distribute Malware<a href="https://thehackernews.com/2022/06/researchers-detail-purecrypter-loader.html"> Full Text</a>
@@ -419,7 +419,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firefox now blocks cross-site tracking by default for all users<a href="https://www.bleepingcomputer.com/news/security/firefox-now-blocks-cross-site-tracking-by-default-for-all-users/"> Full Text</a>
@@ -435,7 +435,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare mitigates record-breaking HTTPS DDoS attack<a href="https://www.bleepingcomputer.com/news/security/cloudflare-mitigates-record-breaking-https-ddos-attack/"> Full Text</a>

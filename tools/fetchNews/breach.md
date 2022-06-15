@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+June 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaiser Permanente data breach exposes health data of 69K people<a href="https://www.bleepingcomputer.com/news/security/kaiser-permanente-data-breach-exposes-health-data-of-69k-people/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaiser Permanente,&nbsp;one of America's&nbsp;leading not-for-profit health plans and health care providers, has recently disclosed a data breach that exposed the health information&nbsp;of more than 69,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credentials for thousands of open source projects free for the taking<a href="https://arstechnica.com/information-technology/2022/06/credentials-for-thousands-of-open-source-projects-free-for-the-taking-again/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of two batches of data the Aqua Security researchers accessed using the Travis CI programming interface yielded 4.28 million and 770 million logs from 2013 through May 2022.
+</details>
+<div style="text-align: right" markdown="1">
+ARS Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Africa: Shoprite Group issues warning on 'suspected data compromise'<a href="https://www.sowetanlive.co.za/news/south-africa/2022-06-11-shoprite-group-issues-warning-on-suspected-data-compromise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Shoprite Group said on Friday evening it had become aware of a suspected data compromise, including names and ID numbers, which may affect some customers who engaged in money transfers to and within Eswatini and within Namibia and Zambia.
+</details>
+<div style="text-align: right" markdown="1">
+Sowetan Live
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900053
 
 ## Education
 ---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+API Security Best Practices<a href="https://securityaffairs.co/wordpress/132244/security/api-security-best-practices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations face the constant need to protect these APIs from attacks so they can protect organizational data.
+
+
+
+Organizations are rapidly opening their ecosystem through Application Programming Interfaces (API) by ensuring seamless access to data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

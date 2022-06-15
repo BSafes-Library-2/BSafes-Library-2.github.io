@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang creates site for employees to search for their stolen data<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-creates-site-for-employees-to-search-for-their-stolen-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ALPHV ransomware gang, aka BlackCat, has brought extortion to a new level by creating a dedicated website that allows the customers and employees of their victim to check if their data was stolen in an attack
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail PureCrypter Loader Cyber Criminals Using to Distribute Malware<a href="https://thehackernews.com/2022/06/researchers-detail-purecrypter-loader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed the workings of a fully-featured malware loader dubbed&nbsp; PureCrypter &nbsp;that's being purchased by cyber criminals to deliver remote access trojans (RATs) and information stealers.  "The loader is a .NET executable obfuscated with SmartAssembly and makes use of compression, encryption, and obfuscation to evade antivirus software products," Zscaler's Romain Dumont&nbsp; said &nbsp;in a new report.   Some of the malware families distributed using PureCrypter include&nbsp; Agent Tesla ,&nbsp; Arkei ,&nbsp; AsyncRAT ,&nbsp; AZORult ,&nbsp; DarkCrystal RAT &nbsp;(DCRat),&nbsp; LokiBot ,&nbsp; NanoCore ,&nbsp; RedLine Stealer ,&nbsp; Remcos ,&nbsp; Snake Keylogger , and&nbsp; Warzone RAT .   Sold for a price of $59 by its developer named "PureCoder" for a one-month plan (and $249 for a one-off lifetime purchase) since at least March 2021, PureCrypter is advertised as the "only crypter in the market that uses offline and online delivery technique."  Crypters act as the&nbsp; first layer of de
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

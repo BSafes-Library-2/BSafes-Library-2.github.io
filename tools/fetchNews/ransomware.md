@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelloXD Ransomware Installing Backdoor on Targeted Windows and Linux Systems<a href="https://thehackernews.com/2022/06/hello-xd-ransomware-installing-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows and Linux systems are being targeted by a ransomware variant called HelloXD, with the infections also involving the deployment of a backdoor to facilitate persistent remote access to infected hosts.  "Unlike other ransomware groups, this ransomware family doesn't have an active leak site; instead it prefers to direct the impacted victim to negotiations through&nbsp; Tox chat &nbsp;and onion-based messenger instances," Daniel Bunce and Doel Santos, security researchers from Palo Alto Networks Unit 42,&nbsp; said &nbsp;in a new write-up.  HelloXD &nbsp;surfaced in the wild on November 30, 2021, and is based off leaked code from Babuk, which was&nbsp; published &nbsp;on a Russian-language cybercrime forum in September 2021.   The ransomware family is no exception to the norm in that the operators follow the tried-and-tested approach of&nbsp; double extortion &nbsp;to demand cryptocurrency payments by exfiltrating a victim's sensitive data in addition to encrypting it and threatening to publicize the inform
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

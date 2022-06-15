@@ -8,6 +8,34 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Owner of ‘DownThem’ DDoS service gets 2 years in prison<a href="https://www.bleepingcomputer.com/news/security/owner-of-downthem-ddos-service-gets-2-years-in-prison/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Matthew Gatrel, 33, a citizen of Illinois, has been sentenced to two years in prison for operating platforms offering DDoS (distributed denial of service) services to subscribers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare mitigates record-breaking HTTPS DDoS attack<a href="https://www.bleepingcomputer.com/news/security/cloudflare-mitigates-record-breaking-https-ddos-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet infrastructure firm Cloudflare&nbsp;said today that it&nbsp;mitigated a&nbsp;26 million request per second distributed denial-of-service (DDoS)&nbsp;attack, the largest HTTPS DDoS attack detected to date.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

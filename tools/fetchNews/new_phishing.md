@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+At least $413,000 lost to parcel scams in Singapore since Jan<a href="https://uk.news.yahoo.com/574000-lost-parcel-scams-singapore-042437026.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing scams involving the delivery of parcels have resulted in a loss of at least S$574,000 (~$413,000) since the start of 2022. The scams have claimed at least 415 victims, the Singapore Police Force said.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
