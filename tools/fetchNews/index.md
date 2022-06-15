@@ -34,6 +34,423 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang creates site for employees to search for their stolen data<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-creates-site-for-employees-to-search-for-their-stolen-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ALPHV ransomware gang, aka BlackCat, has brought extortion to a new level by creating a dedicated website that allows the customers and employees of their victim to check if their data was stolen in an attack
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How DOJ took the malware fight into your computer<a href="https://www.politico.com/news/2022/06/13/how-doj-took-the-malware-fight-into-your-computer-00038932?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest example of this approach came in April, when U.S. authorities wiped malware off of hacked servers used to control a Russian intelligence agency’s botnet, preventing operators from sending instructions to the thousands of infected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zimbra Email Vulnerability Could Let Attackers Steal Your Login Credentials<a href="https://thehackernews.com/2022/06/new-zimbra-email-vulnerability-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new high-severity vulnerability has been disclosed in the Zimbra email suite that, if successfully exploited, enables an unauthenticated attacker to steal cleartext passwords of users sans any user interaction.  "With the consequent access to the victims' mailboxes, attackers can potentially escalate their access to targeted organizations and gain access to various internal services and steal highly sensitive information," SonarSource  said  in a report shared with The Hacker News.  Tracked as  CVE-2022-27924  (CVSS score: 7.5), the issue has been characterized as a case of "Memcached poisoning with unauthenticated request," leading to a scenario where an adversary can inject malicious commands and siphon sensitive information.   This is made possible by poisoning the  IMAP  route cache entries in the Memcached server that's used to look up Zimbra users and forward their HTTP requests to appropriate backend services.   Given that Memcached parses incoming
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in Zimbra email suite allows stealing login credentials of the users<a href="https://securityaffairs.co/wordpress/132269/hacking/zimbra-email-suite-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability in the Zimbra email suite could be exploited by an unauthenticated attacker to steal login credentials of users.
+
+
+
+Researchers from Sonarsource have discovered a high-severity vulnerability impacting the Zimbra email suite,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What the New OWASP Top 10 Changes Mean to You?<a href="https://threatpost.com/what-the-new-owasp-top-10-changes-mean-to-you/179881/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OWASP top 10 list of critical security risks will have a big impact on how businesses address application security moving forward. The changes to the list will require businesses to reevaluate their application security posture holistically. Learn more about the most significant changes that have emerged and how businesses can address them.   
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hertzbleed side-channel attack affects Intel, AMD CPUs<a href="https://www.bleepingcomputer.com/news/security/new-hertzbleed-side-channel-attack-affects-intel-amd-cpus/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new side-channel attack known as Hertzbleed allows remote attackers to steal full cryptographic keys by observing variations in CPU frequency enabled by dynamic voltage and frequency scaling (DVFS).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti's Attack Against Costa Rica Sparks a New Ransomware Era<a href="https://www.wired.com/story/costa-rica-ransomware-conti/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti claimed responsibility for the first attack against Costa Rica’s government and is believed to have some links to the ransomware-as-a-service operation HIVE, which was responsible for the second attack impacting the country's healthcare system.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is the Essential Eight (And Why Non-Aussies Should Care)<a href="https://thehackernews.com/2022/06/what-is-essential-eight-and-why-non.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2017, The Australian Cyber Security Center (ACSC) published a set of mitigation strategies that were designed to help organizations to protect themselves against cyber security incidents. These strategies, which became known as  the Essential Eight , are designed specifically for use on Windows networks, although variations of these strategies are commonly applied to other platforms.  What is the Essential Eight?   The Essential Eight is essentially a cyber security framework that is made up of objectives and controls (with each objective including multiple controls). Initially, the Australian government only mandated that companies adhere to four of the security controls that were included in the first objective. Starting in June of 2022 however, all 98 non-corporate Commonwealth entities (NCCEs) are going to be  required to comply with the entire framework .  Non-Australians take note   Although the Essential Eight is specific to Australia, organizations outside of Australia shou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+API Security Best Practices<a href="https://securityaffairs.co/wordpress/132244/security/api-security-best-practices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations face the constant need to protect these APIs from attacks so they can protect organizational data.
+
+
+
+Organizations are rapidly opening their ecosystem through Application Programming Interfaces (API) by ensuring seamless access to data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android malware on the Google Play Store gets 2 million downloads<a href="https://www.bleepingcomputer.com/news/security/android-malware-on-the-google-play-store-gets-2-million-downloads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered adware and information-stealing malware on the Google Play Store last month, with at least five still available and having amassed over two million downloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industroyer: A cyber‑weapon that brought down a power grid<a href="https://www.welivesecurity.com/2022/06/13/industroyer-cyber-weapon-brought-down-power-grid/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 12, 2017, ESET researchers published their findings about a malware that was capable of causing a widespread blackout. Industroyer, as they named it, was the first known piece of malware that was developed specifically to target a power grid.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Technical Details Released for 'SynLapse' RCE Vulnerability Reported in Microsoft Azure<a href="https://thehackernews.com/2022/06/technical-details-released-for-synlapse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has incorporated additional improvements to address the recently disclosed  SynLapse  security vulnerability in order to meet comprehensive  tenant isolation   requirements  in Azure Data Factory and Azure Synapse Pipelines.  The latest safeguards include moving the shared integration runtimes to sandboxed ephemeral instances and using scoped tokens to prevent adversaries from using a client certificate to access other tenants' information.  "This means that if an attacker could execute code on the  integration runtime , it is never shared between two different tenants, so no sensitive data is in danger," Orca Security said in a technical report  detailing the flaw.   The high-severity issue, tracked as  CVE-2022-29972  (CVSS score: 7.8) and disclosed early last month, could have allowed an attacker to perform remote command execution and gain access to another Azure client's cloud environment.  Originally reported by the cloud security company on January 4
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SeaFlower campaign distributes backdoored versions of Web3 wallets to steal seed phrases<a href="https://securityaffairs.co/wordpress/132250/cyber-crime/seaflower-malware-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese cybercriminals are using SeaFlower backdoored versions of iOS and Android Web3 wallets to steal users’ seed phrase.
+
+
+
+Researchers from Confiant have uncovered a sophisticated malware campaign, tracked as SeaFlower, targeting Web3 wallet users....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft patches actively exploited Follina Windows zero-day<a href="https://www.bleepingcomputer.com/news/security/microsoft-patches-actively-exploited-follina-windows-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released security updates with the June 2022 cumulative Windows Updates to address a critical Windows zero-day vulnerability known as Follina and actively exploited in ongoing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PACMAN Attack Targets Apple M1 Chip Embedded CPUs<a href="https://cyware.com/news/pacman-attack-targets-apple-m1-chip-embedded-cpus-3d9d9248"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers devised a new hardware attack aimed at Pointer Authentication in Apple M1 chip-based CPUs, that may allow an attacker to run arbitrary code on Mac systems. The attack is an exploitation technique but it cannot affect the system on its own.&nbsp;Apple has claimed that the issue does not  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Travis CI API Bug Exposes Thousands of Secret User Access Tokens<a href="https://thehackernews.com/2022/06/unpatched-travis-ci-api-bug-exposes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unpatched security issue in the Travis CI API has left tens of thousands of developers' user tokens exposed to potential attacks, effectively allowing threat actors to breach cloud infrastructures, make unauthorized code changes, and initiate supply chain attacks.  "More than 770 million logs of free tier users are available, from which you can easily extract tokens, secrets, and other credentials associated with popular cloud service providers such as GitHub, AWS, and Docker Hub," researchers from cloud security firm Aqua  said  in a Monday report.  Travis CI is a  continuous integration  service used to build and test software projects hosted on cloud repository platforms such as GitHub and Bitbucket.   The issue, previously reported in 2015 and  2019 , is rooted in the fact that the  API  permits access to historical logs in cleartext format, enabling a malicious party to even "fetch the logs that were previously unavailable via the API."  The logs go all
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted Syslogk, a Linux rootkit under development<a href="https://securityaffairs.co/wordpress/132232/malware/syslogk-linux-rootkit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a new Linux rootkit, dubbed ‘Syslogk,’ that uses specially crafted "magic packets" to activate a dormant backdoor on the device.
+
+
+
+Researchers from antivirus firm Avast spotted a new Linux rootkit, dubbed ‘Syslogk,’ that uses...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft June 2022 Patch Tuesday fixes 1 zero-day, 55 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2022-patch-tuesday-fixes-1-zero-day-55-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's June 2022 Patch Tuesday, and with it comes fixes for 55 vulnerabilities, including fixes for the Windows MSDT 'Follina' zero-day vulnerability and new Intel MMIO flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+At least $413,000 lost to parcel scams in Singapore since Jan<a href="https://uk.news.yahoo.com/574000-lost-parcel-scams-singapore-042437026.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing scams involving the delivery of parcels have resulted in a loss of at least S$574,000 (~$413,000) since the start of 2022. The scams have claimed at least 415 victims, the Singapore Police Force said.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Syslogk Linux Rootkit Lets Attackers Remotely Command It Using "Magic Packets"<a href="https://thehackernews.com/2022/06/new-syslogk-linux-rootkit-lets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new covert Linux kernel rootkit named  Syslogk  has been spotted under development in the wild and cloaking a malicious payload that can be remotely commandeered by an adversary using a  magic network traffic packet .  "The Syslogk rootkit is heavily based on Adore-Ng but incorporates new functionalities making the user-mode application and the kernel rootkit hard to detect," Avast security researchers David Álvarez and Jan Neduchal  said  in a report published Monday.  Adore-Ng, an  open-source rootkit  available since 2004, equips the attacker with full control over a compromised system. It also facilitates hiding processes as well as custom malicious artifacts, files, and even the kernel module, making it harder to detect.   "The module starts by hooking itself into various file systems. It digs up the inode for the root filesystem, and replaces that inode's  readdir()  function pointer with one of its own," LWN.net  noted  at the time. "The Adore ver
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Owner of ‘DownThem’ DDoS service gets 2 years in prison<a href="https://www.bleepingcomputer.com/news/security/owner-of-downthem-ddos-service-gets-2-years-in-prison/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Matthew Gatrel, 33, a citizen of Illinois, has been sentenced to two years in prison for operating platforms offering DDoS (distributed denial of service) services to subscribers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Shows How Tesla Key Card Feature Can Be Abused to Steal Cars<a href="https://www.securityweek.com/researcher-shows-how-tesla-key-card-feature-can-be-abused-steal-cars?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researcher found that when a Tesla is unlocked using the key card via NFC, there is a 130-second window when an attacker within Bluetooth range of the targeted vehicle can add their own key, which they can later use to unlock and drive the car.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail PureCrypter Loader Cyber Criminals Using to Distribute Malware<a href="https://thehackernews.com/2022/06/researchers-detail-purecrypter-loader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed the workings of a fully-featured malware loader dubbed  PureCrypter  that's being purchased by cyber criminals to deliver remote access trojans (RATs) and information stealers.  "The loader is a .NET executable obfuscated with SmartAssembly and makes use of compression, encryption, and obfuscation to evade antivirus software products," Zscaler's Romain Dumont  said  in a new report.   Some of the malware families distributed using PureCrypter include  Agent Tesla ,  Arkei ,  AsyncRAT ,  AZORult ,  DarkCrystal RAT  (DCRat),  LokiBot ,  NanoCore ,  RedLine Stealer ,  Remcos ,  Snake Keylogger , and  Warzone RAT .   Sold for a price of $59 by its developer named "PureCoder" for a one-month plan (and $249 for a one-off lifetime purchase) since at least March 2021, PureCrypter is advertised as the "only crypter in the market that uses offline and online delivery technique."  Crypters act as the  first layer of de
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox now blocks cross-site tracking by default for all users<a href="https://www.bleepingcomputer.com/news/security/firefox-now-blocks-cross-site-tracking-by-default-for-all-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla says that starting today, all Firefox users will now be protected by default against cross-site tracking while browsing the Internet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare mitigates record-breaking HTTPS DDoS attack<a href="https://www.bleepingcomputer.com/news/security/cloudflare-mitigates-record-breaking-https-ddos-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet infrastructure firm Cloudflare said today that it mitigated a 26 million request per second distributed denial-of-service (DDoS) attack, the largest HTTPS DDoS attack detected to date.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 13, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
