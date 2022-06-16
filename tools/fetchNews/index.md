@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploit three-year-old Telerik flaws to deploy Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-three-year-old-telerik-flaws-to-deploy-cobalt-strike/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypoto Wallet Apps Cloned to Steal Crypto<a href="https://cyware.com/news/crypoto-wallet-apps-cloned-to-steal-crypto-8faa1911"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Panchan: A New Golang-based Peer-To-Peer Botnet Targeting Linux Servers<a href="https://thehackernews.com/2022/06/panchan-new-golang-based-peer-to-peer.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European Security Officials Double Down on Automated Moderation and Client-Side Scanning<a href="https://www.lawfareblog.com/european-security-officials-double-down-automated-moderation-and-client-side-scanning"> Full Text</a>
@@ -99,7 +99,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hertzbleed Side-Channel Attack allows to remotely steal encryption keys from AMD and Intel chips<a href="https://securityaffairs.co/wordpress/132316/hacking/hertzbleed-side-channel-attack-allows-to-remotely-steal-encryption-keys-from-amd-and-intel-chips.html"> Full Text</a>
@@ -119,7 +119,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 In Cybersecurity, What You Can’t See Can Hurt You<a href="https://threatpost.com/cybersecurity-cant-see-can-hurt-you/179954/"> Full Text</a>
@@ -135,7 +135,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Secure Email bug can let attackers bypass authentication<a href="https://www.bleepingcomputer.com/news/security/cisco-secure-email-bug-can-let-attackers-bypass-authentication/"> Full Text</a>
@@ -151,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gallium Group Expands to New Geographical Areas with PingPull RAT<a href="https://cyware.com/news/gallium-group-expands-to-new-geographical-areas-with-pingpull-rat-1df681bb"> Full Text</a>
@@ -168,7 +168,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Hertzbleed Side-Channel Attack Affects All Modern AMD and Intel CPUs<a href="https://thehackernews.com/2022/06/new-hertzbleed-side-channel-attack.html"> Full Text</a>
@@ -184,7 +184,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A critical flaw in Citrix Application Delivery Management allows resetting admin passwords<a href="https://securityaffairs.co/wordpress/132299/security/citrix-application-delivery-management-flaw.html"> Full Text</a>
@@ -204,7 +204,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zimbra bug allows stealing email logins with no user interaction<a href="https://www.bleepingcomputer.com/news/security/zimbra-bug-allows-stealing-email-logins-with-no-user-interaction/"> Full Text</a>
@@ -220,7 +220,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hacking Campaign that Included Former U.S. Ambassador<a href="https://cyware.com/news/iranian-hacking-campaign-that-included-former-us-ambassador-1813699c"> Full Text</a>
@@ -237,7 +237,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Comprehensive, Easy Cybersecurity for Lean IT Security Teams Starts with XDR<a href="https://thehackernews.com/2022/06/comprehensive-easy-cybersecurity-for.html"> Full Text</a>
@@ -253,7 +253,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Panchan Golang P2P botnet targeting Linux servers in cryptomining campaign<a href="https://securityaffairs.co/wordpress/132290/cyber-crime/panchan-p2p-botnet.html"> Full Text</a>
@@ -273,7 +273,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Extortion gang ransoms Shoprite, largest supermarket chain in Africa<a href="https://www.bleepingcomputer.com/news/security/extortion-gang-ransoms-shoprite-largest-supermarket-chain-in-africa/"> Full Text</a>
@@ -289,7 +289,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Can Exploit Critical Citrix ADM Vulnerability to Reset Admin Passwords<a href="https://www.securityweek.com/attackers-can-exploit-critical-citrix-adm-vulnerability-reset-admin-passwords?&web_view=true"> Full Text</a>
@@ -305,7 +305,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Let’s give a look at the Dark Web Price Index 2022<a href="https://securityaffairs.co/wordpress/132256/deep-web/dark-web-index-2022.html"> Full Text</a>
@@ -325,7 +325,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Citrix warns critical bug can let attackers reset admin passwords<a href="https://www.bleepingcomputer.com/news/security/citrix-warns-critical-bug-can-let-attackers-reset-admin-passwords/"> Full Text</a>
@@ -341,7 +341,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canada wants companies to report cyber attacks and hacking incidents<a href="https://finance.yahoo.com/news/canada-wants-companies-report-cyber-195502481.html?&web_view=true"> Full Text</a>
@@ -357,7 +357,7 @@ Yahoo Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol seizes $50 million, arrests 2000 social engineers<a href="https://www.bleepingcomputer.com/news/security/interpol-seizes-50-million-arrests-2000-social-engineers/"> Full Text</a>
@@ -373,7 +373,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Critical Flaws in Carrier’s Access Control Systems<a href="https://cyware.com/news/multiple-critical-flaws-in-carriers-access-control-systems-4d5eeac9"> Full Text</a>
@@ -390,7 +390,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 InQuest Labs: Man + Machine vs Business Email Compromise (BEC)<a href="https://www.bleepingcomputer.com/news/security/inquest-labs-man-plus-machine-vs-business-email-compromise-bec/"> Full Text</a>
@@ -406,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PureCrypter Loader Updated with New Modules<a href="https://cyware.com/news/purecrypter-loader-updated-with-new-modules-1a0ba794"> Full Text</a>
@@ -422,7 +422,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New peer-to-peer botnet infects Linux servers with cryptominers<a href="https://www.bleepingcomputer.com/news/security/new-peer-to-peer-botnet-infects-linux-servers-with-cryptominers/"> Full Text</a>
@@ -438,7 +438,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at US Ambulance Billing Service Comstar Exposed Patients’ Healthcare Information<a href="https://portswigger.net/daily-swig/data-breach-at-us-ambulance-billing-service-comstar-exposed-patients-healthcare-information?&web_view=true"> Full Text</a>
@@ -454,7 +454,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: June Windows Server updates may cause backup issues<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-windows-server-updates-may-cause-backup-issues/"> Full Text</a>
@@ -470,7 +470,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2022
+June 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of GitHub, AWS, Docker tokens exposed in Travis CI logs<a href="https://www.bleepingcomputer.com/news/security/thousands-of-github-aws-docker-tokens-exposed-in-travis-ci-logs/"> Full Text</a>
@@ -486,7 +486,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare Saw Record-Breaking DDoS Attack Peaking at 26 Million Request Per Second<a href="https://thehackernews.com/2022/06/cloudflare-saw-record-breaking-ddos.html"> Full Text</a>
@@ -502,7 +502,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patch Tuesday: Microsoft Issues Fix for Actively Exploited 'Follina' Vulnerability<a href="https://thehackernews.com/2022/06/patch-tuesday-microsoft-issues-fix-for.html"> Full Text</a>

@@ -8,6 +8,52 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panchan: A New Golang-based Peer-To-Peer Botnet Targeting Linux Servers<a href="https://thehackernews.com/2022/06/panchan-new-golang-based-peer-to-peer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Golang-based peer-to-peer (P2P) botnet has been spotted actively targeting Linux servers in the education sector since its emergence in March 2022.  Dubbed&nbsp; Panchan &nbsp;by Akamai Security Research, the malware "utilizes its built-in concurrency features to maximize spreadability and execute malware modules" and "harvests SSH keys to perform lateral movement."   The feature-packed botnet, which relies on a basic list of default SSH passwords to carry out a&nbsp; dictionary attack &nbsp;and expand its reach, primarily functions as a cryptojacker designed to hijack a computer's resources to mine cryptocurrencies.  The cybersecurity and cloud service company noted it first spotted Panchan's activity on March 19, 2022, and attributed the malware to a likely Japanese threat actor based on the language used in the administrative panel baked into the binary to edit the mining configuration.  Panchan is known to deploy and execute two miners, XMRig and nbhash, on the host
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panchan Golang P2P botnet targeting Linux servers in cryptomining campaign<a href="https://securityaffairs.co/wordpress/132290/cyber-crime/panchan-p2p-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new Golang-based peer-to-peer (P2P) botnet, dubbed Panchan, targeting Linux servers in the education sector since March 2022.
+
+
+
+Akamai security researchers discovered&nbsp;a new Golang-based P2P Botnet, tracked as Panchan, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New peer-to-peer botnet infects Linux servers with cryptominers<a href="https://www.bleepingcomputer.com/news/security/new-peer-to-peer-botnet-infects-linux-servers-with-cryptominers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new peer-to-peer botnet named Panchan appeared in the wild around March 2022, targeting Linux servers in the education sector&nbsp;to mine cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

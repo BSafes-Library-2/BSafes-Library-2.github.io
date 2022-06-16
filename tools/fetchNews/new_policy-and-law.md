@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Security Officials Double Down on Automated Moderation and Client-Side Scanning<a href="https://www.lawfareblog.com/european-security-officials-double-down-automated-moderation-and-client-side-scanning"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A proposed regulation would compel firms to deploy systems for the automated detection and removal of content that might foster child abuse, rather than incentivizing and encouraging the development of these systems informally.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada wants companies to report cyber attacks and hacking incidents<a href="https://finance.yahoo.com/news/canada-wants-companies-report-cyber-195502481.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The legislation identifies finance, telecommunications, energy and transportation sectors as being vital to national security and public safety, but stops short of naming any companies.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

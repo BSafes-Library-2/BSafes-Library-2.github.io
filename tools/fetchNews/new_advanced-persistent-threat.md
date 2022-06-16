@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gallium Group Expands to New Geographical Areas with PingPull RAT<a href="https://cyware.com/news/gallium-group-expands-to-new-geographical-areas-with-pingpull-rat-1df681bb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese state-sponsored Gallium APT group is using a new, difficult-to-detect RAT—PingPull—in its espionage campaigns. The RAT can leverage ICMP, raw TCP, and HTTP(S) protocols for C2 communication. The targeted entities are based in Australia, Russia, the Philippines, Belgium, Vietnam, Malaysia, C ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

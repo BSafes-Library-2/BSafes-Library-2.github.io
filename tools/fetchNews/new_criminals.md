@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol seizes $50 million, arrests 2000 social engineers<a href="https://www.bleepingcomputer.com/news/security/interpol-seizes-50-million-arrests-2000-social-engineers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation,&nbsp;codenamed 'First Light 2022,' has seized 50 million dollars and arrested thousands of people involved in social engineering scams worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

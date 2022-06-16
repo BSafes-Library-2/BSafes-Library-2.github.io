@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at US Ambulance Billing Service Comstar Exposed Patients’ Healthcare Information<a href="https://portswigger.net/daily-swig/data-breach-at-us-ambulance-billing-service-comstar-exposed-patients-healthcare-information?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a data breach notification issued on June 14, Comstar said it “immediately took steps to secure our network, and launched a thorough investigation, with the assistance of third-party experts, to determine the nature and scope of the incident”.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of GitHub, AWS, Docker tokens exposed in Travis CI logs<a href="https://www.bleepingcomputer.com/news/security/thousands-of-github-aws-docker-tokens-exposed-in-travis-ci-logs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For a second time in less than a year, the Travis CI platform for software development and testing has exposed user data containing authentication tokens that could give access to developers' accounts on GitHub, Amazon Web Services, and Docker Hub.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

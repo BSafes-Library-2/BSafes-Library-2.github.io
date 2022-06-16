@@ -11,6 +11,20 @@ nav_order: 900042
 June 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Saw Record-Breaking DDoS Attack Peaking at 26 Million Request Per Second<a href="https://thehackernews.com/2022/06/cloudflare-saw-record-breaking-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare on Tuesday disclosed that it had acted to prevent a record-setting 26 million request per second (RPS) distributed denial-of-service (DDoS) attack last week, making it the largest HTTPS DDoS attack detected to date.  The web performance and security company said the attack was directed against an unnamed customer website using its Free plan and emanated from a "powerful" botnet of 5,067 devices, with each node generating approximately 5,200 RPS at peak.  The botnet is said to have created a flood of more than 212 million HTTPS requests within less than 30 seconds from over 1,500 networks in 121 countries, including Indonesia, the U.S., Brazil, Russia, and India. Roughly 3% of the attack came through Tor nodes.   The attack "originated mostly from Cloud Service Providers as opposed to Residential Internet Service Providers, indicating the use of hijacked virtual machines and powerful servers to generate the attack — as opposed to much weaker Internet of Things
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Owner of ‘DownThem’ DDoS service gets 2 years in prison<a href="https://www.bleepingcomputer.com/news/security/owner-of-downthem-ddos-service-gets-2-years-in-prison/"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,66 @@ nav_order: 900072
 
 ## General
 ---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In Cybersecurity, What You Can’t See Can Hurt You<a href="https://threatpost.com/cybersecurity-cant-see-can-hurt-you/179954/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The dangers to SMBs and businesses of all sizes from cyberattacks are well known. But what’s driving these attacks, and what do cybersecurity stakeholders need to do that they’re not already doing?
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Comprehensive, Easy Cybersecurity for Lean IT Security Teams Starts with XDR<a href="https://thehackernews.com/2022/06/comprehensive-easy-cybersecurity-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Breaches don't just happen to large enterprises. Threat actors are increasingly targeting small businesses. In fact,&nbsp; 43% &nbsp;of data breaches involved small to medium-sized businesses. But there is a glaring discrepancy. Larger businesses typically have the budget to keep their lights on if they are breached. Most small businesses ( 83% ), however, don't have the financial resources to recover if they are a victim of an attack.&nbsp;  These small security teams were getting lost in the shuffle...until now.&nbsp;  The rise of XDR&nbsp;  As the threat landscape changes and bad actors continue to evolve their tactics, the industry is responding with new solutions and approaches to the way we do cybersecurity. The most recent evolution of cybersecurity technology is extended detection and response (XDR).  There's no doubt you've heard of it. But do you have a firm grasp on what it really is and its unique value?  If you shook your head "no" – you aren't alone.  Industry exper
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Let’s give a look at the Dark Web Price Index 2022<a href="https://securityaffairs.co/wordpress/132256/deep-web/dark-web-index-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PrivacyAffairs released the Dark Web Index 2022, the document provides the prices for illegal services/products available in the black marketplaces.
+
+
+
+Privacy Affairs published the Dark Web Index, an analysis of prices for illegal services/products...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+InQuest Labs: Man + Machine vs Business Email Compromise (BEC)<a href="https://www.bleepingcomputer.com/news/security/inquest-labs-man-plus-machine-vs-business-email-compromise-bec/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers only have to be right once while defenders need to be right 100% of the time. To help combat this asymmetric disadvantage, InQuest provides an open research portal that combines crowdsourced efforts with machine learning to combat the likes of Bumblebee and other BEC related threats.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
