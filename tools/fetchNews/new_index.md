@@ -34,7 +34,491 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit three-year-old Telerik flaws to deploy Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-three-year-old-telerik-flaws-to-deploy-cobalt-strike/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as 'Blue Mockingbird' has been observed by analysts targeting Telerik UI vulnerabilities to compromise servers, install Cobalt Strike beacons, and mine Monero by hijacking system resources.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypoto Wallet Apps Cloned to Steal Crypto<a href="https://cyware.com/news/crypoto-wallet-apps-cloned-to-steal-crypto-8faa1911"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web3 users are being targeted under the SeaFlower operation that aims to infect users through imposter websites and SEO poisoning and black SEO techniques promoting fake crypto wallets. The attackers seem to be Chinese, according to hints such as the language of the comments in source code. To stay ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panchan: A New Golang-based Peer-To-Peer Botnet Targeting Linux Servers<a href="https://thehackernews.com/2022/06/panchan-new-golang-based-peer-to-peer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Golang-based peer-to-peer (P2P) botnet has been spotted actively targeting Linux servers in the education sector since its emergence in March 2022.  Dubbed  Panchan  by Akamai Security Research, the malware "utilizes its built-in concurrency features to maximize spreadability and execute malware modules" and "harvests SSH keys to perform lateral movement."   The feature-packed botnet, which relies on a basic list of default SSH passwords to carry out a  dictionary attack  and expand its reach, primarily functions as a cryptojacker designed to hijack a computer's resources to mine cryptocurrencies.  The cybersecurity and cloud service company noted it first spotted Panchan's activity on March 19, 2022, and attributed the malware to a likely Japanese threat actor based on the language used in the administrative panel baked into the binary to edit the mining configuration.  Panchan is known to deploy and execute two miners, XMRig and nbhash, on the host
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Security Officials Double Down on Automated Moderation and Client-Side Scanning<a href="https://www.lawfareblog.com/european-security-officials-double-down-automated-moderation-and-client-side-scanning"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A proposed regulation would compel firms to deploy systems for the automated detection and removal of content that might foster child abuse, rather than incentivizing and encouraging the development of these systems informally.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hertzbleed Side-Channel Attack allows to remotely steal encryption keys from AMD and Intel chips<a href="https://securityaffairs.co/wordpress/132316/hacking/hertzbleed-side-channel-attack-allows-to-remotely-steal-encryption-keys-from-amd-and-intel-chips.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hertzbleed attack: Researchers discovered a new vulnerability in modern Intel and AMD chips that could allow attackers to steal encryption keys.
+
+
+
+Researchers from University of Texas, University of Illinois Urbana-Champaign, and the University of Washington,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In Cybersecurity, What You Can’t See Can Hurt You<a href="https://threatpost.com/cybersecurity-cant-see-can-hurt-you/179954/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The dangers to SMBs and businesses of all sizes from cyberattacks are well known. But what’s driving these attacks, and what do cybersecurity stakeholders need to do that they’re not already doing?
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Secure Email bug can let attackers bypass authentication<a href="https://www.bleepingcomputer.com/news/security/cisco-secure-email-bug-can-let-attackers-bypass-authentication/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco notified customers this week to patch a critical vulnerability that could allow attackers to bypass authentication and login into the web management interface of Cisco email gateway appliances with non-default configurations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gallium Group Expands to New Geographical Areas with PingPull RAT<a href="https://cyware.com/news/gallium-group-expands-to-new-geographical-areas-with-pingpull-rat-1df681bb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese state-sponsored Gallium APT group is using a new, difficult-to-detect RAT—PingPull—in its espionage campaigns. The RAT can leverage ICMP, raw TCP, and HTTP(S) protocols for C2 communication. The targeted entities are based in Australia, Russia, the Philippines, Belgium, Vietnam, Malaysia, C ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hertzbleed Side-Channel Attack Affects All Modern AMD and Intel CPUs<a href="https://thehackernews.com/2022/06/new-hertzbleed-side-channel-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered security vulnerability in modern Intel and AMD processors could let remote attackers steal encryption keys via a power side channel attack.  Dubbed  Hertzbleed  by a group of researchers from the University of Texas, University of Illinois Urbana-Champaign, and the University of Washington, the issue is rooted in dynamic voltage and frequency scaling ( DVFS ), power and thermal management feature employed to conserve power and reduce the amount of heat generated by a chip.  "The cause is that, under certain circumstances, periodic CPU frequency adjustments depend on the current CPU power consumption, and these adjustments directly translate to execution time differences (as 1 hertz = 1 cycle per second)," the researchers said.    This can have significant security implications on cryptographic libraries even when implemented correctly as  constant-time code  to prevent timing-based side channels, effectively enabling an attacker to leverage the execution t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A critical flaw in Citrix Application Delivery Management allows resetting admin passwords<a href="https://securityaffairs.co/wordpress/132299/security/citrix-application-delivery-management-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix fixed a critical flaw in Citrix Application Delivery Management (ADM), tracked as CVE-2022-27511, that can allow attackers to reset admin passwords.
+
+
+
+Citrix fixed a critical vulnerability in Citrix Application Delivery Management (ADM), tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimbra bug allows stealing email logins with no user interaction<a href="https://www.bleepingcomputer.com/news/security/zimbra-bug-allows-stealing-email-logins-with-no-user-interaction/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zimbra and SonarSource proceeded to the coordinated disclosure of a high-severity vulnerability that allows unauthenticated attackers to steal cleartext credentials from Zimbra without any user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hacking Campaign that Included Former U.S. Ambassador<a href="https://cyware.com/news/iranian-hacking-campaign-that-included-former-us-ambassador-1813699c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alleged Iranian hackers were found targeting former Israeli officials, a former U.S. ambassador, the head of a security think tank, and high-ranking military personnel via spearphishing attacks. Reports in Israel also speculate that the campaign could be the work of Phosphorus, a prolific Iranian g ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Comprehensive, Easy Cybersecurity for Lean IT Security Teams Starts with XDR<a href="https://thehackernews.com/2022/06/comprehensive-easy-cybersecurity-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Breaches don't just happen to large enterprises. Threat actors are increasingly targeting small businesses. In fact,  43%  of data breaches involved small to medium-sized businesses. But there is a glaring discrepancy. Larger businesses typically have the budget to keep their lights on if they are breached. Most small businesses ( 83% ), however, don't have the financial resources to recover if they are a victim of an attack.   These small security teams were getting lost in the shuffle...until now.   The rise of XDR   As the threat landscape changes and bad actors continue to evolve their tactics, the industry is responding with new solutions and approaches to the way we do cybersecurity. The most recent evolution of cybersecurity technology is extended detection and response (XDR).  There's no doubt you've heard of it. But do you have a firm grasp on what it really is and its unique value?  If you shook your head "no" – you aren't alone.  Industry exper
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panchan Golang P2P botnet targeting Linux servers in cryptomining campaign<a href="https://securityaffairs.co/wordpress/132290/cyber-crime/panchan-p2p-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new Golang-based peer-to-peer (P2P) botnet, dubbed Panchan, targeting Linux servers in the education sector since March 2022.
+
+
+
+Akamai security researchers discovered a new Golang-based P2P Botnet, tracked as Panchan, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Extortion gang ransoms Shoprite, largest supermarket chain in Africa<a href="https://www.bleepingcomputer.com/news/security/extortion-gang-ransoms-shoprite-largest-supermarket-chain-in-africa/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shoprite Holdings, Africa's largest supermarket chain that operates almost three thousand stores across twelve countries in the continent, has been hit by a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Can Exploit Critical Citrix ADM Vulnerability to Reset Admin Passwords<a href="https://www.securityweek.com/attackers-can-exploit-critical-citrix-adm-vulnerability-reset-admin-passwords?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-27511, the newly addressed security bug is described as an improper access control issue that could allow a remote, unauthenticated attacker to corrupt the system and trigger an administrator password reset.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Let’s give a look at the Dark Web Price Index 2022<a href="https://securityaffairs.co/wordpress/132256/deep-web/dark-web-index-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PrivacyAffairs released the Dark Web Index 2022, the document provides the prices for illegal services/products available in the black marketplaces.
+
+
+
+Privacy Affairs published the Dark Web Index, an analysis of prices for illegal services/products...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix warns critical bug can let attackers reset admin passwords<a href="https://www.bleepingcomputer.com/news/security/citrix-warns-critical-bug-can-let-attackers-reset-admin-passwords/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix warned customers to deploy security updates that address a critical Citrix Application Delivery Management (ADM) vulnerability that can let attackers reset admin passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada wants companies to report cyber attacks and hacking incidents<a href="https://finance.yahoo.com/news/canada-wants-companies-report-cyber-195502481.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The legislation identifies finance, telecommunications, energy and transportation sectors as being vital to national security and public safety, but stops short of naming any companies.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol seizes $50 million, arrests 2000 social engineers<a href="https://www.bleepingcomputer.com/news/security/interpol-seizes-50-million-arrests-2000-social-engineers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation, codenamed 'First Light 2022,' has seized 50 million dollars and arrested thousands of people involved in social engineering scams worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Critical Flaws in Carrier’s Access Control Systems<a href="https://cyware.com/news/multiple-critical-flaws-in-carriers-access-control-systems-4d5eeac9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found a total of eight vulnerabilities in Carrier’s LenelS2 access control products using HID Mercury controllers. Out of eight flaws, seven were identified as critical. These can be exploited by hackers to remotely unlock doors and perform command injection, DoS conditions, information ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+InQuest Labs: Man + Machine vs Business Email Compromise (BEC)<a href="https://www.bleepingcomputer.com/news/security/inquest-labs-man-plus-machine-vs-business-email-compromise-bec/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers only have to be right once while defenders need to be right 100% of the time. To help combat this asymmetric disadvantage, InQuest provides an open research portal that combines crowdsourced efforts with machine learning to combat the likes of Bumblebee and other BEC related threats.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PureCrypter Loader Updated with New Modules<a href="https://cyware.com/news/purecrypter-loader-updated-with-new-modules-1a0ba794"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Written in .NET language and obfuscated with SmartAssembly, the loader makes use of compression and encryption to evade detection by antivirus software.  It first appeared in March 2021 and has since been put for sale at a price of $59.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New peer-to-peer botnet infects Linux servers with cryptominers<a href="https://www.bleepingcomputer.com/news/security/new-peer-to-peer-botnet-infects-linux-servers-with-cryptominers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new peer-to-peer botnet named Panchan appeared in the wild around March 2022, targeting Linux servers in the education sector to mine cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at US Ambulance Billing Service Comstar Exposed Patients’ Healthcare Information<a href="https://portswigger.net/daily-swig/data-breach-at-us-ambulance-billing-service-comstar-exposed-patients-healthcare-information?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a data breach notification issued on June 14, Comstar said it “immediately took steps to secure our network, and launched a thorough investigation, with the assistance of third-party experts, to determine the nature and scope of the incident”.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: June Windows Server updates may cause backup issues<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-windows-server-updates-may-cause-backup-issues/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says that some applications might fail to backup data using Volume Shadow Copy Service (VSS) after applying the June 2022 Patch Tuesday Windows updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of GitHub, AWS, Docker tokens exposed in Travis CI logs<a href="https://www.bleepingcomputer.com/news/security/thousands-of-github-aws-docker-tokens-exposed-in-travis-ci-logs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For a second time in less than a year, the Travis CI platform for software development and testing has exposed user data containing authentication tokens that could give access to developers' accounts on GitHub, Amazon Web Services, and Docker Hub.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Saw Record-Breaking DDoS Attack Peaking at 26 Million Request Per Second<a href="https://thehackernews.com/2022/06/cloudflare-saw-record-breaking-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare on Tuesday disclosed that it had acted to prevent a record-setting 26 million request per second (RPS) distributed denial-of-service (DDoS) attack last week, making it the largest HTTPS DDoS attack detected to date.  The web performance and security company said the attack was directed against an unnamed customer website using its Free plan and emanated from a "powerful" botnet of 5,067 devices, with each node generating approximately 5,200 RPS at peak.  The botnet is said to have created a flood of more than 212 million HTTPS requests within less than 30 seconds from over 1,500 networks in 121 countries, including Indonesia, the U.S., Brazil, Russia, and India. Roughly 3% of the attack came through Tor nodes.   The attack "originated mostly from Cloud Service Providers as opposed to Residential Internet Service Providers, indicating the use of hijacked virtual machines and powerful servers to generate the attack — as opposed to much weaker Internet of Things
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch Tuesday: Microsoft Issues Fix for Actively Exploited 'Follina' Vulnerability<a href="https://thehackernews.com/2022/06/patch-tuesday-microsoft-issues-fix-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft officially released fixes to address an actively exploited Windows zero-day vulnerability known as Follina as part of its Patch Tuesday updates.  Also addressed by the tech giant are  55 other flaws , three of which are rated Critical, 51 are rated Important, and one is rated Moderate in severity. Separately,  five other shortcomings  were resolved in the Microsoft Edge browser.   Tracked as  CVE-2022-30190  (CVSS score: 7.8), the  zero-day bug  relates to a remote code execution vulnerability affecting the Windows Support Diagnostic Tool (MSDT) when it's invoked using the "ms-msdt:" URI protocol scheme from an application such as Word.  The vulnerability can be trivially exploited by means of a specially crafted Word document that downloads and loads a malicious HTML file through Word's remote template feature. The HTML file ultimately permits the attacker to load and execute PowerShell code within Windows.  "An attacker who successfully exploits this
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang creates site for employees to search for their stolen data<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-creates-site-for-employees-to-search-for-their-stolen-data/"> Full Text</a>
@@ -50,7 +534,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How DOJ took the malware fight into your computer<a href="https://www.politico.com/news/2022/06/13/how-doj-took-the-malware-fight-into-your-computer-00038932?&web_view=true"> Full Text</a>
@@ -66,7 +550,7 @@ Politico
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Zimbra Email Vulnerability Could Let Attackers Steal Your Login Credentials<a href="https://thehackernews.com/2022/06/new-zimbra-email-vulnerability-could.html"> Full Text</a>
@@ -82,7 +566,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in Zimbra email suite allows stealing login credentials of the users<a href="https://securityaffairs.co/wordpress/132269/hacking/zimbra-email-suite-flaw.html"> Full Text</a>
@@ -102,7 +586,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What the New OWASP Top 10 Changes Mean to You?<a href="https://threatpost.com/what-the-new-owasp-top-10-changes-mean-to-you/179881/"> Full Text</a>
@@ -118,7 +602,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Hertzbleed side-channel attack affects Intel, AMD CPUs<a href="https://www.bleepingcomputer.com/news/security/new-hertzbleed-side-channel-attack-affects-intel-amd-cpus/"> Full Text</a>
@@ -134,7 +618,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti's Attack Against Costa Rica Sparks a New Ransomware Era<a href="https://www.wired.com/story/costa-rica-ransomware-conti/?&web_view=true"> Full Text</a>
@@ -150,7 +634,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What is the Essential Eight (And Why Non-Aussies Should Care)<a href="https://thehackernews.com/2022/06/what-is-essential-eight-and-why-non.html"> Full Text</a>
@@ -166,7 +650,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 API Security Best Practices<a href="https://securityaffairs.co/wordpress/132244/security/api-security-best-practices.html"> Full Text</a>
@@ -186,7 +670,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android malware on the Google Play Store gets 2 million downloads<a href="https://www.bleepingcomputer.com/news/security/android-malware-on-the-google-play-store-gets-2-million-downloads/"> Full Text</a>
@@ -202,7 +686,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Industroyer: A cyber‑weapon that brought down a power grid<a href="https://www.welivesecurity.com/2022/06/13/industroyer-cyber-weapon-brought-down-power-grid/?&web_view=true"> Full Text</a>
@@ -218,7 +702,7 @@ ESET Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Technical Details Released for 'SynLapse' RCE Vulnerability Reported in Microsoft Azure<a href="https://thehackernews.com/2022/06/technical-details-released-for-synlapse.html"> Full Text</a>
@@ -234,7 +718,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SeaFlower campaign distributes backdoored versions of Web3 wallets to steal seed phrases<a href="https://securityaffairs.co/wordpress/132250/cyber-crime/seaflower-malware-campaign.html"> Full Text</a>
@@ -254,7 +738,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft patches actively exploited Follina Windows zero-day<a href="https://www.bleepingcomputer.com/news/security/microsoft-patches-actively-exploited-follina-windows-zero-day/"> Full Text</a>
@@ -270,7 +754,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PACMAN Attack Targets Apple M1 Chip Embedded CPUs<a href="https://cyware.com/news/pacman-attack-targets-apple-m1-chip-embedded-cpus-3d9d9248"> Full Text</a>
@@ -287,7 +771,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Travis CI API Bug Exposes Thousands of Secret User Access Tokens<a href="https://thehackernews.com/2022/06/unpatched-travis-ci-api-bug-exposes.html"> Full Text</a>
@@ -303,7 +787,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts spotted Syslogk, a Linux rootkit under development<a href="https://securityaffairs.co/wordpress/132232/malware/syslogk-linux-rootkit.html"> Full Text</a>
@@ -323,7 +807,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft June 2022 Patch Tuesday fixes 1 zero-day, 55 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2022-patch-tuesday-fixes-1-zero-day-55-flaws/"> Full Text</a>
@@ -339,7 +823,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 At least $413,000 lost to parcel scams in Singapore since Jan<a href="https://uk.news.yahoo.com/574000-lost-parcel-scams-singapore-042437026.html?&web_view=true"> Full Text</a>
@@ -355,7 +839,7 @@ Yahoo Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Syslogk Linux Rootkit Lets Attackers Remotely Command It Using "Magic Packets"<a href="https://thehackernews.com/2022/06/new-syslogk-linux-rootkit-lets.html"> Full Text</a>
@@ -371,7 +855,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Owner of ‘DownThem’ DDoS service gets 2 years in prison<a href="https://www.bleepingcomputer.com/news/security/owner-of-downthem-ddos-service-gets-2-years-in-prison/"> Full Text</a>
@@ -387,7 +871,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher Shows How Tesla Key Card Feature Can Be Abused to Steal Cars<a href="https://www.securityweek.com/researcher-shows-how-tesla-key-card-feature-can-be-abused-steal-cars?&web_view=true"> Full Text</a>
@@ -403,7 +887,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detail PureCrypter Loader Cyber Criminals Using to Distribute Malware<a href="https://thehackernews.com/2022/06/researchers-detail-purecrypter-loader.html"> Full Text</a>
@@ -419,7 +903,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firefox now blocks cross-site tracking by default for all users<a href="https://www.bleepingcomputer.com/news/security/firefox-now-blocks-cross-site-tracking-by-default-for-all-users/"> Full Text</a>
@@ -435,7 +919,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2022
+June 14, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare mitigates record-breaking HTTPS DDoS attack<a href="https://www.bleepingcomputer.com/news/security/cloudflare-mitigates-record-breaking-https-ddos-attack/"> Full Text</a>
