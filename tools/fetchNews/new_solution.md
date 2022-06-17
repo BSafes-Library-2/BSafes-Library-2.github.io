@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New cloud-based Microsoft Defender for home now generally available<a href="https://www.bleepingcomputer.com/news/microsoft/new-cloud-based-microsoft-defender-for-home-now-generally-available/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced&nbsp;today the general availability of&nbsp;Microsoft Defender for individuals, the&nbsp;company's new security solution for personal phones and computers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oblivious DNS-over-HTTPS offers privacy enhancements to secure lookup protocol<a href="https://portswigger.net/daily-swig/oblivious-dns-over-https-offers-privacy-enhancements-to-secure-lookup-protocol?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A detailed technical outline of the experimental protocol, which its developers hope will attract wide-scale experimentation and interoperability, was published last week.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lookout Uncovers Android Spyware Deployed in Kazakhstan<a href="https://www.lookout.com/blog/hermit-spyware-discovery?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Based on Lookout's analysis, the spyware is likely developed by Italian spyware vendor RCS Lab S.p.A and Tykelab Srl, a telecommunications solutions company suspected to be operating as a front company.
+</details>
+<div style="text-align: right" markdown="1">
+Lookout
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

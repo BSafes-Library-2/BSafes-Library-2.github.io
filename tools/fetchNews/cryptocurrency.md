@@ -8,6 +8,21 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypoto Wallet Apps Cloned to Steal Crypto<a href="https://cyware.com/news/crypoto-wallet-apps-cloned-to-steal-crypto-8faa1911"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web3 users are being targeted under the SeaFlower operation that aims to infect users through imposter websites and SEO poisoning and black SEO techniques promoting fake crypto wallets. The attackers seem to be Chinese, according to hints such as the language of the comments in source code. To stay ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

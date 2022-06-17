@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Difference Between Agent-Based and Network-Based Internal Vulnerability Scanning<a href="https://thehackernews.com/2022/06/difference-between-agent-based-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For years, the two most popular methods for internal scanning: agent-based and network-based were considered to be about equal in value, each bringing its own strengths to bear. However, with remote working now the norm in most if not all workplaces, it feels a lot more like agent-based scanning is a must, while network-based scanning is an optional extra.  This article will go in-depth on the strengths and weaknesses of each approach, but let's wind it back a second for those who aren't sure why they should even do internal scanning in the first place.  Why should you perform internal vulnerability scanning?  While&nbsp; external vulnerability scanning &nbsp;can give a great overview of what you look like to a hacker, the information that can be gleaned without access to your systems can be limited. Some serious vulnerabilities can be discovered at this stage, so it's a must for many organizations, but that's not where hackers stop.&nbsp;  Techniques like phishing, targeted malware,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Revisit Your Password Policies to Retain PCI Compliance<a href="https://www.bleepingcomputer.com/news/security/revisit-your-password-policies-to-retain-pci-compliance/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations that are subject to the PCI regulations must carefully consider how best to address these new requirements. Some of the requirements are relatively easy to address. Even so, some of the new requirements go beyond what Windows native security mechanisms are capable of. Here is what you need to know.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

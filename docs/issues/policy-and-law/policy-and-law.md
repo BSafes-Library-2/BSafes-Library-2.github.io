@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iCloud hacker gets 9 years in prison for stealing nude photos<a href="https://www.bleepingcomputer.com/news/security/icloud-hacker-gets-9-years-in-prison-for-stealing-nude-photos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A California man who hacked thousands of Apple iCloud accounts was sentenced to 8 years in prison after pleading guilty to conspiracy and computer fraud in October 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

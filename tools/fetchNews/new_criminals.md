@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware Gang Targeting Unpatched Microsoft Exchange Servers<a href="https://thehackernews.com/2022/06/blackcat-ransomware-gang-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning that the BlackCat ransomware crew is leveraging exploits for&nbsp; unpatched Exchange server &nbsp;vulnerabilities to gain access to targeted networks.  Upon gaining an entry point, the attackers swiftly moved to gather information about the compromised machines, followed by carrying out credential theft and lateral movement activities, before harvesting intellectual property and dropping the ransomware payload.  The entire sequence of events played out over the course of two full weeks, the Microsoft 365 Defender Threat Intelligence Team&nbsp; said &nbsp;in a report published this week.  "In another incident we observed, we found that a ransomware affiliate gained initial access to the environment via an internet-facing Remote Desktop server using compromised credentials to sign in," the researchers said, pointing out how "no two BlackCat 'lives' or deployments might look the same."   BlackCat , also known by the names ALPHV and Noberus, is a relatively n
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV/BlackCat&nbsp;ransomware gang starts publishing victims’ data on the clear web<a href="https://securityaffairs.co/wordpress/132339/malware/blackcat-ransomware-clear-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ALPHV/BlackCat&nbsp;ransomware group began publishing victims' data on the clear web to increase the pressure on them and force them to pay the ransom.
+
+
+
+ALPHV/BlackCat&nbsp;ransomware group has adopted a new strategy to force victims into paying the ransom,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DragonForce Gang Unleash Hacks Against Govt. of India<a href="https://threatpost.com/hackers-india-government/179968/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In response to a comment about the Prophet Mohammed, a hacktivist group in Malaysia has unleashed a wave of cyber attacks in India.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

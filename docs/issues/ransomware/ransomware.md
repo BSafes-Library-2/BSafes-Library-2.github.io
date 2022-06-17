@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Office 365 feature can help cloud ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-office-365-feature-can-help-cloud-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are warning that threat actors could hijack&nbsp;Office 365 accounts to encrypt for a ransom the files stored in SharePoint and OneDrive&nbsp;services that companies use for cloud-based collaboration,&nbsp;document management and storage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

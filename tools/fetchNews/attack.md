@@ -8,6 +8,49 @@ nav_order: 900015
 
 ## Attack
 ---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit three-year-old Telerik flaws to deploy Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-three-year-old-telerik-flaws-to-deploy-cobalt-strike/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as 'Blue Mockingbird' has been observed by analysts targeting Telerik UI vulnerabilities to compromise servers, install Cobalt Strike beacons, and mine Monero by hijacking system resources.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hacking Campaign that Included Former U.S. Ambassador<a href="https://cyware.com/news/iranian-hacking-campaign-that-included-former-us-ambassador-1813699c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alleged Iranian hackers were found targeting former Israeli officials, a former U.S. ambassador, the head of a security think tank, and high-ranking military personnel via spearphishing attacks. Reports in Israel also speculate that the campaign could be the work of Phosphorus, a prolific Iranian g ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Extortion gang ransoms Shoprite, largest supermarket chain in Africa<a href="https://www.bleepingcomputer.com/news/security/extortion-gang-ransoms-shoprite-largest-supermarket-chain-in-africa/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shoprite Holdings, Africa's largest supermarket chain that operates almost three thousand stores across twelve countries in the continent, has been hit by a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

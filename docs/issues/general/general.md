@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2022 SaaS Security Survey Report: 7 Key Findings<a href="https://threatpost.com/saas-security-key-findings/179717/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Learn the growing risks in SaaS security and how different organizations are currently working to secure themselves.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2 Texas hospital networks infected by malicious code<a href="https://www.beckershospitalreview.com/cybersecurity/two-texas-hospital-networks-infected-by-malicious-code.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On April 20, the hospitals learned that malicious code had infected their networks as a result of an unauthorized party gaining access to certain systems between ??March 31 and April 24.
+</details>
+<div style="text-align: right" markdown="1">
+Becker's Health IT Review
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Under Attack by BlackCat: Exchange Servers hacked<a href="https://cyware.com/news/microsoft-under-attack-by-blackcat-exchange-servers-hacked-9059bc2d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft stated that BlackCat RaaS affiliates are targeting Microsoft Exchange Servers by exploiting unpatched bugs. The unknown threat actor delivered BlackCat ransomware payloads via PsExec. The extent of damage is still unknown, and also there wasn’t any mention of the Exchange vulnerability us ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

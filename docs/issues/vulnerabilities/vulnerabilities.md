@@ -8,6 +8,140 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos Firewall zero-day bug exploited weeks before fix<a href="https://www.bleepingcomputer.com/news/security/sophos-firewall-zero-day-bug-exploited-weeks-before-fix/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese hackers used a zero-day exploit for a critical-severity vulnerability in Sophos Firewall to compromise a company and breach cloud-hosted web servers operated by the victim.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Microsoft Office 365 Feature Could Help Ransomware Hackers Hold Cloud Files Hostage<a href="https://thehackernews.com/2022/06/a-microsoft-office-365-feature-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A "dangerous piece of functionality" has been discovered in Microsoft 365 suite that could be potentially abused by a malicious actor to ransom files stored on SharePoint and OneDrive and launch attacks on cloud infrastructure.  The cloud ransomware attack makes it possible to launch file-encrypting malware to "encrypt files stored on SharePoint and OneDrive in a way that makes them unrecoverable without dedicated backups or a decryption key from the attacker," Proofpoint&nbsp; said &nbsp;in a report published today.  The infection sequence can be carried out using a combination of Microsoft APIs, command-line interface (CLI) scripts, and PowerShell scripts, the enterprise security firm added. The attack, at its core, hinges on a Microsoft 365 feature called AutoSave  that creates copies of older file versions as and when users make edits to a file stored on OneDrive or SharePoint Online.   It commences with gaining unauthorized access to a target user's SharePoint Onlin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers disclosed a remote code execution flaw in Fastjson Library<a href="https://securityaffairs.co/wordpress/132333/security/fastjson-library-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed a remote code execution vulnerability, tracked as&nbsp;CVE-2022-25845, in the popular&nbsp;Fastjson library.
+
+
+
+Cybersecurity researchers from JFrog disclosed details of a now patched high-severity security vulnerability in the popular&nbsp;Fastjson...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+730K WordPress sites force-updated to patch critical plugin bug<a href="https://www.bleepingcomputer.com/news/security/730k-wordpress-sites-force-updated-to-patch-critical-plugin-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress sites using Ninja Forms, a forms builder plugin with more than 1 million installations, have been force-updated en masse this week to a new build that addresses a critical security vulnerability likely exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity RCE Vulnerability Reported in Popular Fastjson Library<a href="https://thehackernews.com/2022/06/high-severity-rce-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed a recently patched high-severity security vulnerability in the popular Fastjson library  that could be potentially exploited to achieve remote code execution.  Tracked as&nbsp; CVE-2022-25845 &nbsp;(CVSS score: 8.1), the&nbsp; issue &nbsp;relates to a case of&nbsp; deserialization of untrusted data &nbsp;in a supported feature called "AutoType." It was patched by the project maintainers in&nbsp; version 1.2.83 &nbsp;released on May 23, 2022.   "This vulnerability affects all Java applications that rely on Fastjson versions 1.2.80 or earlier and that pass user-controlled data to either the JSON.parse or JSON.parseObject APIs without specifying a specific&nbsp; class &nbsp;to deserialize," JFrog's Uriya Yavnieli&nbsp; said &nbsp;in a write-up.  Fastjson &nbsp;is a Java library that's used to convert Java Objects into their&nbsp; JSON &nbsp;representation and vice versa.&nbsp; AutoType , the function vulnerable to the flaw, is enabled by default and is designed to specify a custom type when parsing
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed a critical Bypass Authentication flaw in Cisco ESA and Secure Email and Web Manager<a href="https://securityaffairs.co/wordpress/132327/hacking/cisco-esa-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a critical bypass authentication flaw in Cisco Email Security Appliance (ESA) and Secure Email and Web Manager.
+
+
+
+Cisco addressed a critical bypass authentication vulnerability affecting Email Security Appliance (ESA) and Secure Email...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anker Eufy smart home hubs exposed to RCE attacks by critical flaw<a href="https://www.bleepingcomputer.com/news/security/anker-eufy-smart-home-hubs-exposed-to-rce-attacks-by-critical-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anker's central smart home device hub, Eufy Homebase 2, was vulnerable to three vulnerabilities, one of which is a critical remote code execution (RCE) flaw.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostTouch: Hackers can reach your phone’s touchscreen without even touching it<a href="https://portswigger.net/daily-swig/ghosttouch-hackers-can-reach-your-phones-touchscreen-without-even-touching-it?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the researchers’ findings, an attacker can use GhostTouch to carry out several types of malicious actions, including initiating calls and downloading malware.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in Cisco Secure Email and Web Manager Lets Attackers Bypass Authentication<a href="https://thehackernews.com/2022/06/critical-flaw-in-cisco-secure-email-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday rolled out fixes to address a critical security flaw affecting Email Security Appliance (ESA) and Secure Email and Web Manager that could be exploited by an unauthenticated, remote attacker to sidestep authentication.  Assigned the CVE identifier CVE-2022-20798 , the bypass vulnerability is rated 9.8 out of a maximum of 10 on the CVSS scoring system and stems from improper authentication checks when an affected device uses Lightweight Directory Access Protocol ( LDAP ) for external authentication.   "An attacker could exploit this vulnerability by entering a specific input on the login page of the affected device," Cisco noted in an advisory. "A successful exploit could allow the attacker to gain unauthorized access to the web-based management interface of the affected device."  The flaw, which it said was identified during the resolution of a technical assistance center (TAC) case, impacts ESA and Secure Email and Web Manager running vulnerable
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
