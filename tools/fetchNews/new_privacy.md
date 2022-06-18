@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover 'Hermit' Android Spyware Used in Kazakhstan, Syria, and Italy<a href="https://thehackernews.com/2022/06/researchers-uncover-hermit-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An enterprise-grade surveillanceware dubbed Hermit  has been put to use by entities operating from within Kazakhstan, Syria, and Italy over the years since 2019, new research has revealed.  Lookout attributed the spy software, which is equipped to target both Android and iOS, to an Italian company named RCS Lab S.p.A and Tykelab Srl, a telecom services provider which it suspects to be a front company. The San Francisco-based cybersecurity firm said it detected the campaign aimed at Kazakhstan in April 2022.  Hermit is modular and comes with myriad capabilities that allow it to "exploit a rooted device, record audio and make and redirect phone calls, as well as collect data such as call logs, contacts, photos, device location and SMS messages," Lookout researchers Justin Albrecht and Paul Shunk&nbsp; said &nbsp;in a new write-up.  The spyware is believed to be distributed via SMS messages that trick users into installing what are seemingly innocuous apps from Samsung, Vivo, and Oppo, w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

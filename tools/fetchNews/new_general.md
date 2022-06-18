@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reimagine Hybrid Work: Same CyberSec in Office and at Home<a href="https://thehackernews.com/2022/06/reimagine-hybrid-work-same-cybersec-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It was first the pandemic that changed the usual state of work - before, it was commuting, working in the office &amp; coming home for most corporate employees. Then, when we had to adapt to the self-isolation rules, the work moved to home offices, which completely changed the workflow for many businesses. As the pandemic went down, we realized success never relied on where the work was done. Whether your office is your kitchen, your bedroom, a nearby cafe, or your actual workplace in an office building, it all comes down to the fact that job success has nothing to do with your location.&nbsp;  The role of the office in the hybrid era is also changing - according to the research conducted by&nbsp; PwC , it now serves the purpose of collaborating with team members and building relationships. From an employee's side, it sounds pretty logical and obvious.&nbsp;  However, if we look at hybrid work with the eyes of an employer, things get complicated. How does one make sure corporate devices &amp; da
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Risk in Healthcare Endangers Patients<a href="https://threatpost.com/ransomware-risk-healthcare/179980/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ryan Witt, Proofpoint’s Healthcare Cybersecurity Leader, examines the impact of ransomware on patient care.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

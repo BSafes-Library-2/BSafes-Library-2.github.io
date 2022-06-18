@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jit Banks Massive $38.5 Million Seed Round Funding<a href="https://www.securityweek.com/jit-banks-massive-385-million-seed-round-funding?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $38.5 million round is abnormally high for seed-stage funding and signals a strategic shift to make bigger bets on early-stage companies with brand-new products and no significant revenue stream.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shipping Scams of the Week: BHL and USPS<a href="https://news.trendmicro.com/2022/06/16/bhl-shipping-scams-usps-phishing-email/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scammers have borrowed the DHL company brand — even going so far as to mimic its colors, logo, and web design. Netizens have also reported receiving phishing emails from scammers posing as USPS.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Dismisses False Reports About End of Patch Tuesday<a href="https://www.securityweek.com/microsoft-dismisses-false-reports-about-end-patch-tuesday?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has dismissed media reports about June 14 being the last Patch Tuesday, as the upcoming rollout of the Windows Autopatch service seems to be causing some confusion.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - June 17th 2022 - Have I Been Ransomed?<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-17th-2022-have-i-been-ransomed/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattackers Using MonkeyPox-Themed Attacks to Lure Victims<a href="https://cyware.com/news/cyberattackers-using-monkeypox-themed-attacks-to-lure-victims-cf0759a8"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover 'Hermit' Android Spyware Used in Kazakhstan, Syria, and Italy<a href="https://thehackernews.com/2022/06/researchers-uncover-hermit-android.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese DriftingCloud APT exploited Sophos Firewall Zero-Day before it was fixed<a href="https://securityaffairs.co/wordpress/132377/apt/chinese-driftingcloud-apt-exploited-sophos-firewall-zero-day-before-it-was-fixed.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco says it won’t fix zero-day RCE in end-of-life VPN routers<a href="https://www.bleepingcomputer.com/news/security/cisco-says-it-won-t-fix-zero-day-rce-in-end-of-life-vpn-routers/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat Launches Dedicated Site for Victims to Search Their Stolen Data<a href="https://cyware.com/news/blackcat-launches-dedicated-site-for-victims-to-search-their-stolen-data-7014b064"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reimagine Hybrid Work: Same CyberSec in Office and at Home<a href="https://thehackernews.com/2022/06/reimagine-hybrid-work-same-cybersec-in.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts link Hermit spyware to Italian surveillance firm RCS Lab and a front company<a href="https://securityaffairs.co/wordpress/132363/malware/hermit-spyware-italian-surveillance-firm.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian RSocks botnet disrupted after hacking millions of devices<a href="https://www.bleepingcomputer.com/news/security/russian-rsocks-botnet-disrupted-after-hacking-millions-of-devices/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Robert Half Discloses Hacking Attack Impacting Over 1,000 Customer Accounts<a href="https://www.securityweek.com/staffing-firm-robert-half-says-hackers-targeted-over-1000-customer-accounts?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Exploited Sophos Firewall Zero-Day Flaw to Target South Asian Entity<a href="https://thehackernews.com/2022/06/chinese-hackers-exploited-sophos.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Microsoft 365 feature can ransom files on SharePoint and OneDriveCould<a href="https://securityaffairs.co/wordpress/132353/hacking/microsoft-365-feature-ransomware.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP 'thoroughly investigating' new DeadBolt ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/qnap-thoroughly-investigating-new-deadbolt-ransomware-attacks/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MaliBot Banking Trojan Targets Android Users in Italy and Spain<a href="https://cyware.com/news/malibot-banking-trojan-targets-android-users-in-italy-and-spain-8645504b"> Full Text</a>
@@ -270,7 +270,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over a Million WordPress Sites Forcibly Updated to Patch a Critical Plugin Vulnerability<a href="https://thehackernews.com/2022/06/over-million-wordpress-sites-forcibly.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reddit patches CSRF vulnerability that forced users to view NSFW content<a href="https://portswigger.net/daily-swig/reddit-patches-csrf-vulnerability-that-forced-users-to-view-nsfw-content?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Dismisses False Reports About End of Patch Tuesday<a href="https://www.securityweek.com/microsoft-dismisses-false-reports-about-end-patch-tuesday?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shipping Scams of the Week: BHL and USPS<a href="https://news.trendmicro.com/2022/06/16/bhl-shipping-scams-usps-phishing-email/?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 16, 2022
+June 16, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Risk in Healthcare Endangers Patients<a href="https://threatpost.com/ransomware-risk-healthcare/179980/"> Full Text</a>

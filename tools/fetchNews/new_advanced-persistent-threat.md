@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese DriftingCloud APT exploited Sophos Firewall Zero-Day before it was fixed<a href="https://securityaffairs.co/wordpress/132377/apt/chinese-driftingcloud-apt-exploited-sophos-firewall-zero-day-before-it-was-fixed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked threat actors exploited the zero-day flaw CVE-2022-1040 in Sophos Firewall weeks before it was fixed by the security vendor.
+
+
+
+Volexity researchers discovered that the zero-day vulnerability, tracked as CVE-2022-1040, in Sophos Firewall...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

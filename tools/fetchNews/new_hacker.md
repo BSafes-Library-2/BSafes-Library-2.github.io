@@ -8,6 +8,24 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts link Hermit spyware to Italian surveillance firm RCS Lab and a front company<a href="https://securityaffairs.co/wordpress/132363/malware/hermit-spyware-italian-surveillance-firm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts uncovered an enterprise-grade surveillance malware dubbed&nbsp;Hermit&nbsp;used to target individuals in Kazakhstan, Syria, and Italy since 2019.
+
+
+
+Lookout Threat Lab researchers uncovered enterprise-grade Android surveillance spyware, named Hermit,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

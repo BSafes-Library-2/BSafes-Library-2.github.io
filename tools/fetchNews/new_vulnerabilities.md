@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco says it won’t fix zero-day RCE in end-of-life VPN routers<a href="https://www.bleepingcomputer.com/news/security/cisco-says-it-won-t-fix-zero-day-rce-in-end-of-life-vpn-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco advises owners of end-of-life Small Business RV routers to upgrade to newer models after disclosing a remote code execution vulnerability that will not be patched.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Microsoft 365 feature can ransom files on SharePoint and OneDriveCould<a href="https://securityaffairs.co/wordpress/132353/hacking/microsoft-365-feature-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered a feature in Microsoft 365 suite that could be abused to encrypt files stored on SharePoint and OneDrive and target cloud infrastructure.
+
+
+
+Researchers from Proofpoint reported that a feature in the in Microsoft 365 suite could be abused...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over a Million WordPress Sites Forcibly Updated to Patch a Critical Plugin Vulnerability<a href="https://thehackernews.com/2022/06/over-million-wordpress-sites-forcibly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress websites using a widely used plugin named Ninja Forms have been updated automatically to remediate a critical security vulnerability that's suspected of having been actively exploited in the wild.  The issue, which relates to a case of code injection, is rated 9.8 out of 10 for severity and affects multiple versions starting from 3.0. It has been fixed in 3.0.34.2, 3.1.10, 3.2.28, 3.3.21.4, 3.4.34.2, 3.5.8.4, and 3.6.11.   Ninja Forms is a&nbsp; customizable contact form builder &nbsp;that has over 1 million installations.  According to Wordfence, the bug "made it possible for unauthenticated attackers to call a limited number of methods in various Ninja Forms classes, including a method that unserialized user-supplied content, resulting in Object Injection."   "This could allow attackers to execute arbitrary code or delete arbitrary files on sites where a separate [property oriented programming] chain was present," Chloe Chamberland of Wordfence&nbsp; noted .   Suc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reddit patches CSRF vulnerability that forced users to view NSFW content<a href="https://portswigger.net/daily-swig/reddit-patches-csrf-vulnerability-that-forced-users-to-view-nsfw-content?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The medium severity security bug disabled the option to turn on certain settings, meaning that any user who has opted to restrict adult content could instead be directed towards it by malicious hackers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

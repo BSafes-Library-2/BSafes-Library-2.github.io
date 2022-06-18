@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MetaMask, Phantom warn of flaw that could steal your crypto wallets<a href="https://www.bleepingcomputer.com/news/security/metamask-phantom-warn-of-flaw-that-could-steal-your-crypto-wallets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MetaMask and Phantom are warning of a new 'Demonic' vulnerability that could expose a crypto wallet's secret recovery phrase, allowing attackers to steal&nbsp;NFTs and cryptocurrency stored within it.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
