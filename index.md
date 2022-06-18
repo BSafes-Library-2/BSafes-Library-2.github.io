@@ -34,6 +34,322 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - June 17th 2022 - Have I Been Ransomed?<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-17th-2022-have-i-been-ransomed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operations are constantly evolving their tactics to pressure victims to pay. For example, this week, we saw a new extortion tactic come into play with the creation of dedicated websites to extort victims with searchable data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Using MonkeyPox-Themed Attacks to Lure Victims<a href="https://cyware.com/news/cyberattackers-using-monkeypox-themed-attacks-to-lure-victims-cf0759a8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are using monkeypox outbreaks to fool victims into disclosing their personal information. Monkeypox is high on the news agenda and has people’s attention. The email claims that their organization has been monitoring the spread of the disease in the local area, and the updates provide ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover 'Hermit' Android Spyware Used in Kazakhstan, Syria, and Italy<a href="https://thehackernews.com/2022/06/researchers-uncover-hermit-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An enterprise-grade surveillanceware dubbed Hermit  has been put to use by entities operating from within Kazakhstan, Syria, and Italy over the years since 2019, new research has revealed.  Lookout attributed the spy software, which is equipped to target both Android and iOS, to an Italian company named RCS Lab S.p.A and Tykelab Srl, a telecom services provider which it suspects to be a front company. The San Francisco-based cybersecurity firm said it detected the campaign aimed at Kazakhstan in April 2022.  Hermit is modular and comes with myriad capabilities that allow it to "exploit a rooted device, record audio and make and redirect phone calls, as well as collect data such as call logs, contacts, photos, device location and SMS messages," Lookout researchers Justin Albrecht and Paul Shunk  said  in a new write-up.  The spyware is believed to be distributed via SMS messages that trick users into installing what are seemingly innocuous apps from Samsung, Vivo, and Oppo, w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese DriftingCloud APT exploited Sophos Firewall Zero-Day before it was fixed<a href="https://securityaffairs.co/wordpress/132377/apt/chinese-driftingcloud-apt-exploited-sophos-firewall-zero-day-before-it-was-fixed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked threat actors exploited the zero-day flaw CVE-2022-1040 in Sophos Firewall weeks before it was fixed by the security vendor.
+
+
+
+Volexity researchers discovered that the zero-day vulnerability, tracked as CVE-2022-1040, in Sophos Firewall...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco says it won’t fix zero-day RCE in end-of-life VPN routers<a href="https://www.bleepingcomputer.com/news/security/cisco-says-it-won-t-fix-zero-day-rce-in-end-of-life-vpn-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco advises owners of end-of-life Small Business RV routers to upgrade to newer models after disclosing a remote code execution vulnerability that will not be patched.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Launches Dedicated Site for Victims to Search Their Stolen Data<a href="https://cyware.com/news/blackcat-launches-dedicated-site-for-victims-to-search-their-stolen-data-7014b064"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new initiative, the BlackCat group has begun publishing details of victims on websites open to the public Internet, with the data available in a searchable form. It has already listed 112GB of stolen data, including Social Security numbers, from 1,500 employees of a hotel and spa in Oregon.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reimagine Hybrid Work: Same CyberSec in Office and at Home<a href="https://thehackernews.com/2022/06/reimagine-hybrid-work-same-cybersec-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It was first the pandemic that changed the usual state of work - before, it was commuting, working in the office & coming home for most corporate employees. Then, when we had to adapt to the self-isolation rules, the work moved to home offices, which completely changed the workflow for many businesses. As the pandemic went down, we realized success never relied on where the work was done. Whether your office is your kitchen, your bedroom, a nearby cafe, or your actual workplace in an office building, it all comes down to the fact that job success has nothing to do with your location.   The role of the office in the hybrid era is also changing - according to the research conducted by  PwC , it now serves the purpose of collaborating with team members and building relationships. From an employee's side, it sounds pretty logical and obvious.   However, if we look at hybrid work with the eyes of an employer, things get complicated. How does one make sure corporate devices & da
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts link Hermit spyware to Italian surveillance firm RCS Lab and a front company<a href="https://securityaffairs.co/wordpress/132363/malware/hermit-spyware-italian-surveillance-firm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts uncovered an enterprise-grade surveillance malware dubbed Hermit used to target individuals in Kazakhstan, Syria, and Italy since 2019.
+
+
+
+Lookout Threat Lab researchers uncovered enterprise-grade Android surveillance spyware, named Hermit,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian RSocks botnet disrupted after hacking millions of devices<a href="https://www.bleepingcomputer.com/news/security/russian-rsocks-botnet-disrupted-after-hacking-millions-of-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice has announced the disruption of the Russian RSocks malware botnet used to hijack millions of computers, Android smartphones, and IoT (Internet of Things) devices worldwide for use as proxy servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robert Half Discloses Hacking Attack Impacting Over 1,000 Customer Accounts<a href="https://www.securityweek.com/staffing-firm-robert-half-says-hackers-targeted-over-1000-customer-accounts?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Information provided by the company to the Maine Attorney General shows that threat actors targeted Robert Half between April 26 and May 16. The incident, discovered on May 31, impacts 1,058 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Exploited Sophos Firewall Zero-Day Flaw to Target South Asian Entity<a href="https://thehackernews.com/2022/06/chinese-hackers-exploited-sophos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated Chinese advanced persistent threat (APT) actor exploited a critical security vulnerability in Sophos' firewall product that came to light earlier this year to infiltrate an unnamed South Asian target as part of a highly-targeted attack.  "The attacker implement[ed] an interesting web shell backdoor, create[d] a secondary form of persistence, and ultimately launch[ed] attacks against the customer's staff," Volexity  said  in a report. "These attacks aimed to further breach cloud-hosted web servers hosting the organization's public-facing websites."  The zero-day flaw in question is tracked as  CVE-2022-1040  (CVSS score: 9.8), and concerns an authentication bypass vulnerability that can be weaponized to execute arbitrary code remotely. It affects Sophos Firewall versions 18.5 MR3 (18.5.3) and earlier.   The cybersecurity firm, which issued a patch for the flaw on March 25, 2022, noted that it was abused to "target a small set of spec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Microsoft 365 feature can ransom files on SharePoint and OneDriveCould<a href="https://securityaffairs.co/wordpress/132353/hacking/microsoft-365-feature-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered a feature in Microsoft 365 suite that could be abused to encrypt files stored on SharePoint and OneDrive and target cloud infrastructure.
+
+
+
+Researchers from Proofpoint reported that a feature in the in Microsoft 365 suite could be abused...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP 'thoroughly investigating' new DeadBolt ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/qnap-thoroughly-investigating-new-deadbolt-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network-attached storage (NAS) vendor QNAP once again warned customers on Friday to secure their devices against a new campaign of attacks pushing DeadBolt ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MaliBot Banking Trojan Targets Android Users in Italy and Spain<a href="https://cyware.com/news/malibot-banking-trojan-targets-android-users-in-italy-and-spain-8645504b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 Labs discovered new Android-based information-stealing malware, dubbed MaliBot. It was spotted targeting online banking and cryptocurrency wallet users in Italy and Spain. Some of the banks targeted by MaliBot using this approach include UniCredit, Santander, CaixaBank, and CartaBCC. Due to the  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over a Million WordPress Sites Forcibly Updated to Patch a Critical Plugin Vulnerability<a href="https://thehackernews.com/2022/06/over-million-wordpress-sites-forcibly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress websites using a widely used plugin named Ninja Forms have been updated automatically to remediate a critical security vulnerability that's suspected of having been actively exploited in the wild.  The issue, which relates to a case of code injection, is rated 9.8 out of 10 for severity and affects multiple versions starting from 3.0. It has been fixed in 3.0.34.2, 3.1.10, 3.2.28, 3.3.21.4, 3.4.34.2, 3.5.8.4, and 3.6.11.   Ninja Forms is a  customizable contact form builder  that has over 1 million installations.  According to Wordfence, the bug "made it possible for unauthenticated attackers to call a limited number of methods in various Ninja Forms classes, including a method that unserialized user-supplied content, resulting in Object Injection."   "This could allow attackers to execute arbitrary code or delete arbitrary files on sites where a separate [property oriented programming] chain was present," Chloe Chamberland of Wordfence  noted .   Suc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reddit patches CSRF vulnerability that forced users to view NSFW content<a href="https://portswigger.net/daily-swig/reddit-patches-csrf-vulnerability-that-forced-users-to-view-nsfw-content?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The medium severity security bug disabled the option to turn on certain settings, meaning that any user who has opted to restrict adult content could instead be directed towards it by malicious hackers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Dismisses False Reports About End of Patch Tuesday<a href="https://www.securityweek.com/microsoft-dismisses-false-reports-about-end-patch-tuesday?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has dismissed media reports about June 14 being the last Patch Tuesday, as the upcoming rollout of the Windows Autopatch service seems to be causing some confusion.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shipping Scams of the Week: BHL and USPS<a href="https://news.trendmicro.com/2022/06/16/bhl-shipping-scams-usps-phishing-email/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scammers have borrowed the DHL company brand — even going so far as to mimic its colors, logo, and web design. Netizens have also reported receiving phishing emails from scammers posing as USPS.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Risk in Healthcare Endangers Patients<a href="https://threatpost.com/ransomware-risk-healthcare/179980/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ryan Witt, Proofpoint’s Healthcare Cybersecurity Leader, examines the impact of ransomware on patient care.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
