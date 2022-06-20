@@ -8,6 +8,62 @@ nav_order: 900015
 
 ## Attack
 ---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robert Half Discloses Hacking Attack Impacting Over 1,000 Customer Accounts<a href="https://www.securityweek.com/staffing-firm-robert-half-says-hackers-targeted-over-1000-customer-accounts?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Information provided by the company to the Maine Attorney General shows that threat actors targeted Robert Half between April 26 and May 16. The incident, discovered on May 31, impacts 1,058 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Exploited Sophos Firewall Zero-Day Flaw to Target South Asian Entity<a href="https://thehackernews.com/2022/06/chinese-hackers-exploited-sophos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated Chinese advanced persistent threat (APT) actor exploited a critical security vulnerability in Sophos' firewall product that came to light earlier this year to infiltrate an unnamed South Asian target as part of a highly-targeted attack.  "The attacker implement[ed] an interesting web shell backdoor, create[d] a secondary form of persistence, and ultimately launch[ed] attacks against the customer's staff," Volexity&nbsp; said &nbsp;in a report. "These attacks aimed to further breach cloud-hosted web servers hosting the organization's public-facing websites."  The zero-day flaw in question is tracked as&nbsp; CVE-2022-1040 &nbsp;(CVSS score: 9.8), and concerns an authentication bypass vulnerability that can be weaponized to execute arbitrary code remotely. It affects Sophos Firewall versions 18.5 MR3 (18.5.3) and earlier.   The cybersecurity firm, which issued a patch for the flaw on March 25, 2022, noted that it was abused to "target a small set of spec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP 'thoroughly investigating' new DeadBolt ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/qnap-thoroughly-investigating-new-deadbolt-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network-attached storage (NAS) vendor&nbsp;QNAP&nbsp;once again warned customers on Friday&nbsp;to secure their devices against a new campaign of&nbsp;attacks pushing DeadBolt ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MaliBot Banking Trojan Targets Android Users in Italy and Spain<a href="https://cyware.com/news/malibot-banking-trojan-targets-android-users-in-italy-and-spain-8645504b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 Labs discovered new Android-based information-stealing malware, dubbed MaliBot. It was spotted targeting online banking and cryptocurrency wallet users in Italy and Spain. Some of the banks targeted by MaliBot using this approach include UniCredit, Santander, CaixaBank, and CartaBCC. Due to the  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

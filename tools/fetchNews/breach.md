@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Launches Dedicated Site for Victims to Search Their Stolen Data<a href="https://cyware.com/news/blackcat-launches-dedicated-site-for-victims-to-search-their-stolen-data-7014b064"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new initiative, the BlackCat group has begun publishing details of victims on websites open to the public Internet, with the data available in a searchable form. It has already listed 112GB of stolen data, including Social Security numbers, from 1,500 employees of a hotel and spa in Oregon.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Using MonkeyPox-Themed Attacks to Lure Victims<a href="https://cyware.com/news/cyberattackers-using-monkeypox-themed-attacks-to-lure-victims-cf0759a8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are using monkeypox outbreaks to fool victims into disclosing their personal information. Monkeypox is high on the news agenda and has people’s attention. The email claims that their organization has been monitoring the spread of the disease in the local area, and the updates provide ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

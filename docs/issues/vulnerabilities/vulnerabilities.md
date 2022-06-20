@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaw in Ninja Forms WordPress Plugin actively exploited in the wild<a href="https://securityaffairs.co/wordpress/132417/hacking/wordpress-ninja-forms-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Ninja Forms plugin potentially impacted more than one million WordPress websites
+
+
+
+In middle June, the Wordfence Threat Intelligence team noticed a back-ported security update in the popular WordPress plugin Ninja Forms,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Follina Patch Finally Out!<a href="https://cyware.com/news/follina-patch-finally-out-e97ce752"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Referred to as Follina, the flaw is tracked as CVE-2022-30190. It affects multiple Office versions, including Office 2013, Office 2016, Office 2021, and Office Pro Plus.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15 vulnerabilities discovered in Siemens industrial control management system<a href="https://therecord.media/15-vulnerabilities-discovered-in-siemens-industrial-control-management-system/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fifteen security vulnerabilities affecting Siemens SINEC network management system (NMS) were unveiled this week, according to new research published by security company Claroty.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over a Dozen Flaws Found in Siemens' Industrial Network Management System<a href="https://thehackernews.com/2022/06/over-dozen-flaws-found-in-siemens.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details about 15 security flaws in Siemens SINEC network management system (NMS), some of which could be chained by an attacker to achieve remote code execution on affected systems.  "The vulnerabilities, if exploited, pose a number of risks to Siemens devices on the network including denial-of-service attacks, credential leaks, and remote code execution in certain circumstances," industrial security company Claroty&nbsp; said &nbsp;in a new report.   The shortcomings in question — tracked from CVE-2021-33722 through CVE-2021-33736 — were addressed by Siemens in version V1.0 SP2 Update 1 as part of updates shipped on October 12, 2021.  "The most severe could allow an authenticated remote attacker to execute arbitrary code on the system, with system privileges, under certain conditions," Siemens&nbsp; noted &nbsp;in an advisory at the time.   Chief among the weaknesses is CVE-2021-33723 (CVSS score: 8.8), which allows for privilege escalation to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Confluence Flaw Being Used to Deploy Ransomware and Crypto Miners<a href="https://thehackernews.com/2022/06/atlassian-confluence-flaw-being-used-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently patched&nbsp; critical security flaw &nbsp;in Atlassian Confluence Server and Data Center products is being actively weaponized in real-world attacks to drop cryptocurrency miners and ransomware payloads.  In at least two of the Windows-related incidents observed by cybersecurity vendor Sophos, adversaries exploited the vulnerability to deliver Cerber ransomware and a&nbsp; crypto miner &nbsp;called z0miner on victim networks.  The bug ( CVE-2022-26134 , CVSS score: 9.8), which was&nbsp; patched &nbsp;by Atlassian on June 3, 2022, enables an unauthenticated actor to inject malicious code that paves the way of remote code execution (RCE) on affected installations of the collaboration suite. All supported versions of Confluence Server and Data Center are affected.   Other notable malware pushed as part of disparate instances of attack activity include Mirai and Kinsing bot variants, a rogue package called&nbsp; pwnkit , and Cobalt Strike by way of a web shell deployed after gaining an initial foothold into the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

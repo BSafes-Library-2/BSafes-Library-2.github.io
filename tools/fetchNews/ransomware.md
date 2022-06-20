@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - June 17th 2022 - Have I Been Ransomed?<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-17th-2022-have-i-been-ransomed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operations are constantly evolving their tactics to pressure victims to pay. For example, this week, we saw a new extortion tactic come into play with the creation of dedicated websites to extort victims with searchable data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

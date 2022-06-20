@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New phishing attack infects devices with Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/new-phishing-attack-infects-devices-with-cobalt-strike/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have noticed a new malicious spam campaign that delivers the 'Matanbuchus' malware to drop Cobalt Strike beacons on compromised machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Facebook Email Uses Copyrights to Trick EI-ISAC Members<a href="https://www.cisecurity.org/insights/blog/fake-facebook-email-uses-copyrights-to-trick-ei-isac-members?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious cyber actors recently targeted members of the Elections Infrastructure Information Sharing and Analysis Center (EI-ISAC) with a copyright-themed fake Facebook email.
+</details>
+<div style="text-align: right" markdown="1">
+CIS
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

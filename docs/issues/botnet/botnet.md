@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DoJ announced to have shut down the Russian RSOCKS Botnet<a href="https://securityaffairs.co/wordpress/132403/cyber-crime/police-dismantled-rsocks-bitnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) announced to have shut down the infrastructure associated with the Russian botnet RSOCKS.
+
+
+
+The U.S. Department of Justice (DoJ) announced to have shut down the infrastructure associated with the Russian botnet RSOCKS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authorities Shut Down Russian RSOCKS Botnet That Hacked Millions of Devices<a href="https://thehackernews.com/2022/06/authorities-shut-down-russian-rsocks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) on Thursday disclosed that it took down the infrastructure associated with a Russian botnet known as RSOCKS in collaboration with law enforcement partners in Germany, the Netherlands, and the U.K.  The botnet, operated by a sophisticated cybercrime organization, is believed to have ensnared millions of internet-connected devices, including Internet of Things (IoT) devices, Android phones, and computers for use as a proxy service.  Botnets, a constantly evolving threat, are networks of hijacked computer devices that are under the control of a single attacking party and are used to facilitate a variety of large-scale cyber intrusions such as distributed denial-of-service (DDoS) attacks, email spam, and cryptojacking.   "The RSOCKS botnet offered its clients access to IP addresses assigned to devices that had been hacked," the DoJ&nbsp; said &nbsp;in a press release. "The owners of these devices did not give the RSOCKS operator(s) authority to ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

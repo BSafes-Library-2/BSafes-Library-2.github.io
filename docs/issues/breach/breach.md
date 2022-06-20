@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inverse Finance Looted for $1.2 Million via Flash Loan Attack<a href="https://www.theregister.com/2022/06/17/inverse_finance_heist/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A decentralized autonomous organization (DAO) called Inverse Finance has been robbed of cryptocurrency somehow exchangeable for $1.2 million, just two months after being taken for $15.6 million.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
