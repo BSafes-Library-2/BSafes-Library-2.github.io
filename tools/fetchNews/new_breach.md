@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+June 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flagstar Bank discloses data breach impacting 1.5 million customers<a href="https://www.bleepingcomputer.com/news/security/flagstar-bank-discloses-data-breach-impacting-15-million-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flagstar Bank is notifying 1.5 million customers of a data breach where hackers accessed personal data during a December cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet scans find 1.6 million secrets leaked by websites<a href="https://portswigger.net/daily-swig/internet-scans-find-1-6-million-secrets-leaked-by-websites?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have apparently discovered more than 1.6 million secrets leaked by websites, including more than 395,000 exposed by the one million most popular domains.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

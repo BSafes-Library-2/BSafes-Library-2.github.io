@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+June 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google no longer allows username and passwords on third-party email applications<a href="https://www.neowin.net/news/google-no-longer-allows-username-and-passwords-on-third-party-email-applications/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+App-specific passwords are used in conjunction with two-factor authentication on your Google account. Most applications do not know how to handle two-factor, which is why app-specific passwords were created.
+</details>
+<div style="text-align: right" markdown="1">
+Neowin
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

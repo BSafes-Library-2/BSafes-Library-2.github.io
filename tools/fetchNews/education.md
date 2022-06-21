@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Learn Cybersecurity with Palo Alto Networks Through this PCCSA Course @ 93% OFF<a href="https://thehackernews.com/2022/06/learn-cybersecurity-with-palo-alto.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the world of cybersecurity, reputation is everything. Most business owners have little understanding of the technical side, so they have to rely on credibility.  Founded back in 2005, Palo Alto Networks is a cybersecurity giant that has earned the trust of the business community thanks to its impressive track record. The company now provides services to over 70,000 organizations in 150 countries.  The&nbsp; Palo Alto Networks Cybersecurity Fundamentals (PCCSA) &nbsp;course helps you gain that same level of credibility, with 27 tutorials working towards official certification. It's normally priced at $295, but readers of The Hacker News can currently&nbsp; get the training for only $19.99 .  Special Offer&nbsp; — The Palo Alto Networks Cybersecurity Fundamentals (PCCSA) course is worth $295, but you can&nbsp; grab it today for just $19.99 &nbsp;with lifetime access included. That's 93% off the full price!   There are many different certifications you can earn in cybersecurity today. With the backing of a respect
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

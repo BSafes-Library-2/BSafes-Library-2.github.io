@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+June 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DFSCoerce NTLM Relay attack allows Windows domain takeover<a href="https://www.bleepingcomputer.com/news/microsoft/new-dfscoerce-ntlm-relay-attack-allows-windows-domain-takeover/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Windows NTLM relay attack called DFSCoerce has been discovered that uses MS-DFSNM, Microsoft's Distributed File System, to completely take over a Windows domain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft 365 credentials targeted in new fake voicemail campaign<a href="https://www.bleepingcomputer.com/news/security/microsoft-365-credentials-targeted-in-new-fake-voicemail-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign has been targeting U.S.&nbsp;organizations&nbsp;in the military, security software, manufacturing supply chain,&nbsp;healthcare and pharmaceutical sectors to steal Microsoft Office 365 and Outlook credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

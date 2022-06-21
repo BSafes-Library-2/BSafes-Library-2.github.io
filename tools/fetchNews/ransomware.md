@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks on Microsoft Cloud’s Versioning Feature are Likely<a href="https://cyware.com/news/ransomware-attacks-on-microsoft-clouds-versioning-feature-are-likely-05353198"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers say ransomware actors can exploit a functionality flaw in Microsoft Office 365 suite to encrypt files stored on SharePoint and OneDrive Online. The attack uses the versioning (or autosave) feature for the files edited on OneDrive or SharePoint as it creates cloud backups of older file v ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

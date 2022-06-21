@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+June 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Many OT Security Incidents Result in Outages Posing Physical Safety Risk: Fortinet<a href="https://www.securityweek.com/many-ot-security-incidents-result-outages-posing-physical-safety-risk-fortinet?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most common types of attacks involved malware and phishing, but Fortinet pointed out that these types of incidents have significantly declined in North America — along with insider breaches — compared to the previous year.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

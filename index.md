@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New DFSCoerce NTLM Relay attack allows Windows domain takeover<a href="https://www.bleepingcomputer.com/news/microsoft/new-dfscoerce-ntlm-relay-attack-allows-windows-domain-takeover/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What do Ransomware Actors Want?<a href="https://cyware.com/news/what-do-ransomware-actors-want-5d117e00"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Do You Have Ransomware Insurance? Look at the Fine Print<a href="https://thehackernews.com/2022/06/do-you-have-ransomware-insurance-look.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian APT28 hacker accused of the NATO think tank hack in Germany<a href="https://securityaffairs.co/wordpress/132452/hacking/apt28-hacked-nato-think-tank.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flagstar Bank discloses data breach impacting 1.5 million customers<a href="https://www.bleepingcomputer.com/news/security/flagstar-bank-discloses-data-breach-impacting-15-million-customers/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google no longer allows username and passwords on third-party email applications<a href="https://www.neowin.net/news/google-no-longer-allows-username-and-passwords-on-third-party-email-applications/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Neowin
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Researchers Detail 5-Year-Old Apple Safari Vulnerability Exploited in the Wild<a href="https://thehackernews.com/2022/06/google-researchers-detail-5-year-old.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google expert detailed a 5-Year-Old flaw in Apple Safari exploited in the wild<a href="https://securityaffairs.co/wordpress/132446/hacking/apple-safari-zero-day-2016.html"> Full Text</a>
@@ -174,7 +174,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'BidenCash' site sells your stolen credit card for just 15 cents<a href="https://www.bleepingcomputer.com/news/security/new-bidencash-site-sells-your-stolen-credit-card-for-just-15-cents/"> Full Text</a>
@@ -190,7 +190,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Many OT Security Incidents Result in Outages Posing Physical Safety Risk: Fortinet<a href="https://www.securityweek.com/many-ot-security-incidents-result-outages-posing-physical-safety-risk-fortinet?&web_view=true"> Full Text</a>
@@ -206,7 +206,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 370 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/132442/security/security-affairs-newsletter-round-370-by-pierluigi-paganini.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft 365 credentials targeted in new fake voicemail campaign<a href="https://www.bleepingcomputer.com/news/security/microsoft-365-credentials-targeted-in-new-fake-voicemail-campaign/"> Full Text</a>
@@ -246,7 +246,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Can Use ‘Scroll to Text Fragment’ Web Browser Feature to Steal Data<a href="https://portswigger.net/daily-swig/attackers-can-use-scroll-to-text-fragment-web-browser-feature-to-steal-data-research?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco will not address critical RCE in end-of-life Small Business RV routers<a href="https://securityaffairs.co/wordpress/132437/security/cisco-rce-small-business-rv-routers.html"> Full Text</a>
@@ -282,7 +282,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RubyGems trials 2FA-by-default in code repo’s latest security effort<a href="https://portswigger.net/daily-swig/rubygems-trials-2fa-by-default-in-code-repos-latest-security-effort?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BRATA Android Malware evolves and targets the UK, Spain, and Italy<a href="https://securityaffairs.co/wordpress/132425/malware/brata-android-malware-evolution.html"> Full Text</a>
@@ -318,7 +318,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Internet scans find 1.6 million secrets leaked by websites<a href="https://portswigger.net/daily-swig/internet-scans-find-1-6-million-secrets-leaked-by-websites?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New EU Laws Will Improve Firms’ Cyber Resilience Globally: Moody's<a href="https://www.nextgov.com/cybersecurity/2022/06/credit-rating-agency-new-eu-laws-will-improve-firms-cyber-resilience-globally/368368/?&web_view=true"> Full Text</a>
@@ -350,7 +350,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AutomationDirect Patches Vulnerabilities in PLC, HMI Products<a href="https://www.securityweek.com/automationdirect-patches-vulnerabilities-plc-hmi-products/?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2022
+June 20, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Energy Department Releases Strategy to Build Cyber-Resilient Energy Systems<a href="https://www.nextgov.com/cybersecurity/2022/06/energy-department-releases-strategy-build-cyber-resilient-energy-systems/368333/?&web_view=true"> Full Text</a>
@@ -382,7 +382,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2022
+June 19, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BRATA Android Malware Gains Advanced Mobile Threat Capabilities<a href="https://thehackernews.com/2022/06/brata-android-malware-gains-advanced.html"> Full Text</a>

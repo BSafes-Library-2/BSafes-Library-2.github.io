@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RubyGems trials 2FA-by-default in code repo’s latest security effort<a href="https://portswigger.net/daily-swig/rubygems-trials-2fa-by-default-in-code-repos-latest-security-effort?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The package manager has started alerting the maintainers of gems with more than 165 million downloads via the RubyGems command-line tool and website, recommending that they enable MFA on their accounts.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

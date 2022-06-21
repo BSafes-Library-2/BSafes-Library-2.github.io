@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+June 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Energy Department Releases Strategy to Build Cyber-Resilient Energy Systems<a href="https://www.nextgov.com/cybersecurity/2022/06/energy-department-releases-strategy-build-cyber-resilient-energy-systems/368333/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Energy this week released its national Cyber-Informed Engineering Strategy that provides guidance for building resilient energy systems that can withstand cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

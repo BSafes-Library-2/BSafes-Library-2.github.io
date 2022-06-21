@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome extensions can be fingerprinted to track you online<a href="https://www.bleepingcomputer.com/news/security/google-chrome-extensions-can-be-fingerprinted-to-track-you-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has discovered how to use your installed Google Chrome extensions to generate a fingerprint of your device that can be used to track you online.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kazakh People Targeted via Hermit Android Spyware<a href="https://cyware.com/news/kazakh-people-targeted-via-hermit-android-spyware-fb031461"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hermit, an enterprise-grade Android spyware, has been used by organizations in Kazakhstan, Italy, and Syria to exploit a rooted Android device and collect data. The website used to mask its malicious activity is an official Oppo support page in the Kazakh language. Users should stay cautious with f ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

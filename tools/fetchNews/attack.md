@@ -8,6 +8,70 @@ nav_order: 900015
 
 ## Attack
 ---
+June 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of a new eCh0raix ransomware campaign targeting QNAP NAS<a href="https://securityaffairs.co/wordpress/132410/cyber-crime/ech0raix-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a new ech0raix ransomware campaign targeting QNAP Network Attached Storage (NAS) devices.
+
+
+
+Bleeping Computer and MalwareHunterTeam researchers, citing user reports and sample submissions on the&nbsp;ID Ransomware&nbsp;platform, warn...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Abuse Zero-day Bug in Sophos Firewall<a href="https://cyware.com/news/chinese-hackers-abuse-zero-day-bug-in-sophos-firewall-4cd59594"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Volexity researchers laid bare a sophisticated campaign by Chinese APT abusing a critical zero-day in Sophos’ firewall product. Sophos has fixed the flaw; provided mitigations to help organizations use their firewall and protect against threat actors abusing the vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP NAS devices targeted by surge of eCh0raix ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/qnap-nas-devices-targeted-by-surge-of-ech0raix-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week a&nbsp;new series of ech0raix ransomware has started targeting vulnerable QNAP&nbsp;Network Attached Storage&nbsp;(NAS) devices according to user reports and sample submissions on the ID-Ransomware platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MaliBot Android Banking Trojan targets Spain and Italy<a href="https://securityaffairs.co/wordpress/132387/hacking/malibot-android-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malibot is a new Android malware targeting online banking and cryptocurrency wallet customers in Spain and Italy.
+
+
+
+F5 Labs researchers spotted a new strain of Android malware, named Malibot, that is targeting online banking and cryptocurrency wallet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
