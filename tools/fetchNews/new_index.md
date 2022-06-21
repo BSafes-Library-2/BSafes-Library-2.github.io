@@ -34,7 +34,371 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DFSCoerce NTLM Relay attack allows Windows domain takeover<a href="https://www.bleepingcomputer.com/news/microsoft/new-dfscoerce-ntlm-relay-attack-allows-windows-domain-takeover/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Windows NTLM relay attack called DFSCoerce has been discovered that uses MS-DFSNM, Microsoft's Distributed File System, to completely take over a Windows domain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What do Ransomware Actors Want?<a href="https://cyware.com/news/what-do-ransomware-actors-want-5d117e00"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pain Points: Ransomware Data Disclosure Trends by Rapid7 uncovers the kind of data ransomware actors want and how they pressure victims into getting it back by paying a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Do You Have Ransomware Insurance? Look at the Fine Print<a href="https://thehackernews.com/2022/06/do-you-have-ransomware-insurance-look.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insurance exists to protect the insured party against catastrophe, but the insurer needs protection so that its policies are not abused – and that's where the fine print comes in. However, in the case of ransomware insurance, the fine print is becoming contentious and arguably undermining the usefulness of ransomware insurance.  In this article, we'll outline why, particularly given the current climate, war exclusion clauses are increasingly rendering ransomware insurance of reduced value – and why your organization should focus on protecting itself instead.  What is ransomware insurance  In recent years, ransomware insurance has grown as a product field because organizations are trying to buy protection against the catastrophic effects of a successful ransomware attack. Why try to buy insurance? Well, a single, successful attack can just about wipe out a large organization, or lead to crippling costs –  NotPetya alone led to a total of $10bn in damages .   Ransomware attacks
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT28 hacker accused of the NATO think tank hack in Germany<a href="https://securityaffairs.co/wordpress/132452/hacking/apt28-hacked-nato-think-tank.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Attorney General has issued an arrest warrant for a hacker who targeted a NATO think tank in Germany for the Russia-linked APT28.
+
+
+
+The Attorney General has issued an arrest warrant for the Russian hacker Nikolaj Kozachek (aka "blabla1234565" and "kazak")...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flagstar Bank discloses data breach impacting 1.5 million customers<a href="https://www.bleepingcomputer.com/news/security/flagstar-bank-discloses-data-breach-impacting-15-million-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flagstar Bank is notifying 1.5 million customers of a data breach where hackers accessed personal data during a December cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google no longer allows username and passwords on third-party email applications<a href="https://www.neowin.net/news/google-no-longer-allows-username-and-passwords-on-third-party-email-applications/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+App-specific passwords are used in conjunction with two-factor authentication on your Google account. Most applications do not know how to handle two-factor, which is why app-specific passwords were created.
+</details>
+<div style="text-align: right" markdown="1">
+Neowin
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Researchers Detail 5-Year-Old Apple Safari Vulnerability Exploited in the Wild<a href="https://thehackernews.com/2022/06/google-researchers-detail-5-year-old.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw in Apple Safari that was exploited in the wild earlier this year was originally fixed in 2013 and reintroduced in December 2016, according to a new report from Google Project Zero.  The issue, tracked as  CVE-2022-22620  (CVSS score: 8.8), concerns a case of a use-after-free vulnerability in the WebKit component that could be exploited by a piece of specially crafted web content to gain arbitrary code execution.  In early February 2022, Apple shipped patches for the bug across Safari, iOS, iPadOS, and macOS, while acknowledging that it "may have been actively exploited."   "In this case, the variant was completely patched when the vulnerability was initially reported in 2013," Maddie Stone of Google Project Zero  said . "However, the variant was reintroduced three years later during large refactoring efforts. The vulnerability then continued to exist for 5 years until it was fixed as an in-the-wild zero-day in January 2022."  While both th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google expert detailed a 5-Year-Old flaw in Apple Safari exploited in the wild<a href="https://securityaffairs.co/wordpress/132446/hacking/apple-safari-zero-day-2016.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero experts disclosed details of a 5-Year-Old Apple Safari flaw actively exploited in the wild.
+
+
+
+Researchers from the Google Project Zero team have disclosed details of a vulnerability in Apple Safari that was actively exploited in the wild.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'BidenCash' site sells your stolen credit card for just 15 cents<a href="https://www.bleepingcomputer.com/news/security/new-bidencash-site-sells-your-stolen-credit-card-for-just-15-cents/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently launched carding site called 'BidenCash' is trying to get notoriety by leaking credit card details along with information about their owners.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Many OT Security Incidents Result in Outages Posing Physical Safety Risk: Fortinet<a href="https://www.securityweek.com/many-ot-security-incidents-result-outages-posing-physical-safety-risk-fortinet?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most common types of attacks involved malware and phishing, but Fortinet pointed out that these types of incidents have significantly declined in North America — along with insider breaches — compared to the previous year.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 370 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/132442/security/security-affairs-newsletter-round-370-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+US...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft 365 credentials targeted in new fake voicemail campaign<a href="https://www.bleepingcomputer.com/news/security/microsoft-365-credentials-targeted-in-new-fake-voicemail-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign has been targeting U.S. organizations in the military, security software, manufacturing supply chain, healthcare and pharmaceutical sectors to steal Microsoft Office 365 and Outlook credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Can Use ‘Scroll to Text Fragment’ Web Browser Feature to Steal Data<a href="https://portswigger.net/daily-swig/attackers-can-use-scroll-to-text-fragment-web-browser-feature-to-steal-data-research?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scroll to Text Fragment (STTF), a feature that can be used to directly browse to a specific text fragment on a webpage, can be exploited to leak sensitive user information, a security researcher has found.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco will not address critical RCE in end-of-life Small Business RV routers<a href="https://securityaffairs.co/wordpress/132437/security/cisco-rce-small-business-rv-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco announced that it will not release updates to fix the CVE-2022-20825 flaw in end-of-life Small Business RV routers.
+
+
+
+Cisco will not release updates to address the CVE-2022-20825 RCE flaw in end-of-life Small Business RV routers and encourage...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RubyGems trials 2FA-by-default in code repo’s latest security effort<a href="https://portswigger.net/daily-swig/rubygems-trials-2fa-by-default-in-code-repos-latest-security-effort?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The package manager has started alerting the maintainers of gems with more than 165 million downloads via the RubyGems command-line tool and website, recommending that they enable MFA on their accounts.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BRATA Android Malware evolves and targets the UK, Spain, and Italy<a href="https://securityaffairs.co/wordpress/132425/malware/brata-android-malware-evolution.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The developers behind the BRATA Android malware have implemented additional features to avoid detection.
+
+
+
+The operators behind the BRATA Android malware have implemented more features to make their attacks stealthy. The malware was first...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet scans find 1.6 million secrets leaked by websites<a href="https://portswigger.net/daily-swig/internet-scans-find-1-6-million-secrets-leaked-by-websites?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have apparently discovered more than 1.6 million secrets leaked by websites, including more than 395,000 exposed by the one million most popular domains.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New EU Laws Will Improve Firms’ Cyber Resilience Globally: Moody's<a href="https://www.nextgov.com/cybersecurity/2022/06/credit-rating-agency-new-eu-laws-will-improve-firms-cyber-resilience-globally/368368/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Digital Operational Resilience Act would force non-EU companies with a significant presence in member states to create subsidiaries that can be regulated under their jurisdiction.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AutomationDirect Patches Vulnerabilities in PLC, HMI Products<a href="https://www.securityweek.com/automationdirect-patches-vulnerabilities-plc-hmi-products/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US CISA has informed organizations that AutomationDirect has patched several high-severity vulnerabilities in some of its programmable logic controller (PLC) and human-machine interface (HMI) products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Energy Department Releases Strategy to Build Cyber-Resilient Energy Systems<a href="https://www.nextgov.com/cybersecurity/2022/06/energy-department-releases-strategy-build-cyber-resilient-energy-systems/368333/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Energy this week released its national Cyber-Informed Engineering Strategy that provides guidance for building resilient energy systems that can withstand cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BRATA Android Malware Gains Advanced Mobile Threat Capabilities<a href="https://thehackernews.com/2022/06/brata-android-malware-gains-advanced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators behind  BRATA  have once again added more capabilities to the Android mobile malware in an attempt to make their attacks against financial apps more stealthy.  "In fact, the modus operandi now fits into an Advanced Persistent Threat (APT) activity pattern," Italian cybersecurity firm Cleafy  said  in a report last week. "This term is used to describe an attack campaign in which criminals establish a long-term presence on a targeted network to steal sensitive information."   An acronym for "Brazilian Remote Access Tool Android," BRATA was first  detected  in the wild in Brazil in late 2018, before making its first appearance in Europe last April, while masquerading as antivirus software and other common productivity tools to trick users into downloading them.  The change in the attack pattern, which scaled new highs in early April 2022, involves tailoring the malware to strike a specific financial institution at a time, switching to a differe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome extensions can be fingerprinted to track you online<a href="https://www.bleepingcomputer.com/news/security/google-chrome-extensions-can-be-fingerprinted-to-track-you-online/"> Full Text</a>
@@ -50,7 +414,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2022
+June 19, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attacks on Microsoft Cloud’s Versioning Feature are Likely<a href="https://cyware.com/news/ransomware-attacks-on-microsoft-clouds-versioning-feature-are-likely-05353198"> Full Text</a>
@@ -66,7 +430,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2022
+June 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical flaw in Ninja Forms WordPress Plugin actively exploited in the wild<a href="https://securityaffairs.co/wordpress/132417/hacking/wordpress-ninja-forms-flaw.html"> Full Text</a>
@@ -86,7 +450,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2022
+June 19, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android-wiping BRATA malware is evolving into a persistent threat<a href="https://www.bleepingcomputer.com/news/security/android-wiping-brata-malware-is-evolving-into-a-persistent-threat/"> Full Text</a>
@@ -102,7 +466,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2022
+June 19, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kazakh People Targeted via Hermit Android Spyware<a href="https://cyware.com/news/kazakh-people-targeted-via-hermit-android-spyware-fb031461"> Full Text</a>
@@ -118,7 +482,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2022
+June 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of a new eCh0raix ransomware campaign targeting QNAP NAS<a href="https://securityaffairs.co/wordpress/132410/cyber-crime/ech0raix-ransomware-attacks.html"> Full Text</a>
@@ -138,7 +502,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2022
+June 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Abuse Zero-day Bug in Sophos Firewall<a href="https://cyware.com/news/chinese-hackers-abuse-zero-day-bug-in-sophos-firewall-4cd59594"> Full Text</a>
@@ -154,7 +518,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2022
+June 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP NAS devices targeted by surge of eCh0raix ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/qnap-nas-devices-targeted-by-surge-of-ech0raix-ransomware-attacks/"> Full Text</a>
@@ -170,7 +534,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2022
+June 18, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US DoJ announced to have shut down the Russian RSOCKS Botnet<a href="https://securityaffairs.co/wordpress/132403/cyber-crime/police-dismantled-rsocks-bitnet.html"> Full Text</a>
@@ -190,7 +554,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2022
+June 18, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New phishing attack infects devices with Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/new-phishing-attack-infects-devices-with-cobalt-strike/"> Full Text</a>
@@ -206,7 +570,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2022
+June 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Follina Patch Finally Out!<a href="https://cyware.com/news/follina-patch-finally-out-e97ce752"> Full Text</a>
@@ -222,7 +586,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2022
+June 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MaliBot Android Banking Trojan targets Spain and Italy<a href="https://securityaffairs.co/wordpress/132387/hacking/malibot-android-malware.html"> Full Text</a>
@@ -242,7 +606,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2022
+June 18, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Facebook Email Uses Copyrights to Trick EI-ISAC Members<a href="https://www.cisecurity.org/insights/blog/fake-facebook-email-uses-copyrights-to-trick-ei-isac-members?&web_view=true"> Full Text</a>
@@ -258,7 +622,7 @@ CIS
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2022
+June 18, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inverse Finance Looted for $1.2 Million via Flash Loan Attack<a href="https://www.theregister.com/2022/06/17/inverse_finance_heist/?&web_view=true"> Full Text</a>
@@ -274,7 +638,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2022
+June 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 15 vulnerabilities discovered in Siemens industrial control management system<a href="https://therecord.media/15-vulnerabilities-discovered-in-siemens-industrial-control-management-system/?&web_view=true"> Full Text</a>
@@ -290,7 +654,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2022
+June 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New IceXLoader 3.0 – Developers Warm Up to Nim<a href="https://www.fortinet.com/blog/threat-research/new-icexloader-3-0-developers-warm-up-to-nim?&web_view=true"> Full Text</a>
@@ -306,7 +670,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over a Dozen Flaws Found in Siemens' Industrial Network Management System<a href="https://thehackernews.com/2022/06/over-dozen-flaws-found-in-siemens.html"> Full Text</a>
@@ -322,7 +686,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Learn Cybersecurity with Palo Alto Networks Through this PCCSA Course @ 93% OFF<a href="https://thehackernews.com/2022/06/learn-cybersecurity-with-palo-alto.html"> Full Text</a>
@@ -338,7 +702,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Authorities Shut Down Russian RSOCKS Botnet That Hacked Millions of Devices<a href="https://thehackernews.com/2022/06/authorities-shut-down-russian-rsocks.html"> Full Text</a>
@@ -354,7 +718,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2022
+June 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Confluence Flaw Being Used to Deploy Ransomware and Crypto Miners<a href="https://thehackernews.com/2022/06/atlassian-confluence-flaw-being-used-to.html"> Full Text</a>
