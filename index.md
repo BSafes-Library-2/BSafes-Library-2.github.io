@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Yodel parcel company confirms cyberattack is disrupting delivery<a href="https://www.bleepingcomputer.com/news/security/yodel-parcel-company-confirms-cyberattack-is-disrupting-delivery/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VIP3R Campaign Uses HTML Attachments to Bypass Email Security<a href="https://cyware.com/news/vip3r-campaign-uses-html-attachments-to-bypass-email-security-a2a2008a"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ToddyCat Hacker Group on Experts' Radar After Targeting MS Exchange Servers<a href="https://thehackernews.com/2022/06/new-toddycat-hacker-group-on-experts.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ToddyCat APT targets high-profile entities in Europe and Asia<a href="https://securityaffairs.co/wordpress/132482/apt/toddycat-apt.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Modern IT Security Teams’ Inevitable Need for Advanced Vulnerability Management<a href="https://threatpost.com/modern-it-security-teams-inevitable-need-for-advanced-vulnerability-management/180018/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 7-zip now supports Windows ‘Mark-of-the-Web’ security feature<a href="https://www.bleepingcomputer.com/news/microsoft/7-zip-now-supports-windows-mark-of-the-web-security-feature/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022-- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 After Deadbolt, eCh0raix Ransomware Targets QNAP NAS Devices<a href="https://cyware.com/news/after-deadbolt-ech0raix-ransomware-targets-qnap-nas-devices-13dc9468"> Full Text</a>
@@ -150,7 +150,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Disclose 56 Vulnerabilities Impacting OT Devices from 10 Vendors<a href="https://thehackernews.com/2022/06/researchers-disclose-56-vulnerabilities.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New DFSCoerce NTLM relay attack allows taking control over Windows domains<a href="https://securityaffairs.co/wordpress/132473/hacking/dfscoerce-attacks-windows-domains.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian govt hackers hit Ukraine with Cobalt Strike, CredoMap malware<a href="https://www.bleepingcomputer.com/news/security/russian-govt-hackers-hit-ukraine-with-cobalt-strike-credomap-malware/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Jacuzzi customer details could be exposed by SmartTub web bugs, claims researcher<a href="https://portswigger.net/daily-swig/jacuzzi-customer-details-could-be-exposed-by-smarttub-web-bugs-claims-researcher?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mitigate Ransomware in a Remote-First World<a href="https://thehackernews.com/2022/06/mitigate-ransomware-in-remote-first.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Use Azure Front Door in Phishing Attacks<a href="https://securityaffairs.co/wordpress/132458/cyber-crime/azure-front-door-phishing.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe Acrobat may block antivirus tools from monitoring PDF files<a href="https://www.bleepingcomputer.com/news/security/adobe-acrobat-may-block-antivirus-tools-from-monitoring-pdf-files/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Yodel Blames Cyber Incident for Disruption and Parcel Tracking Problems<a href="https://www.zdnet.com/article/yodel-blames-cyber-incident-for-disruption/?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former Amazon Employee Found Guilty in 2019 Capital One Data Breach<a href="https://thehackernews.com/2022/06/former-amazon-employee-found-guilty-in.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing gang behind millions in losses dismantled by police<a href="https://www.bleepingcomputer.com/news/security/phishing-gang-behind-millions-in-losses-dismantled-by-police/"> Full Text</a>
@@ -318,7 +318,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Lessons From Protecting Live Events<a href="https://www.darkreading.com/dr-tech/security-lessons-from-protecting-live-events?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New NTLM Relay Attack Lets Attackers Take Control Over Windows Domain<a href="https://thehackernews.com/2022/06/new-ntlm-relay-attack-lets-attackers.html"> Full Text</a>
@@ -350,7 +350,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange servers hacked by new ToddyCat APT gang<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-by-new-toddycat-apt-gang/"> Full Text</a>
@@ -366,7 +366,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK: House of Lords move to protect cyber researchers from prosecution<a href="https://www.computerweekly.com/news/252521716/Lords-move-to-protect-cyber-researchers-from-prosecution?&web_view=true"> Full Text</a>
@@ -382,7 +382,7 @@ Computer Weekly
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Icefall: 56 flaws impact thousands of exposed industrial devices<a href="https://www.bleepingcomputer.com/news/security/icefall-56-flaws-impact-thousands-of-exposed-industrial-devices/"> Full Text</a>
@@ -398,7 +398,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avos Ransomware Group Expands Attack Arsenal to VMware Horizon Access Gateways<a href="https://blog.talosintelligence.com/2022/06/avoslocker-new-arsenal.html?&web_view=true"> Full Text</a>
@@ -414,7 +414,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Client-side Magecart attacks still around, but more covert<a href="https://blog.malwarebytes.com/threat-intelligence/2022/06/client-side-magecart-attacks-still-around-but-more-covert/?&web_view=true"> Full Text</a>

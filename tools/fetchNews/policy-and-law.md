@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New EU Laws Will Improve Firms’ Cyber Resilience Globally: Moody's<a href="https://www.nextgov.com/cybersecurity/2022/06/credit-rating-agency-new-eu-laws-will-improve-firms-cyber-resilience-globally/368368/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Digital Operational Resilience Act would force non-EU companies with a significant presence in member states to create subsidiaries that can be regulated under their jurisdiction.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

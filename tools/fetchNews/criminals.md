@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What do Ransomware Actors Want?<a href="https://cyware.com/news/what-do-ransomware-actors-want-5d117e00"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pain Points: Ransomware Data Disclosure Trends by Rapid7 uncovers the kind of data ransomware actors want and how they pressure victims into getting it back by paying a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'BidenCash' site sells your stolen credit card for just 15 cents<a href="https://www.bleepingcomputer.com/news/security/new-bidencash-site-sells-your-stolen-credit-card-for-just-15-cents/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently launched carding site called&nbsp;'BidenCash'&nbsp;is trying to get notoriety by leaking credit card details along with information about their owners.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 21, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After Deadbolt, eCh0raix Ransomware Targets QNAP NAS Devices<a href="https://cyware.com/news/after-deadbolt-ech0raix-ransomware-targets-qnap-nas-devices-13dc9468"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP has been hit by another ransomware attack with the latest one coming from the eCh0raix. For this, only a few dozen eCh0raix samples have been submitted so far. To prevent from this, QNAP has urged customers to update their devices' QTS or QuTS hero operating systems to the lat ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

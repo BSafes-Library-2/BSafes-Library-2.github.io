@@ -8,6 +8,88 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Researchers Detail 5-Year-Old Apple Safari Vulnerability Exploited in the Wild<a href="https://thehackernews.com/2022/06/google-researchers-detail-5-year-old.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw in Apple Safari that was exploited in the wild earlier this year was originally fixed in 2013 and reintroduced in December 2016, according to a new report from Google Project Zero.  The issue, tracked as&nbsp; CVE-2022-22620 &nbsp;(CVSS score: 8.8), concerns a case of a use-after-free vulnerability in the WebKit component that could be exploited by a piece of specially crafted web content to gain arbitrary code execution.  In early February 2022, Apple shipped patches for the bug across Safari, iOS, iPadOS, and macOS, while acknowledging that it "may have been actively exploited."   "In this case, the variant was completely patched when the vulnerability was initially reported in 2013," Maddie Stone of Google Project Zero&nbsp; said . "However, the variant was reintroduced three years later during large refactoring efforts. The vulnerability then continued to exist for 5 years until it was fixed as an in-the-wild zero-day in January 2022."  While both th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google expert detailed a 5-Year-Old flaw in Apple Safari exploited in the wild<a href="https://securityaffairs.co/wordpress/132446/hacking/apple-safari-zero-day-2016.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero experts disclosed details of a 5-Year-Old Apple Safari flaw actively exploited in the wild.
+
+
+
+Researchers from the Google Project Zero team have disclosed details of a vulnerability in Apple Safari that was actively exploited in the wild.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Can Use ‘Scroll to Text Fragment’ Web Browser Feature to Steal Data<a href="https://portswigger.net/daily-swig/attackers-can-use-scroll-to-text-fragment-web-browser-feature-to-steal-data-research?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scroll to Text Fragment (STTF), a feature that can be used to directly browse to a specific text fragment on a webpage, can be exploited to leak sensitive user information, a security researcher has found.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco will not address critical RCE in end-of-life Small Business RV routers<a href="https://securityaffairs.co/wordpress/132437/security/cisco-rce-small-business-rv-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco announced that it will not release updates to fix the CVE-2022-20825 flaw in end-of-life Small Business RV routers.
+
+
+
+Cisco will not release updates to address the CVE-2022-20825 RCE flaw in end-of-life Small Business RV routers and encourage...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AutomationDirect Patches Vulnerabilities in PLC, HMI Products<a href="https://www.securityweek.com/automationdirect-patches-vulnerabilities-plc-hmi-products/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US CISA has informed organizations that AutomationDirect has patched several high-severity vulnerabilities in some of its programmable logic controller (PLC) and human-machine interface (HMI) products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

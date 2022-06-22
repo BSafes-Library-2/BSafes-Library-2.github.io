@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Do You Have Ransomware Insurance? Look at the Fine Print<a href="https://thehackernews.com/2022/06/do-you-have-ransomware-insurance-look.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insurance exists to protect the insured party against catastrophe, but the insurer needs protection so that its policies are not abused – and that's where the fine print comes in. However, in the case of ransomware insurance, the fine print is becoming contentious and arguably undermining the usefulness of ransomware insurance.  In this article, we'll outline why, particularly given the current climate, war exclusion clauses are increasingly rendering ransomware insurance of reduced value – and why your organization should focus on protecting itself instead.  What is ransomware insurance  In recent years, ransomware insurance has grown as a product field because organizations are trying to buy protection against the catastrophic effects of a successful ransomware attack. Why try to buy insurance? Well, a single, successful attack can just about wipe out a large organization, or lead to crippling costs –&nbsp; NotPetya alone led to a total of $10bn in damages .&nbsp;  Ransomware attacks
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Amazon Employee Found Guilty in 2019 Capital One Data Breach<a href="https://thehackernews.com/2022/06/former-amazon-employee-found-guilty-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 36-year-old former Amazon employee was convicted of wire fraud and computer intrusions in the U.S. for her role in the theft of personal data of no fewer than 100 million people in the&nbsp; 2019 Capital One breach .  Paige Thompson , who operated under the online alias "erratic" and worked for the tech giant till 2016, was found guilty of wire fraud, five counts of unauthorized access to a protected computer, and damaging a protected computer.  The seven-day trial saw the jury acquitted her of other charges, including access device fraud and aggravated identity theft. She is scheduled for sentencing on September 15, 2022. Cumulatively, the offenses are punishable by up to 25 years in prison.   "Ms. Thompson used her hacking skills to steal the personal information of more than 100 million people, and hijacked computer servers to mine cryptocurrency,"&nbsp; said &nbsp;U.S. Attorney Nick Brown. "Far from being an ethical hacker trying to help companies with their computer s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

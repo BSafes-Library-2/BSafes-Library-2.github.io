@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing gang behind millions in losses dismantled by police<a href="https://www.bleepingcomputer.com/news/security/phishing-gang-behind-millions-in-losses-dismantled-by-police/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Members of a&nbsp;phishing gang behind&nbsp;millions of euros in losses were arrested today following&nbsp;a law enforcement&nbsp;operation coordinated by the Europol.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avos Ransomware Group Expands Attack Arsenal to VMware Horizon Access Gateways<a href="https://blog.talosintelligence.com/2022/06/avoslocker-new-arsenal.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The initial ingress point was a pair of VMWare Horizon Unified Access Gateways that were vulnerable to Log4Shell. The attackers utilized several different tools, including Cobalt Strike, Sliver, and multiple commercial network scanners.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

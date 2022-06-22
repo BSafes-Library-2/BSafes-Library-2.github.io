@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ToddyCat Hacker Group on Experts' Radar After Targeting MS Exchange Servers<a href="https://thehackernews.com/2022/06/new-toddycat-hacker-group-on-experts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) actor codenamed ToddyCat  has been linked to a string of attacks aimed at high-profile entities in Europe and Asia since at least December 2020.  The relatively new adversarial collective is said to have commenced its operations by targeting Microsoft Exchange servers in Taiwan and Vietnam using an unknown exploit to deploy the China Chopper web shell and activate a multi-stage infection chain.  Other prominent countries targeted include Afghanistan, India, Indonesia, Iran, Kyrgyzstan, Malaysia, Pakistan, Russia, Slovakia, Thailand, the U.K., and Uzbekistan, just as the threat actor evolved its toolset over the course of different campaigns.  "The first wave of attacks exclusively targeted Microsoft Exchange Servers, which were compromised with Samurai, a sophisticated passive backdoor that usually works on ports 80 and 443," Russian cybersecurity company Kaspersky&nbsp; said &nbsp;in a report published today.   "The malware allows arbitrary C#
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

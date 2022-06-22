@@ -8,6 +8,94 @@ nav_order: 900015
 
 ## Attack
 ---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VIP3R Campaign Uses HTML Attachments to Bypass Email Security<a href="https://cyware.com/news/vip3r-campaign-uses-html-attachments-to-bypass-email-security-a2a2008a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have observed new spear-phishing campaigns, dubbed VIP3R, aimed at certain organizations and individuals via infected HTML attachments. If opened, victims are directed at a phishing page impersonating a service often used by them, where they are are urged to input their username and pas ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DFSCoerce NTLM relay attack allows taking control over Windows domains<a href="https://securityaffairs.co/wordpress/132473/hacking/dfscoerce-attacks-windows-domains.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered a new kind of Windows NTLM relay attack dubbed&nbsp;DFSCoerce&nbsp;that allows taking control over a Windows domain.
+
+
+
+Researchers warn of a new Windows NTLM relay attack dubbed&nbsp;DFSCoerce&nbsp;that can be exploited by threat actors to take control...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian govt hackers hit Ukraine with Cobalt Strike, CredoMap malware<a href="https://www.bleepingcomputer.com/news/security/russian-govt-hackers-hit-ukraine-with-cobalt-strike-credomap-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian Computer Emergency Response Team (CERT) is warning that Russian hacking groups are exploiting the Follina code execution vulnerability in new phishing campaigns to install the CredoMap malware and Cobalt Strike beacons.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New NTLM Relay Attack Lets Attackers Take Control Over Windows Domain<a href="https://thehackernews.com/2022/06/new-ntlm-relay-attack-lets-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new kind of Windows NTLM relay attack dubbed&nbsp; DFSCoerce &nbsp;has been uncovered that leverages the Distributed File System (DFS): Namespace Management Protocol (MS-DFSNM) to seize control of a domain.  "Spooler service disabled, RPC filters installed to prevent PetitPotam and File Server VSS Agent Service not installed but you still want to relay [Domain Controller authentication to [Active Directory Certificate Services]? Don't worry MS-DFSNM have (sic) your back," security researcher Filip Dragovic&nbsp; said &nbsp;in a tweet.   MS-DFSNM &nbsp;provides a remote procedure call (RPC) interface for administering distributed file system configurations.  The NTLM (NT Lan Manager) relay attack is a well-known method that exploits the challenge-response mechanism. It allows malicious parties to sit between clients and servers and intercept and relay validated authentication requests in order to gain unauthorized access to network resources, effectively gaining an initial foothold in Active Di
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers hacked by new ToddyCat APT gang<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-by-new-toddycat-apt-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) group dubbed ToddyCat has been targeting Microsoft Exchange servers throughout Asia and Europe for more than a year, since at least December 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Client-side Magecart attacks still around, but more covert<a href="https://blog.malwarebytes.com/threat-intelligence/2022/06/client-side-magecart-attacks-still-around-but-more-covert/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For now, researchers say that Magecart client-side attacks are still around and that we could easily be missing them if we rely on automated crawlers and sandboxes, at least if we don’t make them more robust.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

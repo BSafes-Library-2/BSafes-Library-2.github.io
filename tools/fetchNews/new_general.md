@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Modern IT Security Teams’ Inevitable Need for Advanced Vulnerability Management<a href="https://threatpost.com/modern-it-security-teams-inevitable-need-for-advanced-vulnerability-management/180018/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Traditional vulnerability management programs are outdated, with little to no innovation in the last two decades. Today’s dynamic IT environment demands an advanced vulnerability management program to deal with the complex attack surface and curb security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitigate Ransomware in a Remote-First World<a href="https://thehackernews.com/2022/06/mitigate-ransomware-in-remote-first.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware has been a thorn in the side of cybersecurity teams for years. With the move to remote and hybrid work, this insidious threat has become even more of a challenge for&nbsp; organizations everywhere.  2021 was a case study in ransomware due to the wide variety of attacks, significant financial and economic impact, and diverse ways that organizations responded.&nbsp; These attacks &nbsp;should be seen as a lesson that can inform future security strategies to mitigate ransomware risk. As an organization continues to evolve, so should its security strategy.  The Remote Environment Is Primed for Ransomware  With organizations continuing to support remote and hybrid work, they no longer have the visibility and control they once had inside their perimeter. Attackers are&nbsp; exploiting this weakness&nbsp; and profiting. Here are three reasons they're able to do so:  Visibility and control have changed.&nbsp; Most organizations now have employees working from anywhere. These employees expect seamless access to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Acrobat may block antivirus tools from monitoring PDF files<a href="https://www.bleepingcomputer.com/news/security/adobe-acrobat-may-block-antivirus-tools-from-monitoring-pdf-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers found that Adobe Acrobat is trying to block security software from having visibility into the PDF files it opens, creating a security risk for the users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Lessons From Protecting Live Events<a href="https://www.darkreading.com/dr-tech/security-lessons-from-protecting-live-events?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security defenders working for large venues and international events need to be able to move at machine speed because they have a limited time to detect and recover from attacks. The show must go on, always.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: House of Lords move to protect cyber researchers from prosecution<a href="https://www.computerweekly.com/news/252521716/Lords-move-to-protect-cyber-researchers-from-prosecution?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cross-party group in the House of Lords has proposed an amendment to the Product Security and Telecommunications Infrastructure Bill that would address concerns about security researchers being prosecuted in the course of their work.
+</details>
+<div style="text-align: right" markdown="1">
+Computer Weekly
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

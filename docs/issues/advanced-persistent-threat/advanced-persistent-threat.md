@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ToddyCat APT targets high-profile entities in Europe and Asia<a href="https://securityaffairs.co/wordpress/132482/apt/toddycat-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers linked a new APT group, tracked as ToddyCat, to a series of attacks targeting entities in Europe and Asia since at least December 2020.
+
+
+
+Researchers from Kaspersky have linked a new APT group, tracked as&nbsp;ToddyCat,&nbsp;to a series of attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yodel parcel company confirms cyberattack is disrupting delivery<a href="https://www.bleepingcomputer.com/news/security/yodel-parcel-company-confirms-cyberattack-is-disrupting-delivery/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Services for the U.K.-based Yodel delivery service company have been disrupted due to a cyberattack that caused delays in parcel distribution and tracking orders online.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yodel Blames Cyber Incident for Disruption and Parcel Tracking Problems<a href="https://www.zdnet.com/article/yodel-blames-cyber-incident-for-disruption/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Yodel is currently experiencing service delays due to a system-wide outage," said an update on Beer Hawk's website, which says the issues have been affecting their deliveries since at least Monday.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
