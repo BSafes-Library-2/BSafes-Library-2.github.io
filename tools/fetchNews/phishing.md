@@ -8,6 +8,24 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Use Azure Front Door in Phishing Attacks<a href="https://securityaffairs.co/wordpress/132458/cyber-crime/azure-front-door-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts identified a spike in phishing content delivered via Azure Front Door (AFD), a cloud CDN service provided by Microsoft. 
+
+
+
+Resecurity, Inc. (USA) has identified a spike in phishing content delivered via Azure Front Door (AFD), a cloud CDN service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers APT28 and UAC-0098 Target Ukraine Again<a href="https://cyware.com/news/russian-hackers-apt28-and-uac-0098-target-ukraine-again-6fcda4cb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CERT-UA issued two separate alerts unveiling the malicious activity by APT28&nbsp;and UAC-0098 hacker groups as they weaponized Follina to deploy Cobalt Strike beacon and CredoMap malware, respectively. APT28 is sending emails laden with a malicious document that tries to exploit the fear among Ukr ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

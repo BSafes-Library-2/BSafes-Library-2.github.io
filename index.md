@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA shares tips on securing Windows devices with PowerShell<a href="https://www.bleepingcomputer.com/news/security/nsa-shares-tips-on-securing-windows-devices-with-powershell/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers APT28 and UAC-0098 Target Ukraine Again<a href="https://cyware.com/news/russian-hackers-apt28-and-uac-0098-target-ukraine-again-6fcda4cb"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Ways to Break the Encryption of 'MEGA' Cloud Storage Service<a href="https://thehackernews.com/2022/06/researchers-uncover-ways-to-break.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exclusive: Lithuania under cyber-attack after the ban on Russian railway goods<a href="https://securityaffairs.co/wordpress/132518/hacktivism/lithuania-under-cyber-attack.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 You’ve Been Warned: Overlook Security Basics at Your Peril<a href="https://threatpost.com/youve-been-warned-overlook-security-basics-at-your-peril/180041/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese hackers target script kiddies with info-stealer trojan<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-target-script-kiddies-with-info-stealer-trojan/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Voicemail Campaign Steals Microsoft 365 Credentials<a href="https://cyware.com/news/fake-voicemail-campaign-steals-microsoft-365-credentials-db8d6557"> Full Text</a>
@@ -150,7 +150,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Exploiting Microsoft Follina Vulnerability Against Ukraine<a href="https://thehackernews.com/2022/06/russian-hackers-exploiting-microsoft.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magecart attacks are still around but are more difficult to detect<a href="https://securityaffairs.co/wordpress/132512/cyber-crime/magecart-attacks-difficult-detect.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Russia stepped up cyberattacks against Ukraine’s allies<a href="https://www.bleepingcomputer.com/news/security/microsoft-russia-stepped-up-cyberattacks-against-ukraine-s-allies/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Target EI-ISAC Members with Fake Facebook Email<a href="https://cyware.com/news/threat-actors-target-ei-isac-members-with-fake-facebook-email-70ecfffe"> Full Text</a>
@@ -218,7 +218,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newly Discovered Magecart Infrastructure Reveals the Scale of Ongoing Campaign<a href="https://thehackernews.com/2022/06/newly-discovered-magecart.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thank you!!! SecurityAffairs awarded as Best European Personal Cybersecurity Blog 2022<a href="https://securityaffairs.co/wordpress/132506/breaking-news/securityaffairs-best-european-cybersecurity-blog-2022.html"> Full Text</a>
@@ -258,7 +258,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MEGA fixes critical flaws that allowed the decryption of user data<a href="https://www.bleepingcomputer.com/news/security/mega-fixes-critical-flaws-that-allowed-the-decryption-of-user-data/"> Full Text</a>
@@ -274,7 +274,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SMA Technologies Patches Critical Security Issue in Workload Automation Solution<a href="https://www.securityweek.com/sma-technologies-patches-critical-security-issue-workload-automation-solution?&web_view=true"> Full Text</a>
@@ -290,7 +290,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol Busts Phishing Gang Responsible for Millions in Losses<a href="https://thehackernews.com/2022/06/europol-busts-phishing-gang-responsible.html"> Full Text</a>
@@ -306,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks are using RIG Exploit Kit to push Dridex instead of Raccoon stealer<a href="https://securityaffairs.co/wordpress/132498/malware/rig-exploit-kit-dridex.html"> Full Text</a>
@@ -326,7 +326,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical PHP flaw exposes QNAP NAS devices to RCE attacks<a href="https://www.bleepingcomputer.com/news/security/critical-php-flaw-exposes-qnap-nas-devices-to-rce-attacks/"> Full Text</a>
@@ -342,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DFSCoerce: A New NTLM Relay Attack for Complete Account Takeover<a href="https://cyware.com/news/dfscoerce-a-new-ntlm-relay-attack-for-complete-account-takeover-db1e6b3c"> Full Text</a>
@@ -358,7 +358,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flagstar Bank discloses a data breach that impacted 1.5 Million individuals<a href="https://securityaffairs.co/wordpress/132490/data-breach/flagstar-bank-data-breach.html"> Full Text</a>
@@ -378,7 +378,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Patches 14 Vulnerabilities With Release of Chrome 103<a href="https://www.securityweek.com/google-patches-14-vulnerabilities-release-chrome-103?&web_view=true"> Full Text</a>
@@ -394,7 +394,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2022
+June 22, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RevealSecurity Raises $23 Million for Application Detection and Response<a href="https://www.securityweek.com/revealsecurity-raises-23m-application-detection-and-response?&web_view=true"> Full Text</a>
@@ -410,7 +410,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Modern IT Security Teams’ Inevitable Need for Advanced Vulnerability Management<a href="https://threatpost.com/security-vulnerability-management/180018/"> Full Text</a>
@@ -426,7 +426,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kazakh Govt. Used Spyware Against Protesters<a href="https://threatpost.com/kazakh-govt-used-spyware-against-protesters/180016/"> Full Text</a>
@@ -442,7 +442,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Voicemail Scam Steals Microsoft Credentials<a href="https://threatpost.com/voicemail-phishing-scam-steals-microsoft-credentials/180005/"> Full Text</a>
@@ -458,7 +458,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2022
+June 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RIG Exploit Kit Now Infects Victims' PCs With Dridex Instead of Raccoon Stealer<a href="https://thehackernews.com/2022/06/rig-exploit-kit-now-infects-victims-pcs.html"> Full Text</a>

@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Voicemail Campaign Steals Microsoft 365 Credentials<a href="https://cyware.com/news/fake-voicemail-campaign-steals-microsoft-365-credentials-db8d6557"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Voicemail messaging campaign is targeting individuals in the key vertical markets of the U.S. to steal their Office365 and Outlook credentials, while evading anti-phishing tools through a CAPTCHA check. The email has an HTML attachment using a music note character to impersonate the file as a sou ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Target EI-ISAC Members with Fake Facebook Email<a href="https://cyware.com/news/threat-actors-target-ei-isac-members-with-fake-facebook-email-70ecfffe"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are leveraging fake Facebook email uses copyrights to lure members of the Elections Infrastructure Information Sharing and Analysis Center (Ei-ISAC). The body of the email informed EI-ISAC that Facebook had taken down some of its content, as the result of a copyright infringement.&nbsp;Th ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Voicemail Scam Steals Microsoft Credentials<a href="https://threatpost.com/voicemail-phishing-scam-steals-microsoft-credentials/180005/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are targeting a number of key vertical markets in the U.S. with the active campaign, which impersonates the organization and Microsoft to lift Office365 and Outlook log-in details.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

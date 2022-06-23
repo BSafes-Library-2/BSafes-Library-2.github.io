@@ -8,6 +8,56 @@ nav_order: 900072
 
 ## General
 ---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+You’ve Been Warned: Overlook Security Basics at Your Peril<a href="https://threatpost.com/youve-been-warned-overlook-security-basics-at-your-peril/180041/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware shows no sign of abating and hackers are becoming more cautious and making risk/reward calculations before targeting companies. Additionally, companies are also grappling with supply chain attacks originating through open source software using a variety of mass-market applications and operating systems.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thank you!!! SecurityAffairs awarded as Best European Personal Cybersecurity Blog 2022<a href="https://securityaffairs.co/wordpress/132506/breaking-news/securityaffairs-best-european-cybersecurity-blog-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I’m proud to announce that&nbsp;SecurityAffairs&nbsp;was awarded as the Best European Personal Cybersecurity Blog 2022 at European Cybersecurity Blogger Awards 2022.
+
+
+
+The winners of the annual European Cybersecurity Blogger Awards have been announced.
+
+
+
+Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Modern IT Security Teams’ Inevitable Need for Advanced Vulnerability Management<a href="https://threatpost.com/security-vulnerability-management/180018/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Traditional vulnerability management programs are outdated, with little to no innovation in the last two decades. Today’s dynamic IT environment demands an advanced vulnerability management program to deal with the complex attack surface and curb security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

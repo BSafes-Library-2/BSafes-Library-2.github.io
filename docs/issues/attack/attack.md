@@ -8,6 +8,98 @@ nav_order: 900015
 
 ## Attack
 ---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exclusive: Lithuania under cyber-attack after the ban on Russian railway goods<a href="https://securityaffairs.co/wordpress/132518/hacktivism/lithuania-under-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Spetsnaz is targeting government resources and critical infrastructure in Lithuania after the ban of Russian railway goods 
+
+
+
+Cyber Spetsnaz is targeting Lithuanian government resources and critical infrastructure – the recent ban on Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers target script kiddies with info-stealer trojan<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-target-script-kiddies-with-info-stealer-trojan/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new campaign attributed to the Chinese "Tropic Trooper" hacking group, which employs a novel loader called Nimbda and a new variant of the Yahoyah trojan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Exploiting Microsoft Follina Vulnerability Against Ukraine<a href="https://thehackernews.com/2022/06/russian-hackers-exploiting-microsoft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has&nbsp; cautioned &nbsp;of a new set of spear-phishing attacks exploiting the "Follina" flaw in the Windows operating system to deploy password-stealing malware.  Attributing the intrusions to a Russian nation-state group tracked as APT28 (aka Fancy Bear or Sofacy), the agency said the attacks commence with a lure document titled "Nuclear Terrorism A Very Real Threat.rtf" that, when opened, exploits the recently disclosed vulnerability to download and execute a malware called CredoMap.  Follina ( CVE-2022-30190 , CVSS score: 7.8), which concerns a case of remote code execution affecting the Windows Support Diagnostic Tool (MSDT), was addressed by Microsoft on June 14, 2022, as part of its&nbsp; Patch Tuesday updates .   According to an independent report published by Malwarebytes,&nbsp; CredoMap &nbsp;is a variant of the .NET-based credential stealer that Google Threat Analysis Group (TAG)&nbsp; divulged &nbsp;last month as having been depl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart attacks are still around but are more difficult to detect<a href="https://securityaffairs.co/wordpress/132512/cyber-crime/magecart-attacks-difficult-detect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Malwarebytes warns that the Magecart skimming campaign is active, but the attacks are more covert.
+
+
+
+Magecart threat actors have switched most of their operations server-side to avoid detection of security firms. However, Malwarebytes...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Russia stepped up cyberattacks against Ukraine’s allies<a href="https://www.bleepingcomputer.com/news/security/microsoft-russia-stepped-up-cyberattacks-against-ukraine-s-allies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said today that Russian intelligence agencies have stepped up cyberattacks against governments of countries that have allied themselves with Ukraine after Russia's invasion.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DFSCoerce: A New NTLM Relay Attack for Complete Account Takeover<a href="https://cyware.com/news/dfscoerce-a-new-ntlm-relay-attack-for-complete-account-takeover-db1e6b3c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new DFSCoerce Windows NTLM relay attack uses MS-DFSNM to entirely take over a Windows domain. The script used is based on the PetitPotam exploit. For this attack, researchers abused the Microsoft Active Directory Certificate Services, which is exposed to NTLM relay attacks. The best way to stop s ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

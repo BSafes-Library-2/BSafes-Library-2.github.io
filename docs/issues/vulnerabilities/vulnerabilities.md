@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Ways to Break the Encryption of 'MEGA' Cloud Storage Service<a href="https://thehackernews.com/2022/06/researchers-uncover-ways-to-break.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new piece of research from academics at ETH Zurich has identified a number of critical security issues in the MEGA cloud storage service that could be leveraged to break the confidentiality and integrity of user data.  In a paper titled " MEGA: Malleable Encryption Goes Awry ," the researchers point out how MEGA's system does not protect its users against a malicious server, thereby enabling a rogue actor to fully compromise the privacy of the uploaded files.  "Additionally, the integrity of user data is damaged to the extent that an attacker can insert malicious files of their choice which pass all authenticity checks of the client," ETH Zurich's Matilda Backendal, Miro Haller, and Kenneth G. Paterson said in an analysis of the service's cryptographic architecture.  MEGA, which&nbsp; advertises &nbsp;itself as the "privacy company" and claims to provide user-controlled end-to-end encrypted cloud storage, has more than 10 million daily active users, w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MEGA fixes critical flaws that allowed the decryption of user data<a href="https://www.bleepingcomputer.com/news/security/mega-fixes-critical-flaws-that-allowed-the-decryption-of-user-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MEGA has released a security update to address a set of severe vulnerabilities that could have exposed user data, even if the data had been stored in encrypted form.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SMA Technologies Patches Critical Security Issue in Workload Automation Solution<a href="https://www.securityweek.com/sma-technologies-patches-critical-security-issue-workload-automation-solution?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aimed at financial institutions and insurance firms, OpCon is a cross-platform process automation and orchestration solution that can be used for the management of workloads across business-critical operations.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical PHP flaw exposes QNAP NAS devices to RCE attacks<a href="https://www.bleepingcomputer.com/news/security/critical-php-flaw-exposes-qnap-nas-devices-to-rce-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP has warned customers today that&nbsp;many of its Network Attached Storage (NAS) devices are vulnerable to attacks that would exploit a three-year-old&nbsp;critical&nbsp;PHP&nbsp;vulnerability allowing remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches 14 Vulnerabilities With Release of Chrome 103<a href="https://www.securityweek.com/google-patches-14-vulnerabilities-release-chrome-103?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe of these bugs is CVE-2022-2156, which is described as a critical-severity use-after-free issue in Base. The security flaw was identified by Mark Brand of Google Project Zero.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose 56 Vulnerabilities Impacting OT Devices from 10 Vendors<a href="https://thehackernews.com/2022/06/researchers-disclose-56-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly five dozen security vulnerabilities have been disclosed in devices from 10 operational technology (OT) vendors due to what researchers call are "insecure-by-design practices."  Collectively dubbed&nbsp; OT:ICEFALL &nbsp;by Forescout, the 56 issues span as many as 26 device models from Bently Nevada, Emerson, Honeywell, JTEKT, Motorola, Omron, Phoenix Contact, Siemens, and Yokogawa.  "Exploiting these vulnerabilities, attackers with network access to a target device could remotely execute code, change the logic, files or firmware of OT devices, bypass authentication, compromise credentials, cause denials of service or have a variety of operational impacts," the company said in a technical report.  These vulnerabilities could have disastrous consequences considering the impacted products are widely employed in critical infrastructure industries such as oil and gas, chemical, nuclear, power generation and distribution, manufacturing, water treatment and distribution, min
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jacuzzi customer details could be exposed by SmartTub web bugs, claims researcher<a href="https://portswigger.net/daily-swig/jacuzzi-customer-details-could-be-exposed-by-smarttub-web-bugs-claims-researcher?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities in the web interface of Jacuzzi’s SmartTub app could have enabled an attacker to view and potentially manipulate the personal data of hot tub owners, a security researcher claims.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Icefall: 56 flaws impact thousands of exposed industrial devices<a href="https://www.bleepingcomputer.com/news/security/icefall-56-flaws-impact-thousands-of-exposed-industrial-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security report has been published on a set of 56 vulnerabilities that are collectively called Icefall&nbsp;and affect operational technology (OT) equipment used in various critical infrastructure environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
