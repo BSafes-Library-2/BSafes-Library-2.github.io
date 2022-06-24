@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol Busts Phishing Gang Responsible for Millions in Losses<a href="https://thehackernews.com/2022/06/europol-busts-phishing-gang-responsible.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol on Tuesday announced the dismantling of an organized crime group that dabbled in phishing, fraud, scams, and money laundering activities.  The cross-border operation, which involved law enforcement authorities from Belgium and the Netherlands, saw the arrests of nine individuals in the Dutch nation.  The suspects are men between the ages of 25 and 36 from Amsterdam, Almere, Rotterdam, and Spijkenisse and a 25-year-old woman from Deventer, according to a&nbsp; statement &nbsp;from the National Police Force.   Also confiscated as part of 24 house searches were firearms, ammunition, jewelry, designer clothing, expensive watches, electronic devices, tens of thousands of euros in cash, and cryptocurrency, the officials said.  "The criminal group contacted victims by email, text message and through mobile messaging applications," the agency&nbsp; noted . "These messages were sent by the members of the gang and contained a phishing link leading to a bogus banking website."  Unsu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks are using RIG Exploit Kit to push Dridex instead of Raccoon stealer<a href="https://securityaffairs.co/wordpress/132498/malware/rig-exploit-kit-dridex.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using the Rig Exploit Kit to spread the Dridex banking trojan instead of the Raccoon Stealer malware.
+
+
+
+Since January 2022, the Bitdefender Cyber Threat Intelligence Lab observed operators behind the RIG Exploit Kit pushing the Dridex...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

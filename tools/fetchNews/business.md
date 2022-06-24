@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RevealSecurity Raises $23 Million for Application Detection and Response<a href="https://www.securityweek.com/revealsecurity-raises-23m-application-detection-and-response?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series A financing provides capital for the Tel Aviv-based company to build "Application Detection and Response" technology capable of ferreting out malicious activities executed by insiders and imposters in enterprise applications.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

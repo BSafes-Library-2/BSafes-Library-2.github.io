@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Distributing SMS Bomber Tool with Malware Hidden Inside<a href="https://thehackernews.com/2022/06/chinese-hackers-distributing-sms-bomber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat cluster with ties to a hacking group called Tropic Trooper  has been spotted using a previously undocumented malware coded in Nim language to strike targets as part of a newly discovered campaign.  The novel loader, dubbed Nimbda, is "bundled with a Chinese language greyware 'SMS Bomber' tool that is most likely illegally distributed in the Chinese-speaking web," Israeli cybersecurity company Check Point&nbsp; said &nbsp;in a report.  "Whoever crafted the Nim loader took special care to give it the same executable icon as the SMS Bomber that it drops and executes," the researchers said. "Therefore the entire bundle works as a trojanized binary."  SMS Bomber, as the name indicates, allows a user to input a phone number (not their own) so as to flood the victim's device with messages and potentially render it unusable in what's a denial-of-service (DoS) attack.   The fact that the binary doubles up as SMS Bomber and a backdoor suggests that t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bronze Starlight Hacker Group Spreads Ransomware Using HUI Loader<a href="https://www.zdnet.com/article/these-hackers-are-spreading-ransomware-as-a-distraction-to-hide-their-cyber-spying/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Secureworks' Counter Threat Unit (CTU) research team, two activity clusters related to HUI Loader have been connected to Chinese-speaking threat actors, namely Bronze Riverside and Bronze Starlight.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers use ransomware as decoy for cyber espionage<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-use-ransomware-as-decoy-for-cyber-espionage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Chinese hacking groups conducting cyber espionage and stealing intellectual property from Japanese and western companies are deploying ransomware as a decoy to cover up their malicious activities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

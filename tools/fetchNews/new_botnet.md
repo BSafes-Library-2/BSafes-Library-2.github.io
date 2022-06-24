@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scalper bots out of control in Israel, selling state appointments<a href="https://www.bleepingcomputer.com/news/security/scalper-bots-out-of-control-in-israel-selling-state-appointments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Out-of-control scalper bots have created havoc in Israel by registering public service appointments for various government services and then offering to sell them to disgruntled citizens.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

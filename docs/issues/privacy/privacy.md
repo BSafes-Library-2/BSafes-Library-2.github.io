@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSO Confirms Pegasus Spyware Used by at least 5 European Countries<a href="https://thehackernews.com/2022/06/nso-confirms-pegasus-spyware-used-by-at.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The beleaguered Israeli surveillanceware vendor NSO Group this week admitted to the European Union lawmakers that its Pegasus tool was used by at least five countries in the region.  "We're trying to do the right thing and that's more than other companies working in the industry," Chaim Gelfand, the company's general counsel and chief compliance officer, said, according to a&nbsp; report &nbsp;from Politico.  Acknowledging that it had "made mistakes," the company also stressed on the need for an international standard to regulate the government use of spyware.   The disclosure comes as a special inquiry committee was&nbsp; launched in April 2022 &nbsp;to investigate alleged breaches of E.U. law following revelations that the company's Pegasus spyware is being used to snoop on phones belonging to politicians, diplomats, and civil society members.  "The committee is going to look into existing national laws regulating surveillance, and whether Pegasus spyware was us
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spyware vendor works with ISPs to infect iOS and Android users<a href="https://www.bleepingcomputer.com/news/security/spyware-vendor-works-with-isps-to-infect-ios-and-android-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) revealed today that RCS Labs, an Italian spyware vendor, has received help from some Internet service providers (ISPs) to infect Android and iOS users in Italy and Kazakhstan with commercial surveillance tools.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

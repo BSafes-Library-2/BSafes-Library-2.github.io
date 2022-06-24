@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Windows 'LNK' attacks made easy with new Quantum builder<a href="https://www.bleepingcomputer.com/news/security/malicious-windows-lnk-attacks-made-easy-with-new-quantum-builder/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware researchers have noticed a new&nbsp;tool&nbsp;that helps&nbsp;cybercriminals build malicious .LNK files to deliver payloads for the initial stages of an attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automotive hose maker Nichirin hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/automotive-hose-maker-nichirin-hit-by-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nichirin-Flex U.S.A, a subsidiary of the&nbsp;Japanese car and motorcycle hose maker Nichirin, has been hit by a ransomware attack causing the company to take the network offline.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

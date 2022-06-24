@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Discovered Magecart Infrastructure Reveals the Scale of Ongoing Campaign<a href="https://thehackernews.com/2022/06/newly-discovered-magecart.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered Magecart skimming campaign has its roots in a previous attack activity going all the way back to November 2021.  To that end, it has come to light that&nbsp; two &nbsp; malware &nbsp;domains identified as hosting credit card skimmer code — "scanalytic[.]org" and "js.staticounter[.]net" — are part of a broader infrastructure used to carry out the intrusions, Malwarebytes said in a Tuesday analysis.  "We were able to connect these two domains with a&nbsp; previous campaign from November 2021 &nbsp;which was the first instance to our knowledge of a skimmer checking for the use of virtual machines," Jérôme Segura&nbsp; said . "However, both of them are now devoid of VM detection code. It's unclear why the threat actors removed it, unless perhaps it caused more issues than benefits."   The earliest evidence of the campaign's activity, based on the additional domains uncovered, suggests it dates back to at least May 2020.  Magecart &nbsp;refers to a cybercrim
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,454 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scalper bots out of control in Israel, selling state appointments<a href="https://www.bleepingcomputer.com/news/security/scalper-bots-out-of-control-in-israel-selling-state-appointments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Out-of-control scalper bots have created havoc in Israel by registering public service appointments for various government services and then offering to sell them to disgruntled citizens.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AvosLocker Adopts a Mix of Commercial Tools and Malicious Payloads<a href="https://cyware.com/news/avoslocker-adopts-a-mix-of-commercial-tools-and-malicious-payloads-6989a86b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers have used Cobalt Strike, Sliver, and several commercially available network scanners. They targeted an ESXi server exposed over VMWare Horizon UAG by exploiting the Log4Shell flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSO Confirms Pegasus Spyware Used by at least 5 European Countries<a href="https://thehackernews.com/2022/06/nso-confirms-pegasus-spyware-used-by-at.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The beleaguered Israeli surveillanceware vendor NSO Group this week admitted to the European Union lawmakers that its Pegasus tool was used by at least five countries in the region.  "We're trying to do the right thing and that's more than other companies working in the industry," Chaim Gelfand, the company's general counsel and chief compliance officer, said, according to a  report  from Politico.  Acknowledging that it had "made mistakes," the company also stressed on the need for an international standard to regulate the government use of spyware.   The disclosure comes as a special inquiry committee was  launched in April 2022  to investigate alleged breaches of E.U. law following revelations that the company's Pegasus spyware is being used to snoop on phones belonging to politicians, diplomats, and civil society members.  "The committee is going to look into existing national laws regulating surveillance, and whether Pegasus spyware was us
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bolt-On vs Baked-In Cybersecurity<a href="https://www.lawfareblog.com/bolt-vs-baked-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Real cybersecurity involves trade-offs in functional requirements.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Tropic Trooper APT spreads a hacking tool laced with a backdoor<a href="https://securityaffairs.co/wordpress/132545/hacking/tropic-trooper-apt-new-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT group Tropic Trooper has been spotted previously undocumented malware written in Nim language.
+
+
+
+Check Point Research uncovered an activity cluster with ties to China-linked APT Tropic Trooper (aka Earth Centaur, KeyBoy, and Pirate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: Log4Shell exploits still being used to hack VMware servers<a href="https://www.bleepingcomputer.com/news/security/cisa-log4shell-exploits-still-being-used-to-hack-vmware-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA warned today that threat actors including state-backed hacking groups are still targeting VMware Horizon and Unified Access Gateway (UAG) servers using the Log4Shell (CVE-2021-44228) remote code execution vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Kits, Credential Theft, and Social Media Scam Trends Q1 2022<a href="https://cyware.com/news/phishing-kits-credential-theft-and-social-media-scam-trends-q1-2022-474dfac7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While there has been a slight increase in the traditional email phishing attack, the other trends include social media impersonation scams, dark web threats, hybrid vishing attacks, and BEC attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manual vs. SSPM: Research on What Streamlines SaaS Security Detection & Remediation<a href="https://thehackernews.com/2022/06/manual-vs-sspm-research-on-what.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When it comes to keeping SaaS stacks secure, IT and security teams need to be able to streamline the detection and remediation of misconfigurations in order to best protect their SaaS stack from threats. However, while companies adopt more and more apps, their increase in SaaS security tools and staff has lagged behind, as found in the  2022 SaaS Security Survey Report.   The survey report, completed by Adaptive Shield in conjunction with Cloud Security Alliance (CSA), dives into how CISOs today are managing the growing SaaS app attack surface and the steps they are taking to secure their organizations.   The report finds that at least 43% of organizations have experienced a security incident as a result of a SaaS misconfiguration; however, with another 20% being "unsure," the real number could be  as high as 63% . These numbers are particularly striking when compared to the 17% of organizations experiencing security incidents due to an IaaS misconfiguration.   Bearing this
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSO Group told lawmakers that Pegasus spyware was used by at least 5 European countries<a href="https://securityaffairs.co/wordpress/132536/malware/nso-group-pegasus-5-eu-countries.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israeli surveillance firm NSO Group revealed that its Pegasus spyware was used by at least five European countries.
+
+
+
+The controversial Israeli surveillance vendor NSO Group told the European Union lawmakers that its Pegasus spyware was used by at least...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spyware vendor works with ISPs to infect iOS and Android users<a href="https://www.bleepingcomputer.com/news/security/spyware-vendor-works-with-isps-to-infect-ios-and-android-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) revealed today that RCS Labs, an Italian spyware vendor, has received help from some Internet service providers (ISPs) to infect Android and iOS users in Italy and Kazakhstan with commercial surveillance tools.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Scammers Turn to LinkedIn to Target Victims<a href="https://cyware.com/news/crypto-scammers-turn-to-linkedin-to-target-victims-1b99de6c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scams work in a similar manner as on other platforms. Scammers create professional-looking fake profiles and attempt to strike up conversations with users using the in-built messaging feature.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Distributing SMS Bomber Tool with Malware Hidden Inside<a href="https://thehackernews.com/2022/06/chinese-hackers-distributing-sms-bomber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat cluster with ties to a hacking group called Tropic Trooper  has been spotted using a previously undocumented malware coded in Nim language to strike targets as part of a newly discovered campaign.  The novel loader, dubbed Nimbda, is "bundled with a Chinese language greyware 'SMS Bomber' tool that is most likely illegally distributed in the Chinese-speaking web," Israeli cybersecurity company Check Point  said  in a report.  "Whoever crafted the Nim loader took special care to give it the same executable icon as the SMS Bomber that it drops and executes," the researchers said. "Therefore the entire bundle works as a trojanized binary."  SMS Bomber, as the name indicates, allows a user to input a phone number (not their own) so as to flood the victim's device with messages and potentially render it unusable in what's a denial-of-service (DoS) attack.   The fact that the binary doubles up as SMS Bomber and a backdoor suggests that t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of a critical PHP flaw that could lead to remote code execution<a href="https://securityaffairs.co/wordpress/132531/hacking/qnap-critical-php-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese company QNAP is addressing a critical PHP vulnerability that could be exploited to achieve remote code execution.
+
+
+
+Taiwanese vendor QNAP is addressing a critical PHP vulnerability, tracked as CVE-2019-11043 (CVSS score 9.8 out of 10), that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lithuania warns of rise in DDoS attacks against government sites<a href="https://www.bleepingcomputer.com/news/security/lithuania-warns-of-rise-in-ddos-attacks-against-government-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Cyber Security Center (NKSC) of Lithuania has issued a public warning about a steep increase in distributed denial of service (DDoS) attacks directed against public authorities in the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Activities of RIG Exploit Kit Observed<a href="https://cyware.com/news/new-activities-of-rig-exploit-kit-observed-ec121cf3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Bitdefender researchers, the operators behind the RIG exploit kit have swapped the Raccoon Stealer malware with Dridex trojan as part of an ongoing campaign that commenced in January 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers found flaws in MEGA that allowed to decrypt of user data<a href="https://securityaffairs.co/wordpress/132523/hacking/mega-flaws-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at ETH Zurich discovered several critical flaws in the MEGA cloud storage service that could have allowed the decryption of user data
+
+
+
+MEGA has addressed multiple vulnerabilities in its cloud storage service that could have allowed threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Windows 'LNK' attacks made easy with new Quantum builder<a href="https://www.bleepingcomputer.com/news/security/malicious-windows-lnk-attacks-made-easy-with-new-quantum-builder/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware researchers have noticed a new tool that helps cybercriminals build malicious .LNK files to deliver payloads for the initial stages of an attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ICS Vendors Respond to OT:Icefall Vulnerabilities Impacting Critical Infrastructure<a href="https://www.securityweek.com/affected-ics-vendors-start-responding-oticefall-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Affected vendors include Baker Hughes (Bentley Nevada), Emerson, Honeywell, JTEKT, Motorola, Omron, Phoenix Contact, Siemens, and Yokogawa. One of the impacted vendors has not been named as the disclosure process is still ongoing.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automotive hose maker Nichirin hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/automotive-hose-maker-nichirin-hit-by-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nichirin-Flex U.S.A, a subsidiary of the Japanese car and motorcycle hose maker Nichirin, has been hit by a ransomware attack causing the company to take the network offline.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bronze Starlight Hacker Group Spreads Ransomware Using HUI Loader<a href="https://www.zdnet.com/article/these-hackers-are-spreading-ransomware-as-a-distraction-to-hide-their-cyber-spying/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Secureworks' Counter Threat Unit (CTU) research team, two activity clusters related to HUI Loader have been connected to Chinese-speaking threat actors, namely Bronze Riverside and Bronze Starlight.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers use ransomware as decoy for cyber espionage<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-use-ransomware-as-decoy-for-cyber-espionage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Chinese hacking groups conducting cyber espionage and stealing intellectual property from Japanese and western companies are deploying ransomware as a decoy to cover up their malicious activities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MCG Health Faces Lawsuit Over Data Breach Impacting 1.1 Million Individuals<a href="https://www.securityweek.com/mcg-health-faces-lawsuit-over-data-breach-impacting-11-million-individuals?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 10, the company started to inform potentially impacted individuals of a data breach that occurred on March 25, and which might have resulted in their personal information being accessed by a third-party.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New MetaMask phishing campaign uses KYC lures to steal passphrases<a href="https://www.bleepingcomputer.com/news/security/new-metamask-phishing-campaign-uses-kyc-lures-to-steal-passphrases/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign is targeting users on Microsoft 365 while spoofing the popular MetaMask cryptocurrency wallet provider and attempting to steal recovery phrases.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Your email is a major source of security risks and it's getting worse<a href="https://www.zdnet.com/article/your-email-is-a-major-source-of-security-risks-and-its-getting-worse/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware delivered to email accounts rose 196% in 2021 year-on-year, according to Trend Micro, which warns that email remains a major avenue for criminals looking to deliver malware and phish account credentials.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware hacking spree breaches over 40 orgs in a month<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-hacking-spree-breaches-over-40-orgs-in-a-month/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti cybercrime syndicate runs one of the most aggressive ransomware operations and has grown highly organized, to the point that affiliates were able to hack more than 40 companies in a little over a month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe Parse Server bug impacts Apple Game Center<a href="https://portswigger.net/daily-swig/severe-parse-server-bug-impacts-apple-game-center?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-31083 and issued a CVSS severity score of 8.6, the security issue is described as a scenario in which the authentication adapter for Apple Game Center’s security certificate is not validated.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical PHP Vulnerability Exposes QNAP NAS Devices to Remote Attacks<a href="https://thehackernews.com/2022/06/critical-php-vulnerability-exposes-qnap.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP, Taiwanese maker of network-attached storage (NAS) devices, on Wednesday said it's in the process of fixing a critical three-year-old PHP vulnerability that could be abused to achieve remote code execution.  "A vulnerability has been reported to affect PHP versions 7.1.x below 7.1.33, 7.2.x below 7.2.24, and 7.3.x below 7.3.11 with improper nginx config," the hardware vendor  said  in an advisory. "If exploited, the vulnerability allows attackers to gain remote code execution."   The vulnerability, tracked as  CVE-2019-11043 , is rated 9.8 out of 10 for severity on the CVSS vulnerability scoring system. That said, it's required that Nginx and php-fpm are running in appliances using the following QNAP operating system versions -   QTS 5.0.x and later  QTS 4.5.x and later  QuTS hero h5.0.x and later  QuTS hero h4.5.x and later  QuTScloud c5.0.x and later   "As QTS, QuTS hero or QuTScloud does not have nginx installed by default, QNAP NAS are not aff
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 22, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

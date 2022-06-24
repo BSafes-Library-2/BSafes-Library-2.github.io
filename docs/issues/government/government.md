@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: Log4Shell exploits still being used to hack VMware servers<a href="https://www.bleepingcomputer.com/news/security/cisa-log4shell-exploits-still-being-used-to-hack-vmware-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA warned today that threat actors including state-backed hacking groups are still targeting&nbsp;VMware Horizon&nbsp;and Unified Access Gateway (UAG) servers using the&nbsp;Log4Shell (CVE-2021-44228) remote code execution vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

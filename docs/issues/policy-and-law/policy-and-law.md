@@ -8,6 +8,38 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSO Group told lawmakers that Pegasus spyware was used by at least 5 European countries<a href="https://securityaffairs.co/wordpress/132536/malware/nso-group-pegasus-5-eu-countries.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israeli surveillance firm NSO Group revealed that its Pegasus spyware was used by at least five European countries.
+
+
+
+The controversial Israeli surveillance vendor NSO Group told the European Union lawmakers that its Pegasus spyware was used by at least...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MCG Health Faces Lawsuit Over Data Breach Impacting 1.1 Million Individuals<a href="https://www.securityweek.com/mcg-health-faces-lawsuit-over-data-breach-impacting-11-million-individuals?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 10, the company started to inform potentially impacted individuals of a data breach that occurred on March 25, and which might have resulted in their personal information being accessed by a third-party.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

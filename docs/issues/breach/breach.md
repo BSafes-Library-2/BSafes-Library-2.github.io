@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware hacking spree breaches over 40 orgs in a month<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-hacking-spree-breaches-over-40-orgs-in-a-month/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti cybercrime syndicate runs one of the most aggressive ransomware operations and has grown highly organized, to the point that affiliates were able to hack more than 40 companies in a little over a month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
