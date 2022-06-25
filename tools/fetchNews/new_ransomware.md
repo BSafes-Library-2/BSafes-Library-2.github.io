@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - June 24th 2022 - Splinter Cells<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-24th-2022-splinter-cells/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware gang has finally ended their charade and&nbsp;turned off their Tor data leak and negotiation sites, effectively shutting down the operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitel zero-day used by hackers in suspected ransomware attack<a href="https://www.bleepingcomputer.com/news/security/mitel-zero-day-used-by-hackers-in-suspected-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers used a zero-day exploit on Linux-based Mitel MiVoice VOIP appliances for initial access in what is believed to be the beginning of a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware finally shuts down data leak, negotiation sites<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-finally-shuts-down-data-leak-negotiation-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware operation has finally shut down its last public-facing infrastructure, consisting of two Tor servers used to leak data and negotiate with victims, closing the final chapter&nbsp;of the notorious cybercrime brand.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

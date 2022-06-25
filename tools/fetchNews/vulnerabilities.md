@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of a critical PHP flaw that could lead to remote code execution<a href="https://securityaffairs.co/wordpress/132531/hacking/qnap-critical-php-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese company QNAP is addressing a critical PHP vulnerability that could be exploited to achieve remote code execution.
+
+
+
+Taiwanese vendor QNAP is addressing a critical PHP vulnerability, tracked as CVE-2019-11043 (CVSS score 9.8 out of 10), that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2022 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers found flaws in MEGA that allowed to decrypt of user data<a href="https://securityaffairs.co/wordpress/132523/hacking/mega-flaws-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at ETH Zurich discovered several critical flaws in the MEGA cloud storage service that could have allowed the decryption of user data
+
+
+
+MEGA has addressed multiple vulnerabilities in its cloud storage service that could have allowed threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ICS Vendors Respond to OT:Icefall Vulnerabilities Impacting Critical Infrastructure<a href="https://www.securityweek.com/affected-ics-vendors-start-responding-oticefall-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Affected vendors include Baker Hughes (Bentley Nevada), Emerson, Honeywell, JTEKT, Motorola, Omron, Phoenix Contact, Siemens, and Yokogawa. One of the impacted vendors has not been named as the disclosure process is still ongoing.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe Parse Server bug impacts Apple Game Center<a href="https://portswigger.net/daily-swig/severe-parse-server-bug-impacts-apple-game-center?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-31083 and issued a CVSS severity score of 8.6, the security issue is described as a scenario in which the authentication adapter for Apple Game Center’s security certificate is not validated.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical PHP Vulnerability Exposes QNAP NAS Devices to Remote Attacks<a href="https://thehackernews.com/2022/06/critical-php-vulnerability-exposes-qnap.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP, Taiwanese maker of network-attached storage (NAS) devices, on Wednesday said it's in the process of fixing a critical three-year-old PHP vulnerability that could be abused to achieve remote code execution.  "A vulnerability has been reported to affect PHP versions 7.1.x below 7.1.33, 7.2.x below 7.2.24, and 7.3.x below 7.3.11 with improper nginx config," the hardware vendor&nbsp; said &nbsp;in an advisory. "If exploited, the vulnerability allows attackers to gain remote code execution."   The vulnerability, tracked as&nbsp; CVE-2019-11043 , is rated 9.8 out of 10 for severity on the CVSS vulnerability scoring system. That said, it's required that Nginx and php-fpm are running in appliances using the following QNAP operating system versions -   QTS 5.0.x and later  QTS 4.5.x and later  QuTS hero h5.0.x and later  QuTS hero h4.5.x and later  QuTScloud c5.0.x and later   "As QTS, QuTS hero or QuTScloud does not have nginx installed by default, QNAP NAS are not aff
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

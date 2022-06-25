@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Tropic Trooper APT spreads a hacking tool laced with a backdoor<a href="https://securityaffairs.co/wordpress/132545/hacking/tropic-trooper-apt-new-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT group Tropic Trooper&nbsp;has been spotted previously undocumented malware written in Nim language.
+
+
+
+Check Point Research uncovered an activity cluster with ties to&nbsp;China-linked APT Tropic Trooper (aka Earth Centaur, KeyBoy, and Pirate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

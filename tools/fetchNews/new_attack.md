@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fast Shop Brazilian retailer discloses "extortion" cyberattack<a href="https://www.bleepingcomputer.com/news/security/fast-shop-brazilian-retailer-discloses-extortion-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fast Shop, one of Brazil's largest retailers, has suffered an 'extortion'&nbsp;cyberattack that led to network disruption and the temporary closure of its online store.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

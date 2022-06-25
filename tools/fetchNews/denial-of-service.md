@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lithuania warns of rise in DDoS attacks against government sites<a href="https://www.bleepingcomputer.com/news/security/lithuania-warns-of-rise-in-ddos-attacks-against-government-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Cyber Security Center (NKSC) of Lithuania has issued a public warning about a steep increase in distributed denial of service (DDoS) attacks directed against public authorities in the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

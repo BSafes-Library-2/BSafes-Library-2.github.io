@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Scammers Turn to LinkedIn to Target Victims<a href="https://cyware.com/news/crypto-scammers-turn-to-linkedin-to-target-victims-1b99de6c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scams work in a similar manner as on other platforms. Scammers create professional-looking fake profiles and attempt to strike up conversations with users using the in-built messaging feature.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

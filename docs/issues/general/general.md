@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+June 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Businesses risk ‘catastrophic financial loss’ from cyberattacks, US watchdog warns<a href="https://www.theverge.com/2022/6/23/23180115/gao-infrastructure-catastrophic-financial-loss-cyberattacks-insurance?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GAO has warned that private insurance companies are increasingly backing out of covering damages from major cyberattacks — leaving American businesses facing “catastrophic financial loss” unless another insurance model can be found.
+</details>
+<div style="text-align: right" markdown="1">
+The Verge
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

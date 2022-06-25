@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The price of stolen info: Everything on sale on the dark web<a href="https://www.helpnetsecurity.com/2022/06/22/stolen-info-sale-dark-web/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Privacy Affairs researchers concluded criminals using the dark web need only spend $1,115 for a complete set of a person’s account details, enabling them to create fake IDs and forge private documents, such as passports and driver’s licenses.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Kits, Credential Theft, and Social Media Scam Trends Q1 2022<a href="https://cyware.com/news/phishing-kits-credential-theft-and-social-media-scam-trends-q1-2022-474dfac7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While there has been a slight increase in the traditional email phishing attack, the other trends include social media impersonation scams, dark web threats, hybrid vishing attacks, and BEC attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New MetaMask phishing campaign uses KYC lures to steal passphrases<a href="https://www.bleepingcomputer.com/news/security/new-metamask-phishing-campaign-uses-kyc-lures-to-steal-passphrases/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign is targeting users on Microsoft 365 while spoofing the popular MetaMask cryptocurrency wallet provider and attempting to steal recovery phrases.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

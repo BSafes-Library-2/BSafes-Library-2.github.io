@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Attacks Using Microsoft’s Cloud CDN Service AFD<a href="https://cyware.com/news/phishing-attacks-using-microsofts-cloud-cdn-service-afd-a4d0c9d9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity spotted a surge in phishing messages delivered via Azure Front Door, Microsoft’s cloud CDN service. Most of the content targeted Amazon, SendGrid, and Docusign customers. Through well-known cloud services the criminals are constantly trying to evade detection of their phishing attacks by ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Alert: LNK-based Malware Distribution is on the Rise<a href="https://cyware.com/news/phishing-alert-lnk-based-malware-distribution-is-on-the-rise-51c7958a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft claimed that hackers are increasingly deploying malware, including QBot, Emotet, Bazarloader, and ICEID, through infected LNK files. To distribute LNK files to victims, threat actors use spam emails and malicious URLs.&nbsp;Users should exercise caution when opening dangerous links and at ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

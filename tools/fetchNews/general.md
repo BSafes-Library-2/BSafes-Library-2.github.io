@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bolt-On vs Baked-In Cybersecurity<a href="https://www.lawfareblog.com/bolt-vs-baked-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Real cybersecurity involves trade-offs in functional requirements.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manual vs. SSPM: Research on What Streamlines SaaS Security Detection &amp; Remediation<a href="https://thehackernews.com/2022/06/manual-vs-sspm-research-on-what.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When it comes to keeping SaaS stacks secure, IT and security teams need to be able to streamline the detection and remediation of misconfigurations in order to best protect their SaaS stack from threats. However, while companies adopt more and more apps, their increase in SaaS security tools and staff has lagged behind, as found in the&nbsp; 2022 SaaS Security Survey Report.&nbsp;  The survey report, completed by Adaptive Shield in conjunction with Cloud Security Alliance (CSA), dives into how CISOs today are managing the growing SaaS app attack surface and the steps they are taking to secure their organizations.&nbsp;  The report finds that at least 43% of organizations have experienced a security incident as a result of a SaaS misconfiguration; however, with another 20% being "unsure," the real number could be&nbsp; as high as 63% . These numbers are particularly striking when compared to the 17% of organizations experiencing security incidents due to an IaaS misconfiguration.&nbsp;  Bearing this
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Your email is a major source of security risks and it's getting worse<a href="https://www.zdnet.com/article/your-email-is-a-major-source-of-security-risks-and-its-getting-worse/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware delivered to email accounts rose 196% in 2021 year-on-year, according to Trend Micro, which warns that email remains a major avenue for criminals looking to deliver malware and phish account credentials.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google TAG argues surveillance firm RCS Labs was helped by ISPs to infect mobile users<a href="https://securityaffairs.co/wordpress/132553/malware/rcs-labs-spyware-spreads.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) revealed that the Italian spyware vendor RCS Labs was supported by ISPs to spy on users.
+
+
+
+Researchers from Google's Threat Analysis Group (TAG) revealed that the Italian surveillance firm RCS Labs was helped by some...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

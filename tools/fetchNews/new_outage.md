@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+June 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fast Shop Suffers Downtime Following Unauthorized Access to Company Systems<a href="https://newsbulletin247.com/economy/121032.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Electronics retailer Fast Shop suffered a hacker attack this Wednesday (June 22). Both the website and the app went offline, but the company said services have now been restored.
+</details>
+<div style="text-align: right" markdown="1">
+newsbulletin247
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

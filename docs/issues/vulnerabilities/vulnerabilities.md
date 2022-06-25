@@ -8,6 +8,70 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors continue to exploit Log4Shell in VMware Horizon Systems<a href="https://securityaffairs.co/wordpress/132569/security/log4shell-ongoing-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA and the Coast Guard Cyber Command (CGCYBER) warn of attacks exploiting the Log4Shell flaw in VMware Horizon servers.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA), along with the Coast Guard Cyber Command (CGCYBER),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in the Jacuzzi SmartTub app could allow to access users’ data<a href="https://securityaffairs.co/wordpress/132559/hacking/jacuzzi-smarttub-app-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered multiple vulnerabilities in Jacuzzi SmartTub app web interface that can expose private data.
+
+
+
+Multiple vulnerabilities in Jacuzzi SmartTub app web interface could have disclosed private data to attackers, security researcher...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Say Oracle Took 6 Months to Patch Critical Vulnerability Affecting Many Systems<a href="https://www.securityweek.com/researchers-it-took-oracle-6-months-patch-mega-vulnerability-affecting-many-systems?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022–21445 (CVSS score of 9.8), the vulnerability is described as a deserialization of untrusted data, which could be exploited to achieve arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4Shell Still Being Exploited to Hack VMWare Servers to Exfiltrate Sensitive Data<a href="https://thehackernews.com/2022/06/log4shell-still-being-exploited-to-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA), along with the Coast Guard Cyber Command (CGCYBER), on Thursday released a joint advisory warning of continued attempts on the part of threat actors to exploit the Log4Shell flaw in VMware Horizon servers to breach target networks.  "Since December 2021, multiple threat actor groups have exploited Log4Shell on unpatched, public-facing VMware Horizon and [Unified Access Gateway] servers," the agencies&nbsp; said . "As part of this exploitation, suspected APT actors implanted loader malware on compromised systems with embedded executables enabling remote command-and-control (C2)."  In one instance, the adversary is said to have been able to move laterally inside the victim network, obtain access to a disaster recovery network, and collect and exfiltrate sensitive law enforcement data.   Log4Shell , tracked as&nbsp; CVE-2021-44228 &nbsp;(CVSS score: 10.0), is a remote code execution vulnerability affecting the Apache
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+June 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CafePress fined $500,000 for breach affecting 23 million users<a href="https://www.bleepingcomputer.com/news/security/cafepress-fined-500-000-for-breach-affecting-23-million-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission (FTC) today ordered&nbsp;Residual Pumpkin Entity, the former owner of the CafePress&nbsp;t-shirt and merchandise site,&nbsp;to pay a $500,000 fine for attempting to cover up a major data breach impacting more than 23 million customers and failing to protect their data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patients at Indiana University Health Affected by Third-party Breach<a href="https://www.heraldbulletin.com/news/iu-health-has-sensitive-data-breach/article_a0e6b638-f357-11ec-a9ce-7f6d3a931aaf.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unauthorized party accessed patients’ personal information at IU Health's vendor MCG Health, including names, medical codes, postal addresses, telephone numbers, email addresses, dates of birth, and Social Security numbers.
+</details>
+<div style="text-align: right" markdown="1">
+The Herald Bulletin
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
