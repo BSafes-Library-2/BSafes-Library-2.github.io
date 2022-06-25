@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2022
+June 24, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - June 24th 2022 - Splinter Cells<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-24th-2022-splinter-cells/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2022
+June 24, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber security threats are biggest risk to India's national security: NCSC<a href="https://www.thehindu.com/incoming/cyber-security-threats-are-biggest-risk-to-national-security-ncsc/article65558692.ece?homepage=true&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2022
+June 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors continue to exploit Log4Shell in VMware Horizon Systems<a href="https://securityaffairs.co/wordpress/132569/security/log4shell-ongoing-exploitation.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2022
+June 24, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mitel zero-day used by hackers in suspected ransomware attack<a href="https://www.bleepingcomputer.com/news/security/mitel-zero-day-used-by-hackers-in-suspected-ransomware-attack/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2022
+June 24, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Attacks Using Microsoft’s Cloud CDN Service AFD<a href="https://cyware.com/news/phishing-attacks-using-microsofts-cloud-cdn-service-afd-a4d0c9d9"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2022
+June 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities in the Jacuzzi SmartTub app could allow to access users’ data<a href="https://securityaffairs.co/wordpress/132559/hacking/jacuzzi-smarttub-app-flaws.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2022
+June 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CafePress fined $500,000 for breach affecting 23 million users<a href="https://www.bleepingcomputer.com/news/security/cafepress-fined-500-000-for-breach-affecting-23-million-users/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2022
+June 24, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Alert: LNK-based Malware Distribution is on the Rise<a href="https://cyware.com/news/phishing-alert-lnk-based-malware-distribution-is-on-the-rise-51c7958a"> Full Text</a>
@@ -202,7 +202,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2022
+June 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Backdoored Python Libraries Caught Stealing AWS Secrets and Keys<a href="https://thehackernews.com/2022/06/multiple-backdoored-python-libraries.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2022
+June 24, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google TAG argues surveillance firm RCS Labs was helped by ISPs to infect mobile users<a href="https://securityaffairs.co/wordpress/132553/malware/rcs-labs-spyware-spreads.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2022
+June 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fast Shop Brazilian retailer discloses "extortion" cyberattack<a href="https://www.bleepingcomputer.com/news/security/fast-shop-brazilian-retailer-discloses-extortion-cyberattack/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2022
+June 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The price of stolen info: Everything on sale on the dark web<a href="https://www.helpnetsecurity.com/2022/06/22/stolen-info-sale-dark-web/?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2022
+June 24, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware finally shuts down data leak, negotiation sites<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-finally-shuts-down-data-leak-negotiation-sites/"> Full Text</a>
@@ -302,7 +302,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2022
+June 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Say Oracle Took 6 Months to Patch Critical Vulnerability Affecting Many Systems<a href="https://www.securityweek.com/researchers-it-took-oracle-6-months-patch-mega-vulnerability-affecting-many-systems?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2022
+June 24, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Businesses risk ‘catastrophic financial loss’ from cyberattacks, US watchdog warns<a href="https://www.theverge.com/2022/6/23/23180115/gao-infrastructure-catastrophic-financial-loss-cyberattacks-insurance?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ The Verge
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2022
+June 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patients at Indiana University Health Affected by Third-party Breach<a href="https://www.heraldbulletin.com/news/iu-health-has-sensitive-data-breach/article_a0e6b638-f357-11ec-a9ce-7f6d3a931aaf.html?&web_view=true"> Full Text</a>
@@ -350,7 +350,7 @@ The Herald Bulletin
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2022
+June 24, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fast Shop Suffers Downtime Following Unauthorized Access to Company Systems<a href="https://newsbulletin247.com/economy/121032.html?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ newsbulletin247
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2022
+June 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'Quantum' Builder Lets Attackers Easily Create Malicious Windows Shortcuts<a href="https://thehackernews.com/2022/06/new-quantum-builder-lets-attackers.html"> Full Text</a>
@@ -382,7 +382,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2022
+June 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Log4Shell Still Being Exploited to Hack VMWare Servers to Exfiltrate Sensitive Data<a href="https://thehackernews.com/2022/06/log4shell-still-being-exploited-to-hack.html"> Full Text</a>
