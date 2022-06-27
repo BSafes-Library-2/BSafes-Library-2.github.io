@@ -8,6 +8,24 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle spent 6 months to fix ‘Mega’ flaws in the Fusion Middleware<a href="https://securityaffairs.co/wordpress/132603/breaking-news/oracle-mega-flaw-cve-202221445.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclose technical details of a critical flaw in Fusion Middleware, tracked as CVE-2022–21445, that Oracle took six months to patch.
+
+
+
+Security researchers have published technical details of a critical Fusion Middleware vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

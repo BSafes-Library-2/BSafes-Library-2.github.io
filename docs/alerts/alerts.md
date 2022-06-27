@@ -19,6 +19,18 @@ The Cybersecurity and Infrastructure Security Agency (CISA) and United States Co
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2022 - FTC
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spot extortion scams on LGBTQ+ dating apps <a href="https://consumer.ftc.gov/consumer-alerts/2022/06/spot-extortion-scams-lgbtq-dating-apps"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s Pride Month and maybe you’re trying to meet someone on an LGBTQ+ dating app. The FTC is hearing about scams targeting people on LGBTQ+ dating apps, like Grindr and Feeld. And they aren’t your typical I-love-you, please-send-money romance scams. They’re extortion scams.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 22, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

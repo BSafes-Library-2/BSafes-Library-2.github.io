@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Learn NIST Inside Out With 21 Hours of Training @ 86% OFF<a href="https://thehackernews.com/2022/06/learn-nist-inside-out-with-21-hours-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In cybersecurity, many of the best jobs involve working on government projects. To get a security clearance, you need to prove that you meet&nbsp; NIST standards . Cybersecurity firms are particularly interested in people who understand the RMF, or Risk Management Framework — a U.S. government guideline for taking care of data.  The NIST Cybersecurity &amp; Risk Management Frameworks Course &nbsp;helps you understand this topic, with over 21 hours of video instruction. The training is worth a total of $295, but readers of The Hacker News can&nbsp; get the course today for only $39 .  Special Offer &nbsp;— Normally priced at $295, this Risk Management Framework course is&nbsp; now only $39 for a limited time , with lifetime access included. That's a massive 86% discount!   Designed by the United States Government, the Risk Management Framework provides a complete guide to securing sensitive data. It also ensures that cybersecurity professionals comply with the various laws, directives, executive orders, and re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

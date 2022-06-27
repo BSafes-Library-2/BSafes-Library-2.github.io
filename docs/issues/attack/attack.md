@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+June 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked actors may be behind an explosion at a liquefied natural gas plant in Texas<a href="https://securityaffairs.co/wordpress/132608/security/liquefied-natural-gas-plant-texas-explosion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian threat actors may be behind the explosion at a liquefied natural gas plant in Texas, the incident took place on June 8.
+
+
+
+A Russian hacking group may be responsible for a cyber attack against a liquefied natural gas plant in Texas that led to its explosion...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automotive fabric supplier TB Kawashima announces cyberattack<a href="https://www.bleepingcomputer.com/news/security/automotive-fabric-supplier-tb-kawashima-announces-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TB Kawashima, part of the Japanese automotive component manufacturer Toyota Boshoku of the Toyota Group of companies, announced that one of its subsidiaries has been hit by a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

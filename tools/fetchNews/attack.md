@@ -11,6 +11,20 @@ nav_order: 900015
 June 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Mitel VoIP Zero-Day in Likely Ransomware Attack<a href="https://thehackernews.com/2022/06/hackers-exploit-mitel-voip-zero-day-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected ransomware intrusion against an unnamed target leveraged a Mitel VoIP appliance as an entry point to achieve remote code execution and gain initial access to the environment.  The&nbsp; findings &nbsp;come from cybersecurity firm CrowdStrike, which traced the source of the attack to a Linux-based Mitel VoIP device sitting on the network perimeter, while also identifying a previously unknown exploit as well as a couple of anti-forensic measures adopted by the actor on the device to erase traces of their actions.  The exploit in question is tracked as&nbsp; CVE-2022-29499 &nbsp;and was fixed by Mitel in April 2022. It's rated 9.8 out of 10 for severity on the CVSS vulnerability scoring system, making it a critical shortcoming.   "A vulnerability has been identified in the Mitel Service Appliance component of MiVoice Connect (Mitel Service Appliances – SA 100, SA 400, and Virtual SA) which could allow a malicious actor to perform remote code execution (CVE-2022-29499) within the context
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Fast Shop Brazilian retailer discloses "extortion" cyberattack<a href="https://www.bleepingcomputer.com/news/security/fast-shop-brazilian-retailer-discloses-extortion-cyberattack/"> Full Text</a>
 </p>
 <details>

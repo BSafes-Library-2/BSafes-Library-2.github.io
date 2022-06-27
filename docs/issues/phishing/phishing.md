@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake copyright infringement emails install LockBit ransomware<a href="https://www.bleepingcomputer.com/news/security/fake-copyright-infringement-emails-install-lockbit-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware affiliates are using an interesting trick to get people into infecting their devices by disguising their malware as copyright claims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clever phishing method bypasses MFA using Microsoft WebView2 apps<a href="https://www.bleepingcomputer.com/news/security/clever-phishing-method-bypasses-mfa-using-microsoft-webview2-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A clever, new phishing technique uses Microsoft Edge WebView2 applications to steal victim's authentication cookies, allowing threat actors to bypass multi-factor authentication when logging into stolen accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spyware Targets Android and iOS Users in Italy and Kazakhstan<a href="https://cyware.com/news/spyware-targets-android-and-ios-users-in-italy-and-kazakhstan-6c79f1be"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s TAG reported that RCS Labs, an Italian surveillance firm, was aided by ISPs in Kazakhstan and Italy to compromise iOS and Android users with the Hermit spyware.  The attackers provided a page in Italian language to download either Messenger, Instagram, or WhatsApp.&nbsp;For  the iOS versio ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google details commercial spyware that targets both Android and iOS devices<a href="https://www.zdnet.com/article/google-details-commercial-spyware-that-targets-both-android-and-ios-devices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Google Threat Analysis Group (TAG) researchers Benoit Sevens and Clement Lecigne, as well as Project Zero, a distinct government and enterprise-grade iOS and Android spyware variant is now in active circulation.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

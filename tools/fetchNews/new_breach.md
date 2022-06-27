@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+June 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers exploited a zero-day in Mitel VOIP devices to compromise a network<a href="https://securityaffairs.co/wordpress/132588/hacking/mitel-voip-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn threat actors have exploited a zero-day vulnerability in a Mitel VoIP appliance in a ransomware attack.
+
+
+
+CrowdStrike researchers recently investigated the compromise of a Mitel VOIP appliance as an entry point in a ransomware attack against...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

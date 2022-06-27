@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2022
+June 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LGBTQ+ community warned of extortionists abusing dating apps<a href="https://www.bleepingcomputer.com/news/security/lgbtq-plus-community-warned-of-extortionists-abusing-dating-apps/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2022
+June 26, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spyware Targets Android and iOS Users in Italy and Kazakhstan<a href="https://cyware.com/news/spyware-targets-android-and-ios-users-in-italy-and-kazakhstan-6c79f1be"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2022
+June 26, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors sell access to tens of vulnerable networks compromised by exploiting Atlassian 0day<a href="https://securityaffairs.co/wordpress/132637/cyber-crime/access-vulnerable-networks-atlassian-0day.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2022
+June 26, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake copyright infringement emails install LockBit ransomware<a href="https://www.bleepingcomputer.com/news/security/fake-copyright-infringement-emails-install-lockbit-ransomware/"> Full Text</a>
@@ -102,7 +102,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2022
+June 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CopperStealer Malware is Spreading Through Fake Cracks<a href="https://cyware.com/news/copperstealer-malware-is-spreading-through-fake-cracks-13c88a3f"> Full Text</a>
@@ -118,7 +118,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2022
+June 26, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 371 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/132633/breaking-news/security-affairs-newsletter-round-371-by-pierluigi-paganini.html"> Full Text</a>
@@ -146,7 +146,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2022
+June 26, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clever phishing method bypasses MFA using Microsoft WebView2 apps<a href="https://www.bleepingcomputer.com/news/security/clever-phishing-method-bypasses-mfa-using-microsoft-webview2-apps/"> Full Text</a>
@@ -162,7 +162,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2022
+June 26, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT Bronze Starlight deploys ransomware as a smokescreen<a href="https://securityaffairs.co/wordpress/132624/apt/bronze-starlight-deploy-ransomware.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2022
+June 26, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NetSec Goggle shows search results only from cybersecurity sites<a href="https://www.bleepingcomputer.com/news/security/netsec-goggle-shows-search-results-only-from-cybersecurity-sites/"> Full Text</a>
@@ -198,7 +198,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2022
+June 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked actors may be behind an explosion at a liquefied natural gas plant in Texas<a href="https://securityaffairs.co/wordpress/132608/security/liquefied-natural-gas-plant-texas-explosion.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2022
+June 25, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Learn NIST Inside Out With 21 Hours of Training @ 86% OFF<a href="https://thehackernews.com/2022/06/learn-nist-inside-out-with-21-hours-of.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2022
+June 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Activities of RIG Exploit Kit Observed<a href="https://cyware.com/news/new-activities-of-rig-exploit-kit-observed-4e18e312"> Full Text</a>
@@ -250,7 +250,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2022
+June 25, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Based Tropic Trooper Adopts New Malware Variants and Custom Encryption to Target Victims<a href="https://cyware.com/news/china-based-tropic-trooper-adopts-new-malware-variants-and-custom-encryption-to-target-victims-1fb5ec86"> Full Text</a>
@@ -266,7 +266,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2022
+June 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPi python packages caught sending stolen AWS keys to unsecured sites<a href="https://www.bleepingcomputer.com/news/security/pypi-python-packages-caught-sending-stolen-aws-keys-to-unsecured-sites/"> Full Text</a>
@@ -282,7 +282,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2022
+June 25, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google details commercial spyware that targets both Android and iOS devices<a href="https://www.zdnet.com/article/google-details-commercial-spyware-that-targets-both-android-and-ios-devices/?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2022
+June 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oracle spent 6 months to fix ‘Mega’ flaws in the Fusion Middleware<a href="https://securityaffairs.co/wordpress/132603/breaking-news/oracle-mega-flaw-cve-202221445.html"> Full Text</a>
@@ -318,7 +318,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2022
+June 25, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Automotive fabric supplier TB Kawashima announces cyberattack<a href="https://www.bleepingcomputer.com/news/security/automotive-fabric-supplier-tb-kawashima-announces-cyberattack/"> Full Text</a>
@@ -334,7 +334,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2022
+June 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This new malware diverts cryptocurrency payments to attacker-controlled wallets<a href="https://www.techrepublic.com/article/keona-clipper-malware/?&web_view=true"> Full Text</a>
@@ -350,7 +350,7 @@ Tech Republic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2022
+June 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple malicious packages in PyPI repository found stealing AWS secrets<a href="https://securityaffairs.co/wordpress/132598/hacking/pypi-malicious-packages-2.html"> Full Text</a>
@@ -370,7 +370,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2022
+June 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers exploited a zero-day in Mitel VOIP devices to compromise a network<a href="https://securityaffairs.co/wordpress/132588/hacking/mitel-voip-ransomware-attack.html"> Full Text</a>
