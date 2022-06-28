@@ -8,6 +8,38 @@ nav_order: 900140
 
 ## Outage
 ---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Forces Iran Steel Company to Halt Production<a href="https://www.securityweek.com/cyberattack-forces-iran-steel-company-halt-production?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CEO of Khuzestan Steel Company claimed that Khuzestan Steel managed to thwart the cyberattack and prevent structural damage to production lines that would impact supply chains and customers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack halted the production at the Iranian state-owned&nbsp;Khuzestan Steel company<a href="https://securityaffairs.co/wordpress/132658/cyber-warfare-2/iran-khuzestan-steel-company-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian state-owned&nbsp;Khuzestan Steel Company&nbsp;was hit by a cyber attack that forced the company to halt its production.
+
+
+
+The Khuzestan Steel Company is one of the major steel companies owned by the Iranian government. The company was forced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

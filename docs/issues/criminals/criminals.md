@@ -8,6 +8,54 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, Brazil seize 272 websites used to illegally download music<a href="https://www.bleepingcomputer.com/news/security/us-brazil-seize-272-websites-used-to-illegally-download-music/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The domains of six websites that streamed and provided illegal downloads of copyrighted music were seized by U.S. Homeland Security Investigations (HSI) and the Department of Justice.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole $100M in crypto assets from Harmony<a href="https://securityaffairs.co/wordpress/132642/hacking/harmony-crypto-assets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have stolen $100 million in cryptocurrency from the Blockchain company Harmony on Thursday evening. 
+
+
+
+Last week threat actors have stolen $100 million in cryptocurrency from the Blockchain company Harmony. 
+
+
+
+
+https://twitter.com/vxunderground/status/1540160287009038337
+
+
+
+
+
+https://twitter.com/peckshield/status/1540215805366964224
+
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,46 @@ nav_order: 900072
 
 ## General
 ---
+June 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 371 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/132633/breaking-news/security-affairs-newsletter-round-371-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here.
+
+
+
+
+
+
+
+Oracle...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NetSec Goggle shows search results only from cybersecurity sites<a href="https://www.bleepingcomputer.com/news/security/netsec-goggle-shows-search-results-only-from-cybersecurity-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Brave Search Goggle modifies Brave Search results to only show reputable cybersecurity sites, making it easier to search for and find security information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

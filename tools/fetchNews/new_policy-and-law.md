@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy Data Protection Authority Warns Websites Against Use of Google Analytics<a href="https://thehackernews.com/2022/06/italy-data-protection-authority-warns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following the footsteps of&nbsp; Austria &nbsp;and&nbsp; France , the Italian Data Protection Authority has become the latest regulator to find the use of Google Analytics to be non-compliant with E.U. data protection regulations.  The Garante per la Protezione dei Dati Personali, in a press release&nbsp; published &nbsp;last week, called out a local web publisher for using the widely used analytics tool in a manner that allowed key bits of users' personal data to be illegally transferred to the U.S. without necessary safeguards.  This includes interactions of users with the websites, the individual pages visited, IP addresses of the devices used to access the websites, browser specifics, details related to the device's operating system, screen resolution, and the selected language, as well as the date and time of the visits.   The Italian supervisory authority (SA) said that it arrived at this conclusion following a "complex fact-finding exercise" it commenced in collaboration with other E.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

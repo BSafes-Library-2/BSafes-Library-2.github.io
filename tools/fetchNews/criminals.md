@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors sell access to tens of vulnerable networks compromised by exploiting Atlassian 0day<a href="https://securityaffairs.co/wordpress/132637/cyber-crime/access-vulnerable-networks-atlassian-0day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor is selling access to 50 vulnerable networks that have been compromised exploiting the recently disclosed Atlassian Confluence zero-day.
+
+
+
+A threat actor is selling access to 50 vulnerable networks that have been compromised by exploiting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

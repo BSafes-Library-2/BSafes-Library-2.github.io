@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Based Tropic Trooper Adopts New Malware Variants and Custom Encryption to Target Victims<a href="https://cyware.com/news/china-based-tropic-trooper-adopts-new-malware-variants-and-custom-encryption-to-target-victims-1fb5ec86"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The trojan is bundled in a greyware tool named SMS Bomber, which is used for DoS attacks against phones. Such types of tools are generally used by amateur threat actors who want to carry out attacks against sites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,410 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Skimming](/docs/issues/skimming/skimming/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bank of the West found debit card-stealing skimmers on ATMs<a href="https://www.bleepingcomputer.com/news/security/bank-of-the-west-found-debit-card-stealing-skimmers-on-atms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Bank of the West is warning customers that their debit card numbers and PINs have been stolen by skimmers installed on several of the bank's ATMs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Strengthen Cybersecurity Defense Against Ransomware | CSA<a href="https://cloudsecurityalliance.org/articles/organizations-strengthen-their-cybersecurity-defense-against-ransomware-and-cyber-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware dominated the news cycle in 2021, with a plethora of headline-grabbing attacks targeting industries from government to retail. The latest IDC report revealed staggering 37% of global organizations were the victim of a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cloud Security Alliance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Experts Warn of Emerging Threat of "Black Basta" Ransomware<a href="https://thehackernews.com/2022/06/cybersecurity-experts-warn-of-emerging.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Basta ransomware-as-a-service (RaaS) syndicate has amassed nearly 50 victims in the U.S., Canada, the U.K., Australia, and New Zealand within two months of its emergence in the wild, making it a prominent threat in a short window.  "Black Basta has been observed targeting a range of industries, including manufacturing, construction, transportation, telcos, pharmaceuticals, cosmetics, plumbing and heating, automobile dealers, undergarments manufacturers, and more," Cybereason  said  in a report.  Similar to other ransomware operations, Black Basta is known to employ the tried-and-tested tactic of double extortion to plunder sensitive information from the targets and threaten to publish the stolen data unless a digital payment is made.  A new entrant in the already crowded ransomware landscape, intrusions involving the threat have  leveraged QBot  (aka  Qakbot ) as a conduit to maintain persistence on the compromised hosts and harvest credentials, before moving later
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Strategic Relevance of Cybersecurity Skills<a href="https://www.lawfareblog.com/strategic-relevance-cybersecurity-skills"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lack of cybersecurity experts is an issue of strategic relevance as it undermines countries’ economic development and national security. Starting to consider the cyber skills shortage as a strategic public policy challenge should help stakeholders allocate the right resources when they plan to enhance the cyber resilience of their countries and organizations through a comprehensive skills strategy.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The government of Lithuania confirmed it had been hit by an intense cyberattack<a href="https://securityaffairs.co/wordpress/132676/cyber-warfare-2/lithuania-massive-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lithuania confirmed it had been hit by an "intense" cyberattack, after Vilnius imposed restrictions on the rail transit of certain goods to Kaliningrad.
+
+
+
+The government of Lithuania announced on Monday that it had been hit by an "intense" cyberattack,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android malware ‘Revive’ impersonates BBVA bank’s 2FA app<a href="https://www.bleepingcomputer.com/news/security/android-malware-revive-impersonates-bbva-bank-s-2fa-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android banking malware named Revive has been discovered that impersonates a 2FA application required to log into BBVA bank accounts in Spain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Forces Iran Steel Company to Halt Production<a href="https://www.securityweek.com/cyberattack-forces-iran-steel-company-halt-production?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CEO of Khuzestan Steel Company claimed that Khuzestan Steel managed to thwart the cyberattack and prevent structural damage to production lines that would impact supply chains and customers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Flaws Identified in CODESYS ICS Automation Software<a href="https://thehackernews.com/2022/06/critical-security-flaws-identified-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CODESYS has released patches to address as many as 11 security flaws that, if successfully exploited, could result in information disclosure and a denial-of-service (DoS) condition, among others.   "These vulnerabilities are simple to exploit, and they can be successfully exploited to cause consequences such as sensitive information leakage, PLCs entering a severe fault state, and arbitrary code execution," Chinese cybersecurity firm NSFOCUS  said . "In combination with industrial scenarios on the field, these vulnerabilities could expose industrial production to stagnation, equipment damage, etc."   CODESYS is a  software   suite  used by automation specialists as a development environment for programmable logic controller applications ( PLCs ).  Following responsible disclosure between September 2021 and January 2022, fixes were  shipped  by the German software company last week on June 23, 2022. Two of the bugs are rated as Critical, seven as High, and two as Me
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Matanbuchus Campaign drops Cobalt Strike beacons<a href="https://securityaffairs.co/wordpress/132665/malware/matanbuchus-loader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Matanbuchus malware-as-a-service (Maas) has been observed spreading through phishing campaigns, dropping Cobalt Strike beacons. 
+
+
+
+Threat intelligence firm Cyble has observed a malware-as-a-service (Maas), named Matanbuchus, involved in malspam...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, Brazil seize 272 websites used to illegally download music<a href="https://www.bleepingcomputer.com/news/security/us-brazil-seize-272-websites-used-to-illegally-download-music/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The domains of six websites that streamed and provided illegal downloads of copyrighted music were seized by U.S. Homeland Security Investigations (HSI) and the Department of Justice.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese worker loses city's personal data in USB fail<a href="https://www.theregister.co.uk/2022/06/27/security_in_brief/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Japanese contractor working in the city of Amagasaki, near Osaka, reportedly mislaid a USB drive containing personal data, including banking data, on the metropolis's 460,000 residents.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Are Shadow IDs, and How Are They Crucial in 2022?<a href="https://thehackernews.com/2022/06/what-are-shadow-ids-and-how-are-they.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Just before last Christmas, in a first-of-a-kind case, JPMorgan was fined $200M for employees using non-sanctioned applications for communicating about financial strategy. No mention of insider trading, naked shorting, or any malevolence. Just employees circumventing regulation using, well, Shadow IT. Not because they tried to obfuscate or hide anything, simply because it was a convenient tool that they preferred over any other sanctioned products (which JPMorgan certainly has quite a few of.)   Visibility into unknown and unsanctioned applications has been required by regulators and also recommended by the Center for Internet Security community for a long time. Yet it seems like new and better approaches are still in demand. Gartner has identified External Attack Surface Management, Digital Supply Chain Risk, and Identity Threat Detection as the top three trends to focus on in 2022, all of which are closely intertwined with Shadow IT.  "Shadow IDs," or in other words, unman
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack halted the production at the Iranian state-owned Khuzestan Steel company<a href="https://securityaffairs.co/wordpress/132658/cyber-warfare-2/iran-khuzestan-steel-company-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian state-owned Khuzestan Steel Company was hit by a cyber attack that forced the company to halt its production.
+
+
+
+The Khuzestan Steel Company is one of the major steel companies owned by the Iranian government. The company was forced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society claims ransomware attack on Med. University of Innsbruck<a href="https://www.bleepingcomputer.com/news/security/vice-society-claims-ransomware-attack-on-med-university-of-innsbruck/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society ransomware gang has claimed responsibility for last week's cyberattack against the Medical University of Innsbruck, which caused severe IT service disruption and the alleged theft of data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 years after NotPetya: Lessons learned<a href="https://www.csoonline.com/article/3664930/5-years-after-notpetya-lessons-learned.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although some experts consider NotPetya a variant of Petya, the two are generally regarded as separate and distinct. NotPetya is far more contagious than Petya, seemingly with no way to stop it from quickly spreading from one host to another.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy Data Protection Authority Warns Websites Against Use of Google Analytics<a href="https://thehackernews.com/2022/06/italy-data-protection-authority-warns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following the footsteps of  Austria  and  France , the Italian Data Protection Authority has become the latest regulator to find the use of Google Analytics to be non-compliant with E.U. data protection regulations.  The Garante per la Protezione dei Dati Personali, in a press release  published  last week, called out a local web publisher for using the widely used analytics tool in a manner that allowed key bits of users' personal data to be illegally transferred to the U.S. without necessary safeguards.  This includes interactions of users with the websites, the individual pages visited, IP addresses of the devices used to access the websites, browser specifics, details related to the device's operating system, screen resolution, and the selected language, as well as the date and time of the visits.   The Italian supervisory authority (SA) said that it arrived at this conclusion following a "complex fact-finding exercise" it commenced in collaboration with other E.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian telecommunications operators hit by DarkCrystal RAT malware<a href="https://securityaffairs.co/wordpress/132651/malware/cert-ua-darkcrystal-rat-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian CERT-UA warns of attacks against Ukrainian telecommunications operators involving the DarkCrystal RAT.
+
+
+
+The Governmental Computer Emergency Response Team of Ukraine (CERT-UA) is warning of a malware campaign targeting Ukrainian telecommunications...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange bug abused to hack building automation systems<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-bug-abused-to-hack-building-automation-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking threat actor has hacked into the building automation systems (used to control HVAC, fire, and security functions) of several Asian organizations to backdoor their networks and gain access to more secured areas in their networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Stole $100M in Crypto Assets From Harmony<a href="https://securityaffairs.co/wordpress/132642/hacking/harmony-crypto-assets.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Harmony pointed out that the consensus layer of the Harmony blockchain remains secure. No steps have currently been taken by the hacker to anonymize ownership of these assets.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of 'Matanbuchus' Malware Campaign Dropping Cobalt Strike Beacons<a href="https://thehackernews.com/2022/06/researchers-warn-of-matanbuchus-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware-as-a-service (Maas) dubbed  Matanbuchus  has been observed spreading through phishing campaigns, ultimately dropping the Cobalt Strike post-exploitation framework on compromised machines.  Matanbuchus, like other  malware loaders  such as  BazarLoader ,  Bumblebee , and  Colibri , is engineered to download and execute second-stage executables from command-and-control (C&C) servers on infected systems without detection.  Available on Russian-speaking cybercrime forums for a price of $2,500 since February 2021, the malware is equipped with capabilities to launch .EXE and .DLL files in memory and run arbitrary PowerShell commands.   The findings, released by threat intelligence firm Cyble last week, document the latest infection chain associated with the loader, which is linked to a threat actor who goes by the online moniker BelialDemon.  "If we look historically, BelialDemon has been involved in the development of malware loaders," Unit 42 researchers Jeff White
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole $100M in crypto assets from Harmony<a href="https://securityaffairs.co/wordpress/132642/hacking/harmony-crypto-assets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have stolen $100 million in cryptocurrency from the Blockchain company Harmony on Thursday evening. 
+
+
+
+Last week threat actors have stolen $100 million in cryptocurrency from the Blockchain company Harmony. 
+
+
+
+
+https://twitter.com/vxunderground/status/1540160287009038337
+
+
+
+
+
+https://twitter.com/peckshield/status/1540215805366964224
+
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 3.0 introduces the first ransomware bug bounty program<a href="https://www.bleepingcomputer.com/news/security/lockbit-30-introduces-the-first-ransomware-bug-bounty-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware operation has released 'LockBit 3.0,' introducing the first ransomware bug bounty program and leaking new extortion tactics and Zcash cryptocurrency payment options.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Codesys Patches 11 Flaws Likely Affecting Controllers From Several ICS Vendors<a href="https://www.securityweek.com/codesys-patches-11-flaws-likely-affecting-controllers-several-ics-vendors?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Codesys admits that the vulnerabilities can be exploited remotely by an attacker with low skills, but the company says in many cases an attacker requires some form of access to the targeted system.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

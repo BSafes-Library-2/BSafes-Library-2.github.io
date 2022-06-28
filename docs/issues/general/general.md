@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Strengthen Cybersecurity Defense Against Ransomware | CSA<a href="https://cloudsecurityalliance.org/articles/organizations-strengthen-their-cybersecurity-defense-against-ransomware-and-cyber-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware dominated the news cycle in 2021, with a plethora of headline-grabbing attacks targeting industries from government to retail. The latest IDC report revealed staggering 37% of global organizations were the victim of a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cloud Security Alliance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Strategic Relevance of Cybersecurity Skills<a href="https://www.lawfareblog.com/strategic-relevance-cybersecurity-skills"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lack of cybersecurity experts is an issue of strategic relevance as it undermines countries’ economic development and national security. Starting to consider the cyber skills shortage as a strategic public policy challenge should help stakeholders allocate the right resources when they plan to enhance the cyber resilience of their countries and organizations through a comprehensive skills strategy.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Are Shadow IDs, and How Are They Crucial in 2022?<a href="https://thehackernews.com/2022/06/what-are-shadow-ids-and-how-are-they.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Just before last Christmas, in a first-of-a-kind case, JPMorgan was fined $200M for employees using non-sanctioned applications for communicating about financial strategy. No mention of insider trading, naked shorting, or any malevolence. Just employees circumventing regulation using, well, Shadow IT. Not because they tried to obfuscate or hide anything, simply because it was a convenient tool that they preferred over any other sanctioned products (which JPMorgan certainly has quite a few of.)&nbsp;  Visibility into unknown and unsanctioned applications has been required by regulators and also recommended by the Center for Internet Security community for a long time. Yet it seems like new and better approaches are still in demand. Gartner has identified External Attack Surface Management, Digital Supply Chain Risk, and Identity Threat Detection as the top three trends to focus on in 2022, all of which are closely intertwined with Shadow IT.  "Shadow IDs," or in other words, unman
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 years after NotPetya: Lessons learned<a href="https://www.csoonline.com/article/3664930/5-years-after-notpetya-lessons-learned.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although some experts consider NotPetya a variant of Petya, the two are generally regarded as separate and distinct. NotPetya is far more contagious than Petya, seemingly with no way to stop it from quickly spreading from one host to another.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

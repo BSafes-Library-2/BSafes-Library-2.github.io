@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Experts Warn of Emerging Threat of "Black Basta" Ransomware<a href="https://thehackernews.com/2022/06/cybersecurity-experts-warn-of-emerging.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Basta ransomware-as-a-service (RaaS) syndicate has amassed nearly 50 victims in the U.S., Canada, the U.K., Australia, and New Zealand within two months of its emergence in the wild, making it a prominent threat in a short window.  "Black Basta has been observed targeting a range of industries, including manufacturing, construction, transportation, telcos, pharmaceuticals, cosmetics, plumbing and heating, automobile dealers, undergarments manufacturers, and more," Cybereason&nbsp; said &nbsp;in a report.  Similar to other ransomware operations, Black Basta is known to employ the tried-and-tested tactic of double extortion to plunder sensitive information from the targets and threaten to publish the stolen data unless a digital payment is made.  A new entrant in the already crowded ransomware landscape, intrusions involving the threat have&nbsp; leveraged QBot &nbsp;(aka&nbsp; Qakbot ) as a conduit to maintain persistence on the compromised hosts and harvest credentials, before moving later
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 3.0 introduces the first ransomware bug bounty program<a href="https://www.bleepingcomputer.com/news/security/lockbit-30-introduces-the-first-ransomware-bug-bounty-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware operation has released 'LockBit 3.0,' introducing the first ransomware bug bounty program and leaking new extortion tactics and Zcash cryptocurrency payment options.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
