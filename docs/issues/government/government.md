@@ -8,6 +8,76 @@ nav_order: 900075
 
 ## Government
 ---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House Passes ICS Cybersecurity Training Bill<a href="https://www.securityweek.com/house-passes-ics-cybersecurity-training-bill?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bill aims to provide the IT workforce with free ICS security training. This includes virtual and in-person training and courses that would be available at different skill levels to help participants develop and strengthen their skills.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command urges private sector to share intelligence, aid defensive digital operations<a href="https://www.cyberscoop.com/cyber-command-intel-private-industry/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Cyber Command wants more private companies to share more cybersecurity intelligence so that the organization can improve its defensive capabilities, Cyber Command Executive Director Dave Frederick said in an interview Monday.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Releases New macOS Security Guidance for Organizations<a href="https://www.securityweek.com/nist-releases-new-macos-security-guidance-organizations?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guidance is derived from the macOS Security Compliance Project (mSCP), an open source effort aimed at creating customized security baselines to meet the cybersecurity needs of various organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Stolen PII and deepfakes used to apply for remote tech jobs<a href="https://www.bleepingcomputer.com/news/security/fbi-stolen-pii-and-deepfakes-used-to-apply-for-remote-tech-jobs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warns of an increase in complaints that cybercriminals are using Americans' stolen Personally Identifiable Information (PII) and deepfakes to apply for remote work positions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Takes Action Against CafePress Over Massive Data Breach, Cover-Up<a href="https://www.securityweek.com/ftc-takes-action-against-cafepress-over-massive-data-breach-cover?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FTC on Friday announced that it has finalized an order against CafePress, requiring it to improve its security posture following a cybersecurity incident that the company attempted to cover up.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

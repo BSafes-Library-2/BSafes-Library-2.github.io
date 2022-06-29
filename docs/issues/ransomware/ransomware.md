@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 3.0 introduces important novelties, including a bug bounty program<a href="https://securityaffairs.co/wordpress/132701/cyber-crime/lockbit-3-0.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware operators released LockBit 3.0 with important novelties, including a bug bounty program and Zcash payments.
+
+
+
+The Lockbit ransomware operation has released LockBit 3.0, which has important noveòties such as a bug bounty program,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

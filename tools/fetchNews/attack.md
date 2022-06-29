@@ -8,6 +8,56 @@ nav_order: 900015
 
 ## Attack
 ---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The government of Lithuania confirmed it had been hit by an intense cyberattack<a href="https://securityaffairs.co/wordpress/132676/cyber-warfare-2/lithuania-massive-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lithuania confirmed it had been hit by an "intense" cyberattack, after Vilnius imposed restrictions on the rail transit of certain goods to Kaliningrad.
+
+
+
+The government of Lithuania announced on Monday that it had been hit by an "intense" cyberattack,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Matanbuchus Campaign drops Cobalt Strike beacons<a href="https://securityaffairs.co/wordpress/132665/malware/matanbuchus-loader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Matanbuchus&nbsp;malware-as-a-service (Maas) has been observed spreading through phishing campaigns, dropping Cobalt Strike beacons. 
+
+
+
+Threat intelligence firm Cyble has observed a malware-as-a-service (Maas), named Matanbuchus, involved in malspam...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society claims ransomware attack on Med. University of Innsbruck<a href="https://www.bleepingcomputer.com/news/security/vice-society-claims-ransomware-attack-on-med-university-of-innsbruck/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society ransomware gang has claimed responsibility for last week's cyberattack against the Medical University of Innsbruck, which caused severe IT service disruption and the alleged theft of data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

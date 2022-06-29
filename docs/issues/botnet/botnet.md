@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scalper Bots Leave the Israeli Government Helpless<a href="https://cyware.com/news/scalper-bots-leave-the-israeli-government-helpless-9275ebad"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scalper bots have gone out of control in Israel by signing up for public service appointments for several government services and then selling them to dissatisfied citizens.&nbsp; The bot's operators attempted to sell appointments for multiple government agencies for over $100.  In order to beat mo ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese worker loses city's personal data in USB fail<a href="https://www.theregister.co.uk/2022/06/27/security_in_brief/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Japanese contractor working in the city of Amagasaki, near Osaka, reportedly mislaid a USB drive containing personal data, including banking data, on the metropolis's 460,000 residents.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

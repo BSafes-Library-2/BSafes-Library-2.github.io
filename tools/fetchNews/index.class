@@ -34,6 +34,454 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evilnum hackers return in new operation targeting migration orgs<a href="https://www.bleepingcomputer.com/news/security/evilnum-hackers-return-in-new-operation-targeting-migration-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Evilnum hacking group is showing renewed signs of malicious activity, targeting European organizations that are involved in international migration.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scalper Bots Leave the Israeli Government Helpless<a href="https://cyware.com/news/scalper-bots-leave-the-israeli-government-helpless-9275ebad"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scalper bots have gone out of control in Israel by signing up for public service appointments for several government services and then selling them to dissatisfied citizens.  The bot's operators attempted to sell appointments for multiple government agencies for over $100.  In order to beat mo ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ZuoRAT Malware Hijacking Home-Office Routers to Spy on Targeted Networks<a href="https://thehackernews.com/2022/06/zuorat-malware-hijacking-home-office.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A never-before-seen remote access trojan dubbed ZuoRAT  has been singling out small office/home office (SOHO) routers as part of a sophisticated campaign targeting North American and European networks.  The malware "grants the actor the ability to pivot into the local network and gain access to additional systems on the LAN by hijacking network communications to maintain an undetected foothold," researchers from Lumen Black Lotus Labs said in a report shared with The Hacker News.  The stealthy operation, which targeted routers from ASUS, Cisco, DrayTek, and NETGEAR, is believed to have commenced in early 2020 during the initial months of the COVID-19 pandemic, effectively remaining under the radar for over two years.  "Consumers and remote employees routinely use SOHO routers, but these devices are rarely monitored or patched, which makes them one of the weakest points of a network's perimeter," the company's threat intelligence team said.   Initial access
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NON-STATE ACTORS IN THE CYBERSPACE: AN ATTEMPT TO A TAXONOMIC CLASSIFICATION, ROLE, IMPACT AND RELATIONS WITH A STATE’S SOCIOECONOMIC STRUCTURE<a href="https://securityaffairs.co/wordpress/132716/hacking/non-state-actors-cyberspace.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This paper provides a taxonomic classification of non-state actors in the cyberspace, analyzing their role and impact on a state’s socioeconomic structure
+
+
+
+Cyber Non-State Actors (CNSA) are key figures in our globalized world: their operations could...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Firefox privacy feature strips URLs of tracking parameters<a href="https://www.bleepingcomputer.com/news/security/new-firefox-privacy-feature-strips-urls-of-tracking-parameters/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla Firefox 102 was released today with a new privacy feature that strips parameters from URLs that are used to track you around the web.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Method Devised to Abuse Microsoft WebView2 and Bypass MFA<a href="https://cyware.com/news/new-attack-method-devised-to-abuse-microsoft-webview2-and-bypass-mfa-0f83692b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing attack could abuse Microsoft Edge WebView2 applications to steal victims’ authentication cookies, using which hackers bypass MFA for logging accounts. The attack includes a WebView2 executable, for which the researcher created a proof-of-concept that opens a genuine Microsoft login f ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Hackers Targeting Industrial Control Systems with ShadowPad Backdoor<a href="https://thehackernews.com/2022/06/apt-hackers-targeting-industrial.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Entities located in Afghanistan, Malaysia, and Pakistan are in the crosshairs of an attack campaign that targets unpatched Microsoft Exchange Servers as an initial access vector to deploy the ShadowPad malware.  Russian cybersecurity firm Kaspersky, which first detected the activity in mid-October 2021,  attributed  it to a previously unknown Chinese-speaking threat actor. Targets include organizations in the telecommunications, manufacturing, and transport sectors.   "During the initial attacks, the group exploited an MS Exchange vulnerability to deploy ShadowPad malware and infiltrated  building automation systems  of one of the victims," the company said. "By taking control over those systems, the attacker can reach other, even more sensitive systems of the attacked organization."  ShadowPad , which emerged in 2015 as the successor to PlugX, is a privately sold modular malware platform that has been put to use by many Chinese espionage actors over the years.   W
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 3.0 introduces important novelties, including a bug bounty program<a href="https://securityaffairs.co/wordpress/132701/cyber-crime/lockbit-3-0.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware operators released LockBit 3.0 with important novelties, including a bug bounty program and Zcash payments.
+
+
+
+The Lockbit ransomware operation has released LockBit 3.0, which has important noveòties such as a bug bounty program,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMD investigates RansomHouse hack claims, theft of 450GB data<a href="https://www.bleepingcomputer.com/news/security/amd-investigates-ransomhouse-hack-claims-theft-of-450gb-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chip manufacturer AMD says they are investigating a cyberattack after threat actors claimed to have stolen 450 GB of data from the company last year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House Passes ICS Cybersecurity Training Bill<a href="https://www.securityweek.com/house-passes-ics-cybersecurity-training-bill?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bill aims to provide the IT workforce with free ICS security training. This includes virtual and in-person training and courses that would be available at different skill levels to help participants develop and strengthen their skills.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Overview of Top Mobile Security Threats in 2022<a href="https://thehackernews.com/2022/06/overview-of-top-mobile-security-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Your smartphone is your daily companion. The chances are that most of our activities rely on them, from ordering food to booking medical appointments. However, the threat landscape always reminds us how vulnerable smartphones can be.   Consider the recent  discovery by Oversecured , a security startup. These experts observed the dynamic code loading and its potential dangers. Why is this a problem? Well, the Google app uses code that does not come integrated with the app itself. Okay, this might sound confusing, but it all works in favor of optimizing certain processes. Thus, Google exploits code libraries pre-installed on Android phones to reduce their download size. In fact, many Android apps use this trick to optimize the storage space needed to run.   As revealed by Oversecured, perpetrators could compromise this retrieval of code from libraries. Instead of Google obtaining code from a reliable source, it could be tricked into taking code from malicious apps operating on the devic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest OpenSSL version is affected by a remote memory corruption flaw<a href="https://securityaffairs.co/wordpress/132697/security/openssl-remote-memory-corruption-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Expert discovered a remote memory-corruption vulnerability affecting the latest version of the OpenSSL library.
+
+
+
+Security expert Guido Vranken discovered a remote memory-corruption vulnerability in the recently released OpenSSL version 3.0.4. The library...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITRE shares this year's list of most dangerous software bugs<a href="https://www.bleepingcomputer.com/news/security/mitre-shares-this-years-list-of-most-dangerous-software-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MITRE shared this year's top 25 most common and dangerous weaknesses impacting software throughout the previous two calendar years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command urges private sector to share intelligence, aid defensive digital operations<a href="https://www.cyberscoop.com/cyber-command-intel-private-industry/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Cyber Command wants more private companies to share more cybersecurity intelligence so that the organization can improve its defensive capabilities, Cyber Command Executive Director Dave Frederick said in an interview Monday.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL to Release Security Patch for Remote Memory Corruption Vulnerability<a href="https://thehackernews.com/2022/06/openssh-to-release-security-patch-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest version of the OpenSSL library has been discovered as susceptible to a remote memory-corruption vulnerability on select systems.  The issue has been identified in OpenSSL  version 3.0.4 , which was released on June 21, 2022, and impacts x64 systems with the  AVX-512  instruction set. OpenSSL 1.1.1 as well as OpenSSL forks BoringSSL and LibreSSL are not affected.   Security researcher Guido Vranken, who reported the bug at the end of May,  said  it "can be triggered trivially by an attacker." Although the shortcoming has been  fixed , no patches have been made available as yet.  OpenSSL is a popular cryptography library that offers an open source implementation of the Transport Layer Security ( TLS ) protocol. Advanced Vector Extensions ( AVX ) are extensions to the x86 instruction set architecture for microprocessors from Intel and AMD.  "I do not think this is a security vulnerability," Tomáš Mráz of the OpenSSL Foundation said in a GitHub issue thread.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two critical flaws affect CODESYS ICS Automation Software<a href="https://securityaffairs.co/wordpress/132685/security/codesys-ics-automation-software-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CODESYS addressed 11 security flaws in the ICS Automation Software that could lead to information disclosure and trigger a denial-of-service (DoS) condition.
+
+
+
+CODESYS has released security patches to fix eleven 11 vulnerabilities in its ICS Automation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ZuoRAT malware targets SOHO routers in North America, Europe<a href="https://www.bleepingcomputer.com/news/security/new-zuorat-malware-targets-soho-routers-in-north-america-europe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered multistage remote access trojan (RAT) dubbed ZuoRAT has been used to target remote workers via small office/home office (SOHO) routers across North America and Europe undetected since 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Releases New macOS Security Guidance for Organizations<a href="https://www.securityweek.com/nist-releases-new-macos-security-guidance-organizations?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guidance is derived from the macOS Security Compliance Project (mSCP), an open source effort aimed at creating customized security baselines to meet the cybersecurity needs of various organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android Banking Trojan 'Revive' Targeting Users of Spanish Financial Services<a href="https://thehackernews.com/2022/06/new-android-banking-trojan-revive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown Android banking trojan has been discovered in the wild, targeting users of the Spanish financial services company BBVA.  Said to be in its early stages of development, the malware — dubbed  Revive  by Italian cybersecurity firm Cleafy — was first observed on June 15, 2022 and distributed by means of phishing campaigns.  "The name Revive has been chosen since one of the functionality of the malware (called by the [threat actors] precisely 'revive') is restarting in case the malware stops working, Cleafy researchers Federico Valentini and Francesco Iubatti  said  in a Monday write-up.   Available for download from rogue phishing pages ("bbva.appsecureguide[.]com" or "bbva.european2fa[.]com") as a lure to trick users into downloading the app, the malware impersonates the bank's two-factor authentication (2FA) app and is said to be inspired from open-source spyware called  Teardroid , with the authors tweaking the original source c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Stolen PII and deepfakes used to apply for remote tech jobs<a href="https://www.bleepingcomputer.com/news/security/fbi-stolen-pii-and-deepfakes-used-to-apply-for-remote-tech-jobs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warns of an increase in complaints that cybercriminals are using Americans' stolen Personally Identifiable Information (PII) and deepfakes to apply for remote work positions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Takes Action Against CafePress Over Massive Data Breach, Cover-Up<a href="https://www.securityweek.com/ftc-takes-action-against-cafepress-over-massive-data-breach-cover?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FTC on Friday announced that it has finalized an order against CafePress, requiring it to improve its security posture following a cybersecurity incident that the company attempted to cover up.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breaking Down the Zola Hack and Why Password Reuse is so Dangerous<a href="https://www.bleepingcomputer.com/news/security/breaking-down-the-zola-hack-and-why-password-reuse-is-so-dangerous/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In May of 2022, the wedding planning and registry site Zola suffered a major security breach due to a credential stuffing attack. due to password reuse. Here's what happened and what could have been done to prevent the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tencent admits to poisoned QR code attack on QQ accounts<a href="https://www.theregister.com/2022/06/28/tencent_qq_qr_code_attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The problem manifested on Sunday night and saw an unnamed number of QQ users complain their credentials no longer allowed them access to their accounts. Tencent has characterized that issue as representing "stolen" accounts.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raccoon Stealer is back with a new version to steal your passwords<a href="https://www.bleepingcomputer.com/news/security/raccoon-stealer-is-back-with-a-new-version-to-steal-your-passwords/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Raccoon Stealer malware is back with a second major version circulating on cybercrime forums, offering hackers elevated password-stealing functionality and upgraded operational capacity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cerby Emerges From Stealth With Security Platform for Unmanageable Apps<a href="https://www.securityweek.com/cerby-emerges-stealth-security-platform-unmanageable-apps?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cerby has raised $12 million in seed funding from Ridge Ventures, Bowery Capital, Okta Ventures, Salesforce Ventures and others. This investment brings the total raised by the firm to $15.5 million.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Messenger chatbots used to steal Facebook accounts<a href="https://www.bleepingcomputer.com/news/security/malicious-messenger-chatbots-used-to-steal-facebook-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing attack is using Facebook Messenger chatbots to impersonate the company's support team and steal credentials used to manage Facebook pages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 900,000 Kubernetes instances found exposed online<a href="https://www.bleepingcomputer.com/news/security/over-900-000-kubernetes-instances-found-exposed-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 900,000 misconfigured Kubernetes clusters were found exposed on the Internet to potentially malicious scans, some even vulnerable to data-exposing cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 27, 2022 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

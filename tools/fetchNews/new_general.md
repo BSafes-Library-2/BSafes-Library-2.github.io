@@ -8,6 +8,66 @@ nav_order: 900072
 
 ## General
 ---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NON-STATE ACTORS IN THE CYBERSPACE: AN ATTEMPT TO A TAXONOMIC CLASSIFICATION, ROLE, IMPACT AND RELATIONS WITH A STATE’S SOCIOECONOMIC STRUCTURE<a href="https://securityaffairs.co/wordpress/132716/hacking/non-state-actors-cyberspace.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This paper provides a taxonomic classification of non-state actors in the cyberspace, analyzing their role and impact on a state’s socioeconomic structure
+
+
+
+Cyber Non-State Actors (CNSA) are key figures in our globalized world: their operations could...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Overview of Top Mobile Security Threats in 2022<a href="https://thehackernews.com/2022/06/overview-of-top-mobile-security-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Your smartphone is your daily companion. The chances are that most of our activities rely on them, from ordering food to booking medical appointments. However, the threat landscape always reminds us how vulnerable smartphones can be.&nbsp;  Consider the recent&nbsp; discovery by Oversecured , a security startup. These experts observed the dynamic code loading and its potential dangers. Why is this a problem? Well, the Google app uses code that does not come integrated with the app itself. Okay, this might sound confusing, but it all works in favor of optimizing certain processes. Thus, Google exploits code libraries pre-installed on Android phones to reduce their download size. In fact, many Android apps use this trick to optimize the storage space needed to run.&nbsp;  As revealed by Oversecured, perpetrators could compromise this retrieval of code from libraries. Instead of Google obtaining code from a reliable source, it could be tricked into taking code from malicious apps operating on the devic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITRE shares this year's list of most dangerous software bugs<a href="https://www.bleepingcomputer.com/news/security/mitre-shares-this-years-list-of-most-dangerous-software-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MITRE&nbsp;shared this year's top 25&nbsp;most common and dangerous weaknesses impacting&nbsp;software throughout the previous two calendar years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breaking Down the Zola Hack and Why Password Reuse is so Dangerous<a href="https://www.bleepingcomputer.com/news/security/breaking-down-the-zola-hack-and-why-password-reuse-is-so-dangerous/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In May of 2022, the wedding planning and registry site Zola suffered a major security breach due to a credential stuffing attack. due to password reuse. Here's what happened and what could have been done to prevent the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

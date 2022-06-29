@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Messenger chatbots used to steal Facebook accounts<a href="https://www.bleepingcomputer.com/news/security/malicious-messenger-chatbots-used-to-steal-facebook-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing attack is using Facebook Messenger chatbots to impersonate the company's support team and steal credentials used to manage Facebook pages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

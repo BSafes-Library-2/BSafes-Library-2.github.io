@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evilnum hackers return in new operation targeting migration orgs<a href="https://www.bleepingcomputer.com/news/security/evilnum-hackers-return-in-new-operation-targeting-migration-orgs/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scalper Bots Leave the Israeli Government Helpless<a href="https://cyware.com/news/scalper-bots-leave-the-israeli-government-helpless-9275ebad"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ZuoRAT Malware Hijacking Home-Office Routers to Spy on Targeted Networks<a href="https://thehackernews.com/2022/06/zuorat-malware-hijacking-home-office.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NON-STATE ACTORS IN THE CYBERSPACE: AN ATTEMPT TO A TAXONOMIC CLASSIFICATION, ROLE, IMPACT AND RELATIONS WITH A STATE’S SOCIOECONOMIC STRUCTURE<a href="https://securityaffairs.co/wordpress/132716/hacking/non-state-actors-cyberspace.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Firefox privacy feature strips URLs of tracking parameters<a href="https://www.bleepingcomputer.com/news/security/new-firefox-privacy-feature-strips-urls-of-tracking-parameters/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Attack Method Devised to Abuse Microsoft WebView2 and Bypass MFA<a href="https://cyware.com/news/new-attack-method-devised-to-abuse-microsoft-webview2-and-bypass-mfa-0f83692b"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT Hackers Targeting Industrial Control Systems with ShadowPad Backdoor<a href="https://thehackernews.com/2022/06/apt-hackers-targeting-industrial.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit 3.0 introduces important novelties, including a bug bounty program<a href="https://securityaffairs.co/wordpress/132701/cyber-crime/lockbit-3-0.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AMD investigates RansomHouse hack claims, theft of 450GB data<a href="https://www.bleepingcomputer.com/news/security/amd-investigates-ransomhouse-hack-claims-theft-of-450gb-data/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House Passes ICS Cybersecurity Training Bill<a href="https://www.securityweek.com/house-passes-ics-cybersecurity-training-bill?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Overview of Top Mobile Security Threats in 2022<a href="https://thehackernews.com/2022/06/overview-of-top-mobile-security-threats.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest OpenSSL version is affected by a remote memory corruption flaw<a href="https://securityaffairs.co/wordpress/132697/security/openssl-remote-memory-corruption-flaw.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MITRE shares this year's list of most dangerous software bugs<a href="https://www.bleepingcomputer.com/news/security/mitre-shares-this-years-list-of-most-dangerous-software-bugs/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Command urges private sector to share intelligence, aid defensive digital operations<a href="https://www.cyberscoop.com/cyber-command-intel-private-industry/?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ CyberScoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSL to Release Security Patch for Remote Memory Corruption Vulnerability<a href="https://thehackernews.com/2022/06/openssh-to-release-security-patch-for.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two critical flaws affect CODESYS ICS Automation Software<a href="https://securityaffairs.co/wordpress/132685/security/codesys-ics-automation-software-flaws.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ZuoRAT malware targets SOHO routers in North America, Europe<a href="https://www.bleepingcomputer.com/news/security/new-zuorat-malware-targets-soho-routers-in-north-america-europe/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Releases New macOS Security Guidance for Organizations<a href="https://www.securityweek.com/nist-releases-new-macos-security-guidance-organizations?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android Banking Trojan 'Revive' Targeting Users of Spanish Financial Services<a href="https://thehackernews.com/2022/06/new-android-banking-trojan-revive.html"> Full Text</a>
@@ -354,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Stolen PII and deepfakes used to apply for remote tech jobs<a href="https://www.bleepingcomputer.com/news/security/fbi-stolen-pii-and-deepfakes-used-to-apply-for-remote-tech-jobs/"> Full Text</a>
@@ -370,7 +370,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC Takes Action Against CafePress Over Massive Data Breach, Cover-Up<a href="https://www.securityweek.com/ftc-takes-action-against-cafepress-over-massive-data-breach-cover?&web_view=true"> Full Text</a>
@@ -386,7 +386,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Breaking Down the Zola Hack and Why Password Reuse is so Dangerous<a href="https://www.bleepingcomputer.com/news/security/breaking-down-the-zola-hack-and-why-password-reuse-is-so-dangerous/"> Full Text</a>
@@ -402,7 +402,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tencent admits to poisoned QR code attack on QQ accounts<a href="https://www.theregister.com/2022/06/28/tencent_qq_qr_code_attack/?&web_view=true"> Full Text</a>
@@ -418,7 +418,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Raccoon Stealer is back with a new version to steal your passwords<a href="https://www.bleepingcomputer.com/news/security/raccoon-stealer-is-back-with-a-new-version-to-steal-your-passwords/"> Full Text</a>
@@ -434,7 +434,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cerby Emerges From Stealth With Security Platform for Unmanageable Apps<a href="https://www.securityweek.com/cerby-emerges-stealth-security-platform-unmanageable-apps?&web_view=true"> Full Text</a>
@@ -450,7 +450,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Messenger chatbots used to steal Facebook accounts<a href="https://www.bleepingcomputer.com/news/security/malicious-messenger-chatbots-used-to-steal-facebook-accounts/"> Full Text</a>
@@ -466,7 +466,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 900,000 Kubernetes instances found exposed online<a href="https://www.bleepingcomputer.com/news/security/over-900-000-kubernetes-instances-found-exposed-online/"> Full Text</a>

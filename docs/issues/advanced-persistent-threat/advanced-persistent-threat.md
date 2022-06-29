@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Hackers Targeting Industrial Control Systems with ShadowPad Backdoor<a href="https://thehackernews.com/2022/06/apt-hackers-targeting-industrial.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Entities located in Afghanistan, Malaysia, and Pakistan are in the crosshairs of an attack campaign that targets unpatched Microsoft Exchange Servers as an initial access vector to deploy the ShadowPad malware.  Russian cybersecurity firm Kaspersky, which first detected the activity in mid-October 2021,&nbsp; attributed &nbsp;it to a previously unknown Chinese-speaking threat actor. Targets include organizations in the telecommunications, manufacturing, and transport sectors.   "During the initial attacks, the group exploited an MS Exchange vulnerability to deploy ShadowPad malware and infiltrated&nbsp; building automation systems &nbsp;of one of the victims," the company said. "By taking control over those systems, the attacker can reach other, even more sensitive systems of the attacked organization."  ShadowPad , which emerged in 2015 as the successor to PlugX, is a privately sold modular malware platform that has been put to use by many Chinese espionage actors over the years.&nbsp;  W
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

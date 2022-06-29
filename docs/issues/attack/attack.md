@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Method Devised to Abuse Microsoft WebView2 and Bypass MFA<a href="https://cyware.com/news/new-attack-method-devised-to-abuse-microsoft-webview2-and-bypass-mfa-0f83692b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing attack could abuse Microsoft Edge WebView2 applications to steal victims’ authentication cookies, using which hackers bypass MFA for logging accounts. The attack includes a WebView2 executable, for which the researcher created a proof-of-concept that opens a genuine Microsoft login f ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMD investigates RansomHouse hack claims, theft of 450GB data<a href="https://www.bleepingcomputer.com/news/security/amd-investigates-ransomhouse-hack-claims-theft-of-450gb-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chip manufacturer AMD says they are investigating a cyberattack after threat actors claimed to have stolen 450 GB of data from the company last year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tencent admits to poisoned QR code attack on QQ accounts<a href="https://www.theregister.com/2022/06/28/tencent_qq_qr_code_attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The problem manifested on Sunday night and saw an unnamed number of QQ users complain their credentials no longer allowed them access to their accounts. Tencent has characterized that issue as representing "stolen" accounts.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

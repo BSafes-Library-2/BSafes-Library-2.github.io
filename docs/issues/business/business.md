@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cerby Emerges From Stealth With Security Platform for Unmanageable Apps<a href="https://www.securityweek.com/cerby-emerges-stealth-security-platform-unmanageable-apps?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cerby has raised $12 million in seed funding from Ridge Ventures, Bowery Capital, Okta Ventures, Salesforce Ventures and others. This investment brings the total raised by the firm to $15.5 million.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evilnum hackers return in new operation targeting migration orgs<a href="https://www.bleepingcomputer.com/news/security/evilnum-hackers-return-in-new-operation-targeting-migration-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Evilnum hacking group is showing renewed signs of malicious activity, targeting European organizations that are involved in international migration.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

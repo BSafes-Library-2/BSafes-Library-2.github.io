@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Flaws Identified in CODESYS ICS Automation Software<a href="https://thehackernews.com/2022/06/critical-security-flaws-identified-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CODESYS has released patches to address as many as 11 security flaws that, if successfully exploited, could result in information disclosure and a denial-of-service (DoS) condition, among others.&nbsp;  "These vulnerabilities are simple to exploit, and they can be successfully exploited to cause consequences such as sensitive information leakage, PLCs entering a severe fault state, and arbitrary code execution," Chinese cybersecurity firm NSFOCUS&nbsp; said . "In combination with industrial scenarios on the field, these vulnerabilities could expose industrial production to stagnation, equipment damage, etc."   CODESYS is a&nbsp; software &nbsp; suite &nbsp;used by automation specialists as a development environment for programmable logic controller applications ( PLCs ).  Following responsible disclosure between September 2021 and January 2022, fixes were&nbsp; shipped &nbsp;by the German software company last week on June 23, 2022. Two of the bugs are rated as Critical, seven as High, and two as Me
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange bug abused to hack building automation systems<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-bug-abused-to-hack-building-automation-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking threat actor has hacked into the building automation systems (used to control HVAC, fire, and security functions) of several Asian organizations to backdoor their networks and gain access to more secured areas in their networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Codesys Patches 11 Flaws Likely Affecting Controllers From Several ICS Vendors<a href="https://www.securityweek.com/codesys-patches-11-flaws-likely-affecting-controllers-several-ics-vendors?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Codesys admits that the vulnerabilities can be exploited remotely by an attacker with low skills, but the company says in many cases an attacker requires some form of access to the targeted system.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

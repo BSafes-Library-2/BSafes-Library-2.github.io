@@ -9,4 +9,4 @@ nav_order: 600
 * [NIST CSWP, Version 1. 1, HTML](https://nist-cybersecurity-framework-r1-1.bsafes.com/)<br>Framework for Improving Critical Infrastructure Cybersecurity
 * [NIST Special Publication 800-37, Revision 2, HTML](https://nist-sp-800-37-r2.bsafes.com/)<br>Risk Management Framework for Information Systems and Organizations
 * [NIST Special Publication 800-53, Revision 5, HTML](https://nist-sp-800-53-r5.bsafes.com/)<br>Security and Privacy Controls for Information Systems and Organizations
-
+* [Automated Secure Configuration Guidance from the macOS Security Compliance Project (mSCP)](https://www.nist.gov/publications/automated-secure-configuration-guidance-macos-security-compliance-project-mscp)<br>Automated Secure Configuration Guidance from the macOS Security Compliance Project (mSCP)
