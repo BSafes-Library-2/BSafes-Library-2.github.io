@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomHouse gang claims to have stolen 450GB of data from chip maker giant AMD<a href="https://securityaffairs.co/wordpress/132721/cyber-crime/ransomhouse-hacked-amd.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RansomHouse gang claims to have breached the Chipmaker giant AMD and stole 450 GB of data from the company in 2021.
+
+
+
+The RansomHouse extortion gang claims to have stolen 450 GB of data from the chipmaker giant AMD in 2021 and threatens to leak...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine arrests cybercrime gang operating over 400 phishing sites<a href="https://www.bleepingcomputer.com/news/security/ukraine-arrests-cybercrime-gang-operating-over-400-phishing-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian cyberpolice force arrested nine members of a criminal group that operated over 400 phishing websites crafted to appear like legitimate EU portals offering financial assistance to Ukrainians.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

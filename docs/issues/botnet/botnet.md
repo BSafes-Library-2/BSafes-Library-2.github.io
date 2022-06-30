@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Link Between AWM Proxy &amp; the Glupteba Botnet – Krebs on Security<a href="https://krebsonsecurity.com/2022/06/the-link-between-awm-proxy-the-glupteba-botnet/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite all of the disruption caused by Google’s legal and technical meddling, AWM is still around and nearly as healthy as ever, although the service has been rebranded with a new name and there are dubious claims of new owners.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

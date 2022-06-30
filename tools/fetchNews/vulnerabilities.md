@@ -8,6 +8,70 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest OpenSSL version is affected by a remote memory corruption flaw<a href="https://securityaffairs.co/wordpress/132697/security/openssl-remote-memory-corruption-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Expert discovered a remote memory-corruption vulnerability affecting the latest version of the OpenSSL library.
+
+
+
+Security expert Guido Vranken discovered a remote memory-corruption vulnerability in the recently released OpenSSL&nbsp;version 3.0.4. The library...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL to Release Security Patch for Remote Memory Corruption Vulnerability<a href="https://thehackernews.com/2022/06/openssh-to-release-security-patch-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest version of the OpenSSL library has been discovered as susceptible to a remote memory-corruption vulnerability on select systems.  The issue has been identified in OpenSSL&nbsp; version 3.0.4 , which was released on June 21, 2022, and impacts x64 systems with the&nbsp; AVX-512 &nbsp;instruction set. OpenSSL 1.1.1 as well as OpenSSL forks BoringSSL and LibreSSL are not affected.   Security researcher Guido Vranken, who reported the bug at the end of May,&nbsp; said &nbsp;it "can be triggered trivially by an attacker." Although the shortcoming has been&nbsp; fixed , no patches have been made available as yet.  OpenSSL is a popular cryptography library that offers an open source implementation of the Transport Layer Security ( TLS ) protocol. Advanced Vector Extensions ( AVX ) are extensions to the x86 instruction set architecture for microprocessors from Intel and AMD.  "I do not think this is a security vulnerability," Tomáš Mráz of the OpenSSL Foundation said in a GitHub issue thread.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two critical flaws affect CODESYS ICS Automation Software<a href="https://securityaffairs.co/wordpress/132685/security/codesys-ics-automation-software-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CODESYS addressed 11 security flaws in the ICS Automation Software that could lead to information disclosure and trigger a denial-of-service (DoS) condition.
+
+
+
+CODESYS has released security patches to fix eleven 11 vulnerabilities in its ICS Automation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 900,000 Kubernetes instances found exposed online<a href="https://www.bleepingcomputer.com/news/security/over-900-000-kubernetes-instances-found-exposed-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 900,000 misconfigured Kubernetes clusters were found exposed on the Internet to potentially malicious scans, some even vulnerable to data-exposing cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

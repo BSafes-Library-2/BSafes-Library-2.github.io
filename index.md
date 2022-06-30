@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Walmart denies being hit by Yanluowang ransomware attack<a href="https://www.bleepingcomputer.com/news/security/walmart-denies-being-hit-by-yanluowang-ransomware-attack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPi Packages Caught Stealing and Making AWS Keys and More Public<a href="https://cyware.com/news/pypi-packages-caught-stealing-and-making-aws-keys-and-more-public-ff31817b"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New YTStealer Malware Aims to Hijack Accounts of YouTube Content Creators<a href="https://thehackernews.com/2022/06/new-ytstealer-malware-aims-to-hijack.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Path Traversal flaw in UnRAR utility can allow hacking Zimbra Mail servers<a href="https://securityaffairs.co/wordpress/132737/breaking-news/unrar-path-traversal-flaw-zimbra.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leaky Access Tokens Exposed Amazon Photos of Users<a href="https://threatpost.com/exposed-amazon-photos/180105/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avaya sysadmin indicted for illegally generating, selling VoIP licenses<a href="https://www.bleepingcomputer.com/news/security/avaya-sysadmin-indicted-for-illegally-generating-selling-voip-licenses/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 With LockBit 3.0 Launch, Hackers Announce Bug Bounty Program<a href="https://cyware.com/news/with-lockbit-30-launch-hackers-announce-bug-bounty-program-45d0d09e"> Full Text</a>
@@ -150,7 +150,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New UnRAR Vulnerability Could Let Attackers Hack Zimbra Webmail Servers<a href="https://thehackernews.com/2022/06/new-unrar-vulnerability-could-let.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mitre shared 2022 CWE Top 25 most dangerous software weaknesses<a href="https://securityaffairs.co/wordpress/132730/security/mitre-2022-cwe-top-25.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New YTStealer malware steals accounts from YouTube Creators<a href="https://www.bleepingcomputer.com/news/security/new-ytstealer-malware-steals-accounts-from-youtube-creators/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Link Between AWM Proxy & the Glupteba Botnet – Krebs on Security<a href="https://krebsonsecurity.com/2022/06/the-link-between-awm-proxy-the-glupteba-botnet/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Krebs on Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'FabricScape' Bug in Microsoft Azure Service Fabric Impacts Linux Workloads<a href="https://thehackernews.com/2022/06/new-fabricscape-bug-in-microsoft-azure.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomHouse gang claims to have stolen 450GB of data from chip maker giant AMD<a href="https://securityaffairs.co/wordpress/132721/cyber-crime/ransomhouse-hacked-amd.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns of hackers exploiting PwnKit Linux vulnerability<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-pwnkit-linux-vulnerability/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Keona Clipper Steals Cryptocurrency Payments<a href="https://cyware.com/news/keona-clipper-steals-cryptocurrency-payments-982a979a"> Full Text</a>
@@ -286,7 +286,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thunderbird 102 released with highly anticipated features, bug fixes<a href="https://www.bleepingcomputer.com/news/software/thunderbird-102-released-with-highly-anticipated-features-bug-fixes/"> Full Text</a>
@@ -302,7 +302,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firefox 102 Patches 19 Vulnerabilities, Improves Privacy<a href="https://www.securityweek.com/firefox-102-patches-19-vulnerabilities-improves-privacy?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine arrests cybercrime gang operating over 400 phishing sites<a href="https://www.bleepingcomputer.com/news/security/ukraine-arrests-cybercrime-gang-operating-over-400-phishing-sites/"> Full Text</a>
@@ -334,7 +334,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Threat Actor Targets Rare Earth Mining Companies in North America, Australia<a href="https://www.securityweek.com/chinese-threat-actor-targets-rare-earth-mining-companies-north-america-australia?&web_view=true"> Full Text</a>
@@ -350,7 +350,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns orgs to switch to Exchange Online Modern Auth until October<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-orgs-to-switch-to-exchange-online-modern-auth-until-october/"> Full Text</a>
@@ -366,7 +366,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AstraLocker 2.0 pushes ransomware direct from Office docs<a href="https://blog.reversinglabs.com/blog/smash-and-grab-astralocker-2-pushes-ransomware-direct-from-office-docs?&web_view=true"> Full Text</a>
@@ -382,7 +382,7 @@ ReversingLabs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Workspace now alerts of critical changes to admin accounts<a href="https://www.bleepingcomputer.com/news/security/google-workspace-now-alerts-of-critical-changes-to-admin-accounts/"> Full Text</a>
@@ -398,7 +398,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ready Meal Distributor Apetito Restores Limited Deliveries in UK Following Cyberattack<a href="https://portswigger.net/daily-swig/ready-meal-distributor-apetito-restores-limited-deliveries-in-uk-following-cyber-attack?&web_view=true"> Full Text</a>
@@ -414,7 +414,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon fixes high-severity vulnerability in Android Photos app<a href="https://www.bleepingcomputer.com/news/security/amazon-fixes-high-severity-vulnerability-in-android-photos-app/"> Full Text</a>
@@ -430,7 +430,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Raccoon Stealer Reappears With a New Version<a href="https://cyware.com/news/raccoon-stealer-reappears-with-a-new-version-94354169"> Full Text</a>
@@ -446,7 +446,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Azure FabricScape bug let hackers hijack Linux clusters<a href="https://www.bleepingcomputer.com/news/security/microsoft-azure-fabricscape-bug-let-hackers-hijack-linux-clusters/"> Full Text</a>
@@ -462,7 +462,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top Six Security Bad Habits, and How to Break Them<a href="https://threatpost.com/six-bad-habits-break/180082/"> Full Text</a>
@@ -478,7 +478,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Active Exploitation of 'PwnKit' Linux Vulnerability in the Wild<a href="https://thehackernews.com/2022/06/cisa-warns-of-active-exploitation-of.html"> Full Text</a>
@@ -494,7 +494,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ZuoRAT malware hijacks SOHO Routers to spy in the vitims<a href="https://securityaffairs.co/wordpress/132709/hacking/zuorat-soho-campaign.html"> Full Text</a>

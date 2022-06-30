@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ready Meal Distributor Apetito Restores Limited Deliveries in UK Following Cyberattack<a href="https://portswigger.net/daily-swig/ready-meal-distributor-apetito-restores-limited-deliveries-in-uk-following-cyber-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The impacted arm of Apetito in the U.K delivers ready meals to hospitals, care homes, schools, childcare facilities, and the homes of vulnerable people across the west of England.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

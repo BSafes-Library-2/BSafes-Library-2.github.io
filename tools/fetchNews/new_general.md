@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitre shared 2022 CWE Top 25 most dangerous software weaknesses<a href="https://securityaffairs.co/wordpress/132730/security/mitre-2022-cwe-top-25.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MITRE&nbsp;organization published the 2022 CWE Top 25 most dangerous software weaknesses.
+
+
+
+The MITRE&nbsp;shared the list of the 2022 top 25&nbsp;most common and dangerous weaknesses, it could help organizations to assess internal infrastructure and determine...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Six Security Bad Habits, and How to Break Them<a href="https://threatpost.com/six-bad-habits-break/180082/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shrav Mehta, CEO, Secureframe, outlines the top six bad habits security teams need to break to prevent costly breaches, ransomware attacks and prevent phishing-based endpoint attacks.   
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

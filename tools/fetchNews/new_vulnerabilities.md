@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Path Traversal flaw in UnRAR utility can allow hacking Zimbra Mail servers<a href="https://securityaffairs.co/wordpress/132737/breaking-news/unrar-path-traversal-flaw-zimbra.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new flaw in RARlab's UnRAR utility, tracked CVE-2022-30333, that can allow to remotely hack Zimbra Webmail servers.
+
+
+
+SonarSource researchers have discovered a new vulnerability in RARlab's UnRAR utility, tracked as CVE-2022-30333,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New UnRAR Vulnerability Could Let Attackers Hack Zimbra Webmail Servers<a href="https://thehackernews.com/2022/06/new-unrar-vulnerability-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new security vulnerability has been disclosed in RARlab's UnRAR utility that, if successfully exploited, could permit a remote attacker to execute arbitrary code on a system that relies on the binary.  The flaw, assigned the identifier CVE-2022-30333, relates to a path traversal vulnerability in the Unix versions of UnRAR that can be triggered upon extracting a maliciously crafted RAR archive.  Following responsible disclosure on May 4, 2022, the shortcoming was addressed by RarLab as part of&nbsp; version 6.12 &nbsp;released on May 6. Other versions of the software, including those for Windows and Android operating systems, are not impacted.   "An attacker is able to create files outside of the target extraction directory when an application or victim user extracts an untrusted archive," SonarSource researcher Simon Scannell&nbsp; said &nbsp;in a Tuesday report. "If they can write to a known location, they are likely to be able to leverage it in a way leading to the execution of arb
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'FabricScape' Bug in Microsoft Azure Service Fabric Impacts Linux Workloads<a href="https://thehackernews.com/2022/06/new-fabricscape-bug-in-microsoft-azure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers from Palo Alto Networks Unit 42&nbsp; disclosed &nbsp;details of a new security flaw affecting Microsoft's Service Fabric that could be exploited to obtain elevated permissions and seize control of all nodes in a cluster.  The issue, which has been dubbed&nbsp; FabricScape &nbsp;( CVE-2022-30137 ), could be exploited on containers that are configured to have&nbsp; runtime access . It has been&nbsp; remediated &nbsp;as of June 14, 2022, in&nbsp; Service Fabric 9.0 Cumulative Update 1.0 .   Azure Service Fabric &nbsp;is Microsoft's platform-as-a-service ( PaaS ) and a container orchestrator solution used to build and deploy microservices-based cloud applications across a cluster of machines. "The vulnerability enables a bad actor, with access to a compromised container, to escalate privileges and gain control of the resource's host SF node and the entire cluster," Microsoft&nbsp; said &nbsp;as part of the coordinated disclosure process. "Though the bug exists on both Operating System (OS)
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thunderbird 102 released with highly anticipated features, bug fixes<a href="https://www.bleepingcomputer.com/news/software/thunderbird-102-released-with-highly-anticipated-features-bug-fixes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has announced the release of Thunderbird 102, one of the world's most popular open-source email clients with an estimated userbase of over 25 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox 102 Patches 19 Vulnerabilities, Improves Privacy<a href="https://www.securityweek.com/firefox-102-patches-19-vulnerabilities-improves-privacy?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the latest update, Mozilla has patched CVE-2022-34470, a high-severity use-after-free issue in nsSHistory that was triggered when navigating between XML documents, and which could lead to a potentially exploitable crash.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon fixes high-severity vulnerability in Android Photos app<a href="https://www.bleepingcomputer.com/news/security/amazon-fixes-high-severity-vulnerability-in-android-photos-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon has confirmed and fixed a vulnerability in its Photos app for Android, which has been downloaded over 50 million times on the Google Play Store.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure FabricScape bug let hackers hijack Linux clusters<a href="https://www.bleepingcomputer.com/news/security/microsoft-azure-fabricscape-bug-let-hackers-hijack-linux-clusters/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a container escape bug dubbed&nbsp;FabricScape&nbsp;in the Service Fabric (SF) application hosting platform that let threat actors escalate privileges to root, gain control of the host node, and compromise the entire SF Linux cluster.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

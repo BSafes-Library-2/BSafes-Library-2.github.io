@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Workspace now alerts of critical changes to admin accounts<a href="https://www.bleepingcomputer.com/news/security/google-workspace-now-alerts-of-critical-changes-to-admin-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Workspace (formerly G Suite) has been updated to notify admins of highly sensitive changes to configurations, including those made to single sign-on (SSO) profiles and admin accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

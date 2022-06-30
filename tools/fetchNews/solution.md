@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Firefox privacy feature strips URLs of tracking parameters<a href="https://www.bleepingcomputer.com/news/security/new-firefox-privacy-feature-strips-urls-of-tracking-parameters/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla Firefox 102 was released today with a new privacy feature that strips parameters from URLs that are used to track you around the web.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

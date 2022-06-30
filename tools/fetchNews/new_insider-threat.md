@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avaya sysadmin indicted for illegally generating, selling VoIP licenses<a href="https://www.bleepingcomputer.com/news/security/avaya-sysadmin-indicted-for-illegally-generating-selling-voip-licenses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three defendants who allegedly sold over $88 million worth of software licenses belonging to Avaya Holdings Corporation have been charged in Oklahoma, U.S., facing 14 counts of wire fraud and money laundering.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
