@@ -34,6 +34,486 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Walmart denies being hit by Yanluowang ransomware attack<a href="https://www.bleepingcomputer.com/news/security/walmart-denies-being-hit-by-yanluowang-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American retailer Walmart has denied being hit with a ransomware attack by the Yanluowang gang after the hackers claimed to encrypt thousands of computers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPi Packages Caught Stealing and Making AWS Keys and More Public<a href="https://cyware.com/news/pypi-packages-caught-stealing-and-making-aws-keys-and-more-public-ff31817b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PyPI repository containing malicious Python packages are steal sensitive data before sending it to publicly exposed endpoints. The sensitive data includes AWS credentials as well as environment variables. The stolen data is stored in TXT files and uploaded to a PyGrata[.]com domain. The endpoin ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New YTStealer Malware Aims to Hijack Accounts of YouTube Content Creators<a href="https://thehackernews.com/2022/06/new-ytstealer-malware-aims-to-hijack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have documented a new information-stealing malware that targets YouTube content creators by plundering their authentication cookies.  Dubbed "YTStealer" by Intezer, the malicious tool is likely believed to be sold as a service on the dark web, with it distributed using fake installers that also drop RedLine Stealer and Vidar.  "What sets YTStealer aside from other stealers sold on the dark web market is that it is solely focused on harvesting credentials for one single service instead of grabbing everything it can get ahold of," security researcher Joakim Kenndy said in a report  shared with The Hacker News.  The malware's modus operandi, however, mirrors its counterparts in that it extracts the cookie information from the web browser's database files in the user's profile folder. The reasoning given behind targeting content creators is that it uses one of the installed browsers on the infected machine to gather YouTube channel
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Path Traversal flaw in UnRAR utility can allow hacking Zimbra Mail servers<a href="https://securityaffairs.co/wordpress/132737/breaking-news/unrar-path-traversal-flaw-zimbra.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new flaw in RARlab's UnRAR utility, tracked CVE-2022-30333, that can allow to remotely hack Zimbra Webmail servers.
+
+
+
+SonarSource researchers have discovered a new vulnerability in RARlab's UnRAR utility, tracked as CVE-2022-30333,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaky Access Tokens Exposed Amazon Photos of Users<a href="https://threatpost.com/exposed-amazon-photos/180105/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers with Amazon users’ authentication tokens could’ve stolen or encrypted personal photos and documents.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avaya sysadmin indicted for illegally generating, selling VoIP licenses<a href="https://www.bleepingcomputer.com/news/security/avaya-sysadmin-indicted-for-illegally-generating-selling-voip-licenses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three defendants who allegedly sold over $88 million worth of software licenses belonging to Avaya Holdings Corporation have been charged in Oklahoma, U.S., facing 14 counts of wire fraud and money laundering.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+With LockBit 3.0 Launch, Hackers Announce Bug Bounty Program<a href="https://cyware.com/news/with-lockbit-30-launch-hackers-announce-bug-bounty-program-45d0d09e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit RaaS launched LockBit 3.0, the first-ever ransomware bug bounty program for security experts to submit bug reports and get rewarded with up to $1 million. Various bug bounty categories include website bugs (such as XSS vulnerabilities, and MySQL injections), Locker bugs (bugs in the ran ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New UnRAR Vulnerability Could Let Attackers Hack Zimbra Webmail Servers<a href="https://thehackernews.com/2022/06/new-unrar-vulnerability-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new security vulnerability has been disclosed in RARlab's UnRAR utility that, if successfully exploited, could permit a remote attacker to execute arbitrary code on a system that relies on the binary.  The flaw, assigned the identifier CVE-2022-30333, relates to a path traversal vulnerability in the Unix versions of UnRAR that can be triggered upon extracting a maliciously crafted RAR archive.  Following responsible disclosure on May 4, 2022, the shortcoming was addressed by RarLab as part of  version 6.12  released on May 6. Other versions of the software, including those for Windows and Android operating systems, are not impacted.   "An attacker is able to create files outside of the target extraction directory when an application or victim user extracts an untrusted archive," SonarSource researcher Simon Scannell  said  in a Tuesday report. "If they can write to a known location, they are likely to be able to leverage it in a way leading to the execution of arb
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitre shared 2022 CWE Top 25 most dangerous software weaknesses<a href="https://securityaffairs.co/wordpress/132730/security/mitre-2022-cwe-top-25.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MITRE organization published the 2022 CWE Top 25 most dangerous software weaknesses.
+
+
+
+The MITRE shared the list of the 2022 top 25 most common and dangerous weaknesses, it could help organizations to assess internal infrastructure and determine...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New YTStealer malware steals accounts from YouTube Creators<a href="https://www.bleepingcomputer.com/news/security/new-ytstealer-malware-steals-accounts-from-youtube-creators/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new information-stealing malware named YTStealer is targeting YouTube content creators and attempting to steal their authentication tokens and hijack their channels.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Link Between AWM Proxy & the Glupteba Botnet – Krebs on Security<a href="https://krebsonsecurity.com/2022/06/the-link-between-awm-proxy-the-glupteba-botnet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite all of the disruption caused by Google’s legal and technical meddling, AWM is still around and nearly as healthy as ever, although the service has been rebranded with a new name and there are dubious claims of new owners.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'FabricScape' Bug in Microsoft Azure Service Fabric Impacts Linux Workloads<a href="https://thehackernews.com/2022/06/new-fabricscape-bug-in-microsoft-azure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers from Palo Alto Networks Unit 42  disclosed  details of a new security flaw affecting Microsoft's Service Fabric that could be exploited to obtain elevated permissions and seize control of all nodes in a cluster.  The issue, which has been dubbed  FabricScape  ( CVE-2022-30137 ), could be exploited on containers that are configured to have  runtime access . It has been  remediated  as of June 14, 2022, in  Service Fabric 9.0 Cumulative Update 1.0 .   Azure Service Fabric  is Microsoft's platform-as-a-service ( PaaS ) and a container orchestrator solution used to build and deploy microservices-based cloud applications across a cluster of machines. "The vulnerability enables a bad actor, with access to a compromised container, to escalate privileges and gain control of the resource's host SF node and the entire cluster," Microsoft  said  as part of the coordinated disclosure process. "Though the bug exists on both Operating System (OS)
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomHouse gang claims to have stolen 450GB of data from chip maker giant AMD<a href="https://securityaffairs.co/wordpress/132721/cyber-crime/ransomhouse-hacked-amd.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RansomHouse gang claims to have breached the Chipmaker giant AMD and stole 450 GB of data from the company in 2021.
+
+
+
+The RansomHouse extortion gang claims to have stolen 450 GB of data from the chipmaker giant AMD in 2021 and threatens to leak...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of hackers exploiting PwnKit Linux vulnerability<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-pwnkit-linux-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity Linux vulnerability known as PwnKit to its list of bugs exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keona Clipper Steals Cryptocurrency Payments<a href="https://cyware.com/news/keona-clipper-steals-cryptocurrency-payments-982a979a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Keona Clipper, a new malware threat is stealing cryptocurrencies from infected computers by replacing the user wallet address with its own. It leverages Telegram to stay hidden. Researchers identified over 90 different iterations of Keona since May, indicating wide deployment. Users should take utm ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thunderbird 102 released with highly anticipated features, bug fixes<a href="https://www.bleepingcomputer.com/news/software/thunderbird-102-released-with-highly-anticipated-features-bug-fixes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has announced the release of Thunderbird 102, one of the world's most popular open-source email clients with an estimated userbase of over 25 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox 102 Patches 19 Vulnerabilities, Improves Privacy<a href="https://www.securityweek.com/firefox-102-patches-19-vulnerabilities-improves-privacy?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the latest update, Mozilla has patched CVE-2022-34470, a high-severity use-after-free issue in nsSHistory that was triggered when navigating between XML documents, and which could lead to a potentially exploitable crash.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine arrests cybercrime gang operating over 400 phishing sites<a href="https://www.bleepingcomputer.com/news/security/ukraine-arrests-cybercrime-gang-operating-over-400-phishing-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian cyberpolice force arrested nine members of a criminal group that operated over 400 phishing websites crafted to appear like legitimate EU portals offering financial assistance to Ukrainians.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Threat Actor Targets Rare Earth Mining Companies in North America, Australia<a href="https://www.securityweek.com/chinese-threat-actor-targets-rare-earth-mining-companies-north-america-australia?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant’s security researchers have been tracking influence campaigns that a Chinese threat actor named Dragonbridge has been conducting against rare earth mining companies in Australia, Canada, and the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns orgs to switch to Exchange Online Modern Auth until October<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-orgs-to-switch-to-exchange-online-modern-auth-until-october/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has urged government agencies and private sector organizations using Microsoft's Exchange cloud email platform to expedite the switch from Basic Authentication legacy authentication methods without multifactor authentication (MFA) support to Modern Authentication alternatives.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AstraLocker 2.0 pushes ransomware direct from Office docs<a href="https://blog.reversinglabs.com/blog/smash-and-grab-astralocker-2-pushes-ransomware-direct-from-office-docs?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ReversingLabs recently discovered a new version of the AstraLocker ransomware (AstraLocker 2.0) that was being distributed directly from Microsoft Office files used as bait in phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ReversingLabs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Workspace now alerts of critical changes to admin accounts<a href="https://www.bleepingcomputer.com/news/security/google-workspace-now-alerts-of-critical-changes-to-admin-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Workspace (formerly G Suite) has been updated to notify admins of highly sensitive changes to configurations, including those made to single sign-on (SSO) profiles and admin accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ready Meal Distributor Apetito Restores Limited Deliveries in UK Following Cyberattack<a href="https://portswigger.net/daily-swig/ready-meal-distributor-apetito-restores-limited-deliveries-in-uk-following-cyber-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The impacted arm of Apetito in the U.K delivers ready meals to hospitals, care homes, schools, childcare facilities, and the homes of vulnerable people across the west of England.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon fixes high-severity vulnerability in Android Photos app<a href="https://www.bleepingcomputer.com/news/security/amazon-fixes-high-severity-vulnerability-in-android-photos-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon has confirmed and fixed a vulnerability in its Photos app for Android, which has been downloaded over 50 million times on the Google Play Store.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raccoon Stealer Reappears With a New Version<a href="https://cyware.com/news/raccoon-stealer-reappears-with-a-new-version-94354169"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Raccoon Stealer v2 is written in C/C++ using WinApi. The malware downloads legitimate third-party DLLs from its C2 servers. It is believed that the new version was available on Telegram for sale since May 17.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure FabricScape bug let hackers hijack Linux clusters<a href="https://www.bleepingcomputer.com/news/security/microsoft-azure-fabricscape-bug-let-hackers-hijack-linux-clusters/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a container escape bug dubbed FabricScape in the Service Fabric (SF) application hosting platform that let threat actors escalate privileges to root, gain control of the host node, and compromise the entire SF Linux cluster.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Six Security Bad Habits, and How to Break Them<a href="https://threatpost.com/six-bad-habits-break/180082/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shrav Mehta, CEO, Secureframe, outlines the top six bad habits security teams need to break to prevent costly breaches, ransomware attacks and prevent phishing-based endpoint attacks.   
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Active Exploitation of 'PwnKit' Linux Vulnerability in the Wild<a href="https://thehackernews.com/2022/06/cisa-warns-of-active-exploitation-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) this week moved to  add  a Linux vulnerability dubbed  PwnKit  to its  Known Exploited Vulnerabilities Catalog , citing evidence of active exploitation.  The issue, tracked as  CVE-2021-4034  (CVSS score: 7.8), came to light in January 2022 and concerns a case of  local privilege escalation  in polkit's pkexec utility, which allows an authorized user to execute commands as another user.   Polkit (formerly called PolicyKit) is a toolkit for controlling system-wide privileges in Unix-like operating systems, and provides a mechanism for non-privileged processes to communicate with privileged processes.  Successful exploitation of the flaw could induce pkexec to execute arbitrary code, granting an unprivileged attacker administrative rights on the target machine and compromising the host.  It's not immediately clear how the vulnerability is being weaponized in the wild, nor is there any information on the identity of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ZuoRAT malware hijacks SOHO Routers to spy in the vitims<a href="https://securityaffairs.co/wordpress/132709/hacking/zuorat-soho-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new RAT dubbed ZuoRAT was employed in a campaign aimed at small office/home office (SOHO) routers in North American and Europe.
+
+
+
+Researchers from Black Lotus Labs, the threat intelligence division of Lumen Technologies, have discovered a new remote...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 28, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
