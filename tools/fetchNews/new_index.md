@@ -34,7 +34,423 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toll fraud malware disables your WiFi to force premium subscriptions<a href="https://www.bleepingcomputer.com/news/security/toll-fraud-malware-disables-your-wifi-to-force-premium-subscriptions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning that toll fraud malware is one of the most prevalent threats on Android and that it is evolving with features that allow automatic subscription to premium services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norway Hit by Disruptive Cyberattack, Pro-Russian Hacker Group Suspected to be the Culprit<a href="https://www.cnbc.com/2022/06/30/cyberattack-hits-norway-pro-russian-hacker-group-suspected.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wednesday’s cyberattack on Norway came two days after a similar attack temporarily knocked out public and private websites in Lithuania with a pro-Moscow hacker group reportedly claiming responsibility.
+</details>
+<div style="text-align: right" markdown="1">
+CNBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Blocks Dozens of Malicious Domains Operated by Hack-for-Hire Groups<a href="https://thehackernews.com/2022/06/google-blocks-dozens-of-malicious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) on Thursday disclosed it had acted to block as many as 36 malicious domains operated by hack-for-hire groups from India, Russia, and the U.A.E.  In a manner analogous to the  surveillanceware ecosystem , hack-for-hire firms equip their clients with capabilities to enable targeted attacks aimed at corporates as well as activists, journalists, politicians, and other high-risk users.  Where the two stand apart is that while customers purchase the spyware from commercial vendors and then deploy it themselves, the operators behind hack-for-hire attacks are known to conduct the intrusions on their clients' behalf in order to obscure their role.  "The hack-for-hire landscape is fluid, both in how the attackers organize themselves and in the wide range of targets they pursue in a single campaign at the behest of disparate clients," Shane Huntley, director of Google TAG,  said  in a report.   "Some hack-for-hire attackers openly adver
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Korean cybersecurity agency released a free decryptor for Hive ransomware<a href="https://securityaffairs.co/wordpress/132770/malware/hive-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Good news for the victims of the Hive ransomware, Korean security researchers have released a free decryptor for some versions.
+
+
+
+Good news for the victims of the Hive ransomware, the South Korean cybersecurity agency KISA has released a free decryptor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Macmillan shuts down systems after likely ransomware attack<a href="https://www.bleepingcomputer.com/news/security/macmillan-shuts-down-systems-after-likely-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Publishing giant Macmillan was forced to shut down their network and offices while recovering from a security incident that appears to be a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nebraska Department of Labor Website Goes Offline Due to Third-party Breach at Vendor<a href="https://www.ketv.com/article/nebraska-officials-unemployment-site-offline-two-days/40449889?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Nebraska Department of Labor announced that the NEworks.nebraska.gov website is currently unavailable due to a national outage with their web vendor: Geographic Solutions, Inc.
+</details>
+<div style="text-align: right" markdown="1">
+ketv
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. FCC Commissioner Asks Apple and Google to Remove TikTok from App Stores<a href="https://thehackernews.com/2022/06/us-fcc-commissioner-asks-apple-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the commissioners of the U.S. Federal Communications Commission (FCC) has renewed calls asking for Apple and Google to boot the popular video-sharing platform TikTok from their app stores citing "its pattern of surreptitious data practices."  "It is clear that TikTok poses an unacceptable national security risk  due to its extensive data harvesting being combined with Beijing's apparently unchecked access to that sensitive data," Brendan Carr, a Republican member of the FCC,  wrote  in a letter to Apple and Google's chief executives.  TikTok, in September 2021,  disclosed  that there are one billion people who use its app every month, making it one of the largest social media platforms after Facebook, YouTube, WhatsApp, Instagram, and WeChat.   Carr further emphasized that the short-form video service is far from just an app for sharing funny videos or memes, calling out its features as "sheep's clothing" intended to mask its core funct
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts blame North Korea-linked Lazarus APT for the Harmony hack<a href="https://securityaffairs.co/wordpress/132759/hacking/harmony-hack-lazarus-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked Lazarus APT group is suspected to be behind the recent hack of the Harmony Horizon Bridge.
+
+
+
+Recently, threat actors have stolen $100 million in cryptocurrency from the Blockchain company Harmony.   The company reported the incident...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers worldwide backdoored with new malware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-worldwide-backdoored-with-new-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered lightweight and persistent malware was used by attackers to backdoor Microsoft Exchange servers belonging to government and military organizations from Europe, the Middle East, Asia, and Africa.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: North Korea-backed Hacking Collective Lazarus Group Suspected to be Behind Recent Harmony Bridge Attack<a href="https://www.itsecurityguru.org/2022/06/30/north-korea-backed-hacking-collective-lazarus-group-suspected-to-be-behind-recent-harmony-bridge-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 27, the culprit is said to have begun moving funds amounting to $39 million through the Tornado Cash mixer service in an attempt to obscure the ill-gotten gains and make it difficult to trace the transaction trail back to the original theft.
+</details>
+<div style="text-align: right" markdown="1">
+IT Security Guru
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is Shadow IT and why is it so risky?<a href="https://thehackernews.com/2022/06/what-is-shadow-it-and-why-is-it-so-risky.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shadow IT refers to the practice of users deploying unauthorized technology resources in order to circumvent their IT department. Users may resort to using shadow IT practices when they feel that existing IT policies are too restrictive or get in the way of them being able to do their jobs effectively.  An old school phenomenon   Shadow IT is not new. There have been countless examples of widespread shadow IT use over the years. In the early 2000s, for example, many organizations were reluctant to adopt Wi-Fi for fear that it could undermine their security efforts. However, users wanted the convenience of wireless device usage and often deployed wireless access points without the IT department's knowledge or consent.  The same thing happened when the iPad first became popular. IT departments largely prohibited iPads from being used with business data because of the inability to apply group policy settings and other security controls to the devices. Even so, users often ignored IT and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex-Canadian government employee admits to being a member of the Russian cybercrime gang NetWalker<a href="https://securityaffairs.co/wordpress/132753/cyber-crime/canadian-member-gang-netwalker-sentenced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former Canadian government IT worker admitted to being a high-level member of the Russian cybercrime group NetWalker.
+
+
+
+A former Canadian government employee, Sebastien Vachon-Desjardins, pleaded guilty in the U.S. to charges related to his involvement...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine targeted by almost 800 cyberattacks since the war started<a href="https://www.bleepingcomputer.com/news/security/ukraine-targeted-by-almost-800-cyberattacks-since-the-war-started/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian government and private sector organizations have been the target of 796 cyberattacks since the start of the war on February 24, 2022, when Russia invaded Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of New Updated '8220' Linux Malware that Installs Cryptominers<a href="https://www.zdnet.com/article/microsoft-warning-this-malware-that-targets-linux-just-got-a-big-update/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has called out recent work from the so-called "8220 gang" group, which has recently been spotted exploiting the critical bug affecting Atlassian Confluence Server and Data Center, tracked as CVE-2022-26134.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex-Canadian Government Employee Pleads Guilty Over NetWalker Ransomware Attacks<a href="https://thehackernews.com/2022/06/ex-canadian-government-employee-pleads.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former Canadian government employee this week agreed to plead guilty in the U.S. to charges related to his involvement with the NetWalker ransomware syndicate.  Sebastien Vachon-Desjardins , who was  extradited to the U.S.  on March 10, 2022, is accused of conspiracy to commit computer fraud and wire fraud, intentional damage to a protected computer, and transmitting a demand in relation to damaging a protected computer.  The 34-year-old IT consultant from Gatineau, Quebec, was initially apprehended in January 2021 following a coordinated  law enforcement operation  to dismantle the dark web infrastructure used by the NetWalker ransomware cybercrime group to publish data siphoned from its victims. The takedown also brought its activities to a standstill.  A search warrant executed at Vachon-Desjardins's home in Canada resulted in the seizure of 719 bitcoin, valued at approximately $28.1 million at the time, and $790,000 in Canadian currency.  In February 2022, the Ontario Court
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YTStealer info-stealing malware targets YouTube content creators<a href="https://securityaffairs.co/wordpress/132743/malware/ytstealer-malware-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers detailed a new information-stealing malware, dubbed YTStealer, that targets YouTube content creators.
+
+
+
+Intezer cybersecurity researchers have detailed a new information-stealing malware, dubbed YTStealer, that was developed to steal authentication...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hacktivists take down Norway govt sites in DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/russian-hacktivists-take-down-norway-govt-sites-in-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norway's National Security Authority (NSM) published a statement yesterday warning that some of the country's most important websites and online services are being rendered inaccessible due to distributed denial of service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chromium browsers vulnerable to dangling markup injection<a href="https://portswigger.net/daily-swig/chromium-browsers-vulnerable-to-dangling-markup-injection?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently-patched security hole in Chromium browsers allowed attackers to bypass safeguards against dangling markup injection’, an attack that extracts sensitive information from webpages.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Suspected to be Behind $100M Horizon Bridge Hack<a href="https://thehackernews.com/2022/06/north-korean-hackers-suspected-to-be.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious North Korea-backed hacking collective Lazarus Group is suspected to be behind the recent $100 million altcoin theft from Harmony Horizon Bridge, citing similarities to the  Ronin bridge attack  in March 2022.  The finding comes as Harmony  confirmed  that its Horizon Bridge, a  platform  that allows users to move cryptocurrency across different blockchains, had been breached last week.  The incident involved the exploiter carrying out multiple transactions on June 23 that extracted tokens stored in the bridge and subsequently made away with about $100 million in cryptocurrency.  "The stolen crypto assets included Ether (ETH), Tether (USDT), Wrapped Bitcoin (WBTC) and BNB," blockchain analytics company Elliptic  said  in a new report. "The thief immediately used Uniswap – a decentralized exchange (DEX) – to convert much of these assets into a total of 85,837 ETH."   Days later, on June 27, the culprit is said to have begun moving funds amounting to $39
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XFiles info-stealing malware adds support for Follina delivery<a href="https://www.bleepingcomputer.com/news/security/xfiles-info-stealing-malware-adds-support-for-follina-delivery/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The XFiles info-stealer malware has added a delivery module that exploits CVE-2022-30190, aka Follina, for dropping the payload on target computers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brocade Vulnerabilities Could Impact Storage Solutions of Several Major Companies<a href="https://www.securityweek.com/brocade-vulnerabilities-could-impact-storage-solutions-several-major-companies?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Broadcom, the Brocade SANnav storage area network (SAN) management application is affected by nine vulnerabilities. Patches have been made available for these security holes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google blocked dozens of domains used by hack-for-hire groups<a href="https://www.bleepingcomputer.com/news/security/google-blocked-dozens-of-domains-used-by-hack-for-hire-groups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) has blocked dozens of malicious domains and websites used by hack-for-hire groups in attacks targeting high-risk targets worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security experts urge agencies to test post-quantum cryptography algorithms now<a href="https://www.fedscoop.com/agencies-should-test-post-quantum-algorithms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Agencies should test post-quantum cryptography algorithms with their software and decide whether information security benefits outweigh the efficiency losses ahead of a federally mandated transition, according to security experts.
+</details>
+<div style="text-align: right" markdown="1">
+Fed Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AstraLocker 2.0 infects users directly from Word attachments<a href="https://www.bleepingcomputer.com/news/security/astralocker-20-infects-users-directly-from-word-attachments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A lesser-known ransomware strain called AstraLocker has recently released its second major version, and according to threat analysts, its operators engage in rapid attacks that drop its payload directly from email attachments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSea discloses data breach, warns users of phishing attacks<a href="https://www.bleepingcomputer.com/news/security/opensea-discloses-data-breach-warns-users-of-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSea, the largest non-fungible token (NFT) marketplace, disclosed a data breach on Wednesday and warned users of phishing attacks that could target them in the coming days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Walmart denies being hit by Yanluowang ransomware attack<a href="https://www.bleepingcomputer.com/news/security/walmart-denies-being-hit-by-yanluowang-ransomware-attack/"> Full Text</a>
@@ -50,7 +466,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPi Packages Caught Stealing and Making AWS Keys and More Public<a href="https://cyware.com/news/pypi-packages-caught-stealing-and-making-aws-keys-and-more-public-ff31817b"> Full Text</a>
@@ -66,7 +482,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New YTStealer Malware Aims to Hijack Accounts of YouTube Content Creators<a href="https://thehackernews.com/2022/06/new-ytstealer-malware-aims-to-hijack.html"> Full Text</a>
@@ -82,7 +498,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Path Traversal flaw in UnRAR utility can allow hacking Zimbra Mail servers<a href="https://securityaffairs.co/wordpress/132737/breaking-news/unrar-path-traversal-flaw-zimbra.html"> Full Text</a>
@@ -102,7 +518,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leaky Access Tokens Exposed Amazon Photos of Users<a href="https://threatpost.com/exposed-amazon-photos/180105/"> Full Text</a>
@@ -118,7 +534,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avaya sysadmin indicted for illegally generating, selling VoIP licenses<a href="https://www.bleepingcomputer.com/news/security/avaya-sysadmin-indicted-for-illegally-generating-selling-voip-licenses/"> Full Text</a>
@@ -134,7 +550,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 With LockBit 3.0 Launch, Hackers Announce Bug Bounty Program<a href="https://cyware.com/news/with-lockbit-30-launch-hackers-announce-bug-bounty-program-45d0d09e"> Full Text</a>
@@ -150,7 +566,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New UnRAR Vulnerability Could Let Attackers Hack Zimbra Webmail Servers<a href="https://thehackernews.com/2022/06/new-unrar-vulnerability-could-let.html"> Full Text</a>
@@ -166,7 +582,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mitre shared 2022 CWE Top 25 most dangerous software weaknesses<a href="https://securityaffairs.co/wordpress/132730/security/mitre-2022-cwe-top-25.html"> Full Text</a>
@@ -186,7 +602,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New YTStealer malware steals accounts from YouTube Creators<a href="https://www.bleepingcomputer.com/news/security/new-ytstealer-malware-steals-accounts-from-youtube-creators/"> Full Text</a>
@@ -202,7 +618,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Link Between AWM Proxy & the Glupteba Botnet – Krebs on Security<a href="https://krebsonsecurity.com/2022/06/the-link-between-awm-proxy-the-glupteba-botnet/?&web_view=true"> Full Text</a>
@@ -218,7 +634,7 @@ Krebs on Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'FabricScape' Bug in Microsoft Azure Service Fabric Impacts Linux Workloads<a href="https://thehackernews.com/2022/06/new-fabricscape-bug-in-microsoft-azure.html"> Full Text</a>
@@ -234,7 +650,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomHouse gang claims to have stolen 450GB of data from chip maker giant AMD<a href="https://securityaffairs.co/wordpress/132721/cyber-crime/ransomhouse-hacked-amd.html"> Full Text</a>
@@ -254,7 +670,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns of hackers exploiting PwnKit Linux vulnerability<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-pwnkit-linux-vulnerability/"> Full Text</a>
@@ -270,7 +686,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Keona Clipper Steals Cryptocurrency Payments<a href="https://cyware.com/news/keona-clipper-steals-cryptocurrency-payments-982a979a"> Full Text</a>
@@ -286,7 +702,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thunderbird 102 released with highly anticipated features, bug fixes<a href="https://www.bleepingcomputer.com/news/software/thunderbird-102-released-with-highly-anticipated-features-bug-fixes/"> Full Text</a>
@@ -302,7 +718,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firefox 102 Patches 19 Vulnerabilities, Improves Privacy<a href="https://www.securityweek.com/firefox-102-patches-19-vulnerabilities-improves-privacy?&web_view=true"> Full Text</a>
@@ -318,7 +734,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine arrests cybercrime gang operating over 400 phishing sites<a href="https://www.bleepingcomputer.com/news/security/ukraine-arrests-cybercrime-gang-operating-over-400-phishing-sites/"> Full Text</a>
@@ -334,7 +750,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Threat Actor Targets Rare Earth Mining Companies in North America, Australia<a href="https://www.securityweek.com/chinese-threat-actor-targets-rare-earth-mining-companies-north-america-australia?&web_view=true"> Full Text</a>
@@ -350,7 +766,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns orgs to switch to Exchange Online Modern Auth until October<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-orgs-to-switch-to-exchange-online-modern-auth-until-october/"> Full Text</a>
@@ -366,7 +782,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AstraLocker 2.0 pushes ransomware direct from Office docs<a href="https://blog.reversinglabs.com/blog/smash-and-grab-astralocker-2-pushes-ransomware-direct-from-office-docs?&web_view=true"> Full Text</a>
@@ -382,7 +798,7 @@ ReversingLabs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Workspace now alerts of critical changes to admin accounts<a href="https://www.bleepingcomputer.com/news/security/google-workspace-now-alerts-of-critical-changes-to-admin-accounts/"> Full Text</a>
@@ -398,7 +814,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ready Meal Distributor Apetito Restores Limited Deliveries in UK Following Cyberattack<a href="https://portswigger.net/daily-swig/ready-meal-distributor-apetito-restores-limited-deliveries-in-uk-following-cyber-attack?&web_view=true"> Full Text</a>
@@ -414,7 +830,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon fixes high-severity vulnerability in Android Photos app<a href="https://www.bleepingcomputer.com/news/security/amazon-fixes-high-severity-vulnerability-in-android-photos-app/"> Full Text</a>
@@ -430,7 +846,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Raccoon Stealer Reappears With a New Version<a href="https://cyware.com/news/raccoon-stealer-reappears-with-a-new-version-94354169"> Full Text</a>
@@ -446,7 +862,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2022
+June 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Azure FabricScape bug let hackers hijack Linux clusters<a href="https://www.bleepingcomputer.com/news/security/microsoft-azure-fabricscape-bug-let-hackers-hijack-linux-clusters/"> Full Text</a>
@@ -462,7 +878,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top Six Security Bad Habits, and How to Break Them<a href="https://threatpost.com/six-bad-habits-break/180082/"> Full Text</a>
@@ -478,7 +894,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Active Exploitation of 'PwnKit' Linux Vulnerability in the Wild<a href="https://thehackernews.com/2022/06/cisa-warns-of-active-exploitation-of.html"> Full Text</a>
@@ -494,7 +910,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2022
+June 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ZuoRAT malware hijacks SOHO Routers to spy in the vitims<a href="https://securityaffairs.co/wordpress/132709/hacking/zuorat-soho-campaign.html"> Full Text</a>
