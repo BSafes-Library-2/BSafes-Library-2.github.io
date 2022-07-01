@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of hackers exploiting PwnKit Linux vulnerability<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-pwnkit-linux-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity Linux&nbsp;vulnerability&nbsp;known as PwnKit&nbsp;to its list of bugs exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns orgs to switch to Exchange Online Modern Auth until October<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-orgs-to-switch-to-exchange-online-modern-auth-until-october/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA&nbsp;has urged government agencies and private sector organizations using&nbsp;Microsoft's&nbsp;Exchange cloud&nbsp;email platform to expedite the switch from&nbsp;Basic Authentication&nbsp;legacy authentication methods without&nbsp;multifactor authentication (MFA) support to&nbsp;Modern Authentication&nbsp;alternatives.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Active Exploitation of 'PwnKit' Linux Vulnerability in the Wild<a href="https://thehackernews.com/2022/06/cisa-warns-of-active-exploitation-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) this week moved to&nbsp; add &nbsp;a Linux vulnerability dubbed&nbsp; PwnKit &nbsp;to its&nbsp; Known Exploited Vulnerabilities Catalog , citing evidence of active exploitation.  The issue, tracked as&nbsp; CVE-2021-4034 &nbsp;(CVSS score: 7.8), came to light in January 2022 and concerns a case of&nbsp; local privilege escalation &nbsp;in polkit's pkexec utility, which allows an authorized user to execute commands as another user.   Polkit (formerly called PolicyKit) is a toolkit for controlling system-wide privileges in Unix-like operating systems, and provides a mechanism for non-privileged processes to communicate with privileged processes.  Successful exploitation of the flaw could induce pkexec to execute arbitrary code, granting an unprivileged attacker administrative rights on the target machine and compromising the host.  It's not immediately clear how the vulnerability is being weaponized in the wild, nor is there any information on the identity of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

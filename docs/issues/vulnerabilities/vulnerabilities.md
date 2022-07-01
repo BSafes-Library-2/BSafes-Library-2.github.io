@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chromium browsers vulnerable to dangling markup injection<a href="https://portswigger.net/daily-swig/chromium-browsers-vulnerable-to-dangling-markup-injection?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently-patched security hole in Chromium browsers allowed attackers to bypass safeguards against dangling markup injection’, an attack that extracts sensitive information from webpages.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brocade Vulnerabilities Could Impact Storage Solutions of Several Major Companies<a href="https://www.securityweek.com/brocade-vulnerabilities-could-impact-storage-solutions-several-major-companies?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Broadcom, the Brocade SANnav storage area network (SAN) management application is affected by nine vulnerabilities. Patches have been made available for these security holes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

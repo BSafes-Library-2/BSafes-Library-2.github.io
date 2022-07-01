@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts blame North Korea-linked Lazarus APT for the Harmony hack<a href="https://securityaffairs.co/wordpress/132759/hacking/harmony-hack-lazarus-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked Lazarus APT group is suspected to be behind the recent hack of the Harmony Horizon Bridge.
+
+
+
+Recently, threat actors have stolen $100 million in cryptocurrency from the Blockchain company Harmony.   The company reported the incident...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

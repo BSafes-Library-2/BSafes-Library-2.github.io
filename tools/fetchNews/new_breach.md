@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSea discloses data breach, warns users of phishing attacks<a href="https://www.bleepingcomputer.com/news/security/opensea-discloses-data-breach-warns-users-of-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSea, the largest non-fungible token (NFT) marketplace, disclosed a data breach on Wednesday and warned users of phishing attacks that could target them in the coming days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

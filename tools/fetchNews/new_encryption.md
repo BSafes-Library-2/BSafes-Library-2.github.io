@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security experts urge agencies to test post-quantum cryptography algorithms now<a href="https://www.fedscoop.com/agencies-should-test-post-quantum-algorithms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Agencies should test post-quantum cryptography algorithms with their software and decide whether information security benefits outweigh the efficiency losses ahead of a federally mandated transition, according to security experts.
+</details>
+<div style="text-align: right" markdown="1">
+Fed Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

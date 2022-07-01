@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Toll fraud malware disables your WiFi to force premium subscriptions<a href="https://www.bleepingcomputer.com/news/security/toll-fraud-malware-disables-your-wifi-to-force-premium-subscriptions/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Norway Hit by Disruptive Cyberattack, Pro-Russian Hacker Group Suspected to be the Culprit<a href="https://www.cnbc.com/2022/06/30/cyberattack-hits-norway-pro-russian-hacker-group-suspected.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ CNBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Blocks Dozens of Malicious Domains Operated by Hack-for-Hire Groups<a href="https://thehackernews.com/2022/06/google-blocks-dozens-of-malicious.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Korean cybersecurity agency released a free decryptor for Hive ransomware<a href="https://securityaffairs.co/wordpress/132770/malware/hive-ransomware-decryptor.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Macmillan shuts down systems after likely ransomware attack<a href="https://www.bleepingcomputer.com/news/security/macmillan-shuts-down-systems-after-likely-ransomware-attack/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nebraska Department of Labor Website Goes Offline Due to Third-party Breach at Vendor<a href="https://www.ketv.com/article/nebraska-officials-unemployment-site-offline-two-days/40449889?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ ketv
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. FCC Commissioner Asks Apple and Google to Remove TikTok from App Stores<a href="https://thehackernews.com/2022/06/us-fcc-commissioner-asks-apple-and.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts blame North Korea-linked Lazarus APT for the Harmony hack<a href="https://securityaffairs.co/wordpress/132759/hacking/harmony-hack-lazarus-apt.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange servers worldwide backdoored with new malware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-worldwide-backdoored-with-new-malware/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: North Korea-backed Hacking Collective Lazarus Group Suspected to be Behind Recent Harmony Bridge Attack<a href="https://www.itsecurityguru.org/2022/06/30/north-korea-backed-hacking-collective-lazarus-group-suspected-to-be-behind-recent-harmony-bridge-attack/?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ IT Security Guru
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What is Shadow IT and why is it so risky?<a href="https://thehackernews.com/2022/06/what-is-shadow-it-and-why-is-it-so-risky.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ex-Canadian government employee admits to being a member of the Russian cybercrime gang NetWalker<a href="https://securityaffairs.co/wordpress/132753/cyber-crime/canadian-member-gang-netwalker-sentenced.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine targeted by almost 800 cyberattacks since the war started<a href="https://www.bleepingcomputer.com/news/security/ukraine-targeted-by-almost-800-cyberattacks-since-the-war-started/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of New Updated '8220' Linux Malware that Installs Cryptominers<a href="https://www.zdnet.com/article/microsoft-warning-this-malware-that-targets-linux-just-got-a-big-update/?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ex-Canadian Government Employee Pleads Guilty Over NetWalker Ransomware Attacks<a href="https://thehackernews.com/2022/06/ex-canadian-government-employee-pleads.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 YTStealer info-stealing malware targets YouTube content creators<a href="https://securityaffairs.co/wordpress/132743/malware/ytstealer-malware-dark-web.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian hacktivists take down Norway govt sites in DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/russian-hacktivists-take-down-norway-govt-sites-in-ddos-attacks/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chromium browsers vulnerable to dangling markup injection<a href="https://portswigger.net/daily-swig/chromium-browsers-vulnerable-to-dangling-markup-injection?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Suspected to be Behind $100M Horizon Bridge Hack<a href="https://thehackernews.com/2022/06/north-korean-hackers-suspected-to-be.html"> Full Text</a>
@@ -354,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XFiles info-stealing malware adds support for Follina delivery<a href="https://www.bleepingcomputer.com/news/security/xfiles-info-stealing-malware-adds-support-for-follina-delivery/"> Full Text</a>
@@ -370,7 +370,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brocade Vulnerabilities Could Impact Storage Solutions of Several Major Companies<a href="https://www.securityweek.com/brocade-vulnerabilities-could-impact-storage-solutions-several-major-companies?&web_view=true"> Full Text</a>
@@ -386,7 +386,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google blocked dozens of domains used by hack-for-hire groups<a href="https://www.bleepingcomputer.com/news/security/google-blocked-dozens-of-domains-used-by-hack-for-hire-groups/"> Full Text</a>
@@ -402,7 +402,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security experts urge agencies to test post-quantum cryptography algorithms now<a href="https://www.fedscoop.com/agencies-should-test-post-quantum-algorithms/?&web_view=true"> Full Text</a>
@@ -418,7 +418,7 @@ Fed Scoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AstraLocker 2.0 infects users directly from Word attachments<a href="https://www.bleepingcomputer.com/news/security/astralocker-20-infects-users-directly-from-word-attachments/"> Full Text</a>
@@ -434,7 +434,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSea discloses data breach, warns users of phishing attacks<a href="https://www.bleepingcomputer.com/news/security/opensea-discloses-data-breach-warns-users-of-phishing-attacks/"> Full Text</a>

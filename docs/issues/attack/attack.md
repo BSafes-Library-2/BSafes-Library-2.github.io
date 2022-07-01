@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norway Hit by Disruptive Cyberattack, Pro-Russian Hacker Group Suspected to be the Culprit<a href="https://www.cnbc.com/2022/06/30/cyberattack-hits-norway-pro-russian-hacker-group-suspected.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wednesday’s cyberattack on Norway came two days after a similar attack temporarily knocked out public and private websites in Lithuania with a pro-Moscow hacker group reportedly claiming responsibility.
+</details>
+<div style="text-align: right" markdown="1">
+CNBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

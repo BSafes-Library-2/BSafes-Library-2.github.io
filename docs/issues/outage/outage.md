@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Macmillan shuts down systems after likely ransomware attack<a href="https://www.bleepingcomputer.com/news/security/macmillan-shuts-down-systems-after-likely-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Publishing giant Macmillan was forced to shut down their network and offices while recovering from a security incident that appears to be a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nebraska Department of Labor Website Goes Offline Due to Third-party Breach at Vendor<a href="https://www.ketv.com/article/nebraska-officials-unemployment-site-offline-two-days/40449889?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Nebraska Department of Labor announced that the NEworks.nebraska.gov website is currently unavailable due to a national outage with their web vendor: Geographic Solutions, Inc.
+</details>
+<div style="text-align: right" markdown="1">
+ketv
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Blocks Dozens of Malicious Domains Operated by Hack-for-Hire Groups<a href="https://thehackernews.com/2022/06/google-blocks-dozens-of-malicious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) on Thursday disclosed it had acted to block as many as 36 malicious domains operated by hack-for-hire groups from India, Russia, and the U.A.E.  In a manner analogous to the&nbsp; surveillanceware ecosystem , hack-for-hire firms equip their clients with capabilities to enable targeted attacks aimed at corporates as well as activists, journalists, politicians, and other high-risk users.  Where the two stand apart is that while customers purchase the spyware from commercial vendors and then deploy it themselves, the operators behind hack-for-hire attacks are known to conduct the intrusions on their clients' behalf in order to obscure their role.  "The hack-for-hire landscape is fluid, both in how the attackers organize themselves and in the wide range of targets they pursue in a single campaign at the behest of disparate clients," Shane Huntley, director of Google TAG,&nbsp; said &nbsp;in a report.   "Some hack-for-hire attackers openly adver
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

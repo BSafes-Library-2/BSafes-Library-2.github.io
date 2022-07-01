@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+With LockBit 3.0 Launch, Hackers Announce Bug Bounty Program<a href="https://cyware.com/news/with-lockbit-30-launch-hackers-announce-bug-bounty-program-45d0d09e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit RaaS launched LockBit 3.0, the first-ever ransomware bug bounty program for security experts to submit bug reports and get rewarded with up to $1 million. Various bug bounty categories include website bugs (such as XSS vulnerabilities, and MySQL injections), Locker bugs (bugs in the ran ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AstraLocker 2.0 pushes ransomware direct from Office docs<a href="https://blog.reversinglabs.com/blog/smash-and-grab-astralocker-2-pushes-ransomware-direct-from-office-docs?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ReversingLabs recently discovered a new version of the AstraLocker ransomware (AstraLocker 2.0) that was being distributed directly from Microsoft Office files used as bait in phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ReversingLabs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

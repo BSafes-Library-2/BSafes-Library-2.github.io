@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Walmart denies being hit by Yanluowang ransomware attack<a href="https://www.bleepingcomputer.com/news/security/walmart-denies-being-hit-by-yanluowang-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American retailer Walmart has denied&nbsp;being hit with a ransomware attack by the Yanluowang&nbsp;gang after the hackers claimed to encrypt thousands of computers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Threat Actor Targets Rare Earth Mining Companies in North America, Australia<a href="https://www.securityweek.com/chinese-threat-actor-targets-rare-earth-mining-companies-north-america-australia?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant’s security researchers have been tracking influence campaigns that a Chinese threat actor named Dragonbridge has been conducting against rare earth mining companies in Australia, Canada, and the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex-Canadian Government Employee Pleads Guilty Over NetWalker Ransomware Attacks<a href="https://thehackernews.com/2022/06/ex-canadian-government-employee-pleads.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former Canadian government employee this week agreed to plead guilty in the U.S. to charges related to his involvement with the NetWalker ransomware syndicate.  Sebastien Vachon-Desjardins , who was&nbsp; extradited to the U.S. &nbsp;on March 10, 2022, is accused of conspiracy to commit computer fraud and wire fraud, intentional damage to a protected computer, and transmitting a demand in relation to damaging a protected computer.  The 34-year-old IT consultant from Gatineau, Quebec, was initially apprehended in January 2021 following a coordinated&nbsp; law enforcement operation &nbsp;to dismantle the dark web infrastructure used by the NetWalker ransomware cybercrime group to publish data siphoned from its victims. The takedown also brought its activities to a standstill.  A search warrant executed at Vachon-Desjardins's home in Canada resulted in the seizure of 719 bitcoin, valued at approximately $28.1 million at the time, and $790,000 in Canadian currency.  In February 2022, the Ontario Court
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

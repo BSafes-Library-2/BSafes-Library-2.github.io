@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaky Access Tokens Exposed Amazon Photos of Users<a href="https://threatpost.com/exposed-amazon-photos/180105/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers with Amazon users’ authentication tokens could’ve stolen or encrypted personal photos and documents.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

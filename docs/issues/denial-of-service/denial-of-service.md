@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hacktivists take down Norway govt sites in DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/russian-hacktivists-take-down-norway-govt-sites-in-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norway's National Security Authority (NSM) published a statement yesterday warning that some of the country's most important websites and online services are being rendered inaccessible due to distributed denial of service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

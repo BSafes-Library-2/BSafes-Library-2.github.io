@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Korean cybersecurity agency released a free decryptor for Hive ransomware<a href="https://securityaffairs.co/wordpress/132770/malware/hive-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Good news for the victims of the Hive ransomware, Korean security researchers have released a free decryptor for some versions.
+
+
+
+Good news for the victims of the Hive ransomware, the South Korean cybersecurity agency KISA has released a free decryptor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AstraLocker 2.0 infects users directly from Word attachments<a href="https://www.bleepingcomputer.com/news/security/astralocker-20-infects-users-directly-from-word-attachments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A lesser-known ransomware strain called AstraLocker has recently released its second major version, and according to threat analysts, its operators engage in rapid attacks that drop its payload directly from email attachments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
