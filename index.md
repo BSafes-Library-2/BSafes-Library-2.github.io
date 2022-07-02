@@ -34,6 +34,406 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers allegedly target Ukraine's biggest private energy firm<a href="https://edition.cnn.com/2022/07/01/politics/russia-ukraine-dtek-hack/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian hackers carried out a "cyberattack" on Ukraine's biggest private energy conglomerate, the DTEK Group, in retaliation for its owner's opposition to Russia's war in Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A ransomware attack forced publishing giant Macmillan to shuts down its systems<a href="https://securityaffairs.co/wordpress/132792/cyber-crime/macmillan-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack forced the American publishing giant Macmillan to shut down its IT systems. 
+
+
+
+The publishing giant Macmillan has been hit by a cyberattack that forced the company to shut down its IT infrastructure to prevent the threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AstraLocker 2.0 ransomware isn't going to give you your files back<a href="https://blog.malwarebytes.com/ransomware/2022/07/astralocker-2-0-ransomware-isnt-going-to-give-you-your-files-back/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reversing Labs reports that the latest version of AstraLocker ransomware is engaged in a so-called “smash and grab” ransomware operation that is all about maxing out profits in the fastest time.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho ManageEngine ADAudit Plus bug gets public RCE exploit<a href="https://www.bleepingcomputer.com/news/security/zoho-manageengine-adaudit-plus-bug-gets-public-rce-exploit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have published technical details and proof-of-concept exploit code for CVE-2022-28219, a critical vulnerability in the Zoho ManageEngine ADAudit Plus tool for monitoring activities in the Active Directory.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Assures U.S. Lawmakers it's Working to Safeguard User Data From Chinese Staff<a href="https://thehackernews.com/2022/07/tiktok-assures-us-lawmakers-its-working.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following heightened worries that U.S. users' data had been accessed by TikTok engineers in China between September 2021 and January 2022, the company sought to assuage U.S. lawmakers that it's taking steps to "strengthen data security."  The admission that some China-based employees can access information from U.S. users came in a letter sent to nine senators, which further noted that the procedure requires the individuals to clear numerous internal security protocols.  The contents of the letter, first  reported  by The New York Times, shares more details about TikTok's plans to address data security concerns through a multi-pronged initiative codenamed "Project Texas."   "Employees outside the U.S., including China-based employees, can have access to TikTok U.S. user data subject to a series of robust cybersecurity controls and authorization approval protocols overseen by our U.S.-based security team," TikTok CEO Shou Zi Chew wrote in the m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - July 1st 2022 - Bug Bounties<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-1st-2022-bug-bounties/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has been relatively busy this week with new ransomware attacks unveiled, a bug bounty program introduced, and new tactics used by the threat actors to distribute their encryptors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns About Evolving Capabilities of Toll Fraud Android Malware Apps<a href="https://thehackernews.com/2022/07/microsoft-warns-about-evolving.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has detailed the evolving capabilities of toll fraud malware apps on Android, pointing out its "complex multi-step attack flow" and an improved mechanism to evade security analysis.  Toll fraud belongs to a category of billing fraud wherein malicious mobile applications come with hidden subscription fees, roping in unsuspecting users to premium content without their knowledge or consent.  It's also different from other  fleeceware threats  in that the malicious functions are only carried out when a compromised device is connected to one of its target network operators.  "It also, by default, uses cellular connection for its activities and forces devices to connect to the mobile network even if a Wi-Fi connection is available," Dimitrios Valsamaras and Sang Shin Jung of the Microsoft 365 Defender Research Team  said  in an exhaustive analysis.  "Once the connection to a target network is confirmed, it stealthily initiates a fraudulent subscription
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SessionManager Backdoor employed in attacks on Microsoft IIS servers worldwide<a href="https://securityaffairs.co/wordpress/132783/malware/sessionmanager-backdoor-ms-iis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a new 'SessionManager' Backdoor that was employed in attacks targeting Microsoft IIS Servers since March 2021. 
+
+
+
+Researchers from Kaspersky Lab have discovered a new 'SessionManager' Backdoor that was employed in attacks targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders agencies to patch Windows LSA bug exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-windows-lsa-bug-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has re-added a security bug affecting Windows devices to its list of bugs exploited in the wild after removing it in May due to Active Directory (AD) certificate authentication issues caused by Microsoft's May 2022 updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Emerges From the Dead - Warn Experts<a href="https://cyware.com/news/black-basta-emerges-from-the-dead-warn-experts-968d827b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Before deploying the ransomware, operators infiltrate and move laterally across the entire network, performing a full-fledged RansomOps attack. Similar to other groups, Black Basta employs the double extortion tactic.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Improves Its Password Manager to Boost Security Across All Platforms<a href="https://thehackernews.com/2022/07/google-improves-its-password-manager-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday announced a slew of improvements to its  password manager  service aimed at creating a more consistent look and feel across different platforms.  Central to the changes is a "simplified and unified management experience that's the same in Chrome and Android settings," Ali Sarraf, Google Chrome product manager,  said  in a blog post.   The updates are also expected to automatically group multiple passwords for the same sites as well as introduce an option to manually add passwords. Although Google appears to be not ready yet to make Password Manager as a standalone app, users on Android can now add a shortcut to it on the homescreen.   In a related change on iOS, should users opt for Chrome as the  default autofill provider , Password Manager now comes with the ability to generate unique, strong passwords.   The built-in Password Checkup feature on Android is receiving an upgrade of its own too. Beyond checking for hacked credentials, it can further hig
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A long-running cryptomining campaign conducted by 8220 hackers now targets Linux servers<a href="https://securityaffairs.co/wordpress/132777/cyber-crime/8220-cryptomining-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft spotted a cloud threat actor tracked as 8220 that is now targeting Linux servers in a long-running cryptomining campaign.
+
+
+
+Microsoft Security Intelligence experts are warning of a long-running campaign conducted by a cloud threat actor group,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft updates Azure AD with support for temporary passcodes<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-azure-ad-with-support-for-temporary-passcodes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Azure Active Directory (Azure AD) now allows admins to issue time-limited passcodes that can be used to register new passwordless authentication methods, during Windows onboarding, or to recover accounts easier when losing credentials or FIDO2 keys.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bumblebee Buzzes to Forefront of Ransomware Ecosystem<a href="https://cyware.com/news/bumblebee-buzzes-to-forefront-of-ransomware-ecosystem-f22a145f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bumblebee has been linked to ransomware operations by Conti, Quantum, and Mountlocker, which signifies that the malware is now at the forefront of the ransomware ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'SessionManager' Backdoor Targeting Microsoft IIS Servers in the Wild<a href="https://thehackernews.com/2022/07/new-sessionmanager-backdoor-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered malware has been put to use in the wild at least since March 2021 to backdoor Microsoft Exchange servers belonging to a wide range of entities worldwide, with infections lingering in 20 organizations as of June 2022.  Dubbed  SessionManager , the malicious tool masquerades as a module for Internet Information Services ( IIS ), a web server software for Windows systems, after exploiting one of the ProxyLogon flaws within Exchange servers.   Targets included 24 distinct NGOs, government, military, and industrial organizations spanning Africa, South America, Asia, Europe, Russia and the Middle East. A total of 34 servers have been compromised by a SessionManager variant to date.   This is far from the first time the technique has been  observed in real-world attacks . The use of a rogue IIS module as a means to distribute stealthy implants has its echoes in an Outlook credential stealer called  Owowa  that came to light in December 2021.  "Dropping an IIS module a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian hackers launched a massive DDoS attack against Norway<a href="https://securityaffairs.co/wordpress/132765/hacking/legion-ddos-norway.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norway's National Security Authority (NSM) confirmed that a DDoS attack took down some of the country's most important websites.
+
+
+
+Norway's National Security Authority (NSM) confirmed that some of the country's most important websites and online services...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins discloses dozens of zero-day bugs in multiple plugins<a href="https://www.bleepingcomputer.com/news/security/jenkins-discloses-dozens-of-zero-day-bugs-in-multiple-plugins/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Thursday, the Jenkins security team announced 34 security vulnerabilities affecting 29 plugins for the Jenkins open source automation server, 29 of the bugs being zero-days still waiting to be patched.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evilnum APT Returns with Better TTPs<a href="https://cyware.com/news/evilnum-apt-returns-with-better-ttps-24bb29a3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign uses macro-laden documents that have varying filenames, containing the term ‘compliance’. At least nine such documents have been identified.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Solving the indirect vulnerability enigma - fixing indirect vulnerabilities without breaking your dependency tree<a href="https://thehackernews.com/2022/07/solving-indirect-vulnerability-enigma.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fixing indirect vulnerabilities is one of those complex, tedious and, quite frankly, boring tasks that no one really wants to touch. No one except for  Debricked , it seems. Sure, there are lots of ways to do it manually, but can it be done automatically with minimal risk of breaking changes? The Debricked team decided to find out.   A forest full of fragile trees  So, where do you even start?  Firstly, there needs to be a way to fix the vulnerability, which, for indirect dependencies, is no walk in the park. Secondly, it needs to be done in a safe way, or, without anything breaking.   You see, indirect dependencies are introduced deep down the dependency tree and it's very tricky to get to the exact version you want. As Debricked's Head of R&D once put it, " You are turning the knobs by playing around with your direct dependencies and praying to Torvalds that the correct indirect packages are resolved. When Torvalds is in your favour, you have to sacrifice some cloud
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Toll Fraud Malware on Android That Switches Off Wi-Fi, Empties Users' Wallets<a href="https://www.zdnet.com/article/microsoft-this-android-malware-will-switch-off-your-wi-fi-empty-your-wallet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft explains in a blogpost that WAP fraud malware on Android is capable of targeting users of specific network operators and uses dynamic code loading -- a method for hiding malicious behavior.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Quietly Patches 'High Severity' Vulnerability in Android Photos App<a href="https://thehackernews.com/2022/07/amazon-quietly-patches-high-severity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon, in December 2021, patched a high severity vulnerability affecting its  Photos app  for Android that could have been exploited to steal a user's access tokens.  "The Amazon access token is used to authenticate the user across multiple Amazon APIs, some of which contain personal data such as full name, email, and address," Checkmarx researchers João Morais and Pedro Umbelino  said . "Others, like the Amazon Drive API, allow an attacker full access to the user's files."   The Israeli application security testing company reported the issue to Amazon on November 7, 2021, following which the tech giant rolled out a fix on December 18, 2021.  The leak is the result of a misconfiguration in one of the app's components named "com.amazon.gallery.thor.app.activity.ThorViewActivity" that's defined in the  AndroidManifest.xml file  and which, when launched, initiates an HTTP request with a header containing the access token.   In a nutshell, it
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inspectiv Closes USD8.6M in Series A Funding<a href="https://www.finsmes.com/2022/06/inspectiv-closes-usd8-6m-in-series-a-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series A funding round, which brings total capital raised to more than $16 million, was led by StepStone Group with participation from Fika Ventures, Freestyle and Mucker Capital.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gitlab patches critical RCE bug in latest security release<a href="https://portswigger.net/daily-swig/gitlab-patches-critical-rce-bug-in-latest-security-release?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security issue, which has been rated as critical, has been discovered in all versions of GitLab, starting from 14.0 prior to 14.10.5, 15.0 prior to 15.0.4, and 15.1 prior to 15.1.1.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Cryptomining Malware Campaign Targeting Linux Servers<a href="https://thehackernews.com/2022/06/microsoft-warns-of-cryptomining-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cloud threat actor group tracked as 8220 has updated its malware toolset to breach Linux servers with the goal of installing crypto miners as part of a long-running campaign.  "The updates include the deployment of new versions of a crypto miner and an IRC bot," Microsoft Security Intelligence said  in a series of tweets on Thursday. "The group has actively updated its techniques and payloads over the last year."  8220, active since early 2017 , is a Chinese-speaking, Monero-mining threat actor so named for its preference to communicate with command-and-control (C2) servers over port 8220. It's also the developer of a tool called whatMiner, which has been co-opted by the Rocke  cybercrime group in their attacks.   In July 2019, the Alibaba Cloud Security Team uncovered  an extra shift in the adversary's tactics, noting its use of rootkits to hide the mining program. Two years later, the gang resurfaced  with Tsunami IRC botnet  variants and a custom "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
