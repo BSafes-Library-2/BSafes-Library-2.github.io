@@ -8,6 +8,48 @@ nav_order: 900195
 
 ## Solution
 ---
+July 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Improves Its Password Manager to Boost Security Across All Platforms<a href="https://thehackernews.com/2022/07/google-improves-its-password-manager-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday announced a slew of improvements to its&nbsp; password manager &nbsp;service aimed at creating a more consistent look and feel across different platforms.  Central to the changes is a "simplified and unified management experience that's the same in Chrome and Android settings," Ali Sarraf, Google Chrome product manager,&nbsp; said &nbsp;in a blog post.   The updates are also expected to automatically group multiple passwords for the same sites as well as introduce an option to manually add passwords. Although Google appears to be not ready yet to make Password Manager as a standalone app, users on Android can now add a shortcut to it on the homescreen.   In a related change on iOS, should users opt for Chrome as the&nbsp; default autofill provider , Password Manager now comes with the ability to generate unique, strong passwords.   The built-in Password Checkup feature on Android is receiving an upgrade of its own too. Beyond checking for hacked credentials, it can further hig
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft updates Azure AD with support for temporary passcodes<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-azure-ad-with-support-for-temporary-passcodes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Azure Active Directory (Azure AD) now allows admins to issue time-limited passcodes that can be used to register new passwordless authentication methods, during Windows onboarding, or&nbsp;to recover accounts easier when losing credentials or&nbsp;FIDO2 keys.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Solving the indirect vulnerability enigma - fixing indirect vulnerabilities without breaking your dependency tree<a href="https://thehackernews.com/2022/07/solving-indirect-vulnerability-enigma.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fixing indirect vulnerabilities is one of those complex, tedious and, quite frankly, boring tasks that no one really wants to touch. No one except for&nbsp; Debricked , it seems. Sure, there are lots of ways to do it manually, but can it be done automatically with minimal risk of breaking changes? The Debricked team decided to find out.&nbsp;  A forest full of fragile trees  So, where do you even start?  Firstly, there needs to be a way to fix the vulnerability, which, for indirect dependencies, is no walk in the park. Secondly, it needs to be done in a safe way, or, without anything breaking.&nbsp;  You see, indirect dependencies are introduced deep down the dependency tree and it's very tricky to get to the exact version you want. As Debricked's Head of R&amp;D once put it, " You are turning the knobs by playing around with your direct dependencies and praying to Torvalds that the correct indirect packages are resolved. When Torvalds is in your favour, you have to sacrifice some cloud
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

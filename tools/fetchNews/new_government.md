@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+July 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders agencies to patch Windows LSA bug exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-windows-lsa-bug-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has re-added a security bug affecting Windows devices to its list of bugs exploited in the wild after removing it in May due to Active Directory (AD) certificate authentication issues caused by Microsoft's May 2022 updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

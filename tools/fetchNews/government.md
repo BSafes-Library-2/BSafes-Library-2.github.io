@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. FCC Commissioner Asks Apple and Google to Remove TikTok from App Stores<a href="https://thehackernews.com/2022/06/us-fcc-commissioner-asks-apple-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the commissioners of the U.S. Federal Communications Commission (FCC) has renewed calls asking for Apple and Google to boot the popular video-sharing platform TikTok from their app stores citing "its pattern of surreptitious data practices."  "It is clear that TikTok poses an unacceptable national security risk  due to its extensive data harvesting being combined with Beijing's apparently unchecked access to that sensitive data," Brendan Carr, a Republican member of the FCC,&nbsp; wrote &nbsp;in a letter to Apple and Google's chief executives.  TikTok, in September 2021,&nbsp; disclosed &nbsp;that there are one billion people who use its app every month, making it one of the largest social media platforms after Facebook, YouTube, WhatsApp, Instagram, and WeChat.   Carr further emphasized that the short-form video service is far from just an app for sharing funny videos or memes, calling out its features as "sheep's clothing" intended to mask its core funct
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+July 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A long-running cryptomining campaign conducted by 8220 hackers now targets Linux servers<a href="https://securityaffairs.co/wordpress/132777/cyber-crime/8220-cryptomining-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft spotted a cloud threat actor tracked as 8220 that is now targeting Linux servers in a long-running cryptomining campaign.
+
+
+
+Microsoft Security Intelligence experts are warning of a long-running campaign conducted by a cloud threat actor group,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

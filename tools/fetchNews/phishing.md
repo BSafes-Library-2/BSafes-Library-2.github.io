@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google blocked dozens of domains used by hack-for-hire groups<a href="https://www.bleepingcomputer.com/news/security/google-blocked-dozens-of-domains-used-by-hack-for-hire-groups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) has blocked dozens of malicious domains and websites used by hack-for-hire groups in attacks targeting high-risk targets worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

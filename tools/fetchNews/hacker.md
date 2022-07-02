@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: North Korea-backed Hacking Collective Lazarus Group Suspected to be Behind Recent Harmony Bridge Attack<a href="https://www.itsecurityguru.org/2022/06/30/north-korea-backed-hacking-collective-lazarus-group-suspected-to-be-behind-recent-harmony-bridge-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 27, the culprit is said to have begun moving funds amounting to $39 million through the Tornado Cash mixer service in an attempt to obscure the ill-gotten gains and make it difficult to trace the transaction trail back to the original theft.
+</details>
+<div style="text-align: right" markdown="1">
+IT Security Guru
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Suspected to be Behind $100M Horizon Bridge Hack<a href="https://thehackernews.com/2022/06/north-korean-hackers-suspected-to-be.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious North Korea-backed hacking collective Lazarus Group is suspected to be behind the recent $100 million altcoin theft from Harmony Horizon Bridge, citing similarities to the&nbsp; Ronin bridge attack &nbsp;in March 2022.  The finding comes as Harmony&nbsp; confirmed &nbsp;that its Horizon Bridge, a&nbsp; platform &nbsp;that allows users to move cryptocurrency across different blockchains, had been breached last week.  The incident involved the exploiter carrying out multiple transactions on June 23 that extracted tokens stored in the bridge and subsequently made away with about $100 million in cryptocurrency.  "The stolen crypto assets included Ether (ETH), Tether (USDT), Wrapped Bitcoin (WBTC) and BNB," blockchain analytics company Elliptic&nbsp; said &nbsp;in a new report. "The thief immediately used Uniswap – a decentralized exchange (DEX) – to convert much of these assets into a total of 85,837 ETH."   Days later, on June 27, the culprit is said to have begun moving funds amounting to $39
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

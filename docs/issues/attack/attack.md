@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+July 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers allegedly target Ukraine's biggest private energy firm<a href="https://edition.cnn.com/2022/07/01/politics/russia-ukraine-dtek-hack/index.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian hackers carried out a "cyberattack" on Ukraine's biggest private energy conglomerate, the DTEK Group, in retaliation for its owner's opposition to Russia's war in Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Cryptomining Malware Campaign Targeting Linux Servers<a href="https://thehackernews.com/2022/06/microsoft-warns-of-cryptomining-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cloud threat actor group tracked as 8220 has updated its malware toolset to breach Linux servers with the goal of installing crypto miners as part of a long-running campaign.  "The updates include the deployment of new versions of a crypto miner and an IRC bot," Microsoft Security Intelligence said  in a series of tweets on Thursday. "The group has actively updated its techniques and payloads over the last year."  8220, active since early 2017 , is a Chinese-speaking, Monero-mining threat actor so named for its preference to communicate with command-and-control (C2) servers over port 8220. It's also the developer of a tool called whatMiner, which has been co-opted by the Rocke  cybercrime group in their attacks.   In July 2019, the Alibaba Cloud Security Team uncovered  an extra shift in the adversary's tactics, noting its use of rootkits to hide the mining program. Two years later, the gang resurfaced  with Tsunami IRC botnet  variants and a custom "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

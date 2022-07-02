@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evilnum APT Returns with Better TTPs<a href="https://cyware.com/news/evilnum-apt-returns-with-better-ttps-24bb29a3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign uses macro-laden documents that have varying filenames, containing the term ‘compliance’. At least nine such documents have been identified.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

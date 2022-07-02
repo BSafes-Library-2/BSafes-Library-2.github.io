@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is Shadow IT and why is it so risky?<a href="https://thehackernews.com/2022/06/what-is-shadow-it-and-why-is-it-so-risky.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shadow IT refers to the practice of users deploying unauthorized technology resources in order to circumvent their IT department. Users may resort to using shadow IT practices when they feel that existing IT policies are too restrictive or get in the way of them being able to do their jobs effectively.  An old school phenomenon&nbsp;  Shadow IT is not new. There have been countless examples of widespread shadow IT use over the years. In the early 2000s, for example, many organizations were reluctant to adopt Wi-Fi for fear that it could undermine their security efforts. However, users wanted the convenience of wireless device usage and often deployed wireless access points without the IT department's knowledge or consent.  The same thing happened when the iPad first became popular. IT departments largely prohibited iPads from being used with business data because of the inability to apply group policy settings and other security controls to the devices. Even so, users often ignored IT and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine targeted by almost 800 cyberattacks since the war started<a href="https://www.bleepingcomputer.com/news/security/ukraine-targeted-by-almost-800-cyberattacks-since-the-war-started/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian government and private sector organizations have been the target of 796 cyberattacks since the start of the war on February 24,&nbsp;2022, when Russia invaded Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

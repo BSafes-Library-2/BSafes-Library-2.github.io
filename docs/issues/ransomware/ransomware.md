@@ -8,6 +8,62 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AstraLocker 2.0 ransomware isn't going to give you your files back<a href="https://blog.malwarebytes.com/ransomware/2022/07/astralocker-2-0-ransomware-isnt-going-to-give-you-your-files-back/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reversing Labs reports that the latest version of AstraLocker ransomware is engaged in a so-called “smash and grab” ransomware operation that is all about maxing out profits in the fastest time.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - July 1st 2022 - Bug Bounties<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-1st-2022-bug-bounties/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has been relatively busy this week with new ransomware attacks unveiled, a bug bounty program introduced, and new tactics used by the threat actors to distribute their encryptors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Emerges From the Dead - Warn Experts<a href="https://cyware.com/news/black-basta-emerges-from-the-dead-warn-experts-968d827b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Before deploying the ransomware, operators infiltrate and move laterally across the entire network, performing a full-fledged RansomOps attack.&nbsp;Similar to other groups, Black Basta employs the double extortion tactic.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bumblebee Buzzes to Forefront of Ransomware Ecosystem<a href="https://cyware.com/news/bumblebee-buzzes-to-forefront-of-ransomware-ecosystem-f22a145f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bumblebee has been linked to ransomware operations by Conti, Quantum, and Mountlocker, which signifies that the malware is now at the forefront of the ransomware ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

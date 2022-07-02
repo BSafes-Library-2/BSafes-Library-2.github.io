@@ -8,6 +8,24 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+June 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex-Canadian government employee admits to being a member of the Russian cybercrime gang NetWalker<a href="https://securityaffairs.co/wordpress/132753/cyber-crime/canadian-member-gang-netwalker-sentenced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former Canadian government IT worker admitted to being a high-level member of the Russian cybercrime group NetWalker.
+
+
+
+A former Canadian government employee, Sebastien Vachon-Desjardins, pleaded guilty in the U.S. to charges related to his involvement...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
