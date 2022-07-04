@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacy protection agency seizes servers of hacked travel company<a href="https://www.bleepingcomputer.com/news/security/privacy-protection-agency-seizes-servers-of-hacked-travel-company/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Privacy Protection Authority in Israel seized servers hosting multiple travel booking websites because their operator failed to address security issues that enabled data breaches affecting more than 300,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verified Twitter accounts hacked to send fake suspension notices<a href="https://www.bleepingcomputer.com/news/security/verified-twitter-accounts-hacked-to-send-fake-suspension-notices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

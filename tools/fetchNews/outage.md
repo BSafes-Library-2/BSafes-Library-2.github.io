@@ -8,6 +8,24 @@ nav_order: 900140
 
 ## Outage
 ---
+July 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A ransomware attack forced publishing giant Macmillan to shuts down its systems<a href="https://securityaffairs.co/wordpress/132792/cyber-crime/macmillan-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack forced the American publishing giant Macmillan to shut down its IT systems.&nbsp;
+
+
+
+The publishing giant Macmillan has been hit by a&nbsp;cyberattack&nbsp;that forced the company to shut down its IT infrastructure to prevent the threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho ManageEngine ADAudit Plus bug gets public RCE exploit<a href="https://www.bleepingcomputer.com/news/security/zoho-manageengine-adaudit-plus-bug-gets-public-rce-exploit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have published technical details and proof-of-concept exploit code for CVE-2022-28219, a critical vulnerability in the Zoho ManageEngine ADAudit Plus tool for monitoring activities in the Active Directory.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins discloses dozens of zero-day bugs in multiple plugins<a href="https://www.bleepingcomputer.com/news/security/jenkins-discloses-dozens-of-zero-day-bugs-in-multiple-plugins/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Thursday, the Jenkins security team announced 34 security vulnerabilities affecting 29 plugins for the Jenkins open source automation server, 29 of the bugs being zero-days still waiting to be patched.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon Quietly Patches 'High Severity' Vulnerability in Android Photos App<a href="https://thehackernews.com/2022/07/amazon-quietly-patches-high-severity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon, in December 2021, patched a high severity vulnerability affecting its&nbsp; Photos app &nbsp;for Android that could have been exploited to steal a user's access tokens.  "The Amazon access token is used to authenticate the user across multiple Amazon APIs, some of which contain personal data such as full name, email, and address," Checkmarx researchers João Morais and Pedro Umbelino&nbsp; said . "Others, like the Amazon Drive API, allow an attacker full access to the user's files."   The Israeli application security testing company reported the issue to Amazon on November 7, 2021, following which the tech giant rolled out a fix on December 18, 2021.  The leak is the result of a misconfiguration in one of the app's components named "com.amazon.gallery.thor.app.activity.ThorViewActivity" that's defined in the&nbsp; AndroidManifest.xml file &nbsp;and which, when launched, initiates an HTTP request with a header containing the access token.   In a nutshell, it
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gitlab patches critical RCE bug in latest security release<a href="https://portswigger.net/daily-swig/gitlab-patches-critical-rce-bug-in-latest-security-release?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security issue, which has been rated as critical, has been discovered in all versions of GitLab, starting from 14.0 prior to 14.10.5, 15.0 prior to 15.0.4, and 15.1 prior to 15.1.1.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

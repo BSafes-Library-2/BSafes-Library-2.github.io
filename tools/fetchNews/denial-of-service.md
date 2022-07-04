@@ -8,6 +8,24 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+July 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian hackers launched a massive DDoS attack against Norway<a href="https://securityaffairs.co/wordpress/132765/hacking/legion-ddos-norway.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norway's National Security Authority (NSM) confirmed that a DDoS attack took down some of the country's most important websites.
+
+
+
+Norway's National Security Authority (NSM) confirmed that some of the country's most important websites and online services...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

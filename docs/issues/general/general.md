@@ -8,6 +8,64 @@ nav_order: 900072
 
 ## General
 ---
+July 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 372 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/132822/breaking-news/security-affairs-newsletter-round-372-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.
+
+
+
+The role of Social Media in modern society – Social Media Day 22 interviewExperts shared PoC exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Half of actively exploited zero-day issues in H1 2022 are variants of previous flaws<a href="https://securityaffairs.co/wordpress/132813/security/h1-2022-zero-day-variants-previous-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero states that in H1 2022 at least half of zero-day issues exploited in attacks were related to not properly fixed old flaws.
+
+
+
+Google Project Zero researcher Maddie Stone published a blog post that resumes her speech at the FIRST conference...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The role of Social Media in modern society – Social Media Day 22 interview<a href="https://securityaffairs.co/wordpress/132810/social-networks/the-role-of-social-media.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This is a transcription of an interview I had at Iran International broadcaster, I discussed about the role of social media in modern society.
+
+
+
+What's the Middle East government's role on Cyber bullying towards opposition activists?
+
+
+
+Middle East...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

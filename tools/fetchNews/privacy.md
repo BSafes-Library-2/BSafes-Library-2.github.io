@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Assures U.S. Lawmakers it's Working to Safeguard User Data From Chinese Staff<a href="https://thehackernews.com/2022/07/tiktok-assures-us-lawmakers-its-working.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following heightened worries that U.S. users' data had been accessed by TikTok engineers in China between September 2021 and January 2022, the company sought to assuage U.S. lawmakers that it's taking steps to "strengthen data security."  The admission that some China-based employees can access information from U.S. users came in a letter sent to nine senators, which further noted that the procedure requires the individuals to clear numerous internal security protocols.  The contents of the letter, first&nbsp; reported &nbsp;by The New York Times, shares more details about TikTok's plans to address data security concerns through a multi-pronged initiative codenamed "Project Texas."   "Employees outside the U.S., including China-based employees, can have access to TikTok U.S. user data subject to a series of robust cybersecurity controls and authorization approval protocols overseen by our U.S.-based security team," TikTok CEO Shou Zi Chew wrote in the m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

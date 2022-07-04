@@ -8,6 +8,42 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tens of Jenkins plugins are affected by zero-day vulnerabilities<a href="https://securityaffairs.co/wordpress/132836/security/jenkins-plugins-zero-day-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jenkins security team disclosed tens of flaws affecting 29 plugins for the Jenkins automation server, most of them are yet to be patched.
+
+
+
+Jenkins&nbsp;is the most popular open-source automation server, it is maintained by CloudBees and the Jenkins community....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts shared PoC exploit code for RCE in Zoho ManageEngine ADAudit Plus tool<a href="https://securityaffairs.co/wordpress/132797/hacking/zoho-manageengine-adaudit-plus-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers shared technical details and proof-of-concept exploit code for the CVE-2022-28219 flaw in Zoho ManageEngine ADAudit Plus tool.
+
+
+
+Security researchers from Horizon3.ai have published technical details and proof-of-concept exploit code for a critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

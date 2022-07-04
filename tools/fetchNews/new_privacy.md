@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free smartphone stalkerware detection tool gets dedicated hub<a href="https://www.bleepingcomputer.com/news/security/free-smartphone-stalkerware-detection-tool-gets-dedicated-hub/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky has launched a new information hub to help with their open-source stalkerware detection tool named TinyCheck, created in 2019 to help people detect if their devices are being monitored.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

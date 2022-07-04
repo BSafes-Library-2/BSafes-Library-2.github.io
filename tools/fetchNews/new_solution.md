@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender adds network protection for Android, iOS devices<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-adds-network-protection-for-android-ios-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced the introduction of a&nbsp;new Microsoft Defender for Endpoint (MDE) feature in public preview&nbsp;to&nbsp;help organizations detect weaknesses affecting Android and iOS devices in their enterprise networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
