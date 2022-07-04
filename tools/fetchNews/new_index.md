@@ -34,7 +34,227 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacy protection agency seizes servers of hacked travel company<a href="https://www.bleepingcomputer.com/news/security/privacy-protection-agency-seizes-servers-of-hacked-travel-company/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Privacy Protection Authority in Israel seized servers hosting multiple travel booking websites because their operator failed to address security issues that enabled data breaches affecting more than 300,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tens of Jenkins plugins are affected by zero-day vulnerabilities<a href="https://securityaffairs.co/wordpress/132836/security/jenkins-plugins-zero-day-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jenkins security team disclosed tens of flaws affecting 29 plugins for the Jenkins automation server, most of them are yet to be patched.
+
+
+
+Jenkins is the most popular open-source automation server, it is maintained by CloudBees and the Jenkins community....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free smartphone stalkerware detection tool gets dedicated hub<a href="https://www.bleepingcomputer.com/news/security/free-smartphone-stalkerware-detection-tool-gets-dedicated-hub/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky has launched a new information hub to help with their open-source stalkerware detection tool named TinyCheck, created in 2019 to help people detect if their devices are being monitored.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Raspberry Robin worm already infected hundreds of networks<a href="https://securityaffairs.co/wordpress/132826/malware/microsoft-raspberry-robin-spreading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced that the Windows worm Raspberry Robin has already infected the networks of hundreds of organizations.
+
+
+
+Raspberry Robin is a Windows worm discovered by cybersecurity researchers from Red Canary, the malware propagates through removable...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender adds network protection for Android, iOS devices<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-adds-network-protection-for-android-ios-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced the introduction of a new Microsoft Defender for Endpoint (MDE) feature in public preview to help organizations detect weaknesses affecting Android and iOS devices in their enterprise networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 372 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/132822/breaking-news/security-affairs-newsletter-round-372-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.
+
+
+
+The role of Social Media in modern society – Social Media Day 22 interviewExperts shared PoC exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Half of actively exploited zero-day issues in H1 2022 are variants of previous flaws<a href="https://securityaffairs.co/wordpress/132813/security/h1-2022-zero-day-variants-previous-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero states that in H1 2022 at least half of zero-day issues exploited in attacks were related to not properly fixed old flaws.
+
+
+
+Google Project Zero researcher Maddie Stone published a blog post that resumes her speech at the FIRST conference...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rogue HackerOne employee steals bug reports to sell on the side<a href="https://www.bleepingcomputer.com/news/security/rogue-hackerone-employee-steals-bug-reports-to-sell-on-the-side/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A HackerOne employee stole vulnerability reports submitted through the bug bounty platform and disclosed them to affected customers to claim financial rewards.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verified Twitter accounts hacked to send fake suspension notices<a href="https://www.bleepingcomputer.com/news/security/verified-twitter-accounts-hacked-to-send-fake-suspension-notices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The role of Social Media in modern society – Social Media Day 22 interview<a href="https://securityaffairs.co/wordpress/132810/social-networks/the-role-of-social-media.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This is a transcription of an interview I had at Iran International broadcaster, I discussed about the role of social media in modern society.
+
+
+
+What's the Middle East government's role on Cyber bullying towards opposition activists?
+
+
+
+Middle East...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft finds Raspberry Robin worm in hundreds of Windows networks<a href="https://www.bleepingcomputer.com/news/security/microsoft-finds-raspberry-robin-worm-in-hundreds-of-windows-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says that a recently spotted Windows worm has been found on the networks of hundreds of organizations from various industry sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts shared PoC exploit code for RCE in Zoho ManageEngine ADAudit Plus tool<a href="https://securityaffairs.co/wordpress/132797/hacking/zoho-manageengine-adaudit-plus-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers shared technical details and proof-of-concept exploit code for the CVE-2022-28219 flaw in Zoho ManageEngine ADAudit Plus tool.
+
+
+
+Security researchers from Horizon3.ai have published technical details and proof-of-concept exploit code for a critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian hackers allegedly target Ukraine's biggest private energy firm<a href="https://edition.cnn.com/2022/07/01/politics/russia-ukraine-dtek-hack/index.html?&web_view=true"> Full Text</a>
@@ -50,7 +270,7 @@ CNN Money
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2022
+July 2, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A ransomware attack forced publishing giant Macmillan to shuts down its systems<a href="https://securityaffairs.co/wordpress/132792/cyber-crime/macmillan-ransomware-attack.html"> Full Text</a>
@@ -70,7 +290,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2022
+July 2, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AstraLocker 2.0 ransomware isn't going to give you your files back<a href="https://blog.malwarebytes.com/ransomware/2022/07/astralocker-2-0-ransomware-isnt-going-to-give-you-your-files-back/?&web_view=true"> Full Text</a>
@@ -86,7 +306,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2022
+July 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoho ManageEngine ADAudit Plus bug gets public RCE exploit<a href="https://www.bleepingcomputer.com/news/security/zoho-manageengine-adaudit-plus-bug-gets-public-rce-exploit/"> Full Text</a>
@@ -102,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2022
+July 01, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok Assures U.S. Lawmakers it's Working to Safeguard User Data From Chinese Staff<a href="https://thehackernews.com/2022/07/tiktok-assures-us-lawmakers-its-working.html"> Full Text</a>
@@ -118,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2022
+July 01, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - July 1st 2022 - Bug Bounties<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-1st-2022-bug-bounties/"> Full Text</a>
@@ -134,7 +354,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2022
+July 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns About Evolving Capabilities of Toll Fraud Android Malware Apps<a href="https://thehackernews.com/2022/07/microsoft-warns-about-evolving.html"> Full Text</a>
@@ -150,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2022
+July 1, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SessionManager Backdoor employed in attacks on Microsoft IIS servers worldwide<a href="https://securityaffairs.co/wordpress/132783/malware/sessionmanager-backdoor-ms-iis.html"> Full Text</a>
@@ -170,7 +390,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2022
+July 01, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders agencies to patch Windows LSA bug exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-windows-lsa-bug-exploited-in-the-wild/"> Full Text</a>
@@ -186,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2022
+July 1, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta Emerges From the Dead - Warn Experts<a href="https://cyware.com/news/black-basta-emerges-from-the-dead-warn-experts-968d827b"> Full Text</a>
@@ -202,7 +422,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2022
+July 01, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Improves Its Password Manager to Boost Security Across All Platforms<a href="https://thehackernews.com/2022/07/google-improves-its-password-manager-to.html"> Full Text</a>
@@ -218,7 +438,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2022
+July 1, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A long-running cryptomining campaign conducted by 8220 hackers now targets Linux servers<a href="https://securityaffairs.co/wordpress/132777/cyber-crime/8220-cryptomining-campaign.html"> Full Text</a>
@@ -238,7 +458,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2022
+July 01, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft updates Azure AD with support for temporary passcodes<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-azure-ad-with-support-for-temporary-passcodes/"> Full Text</a>
@@ -254,7 +474,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2022
+July 1, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bumblebee Buzzes to Forefront of Ransomware Ecosystem<a href="https://cyware.com/news/bumblebee-buzzes-to-forefront-of-ransomware-ecosystem-f22a145f"> Full Text</a>
@@ -270,7 +490,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2022
+July 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'SessionManager' Backdoor Targeting Microsoft IIS Servers in the Wild<a href="https://thehackernews.com/2022/07/new-sessionmanager-backdoor-targeting.html"> Full Text</a>
@@ -286,7 +506,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2022
+July 1, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russian hackers launched a massive DDoS attack against Norway<a href="https://securityaffairs.co/wordpress/132765/hacking/legion-ddos-norway.html"> Full Text</a>
@@ -306,7 +526,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2022
+July 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Jenkins discloses dozens of zero-day bugs in multiple plugins<a href="https://www.bleepingcomputer.com/news/security/jenkins-discloses-dozens-of-zero-day-bugs-in-multiple-plugins/"> Full Text</a>
@@ -322,7 +542,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2022
+July 1, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evilnum APT Returns with Better TTPs<a href="https://cyware.com/news/evilnum-apt-returns-with-better-ttps-24bb29a3"> Full Text</a>
@@ -338,7 +558,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2022
+July 01, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Solving the indirect vulnerability enigma - fixing indirect vulnerabilities without breaking your dependency tree<a href="https://thehackernews.com/2022/07/solving-indirect-vulnerability-enigma.html"> Full Text</a>
@@ -354,7 +574,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2022
+July 1, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Toll Fraud Malware on Android That Switches Off Wi-Fi, Empties Users' Wallets<a href="https://www.zdnet.com/article/microsoft-this-android-malware-will-switch-off-your-wi-fi-empty-your-wallet/?&web_view=true"> Full Text</a>
@@ -370,7 +590,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2022
+July 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon Quietly Patches 'High Severity' Vulnerability in Android Photos App<a href="https://thehackernews.com/2022/07/amazon-quietly-patches-high-severity.html"> Full Text</a>
@@ -386,7 +606,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2022
+July 1, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inspectiv Closes USD8.6M in Series A Funding<a href="https://www.finsmes.com/2022/06/inspectiv-closes-usd8-6m-in-series-a-funding.html?&web_view=true"> Full Text</a>
@@ -402,7 +622,7 @@ FinSMEs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2022
+July 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gitlab patches critical RCE bug in latest security release<a href="https://portswigger.net/daily-swig/gitlab-patches-critical-rce-bug-in-latest-security-release?&web_view=true"> Full Text</a>
@@ -418,7 +638,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2022
+June 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Cryptomining Malware Campaign Targeting Linux Servers<a href="https://thehackernews.com/2022/06/microsoft-warns-of-cryptomining-malware.html"> Full Text</a>

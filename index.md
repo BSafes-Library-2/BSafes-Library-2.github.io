@@ -34,6 +34,226 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacy protection agency seizes servers of hacked travel company<a href="https://www.bleepingcomputer.com/news/security/privacy-protection-agency-seizes-servers-of-hacked-travel-company/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Privacy Protection Authority in Israel seized servers hosting multiple travel booking websites because their operator failed to address security issues that enabled data breaches affecting more than 300,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tens of Jenkins plugins are affected by zero-day vulnerabilities<a href="https://securityaffairs.co/wordpress/132836/security/jenkins-plugins-zero-day-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jenkins security team disclosed tens of flaws affecting 29 plugins for the Jenkins automation server, most of them are yet to be patched.
+
+
+
+Jenkins is the most popular open-source automation server, it is maintained by CloudBees and the Jenkins community....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free smartphone stalkerware detection tool gets dedicated hub<a href="https://www.bleepingcomputer.com/news/security/free-smartphone-stalkerware-detection-tool-gets-dedicated-hub/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky has launched a new information hub to help with their open-source stalkerware detection tool named TinyCheck, created in 2019 to help people detect if their devices are being monitored.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Raspberry Robin worm already infected hundreds of networks<a href="https://securityaffairs.co/wordpress/132826/malware/microsoft-raspberry-robin-spreading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced that the Windows worm Raspberry Robin has already infected the networks of hundreds of organizations.
+
+
+
+Raspberry Robin is a Windows worm discovered by cybersecurity researchers from Red Canary, the malware propagates through removable...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender adds network protection for Android, iOS devices<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-adds-network-protection-for-android-ios-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced the introduction of a new Microsoft Defender for Endpoint (MDE) feature in public preview to help organizations detect weaknesses affecting Android and iOS devices in their enterprise networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 372 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/132822/breaking-news/security-affairs-newsletter-round-372-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.
+
+
+
+The role of Social Media in modern society – Social Media Day 22 interviewExperts shared PoC exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Half of actively exploited zero-day issues in H1 2022 are variants of previous flaws<a href="https://securityaffairs.co/wordpress/132813/security/h1-2022-zero-day-variants-previous-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero states that in H1 2022 at least half of zero-day issues exploited in attacks were related to not properly fixed old flaws.
+
+
+
+Google Project Zero researcher Maddie Stone published a blog post that resumes her speech at the FIRST conference...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rogue HackerOne employee steals bug reports to sell on the side<a href="https://www.bleepingcomputer.com/news/security/rogue-hackerone-employee-steals-bug-reports-to-sell-on-the-side/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A HackerOne employee stole vulnerability reports submitted through the bug bounty platform and disclosed them to affected customers to claim financial rewards.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verified Twitter accounts hacked to send fake suspension notices<a href="https://www.bleepingcomputer.com/news/security/verified-twitter-accounts-hacked-to-send-fake-suspension-notices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The role of Social Media in modern society – Social Media Day 22 interview<a href="https://securityaffairs.co/wordpress/132810/social-networks/the-role-of-social-media.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This is a transcription of an interview I had at Iran International broadcaster, I discussed about the role of social media in modern society.
+
+
+
+What's the Middle East government's role on Cyber bullying towards opposition activists?
+
+
+
+Middle East...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft finds Raspberry Robin worm in hundreds of Windows networks<a href="https://www.bleepingcomputer.com/news/security/microsoft-finds-raspberry-robin-worm-in-hundreds-of-windows-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says that a recently spotted Windows worm has been found on the networks of hundreds of organizations from various industry sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts shared PoC exploit code for RCE in Zoho ManageEngine ADAudit Plus tool<a href="https://securityaffairs.co/wordpress/132797/hacking/zoho-manageengine-adaudit-plus-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers shared technical details and proof-of-concept exploit code for the CVE-2022-28219 flaw in Zoho ManageEngine ADAudit Plus tool.
+
+
+
+Security researchers from Horizon3.ai have published technical details and proof-of-concept exploit code for a critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 2, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
