@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+July 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of a billion Chinese residents available for sale on the dark web<a href="https://securityaffairs.co/wordpress/132860/data-breach/chinese-residents-data-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors claim to have breached a database belonging to Shanghai police and stole the data of a billion Chinese residents.
+
+
+
+Unknown threat actors claimed to have obtained data of a billion Chinese residents after breaching a database of the Shanghai...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker claims to have stolen data on 1 billion Chinese citizens<a href="https://www.bleepingcomputer.com/news/security/hacker-claims-to-have-stolen-data-on-1-billion-chinese-citizens/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An anonymous threat actor is selling several databases they claim to contain more than 22 terabytes of stolen information on roughly 1 billion Chinese citizens for 10 bitcoins (approximately $195,000).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Army’s Twitter, YouTube accounts hacked to push crypto scam<a href="https://www.bleepingcomputer.com/news/security/uk-army-s-twitter-youtube-accounts-hacked-to-push-crypto-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British Army's Twitter and YouTube accounts were hacked sometime yesterday and altered to promote online crypto scams. In a statement, UK's Ministry of Defence confirms it is investigating the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

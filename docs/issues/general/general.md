@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+July 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Alarm sounded' on Russian threat to Ireland<a href="https://www.irishexaminer.com/news/arid-40909337.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Professor Edward Burke made the comment following the report of High Court judge Charles Meenan, who supervises the interception of phone calls and post, and access to traffic data on private communications.
+</details>
+<div style="text-align: right" markdown="1">
+Irish Examiner
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Report Portugal: Q2 2022<a href="https://securityaffairs.co/wordpress/132842/security/threat-report-portugal-q2-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Threat Report Portugal: Q2 2022 compiles data collected on the malicious campaigns that occurred from March to June, Q2, 2022.
+
+
+
+The Portuguese Abuse Open Feed&nbsp;0xSI_f33d&nbsp;is an open sharing database with the ability to collect indicators...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Authorities Arrested Phishing Gang That Stole 100 Million UAH<a href="https://thehackernews.com/2022/07/ukrainian-authorities-arrested-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Police of Ukraine last week disclosed that it apprehended nine members of a criminal gang that embezzled 100 million hryvnias via hundreds of phishing sites that claimed to offer financial assistance to Ukrainian citizens as part of a campaign aimed at capitalizing on the ongoing conflict.  "Criminals created more than 400 phishing links to obtain bank card data of citizens and appropriate money from their accounts," the agency&nbsp; said &nbsp;in a press statement last week. "The perpetrators may face up to 15 years behind bars."   The law enforcement operation culminated in the seizure of computer equipment, mobile phones, bank cards as well as the criminal proceeds illicitly obtained through the scheme.  Some of the rogue domains registered by the actors included ross0.yolasite[.]com, foundationua[.]com, ua-compensation[.]buzz, www.bless12[.]store, help-compensation[.]xyz, newsukraine10.yolasite[.]com, and euro24dopomoga0.yolasite[.]com, among others.   The rogu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HackerOne Employee Caught Stealing Vulnerability Reports for Personal Gains<a href="https://thehackernews.com/2022/07/hackerone-employee-caught-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerability coordination and bug bounty platform HackerOne on Friday disclosed that a former employee at the firm improperly accessed security reports submitted to it for personal gain.  "The person anonymously disclosed this vulnerability information outside the HackerOne platform with the goal of claiming additional bounties," it&nbsp; said . "In under 24 hours, we worked quickly to contain the incident by identifying the then-employee and cutting off access to data."  The employee, who had access to HackerOne systems between April 4 and June 23, 2022, for triaging vulnerability disclosures associated with different customer programs, has since been terminated by the San Francisco-headquartered company as of June 30.   Calling the incident as a "clear violation" of its values, culture, policies, and employment contracts, HackerOne said it was alerted to the breach on June 22 by an unnamed customer, which asked it to "investigate a suspicious vulnerabi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

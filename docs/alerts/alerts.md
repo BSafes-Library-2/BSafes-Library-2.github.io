@@ -19,6 +19,18 @@ Per CISA’s Binding Operational Directive 22-01, Federal Civilian Executive Bra
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2022 - FBI, CISA, FinCEN  
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StopRansomware: MedusaLocker <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-181a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), the Department of the Treasury, and the Financial Crimes Enforcement Network (FinCEN) are releasing this CSA to provide information on MedusaLocker ransomware.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 28, 2022 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

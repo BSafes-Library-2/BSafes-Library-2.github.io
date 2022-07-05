@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2022
+July 04, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AstraLocker ransomware shuts down and releases decryptors<a href="https://www.bleepingcomputer.com/news/security/astralocker-ransomware-shuts-down-and-releases-decryptors/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2022
+July 4, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns About MedusaLocker Ransomware’s Latest Activity<a href="https://cyware.com/news/cisa-warns-about-medusalocker-ransomwares-latest-activity-3fb2d623"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2022
+July 04, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Authorities Arrested Phishing Gang That Stole 100 Million UAH<a href="https://thehackernews.com/2022/07/ukrainian-authorities-arrested-phishing.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2022
+July 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixes the fourth Chrome zero-day in 2022<a href="https://securityaffairs.co/wordpress/132863/hacking/4th-chrome-zero-day.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2022
+July 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google patches new Chrome zero-day flaw exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/google-patches-new-chrome-zero-day-flaw-exploited-in-attacks/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2022
+July 4, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker Claims to Have Stolen 1 Billion Records of Chinese Citizens<a href="https://www.reuters.com/world/china/hacker-claims-have-stolen-1-bln-records-chinese-citizens-police-2022-07-04/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2022
+July 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Some Worms Use Their Powers for Good<a href="https://thehackernews.com/2022/07/some-worms-use-their-powers-for-good.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2022
+July 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of a billion Chinese residents available for sale on the dark web<a href="https://securityaffairs.co/wordpress/132860/data-breach/chinese-residents-data-dark-web.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2022
+July 04, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker claims to have stolen data on 1 billion Chinese citizens<a href="https://www.bleepingcomputer.com/news/security/hacker-claims-to-have-stolen-data-on-1-billion-chinese-citizens/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2022
+July 4, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Teen “Hackers” on Discord Selling Malware for Quick Cash<a href="https://www.hackread.com/teen-hackers-discord-sell-malware-for-quick-cash/?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2022
+July 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular Django web framework affected by a SQL Injection flaw. Upgrade it now!<a href="https://securityaffairs.co/wordpress/132853/security/django-framework-sql-injection.html"> Full Text</a>
@@ -222,7 +222,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2022
+July 04, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Army’s Twitter, YouTube accounts hacked to push crypto scam<a href="https://www.bleepingcomputer.com/news/security/uk-army-s-twitter-youtube-accounts-hacked-to-push-crypto-scam/"> Full Text</a>
@@ -238,7 +238,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2022
+July 4, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Alarm sounded' on Russian threat to Ireland<a href="https://www.irishexaminer.com/news/arid-40909337.html?&web_view=true"> Full Text</a>
@@ -254,7 +254,7 @@ Irish Examiner
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2022
+July 4, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unfaithful HackerOne employee steals bug reports to claim additional bounties<a href="https://securityaffairs.co/wordpress/132846/cyber-crime/hackerone-incident.html"> Full Text</a>
@@ -274,7 +274,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2022
+July 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Django fixes SQL Injection vulnerability in new releases<a href="https://www.bleepingcomputer.com/news/security/django-fixes-sql-injection-vulnerability-in-new-releases/"> Full Text</a>
@@ -291,7 +291,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2022
+July 4, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Raspberry Robin Worm Infects Windows Networks at Technology and Manufacturing Firms<a href="https://www.neowin.net/news/raspberry-robin-microsoft-warns-about-high-risk-worm-infecting-lots-of-windows-networks/?&web_view=true"> Full Text</a>
@@ -307,7 +307,7 @@ Neowin
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2022
+July 4, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Report Portugal: Q2 2022<a href="https://securityaffairs.co/wordpress/132842/security/threat-report-portugal-q2-2022.html"> Full Text</a>
@@ -327,7 +327,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2022
+July 4, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Revive: New Android malware Posing as 2FA App for a Spanish Bank<a href="https://cyware.com/news/revive-new-android-malware-posing-as-2fa-app-for-a-spanish-bank-68b8e21e"> Full Text</a>
@@ -343,7 +343,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2022
+July 4, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders federal agencies to patch CVE-2022-26925 by July 22<a href="https://securityaffairs.co/wordpress/132830/security/cisa-orders-patch-cve-2022-26925.html"> Full Text</a>
@@ -363,7 +363,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 03, 2022
+July 03, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HackerOne Employee Caught Stealing Vulnerability Reports for Personal Gains<a href="https://thehackernews.com/2022/07/hackerone-employee-caught-stealing.html"> Full Text</a>

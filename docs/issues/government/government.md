@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+July 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns About MedusaLocker Ransomware’s Latest Activity<a href="https://cyware.com/news/cisa-warns-about-medusalocker-ransomwares-latest-activity-3fb2d623"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of May 2022, the operators of the ransomware are heavily relying on vulnerabilities in Remote Desktop Protocol (RDP) endpoints to access victims’ networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal agencies to patch CVE-2022-26925 by July 22<a href="https://securityaffairs.co/wordpress/132830/security/cisa-orders-patch-cve-2022-26925.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Critical Infrastructure Security Agency (CISA) adds CVE-2022-26925 Windows LSA flaw to its Known Exploited Vulnerabilities Catalog.
+
+
+
+In May the US CISA removed the CVE-2022-26925 Windows LSA vulnerability from its Known Exploited Vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

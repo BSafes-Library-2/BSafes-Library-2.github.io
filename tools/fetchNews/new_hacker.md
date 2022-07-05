@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Claims to Have Stolen 1 Billion Records of Chinese Citizens<a href="https://www.reuters.com/world/china/hacker-claims-have-stolen-1-bln-records-chinese-citizens-police-2022-07-04/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker has claimed to have procured a trove of personal information from the Shanghai police on one billion Chinese citizens, which tech experts say, if true, would be one of the biggest data breaches in history.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Teen “Hackers” on Discord Selling Malware for Quick Cash<a href="https://www.hackread.com/teen-hackers-discord-sell-malware-for-quick-cash/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast security researchers have discovered a server on Discord where a group of minors is involved in developing, upgrading, marketing, and selling malware and ransomware strains on the platform, supposedly to earn pocket money.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
