@@ -34,6 +34,351 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AstraLocker ransomware shuts down and releases decryptors<a href="https://www.bleepingcomputer.com/news/security/astralocker-ransomware-shuts-down-and-releases-decryptors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the lesser-known AstraLocker ransomware told BleepingComputer they're shutting down the operation and plan to switch to cryptojacking.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns About MedusaLocker Ransomware’s Latest Activity<a href="https://cyware.com/news/cisa-warns-about-medusalocker-ransomwares-latest-activity-3fb2d623"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of May 2022, the operators of the ransomware are heavily relying on vulnerabilities in Remote Desktop Protocol (RDP) endpoints to access victims’ networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Authorities Arrested Phishing Gang That Stole 100 Million UAH<a href="https://thehackernews.com/2022/07/ukrainian-authorities-arrested-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Police of Ukraine last week disclosed that it apprehended nine members of a criminal gang that embezzled 100 million hryvnias via hundreds of phishing sites that claimed to offer financial assistance to Ukrainian citizens as part of a campaign aimed at capitalizing on the ongoing conflict.  "Criminals created more than 400 phishing links to obtain bank card data of citizens and appropriate money from their accounts," the agency  said  in a press statement last week. "The perpetrators may face up to 15 years behind bars."   The law enforcement operation culminated in the seizure of computer equipment, mobile phones, bank cards as well as the criminal proceeds illicitly obtained through the scheme.  Some of the rogue domains registered by the actors included ross0.yolasite[.]com, foundationua[.]com, ua-compensation[.]buzz, www.bless12[.]store, help-compensation[.]xyz, newsukraine10.yolasite[.]com, and euro24dopomoga0.yolasite[.]com, among others.   The rogu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes the fourth Chrome zero-day in 2022<a href="https://securityaffairs.co/wordpress/132863/hacking/4th-chrome-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google addressed a high-severity zero-day Chrome vulnerability actively exploited in the wild, it is the fourth zero-day patched in 2022.
+
+
+
+Google has released Chrome 103.0.5060.114 for Windows to fix a high-severity zero-day Chrome vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google patches new Chrome zero-day flaw exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/google-patches-new-chrome-zero-day-flaw-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 103.0.5060.114 for Windows users to address a high-severity zero-day vulnerability exploited by attackers in the wild, the fourth Chrome zero-day patched in 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Claims to Have Stolen 1 Billion Records of Chinese Citizens<a href="https://www.reuters.com/world/china/hacker-claims-have-stolen-1-bln-records-chinese-citizens-police-2022-07-04/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker has claimed to have procured a trove of personal information from the Shanghai police on one billion Chinese citizens, which tech experts say, if true, would be one of the biggest data breaches in history.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Some Worms Use Their Powers for Good<a href="https://thehackernews.com/2022/07/some-worms-use-their-powers-for-good.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gardeners know that worms are good. Cybersecurity professionals know that worms are  bad . Very bad. In fact, worms are literally the most devasting force for evil known to the computing world. The  MyDoom  worm holds the dubious position of most costly computer malware  ever  – responsible for some  $52 billion  in damage. In second place…  Sobig , another worm.  It turns out, however, that there are exceptions to every rule. Some biological worms are actually  not welcome  in most gardens. And some cyber worms, it seems, can use their powers for good …   Meet Hopper, The Good Worm  Detection tools are not good at  catching non-exploit-based propagation , which is what worms do best. Most cybersecurity solutions are less resilient to worm attack methods like token impersonation and others that take advantage of deficient internal configurations - PAM, segmentation, insecure credential storage, and more.  So, what better way to beat a stealthy worm than with … another stealthy worm?
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of a billion Chinese residents available for sale on the dark web<a href="https://securityaffairs.co/wordpress/132860/data-breach/chinese-residents-data-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors claim to have breached a database belonging to Shanghai police and stole the data of a billion Chinese residents.
+
+
+
+Unknown threat actors claimed to have obtained data of a billion Chinese residents after breaching a database of the Shanghai...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker claims to have stolen data on 1 billion Chinese citizens<a href="https://www.bleepingcomputer.com/news/security/hacker-claims-to-have-stolen-data-on-1-billion-chinese-citizens/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An anonymous threat actor is selling several databases they claim to contain more than 22 terabytes of stolen information on roughly 1 billion Chinese citizens for 10 bitcoins (approximately $195,000).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Teen “Hackers” on Discord Selling Malware for Quick Cash<a href="https://www.hackread.com/teen-hackers-discord-sell-malware-for-quick-cash/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast security researchers have discovered a server on Discord where a group of minors is involved in developing, upgrading, marketing, and selling malware and ransomware strains on the platform, supposedly to earn pocket money.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Django web framework affected by a SQL Injection flaw. Upgrade it now!<a href="https://securityaffairs.co/wordpress/132853/security/django-framework-sql-injection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The development team behind the Django Project has addressed a high-severity SQL Injection flaw in its framework.
+
+
+
+Django is a free and open-source, Python-based web framework that follows the model–template–views (MTV) architectural pattern. Django...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Army’s Twitter, YouTube accounts hacked to push crypto scam<a href="https://www.bleepingcomputer.com/news/security/uk-army-s-twitter-youtube-accounts-hacked-to-push-crypto-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British Army's Twitter and YouTube accounts were hacked sometime yesterday and altered to promote online crypto scams. In a statement, UK's Ministry of Defence confirms it is investigating the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Alarm sounded' on Russian threat to Ireland<a href="https://www.irishexaminer.com/news/arid-40909337.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Professor Edward Burke made the comment following the report of High Court judge Charles Meenan, who supervises the interception of phone calls and post, and access to traffic data on private communications.
+</details>
+<div style="text-align: right" markdown="1">
+Irish Examiner
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unfaithful HackerOne employee steals bug reports to claim additional bounties<a href="https://securityaffairs.co/wordpress/132846/cyber-crime/hackerone-incident.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bug bounty platform HackerOne disclosed that a former employee improperly accessed security reports submitted to claim additional bounties
+
+
+
+The vulnerability coordination and bug bounty platform HackerOne disclosed that a former employee improperly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Django fixes SQL Injection vulnerability in new releases<a href="https://www.bleepingcomputer.com/news/security/django-fixes-sql-injection-vulnerability-in-new-releases/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Django, an open source Python-based web framework has patched a high severity vulnerability in its latest releases.
+Tracked as CVE-2022-34265, the potential SQL Injection vulnerability impacts Django's main branch, and versions 4.1 (currently in beta), 4.0, and 3.2, with patches and new releases issued fixing the vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raspberry Robin Worm Infects Windows Networks at Technology and Manufacturing Firms<a href="https://www.neowin.net/news/raspberry-robin-microsoft-warns-about-high-risk-worm-infecting-lots-of-windows-networks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware uses cmd.exe to read and execute a file stored on the infected external drive, it leverages msiexec.exe for external network communication to a rogue domain used as C2 to download and install a DLL library file.
+</details>
+<div style="text-align: right" markdown="1">
+Neowin
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Report Portugal: Q2 2022<a href="https://securityaffairs.co/wordpress/132842/security/threat-report-portugal-q2-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Threat Report Portugal: Q2 2022 compiles data collected on the malicious campaigns that occurred from March to June, Q2, 2022.
+
+
+
+The Portuguese Abuse Open Feed 0xSI_f33d is an open sharing database with the ability to collect indicators...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Revive: New Android malware Posing as 2FA App for a Spanish Bank<a href="https://cyware.com/news/revive-new-android-malware-posing-as-2fa-app-for-a-spanish-bank-68b8e21e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Revive banking trojan was found targeting users of BBVA, a Spanish financial services company. Revive follows a more focused approach - the bank and not customers as its prime targets. While the malware is in its early developmental stages, it is designed for persistent campaigns. Training em ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal agencies to patch CVE-2022-26925 by July 22<a href="https://securityaffairs.co/wordpress/132830/security/cisa-orders-patch-cve-2022-26925.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Critical Infrastructure Security Agency (CISA) adds CVE-2022-26925 Windows LSA flaw to its Known Exploited Vulnerabilities Catalog.
+
+
+
+In May the US CISA removed the CVE-2022-26925 Windows LSA vulnerability from its Known Exploited Vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HackerOne Employee Caught Stealing Vulnerability Reports for Personal Gains<a href="https://thehackernews.com/2022/07/hackerone-employee-caught-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerability coordination and bug bounty platform HackerOne on Friday disclosed that a former employee at the firm improperly accessed security reports submitted to it for personal gain.  "The person anonymously disclosed this vulnerability information outside the HackerOne platform with the goal of claiming additional bounties," it  said . "In under 24 hours, we worked quickly to contain the incident by identifying the then-employee and cutting off access to data."  The employee, who had access to HackerOne systems between April 4 and June 23, 2022, for triaging vulnerability disclosures associated with different customer programs, has since been terminated by the San Francisco-headquartered company as of June 30.   Calling the incident as a "clear violation" of its values, culture, policies, and employment contracts, HackerOne said it was alerted to the breach on June 22 by an unnamed customer, which asked it to "investigate a suspicious vulnerabi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 03, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
