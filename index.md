@@ -34,6 +34,414 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RedAlert Ransomware targets Windows, Linux VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/new-redalert-ransomware-targets-windows-linux-vmware-esxi-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware operation called RedAlert, or N13V, encrypts both Windows and Linux VMWare ESXi servers in attacks on corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ZuoRAT Malware with Hallmarks of a State-Backed Threat Actor<a href="https://cyware.com/news/zuorat-malware-with-hallmarks-of-a-state-backed-threat-actor-13986ad5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new ZuoRAT is targeting Small Office/Home Office, or SOHO, routers across North America and Europe, as part of an advanced campaign. An investigation into the case divulged that the trojan can cripple routers from multiple brands, such as ASUS, DrayTek, Cisco, and NETGEAR. For mitigation,  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Malicious NPM Packages Stealing Data from Apps and Web Forms<a href="https://thehackernews.com/2022/07/researchers-uncover-malicious-npm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widespread software supply chain attack has targeted the NPM package manager at least since December 2021 with rogue modules designed to steal data entered in forms by users on websites that include them.  The coordinated attack, dubbed IconBurst by ReversingLabs, involves no fewer than two dozen NPM packages that include obfuscated JavaScript, which comes with malicious code to harvest sensitive data from forms embedded downstream mobile applications and websites.  "These clearly malicious attacks relied on typo-squatting, a technique in which attackers offer up packages via public repositories with names that are similar to — or common misspellings of — legitimate packages," security researcher Karlo Zanki  said  in a Tuesday report. "Attackers impersonated high-traffic NPM modules like umbrellajs and packages published by ionic.io."   The packages in question, most of which were published in the last months, have been collectively downloaded more than 27,000 t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Last Call at the “Star Wars Bar”: Harmonizing Incident and Breach Reporting Requirements<a href="https://www.lawfareblog.com/last-call-star-wars-bar-harmonizing-incident-and-breach-reporting-requirements"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Policymakers have a golden opportunity to make cyber incident and breach reporting requirements more powerful and effective.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Fars News Agency claims cyberattack on a company involved in the construction of Tel Aviv metro<a href="https://securityaffairs.co/wordpress/132897/hacking/tel-aviv-metro-company-attacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran’s Fars News Agency reported that a massive cyberattack hit operating systems and servers of the Tel Aviv Metro. 
+
+
+
+Iran’s Fars News Agency reported on Monday that operating systems and servers of the Tel Aviv Metro were hit by a massive cyberattack....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NPM supply-chain attack impacts hundreds of websites and apps<a href="https://www.bleepingcomputer.com/news/security/npm-supply-chain-attack-impacts-hundreds-of-websites-and-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An NPM supply-chain attack dating back to December 2021 used dozens of malicious NPM modules containing obfuscated Javascript code to compromise hundreds of downstream desktop apps and websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AstraLocker Shuts Down Operations, May Switch to Cryptojacking<a href="https://cyware.com/news/astralocker-shuts-down-operations-may-switch-to-cryptojacking-ae62d035"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AstraLocker ransomware is shutting down its operations and has released decryptors. The threat actor plans on moving to cryptojacking from extortion schemes. However, some of the speculations are that the group feared some action by global law enforcement. Emsisoft is planning to soon roll out a un ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-China Group Uses Dragonbridge Campaign to Target Rare Earth Mining Companies<a href="https://thehackernews.com/2022/07/pro-china-group-uses-dragonbridge.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pro-China  influence campaign  singled out rare earth mining companies in Australia, Canada, and the U.S. with negative messaging in an unsuccessful attempt to manipulate public discourse to China's benefit.  Targeted firms included Australia's Lynas Rare Earths Ltd, Canada's Appia Rare Earths & Uranium Corp, and the American company USA Rare Earth, threat intelligence firm Mandiant said in a report last week, calling the digital campaign  Dragonbridge .   "It targeted an industry of strategic significance to the PRC, including specifically three commercial entities challenging the  PRC's global market dominance  in that industry," Mandiant  noted .  The goal, the company noted, was to instigate environmental protests against the companies and propagate counter-narratives in response to potential or planned rare earths production activities involving the targets.   This comprised a network of thousands of inauthentic accounts across numerous social medi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Police of Ukraine arrested 9 men behind phishing attacks on Ukrainians attempting to capitalize on the ongoing conflict<a href="https://securityaffairs.co/wordpress/132891/cyber-crime/cyber-police-of-ukraine-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Police of Ukraine arrested nine members of a cybercriminal gang that has stolen 100 million hryvnias via phishing attacks.
+
+
+
+The Cyber Police of Ukraine arrested nine members of a cybercriminal organization that stole 100 million hryvnias...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft quietly fixes ShadowCoerce Windows NTLM Relay bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-fixes-shadowcoerce-windows-ntlm-relay-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has confirmed it fixed a previously disclosed 'ShadowCoerce' vulnerability as part of the June 2022 updates that enabled attackers to target Windows servers in NTLM relay attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITRE Reveals 2022 List of Most Dangerous Software Bugs<a href="https://cyware.com/news/mitre-reveals-2022-list-of-most-dangerous-software-bugs-07947201"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MITRE has released the 2022 CWE most dangerous software bugs list, highlighting that enterprises still face a raft of common weaknesses that must be protected from exploitation. Bugs, which fall under the software weaknesses category also include flaws, vulnerabilities, and various other errors fou ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As New Clues Emerges, Experts Wonder: Is REvil Back?<a href="https://thehackernews.com/2022/07/as-new-clues-emerges-experts-wonder-is.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Change is a part of life, and nothing stays the same for too long, even with hacking groups, which are at their most dangerous when working in complete silence. The notorious REvil  ransomware  gang, linked to the infamous JBS and Kaseya, has resurfaced three months after the arrest of its members in Russia.  The Russian domestic intelligence service, the FSB, had caught 14 people from the gang. In this apprehension, the 14 members of the gang were found in possession of 426 million roubles, $600,000, 500,000 euros, computer equipment, and 20 luxury cars were brought to justice.  REvil Ransomware Gang- The Context  The financially-motivated cybercriminal threat group Gold Southfield controlled ransomware group known as REvil emerged in 2019 and spread like wildfire after extorting $11 million from the meat-processor JBS.  REvil would incentivize its affiliates to carry out cyberattacks for them by giving a percentage of the ransom pay-outs to those who help with infiltration activitie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors compromised British Army ’s Twitter, YouTube accounts to promote crypto scams<a href="https://securityaffairs.co/wordpress/132876/hacking/british-army-accounts-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors compromised the Twitter and YouTube accounts of the British Army to promote online crypto scams.
+
+
+
+The Twitter and YouTube accounts of the British Army were used to promote NFT and other crypto scams. The YouTube account was used to transmit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns Against Exploitation of PwnKit Linux Vulnerability<a href="https://cyware.com/news/cisa-warns-against-exploitation-of-pwnkit-linux-vulnerability-42838c1b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal agencies have been ordered to patch their Linux servers against   PwnKit   within three weeks. The most astounding part is that it remained hidden for over 12 years since pkexec's first release. Successful exploitation of the flaw could induce pkexec to execute arbitrary code. O  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Share Techniques to Uncover Anonymized Ransomware Sites on Dark Web<a href="https://thehackernews.com/2022/07/researchers-share-techniques-to-uncover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed the various measures ransomware actors have taken to obscure their true identity online as well as the hosting location of their web server infrastructure.  "Most ransomware operators use hosting providers outside their country of origin (such as Sweden, Germany, and Singapore) to host their ransomware operations sites," Cisco Talos researcher Paul Eubanks  said . "They use VPS hop-points as a proxy to hide their true location when they connect to their ransomware web infrastructure for remote administration tasks."  Also prominent are the use of the TOR network and DNS proxy registration services to provide an added layer of anonymity for their illegal operations.  But by taking advantage of the threat actors' operational security missteps and other techniques, the cybersecurity firm disclosed last week that it was able to identify TOR hidden services hosted on public IP addresses, some of which are previously unknown in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AstraLocker ransomware operators shut down their operations<a href="https://securityaffairs.co/wordpress/132871/malware/astralocker-ransomware-shut-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AstraLocker ransomware operators told BleepingComputer they're shutting down their operations and are releasing decryptors.
+
+
+
+AstraLocker ransomware operators told BleepingComputer they're shutting down the operation and provided decryptors to the VirusTotal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YouTube Creators Accounts are a New Target for YTStealer Malware<a href="https://cyware.com/news/youtube-creators-accounts-are-a-new-target-for-ytstealer-malware-14f65b0f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new infostealer, named YTStealer, is targeting content creators on YouTube in an attempt to steal their authentication tokens and take over their accounts. The buyers of the compromised accounts typically use these stolen authentication cookies to hijack YouTube channels for various scams or dema ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8220 Gang Exploiting Vulnerabilities in WebLogic and Atlassian Servers - Warns Microsoft<a href="https://cyware.com/news/8220-gang-exploiting-vulnerabilities-in-weblogic-and-atlassian-servers-warns-microsoft-3178826a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent campaign targets i686 and x86_64 Linux systems. It employs RCE exploits for CVE-2019-2725 (WebLogic) and CVE-2022-26134 (Atlassian Confluence Server and Data Center) for initial access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Targeting Microsoft Exchange Server Via SessionManager Backdoor<a href="https://cyware.com/news/attackers-targeting-microsoft-exchange-server-via-sessionmanager-backdoor-1a06ab9a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Kaspersky have named the backdoor SessionManage, which was first spotted the threat in early 2022. It is a native-code module for Microsoft's IIS web server software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DOJ sets new goals for responding to ransomware attacks<a href="https://therecord.media/doj-sets-new-goals-for-responding-to-ransomware-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent document, the DoJ said that it pledges to increase “the percentage of reported ransomware incidents from which cases are opened, added to existing cases, or resolved or investigative actions are conducted within 72 hours to 65%.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch University Gets Cyber Ransom Money Back with Interest<a href="https://www.securityweek.com/dutch-uni-gets-cyber-ransom-money-back-interest?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The southern Maastricht University in 2019 was hit by a large cyberattack in which criminals used ransomware, a type of malicious software that locks valuable data and can only be accessed once the victim pays a ransom amount.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Google Chrome Browser to Patch New Zero-Day Exploit Detected in the Wild<a href="https://thehackernews.com/2022/07/update-google-chrome-browser-to-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday shipped security updates to address a high-severity zero-day vulnerability in its Chrome web browser that it said is being exploited in the wild.  The shortcoming, tracked as  CVE-2022-2294 , relates to a heap overflow flaw in the  WebRTC  component that provides real-time audio and video communication capabilities in browsers without the need to install plugins or download native apps.  Heap buffer overflows, also referred to as heap overrun or heap smashing, occur when data is overwritten in the  heap area of the memory , leading to arbitrary code execution or a denial-of-service (DoS) condition.   "Heap-based overflows can be used to overwrite function pointers that may be living in memory, pointing it to the attacker's code," MITRE  explains . "When the consequence is arbitrary code execution, this can often be used to subvert any other security service."  Credited with reporting the flaw on July 1, 2022, is Jan Vojtesek from the Avast Thre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes the fourth Chrome zero-day in 2022<a href="https://securityaffairs.co/wordpress/132863/breaking-news/4th-chrome-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google addressed a high-severity zero-day Chrome vulnerability actively exploited in the wild, it is the fourth zero-day patched in 2022.
+
+
+
+Google has released Chrome 103.0.5060.114 for Windows to fix a high-severity zero-day Chrome vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of a billion Chinese residents available for sale on a cybercrime forum<a href="https://securityaffairs.co/wordpress/132860/data-breach/chinese-residents-data-hacking-forum.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors claim to have breached a database belonging to Shanghai police and stole the data of a billion Chinese residents.
+
+
+
+Unknown threat actors claimed to have obtained data of a billion Chinese residents after breaching a database of the Shanghai...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 04, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
