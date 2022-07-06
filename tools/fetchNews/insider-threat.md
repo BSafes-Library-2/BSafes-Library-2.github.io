@@ -8,6 +8,24 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+July 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unfaithful HackerOne employee steals bug reports to claim additional bounties<a href="https://securityaffairs.co/wordpress/132846/cyber-crime/hackerone-incident.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bug bounty platform HackerOne disclosed that a former employee improperly accessed security reports submitted to claim additional bounties
+
+
+
+The vulnerability coordination and bug bounty platform HackerOne disclosed that a former employee improperly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

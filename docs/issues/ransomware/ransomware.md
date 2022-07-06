@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RedAlert Ransomware targets Windows, Linux VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/new-redalert-ransomware-targets-windows-linux-vmware-esxi-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware operation called RedAlert, or N13V, encrypts both Windows and Linux VMWare ESXi servers in attacks on corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AstraLocker Shuts Down Operations, May Switch to Cryptojacking<a href="https://cyware.com/news/astralocker-shuts-down-operations-may-switch-to-cryptojacking-ae62d035"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AstraLocker ransomware is shutting down its operations and has released decryptors. The threat actor plans on moving to cryptojacking from extortion schemes. However, some of the speculations are that the group feared some action by global law enforcement. Emsisoft is planning to soon roll out a un ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

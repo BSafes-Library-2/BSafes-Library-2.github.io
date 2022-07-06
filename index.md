@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 05, 2022
+July 05, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New RedAlert Ransomware targets Windows, Linux VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/new-redalert-ransomware-targets-windows-linux-vmware-esxi-servers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2022
+July 5, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ZuoRAT Malware with Hallmarks of a State-Backed Threat Actor<a href="https://cyware.com/news/zuorat-malware-with-hallmarks-of-a-state-backed-threat-actor-13986ad5"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 05, 2022
+July 05, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Malicious NPM Packages Stealing Data from Apps and Web Forms<a href="https://thehackernews.com/2022/07/researchers-uncover-malicious-npm.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2022
+July 5, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Last Call at the “Star Wars Bar”: Harmonizing Incident and Breach Reporting Requirements<a href="https://www.lawfareblog.com/last-call-star-wars-bar-harmonizing-incident-and-breach-reporting-requirements"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2022
+July 5, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Fars News Agency claims cyberattack on a company involved in the construction of Tel Aviv metro<a href="https://securityaffairs.co/wordpress/132897/hacking/tel-aviv-metro-company-attacked.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 05, 2022
+July 05, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NPM supply-chain attack impacts hundreds of websites and apps<a href="https://www.bleepingcomputer.com/news/security/npm-supply-chain-attack-impacts-hundreds-of-websites-and-apps/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2022
+July 5, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AstraLocker Shuts Down Operations, May Switch to Cryptojacking<a href="https://cyware.com/news/astralocker-shuts-down-operations-may-switch-to-cryptojacking-ae62d035"> Full Text</a>
@@ -150,7 +150,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 05, 2022
+July 05, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-China Group Uses Dragonbridge Campaign to Target Rare Earth Mining Companies<a href="https://thehackernews.com/2022/07/pro-china-group-uses-dragonbridge.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2022
+July 5, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Police of Ukraine arrested 9 men behind phishing attacks on Ukrainians attempting to capitalize on the ongoing conflict<a href="https://securityaffairs.co/wordpress/132891/cyber-crime/cyber-police-of-ukraine-phishing.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 05, 2022
+July 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft quietly fixes ShadowCoerce Windows NTLM Relay bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-fixes-shadowcoerce-windows-ntlm-relay-bug/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2022
+July 5, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MITRE Reveals 2022 List of Most Dangerous Software Bugs<a href="https://cyware.com/news/mitre-reveals-2022-list-of-most-dangerous-software-bugs-07947201"> Full Text</a>
@@ -218,7 +218,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 05, 2022
+July 05, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 As New Clues Emerges, Experts Wonder: Is REvil Back?<a href="https://thehackernews.com/2022/07/as-new-clues-emerges-experts-wonder-is.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2022
+July 5, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors compromised British Army ’s Twitter, YouTube accounts to promote crypto scams<a href="https://securityaffairs.co/wordpress/132876/hacking/british-army-accounts-hacked.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2022
+July 5, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns Against Exploitation of PwnKit Linux Vulnerability<a href="https://cyware.com/news/cisa-warns-against-exploitation-of-pwnkit-linux-vulnerability-42838c1b"> Full Text</a>
@@ -270,7 +270,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 05, 2022
+July 05, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Share Techniques to Uncover Anonymized Ransomware Sites on Dark Web<a href="https://thehackernews.com/2022/07/researchers-share-techniques-to-uncover.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2022
+July 5, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AstraLocker ransomware operators shut down their operations<a href="https://securityaffairs.co/wordpress/132871/malware/astralocker-ransomware-shut-down.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2022
+July 5, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 YouTube Creators Accounts are a New Target for YTStealer Malware<a href="https://cyware.com/news/youtube-creators-accounts-are-a-new-target-for-ytstealer-malware-14f65b0f"> Full Text</a>
@@ -322,7 +322,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2022
+July 5, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 8220 Gang Exploiting Vulnerabilities in WebLogic and Atlassian Servers - Warns Microsoft<a href="https://cyware.com/news/8220-gang-exploiting-vulnerabilities-in-weblogic-and-atlassian-servers-warns-microsoft-3178826a"> Full Text</a>
@@ -338,7 +338,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2022
+July 5, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Targeting Microsoft Exchange Server Via SessionManager Backdoor<a href="https://cyware.com/news/attackers-targeting-microsoft-exchange-server-via-sessionmanager-backdoor-1a06ab9a"> Full Text</a>
@@ -354,7 +354,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2022
+July 5, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US DOJ sets new goals for responding to ransomware attacks<a href="https://therecord.media/doj-sets-new-goals-for-responding-to-ransomware-attacks/?&web_view=true"> Full Text</a>
@@ -370,7 +370,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2022
+July 5, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dutch University Gets Cyber Ransom Money Back with Interest<a href="https://www.securityweek.com/dutch-uni-gets-cyber-ransom-money-back-interest?&web_view=true"> Full Text</a>
@@ -386,7 +386,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2022
+July 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update Google Chrome Browser to Patch New Zero-Day Exploit Detected in the Wild<a href="https://thehackernews.com/2022/07/update-google-chrome-browser-to-patch.html"> Full Text</a>
@@ -402,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2022
+July 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixes the fourth Chrome zero-day in 2022<a href="https://securityaffairs.co/wordpress/132863/breaking-news/4th-chrome-zero-day.html"> Full Text</a>
@@ -422,7 +422,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2022
+July 4, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of a billion Chinese residents available for sale on a cybercrime forum<a href="https://securityaffairs.co/wordpress/132860/data-breach/chinese-residents-data-hacking-forum.html"> Full Text</a>

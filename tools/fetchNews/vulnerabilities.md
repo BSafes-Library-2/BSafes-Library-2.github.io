@@ -8,6 +8,71 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes the fourth Chrome zero-day in 2022<a href="https://securityaffairs.co/wordpress/132863/hacking/4th-chrome-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google addressed a high-severity zero-day Chrome vulnerability actively exploited in the wild, it is the fourth zero-day patched in 2022.
+
+
+
+Google has released Chrome 103.0.5060.114 for Windows to fix a high-severity zero-day Chrome vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google patches new Chrome zero-day flaw exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/google-patches-new-chrome-zero-day-flaw-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 103.0.5060.114 for Windows users to address a high-severity zero-day vulnerability exploited by attackers in the wild, the fourth Chrome zero-day patched in 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Django web framework affected by a SQL Injection flaw. Upgrade it now!<a href="https://securityaffairs.co/wordpress/132853/security/django-framework-sql-injection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The development team behind the Django Project has addressed a high-severity SQL Injection flaw in its framework.
+
+
+
+Django is a free and open-source, Python-based web framework that follows the model–template–views (MTV) architectural pattern. Django...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Django fixes SQL Injection vulnerability in new releases<a href="https://www.bleepingcomputer.com/news/security/django-fixes-sql-injection-vulnerability-in-new-releases/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Django, an&nbsp;open source Python-based web framework has patched a high severity vulnerability in its latest releases.
+Tracked as&nbsp;CVE-2022-34265, the potential SQL Injection vulnerability impacts&nbsp;Django's main branch, and versions&nbsp;4.1 (currently in beta),&nbsp;4.0, and&nbsp;3.2, with patches and new releases issued fixing the vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

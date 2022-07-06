@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+July 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors compromised British Army ’s Twitter, YouTube accounts to promote crypto scams<a href="https://securityaffairs.co/wordpress/132876/hacking/british-army-accounts-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors compromised the Twitter and YouTube accounts of the British Army to promote online crypto scams.
+
+
+
+The Twitter and YouTube accounts of the British Army were used to promote NFT and other crypto scams. The YouTube account was used to transmit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch University Gets Cyber Ransom Money Back with Interest<a href="https://www.securityweek.com/dutch-uni-gets-cyber-ransom-money-back-interest?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The southern Maastricht University in 2019 was hit by a large cyberattack in which criminals used ransomware, a type of malicious software that locks valuable data and can only be accessed once the victim pays a ransom amount.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

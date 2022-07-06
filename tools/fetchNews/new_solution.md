@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Share Techniques to Uncover Anonymized Ransomware Sites on Dark Web<a href="https://thehackernews.com/2022/07/researchers-share-techniques-to-uncover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed the various measures ransomware actors have taken to obscure their true identity online as well as the hosting location of their web server infrastructure.  "Most ransomware operators use hosting providers outside their country of origin (such as Sweden, Germany, and Singapore) to host their ransomware operations sites," Cisco Talos researcher Paul Eubanks&nbsp; said . "They use VPS hop-points as a proxy to hide their true location when they connect to their ransomware web infrastructure for remote administration tasks."  Also prominent are the use of the TOR network and DNS proxy registration services to provide an added layer of anonymity for their illegal operations.  But by taking advantage of the threat actors' operational security missteps and other techniques, the cybersecurity firm disclosed last week that it was able to identify TOR hidden services hosted on public IP addresses, some of which are previously unknown in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

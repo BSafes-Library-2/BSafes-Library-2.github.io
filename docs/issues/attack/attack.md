@@ -8,6 +8,80 @@ nav_order: 900015
 
 ## Attack
 ---
+July 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Fars News Agency claims cyberattack on a company involved in the construction of Tel Aviv metro<a href="https://securityaffairs.co/wordpress/132897/hacking/tel-aviv-metro-company-attacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran’s Fars News Agency reported that a massive cyberattack hit operating systems and servers of the Tel Aviv Metro. 
+
+
+
+Iran’s Fars News Agency reported on Monday that operating systems and servers of the Tel Aviv Metro were hit by a massive cyberattack....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NPM supply-chain attack impacts hundreds of websites and apps<a href="https://www.bleepingcomputer.com/news/security/npm-supply-chain-attack-impacts-hundreds-of-websites-and-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An NPM supply-chain attack dating back to December 2021 used dozens of malicious NPM modules containing obfuscated Javascript code to compromise hundreds&nbsp;of downstream desktop apps and websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-China Group Uses Dragonbridge Campaign to Target Rare Earth Mining Companies<a href="https://thehackernews.com/2022/07/pro-china-group-uses-dragonbridge.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pro-China&nbsp; influence campaign &nbsp;singled out rare earth mining companies in Australia, Canada, and the U.S. with negative messaging in an unsuccessful attempt to manipulate public discourse to China's benefit.  Targeted firms included Australia's Lynas Rare Earths Ltd, Canada's Appia Rare Earths &amp; Uranium Corp, and the American company USA Rare Earth, threat intelligence firm Mandiant said in a report last week, calling the digital campaign&nbsp; Dragonbridge .   "It targeted an industry of strategic significance to the PRC, including specifically three commercial entities challenging the&nbsp; PRC's global market dominance &nbsp;in that industry," Mandiant&nbsp; noted .  The goal, the company noted, was to instigate environmental protests against the companies and propagate counter-narratives in response to potential or planned rare earths production activities involving the targets.   This comprised a network of thousands of inauthentic accounts across numerous social medi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8220 Gang Exploiting Vulnerabilities in WebLogic and Atlassian Servers - Warns Microsoft<a href="https://cyware.com/news/8220-gang-exploiting-vulnerabilities-in-weblogic-and-atlassian-servers-warns-microsoft-3178826a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent campaign targets i686 and x86_64 Linux systems. It employs RCE exploits for CVE-2019-2725 (WebLogic) and CVE-2022-26134 (Atlassian Confluence Server and Data Center) for initial access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Targeting Microsoft Exchange Server Via SessionManager Backdoor<a href="https://cyware.com/news/attackers-targeting-microsoft-exchange-server-via-sessionmanager-backdoor-1a06ab9a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Kaspersky have named the backdoor SessionManage, which was first spotted the threat in early 2022. It is a native-code module for Microsoft's IIS web server software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

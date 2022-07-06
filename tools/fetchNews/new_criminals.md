@@ -8,6 +8,60 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Police of Ukraine arrested 9 men behind phishing attacks on Ukrainians attempting to capitalize on the ongoing conflict<a href="https://securityaffairs.co/wordpress/132891/cyber-crime/cyber-police-of-ukraine-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Police of Ukraine arrested nine members of a cybercriminal gang that has stolen 100 million hryvnias via phishing attacks.
+
+
+
+The Cyber Police of Ukraine arrested nine members of a cybercriminal organization that stole 100 million hryvnias...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AstraLocker ransomware operators shut down their operations<a href="https://securityaffairs.co/wordpress/132871/malware/astralocker-ransomware-shut-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AstraLocker ransomware operators told BleepingComputer they're shutting down their operations and are releasing decryptors.
+
+
+
+AstraLocker ransomware operators told BleepingComputer they're shutting down the operation and provided decryptors&nbsp;to the VirusTotal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of a billion Chinese residents available for sale on a cybercrime forum<a href="https://securityaffairs.co/wordpress/132860/data-breach/chinese-residents-data-hacking-forum.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors claim to have breached a database belonging to Shanghai police and stole the data of a billion Chinese residents.
+
+
+
+Unknown threat actors claimed to have obtained data of a billion Chinese residents after breaching a database of the Shanghai...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
