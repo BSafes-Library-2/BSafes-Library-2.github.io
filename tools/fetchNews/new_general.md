@@ -8,6 +8,52 @@ nav_order: 900072
 
 ## General
 ---
+July 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taking the Elf Off the Shelf: Why the U.S. Should Consider a Civilian Cyber Defense<a href="https://www.lawfareblog.com/taking-elf-shelf-why-us-should-consider-civilian-cyber-defense"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. doesn’t have a civilian cyber defense. Here’s why it should and how it should be implemented.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks against law enforcement are on the rise<a href="https://securityaffairs.co/wordpress/132929/cyber-crime/cyberattacks-against-law-enforcement.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts observed an increase in malicious activity targeting law enforcement agencies at the beginning of Q2 2022. 
+
+
+
+Resecurity, a Los Angeles-based cybersecurity company protecting Fortune 500 companies worldwide, has registered an increase in malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The End of False Positives for Web and API Security Scanning?<a href="https://thehackernews.com/2022/07/the-end-of-false-positives-for-web-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+July may positively disrupt and adrenalize the old-fashioned Dynamic Application Security Scanning (DAST) market, despite the coming holiday season. The pathbreaking innovation comes from ImmuniWeb, a global application security company, well known for, among other things, its free&nbsp; Community Edition &nbsp;that processes over 100,000 daily security scans of web and mobile apps.&nbsp;  Today, ImmuniWeb announced that its new product –&nbsp; Neuron &nbsp;– is publicly available. This would be another boring press release by a software vendor, but the folks from ImmuniWeb managed to add a secret sauce that you will unlikely be able to resist tasting. The DAST scanning service is flexibly available as a SaaS, and unsurprisingly contains all fashionable features commonly advertised by competitors on the rapidly growing global market, spanning from native CI/CD integrations to advanced configuration of security scanning, pre-programmed or authenticated testing.&nbsp;  But the groundbreaking feature is Neuron's
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

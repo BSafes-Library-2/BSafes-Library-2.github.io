@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IT services giant SHI hit by "professional malware attack"<a href="https://www.bleepingcomputer.com/news/security/it-services-giant-shi-hit-by-professional-malware-attack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Toll Fraud Malware Catching Up Quickly, Microsoft Warns<a href="https://cyware.com/news/toll-fraud-malware-catching-up-quickly-microsoft-warns-3402436c"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Announces First Four Quantum-Resistant Cryptographic Algorithms<a href="https://thehackernews.com/2022/07/nist-announces-first-four-quantum.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Taking the Elf Off the Shelf: Why the U.S. Should Consider a Civilian Cyber Defense<a href="https://www.lawfareblog.com/taking-elf-shelf-why-us-should-consider-civilian-cyber-defense"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Marriott International suffered a new data breach, attackers stole 20GB of data<a href="https://securityaffairs.co/wordpress/132943/data-breach/marriott-new-data-breach.html"> Full Text</a>
@@ -122,7 +122,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security advisory accidentally exposes vulnerable systems<a href="https://www.bleepingcomputer.com/news/security/security-advisory-accidentally-exposes-vulnerable-systems/"> Full Text</a>
@@ -138,7 +138,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Near-undetectable malware linked to Russia's Cozy Bear<a href="https://www.theregister.com/2022/07/06/brc4_state_sponsored_apt29/?&web_view=true"> Full Text</a>
@@ -154,7 +154,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSL Releases Patch for High-Severity Bug that Could Lead to RCE Attacks<a href="https://thehackernews.com/2022/07/openssl-releases-patch-for-high.html"> Full Text</a>
@@ -170,7 +170,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattacks against law enforcement are on the rise<a href="https://securityaffairs.co/wordpress/132929/cyber-crime/cyberattacks-against-law-enforcement.html"> Full Text</a>
@@ -190,7 +190,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple’s new Lockdown Mode defends against government spyware<a href="https://www.bleepingcomputer.com/news/apple/apple-s-new-lockdown-mode-defends-against-government-spyware/"> Full Text</a>
@@ -206,7 +206,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PennyWise Malware Steals Data from Cryptocurrency Wallets and Browsers<a href="https://www.techrepublic.com/article/pennywise-malware-youtube-crypto/?&web_view=true"> Full Text</a>
@@ -222,7 +222,7 @@ Tech Republic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Abusing BRc4 Red Team Penetration Tool in Attacks to Evade Detection<a href="https://thehackernews.com/2022/07/hackers-abusing-brc4-red-team.html"> Full Text</a>
@@ -238,7 +238,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Less popular, but very effective, Red-Teaming Tool BRc4 used in attacks in the wild<a href="https://securityaffairs.co/wordpress/132922/hacking/brc4-used-in-attacks.html"> Full Text</a>
@@ -258,7 +258,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware, hacking groups move from Cobalt Strike to Brute Ratel<a href="https://www.bleepingcomputer.com/news/security/ransomware-hacking-groups-move-from-cobalt-strike-to-brute-ratel/"> Full Text</a>
@@ -274,7 +274,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Fars News Agency claims cyberattack on a company involved in the construction of Tel Aviv metro<a href="https://securityaffairs.co/wordpress/132897/hacking/tel-aviv-metro-company-attacked.html?&web_view=true"> Full Text</a>
@@ -290,7 +290,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The End of False Positives for Web and API Security Scanning?<a href="https://thehackernews.com/2022/07/the-end-of-false-positives-for-web-and.html"> Full Text</a>
@@ -306,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Hive ransomware variant is written in Rust and use improved encryption method<a href="https://securityaffairs.co/wordpress/132914/malware/hive-ransomware-new-variant.html"> Full Text</a>
@@ -326,7 +326,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Marriott hit by new data breach and a failed extortion attempt<a href="https://www.bleepingcomputer.com/news/security/marriott-hit-by-new-data-breach-and-a-failed-extortion-attempt/"> Full Text</a>
@@ -342,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High severity OpenSSL bug could lead to remote code execution<a href="https://portswigger.net/daily-swig/high-severity-openssl-bug-could-lead-to-remote-code-execution?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitter APT Hackers Continue to Target Bangladesh Military Entities<a href="https://thehackernews.com/2022/07/bitter-apt-hackers-continue-to-target.html"> Full Text</a>
@@ -374,7 +374,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious NPM packages used to grab data from apps, websites￼<a href="https://securityaffairs.co/wordpress/132904/malware/fake-npm-packages-stealing-data.html"> Full Text</a>
@@ -394,7 +394,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt warns of Maui ransomware attacks against healthcare orgs<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-of-maui-ransomware-attacks-against-healthcare-orgs/"> Full Text</a>
@@ -410,7 +410,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at PFC USA Impacts Patients of 650 Healthcare Providers<a href="https://www.securityweek.com/data-breach-pfc-usa-impacts-patients-650-healthcare-providers?&web_view=true"> Full Text</a>
@@ -426,7 +426,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive Ransomware Upgrades to Rust for More Sophisticated Encryption Method<a href="https://thehackernews.com/2022/07/hive-ransomware-upgrades-to-rust-for.html"> Full Text</a>
@@ -442,7 +442,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Solana DeFi Protocol Crema Finance Loses $8.8 Million in Flash Loan Attack<a href="https://finance.yahoo.com/news/solana-defi-protocol-crema-loses-082312056.html?&web_view=true"> Full Text</a>

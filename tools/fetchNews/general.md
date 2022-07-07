@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+July 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Last Call at the “Star Wars Bar”: Harmonizing Incident and Breach Reporting Requirements<a href="https://www.lawfareblog.com/last-call-star-wars-bar-harmonizing-incident-and-breach-reporting-requirements"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Policymakers have a golden opportunity to make cyber incident and breach reporting requirements more powerful and effective.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITRE Reveals 2022 List of Most Dangerous Software Bugs<a href="https://cyware.com/news/mitre-reveals-2022-list-of-most-dangerous-software-bugs-07947201"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MITRE has released the 2022 CWE most dangerous software bugs list, highlighting that enterprises still face a raft of common weaknesses that must be protected from exploitation. Bugs, which fall under the software weaknesses category also include flaws, vulnerabilities, and various other errors fou ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As New Clues Emerges, Experts Wonder: Is REvil Back?<a href="https://thehackernews.com/2022/07/as-new-clues-emerges-experts-wonder-is.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Change is a part of life, and nothing stays the same for too long, even with hacking groups, which are at their most dangerous when working in complete silence. The notorious REvil&nbsp; ransomware &nbsp;gang, linked to the infamous JBS and Kaseya, has resurfaced three months after the arrest of its members in Russia.  The Russian domestic intelligence service, the FSB, had caught 14 people from the gang. In this apprehension, the 14 members of the gang were found in possession of 426 million roubles, $600,000, 500,000 euros, computer equipment, and 20 luxury cars were brought to justice.  REvil Ransomware Gang- The Context  The financially-motivated cybercriminal threat group Gold Southfield controlled ransomware group known as REvil emerged in 2019 and spread like wildfire after extorting $11 million from the meat-processor JBS.  REvil would incentivize its affiliates to carry out cyberattacks for them by giving a percentage of the ransom pay-outs to those who help with infiltration activitie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple’s new Lockdown Mode defends against government spyware<a href="https://www.bleepingcomputer.com/news/apple/apple-s-new-lockdown-mode-defends-against-government-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple announced that a new security feature known as Lockdown Mode will roll out with iOS 16, iPadOS 16, and macOS Ventura to protect high-risk individuals like human rights defenders, journalists, and dissidents against targeted spyware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

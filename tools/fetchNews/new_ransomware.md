@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hive ransomware variant is written in Rust and use improved encryption method<a href="https://securityaffairs.co/wordpress/132914/malware/hive-ransomware-new-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hive ransomware operators have improved their file-encrypting module by migrating to Rust language and adopting a more sophisticated encryption method.
+
+
+
+The operators of the Hive ransomware upgraded their malware by migrating the malware to the Rust...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware Upgrades to Rust for More Sophisticated Encryption Method<a href="https://thehackernews.com/2022/07/hive-ransomware-upgrades-to-rust-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the Hive ransomware-as-a-service (RaaS) scheme have overhauled their file-encrypting software to fully migrate to Rust and adopt a more sophisticated encryption method.  "With its latest variant carrying several major upgrades, Hive also proves it's one of the fastest evolving ransomware families, exemplifying the continuously changing ransomware ecosystem," Microsoft Threat Intelligence Center (MSTIC)&nbsp; said &nbsp;in a report on Tuesday.  Hive , which was first observed in June 2021, has emerged as one of the most prolific RaaS groups,&nbsp; accounting &nbsp;for 17 attacks in the month of May 2022 alone, alongside&nbsp; Black Basta and Conti .   The shift from GoLang to Rust makes Hive the second ransomware strain after&nbsp; BlackCat &nbsp;to be written in the programming language, enabling the malware to gain additional benefits such as memory safety and deeper control over low-level resources as well as make use of a wide range of cryptographic libraries.  What it also affords is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

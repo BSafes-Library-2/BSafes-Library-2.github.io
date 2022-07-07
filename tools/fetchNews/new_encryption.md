@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+July 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Announces First Four Quantum-Resistant Cryptographic Algorithms<a href="https://thehackernews.com/2022/07/nist-announces-first-four-quantum.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Commerce's National Institute of Standards and Technology (NIST) has&nbsp; chosen &nbsp;the first set of quantum-resistant encryption algorithms that are designed to "withstand the assault of a future quantum computer."  The post-quantum cryptography ( PQC ) technologies include the&nbsp; CRYSTALS-Kyber &nbsp;algorithm for general encryption, and&nbsp; CRYSTALS-Dilithium ,&nbsp; FALCON , and&nbsp; SPHINCS+ &nbsp;for digital signatures.   "Three of the selected algorithms are based on a family of math problems called structured lattices, while SPHINCS+ uses hash functions," NIST, which kicked off the standardization process in January 2017,&nbsp; said &nbsp;in a statement.  Cryptography, which underpins the security of information in modern computer networks, derives its strength from the difficulty of solving mathematical problems — e.g., factoring large composite integers — using traditional computers.  Quantum computers, should they mature enough, pose a&nbsp; huge impact &nbsp;on the current pu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

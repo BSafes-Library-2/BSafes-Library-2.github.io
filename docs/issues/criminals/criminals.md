@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware, hacking groups move from Cobalt Strike to Brute Ratel<a href="https://www.bleepingcomputer.com/news/security/ransomware-hacking-groups-move-from-cobalt-strike-to-brute-ratel/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hacking groups and ransomware operations are moving away from Cobalt Strike to the newer Brute Ratel post-exploitation toolkit to evade detection by EDR and antivirus solutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

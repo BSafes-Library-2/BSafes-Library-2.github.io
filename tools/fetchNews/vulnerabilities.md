@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft quietly fixes ShadowCoerce Windows NTLM Relay bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-fixes-shadowcoerce-windows-ntlm-relay-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has confirmed it fixed a previously disclosed 'ShadowCoerce' vulnerability as part of the June 2022 updates that enabled attackers to target Windows servers in NTLM relay attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Google Chrome Browser to Patch New Zero-Day Exploit Detected in the Wild<a href="https://thehackernews.com/2022/07/update-google-chrome-browser-to-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday shipped security updates to address a high-severity zero-day vulnerability in its Chrome web browser that it said is being exploited in the wild.  The shortcoming, tracked as&nbsp; CVE-2022-2294 , relates to a heap overflow flaw in the&nbsp; WebRTC &nbsp;component that provides real-time audio and video communication capabilities in browsers without the need to install plugins or download native apps.  Heap buffer overflows, also referred to as heap overrun or heap smashing, occur when data is overwritten in the&nbsp; heap area of the memory , leading to arbitrary code execution or a denial-of-service (DoS) condition.   "Heap-based overflows can be used to overwrite function pointers that may be living in memory, pointing it to the attacker's code," MITRE&nbsp; explains . "When the consequence is arbitrary code execution, this can often be used to subvert any other security service."  Credited with reporting the flaw on July 1, 2022, is Jan Vojtesek from the Avast Thre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes the fourth Chrome zero-day in 2022<a href="https://securityaffairs.co/wordpress/132863/breaking-news/4th-chrome-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google addressed a high-severity zero-day Chrome vulnerability actively exploited in the wild, it is the fourth zero-day patched in 2022.
+
+
+
+Google has released Chrome 103.0.5060.114 for Windows to fix a high-severity zero-day Chrome vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

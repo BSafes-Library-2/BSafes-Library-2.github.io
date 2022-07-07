@@ -8,6 +8,70 @@ nav_order: 900029
 
 ## Breach
 ---
+July 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marriott International suffered a new data breach, attackers stole 20GB of data<a href="https://securityaffairs.co/wordpress/132943/data-breach/marriott-new-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hotel chain Marriott International suffered a new data breach, a threat actor has stolen 20GB from the company.
+
+
+
+Hotel chain Marriott International confirmed it has suffered a new data breach after a threat actor stole 20GB of files from one of its properties.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security advisory accidentally exposes vulnerable systems<a href="https://www.bleepingcomputer.com/news/security/security-advisory-accidentally-exposes-vulnerable-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security advisory for a vulnerability (CVE) published by MITRE&nbsp;has accidentally been exposing links to remote admin consoles of over a dozen vulnerable IP devices since at least&nbsp;April 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marriott hit by new data breach and a failed extortion attempt<a href="https://www.bleepingcomputer.com/news/security/marriott-hit-by-new-data-breach-and-a-failed-extortion-attempt/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hotel giant Marriott International confirmed this week that it was hit by another data breach after an unknown threat actor managed to breach one of its properties and steal 20 GB worth of files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at PFC USA Impacts Patients of 650 Healthcare Providers<a href="https://www.securityweek.com/data-breach-pfc-usa-impacts-patients-650-healthcare-providers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack on PFC appears to be part of a trend where cybercriminals are not targeting healthcare providers directly but turn on their partner organizations instead.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

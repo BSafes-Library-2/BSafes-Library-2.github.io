@@ -8,6 +8,80 @@ nav_order: 900015
 
 ## Attack
 ---
+July 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT services giant SHI hit by "professional malware attack"<a href="https://www.bleepingcomputer.com/news/security/it-services-giant-shi-hit-by-professional-malware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SHI International Corp, a New Jersey-based provider of Information Technology (IT) products and services,&nbsp;has confirmed that its network was hit by a malware attack over the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Abusing BRc4 Red Team Penetration Tool in Attacks to Evade Detection<a href="https://thehackernews.com/2022/07/hackers-abusing-brc4-red-team.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors have been observed abusing legitimate adversary simulation software in their attacks in an attempt to stay under the radar and evade detection.  Palo Alto Networks Unit 42 said  a&nbsp; malware sample &nbsp;uploaded to the VirusTotal database on May 19, 2022, contained a payload associated with Brute Ratel C4, a relatively new sophisticated toolkit "designed to avoid detection by endpoint detection and response (EDR) and antivirus (AV) capabilities."  Authored by an Indian security researcher named&nbsp; Chetan Nayak , Brute Ratel (BRc4) is analogous to Cobalt Strike and is&nbsp; described &nbsp;as a "customized command-and-control center for red team and adversary simulation."   The commercial software was first released in late 2020 and has since gained over 480 licenses across 350 customers. Each license is offered at $2,500 per user for a year, after which it can be renewed for the same duration at the cost of $2,250.  BRc4 is equipped with a wide variety of features,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Less popular, but very effective, Red-Teaming Tool BRc4 used in attacks in the wild<a href="https://securityaffairs.co/wordpress/132922/hacking/brc4-used-in-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are abusing legitimate adversary simulation software BRc4 in their campaigns to evade detection.
+
+
+
+Researchers from Palo Alto Networks Unit 42&nbsp;discovered that a sample uploaded to the VirusTotal database on May 19, 2022 and considered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt warns of Maui ransomware attacks against healthcare orgs<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-of-maui-ransomware-attacks-against-healthcare-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI,&nbsp;CISA, and the U.S. Treasury Department issued today a joint advisory warning of North-Korean-backed threat actors using&nbsp;Maui ransomware in attacks against Healthcare and Public Health (HPH) organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Solana DeFi Protocol Crema Finance Loses $8.8 Million in Flash Loan Attack<a href="https://finance.yahoo.com/news/solana-defi-protocol-crema-loses-082312056.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Solana-based liquidity protocol Crema Finance had more than $8.78 million worth of cryptocurrencies stolen from its platform in an attack over the weekend, developers said in a tweet.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

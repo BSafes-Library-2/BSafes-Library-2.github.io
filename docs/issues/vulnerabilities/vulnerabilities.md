@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL Releases Patch for High-Severity Bug that Could Lead to RCE Attacks<a href="https://thehackernews.com/2022/07/openssl-releases-patch-for-high.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the OpenSSL project have released patches to address a&nbsp; high-severity bug &nbsp;in the cryptographic library that could potentially lead to remote code execution under certain scenarios.  The&nbsp; issue , now assigned the identifier&nbsp; CVE-2022-2274 , has been described as a case of heap memory corruption with RSA private key operation that was introduced in OpenSSL version 3.0.4 released on June 21, 2022.  First released in 1998, OpenSSL is a general-purpose&nbsp; cryptography library &nbsp;that offers open-source implementation of the Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols, enabling users to generate private keys, create certificate signing requests ( CSRs ), install SSL/TLS certificates.   "SSL/TLS servers or other servers using 2048 bit RSA private keys running on machines supporting AVX512IFMA instructions of the X86_64 architecture are affected by this issue," the advisory&nbsp; noted .  Calling it a "serious bug in the RSA implementation
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High severity OpenSSL bug could lead to remote code execution<a href="https://portswigger.net/daily-swig/high-severity-openssl-bug-could-lead-to-remote-code-execution?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SSL/TLS servers or other servers using 2048-bit RSA private keys running on machines supporting AVX512IFMA instructions of the X86_64 architecture are affected by this issue.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
