@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+July 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Marriage Ministries Acknowledges Data Exposure via Unsecured Amazon Bucket<a href="https://therecord.media/american-marriage-ministries-acknowledges-data-exposure-after-earlier-incident-reported-to-fbi/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wedding officiant training company American Marriage Ministries (AMM) said it is dealing with another data security issue after reporting a breach of sensitive data to the FBI earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Human Error Blamed for Leak of 1 Billion Records of Chinese Citizens<a href="https://threatpost.com/hbillion-records/180125/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A developer appears to have divulged credentials to a police database on a popular developer forum, leading to a breach and subsequent bid to sell 23 terabytes of personal data on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marriott confirms another data breach after hotel got hacked<a href="https://www.bleepingcomputer.com/news/security/marriott-confirms-another-data-breach-after-hotel-got-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hotel giant Marriott International confirmed this week that it was hit by another data breach after an unknown threat actor managed to breach one of its properties and steal 20 GB worth of files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+July 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft rolls back decision to block Office macros by default<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-back-decision-to-block-office-macros-by-default/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While Microsoft announced earlier this year that it would block VBA macros on downloaded documents by default, Redmond said on Thursday that it will roll back this change based on "feedback" until further notice.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple's New "Lockdown Mode" Protects iPhone, iPad, and Mac Against Spyware<a href="https://thehackernews.com/2022/07/apples-new-lockdown-mode-protects.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Wednesday announced it plans to introduce an enhanced security setting called&nbsp; Lockdown Mode &nbsp;in iOS 16, iPadOS 16, and macOS Ventura to safeguard high-risk users against "highly targeted cyberattacks."  The "extreme, optional protection" feature, now available for preview in beta versions of its upcoming software, is designed to counter a surge in threats posed by private companies developing state-sponsored surveillanceware such as&nbsp; Pegasus ,&nbsp; DevilsTongue ,&nbsp; Predator , and&nbsp; Hermit .   Lockdown Mode, when enabled, "hardens device defenses and strictly limits certain functionalities, sharply reducing the attack surface that potentially could be exploited by highly targeted mercenary spyware," Apple&nbsp; said &nbsp;in a statement.   This includes blocking most message attachment types other than images and disabling link previews in Messages; rendering inoperative just-in-time ( JIT ) JavaScript compilation; removing support for shared albums in Photos; a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

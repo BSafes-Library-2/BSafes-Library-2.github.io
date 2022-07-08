@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL version 3.0.5 fixes a flaw that could potentially lead to RCE<a href="https://securityaffairs.co/wordpress/132939/security/openssl-3-0-5-fixes-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The development team behind the OpenSSL project fixed a&nbsp;high-severity bug&nbsp;in the library that could potentially lead to remote code execution.
+
+
+
+The maintainers of the OpenSSL project fixed a&nbsp;high-severity heap memory corruption issue, tracked as CVE-2022-2274,&nbsp;affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco and Fortinet Release Security Patches for Multiple Products<a href="https://thehackernews.com/2022/07/cisco-and-fortinet-release-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday rolled out patches for&nbsp; 10 security flaws &nbsp;spanning multiple products, one of which is rated Critical in severity and could be weaponized to conduct absolute path traversal attacks.  The issues, tracked as&nbsp; CVE-2022-20812 and CVE-2022-20813 , affect Cisco Expressway Series and Cisco TelePresence Video Communication Server (VCS) and "could allow a remote attacker to overwrite arbitrary files or conduct null byte poisoning attacks on an affected device," the company&nbsp; said &nbsp;in an advisory.  CVE-2022-20812 (CVSS score: 9.0), which concerns a case of arbitrary file overwrite in the cluster database API, requires the authenticated, remote attacker to have Administrator read-write privileges on the application so as to be able to mount path traversal attacks as a root user.  "This vulnerability is due to insufficient input validation of user-supplied command arguments," the company said. "An attacker could exploit this vulnerability by authenticati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

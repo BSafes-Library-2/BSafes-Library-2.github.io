@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How cyber criminals are targeting Amazon Prime Day shoppers<a href="https://www.techrepublic.com/article/cyber-criminals-target-amazon-prime-day-shoppers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In advance of this year’s Amazon Prime Day set for July 12 and 13, Check Point said it has seen a 37% jump in Amazon-related phishing attacks at the start of July compared with the daily average for June.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

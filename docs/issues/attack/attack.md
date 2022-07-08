@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+July 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Maui Ransomware Actively Targeting U.S. Healthcare Organizations<a href="https://thehackernews.com/2022/07/north-korean-maui-ransomware-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new joint cybersecurity advisory, U.S. cybersecurity and intelligence agencies have warned about the use of Maui ransomware by North Korean government-backed hackers to target the healthcare sector since at least May 2021.  "North Korean state-sponsored cyber actors used Maui ransomware in these incidents to encrypt servers responsible for healthcare services—including electronic health records services, diagnostics services, imaging services, and intranet services," the authorities&nbsp; noted .  The&nbsp; alert &nbsp;comes courtesy of the U.S. Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), and the Department of the Treasury.  Cybersecurity firm Stairwell, whose findings formed the basis of the advisory, said the lesser-known ransomware family stands out because of a lack of several key features commonly associated with ransomware-as-a-service (RaaS) groups.   This includes the absence of "embedded ransom note to provide recov
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum ransomware attack affects 657 healthcare orgs<a href="https://www.bleepingcomputer.com/news/security/quantum-ransomware-attack-affects-657-healthcare-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Professional Finance Company Inc. (PFC), a full-service accounts receivables management company, says that a ransomware attack in late February led to a data breach affecting over 600 healthcare organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of new Checkmate ransomware targeting NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-of-new-checkmate-ransomware-targeting-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan-based network-attached storage (NAS) vendor&nbsp;QNAP&nbsp;warned customers to secure their devices against attacks using&nbsp;Checkmate ransomware to encrypt data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

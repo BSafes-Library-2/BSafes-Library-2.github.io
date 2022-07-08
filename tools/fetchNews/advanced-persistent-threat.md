@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitter APT Hackers Continue to Target Bangladesh Military Entities<a href="https://thehackernews.com/2022/07/bitter-apt-hackers-continue-to-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Military entities located in Bangladesh continue to be at the receiving end of sustained cyberattacks by an advanced persistent threat tracked as Bitter.  "Through malicious document files and intermediate malware stages the threat actors conduct espionage by deploying Remote Access Trojans," cybersecurity firm SECUINFRA&nbsp; said &nbsp;in a new write-up published on July 5.  The findings from the Berlin-headquartered company build on a&nbsp; previous report &nbsp;from Cisco Talos in May, which disclosed the group's expansion in targeting to strike Bangladeshi government organizations with a backdoor called&nbsp; ZxxZ .   Bitter, also tracked under the codenames APT-C-08 and T-APT-17, is said to be active&nbsp; since at least late 2013 &nbsp;and has a track record of targeting China, Pakistan, and Saudi Arabia using different tools such as BitterRAT and ArtraDownloader.   The latest attack chain detailed by SECUINFRA is believed to have been conducted in mid-May 2022, originating with a weaponized Excel
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
