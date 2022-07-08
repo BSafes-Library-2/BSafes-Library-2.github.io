@@ -34,7 +34,419 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft rolls back decision to block Office macros by default<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-back-decision-to-block-office-macros-by-default/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While Microsoft announced earlier this year that it would block VBA macros on downloaded documents by default, Redmond said on Thursday that it will roll back this change based on "feedback" until further notice.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Marriage Ministries Acknowledges Data Exposure via Unsecured Amazon Bucket<a href="https://therecord.media/american-marriage-ministries-acknowledges-data-exposure-after-earlier-incident-reported-to-fbi/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wedding officiant training company American Marriage Ministries (AMM) said it is dealing with another data security issue after reporting a breach of sensitive data to the FBI earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Maui Ransomware Actively Targeting U.S. Healthcare Organizations<a href="https://thehackernews.com/2022/07/north-korean-maui-ransomware-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new joint cybersecurity advisory, U.S. cybersecurity and intelligence agencies have warned about the use of Maui ransomware by North Korean government-backed hackers to target the healthcare sector since at least May 2021.  "North Korean state-sponsored cyber actors used Maui ransomware in these incidents to encrypt servers responsible for healthcare services—including electronic health records services, diagnostics services, imaging services, and intranet services," the authorities  noted .  The  alert  comes courtesy of the U.S. Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), and the Department of the Treasury.  Cybersecurity firm Stairwell, whose findings formed the basis of the advisory, said the lesser-known ransomware family stands out because of a lack of several key features commonly associated with ransomware-as-a-service (RaaS) groups.   This includes the absence of "embedded ransom note to provide recov
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large-scale cryptomining campaign is targeting the NPM JavaScript package repository<a href="https://securityaffairs.co/wordpress/132983/cyber-crime/cuteboi-cryptomining-campaign-npm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a large-scale cryptocurrency mining campaign targeting the NPM JavaScript package repository.
+
+
+
+Checkmarx researchers spotted a new large-scale cryptocurrency mining campaign, tracked as CuteBoi, that is targeting the NPM JavaScript...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake copyright complaints push IcedID malware using Yandex Forms<a href="https://www.bleepingcomputer.com/news/security/fake-copyright-complaints-push-icedid-malware-using-yandex-forms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How cyber criminals are targeting Amazon Prime Day shoppers<a href="https://www.techrepublic.com/article/cyber-criminals-target-amazon-prime-day-shoppers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In advance of this year’s Amazon Prime Day set for July 12 and 13, Check Point said it has seen a 37% jump in Amazon-related phishing attacks at the start of July compared with the daily average for June.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 1200 NPM Packages Found Involved in "CuteBoi" Cryptomining Campaign<a href="https://thehackernews.com/2022/07/over-1200-npm-packages-found-involved.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed a new large-scale cryptocurrency mining campaign targeting the NPM JavaScript package repository.  The malicious activity, attributed to a software supply chain threat actor dubbed  CuteBoi , involves an array of 1,283 rogue modules that were published in an automated fashion from over 1,000 different user accounts.  "This was done using automation which includes the ability to pass the NPM 2FA challenge," Israeli application security testing company Checkmarx  said . "This cluster of packages seems to be a part of an attacker experimenting at this point."   All the released packages in question are said to harbor near-identical source code from an already existing package named eazyminer that's used to mine Monero by means of utilizing unused resources on web servers.  One notable modification entails the URL to which the mined cryptocurrency should be sent, although installing the rogue modules will not bring about a negative effect
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked APTs use Maui Ransomware to target the Healthcare industry<a href="https://securityaffairs.co/wordpress/132978/malware/maui-ransomware-joint-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US authorities have issued a joint advisory warning of North Korea-linked APTs using Maui ransomware in attacks against the Healthcare sector.
+
+
+
+The FBI, CISA, and the U.S. Treasury Department issued a joint advisory that warn of North-Korea-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New stealthy OrBit malware steals data from Linux devices<a href="https://www.bleepingcomputer.com/news/linux/new-stealthy-orbit-malware-steals-data-from-linux-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered Linux malware is being used to stealthily steal information from backdoored Linux systems and infect all running processes on the machine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Knocks Out California Community College Email, Website, and Landlines<a href="https://therecord.media/cyberattack-knocks-out-california-community-college-email-website-landlines/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Twitter and Facebook, the school explained that it is experiencing a system-wide outage of most online services but noted that programs such as Canvas, Adobe, and Microsoft Teams are still available to students.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple's New "Lockdown Mode" Protects iPhone, iPad, and Mac Against Spyware<a href="https://thehackernews.com/2022/07/apples-new-lockdown-mode-protects.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Wednesday announced it plans to introduce an enhanced security setting called  Lockdown Mode  in iOS 16, iPadOS 16, and macOS Ventura to safeguard high-risk users against "highly targeted cyberattacks."  The "extreme, optional protection" feature, now available for preview in beta versions of its upcoming software, is designed to counter a surge in threats posed by private companies developing state-sponsored surveillanceware such as  Pegasus ,  DevilsTongue ,  Predator , and  Hermit .   Lockdown Mode, when enabled, "hardens device defenses and strictly limits certain functionalities, sharply reducing the attack surface that potentially could be exploited by highly targeted mercenary spyware," Apple  said  in a statement.   This includes blocking most message attachment types other than images and disabling link previews in Messages; rendering inoperative just-in-time ( JIT ) JavaScript compilation; removing support for shared albums in Photos; a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENISA released the Threat Landscape Methodology<a href="https://securityaffairs.co/wordpress/132973/security/enis-athreat-landscape-methodology.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I'm proud to announce that the European Union Agency for Cybersecurity, ENISA, has released the Threat Landscape Methodology.
+
+
+
+Policy makers, risk managers and information security practitioners need up-to-date and accurate information on the current...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum ransomware attack affects 657 healthcare orgs<a href="https://www.bleepingcomputer.com/news/security/quantum-ransomware-attack-affects-657-healthcare-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Professional Finance Company Inc. (PFC), a full-service accounts receivables management company, says that a ransomware attack in late February led to a data breach affecting over 600 healthcare organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENISA released the Threat Landscape Methodology<a href="https://securityaffairs.co/wordpress/132973/security/enis-athreat-landscape-methodology.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The added value of ENISA threat intelligence efforts lies in offering updated information on the dynamically changing threat landscape. These efforts support risk mitigation, promote situational awareness and proactively respond to future challenges.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Age of Collaborative Security: What Tens of Thousands of Machines Witness<a href="https://thehackernews.com/2022/07/the-age-of-collaborative-security-what.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Disclaimer: This article is meant to give insight into cyber threats as seen by the community of users of CrowdSec.  What can tens of thousands of machines tell us about illegal hacker activities?  Do you remember that scene in Batman - The Dark Knight, where Batman uses a system that aggregates active sound data from countless mobile phones to create a meta sonar feed of what is going on at any given place?   It is an interesting analogy with what we do at CrowdSec. By aggregating intrusion signals from our community, we can offer a clear picture of what is going on in terms of illegal hacking in the world.  After 2 years of activity and analyzing 1 million intrusion signals daily from tens of thousands of users in 160 countries, we start having an accurate "Batman sonar" global feed of cyber threats. And there are some interesting takeaways to outline.  A cyber threat with many faces   First of all, the global cyber threat is highly versatile. What do we see when looking at the type
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OrBit, a new sophisticated Linux malware still undetected<a href="https://securityaffairs.co/wordpress/132966/hacking/orbit-linux-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers warn of new malware, tracked as OrBit, which is a fully undetected Linux threat.
+
+
+
+Cybersecurity researchers at Intezer have uncovered a new Linux malware, tracked as OrBit, that is still undetected.
+
+
+
+
+
+
+
+The malware can be installed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of new Checkmate ransomware targeting NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-of-new-checkmate-ransomware-targeting-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan-based network-attached storage (NAS) vendor QNAP warned customers to secure their devices against attacks using Checkmate ransomware to encrypt data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No backup: Why cyberattacks are a big risk for the government in Brazil<a href="https://www.zdnet.com/article/most-federal-government-bodies-are-at-high-risk-of-cyberattacks-in-brazil/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of 29 areas that represent a high risk in terms of vulnerability, abuse of power, mismanagement, or need for drastic changes was analyzed in a new report produced by the Federal Audit Court (TCU).
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL version 3.0.5 fixes a flaw that could potentially lead to RCE<a href="https://securityaffairs.co/wordpress/132939/security/openssl-3-0-5-fixes-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The development team behind the OpenSSL project fixed a high-severity bug in the library that could potentially lead to remote code execution.
+
+
+
+The maintainers of the OpenSSL project fixed a high-severity heap memory corruption issue, tracked as CVE-2022-2274, affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online programming IDEs can be used to launch remote cyberattacks<a href="https://www.bleepingcomputer.com/news/security/online-programming-ides-can-be-used-to-launch-remote-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are warning that hackers can abuse online programming learning platforms to remotely launch cyberattacks, steal data, and scan for vulnerable devices, simply by using a web browser.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Human Error Blamed for Leak of 1 Billion Records of Chinese Citizens<a href="https://threatpost.com/hbillion-records/180125/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A developer appears to have divulged credentials to a police database on a popular developer forum, leading to a breach and subsequent bid to sell 23 terabytes of personal data on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of New OrBit Linux Malware That Hijacks Execution Flow<a href="https://thehackernews.com/2022/07/researchers-warn-of-new-orbit-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have taken the wraps off a new and entirely undetected Linux threat dubbed  OrBit , signally a growing trend of malware attacks geared towards the popular operating system.  The malware gets its name from one of the filenames that's utilized to temporarily store the output of executed commands ("/tmp/.orbit"), according to cybersecurity firm Intezer.  "It can be installed either with persistence capabilities or as a volatile implant," security researcher Nicole Fishbein  said . "The malware implements advanced evasion techniques and gains persistence on the machine by hooking key functions, provides the threat actors with remote access capabilities over SSH, harvests credentials, and logs TTY commands."  OrBit is the fourth Linux malware to have come to light in a short span of three months after  BPFDoor ,  Symbiote , and  Syslogk .   The malware also functions a lot like Symbiote in that it's designed to infect all of t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco and Fortinet Release Security Patches for Multiple Products<a href="https://thehackernews.com/2022/07/cisco-and-fortinet-release-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday rolled out patches for  10 security flaws  spanning multiple products, one of which is rated Critical in severity and could be weaponized to conduct absolute path traversal attacks.  The issues, tracked as  CVE-2022-20812 and CVE-2022-20813 , affect Cisco Expressway Series and Cisco TelePresence Video Communication Server (VCS) and "could allow a remote attacker to overwrite arbitrary files or conduct null byte poisoning attacks on an affected device," the company  said  in an advisory.  CVE-2022-20812 (CVSS score: 9.0), which concerns a case of arbitrary file overwrite in the cluster database API, requires the authenticated, remote attacker to have Administrator read-write privileges on the application so as to be able to mount path traversal attacks as a root user.  "This vulnerability is due to insufficient input validation of user-supplied command arguments," the company said. "An attacker could exploit this vulnerability by authenticati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marriott confirms another data breach after hotel got hacked<a href="https://www.bleepingcomputer.com/news/security/marriott-confirms-another-data-breach-after-hotel-got-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hotel giant Marriott International confirmed this week that it was hit by another data breach after an unknown threat actor managed to breach one of its properties and steal 20 GB worth of files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IT services giant SHI hit by "professional malware attack"<a href="https://www.bleepingcomputer.com/news/security/it-services-giant-shi-hit-by-professional-malware-attack/"> Full Text</a>
@@ -50,7 +462,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Toll Fraud Malware Catching Up Quickly, Microsoft Warns<a href="https://cyware.com/news/toll-fraud-malware-catching-up-quickly-microsoft-warns-3402436c"> Full Text</a>
@@ -66,7 +478,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Announces First Four Quantum-Resistant Cryptographic Algorithms<a href="https://thehackernews.com/2022/07/nist-announces-first-four-quantum.html"> Full Text</a>
@@ -82,7 +494,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Taking the Elf Off the Shelf: Why the U.S. Should Consider a Civilian Cyber Defense<a href="https://www.lawfareblog.com/taking-elf-shelf-why-us-should-consider-civilian-cyber-defense"> Full Text</a>
@@ -98,7 +510,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Marriott International suffered a new data breach, attackers stole 20GB of data<a href="https://securityaffairs.co/wordpress/132943/data-breach/marriott-new-data-breach.html"> Full Text</a>
@@ -122,7 +534,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security advisory accidentally exposes vulnerable systems<a href="https://www.bleepingcomputer.com/news/security/security-advisory-accidentally-exposes-vulnerable-systems/"> Full Text</a>
@@ -138,7 +550,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Near-undetectable malware linked to Russia's Cozy Bear<a href="https://www.theregister.com/2022/07/06/brc4_state_sponsored_apt29/?&web_view=true"> Full Text</a>
@@ -154,7 +566,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSL Releases Patch for High-Severity Bug that Could Lead to RCE Attacks<a href="https://thehackernews.com/2022/07/openssl-releases-patch-for-high.html"> Full Text</a>
@@ -170,7 +582,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattacks against law enforcement are on the rise<a href="https://securityaffairs.co/wordpress/132929/cyber-crime/cyberattacks-against-law-enforcement.html"> Full Text</a>
@@ -190,7 +602,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple’s new Lockdown Mode defends against government spyware<a href="https://www.bleepingcomputer.com/news/apple/apple-s-new-lockdown-mode-defends-against-government-spyware/"> Full Text</a>
@@ -206,7 +618,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PennyWise Malware Steals Data from Cryptocurrency Wallets and Browsers<a href="https://www.techrepublic.com/article/pennywise-malware-youtube-crypto/?&web_view=true"> Full Text</a>
@@ -222,7 +634,7 @@ Tech Republic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Abusing BRc4 Red Team Penetration Tool in Attacks to Evade Detection<a href="https://thehackernews.com/2022/07/hackers-abusing-brc4-red-team.html"> Full Text</a>
@@ -238,7 +650,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Less popular, but very effective, Red-Teaming Tool BRc4 used in attacks in the wild<a href="https://securityaffairs.co/wordpress/132922/hacking/brc4-used-in-attacks.html"> Full Text</a>
@@ -258,7 +670,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware, hacking groups move from Cobalt Strike to Brute Ratel<a href="https://www.bleepingcomputer.com/news/security/ransomware-hacking-groups-move-from-cobalt-strike-to-brute-ratel/"> Full Text</a>
@@ -274,7 +686,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Fars News Agency claims cyberattack on a company involved in the construction of Tel Aviv metro<a href="https://securityaffairs.co/wordpress/132897/hacking/tel-aviv-metro-company-attacked.html?&web_view=true"> Full Text</a>
@@ -290,7 +702,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The End of False Positives for Web and API Security Scanning?<a href="https://thehackernews.com/2022/07/the-end-of-false-positives-for-web-and.html"> Full Text</a>
@@ -306,7 +718,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Hive ransomware variant is written in Rust and use improved encryption method<a href="https://securityaffairs.co/wordpress/132914/malware/hive-ransomware-new-variant.html"> Full Text</a>
@@ -326,7 +738,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Marriott hit by new data breach and a failed extortion attempt<a href="https://www.bleepingcomputer.com/news/security/marriott-hit-by-new-data-breach-and-a-failed-extortion-attempt/"> Full Text</a>
@@ -342,7 +754,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High severity OpenSSL bug could lead to remote code execution<a href="https://portswigger.net/daily-swig/high-severity-openssl-bug-could-lead-to-remote-code-execution?&web_view=true"> Full Text</a>
@@ -358,7 +770,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitter APT Hackers Continue to Target Bangladesh Military Entities<a href="https://thehackernews.com/2022/07/bitter-apt-hackers-continue-to-target.html"> Full Text</a>
@@ -374,7 +786,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious NPM packages used to grab data from apps, websites￼<a href="https://securityaffairs.co/wordpress/132904/malware/fake-npm-packages-stealing-data.html"> Full Text</a>
@@ -394,7 +806,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt warns of Maui ransomware attacks against healthcare orgs<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-of-maui-ransomware-attacks-against-healthcare-orgs/"> Full Text</a>
@@ -410,7 +822,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at PFC USA Impacts Patients of 650 Healthcare Providers<a href="https://www.securityweek.com/data-breach-pfc-usa-impacts-patients-650-healthcare-providers?&web_view=true"> Full Text</a>
@@ -426,7 +838,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2022
+July 06, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive Ransomware Upgrades to Rust for More Sophisticated Encryption Method<a href="https://thehackernews.com/2022/07/hive-ransomware-upgrades-to-rust-for.html"> Full Text</a>
@@ -442,7 +854,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2022
+July 6, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Solana DeFi Protocol Crema Finance Loses $8.8 Million in Flash Loan Attack<a href="https://finance.yahoo.com/news/solana-defi-protocol-crema-loses-082312056.html?&web_view=true"> Full Text</a>
