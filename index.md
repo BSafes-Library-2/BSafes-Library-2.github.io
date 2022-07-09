@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2022
+July 08, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - July 8th 2022 - One down, many to go<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-8th-2022-one-down-many-to-go/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IconBurst Supply Chain Attacks Steal Data Via Malicious NPM Packages<a href="https://cyware.com/news/iconburst-supply-chain-attacks-steal-data-via-malicious-npm-packages-70c3b2f6"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2022
+July 08, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of Raspberry Robin's Worm Targeting Windows Users<a href="https://thehackernews.com/2022/07/researchers-warn-of-raspberry-robins.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixed a critical arbitrary File Overwrite flaw in Enterprise Communication solutions<a href="https://securityaffairs.co/wordpress/133020/security/cisco-cisco-expressway-flaw.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2022
+July 08, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 0mega ransomware targets businesses in double-extortion attacks<a href="https://www.bleepingcomputer.com/news/security/new-0mega-ransomware-targets-businesses-in-double-extortion-attacks/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 As Cybercriminals Recycle Ransomware, They're Getting Faster<a href="https://www.securityweek.com/cybercriminals-recycle-ransomware-theyre-getting-faster?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2022
+July 08, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detail Techniques LockBit Ransomware Using to Infect its Targets<a href="https://thehackernews.com/2022/07/researchers-detail-techniques-lockbit.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emsisoft: Victims of AstraLocker and Yashma ransomware can recover their files for free<a href="https://securityaffairs.co/wordpress/133014/malware/emsisoft-astralocker-yashma-decryptor.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2022
+July 08, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Free decryptor released for AstraLocker, Yashma ransomware victims<a href="https://www.bleepingcomputer.com/news/security/free-decryptor-released-for-astralocker-yashma-ransomware-victims/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPI Packages Steal Telegram Cache Files, Add Windows Remote Desktop Accounts<a href="https://blog.sonatype.com/pypi-packages-steal-telegram-cache-files-add-windows-remote-desktop-accounts?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Sonatype
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2022
+July 08, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Quietly Rolls Back Plan to Block Office VBA Macros by Default<a href="https://thehackernews.com/2022/07/microsoft-quietly-rolls-back-plan-to.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Discussing the risks of bullying for anonymous social app NGL<a href="https://securityaffairs.co/wordpress/133006/social-networks/anonymous-social-app-ngl-risks.html"> Full Text</a>
@@ -242,7 +242,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ALPHV’s ransomware makes it easy to search data from targets who do not pay<a href="https://www.techrepublic.com/article/alphv-ransomware-search-data/?&web_view=true"> Full Text</a>
@@ -258,7 +258,7 @@ Tech Republic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2022
+July 08, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Developers Hate Changing Language Versions<a href="https://thehackernews.com/2022/07/why-developers-hate-changing-language.html"> Full Text</a>
@@ -274,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Cybercrime Trickbot Group is systematically attacking Ukraine<a href="https://securityaffairs.co/wordpress/132999/cyber-crime/trickbot-systematically-attacking-ukraine.html"> Full Text</a>
@@ -294,7 +294,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud Misconfiguration Exposes 3TB of Sensitive Airport Data in Amazon S3 Bucket<a href="https://www.darkreading.com/application-security/cloud-misconfig-exposes-3tb-sensitive-airport-data-amazon-s3-bucket?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2022
+July 08, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover 350 Browser Extension Variants Used in ABCsoup Adware Campaign<a href="https://thehackernews.com/2022/07/experts-uncover-350-browser-extension.html"> Full Text</a>
@@ -326,7 +326,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Checkmate ransomware target QNAP NAS devices<a href="https://securityaffairs.co/wordpress/132989/malware/checkmate-ransomware-targets-qnap-nas.html"> Full Text</a>
@@ -346,7 +346,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Insurance Firm Coalition Raises $250 Million at $5 Billion Valuation<a href="https://www.securityweek.com/cyber-insurance-firm-coalition-raises-250-million-5-billion-valuation?&web_view=true"> Full Text</a>
@@ -362,7 +362,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Target National Portal of India via Unprecedented Phishing Technique<a href="https://www.ibtimes.co.in/cyber-security-hackers-target-national-portal-india-via-unprecedented-phishing-technique-850169?&web_view=true"> Full Text</a>
@@ -378,7 +378,7 @@ International Business Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Notable Droppers Emerge in Recent Threat Campaigns<a href="https://www.fortinet.com/blog/threat-research/notable-droppers-emerge-in-recent-threat-campaigns?&web_view=true"> Full Text</a>
@@ -394,7 +394,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2022
+July 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot Gang Shifted its Focus on "Systematically" Targeting Ukraine<a href="https://thehackernews.com/2022/07/trickbot-malware-shifted-its-focus-on.html"> Full Text</a>

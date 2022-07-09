@@ -8,6 +8,80 @@ nav_order: 900072
 
 ## General
 ---
+July 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENISA released the Threat Landscape Methodology<a href="https://securityaffairs.co/wordpress/132973/security/enis-athreat-landscape-methodology.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I'm proud to announce that the European Union Agency for Cybersecurity, ENISA, has released the Threat Landscape Methodology.
+
+
+
+Policy makers, risk managers and information security practitioners need up-to-date and accurate information on the current...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENISA released the Threat Landscape Methodology<a href="https://securityaffairs.co/wordpress/132973/security/enis-athreat-landscape-methodology.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The added value of ENISA threat intelligence efforts lies in offering updated information on the dynamically changing threat landscape. These efforts support risk mitigation, promote situational awareness and proactively respond to future challenges.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Age of Collaborative Security: What Tens of Thousands of Machines Witness<a href="https://thehackernews.com/2022/07/the-age-of-collaborative-security-what.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Disclaimer: This article is meant to give insight into cyber threats as seen by the community of users of CrowdSec.  What can tens of thousands of machines tell us about illegal hacker activities?  Do you remember that scene in Batman - The Dark Knight, where Batman uses a system that aggregates active sound data from countless mobile phones to create a meta sonar feed of what is going on at any given place?&nbsp;  It is an interesting analogy with what we do at CrowdSec. By aggregating intrusion signals from our community, we can offer a clear picture of what is going on in terms of illegal hacking in the world.  After 2 years of activity and analyzing 1 million intrusion signals daily from tens of thousands of users in 160 countries, we start having an accurate "Batman sonar" global feed of cyber threats. And there are some interesting takeaways to outline.  A cyber threat with many faces&nbsp;  First of all, the global cyber threat is highly versatile. What do we see when looking at the type
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No backup: Why cyberattacks are a big risk for the government in Brazil<a href="https://www.zdnet.com/article/most-federal-government-bodies-are-at-high-risk-of-cyberattacks-in-brazil/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of 29 areas that represent a high risk in terms of vulnerability, abuse of power, mismanagement, or need for drastic changes was analyzed in a new report produced by the Federal Audit Court (TCU).
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online programming IDEs can be used to launch remote cyberattacks<a href="https://www.bleepingcomputer.com/news/security/online-programming-ides-can-be-used-to-launch-remote-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are warning that hackers can abuse online programming learning platforms to remotely launch cyberattacks, steal data, and scan for vulnerable devices, simply by using a web browser.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

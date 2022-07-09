@@ -8,6 +8,24 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed a critical arbitrary File Overwrite flaw in Enterprise Communication solutions<a href="https://securityaffairs.co/wordpress/133020/security/cisco-cisco-expressway-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed a critical vulnerability in the Cisco Expressway series and TelePresence Video Communication Server (VCS) products.
+
+
+
+Cisco released security patches to address a critical vulnerability, tracked as CVE-2022-20812 (CVSS score of 9.0), in the Expressway...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

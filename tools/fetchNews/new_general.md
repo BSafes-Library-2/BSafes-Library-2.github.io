@@ -8,6 +8,42 @@ nav_order: 900072
 
 ## General
 ---
+July 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discussing the risks of bullying for anonymous social app NGL<a href="https://securityaffairs.co/wordpress/133006/social-networks/anonymous-social-app-ngl-risks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This is a transcription of my complete interview with the program NEWSFEED at TRT, during which we discussed NGL software and the risks of bullying.
+
+
+
+Why are anonymous social apps like NGL cause for concern? What exactly makes them dangerous for minors?
+
+
+
+We...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Developers Hate Changing Language Versions<a href="https://thehackernews.com/2022/07/why-developers-hate-changing-language.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress powers technology forward. But progress also has a cost: by adding new capabilities and features, the developer community is constantly adjusting the building blocks. That includes the fundamental languages used to code technology solutions.  When the building blocks change, the code behind the technology solution must change too. It's a challenging and time-consuming exercise that drains resources. But what if there's an alternative?  The problem: reading code someone else wrote  Let's take a step back and take a look at one of the fundamental challenges in development: editing someone else's code. Editing code you just wrote, or wrote a couple of weeks ago, is just fine. But editing your own code written years ago – never mind someone else's code - that's a different story.  In-house code style rules can help but there are always odd naming conventions for variables and functions, or unusual choices for algorithms. Arguably, a programmer's abilit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

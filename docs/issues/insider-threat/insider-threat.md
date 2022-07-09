@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+July 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Misconfiguration Exposes 3TB of Sensitive Airport Data in Amazon S3 Bucket<a href="https://www.darkreading.com/application-security/cloud-misconfig-exposes-3tb-sensitive-airport-data-amazon-s3-bucket?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed information, uncovered by Skyhigh Security, includes employee personal identification information (PII) and other sensitive company data affecting at least four airports in Colombia and Peru.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

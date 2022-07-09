@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target National Portal of India via Unprecedented Phishing Technique<a href="https://www.ibtimes.co.in/cyber-security-hackers-target-national-portal-india-via-unprecedented-phishing-technique-850169?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors have been targeting the Indian government's portal by utilizing a bogus URL to trick users into submitting sensitive information such as credit card numbers, expiration months, and CVV codes, according to CloudSEK.
+</details>
+<div style="text-align: right" markdown="1">
+International Business Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

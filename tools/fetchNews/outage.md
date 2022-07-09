@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+July 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Knocks Out California Community College Email, Website, and Landlines<a href="https://therecord.media/cyberattack-knocks-out-california-community-college-email-website-landlines/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Twitter and Facebook, the school explained that it is experiencing a system-wide outage of most online services but noted that programs such as Canvas, Adobe, and Microsoft Teams are still available to students.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
