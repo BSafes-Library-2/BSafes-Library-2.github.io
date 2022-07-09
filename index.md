@@ -34,6 +34,382 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - July 8th 2022 - One down, many to go<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-8th-2022-one-down-many-to-go/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While we continue to see new ransomware operations launch, we also received some good news this week, with another ransomware shutting down.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IconBurst Supply Chain Attacks Steal Data Via Malicious NPM Packages<a href="https://cyware.com/news/iconburst-supply-chain-attacks-steal-data-via-malicious-npm-packages-70c3b2f6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An NPM supply-chain attack campaign, dubbed IconBurst, has been seen leveraging several malicious NPM modules to infect hundreds of systems. Researchers have observed similarities between the domains used to exfiltrate information implying that the different modules used in this campaign are contro ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Raspberry Robin's Worm Targeting Windows Users<a href="https://thehackernews.com/2022/07/researchers-warn-of-raspberry-robins.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are drawing attention to an ongoing wave of attacks linked to a threat cluster tracked as Raspberry Robin that's behind a Windows malware with worm-like capabilities.   Describing it as a "persistent" and "spreading" threat, Cybereason  said  it observed a number of victims in Europe.  The infections involve a worm that propagates over removable USB devices containing malicious a .LNK file and leverages compromised QNAP network-attached storage (NAS) devices for command-and-control. It was  first documented  by researchers from Red Canary in May 2022.   Also codenamed  QNAP worm  by Sekoia, the malware leverages a legitimate Windows installer binary called "msiexec.exe" to download and execute a malicious shared library (DLL) from a compromised QNAP NAS appliance.  "To make it harder to detect, Raspberry Robin leverages process injections in three legitimate Windows system processes," Cybereason researcher Loïc Cast
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed a critical arbitrary File Overwrite flaw in Enterprise Communication solutions<a href="https://securityaffairs.co/wordpress/133020/security/cisco-cisco-expressway-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed a critical vulnerability in the Cisco Expressway series and TelePresence Video Communication Server (VCS) products.
+
+
+
+Cisco released security patches to address a critical vulnerability, tracked as CVE-2022-20812 (CVSS score of 9.0), in the Expressway...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 0mega ransomware targets businesses in double-extortion attacks<a href="https://www.bleepingcomputer.com/news/security/new-0mega-ransomware-targets-businesses-in-double-extortion-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware operation named '0mega' targets organizations worldwide in double-extortion attacks and demands millions of dollars in ransoms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Cybercriminals Recycle Ransomware, They're Getting Faster<a href="https://www.securityweek.com/cybercriminals-recycle-ransomware-theyre-getting-faster?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first samples of Nokoyawa ransomware found by FortiGuard researchers were gathered in February 2022 and contain significant coding similarities with Karma, a ransomware that can be traced back to Nemty via a long series of variants.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Techniques LockBit Ransomware Using to Infect its Targets<a href="https://thehackernews.com/2022/07/researchers-detail-techniques-lockbit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware attacks are constantly evolving by making use of a wide range of techniques to infect targets while also taking steps to disable endpoint security solutions.  "The affiliates that use LockBit's services conduct their attacks according to their preference and use different tools and techniques to achieve their goal," Cybereason security analysts Loïc Castel and Gal Romano  said . "As the attack progresses further along the kill chain, the activities from different cases tend to converge to similar activities."  LockBit, which operates on a ransomware-as-a-service (RaaS) model like most groups, was first observed in September 2019 and has since emerged as the most dominant ransomware strain this year, surpassing other well-known groups like  Conti ,  Hive , and  BlackCat .   This involves the malware authors licensing access to affiliates, who execute the attacks in exchange for using their tools and infrastructure and earn as much as 80% of ea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emsisoft: Victims of AstraLocker and Yashma ransomware can recover their files for free<a href="https://securityaffairs.co/wordpress/133014/malware/emsisoft-astralocker-yashma-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emsisoft has released a free decryption tool that allows victims of the AstraLocker and Yashma ransomware to recover their files without paying a ransom.
+
+
+
+Cybersecurity firm Emsisoft released a free decryptor tool that allows victims of the AstraLocker...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free decryptor released for AstraLocker, Yashma ransomware victims<a href="https://www.bleepingcomputer.com/news/security/free-decryptor-released-for-astralocker-yashma-ransomware-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Zealand-based cybersecurity firm Emsisoft has released a free decryption tool to help AstraLocker and Yashma ransomware victims recover their files without paying a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Packages Steal Telegram Cache Files, Add Windows Remote Desktop Accounts<a href="https://blog.sonatype.com/pypi-packages-steal-telegram-cache-files-add-windows-remote-desktop-accounts?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The primary packages of interest are flask-requests-complex, php-requests-complex, and tkinter-message-box. The first two packages contain no description but are certainly named after the popular 'requests' module.
+</details>
+<div style="text-align: right" markdown="1">
+Sonatype
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Quietly Rolls Back Plan to Block Office VBA Macros by Default<a href="https://thehackernews.com/2022/07/microsoft-quietly-rolls-back-plan-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Five months after announcing plans to disable Visual Basic for Applications (VBA) macros by default in the Office productivity suite, Microsoft appears to have rolled back its plans.  "Based on feedback received, a rollback has started," Microsoft employee Angela Robertson  said  in a July 6 comment. "An update about the rollback is in progress. I apologize for any inconvenience of the rollback starting before the update about the change was made available."   In February 2022, the tech giant  said  it was disabling macros by default across its products, including Word, Excel, PowerPoint, Access, and Visio, for documents downloaded from the web in an attempt to mitigate potential attacks that abuse the functionality for deploying malware.   "Bad actors send macros in Office files to end users who unknowingly enable them, malicious payloads are delivered, and the impact can be severe including malware, compromised identity, data loss, and remote access," M
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discussing the risks of bullying for anonymous social app NGL<a href="https://securityaffairs.co/wordpress/133006/social-networks/anonymous-social-app-ngl-risks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This is a transcription of my complete interview with the program NEWSFEED at TRT, during which we discussed NGL software and the risks of bullying.
+
+
+
+Why are anonymous social apps like NGL cause for concern? What exactly makes them dangerous for minors?
+
+
+
+We...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV’s ransomware makes it easy to search data from targets who do not pay<a href="https://www.techrepublic.com/article/alphv-ransomware-search-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group has also decided to use a new method to put even more pressure on its targets: Provide a search engine for their victims’ data leaks, as revealed in a new publication from Cyble.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Developers Hate Changing Language Versions<a href="https://thehackernews.com/2022/07/why-developers-hate-changing-language.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress powers technology forward. But progress also has a cost: by adding new capabilities and features, the developer community is constantly adjusting the building blocks. That includes the fundamental languages used to code technology solutions.  When the building blocks change, the code behind the technology solution must change too. It's a challenging and time-consuming exercise that drains resources. But what if there's an alternative?  The problem: reading code someone else wrote  Let's take a step back and take a look at one of the fundamental challenges in development: editing someone else's code. Editing code you just wrote, or wrote a couple of weeks ago, is just fine. But editing your own code written years ago – never mind someone else's code - that's a different story.  In-house code style rules can help but there are always odd naming conventions for variables and functions, or unusual choices for algorithms. Arguably, a programmer's abilit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Cybercrime Trickbot Group is systematically attacking Ukraine<a href="https://securityaffairs.co/wordpress/132999/cyber-crime/trickbot-systematically-attacking-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators behind the TrickBot malware are systematically targeting Ukraine since the beginning of the war in February 2022.
+
+
+
+IBM researchers collected evidence indicating that the Russia-based cybercriminal Trickbot group (aka Wizard Spider, DEV-0193,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Misconfiguration Exposes 3TB of Sensitive Airport Data in Amazon S3 Bucket<a href="https://www.darkreading.com/application-security/cloud-misconfig-exposes-3tb-sensitive-airport-data-amazon-s3-bucket?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed information, uncovered by Skyhigh Security, includes employee personal identification information (PII) and other sensitive company data affecting at least four airports in Colombia and Peru.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover 350 Browser Extension Variants Used in ABCsoup Adware Campaign<a href="https://thehackernews.com/2022/07/experts-uncover-350-browser-extension.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious browser extension with 350 variants is masquerading as a Google Translate add-on as part of an adware campaign targeting Russian users of Google Chrome, Opera, and Mozilla Firefox browsers.  Mobile security firm Zimperium dubbed the malware family  ABCsoup , stating the "extensions are installed onto a victim's machine via a Windows-based executable, bypassing most endpoint security solutions, along with the security controls found in the official extension stores."  The rogue browser add-ons come with the same extension ID as that of Google Translate — " aapbdbdomjkkjkaonfhkkikfgjllcleb " — in an attempt to trick users into believing that they have installed a legitimate extension.   The extensions are not available on the official browser web stores themselves. Rather they are delivered through different Windows executables that install the add-on on the victim's web browser.  In the event the targeted user already has the Google Translate ext
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Checkmate ransomware target QNAP NAS devices<a href="https://securityaffairs.co/wordpress/132989/malware/checkmate-ransomware-targets-qnap-nas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP wars of a new strain of ransomware, dubbed Checkmate, that is targeting its NAS devices.
+
+
+
+The Taiwanese vendor QNAP is warning of a new family of ransomware targeting its NAS devices using weak passwords. Threat actors are targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Insurance Firm Coalition Raises $250 Million at $5 Billion Valuation<a href="https://www.securityweek.com/cyber-insurance-firm-coalition-raises-250-million-5-billion-valuation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest funding, which brings the total raised by Coalition to more than $755 million, came from Allianz X, Valor Equity Partners, Kinetic Partners, and other existing investors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target National Portal of India via Unprecedented Phishing Technique<a href="https://www.ibtimes.co.in/cyber-security-hackers-target-national-portal-india-via-unprecedented-phishing-technique-850169?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors have been targeting the Indian government's portal by utilizing a bogus URL to trick users into submitting sensitive information such as credit card numbers, expiration months, and CVV codes, according to CloudSEK.
+</details>
+<div style="text-align: right" markdown="1">
+International Business Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notable Droppers Emerge in Recent Threat Campaigns<a href="https://www.fortinet.com/blog/threat-research/notable-droppers-emerge-in-recent-threat-campaigns?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers captured three different samples active in the threat campaign. The first sample is an Excel file with Excel 4.0 macros. The second is an LNK file (Windows shortcut file). The third sample is an ISO file (optical disk image).
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Gang Shifted its Focus on "Systematically" Targeting Ukraine<a href="https://thehackernews.com/2022/07/trickbot-malware-shifted-its-focus-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's being described as an "unprecedented" twist, the operators of the TrickBot malware have resorted to systematically targeting Ukraine since the onset of the war in late February 2022.  The group is believed to have orchestrated at least six phishing campaigns aimed at targets that align with Russian state interests, with the emails acting as lures for delivering malicious software such as IcedID, CobaltStrike, AnchorMail, and  Meterpreter .  Tracked under the names ITG23,  Gold Blackburn , and Wizard Spider, the  financially motivated cybercrime gang  is known for its development of the TrickBot banking trojan and was  subsumed  into the now-discontinued  Conti ransomware cartel  earlier this year.  But merely weeks later, the actors associated with the group resurfaced with a revamped version of the  AnchorDNS  backdoor called  AnchorMail  that uses SMTPS and IMAP protocols for command-and-control communications.   "ITG23's campaigns against Ukraine ar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 07, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
