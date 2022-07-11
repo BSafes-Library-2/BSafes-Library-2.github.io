@@ -34,7 +34,299 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2022
+July 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maastricht University wound up earning money from its ransom payment<a href="https://www.bleepingcomputer.com/news/security/maastricht-university-wound-up-earning-money-from-its-ransom-payment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maastricht University (UM), a Dutch university with more than 22,000 students, said last week that it has recovered the ransom paid after a ransomware attack that hit its network in December 2019.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Picking Up Brute Ratel as an Alternative to Cobalt Strike<a href="https://cyware.com/news/attackers-picking-up-brute-ratel-as-an-alternative-to-cobalt-strike-c738818e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nation-state threat actors are leveraging Brute Ratel, a red-teaming attack simulation tool, to evade detection by EDR and antivirus, in place of Cobalt Strike. It costs around $2,500 per user for a one-year license, with customers having to provide a business email address that should be verified  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts demonstrate how to unlock several Honda models via Rolling-PWN attack<a href="https://securityaffairs.co/wordpress/133090/hacking/honda-rolling-pwn-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bad news for the owners of several Honda models, the Rolling-PWN Attack vulnerability can allow unlocking their vehicles.
+
+
+
+A team of security Researchers Kevin2600 and Wesley Li from Star-V Lab independently discovered a flaw in Honda models, named...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French telephone operator La Poste Mobile suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/133080/cyber-crime/la-poste-mobile-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French virtual mobile telephone operator La Poste Mobile was hit by a ransomware attack that impacted administrative and management services. 
+
+
+
+The ransomware attack hit the virtual mobile telephone operator La Poste Mobile on July 4 and paralyzed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 373 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/133075/breaking-news/security-affairs-newsletter-round-373-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.
+
+
+
+Apple Lockdown Mode will protect users against highly targeted cyberattacksFortinet addressed multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Follina Bug to Deploy Rozena Backdoor<a href="https://thehackernews.com/2022/07/hackers-exploiting-follina-bug-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly observed phishing campaign is leveraging the recently disclosed Follina security vulnerability to distribute a previously undocumented backdoor on Windows systems.  "Rozena is a backdoor malware that is capable of injecting a remote shell connection back to the attacker's machine," Fortinet FortiGuard Labs researcher Cara Lin  said  in a report this week.  Tracked as  CVE-2022-30190 , the now-patched Microsoft Windows Support Diagnostic Tool (MSDT) remote code execution vulnerability has come under heavy exploitation in recent weeks ever since it came to light in late May 2022.  The starting point for the latest attack chain observed by Fortinet is a weaponized  Office document  that, when opened, connects to a  Discord CDN URL  to retrieve an HTML file (" index.htm ") that, in turn, invokes the diagnostic utility using a PowerShell command to download next-stage payloads from the same CDN attachment space.   This includes the Rozena implant ("Word
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI mandates 2FA for critical projects, developer pushes back<a href="https://www.bleepingcomputer.com/news/security/pypi-mandates-2fa-for-critical-projects-developer-pushes-back/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Friday, the Python Package Index (PyPI), repository of open source Python projects announced plans to rollout two factor authentication for maintainers of "critical" projects. Although many praised the move, the developer of a popular Python project decided to delete his code from PyPI in retaliation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedAlert: A Ransomware that Targets Multiple OS Platforms<a href="https://cyware.com/news/redalert-a-ransomware-that-targets-multiple-os-platforms-47b4d715"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New ransomware, dubbed RedAlert or N13V, encrypts both Linux and Windows VMware ESXi servers on corporate networks. Currently, the group has only one victim listed on its data leak site. Similar to other enterprise-targeting ransomware operations, RedAlert carries out double-extortion attacks, in w ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mangatoon data breach exposes data from 23 million accounts<a href="https://www.bleepingcomputer.com/news/security/mangatoon-data-breach-exposes-data-from-23-million-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Manga comic reading app Mangatoon has suffered a data breach that exposed the account information of 23 million users after a hacker stole it from an Elasticsearch database.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Callback Phishing Campaigns Impersonate CrowdStrike, Other Cybersecurity Companies<a href="https://www.crowdstrike.com/blog/callback-malware-campaigns-impersonate-crowdstrike-and-other-cybersecurity-companies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing email implies the recipient’s company has been breached and insists the victim call the included phone number. The campaign leverages similar social-engineering tactics to those employed in WIZARD SPIDER’s 2021 BazarCall campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Lockdown Mode will protect users against highly targeted cyberattacks<a href="https://securityaffairs.co/wordpress/133065/mobile-2/apple-lockdown-mode.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple plans to introduce a security feature, called Lockdown Mode, to protect its users against "highly targeted cyberattacks."
+
+
+
+The recent wave of sophisticated attacks against Apple users (i.e. Pegasus, DevilsTongue, and Hermit) urged the tech...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet addressed multiple vulnerabilities in several products<a href="https://securityaffairs.co/wordpress/133059/security/fortinet-multiple-issues-several-products.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet released security patches to address multiple High-Severity vulnerabilities in several products of the vendor.
+
+
+
+Fortinet addressed multiple vulnerabilities in several products of the vendor. Impacted products are FortiADC, FortiAnalyzer, FortiManager,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rozena backdoor delivered by exploiting the Follina bug<a href="https://securityaffairs.co/wordpress/133051/hacking/follina-bug-rozena-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting the disclosed Follina Windows vulnerability to distribute the Rozena backdoor.
+
+
+
+Fortinet FortiGuard Labs researchers observed a phishing campaign that is leveraging the recently disclosed Follina security vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Raspberry Robin campaign leverages compromised QNAP devices<a href="https://securityaffairs.co/wordpress/133039/cyber-crime/raspberry-robin-infection-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason researchers are warning of a wave of attacks spreading the wormable Windows malware Raspberry Robin.
+
+
+
+Raspberry Robin is a Windows worm discovered by cybersecurity researchers from Red Canary, the malware propagates through removable USB devices.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evolution of the LockBit Ransomware operation relies on new techniques<a href="https://securityaffairs.co/wordpress/133027/cyber-crime/lockbit-2-0-evolution.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts documented the evolution of the LockBit ransomware that leverages multiple techniques to infect targets and evade detection.
+
+
+
+The Cybereason Global Security Operations Center (GSOC) Team published the Cybereason Threat Analysis...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Healthcare Orgs Targeted with Maui Ransomware<a href="https://threatpost.com/healthcare-maui-ransomware/180154/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State-sponsored actors are deploying the unique malware–which targets specific files and leaves no ransomware note–in ongoing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - July 8th 2022 - One down, many to go<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-8th-2022-one-down-many-to-go/"> Full Text</a>
@@ -50,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IconBurst Supply Chain Attacks Steal Data Via Malicious NPM Packages<a href="https://cyware.com/news/iconburst-supply-chain-attacks-steal-data-via-malicious-npm-packages-70c3b2f6"> Full Text</a>
@@ -66,7 +358,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2022
+July 08, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of Raspberry Robin's Worm Targeting Windows Users<a href="https://thehackernews.com/2022/07/researchers-warn-of-raspberry-robins.html"> Full Text</a>
@@ -82,7 +374,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixed a critical arbitrary File Overwrite flaw in Enterprise Communication solutions<a href="https://securityaffairs.co/wordpress/133020/security/cisco-cisco-expressway-flaw.html"> Full Text</a>
@@ -102,7 +394,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2022
+July 08, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 0mega ransomware targets businesses in double-extortion attacks<a href="https://www.bleepingcomputer.com/news/security/new-0mega-ransomware-targets-businesses-in-double-extortion-attacks/"> Full Text</a>
@@ -118,7 +410,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 As Cybercriminals Recycle Ransomware, They're Getting Faster<a href="https://www.securityweek.com/cybercriminals-recycle-ransomware-theyre-getting-faster?&web_view=true"> Full Text</a>
@@ -134,7 +426,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2022
+July 08, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detail Techniques LockBit Ransomware Using to Infect its Targets<a href="https://thehackernews.com/2022/07/researchers-detail-techniques-lockbit.html"> Full Text</a>
@@ -150,7 +442,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emsisoft: Victims of AstraLocker and Yashma ransomware can recover their files for free<a href="https://securityaffairs.co/wordpress/133014/malware/emsisoft-astralocker-yashma-decryptor.html"> Full Text</a>
@@ -170,7 +462,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2022
+July 08, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Free decryptor released for AstraLocker, Yashma ransomware victims<a href="https://www.bleepingcomputer.com/news/security/free-decryptor-released-for-astralocker-yashma-ransomware-victims/"> Full Text</a>
@@ -186,7 +478,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPI Packages Steal Telegram Cache Files, Add Windows Remote Desktop Accounts<a href="https://blog.sonatype.com/pypi-packages-steal-telegram-cache-files-add-windows-remote-desktop-accounts?&web_view=true"> Full Text</a>
@@ -202,7 +494,7 @@ Sonatype
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2022
+July 08, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Quietly Rolls Back Plan to Block Office VBA Macros by Default<a href="https://thehackernews.com/2022/07/microsoft-quietly-rolls-back-plan-to.html"> Full Text</a>
@@ -218,7 +510,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Discussing the risks of bullying for anonymous social app NGL<a href="https://securityaffairs.co/wordpress/133006/social-networks/anonymous-social-app-ngl-risks.html"> Full Text</a>
@@ -242,7 +534,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ALPHV’s ransomware makes it easy to search data from targets who do not pay<a href="https://www.techrepublic.com/article/alphv-ransomware-search-data/?&web_view=true"> Full Text</a>
@@ -258,7 +550,7 @@ Tech Republic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2022
+July 08, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Developers Hate Changing Language Versions<a href="https://thehackernews.com/2022/07/why-developers-hate-changing-language.html"> Full Text</a>
@@ -274,7 +566,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Cybercrime Trickbot Group is systematically attacking Ukraine<a href="https://securityaffairs.co/wordpress/132999/cyber-crime/trickbot-systematically-attacking-ukraine.html"> Full Text</a>
@@ -294,7 +586,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud Misconfiguration Exposes 3TB of Sensitive Airport Data in Amazon S3 Bucket<a href="https://www.darkreading.com/application-security/cloud-misconfig-exposes-3tb-sensitive-airport-data-amazon-s3-bucket?&web_view=true"> Full Text</a>
@@ -310,7 +602,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2022
+July 08, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover 350 Browser Extension Variants Used in ABCsoup Adware Campaign<a href="https://thehackernews.com/2022/07/experts-uncover-350-browser-extension.html"> Full Text</a>
@@ -326,7 +618,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Checkmate ransomware target QNAP NAS devices<a href="https://securityaffairs.co/wordpress/132989/malware/checkmate-ransomware-targets-qnap-nas.html"> Full Text</a>
@@ -346,7 +638,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Insurance Firm Coalition Raises $250 Million at $5 Billion Valuation<a href="https://www.securityweek.com/cyber-insurance-firm-coalition-raises-250-million-5-billion-valuation?&web_view=true"> Full Text</a>
@@ -362,7 +654,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Target National Portal of India via Unprecedented Phishing Technique<a href="https://www.ibtimes.co.in/cyber-security-hackers-target-national-portal-india-via-unprecedented-phishing-technique-850169?&web_view=true"> Full Text</a>
@@ -378,7 +670,7 @@ International Business Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Notable Droppers Emerge in Recent Threat Campaigns<a href="https://www.fortinet.com/blog/threat-research/notable-droppers-emerge-in-recent-threat-campaigns?&web_view=true"> Full Text</a>
@@ -394,7 +686,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2022
+July 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot Gang Shifted its Focus on "Systematically" Targeting Ukraine<a href="https://thehackernews.com/2022/07/trickbot-malware-shifted-its-focus-on.html"> Full Text</a>
