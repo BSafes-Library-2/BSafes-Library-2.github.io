@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+July 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 373 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/133075/breaking-news/security-affairs-newsletter-round-373-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.
+
+
+
+Apple Lockdown Mode will protect users against highly targeted cyberattacksFortinet addressed multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI mandates 2FA for critical projects, developer pushes back<a href="https://www.bleepingcomputer.com/news/security/pypi-mandates-2fa-for-critical-projects-developer-pushes-back/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Friday, the Python Package Index (PyPI),&nbsp;repository of open source Python projects announced plans to rollout two factor authentication for maintainers of "critical" projects. Although many praised the move,&nbsp;the developer of a popular Python project decided to delete his code&nbsp;from PyPI in retaliation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

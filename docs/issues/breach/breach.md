@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mangatoon data breach exposes data from 23 million accounts<a href="https://www.bleepingcomputer.com/news/security/mangatoon-data-breach-exposes-data-from-23-million-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Manga comic reading app Mangatoon has suffered a data breach that exposed the account information of 23 million users after a hacker stole it from an Elasticsearch database.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

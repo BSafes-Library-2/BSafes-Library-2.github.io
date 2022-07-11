@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedAlert: A Ransomware that Targets Multiple OS Platforms<a href="https://cyware.com/news/redalert-a-ransomware-that-targets-multiple-os-platforms-47b4d715"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New ransomware, dubbed RedAlert or N13V, encrypts both Linux and Windows VMware ESXi servers on corporate networks. Currently, the group has only one victim listed on its data leak site. Similar to other enterprise-targeting ransomware operations, RedAlert carries out double-extortion attacks, in w ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evolution of the LockBit Ransomware operation relies on new techniques<a href="https://securityaffairs.co/wordpress/133027/cyber-crime/lockbit-2-0-evolution.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts documented the evolution of the LockBit ransomware that leverages multiple techniques to infect targets and evade detection.
+
+
+
+The&nbsp;Cybereason Global Security Operations Center (GSOC) Team&nbsp;published the Cybereason&nbsp;Threat Analysis...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

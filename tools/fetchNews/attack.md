@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+July 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IconBurst Supply Chain Attacks Steal Data Via Malicious NPM Packages<a href="https://cyware.com/news/iconburst-supply-chain-attacks-steal-data-via-malicious-npm-packages-70c3b2f6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An NPM supply-chain attack campaign, dubbed IconBurst, has been seen leveraging several malicious NPM modules to infect hundreds of systems. Researchers have observed similarities between the domains used to exfiltrate information implying that the different modules used in this campaign are contro ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Gang Shifted its Focus on "Systematically" Targeting Ukraine<a href="https://thehackernews.com/2022/07/trickbot-malware-shifted-its-focus-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's being described as an "unprecedented" twist, the operators of the TrickBot malware have resorted to systematically targeting Ukraine since the onset of the war in late February 2022.  The group is believed to have orchestrated at least six phishing campaigns aimed at targets that align with Russian state interests, with the emails acting as lures for delivering malicious software such as IcedID, CobaltStrike, AnchorMail, and&nbsp; Meterpreter .  Tracked under the names ITG23,&nbsp; Gold Blackburn , and Wizard Spider, the&nbsp; financially motivated cybercrime gang &nbsp;is known for its development of the TrickBot banking trojan and was&nbsp; subsumed &nbsp;into the now-discontinued&nbsp; Conti ransomware cartel &nbsp;earlier this year.  But merely weeks later, the actors associated with the group resurfaced with a revamped version of the&nbsp; AnchorDNS &nbsp;backdoor called&nbsp; AnchorMail &nbsp;that uses SMTPS and IMAP protocols for command-and-control communications.   "ITG23's campaigns against Ukraine ar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

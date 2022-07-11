@@ -8,6 +8,112 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - July 8th 2022 - One down, many to go<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-8th-2022-one-down-many-to-go/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While we continue to see new ransomware operations launch, we also received some good news this week, with another ransomware shutting down.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 0mega ransomware targets businesses in double-extortion attacks<a href="https://www.bleepingcomputer.com/news/security/new-0mega-ransomware-targets-businesses-in-double-extortion-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware operation named '0mega' targets organizations worldwide in double-extortion attacks and demands millions of dollars in ransoms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Techniques LockBit Ransomware Using to Infect its Targets<a href="https://thehackernews.com/2022/07/researchers-detail-techniques-lockbit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware attacks are constantly evolving by making use of a wide range of techniques to infect targets while also taking steps to disable endpoint security solutions.  "The affiliates that use LockBit's services conduct their attacks according to their preference and use different tools and techniques to achieve their goal," Cybereason security analysts Loïc Castel and Gal Romano&nbsp; said . "As the attack progresses further along the kill chain, the activities from different cases tend to converge to similar activities."  LockBit, which operates on a ransomware-as-a-service (RaaS) model like most groups, was first observed in September 2019 and has since emerged as the most dominant ransomware strain this year, surpassing other well-known groups like&nbsp; Conti ,&nbsp; Hive , and&nbsp; BlackCat .   This involves the malware authors licensing access to affiliates, who execute the attacks in exchange for using their tools and infrastructure and earn as much as 80% of ea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emsisoft: Victims of AstraLocker and Yashma ransomware can recover their files for free<a href="https://securityaffairs.co/wordpress/133014/malware/emsisoft-astralocker-yashma-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emsisoft has released a free decryption tool that allows victims of the AstraLocker and Yashma ransomware to recover their files without paying a ransom.
+
+
+
+Cybersecurity firm Emsisoft released a free decryptor tool that allows victims of the AstraLocker...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free decryptor released for AstraLocker, Yashma ransomware victims<a href="https://www.bleepingcomputer.com/news/security/free-decryptor-released-for-astralocker-yashma-ransomware-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Zealand-based cybersecurity firm Emsisoft has released a free decryption tool to help AstraLocker and Yashma ransomware victims recover their files without paying a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV’s ransomware makes it easy to search data from targets who do not pay<a href="https://www.techrepublic.com/article/alphv-ransomware-search-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group has also decided to use a new method to put even more pressure on its targets: Provide a search engine for their victims’ data leaks, as revealed in a new publication from Cyble.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Checkmate ransomware target QNAP NAS devices<a href="https://securityaffairs.co/wordpress/132989/malware/checkmate-ransomware-targets-qnap-nas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP wars of a new strain of ransomware, dubbed Checkmate, that is targeting its NAS devices.
+
+
+
+The Taiwanese vendor QNAP is warning of a new family of ransomware targeting its NAS devices using weak passwords. Threat actors are targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

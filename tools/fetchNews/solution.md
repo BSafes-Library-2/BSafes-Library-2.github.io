@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Quietly Rolls Back Plan to Block Office VBA Macros by Default<a href="https://thehackernews.com/2022/07/microsoft-quietly-rolls-back-plan-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Five months after announcing plans to disable Visual Basic for Applications (VBA) macros by default in the Office productivity suite, Microsoft appears to have rolled back its plans.  "Based on feedback received, a rollback has started," Microsoft employee Angela Robertson&nbsp; said &nbsp;in a July 6 comment. "An update about the rollback is in progress. I apologize for any inconvenience of the rollback starting before the update about the change was made available."   In February 2022, the tech giant&nbsp; said &nbsp;it was disabling macros by default across its products, including Word, Excel, PowerPoint, Access, and Visio, for documents downloaded from the web in an attempt to mitigate potential attacks that abuse the functionality for deploying malware.   "Bad actors send macros in Office files to end users who unknowingly enable them, malicious payloads are delivered, and the impact can be severe including malware, compromised identity, data loss, and remote access," M
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,74 @@ nav_order: 900015
 
 ## Attack
 ---
+July 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maastricht University wound up earning money from its ransom payment<a href="https://www.bleepingcomputer.com/news/security/maastricht-university-wound-up-earning-money-from-its-ransom-payment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maastricht University (UM), a Dutch university with more than 22,000 students, said last week that it has recovered the ransom paid after a ransomware attack that hit its network in December 2019.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French telephone operator La Poste Mobile suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/133080/cyber-crime/la-poste-mobile-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French virtual mobile telephone operator La Poste Mobile was hit by a ransomware attack that impacted administrative and management services.&nbsp;
+
+
+
+The ransomware attack hit the virtual mobile telephone operator La Poste Mobile on July 4 and paralyzed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Raspberry Robin campaign leverages compromised QNAP devices<a href="https://securityaffairs.co/wordpress/133039/cyber-crime/raspberry-robin-infection-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason researchers are warning of a wave of attacks spreading the wormable Windows malware Raspberry Robin.
+
+
+
+Raspberry Robin&nbsp;is a Windows worm discovered by cybersecurity researchers from Red Canary, the malware propagates through removable USB devices.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Healthcare Orgs Targeted with Maui Ransomware<a href="https://threatpost.com/healthcare-maui-ransomware/180154/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State-sponsored actors are deploying the unique malware–which targets specific files and leaves no ransomware note–in ongoing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

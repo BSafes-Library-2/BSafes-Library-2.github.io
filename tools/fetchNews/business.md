@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Insurance Firm Coalition Raises $250 Million at $5 Billion Valuation<a href="https://www.securityweek.com/cyber-insurance-firm-coalition-raises-250-million-5-billion-valuation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest funding, which brings the total raised by Coalition to more than $755 million, came from Allianz X, Valor Equity Partners, Kinetic Partners, and other existing investors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

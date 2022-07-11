@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2022
+July 10, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Maastricht University wound up earning money from its ransom payment<a href="https://www.bleepingcomputer.com/news/security/maastricht-university-wound-up-earning-money-from-its-ransom-payment/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2022
+July 10, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Picking Up Brute Ratel as an Alternative to Cobalt Strike<a href="https://cyware.com/news/attackers-picking-up-brute-ratel-as-an-alternative-to-cobalt-strike-c738818e"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2022
+July 10, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts demonstrate how to unlock several Honda models via Rolling-PWN attack<a href="https://securityaffairs.co/wordpress/133090/hacking/honda-rolling-pwn-attack.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2022
+July 10, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French telephone operator La Poste Mobile suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/133080/cyber-crime/la-poste-mobile-ransomware.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2022
+July 10, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 373 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/133075/breaking-news/security-affairs-newsletter-round-373-by-pierluigi-paganini.html"> Full Text</a>
@@ -126,7 +126,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 09, 2022
+July 09, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploiting Follina Bug to Deploy Rozena Backdoor<a href="https://thehackernews.com/2022/07/hackers-exploiting-follina-bug-to.html"> Full Text</a>
@@ -142,7 +142,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 09, 2022
+July 09, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPI mandates 2FA for critical projects, developer pushes back<a href="https://www.bleepingcomputer.com/news/security/pypi-mandates-2fa-for-critical-projects-developer-pushes-back/"> Full Text</a>
@@ -158,7 +158,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2022
+July 9, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedAlert: A Ransomware that Targets Multiple OS Platforms<a href="https://cyware.com/news/redalert-a-ransomware-that-targets-multiple-os-platforms-47b4d715"> Full Text</a>
@@ -174,7 +174,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 09, 2022
+July 09, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mangatoon data breach exposes data from 23 million accounts<a href="https://www.bleepingcomputer.com/news/security/mangatoon-data-breach-exposes-data-from-23-million-accounts/"> Full Text</a>
@@ -190,7 +190,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2022
+July 9, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Callback Phishing Campaigns Impersonate CrowdStrike, Other Cybersecurity Companies<a href="https://www.crowdstrike.com/blog/callback-malware-campaigns-impersonate-crowdstrike-and-other-cybersecurity-companies/?&web_view=true"> Full Text</a>
@@ -206,7 +206,7 @@ Crowdstrike
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2022
+July 9, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Lockdown Mode will protect users against highly targeted cyberattacks<a href="https://securityaffairs.co/wordpress/133065/mobile-2/apple-lockdown-mode.html"> Full Text</a>
@@ -226,7 +226,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2022
+July 9, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet addressed multiple vulnerabilities in several products<a href="https://securityaffairs.co/wordpress/133059/security/fortinet-multiple-issues-several-products.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2022
+July 9, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rozena backdoor delivered by exploiting the Follina bug<a href="https://securityaffairs.co/wordpress/133051/hacking/follina-bug-rozena-backdoor.html"> Full Text</a>
@@ -266,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2022
+July 9, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ongoing Raspberry Robin campaign leverages compromised QNAP devices<a href="https://securityaffairs.co/wordpress/133039/cyber-crime/raspberry-robin-infection-attacks.html"> Full Text</a>
@@ -290,7 +290,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2022
+July 9, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evolution of the LockBit Ransomware operation relies on new techniques<a href="https://securityaffairs.co/wordpress/133027/cyber-crime/lockbit-2-0-evolution.html"> Full Text</a>
@@ -310,7 +310,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2022
+July 8, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Healthcare Orgs Targeted with Maui Ransomware<a href="https://threatpost.com/healthcare-maui-ransomware/180154/"> Full Text</a>

@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Follina Bug to Deploy Rozena Backdoor<a href="https://thehackernews.com/2022/07/hackers-exploiting-follina-bug-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly observed phishing campaign is leveraging the recently disclosed Follina security vulnerability to distribute a previously undocumented backdoor on Windows systems.  "Rozena is a backdoor malware that is capable of injecting a remote shell connection back to the attacker's machine," Fortinet FortiGuard Labs researcher Cara Lin&nbsp; said &nbsp;in a report this week.  Tracked as&nbsp; CVE-2022-30190 , the now-patched Microsoft Windows Support Diagnostic Tool (MSDT) remote code execution vulnerability has come under heavy exploitation in recent weeks ever since it came to light in late May 2022.  The starting point for the latest attack chain observed by Fortinet is a weaponized&nbsp; Office document &nbsp;that, when opened, connects to a&nbsp; Discord CDN URL &nbsp;to retrieve an HTML file (" index.htm ") that, in turn, invokes the diagnostic utility using a PowerShell command to download next-stage payloads from the same CDN attachment space.   This includes the Rozena implant ("Word
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Callback Phishing Campaigns Impersonate CrowdStrike, Other Cybersecurity Companies<a href="https://www.crowdstrike.com/blog/callback-malware-campaigns-impersonate-crowdstrike-and-other-cybersecurity-companies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing email implies the recipient’s company has been breached and insists the victim call the included phone number. The campaign leverages similar social-engineering tactics to those employed in WIZARD SPIDER’s 2021 BazarCall campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
