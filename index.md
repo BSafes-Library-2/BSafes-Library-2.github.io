@@ -34,6 +34,346 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can unlock Honda cars remotely in Rolling-PWN attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-can-unlock-honda-cars-remotely-in-rolling-pwn-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of security researchers found that several modern Honda car models have a vulnerable rolling code mechanism that allows unlocking the cars or even starting the engine remotely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PennyWise Targets Cryptocurrency Wallets Using YouTube<a href="https://cyware.com/news/pennywise-targets-cryptocurrency-wallets-using-youtube-9dda07b7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new PennyWise infostealer can target over 30 browsers and cryptocurrency apps, including crypto browser extensions and cold crypto wallets. It pretends to be a Bitcoin mining app on YouTube. The malware detects a browser and extracts information saved on it, including login credentials, cookies ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud-based Cryptocurrency Miners Targeting GitHub Actions and Azure VMs<a href="https://thehackernews.com/2022/07/cloud-based-cryptocurrency-miners.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub Actions and Azure virtual machines (VMs) are being leveraged for cloud-based cryptocurrency mining, indicating sustained attempts on the part of malicious actors to target cloud resources for illicit purposes.  "Attackers can abuse the  runners  or servers provided by GitHub to run an organization's pipelines and automation by maliciously downloading and installing their own cryptocurrency miners to gain profit easily," Trend Micro researcher Magno Logan  said  in a report last week.  GitHub Actions ( GHAs ) is a continuous integration and continuous delivery (CI/CD) platform that allows users to automate the software build, test, and deployment pipeline. Developers can leverage the feature to create workflows that build and test every pull request to a code repository, or deploy merged pull requests to production.   Both Linux and Windows runners are hosted on  Standard_DS2_v2  virtual machines on Azure and come with two vCPUs and 7GB of memory.  The Japanese com
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A fake job offer via LinkedIn allowed to steal $540M from Axie Infinity<a href="https://securityaffairs.co/wordpress/133113/cyber-crime/axie-infinity-hack-fake-job-offer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors used a fake job offer on LinkedIn to target an employee at Axie Infinity that resulted in the theft of $540 Million.
+
+
+
+In March, threat actors stole almost $625 million in Ethereum and USDC (a U.S. dollar pegged stablecoin) tokens from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang now lets you search their stolen data<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-now-lets-you-search-their-stolen-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two ransomware gangs and a data extortion group have adopted a new strategy to force victim companies to pay threat actors to not leak stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat (aka ALPHV) Ransomware is Increasing Stakes up to $2.5M in Demands<a href="https://resecurity.com/blog/article/blackcat-aka-alphv-ransomware-is-increasing-stakes-up-to-25m-in-demands?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The average time allocated for payment varies between 5-7 days, to give the victim some time to purchase BTC or XMR cryptocurrency. In case of difficulties, the victim may engage an “intermediary” for further recovery process.
+</details>
+<div style="text-align: right" markdown="1">
+Resecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What It Takes to Tackle Your SaaS Security<a href="https://thehackernews.com/2022/07/what-it-takes-to-tackle-your-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's not a new concept that Office 365, Salesforce, Slack, Google Workspace or Zoom, etc., are amazing for enabling the hybrid workforce and hyper-productivity in businesses today. However, there are three main challenges that have arisen stemming from this evolution: (1) While SaaS apps include a host of native security settings, they need to be hardened by the security team of the organization. (2) Employees are granting 3rd party app access to core SaaS apps that pose potential threats to the company. (3) These SaaS apps are accessed by different devices without their device hygiene score even being checked.   1 — Misconfiguration Management   It's not an easy task to have every app setting properly configured — at all times. The challenge lies within how burdensome this responsibility is — each app has tens or hundreds of security settings to configure, in addition to thousands of user roles and permission in a typical enterprise, compounded by the many compliance industry
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anubis Networks is back with new C2 server<a href="https://securityaffairs.co/wordpress/133115/hacking/anubis-networks-new-c2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale phishing campaign leveraging the Anubis Network is targeting Brazil and Portugal since March 2022.
+
+
+
+A large-scale phishing campaign is targeting Internet-end users in Brazil and Portugal since March 2022. Anubis Network is a C2 portal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft says decision to unblock Office macros is temporary<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-says-decision-to-unblock-office-macros-is-temporary/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says last week's decision to roll back VBA macro auto-blocking in downloaded Office documents is only a temporary change.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: CPWD faces cyber attacks, reiterates guidelines to employees<a href="https://www.thehindu.com/news/national/cpwd-faces-cyber-attacks-reiterates-guidelines-to-employees/article65623367.ece?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Central Public Works Department has been facing a spate of targeted cyberattacks on computers across its offices, according to an advisory it issued to employees last week, reiterating earlier cybersecurity guidelines.
+</details>
+<div style="text-align: right" markdown="1">
+The Hindu
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat (aka ALPHV) Ransomware is Increasing Stakes up to $2,5M in Demands<a href="https://securityaffairs.co/wordpress/133107/cyber-crime/blackcat-alphv-ransomware-demands.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackCat (aka ALPHV) Ransomware gang introduced an advanced search by stolen victim’s passwords, and confidential documents.
+
+
+
+The notorious cybercriminal syndicate BlackCat competes with Conti and Lockbit 3.0. They introduced an advanced search by stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to auto block macros in Microsoft Office docs from the internet<a href="https://www.bleepingcomputer.com/news/microsoft/how-to-auto-block-macros-in-microsoft-office-docs-from-the-internet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With Microsoft temporarily rolling back a feature that automatically blocks macros in Microsoft Office files downloaded from the Internet, it is essential to learn how to configure this security setting manually. This article will explain why users should block macros and how you can block them in Microsoft Office.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher discloses how ‘Dirty dancing’ in OAuth can lead to account hijacking<a href="https://portswigger.net/daily-swig/dirty-dancing-in-oauth-researcher-discloses-how-cyber-attacks-can-lead-to-account-hijacking?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is possible to perform single-click account hijacking by abusing the OAuth process flow, a security researcher has found. Attackers can abuse OAuth implementations to steal secure access tokens and perform one-click account hijacking.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of the new 0mega ransomware operation<a href="https://securityaffairs.co/wordpress/133098/malware/0mega-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BleepingComputer reported a new ransomware operation named 0mega that is targeting organizations worldwide.
+
+
+
+0mega is a new ransomware operation that is targeting organizations worldwide using a double-extortion model, BleepingComputer reported.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Hackers Used Fake LinkedIn Job Listing to Steal $625 Million from Axie Infinity<a href="https://www.hackread.com/hackers-used-fake-linkedin-job-axie-infinity-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earlier in March this year, Ronin Network (RON), a blockchain network underpinning the famous crypto game Axie Infinity and Axie DAO suffered the largest crypto hack against a decentralized finance network reported to date.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazen crooks are now posing as cybersecurity companies to trick you into installing malware<a href="https://www.zdnet.com/article/brazen-crooks-are-now-posing-as-cybersecurity-companies-to-trick-you-into-installing-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brazen cybercriminals are now posing as cybersecurity companies in phishing messages which claim that the recipient has been hit by a cyber attack and that they should urgently respond in order to protect their network.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPl is rolling out 2FA for critical projects, giving away 4,000 security keys<a href="https://www.zdnet.com/article/python-programming-pypl-is-rolling-out-2fa-for-critical-projects-giving-away-4000-security-keys/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PyPI, which is managed by the Python Software Foundation, is the main repository where Python developers can get third-party-developed open-source packages for their projects.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Associated Eye Care Discloses Impact From 2020 Netgain Ransomware Attack<a href="https://www.securityweek.com/associated-eye-care-discloses-impact-2020-netgain-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In November 2020, Netgain, a provider of managed IT services to several industries, fell victim to a ransomware attack that impacted numerous organizations in the healthcare sector, all of which were informed of the incident by January 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Used Fake Job Offer to Hack and Steal $540 Million from Axie Infinity<a href="https://thehackernews.com/2022/07/hackers-used-fake-job-offer-to-hack-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $540 million hack of Axie Infinity's  Ronin Bridge  in late March 2022 was the consequence of one of its former employees getting tricked by a fraudulent job offer on LinkedIn, it has emerged.   According to a report from  The Block  published last week citing two people familiar with the matter, a senior engineer at the company was duped into applying for a job at a non-existent company, causing the individual to download a fake offer document disguised as a PDF.  "After what one source described as multiple rounds of interviews, a Sky Mavis engineer was offered a job with an extremely generous compensation package," the Block reported.   The offer document subsequently acted as a conduit to deploy malware designed to breach Ronin's network, ultimately facilitating one of the crypto sector's biggest hacks to date.  "Sky Mavis employees are under constant advanced spear-phishing attacks on various social channels and one employee was compromised," t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Repository Makes 2FA Security Mandatory for Critical Python Projects<a href="https://thehackernews.com/2022/07/pypi-repository-makes-2af-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the official third-party software repository for Python have begun imposing a new two-factor authentication (2FA) condition for projects deemed "critical."  "We've begun rolling out a 2FA requirement: soon, maintainers of critical projects must have 2FA enabled to publish, update, or modify them," Python Package Index (PyPI)  said  in a tweet last week.  "Any maintainer of a critical project (both 'Maintainers' and 'Owners') are included in the 2FA requirement," it  added .   Additionally, the developers of critical projects who have not previously turned on 2FA on PyPi are being offered free hardware security keys from the Google Open Source Security Team.  PyPI, which is run by the Python Software Foundation, houses more than 350,000 projects, of which over  3,500 projects  are said to be tagged with a "critical" designation.  According to the repository maintainers, any project accounting for the top 1%
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 10, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
