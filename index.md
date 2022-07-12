@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers can unlock Honda cars remotely in Rolling-PWN attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-can-unlock-honda-cars-remotely-in-rolling-pwn-attacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PennyWise Targets Cryptocurrency Wallets Using YouTube<a href="https://cyware.com/news/pennywise-targets-cryptocurrency-wallets-using-youtube-9dda07b7"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud-based Cryptocurrency Miners Targeting GitHub Actions and Azure VMs<a href="https://thehackernews.com/2022/07/cloud-based-cryptocurrency-miners.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A fake job offer via LinkedIn allowed to steal $540M from Axie Infinity<a href="https://securityaffairs.co/wordpress/133113/cyber-crime/axie-infinity-hack-fake-job-offer.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang now lets you search their stolen data<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-now-lets-you-search-their-stolen-data/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat (aka ALPHV) Ransomware is Increasing Stakes up to $2.5M in Demands<a href="https://resecurity.com/blog/article/blackcat-aka-alphv-ransomware-is-increasing-stakes-up-to-25m-in-demands?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Resecurity
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What It Takes to Tackle Your SaaS Security<a href="https://thehackernews.com/2022/07/what-it-takes-to-tackle-your-saas.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anubis Networks is back with new C2 server<a href="https://securityaffairs.co/wordpress/133115/hacking/anubis-networks-new-c2.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft says decision to unblock Office macros is temporary<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-says-decision-to-unblock-office-macros-is-temporary/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: CPWD faces cyber attacks, reiterates guidelines to employees<a href="https://www.thehindu.com/news/national/cpwd-faces-cyber-attacks-reiterates-guidelines-to-employees/article65623367.ece?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ The Hindu
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat (aka ALPHV) Ransomware is Increasing Stakes up to $2,5M in Demands<a href="https://securityaffairs.co/wordpress/133107/cyber-crime/blackcat-alphv-ransomware-demands.html"> Full Text</a>
@@ -222,7 +222,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to auto block macros in Microsoft Office docs from the internet<a href="https://www.bleepingcomputer.com/news/microsoft/how-to-auto-block-macros-in-microsoft-office-docs-from-the-internet/"> Full Text</a>
@@ -238,7 +238,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher discloses how ‘Dirty dancing’ in OAuth can lead to account hijacking<a href="https://portswigger.net/daily-swig/dirty-dancing-in-oauth-researcher-discloses-how-cyber-attacks-can-lead-to-account-hijacking?&web_view=true"> Full Text</a>
@@ -254,7 +254,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of the new 0mega ransomware operation<a href="https://securityaffairs.co/wordpress/133098/malware/0mega-ransomware.html"> Full Text</a>
@@ -278,7 +278,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Hackers Used Fake LinkedIn Job Listing to Steal $625 Million from Axie Infinity<a href="https://www.hackread.com/hackers-used-fake-linkedin-job-axie-infinity-hack/?&web_view=true"> Full Text</a>
@@ -294,7 +294,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brazen crooks are now posing as cybersecurity companies to trick you into installing malware<a href="https://www.zdnet.com/article/brazen-crooks-are-now-posing-as-cybersecurity-companies-to-trick-you-into-installing-malware/?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPl is rolling out 2FA for critical projects, giving away 4,000 security keys<a href="https://www.zdnet.com/article/python-programming-pypl-is-rolling-out-2fa-for-critical-projects-giving-away-4000-security-keys/?&web_view=true"> Full Text</a>
@@ -326,7 +326,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Associated Eye Care Discloses Impact From 2020 Netgain Ransomware Attack<a href="https://www.securityweek.com/associated-eye-care-discloses-impact-2020-netgain-ransomware-attack?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2022
+July 10, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Used Fake Job Offer to Hack and Steal $540 Million from Axie Infinity<a href="https://thehackernews.com/2022/07/hackers-used-fake-job-offer-to-hack-and.html"> Full Text</a>
@@ -358,7 +358,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2022
+July 10, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPI Repository Makes 2FA Security Mandatory for Critical Python Projects<a href="https://thehackernews.com/2022/07/pypi-repository-makes-2af-security.html"> Full Text</a>

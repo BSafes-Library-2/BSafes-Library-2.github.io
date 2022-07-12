@@ -8,6 +8,38 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anubis Networks is back with new C2 server<a href="https://securityaffairs.co/wordpress/133115/hacking/anubis-networks-new-c2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale phishing campaign leveraging the Anubis Network is targeting Brazil and Portugal since March 2022.
+
+
+
+A large-scale phishing campaign is targeting Internet-end users in Brazil and Portugal since March 2022. Anubis Network is a C2 portal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazen crooks are now posing as cybersecurity companies to trick you into installing malware<a href="https://www.zdnet.com/article/brazen-crooks-are-now-posing-as-cybersecurity-companies-to-trick-you-into-installing-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brazen cybercriminals are now posing as cybersecurity companies in phishing messages which claim that the recipient has been hit by a cyber attack and that they should urgently respond in order to protect their network.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+July 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to auto block macros in Microsoft Office docs from the internet<a href="https://www.bleepingcomputer.com/news/microsoft/how-to-auto-block-macros-in-microsoft-office-docs-from-the-internet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With Microsoft temporarily rolling back a feature that automatically blocks macros in Microsoft Office files downloaded from the Internet, it is essential to learn how to configure this security setting manually. This article will explain why users should block macros and how you can block them in Microsoft Office.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher discloses how ‘Dirty dancing’ in OAuth can lead to account hijacking<a href="https://portswigger.net/daily-swig/dirty-dancing-in-oauth-researcher-discloses-how-cyber-attacks-can-lead-to-account-hijacking?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is possible to perform single-click account hijacking by abusing the OAuth process flow, a security researcher has found. Attackers can abuse OAuth implementations to steal secure access tokens and perform one-click account hijacking.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

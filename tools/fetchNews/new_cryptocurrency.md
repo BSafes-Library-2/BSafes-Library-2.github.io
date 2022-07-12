@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+July 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud-based Cryptocurrency Miners Targeting GitHub Actions and Azure VMs<a href="https://thehackernews.com/2022/07/cloud-based-cryptocurrency-miners.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub Actions and Azure virtual machines (VMs) are being leveraged for cloud-based cryptocurrency mining, indicating sustained attempts on the part of malicious actors to target cloud resources for illicit purposes.  "Attackers can abuse the&nbsp; runners &nbsp;or servers provided by GitHub to run an organization's pipelines and automation by maliciously downloading and installing their own cryptocurrency miners to gain profit easily," Trend Micro researcher Magno Logan&nbsp; said &nbsp;in a report last week.  GitHub Actions ( GHAs ) is a continuous integration and continuous delivery (CI/CD) platform that allows users to automate the software build, test, and deployment pipeline. Developers can leverage the feature to create workflows that build and test every pull request to a code repository, or deploy merged pull requests to production.   Both Linux and Windows runners are hosted on&nbsp; Standard_DS2_v2 &nbsp;virtual machines on Azure and come with two vCPUs and 7GB of memory.  The Japanese com
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

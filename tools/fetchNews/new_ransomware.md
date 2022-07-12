@@ -8,6 +8,60 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat (aka ALPHV) Ransomware is Increasing Stakes up to $2.5M in Demands<a href="https://resecurity.com/blog/article/blackcat-aka-alphv-ransomware-is-increasing-stakes-up-to-25m-in-demands?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The average time allocated for payment varies between 5-7 days, to give the victim some time to purchase BTC or XMR cryptocurrency. In case of difficulties, the victim may engage an “intermediary” for further recovery process.
+</details>
+<div style="text-align: right" markdown="1">
+Resecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat (aka ALPHV) Ransomware is Increasing Stakes up to $2,5M in Demands<a href="https://securityaffairs.co/wordpress/133107/cyber-crime/blackcat-alphv-ransomware-demands.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackCat (aka ALPHV) Ransomware gang introduced an advanced search by stolen victim’s passwords, and confidential documents.
+
+
+
+The notorious cybercriminal syndicate BlackCat competes with Conti and Lockbit 3.0. They introduced an advanced search by stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of the new 0mega ransomware operation<a href="https://securityaffairs.co/wordpress/133098/malware/0mega-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BleepingComputer reported a new ransomware operation named 0mega that is targeting organizations worldwide.
+
+
+
+0mega is a new ransomware operation that is targeting organizations worldwide using a double-extortion model, BleepingComputer reported.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

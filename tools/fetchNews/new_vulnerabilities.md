@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can unlock Honda cars remotely in Rolling-PWN attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-can-unlock-honda-cars-remotely-in-rolling-pwn-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of security researchers found that several modern Honda car models have a vulnerable rolling code mechanism that allows unlocking the cars or even starting the engine remotely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

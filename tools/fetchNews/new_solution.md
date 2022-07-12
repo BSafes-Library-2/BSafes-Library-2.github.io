@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Repository Makes 2FA Security Mandatory for Critical Python Projects<a href="https://thehackernews.com/2022/07/pypi-repository-makes-2af-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the official third-party software repository for Python have begun imposing a new two-factor authentication (2FA) condition for projects deemed "critical."  "We've begun rolling out a 2FA requirement: soon, maintainers of critical projects must have 2FA enabled to publish, update, or modify them," Python Package Index (PyPI)&nbsp; said &nbsp;in a tweet last week.  "Any maintainer of a critical project (both 'Maintainers' and 'Owners') are included in the 2FA requirement," it&nbsp; added .   Additionally, the developers of critical projects who have not previously turned on 2FA on PyPi are being offered free hardware security keys from the Google Open Source Security Team.  PyPI, which is run by the Python Software Foundation, houses more than 350,000 projects, of which over&nbsp; 3,500 projects &nbsp;are said to be tagged with a "critical" designation.  According to the repository maintainers, any project accounting for the top 1%
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+July 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: CPWD faces cyber attacks, reiterates guidelines to employees<a href="https://www.thehindu.com/news/national/cpwd-faces-cyber-attacks-reiterates-guidelines-to-employees/article65623367.ece?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Central Public Works Department has been facing a spate of targeted cyberattacks on computers across its offices, according to an advisory it issued to employees last week, reiterating earlier cybersecurity guidelines.
+</details>
+<div style="text-align: right" markdown="1">
+The Hindu
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Associated Eye Care Discloses Impact From 2020 Netgain Ransomware Attack<a href="https://www.securityweek.com/associated-eye-care-discloses-impact-2020-netgain-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In November 2020, Netgain, a provider of managed IT services to several industries, fell victim to a ransomware attack that impacted numerous organizations in the healthcare sector, all of which were informed of the incident by January 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

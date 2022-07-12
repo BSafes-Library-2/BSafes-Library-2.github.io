@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Picking Up Brute Ratel as an Alternative to Cobalt Strike<a href="https://cyware.com/news/attackers-picking-up-brute-ratel-as-an-alternative-to-cobalt-strike-c738818e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nation-state threat actors are leveraging Brute Ratel, a red-teaming attack simulation tool, to evade detection by EDR and antivirus, in place of Cobalt Strike. It costs around $2,500 per user for a one-year license, with customers having to provide a business email address that should be verified  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts demonstrate how to unlock several Honda models via Rolling-PWN attack<a href="https://securityaffairs.co/wordpress/133090/hacking/honda-rolling-pwn-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bad news for the owners of several Honda models, the Rolling-PWN Attack vulnerability can allow unlocking their vehicles.
+
+
+
+A team of security Researchers Kevin2600 and Wesley Li from Star-V Lab independently discovered a flaw in Honda models, named...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

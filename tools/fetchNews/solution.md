@@ -8,6 +8,24 @@ nav_order: 900195
 
 ## Solution
 ---
+July 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Lockdown Mode will protect users against highly targeted cyberattacks<a href="https://securityaffairs.co/wordpress/133065/mobile-2/apple-lockdown-mode.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple plans to introduce a security feature, called&nbsp;Lockdown Mode,&nbsp;to protect its users against "highly targeted cyberattacks."
+
+
+
+The recent wave of sophisticated attacks against Apple users (i.e. Pegasus,&nbsp;DevilsTongue,&nbsp;and&nbsp;Hermit) urged the tech...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
