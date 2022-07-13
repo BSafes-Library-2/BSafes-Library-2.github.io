@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders agencies to patch new Windows zero-day used in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-new-windows-zero-day-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added an actively exploited local privilege escalation vulnerability in the&nbsp;Windows Client/Server Runtime Subsystem (CSRSS)&nbsp;to its list of bugs abused&nbsp;in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House backed fund promises to accelerate 'deep tech' advancements in cybersecurity<a href="https://www.cyberscoop.com/white-house-backed-fund-deep-tech/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+America’s Frontier Fund (AFF) will be a hub for what the CEO Gilman Louie calls the Quad Investor Network (QIN), a partnership that AFF will lead with other global democracies to invest jointly in emerging technology.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

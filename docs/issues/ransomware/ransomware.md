@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recycled Ransomware are Faster<a href="https://cyware.com/news/recycled-ransomware-are-faster-7a382be2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware actors have started recycling codes from publicly available sources. A new Nokoyawa campaign has been observed, in which the ransomware strain is improving itself by following this tactic.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 0mega Ransomware Joins the Double Extortion Threat Landscape<a href="https://cyware.com/news/new-0mega-ransomware-joins-the-double-extortion-threat-landscape-158fb321"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware operation, dubbed 0mega, has been spotted targeting organizations across the world in double-extortion schemes. Active since May, the group has already breached several firms, including an electronics repair firm. Organizations are suggested to always protect their sensitive data w ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

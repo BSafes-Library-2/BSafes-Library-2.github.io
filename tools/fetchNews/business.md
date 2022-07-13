@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft says decision to unblock Office macros is temporary<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-says-decision-to-unblock-office-macros-is-temporary/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says last week's decision to roll back VBA macro auto-blocking in downloaded Office documents is only a temporary change.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

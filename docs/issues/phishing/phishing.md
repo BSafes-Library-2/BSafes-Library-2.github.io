@@ -8,6 +8,62 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers impersonate cybersecurity firms in callback phishing attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-impersonate-cybersecurity-firms-in-callback-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are impersonating well-known cybersecurity companies, such as CrowdStrike, in callback phishing emails to gain initial access to corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Text Message Phishing Scams Prompt Warning from New York DMV<a href="https://www.govtech.com/security/text-message-phishing-scams-prompt-warning-from-new-york-dmv/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If someone clicks on the link provided in the scam message, they are brought to a webpage that is designed to look like the DMV website and they are asked to submit personal information.
+</details>
+<div style="text-align: right" markdown="1">
+Government Technology
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Phishing bypassed MFA in attacks against 10,000 orgs<a href="https://www.bleepingcomputer.com/news/security/microsoft-phishing-bypassed-mfa-in-attacks-against-10-000-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says a massive series of phishing attacks has targeted more than 10,000 organizations starting with September 2021, using the gained access to victims' mailboxes in follow-on business email compromise (BEC) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing Attacks Shame, Scare Victims into Surrendering Twitter, Discord Credentials<a href="https://www.darkreading.com/remote-workforce/new-wave-phishing-attacks-shame-scare-victims-into-surrendering-twitter-discord-credentials?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent wave of social media phishing schemes doubles down on aggressive scare tactics with phony account-abuse accusations to coerce victims into handing over their login details.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

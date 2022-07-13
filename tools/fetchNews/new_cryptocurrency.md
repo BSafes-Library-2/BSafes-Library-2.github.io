@@ -8,6 +8,38 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CuteBoi Cryptomining Campaign - 1,300 NPM Packages, 1,000 Automated User Accounts<a href="https://cyware.com/news/cuteboi-cryptomining-campaign-1300-npm-packages-1000-automated-user-accounts-95d333cf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The packages contain almost identical source code, sourced from an existing package, named eazyminer. It is used to mine Monero by using unused resources on web servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud-Based Cryptocurrency mining attacks abuse GitHub Actions and Azure VM<a href="https://securityaffairs.co/wordpress/133125/malware/cryptocurrency-mining-cloud-infrastructure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers investigated cloud-based cryptocurrency mining attacks targeting GitHub Actions and Azure VMs.
+
+
+
+Researchers from Trend Micro published a report that details cloud-based cryptocurrency mining attacks targeting GitHub Actions and Azure VMs and the threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

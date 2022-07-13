@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infiltrate, Exploit, Manipulate: Why the Subversive Nature of Cyber Conflict Explains Both Its Strategic Promise and Its Limitations<a href="https://www.lawfareblog.com/infiltrate-exploit-manipulate-why-subversive-nature-cyber-conflict-explains-both-its-strategic"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber operations are not novel, nor is their impact revolutionary. They are instruments of subversion that promise great gains in theory but are constrained in practice by a crippling operational trilemma that limits strategic value.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hybrid-Work Reality Drives Hardware-based Security Strategies<a href="https://threatpost.com/hybrid-work-hardware-based-security/180170/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New remote business reality pushes security teams to retool to protect expanding attack surface.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avoiding Death by a Thousand Scripts: Using Automated Content Security Policies<a href="https://thehackernews.com/2022/07/avoiding-death-by-thousand-scripts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Businesses know they need to secure their client-side scripts. Content security policies (CSPs) are a great way to do that. But CSPs are cumbersome. One mistake and you have a potentially significant client-side security gap. Finding those gaps means long and tedious hours (or days) in manual code reviews through thousands of lines of script on your web applications. Automated content security policies can help streamline the code review process by first identifying all first- and third-party scripts and the assets they access, and then generating an appropriate content security policy to help better secure the client-side attack surface.   There are few developers or AppSec professionals who claim to enjoy deploying CSPs. First, the CSP has to work for the specific web application. Then the team needs to make sure it provides the appropriate level of protection. The CSP also can't conflict with any existing widgets or plugins (or the decision must be made to not deploy the CSP or dea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

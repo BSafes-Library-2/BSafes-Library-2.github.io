@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Postpones Privacy Policy Update in Europe After Italy Warns of GDPR Breach<a href="https://thehackernews.com/2022/07/tiktok-postpones-privacy-policy-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular video-sharing platform TikTok on Tuesday agreed to pause a controversial privacy policy update that could have allowed it to serve targeted ads based on users' activity on the social video platform without their permission to do so.  The reversal, reported by&nbsp; TechCrunch , comes a day after the Italian data protection authority — the Garante per la Protezione dei Dati Personali — warned the company against the change, citing violations of data protection laws.  "The personal data stored in users' devices may not be used to profile those users and send personalized ads without their explicit consent," the Garante&nbsp; said .   The formal warning was in response to a privacy policy revision that noted it had historically asked users' "consent" to their on-TikTok activity and off-TikTok activity to serve personalized ads and that, therefore, it intends to stop asking users for their permission to profile their behavior and process personal data.  "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

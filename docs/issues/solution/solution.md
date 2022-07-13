@@ -8,6 +8,52 @@ nav_order: 900195
 
 ## Solution
 ---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Autopatch goes live, add support for cloudy PCs<a href="https://www.theregister.com/2022/07/12/windows_auopatch_live/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Because the Autopatch service has such a broad footprint, and pushes updates around the clock, we are able to detect potential issues among an incredibly diverse array of hardware and software configurations," states Microsoft.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft announced the general availability of Windows Autopatch feature<a href="https://securityaffairs.co/wordpress/133139/security/microsoft-autopatch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced the general availability of a feature called&nbsp;Autopatch&nbsp;that automatically updates Windows and Office software.
+
+
+
+Microsoft announced the general availability of a service called&nbsp;Autopatch&nbsp;that automates the process of managing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Windows Autopatch is Now Generally Available for Enterprise Systems<a href="https://thehackernews.com/2022/07/microsoft-windows-autopatch-is-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday announced the general availability of a feature called Autopatch  that automatically keeps Windows and Office software up-to-date on enrolled endpoints.  The launch, which comes a day before Microsoft is expected to release its monthly round of security patches, is available for customers with Windows Enterprise E3 and E5 licenses. It, however, doesn't support Windows Education (A3) or Windows Front Line Worker (F3) licenses.  "Microsoft will continue to release updates on the second Tuesday of every month and now Autopatch helps streamline updating operations and create new opportunities for IT pros," Lior Bela&nbsp; said .   Autopatch works by&nbsp; applying security updates &nbsp;first to devices in what's called the Test ring, which contains a minimum number of representative devices. After a validation period, the updates are pushed to the First (1% devices), Fast (9%), and Broad (90%) rings.   The service was first&nbsp; teased &nbsp;by the tech giant in April 2022
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+July 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What It Takes to Tackle Your SaaS Security<a href="https://thehackernews.com/2022/07/what-it-takes-to-tackle-your-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's not a new concept that Office 365, Salesforce, Slack, Google Workspace or Zoom, etc., are amazing for enabling the hybrid workforce and hyper-productivity in businesses today. However, there are three main challenges that have arisen stemming from this evolution: (1) While SaaS apps include a host of native security settings, they need to be hardened by the security team of the organization. (2) Employees are granting 3rd party app access to core SaaS apps that pose potential threats to the company. (3) These SaaS apps are accessed by different devices without their device hygiene score even being checked.&nbsp;  1 — Misconfiguration Management   It's not an easy task to have every app setting properly configured — at all times. The challenge lies within how burdensome this responsibility is — each app has tens or hundreds of security settings to configure, in addition to thousands of user roles and permission in a typical enterprise, compounded by the many compliance industry
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPl is rolling out 2FA for critical projects, giving away 4,000 security keys<a href="https://www.zdnet.com/article/python-programming-pypl-is-rolling-out-2fa-for-critical-projects-giving-away-4000-security-keys/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PyPI, which is managed by the Python Software Foundation, is the main repository where Python developers can get third-party-developed open-source packages for their projects.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang now lets you search their stolen data<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-now-lets-you-search-their-stolen-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two ransomware gangs and a data extortion group have adopted a new strategy to force victim companies to pay threat actors to not leak stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Hackers Used Fake LinkedIn Job Listing to Steal $625 Million from Axie Infinity<a href="https://www.hackread.com/hackers-used-fake-linkedin-job-axie-infinity-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earlier in March this year, Ronin Network (RON), a blockchain network underpinning the famous crypto game Axie Infinity and Axie DAO suffered the largest crypto hack against a decentralized finance network reported to date.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Used Fake Job Offer to Hack and Steal $540 Million from Axie Infinity<a href="https://thehackernews.com/2022/07/hackers-used-fake-job-offer-to-hack-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $540 million hack of Axie Infinity's&nbsp; Ronin Bridge &nbsp;in late March 2022 was the consequence of one of its former employees getting tricked by a fraudulent job offer on LinkedIn, it has emerged.&nbsp;  According to a report from&nbsp; The Block &nbsp;published last week citing two people familiar with the matter, a senior engineer at the company was duped into applying for a job at a non-existent company, causing the individual to download a fake offer document disguised as a PDF.  "After what one source described as multiple rounds of interviews, a Sky Mavis engineer was offered a job with an extremely generous compensation package," the Block reported.   The offer document subsequently acted as a conduit to deploy malware designed to breach Ronin's network, ultimately facilitating one of the crypto sector's biggest hacks to date.  "Sky Mavis employees are under constant advanced spear-phishing attacks on various social channels and one employee was compromised," t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
