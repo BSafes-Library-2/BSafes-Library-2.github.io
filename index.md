@@ -34,6 +34,458 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware patches vCenter Server flaw disclosed in November<a href="https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-server-flaw-disclosed-in-november/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eight months after disclosing a high-severity privilege escalation flaw in vCenter Server's IWA (Integrated Windows Authentication) mechanism, VMware has finally released a patch for one of the affected versions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recycled Ransomware are Faster<a href="https://cyware.com/news/recycled-ransomware-are-faster-7a382be2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware actors have started recycling codes from publicly available sources. A new Nokoyawa campaign has been observed, in which the ransomware strain is improving itself by following this tactic.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Postpones Privacy Policy Update in Europe After Italy Warns of GDPR Breach<a href="https://thehackernews.com/2022/07/tiktok-postpones-privacy-policy-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular video-sharing platform TikTok on Tuesday agreed to pause a controversial privacy policy update that could have allowed it to serve targeted ads based on users' activity on the social video platform without their permission to do so.  The reversal, reported by  TechCrunch , comes a day after the Italian data protection authority — the Garante per la Protezione dei Dati Personali — warned the company against the change, citing violations of data protection laws.  "The personal data stored in users' devices may not be used to profile those users and send personalized ads without their explicit consent," the Garante  said .   The formal warning was in response to a privacy policy revision that noted it had historically asked users' "consent" to their on-TikTok activity and off-TikTok activity to serve personalized ads and that, therefore, it intends to stop asking users for their permission to profile their behavior and process personal data.  "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infiltrate, Exploit, Manipulate: Why the Subversive Nature of Cyber Conflict Explains Both Its Strategic Promise and Its Limitations<a href="https://www.lawfareblog.com/infiltrate-exploit-manipulate-why-subversive-nature-cyber-conflict-explains-both-its-strategic"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber operations are not novel, nor is their impact revolutionary. They are instruments of subversion that promise great gains in theory but are constrained in practice by a crippling operational trilemma that limits strategic value.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The President of European Central Bank Christine Lagarde targeted by hackers<a href="https://securityaffairs.co/wordpress/133163/hacking/european-central-bank-hacking-attempt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Christine Lagarde, the president of the European Central Bank, was the target of a failed hacking attempt.
+
+
+
+The European Central Bank confirmed that its President, Christine Lagarde, was the target of a failed hacking attempt.
+
+
+
+The European Central...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hybrid-Work Reality Drives Hardware-based Security Strategies<a href="https://threatpost.com/hybrid-work-hardware-based-security/180170/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New remote business reality pushes security teams to retool to protect expanding attack surface.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes dozens of Azure Site Recovery privilege escalation bugs<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-dozens-of-azure-site-recovery-privilege-escalation-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed 32 vulnerabilities in the Azure Site Recovery suite that could have allowed attackers to gain elevated privileges or perform remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CuteBoi Cryptomining Campaign - 1,300 NPM Packages, 1,000 Automated User Accounts<a href="https://cyware.com/news/cuteboi-cryptomining-campaign-1300-npm-packages-1000-automated-user-accounts-95d333cf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The packages contain almost identical source code, sourced from an existing package, named eazyminer. It is used to mine Monero by using unused resources on web servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avoiding Death by a Thousand Scripts: Using Automated Content Security Policies<a href="https://thehackernews.com/2022/07/avoiding-death-by-thousand-scripts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Businesses know they need to secure their client-side scripts. Content security policies (CSPs) are a great way to do that. But CSPs are cumbersome. One mistake and you have a potentially significant client-side security gap. Finding those gaps means long and tedious hours (or days) in manual code reviews through thousands of lines of script on your web applications. Automated content security policies can help streamline the code review process by first identifying all first- and third-party scripts and the assets they access, and then generating an appropriate content security policy to help better secure the client-side attack surface.   There are few developers or AppSec professionals who claim to enjoy deploying CSPs. First, the CSP has to work for the specific web application. Then the team needs to make sure it provides the appropriate level of protection. The CSP also can't conflict with any existing widgets or plugins (or the decision must be made to not deploy the CSP or dea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in the ExpressLRS Protocol allow the takeover of drones<a href="https://securityaffairs.co/wordpress/133146/hacking/expresslrs-protocol-flaws-drones-takeover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The protocol for radio-controlled (RC) drones, named ExpressLRS, is affected by vulnerabilities that can allow device takeover. 
+
+
+
+Researchers warn of vulnerabilities that affect the protocol for radio-controlled (RC) drones, named ExpressLRS, which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes dozens of Azure Site Recovery privilege escalation bugs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-dozens-of-azure-site-recovery-privilege-escalation-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed 32 vulnerabilities in the Azure Site Recovery suite that could have allowed attackers to gain elevated privileges or perform remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Autopatch goes live, add support for cloudy PCs<a href="https://www.theregister.com/2022/07/12/windows_auopatch_live/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Because the Autopatch service has such a broad footprint, and pushes updates around the clock, we are able to detect potential issues among an incredibly diverse array of hardware and software configurations," states Microsoft.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft announced the general availability of Windows Autopatch feature<a href="https://securityaffairs.co/wordpress/133139/security/microsoft-autopatch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced the general availability of a feature called Autopatch that automatically updates Windows and Office software.
+
+
+
+Microsoft announced the general availability of a service called Autopatch that automates the process of managing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders agencies to patch new Windows zero-day used in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-new-windows-zero-day-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added an actively exploited local privilege escalation vulnerability in the Windows Client/Server Runtime Subsystem (CSRSS) to its list of bugs abused in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House backed fund promises to accelerate 'deep tech' advancements in cybersecurity<a href="https://www.cyberscoop.com/white-house-backed-fund-deep-tech/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+America’s Frontier Fund (AFF) will be a hub for what the CEO Gilman Louie calls the Quad Investor Network (QIN), a partnership that AFF will lead with other global democracies to invest jointly in emerging technology.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud-Based Cryptocurrency mining attacks abuse GitHub Actions and Azure VM<a href="https://securityaffairs.co/wordpress/133125/malware/cryptocurrency-mining-cloud-infrastructure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers investigated cloud-based cryptocurrency mining attacks targeting GitHub Actions and Azure VMs.
+
+
+
+Researchers from Trend Micro published a report that details cloud-based cryptocurrency mining attacks targeting GitHub Actions and Azure VMs and the threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers impersonate cybersecurity firms in callback phishing attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-impersonate-cybersecurity-firms-in-callback-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are impersonating well-known cybersecurity companies, such as CrowdStrike, in callback phishing emails to gain initial access to corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Text Message Phishing Scams Prompt Warning from New York DMV<a href="https://www.govtech.com/security/text-message-phishing-scams-prompt-warning-from-new-york-dmv/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If someone clicks on the link provided in the scam message, they are brought to a webpage that is designed to look like the DMV website and they are asked to submit personal information.
+</details>
+<div style="text-align: right" markdown="1">
+Government Technology
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole $620 million from Axie Infinity via fake job interviews<a href="https://www.bleepingcomputer.com/news/security/hackers-stole-620-million-from-axie-infinity-via-fake-job-interviews/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hack that caused Axie Infinity losses of $620 million in crypto started with a fake job offer from North Korean hackers to one of the game's developers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Luna Moth Group Ransoms Data Without Ransomware Using Remote Administration Tools<a href="https://www.darkreading.com/threat-intelligence/-luna-moth-group-ransoms-data-without-the-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A little social engineering and commercially available remote administration tools (RATs) and other software are all the new Luna Moth ransom group has needed to infiltrate victims' systems and extort payments.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft July 2022 Patch Tuesday fixes exploited zero-day, 84 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2022-patch-tuesday-fixes-exploited-zero-day-84-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's July 2022 Patch Tuesday, and with it comes fixes for one actively exploited zero-day vulnerability and a total of 84 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers defeat facial recognition systems with universal face mask<a href="https://www.helpnetsecurity.com/2022/07/12/defeat-facial-recognition/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Can attackers create a face mask that would defeat modern facial recognition (FR) systems? A group of researchers from from Ben-Gurion University of the Negev and Tel Aviv University have proven that it can be done.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Phishing bypassed MFA in attacks against 10,000 orgs<a href="https://www.bleepingcomputer.com/news/security/microsoft-phishing-bypassed-mfa-in-attacks-against-10-000-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says a massive series of phishing attacks has targeted more than 10,000 organizations starting with September 2021, using the gained access to victims' mailboxes in follow-on business email compromise (BEC) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 0mega Ransomware Joins the Double Extortion Threat Landscape<a href="https://cyware.com/news/new-0mega-ransomware-joins-the-double-extortion-threat-landscape-158fb321"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware operation, dubbed 0mega, has been spotted targeting organizations across the world in double-extortion schemes. Active since May, the group has already breached several firms, including an electronics repair firm. Organizations are suggested to always protect their sensitive data w ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘Luna Moth’ hackers breach orgs via fake subscription renewals<a href="https://www.bleepingcomputer.com/news/security/new-luna-moth-hackers-breach-orgs-via-fake-subscription-renewals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new data extortion group has been breaching companies to steal confidential information, threatening victims to make the files publicly available unless they pay a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing Attacks Shame, Scare Victims into Surrendering Twitter, Discord Credentials<a href="https://www.darkreading.com/remote-workforce/new-wave-phishing-attacks-shame-scare-victims-into-surrendering-twitter-discord-credentials?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent wave of social media phishing schemes doubles down on aggressive scare tactics with phony account-abuse accusations to coerce victims into handing over their login details.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Windows Autopatch is Now Generally Available for Enterprise Systems<a href="https://thehackernews.com/2022/07/microsoft-windows-autopatch-is-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday announced the general availability of a feature called Autopatch  that automatically keeps Windows and Office software up-to-date on enrolled endpoints.  The launch, which comes a day before Microsoft is expected to release its monthly round of security patches, is available for customers with Windows Enterprise E3 and E5 licenses. It, however, doesn't support Windows Education (A3) or Windows Front Line Worker (F3) licenses.  "Microsoft will continue to release updates on the second Tuesday of every month and now Autopatch helps streamline updating operations and create new opportunities for IT pros," Lior Bela  said .   Autopatch works by  applying security updates  first to devices in what's called the Test ring, which contains a minimum number of representative devices. After a validation period, the updates are pushed to the First (1% devices), Fast (9%), and Broad (90%) rings.   The service was first  teased  by the tech giant in April 2022
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
