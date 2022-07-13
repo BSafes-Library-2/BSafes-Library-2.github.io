@@ -34,7 +34,387 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Lilith ransomware emerges with extortion site, lists first victim<a href="https://www.bleepingcomputer.com/news/security/new-lilith-ransomware-emerges-with-extortion-site-lists-first-victim/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware operation has been launched under the name 'Lilith,' and it has already posted its first victim on a data leak site created to support double-extortion attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity firms Impersonated in Callback Campaigns<a href="https://cyware.com/news/cybersecurity-firms-impersonated-in-callback-campaigns-e7a9e14e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A callback phishing campaign is impersonating renowned cybersecurity organizations, revealed CrowdStrike. Adversaries then inform their clients about a fake network breach in their system and urge the recipients to call a particular number. Organizations are advised to always stay vigilant and cont ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Retbleed' Speculative Execution Attack Affects AMD and Intel CPUs<a href="https://thehackernews.com/2022/07/new-retbleed-speculative-execution.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered yet another vulnerability affecting numerous older AMD and Intel microprocessors that could bypass current defenses and result in Spectre-based speculative-execution attacks.  Dubbed  Retbleed  by ETH Zurich researchers Johannes Wikner and Kaveh Razavi, the issues are tracked as CVE-2022-29900 (AMD) and CVE-2022-29901 (Intel), with the chipmakers  releasing   software   mitigations  as part of a coordinated disclosure process.  Retbleed is also the latest addition to a class of  Spectre attacks  known as Spectre-BTI (CVE-2017-5715 or Spectre-V2), which exploit the side effects of an optimization technique called  speculative execution  by means of a timing side channel to trick a program into accessing arbitrary locations in its memory space and leak private information.   Speculative execution attempts to fill the instruction pipeline of a program by predicting which instruction will be executed next in order to gain a performance boost, while also
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qakbot operations continue to evolve to avoid detection<a href="https://securityaffairs.co/wordpress/133191/malware/qakbot-continues-to-evolve.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that operators behind the Qakbot malware operation are improving their attack chain in an attempt to avoid detection.
+
+
+
+Qakbot, also known as QBot, QuackBot and Pinkslipbot, is an info-stealing malware that has been active since 2008. The malware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bandai Namco confirms hack after ALPHV ransomware data leak threat<a href="https://www.bleepingcomputer.com/news/security/bandai-namco-confirms-hack-after-alphv-ransomware-data-leak-threat/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Game publishing giant Bandai Namco has confirmed that they suffered a cyberattack that may have resulted in the theft of customers' personal data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware is hitting one sector particularly hard, and the impact is felt by everyone<a href="https://www.zdnet.com/article/ransomware-is-hitting-one-sector-particularly-hard-and-the-impact-is-felt-by-everyone/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to an analysis by cybersecurity researchers at Sophos, education is facing an increased challenge from the threat of ransomware as cybercriminals go after what they perceive to be an easy but potentially lucrative target.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. FTC Vows to Crack Down on illegal Use and Sharing of Citizens' Sensitive Data<a href="https://thehackernews.com/2022/07/us-ftc-vows-to-crack-down-on-illegal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission (FTC) warned this week that it will crack down on tech companies' illegal use and sharing of highly sensitive data and false claims about data anonymization.  "While many consumers may happily offer their location data in exchange for real-time crowd-sourced advice on the fastest route home, they likely think differently about having their thinly-disguised online identity associated with the frequency of their visits to a therapist or cancer doctor," FTC's Kristin Cohen  said .  The sensitive nature of information about users' health and their precise whereabouts has prompted the agency to caution against opaque practices in the "shadowy ad tech and  data broker ecosystem ," with consumers having little to no knowledge of how their personal data is harvested, used, and processed.   What's more, mobile apps are known to embed software development kits (SDKs) that claim to collect and share anonymized user information
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three UEFI Firmware flaws found in tens of Lenovo Notebook models<a href="https://securityaffairs.co/wordpress/133186/security/lenovo-uefi-firmware-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT giant Lenovo released security fixes to address three vulnerabilities that impact the UEFI firmware shipped with over 70 product models.
+
+
+
+The multinational technology company Lenovo released security fixes to address three vulnerabilities that reside...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases tweet-size exploit for macOS sandbox escape bug<a href="https://www.bleepingcomputer.com/news/security/microsoft-releases-tweet-size-exploit-for-macos-sandbox-escape-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On macOS systems that don't have Apple's recent security updates, a vulnerability identified as CVE-2022-26706 could help an attacker bypass sandbox restrictions to execute code with elevated privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Retbleed: Another New Spectre-BTI Attack Discovered<a href="https://cyware.com/news/retbleed-another-new-spectre-bti-attack-discovered-ee739e13"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from ETH Zurich have revealed that threat actors can exploit two new vulnerabilities, collectively called Retbleed, to obtain sensitive data and passwords from memory.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New UEFI Firmware Vulnerabilities Impact Several Lenovo Notebook Models<a href="https://thehackernews.com/2022/07/new-uefi-firmware-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Consumer electronics maker Lenovo on Tuesday  rolled out fixes  to contain three security flaws in its UEFI firmware affecting over 70 product models.  "The vulnerabilities can be exploited to achieve arbitrary code execution in the early phases of the platform boot, possibly allowing the attackers to hijack the OS execution flow and disable some important security features," Slovak cybersecurity firm ESET  said  in a series of tweets.   Tracked as CVE-2022-1890, CVE-2022-1891, and CVE-2022-1892, all three bugs relate to  buffer overflow vulnerabilities  that have been described by Lenovo as leading to privilege escalation on affected systems. Martin Smolár from ESET has been credited with reporting the flaws.   The bugs stem from an insufficient validation of an NVRAM variable called "DataSize" in three different drivers ReadyBootDxe, SystemLoadDefaultDxe, and SystemBootManagerDxe, leading to a buffer overflow that could be weaponized to achieve code execution.  T
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large-scale AiTM phishing campaign targeted +10,000 orgs since 2021￼<a href="https://securityaffairs.co/wordpress/133154/hacking/aitm-phishing-campaigns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale phishing campaign used adversary-in-the-middle (AiTM) phishing sites to hit more than 10,000 organizations
+
+
+
+Microsoft observed a large-scale phishing campaign that used adversary-in-the-middle (AiTM) phishing sites to steal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New UEFI firmware flaws impact over 70 Lenovo laptop models<a href="https://www.bleepingcomputer.com/news/security/new-uefi-firmware-flaws-impact-over-70-lenovo-laptop-models/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UEFI firmware used in several laptops made by Lenovo is vulnerable to three buffer overflow vulnerabilities that could enable attackers to hijack the startup routine of Windows installations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abused QuickBooks Site Sends Phone Scam Emails<a href="https://www.inky.com/en/blog/abused-quickbooks-site-sends-phone-scam-emails?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+INKY recently detected a new variant of the tried-and-true phone scam. This time, the perps abused QuickBooks, an accounting software package used primarily by small business and midmarket customers who lack in-house finance and accounting teams.
+</details>
+<div style="text-align: right" markdown="1">
+INKY
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Large-Scale AiTM Phishing Attacks Against Over 10,000 Organizations<a href="https://thehackernews.com/2022/07/microsoft-warns-of-large-scale-aitm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday disclosed that a large-scale phishing campaign targeted over 10,000 organizations since September 2021 by hijacking Office 365's authentication process even on accounts secured with multi-factor authentication (MFA).  "The attackers then used the stolen credentials and session cookies to access affected users' mailboxes and perform follow-on business email compromise (BEC) campaigns against other targets," the company's cybersecurity teams  reported .  The intrusions entailed setting up adversary-in-the-middle (AitM) phishing sites, wherein the adversary deploys a proxy server between a potential victim and the targeted website so that recipients of a phishing email are redirected to lookalike landing pages designed to capture credentials and MFA information.  "The phishing page has two different Transport Layer Security (TLS) sessions — one with the target and another with the actual website the target wants to access," the company
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android malware on Google Play installed 3 million times<a href="https://www.bleepingcomputer.com/news/security/new-android-malware-on-google-play-installed-3-million-times/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android malware family on the Google Play Store that secretly subscribes users to premium services was downloaded over 3,000,000 times.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thales acquires OneWelcome to strengthen its authentication and data privacy portfolio<a href="https://www.helpnetsecurity.com/2022/07/13/thales-onewelcome/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OneWelcome’s strong digital identity lifecycle management capabilities will complement Thales’s existing Identity services in order to offer the most comprehensive Identity Platform in the market.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Questions You Need to Ask About Your Firewall Security<a href="https://thehackernews.com/2022/07/5-questions-you-need-to-ask-about-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Often, organizations think of firewall security as a one-and-done type of solution. They install firewalls, then assume that they are "good to go" without investigating whether or not these solutions are actually protecting their systems in the best way possible. "Set it and forget it!"  Instead of just relying on firewalls and assuming that they will always protect their businesses from cyber risk, executives need to start asking deeper questions about them. As with most areas of business, it's important to take a critical look at each solution that your organization relies on for security. So, let's break down a few questions that you and your team should be asking about firewall security to get a more accurate view into your network defense posture.  1 — What does your team's firewall knowledge look like?   In order to properly service and upkeep firewalls, your team needs to have at least a baseline knowledge of how firewalls operate. It's espe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$8 million stolen in large-scale Uniswap airdrop phishing attack<a href="https://www.bleepingcomputer.com/news/security/8-million-stolen-in-large-scale-uniswap-airdrop-phishing-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uniswap, a popular decentralized cryptocurrency exchange, lost close to $8 million worth of Ethereum in a sophisticated phishing attack yesterday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privitar Acquires Regulatory Intelligence Provider Kormoon<a href="https://www.bankinfosecurity.com/privitar-acquires-regulatory-intelligence-provider-kormoon-a-19553?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company plans to use Kormoon's codified repository of data privacy rules across 46 jurisdictions globally to inform and automate policies on Privitar's data provisioning platform, says co-founder and CEO Jason du Preez.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New Variants of the ChromeLoader Browser Hijacking Malware<a href="https://thehackernews.com/2022/07/researchers-uncover-new-variants-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered new variants of the  ChromeLoader  information-stealing malware, highlighting its evolving feature set in a short span of time.  Primarily used for hijacking victims' browser searches and presenting advertisements, ChromeLoader came to light in January 2022 and has been distributed in the form of ISO or DMG file downloads advertised via QR codes on Twitter and free gaming sites.  ChromeLoader has also been codenamed Choziosi Loader and ChromeBack by the broader cybersecurity community. What makes the adware notable is that it's fashioned as a browser extension as opposed to a Windows executable (.exe) or Dynamic Link Library (.dll).   The infections typically work by enticing unsuspecting users into downloading movie torrents or cracked video games through malvertising campaigns on pay-per-install sites and social media.  Besides requesting invasive permissions to access browser data and manipulate web requests, it's also designed t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India Calls for Stricter Actions Against Cybercriminals<a href="https://www.bankinfosecurity.com/india-calls-for-stricter-actions-against-cybercriminals-a-19552?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a Saturday meeting with northwestern state officials, Home Affairs Minister Amit Shah said New Delhi will collaborate with states on a strategy even as he urged local governments to take strict action against cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New Attempts by Qakbot Malware to Evade Detection<a href="https://thehackernews.com/2022/07/researchers-uncover-new-attempts-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators behind the Qakbot malware are transforming their delivery vectors in an attempt to sidestep detection.  "Most recently, threat actors have transformed their techniques to evade detection by using ZIP file extensions, enticing file names with common formats, and Excel (XLM) 4.0 to trick victims into downloading malicious attachments that install Qakbot," Zscaler Threatlabz researchers Tarun Dewan and Aditya Sharma  said .   Other methods adopted by the group include code obfuscation, introducing new layers in the attack chain from initial compromise to execution, and using multiple URLs as well as unknown file extensions (e.g., .OCX, .ooccxx, .dat, or .gyp) to deliver the payload.  Also called QBot, QuackBot, or Pinkslipbot, Qakbot has been a  recurring threat  since late 2007, evolving from its initial days as a banking trojan to a modular information stealer capable of deploying next-stage payloads such as  ransomware .   "Qakbot is a flexible post-exploi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware patches vCenter Server flaw disclosed in November<a href="https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-server-flaw-disclosed-in-november/"> Full Text</a>
@@ -50,7 +430,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Recycled Ransomware are Faster<a href="https://cyware.com/news/recycled-ransomware-are-faster-7a382be2"> Full Text</a>
@@ -66,7 +446,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok Postpones Privacy Policy Update in Europe After Italy Warns of GDPR Breach<a href="https://thehackernews.com/2022/07/tiktok-postpones-privacy-policy-update.html"> Full Text</a>
@@ -82,7 +462,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Infiltrate, Exploit, Manipulate: Why the Subversive Nature of Cyber Conflict Explains Both Its Strategic Promise and Its Limitations<a href="https://www.lawfareblog.com/infiltrate-exploit-manipulate-why-subversive-nature-cyber-conflict-explains-both-its-strategic"> Full Text</a>
@@ -98,7 +478,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The President of European Central Bank Christine Lagarde targeted by hackers<a href="https://securityaffairs.co/wordpress/133163/hacking/european-central-bank-hacking-attempt.html"> Full Text</a>
@@ -122,7 +502,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hybrid-Work Reality Drives Hardware-based Security Strategies<a href="https://threatpost.com/hybrid-work-hardware-based-security/180170/"> Full Text</a>
@@ -138,7 +518,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes dozens of Azure Site Recovery privilege escalation bugs<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-dozens-of-azure-site-recovery-privilege-escalation-bugs/"> Full Text</a>
@@ -154,7 +534,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CuteBoi Cryptomining Campaign - 1,300 NPM Packages, 1,000 Automated User Accounts<a href="https://cyware.com/news/cuteboi-cryptomining-campaign-1300-npm-packages-1000-automated-user-accounts-95d333cf"> Full Text</a>
@@ -170,7 +550,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avoiding Death by a Thousand Scripts: Using Automated Content Security Policies<a href="https://thehackernews.com/2022/07/avoiding-death-by-thousand-scripts.html"> Full Text</a>
@@ -186,7 +566,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flaws in the ExpressLRS Protocol allow the takeover of drones<a href="https://securityaffairs.co/wordpress/133146/hacking/expresslrs-protocol-flaws-drones-takeover.html"> Full Text</a>
@@ -206,7 +586,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes dozens of Azure Site Recovery privilege escalation bugs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-dozens-of-azure-site-recovery-privilege-escalation-bugs/"> Full Text</a>
@@ -222,7 +602,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows Autopatch goes live, add support for cloudy PCs<a href="https://www.theregister.com/2022/07/12/windows_auopatch_live/?&web_view=true"> Full Text</a>
@@ -238,7 +618,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft announced the general availability of Windows Autopatch feature<a href="https://securityaffairs.co/wordpress/133139/security/microsoft-autopatch.html"> Full Text</a>
@@ -258,7 +638,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders agencies to patch new Windows zero-day used in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-new-windows-zero-day-used-in-attacks/"> Full Text</a>
@@ -274,7 +654,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House backed fund promises to accelerate 'deep tech' advancements in cybersecurity<a href="https://www.cyberscoop.com/white-house-backed-fund-deep-tech/?&web_view=true"> Full Text</a>
@@ -290,7 +670,7 @@ CyberScoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud-Based Cryptocurrency mining attacks abuse GitHub Actions and Azure VM<a href="https://securityaffairs.co/wordpress/133125/malware/cryptocurrency-mining-cloud-infrastructure.html"> Full Text</a>
@@ -310,7 +690,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers impersonate cybersecurity firms in callback phishing attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-impersonate-cybersecurity-firms-in-callback-phishing-attacks/"> Full Text</a>
@@ -326,7 +706,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Text Message Phishing Scams Prompt Warning from New York DMV<a href="https://www.govtech.com/security/text-message-phishing-scams-prompt-warning-from-new-york-dmv/?&web_view=true"> Full Text</a>
@@ -342,7 +722,7 @@ Government Technology
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers stole $620 million from Axie Infinity via fake job interviews<a href="https://www.bleepingcomputer.com/news/security/hackers-stole-620-million-from-axie-infinity-via-fake-job-interviews/"> Full Text</a>
@@ -358,7 +738,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Luna Moth Group Ransoms Data Without Ransomware Using Remote Administration Tools<a href="https://www.darkreading.com/threat-intelligence/-luna-moth-group-ransoms-data-without-the-ransomware/?&web_view=true"> Full Text</a>
@@ -374,7 +754,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft July 2022 Patch Tuesday fixes exploited zero-day, 84 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2022-patch-tuesday-fixes-exploited-zero-day-84-flaws/"> Full Text</a>
@@ -390,7 +770,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers defeat facial recognition systems with universal face mask<a href="https://www.helpnetsecurity.com/2022/07/12/defeat-facial-recognition/?&web_view=true"> Full Text</a>
@@ -406,7 +786,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Phishing bypassed MFA in attacks against 10,000 orgs<a href="https://www.bleepingcomputer.com/news/security/microsoft-phishing-bypassed-mfa-in-attacks-against-10-000-orgs/"> Full Text</a>
@@ -422,7 +802,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 0mega Ransomware Joins the Double Extortion Threat Landscape<a href="https://cyware.com/news/new-0mega-ransomware-joins-the-double-extortion-threat-landscape-158fb321"> Full Text</a>
@@ -438,7 +818,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ‘Luna Moth’ hackers breach orgs via fake subscription renewals<a href="https://www.bleepingcomputer.com/news/security/new-luna-moth-hackers-breach-orgs-via-fake-subscription-renewals/"> Full Text</a>
@@ -454,7 +834,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Phishing Attacks Shame, Scare Victims into Surrendering Twitter, Discord Credentials<a href="https://www.darkreading.com/remote-workforce/new-wave-phishing-attacks-shame-scare-victims-into-surrendering-twitter-discord-credentials?&web_view=true"> Full Text</a>
@@ -470,7 +850,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2022
+July 11, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Windows Autopatch is Now Generally Available for Enterprise Systems<a href="https://thehackernews.com/2022/07/microsoft-windows-autopatch-is-now.html"> Full Text</a>
