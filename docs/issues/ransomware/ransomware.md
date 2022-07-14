@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Lilith ransomware emerges with extortion site, lists first victim<a href="https://www.bleepingcomputer.com/news/security/new-lilith-ransomware-emerges-with-extortion-site-lists-first-victim/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware operation has been launched under the name 'Lilith,' and it has already posted its first victim on a data leak site created to support double-extortion attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

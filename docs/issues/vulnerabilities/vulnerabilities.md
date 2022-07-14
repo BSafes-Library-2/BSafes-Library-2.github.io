@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three UEFI Firmware flaws found in tens of Lenovo Notebook models<a href="https://securityaffairs.co/wordpress/133186/security/lenovo-uefi-firmware-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT giant Lenovo released security fixes to address three vulnerabilities that impact the UEFI firmware shipped with over 70 product models.
+
+
+
+The multinational technology company Lenovo released security fixes to address three vulnerabilities that reside...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases tweet-size exploit for macOS sandbox escape bug<a href="https://www.bleepingcomputer.com/news/security/microsoft-releases-tweet-size-exploit-for-macos-sandbox-escape-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On macOS systems that don't have Apple's recent security updates, a vulnerability identified as CVE-2022-26706 could help an attacker bypass sandbox restrictions to execute code with elevated privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Retbleed: Another New Spectre-BTI Attack Discovered<a href="https://cyware.com/news/retbleed-another-new-spectre-bti-attack-discovered-ee739e13"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from ETH Zurich have revealed that threat actors can exploit two new vulnerabilities, collectively called Retbleed, to obtain sensitive data and passwords from memory.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New UEFI Firmware Vulnerabilities Impact Several Lenovo Notebook Models<a href="https://thehackernews.com/2022/07/new-uefi-firmware-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Consumer electronics maker Lenovo on Tuesday&nbsp; rolled out fixes &nbsp;to contain three security flaws in its UEFI firmware affecting over 70 product models.  "The vulnerabilities can be exploited to achieve arbitrary code execution in the early phases of the platform boot, possibly allowing the attackers to hijack the OS execution flow and disable some important security features," Slovak cybersecurity firm ESET&nbsp; said &nbsp;in a series of tweets.   Tracked as CVE-2022-1890, CVE-2022-1891, and CVE-2022-1892, all three bugs relate to&nbsp; buffer overflow vulnerabilities &nbsp;that have been described by Lenovo as leading to privilege escalation on affected systems. Martin Smolár from ESET has been credited with reporting the flaws.   The bugs stem from an insufficient validation of an NVRAM variable called "DataSize" in three different drivers ReadyBootDxe, SystemLoadDefaultDxe, and SystemBootManagerDxe, leading to a buffer overflow that could be weaponized to achieve code execution.  T
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New UEFI firmware flaws impact over 70 Lenovo laptop models<a href="https://www.bleepingcomputer.com/news/security/new-uefi-firmware-flaws-impact-over-70-lenovo-laptop-models/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UEFI firmware used in several laptops made by Lenovo is vulnerable to three buffer overflow vulnerabilities that could enable attackers to hijack the startup routine of Windows installations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

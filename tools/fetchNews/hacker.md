@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘Luna Moth’ hackers breach orgs via fake subscription renewals<a href="https://www.bleepingcomputer.com/news/security/new-luna-moth-hackers-breach-orgs-via-fake-subscription-renewals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new data extortion group has been breaching companies to steal confidential information, threatening victims to make the files publicly available unless they pay a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

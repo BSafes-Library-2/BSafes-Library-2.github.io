@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+July 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. FTC Vows to Crack Down on illegal Use and Sharing of Citizens' Sensitive Data<a href="https://thehackernews.com/2022/07/us-ftc-vows-to-crack-down-on-illegal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission (FTC) warned this week that it will crack down on tech companies' illegal use and sharing of highly sensitive data and false claims about data anonymization.  "While many consumers may happily offer their location data in exchange for real-time crowd-sourced advice on the fastest route home, they likely think differently about having their thinly-disguised online identity associated with the frequency of their visits to a therapist or cancer doctor," FTC's Kristin Cohen&nbsp; said .  The sensitive nature of information about users' health and their precise whereabouts has prompted the agency to caution against opaque practices in the "shadowy ad tech and&nbsp; data broker ecosystem ," with consumers having little to no knowledge of how their personal data is harvested, used, and processed.   What's more, mobile apps are known to embed software development kits (SDKs) that claim to collect and share anonymized user information
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India Calls for Stricter Actions Against Cybercriminals<a href="https://www.bankinfosecurity.com/india-calls-for-stricter-actions-against-cybercriminals-a-19552?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a Saturday meeting with northwestern state officials, Home Affairs Minister Amit Shah said New Delhi will collaborate with states on a strategy even as he urged local governments to take strict action against cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware patches vCenter Server flaw disclosed in November<a href="https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-server-flaw-disclosed-in-november/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eight months after disclosing a high-severity privilege escalation flaw&nbsp;in vCenter Server's IWA (Integrated Windows Authentication) mechanism, VMware has finally released a patch&nbsp;for one of the affected versions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes dozens of Azure Site Recovery privilege escalation bugs<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-dozens-of-azure-site-recovery-privilege-escalation-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed 32 vulnerabilities in the Azure Site Recovery suite that could have allowed attackers to gain elevated privileges or perform remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in the ExpressLRS Protocol allow the takeover of drones<a href="https://securityaffairs.co/wordpress/133146/hacking/expresslrs-protocol-flaws-drones-takeover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The protocol for radio-controlled (RC) drones, named ExpressLRS, is affected by vulnerabilities that can allow device takeover. 
+
+
+
+Researchers warn of vulnerabilities that affect the protocol for radio-controlled (RC) drones, named ExpressLRS, which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes dozens of Azure Site Recovery privilege escalation bugs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-dozens-of-azure-site-recovery-privilege-escalation-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed 32 vulnerabilities in the Azure Site Recovery suite that could have allowed attackers to gain elevated privileges or perform remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft July 2022 Patch Tuesday fixes exploited zero-day, 84 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2022-patch-tuesday-fixes-exploited-zero-day-84-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's July 2022 Patch Tuesday, and with it comes fixes for one actively exploited zero-day vulnerability and a total of 84 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers defeat facial recognition systems with universal face mask<a href="https://www.helpnetsecurity.com/2022/07/12/defeat-facial-recognition/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Can attackers create a face mask that would defeat modern facial recognition (FR) systems? A group of researchers from from Ben-Gurion University of the Negev and Tel Aviv University have proven that it can be done.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Lilith ransomware emerges with extortion site, lists first victim<a href="https://www.bleepingcomputer.com/news/security/new-lilith-ransomware-emerges-with-extortion-site-lists-first-victim/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 - [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity firms Impersonated in Callback Campaigns<a href="https://cyware.com/news/cybersecurity-firms-impersonated-in-callback-campaigns-e7a9e14e"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 - [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'Retbleed' Speculative Execution Attack Affects AMD and Intel CPUs<a href="https://thehackernews.com/2022/07/new-retbleed-speculative-execution.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qakbot operations continue to evolve to avoid detection<a href="https://securityaffairs.co/wordpress/133191/malware/qakbot-continues-to-evolve.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bandai Namco confirms hack after ALPHV ransomware data leak threat<a href="https://www.bleepingcomputer.com/news/security/bandai-namco-confirms-hack-after-alphv-ransomware-data-leak-threat/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware is hitting one sector particularly hard, and the impact is felt by everyone<a href="https://www.zdnet.com/article/ransomware-is-hitting-one-sector-particularly-hard-and-the-impact-is-felt-by-everyone/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. FTC Vows to Crack Down on illegal Use and Sharing of Citizens' Sensitive Data<a href="https://thehackernews.com/2022/07/us-ftc-vows-to-crack-down-on-illegal.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three UEFI Firmware flaws found in tens of Lenovo Notebook models<a href="https://securityaffairs.co/wordpress/133186/security/lenovo-uefi-firmware-flaws.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft releases tweet-size exploit for macOS sandbox escape bug<a href="https://www.bleepingcomputer.com/news/security/microsoft-releases-tweet-size-exploit-for-macos-sandbox-escape-bug/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Retbleed: Another New Spectre-BTI Attack Discovered<a href="https://cyware.com/news/retbleed-another-new-spectre-bti-attack-discovered-ee739e13"> Full Text</a>
@@ -202,7 +202,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New UEFI Firmware Vulnerabilities Impact Several Lenovo Notebook Models<a href="https://thehackernews.com/2022/07/new-uefi-firmware-vulnerabilities.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Large-scale AiTM phishing campaign targeted +10,000 orgs since 2021￼<a href="https://securityaffairs.co/wordpress/133154/hacking/aitm-phishing-campaigns.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New UEFI firmware flaws impact over 70 Lenovo laptop models<a href="https://www.bleepingcomputer.com/news/security/new-uefi-firmware-flaws-impact-over-70-lenovo-laptop-models/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Abused QuickBooks Site Sends Phone Scam Emails<a href="https://www.inky.com/en/blog/abused-quickbooks-site-sends-phone-scam-emails?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ INKY
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Large-Scale AiTM Phishing Attacks Against Over 10,000 Organizations<a href="https://thehackernews.com/2022/07/microsoft-warns-of-large-scale-aitm.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android malware on Google Play installed 3 million times<a href="https://www.bleepingcomputer.com/news/security/new-android-malware-on-google-play-installed-3-million-times/"> Full Text</a>
@@ -302,7 +302,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thales acquires OneWelcome to strengthen its authentication and data privacy portfolio<a href="https://www.helpnetsecurity.com/2022/07/13/thales-onewelcome/?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5 Questions You Need to Ask About Your Firewall Security<a href="https://thehackernews.com/2022/07/5-questions-you-need-to-ask-about-your.html"> Full Text</a>
@@ -334,7 +334,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 $8 million stolen in large-scale Uniswap airdrop phishing attack<a href="https://www.bleepingcomputer.com/news/security/8-million-stolen-in-large-scale-uniswap-airdrop-phishing-attack/"> Full Text</a>
@@ -350,7 +350,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Privitar Acquires Regulatory Intelligence Provider Kormoon<a href="https://www.bankinfosecurity.com/privitar-acquires-regulatory-intelligence-provider-kormoon-a-19553?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover New Variants of the ChromeLoader Browser Hijacking Malware<a href="https://thehackernews.com/2022/07/researchers-uncover-new-variants-of.html"> Full Text</a>
@@ -382,7 +382,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India Calls for Stricter Actions Against Cybercriminals<a href="https://www.bankinfosecurity.com/india-calls-for-stricter-actions-against-cybercriminals-a-19552?&web_view=true"> Full Text</a>
@@ -398,7 +398,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
+July 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover New Attempts by Qakbot Malware to Evade Detection<a href="https://thehackernews.com/2022/07/researchers-uncover-new-attempts-by.html"> Full Text</a>

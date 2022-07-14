@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+July 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thales acquires OneWelcome to strengthen its authentication and data privacy portfolio<a href="https://www.helpnetsecurity.com/2022/07/13/thales-onewelcome/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OneWelcome’s strong digital identity lifecycle management capabilities will complement Thales’s existing Identity services in order to offer the most comprehensive Identity Platform in the market.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privitar Acquires Regulatory Intelligence Provider Kormoon<a href="https://www.bankinfosecurity.com/privitar-acquires-regulatory-intelligence-provider-kormoon-a-19553?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company plans to use Kormoon's codified repository of data privacy rules across 46 jurisdictions globally to inform and automate policies on Privitar's data provisioning platform, says co-founder and CEO Jason du Preez.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

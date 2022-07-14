@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+July 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware is hitting one sector particularly hard, and the impact is felt by everyone<a href="https://www.zdnet.com/article/ransomware-is-hitting-one-sector-particularly-hard-and-the-impact-is-felt-by-everyone/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to an analysis by cybersecurity researchers at Sophos, education is facing an increased challenge from the threat of ransomware as cybercriminals go after what they perceive to be an easy but potentially lucrative target.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Questions You Need to Ask About Your Firewall Security<a href="https://thehackernews.com/2022/07/5-questions-you-need-to-ask-about-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Often, organizations think of firewall security as a one-and-done type of solution. They install firewalls, then assume that they are "good to go" without investigating whether or not these solutions are actually protecting their systems in the best way possible. "Set it and forget it!"  Instead of just relying on firewalls and assuming that they will always protect their businesses from cyber risk, executives need to start asking deeper questions about them. As with most areas of business, it's important to take a critical look at each solution that your organization relies on for security. So, let's break down a few questions that you and your team should be asking about firewall security to get a more accurate view into your network defense posture.  1 — What does your team's&nbsp;firewall knowledge look like?   In order to properly service and upkeep firewalls, your team needs to have at least a baseline knowledge of how firewalls operate. It's espe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

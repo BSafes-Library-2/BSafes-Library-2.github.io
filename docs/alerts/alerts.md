@@ -19,6 +19,18 @@ CISA has added one new vulnerability to its Known Exploited Vulnerabilities Ca
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2022 - FTC
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Location, health, and other sensitive information: FTC committed to fully enforcing the law against illegal use and sharing of highly sensitive data <a href="https://www.ftc.gov/business-guidance/blog/2022/07/location-health-other-sensitive-information-ftc-committed-fully-enforcing-law-against-illegal-use"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among the most sensitive categories of data collected by connected devices are a person’s precise location and information about their health. Smartphones, connected cars, wearable fitness trackers, “smart home” products, and even the browser you’re reading this on are capable of directly observing or deriving sensitive information about users. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 6, 2022 - FBI, CISA, Treasury
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

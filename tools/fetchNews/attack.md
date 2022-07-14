@@ -8,6 +8,28 @@ nav_order: 900015
 
 ## Attack
 ---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The President of European Central Bank Christine Lagarde targeted by hackers<a href="https://securityaffairs.co/wordpress/133163/hacking/european-central-bank-hacking-attempt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Christine Lagarde, the president of the European Central Bank, was the target of a failed hacking attempt.
+
+
+
+The European Central Bank confirmed that its President, Christine Lagarde, was the target of a failed hacking attempt.
+
+
+
+The European Central...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

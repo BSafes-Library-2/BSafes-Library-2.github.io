@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole $620 million from Axie Infinity via fake job interviews<a href="https://www.bleepingcomputer.com/news/security/hackers-stole-620-million-from-axie-infinity-via-fake-job-interviews/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hack that caused Axie Infinity losses of $620 million in crypto started with a fake job offer from North Korean hackers to one of the game's developers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
