@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Lawfare Podcast: How Mercenary Hackers Sway Litigation Battles<a href="https://www.lawfareblog.com/lawfare-podcast-how-mercenary-hackers-sway-litigation-battles"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alvaro Marañon sat down with Chris Bing and Raphael Satter to discuss the use of foreign hackers to win lawsuits and arbitration battles.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia Hacker Group Killnet Targets Latvia<a href="https://cyware.com/news/pro-russia-hacker-group-killnet-targets-latvia-3efa708d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-based Killnet group has been bombarding Latvia with a series of cyberattacks, including a 12-hour attack on one of its broadcasting centers. Hackers made a demand that Lithuania must allow transit of goods to Kaliningrad if they wanted to avoid more attacks on their government institutions a ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

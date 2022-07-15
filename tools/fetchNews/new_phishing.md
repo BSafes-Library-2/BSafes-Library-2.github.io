@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning Issued Against NYDMV Phishing Scams<a href="https://cyware.com/news/warning-issued-against-nydmv-phishing-scams-f98a8e40"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new SMS-based scam is reaching out to people in New York with a false claim of New York State offering $1,500 rebates owing to high fuel prices. Those who click on the links are redirected to a fake DMV website and urged to enter their personal information.&nbsp;The NYS Office has provided multip ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PayPal phishing kit added to hacked WordPress sites for full ID theft<a href="https://www.bleepingcomputer.com/news/security/paypal-phishing-kit-added-to-hacked-wordpress-sites-for-full-id-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered phishing kit targeting PayPal users is trying to steal a large set of personal information from victims that includes government identification documents and photos.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

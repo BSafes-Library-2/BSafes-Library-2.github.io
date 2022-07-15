@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Simple Formula for Getting Your IT Security Budget Approved<a href="https://thehackernews.com/2022/07/a-simple-formula-for-getting-your-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although there is a greater awareness of cybersecurity threats than ever before, it is becoming increasingly difficult for IT departments to get their security budgets approved. Security budgets seem to shrink each year and IT pros are constantly being asked to do more with less. Even so, the situation may not be hopeless. There are some things that IT pros can do to improve the chances of getting their security budgets approved.  &nbsp;Presenting the Problem in a Compelling Way  If you want to get your proposed security budget approved, you will need to present security problems in a compelling way. While those who are in charge of the organization's finances are likely aware of the need for good security, they have probably also seen enough examples of "a security solution in search of a problem" to make them skeptical of security spending requests. If you want to persuade those who control the money, then you will need to convince them of three things:   You are trying to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Operations and Maschmeyer’s “Subversion Trilemma”<a href="https://www.lawfareblog.com/cyber-operations-and-maschmeyers-subversion-trilemma"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Subversive cyber operations are argued to have “limited utility in practice” because of the inherent trade-offs of the trilemma/quadrilemma. However, this assessment ignores several key factors.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

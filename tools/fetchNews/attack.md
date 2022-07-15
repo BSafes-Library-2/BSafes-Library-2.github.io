@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bandai Namco confirms hack after ALPHV ransomware data leak threat<a href="https://www.bleepingcomputer.com/news/security/bandai-namco-confirms-hack-after-alphv-ransomware-data-leak-threat/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Game publishing giant Bandai Namco has confirmed that they suffered a cyberattack that may have resulted in the theft of customers' personal data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

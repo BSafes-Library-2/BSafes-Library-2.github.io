@@ -8,6 +8,52 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large-scale AiTM phishing campaign targeted +10,000 orgs since 2021￼<a href="https://securityaffairs.co/wordpress/133154/hacking/aitm-phishing-campaigns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale phishing campaign used adversary-in-the-middle (AiTM)&nbsp;phishing sites to hit more than 10,000 organizations
+
+
+
+Microsoft observed a large-scale phishing campaign that used adversary-in-the-middle (AiTM)&nbsp;phishing sites to steal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abused QuickBooks Site Sends Phone Scam Emails<a href="https://www.inky.com/en/blog/abused-quickbooks-site-sends-phone-scam-emails?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+INKY recently detected a new variant of the tried-and-true phone scam. This time, the perps abused QuickBooks, an accounting software package used primarily by small business and midmarket customers who lack in-house finance and accounting teams.
+</details>
+<div style="text-align: right" markdown="1">
+INKY
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Large-Scale AiTM Phishing Attacks Against Over 10,000 Organizations<a href="https://thehackernews.com/2022/07/microsoft-warns-of-large-scale-aitm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday disclosed that a large-scale phishing campaign targeted over 10,000 organizations since September 2021 by hijacking Office 365's authentication process even on accounts secured with multi-factor authentication (MFA).  "The attackers then used the stolen credentials and session cookies to access affected users' mailboxes and perform follow-on business email compromise (BEC) campaigns against other targets," the company's cybersecurity teams&nbsp; reported .  The intrusions entailed setting up adversary-in-the-middle (AitM) phishing sites, wherein the adversary deploys a proxy server between a potential victim and the targeted website so that recipients of a phishing email are redirected to lookalike landing pages designed to capture credentials and MFA information.  "The phishing page has two different Transport Layer Security (TLS) sessions — one with the target and another with the actual website the target wants to access," the company
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

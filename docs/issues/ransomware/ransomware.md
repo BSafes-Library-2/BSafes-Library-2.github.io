@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher develops Hive ransomware decryption tool<a href="https://www.techtarget.com/searchsecurity/news/252522715/Researcher-develops-Hive-ransomware-decryption-tool?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite being only a year old, Hive ransomware has grown into a prominent ransomware-as-a-service operation. The latest decryptor tackles Hive's newer, better-encrypted version.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former CIA employee Joshua Schulte was convicted of Vault 7 massive leak<a href="https://securityaffairs.co/wordpress/133225/intelligence/former-cia-joshua-schulte-convicted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former CIA programmer, Joshua Schulte, was convicted in a US federal court of the 2017 leak of a massive leak to WikiLeaks.
+
+
+
+The former CIA programmer Joshua Schulte (33) was found guilty in New York federal court of stealing the agency’s hacking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

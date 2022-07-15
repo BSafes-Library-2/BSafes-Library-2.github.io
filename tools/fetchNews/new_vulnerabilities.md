@@ -8,6 +8,102 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The new Retbleed speculative execution attack impacts both Intel and AMD chips￼<a href="https://securityaffairs.co/wordpress/133222/security/retbleed-speculative-execution-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a new vulnerability, dubbed&nbsp;Retbleed, that impacts multiple older AMD and Intel microprocessors.
+
+
+
+ETH Zurich researchers Johannes Wikner and Kaveh Razavi discovered a new vulnerability, dubbed&nbsp;Retbleed, that affects multiple older...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Details App Sandbox Escape Bug Impacting Apple iOS, iPadOS, macOS Devices<a href="https://thehackernews.com/2022/07/microsoft-details-app-sandbox-escape.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday shed light on a now patched security vulnerability affecting Apple's operating systems that, if successfully exploited, could allow attackers to escalate device privileges and deploy malware.  "An attacker could take advantage of this sandbox escape vulnerability to gain elevated privileges on the affected device or execute malicious commands like installing additional payloads," Jonathan Bar Or of the Microsoft 365 Defender Research Team&nbsp; said &nbsp;in a write-up.  Tracked as&nbsp; CVE-2022-26706 &nbsp;(CVSS score: 5.5), the security vulnerability impacts iOS, iPadOS, macOS, tvOS, and watchOS and was fixed by Apple in May 2022.   Calling it an access issue affecting the LaunchServices (launchd) component, the tech giant noted that "A sandboxed process may be able to circumvent sandbox restrictions," adding it mitigates the issue with additional restrictions.  While Apple's&nbsp; App Sandbox &nbsp;is designed to tightly regulate a third-party app's access
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft published exploit code for a macOS App sandbox escape flaw<a href="https://securityaffairs.co/wordpress/133211/hacking/macos-sandbox-bypass-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft published the exploit code for a vulnerability in macOS&nbsp;that&nbsp;can allow an attacker to escape the sandbox.
+
+
+
+Microsoft publicly disclosed technical details for an access issue vulnerability, tracked as&nbsp;CVE-2022-26706, that resides in&nbsp;the...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed a flaw in vCenter Server discovered eight months ago<a href="https://securityaffairs.co/wordpress/133204/security/vmware-vcenter-server-flaw-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed a high-severity privilege escalation flaw, tracked as CVE-2021-22048, in vCenter Server IWA mechanism.
+
+
+
+VMware addressed a high-severity privilege escalation flaw, tracked as CVE-2021-22048 (CVSSv3 base score of 7.1.), in vCenter Server...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches High-Severity Vulnerabilities in Business One Product<a href="https://www.securityweek.com/sap-patches-high-severity-vulnerabilities-business-one-product?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German software maker SAP on Tuesday announced the release of 20 new security notes and three updates to previous security notes as part of its July 2022 Security Patch Day.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases PoC exploit for macOS sandbox escape vulnerability<a href="https://www.bleepingcomputer.com/news/security/microsoft-releases-poc-exploit-for-macos-sandbox-escape-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On macOS systems that don't have Apple's recent security updates, a vulnerability identified as CVE-2022-26706 could help an attacker bypass sandbox restrictions to execute code with elevated privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

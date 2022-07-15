@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Holy Ghost ransomware operation linked to North Korean hackers<a href="https://www.bleepingcomputer.com/news/security/holy-ghost-ransomware-operation-linked-to-north-korean-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For more than a year, North Korean hackers have been running a ransomware operation called HolyGhost, attacking small businesses in various countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Becomes Bolder, Demands $2.5 Million as Ransom<a href="https://cyware.com/news/blackcat-becomes-bolder-demands-25-million-as-ransom-9076c98d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang has launched several high-profile attacks, including OilTanking GmbH in January and Swissport in February. Most recently, BlackCat targeted Florida International University and the University of North Carolina A&amp;T.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former CIA Engineer Convicted of Leaking 'Vault 7' Hacking Secrets to Wikileaks<a href="https://thehackernews.com/2022/07/former-cia-engineer-convicted-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Joshua Schulte, a former programmer with the U.S. Central Intelligence Agency (CIA), has been found guilty of leaking a trove of classified hacking tools and exploits dubbed&nbsp; Vault 7 &nbsp;to WikiLeaks.  The 33-year-old engineer had been&nbsp; charged &nbsp;in June 2018 with unauthorized disclosure of classified information and theft of classified material. Schulte also&nbsp; faces &nbsp;a separate trial on charges related to possession of child pornographic photos and videos, for which he was arrested on August 24, 2017.   U.S. Attorney Damian Williams&nbsp; said &nbsp;in a statement that Schulte was convicted for "one of the most brazen and damaging acts of espionage in American history," adding his actions had a "devastating effect on our intelligence community by providing critical intelligence to those who wish to do us harm."  WikiLeaks would go on to release the documents on March 7, 2017,&nbsp; calling &nbsp;it the "largest ever publication of confidential documents on the agency." This incl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

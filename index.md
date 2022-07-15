@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Holy Ghost ransomware operation linked to North Korean hackers<a href="https://www.bleepingcomputer.com/news/security/holy-ghost-ransomware-operation-linked-to-north-korean-hackers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning Issued Against NYDMV Phishing Scams<a href="https://cyware.com/news/warning-issued-against-nydmv-phishing-scams-f98a8e40"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former CIA Engineer Convicted of Leaking 'Vault 7' Hacking Secrets to Wikileaks<a href="https://thehackernews.com/2022/07/former-cia-engineer-convicted-of.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The First Cyber Safety Review Board Report is Out<a href="https://www.lawfareblog.com/first-cyber-safety-review-board-report-out"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mantis botnet powered the largest HTTPS DDoS attack in June<a href="https://securityaffairs.co/wordpress/133233/hacking/mantis-botnet-record-ddos-attack.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PayPal phishing kit added to hacked WordPress sites for full ID theft<a href="https://www.bleepingcomputer.com/news/security/paypal-phishing-kit-added-to-hacked-wordpress-sites-for-full-id-theft/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto-mining Attacks Through Azure VMs and GitHub Actions<a href="https://cyware.com/news/crypto-mining-attacks-through-azure-vms-and-github-actions-f1dd44e5"> Full Text</a>
@@ -150,7 +150,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State-Backed Hackers Targeting Journalists in Widespread Espionage Campaigns<a href="https://thehackernews.com/2022/07/state-backed-hackers-targeting.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Lawfare Podcast: How Mercenary Hackers Sway Litigation Battles<a href="https://www.lawfareblog.com/lawfare-podcast-how-mercenary-hackers-sway-litigation-battles"> Full Text</a>
@@ -182,7 +182,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The new Retbleed speculative execution attack impacts both Intel and AMD chips￼<a href="https://securityaffairs.co/wordpress/133222/security/retbleed-speculative-execution-attack.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mantis botnet behind the record-breaking DDoS attack in June<a href="https://www.bleepingcomputer.com/news/security/mantis-botnet-behind-the-record-breaking-ddos-attack-in-june/"> Full Text</a>
@@ -218,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat Becomes Bolder, Demands $2.5 Million as Ransom<a href="https://cyware.com/news/blackcat-becomes-bolder-demands-25-million-as-ransom-9076c98d"> Full Text</a>
@@ -234,7 +234,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Simple Formula for Getting Your IT Security Budget Approved<a href="https://thehackernews.com/2022/07/a-simple-formula-for-getting-your-it.html"> Full Text</a>
@@ -250,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Operations and Maschmeyer’s “Subversion Trilemma”<a href="https://www.lawfareblog.com/cyber-operations-and-maschmeyers-subversion-trilemma"> Full Text</a>
@@ -266,7 +266,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former CIA employee Joshua Schulte was convicted of Vault 7 massive leak<a href="https://securityaffairs.co/wordpress/133225/intelligence/former-cia-joshua-schulte-convicted.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Retbleed speculative execution CPU attack bypasses Retpoline fixes<a href="https://www.bleepingcomputer.com/news/security/new-retbleed-speculative-execution-cpu-attack-bypasses-retpoline-fixes/"> Full Text</a>
@@ -302,7 +302,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russia Hacker Group Killnet Targets Latvia<a href="https://cyware.com/news/pro-russia-hacker-group-killnet-targets-latvia-3efa708d"> Full Text</a>
@@ -318,7 +318,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Details App Sandbox Escape Bug Impacting Apple iOS, iPadOS, macOS Devices<a href="https://thehackernews.com/2022/07/microsoft-details-app-sandbox-escape.html"> Full Text</a>
@@ -334,7 +334,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft published exploit code for a macOS App sandbox escape flaw<a href="https://securityaffairs.co/wordpress/133211/hacking/macos-sandbox-bypass-exploit.html"> Full Text</a>
@@ -354,7 +354,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PayPal-themed phishing kit allows complete identity theft<a href="https://www.helpnetsecurity.com/2022/07/14/paypal-themed-phishing-kit/?&web_view=true"> Full Text</a>
@@ -370,7 +370,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pakistani Hackers Targeting Indian Students in Latest Malware Campaign<a href="https://thehackernews.com/2022/07/pakistani-hackers-targeting-indian.html"> Full Text</a>
@@ -386,7 +386,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixed a flaw in vCenter Server discovered eight months ago<a href="https://securityaffairs.co/wordpress/133204/security/vmware-vcenter-server-flaw-2.html"> Full Text</a>
@@ -406,7 +406,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp warns users of fake versions of the app trying to steal personal information<a href="https://blog.malwarebytes.com/cybercrime/2022/07/whatsapp-warns-users-fake-versions-of-whatsapp-are-trying-to-steal-your-personal-info/?&web_view=true"> Full Text</a>
@@ -422,7 +422,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher develops Hive ransomware decryption tool<a href="https://www.techtarget.com/searchsecurity/news/252522715/Researcher-develops-Hive-ransomware-decryption-tool?&web_view=true"> Full Text</a>
@@ -438,7 +438,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. House Appropriators OK $15.6B in Cybersecurity Funding<a href="https://www.govtech.com/security/u-s-house-appropriators-ok-15-6b-in-cybersecurity-funding?&web_view=true"> Full Text</a>
@@ -454,7 +454,7 @@ Government Technology
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP Patches High-Severity Vulnerabilities in Business One Product<a href="https://www.securityweek.com/sap-patches-high-severity-vulnerabilities-business-one-product?&web_view=true"> Full Text</a>
@@ -470,7 +470,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2022
+July 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft releases PoC exploit for macOS sandbox escape vulnerability<a href="https://www.bleepingcomputer.com/news/security/microsoft-releases-poc-exploit-for-macos-sandbox-escape-vulnerability/"> Full Text</a>
