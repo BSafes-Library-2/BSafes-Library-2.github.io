@@ -34,6 +34,310 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Password recovery tool infects industrial systems with Sality malware<a href="https://www.bleepingcomputer.com/news/security/password-recovery-tool-infects-industrial-systems-with-sality-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor is infecting industrial control systems (ICS) to create a botnet through password "cracking" software for programmable logic controllers (PLCs).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software Vendors Start Patching Retbleed CPU Vulnerabilities<a href="https://www.securityweek.com/software-vendors-start-patching-retbleed-cpu-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has confirmed that all four vulnerabilities impact its ESXi hypervisor, and that patches are available for ESXi versions 7.0, 6.7, and 6.5, as well as for Cloud Foundation versions 4.x and 3.x.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Key Things We Learned from CISOs of Smaller Enterprises Survey<a href="https://thehackernews.com/2022/07/5-key-things-we-learned-from-cisos-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New survey reveals lack of staff, skills, and resources driving smaller teams to outsource security.  As business begins its return to normalcy (however "normal" may look), CISOs at small and medium-size enterprises (500 – 10,000 employees) were asked to share their  cybersecurity challenges and priorities , and their responses were compared the results with those of a similar survey from 2021.  Here are the 5 key things we learned from 200 responses:  1  —  Remote Work Has Accelerated the Use of EDR Technologies  In 2021, 52% of CISOs surveyed were relying on endpoint detection and response (EDR) tools. This year that number has leapt to 85%. In contrast, last year 45% were using network detection and response (NDR) tools, while this year just 6% employ NDR. Compared to 2021, double the number of CISOs and their organizations are seeing the value of extended detection and response (XDR) tools, which combine EDR with integrated network signals. This is likely due to the increase in re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tainted password-cracking software for industrial systems used to spread P2P Sality bot<a href="https://securityaffairs.co/wordpress/133281/malware/sality-malware-industrial-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dragos researchers uncovered a small-scale campaign targeting industrial engineers and operators with Sality malware.
+
+
+
+During a routine vulnerability assessment, Dragos researchers discovered a campaign targeting industrial engineers and operators...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Browser now bypasses internet censorship automatically<a href="https://www.bleepingcomputer.com/news/security/tor-browser-now-bypasses-internet-censorship-automatically/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project team has announced the release of Tor Browser 11.5, a major release that brings new features to help users fight censorship easier.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colorado Springs Utilities Warns Customers of Data Disclosure Incident<a href="https://gazette.com/news/public-safety/colorado-springs-utilities-warns-customers-of-data-disclosure/article_e53f144c-0315-11ed-acde-93dbc80da227.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a letter sent to customers, data stored by a subcontractor of Colorado Springs Utilities was "accessed by an unauthorized party" on June 15. The utility was notified of the incident on July 6, the letter states.
+</details>
+<div style="text-align: right" markdown="1">
+The Gazette
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cache Side Channel Attack Can De-Anonymize Targeted Online Users<a href="https://thehackernews.com/2022/07/new-cache-side-channel-attack-can-de.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics from the New Jersey Institute of Technology (NJIT) has warned of a novel technique that could be used to defeat  anonymity protections  and identify a unique website visitor.  "An attacker who has complete or partial control over a website can learn whether a specific target (i.e., a unique individual) is browsing the website," the researchers  said . "The attacker knows this target only through a public identifier, such as an email address or a Twitter handle."  The cache-based targeted  de-anonymization attack  is a  cross-site leak  that involves the adversary leveraging a service such as Google Drive, Dropbox, or YouTube to privately share a resource (e.g., image, video, or a YouTube playlist) with the target, followed by embedding the shared resource into the attack website.  This can be achieved by, say, privately sharing the resource with the target using the victim's email address or the appropriate username associated with the serv
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of attacks on sites using flawed Kaswara Modern WPBakery Page Builder Addons<a href="https://securityaffairs.co/wordpress/133267/hacking/wpbakery-page-builder-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a massive campaign that scanned close to 1.6 million WordPress sites for vulnerable Kaswara Modern WPBakery Page Builder Addons. 
+
+
+
+The Wordfence Threat Intelligence team observed a sudden increase in attacks targeting the Kaswara...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers scan 1.6 million WordPress sites for vulnerable plugin<a href="https://www.bleepingcomputer.com/news/security/attackers-scan-16-million-wordpress-sites-for-vulnerable-plugin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have detected a massive campaign that scanned close to 1.6 million WordPress sites for the presence of a vulnerable plugin that allows uploading files without authentication.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recruitment Agency Morgan Hunt Discloses Unauthorized Access to Internal Database<a href="https://www.theregister.com/2022/07/15/digital_burglary_at_recruitment_agency/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a letter to contractors, Morgan Hunt – which provides personnel services to clients in the charity education, finance, government, housing, and technology sectors – confirmed the break-in.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Targeting Small and Midsize Businesses with H0lyGh0st Ransomware<a href="https://thehackernews.com/2022/07/north-korean-hackers-targeting-small.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An emerging threat cluster originating from North Korea has been linked to developing and using ransomware in cyberattacks targeting small businesses since September 2021.  The group, which calls itself H0lyGh0st after the ransomware payload of the same name, is being tracked by the Microsoft Threat Intelligence Center under the moniker DEV-0530, a designation assigned for unknown, emerging, or a developing group of threat activity.  Targeted entities primarily include small-to-midsize businesses such as manufacturing organizations, banks, schools, and event and meeting planning companies.  "Along with their H0lyGh0st payload, DEV-0530 maintains an .onion site that the group uses to interact with their victims," the researchers  said  in a Thursday analysis.  "The group's standard methodology is to encrypt all files on the target device and use the file extension .h0lyenc, send the victim a sample of the files as proof, and then demand payment in Bitcoin in exchange
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Holy Ghost ransomware operation is linked to North Korea<a href="https://securityaffairs.co/wordpress/133255/hacking/holy-ghost-ransomware-north-korea.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft researchers linked the Holy Ghost ransomware (H0lyGh0st) operation to North Korea-linked threat actors.
+
+
+
+The Microsoft Threat Intelligence Center (MSTIC) researchers linked the activity of the Holy Ghost ransomware (H0lyGh0st) operation to a North...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conventional cybersecurity approaches are falling short<a href="https://www.helpnetsecurity.com/2022/07/14/conventional-cybersecurity-approaches/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Skybox Security, the top four causes of the most significant breaches reported by the affected organizations were human error, misconfigurations, poor maintenance/lack of cyber hygiene, and unknown assets.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedAlert, LILITH, and 0mega, 3 new ransomware in the wild<a href="https://securityaffairs.co/wordpress/133248/cyber-crime/lilith-redalert-0mega-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble researchers warn of three new ransomware operations named Lilith, RedAlert and 0mega targeting organizations worldwide.
+
+
+
+Researchers from threat intelligence firm Cyble warn of new ransomware gangs that surfaced recently, named Lilith, RedAlert,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hacking Technique can Unmask Anonymous Users Across All Major Web Browsers<a href="https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the New Jersey Institute of Technology are warning this week about a novel technique attackers could use to de-anonymize website visitors and potentially connect the dots on many components of targets’ digital lives.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tiny 'Mantis' Botnet Launching the Most Powerful DDoS Attacks Yet<a href="https://www.zdnet.com/article/this-tiny-botnet-is-launching-the-most-powerful-ddos-attacks-yet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The botnet – which Cloudflare calls Mantis and which is named after the small, razor-legged prawn – generated a short but record-breaking DDoS attack in June that peaked at 26 million HTTPS requests per second (rps).
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft links Holy Ghost ransomware operation to North Korean hackers<a href="https://www.bleepingcomputer.com/news/security/microsoft-links-holy-ghost-ransomware-operation-to-north-korean-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For more than a year, North Korean hackers have been running a ransomware operation called HolyGhost, attacking small businesses in various countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mantis Botnet Behind the Largest HTTPS DDoS Attack Targeting Cloudflare Customers<a href="https://thehackernews.com/2022/07/mantis-botnet-behind-largest-https-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The botnet behind the largest HTTPS distributed denial-of-service (DDoS) attack in June 2022 has been linked to a spate of attacks aimed at nearly 1,000 Cloudflare customers.  Calling the powerful botnet  Mantis , the web performance and security company attributed it to more than 3,000 HTTP DDoS attacks against its users.  The most attacked industry verticals include internet and telecom, media, gaming, finance, business, and shopping, of which over 20% of the attacks targeted U.S.-based companies, followed by Russia, Turkey, France, Poland, Ukraine, the U.K., Germany, the Netherlands, and Canada.   Last month, the company said it  mitigated  a record-breaking DDoS attack aimed at an unnamed customer website using its Free plan that peaked at 26 million requests per second (RPS), with each node generating approximately 5,200 RPS.  The tsunami of junk traffic lasted less than 30 seconds and generated more than 212 million HTTPS requests from more than 1,500 networks in 121 countries,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
