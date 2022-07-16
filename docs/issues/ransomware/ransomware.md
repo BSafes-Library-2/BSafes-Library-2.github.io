@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedAlert, LILITH, and 0mega, 3 new ransomware in the wild<a href="https://securityaffairs.co/wordpress/133248/cyber-crime/lilith-redalert-0mega-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble researchers warn of three new ransomware operations named Lilith, RedAlert and 0mega targeting organizations worldwide.
+
+
+
+Researchers from threat intelligence firm Cyble warn of new ransomware gangs that surfaced recently, named Lilith, RedAlert,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

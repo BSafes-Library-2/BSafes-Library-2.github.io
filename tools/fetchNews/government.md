@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The First Cyber Safety Review Board Report is Out<a href="https://www.lawfareblog.com/first-cyber-safety-review-board-report-out"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last year, President Biden created the Cyber Safety Review Board, with the intention that (akin to the National Transportation Safety Board) the new organization would review cyber incidents, examine root causes and, where necessary, make recommendations.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. House Appropriators OK $15.6B in Cybersecurity Funding<a href="https://www.govtech.com/security/u-s-house-appropriators-ok-15-6b-in-cybersecurity-funding?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The largest chunk of cybersecurity spending, $11.2 billion, would go to the Defense Department, followed by $2.9 billion for the Cybersecurity and Infrastructure Security Agency, or CISA.
+</details>
+<div style="text-align: right" markdown="1">
+Government Technology
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

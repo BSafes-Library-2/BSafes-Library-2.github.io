@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Holy Ghost ransomware operation is linked to North Korea<a href="https://securityaffairs.co/wordpress/133255/hacking/holy-ghost-ransomware-north-korea.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft researchers linked the Holy Ghost ransomware (H0lyGh0st) operation to North Korea-linked threat actors.
+
+
+
+The Microsoft Threat Intelligence Center (MSTIC) researchers linked the activity of the Holy Ghost ransomware (H0lyGh0st) operation to a North...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+July 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Key Things We Learned from CISOs of Smaller Enterprises Survey<a href="https://thehackernews.com/2022/07/5-key-things-we-learned-from-cisos-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New survey reveals lack of staff, skills, and resources driving smaller teams to outsource security.  As business begins its return to normalcy (however "normal" may look), CISOs at small and medium-size enterprises (500 – 10,000 employees) were asked to share their&nbsp; cybersecurity challenges and priorities , and their responses were compared the results with those of a similar survey from 2021.  Here are the 5 key things we learned from 200 responses:  1&nbsp; —&nbsp; Remote Work Has Accelerated the Use of EDR Technologies  In 2021, 52% of CISOs surveyed were relying on endpoint detection and response (EDR) tools. This year that number has leapt to 85%. In contrast, last year 45% were using network detection and response (NDR) tools, while this year just 6% employ NDR. Compared to 2021, double the number of CISOs and their organizations are seeing the value of extended detection and response (XDR) tools, which combine EDR with integrated network signals. This is likely due to the increase in re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conventional cybersecurity approaches are falling short<a href="https://www.helpnetsecurity.com/2022/07/14/conventional-cybersecurity-approaches/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Skybox Security, the top four causes of the most significant breaches reported by the affected organizations were human error, misconfigurations, poor maintenance/lack of cyber hygiene, and unknown assets.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

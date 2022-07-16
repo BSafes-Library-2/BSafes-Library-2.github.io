@@ -11,6 +11,20 @@ nav_order: 900042
 July 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Mantis Botnet Behind the Largest HTTPS DDoS Attack Targeting Cloudflare Customers<a href="https://thehackernews.com/2022/07/mantis-botnet-behind-largest-https-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The botnet behind the largest HTTPS distributed denial-of-service (DDoS) attack in June 2022 has been linked to a spate of attacks aimed at nearly 1,000 Cloudflare customers.  Calling the powerful botnet&nbsp; Mantis , the web performance and security company attributed it to more than 3,000 HTTP DDoS attacks against its users.  The most attacked industry verticals include internet and telecom, media, gaming, finance, business, and shopping, of which over 20% of the attacks targeted U.S.-based companies, followed by Russia, Turkey, France, Poland, Ukraine, the U.K., Germany, the Netherlands, and Canada.   Last month, the company said it&nbsp; mitigated &nbsp;a record-breaking DDoS attack aimed at an unnamed customer website using its Free plan that peaked at 26 million requests per second (RPS), with each node generating approximately 5,200 RPS.  The tsunami of junk traffic lasted less than 30 seconds and generated more than 212 million HTTPS requests from more than 1,500 networks in 121 countries,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Mantis botnet powered the largest HTTPS DDoS attack in June<a href="https://securityaffairs.co/wordpress/133233/hacking/mantis-botnet-record-ddos-attack.html"> Full Text</a>
 </p>
 <details>

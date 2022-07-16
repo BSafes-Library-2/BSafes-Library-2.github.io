@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colorado Springs Utilities Warns Customers of Data Disclosure Incident<a href="https://gazette.com/news/public-safety/colorado-springs-utilities-warns-customers-of-data-disclosure/article_e53f144c-0315-11ed-acde-93dbc80da227.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a letter sent to customers, data stored by a subcontractor of Colorado Springs Utilities was "accessed by an unauthorized party" on June 15. The utility was notified of the incident on July 6, the letter states.
+</details>
+<div style="text-align: right" markdown="1">
+The Gazette
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recruitment Agency Morgan Hunt Discloses Unauthorized Access to Internal Database<a href="https://www.theregister.com/2022/07/15/digital_burglary_at_recruitment_agency/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a letter to contractors, Morgan Hunt – which provides personnel services to clients in the charity education, finance, government, housing, and technology sectors – confirmed the break-in.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

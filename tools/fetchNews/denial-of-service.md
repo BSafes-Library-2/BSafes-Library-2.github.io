@@ -8,6 +8,24 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mantis botnet powered the largest HTTPS DDoS attack in June<a href="https://securityaffairs.co/wordpress/133233/hacking/mantis-botnet-record-ddos-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The largest HTTPS DDoS attack recently mitigated by Cloudflare was launched by the Mantis botnet.
+
+
+
+In June 2022, DDoS mitigation firm Cloudflare announced it has mitigated the largest HTTPS DDoS attack that was launched by a botnet they have called...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

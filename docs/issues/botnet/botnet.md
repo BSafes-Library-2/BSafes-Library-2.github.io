@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tainted password-cracking software for industrial systems used to spread P2P Sality bot<a href="https://securityaffairs.co/wordpress/133281/malware/sality-malware-industrial-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dragos researchers uncovered a small-scale campaign targeting industrial engineers and operators with Sality malware.
+
+
+
+During a routine vulnerability assessment, Dragos researchers discovered a campaign targeting industrial engineers and operators...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tiny 'Mantis' Botnet Launching the Most Powerful DDoS Attacks Yet<a href="https://www.zdnet.com/article/this-tiny-botnet-is-launching-the-most-powerful-ddos-attacks-yet/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The botnet – which Cloudflare calls Mantis and which is named after the small, razor-legged prawn – generated a short but record-breaking DDoS attack in June that peaked at 26 million HTTPS requests per second (rps).
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

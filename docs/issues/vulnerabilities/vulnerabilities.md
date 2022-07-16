@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software Vendors Start Patching Retbleed CPU Vulnerabilities<a href="https://www.securityweek.com/software-vendors-start-patching-retbleed-cpu-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has confirmed that all four vulnerabilities impact its ESXi hypervisor, and that patches are available for ESXi versions 7.0, 6.7, and 6.5, as well as for Cloud Foundation versions 4.x and 3.x.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of attacks on sites using flawed Kaswara Modern WPBakery Page Builder Addons<a href="https://securityaffairs.co/wordpress/133267/hacking/wpbakery-page-builder-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a massive campaign that scanned close to 1.6 million WordPress sites for vulnerable Kaswara Modern WPBakery Page Builder Addons. 
+
+
+
+The Wordfence Threat Intelligence team observed a sudden increase in attacks targeting the Kaswara...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hacking Technique can Unmask Anonymous Users Across All Major Web Browsers<a href="https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the New Jersey Institute of Technology are warning this week about a novel technique attackers could use to de-anonymize website visitors and potentially connect the dots on many components of targets’ digital lives.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

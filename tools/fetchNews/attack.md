@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-Backed Hackers Targeting Journalists in Widespread Espionage Campaigns<a href="https://thehackernews.com/2022/07/state-backed-hackers-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nation-state hacking groups aligned with China, Iran, North Korea, and Turkey have been targeting journalists to conduct espionage and spread malware as part of a series of campaigns since early 2021.  "Most commonly, phishing attacks targeting journalists are used for espionage or to gain key insights into the inner workings of another government, company, or other area of state-designated import," Proofpoint&nbsp; said &nbsp;in a report shared with The Hacker News.  The ultimate goal of the intrusions, the enterprise security firm said, is to gain a competitive intelligence edge or spread disinformation and propaganda.   Proofpoint said it identified two Chinese hacking groups, TA412 (aka&nbsp; Zirconium &nbsp;or Judgment Panda) and&nbsp; TA459 , targeting media personnel with malicious emails containing web beacons and weaponized documents respectively that were used to amass information about the recipients' network environments and drop&nbsp; Chinoxy &nbsp;malware.   In a similar vein, the North Kore
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Retbleed speculative execution CPU attack bypasses Retpoline fixes<a href="https://www.bleepingcomputer.com/news/security/new-retbleed-speculative-execution-cpu-attack-bypasses-retpoline-fixes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered a new speculative execution attack called Retbleed that affects processors from both Intel and AMD and could be used to extract sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistani Hackers Targeting Indian Students in Latest Malware Campaign<a href="https://thehackernews.com/2022/07/pakistani-hackers-targeting-indian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat (APT) group known as Transparent Tribe  has been attributed to a new ongoing phishing campaign targeting students at various educational institutions in India at least since December 2021.  "This new campaign also suggests that the APT is actively expanding its network of victims to include civilian users," Cisco Talos&nbsp; said &nbsp;in a report shared with The Hacker News.  Also tracked under the monikers APT36, Operation C-Major, PROJECTM, Mythic Leopard, the Transparent Tribe actor is&nbsp; suspected &nbsp;to be of Pakistani origin and is known to strike government entities and think tanks in India and Afghanistan with custom malware such as CrimsonRAT, ObliqueRAT, and CapraRAT.   But the targeting of educational institutions and students, first&nbsp; observed &nbsp;by India-based K7 Labs in May 2022, indicates a deviation from the adversary's typical focus.  "The latest targeting of the educational sector may align with the strategic goals of espionage of the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

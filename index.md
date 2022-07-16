@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Password recovery tool infects industrial systems with Sality malware<a href="https://www.bleepingcomputer.com/news/security/password-recovery-tool-infects-industrial-systems-with-sality-malware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Software Vendors Start Patching Retbleed CPU Vulnerabilities<a href="https://www.securityweek.com/software-vendors-start-patching-retbleed-cpu-vulnerabilities?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5 Key Things We Learned from CISOs of Smaller Enterprises Survey<a href="https://thehackernews.com/2022/07/5-key-things-we-learned-from-cisos-of.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tainted password-cracking software for industrial systems used to spread P2P Sality bot<a href="https://securityaffairs.co/wordpress/133281/malware/sality-malware-industrial-systems.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tor Browser now bypasses internet censorship automatically<a href="https://www.bleepingcomputer.com/news/security/tor-browser-now-bypasses-internet-censorship-automatically/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colorado Springs Utilities Warns Customers of Data Disclosure Incident<a href="https://gazette.com/news/public-safety/colorado-springs-utilities-warns-customers-of-data-disclosure/article_e53f144c-0315-11ed-acde-93dbc80da227.html?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ The Gazette
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Cache Side Channel Attack Can De-Anonymize Targeted Online Users<a href="https://thehackernews.com/2022/07/new-cache-side-channel-attack-can-de.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of attacks on sites using flawed Kaswara Modern WPBakery Page Builder Addons<a href="https://securityaffairs.co/wordpress/133267/hacking/wpbakery-page-builder-attacks.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers scan 1.6 million WordPress sites for vulnerable plugin<a href="https://www.bleepingcomputer.com/news/security/attackers-scan-16-million-wordpress-sites-for-vulnerable-plugin/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Recruitment Agency Morgan Hunt Discloses Unauthorized Access to Internal Database<a href="https://www.theregister.com/2022/07/15/digital_burglary_at_recruitment_agency/?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Targeting Small and Midsize Businesses with H0lyGh0st Ransomware<a href="https://thehackernews.com/2022/07/north-korean-hackers-targeting-small.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Holy Ghost ransomware operation is linked to North Korea<a href="https://securityaffairs.co/wordpress/133255/hacking/holy-ghost-ransomware-north-korea.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conventional cybersecurity approaches are falling short<a href="https://www.helpnetsecurity.com/2022/07/14/conventional-cybersecurity-approaches/?&web_view=true"> Full Text</a>
@@ -254,7 +254,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedAlert, LILITH, and 0mega, 3 new ransomware in the wild<a href="https://securityaffairs.co/wordpress/133248/cyber-crime/lilith-redalert-0mega-ransomware.html"> Full Text</a>
@@ -274,7 +274,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Hacking Technique can Unmask Anonymous Users Across All Major Web Browsers<a href="https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/?&web_view=true"> Full Text</a>
@@ -290,7 +290,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tiny 'Mantis' Botnet Launching the Most Powerful DDoS Attacks Yet<a href="https://www.zdnet.com/article/this-tiny-botnet-is-launching-the-most-powerful-ddos-attacks-yet/?&web_view=true"> Full Text</a>
@@ -306,7 +306,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft links Holy Ghost ransomware operation to North Korean hackers<a href="https://www.bleepingcomputer.com/news/security/microsoft-links-holy-ghost-ransomware-operation-to-north-korean-hackers/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
+July 14, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mantis Botnet Behind the Largest HTTPS DDoS Attack Targeting Cloudflare Customers<a href="https://thehackernews.com/2022/07/mantis-botnet-behind-largest-https-ddos.html"> Full Text</a>

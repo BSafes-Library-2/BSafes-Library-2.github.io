@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto-mining Attacks Through Azure VMs and GitHub Actions<a href="https://cyware.com/news/crypto-mining-attacks-through-azure-vms-and-github-actions-f1dd44e5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors are leveraging GitHub Actions (GHA) and Azure virtual machines (VMs) for cloud-based cryptocurrency mining. Over 1,000 repositories and 550 code samples were spotted abusing GitHub Actions to mine cryptocurrency. Due to this, the cost of electricity to the target organization incre ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

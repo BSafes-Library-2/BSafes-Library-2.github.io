@@ -11,6 +11,20 @@ nav_order: 900080
 July 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft links Holy Ghost ransomware operation to North Korean hackers<a href="https://www.bleepingcomputer.com/news/security/microsoft-links-holy-ghost-ransomware-operation-to-north-korean-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For more than a year, North Korean hackers have been running a ransomware operation called HolyGhost, attacking small businesses in various countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The Lawfare Podcast: How Mercenary Hackers Sway Litigation Battles<a href="https://www.lawfareblog.com/lawfare-podcast-how-mercenary-hackers-sway-litigation-battles"> Full Text</a>
 </p>
 <details>

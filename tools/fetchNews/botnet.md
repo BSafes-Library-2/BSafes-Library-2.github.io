@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mantis botnet behind the record-breaking DDoS attack in June<a href="https://www.bleepingcomputer.com/news/security/mantis-botnet-behind-the-record-breaking-ddos-attack-in-june/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The record-breaking distributed denial-of-service (DDoS)&nbsp;attack that Cloudflare&nbsp;mitigated last month originated from a new botnet called Mantis, which is currently described as "the most powerful botnet to date."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
