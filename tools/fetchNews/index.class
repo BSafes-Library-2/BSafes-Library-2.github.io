@@ -34,6 +34,354 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Matrix messaging network now counts more than 60 million users<a href="https://www.bleepingcomputer.com/news/security/the-matrix-messaging-network-now-counts-more-than-60-million-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Matrix open network for decentralized communication has announced a record growth of 79% in the past 12 months, now counting more than 60 million users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-based Holy Ghost Ransomware Targets Victims Globally<a href="https://cyware.com/news/north-korea-based-holy-ghost-ransomware-targets-victims-globally-fa605242"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft attributed the Holy Ghost ransomware operation to North Korean hackers. Tracked as DEV-0530, the group has been targeting small businesses worldwide for over a year. For organizations to stay protected, experts recommend collaborative action, including sharing the indicators of compromise ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks stole $375k from Premint NFT, it is one of the biggest NFT hacks ever<a href="https://securityaffairs.co/wordpress/133339/cyber-crime/crooks-stole-375k-from-premint-nft-it-is-one-of-the-biggest-nft-hacks-ever.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors hacked the popular NFT platform, Premint NFT and stole 314 NFTs.
+
+
+
+The popular NFT platform, Premint NFT, was hacked, the threat actors compromised its official website and stole 314 NFTs. According to the experts from blockchain security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PayPal-themed Phishing Kit Steals Information<a href="https://cyware.com/news/paypal-themed-phishing-kit-steals-information-5e238f47"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai unveiled a malicious operation that brute-forces WordPress sites to deploy phishing kits. These kits redirect users to fake PayPal pages and harvest sensitive data including users’ banking information and email passwords.  Users are advised to double-check the domain name of a page requ ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google is going to remove App Permissions List from the Play Store<a href="https://securityaffairs.co/wordpress/133334/mobile-2/google-removes-app-permissions-list-play-store.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is going to remove the app permissions list from the official Play Store for both the mobile app and the web.
+
+
+
+As part of the "Data safety" initiative for the Android app on the Play Store, Google plans to remove the app permissions list from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Warns Users of Fake App Versions<a href="https://cyware.com/news/whatsapp-warns-users-of-fake-app-versions-148b6fdc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp’s CEO has issued a strict warning to Android users about fake versions of the messaging app attempting to steal personal information stored on victims’ phones. A Twitter thread by the CEO revealed a fake Android app called 'Hey WhatsApp' being sold as a premium WhatsApp version. WhatsApp r ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 374 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/133331/breaking-news/security-affairs-newsletter-round-374-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.
+
+
+
+Critical flaw in Netwrix Auditor application allows arbitrary code executionCISA urges to fix multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT groups target journalists and media organizations since 2021<a href="https://securityaffairs.co/wordpress/133317/apt/apt-groups-targer-journalists.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Proofpoint warn that various APT groups are targeting journalists and media organizations since 2021.
+
+
+
+Proofpoint researchers warn that APT groups are regularly targeting and posing as journalists and media organizations since early...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers pose as journalists to breach news media org’s networks<a href="https://www.bleepingcomputer.com/news/security/hackers-pose-as-journalists-to-breach-news-media-org-s-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers following the activities of advanced persistent (APT) threat groups originating from China, North Korea, Iran, and Turkey say that journalists and media organizations have remained a constant target for state-aligned actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elastix VoIP systems hacked in massive campaign to install PHP web shells<a href="https://www.bleepingcomputer.com/news/security/elastix-voip-systems-hacked-in-massive-campaign-to-install-php-web-shells/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have uncovered a large-scale campaign targeting Elastix VoIP telephony servers with more than 500,000 malware samples over a period of three months.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Lilith Ransomware Family Joins the Double Extortion Threat Landscape<a href="https://cyware.com/news/new-lilith-ransomware-family-joins-the-double-extortion-threat-landscape-24b02632"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble uncovered a new C/C++ console-based ransomware operation by a group dubbed Lilith. It has leaked the proof of first victim on its leak site. Before the encryption process starts, Lilith creates and drops ransom notes on all the folders one by one. The note gives three days to contact attacker ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Qakbot Attacks are Much Stealthier and Effective than Ever<a href="https://cyware.com/news/new-qakbot-attacks-are-much-stealthier-and-effective-than-ever-62f9e8d2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zscaler exposed new detection evasion attempts by Qakbot malware actors. It is now using ZIP file extensions, catchy file names with common formats, and Excel 4.0 macros to fool victims into downloading attachments containing the malware. To stay protected from such threats, organizations are  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaw in Netwrix Auditor application allows arbitrary code execution<a href="https://securityaffairs.co/wordpress/133310/hacking/netwrix-auditor-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the Netwrix Auditor software can be exploited to execute arbitrary code on affected devices.
+
+
+
+Bishop Fox discovered a vulnerability in the Netwrix Auditor software that can be exploited by attackers to execute arbitrary code on affected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tiny Mantis Botnet Can Launch More Powerful DDoS Attacks Than Mirai<a href="https://www.hackread.com/tiny-mantis-botnet-launch-ddos-attacks-than-mirai/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Cloudflare content distribution network, a botnet named Mantis is so powerful that it has launched the biggest ever DDoS attacks. The botnet has thus far targeted around 1,000 Cloudflare customers within the past few weeks.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA urges to fix multiple critical flaws in Juniper Networks products<a href="https://securityaffairs.co/wordpress/133301/security/juniper-networks-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA urges admins to apply recently released fixes in Juniper Networks products, including Junos Space, Contrail Networking and NorthStar Controller.
+
+
+
+CISA urges users and administrators to review the Juniper Networks security advisories page and...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digium Phones Under Attack: Insight Into the Web Shell Implant<a href="https://unit42.paloaltonetworks.com/digium-phones-web-shell/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Unit 42 observed an operation that targets the Elastix system used in Digium phones. The attacker implants a web shell to exfiltrate data by downloading and executing additional payloads inside the target's Digium phone software.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors exploit a flaw in Digium Phone Software to target VoIP servers<a href="https://securityaffairs.co/wordpress/133293/hacking/digium-phones-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting VoIP servers by exploiting a vulnerability in Digium's software to install a web shell, Palo Alto Networks warns.
+
+
+
+Recently, Unit 42 researchers spotted a campaign targeting the Elastix system used in Digium phones since...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Removes "App Permissions" List from Play Store for New "Data Safety" Section<a href="https://thehackernews.com/2022/07/google-removes-app-permissions-list.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following the launch of a new "Data safety" section for the Android app on the Play Store, Google appears to be readying to remove the app permissions list from both the mobile app and the web.  The change was  highlighted  by Esper's Mishaal Rahman earlier this week.  The  Data safety  section, which Google began rolling out in late April 2022, is the company's answer to Apple's Privacy Nutrition Labels in iOS, allowing users to have a unified view of an app's data collection and processing practices.   To that end, third-party app developers are required to furnish the required details by July 20, 2022. With this deadline now approaching next week, the tech giant has moved to entirely remove the permissions section.  The decision also appears to be a hasty one, as a number of popular apps such as Facebook, Messenger, Instagram, WhatsApp, Amazon (including Amazon Prime Video), DuckDuckGo, Discord, and PhonePe are yet to populate their Data safety sections.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting VoIP Servers By Exploiting Digium Phone Software<a href="https://thehackernews.com/2022/07/hackers-targeting-voip-servers-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VoIP phones using Digium's software have been targeted to drop a web shell on their servers as part of an attack campaign designed to exfiltrate data by downloading and executing additional payloads.  "The malware installs multilayer obfuscated PHP backdoors to the web server's file system, downloads new payloads for execution, and schedules recurring tasks to re-infect the host system," Palo Alto Networks Unit 42  said  in a Friday report.  The unusual activity is said to have commenced in mid-December 2021 and targets Asterisk, a widely used software implementation of a private branch exchange (PBX) that runs on the open-source Elastix Unified Communications Server.   Unit 42 said the intrusions share similarities with the  INJ3CTOR3 campaign  that Israeli cybersecurity firm Check Point disclosed in November 2020, alluding to the possibility that they could be a "resurgence" of the previous attacks.   Coinciding with the sudden surge is the public disclos
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Netwrix Auditor Bug Could Let Attackers Compromise Active Directory Domain<a href="https://thehackernews.com/2022/07/new-netwrix-auditor-bug-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed details about a security vulnerability in the Netwrix Auditor application that, if successfully exploited, could lead to arbitrary code execution on affected devices.   "Since this service is typically executed with extensive privileges in an Active Directory environment, the attacker would likely be able to compromise the Active Directory domain," Bishop Fox  said  in an advisory published this week.   Auditor  is an auditing and visibility platform that enables organizations to have a consolidated view of their IT environments, including Active Directory, Exchange, file servers, SharePoint, VMware, and other systems—all from a single console.  Netwrix, the company behind the software, claims more than 11,500 customers across over 100 countries, such as Airbus, Virgin, King's College Hospital, and Credissimo, among others.   The flaw, which impacts all supported versions prior to 10.5, has been described as an  insecure object deserialization
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

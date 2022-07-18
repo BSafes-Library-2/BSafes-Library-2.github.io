@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaw in Netwrix Auditor application allows arbitrary code execution<a href="https://securityaffairs.co/wordpress/133310/hacking/netwrix-auditor-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the Netwrix Auditor software can be exploited to execute arbitrary code on affected devices.
+
+
+
+Bishop Fox discovered a vulnerability in the Netwrix Auditor software that can be exploited by attackers to execute arbitrary code on affected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Netwrix Auditor Bug Could Let Attackers Compromise Active Directory Domain<a href="https://thehackernews.com/2022/07/new-netwrix-auditor-bug-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed details about a security vulnerability in the Netwrix Auditor application that, if successfully exploited, could lead to arbitrary code execution on affected devices.&nbsp;  "Since this service is typically executed with extensive privileges in an Active Directory environment, the attacker would likely be able to compromise the Active Directory domain," Bishop Fox&nbsp; said &nbsp;in an advisory published this week.   Auditor &nbsp;is an auditing and visibility platform that enables organizations to have a consolidated view of their IT environments, including Active Directory, Exchange, file servers, SharePoint, VMware, and other systems—all from a single console.  Netwrix, the company behind the software, claims more than 11,500 customers across over 100 countries, such as Airbus, Virgin, King's College Hospital, and Credissimo, among others.   The flaw, which impacts all supported versions prior to 10.5, has been described as an&nbsp; insecure object deserialization
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

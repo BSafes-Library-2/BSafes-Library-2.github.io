@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2022
+July 17, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Matrix messaging network now counts more than 60 million users<a href="https://www.bleepingcomputer.com/news/security/the-matrix-messaging-network-now-counts-more-than-60-million-users/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2022
+July 17, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-based Holy Ghost Ransomware Targets Victims Globally<a href="https://cyware.com/news/north-korea-based-holy-ghost-ransomware-targets-victims-globally-fa605242"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2022
+July 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks stole $375k from Premint NFT, it is one of the biggest NFT hacks ever<a href="https://securityaffairs.co/wordpress/133339/cyber-crime/crooks-stole-375k-from-premint-nft-it-is-one-of-the-biggest-nft-hacks-ever.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2022
+July 17, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PayPal-themed Phishing Kit Steals Information<a href="https://cyware.com/news/paypal-themed-phishing-kit-steals-information-5e238f47"> Full Text</a>
@@ -102,7 +102,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2022
+July 17, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google is going to remove App Permissions List from the Play Store<a href="https://securityaffairs.co/wordpress/133334/mobile-2/google-removes-app-permissions-list-play-store.html"> Full Text</a>
@@ -122,7 +122,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2022
+July 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp Warns Users of Fake App Versions<a href="https://cyware.com/news/whatsapp-warns-users-of-fake-app-versions-148b6fdc"> Full Text</a>
@@ -138,7 +138,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2022
+July 17, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 374 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/133331/breaking-news/security-affairs-newsletter-round-374-by-pierluigi-paganini.html"> Full Text</a>
@@ -158,7 +158,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2022
+July 17, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT groups target journalists and media organizations since 2021<a href="https://securityaffairs.co/wordpress/133317/apt/apt-groups-targer-journalists.html"> Full Text</a>
@@ -178,7 +178,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers pose as journalists to breach news media org’s networks<a href="https://www.bleepingcomputer.com/news/security/hackers-pose-as-journalists-to-breach-news-media-org-s-networks/"> Full Text</a>
@@ -194,7 +194,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Elastix VoIP systems hacked in massive campaign to install PHP web shells<a href="https://www.bleepingcomputer.com/news/security/elastix-voip-systems-hacked-in-massive-campaign-to-install-php-web-shells/"> Full Text</a>
@@ -210,7 +210,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Lilith Ransomware Family Joins the Double Extortion Threat Landscape<a href="https://cyware.com/news/new-lilith-ransomware-family-joins-the-double-extortion-threat-landscape-24b02632"> Full Text</a>
@@ -226,7 +226,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Qakbot Attacks are Much Stealthier and Effective than Ever<a href="https://cyware.com/news/new-qakbot-attacks-are-much-stealthier-and-effective-than-ever-62f9e8d2"> Full Text</a>
@@ -242,7 +242,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical flaw in Netwrix Auditor application allows arbitrary code execution<a href="https://securityaffairs.co/wordpress/133310/hacking/netwrix-auditor-flaw.html"> Full Text</a>
@@ -262,7 +262,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tiny Mantis Botnet Can Launch More Powerful DDoS Attacks Than Mirai<a href="https://www.hackread.com/tiny-mantis-botnet-launch-ddos-attacks-than-mirai/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA urges to fix multiple critical flaws in Juniper Networks products<a href="https://securityaffairs.co/wordpress/133301/security/juniper-networks-critical-flaws.html"> Full Text</a>
@@ -298,7 +298,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Digium Phones Under Attack: Insight Into the Web Shell Implant<a href="https://unit42.paloaltonetworks.com/digium-phones-web-shell/?&web_view=true"> Full Text</a>
@@ -314,7 +314,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors exploit a flaw in Digium Phone Software to target VoIP servers<a href="https://securityaffairs.co/wordpress/133293/hacking/digium-phones-attacks.html"> Full Text</a>
@@ -334,7 +334,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Removes "App Permissions" List from Play Store for New "Data Safety" Section<a href="https://thehackernews.com/2022/07/google-removes-app-permissions-list.html"> Full Text</a>
@@ -350,7 +350,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Targeting VoIP Servers By Exploiting Digium Phone Software<a href="https://thehackernews.com/2022/07/hackers-targeting-voip-servers-by.html"> Full Text</a>
@@ -366,7 +366,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Netwrix Auditor Bug Could Let Attackers Compromise Active Directory Domain<a href="https://thehackernews.com/2022/07/new-netwrix-auditor-bug-could-let.html"> Full Text</a>

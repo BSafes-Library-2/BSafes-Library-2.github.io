@@ -8,6 +8,66 @@ nav_order: 900015
 
 ## Attack
 ---
+July 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Qakbot Attacks are Much Stealthier and Effective than Ever<a href="https://cyware.com/news/new-qakbot-attacks-are-much-stealthier-and-effective-than-ever-62f9e8d2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zscaler exposed new detection evasion attempts by Qakbot malware actors. It is now using ZIP file extensions, catchy file names with common formats, and Excel 4.0 macros to fool victims into downloading attachments containing the malware.&nbsp;To stay protected from such threats, organizations are  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2022 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digium Phones Under Attack: Insight Into the Web Shell Implant<a href="https://unit42.paloaltonetworks.com/digium-phones-web-shell/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Unit 42 observed an operation that targets the Elastix system used in Digium phones. The attacker implants a web shell to exfiltrate data by downloading and executing additional payloads inside the target's Digium phone software.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors exploit a flaw in Digium Phone Software to target VoIP servers<a href="https://securityaffairs.co/wordpress/133293/hacking/digium-phones-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting VoIP servers by exploiting a vulnerability in Digium's software to install a web shell, Palo Alto Networks warns.
+
+
+
+Recently, Unit 42 researchers spotted a campaign targeting the&nbsp;Elastix&nbsp;system used in&nbsp;Digium phones since...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting VoIP Servers By Exploiting Digium Phone Software<a href="https://thehackernews.com/2022/07/hackers-targeting-voip-servers-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VoIP phones using Digium's software have been targeted to drop a web shell on their servers as part of an attack campaign designed to exfiltrate data by downloading and executing additional payloads.  "The malware installs multilayer obfuscated PHP backdoors to the web server's file system, downloads new payloads for execution, and schedules recurring tasks to re-infect the host system," Palo Alto Networks Unit 42&nbsp; said &nbsp;in a Friday report.  The unusual activity is said to have commenced in mid-December 2021 and targets Asterisk, a widely used software implementation of a private branch exchange (PBX) that runs on the open-source Elastix Unified Communications Server.   Unit 42 said the intrusions share similarities with the&nbsp; INJ3CTOR3 campaign &nbsp;that Israeli cybersecurity firm Check Point disclosed in November 2020, alluding to the possibility that they could be a "resurgence" of the previous attacks.   Coinciding with the sudden surge is the public disclos
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

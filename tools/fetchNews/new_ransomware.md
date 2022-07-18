@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-based Holy Ghost Ransomware Targets Victims Globally<a href="https://cyware.com/news/north-korea-based-holy-ghost-ransomware-targets-victims-globally-fa605242"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft attributed the Holy Ghost ransomware operation to North Korean hackers. Tracked as DEV-0530, the group has been targeting small businesses worldwide for over a year. For organizations to stay protected, experts recommend collaborative action, including sharing the indicators of compromise ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Lilith Ransomware Family Joins the Double Extortion Threat Landscape<a href="https://cyware.com/news/new-lilith-ransomware-family-joins-the-double-extortion-threat-landscape-24b02632"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble uncovered a new C/C++ console-based ransomware operation by a group dubbed Lilith. It has leaked the proof of first victim on its leak site. Before the encryption process starts, Lilith creates and drops ransom notes on all the folders one by one. The note gives three days to contact attacker ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks stole $375k from Premint NFT, it is one of the biggest NFT hacks ever<a href="https://securityaffairs.co/wordpress/133339/cyber-crime/crooks-stole-375k-from-premint-nft-it-is-one-of-the-biggest-nft-hacks-ever.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors hacked the popular NFT platform, Premint NFT and stole 314 NFTs.
+
+
+
+The popular NFT platform, Premint NFT, was hacked, the threat actors compromised its official website and stole 314 NFTs. According to the experts from blockchain security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

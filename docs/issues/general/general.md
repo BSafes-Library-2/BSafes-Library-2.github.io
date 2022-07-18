@@ -8,6 +8,70 @@ nav_order: 900072
 
 ## General
 ---
+July 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Matrix messaging network now counts more than 60 million users<a href="https://www.bleepingcomputer.com/news/security/the-matrix-messaging-network-now-counts-more-than-60-million-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Matrix open network for decentralized communication has announced a record growth of 79% in the past 12 months, now counting more than 60 million users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google is going to remove App Permissions List from the Play Store<a href="https://securityaffairs.co/wordpress/133334/mobile-2/google-removes-app-permissions-list-play-store.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is going to remove the app permissions list from the official Play Store for both the mobile app and the web.
+
+
+
+As part of the "Data safety" initiative for the Android app on the Play Store, Google plans to remove the app permissions list from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 374 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/133331/breaking-news/security-affairs-newsletter-round-374-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.
+
+
+
+Critical flaw in Netwrix Auditor application allows arbitrary code executionCISA urges to fix multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Removes "App Permissions" List from Play Store for New "Data Safety" Section<a href="https://thehackernews.com/2022/07/google-removes-app-permissions-list.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following the launch of a new "Data safety" section for the Android app on the Play Store, Google appears to be readying to remove the app permissions list from both the mobile app and the web.  The change was&nbsp; highlighted &nbsp;by Esper's Mishaal Rahman earlier this week.  The&nbsp; Data safety &nbsp;section, which Google began rolling out in late April 2022, is the company's answer to Apple's Privacy Nutrition Labels in iOS, allowing users to have a unified view of an app's data collection and processing practices.   To that end, third-party app developers are required to furnish the required details by July 20, 2022. With this deadline now approaching next week, the tech giant has moved to entirely remove the permissions section.  The decision also appears to be a hasty one, as a number of popular apps such as Facebook, Messenger, Instagram, WhatsApp, Amazon (including Amazon Prime Video), DuckDuckGo, Discord, and PhonePe are yet to populate their Data safety sections.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

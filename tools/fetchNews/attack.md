@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+July 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cache Side Channel Attack Can De-Anonymize Targeted Online Users<a href="https://thehackernews.com/2022/07/new-cache-side-channel-attack-can-de.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics from the New Jersey Institute of Technology (NJIT) has warned of a novel technique that could be used to defeat&nbsp; anonymity protections &nbsp;and identify a unique website visitor.  "An attacker who has complete or partial control over a website can learn whether a specific target (i.e., a unique individual) is browsing the website," the researchers&nbsp; said . "The attacker knows this target only through a public identifier, such as an email address or a Twitter handle."  The cache-based targeted&nbsp; de-anonymization attack &nbsp;is a&nbsp; cross-site leak &nbsp;that involves the adversary leveraging a service such as Google Drive, Dropbox, or YouTube to privately share a resource (e.g., image, video, or a YouTube playlist) with the target, followed by embedding the shared resource into the attack website.  This can be achieved by, say, privately sharing the resource with the target using the victim's email address or the appropriate username associated with the serv
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers scan 1.6 million WordPress sites for vulnerable plugin<a href="https://www.bleepingcomputer.com/news/security/attackers-scan-16-million-wordpress-sites-for-vulnerable-plugin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have detected a massive campaign that scanned close to 1.6 million WordPress sites for the presence of a vulnerable plugin that allows uploading files without authentication.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Targeting Small and Midsize Businesses with H0lyGh0st Ransomware<a href="https://thehackernews.com/2022/07/north-korean-hackers-targeting-small.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An emerging threat cluster originating from North Korea has been linked to developing and using ransomware in cyberattacks targeting small businesses since September 2021.  The group, which calls itself H0lyGh0st after the ransomware payload of the same name, is being tracked by the Microsoft Threat Intelligence Center under the moniker DEV-0530, a designation assigned for unknown, emerging, or a developing group of threat activity.  Targeted entities primarily include small-to-midsize businesses such as manufacturing organizations, banks, schools, and event and meeting planning companies.  "Along with their H0lyGh0st payload, DEV-0530 maintains an .onion site that the group uses to interact with their victims," the researchers&nbsp; said &nbsp;in a Thursday analysis.  "The group's standard methodology is to encrypt all files on the target device and use the file extension .h0lyenc, send the victim a sample of the files as proof, and then demand payment in Bitcoin in exchange
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
