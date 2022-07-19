@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Notice Sudden Surge in Exploitation of WordPress Page Builder Plugin Vulnerability<a href="https://thehackernews.com/2022/07/experts-notice-sudden-surge-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Wordfence have&nbsp; sounded &nbsp;the alarm about a "sudden" spike in cyber attacks attempting to exploit an unpatched flaw in a WordPress plugin called&nbsp; Kaswara Modern WPBakery Page Builder Addons .  Tracked as&nbsp; CVE-2021-24284 , the issue is rated 10.0 on the CVSS vulnerability scoring system and relates to an unauthenticated arbitrary file upload that could be abused to gain code execution, permitting attackers to seize control of affected WordPress sites.   Although the bug was originally&nbsp; disclosed &nbsp;in April 2021 by the WordPress security company, it continues to remain unresolved to date. To make matters worse, the plugin has been closed and is no longer actively maintained.  Wordfence, which is protecting over 1,000 websites that have the plugin installed, said it has blocked an average of 443,868 attack attempts per day since the start of the month.   The attacks have emanated from 10,215 IP addresses, with a majority of the exploitation attempts narrowed down
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anatomy of a Windows Network File System vulnerability<a href="https://www.theregister.com/2022/07/15/windows_nfs_patch/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro Research has published an analysis of a Windows remote code execution vulnerability lurking in the Network File System. The vulnerability in question, CVE-2022-30136, was patched by Microsoft in June.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out for the CVE-2022-30136 Windows NFS Remote Code Execution flaw<a href="https://securityaffairs.co/wordpress/133355/security/cve-2022-30136-windows-nfs-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers published an analysis of the Windows remote code execution vulnerability CVE-2022-30136 impacting the Network File System.
+
+
+
+Trend Micro Research has published an analysis of the recently patched Windows vulnerability CVE-2022-30136 that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prototype pollution in Blitz.js leads to remote code execution<a href="https://portswigger.net/daily-swig/prototype-pollution-in-blitz-js-leads-to-remote-code-execution?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prototype pollution is a type of JavaScript vulnerability that allows attackers to exploit the rules of the programming language to change an application’s behavior and compromise it in various ways.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Juniper Releases Patches for Critical Flaws in Junos OS and Contrail Networking<a href="https://thehackernews.com/2022/07/juniper-releases-patches-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Juniper Networks has pushed security updates to address&nbsp; several vulnerabilities &nbsp;affecting multiple products, some of which could be exploited to seize control of affected systems.  The most critical of the flaws affect Junos Space and Contrail Networking, with the tech company urging customers to release versions 22.1R1 and 21.4.0, respectively.  Chief among them is a collection of 31 bugs in the Junos Space network management software, including CVE-2021-23017 (CVSS score: 9.4) that could result in a crash of vulnerable devices or even achieve arbitrary code execution.   "A security issue in nginx resolver was identified, which might allow an attacker who is able to forge UDP packets from the DNS server to cause 1-byte memory overwrite, resulting in worker process crash or potential other impact," the company&nbsp; said .  The same security vulnerability has also been&nbsp; remediated &nbsp;in Northstar Controller in versions 5.1.0 Service Pack 6 and 6.2.2.  Additionally, the networking
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

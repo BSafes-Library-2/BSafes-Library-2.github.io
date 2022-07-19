@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+July 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA urges to fix multiple critical flaws in Juniper Networks products<a href="https://securityaffairs.co/wordpress/133301/security/juniper-networks-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA urges admins to apply recently released fixes in Juniper Networks products, including Junos Space, Contrail Networking and NorthStar Controller.
+
+
+
+CISA urges users and administrators to review the Juniper Networks&nbsp;security advisories page and...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

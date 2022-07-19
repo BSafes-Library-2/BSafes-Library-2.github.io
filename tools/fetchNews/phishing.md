@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PayPal-themed Phishing Kit Steals Information<a href="https://cyware.com/news/paypal-themed-phishing-kit-steals-information-5e238f47"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai unveiled a malicious operation that brute-forces WordPress sites to deploy phishing kits. These kits redirect users to fake PayPal pages and harvest sensitive data including users’ banking information and email passwords. &nbsp;Users are advised to double-check the domain name of a page requ ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

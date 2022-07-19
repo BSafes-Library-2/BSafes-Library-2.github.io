@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia fines Google $358 million for not removing banned info<a href="https://www.bleepingcomputer.com/news/security/russia-fines-google-358-million-for-not-removing-banned-info/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransom Extortion Without Ransomware<a href="https://cyware.com/news/ransom-extortion-without-ransomware-09acc155"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Study Finds Most Enterprise Vendors Failing to Mitigate Speculative Execution Attacks<a href="https://thehackernews.com/2022/07/new-study-finds-most-enterprise-vendors.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MLNK Builder 4.2 released in Dark Web – malicious shortcut-based attacks are on the rise<a href="https://securityaffairs.co/wordpress/133381/cyber-crime/mlnk-builder-4-2-released-dark-web.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns of fake cryptocurrency apps used to defraud investors<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-cryptocurrency-apps-used-to-defraud-investors/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israel: Health Ministry Website Faces Cyberattack, Oversea Access Blocked<a href="https://www.i24news.tv/en/news/israel/defense/1658119439-israel-health-ministry-website-faces-cyberattack-oversea-access-blocked?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ i24 News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pegasus Spyware Used to Hack Devices of Pro-Democracy Activists in Thailand<a href="https://thehackernews.com/2022/07/pegasus-spyware-used-to-hack-devices-of.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tor Browser 11.5 is optimized to automatically bypass censorship<a href="https://securityaffairs.co/wordpress/133371/digital-id/tor-browser-bypass-censorship.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Roaming Mantis hits Android and iOS users in malware, phishing attacks<a href="https://www.bleepingcomputer.com/news/security/roaming-mantis-hits-android-and-ios-users-in-malware-phishing-attacks/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lithuanian ad website hit by cyberattack, warns of possible customer data leak<a href="https://www.lrt.lt/en/news-in-english/19/1739037/lithuanian-ad-website-hit-by-cyberattack-warns-of-possible-customer-data-leak?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Lrt
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Notice Sudden Surge in Exploitation of WordPress Page Builder Plugin Vulnerability<a href="https://thehackernews.com/2022/07/experts-notice-sudden-surge-in.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A massive cyberattack hit Albania<a href="https://securityaffairs.co/wordpress/133363/cyber-warfare-2/albania-cyber-attack.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enforcing Password History in Your Windows AD to Curb Password Reuse<a href="https://www.bleepingcomputer.com/news/security/enforcing-password-history-in-your-windows-ad-to-curb-password-reuse/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anatomy of a Windows Network File System vulnerability<a href="https://www.theregister.com/2022/07/15/windows_nfs_patch/?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mind the Gap – How to Ensure Your Vulnerability Detection Methods are up to Scratch<a href="https://thehackernews.com/2022/07/mind-gap-how-to-ensure-your.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch out for the CVE-2022-30136 Windows NFS Remote Code Execution flaw<a href="https://securityaffairs.co/wordpress/133355/security/cve-2022-30136-windows-nfs-rce.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: Capital markets regulator SEBI files FIR in cybersecurity incident as email accounts of 11 officials hacked<a href="https://www.livemint.com/news/india/sebi-files-fir-in-cyber-security-incident-as-email-accounts-of-11-officials-hacked-see-here-11658016879223.html?&web_view=true"> Full Text</a>
@@ -322,7 +322,7 @@ Live Mint
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Distributing Password Cracking Tool for PLCs and HMIs to Target Industrial Systems<a href="https://thehackernews.com/2022/07/hackers-distributing-password-cracking.html"> Full Text</a>
@@ -338,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Graff paid a $7.5M ransom and sued its insurance firm for refusing to cover this payment<a href="https://securityaffairs.co/wordpress/133347/cyber-crime/graff-paid-a-7-5m-ransom.html"> Full Text</a>
@@ -358,7 +358,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prototype pollution in Blitz.js leads to remote code execution<a href="https://portswigger.net/daily-swig/prototype-pollution-in-blitz-js-leads-to-remote-code-execution?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crosslake Technologies Announces Acquisition of Cybersecurity Advisory Firm VantagePoint<a href="https://finance.yahoo.com/news/crosslake-technologies-announces-acquisition-cybersecurity-133000312.html?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Yahoo Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Online payment fraud losses to exceed $343 billion<a href="https://www.helpnetsecurity.com/2022/07/18/online-payment-fraud-losses-to-exceed-343-billion/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Albanian Government Systems Shut Down Following Disruptive Cyberattack<a href="https://securityaffairs.co/wordpress/133363/cyber-warfare-2/albania-cyber-attack.html?&web_view=true"> Full Text</a>
@@ -422,7 +422,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2022
+July 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Juniper Releases Patches for Critical Flaws in Junos OS and Contrail Networking<a href="https://thehackernews.com/2022/07/juniper-releases-patches-for-critical.html"> Full Text</a>

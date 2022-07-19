@@ -8,6 +8,38 @@ nav_order: 900027
 
 ## Business
 ---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Graff paid a $7.5M ransom and sued its insurance firm for refusing to cover this payment<a href="https://securityaffairs.co/wordpress/133347/cyber-crime/graff-paid-a-7-5m-ransom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The high-end British jeweler Graff paid a £6 million ransom after the ransomware attack it suffered in 2021.
+
+
+
+In September 2021, the Conti ransomware gang hit high society jeweler Graff and threatens to release private details of world leaders, actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crosslake Technologies Announces Acquisition of Cybersecurity Advisory Firm VantagePoint<a href="https://finance.yahoo.com/news/crosslake-technologies-announces-acquisition-cybersecurity-133000312.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crosslake Technologies, a leader in providing data-driven technology advisory services to PE firms and their portfolio companies, announced it has completed its third add-on acquisition in the past 18 months with the purchase of VantagePoint.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

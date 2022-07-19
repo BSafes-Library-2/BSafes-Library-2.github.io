@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enforcing Password History in Your Windows AD to Curb Password Reuse<a href="https://www.bleepingcomputer.com/news/security/enforcing-password-history-in-your-windows-ad-to-curb-password-reuse/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+65% of end-users openly admit to reusing the same password for one or more (or all!) of their accounts. Password history requirements discourage this behavior by making it more difficult for a user to reuse their old password.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mind the Gap – How to Ensure Your Vulnerability Detection Methods are up to Scratch<a href="https://thehackernews.com/2022/07/mind-gap-how-to-ensure-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With global cybercrime costs expected to reach $10.5 trillion annually by 2025, it comes as little surprise that the risk of attack is companies' biggest concern globally. To help businesses uncover and fix the vulnerabilities and misconfigurations affecting their systems, there is an (over)abundance of solutions available.&nbsp;  But beware, they may not give you a full and continuous view of your weaknesses if used in isolation. With huge financial gains to be had from each successful breach, hackers do not rest in their hunt for flaws and use a wide range of tools and scanners to help them in their search. Beating these criminals means staying one step ahead and using the most comprehensive and responsive vulnerability detection support you can.&nbsp;  We'll go through each solution and explain how you can maintain your vigilance. Of course, vulnerability management is just one step businesses must take to prevent a breach; there's also proper asset management, employee training,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

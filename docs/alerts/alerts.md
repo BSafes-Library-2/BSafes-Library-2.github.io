@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Criminals Create Fraudulent Cryptocurrency Investment Applications to Defraud US Investors <a href="https://www.ic3.gov/Media/News/2022/220718.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is warning financial institutions and investors about cyber criminals creating fraudulent cryptocurrency investment applications (apps) to defraud cryptocurrency investors. The FBI has observed cyber criminals contacting US investors, fraudulently claiming to offer legitimate cryptocurrency investment services, and convincing investors to download fraudulent mobile apps, which the cyber criminals have used with increasing success over time to defraud the investors of their cryptocurrency. The FBI has identified 244 victims and estimates the approximate loss associated with this activity to be $42.7 million. The FBI encourages financial institutions and their customers who suspect they have been defrauded through fake cryptocurrency investment apps to contact the FBI via the Internet Crime Complaint Center or their local FBI field office.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 14, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

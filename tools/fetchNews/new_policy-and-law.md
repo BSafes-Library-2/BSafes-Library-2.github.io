@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia fines Google $358 million for not removing banned info<a href="https://www.bleepingcomputer.com/news/security/russia-fines-google-358-million-for-not-removing-banned-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A court in Moscow has imposed a fine of $358 million (21 billion rubles) on Google LLC for failing to restrict access to information considered prohibited in the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

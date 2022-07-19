@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Study Finds Most Enterprise Vendors Failing to Mitigate Speculative Execution Attacks<a href="https://thehackernews.com/2022/07/new-study-finds-most-enterprise-vendors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With speculative execution attacks remaining a stubbornly persistent vulnerability ailing modern processors, new research has highlighted an "industry failure" to adopting mitigations released by AMD and Intel, posing a firmware supply chain threat.  Dubbed&nbsp; FirmwareBleed &nbsp;by Binarly, the information leaking assaults stem from the continued exposure of microarchitectural attack surfaces on the part of enterprise vendors either as a result of not correctly incorporating the fixes or only using them partially.  "The impact of such attacks is focused on disclosing the content from privileged memory (including protected by virtualization technologies) to obtain sensitive data from processes running on the same processor (CPU)," the firmware protection firm&nbsp; said &nbsp;in a report shared with The Hacker News.  "Cloud environments can have a greater impact when a physical server can be shared by multiple users or legal entities."  In recent years, implementations of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online payment fraud losses to exceed $343 billion<a href="https://www.helpnetsecurity.com/2022/07/18/online-payment-fraud-losses-to-exceed-343-billion/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online payment fraud includes losses across the sales of digital goods, physical goods, money transfer transactions, and banking, as well as purchases like airline ticketing. Fraudster attacks can include phishing, BEC, and social engineering.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,66 @@ nav_order: 900015
 
 ## Attack
 ---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israel: Health Ministry Website Faces Cyberattack, Oversea Access Blocked<a href="https://www.i24news.tv/en/news/israel/defense/1658119439-israel-health-ministry-website-faces-cyberattack-oversea-access-blocked?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israel's Health Ministry website faced disrupted access to users abroad, reportedly due to a cyberattack, the ministry said Sunday. Pro-Iranian hackers based in Iraq, called Altahrea Team, claimed responsibility for the cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+i24 News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lithuanian ad website hit by cyberattack, warns of possible customer data leak<a href="https://www.lrt.lt/en/news-in-english/19/1739037/lithuanian-ad-website-hit-by-cyberattack-warns-of-possible-customer-data-leak?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The portal stressed it did not store particularly sensitive information, such as bank account and payment card details, personal ID codes, and home addresses in its database.
+</details>
+<div style="text-align: right" markdown="1">
+Lrt
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A massive cyberattack hit Albania<a href="https://securityaffairs.co/wordpress/133363/cyber-warfare-2/albania-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A synchronized criminal attack from abroad hit Albania over the weekend, all Albanian government systems shut down following the cyberattack.
+
+
+
+Albania was hit by a massive cyberattack over the weekend, the government confirmed on Monday. A synchronized...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Capital markets regulator SEBI files FIR in cybersecurity incident as email accounts of 11 officials hacked<a href="https://www.livemint.com/news/india/sebi-files-fir-in-cyber-security-incident-as-email-accounts-of-11-officials-hacked-see-here-11658016879223.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Securities and Exchange Board of India (Sebi) on Saturday said it has lodged a complaint against a cybersecurity incident it noticed on its e-mail system. However, the regulator added that no sensitive data was stolen.
+</details>
+<div style="text-align: right" markdown="1">
+Live Mint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

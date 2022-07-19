@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tiny Mantis Botnet Can Launch More Powerful DDoS Attacks Than Mirai<a href="https://www.hackread.com/tiny-mantis-botnet-launch-ddos-attacks-than-mirai/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Cloudflare content distribution network, a botnet named Mantis is so powerful that it has launched the biggest ever DDoS attacks. The botnet has thus far targeted around 1,000 Cloudflare customers within the past few weeks.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

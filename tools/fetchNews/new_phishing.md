@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 18, 2022 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roaming Mantis hits Android and iOS users in malware, phishing attacks<a href="https://www.bleepingcomputer.com/news/security/roaming-mantis-hits-android-and-ios-users-in-malware-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After hitting&nbsp;Germany, Taiwan, South Korea, Japan, the US, and the U.K. the Roaming Mantis operation moved to targeting Android and iOS users in France, likely compromising&nbsp;tens of thousands of devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

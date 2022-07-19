@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers pose as journalists to breach news media org’s networks<a href="https://www.bleepingcomputer.com/news/security/hackers-pose-as-journalists-to-breach-news-media-org-s-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers following the activities of advanced persistent (APT) threat groups&nbsp;originating from China, North Korea, Iran, and Turkey say that journalists and media organizations have remained a constant target for state-aligned actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elastix VoIP systems hacked in massive campaign to install PHP web shells<a href="https://www.bleepingcomputer.com/news/security/elastix-voip-systems-hacked-in-massive-campaign-to-install-php-web-shells/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have uncovered a large-scale campaign targeting&nbsp;Elastix&nbsp;VoIP telephony servers with more than 500,000 malware samples over a period of three months.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
