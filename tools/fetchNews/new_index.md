@@ -34,7 +34,411 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia fines Google $358 million for not removing banned info<a href="https://www.bleepingcomputer.com/news/security/russia-fines-google-358-million-for-not-removing-banned-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A court in Moscow has imposed a fine of $358 million (21 billion rubles) on Google LLC for failing to restrict access to information considered prohibited in the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Extortion Without Ransomware<a href="https://cyware.com/news/ransom-extortion-without-ransomware-09acc155"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Luna Moth or Silent Ransom gang has been breaching organizations to filch sensitive information, threatening victims with making the files publicly available unless a ransom is paid.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Study Finds Most Enterprise Vendors Failing to Mitigate Speculative Execution Attacks<a href="https://thehackernews.com/2022/07/new-study-finds-most-enterprise-vendors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With speculative execution attacks remaining a stubbornly persistent vulnerability ailing modern processors, new research has highlighted an "industry failure" to adopting mitigations released by AMD and Intel, posing a firmware supply chain threat.  Dubbed  FirmwareBleed  by Binarly, the information leaking assaults stem from the continued exposure of microarchitectural attack surfaces on the part of enterprise vendors either as a result of not correctly incorporating the fixes or only using them partially.  "The impact of such attacks is focused on disclosing the content from privileged memory (including protected by virtualization technologies) to obtain sensitive data from processes running on the same processor (CPU)," the firmware protection firm  said  in a report shared with The Hacker News.  "Cloud environments can have a greater impact when a physical server can be shared by multiple users or legal entities."  In recent years, implementations of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MLNK Builder 4.2 released in Dark Web – malicious shortcut-based attacks are on the rise<a href="https://securityaffairs.co/wordpress/133381/cyber-crime/mlnk-builder-4-2-released-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals released a new MLNK Builder 4.2 tool for malicious shortcuts (LNK) generation with an improved Powershell and VBS Obfuscator
+
+
+
+Resecurity, Inc. (USA), a Los Angeles-based cybersecurity company protecting Fortune 500 worldwide, has detected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of fake cryptocurrency apps used to defraud investors<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-cryptocurrency-apps-used-to-defraud-investors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warned that cybercriminals are creating and using fraudulent cryptocurrency investment applications to steal funds from US cryptocurrency investors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israel: Health Ministry Website Faces Cyberattack, Oversea Access Blocked<a href="https://www.i24news.tv/en/news/israel/defense/1658119439-israel-health-ministry-website-faces-cyberattack-oversea-access-blocked?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israel's Health Ministry website faced disrupted access to users abroad, reportedly due to a cyberattack, the ministry said Sunday. Pro-Iranian hackers based in Iraq, called Altahrea Team, claimed responsibility for the cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+i24 News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pegasus Spyware Used to Hack Devices of Pro-Democracy Activists in Thailand<a href="https://thehackernews.com/2022/07/pegasus-spyware-used-to-hack-devices-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thai activists involved in the country's pro-democracy protests have had their smartphones infected with the infamous Pegasus government-sponsored spyware.  At least 30 individuals, spanning activists, academics, lawyers, and NGO workers, are believed to have been infected between October 2020 and November 2021, many of whom have been previously detained, arrested and imprisoned for their political activities or criticism of the government.  "The timing of the infections is highly relevant to specific political events in Thailand, as well as specific actions by the Thai justice system," the Citizen Lab  said  in a Sunday report. "In many cases, for example, infections occurred slightly before protests and other political activities by the victims."  The findings are the result of  threat notifications  sent by Apple last November to alert users it believes have been targeted by state-sponsored attackers.   The attacks entailed the use of two zero-click exploits
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Browser 11.5 is optimized to automatically bypass censorship<a href="https://securityaffairs.co/wordpress/133371/digital-id/tor-browser-bypass-censorship.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project team has announced the release of Tor Browser 11.5, which introduces functionalities to automatically bypass censorship.
+
+
+
+The Tor Project team has announced the release of Tor Browser 11.5, the new version of the popular privacy-oriented...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roaming Mantis hits Android and iOS users in malware, phishing attacks<a href="https://www.bleepingcomputer.com/news/security/roaming-mantis-hits-android-and-ios-users-in-malware-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After hitting Germany, Taiwan, South Korea, Japan, the US, and the U.K. the Roaming Mantis operation moved to targeting Android and iOS users in France, likely compromising tens of thousands of devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lithuanian ad website hit by cyberattack, warns of possible customer data leak<a href="https://www.lrt.lt/en/news-in-english/19/1739037/lithuanian-ad-website-hit-by-cyberattack-warns-of-possible-customer-data-leak?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The portal stressed it did not store particularly sensitive information, such as bank account and payment card details, personal ID codes, and home addresses in its database.
+</details>
+<div style="text-align: right" markdown="1">
+Lrt
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Notice Sudden Surge in Exploitation of WordPress Page Builder Plugin Vulnerability<a href="https://thehackernews.com/2022/07/experts-notice-sudden-surge-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Wordfence have  sounded  the alarm about a "sudden" spike in cyber attacks attempting to exploit an unpatched flaw in a WordPress plugin called  Kaswara Modern WPBakery Page Builder Addons .  Tracked as  CVE-2021-24284 , the issue is rated 10.0 on the CVSS vulnerability scoring system and relates to an unauthenticated arbitrary file upload that could be abused to gain code execution, permitting attackers to seize control of affected WordPress sites.   Although the bug was originally  disclosed  in April 2021 by the WordPress security company, it continues to remain unresolved to date. To make matters worse, the plugin has been closed and is no longer actively maintained.  Wordfence, which is protecting over 1,000 websites that have the plugin installed, said it has blocked an average of 443,868 attack attempts per day since the start of the month.   The attacks have emanated from 10,215 IP addresses, with a majority of the exploitation attempts narrowed down
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A massive cyberattack hit Albania<a href="https://securityaffairs.co/wordpress/133363/cyber-warfare-2/albania-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A synchronized criminal attack from abroad hit Albania over the weekend, all Albanian government systems shut down following the cyberattack.
+
+
+
+Albania was hit by a massive cyberattack over the weekend, the government confirmed on Monday. A synchronized...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enforcing Password History in Your Windows AD to Curb Password Reuse<a href="https://www.bleepingcomputer.com/news/security/enforcing-password-history-in-your-windows-ad-to-curb-password-reuse/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+65% of end-users openly admit to reusing the same password for one or more (or all!) of their accounts. Password history requirements discourage this behavior by making it more difficult for a user to reuse their old password.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anatomy of a Windows Network File System vulnerability<a href="https://www.theregister.com/2022/07/15/windows_nfs_patch/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro Research has published an analysis of a Windows remote code execution vulnerability lurking in the Network File System. The vulnerability in question, CVE-2022-30136, was patched by Microsoft in June.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mind the Gap – How to Ensure Your Vulnerability Detection Methods are up to Scratch<a href="https://thehackernews.com/2022/07/mind-gap-how-to-ensure-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With global cybercrime costs expected to reach $10.5 trillion annually by 2025, it comes as little surprise that the risk of attack is companies' biggest concern globally. To help businesses uncover and fix the vulnerabilities and misconfigurations affecting their systems, there is an (over)abundance of solutions available.   But beware, they may not give you a full and continuous view of your weaknesses if used in isolation. With huge financial gains to be had from each successful breach, hackers do not rest in their hunt for flaws and use a wide range of tools and scanners to help them in their search. Beating these criminals means staying one step ahead and using the most comprehensive and responsive vulnerability detection support you can.   We'll go through each solution and explain how you can maintain your vigilance. Of course, vulnerability management is just one step businesses must take to prevent a breach; there's also proper asset management, employee training,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out for the CVE-2022-30136 Windows NFS Remote Code Execution flaw<a href="https://securityaffairs.co/wordpress/133355/security/cve-2022-30136-windows-nfs-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers published an analysis of the Windows remote code execution vulnerability CVE-2022-30136 impacting the Network File System.
+
+
+
+Trend Micro Research has published an analysis of the recently patched Windows vulnerability CVE-2022-30136 that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Capital markets regulator SEBI files FIR in cybersecurity incident as email accounts of 11 officials hacked<a href="https://www.livemint.com/news/india/sebi-files-fir-in-cyber-security-incident-as-email-accounts-of-11-officials-hacked-see-here-11658016879223.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Securities and Exchange Board of India (Sebi) on Saturday said it has lodged a complaint against a cybersecurity incident it noticed on its e-mail system. However, the regulator added that no sensitive data was stolen.
+</details>
+<div style="text-align: right" markdown="1">
+Live Mint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Distributing Password Cracking Tool for PLCs and HMIs to Target Industrial Systems<a href="https://thehackernews.com/2022/07/hackers-distributing-password-cracking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial engineers and operators are the target of a new campaign that leverages password cracking software to seize control of Programmable Logic Controllers (PLCs) and co-opt the machines to a botnet.  The software "exploited a vulnerability in the firmware which allowed it to retrieve the password on command," Dragos security researcher Sam Hanson  said . "Further, the software was a malware dropper, infecting the machine with the Sality  malware and turning the host into a peer in Sality's peer-to-peer botnet."  The industrial cybersecurity firm said the password retrieval exploit embedded in the malware dropper is designed to recover the credential associated with Automation Direct  DirectLOGIC 06 PLC .   The exploit, tracked as CVE-2022-2003 (CVSS score: 7.7), has been described as a case of cleartext transmission of sensitive data that could lead to information disclosure and unauthorized changes. The issue was  addressed  in firmware Version 2.72 rele
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Graff paid a $7.5M ransom and sued its insurance firm for refusing to cover this payment<a href="https://securityaffairs.co/wordpress/133347/cyber-crime/graff-paid-a-7-5m-ransom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The high-end British jeweler Graff paid a £6 million ransom after the ransomware attack it suffered in 2021.
+
+
+
+In September 2021, the Conti ransomware gang hit high society jeweler Graff and threatens to release private details of world leaders, actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prototype pollution in Blitz.js leads to remote code execution<a href="https://portswigger.net/daily-swig/prototype-pollution-in-blitz-js-leads-to-remote-code-execution?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prototype pollution is a type of JavaScript vulnerability that allows attackers to exploit the rules of the programming language to change an application’s behavior and compromise it in various ways.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crosslake Technologies Announces Acquisition of Cybersecurity Advisory Firm VantagePoint<a href="https://finance.yahoo.com/news/crosslake-technologies-announces-acquisition-cybersecurity-133000312.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crosslake Technologies, a leader in providing data-driven technology advisory services to PE firms and their portfolio companies, announced it has completed its third add-on acquisition in the past 18 months with the purchase of VantagePoint.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online payment fraud losses to exceed $343 billion<a href="https://www.helpnetsecurity.com/2022/07/18/online-payment-fraud-losses-to-exceed-343-billion/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online payment fraud includes losses across the sales of digital goods, physical goods, money transfer transactions, and banking, as well as purchases like airline ticketing. Fraudster attacks can include phishing, BEC, and social engineering.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albanian Government Systems Shut Down Following Disruptive Cyberattack<a href="https://securityaffairs.co/wordpress/133363/cyber-warfare-2/albania-cyber-attack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Albania was hit by a massive cyberattack over the weekend, the government confirmed on Monday. A synchronized criminal attack from abroad hit the servers of the National Agency for Information Society (AKSHI), which handles many government services.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Juniper Releases Patches for Critical Flaws in Junos OS and Contrail Networking<a href="https://thehackernews.com/2022/07/juniper-releases-patches-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Juniper Networks has pushed security updates to address  several vulnerabilities  affecting multiple products, some of which could be exploited to seize control of affected systems.  The most critical of the flaws affect Junos Space and Contrail Networking, with the tech company urging customers to release versions 22.1R1 and 21.4.0, respectively.  Chief among them is a collection of 31 bugs in the Junos Space network management software, including CVE-2021-23017 (CVSS score: 9.4) that could result in a crash of vulnerable devices or even achieve arbitrary code execution.   "A security issue in nginx resolver was identified, which might allow an attacker who is able to forge UDP packets from the DNS server to cause 1-byte memory overwrite, resulting in worker process crash or potential other impact," the company  said .  The same security vulnerability has also been  remediated  in Northstar Controller in versions 5.1.0 Service Pack 6 and 6.2.2.  Additionally, the networking
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Matrix messaging network now counts more than 60 million users<a href="https://www.bleepingcomputer.com/news/security/the-matrix-messaging-network-now-counts-more-than-60-million-users/"> Full Text</a>
@@ -50,7 +454,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2022
+July 17, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-based Holy Ghost Ransomware Targets Victims Globally<a href="https://cyware.com/news/north-korea-based-holy-ghost-ransomware-targets-victims-globally-fa605242"> Full Text</a>
@@ -66,7 +470,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2022
+July 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks stole $375k from Premint NFT, it is one of the biggest NFT hacks ever<a href="https://securityaffairs.co/wordpress/133339/cyber-crime/crooks-stole-375k-from-premint-nft-it-is-one-of-the-biggest-nft-hacks-ever.html"> Full Text</a>
@@ -86,7 +490,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2022
+July 17, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PayPal-themed Phishing Kit Steals Information<a href="https://cyware.com/news/paypal-themed-phishing-kit-steals-information-5e238f47"> Full Text</a>
@@ -102,7 +506,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2022
+July 17, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google is going to remove App Permissions List from the Play Store<a href="https://securityaffairs.co/wordpress/133334/mobile-2/google-removes-app-permissions-list-play-store.html"> Full Text</a>
@@ -122,7 +526,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2022
+July 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp Warns Users of Fake App Versions<a href="https://cyware.com/news/whatsapp-warns-users-of-fake-app-versions-148b6fdc"> Full Text</a>
@@ -138,7 +542,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2022
+July 17, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 374 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/133331/breaking-news/security-affairs-newsletter-round-374-by-pierluigi-paganini.html"> Full Text</a>
@@ -158,7 +562,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2022
+July 17, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT groups target journalists and media organizations since 2021<a href="https://securityaffairs.co/wordpress/133317/apt/apt-groups-targer-journalists.html"> Full Text</a>
@@ -178,7 +582,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers pose as journalists to breach news media org’s networks<a href="https://www.bleepingcomputer.com/news/security/hackers-pose-as-journalists-to-breach-news-media-org-s-networks/"> Full Text</a>
@@ -194,7 +598,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Elastix VoIP systems hacked in massive campaign to install PHP web shells<a href="https://www.bleepingcomputer.com/news/security/elastix-voip-systems-hacked-in-massive-campaign-to-install-php-web-shells/"> Full Text</a>
@@ -210,7 +614,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Lilith Ransomware Family Joins the Double Extortion Threat Landscape<a href="https://cyware.com/news/new-lilith-ransomware-family-joins-the-double-extortion-threat-landscape-24b02632"> Full Text</a>
@@ -226,7 +630,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Qakbot Attacks are Much Stealthier and Effective than Ever<a href="https://cyware.com/news/new-qakbot-attacks-are-much-stealthier-and-effective-than-ever-62f9e8d2"> Full Text</a>
@@ -242,7 +646,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical flaw in Netwrix Auditor application allows arbitrary code execution<a href="https://securityaffairs.co/wordpress/133310/hacking/netwrix-auditor-flaw.html"> Full Text</a>
@@ -262,7 +666,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tiny Mantis Botnet Can Launch More Powerful DDoS Attacks Than Mirai<a href="https://www.hackread.com/tiny-mantis-botnet-launch-ddos-attacks-than-mirai/?&web_view=true"> Full Text</a>
@@ -278,7 +682,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA urges to fix multiple critical flaws in Juniper Networks products<a href="https://securityaffairs.co/wordpress/133301/security/juniper-networks-critical-flaws.html"> Full Text</a>
@@ -298,7 +702,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Digium Phones Under Attack: Insight Into the Web Shell Implant<a href="https://unit42.paloaltonetworks.com/digium-phones-web-shell/?&web_view=true"> Full Text</a>
@@ -314,7 +718,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2022
+July 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors exploit a flaw in Digium Phone Software to target VoIP servers<a href="https://securityaffairs.co/wordpress/133293/hacking/digium-phones-attacks.html"> Full Text</a>
@@ -334,7 +738,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Removes "App Permissions" List from Play Store for New "Data Safety" Section<a href="https://thehackernews.com/2022/07/google-removes-app-permissions-list.html"> Full Text</a>
@@ -350,7 +754,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Targeting VoIP Servers By Exploiting Digium Phone Software<a href="https://thehackernews.com/2022/07/hackers-targeting-voip-servers-by.html"> Full Text</a>
@@ -366,7 +770,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2022
+July 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Netwrix Auditor Bug Could Let Attackers Compromise Active Directory Domain<a href="https://thehackernews.com/2022/07/new-netwrix-auditor-bug-could-let.html"> Full Text</a>
