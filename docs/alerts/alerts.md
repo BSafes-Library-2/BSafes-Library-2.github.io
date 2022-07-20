@@ -22,7 +22,7 @@ KNOWN EXPLOITED VULNERABILITIES CATALOG
 July 18, 2022 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Cyber Criminals Create Fraudulent Cryptocurrency Investment Applications to Defraud US Investors <a href="https://www.ic3.gov/Media/News/2022/220718.pdf"> Full Text</a>
+Cyber Criminals Create Fraudulent Cryptocurrency Investment Applications to Defraud US Investors <a href="https://publications.bsafes.com/docs/fbi/pin-2022-07-18-001-cyber-criminals-create-fraudulent-cryptocurrency-investment-applications-to-defraud-us-investors/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
