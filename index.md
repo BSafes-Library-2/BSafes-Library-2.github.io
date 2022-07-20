@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 20, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Are your visuals making businesses more vulnerable to cybercrime?<a href="https://www.tripwire.com/state-of-security/security-data-protection/visuals-making-businesses-more-vulnerable-cybercrime/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Entertaining short-form content and striking imagery are what make companies and brands stand out online but it’s important to remain aware of your cybersecurity and data protection.
+</details>
+<div style="text-align: right" markdown="1">
+Tripwire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Linus Torvalds says Linux kernel has addressed ‘Retbleed’<a href="https://www.theregister.com/2022/07/17/linux_5_19_rc7/?&web_view=true"> Full Text</a>
 </p>
 <details>
