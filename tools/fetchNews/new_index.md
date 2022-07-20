@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Using DropBox and Google Drive to Drop Malicious Payloads<a href="https://thehackernews.com/2022/07/russian-hackers-using-dropbox-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian state-sponsored hacking collective known as APT29 has been attributed to a new phishing campaign that takes advantage of legitimate cloud services like Google Drive and Dropbox to deliver malicious payloads on compromised systems.  "These campaigns are believed to have targeted several Western diplomatic missions between May and June 2022," Palo Alto Networks Unit 42  said  in a Tuesday report. "The lures included in these campaigns suggest targeting of a foreign embassy in Portugal as well as a foreign embassy in Brazil."  APT29, also tracked under the monikers Cozy Bear, Cloaked Ursa, or The Dukes, has been characterized as an organized cyberespionage group working to collect intelligence that aligns with Russia's strategic objectives.  Some aspects of the advanced persistent threat's activities, including the infamous  SolarWinds supply chain attack  of 2020, are separately tracked by Microsoft under the name Nobelium, with Mandiant calling i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 19, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
