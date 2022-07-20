@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Extortion Without Ransomware<a href="https://cyware.com/news/ransom-extortion-without-ransomware-09acc155"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Luna Moth or Silent Ransom gang has been breaching organizations to filch sensitive information, threatening victims with making the files publicly available unless a ransom is paid.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

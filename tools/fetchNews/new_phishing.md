@@ -8,6 +8,18 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 19, 2022 <br {:="" .fs-4="" .fw-700="" .lh-0="" }="" <p="" style="font-weight:500; margin:0px" markdown="1">
+Fake Nvidia giveaway promises bitcoin<a href="https://usa.kaspersky.com/blog/nvidia-giveaway-bitcoin-scam/26770/?&amp;web_view=true"> Full Text</a>
+<p></p>
+<details>
+  <summary>Abstract</summary>
+On the splash screen of the fake website, visitors see the company logo (albeit purple, not the usual green) and the name of its CEO, Jensen Huang. Visitors are asked here to “select a category” to take part in the “event”.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Lab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2022 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

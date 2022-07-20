@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CloudMensis spyware went undetected for many years<a href="https://securityaffairs.co/wordpress/133416/hacking/cloudmensis-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted previously undocumented spyware, dubbed CloudMensis, that targets the Apple macOS systems.
+
+
+
+Researchers from ESET discovered a previously undetected macOS backdoor, tracked as CloudMensis, that targets macOS systems and exclusively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

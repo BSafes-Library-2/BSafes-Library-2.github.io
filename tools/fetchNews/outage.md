@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albanian Government Systems Shut Down Following Disruptive Cyberattack<a href="https://securityaffairs.co/wordpress/133363/cyber-warfare-2/albania-cyber-attack.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Albania was hit by a massive cyberattack over the weekend, the government confirmed on Monday. A synchronized criminal attack from abroad hit the servers of the National Agency for Information Society (AKSHI), which handles many government services.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

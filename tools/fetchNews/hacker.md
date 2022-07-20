@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Distributing Password Cracking Tool for PLCs and HMIs to Target Industrial Systems<a href="https://thehackernews.com/2022/07/hackers-distributing-password-cracking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial engineers and operators are the target of a new campaign that leverages password cracking software to seize control of Programmable Logic Controllers (PLCs) and co-opt the machines to a botnet.  The software "exploited a vulnerability in the firmware which allowed it to retrieve the password on command," Dragos security researcher Sam Hanson&nbsp; said . "Further, the software was a malware dropper, infecting the machine with the Sality  malware and turning the host into a peer in Sality's peer-to-peer botnet."  The industrial cybersecurity firm said the password retrieval exploit embedded in the malware dropper is designed to recover the credential associated with Automation Direct&nbsp; DirectLOGIC 06 PLC .   The exploit, tracked as CVE-2022-2003 (CVSS score: 7.7), has been described as a case of cleartext transmission of sensitive data that could lead to information disclosure and unauthorized changes. The issue was&nbsp; addressed &nbsp;in firmware Version 2.72 rele
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

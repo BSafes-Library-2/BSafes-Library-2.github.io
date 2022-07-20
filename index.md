@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacking group '8220' grows cloud botnet to more than 30,000 hosts<a href="https://www.bleepingcomputer.com/news/security/hacking-group-8220-grows-cloud-botnet-to-more-than-30-000-hosts/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker Abusing Windows NFS Remote Code Execution Flaw<a href="https://cyware.com/news/hacker-abusing-windows-nfs-remote-code-execution-flaw-77ebd4ba"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover New CloudMensis Spyware Targeting Apple macOS Users<a href="https://thehackernews.com/2022/07/experts-uncover-new-cloudmensis-spyware.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CloudMensis spyware went undetected for many years<a href="https://securityaffairs.co/wordpress/133416/hacking/cloudmensis-spyware.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Building materials giant Knauf hit by Black Basta ransomware gang<a href="https://www.bleepingcomputer.com/news/security/building-materials-giant-knauf-hit-by-black-basta-ransomware-gang/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warning: Fake Apps Defraud Investors of Over $42 Million<a href="https://cyware.com/news/fbi-warning-fake-apps-defraud-investors-of-over-42-million-94e8c835"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Experts Warn of Two Primary Client-Side Risks Associated with Data Exfiltration and Loss<a href="https://thehackernews.com/2022/07/security-experts-warn-of-two-primary.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked APT29 relies on Google Drive, Dropbox to evade detection<a href="https://securityaffairs.co/wordpress/133409/apt/apt29-google-drive-dropbox.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK heat wave causes Google and Oracle cloud outages<a href="https://www.bleepingcomputer.com/news/security/uk-heat-wave-causes-google-and-oracle-cloud-outages/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Reveal a New Technique to Unmask Anonymous Users<a href="https://cyware.com/news/researchers-reveal-a-new-technique-to-unmask-anonymous-users-2344ad3f"> Full Text</a>
@@ -202,7 +202,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Air-Gap Attack Uses SATA Cable as an Antenna to Transfer Radio Signals<a href="https://thehackernews.com/2022/07/new-air-gap-attack-uses-sata-cable-as.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks create rogue cryptocurrency-themed apps to steal crypto assets from users<a href="https://securityaffairs.co/wordpress/133402/cyber-crime/fbi-rogue-cryptocurrency-themed-apps.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU warns of Russian cyberattack spillover, escalation risks<a href="https://www.bleepingcomputer.com/news/security/eu-warns-of-russian-cyberattack-spillover-escalation-risks/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker Targeting Industrial Control Systems<a href="https://cyware.com/news/hacker-targeting-industrial-control-systems-2ef6f279"> Full Text</a>
@@ -270,7 +270,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Several apps on the Play Store used to spread Joker, Facestealer and Coper malware<a href="https://securityaffairs.co/wordpress/133394/malware/play-store-apps-joker-facestealer-coper.html"> Full Text</a>
@@ -290,7 +290,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Android apps with 300K installs found on Google Play<a href="https://www.bleepingcomputer.com/news/security/malicious-android-apps-with-300k-installs-found-on-google-play/"> Full Text</a>
@@ -306,7 +306,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WatchDog Adds Steganography in Cryptojacking Operations<a href="https://cyware.com/news/watchdog-adds-steganography-in-cryptojacking-operations-3e430448"> Full Text</a>
@@ -322,7 +322,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian hackers use fake DDoS app to infect pro-Ukrainian activists<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-use-fake-ddos-app-to-infect-pro-ukrainian-activists/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sality Botnet Evolves to Target Industrial Control Systems<a href="https://cyware.com/news/sality-botnet-evolves-to-target-industrial-control-systems-b067ad9c"> Full Text</a>
@@ -354,7 +354,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular vehicle GPS tracker gives hackers admin privileges over SMS<a href="https://www.bleepingcomputer.com/news/security/popular-vehicle-gps-tracker-gives-hackers-admin-privileges-over-sms/"> Full Text</a>
@@ -370,7 +370,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Extortionists target restaurants, demand money to take down bad reviews<a href="https://blog.malwarebytes.com/social-engineering/2022/07/extortionists-target-restaurants-demand-money-to-take-down-bad-reviews/?&web_view=true"> Full Text</a>
@@ -386,7 +386,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Belgium says Chinese hackers attacked its Ministry of Defense<a href="https://www.bleepingcomputer.com/news/security/belgium-says-chinese-hackers-attacked-its-ministry-of-defense/"> Full Text</a>
@@ -402,7 +402,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Nvidia giveaway promises bitcoin<a href="https://usa.kaspersky.com/blog/nvidia-giveaway-bitcoin-scam/26770/?&web_view=true"> Full Text</a>
@@ -418,7 +418,7 @@ Kaspersky Lab
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers steal 50,000 credit cards from 300 U.S. restaurants<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-50-000-credit-cards-from-300-us-restaurants/"> Full Text</a>
@@ -434,7 +434,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security issue in Accusoft ImageGear could lead to memory corruption, code execution<a href="https://blog.talosintelligence.com/2022/07/accusoft-vuln-spotlight-.html?&web_view=true"> Full Text</a>
@@ -450,7 +450,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Air-gapped systems leak data via SATA cable WiFi antennas<a href="https://www.bleepingcomputer.com/news/security/air-gapped-systems-leak-data-via-sata-cable-wifi-antennas/"> Full Text</a>
@@ -466,7 +466,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian SVR hackers use Google Drive, Dropbox to evade detection<a href="https://www.bleepingcomputer.com/news/security/russian-svr-hackers-use-google-drive-dropbox-to-evade-detection/"> Full Text</a>
@@ -482,7 +482,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New CloudMensis malware backdoors Macs to steal victims’ data<a href="https://www.bleepingcomputer.com/news/security/new-cloudmensis-malware-backdoors-macs-to-steal-victims-data/"> Full Text</a>
@@ -498,7 +498,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Urges Patch of Exploited Windows 11 Bug by Aug. 2<a href="https://threatpost.com/cisa-urges-patch-11-bug/180235/"> Full Text</a>
@@ -514,7 +514,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Several New Play Store Apps Spotted Distributing Joker, Facestealer and Coper Malware<a href="https://thehackernews.com/2022/07/several-new-play-store-apps-spotted.html"> Full Text</a>
@@ -530,7 +530,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2022
+July 18, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns of Fake Cryptocurrency Apps Stealing Millions from Investors<a href="https://thehackernews.com/2022/07/fbi-warns-of-fake-cryptocurrency-apps.html"> Full Text</a>

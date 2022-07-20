@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK heat wave causes Google and Oracle cloud outages<a href="https://www.bleepingcomputer.com/news/security/uk-heat-wave-causes-google-and-oracle-cloud-outages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing heatwave in the United Kingdom has led to Google Cloud and Oracle Cloud outages after cooling systems failed at the companies' data centers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

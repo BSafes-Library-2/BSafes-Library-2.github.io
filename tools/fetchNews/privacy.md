@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pegasus Spyware Used to Hack Devices of Pro-Democracy Activists in Thailand<a href="https://thehackernews.com/2022/07/pegasus-spyware-used-to-hack-devices-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thai activists involved in the country's pro-democracy protests have had their smartphones infected with the infamous Pegasus government-sponsored spyware.  At least 30 individuals, spanning activists, academics, lawyers, and NGO workers, are believed to have been infected between October 2020 and November 2021, many of whom have been previously detained, arrested and imprisoned for their political activities or criticism of the government.  "The timing of the infections is highly relevant to specific political events in Thailand, as well as specific actions by the Thai justice system," the Citizen Lab&nbsp; said &nbsp;in a Sunday report. "In many cases, for example, infections occurred slightly before protests and other political activities by the victims."  The findings are the result of&nbsp; threat notifications &nbsp;sent by Apple last November to alert users it believes have been targeted by state-sponsored attackers.   The attacks entailed the use of two zero-click exploits
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

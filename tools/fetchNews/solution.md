@@ -8,6 +8,24 @@ nav_order: 900195
 
 ## Solution
 ---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Browser 11.5 is optimized to automatically bypass censorship<a href="https://securityaffairs.co/wordpress/133371/digital-id/tor-browser-bypass-censorship.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project team has announced the release of Tor Browser 11.5, which introduces functionalities to automatically bypass censorship.
+
+
+
+The Tor Project team has announced the release of Tor Browser 11.5, the new version of the popular privacy-oriented...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

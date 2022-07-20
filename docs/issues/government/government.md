@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warning: Fake Apps Defraud Investors of Over $42 Million<a href="https://cyware.com/news/fbi-warning-fake-apps-defraud-investors-of-over-42-million-94e8c835"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new alert by the FBI is cautioning users against downloading malicious apps for investing in cryptocurrency assets. Hackers are operating under fraudulent company names to lure potential investors. To verify if the company behind such apps is genuine or not, always visit the official websit ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Urges Patch of Exploited Windows 11 Bug by Aug. 2<a href="https://threatpost.com/cisa-urges-patch-11-bug/180235/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Feds urge U.S. agencies to patch a Microsoft July Patch Tuesday 2022 bug that is being exploited in the wild by August 2. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Fake Cryptocurrency Apps Stealing Millions from Investors<a href="https://thehackernews.com/2022/07/fbi-warns-of-fake-cryptocurrency-apps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) has warned of cyber criminals building rogue cryptocurrency-themed apps to defraud investors in the virtual assets space.  "The FBI has observed cyber criminals contacting U.S. investors, fraudulently claiming to offer legitimate cryptocurrency investment services, and convincing investors to download fraudulent mobile apps, which the cyber criminals have used with increasing success over time to defraud the investors of their cryptocurrency," the agency&nbsp; said &nbsp;[PDF].   The illicit scheme, which aims to take advantage of increased interest in the crypto sector, is believed to have netted 244 victims, with losses estimated at $42.7 million between October 4, 2021, and May 13, 2022.  According to the law enforcement authority, threat actors are misusing the names, logos, and other identifying information of legitimate businesses to create fake websites in an attempt to lure potential investors.   In three instances highlighted by
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

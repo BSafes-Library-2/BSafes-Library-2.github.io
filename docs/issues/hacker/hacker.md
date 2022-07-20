@@ -8,6 +8,62 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Reveal a New Technique to Unmask Anonymous Users<a href="https://cyware.com/news/researchers-reveal-a-new-technique-to-unmask-anonymous-users-2344ad3f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the New Jersey Institute of Technology warned against a unique tactic that can be used by threat actors to de-anonymize website visitors and link them to potential personal data. The hack analyzes low-key features of a target’s browser activity to find out whether they are logged i ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Targeting Industrial Control Systems<a href="https://cyware.com/news/hacker-targeting-industrial-control-systems-2ef6f279"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several accounts on social media websites were found promoting PLC and HMI systems through fake file password cracking software to deploy the Sality malware. Sality is an old malware that requires a distributed computing architecture to complete tasks, such as cryptomining and password cracking, fa ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers use fake DDoS app to infect pro-Ukrainian activists<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-use-fake-ddos-app-to-infect-pro-ukrainian-activists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG),&nbsp;whose primary&nbsp;goal is to defend&nbsp;Google users from state-sponsored attacks, said today that Russian-backed threat groups are still focusing their attacks on Ukrainian organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian SVR hackers use Google Drive, Dropbox to evade detection<a href="https://www.bleepingcomputer.com/news/security/russian-svr-hackers-use-google-drive-dropbox-to-evade-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State-backed hackers part of&nbsp;Russia's Federation Foreign Intelligence Service (SVR) have switched,&nbsp;for the first time, to using legitimate cloud storage services such as Google Drive to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
