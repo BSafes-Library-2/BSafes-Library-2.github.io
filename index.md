@@ -34,6 +34,518 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking group '8220' grows cloud botnet to more than 30,000 hosts<a href="https://www.bleepingcomputer.com/news/security/hacking-group-8220-grows-cloud-botnet-to-more-than-30-000-hosts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cryptomining gang known as 8220 Gang has been exploiting Linux and cloud app vulnerabilities to grow their botnet to more than 30,000 infected hosts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Abusing Windows NFS Remote Code Execution Flaw<a href="https://cyware.com/news/hacker-abusing-windows-nfs-remote-code-execution-flaw-77ebd4ba"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro analyzed and warned against a Windows RCE vulnerability, identified as CVE-2022-30136, impacting the Network File System. The flaw occurs due to improper handling of NFSv4 requests which could be abused by sending malicious RPC calls to a target server. An advisory suggests that a user  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover New CloudMensis Spyware Targeting Apple macOS Users<a href="https://thehackernews.com/2022/07/experts-uncover-new-cloudmensis-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have taken the wraps off a previously undocumented spyware targeting the Apple macOS operating system.  The malware, codenamed  CloudMensis  by Slovak cybersecurity firm ESET, is said to exclusively use public cloud storage services such as pCloud, Yandex Disk, and Dropbox for receiving attacker commands and exfiltrating files.  "Its capabilities clearly show that the intent of its operators is to gather information from the victims' Macs by exfiltrating documents, keystrokes, and screen captures," ESET researcher Marc-Etienne M.Léveillé  said  in a report published today.   CloudMensis, written in Objective-C, was first discovered in April 2022 and is designed to strike both Intel and Apple silicon architectures. The initial infection vector for the attacks and the targets remain unknown as yet. But its very limited distribution is an indication that the malware is being used as part of a highly targeted operation directed against entities of i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CloudMensis spyware went undetected for many years<a href="https://securityaffairs.co/wordpress/133416/hacking/cloudmensis-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted previously undocumented spyware, dubbed CloudMensis, that targets the Apple macOS systems.
+
+
+
+Researchers from ESET discovered a previously undetected macOS backdoor, tracked as CloudMensis, that targets macOS systems and exclusively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Building materials giant Knauf hit by Black Basta ransomware gang<a href="https://www.bleepingcomputer.com/news/security/building-materials-giant-knauf-hit-by-black-basta-ransomware-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Knauf Group has announced it has been the target of a cyberattack that has disrupted its business operations, forcing its global IT team to shut down all IT systems to isolate the incident.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warning: Fake Apps Defraud Investors of Over $42 Million<a href="https://cyware.com/news/fbi-warning-fake-apps-defraud-investors-of-over-42-million-94e8c835"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new alert by the FBI is cautioning users against downloading malicious apps for investing in cryptocurrency assets. Hackers are operating under fraudulent company names to lure potential investors. To verify if the company behind such apps is genuine or not, always visit the official websit ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Experts Warn of Two Primary Client-Side Risks Associated with Data Exfiltration and Loss<a href="https://thehackernews.com/2022/07/security-experts-warn-of-two-primary.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two client-side risks dominate the problems with data loss and data exfiltration: improperly placed trackers on websites and web applications and malicious client-side code pulled from third-party repositories like NPM.   Client-side security researchers are finding that improperly placed trackers, while not intentionally malicious, are a growing problem and have clear and significant privacy implications when it comes to both compliance/regulatory concerns, like HIPAA or PCI DSS 4.0. To highlight the risks with misplaced trackers, a  recent study  by The Markup (a non-profit news organization) examined Newsweek's top 100 hospitals in America. They found a Facebook tracker on one-third of the hospital websites which sent Facebook highly personal healthcare data whenever the user clicked the "schedule appointment" button. The data was not necessarily anonymized, because the data was connected to an IP address, and both the IP address and the appointment information get delivered to Fac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT29 relies on Google Drive, Dropbox to evade detection<a href="https://securityaffairs.co/wordpress/133409/apt/apt29-google-drive-dropbox.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked threat actors APT29 are using the Google Drive cloud storage service to evade detection.
+
+
+
+Palo Alto Networks researchers reported that the Russia-linked APT29 group, tracked by the researchers as Cloaked Ursa, started using the Google...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK heat wave causes Google and Oracle cloud outages<a href="https://www.bleepingcomputer.com/news/security/uk-heat-wave-causes-google-and-oracle-cloud-outages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing heatwave in the United Kingdom has led to Google Cloud and Oracle Cloud outages after cooling systems failed at the companies' data centers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Reveal a New Technique to Unmask Anonymous Users<a href="https://cyware.com/news/researchers-reveal-a-new-technique-to-unmask-anonymous-users-2344ad3f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the New Jersey Institute of Technology warned against a unique tactic that can be used by threat actors to de-anonymize website visitors and link them to potential personal data. The hack analyzes low-key features of a target’s browser activity to find out whether they are logged i ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Air-Gap Attack Uses SATA Cable as an Antenna to Transfer Radio Signals<a href="https://thehackernews.com/2022/07/new-air-gap-attack-uses-sata-cable-as.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new method devised to leak information and jump over air-gaps takes advantage of Serial Advanced Technology Attachment ( SATA ) or Serial ATA cables as a communication medium, adding to a  long list  of electromagnetic, magnetic, electric, optical, and acoustic methods already demonstrated to plunder data.  "Although air-gap computers have no wireless connectivity, we show that attackers can use the SATA cable as a wireless antenna to transfer radio signals at the 6GHz frequency band," Dr. Mordechai Guri, the head of R&D in the Cyber Security Research Center in the Ben Gurion University of the Negev in Israel,  wrote  in a paper published last week.  The technique, dubbed  SATAn , takes advantage of the prevalence of the computer bus interface, making it "highly available to attackers in a wide range of computer systems and IT environments."  Put simply, the goal is to use the SATA cable as a covert channel to emanate electromagnetic signals and transfer a br
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks create rogue cryptocurrency-themed apps to steal crypto assets from users<a href="https://securityaffairs.co/wordpress/133402/cyber-crime/fbi-rogue-cryptocurrency-themed-apps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. FBI has warned of crooks developing malicious cryptocurrency-themed apps to steal crypto assets from the users.
+
+
+
+The U.S. Federal Bureau of Investigation (FBI) has warned of crooks creating malicious cryptocurrency-themed apps to steal crypto...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU warns of Russian cyberattack spillover, escalation risks<a href="https://www.bleepingcomputer.com/news/security/eu-warns-of-russian-cyberattack-spillover-escalation-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Council of the European Union (EU) said today that Russian hackers and hacker groups increasingly attacking "essential" organizations worldwide could lead to spillover risks and potential escalation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Targeting Industrial Control Systems<a href="https://cyware.com/news/hacker-targeting-industrial-control-systems-2ef6f279"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several accounts on social media websites were found promoting PLC and HMI systems through fake file password cracking software to deploy the Sality malware. Sality is an old malware that requires a distributed computing architecture to complete tasks, such as cryptomining and password cracking, fa ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several apps on the Play Store used to spread Joker, Facestealer and Coper malware<a href="https://securityaffairs.co/wordpress/133394/malware/play-store-apps-joker-facestealer-coper.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google blocked dozens of malicious apps from the official Play Store that were spreading Joker, Facestealer, and Coper malware families.
+
+
+
+Google has removed dozens of malicious apps from the official Play Store that were distributing Joker, Facestealer,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Android apps with 300K installs found on Google Play<a href="https://www.bleepingcomputer.com/news/security/malicious-android-apps-with-300k-installs-found-on-google-play/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered three Android malware families infiltrating the Google Play Store, hiding their malicious payloads inside many seemingly innocuous applications.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WatchDog Adds Steganography in Cryptojacking Operations<a href="https://cyware.com/news/watchdog-adds-steganography-in-cryptojacking-operations-3e430448"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The XMRig miner was disguised as an image and hosted on compromised cloud storage (Alibaba Object Storage Service). This enabled the attackers to maintain low detection rates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers use fake DDoS app to infect pro-Ukrainian activists<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-use-fake-ddos-app-to-infect-pro-ukrainian-activists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG), whose primary goal is to defend Google users from state-sponsored attacks, said today that Russian-backed threat groups are still focusing their attacks on Ukrainian organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sality Botnet Evolves to Target Industrial Control Systems<a href="https://cyware.com/news/sality-botnet-evolves-to-target-industrial-control-systems-b067ad9c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor is infecting ICS to create a botnet through password cracking software for unlocking Programmable Logic Controllers (PLCs) and Human Machine Interface (HMI) terminals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular vehicle GPS tracker gives hackers admin privileges over SMS<a href="https://www.bleepingcomputer.com/news/security/popular-vehicle-gps-tracker-gives-hackers-admin-privileges-over-sms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerability researchers have found security issues in a GPS tracker that is advertised as being present in about 1.5 million vehicles in 169 countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Extortionists target restaurants, demand money to take down bad reviews<a href="https://blog.malwarebytes.com/social-engineering/2022/07/extortionists-target-restaurants-demand-money-to-take-down-bad-reviews/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The possibility has always existed to leave poor reviews on Google Maps and elsewhere. However, seeing fraudsters get organized and issue extortion threats alongside the review is a new development.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgium says Chinese hackers attacked its Ministry of Defense<a href="https://www.bleepingcomputer.com/news/security/belgium-says-chinese-hackers-attacked-its-ministry-of-defense/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Minister for Foreign Affairs of Belgium says multiple Chinese state-backed threat groups targeted the country's defense and interior ministries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Nvidia giveaway promises bitcoin<a href="https://usa.kaspersky.com/blog/nvidia-giveaway-bitcoin-scam/26770/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the splash screen of the fake website, visitors see the company logo (albeit purple, not the usual green) and the name of its CEO, Jensen Huang. Visitors are asked here to “select a category” to take part in the “event”.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Lab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal 50,000 credit cards from 300 U.S. restaurants<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-50-000-credit-cards-from-300-us-restaurants/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Payment card details from customers of more than 300 restaurants have been stolen in two web-skimming campaigns targeting three online ordering platforms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security issue in Accusoft ImageGear could lead to memory corruption, code execution<a href="https://blog.talosintelligence.com/2022/07/accusoft-vuln-spotlight-.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered a use-after-free vulnerability in Accusoft ImageGear's PSD header processing function. The library is a document-imaging developer toolkit that allows users to create, edit, annotate and convert various images.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air-gapped systems leak data via SATA cable WiFi antennas<a href="https://www.bleepingcomputer.com/news/security/air-gapped-systems-leak-data-via-sata-cable-wifi-antennas/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Israeli security researcher has demonstrated a novel attack against air-gapped systems by leveraging the SATA cables inside computers as a wireless antenna to emanate data via radio signals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian SVR hackers use Google Drive, Dropbox to evade detection<a href="https://www.bleepingcomputer.com/news/security/russian-svr-hackers-use-google-drive-dropbox-to-evade-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State-backed hackers part of Russia's Federation Foreign Intelligence Service (SVR) have switched, for the first time, to using legitimate cloud storage services such as Google Drive to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New CloudMensis malware backdoors Macs to steal victims’ data<a href="https://www.bleepingcomputer.com/news/security/new-cloudmensis-malware-backdoors-macs-to-steal-victims-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unknown threat actors are using previously undetected malware to backdoor macOS devices and exfiltrate information in a highly targeted series of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Urges Patch of Exploited Windows 11 Bug by Aug. 2<a href="https://threatpost.com/cisa-urges-patch-11-bug/180235/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Feds urge U.S. agencies to patch a Microsoft July Patch Tuesday 2022 bug that is being exploited in the wild by August 2. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several New Play Store Apps Spotted Distributing Joker, Facestealer and Coper Malware<a href="https://thehackernews.com/2022/07/several-new-play-store-apps-spotted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has taken steps to ax dozens of fraudulent apps from the official Play Store that were spotted propagating Joker, Facestealer, and Coper malware families through the virtual marketplace.  While the Android storefront is considered to be a trusted source for discovering and installing apps, bad actors have repeatedly found ways to sneak past security barriers erected by Google in hopes of luring unsuspecting users into downloading malware-laced apps.  The latest findings from  Zscaler ThreatLabz  and  Pradeo  are no different. "Joker is one of the most  prominent malware families  targeting Android devices," researchers Viral Gandhi and Himanshu Sharma said in a Monday report.  "Despite public awareness of this particular malware, it keeps finding its way into Google's official app store by regularly modifying the malware's trace signatures including updates to the code, execution methods, and payload-retrieving techniques."   Categorized as  fleecewa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Fake Cryptocurrency Apps Stealing Millions from Investors<a href="https://thehackernews.com/2022/07/fbi-warns-of-fake-cryptocurrency-apps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) has warned of cyber criminals building rogue cryptocurrency-themed apps to defraud investors in the virtual assets space.  "The FBI has observed cyber criminals contacting U.S. investors, fraudulently claiming to offer legitimate cryptocurrency investment services, and convincing investors to download fraudulent mobile apps, which the cyber criminals have used with increasing success over time to defraud the investors of their cryptocurrency," the agency  said  [PDF].   The illicit scheme, which aims to take advantage of increased interest in the crypto sector, is believed to have netted 244 victims, with losses estimated at $42.7 million between October 4, 2021, and May 13, 2022.  According to the law enforcement authority, threat actors are misusing the names, logos, and other identifying information of legitimate businesses to create fake websites in an attempt to lure potential investors.   In three instances highlighted by
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 18, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
