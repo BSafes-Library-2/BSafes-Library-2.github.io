@@ -34,6 +34,62 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU warns of risks of spillover effects associated with the ongoing war in Ukraine<a href="https://securityaffairs.co/wordpress/133436/cyber-warfare-2/eu-warns-ukraine-spillover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Council of the European Union (EU) warns of malicious cyber activities conducted by threat actors in the context of the ongoing conflict between Russia and Ukraine.
+
+
+
+The Council of the European Union (EU) warns of the risks associated with the malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgium claims China-linked APT groups hit its ministries<a href="https://securityaffairs.co/wordpress/133425/apt/belgium-claims-china-hit-its-ministries.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Minister for Foreign Affairs of Belgium blames multiple China-linked threat actors for attacks against The country's defense and interior ministries.
+
+
+
+The Minister for Foreign Affairs of Belgium revealed that multiple China-linked APT groups targeted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Tricked Ukrainians with Fake "DoS Android Apps to Target Russia"<a href="https://thehackernews.com/2022/07/russian-hackers-tricked-ukrainians-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian threat actors capitalized on the  ongoing conflict  against Ukraine to distribute Android malware camouflaged as an app for pro-Ukrainian hacktivists to launch distributed denial-of-service (DDoS) attacks against Russian sites.  Google Threat Analysis Group (TAG) attributed the malware to Turla, an advanced persistent threat also known as Krypton, Venomous Bear, Waterbug, and Uroburos, and linked to Russia's Federal Security Service (FSB).  "This is the first known instance of Turla distributing Android-related malware," TAG researcher Billy Leonard  said . "The apps were not distributed through the Google Play Store, but hosted on a domain controlled by the actor and disseminated via links on third party messaging services."   It's worth noting that the  onslaught  of  cyberattacks  in the immediate aftermath of Russia's unprovoked invasion of Ukraine prompted the latter to  form an IT Army  to stage counter-DDoS attacks against Russian website
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 19, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

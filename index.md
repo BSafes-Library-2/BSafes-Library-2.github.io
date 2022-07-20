@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 20, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Linus Torvalds says Linux kernel has addressed ‘Retbleed’<a href="https://www.theregister.com/2022/07/17/linux_5_19_rc7/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Linux kernel developers have addressed the Retbleed speculative execution bug in older Intel and AMD silicon, though the fix wasn't straightforward, so Linus Torvalds has delayed delivery of the next kernel version by a week.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 EU warns of risks of spillover effects associated with the ongoing war in Ukraine<a href="https://securityaffairs.co/wordpress/133436/cyber-warfare-2/eu-warns-ukraine-spillover.html"> Full Text</a>
 </p>
 <details>
