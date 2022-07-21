@@ -8,6 +8,38 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks create rogue cryptocurrency-themed apps to steal crypto assets from users<a href="https://securityaffairs.co/wordpress/133402/cyber-crime/fbi-rogue-cryptocurrency-themed-apps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. FBI has warned of crooks developing malicious cryptocurrency-themed apps to steal crypto assets from the users.
+
+
+
+The U.S. Federal Bureau of Investigation (FBI) has warned of crooks creating malicious cryptocurrency-themed apps to steal crypto...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WatchDog Adds Steganography in Cryptojacking Operations<a href="https://cyware.com/news/watchdog-adds-steganography-in-cryptojacking-operations-3e430448"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The XMRig miner was disguised as an image and hosted on compromised cloud storage (Alibaba Object Storage Service). This enabled the attackers to maintain low detection rates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

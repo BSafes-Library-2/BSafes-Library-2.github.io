@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Neopets data breach exposes personal data of 69 million members<a href="https://www.bleepingcomputer.com/news/security/neopets-data-breach-exposes-personal-data-of-69-million-members/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Virtual pet website Neopets has suffered a data breach leading to the theft of source code and a database containing the personal information of over 69 million members.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feelyou Mental Health App Discloses Exposure of 78,000 User Emails in Breach<a href="https://therecord.media/feelyou-mental-health-app-says-emails-of-78000-users-exposed-in-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When asked for comment, Bajji – the company that owns Feelyou – directed The Record to a statement released on Tuesday, disclosing that the vulnerability in the platform was patched on Saturday, July 16.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

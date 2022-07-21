@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Neopets data breach exposes personal data of 69 million members<a href="https://www.bleepingcomputer.com/news/security/neopets-data-breach-exposes-personal-data-of-69-million-members/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Elastix VoIP Systems Hacked to Serve Web shells<a href="https://cyware.com/news/elastix-voip-systems-hacked-to-serve-web-shells-ca7f45e1"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Adds Support for DNS-over-HTTP/3 in Android to Keep DNS Queries Private<a href="https://thehackernews.com/2022/07/google-adds-support-for-dns-over-http3.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Luna ransomware targets Windows, Linux and ESXi systems<a href="https://securityaffairs.co/wordpress/133454/cyber-crime/luna-ransomware-rust.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google boosts Android privacy with support for DNS-over-HTTP/3<a href="https://www.bleepingcomputer.com/news/security/google-boosts-android-privacy-with-support-for-dns-over-http-3/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Cyber Command Exposes Malware Targeting Ukrainian Entities<a href="https://www.cyberscoop.com/cyber-command-malware-ukraine/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ CyberScoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Rust-based Ransomware Family Targets Windows, Linux, and ESXi Systems<a href="https://thehackernews.com/2022/07/new-rust-based-ransomware-family.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Million of vehicles can be attacked via MiCODUS MV720 GPS Trackers<a href="https://securityaffairs.co/wordpress/133445/hacking/micodus-tracker-flaws.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian fixes critical Confluence hardcoded credentials flaw<a href="https://www.bleepingcomputer.com/news/security/atlassian-fixes-critical-confluence-hardcoded-credentials-flaw/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What's your ransomware risk?<a href="https://www.gcn.com/cybersecurity/2022/07/cis-tool-analyzes-ransomware-risk/374598/?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ GCN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This Cloud Botnet Has Hijacked 30,000 Systems to Mine Cryptocurrencies<a href="https://thehackernews.com/2022/07/this-cloud-botnet-has-hijacked-30000.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Convincing ‘YouTube’ Google ads lead to Windows support scams<a href="https://www.bleepingcomputer.com/news/security/convincing-youtube-google-ads-lead-to-windows-support-scams/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Niche cryptographic technique could transform privacy in web3<a href="https://techcrunch.com/2022/07/18/crypto-blockchain-web3-privacy-cryptography-fully-homomorphic-encryption-startup-sunscreen/?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched GPS Tracker Bugs Could Let Attackers Disrupt Vehicles Remotely<a href="https://thehackernews.com/2022/07/unpatched-gps-tracker-bugs-could-let.html"> Full Text</a>
@@ -266,7 +266,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes bug that lets attackers execute commands as root<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-bug-that-lets-attackers-execute-commands-as-root/"> Full Text</a>
@@ -282,7 +282,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feelyou Mental Health App Discloses Exposure of 78,000 User Emails in Breach<a href="https://therecord.media/feelyou-mental-health-app-says-emails-of-78000-users-exposed-in-breach/?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dealing With Alert Overload? There's a Guide For That<a href="https://thehackernews.com/2022/07/dealing-with-alert-overload-theres.html"> Full Text</a>
@@ -314,7 +314,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Calendar provides new way to block invitation phishing<a href="https://www.bleepingcomputer.com/news/security/google-calendar-provides-new-way-to-block-invitation-phishing/"> Full Text</a>
@@ -330,7 +330,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AppViewX raises $20 million to help organizations reduce their digital risk<a href="https://www.helpnetsecurity.com/2022/07/20/appviewx-funding/?&web_view=true"> Full Text</a>
@@ -346,7 +346,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LinkedIn remains the most impersonated brand in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/linkedin-remains-the-most-impersonated-brand-in-phishing-attacks/"> Full Text</a>
@@ -362,7 +362,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI recovers $500,000 healthcare orgs paid to Maui ransomware<a href="https://www.bleepingcomputer.com/news/security/fbi-recovers-500-000-healthcare-orgs-paid-to-maui-ransomware/"> Full Text</a>
@@ -378,7 +378,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3rd Party Services Are Falling Short on Password Security <a href="https://www.bleepingcomputer.com/news/security/3rd-party-services-are-falling-short-on-password-security/"> Full Text</a>
@@ -394,7 +394,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Luna ransomware encrypts Windows, Linux, and ESXi systems<a href="https://www.bleepingcomputer.com/news/security/new-luna-ransomware-encrypts-windows-linux-and-esxi-systems/"> Full Text</a>
@@ -410,7 +410,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Are your visuals making businesses more vulnerable to cybercrime?<a href="https://www.tripwire.com/state-of-security/security-data-protection/visuals-making-businesses-more-vulnerable-cybercrime/?&web_view=true"> Full Text</a>
@@ -426,7 +426,7 @@ Tripwire
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linus Torvalds says Linux kernel has addressed ‘Retbleed’<a href="https://www.theregister.com/2022/07/17/linux_5_19_rc7/?&web_view=true"> Full Text</a>
@@ -442,7 +442,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU warns of risks of spillover effects associated with the ongoing war in Ukraine<a href="https://securityaffairs.co/wordpress/133436/cyber-warfare-2/eu-warns-ukraine-spillover.html"> Full Text</a>
@@ -462,7 +462,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Belgium claims China-linked APT groups hit its ministries<a href="https://securityaffairs.co/wordpress/133425/apt/belgium-claims-china-hit-its-ministries.html"> Full Text</a>
@@ -482,7 +482,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Tricked Ukrainians with Fake "DoS Android Apps to Target Russia"<a href="https://thehackernews.com/2022/07/russian-hackers-tricked-ukrainians-with.html"> Full Text</a>
@@ -498,7 +498,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Using DropBox and Google Drive to Drop Malicious Payloads<a href="https://thehackernews.com/2022/07/russian-hackers-using-dropbox-and.html"> Full Text</a>

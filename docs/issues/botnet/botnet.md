@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This Cloud Botnet Has Hijacked 30,000 Systems to Mine Cryptocurrencies<a href="https://thehackernews.com/2022/07/this-cloud-botnet-has-hijacked-30000.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 8220 cryptomining group  has expanded in size to encompass as many as 30,000 infected hosts, up from 2,000 hosts globally in mid-2021.  "8220 Gang is one of the many low-skill crimeware gangs we continually observe infecting cloud hosts and operating a botnet and cryptocurrency miners through known vulnerabilities and remote access brute forcing infection vectors," Tom Hegel of SentinelOne&nbsp; said &nbsp;in a Monday report.  The growth is said to have been fueled through the use of Linux and common cloud application vulnerabilities and poorly secured configurations for services such as Docker, Apache WebLogic, and Redis.   Active since early 2017, the Chinese-speaking, Monero-mining threat actor was most recently&nbsp; seen &nbsp;targeting i686 and x86_64 Linux systems by means of weaponizing a recent remote code execution exploit for Atlassian Confluence Server (CVE-2022-26134) to drop the PwnRig miner payload.  "Victims are not targeted geographically, but simply identified by thei
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

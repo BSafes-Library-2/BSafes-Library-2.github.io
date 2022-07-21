@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elastix VoIP Systems Hacked to Serve Web shells<a href="https://cyware.com/news/elastix-voip-systems-hacked-to-serve-web-shells-ca7f45e1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale campaign was found targeting Elastix VoIP telephony servers with over 500,000 malware samples, over a period of three months. The campaign’s goal was to plant a PHP web shell to run arbitrary commands on infected communications servers. The operation systematically exploited SIP serve ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

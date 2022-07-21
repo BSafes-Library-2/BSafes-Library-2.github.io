@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Million of vehicles can be attacked via MiCODUS MV720 GPS Trackers<a href="https://securityaffairs.co/wordpress/133445/hacking/micodus-tracker-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple flaws in MiCODUS MV720&nbsp;Global Positioning System (GPS) trackers shipped with over 1.5 million vehicles can allow hackers to remotely hack them.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) published an advisory to warn...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian fixes critical Confluence hardcoded credentials flaw<a href="https://www.bleepingcomputer.com/news/security/atlassian-fixes-critical-confluence-hardcoded-credentials-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has patched a critical hardcoded credentials vulnerability in Confluence Server and Data Center that could let remote, unauthenticated attackers log into vulnerable, unpatched servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched GPS Tracker Bugs Could Let Attackers Disrupt Vehicles Remotely<a href="https://thehackernews.com/2022/07/unpatched-gps-tracker-bugs-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a handful of unpatched security vulnerabilities in&nbsp; MiCODUS MV720 &nbsp;Global Positioning System (GPS) trackers outfitted in over 1.5 million vehicles that could lead to remote disruption of critical operations.  "Successful exploitation of these vulnerabilities may allow a remote actor to exploit access and gain control of the global positioning system tracker," CISA&nbsp; said . "These vulnerabilities could impact access to a vehicle fuel supply, vehicle control, or allow locational surveillance of vehicles in which the device is installed."  Available on sale for $20 and manufactured by the China-based MiCODUS, the company's tracking devices are employed by major organizations in 169 countries spanning aerospace, energy, engineering, government, manufacturing, nuclear power plant, and shipping sectors.   The top countries with the most users include Chile, Australia, Mexico, Ukraine, Russi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes bug that lets attackers execute commands as root<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-bug-that-lets-attackers-execute-commands-as-root/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed severe&nbsp;vulnerabilities in the Cisco Nexus Dashboard data center management solution that can let remote attackers execute commands and perform actions with root or Administrator privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are your visuals making businesses more vulnerable to cybercrime?<a href="https://www.tripwire.com/state-of-security/security-data-protection/visuals-making-businesses-more-vulnerable-cybercrime/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Entertaining short-form content and striking imagery are what make companies and brands stand out online but it’s important to remain aware of your cybersecurity and data protection.
+</details>
+<div style="text-align: right" markdown="1">
+Tripwire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linus Torvalds says Linux kernel has addressed ‘Retbleed’<a href="https://www.theregister.com/2022/07/17/linux_5_19_rc7/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Linux kernel developers have addressed the Retbleed speculative execution bug in older Intel and AMD silicon, though the fix wasn't straightforward, so Linus Torvalds has delayed delivery of the next kernel version by a week.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

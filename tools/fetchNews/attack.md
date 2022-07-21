@@ -8,6 +8,76 @@ nav_order: 900015
 
 ## Attack
 ---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Building materials giant Knauf hit by Black Basta ransomware gang<a href="https://www.bleepingcomputer.com/news/security/building-materials-giant-knauf-hit-by-black-basta-ransomware-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Knauf Group has announced it has been the target of a cyberattack that has disrupted its business operations, forcing its global IT team to shut down all IT systems to isolate the incident.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Air-Gap Attack Uses SATA Cable as an Antenna to Transfer Radio Signals<a href="https://thehackernews.com/2022/07/new-air-gap-attack-uses-sata-cable-as.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new method devised to leak information and jump over air-gaps takes advantage of Serial Advanced Technology Attachment ( SATA ) or Serial ATA cables as a communication medium, adding to a&nbsp; long list &nbsp;of electromagnetic, magnetic, electric, optical, and acoustic methods already demonstrated to plunder data.  "Although air-gap computers have no wireless connectivity, we show that attackers can use the SATA cable as a wireless antenna to transfer radio signals at the 6GHz frequency band," Dr. Mordechai Guri, the head of R&amp;D in the Cyber Security Research Center in the Ben Gurion University of the Negev in Israel,&nbsp; wrote &nbsp;in a paper published last week.  The technique, dubbed&nbsp; SATAn , takes advantage of the prevalence of the computer bus interface, making it "highly available to attackers in a wide range of computer systems and IT environments."  Put simply, the goal is to use the SATA cable as a covert channel to emanate electromagnetic signals and transfer a br
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU warns of Russian cyberattack spillover, escalation risks<a href="https://www.bleepingcomputer.com/news/security/eu-warns-of-russian-cyberattack-spillover-escalation-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Council of the European Union (EU) said today that Russian hackers and hacker groups increasingly attacking "essential" organizations worldwide could lead to spillover risks and potential escalation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgium says Chinese hackers attacked its Ministry of Defense<a href="https://www.bleepingcomputer.com/news/security/belgium-says-chinese-hackers-attacked-its-ministry-of-defense/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Minister for Foreign Affairs of Belgium says multiple Chinese state-backed threat groups targeted the country's defense and interior ministries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air-gapped systems leak data via SATA cable WiFi antennas<a href="https://www.bleepingcomputer.com/news/security/air-gapped-systems-leak-data-via-sata-cable-wifi-antennas/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Israeli security researcher has demonstrated a novel attack against air-gapped systems by leveraging the SATA cables inside computers as a wireless antenna to emanate data via radio signals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

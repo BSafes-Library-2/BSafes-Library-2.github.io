@@ -11,6 +11,34 @@ nav_order: 900080
 July 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Tricked Ukrainians with Fake "DoS Android Apps to Target Russia"<a href="https://thehackernews.com/2022/07/russian-hackers-tricked-ukrainians-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian threat actors capitalized on the&nbsp; ongoing conflict &nbsp;against Ukraine to distribute Android malware camouflaged as an app for pro-Ukrainian hacktivists to launch distributed denial-of-service (DDoS) attacks against Russian sites.  Google Threat Analysis Group (TAG) attributed the malware to Turla, an advanced persistent threat also known as Krypton, Venomous Bear, Waterbug, and Uroburos, and linked to Russia's Federal Security Service (FSB).  "This is the first known instance of Turla distributing Android-related malware," TAG researcher Billy Leonard&nbsp; said . "The apps were not distributed through the Google Play Store, but hosted on a domain controlled by the actor and disseminated via links on third party messaging services."   It's worth noting that the&nbsp; onslaught&nbsp; of&nbsp; cyberattacks &nbsp;in the immediate aftermath of Russia's unprovoked invasion of Ukraine prompted the latter to&nbsp; form an IT Army &nbsp;to stage counter-DDoS attacks against Russian website
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Using DropBox and Google Drive to Drop Malicious Payloads<a href="https://thehackernews.com/2022/07/russian-hackers-using-dropbox-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian state-sponsored hacking collective known as APT29 has been attributed to a new phishing campaign that takes advantage of legitimate cloud services like Google Drive and Dropbox to deliver malicious payloads on compromised systems.  "These campaigns are believed to have targeted several Western diplomatic missions between May and June 2022," Palo Alto Networks Unit 42&nbsp; said &nbsp;in a Tuesday report. "The lures included in these campaigns suggest targeting of a foreign embassy in Portugal as well as a foreign embassy in Brazil."  APT29, also tracked under the monikers Cozy Bear, Cloaked Ursa, or The Dukes, has been characterized as an organized cyberespionage group working to collect intelligence that aligns with Russia's strategic objectives.  Some aspects of the advanced persistent threat's activities, including the infamous&nbsp; SolarWinds supply chain attack &nbsp;of 2020, are separately tracked by Microsoft under the name Nobelium, with Mandiant calling i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Researchers Reveal a New Technique to Unmask Anonymous Users<a href="https://cyware.com/news/researchers-reveal-a-new-technique-to-unmask-anonymous-users-2344ad3f"> Full Text</a>
 </p>
 <details>

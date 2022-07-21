@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google boosts Android privacy with support for DNS-over-HTTP/3<a href="https://www.bleepingcomputer.com/news/security/google-boosts-android-privacy-with-support-for-dns-over-http-3/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has added support for the DNS-over-HTTP/3 (DoH3) protocol on Android 11 and later to increase the privacy of DNS queries while providing better performance.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

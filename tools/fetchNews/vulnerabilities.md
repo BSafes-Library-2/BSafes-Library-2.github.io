@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Abusing Windows NFS Remote Code Execution Flaw<a href="https://cyware.com/news/hacker-abusing-windows-nfs-remote-code-execution-flaw-77ebd4ba"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro analyzed and warned against a Windows RCE vulnerability, identified as CVE-2022-30136, impacting the Network File System. The flaw occurs due to improper handling of NFSv4 requests which could be abused by sending malicious RPC calls to a target server. An advisory suggests that a user  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Experts Warn of Two Primary Client-Side Risks Associated with Data Exfiltration and Loss<a href="https://thehackernews.com/2022/07/security-experts-warn-of-two-primary.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two client-side risks dominate the problems with data loss and data exfiltration: improperly placed trackers on websites and web applications and malicious client-side code pulled from third-party repositories like NPM.&nbsp;  Client-side security researchers are finding that improperly placed trackers, while not intentionally malicious, are a growing problem and have clear and significant privacy implications when it comes to both compliance/regulatory concerns, like HIPAA or PCI DSS 4.0. To highlight the risks with misplaced trackers, a&nbsp; recent study &nbsp;by The Markup (a non-profit news organization) examined Newsweek's top 100 hospitals in America. They found a Facebook tracker on one-third of the hospital websites which sent Facebook highly personal healthcare data whenever the user clicked the "schedule appointment" button. The data was not necessarily anonymized, because the data was connected to an IP address, and both the IP address and the appointment information get delivered to Fac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular vehicle GPS tracker gives hackers admin privileges over SMS<a href="https://www.bleepingcomputer.com/news/security/popular-vehicle-gps-tracker-gives-hackers-admin-privileges-over-sms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerability researchers have found security issues in a GPS tracker that is advertised as being present in about 1.5 million vehicles in 169 countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security issue in Accusoft ImageGear could lead to memory corruption, code execution<a href="https://blog.talosintelligence.com/2022/07/accusoft-vuln-spotlight-.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered a use-after-free vulnerability in Accusoft ImageGear's PSD header processing function. The library is a document-imaging developer toolkit that allows users to create, edit, annotate and convert various images.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

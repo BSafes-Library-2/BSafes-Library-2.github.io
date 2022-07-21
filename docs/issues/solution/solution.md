@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Adds Support for DNS-over-HTTP/3 in Android to Keep DNS Queries Private<a href="https://thehackernews.com/2022/07/google-adds-support-for-dns-over-http3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday officially announced support for DNS-over-HTTP/3 (DoH3) for Android devices as part of a Google Play system update designed to keep DNS queries private.  To that end, Android smartphones running Android 11 and higher are expected to use DoH3 instead of DNS-over-TLS (DoT), which was incorporated into the mobile operating system with Android 9.0.  DoH3 is also an alternative to DNS-over-HTTPS ( DoH ), a mechanism for carrying out remote Domain Name System (DNS) resolution through an encrypted connection, effectively preventing third parties from snooping on users' browsing activities.   HTTP/3 , the first major upgrade to the hypertext transfer protocol since HTTP/2 was introduced in May 2015, is designed to use a new transport layer protocol called&nbsp; QUIC &nbsp;that's already supported by major browsers such as Google Chrome, Microsoft Edge, Mozilla Firefox, and Apple Safari.   The low-latency protocol, developed by Google in 2012, relies on the User Datagram Protoc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Calendar provides new way to block invitation phishing<a href="https://www.bleepingcomputer.com/news/security/google-calendar-provides-new-way-to-block-invitation-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Google Workspace team announced today that it started rolling out a new method to block Google Calendar invitation spam, available to all customers, including legacy G Suite Basic and Business users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

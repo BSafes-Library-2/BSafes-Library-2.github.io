@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking group '8220' grows cloud botnet to more than 30,000 hosts<a href="https://www.bleepingcomputer.com/news/security/hacking-group-8220-grows-cloud-botnet-to-more-than-30-000-hosts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cryptomining gang known as 8220 Gang has been exploiting Linux and cloud app vulnerabilities to grow their botnet to more than&nbsp;30,000 infected hosts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sality Botnet Evolves to Target Industrial Control Systems<a href="https://cyware.com/news/sality-botnet-evolves-to-target-industrial-control-systems-b067ad9c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor is infecting ICS to create a botnet through password cracking software for unlocking Programmable Logic Controllers (PLCs) and Human Machine Interface (HMI) terminals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

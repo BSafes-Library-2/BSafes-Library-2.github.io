@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 19, 2022 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT29 relies on Google Drive, Dropbox to evade detection<a href="https://securityaffairs.co/wordpress/133409/apt/apt29-google-drive-dropbox.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked threat actors APT29 are using the Google Drive cloud storage service to evade detection.
+
+
+
+Palo Alto Networks researchers reported that the Russia-linked APT29 group, tracked by the researchers as Cloaked Ursa, started using the Google...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
