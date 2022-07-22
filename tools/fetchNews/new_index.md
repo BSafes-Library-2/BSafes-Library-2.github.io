@@ -34,7 +34,499 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA4563 group leverages EvilNum malware to target European financial and investment entities<a href="https://securityaffairs.co/wordpress/133535/apt/ta4563-group-evilnum-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor tracked as TA4563 is using EvilNum malware to target European financial and investment entities.
+
+
+
+A threat actor, tracked as TA4563, leverages the EvilNum malware to target European financial and investment entities, Proofpoint reported....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome zero-day used to infect journalists with Candiru spyware<a href="https://www.bleepingcomputer.com/news/security/chrome-zero-day-used-to-infect-journalists-with-candiru-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israeli spyware vendor Candiru was found using a zero-day vulnerability in Google Chrome to spy on journalists and other high-interest individuals in the Middle East with the 'DevilsTongue' spyware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT29 Abuses Online Storage Services Google Drive and Dropbox<a href="https://cyware.com/news/apt29-abuses-online-storage-services-google-drive-and-dropbox-2d799b4b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research by Unit 42 revealed that APT29, aka Nobelium and Cozy Bear, has resorted to leveraging cloud storage services, including Google Drive, to attack multiple Western diplomatic missions. Phishing messages within included a link to a malicious HTML file, EnvyScout, that acts as a dropper to sec ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux Malware Framework Lets Attackers Install Rootkit on Targeted Systems<a href="https://thehackernews.com/2022/07/new-linux-malware-framework-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A never-before-seen Linux malware has been dubbed a "Swiss Army Knife" for its modular architecture and its capability to install rootkits.  This previously undetected Linux threat, called  Lightning Framework  by Intezer, is equipped with a plethora of features, making it one of the most intricate frameworks developed for targeting Linux systems.  "The framework has both passive and active capabilities for communication with the threat actor, including opening up SSH on an infected machine, and a polymorphic malleable command and control configuration," Intezer researcher Ryan Robinson  said  in a new report published today.   Central to the malware is a downloader ("kbioset") and a core ("kkdmflush") module, the former of which is engineered to retrieve at least seven different plugins from a remote server that are subsequently invoked by the core component.  In addition, the downloader is also responsible for establishing the persistence of t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google blocks site of largest computing society for being ‘harmful’<a href="https://www.bleepingcomputer.com/news/security/google-blocks-site-of-largest-computing-society-for-being-harmful-/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Search and Drive are erroneously flagging links to Association for Computing Machinery (ACM) research papers and websites as malware. BleepingComputer has successfully reproduced the issue, first reported by researcher Maximilian Golla.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Puts Servers in the Crosshairs<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/lockbit-targets-servers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In one attack observed by Symantec, LockBit was seen identifying domain-related information, creating a Group Policy for lateral movement, and executing a command on all systems within the same domain to forcefully update group policy.
+</details>
+<div style="text-align: right" markdown="1">
+Symantec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Ukrainian Software Company Using GoMet Backdoor<a href="https://thehackernews.com/2022/07/hackers-target-ukrainian-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large software development company whose software is used by different state entities in Ukraine was at the receiving end of an "uncommon" piece of malware, new research has found.  The malware, first observed on the morning of May 19, 2022, is a custom variant of the open source backdoor known as  GoMet  and is designed for maintaining persistent access to the network.  "This access could be leveraged in a variety of ways including deeper access or to launch additional attacks, including the potential for software supply chain compromise," Cisco Talos  said  in a report shared with The Hacker News.   Although there are no concrete indicators linking the attack to a single actor or group, the cybersecurity firm's assessment points to Russian nation-state activity.  Public reporting into the use of GoMet in real-world attacks has so far uncovered only two documented cases to date: one in 2020, coinciding with the disclosure of  CVE-2020-5902 , a critical remot
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors target software firm in Ukraine using GoMet backdoor<a href="https://securityaffairs.co/wordpress/133520/malware/attackers-target-software-firm-ukraine-gomet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors targeted a large software development company in Ukraine using the GoMet backdoor.
+
+
+
+Researchers from Cisco Talos discovered an uncommon piece of malware that was employed in an attack against a large Ukrainian software development company.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Conti ransomware hacked and encrypted the Costa Rican government<a href="https://www.bleepingcomputer.com/news/security/how-conti-ransomware-hacked-and-encrypted-the-costa-rican-government/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged on how the Conti ransomware gang breached the Costa Rican government, showing the attack's precision and the speed of moving from initial access to the final stage of encrypting devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google ads lead to major malvertising campaign<a href="https://blog.malwarebytes.com/threat-intelligence/2022/07/google-ads-lead-to-major-malvertising-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What makes this campaign stand out is the fact that it exploits a very common search behavior when it comes to navigating the web: looking up a website by name instead of entering its full URL in the address bar.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Evilnum Malware to Target Cryptocurrency and Commodities Platforms<a href="https://thehackernews.com/2022/07/hackers-use-evilnum-malware-to-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat (APT) actor tracked as Evilnum is once again exhibiting signs of renewed activity aimed at European financial and investment entities.  "Evilnum is a backdoor that can be used for data theft or to load additional payloads," enterprise security firm Proofpoint  said  in a report shared with The Hacker News. "The malware includes multiple interesting components to evade detection and modify infection paths based on identified antivirus software."  Targets include organizations with operations supporting foreign exchanges, cryptocurrency, and decentralized finance (DeFi). The latest spate of attacks are said to have commenced in late 2021.  The findings also dovetail with a report from Zscaler last month that  detailed  low-volume targeted attack campaigns launched against companies in Europe and the U.K.   Active since 2018,  Evilnum  is tracked by the wider cybersecurity community using the names TA4563 and DeathStalker, with infection
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lightning Framework, a previously undetected malware that targets Linux systems<a href="https://securityaffairs.co/wordpress/133506/malware/lightning-framework-linux-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a previously undetected malware dubbed 'Lightning Framework' that targets Linux systems.
+
+
+
+Researchers from Intezer discovered a previously undetected malware, tracked as Lightning Framework, which targets Linux systems. The malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 now blocks RDP brute-force attacks by default<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-now-blocks-rdp-brute-force-attacks-by-default/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent Windows 11 builds now come with the Account Lockout Policy policy enabled by default which will automatically lock user accounts (including Administrator accounts) after 10 failed sign-in attempts for 10 minutes.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8220 Gang: A Group With Botnet of 30,000 Hosts<a href="https://cyware.com/news/8220-gang-a-group-with-botnet-of-30000-hosts-62de5142"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+8220 Gang, a cryptomining gang, has been exploiting Linux and cloud app vulnerabilities to grow their botnet network to more than 30,000 infected hosts. The low-skilled 8220 Gang is financially-motivated and targets Aliyun, AWS, QCloud, GCP, and Azure hosts. Botnet attacks can be controll ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The New Weak Link in SaaS Security: Devices<a href="https://thehackernews.com/2022/07/the-new-weak-link-in-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Typically, when threat actors look to infiltrate an organization's SaaS apps, they look to SaaS app misconfigurations as a means of entry. However, employees now use their personal devices, whether their phones or laptops, etc., to get their jobs done. If the device's hygiene is not up to par, it increases the risk for the organization and widens the attack surface for bad actors. And so, Endpoint (Device) Protection — through EDR, XDR, and vulnerability management solutions – has arisen as a critical factor in SaaS Security.  The challenge in remediating the threats posed by endpoints and devices lies in the ability to correlate between the SaaS app users, their roles, and permissions with their associated devices' compliance and integrity levels. This end-to-end approach is what's needed for the organization to implement a holistic, zero-trust approach for their SaaS Security.   Not a simple feat, however, automated SaaS Security Posture Management solutions, like Ad
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian patched a critical Confluence vulnerability<a href="https://securityaffairs.co/wordpress/133496/hacking/atlassian-confluence-server-data-center-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian released security updates to address a critical security vulnerability affecting Confluence Server and Confluence Data Center.
+
+
+
+Atlassian released security updates to address a critical hardcoded credentials vulnerability in Confluence Server...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘Lightning Framework’ Linux malware installs rootkits, backdoors<a href="https://www.bleepingcomputer.com/news/security/new-lightning-framework-linux-malware-installs-rootkits-backdoors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new and previously undetected malware dubbed 'Lightning Framework' targets Linux systems and can be used to backdoor infected devices using SSH and deploy multiple types of rootkits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analyzing Penetration-Testing Tools That Threat Actors Use to Breach Systems and Steal Data<a href="https://www.trendmicro.com/en_us/research/22/g/analyzing-penetration-testing-tools-that-threat-actors-use-to-br.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The use of legitimate Windows tools as part of malicious actors’ malware arsenal has become a common observation in cyber incursions in recent years. Researchers uncovered two such Python tools, Impacket and Responder.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Rolls Out Security Patch for Critical Confluence Vulnerability<a href="https://thehackernews.com/2022/07/atlassian-releases-patch-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has rolled out fixes to remediate a critical security vulnerability pertaining to the use of hard-coded credentials affecting  the Questions For Confluence  app for Confluence Server and Confluence Data Center.  The flaw, tracked as CVE-2022-26138 , arises when the app in question is enabled on either of two services, causing it to create a Confluence user account with the username "disabledsystemuser."  While this account, Atlassian says, is to help administrators migrate data from the app to Confluence Cloud, it's also created with a hard-coded password, effectively allowing viewing and editing all non-restricted pages within Confluence by default.   "A remote, unauthenticated attacker with knowledge of the hard-coded password could exploit this to log into Confluence and access any pages the  confluence-users group  has access to," the company  said  in an advisory, adding that "the hard-coded password is trivial to obtain after downloading an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes multiple flaws in iOS, iPadOS, macOS, tvOS, and watchOS devices<a href="https://securityaffairs.co/wordpress/133486/security/apple-security-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released security updates to address multiple vulnerabilities that affect iOS, iPadOS, macOS, tvOS, and watchOS devices.
+
+
+
+Apple released security updates to fix 37 vulnerabilities impacting iOS, iPadOS, macOS, tvOS, and watchOS devices....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft starts blocking Office macros by default, once again<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-blocking-office-macros-by-default-once-again/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced today that it resumed the rollout of VBA macro auto-blocking in downloaded Office documents after temporarily rolling it back earlier this month following user feedback.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Huntress Acquires Security Awareness Training Startup Curricula for $22M<a href="https://www.securityweek.com/huntress-acquires-security-awareness-training-startup-curricula-22m?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Huntress, itself a startup that raised about $60 million in venture capital funding, said the acquisition adds another critical layer to its Managed Security Platform and brings an important security tool to small and medium-sized businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Seizes $500,000 Ransomware Payments and Crypto from North Korean Hackers<a href="https://thehackernews.com/2022/07/fbi-seizes-500000-ransomware-payments.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) has announced the seizure of $500,000 worth of Bitcoin from North Korean hackers who extorted digital payments from several organizations by using a new ransomware strain known as Maui.  "The seized funds include ransoms paid by healthcare providers in Kansas and Colorado," the DoJ  said  in a press release issued Tuesday.  The recovery of the bitcoin ransoms comes after the agency said it took control of two cryptocurrency accounts that were used to receive payments to the tune of $100,000 and $120,000 from the medical centers. The DoJ did not disclose where the rest of the payments originated from.   "Reporting cyber incidents to law enforcement and cooperating with investigations not only protects the United States, it is also good business," said Assistant Attorney General Matthew G. Olsen of the DoJ's National Security Division. "The reimbursement to these victims of the ransom shows why it pays to work with law en
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8220 Gang Cloud Botnet infected 30,000 host globally<a href="https://securityaffairs.co/wordpress/133462/cyber-crime/8220-gang-cloud-botnet-spike.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The crimeware group known as 8220 Gang expanded over the last month their Cloud Botnet to roughly 30,000 hosts globally. 
+
+
+
+Researchers from SentinelOne reported that low-skill crimeware 8220 Gang has expanded their Cloud Botnet over the last month...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Redeemer ransomware version promoted on hacker forums<a href="https://www.bleepingcomputer.com/news/security/new-redeemer-ransomware-version-promoted-on-hacker-forums/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor is promoting a new version of their free-to-use 'Redeemer' ransomware builder on hacker forums, offering unskilled threat actors an easy entry to the world of encryption-backed extortion attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EvilNum Malware Used to Target Entities Working with Cryptocurrency, Forex, Commodities<a href="https://www.proofpoint.com/us/blog/threat-insight/buy-sell-steal-evilnum-targets-cryptocurrency-forex-commodities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA4563 is a threat actor leveraging EvilNum malware to target European financial and investment entities, especially those with operations supporting foreign exchanges, cryptocurrency, and decentralized finance (DeFi).
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cynomi Automated Virtual CISO (vCISO) Platform for Service Providers<a href="https://thehackernews.com/2022/07/cynomi-automated-virtual-ciso-vciso.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Growing cyber threats, tightening regulatory demands and strict cyber insurance requirements are driving small to medium-sized enterprises demand for strategic cybersecurity and compliance guidance and management. Since most companies this size don't have in-house CISO expertise – the demand for virtual CISO (vCISO) services is also growing. Yet current vCISO services models still rely on manual, humanCISO expertise. This makes these services costly and tough to scale – leaving MSPs, MSSPs and consulting firms unable to add vCISO service to their portfolio or scale their existing vCISO services to meet the growing demand.  This is the challenge  Cynomi's Automated vCISO platform  is trying to solve. The company's AI-powered vCISO platform automatically generates everything vCISO service providers need to provide their clients, fully customized for each and every client: risk and compliance assessments, gap analysis, tailored security policies, strategic remediation plans w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Target Ukrainian Organizations Using GoMet Backdoor<a href="https://blog.talosintelligence.com/2022/07/attackers-target-ukraine-using-gomet.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The original GoMet author posted the code on GitHub on March 31, 2019, and had commits until April 2, 2019. The backdoor itself is a rather simple piece of software written in the Go programming language.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti’s Reign of Chaos: Costa Rica in the Crosshairs<a href="https://threatpost.com/contis-costa-rica/180258/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aamir Lakhani, with FortiGuard Labs, answers the question; Why is the Conti ransomware gang targeting people and businesses in Costa Rica? 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Neopets data breach exposes personal data of 69 million members<a href="https://www.bleepingcomputer.com/news/security/neopets-data-breach-exposes-personal-data-of-69-million-members/"> Full Text</a>
@@ -50,7 +542,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Elastix VoIP Systems Hacked to Serve Web shells<a href="https://cyware.com/news/elastix-voip-systems-hacked-to-serve-web-shells-ca7f45e1"> Full Text</a>
@@ -66,7 +558,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Adds Support for DNS-over-HTTP/3 in Android to Keep DNS Queries Private<a href="https://thehackernews.com/2022/07/google-adds-support-for-dns-over-http3.html"> Full Text</a>
@@ -82,7 +574,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Luna ransomware targets Windows, Linux and ESXi systems<a href="https://securityaffairs.co/wordpress/133454/cyber-crime/luna-ransomware-rust.html"> Full Text</a>
@@ -102,7 +594,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google boosts Android privacy with support for DNS-over-HTTP/3<a href="https://www.bleepingcomputer.com/news/security/google-boosts-android-privacy-with-support-for-dns-over-http-3/"> Full Text</a>
@@ -118,7 +610,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Cyber Command Exposes Malware Targeting Ukrainian Entities<a href="https://www.cyberscoop.com/cyber-command-malware-ukraine/?&web_view=true"> Full Text</a>
@@ -134,7 +626,7 @@ CyberScoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Rust-based Ransomware Family Targets Windows, Linux, and ESXi Systems<a href="https://thehackernews.com/2022/07/new-rust-based-ransomware-family.html"> Full Text</a>
@@ -150,7 +642,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Million of vehicles can be attacked via MiCODUS MV720 GPS Trackers<a href="https://securityaffairs.co/wordpress/133445/hacking/micodus-tracker-flaws.html"> Full Text</a>
@@ -170,7 +662,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian fixes critical Confluence hardcoded credentials flaw<a href="https://www.bleepingcomputer.com/news/security/atlassian-fixes-critical-confluence-hardcoded-credentials-flaw/"> Full Text</a>
@@ -186,7 +678,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What's your ransomware risk?<a href="https://www.gcn.com/cybersecurity/2022/07/cis-tool-analyzes-ransomware-risk/374598/?&web_view=true"> Full Text</a>
@@ -202,7 +694,7 @@ GCN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This Cloud Botnet Has Hijacked 30,000 Systems to Mine Cryptocurrencies<a href="https://thehackernews.com/2022/07/this-cloud-botnet-has-hijacked-30000.html"> Full Text</a>
@@ -218,7 +710,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Convincing ‘YouTube’ Google ads lead to Windows support scams<a href="https://www.bleepingcomputer.com/news/security/convincing-youtube-google-ads-lead-to-windows-support-scams/"> Full Text</a>
@@ -234,7 +726,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Niche cryptographic technique could transform privacy in web3<a href="https://techcrunch.com/2022/07/18/crypto-blockchain-web3-privacy-cryptography-fully-homomorphic-encryption-startup-sunscreen/?&web_view=true"> Full Text</a>
@@ -250,7 +742,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched GPS Tracker Bugs Could Let Attackers Disrupt Vehicles Remotely<a href="https://thehackernews.com/2022/07/unpatched-gps-tracker-bugs-could-let.html"> Full Text</a>
@@ -266,7 +758,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes bug that lets attackers execute commands as root<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-bug-that-lets-attackers-execute-commands-as-root/"> Full Text</a>
@@ -282,7 +774,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feelyou Mental Health App Discloses Exposure of 78,000 User Emails in Breach<a href="https://therecord.media/feelyou-mental-health-app-says-emails-of-78000-users-exposed-in-breach/?&web_view=true"> Full Text</a>
@@ -298,7 +790,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dealing With Alert Overload? There's a Guide For That<a href="https://thehackernews.com/2022/07/dealing-with-alert-overload-theres.html"> Full Text</a>
@@ -314,7 +806,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Calendar provides new way to block invitation phishing<a href="https://www.bleepingcomputer.com/news/security/google-calendar-provides-new-way-to-block-invitation-phishing/"> Full Text</a>
@@ -330,7 +822,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AppViewX raises $20 million to help organizations reduce their digital risk<a href="https://www.helpnetsecurity.com/2022/07/20/appviewx-funding/?&web_view=true"> Full Text</a>
@@ -346,7 +838,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LinkedIn remains the most impersonated brand in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/linkedin-remains-the-most-impersonated-brand-in-phishing-attacks/"> Full Text</a>
@@ -362,7 +854,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI recovers $500,000 healthcare orgs paid to Maui ransomware<a href="https://www.bleepingcomputer.com/news/security/fbi-recovers-500-000-healthcare-orgs-paid-to-maui-ransomware/"> Full Text</a>
@@ -378,7 +870,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3rd Party Services Are Falling Short on Password Security <a href="https://www.bleepingcomputer.com/news/security/3rd-party-services-are-falling-short-on-password-security/"> Full Text</a>
@@ -394,7 +886,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Luna ransomware encrypts Windows, Linux, and ESXi systems<a href="https://www.bleepingcomputer.com/news/security/new-luna-ransomware-encrypts-windows-linux-and-esxi-systems/"> Full Text</a>
@@ -410,7 +902,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Are your visuals making businesses more vulnerable to cybercrime?<a href="https://www.tripwire.com/state-of-security/security-data-protection/visuals-making-businesses-more-vulnerable-cybercrime/?&web_view=true"> Full Text</a>
@@ -426,7 +918,7 @@ Tripwire
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linus Torvalds says Linux kernel has addressed ‘Retbleed’<a href="https://www.theregister.com/2022/07/17/linux_5_19_rc7/?&web_view=true"> Full Text</a>
@@ -442,7 +934,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU warns of risks of spillover effects associated with the ongoing war in Ukraine<a href="https://securityaffairs.co/wordpress/133436/cyber-warfare-2/eu-warns-ukraine-spillover.html"> Full Text</a>
@@ -462,7 +954,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2022
+July 20, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Belgium claims China-linked APT groups hit its ministries<a href="https://securityaffairs.co/wordpress/133425/apt/belgium-claims-china-hit-its-ministries.html"> Full Text</a>
@@ -482,7 +974,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Tricked Ukrainians with Fake "DoS Android Apps to Target Russia"<a href="https://thehackernews.com/2022/07/russian-hackers-tricked-ukrainians-with.html"> Full Text</a>
@@ -498,7 +990,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2022
+July 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Using DropBox and Google Drive to Drop Malicious Payloads<a href="https://thehackernews.com/2022/07/russian-hackers-using-dropbox-and.html"> Full Text</a>
