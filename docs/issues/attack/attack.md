@@ -8,6 +8,56 @@ nav_order: 900015
 
 ## Attack
 ---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Ukrainian Software Company Using GoMet Backdoor<a href="https://thehackernews.com/2022/07/hackers-target-ukrainian-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large software development company whose software is used by different state entities in Ukraine was at the receiving end of an "uncommon" piece of malware, new research has found.  The malware, first observed on the morning of May 19, 2022, is a custom variant of the open source backdoor known as&nbsp; GoMet &nbsp;and is designed for maintaining persistent access to the network.  "This access could be leveraged in a variety of ways including deeper access or to launch additional attacks, including the potential for software supply chain compromise," Cisco Talos&nbsp; said &nbsp;in a report shared with The Hacker News.   Although there are no concrete indicators linking the attack to a single actor or group, the cybersecurity firm's assessment points to Russian nation-state activity.  Public reporting into the use of GoMet in real-world attacks has so far uncovered only two documented cases to date: one in 2020, coinciding with the disclosure of&nbsp; CVE-2020-5902 , a critical remot
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors target software firm in Ukraine using GoMet backdoor<a href="https://securityaffairs.co/wordpress/133520/malware/attackers-target-software-firm-ukraine-gomet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors targeted a large software development company in Ukraine using the GoMet backdoor.
+
+
+
+Researchers from Cisco Talos discovered an uncommon piece of malware that was employed in an attack against a large Ukrainian software development company.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Target Ukrainian Organizations Using GoMet Backdoor<a href="https://blog.talosintelligence.com/2022/07/attackers-target-ukraine-using-gomet.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The original GoMet author posted the code on GitHub on March 31, 2019, and had commits until April 2, 2019. The backdoor itself is a rather simple piece of software written in the Go programming language.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

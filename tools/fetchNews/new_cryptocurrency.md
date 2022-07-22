@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use Evilnum Malware to Target Cryptocurrency and Commodities Platforms<a href="https://thehackernews.com/2022/07/hackers-use-evilnum-malware-to-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat (APT) actor tracked as Evilnum is once again exhibiting signs of renewed activity aimed at European financial and investment entities.  "Evilnum is a backdoor that can be used for data theft or to load additional payloads," enterprise security firm Proofpoint&nbsp; said &nbsp;in a report shared with The Hacker News. "The malware includes multiple interesting components to evade detection and modify infection paths based on identified antivirus software."  Targets include organizations with operations supporting foreign exchanges, cryptocurrency, and decentralized finance (DeFi). The latest spate of attacks are said to have commenced in late 2021.  The findings also dovetail with a report from Zscaler last month that&nbsp; detailed &nbsp;low-volume targeted attack campaigns launched against companies in Europe and the U.K.   Active since 2018,&nbsp; Evilnum &nbsp;is tracked by the wider cybersecurity community using the names TA4563 and DeathStalker, with infection
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

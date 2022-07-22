@@ -8,6 +8,80 @@ nav_order: 900072
 
 ## General
 ---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What's your ransomware risk?<a href="https://www.gcn.com/cybersecurity/2022/07/cis-tool-analyzes-ransomware-risk/374598/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ransomware Business Impact Analysis tool has been available since May at no cost and is the result of a collaboration with Foresight Resilience Strategies, a consulting group.
+</details>
+<div style="text-align: right" markdown="1">
+GCN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dealing With Alert Overload? There's a Guide For That<a href="https://thehackernews.com/2022/07/dealing-with-alert-overload-theres.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Great Resignation – or the Great Reshuffle as some are calling it – and the growing skills gap have been dominating headlines lately. But these issues aren't new to the cybersecurity industry. While many are just now hearing about employee burnout, security teams have faced reality and serious consequences of burnout for years.&nbsp;  One of the biggest culprits? Alert overload.&nbsp;  The average security team gets tens of thousands of alerts&nbsp; each day . Many analysts feel like they can't get their heads above water…and are starting to give up. This looks like physical burnout and even apathy. Surveys found that some security analysts feel so overwhelmed they ignore alerts and even walk away from their computers.&nbsp;  In fact, these surveys found that&nbsp; 70% of security teams &nbsp;feel emotionally overwhelmed by alerts, and more than&nbsp; 55% of security professionals &nbsp;don't feel fully confident that they can prioritize and respond to every alert that really does need attention.&nbsp;  Sadly, th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LinkedIn remains the most impersonated brand in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/linkedin-remains-the-most-impersonated-brand-in-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LinkedIn is holding the top spot for the most impersonated brand in phishing campaigns observed during the second quarter of 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3rd Party Services Are Falling Short on Password Security <a href="https://www.bleepingcomputer.com/news/security/3rd-party-services-are-falling-short-on-password-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Preventing the use of weak and leaked passwords within an enterprise environment is a manageable task for your IT department, but what about other services where end-users share business-critical data in order to do their work? They could be putting your organization at risk, and the team at Specops Software decided to see for sure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU warns of risks of spillover effects associated with the ongoing war in Ukraine<a href="https://securityaffairs.co/wordpress/133436/cyber-warfare-2/eu-warns-ukraine-spillover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Council of the European Union (EU) warns of malicious cyber activities conducted by threat actors in the context of the ongoing conflict between Russia and Ukraine.
+
+
+
+The Council of the European Union (EU) warns of the risks associated with the malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

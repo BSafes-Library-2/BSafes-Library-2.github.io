@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Huntress Acquires Security Awareness Training Startup Curricula for $22M<a href="https://www.securityweek.com/huntress-acquires-security-awareness-training-startup-curricula-22m?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Huntress, itself a startup that raised about $60 million in venture capital funding, said the acquisition adds another critical layer to its Managed Security Platform and brings an important security tool to small and medium-sized businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA4563 group leverages EvilNum malware to target European financial and investment entities<a href="https://securityaffairs.co/wordpress/133535/apt/ta4563-group-evilnum-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor tracked as TA4563 is using EvilNum malware to target European financial and investment entities.
+
+
+
+A threat actor, tracked as TA4563, leverages the EvilNum malware to target European financial and investment entities, Proofpoint reported....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT29 Abuses Online Storage Services Google Drive and Dropbox<a href="https://cyware.com/news/apt29-abuses-online-storage-services-google-drive-and-dropbox-2d799b4b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research by Unit 42 revealed that APT29, aka Nobelium and Cozy Bear, has resorted to leveraging cloud storage services, including Google Drive, to attack multiple Western diplomatic missions. Phishing messages within included a link to a malicious HTML file, EnvyScout, that acts as a dropper to sec ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

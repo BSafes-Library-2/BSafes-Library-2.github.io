@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Seizes $500,000 Ransomware Payments and Crypto from North Korean Hackers<a href="https://thehackernews.com/2022/07/fbi-seizes-500000-ransomware-payments.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) has announced the seizure of $500,000 worth of Bitcoin from North Korean hackers who extorted digital payments from several organizations by using a new ransomware strain known as Maui.  "The seized funds include ransoms paid by healthcare providers in Kansas and Colorado," the DoJ&nbsp; said &nbsp;in a press release issued Tuesday.  The recovery of the bitcoin ransoms comes after the agency said it took control of two cryptocurrency accounts that were used to receive payments to the tune of $100,000 and $120,000 from the medical centers. The DoJ did not disclose where the rest of the payments originated from.   "Reporting cyber incidents to law enforcement and cooperating with investigations not only protects the United States, it is also good business," said Assistant Attorney General Matthew G. Olsen of the DoJ's National Security Division. "The reimbursement to these victims of the ransom shows why it pays to work with law en
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti’s Reign of Chaos: Costa Rica in the Crosshairs<a href="https://threatpost.com/contis-costa-rica/180258/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aamir Lakhani, with FortiGuard Labs, answers the question; Why is the Conti ransomware gang targeting people and businesses in Costa Rica? 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Convincing ‘YouTube’ Google ads lead to Windows support scams<a href="https://www.bleepingcomputer.com/news/security/convincing-youtube-google-ads-lead-to-windows-support-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A scarily&nbsp;realistic-looking Google Search YouTube advertisement is redirecting visitors to tech support scams pretending to be security alerts from Windows Defender.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2022 <br {:="" .fs-4="" .fw-700="" .lh-0="" }="" <p="" style="font-weight:500; margin:0px" markdown="1">
 Fake Nvidia giveaway promises bitcoin<a href="https://usa.kaspersky.com/blog/nvidia-giveaway-bitcoin-scam/26770/?&amp;web_view=true"> Full Text</a>
 <p></p>

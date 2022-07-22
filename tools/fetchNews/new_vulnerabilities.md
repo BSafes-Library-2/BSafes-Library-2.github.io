@@ -8,6 +8,56 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian patched a critical Confluence vulnerability<a href="https://securityaffairs.co/wordpress/133496/hacking/atlassian-confluence-server-data-center-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian released security updates to address a critical security vulnerability affecting&nbsp;Confluence Server and Confluence Data Center.
+
+
+
+Atlassian released security updates to address a critical hardcoded credentials vulnerability in Confluence Server...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Rolls Out Security Patch for Critical Confluence Vulnerability<a href="https://thehackernews.com/2022/07/atlassian-releases-patch-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has rolled out fixes to remediate a critical security vulnerability pertaining to the use of hard-coded credentials affecting&nbsp; the Questions For Confluence &nbsp;app for Confluence Server and Confluence Data Center.  The flaw, tracked as CVE-2022-26138 , arises when the app in question is enabled on either of two services, causing it to create a Confluence user account with the username "disabledsystemuser."  While this account, Atlassian says, is to help administrators migrate data from the app to Confluence Cloud, it's also created with a hard-coded password, effectively allowing viewing and editing all non-restricted pages within Confluence by default.   "A remote, unauthenticated attacker with knowledge of the hard-coded password could exploit this to log into Confluence and access any pages the&nbsp; confluence-users group &nbsp;has access to," the company&nbsp; said &nbsp;in an advisory, adding that "the hard-coded password is trivial to obtain after downloading an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes multiple flaws in iOS, iPadOS, macOS, tvOS, and watchOS devices<a href="https://securityaffairs.co/wordpress/133486/security/apple-security-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released security updates to address multiple vulnerabilities that affect iOS, iPadOS, macOS, tvOS, and watchOS devices.
+
+
+
+Apple released security updates to fix&nbsp;37 vulnerabilities impacting iOS, iPadOS, macOS, tvOS, and watchOS devices....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

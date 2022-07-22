@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8220 Gang: A Group With Botnet of 30,000 Hosts<a href="https://cyware.com/news/8220-gang-a-group-with-botnet-of-30000-hosts-62de5142"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+8220 Gang, a cryptomining gang,&nbsp;has been exploiting Linux and cloud app vulnerabilities to grow their botnet network to more than 30,000 infected hosts.&nbsp;The low-skilled 8220 Gang is financially-motivated and targets Aliyun, AWS, QCloud, GCP, and Azure hosts. Botnet attacks can be controll ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8220 Gang Cloud Botnet infected 30,000 host globally<a href="https://securityaffairs.co/wordpress/133462/cyber-crime/8220-gang-cloud-botnet-spike.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The crimeware group known as 8220 Gang expanded over the last month their Cloud Botnet to roughly 30,000 hosts globally.&nbsp;
+
+
+
+Researchers from SentinelOne reported that low-skill crimeware 8220 Gang has expanded their Cloud Botnet over the last month...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI recovers $500,000 healthcare orgs paid to Maui ransomware<a href="https://www.bleepingcomputer.com/news/security/fbi-recovers-500-000-healthcare-orgs-paid-to-maui-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice has announced the seizure of approximately $500,000 in Bitcoin, paid by American health care providers to the operators of the Maui ransomware strain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google blocks site of largest computing society for being ‘harmful’<a href="https://www.bleepingcomputer.com/news/security/google-blocks-site-of-largest-computing-society-for-being-harmful-/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Search and Drive are erroneously flagging links to Association for Computing Machinery (ACM) research papers&nbsp;and websites as malware. BleepingComputer has successfully reproduced&nbsp;the issue, first reported by researcher&nbsp;Maximilian Golla.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The New Weak Link in SaaS Security: Devices<a href="https://thehackernews.com/2022/07/the-new-weak-link-in-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Typically, when threat actors look to infiltrate an organization's SaaS apps, they look to SaaS app misconfigurations as a means of entry. However, employees now use their personal devices, whether their phones or laptops, etc., to get their jobs done. If the device's hygiene is not up to par, it increases the risk for the organization and widens the attack surface for bad actors. And so, Endpoint (Device) Protection — through EDR, XDR, and vulnerability management solutions – has arisen as a critical factor in SaaS Security.  The challenge in remediating the threats posed by endpoints and devices lies in the ability to correlate between the SaaS app users, their roles, and permissions with their associated devices' compliance and integrity levels. This end-to-end approach is what's needed for the organization to implement a holistic, zero-trust approach for their SaaS Security.&nbsp;  Not a simple feat, however, automated SaaS Security Posture Management solutions, like Ad
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analyzing Penetration-Testing Tools That Threat Actors Use to Breach Systems and Steal Data<a href="https://www.trendmicro.com/en_us/research/22/g/analyzing-penetration-testing-tools-that-threat-actors-use-to-br.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The use of legitimate Windows tools as part of malicious actors’ malware arsenal has become a common observation in cyber incursions in recent years. Researchers uncovered two such Python tools, Impacket and Responder.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft starts blocking Office macros by default, once again<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-blocking-office-macros-by-default-once-again/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced today that it resumed&nbsp;the rollout of VBA macro auto-blocking in downloaded Office documents after temporarily rolling it back earlier this month following user feedback.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 now blocks RDP brute-force attacks by default<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-now-blocks-rdp-brute-force-attacks-by-default/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent Windows 11 builds&nbsp;now come with the&nbsp;Account Lockout Policy&nbsp;policy enabled by default which&nbsp;will automatically lock user accounts (including Administrator accounts) after 10 failed sign-in attempts for 10 minutes.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cynomi Automated Virtual CISO (vCISO) Platform for Service Providers<a href="https://thehackernews.com/2022/07/cynomi-automated-virtual-ciso-vciso.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Growing cyber threats, tightening regulatory demands and strict cyber insurance requirements are driving small to medium-sized enterprises demand for strategic cybersecurity and compliance guidance and management. Since most companies this size don't have in-house CISO expertise – the demand for virtual CISO (vCISO) services is also growing. Yet current vCISO services models still rely on manual, humanCISO expertise. This makes these services costly and tough to scale – leaving MSPs, MSSPs and consulting firms unable to add vCISO service to their portfolio or scale their existing vCISO services to meet the growing demand.  This is the challenge&nbsp; Cynomi's Automated vCISO platform &nbsp;is trying to solve. The company's AI-powered vCISO platform automatically generates everything vCISO service providers need to provide their clients, fully customized for each and every client: risk and compliance assessments, gap analysis, tailored security policies, strategic remediation plans w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Luna ransomware targets Windows, Linux and ESXi systems<a href="https://securityaffairs.co/wordpress/133454/cyber-crime/luna-ransomware-rust.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky researchers discovered a new ransomware family written in Rust, named Luna, that targets Windows, Linux, and ESXi systems.
+
+
+
+Researchers from Kaspersky Lab detailed a new ransomware family named Luna, which is written in Rust and is able to target...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Rust-based Ransomware Family Targets Windows, Linux, and ESXi Systems<a href="https://thehackernews.com/2022/07/new-rust-based-ransomware-family.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky security researchers have disclosed details of a brand-new ransomware family written in Rust, making it the third strain after&nbsp; BlackCat &nbsp;and&nbsp; Hive &nbsp;to use the programming language.  Luna, as it's called, is "fairly simple" and can run on Windows, Linux, and ESXi systems, with the malware banking on a combination of&nbsp; Curve25519 &nbsp;and&nbsp; AES &nbsp;for encryption.   "Both the Linux and ESXi samples are compiled using the same source code with some minor changes from the Windows version," the Russian firm&nbsp; noted &nbsp;in a report published today.  Advertisements for Luna on darknet forums suggest that the ransomware is intended for use only by Russian-speaking affiliates. Its core developers are also believed to be of Russian origin owing to spelling mistakes in the ransom note hard-coded within the binary.  "Luna confirms the trend for cross-platform ransomware," the researchers stated, adding how the platform agnostic nature of languages like Golang and R
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Luna ransomware encrypts Windows, Linux, and ESXi systems<a href="https://www.bleepingcomputer.com/news/security/new-luna-ransomware-encrypts-windows-linux-and-esxi-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware family dubbed Luna can be used to encrypt devices running several operating systems, including Windows, Linux, and ESXi systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
