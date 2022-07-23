@@ -34,6 +34,354 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker selling Twitter account data of 5.4 million users for $30k<a href="https://www.bleepingcomputer.com/news/security/hacker-selling-twitter-account-data-of-54-million-users-for-30k/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter has suffered a data breach after threat actors used a vulnerability to build a database of phone numbers and email addresses belonging to 5.4 million accounts, with the data now up for sale on a hacker forum for $30,000. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Patches Servlet Filter Vulnerabilities Impacting Multiple Products<a href="https://www.securityweek.com/atlassian-patches-servlet-filter-vulnerabilities-impacting-multiple-products?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-26136, the first of the flaws could allow a remote, unauthenticated attacker to send specially crafted HTTP requests and authenticate to third-party apps, or to launch an XSS attack, to execute JavaScript code in a user’s browser.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Issues Patch for Critical Bug Affecting its Analytics and GMS Products<a href="https://thehackernews.com/2022/07/sonicwall-issues-patch-for-critical-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network security company SonicWall on Friday rolled out fixes to mitigate a critical SQL injection (SQLi) vulnerability affecting its Analytics On-Prem and Global Management System (GMS) products.  The vulnerability, tracked as  CVE-2022-22280 , is rated 9.4 for severity on the CVSS scoring system and stems from what the company describes is an "improper neutralization of special elements" used in an SQL command that could lead to an unauthenticated SQL injection.   "Without sufficient removal or quoting of SQL syntax in user-controllable inputs, the generated SQL query can cause those inputs to be interpreted as SQL instead of ordinary user data," MITRE  notes  in its description of SQL injection.   "This can be used to alter query logic to bypass security checks, or to insert additional statements that modify the back-end database, possibly including execution of system commands."  H4lo and Catalpa of DBappSecurity HAT Lab have been credited with discov
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity, the ECPA, Carpenter, and Government Transparency<a href="https://www.lawfareblog.com/cybersecurity-ecpa-carpenter-and-government-transparency"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If the government fails to engage in some greater degree of transparency about how it interprets and applies its existing surveillance authorities, the U.S. risks significant and unnecessary diminution of national interests in both security and privacy and civil liberties.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Account lockout policy in Windows 11 is enabled by default to block block brute force attacks<a href="https://securityaffairs.co/wordpress/133568/security/windows-account-lockout-policy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Starting with Windows 11 Microsoft introduce by default an account lockout policy that can block brute force attacks.
+
+
+
+Starting with Windows 11 Insider Preview build 22528.1000 the OS supports an account lockout policy enabled by default to block brute...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital security giant Entrust breached by ransomware gang<a href="https://www.bleepingcomputer.com/news/security/digital-security-giant-entrust-breached-by-ransomware-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital security giant Entrust has confirmed that it suffered a cyberattack where threat actors breached their network and stole data from internal systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Grafana patches vulnerability that could lead to admin account takeover<a href="https://portswigger.net/daily-swig/grafana-patches-vulnerability-that-could-lead-to-admin-account-takeover?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security flaw, tracked as CVE-2022-31107, is present in versions 5.3 until 9.0.3, 8.5.9, 8.4.10, and 8.3.10, and has been patched by Grafana in versions 9.0.3, 8.5.9, 8.4.10, and 8.3.10.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Resumes Blocking Office VBA Macros by Default After 'Temporary Pause'<a href="https://thehackernews.com/2022/07/microsoft-resumes-blocking-office-vba.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has officially resumed blocking Visual Basic for Applications (VBA) macros by default across Office apps, weeks after temporarily announcing plans to roll back the change.  "Based on our review of customer feedback, we've made updates to both our  end user  and our  IT admin  documentation to make clearer what options you have for different scenarios," the company  said  in an update on July 20.  Earlier this February, Microsoft publicized its plans to disable macros by default in Office applications such as Access, Excel, PowerPoint, Visio, and Word as a way to prevent threat actors from abusing the feature to deliver malware.  It's a known fact that a majority of the damaging cyberattacks today leverage email-based phishing lures to spread bogus documents containing malicious macros as a primary vector for initial access.   "Macros can add a lot of functionality to Office, but they are often used by people with bad intentions to distribute malware to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breached Ukrainian radio station to spread fake news about Zelensky ‘s health<a href="https://securityaffairs.co/wordpress/133559/hacking/radio-hacked-fake-news-zelensky-health.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors hacked the Ukrainian radio station TAVR Media and broadcasted fake news on the critical health condition of President Volodymyr Zelensky
+
+
+
+Threat actors breached the Ukrainian radio station TAVR Media this week, the attackers spread a fake...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall: Patch critical SQL injection bug immediately<a href="https://www.bleepingcomputer.com/news/security/sonicwall-patch-critical-sql-injection-bug-immediately/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has published a security advisory today to warn of a critical SQL injection flaw impacting the GMS (Global Management System) and Analytics On-Prem products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Code Execution and Other Vulnerabilities Patched in Drupal<a href="https://www.securityweek.com/code-execution-and-other-vulnerabilities-patched-drupal?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patches for these vulnerabilities are included in Drupal 9.4.3 and 9.3.19. The information disclosure flaw also impacts Drupal 7 and a fix has been included in version 7.91.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Bringing the Android App Permissions Section Back to the Play Store<a href="https://thehackernews.com/2022/07/google-bringing-android-app-permissions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday said it's backtracking on a  recent change  that removed the app permissions list from the Google Play Store for Android across both the mobile app and the web.  "Privacy and transparency are core values in the Android community," the Android Developers team  said  in a series of tweets. "We heard your feedback that you find the app permissions section in Google Play useful, and we've decided to reinstate it. The app permissions section will be back shortly."  To that end, in addition to showcasing the new Data safety section that offers users a simplified summary of an app's data collection, processing, and security practices, Google also intends to highlight all the permissions required by the app to make sense of its "ability to access specific restricted data and actions."   The reinstatement comes as the internet giant moved to swap out the apps permission section with the newer Data safety labels last week ahead of the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Candiru surveillance spyware DevilsTongue exploited Chrome Zero-Day to target journalists<a href="https://securityaffairs.co/wordpress/133546/intelligence/candiru-chrome-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The spyware developed by Israeli surveillance firm Candiru exploited recently fixed CVE-2022-2294 Chrome zero-day in attacks on journalists. 
+
+
+
+Researchers from the antivirus firm Avast reported that the DevilsTongue spyware, developed, by Israeli surveillance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian: Confluence hardcoded password was leaked, patch now!<a href="https://www.bleepingcomputer.com/news/security/atlassian-confluence-hardcoded-password-was-leaked-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian software firm Atlassian warned customers to immediately patch a critical vulnerability that provides remote attackers with hardcoded credentials to log into unpatched Confluence Server and Data Center servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leveling the field for federal cyber talent<a href="https://fcw.com/workforce/2022/07/leveling-field-federal-cyber-talent/374771/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kiran Ahuja, director of the Office of Personnel Management, told lawmakers on Thursday that her agency wants “to work with Congress to develop a government-wide cyber workforce plan that puts agencies on equal footing in competing for cyber talent.”
+</details>
+<div style="text-align: right" markdown="1">
+FCW
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Easier Way to Keep Old Python Code Healthy and Secure<a href="https://thehackernews.com/2022/07/an-easier-way-to-keep-old-python-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Python has its pros and cons, but it's nonetheless used extensively. For example, Python is frequently used in data crunching tasks even when there are more appropriate languages to choose from.  Why? Well, Python is relatively easy to learn. Someone with a science background can pick up Python much more quickly than, say, C. However, Python's inherent approachability also creates a couple of problems.  Whenever Python is updated, it means a big refactoring workload, which often gets dealt with poorly – or not at all. That leads to poor performance and security vulnerabilities. But maybe there is a better way: a tool to keep your Python tasks running smoothly and securely day in, day out. Let's take a look.  It's slow, but it does the job  Python isn't the fastest language around, but despite its comparative disadvantages, you'll often see it used for intensive data crunching operations. Think machine learning, computer vision, or even pure math in high-perform
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breach Ukrainian radio network to spread fake news about Zelenskiy<a href="https://www.bleepingcomputer.com/news/security/hackers-breach-ukrainian-radio-network-to-spread-fake-news-about-zelenskiy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Thursday, Ukrainian media group TAVR Media confirmed that it was hacked to spread fake news about President Zelenskiy being in critical condition and under intensive care.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Business Associations Warn Members Against ‘PSPCL’ Phishing Scam<a href="https://timesofindia.indiatimes.com/city/ludhiana/biz-associations-warn-members-against-pspcl-phishing-scam/articleshow/93017457.cms?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several business associations have warned their members against this fraud after PSPCL issued a public notice regarding the same. Businessmen are also demanding that authorities take strict action against the people running this scam.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Radio Stations Hacked to Broadcast Fake News About Zelenskyy's Health<a href="https://thehackernews.com/2022/07/ukrainian-radio-stations-hacked-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian radio operator TAVR Media on Thursday became the latest victim of a cyberattack, resulting in the broadcast of a fake message that President Volodymyr Zelenskyy was seriously ill.  "Cybercriminals spread information that the President of Ukraine, Volodymyr Zelenskyy, is allegedly in intensive care, and his duties are performed by the Chairman of the Verkhovna Rada, Ruslan Stefanchuk," the State Service of Special Communications and Information Protection of Ukraine (SSSCIP)  said  in an update.  The Kyiv-based holding company oversees nine major radio stations, including Hit FM, Radio ROKS, KISS FM, Radio RELAX, Melody FM, Nashe Radio, Radio JAZZ, Classic Radio, and Radio Bayraktar.   In a separate post on Facebook, TAVR Media  disclosed  its servers and networks were targeted in a cyberattack and it's working to resolve the issue. The company also emphasized that "no information about the health problems of the President of Ukraine Volodymyr Zelenskyy is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel firewall vulnerabilities left business networks open to abuse<a href="https://portswigger.net/daily-swig/zyxel-firewall-vulnerabilities-left-business-networks-open-to-abuse?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+First on the list is CVE-2022-2030, an authenticated directory traversal vulnerability in the Common Gateway Interface (GLI) programs of some Zyxel firewalls. This was caused by specific character sequences within an improperly sanitized URL.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Settlements Reached In 2 Large Healthcare Hack Lawsuits<a href="https://www.bankinfosecurity.com/settlements-reached-in-2-large-healthcare-hack-lawsuits-a-19617?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Settlements in class action lawsuits filed in the aftermath of two separate major breaches serve as the latest examples of threats and risks involving email hacks - as well as underlining the threat of litigation in the wake of such incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 22, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
