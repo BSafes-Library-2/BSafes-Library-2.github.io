@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Candiru surveillance spyware DevilsTongue exploited Chrome Zero-Day to target journalists<a href="https://securityaffairs.co/wordpress/133546/intelligence/candiru-chrome-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The spyware developed by Israeli surveillance firm Candiru exploited recently fixed CVE-2022-2294 Chrome zero-day in attacks on journalists. 
+
+
+
+Researchers from the antivirus firm Avast reported that the DevilsTongue spyware, developed, by Israeli surveillance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

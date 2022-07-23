@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker selling Twitter account data of 5.4 million users for $30k<a href="https://www.bleepingcomputer.com/news/security/hacker-selling-twitter-account-data-of-54-million-users-for-30k/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter has suffered a data breach after threat actors used a vulnerability to build a database of phone numbers and email addresses belonging to 5.4 million accounts, with the data now up for sale on a hacker forum for $30,000.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

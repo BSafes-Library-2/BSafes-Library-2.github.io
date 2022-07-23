@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital security giant Entrust breached by ransomware gang<a href="https://www.bleepingcomputer.com/news/security/digital-security-giant-entrust-breached-by-ransomware-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital security giant Entrust has confirmed that it suffered a cyberattack where threat actors breached their network and stole data from internal systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breached Ukrainian radio station to spread fake news about Zelensky ‘s health<a href="https://securityaffairs.co/wordpress/133559/hacking/radio-hacked-fake-news-zelensky-health.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors hacked the Ukrainian radio station TAVR Media and broadcasted fake news on the critical health condition of President Volodymyr Zelensky
+
+
+
+Threat actors breached the Ukrainian radio station TAVR Media this week, the attackers spread a fake...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breach Ukrainian radio network to spread fake news about Zelenskiy<a href="https://www.bleepingcomputer.com/news/security/hackers-breach-ukrainian-radio-network-to-spread-fake-news-about-zelenskiy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Thursday, Ukrainian media group TAVR Media confirmed that it was hacked to spread fake news about President Zelenskiy being in critical condition and under intensive care.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

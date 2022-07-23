@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity, the ECPA, Carpenter, and Government Transparency<a href="https://www.lawfareblog.com/cybersecurity-ecpa-carpenter-and-government-transparency"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If the government fails to engage in some greater degree of transparency about how it interprets and applies its existing surveillance authorities, the U.S. risks significant and unnecessary diminution of national interests in both security and privacy and civil liberties.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Resumes Blocking Office VBA Macros by Default After 'Temporary Pause'<a href="https://thehackernews.com/2022/07/microsoft-resumes-blocking-office-vba.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has officially resumed blocking Visual Basic for Applications (VBA) macros by default across Office apps, weeks after temporarily announcing plans to roll back the change.  "Based on our review of customer feedback, we've made updates to both our&nbsp; end user &nbsp;and our&nbsp; IT admin &nbsp;documentation to make clearer what options you have for different scenarios," the company&nbsp; said &nbsp;in an update on July 20.  Earlier this February, Microsoft publicized its plans to disable macros by default in Office applications such as Access, Excel, PowerPoint, Visio, and Word as a way to prevent threat actors from abusing the feature to deliver malware.  It's a known fact that a majority of the damaging cyberattacks today leverage email-based phishing lures to spread bogus documents containing malicious macros as a primary vector for initial access.   "Macros can add a lot of functionality to Office, but they are often used by people with bad intentions to distribute malware to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Bringing the Android App Permissions Section Back to the Play Store<a href="https://thehackernews.com/2022/07/google-bringing-android-app-permissions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday said it's backtracking on a&nbsp; recent change &nbsp;that removed the app permissions list from the Google Play Store for Android across both the mobile app and the web.  "Privacy and transparency are core values in the Android community," the Android Developers team&nbsp; said &nbsp;in a series of tweets. "We heard your feedback that you find the app permissions section in Google Play useful, and we've decided to reinstate it. The app permissions section will be back shortly."  To that end, in addition to showcasing the new Data safety section that offers users a simplified summary of an app's data collection, processing, and security practices, Google also intends to highlight all the permissions required by the app to make sense of its "ability to access specific restricted data and actions."   The reinstatement comes as the internet giant moved to swap out the apps permission section with the newer Data safety labels last week ahead of the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leveling the field for federal cyber talent<a href="https://fcw.com/workforce/2022/07/leveling-field-federal-cyber-talent/374771/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kiran Ahuja, director of the Office of Personnel Management, told lawmakers on Thursday that her agency wants “to work with Congress to develop a government-wide cyber workforce plan that puts agencies on equal footing in competing for cyber talent.”
+</details>
+<div style="text-align: right" markdown="1">
+FCW
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Easier Way to Keep Old Python Code Healthy and Secure<a href="https://thehackernews.com/2022/07/an-easier-way-to-keep-old-python-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Python has its pros and cons, but it's nonetheless used extensively. For example, Python is frequently used in data crunching tasks even when there are more appropriate languages to choose from.  Why? Well, Python is relatively easy to learn. Someone with a science background can pick up Python much more quickly than, say, C. However, Python's inherent approachability also creates a couple of problems.  Whenever Python is updated, it means a big refactoring workload, which often gets dealt with poorly – or not at all. That leads to poor performance and security vulnerabilities. But maybe there is a better way: a tool to keep your Python tasks running smoothly and securely day in, day out. Let's take a look.  It's slow, but it does the job  Python isn't the fastest language around, but despite its comparative disadvantages, you'll often see it used for intensive data crunching operations. Think machine learning, computer vision, or even pure math in high-perform
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

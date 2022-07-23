@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker selling Twitter account data of 5.4 million users for $30k<a href="https://www.bleepingcomputer.com/news/security/hacker-selling-twitter-account-data-of-54-million-users-for-30k/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Patches Servlet Filter Vulnerabilities Impacting Multiple Products<a href="https://www.securityweek.com/atlassian-patches-servlet-filter-vulnerabilities-impacting-multiple-products?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall Issues Patch for Critical Bug Affecting its Analytics and GMS Products<a href="https://thehackernews.com/2022/07/sonicwall-issues-patch-for-critical-bug.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity, the ECPA, Carpenter, and Government Transparency<a href="https://www.lawfareblog.com/cybersecurity-ecpa-carpenter-and-government-transparency"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Account lockout policy in Windows 11 is enabled by default to block block brute force attacks<a href="https://securityaffairs.co/wordpress/133568/security/windows-account-lockout-policy.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Digital security giant Entrust breached by ransomware gang<a href="https://www.bleepingcomputer.com/news/security/digital-security-giant-entrust-breached-by-ransomware-gang/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Grafana patches vulnerability that could lead to admin account takeover<a href="https://portswigger.net/daily-swig/grafana-patches-vulnerability-that-could-lead-to-admin-account-takeover?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Resumes Blocking Office VBA Macros by Default After 'Temporary Pause'<a href="https://thehackernews.com/2022/07/microsoft-resumes-blocking-office-vba.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers breached Ukrainian radio station to spread fake news about Zelensky ‘s health<a href="https://securityaffairs.co/wordpress/133559/hacking/radio-hacked-fake-news-zelensky-health.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall: Patch critical SQL injection bug immediately<a href="https://www.bleepingcomputer.com/news/security/sonicwall-patch-critical-sql-injection-bug-immediately/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Code Execution and Other Vulnerabilities Patched in Drupal<a href="https://www.securityweek.com/code-execution-and-other-vulnerabilities-patched-drupal?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Bringing the Android App Permissions Section Back to the Play Store<a href="https://thehackernews.com/2022/07/google-bringing-android-app-permissions.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Candiru surveillance spyware DevilsTongue exploited Chrome Zero-Day to target journalists<a href="https://securityaffairs.co/wordpress/133546/intelligence/candiru-chrome-zero-day.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian: Confluence hardcoded password was leaked, patch now!<a href="https://www.bleepingcomputer.com/news/security/atlassian-confluence-hardcoded-password-was-leaked-patch-now/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leveling the field for federal cyber talent<a href="https://fcw.com/workforce/2022/07/leveling-field-federal-cyber-talent/374771/?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ FCW
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An Easier Way to Keep Old Python Code Healthy and Secure<a href="https://thehackernews.com/2022/07/an-easier-way-to-keep-old-python-code.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers breach Ukrainian radio network to spread fake news about Zelenskiy<a href="https://www.bleepingcomputer.com/news/security/hackers-breach-ukrainian-radio-network-to-spread-fake-news-about-zelenskiy/"> Full Text</a>
@@ -318,7 +318,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: Business Associations Warn Members Against ‘PSPCL’ Phishing Scam<a href="https://timesofindia.indiatimes.com/city/ludhiana/biz-associations-warn-members-against-pspcl-phishing-scam/articleshow/93017457.cms?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Radio Stations Hacked to Broadcast Fake News About Zelenskyy's Health<a href="https://thehackernews.com/2022/07/ukrainian-radio-stations-hacked-to.html"> Full Text</a>
@@ -350,7 +350,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel firewall vulnerabilities left business networks open to abuse<a href="https://portswigger.net/daily-swig/zyxel-firewall-vulnerabilities-left-business-networks-open-to-abuse?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2022
+July 22, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Settlements Reached In 2 Large Healthcare Hack Lawsuits<a href="https://www.bankinfosecurity.com/settlements-reached-in-2-large-healthcare-hack-lawsuits-a-19617?&web_view=true"> Full Text</a>

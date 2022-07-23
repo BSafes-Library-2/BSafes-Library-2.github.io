@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome zero-day used to infect journalists with Candiru spyware<a href="https://www.bleepingcomputer.com/news/security/chrome-zero-day-used-to-infect-journalists-with-candiru-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israeli spyware vendor Candiru was found using a zero-day vulnerability in Google Chrome to spy on journalists and other high-interest individuals in the Middle East with the 'DevilsTongue' spyware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

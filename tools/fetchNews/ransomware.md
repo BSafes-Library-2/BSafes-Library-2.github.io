@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Puts Servers in the Crosshairs<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/lockbit-targets-servers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In one attack observed by Symantec, LockBit was seen identifying domain-related information, creating a Group Policy for lateral movement, and executing a command on all systems within the same domain to forcefully update group policy.
+</details>
+<div style="text-align: right" markdown="1">
+Symantec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Conti ransomware hacked and encrypted the Costa Rican government<a href="https://www.bleepingcomputer.com/news/security/how-conti-ransomware-hacked-and-encrypted-the-costa-rican-government/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged on how the Conti ransomware gang breached the Costa Rican government, showing the attack's precision and the speed of moving from initial access to the final stage of encrypting devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Redeemer ransomware version promoted on hacker forums<a href="https://www.bleepingcomputer.com/news/security/new-redeemer-ransomware-version-promoted-on-hacker-forums/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor is promoting a new version of their free-to-use 'Redeemer' ransomware builder on hacker forums, offering unskilled threat actors an easy entry to the world of encryption-backed extortion attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900195
 
 ## Solution
 ---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Account lockout policy in Windows 11 is enabled by default to block block brute force attacks<a href="https://securityaffairs.co/wordpress/133568/security/windows-account-lockout-policy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Starting with Windows 11 Microsoft introduce by default an account lockout policy that can block brute force attacks.
+
+
+
+Starting with Windows 11 Insider Preview build 22528.1000 the OS supports an account lockout policy enabled by default to block brute...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,104 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Patches Servlet Filter Vulnerabilities Impacting Multiple Products<a href="https://www.securityweek.com/atlassian-patches-servlet-filter-vulnerabilities-impacting-multiple-products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-26136, the first of the flaws could allow a remote, unauthenticated attacker to send specially crafted HTTP requests and authenticate to third-party apps, or to launch an XSS attack, to execute JavaScript code in a user’s browser.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Issues Patch for Critical Bug Affecting its Analytics and GMS Products<a href="https://thehackernews.com/2022/07/sonicwall-issues-patch-for-critical-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network security company SonicWall on Friday rolled out fixes to mitigate a critical SQL injection (SQLi) vulnerability affecting its Analytics On-Prem and Global Management System (GMS) products.  The vulnerability, tracked as&nbsp; CVE-2022-22280 , is rated 9.4 for severity on the CVSS scoring system and stems from what the company describes is an "improper neutralization of special elements" used in an SQL command that could lead to an unauthenticated SQL injection.   "Without sufficient removal or quoting of SQL syntax in user-controllable inputs, the generated SQL query can cause those inputs to be interpreted as SQL instead of ordinary user data," MITRE&nbsp; notes &nbsp;in its description of SQL injection.   "This can be used to alter query logic to bypass security checks, or to insert additional statements that modify the back-end database, possibly including execution of system commands."  H4lo and Catalpa of DBappSecurity HAT Lab have been credited with discov
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Grafana patches vulnerability that could lead to admin account takeover<a href="https://portswigger.net/daily-swig/grafana-patches-vulnerability-that-could-lead-to-admin-account-takeover?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security flaw, tracked as CVE-2022-31107, is present in versions 5.3 until 9.0.3, 8.5.9, 8.4.10, and 8.3.10, and has been patched by Grafana in versions 9.0.3, 8.5.9, 8.4.10, and 8.3.10.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall: Patch critical SQL injection bug immediately<a href="https://www.bleepingcomputer.com/news/security/sonicwall-patch-critical-sql-injection-bug-immediately/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has published a security advisory today to warn of a&nbsp;critical SQL injection flaw impacting the GMS (Global Management System) and Analytics On-Prem products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Code Execution and Other Vulnerabilities Patched in Drupal<a href="https://www.securityweek.com/code-execution-and-other-vulnerabilities-patched-drupal?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patches for these vulnerabilities are included in Drupal 9.4.3 and 9.3.19. The information disclosure flaw also impacts Drupal 7 and a fix has been included in version 7.91.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian: Confluence hardcoded password was leaked, patch now!<a href="https://www.bleepingcomputer.com/news/security/atlassian-confluence-hardcoded-password-was-leaked-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian software firm Atlassian warned customers to immediately patch a critical vulnerability that provides remote attackers with hardcoded credentials to log into unpatched Confluence Server and Data Center servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel firewall vulnerabilities left business networks open to abuse<a href="https://portswigger.net/daily-swig/zyxel-firewall-vulnerabilities-left-business-networks-open-to-abuse?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+First on the list is CVE-2022-2030, an authenticated directory traversal vulnerability in the Common Gateway Interface (GLI) programs of some Zyxel firewalls. This was caused by specific character sequences within an improperly sanitized URL.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
