@@ -8,6 +8,24 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall fixed critical SQLi in Analytics and GMS products<a href="https://securityaffairs.co/wordpress/133579/security/sonicwall-critical-sqli.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security company SonicWall released updates to address a critical SQL injection (SQLi) flaw in Analytics On-Prem and Global Management System (GMS) products.
+
+
+
+Security company SonicWall addressed a critical SQL injection (SQLi) vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

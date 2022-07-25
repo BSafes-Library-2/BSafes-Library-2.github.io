@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+July 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A database containing data of 5.4 million Twitter accounts available for sale<a href="https://securityaffairs.co/wordpress/133593/data-breach/twitter-leaked-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actor leaked data of 5.4 million Twitter users that were obtained by exploiting a now patched flaw in the popular platform.
+
+
+
+A threat actor has leaked data of 5.4 million Twitter accounts that were obtained by exploiting a now-fixed vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile reaches $350M settlement in 2021 cyberattack and data breach impacting 76M people<a href="https://www.geekwire.com/2022/t-mobile-reaches-350m-settlement-in-2021-cyberattack-and-data-breach-impacting-more-than-76m-people/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile agreed to pay $350 million to settle class-action lawsuits brought over an August 2021 cyberattack in which a hacker infiltrated its computer systems to steal sensitive data relating to millions of customers.
+</details>
+<div style="text-align: right" markdown="1">
+Geek Wire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

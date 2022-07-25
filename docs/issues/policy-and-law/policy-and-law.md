@@ -8,6 +8,24 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI seized $500,000 worth of bitcoin obtained from Maui ransomware attacks<a href="https://securityaffairs.co/wordpress/133587/cyber-warfare-2/fbi-seized-bitcoin-maui-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. DoJ seized $500,000 worth of Bitcoin from North Korea-linked threat actors who are behind the Maui ransomware.
+
+
+
+The U.S. Department of Justice (DoJ) has seized $500,000 worth of Bitcoin from North Korean threat actors who used the Maui ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+July 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TSA revises and reissues cybersecurity requirements for pipeline owners and operators<a href="https://www.tsa.gov/news/press/releases/2022/07/21/tsa-revises-and-reissues-cybersecurity-requirements-pipeline-owners?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Transportation Security Administration (TSA) announced the revision of its Security Directive regarding oil and natural gas pipeline security that will continue the effort to build cybersecurity resiliency for the nation’s critical pipelines.
+</details>
+<div style="text-align: right" markdown="1">
+tsa
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

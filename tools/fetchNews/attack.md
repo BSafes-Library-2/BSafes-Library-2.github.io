@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Radio Stations Hacked to Broadcast Fake News About Zelenskyy's Health<a href="https://thehackernews.com/2022/07/ukrainian-radio-stations-hacked-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian radio operator TAVR Media on Thursday became the latest victim of a cyberattack, resulting in the broadcast of a fake message that President Volodymyr Zelenskyy was seriously ill.  "Cybercriminals spread information that the President of Ukraine, Volodymyr Zelenskyy, is allegedly in intensive care, and his duties are performed by the Chairman of the Verkhovna Rada, Ruslan Stefanchuk," the State Service of Special Communications and Information Protection of Ukraine (SSSCIP)&nbsp; said &nbsp;in an update.  The Kyiv-based holding company oversees nine major radio stations, including Hit FM, Radio ROKS, KISS FM, Radio RELAX, Melody FM, Nashe Radio, Radio JAZZ, Classic Radio, and Radio Bayraktar.   In a separate post on Facebook, TAVR Media&nbsp; disclosed &nbsp;its servers and networks were targeted in a cyberattack and it's working to resolve the issue. The company also emphasized that "no information about the health problems of the President of Ukraine Volodymyr Zelenskyy is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

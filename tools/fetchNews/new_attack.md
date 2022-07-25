@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers attack EU targets with Konni RAT malware<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-attack-eu-targets-with-konni-rat-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have uncovered a new campaign attributed to APT37, a North Korean group of hackers, targeting high-value organizations in the Czech Republic, Poland, and other European countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

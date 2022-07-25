@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Business Associations Warn Members Against ‘PSPCL’ Phishing Scam<a href="https://timesofindia.indiatimes.com/city/ludhiana/biz-associations-warn-members-against-pspcl-phishing-scam/articleshow/93017457.cms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several business associations have warned their members against this fraud after PSPCL issued a public notice regarding the same. Businessmen are also demanding that authorities take strict action against the people running this scam.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

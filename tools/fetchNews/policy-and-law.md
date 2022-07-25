@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Settlements Reached In 2 Large Healthcare Hack Lawsuits<a href="https://www.bankinfosecurity.com/settlements-reached-in-2-large-healthcare-hack-lawsuits-a-19617?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Settlements in class action lawsuits filed in the aftermath of two separate major breaches serve as the latest examples of threats and risks involving email hacks - as well as underlining the threat of litigation in the wake of such incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

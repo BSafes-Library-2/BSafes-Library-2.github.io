@@ -34,6 +34,222 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amadey malware pushed via software cracks in SmokeLoader campaign<a href="https://www.bleepingcomputer.com/news/security/amadey-malware-pushed-via-software-cracks-in-smokeloader-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the Amadey Bot malware is distributed through the SmokeLoader malware, using software cracks and keygen sites as lures.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is APT28 behind the STIFF#BIZON attacks attributed to North Korea-linked APT37?<a href="https://securityaffairs.co/wordpress/133605/apt/apt37-stiffbizon-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT37 group targets high-value organizations in the Czech Republic, Poland, and other countries.
+
+
+
+Researchers from the Securonix Threat Research (STR) team have uncovered a new attack campaign, tracked as STIFF#BIZON, targeting high-value...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QBot phishing uses Windows Calculator sideloading to infect devices<a href="https://www.bleepingcomputer.com/news/security/qbot-phishing-uses-windows-calculator-sideloading-to-infect-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the QBot malware have been using the Windows Calculator to side-load the malicious payload on infected computers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 375 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/133601/breaking-news/security-affairs-newsletter-round-375-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+FBI...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A database containing data of 5.4 million Twitter accounts available for sale<a href="https://securityaffairs.co/wordpress/133593/data-breach/twitter-leaked-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actor leaked data of 5.4 million Twitter users that were obtained by exploiting a now patched flaw in the popular platform.
+
+
+
+A threat actor has leaked data of 5.4 million Twitter accounts that were obtained by exploiting a now-fixed vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TSA revises and reissues cybersecurity requirements for pipeline owners and operators<a href="https://www.tsa.gov/news/press/releases/2022/07/21/tsa-revises-and-reissues-cybersecurity-requirements-pipeline-owners?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Transportation Security Administration (TSA) announced the revision of its Security Directive regarding oil and natural gas pipeline security that will continue the effort to build cybersecurity resiliency for the nation’s critical pipelines.
+</details>
+<div style="text-align: right" markdown="1">
+tsa
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile reaches $350M settlement in 2021 cyberattack and data breach impacting 76M people<a href="https://www.geekwire.com/2022/t-mobile-reaches-350m-settlement-in-2021-cyberattack-and-data-breach-impacting-more-than-76m-people/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile agreed to pay $350 million to settle class-action lawsuits brought over an August 2021 cyberattack in which a hacker infiltrated its computer systems to steal sensitive data relating to millions of customers.
+</details>
+<div style="text-align: right" markdown="1">
+Geek Wire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers attack EU targets with Konni RAT malware<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-attack-eu-targets-with-konni-rat-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have uncovered a new campaign attributed to APT37, a North Korean group of hackers, targeting high-value organizations in the Czech Republic, Poland, and other European countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome use subject to restrictions in Dutch schools over data security concerns<a href="https://www.bleepingcomputer.com/news/security/chrome-use-subject-to-restrictions-in-dutch-schools-over-data-security-concerns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ministry of Education in the Netherlands has decided to implement restrictions on the use of the Chrome OS and Chrome web browser until August 2023 over concerns about data privacy.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI seized $500,000 worth of bitcoin obtained from Maui ransomware attacks<a href="https://securityaffairs.co/wordpress/133587/cyber-warfare-2/fbi-seized-bitcoin-maui-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. DoJ seized $500,000 worth of Bitcoin from North Korea-linked threat actors who are behind the Maui ransomware.
+
+
+
+The U.S. Department of Justice (DoJ) has seized $500,000 worth of Bitcoin from North Korean threat actors who used the Maui ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall fixed critical SQLi in Analytics and GMS products<a href="https://securityaffairs.co/wordpress/133579/security/sonicwall-critical-sqli.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security company SonicWall released updates to address a critical SQL injection (SQLi) flaw in Analytics On-Prem and Global Management System (GMS) products.
+
+
+
+Security company SonicWall addressed a critical SQL injection (SQLi) vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - July 22nd 2022 - Attacks abound<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-22nd-2022-attacks-abound/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New ransomware operations continue to be launched this week, with the new Luna ransomware found to be targeting both Windows and VMware ESXi servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
