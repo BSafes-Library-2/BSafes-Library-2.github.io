@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome use subject to restrictions in Dutch schools over data security concerns<a href="https://www.bleepingcomputer.com/news/security/chrome-use-subject-to-restrictions-in-dutch-schools-over-data-security-concerns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ministry of Education in the Netherlands has decided to implement restrictions on the use of the Chrome OS and Chrome web browser until August 2023 over concerns about data privacy.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

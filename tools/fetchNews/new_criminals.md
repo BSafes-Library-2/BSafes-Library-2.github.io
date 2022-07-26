@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart Hacks Food Ordering Systems to Steal Payment Data from Over 300 Restaurants<a href="https://thehackernews.com/2022/07/magecart-hacks-online-food-ordering.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three restaurant ordering platforms MenuDrive, Harbortouch, and InTouchPOS were the target of two Magecart skimming campaigns that resulted in the compromise of at least 311 restaurants.  The trio of breaches has led to the theft of more than 50,000 payment card records from these infected restaurants and posted for sale on the dark web.  "The online ordering platforms MenuDrive and Harbortouch were targeted by the same Magecart campaign, resulting in e-skimmer infections on 80 restaurants using MenuDrive and 74 using Harbortouch," cybersecurity firm Recorded Future&nbsp; revealed &nbsp;in a report.  "InTouchPOS was targeted by a separate, unrelated Magecart campaign, resulting in e-skimmer infections on 157 restaurants using the platform."   Magecart actors have a history of&nbsp; infecting e-commerce websites &nbsp;with JavaScript skimmers to steal online shoppers' payment card data, billing information, and other personally identifiable information (PII).   The first set of act
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Gang Claims to Have Breached the Italian Revenue Agency<a href="https://securityaffairs.co/wordpress/133640/cyber-crime/lockbit-ransomware-italian-revenue-agency.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware gang LockBit claims to have hacked the Italian Revenue Agency (Agenzia delle Entrate) and added the government agency to the list of victims reported on its dark web leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

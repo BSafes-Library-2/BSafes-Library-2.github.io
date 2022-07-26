@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Deceive Developers by Spoofing GitHub Commit Metadata<a href="https://cyware.com/news/hackers-deceive-developers-by-spoofing-github-commit-metadata-d5560800"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Checkmarx warned against a new supply-chain attack that involves spoofing metadata commits to deceive GitHub developers into using malicious code.  Commits  are  essential components in the GitHub system and have a unique hash or ID.  Fake commits can be automatically generated and added to the use ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

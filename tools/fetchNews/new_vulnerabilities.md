@@ -8,6 +8,64 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in FileWave MDM could have allowed hacking +1000 organizzations<a href="https://securityaffairs.co/wordpress/133649/hacking/filewave-mdm-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple flaws in FileWave mobile device management (MDM) product exposed organizations to cyberattacks.
+
+
+
+Claroty researchers discovered two vulnerabilities in the FileWave MDM product that exposed more than one thousand organizations to cyber attacks....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1,000 Organizations Exposed to Remote Attacks by FileWave MDM Vulnerabilities<a href="https://www.securityweek.com/1000-organizations-exposed-remote-attacks-filewave-mdm-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Claroty researchers discovered that the FileWave MDM product is affected by two critical security holes: an authentication bypass issue (CVE-2022-34907) and a hardcoded cryptographic key (CVE-2022-34906). The vendor quickly patched the flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drupal developers fixed a code execution flaw in the popular CMS<a href="https://securityaffairs.co/wordpress/133625/security/drupal-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Drupal development team released security updates to fix multiple issues, including a critical code execution flaw.
+
+
+
+Drupal developers have released security updates to address multiple vulnerabilities in the popular CMS:
+
+
+
+
+
+
+
+Drupal core - Moderately...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

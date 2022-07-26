@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Source code for Rust-based info-stealer released on hacker forums<a href="https://www.bleepingcomputer.com/news/security/source-code-for-rust-based-info-stealer-released-on-hacker-forums/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese APT Group Taking Over Belgian Ministries<a href="https://cyware.com/news/chinese-apt-group-taking-over-belgian-ministries-c283f390"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Adds Default Protection Against RDP Brute-Force Attacks in Windows 11<a href="https://thehackernews.com/2022/07/microsoft-adds-default-protection.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Open-Source Security: How Digital Infrastructure Is Built on a House of Cards<a href="https://www.lawfareblog.com/open-source-security-how-digital-infrastructure-built-house-cards"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CosmicStrand, a new sophisticated UEFI firmware rootkit linked to China￼<a href="https://securityaffairs.co/wordpress/133658/malware/cosmicstrand-uefi-firmware-rootkit.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Physical Security Maintenance Should Never Be an Afterthought<a href="https://threatpost.com/physical-security-maintenance/180269/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploited PrestaShop zero-day to breach online stores<a href="https://www.bleepingcomputer.com/news/security/hackers-exploited-prestashop-zero-day-to-breach-online-stores/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Deceive Developers by Spoofing GitHub Commit Metadata<a href="https://cyware.com/news/hackers-deceive-developers-by-spoofing-github-commit-metadata-d5560800"> Full Text</a>
@@ -166,7 +166,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover New 'CosmicStrand' UEFI Firmware Rootkit Used by Chinese Hackers<a href="https://thehackernews.com/2022/07/experts-uncover-new-cosmicstrand-uefi.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flaws in FileWave MDM could have allowed hacking +1000 organizzations<a href="https://securityaffairs.co/wordpress/133649/hacking/filewave-mdm-flaws.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile Settles to Pay $350M to Customers in Data Breach<a href="https://www.securityweek.com/t-mobile-settles-pay-350m-customers-data-breach?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magecart Hacks Food Ordering Systems to Steal Payment Data from Over 300 Restaurants<a href="https://thehackernews.com/2022/07/magecart-hacks-online-food-ordering.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lockbit ransomware gang claims to have breached the Italian Revenue Agency<a href="https://securityaffairs.co/wordpress/133640/cyber-crime/lockbit-ransomware-italian-revenue-agency.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1,000 Organizations Exposed to Remote Attacks by FileWave MDM Vulnerabilities<a href="https://www.securityweek.com/1000-organizations-exposed-remote-attacks-filewave-mdm-vulnerabilities?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Racoon Stealer is Back — How to Protect Your Organization<a href="https://thehackernews.com/2022/07/racoon-stealer-is-back-how-to-protect.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amadey malware spreads via software cracks laced with SmokeLoader<a href="https://securityaffairs.co/wordpress/133617/cyber-crime/amadey-malware-spreads-smokeloader.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit Ransomware Gang Claims to Have Breached the Italian Revenue Agency<a href="https://securityaffairs.co/wordpress/133640/cyber-crime/lockbit-ransomware-italian-revenue-agency.html?&web_view=true"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Drupal developers fixed a code execution flaw in the popular CMS<a href="https://securityaffairs.co/wordpress/133625/security/drupal-flaws-2.html"> Full Text</a>
@@ -350,7 +350,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Your biggest cyber-crime threat has almost nothing to do with technology<a href="https://www.zdnet.com/article/your-biggest-cyber-crime-threat-has-almost-nothing-to-do-with-technology/?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Visibility into runtime threats against mobile apps and APIs still lacking<a href="https://www.helpnetsecurity.com/2022/07/22/visibility-runtime-threats-mobile-apps/?&web_view=true"> Full Text</a>
@@ -382,7 +382,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oklahoma City Housing Authority Provides Notice of Data Breach<a href="https://finance.yahoo.com/news/oklahoma-city-housing-authority-provides-010000195.html?&web_view=true"> Full Text</a>
@@ -398,7 +398,7 @@ Yahoo Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2022
+July 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Roaming Mantis Financial Hackers Targeting Android and iPhone Users in France<a href="https://thehackernews.com/2022/07/roaming-mantis-financial-hackers.html"> Full Text</a>

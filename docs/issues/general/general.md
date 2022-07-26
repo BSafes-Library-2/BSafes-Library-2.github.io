@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+July 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open-Source Security: How Digital Infrastructure Is Built on a House of Cards<a href="https://www.lawfareblog.com/open-source-security-how-digital-infrastructure-built-house-cards"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Log4Shell remains a national concern because the open-source community cannot continue to shoulder the responsibility of securing this critical asset and vendors are not exercising due care in incorporating open-source components into their products. A comprehensive institutional response to the incentives problem is needed.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Your biggest cyber-crime threat has almost nothing to do with technology<a href="https://www.zdnet.com/article/your-biggest-cyber-crime-threat-has-almost-nothing-to-do-with-technology/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scale of business email compromise (BEC) attacks is clear: according to the FBI, the combined total lost to BEC attacks is $43 billion and counting, with attacks reported in at least 177 countries.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Visibility into runtime threats against mobile apps and APIs still lacking<a href="https://www.helpnetsecurity.com/2022/07/22/visibility-runtime-threats-mobile-apps/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attack against APIs that rendered a mobile app non-functional would have a significant effect on 45 percent of businesses and a major impact on an additional 30 percent, according to a new report.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

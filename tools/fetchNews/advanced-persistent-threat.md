@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is APT28 behind the STIFF#BIZON attacks attributed to North Korea-linked APT37?<a href="https://securityaffairs.co/wordpress/133605/apt/apt37-stiffbizon-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT37 group targets high-value organizations in the Czech Republic, Poland, and other countries.
+
+
+
+Researchers from the Securonix Threat Research (STR) team have uncovered a new attack campaign, tracked as STIFF#BIZON, targeting high-value...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

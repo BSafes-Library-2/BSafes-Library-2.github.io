@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - July 22nd 2022 - Attacks abound<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-22nd-2022-attacks-abound/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New ransomware operations continue to be launched this week, with the&nbsp;new Luna ransomware&nbsp;found to be targeting both Windows and VMware ESXi servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

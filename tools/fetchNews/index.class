@@ -34,6 +34,386 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Source code for Rust-based info-stealer released on hacker forums<a href="https://www.bleepingcomputer.com/news/security/source-code-for-rust-based-info-stealer-released-on-hacker-forums/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware author released the source code of their info-stealer for free on hacking forums earlier this month, and security analysts already report observing several samples being deployed in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Group Taking Over Belgian Ministries<a href="https://cyware.com/news/chinese-apt-group-taking-over-belgian-ministries-c283f390"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Minister for Foreign Affairs of Belgium claimed that several China-linked APT groups—APT27, APT30, and APT3—targeted the nation’s defense and interior ministries. However, the spokesperson of the Chinese Embassy in Belgium denied the accusations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Adds Default Protection Against RDP Brute-Force Attacks in Windows 11<a href="https://thehackernews.com/2022/07/microsoft-adds-default-protection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is now taking steps to prevent Remote Desktop Protocol (RDP) brute-force attacks as part of the latest builds for the Windows 11 operating system in an attempt to raise the  security baseline  to meet the evolving threat landscape.  To that end, the default policy for Windows 11 builds – particularly, Insider Preview builds 22528.1000 and newer – will automatically lock accounts for 10 minutes after 10 invalid sign-in attempts.  "Win11 builds now have a DEFAULT account lockout policy to mitigate RDP and other brute-force password vectors," David Weston, Microsoft's vice president for OS security and enterprise,  said  in a series of tweets last week. "This technique is very commonly used in Human Operated Ransomware and other attacks -- this control will make brute forcing much harder which is awesome!"   It's worth pointing out that while this  account lockout setting  is already incorporated in Windows 10, it's not enabled by default.  The f
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open-Source Security: How Digital Infrastructure Is Built on a House of Cards<a href="https://www.lawfareblog.com/open-source-security-how-digital-infrastructure-built-house-cards"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Log4Shell remains a national concern because the open-source community cannot continue to shoulder the responsibility of securing this critical asset and vendors are not exercising due care in incorporating open-source components into their products. A comprehensive institutional response to the incentives problem is needed.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CosmicStrand, a new sophisticated UEFI firmware rootkit linked to China￼<a href="https://securityaffairs.co/wordpress/133658/malware/cosmicstrand-uefi-firmware-rootkit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky uncovered a new UEFI firmware rootkit, tracked as CosmicStrand, which it attributes to an unknown Chinese-speaking threat actor. 
+
+
+
+Researchers from Kaspersky have spotted a UEFI firmware rootkit, named CosmicStrand, which has been attributed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Physical Security Maintenance Should Never Be an Afterthought<a href="https://threatpost.com/physical-security-maintenance/180269/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SecuriThings’ CEO Roy Dagan tackles the sometimes overlooked security step of physical security maintenance and breaks down why it is important. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploited PrestaShop zero-day to breach online stores<a href="https://www.bleepingcomputer.com/news/security/hackers-exploited-prestashop-zero-day-to-breach-online-stores/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are targeting websites using the PrestaShop platform, leveraging a previously unknown vulnerability chain to perform code execution and potentially steal customers' payment information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Deceive Developers by Spoofing GitHub Commit Metadata<a href="https://cyware.com/news/hackers-deceive-developers-by-spoofing-github-commit-metadata-d5560800"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Checkmarx warned against a new supply-chain attack that involves spoofing metadata commits to deceive GitHub developers into using malicious code.  Commits  are  essential components in the GitHub system and have a unique hash or ID.  Fake commits can be automatically generated and added to the use ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover New 'CosmicStrand' UEFI Firmware Rootkit Used by Chinese Hackers<a href="https://thehackernews.com/2022/07/experts-uncover-new-cosmicstrand-uefi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown Chinese-speaking threat actor has been attributed to a new kind of sophisticated UEFI firmware rootkit called  CosmicStrand .  "The rootkit is located in the firmware images of Gigabyte or ASUS motherboards, and we noticed that all these images are related to designs using the H81 chipset," Kaspersky researchers  said  in a new report published today. "This suggests that a common vulnerability may exist that allowed the attackers to inject their rootkit into the firmware's image."  Victims identified are said to be private individuals located in China, Vietnam, Iran, and Russia, with no discernible ties to any organization or industry vertical. The attribution to a Chinese-speaking threat actor stems from code overlaps between CosmicStrand and other malware such as the MyKings botnet and MoonBounce.  Rootkits, which are malware implants that are capable of embedding themselves in the deepest layers of the operating system, are morphed from a rarity t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in FileWave MDM could have allowed hacking +1000 organizzations<a href="https://securityaffairs.co/wordpress/133649/hacking/filewave-mdm-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple flaws in FileWave mobile device management (MDM) product exposed organizations to cyberattacks.
+
+
+
+Claroty researchers discovered two vulnerabilities in the FileWave MDM product that exposed more than one thousand organizations to cyber attacks....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile Settles to Pay $350M to Customers in Data Breach<a href="https://www.securityweek.com/t-mobile-settles-pay-350m-customers-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a Securities and Exchange Commission filing on Friday, the mobile phone company said the funds would pay for claims by class members, the legal fees of plaintiffs’ counsel, and the costs of administering the settlement.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart Hacks Food Ordering Systems to Steal Payment Data from Over 300 Restaurants<a href="https://thehackernews.com/2022/07/magecart-hacks-online-food-ordering.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three restaurant ordering platforms MenuDrive, Harbortouch, and InTouchPOS were the target of two Magecart skimming campaigns that resulted in the compromise of at least 311 restaurants.  The trio of breaches has led to the theft of more than 50,000 payment card records from these infected restaurants and posted for sale on the dark web.  "The online ordering platforms MenuDrive and Harbortouch were targeted by the same Magecart campaign, resulting in e-skimmer infections on 80 restaurants using MenuDrive and 74 using Harbortouch," cybersecurity firm Recorded Future  revealed  in a report.  "InTouchPOS was targeted by a separate, unrelated Magecart campaign, resulting in e-skimmer infections on 157 restaurants using the platform."   Magecart actors have a history of  infecting e-commerce websites  with JavaScript skimmers to steal online shoppers' payment card data, billing information, and other personally identifiable information (PII).   The first set of act
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit ransomware gang claims to have breached the Italian Revenue Agency<a href="https://securityaffairs.co/wordpress/133640/cyber-crime/lockbit-ransomware-italian-revenue-agency.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group Lockbit claims to have stolen 78 GB of files from the Italian Revenue Agency (Agenzia delle Entrate).
+
+
+
+The ransomware gang Lockbit claims to have hacked the Italian Revenue Agency (Agenzia delle Entrate) and added...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1,000 Organizations Exposed to Remote Attacks by FileWave MDM Vulnerabilities<a href="https://www.securityweek.com/1000-organizations-exposed-remote-attacks-filewave-mdm-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Claroty researchers discovered that the FileWave MDM product is affected by two critical security holes: an authentication bypass issue (CVE-2022-34907) and a hardcoded cryptographic key (CVE-2022-34906). The vendor quickly patched the flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Racoon Stealer is Back — How to Protect Your Organization<a href="https://thehackernews.com/2022/07/racoon-stealer-is-back-how-to-protect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Racoon Stealer malware as a service platform gained notoriety several years ago for its ability to extract data that is stored within a Web browser. This data initially included passwords and cookies, which sometimes allow a recognized device to be authenticated without a password being entered. Racoon Stealer was also designed to steal auto-fill data, which can include a vast trove of personal information ranging from basic contact data to credit card numbers. As if all of that were not enough, Racoon Stealer also had the ability to steal cryptocurrency and to steal (or drop) files on an infected system.  As bad as Racoon Stealer might have been, its developers have recently created a new version that is designed to be far more damaging than the version that previously existed.    New Racoon Stealer Capabilities  The new version of Raccoon Stealer  still has the ability to steal browser passwords, cookies, and auto-fill data. It also has the ability to steal any credit card numbe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amadey malware spreads via software cracks laced with SmokeLoader<a href="https://securityaffairs.co/wordpress/133617/cyber-crime/amadey-malware-spreads-smokeloader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operators behind the Amadey Bot malware use the SmokeLoader to distribute a new variant via software cracks and keygen sites.
+
+
+
+Amadey Bot is a data-stealing malware that was first spotted in 2018, it also allows operators to install additional payloads....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Gang Claims to Have Breached the Italian Revenue Agency<a href="https://securityaffairs.co/wordpress/133640/cyber-crime/lockbit-ransomware-italian-revenue-agency.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware gang LockBit claims to have hacked the Italian Revenue Agency (Agenzia delle Entrate) and added the government agency to the list of victims reported on its dark web leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drupal developers fixed a code execution flaw in the popular CMS<a href="https://securityaffairs.co/wordpress/133625/security/drupal-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Drupal development team released security updates to fix multiple issues, including a critical code execution flaw.
+
+
+
+Drupal developers have released security updates to address multiple vulnerabilities in the popular CMS:
+
+
+
+
+
+
+
+Drupal core - Moderately...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Your biggest cyber-crime threat has almost nothing to do with technology<a href="https://www.zdnet.com/article/your-biggest-cyber-crime-threat-has-almost-nothing-to-do-with-technology/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scale of business email compromise (BEC) attacks is clear: according to the FBI, the combined total lost to BEC attacks is $43 billion and counting, with attacks reported in at least 177 countries.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Visibility into runtime threats against mobile apps and APIs still lacking<a href="https://www.helpnetsecurity.com/2022/07/22/visibility-runtime-threats-mobile-apps/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attack against APIs that rendered a mobile app non-functional would have a significant effect on 45 percent of businesses and a major impact on an additional 30 percent, according to a new report.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oklahoma City Housing Authority Provides Notice of Data Breach<a href="https://finance.yahoo.com/news/oklahoma-city-housing-authority-provides-010000195.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The impacted information varied by individual but may include name, Social Security number, driver's license or government identification, financial account information, and medical or health information.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roaming Mantis Financial Hackers Targeting Android and iPhone Users in France<a href="https://thehackernews.com/2022/07/roaming-mantis-financial-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mobile threat campaign tracked as  Roaming Mantis  has been linked to a new wave of compromises directed against French mobile phone users, months after it expanded its targeting to include European countries.  No fewer than 70,000 Android devices are said to have been infected as part of the active malware operation, Sekoia said in a report published last week.  Attack chains involving  Roaming Mantis , a financially motivated Chinese threat actor, are known to either deploy a piece of banking trojan named MoqHao (aka XLoader) or redirect iPhone users to credential harvesting landing pages that mimic the iCloud login page.   "MoqHao (aka Wroba, XLoader for Android) is an Android remote access trojan (RAT) with information-stealing and backdoor capabilities that likely spreads via SMS," Sekoia researchers  said .   It all starts with a phishing SMS, a technique known as smishing, enticing users with package delivery-themed messages containing rogue links, that, when clic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

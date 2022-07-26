@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roaming Mantis Financial Hackers Targeting Android and iPhone Users in France<a href="https://thehackernews.com/2022/07/roaming-mantis-financial-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mobile threat campaign tracked as&nbsp; Roaming Mantis &nbsp;has been linked to a new wave of compromises directed against French mobile phone users, months after it expanded its targeting to include European countries.  No fewer than 70,000 Android devices are said to have been infected as part of the active malware operation, Sekoia said in a report published last week.  Attack chains involving&nbsp; Roaming Mantis , a financially motivated Chinese threat actor, are known to either deploy a piece of banking trojan named MoqHao (aka XLoader) or redirect iPhone users to credential harvesting landing pages that mimic the iCloud login page.   "MoqHao (aka Wroba, XLoader for Android) is an Android remote access trojan (RAT) with information-stealing and backdoor capabilities that likely spreads via SMS," Sekoia researchers&nbsp; said .   It all starts with a phishing SMS, a technique known as smishing, enticing users with package delivery-themed messages containing rogue links, that, when clic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

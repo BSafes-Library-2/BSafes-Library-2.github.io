@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+July 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploited PrestaShop zero-day to breach online stores<a href="https://www.bleepingcomputer.com/news/security/hackers-exploited-prestashop-zero-day-to-breach-online-stores/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are targeting websites using the PrestaShop platform, leveraging a previously unknown vulnerability chain to perform code execution and potentially steal customers' payment information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile Settles to Pay $350M to Customers in Data Breach<a href="https://www.securityweek.com/t-mobile-settles-pay-350m-customers-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a Securities and Exchange Commission filing on Friday, the mobile phone company said the funds would pay for claims by class members, the legal fees of plaintiffs’ counsel, and the costs of administering the settlement.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit ransomware gang claims to have breached the Italian Revenue Agency<a href="https://securityaffairs.co/wordpress/133640/cyber-crime/lockbit-ransomware-italian-revenue-agency.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware&nbsp;group&nbsp;Lockbit&nbsp;claims to have stolen 78 GB of files from the Italian Revenue Agency (Agenzia delle Entrate).
+
+
+
+The ransomware gang Lockbit&nbsp;claims to have hacked the Italian Revenue Agency (Agenzia delle Entrate) and added...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oklahoma City Housing Authority Provides Notice of Data Breach<a href="https://finance.yahoo.com/news/oklahoma-city-housing-authority-provides-010000195.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The impacted information varied by individual but may include name, Social Security number, driver's license or government identification, financial account information, and medical or health information.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
