@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal $6 million from blockchain music platform Audius<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-6-million-from-blockchain-music-platform-audius/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decentralized music platform Audius was hacked over the weekend, with threat actors stealing over 18 million AUDIO tokens worth approximately $6 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

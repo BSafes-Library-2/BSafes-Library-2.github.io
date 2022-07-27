@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Increasingly Using WebAssembly Coded Cryptominers to Evade Detection<a href="https://thehackernews.com/2022/07/hackers-increasingly-using-webassembly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 207 websites have been infected with malicious code designed to launch a cryptocurrency miner by leveraging WebAssembly (Wasm) on the browser.  Web security company Sucuri, which published details of the campaign, said it launched an investigation after one of its clients had their computer slowed down significantly every time upon navigating to their own WordPress portal.  This uncovered a compromise of a theme file to inject malicious JavaScript code from a remote server -- hxxps://wm.bmwebm[.]org/auto.js -- that's loaded whenever the website's page is accessed.  "Once decoded, the contents of auto.js immediately reveal the functionality of a cryptominer which starts mining when a visitor lands on the compromised site," Sucuri malware researcher Cesar Anjos&nbsp; said .  What's more, the deobfuscated auto.js code makes use of WebAssembly to run low-level binary code directly on the browser.   WebAssembly , which is supported by all major browsers, is a&nbsp; b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA4563 Uses Evilnum to Target Finance Industry Supporting Crypto<a href="https://cyware.com/news/ta4563-uses-evilnum-to-target-finance-industry-supporting-crypto-ac403ce5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA4563 is once again targeting European financial and investment entities, especially those involved with cryptocurrency, foreign exchanges, and DeFi, with the Evilnum malware. As a method of testing the efficacy of the delivery methods, the updated version of Evilnum employs a diverse mix of ISO,  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

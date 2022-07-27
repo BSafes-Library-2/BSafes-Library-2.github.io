@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Zero-day Abused to Spread Spyware to Target Journalists<a href="https://cyware.com/news/chrome-zero-day-abused-to-spread-spyware-to-target-journalists-2ff0e344"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast found DevilsTongue spyware, developed by an Israeli surveillance company, abusing a Chrome zero-day to attack journalists in the Middle East.&nbsp;Since the bug exists in WebRTC, it also impacts Safari browser but the exploit found only work on Windows. Always protect data with powerful encry ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

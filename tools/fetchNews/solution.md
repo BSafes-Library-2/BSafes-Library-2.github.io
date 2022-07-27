@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Adds Default Protection Against RDP Brute-Force Attacks in Windows 11<a href="https://thehackernews.com/2022/07/microsoft-adds-default-protection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is now taking steps to prevent Remote Desktop Protocol (RDP) brute-force attacks as part of the latest builds for the Windows 11 operating system in an attempt to raise the&nbsp; security baseline &nbsp;to meet the evolving threat landscape.  To that end, the default policy for Windows 11 builds – particularly, Insider Preview builds 22528.1000 and newer – will automatically lock accounts for 10 minutes after 10 invalid sign-in attempts.  "Win11 builds now have a DEFAULT account lockout policy to mitigate RDP and other brute-force password vectors," David Weston, Microsoft's vice president for OS security and enterprise,&nbsp; said &nbsp;in a series of tweets last week. "This technique is very commonly used in Human Operated Ransomware and other attacks -- this control will make brute forcing much harder which is awesome!"   It's worth pointing out that while this&nbsp; account lockout setting &nbsp;is already incorporated in Windows 10, it's not enabled by default.  The f
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

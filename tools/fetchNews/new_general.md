@@ -8,6 +8,52 @@ nav_order: 900072
 
 ## General
 ---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers scan for vulnerabilities within 15 minutes of disclosure<a href="https://www.bleepingcomputer.com/news/security/hackers-scan-for-vulnerabilities-within-15-minutes-of-disclosure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+System administrators have even less time to patch disclosed security vulnerabilities than previously thought, as a new report shows threat actors scanning for vulnerable endpoints within 15 minutes of a new CVE being publicly disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. increased rewards for info on North Korea-linked threat actors to $10 million<a href="https://securityaffairs.co/wordpress/133688/apt/us-north-korea-rewards.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department increased rewards for information on any North Korea-linked threat actors to $10 million.
+
+
+
+In April 2020, the U.S. Departments of State, the Treasury, and Homeland Security, and the Federal Bureau of Investigation released...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+4 Steps Financial Industry Can Take to Cope With Their Growing Attack Surface<a href="https://thehackernews.com/2022/07/4-steps-financial-industry-can-take-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financial services industry has always been at the forefront of technology adoption, but the 2020 pandemic accelerated the widespread of mobile banking apps, chat-based customer service, and other digital tools.&nbsp; Adobe's 2022 FIS Trends Report ,&nbsp; for instance, found that more than half of the financial services and insurance firms surveyed experienced a notable increase in digital/mobile visitors in the first half of 2020. The same report found that four out of ten financial executives say that digital and mobile channels account for more than half of their sales – a trend that's only expected to continue in the next few years.  As financial institutions expand their digital footprint, they have more opportunities to better serve their customers – but are also more exposed to security threats. Every new tool increases the attack surface. A higher number of potential security gaps, may potentially lead to a higher number of security breaches.  According to the &nbsp;Cisco CISO B
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+July 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Physical Security Maintenance Should Never Be an Afterthought<a href="https://threatpost.com/physical-security-maintenance/180269/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SecuriThings’ CEO Roy Dagan tackles the sometimes overlooked security step of physical security maintenance and breaks down why it is important. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

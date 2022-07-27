@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers scan for vulnerabilities within 15 minutes of disclosure<a href="https://www.bleepingcomputer.com/news/security/hackers-scan-for-vulnerabilities-within-15-minutes-of-disclosure/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lightning Framework: Another Capable Linux Malware<a href="https://cyware.com/news/lightning-framework-another-capable-linux-malware-46813253"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Find Similarities Between New LockBit 3.0 and BlackMatter Ransomware<a href="https://thehackernews.com/2022/07/experts-find-similarities-between.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. increased rewards for info on North Korea-linked threat actors to $10 million<a href="https://securityaffairs.co/wordpress/133688/apt/us-north-korea-rewards.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IoT Botnets Fuels DDoS Attacks – Are You Prepared?<a href="https://threatpost.com/ddos-attacks-prepared/180273/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: IIS extensions increasingly used as Exchange backdoors<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-iis-extensions-increasingly-used-as-exchange-backdoors/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Redeemer 2.0 Promoted on Hacker Forum<a href="https://cyware.com/news/new-redeemer-20-promoted-on-hacker-forum-d52f0c51"> Full Text</a>
@@ -150,7 +150,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 4 Steps Financial Industry Can Take to Cope With Their Growing Attack Surface<a href="https://thehackernews.com/2022/07/4-steps-financial-industry-can-take-to.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors leverages DLL-SideLoading to spread Qakbot malware<a href="https://securityaffairs.co/wordpress/133680/malware/dll-sideloading-spread-qakbot.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android malware apps installed 10 million times from Google Play<a href="https://www.bleepingcomputer.com/news/security/new-android-malware-apps-installed-10-million-times-from-google-play/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome Zero-day Abused to Spread Spyware to Target Journalists<a href="https://cyware.com/news/chrome-zero-day-abused-to-spread-spyware-to-target-journalists-2ff0e344"> Full Text</a>
@@ -218,7 +218,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Increasingly Using WebAssembly Coded Cryptominers to Evade Detection<a href="https://thehackernews.com/2022/07/hackers-increasingly-using-webassembly.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero Day attacks target online stores using PrestaShop￼<a href="https://securityaffairs.co/wordpress/133669/hacking/prestashop-zero-day.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers steal $6 million from blockchain music platform Audius<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-6-million-from-blockchain-music-platform-audius/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoMet Backdoor Used in Attacks Targeting Ukraine<a href="https://cyware.com/news/gomet-backdoor-used-in-attacks-targeting-ukraine-de384161"> Full Text</a>
@@ -286,7 +286,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical FileWave MDM Flaws Open Organization-Managed Devices to Remote Hackers<a href="https://thehackernews.com/2022/07/critical-filewave-mdm-flaws-open.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. doubles reward for tips on North Korean-backed hackers<a href="https://www.bleepingcomputer.com/news/security/us-doubles-reward-for-tips-on-north-korean-backed-hackers/"> Full Text</a>
@@ -318,7 +318,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Ads Abused in Windows Support Scams<a href="https://cyware.com/news/google-ads-abused-in-windows-support-scams-923c97f7"> Full Text</a>
@@ -334,7 +334,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SmokeLoader Infecting Targeted Systems with Amadey Info-Stealing Malware<a href="https://thehackernews.com/2022/07/smokeloader-infecting-targeted-systems.html"> Full Text</a>
@@ -350,7 +350,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Using Account Lockout policies to block Windows Brute Force Attacks<a href="https://www.bleepingcomputer.com/news/security/using-account-lockout-policies-to-block-windows-brute-force-attacks/"> Full Text</a>
@@ -366,7 +366,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AIG Threat Group Emerges With Unique Business Model<a href="https://cyware.com/news/aig-threat-group-emerges-with-unique-business-model-e5cab594"> Full Text</a>
@@ -382,7 +382,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 No More Ransom helps millions of ransomware victims in 6 years<a href="https://www.bleepingcomputer.com/news/security/no-more-ransom-helps-millions-of-ransomware-victims-in-6-years/"> Full Text</a>
@@ -398,7 +398,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA4563 Uses Evilnum to Target Finance Industry Supporting Crypto<a href="https://cyware.com/news/ta4563-uses-evilnum-to-target-finance-industry-supporting-crypto-ac403ce5"> Full Text</a>
@@ -414,7 +414,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit claims ransomware attack on Italian tax agency<a href="https://www.bleepingcomputer.com/news/security/lockbit-claims-ransomware-attack-on-italian-tax-agency/"> Full Text</a>
@@ -430,7 +430,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LinkedIn phishing target employees managing Facebook Ad Accounts<a href="https://www.bleepingcomputer.com/news/security/linkedin-phishing-target-employees-managing-facebook-ad-accounts/"> Full Text</a>
@@ -446,7 +446,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit PrestaShop Zero-Day to Steal Payment Data from Online Stores<a href="https://thehackernews.com/2022/07/hackers-exploit-prestashop-zero-day-to.html"> Full Text</a>
@@ -462,7 +462,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CosmicStrand UEFI malware found in Gigabyte, ASUS motherboards<a href="https://www.bleepingcomputer.com/news/security/cosmicstrand-uefi-malware-found-in-gigabyte-asus-motherboards/"> Full Text</a>

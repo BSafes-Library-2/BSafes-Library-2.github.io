@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AIG Threat Group Emerges With Unique Business Model<a href="https://cyware.com/news/aig-threat-group-emerges-with-unique-business-model-e5cab594"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat group calling itself the Atlas Intelligence Group, or AIG, was spotted offering cybercriminals a broad range of services such as leaked databases and DDoS services, hacking scripts, and more. AIG’s approach and operational efficiency make them hard to detect and a constant source of threat ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

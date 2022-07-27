@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. doubles reward for tips on North Korean-backed hackers<a href="https://www.bleepingcomputer.com/news/security/us-doubles-reward-for-tips-on-north-korean-backed-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department has increased rewards paid to anyone providing information on any North Korean-sponsored threat groups' members to $10 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

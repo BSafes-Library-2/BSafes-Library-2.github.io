@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Group Taking Over Belgian Ministries<a href="https://cyware.com/news/chinese-apt-group-taking-over-belgian-ministries-c283f390"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Minister for Foreign Affairs of Belgium claimed that several China-linked APT groups—APT27, APT30, and APT3—targeted the nation’s defense and interior ministries. However, the spokesperson of the Chinese Embassy in Belgium denied the accusations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

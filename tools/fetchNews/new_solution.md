@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Using Account Lockout policies to block Windows Brute Force Attacks<a href="https://www.bleepingcomputer.com/news/security/using-account-lockout-policies-to-block-windows-brute-force-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A strong account lockout policy is one of the most effective tools for stopping brute force authentication attempts on Windows domains. Learn how to add one to your organization's Windows Active Directory.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

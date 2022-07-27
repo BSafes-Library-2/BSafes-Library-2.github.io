@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT Botnets Fuels DDoS Attacks – Are You Prepared?<a href="https://threatpost.com/ddos-attacks-prepared/180273/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increased proliferation of IoT devices paved the way for the rise of IoT botnets that amplifies DDoS attacks today. This is a dangerous warning that the possibility of a sophisticated DDoS attack and a prolonged service outage will prevent businesses from growing. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
