@@ -34,7 +34,451 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers scan for vulnerabilities within 15 minutes of disclosure<a href="https://www.bleepingcomputer.com/news/security/hackers-scan-for-vulnerabilities-within-15-minutes-of-disclosure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+System administrators have even less time to patch disclosed security vulnerabilities than previously thought, as a new report shows threat actors scanning for vulnerable endpoints within 15 minutes of a new CVE being publicly disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lightning Framework: Another Capable Linux Malware<a href="https://cyware.com/news/lightning-framework-another-capable-linux-malware-46813253"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undetected malware, dubbed Lightning Framework, was found targeting Linux systems. It can also serve as a backdoor for infected devices using SSH and can deploy an array of rootkits. Stay safe using a reliable anti-malware solution and let’s not skip on threat intel platforms to mitiga ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Find Similarities Between New LockBit 3.0 and BlackMatter Ransomware<a href="https://thehackernews.com/2022/07/experts-find-similarities-between.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have reiterated similarities between the latest iteration of the LockBit ransomware and  BlackMatter , a rebranded variant of the DarkSide ransomware strain that closed shop in November 2021.  The new version of  LockBit , called LockBit 3.0 aka LockBit Black, was released in June 2022, launching a brand new leak site and what's the very first ransomware bug bounty program, alongside Zcash as a cryptocurrency payment option.  Its encryption process involves appending the extension "HLJkNskOq" or "19MqZqZ0s" to each and every file and changing the icons of the locked files to that of the .ico file that's dropped by the LockBit sample to kick-start the infection.  "The ransomware then drops its ransom note, which references 'Ilon Musk' and the European Union's General Data Protection Regulation (GDPR)," Trend Micro researchers  said  in a Monday report. "Lastly, it changes the wallpaper of the victim's
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. increased rewards for info on North Korea-linked threat actors to $10 million<a href="https://securityaffairs.co/wordpress/133688/apt/us-north-korea-rewards.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department increased rewards for information on any North Korea-linked threat actors to $10 million.
+
+
+
+In April 2020, the U.S. Departments of State, the Treasury, and Homeland Security, and the Federal Bureau of Investigation released...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT Botnets Fuels DDoS Attacks – Are You Prepared?<a href="https://threatpost.com/ddos-attacks-prepared/180273/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increased proliferation of IoT devices paved the way for the rise of IoT botnets that amplifies DDoS attacks today. This is a dangerous warning that the possibility of a sophisticated DDoS attack and a prolonged service outage will prevent businesses from growing. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: IIS extensions increasingly used as Exchange backdoors<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-iis-extensions-increasingly-used-as-exchange-backdoors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says attackers increasingly use malicious Internet Information Services (IIS) web server extensions to backdoor unpatched Exchange servers as they have lower detection rates compared to web shells.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Redeemer 2.0 Promoted on Hacker Forum<a href="https://cyware.com/news/new-redeemer-20-promoted-on-hacker-forum-d52f0c51"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new strain of the free-to-use Redeemer ransomware builder is being promoted on hacker forums. The new version 2.0 is written in C++ and features support for Windows 11 and GUI tools, among others. The author has threatened that the project's source code will become public if they lose interest, m ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+4 Steps Financial Industry Can Take to Cope With Their Growing Attack Surface<a href="https://thehackernews.com/2022/07/4-steps-financial-industry-can-take-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financial services industry has always been at the forefront of technology adoption, but the 2020 pandemic accelerated the widespread of mobile banking apps, chat-based customer service, and other digital tools.  Adobe's 2022 FIS Trends Report ,  for instance, found that more than half of the financial services and insurance firms surveyed experienced a notable increase in digital/mobile visitors in the first half of 2020. The same report found that four out of ten financial executives say that digital and mobile channels account for more than half of their sales – a trend that's only expected to continue in the next few years.  As financial institutions expand their digital footprint, they have more opportunities to better serve their customers – but are also more exposed to security threats. Every new tool increases the attack surface. A higher number of potential security gaps, may potentially lead to a higher number of security breaches.  According to the  Cisco CISO B
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors leverages DLL-SideLoading to spread Qakbot malware<a href="https://securityaffairs.co/wordpress/133680/malware/dll-sideloading-spread-qakbot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qakbot malware operators are using the Windows Calculator to side-load the malicious payload on target systems.
+
+
+
+Security expert ProxyLife and Cyble researchers recently uncovered a Qakbot campaign that was leveraging the Windows 7 Calculator app for DLL side-loading...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android malware apps installed 10 million times from Google Play<a href="https://www.bleepingcomputer.com/news/security/new-android-malware-apps-installed-10-million-times-from-google-play/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new batch of malicious Android apps filled with adware and malware was found on the Google Play Store that have been installed close to 10 million times on mobile devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Zero-day Abused to Spread Spyware to Target Journalists<a href="https://cyware.com/news/chrome-zero-day-abused-to-spread-spyware-to-target-journalists-2ff0e344"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast found DevilsTongue spyware, developed by an Israeli surveillance company, abusing a Chrome zero-day to attack journalists in the Middle East. Since the bug exists in WebRTC, it also impacts Safari browser but the exploit found only work on Windows. Always protect data with powerful encry ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Increasingly Using WebAssembly Coded Cryptominers to Evade Detection<a href="https://thehackernews.com/2022/07/hackers-increasingly-using-webassembly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 207 websites have been infected with malicious code designed to launch a cryptocurrency miner by leveraging WebAssembly (Wasm) on the browser.  Web security company Sucuri, which published details of the campaign, said it launched an investigation after one of its clients had their computer slowed down significantly every time upon navigating to their own WordPress portal.  This uncovered a compromise of a theme file to inject malicious JavaScript code from a remote server -- hxxps://wm.bmwebm[.]org/auto.js -- that's loaded whenever the website's page is accessed.  "Once decoded, the contents of auto.js immediately reveal the functionality of a cryptominer which starts mining when a visitor lands on the compromised site," Sucuri malware researcher Cesar Anjos  said .  What's more, the deobfuscated auto.js code makes use of WebAssembly to run low-level binary code directly on the browser.   WebAssembly , which is supported by all major browsers, is a  b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero Day attacks target online stores using PrestaShop￼<a href="https://securityaffairs.co/wordpress/133669/hacking/prestashop-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thera actors are exploiting a zero-day vulnerability to steal payment information from sites using the open source e-commerce platform PrestaShop.
+
+
+
+Threat actors are targeting websites using open source e-commerce platform...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal $6 million from blockchain music platform Audius<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-6-million-from-blockchain-music-platform-audius/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decentralized music platform Audius was hacked over the weekend, with threat actors stealing over 18 million AUDIO tokens worth approximately $6 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoMet Backdoor Used in Attacks Targeting Ukraine<a href="https://cyware.com/news/gomet-backdoor-used-in-attacks-targeting-ukraine-de384161"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An uncommon piece of malware was found targeting a large software development firm in Ukraine. The malware is a moderately altered version of the open-source backdoor GoMet. Two samples of the backdoor with minor differences have been discovered, believed to have the same source code.  However ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical FileWave MDM Flaws Open Organization-Managed Devices to Remote Hackers<a href="https://thehackernews.com/2022/07/critical-filewave-mdm-flaws-open.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FileWave's mobile device management (MDM) system has been found vulnerable to two critical security flaws that could be leveraged to carry out remote attacks and seize control of a fleet of devices connected to it.  "The vulnerabilities are remotely exploitable and enable an attacker to bypass authentication mechanisms and gain full control over the MDM platform and its managed devices," Claroty security researcher Noam Moshe  said  in a Monday report.  FileWave MDM is a cross-platform mobile device management solution that allows IT administrators to manage and monitor all of an organization's devices, including mobile phones, tablets, laptops, workstations, and smart TVs.  The platform functions as a channel to push mandatory software and updates, change device settings, and even remotely wipe devices, all of which is delivered from a central server.   The two issues identified by the operational technology firm relate to an authentication bypass (CVE-2022-34907) a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. doubles reward for tips on North Korean-backed hackers<a href="https://www.bleepingcomputer.com/news/security/us-doubles-reward-for-tips-on-north-korean-backed-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department has increased rewards paid to anyone providing information on any North Korean-sponsored threat groups' members to $10 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Ads Abused in Windows Support Scams<a href="https://cyware.com/news/google-ads-abused-in-windows-support-scams-923c97f7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An eerily realistic-seeming Google Search YouTube ad is redirecting visitors to tech support scams masquerading as security alerts from Windows Defender.  In case a user is using a VPN connection, it is sent to the genuine YouTube site. Users are  suggested to use a reliable anti-malware solution t ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SmokeLoader Infecting Targeted Systems with Amadey Info-Stealing Malware<a href="https://thehackernews.com/2022/07/smokeloader-infecting-targeted-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An information-stealing malware called Amadey is being distributed by means of another backdoor called SmokeLoader.  The attacks hinge on tricking users into downloading SmokeLoader that masquerades as software cracks, paving the way for the deployment of Amadey, researchers from the AhnLab Security Emergency Response Center (ASEC)  said  in a report published last week.   Amadey , a botnet that  first appeared  around October 2018 on Russian underground forums for $600, is equipped to siphon crendentials, capture screenshots, system metadata, and even information about antivirus engines and additional malware installed on an infected machine.   While an update was spotted last July by Walmart Global Tech  incorporated  functionality for harvesting data from Mikrotik routers and Microsoft Outlook, the toolset has since been upgraded to capture information from FileZilla, Pidgin, Total Commander FTP Client, RealVNC, TightVNC, TigerVNC, and WinSCP.   Its main goal, however, is to deploy
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Using Account Lockout policies to block Windows Brute Force Attacks<a href="https://www.bleepingcomputer.com/news/security/using-account-lockout-policies-to-block-windows-brute-force-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A strong account lockout policy is one of the most effective tools for stopping brute force authentication attempts on Windows domains. Learn how to add one to your organization's Windows Active Directory.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AIG Threat Group Emerges With Unique Business Model<a href="https://cyware.com/news/aig-threat-group-emerges-with-unique-business-model-e5cab594"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat group calling itself the Atlas Intelligence Group, or AIG, was spotted offering cybercriminals a broad range of services such as leaked databases and DDoS services, hacking scripts, and more. AIG’s approach and operational efficiency make them hard to detect and a constant source of threat ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No More Ransom helps millions of ransomware victims in 6 years<a href="https://www.bleepingcomputer.com/news/security/no-more-ransom-helps-millions-of-ransomware-victims-in-6-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The No More Ransom project celebrates its sixth anniversary today after helping millions of ransomware victims recover their files for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA4563 Uses Evilnum to Target Finance Industry Supporting Crypto<a href="https://cyware.com/news/ta4563-uses-evilnum-to-target-finance-industry-supporting-crypto-ac403ce5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA4563 is once again targeting European financial and investment entities, especially those involved with cryptocurrency, foreign exchanges, and DeFi, with the Evilnum malware. As a method of testing the efficacy of the delivery methods, the updated version of Evilnum employs a diverse mix of ISO,  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit claims ransomware attack on Italian tax agency<a href="https://www.bleepingcomputer.com/news/security/lockbit-claims-ransomware-attack-on-italian-tax-agency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italian authorities are investigating claims made by the LockBit ransomware gang that they breached the network of the Italian Internal Revenue Service (L'Agenzia delle Entrate).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LinkedIn phishing target employees managing Facebook Ad Accounts<a href="https://www.bleepingcomputer.com/news/security/linkedin-phishing-target-employees-managing-facebook-ad-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign codenamed 'Ducktail' is underway, targeting professionals on LinkedIn to take over Facebook business accounts that manage advertising for the company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit PrestaShop Zero-Day to Steal Payment Data from Online Stores<a href="https://thehackernews.com/2022/07/hackers-exploit-prestashop-zero-day-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors are exploiting a previously unknown security flaw in the open source PrestaShop e-commerce platform to inject malicious skimmer code designed to swipe sensitive information.  "Attackers have found a way to use a security vulnerability to carry out arbitrary code execution in servers running PrestaShop websites," the company  noted  in an advisory published on July 22.  PrestaShop is  marketed  as the leading open-source e-commerce solution in Europe and Latin America, used by nearly 300,000 online merchants worldwide.   The goal of the infections is to introduce malicious code capable of stealing payment information entered by customers on checkout pages. Shops using outdated versions of the software or other vulnerable third-party modules appear to be the prime targets.   The PrestaShop maintainers also said they found a zero-day flaw in its service that they said has been addressed in  version 1.7.8.7 , although they cautioned that "we cannot be sure
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CosmicStrand UEFI malware found in Gigabyte, ASUS motherboards<a href="https://www.bleepingcomputer.com/news/security/cosmicstrand-uefi-malware-found-in-gigabyte-asus-motherboards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese-speaking hackers have been using since at least 2016 malware that lies virtually undetected in the firmware images for some motherboards, one of the most persistent threats commonly known as a UEFI rootkit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Source code for Rust-based info-stealer released on hacker forums<a href="https://www.bleepingcomputer.com/news/security/source-code-for-rust-based-info-stealer-released-on-hacker-forums/"> Full Text</a>
@@ -50,7 +494,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese APT Group Taking Over Belgian Ministries<a href="https://cyware.com/news/chinese-apt-group-taking-over-belgian-ministries-c283f390"> Full Text</a>
@@ -66,7 +510,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Adds Default Protection Against RDP Brute-Force Attacks in Windows 11<a href="https://thehackernews.com/2022/07/microsoft-adds-default-protection.html"> Full Text</a>
@@ -82,7 +526,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Open-Source Security: How Digital Infrastructure Is Built on a House of Cards<a href="https://www.lawfareblog.com/open-source-security-how-digital-infrastructure-built-house-cards"> Full Text</a>
@@ -98,7 +542,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CosmicStrand, a new sophisticated UEFI firmware rootkit linked to China￼<a href="https://securityaffairs.co/wordpress/133658/malware/cosmicstrand-uefi-firmware-rootkit.html"> Full Text</a>
@@ -118,7 +562,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Physical Security Maintenance Should Never Be an Afterthought<a href="https://threatpost.com/physical-security-maintenance/180269/"> Full Text</a>
@@ -134,7 +578,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploited PrestaShop zero-day to breach online stores<a href="https://www.bleepingcomputer.com/news/security/hackers-exploited-prestashop-zero-day-to-breach-online-stores/"> Full Text</a>
@@ -150,7 +594,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Deceive Developers by Spoofing GitHub Commit Metadata<a href="https://cyware.com/news/hackers-deceive-developers-by-spoofing-github-commit-metadata-d5560800"> Full Text</a>
@@ -166,7 +610,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover New 'CosmicStrand' UEFI Firmware Rootkit Used by Chinese Hackers<a href="https://thehackernews.com/2022/07/experts-uncover-new-cosmicstrand-uefi.html"> Full Text</a>
@@ -182,7 +626,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flaws in FileWave MDM could have allowed hacking +1000 organizzations<a href="https://securityaffairs.co/wordpress/133649/hacking/filewave-mdm-flaws.html"> Full Text</a>
@@ -202,7 +646,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile Settles to Pay $350M to Customers in Data Breach<a href="https://www.securityweek.com/t-mobile-settles-pay-350m-customers-data-breach?&web_view=true"> Full Text</a>
@@ -218,7 +662,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magecart Hacks Food Ordering Systems to Steal Payment Data from Over 300 Restaurants<a href="https://thehackernews.com/2022/07/magecart-hacks-online-food-ordering.html"> Full Text</a>
@@ -234,7 +678,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lockbit ransomware gang claims to have breached the Italian Revenue Agency<a href="https://securityaffairs.co/wordpress/133640/cyber-crime/lockbit-ransomware-italian-revenue-agency.html"> Full Text</a>
@@ -254,7 +698,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1,000 Organizations Exposed to Remote Attacks by FileWave MDM Vulnerabilities<a href="https://www.securityweek.com/1000-organizations-exposed-remote-attacks-filewave-mdm-vulnerabilities?&web_view=true"> Full Text</a>
@@ -270,7 +714,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Racoon Stealer is Back — How to Protect Your Organization<a href="https://thehackernews.com/2022/07/racoon-stealer-is-back-how-to-protect.html"> Full Text</a>
@@ -286,7 +730,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amadey malware spreads via software cracks laced with SmokeLoader<a href="https://securityaffairs.co/wordpress/133617/cyber-crime/amadey-malware-spreads-smokeloader.html"> Full Text</a>
@@ -306,7 +750,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit Ransomware Gang Claims to Have Breached the Italian Revenue Agency<a href="https://securityaffairs.co/wordpress/133640/cyber-crime/lockbit-ransomware-italian-revenue-agency.html?&web_view=true"> Full Text</a>
@@ -322,7 +766,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Drupal developers fixed a code execution flaw in the popular CMS<a href="https://securityaffairs.co/wordpress/133625/security/drupal-flaws-2.html"> Full Text</a>
@@ -350,7 +794,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Your biggest cyber-crime threat has almost nothing to do with technology<a href="https://www.zdnet.com/article/your-biggest-cyber-crime-threat-has-almost-nothing-to-do-with-technology/?&web_view=true"> Full Text</a>
@@ -366,7 +810,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Visibility into runtime threats against mobile apps and APIs still lacking<a href="https://www.helpnetsecurity.com/2022/07/22/visibility-runtime-threats-mobile-apps/?&web_view=true"> Full Text</a>
@@ -382,7 +826,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2022
+July 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oklahoma City Housing Authority Provides Notice of Data Breach<a href="https://finance.yahoo.com/news/oklahoma-city-housing-authority-provides-010000195.html?&web_view=true"> Full Text</a>
@@ -398,7 +842,7 @@ Yahoo Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2022
+July 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Roaming Mantis Financial Hackers Targeting Android and iPhone Users in France<a href="https://thehackernews.com/2022/07/roaming-mantis-financial-hackers.html"> Full Text</a>
