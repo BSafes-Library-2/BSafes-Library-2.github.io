@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: IIS extensions increasingly used as Exchange backdoors<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-iis-extensions-increasingly-used-as-exchange-backdoors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says attackers increasingly use malicious Internet Information Services (IIS) web server extensions to backdoor unpatched Exchange servers as they have lower detection rates compared to web shells.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical FileWave MDM Flaws Open Organization-Managed Devices to Remote Hackers<a href="https://thehackernews.com/2022/07/critical-filewave-mdm-flaws-open.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FileWave's mobile device management (MDM) system has been found vulnerable to two critical security flaws that could be leveraged to carry out remote attacks and seize control of a fleet of devices connected to it.  "The vulnerabilities are remotely exploitable and enable an attacker to bypass authentication mechanisms and gain full control over the MDM platform and its managed devices," Claroty security researcher Noam Moshe&nbsp; said &nbsp;in a Monday report.  FileWave MDM is a cross-platform mobile device management solution that allows IT administrators to manage and monitor all of an organization's devices, including mobile phones, tablets, laptops, workstations, and smart TVs.  The platform functions as a channel to push mandatory software and updates, change device settings, and even remotely wipe devices, all of which is delivered from a central server.   The two issues identified by the operational technology firm relate to an authentication bypass (CVE-2022-34907) a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit PrestaShop Zero-Day to Steal Payment Data from Online Stores<a href="https://thehackernews.com/2022/07/hackers-exploit-prestashop-zero-day-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors are exploiting a previously unknown security flaw in the open source PrestaShop e-commerce platform to inject malicious skimmer code designed to swipe sensitive information.  "Attackers have found a way to use a security vulnerability to carry out arbitrary code execution in servers running PrestaShop websites," the company&nbsp; noted &nbsp;in an advisory published on July 22.  PrestaShop is&nbsp; marketed &nbsp;as the leading open-source e-commerce solution in Europe and Latin America, used by nearly 300,000 online merchants worldwide.   The goal of the infections is to introduce malicious code capable of stealing payment information entered by customers on checkout pages. Shops using outdated versions of the software or other vulnerable third-party modules appear to be the prime targets.&nbsp;  The PrestaShop maintainers also said they found a zero-day flaw in its service that they said has been addressed in&nbsp; version 1.7.8.7 , although they cautioned that "we cannot be sure
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

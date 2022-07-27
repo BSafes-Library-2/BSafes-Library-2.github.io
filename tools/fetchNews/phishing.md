@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Ads Abused in Windows Support Scams<a href="https://cyware.com/news/google-ads-abused-in-windows-support-scams-923c97f7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An eerily realistic-seeming Google Search YouTube ad is redirecting visitors to tech support scams masquerading as security alerts from Windows Defender.  In case a user is using a VPN connection, it is sent to the genuine YouTube site. Users are  suggested to use a reliable anti-malware solution t ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LinkedIn phishing target employees managing Facebook Ad Accounts<a href="https://www.bleepingcomputer.com/news/security/linkedin-phishing-target-employees-managing-facebook-ad-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign codenamed 'Ducktail' is underway, targeting professionals on LinkedIn to take over Facebook business accounts that manage advertising for the company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero Day attacks target online stores using PrestaShop￼<a href="https://securityaffairs.co/wordpress/133669/hacking/prestashop-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thera actors are exploiting a zero-day vulnerability to steal payment information from sites using the&nbsp;open source&nbsp;e-commerce&nbsp;platform PrestaShop.
+
+
+
+Threat actors are targeting websites using open source&nbsp;e-commerce&nbsp;platform...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit claims ransomware attack on Italian tax agency<a href="https://www.bleepingcomputer.com/news/security/lockbit-claims-ransomware-attack-on-italian-tax-agency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italian authorities are investigating claims made by the LockBit ransomware gang that they breached&nbsp;the network&nbsp;of the Italian Internal Revenue Service (L'Agenzia delle Entrate).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

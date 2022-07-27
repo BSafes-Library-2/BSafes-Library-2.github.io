@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Find Similarities Between New LockBit 3.0 and BlackMatter Ransomware<a href="https://thehackernews.com/2022/07/experts-find-similarities-between.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have reiterated similarities between the latest iteration of the LockBit ransomware and&nbsp; BlackMatter , a rebranded variant of the DarkSide ransomware strain that closed shop in November 2021.  The new version of&nbsp; LockBit , called LockBit 3.0 aka LockBit Black, was released in June 2022, launching a brand new leak site and what's the very first ransomware bug bounty program, alongside Zcash as a cryptocurrency payment option.  Its encryption process involves appending the extension "HLJkNskOq" or "19MqZqZ0s" to each and every file and changing the icons of the locked files to that of the .ico file that's dropped by the LockBit sample to kick-start the infection.  "The ransomware then drops its ransom note, which references 'Ilon Musk' and the European Union's General Data Protection Regulation (GDPR)," Trend Micro researchers&nbsp; said &nbsp;in a Monday report. "Lastly, it changes the wallpaper of the victim's
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Redeemer 2.0 Promoted on Hacker Forum<a href="https://cyware.com/news/new-redeemer-20-promoted-on-hacker-forum-d52f0c51"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new strain of the free-to-use Redeemer ransomware builder is being promoted on hacker forums. The new version 2.0 is written in C++ and features support for Windows 11 and GUI tools, among others. The author has threatened that the project's source code will become public if they lose interest, m ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No More Ransom helps millions of ransomware victims in 6 years<a href="https://www.bleepingcomputer.com/news/security/no-more-ransom-helps-millions-of-ransomware-victims-in-6-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The No More Ransom project celebrates its sixth anniversary today after helping millions of ransomware victims recover their files for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
