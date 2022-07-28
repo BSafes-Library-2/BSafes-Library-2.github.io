@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers increasingly abusing IIS extensions to establish covert backdoors<a href="https://securityaffairs.co/wordpress/133727/hacking/iis-extensions-backdoors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly abusing Internet Information Services (IIS) extensions to maintain persistence on target servers.
+
+
+
+Microsoft warns of threat actors that are increasingly abusing Internet Information Services (IIS) extensions to establish...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers increasingly hacked with IIS backdoors<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-servers-increasingly-hacked-with-iis-backdoors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says attackers increasingly use malicious Internet Information Services (IIS) web server extensions to backdoor unpatched Exchange servers as they have lower detection rates compared to web shells.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

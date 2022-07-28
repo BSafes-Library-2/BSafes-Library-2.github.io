@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adversarial attacks can cause DNS amplification, fool network defense systems, machine learning study finds<a href="https://portswigger.net/daily-swig/adversarial-attacks-can-cause-dns-amplification-fool-network-defense-systems-machine-learning-study-finds?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a study by researchers at the Citadel, South Carolina, deep learning models trained for network intrusion detection can be bypassed through adversarial attacks, specially crafted data that fools neural networks to change their behavior.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taking the Risk-Based Approach to Vulnerability Patching<a href="https://thehackernews.com/2022/07/taking-risk-based-approach-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software vulnerabilities are a major threat to organizations today. The cost of these threats is significant, both financially and in terms of reputation. Vulnerability management and patching can easily get out of hand when the number of vulnerabilities in your organization is in the hundreds of thousands of vulnerabilities and tracked in inefficient ways, such as using Excel spreadsheets or multiple reports, especially when many teams are involved in the organization. Even when a process for patching is in place, organizations still struggle to effectively patch vulnerabilities in their assets. This is generally because teams look at the severity of vulnerabilities and tend to apply patches to vulnerabilities in the following severity order: critical &gt; high &gt; medium &gt; low &gt; info. The following sections explain why this approach is flawed and how it can be improved.  Why is Patching Difficult?  While it is well known that vulnerability patching is extremely important, it
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Hackers Will Still Target Smaller Critical Infrastructure, CISA Director Warns<a href="https://www.nextgov.com/cybersecurity/2022/07/ransomware-hackers-will-still-target-smaller-critical-infrastructure-cisa-director-warns/374953/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leadership at the Cybersecurity and Infrastructure Security Agency confirmed that ransomware hackers are not exclusively targeting large organizations and businesses, but smaller entities as well.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

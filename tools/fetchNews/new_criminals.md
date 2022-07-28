@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spain arrests suspected hackers who sabotaged radiation alert system<a href="https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-hackers-who-sabotaged-radiation-alert-system/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spanish police have announced the arrest of two hackers believed to be responsible for cyberattacks on the country's radioactivity alert network (RAR), which took place between March and June 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

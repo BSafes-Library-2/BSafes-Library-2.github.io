@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Average cost of data breach surpasses $4 million for many organizations<a href="https://www.techrepublic.com/article/average-cost-of-data-breach-surpasses-4-million-for-many-organizations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The average cost of a data breach hit an all-time high of $4.35 million this year, a gain of 2.6% from 2021 and 12.7% from 2020. In the United States, the average cost was $9.44 million, the highest amount in any country.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fedora ditches 'No Rights Reserved' software over patent concerns<a href="https://www.bleepingcomputer.com/news/security/fedora-ditches-no-rights-reserved-software-over-patent-concerns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Fedora Project&nbsp;has announced that it will no longer permit Creative Commons 'No Rights Reserved' aka CC0-licensed code in its Linux distro&nbsp;or the Fedora Registry.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers start hunting for victims just 15 minutes after a bug is disclosed<a href="https://www.zdnet.com/article/race-against-time-hackers-start-hunting-for-victims-just-15-minutes-after-a-bug-is-disclosed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks warns in its 2022 report covering 600 incident response (IR) cases that attackers typically start scanning for vulnerabilities within 15 minutes of one being announced.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

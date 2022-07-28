@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘Robin Banks’ phishing service targets BofA, Citi, and Wells Fargo<a href="https://www.bleepingcomputer.com/news/security/new-robin-banks-phishing-service-targets-bofa-citi-and-wells-fargo/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing as a service (PhaaS) platform named 'Robin Banks' has been launched, offering ready-made phishing kits targeting the customers of well-known banks and online services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

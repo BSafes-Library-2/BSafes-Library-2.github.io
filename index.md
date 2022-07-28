@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kansas MSP shuts down cloud services to fend off cyberattack<a href="https://www.bleepingcomputer.com/news/security/kansas-msp-shuts-down-cloud-services-to-fend-off-cyberattack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adversarial attacks can cause DNS amplification, fool network defense systems, machine learning study finds<a href="https://portswigger.net/daily-swig/adversarial-attacks-can-cause-dns-amplification-fool-network-defense-systems-machine-learning-study-finds?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 These 28+ Android Apps with 10 Million Downloads from the Play Store Contain Malware<a href="https://thehackernews.com/2022/07/these-28-android-apps-with-10-million.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers increasingly abusing IIS extensions to establish covert backdoors<a href="https://securityaffairs.co/wordpress/133727/hacking/iis-extensions-backdoors.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ‘Robin Banks’ phishing service targets BofA, Citi, and Wells Fargo<a href="https://www.bleepingcomputer.com/news/security/new-robin-banks-phishing-service-targets-bofa-citi-and-wells-fargo/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Hackers Will Still Target Smaller Critical Infrastructure, CISA Director Warns<a href="https://www.nextgov.com/cybersecurity/2022/07/ransomware-hackers-will-still-target-smaller-critical-infrastructure-cisa-director-warns/374953/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Ducktail Infostealer Malware Targeting Facebook Business and Ad Accounts<a href="https://thehackernews.com/2022/07/new-ducktail-infostealer-malware.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DUCKTAIL operation targets Facebook’s Business and Ad accounts<a href="https://securityaffairs.co/wordpress/133715/malware/ducktail-operation-facebook-business.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spain arrests suspected hackers who sabotaged radiation alert system<a href="https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-hackers-who-sabotaged-radiation-alert-system/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Average cost of data breach surpasses $4 million for many organizations<a href="https://www.techrepublic.com/article/average-cost-of-data-breach-surpasses-4-million-for-many-organizations/?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Tech Republic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Taking the Risk-Based Approach to Vulnerability Patching<a href="https://thehackernews.com/2022/07/taking-risk-based-approach-to.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The strange similarities between Lockbit 3.0 and Blackmatter ransomware<a href="https://securityaffairs.co/wordpress/133697/malware/lockbit-3-0-blackmatter-ransomware.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Windows, Adobe zero-days used to deploy Subzero malware<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-adobe-zero-days-used-to-deploy-subzero-malware/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Credit Unions to Come Under Cyber Incident Reporting Rule<a href="https://www.bankinfosecurity.com/us-credit-unions-to-come-under-cyber-incident-reporting-rule-a-19642?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious IIS Extensions Gaining Popularity Among Cyber Criminals for Persistent Access<a href="https://thehackernews.com/2022/07/malicious-iis-extensions-gaining.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub introduces 2FA and quality of life improvements for npm<a href="https://www.bleepingcomputer.com/news/security/github-introduces-2fa-and-quality-of-life-improvements-for-npm/"> Full Text</a>
@@ -302,7 +302,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fallout from massive Shanghai Police data breach reverberates on dark web<a href="https://www.cyberscoop.com/shanghai-data-breach-1-billion-dark-web/?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ CyberScoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS Attack Trends in 2022: Ultrashort, Powerful, Multivector Attacks<a href="https://www.bleepingcomputer.com/news/security/ddos-attack-trends-in-2022-ultrashort-powerful-multivector-attacks/"> Full Text</a>
@@ -334,7 +334,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European Lawmaker Targeted With Cytrox Predator Surveillance Spyware<a href="https://www.securityweek.com/european-lawmaker-targeted-cytrox-predator-surveillance-spyware?&web_view=true"> Full Text</a>
@@ -350,7 +350,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fedora ditches 'No Rights Reserved' software over patent concerns<a href="https://www.bleepingcomputer.com/news/security/fedora-ditches-no-rights-reserved-software-over-patent-concerns/"> Full Text</a>
@@ -366,7 +366,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers start hunting for victims just 15 minutes after a bug is disclosed<a href="https://www.zdnet.com/article/race-against-time-hackers-start-hunting-for-victims-just-15-minutes-after-a-bug-is-disclosed/?&web_view=true"> Full Text</a>
@@ -382,7 +382,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Open-Xchange issues fixes for RCE, SSRF bugs in OX App Suite<a href="https://portswigger.net/daily-swig/open-xchange-issues-fixes-for-rce-ssrf-bugs-in-ox-app-suite?&web_view=true"> Full Text</a>
@@ -398,7 +398,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wawa Agrees to Payment, Security Changes for '19 Data Breach<a href="https://www.securityweek.com/wawa-agrees-payment-security-changes-19-data-breach?&web_view=true"> Full Text</a>
@@ -414,7 +414,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2022
+July 27, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitGuardian launches ggcanary project to help detect open-source software risks<a href="https://www.csoonline.com/article/3668193/gitguardian-launches-ggcanary-project-to-help-detect-open-source-software-risks.html?&web_view=true"> Full Text</a>
@@ -430,7 +430,7 @@ CSO Online
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2022
+July 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange servers increasingly hacked with IIS backdoors<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-servers-increasingly-hacked-with-iis-backdoors/"> Full Text</a>

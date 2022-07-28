@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kansas MSP shuts down cloud services to fend off cyberattack<a href="https://www.bleepingcomputer.com/news/security/kansas-msp-shuts-down-cloud-services-to-fend-off-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A US managed service provider NetStandard&nbsp;suffered a cyberattack causing the company to shut down its MyAppsAnywhere cloud services, consisting of hosted Dynamics GP, Exchange, Sharepoint, and CRM services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

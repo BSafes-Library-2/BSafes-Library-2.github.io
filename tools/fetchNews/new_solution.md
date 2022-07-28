@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub introduces 2FA and quality of life improvements for npm<a href="https://www.bleepingcomputer.com/news/security/github-introduces-2fa-and-quality-of-life-improvements-for-npm/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub has announced the general availability of three significant improvements to npm (Node Package Manager), aiming to make using the software more secure and manageable.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitGuardian launches ggcanary project to help detect open-source software risks<a href="https://www.csoonline.com/article/3668193/gitguardian-launches-ggcanary-project-to-help-detect-open-source-software-risks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the firm, security teams can use GitGuardian Canary Tokens (ggcanary) to create and deploy canary tokens in the form of Amazon Web Services (AWS) secrets to trigger alerts as soon as they are tampered with by attackers.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

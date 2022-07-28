@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fallout from massive Shanghai Police data breach reverberates on dark web<a href="https://www.cyberscoop.com/shanghai-data-breach-1-billion-dark-web/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The availability of supposedly hacked Chinese data on the dark web appears to have surged in recent weeks on the heels of the massive Shanghai National Police breach, which was one of the largest ever recorded.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wawa Agrees to Payment, Security Changes for '19 Data Breach<a href="https://www.securityweek.com/wawa-agrees-payment-security-changes-19-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Pennsylvania-based convenience store chain will pay $8 million to several states over a 2019 data breach that involved some 34 million payment cards, authorities announced Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attack Trends in 2022: Ultrashort, Powerful, Multivector Attacks<a href="https://www.bleepingcomputer.com/news/security/ddos-attack-trends-in-2022-ultrashort-powerful-multivector-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The political situation in Europe and the rest of the world has degraded dramatically in 2022. This has affected the nature, intensity, and geography of DDoS attacks, which have become actively used for political purposes. Find out more in this summary of G-Core Lab's latest DDoS Trends report.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open-Xchange issues fixes for RCE, SSRF bugs in OX App Suite<a href="https://portswigger.net/daily-swig/open-xchange-issues-fixes-for-rce-ssrf-bugs-in-ox-app-suite?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest patch release includes fixes for two remote code execution (RCE) vulnerabilities that were discovered in the software’s document converter component. CVE-2022-23100 and CVE-2022-24405 earned CVSS scores of 8.2 and 7.3, respectively.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
