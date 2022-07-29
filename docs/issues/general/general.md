@@ -8,6 +8,94 @@ nav_order: 900072
 
 ## General
 ---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom payments fall as fewer victims choose to pay hackers<a href="https://www.bleepingcomputer.com/news/security/ransom-payments-fall-as-fewer-victims-choose-to-pay-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware statistics from the second quarter of the year show that the ransoms paid to extortionists have dropped in value, a trend that continues since the last quarter of 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities are Beyond What You Think<a href="https://threatpost.com/vulnerabilities-are-beyond-what-you-think/180287/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVEs or Software vulnerabilities comprise only a part of security risks in the IT security landscape. Attack surfaces are massive with numerous security risks that must be treated equally as software vulnerabilities to reduce risk exposure and prevent cyberattacks at scale
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top MSSP CEOs Share 7 Must-Do Tips for Higher MSSP Revenue and Margin<a href="https://thehackernews.com/2022/07/top-mssp-ceos-share-7-must-do-tips-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MSSPs must find ways to balance the need to please existing customers, add new ones, and deliver high-margin services against their internal budget constraints and the need to maintain high employee morale. In an environment where there are thousands of potential alerts each day and cyberattacks are growing rapidly in frequency and sophistication, this isn't an easy balance to maintain.  Customers want airtight security, but adding dozens of security tools to scan for and respond to any potential attack often means that specific analysts become experts in specific tools. It's left to the whole team to manually correlate their findings to discover and respond to multi-layered attacks, and hackers are always finding ways to exploit the gaps in coverage. This is a no-win situation where the analysts are frustrated, customers are dissatisfied, and costs can easily run out of control.  To win in the marketplace, MSSPs must find ways to make their teams highly efficient while driving higher
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENISA provides data related to major telecom security incidents in 2021<a href="https://securityaffairs.co/wordpress/133756/reports/telecom-security-incidents-2021-enisa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ENISA published a report that includes anonymised and aggregated information about major telecom security incidents in 2021. 
+
+
+
+ENISA published a report that provides anonymized and aggregated information about major telecom security incidents in 2021....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENISA provides data related to major telecom security incidents in 2021<a href="https://securityaffairs.co/wordpress/133756/reports/telecom-security-incidents-2021-enisa.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every European telecom operator that suffers a security incident, notifies its national authorities which share a summary of these reports to ENISA at the start of every calendar year.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Messaging Apps Tapped as Platform for Cybercriminal Activity<a href="https://threatpost.com/messaging-apps-cybercriminals/180303/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Built-in Telegram and Discord services are fertile ground for storing stolen data, hosting malware and using bots for nefarious purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

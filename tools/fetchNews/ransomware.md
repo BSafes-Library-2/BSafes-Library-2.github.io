@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The strange similarities between Lockbit 3.0 and Blackmatter ransomware<a href="https://securityaffairs.co/wordpress/133697/malware/lockbit-3-0-blackmatter-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found similarities between LockBit 3.0 ransomware and&nbsp;BlackMatter, which is a rebranded variant of the DarkSide ransomware.
+
+
+
+Cybersecurity researchers have found similarities between the latest version of the LockBit ransomware, LockBit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

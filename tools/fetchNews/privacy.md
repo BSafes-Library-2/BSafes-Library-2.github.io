@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Lawmaker Targeted With Cytrox Predator Surveillance Spyware<a href="https://www.securityweek.com/european-lawmaker-targeted-cytrox-predator-surveillance-spyware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to published reports out of Greece, the surveillance tool has been linked to an attempted hack of a phone belonging to Nikos Androulakis, a member of the European Parliament.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

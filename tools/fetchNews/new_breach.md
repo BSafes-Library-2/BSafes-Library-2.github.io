@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft SQL servers hacked to steal bandwidth for proxy services<a href="https://www.bleepingcomputer.com/news/security/microsoft-sql-servers-hacked-to-steal-bandwidth-for-proxy-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are generating revenue by using adware bundles, malware, or even hacking into Microsoft SQL servers, to convert devices into proxies that are rented through online proxy services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

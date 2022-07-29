@@ -34,6 +34,518 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom payments fall as fewer victims choose to pay hackers<a href="https://www.bleepingcomputer.com/news/security/ransom-payments-fall-as-fewer-victims-choose-to-pay-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware statistics from the second quarter of the year show that the ransoms paid to extortionists have dropped in value, a trend that continues since the last quarter of 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Exploit Zero-day in PrestaShop<a href="https://cyware.com/news/threat-actors-exploit-zero-day-in-prestashop-a0c75118"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a zero-day vulnerability affecting older versions of PrestaShop websites. The bug can be exploited to harvest customers’ payment information. After the attack, the remote attackers erase their traces that stops the site owner from knowing that they were breached. Experts sugg ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Delays Blocking 3rd-Party Cookies in Chrome Browser Until 2024<a href="https://thehackernews.com/2022/07/google-delays-blocking-3rd-party.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Wednesday said it's once again delaying its plans to turn off third-party cookies in the Chrome web browser from late 2023 to the second half of 2024.  "The most consistent feedback we've received is the need for more time to evaluate and test the new Privacy Sandbox technologies before deprecating third-party cookies in Chrome," Anthony Chavez, vice president of Privacy Sandbox,  said .  In keeping this in mind, the internet and ad tech giant said it's taking a "deliberate approach" and  extending the testing window  for its ongoing Privacy Sandbox initiatives prior to phasing out third-party cookies.  Cookies are pieces of data planted on a user's computer or other device by the web browser as a website is accessed, with third-party cookies  fueling much of the digital advertising ecosystem and its ability to track users across different sites to show targeted ads.  Privacy Sandbox is Google's umbrella term for a set of technologies
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai blocked the largest DDoS attack ever on its European customers<a href="https://securityaffairs.co/wordpress/133780/hacking/largest-ddos-attack-europe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This month Akamai blocked the largest distributed denial-of-service (DDoS) attack that hit an organization in Europe.
+
+
+
+On July 21, 2022, Akamai mitigated the largest DDoS attack that ever hit one of its European customers.
+
+
+
+The attack hit an Akamai...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities are Beyond What You Think<a href="https://threatpost.com/vulnerabilities-are-beyond-what-you-think/180287/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVEs or Software vulnerabilities comprise only a part of security risks in the IT security landscape. Attack surfaces are massive with numerous security risks that must be treated equally as software vulnerabilities to reduce risk exposure and prevent cyberattacks at scale
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft SQL servers hacked to steal bandwidth for proxy services<a href="https://www.bleepingcomputer.com/news/security/microsoft-sql-servers-hacked-to-steal-bandwidth-for-proxy-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are generating revenue by using adware bundles, malware, or even hacking into Microsoft SQL servers, to convert devices into proxies that are rented through online proxy services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Things to Know About STIFF#BIZON Campaign<a href="https://cyware.com/news/things-to-know-about-stiffbizon-campaign-d7c0f9f2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT37 is targeting high-value organizations in Poland, the Czech Republic, and other European countries, with Konni RAT. The campaign is dubbed STIFF#BIZON. The attacked phishing document is a decoy and seems to be a report from a Russian war correspondent, Olga Bozheva. Researchers have shared som ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Opting New Attack Methods After Microsoft Blocked Macros by Default<a href="https://thehackernews.com/2022/07/hackers-opting-new-attack-methods-after.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With Microsoft taking steps to block Excel 4.0 (XLM or XL4) and Visual Basic for Applications (VBA) macros by default across Office apps, malicious actors are responding by refining their new tactics, techniques, and procedures (TTPs).  "The use of VBA and XL4 Macros decreased approximately 66% from October 2021 through June 2022," Proofpoint  said  in a report shared with The Hacker News.  In its place, adversaries are increasingly pivoting away from macro-enabled documents to other alternatives, including container files such as ISO and RAR as well as Windows Shortcut (LNK) files in campaigns to distribute malware.  "Threat actors pivoting away from directly distributing macro-based attachments in email represents a significant shift in the threat landscape," Sherrod DeGrippo, vice president of threat research and detection at Proofpoint, said in a statement.   "Threat actors are now adopting new tactics to deliver malware, and the increased use of files suc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LibreOffice fixed 3 flaws, including a code execution issue<a href="https://securityaffairs.co/wordpress/133775/security/libreoffice-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LibreOffice maintainers addressed three security flaws in their productivity software, including an arbitrary code execution issue.
+
+
+
+LibreOffice is an open-source office productivity software suite, a project of The Document Foundation (TDF). 
+
+
+
+LibreOffice...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LibreOffice addresses security issues with macros, passwords<a href="https://www.bleepingcomputer.com/news/security/libreoffice-addresses-security-issues-with-macros-passwords/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LibreOffice suite has been updated to address several security vulnerabilities related to the execution of macros and the protection of passwords for web connections.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amadey Bot's New Version Spreads Using Software Cracks<a href="https://cyware.com/news/amadey-bots-new-version-spreads-using-software-cracks-11f2a0ac"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software cracks and keygen sites could be attractive but it’s extremely unsafe. A malware campaign by SmokeLoader operators was spotted dropping the Amadey Bot, a rarely used malware since 2020, via similar lures. Users should avoid downloading from unauthenticated sources and double check dom ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Uncovers Austrian Company Exploiting Windows and Adobe Zero-Day Exploits<a href="https://thehackernews.com/2022/07/microsoft-uncover-austrian-company.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber mercenary that "ostensibly sells general security and information analysis services to commercial customers" used several Windows and Adobe zero-day exploits in limited and highly-targeted attacks against European and Central American entities.  The company, which Microsoft describes as a private-sector offensive actor (PSOA), is an Austria-based outfit called  DSIRF  that's linked to the development and attempted sale of a piece of cyberweapon referred to as Subzero , which can be used to hack targets' phones, computers, and internet-connected devices.  "Observed victims to date include law firms, banks, and strategic consultancies in countries such as Austria, the United Kingdom, and Panama," the tech giant's cybersecurity teams  said  in a Wednesday report.  Microsoft is  tracking  the actor under the moniker KNOTWEED, continuing its trend of naming PSOAs using names given to trees and shrubs. The company previously designated the name  SOURG
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors use new attack techniques after Microsoft blocked macros by default<a href="https://securityaffairs.co/wordpress/133764/hacking/attacks-after-microsoft-blocked-macros.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are devising new attack tactics in response to Microsoft's decision to block Macros by default.
+
+
+
+In response to Microsoft's decision steps to block Excel 4.0 (XLM or XL4) and Visual Basic for Applications (VBA) macros by default in Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspies use Google Chrome extension to steal emails undetected<a href="https://www.bleepingcomputer.com/news/security/cyberspies-use-google-chrome-extension-to-steal-emails-undetected/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean-backed threat group tracked as Kimsuky is using a malicious browser extension to steal emails from Google Chrome or Microsoft Edge users reading their webmail.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky APT Deploys Clever Mail-Stealing Browser Extension Called SHARPEXT<a href="https://www.volexity.com/blog/2022/07/28/sharptongue-deploys-clever-mail-stealing-browser-extension-sharpext/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This actor is believed to be North Korean in origin and is often publicly referred to under the name Kimsuky. The definition of which threat activity comprises Kimsuky is a matter of debate amongst threat intelligence analysts.
+</details>
+<div style="text-align: right" markdown="1">
+Volexity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top MSSP CEOs Share 7 Must-Do Tips for Higher MSSP Revenue and Margin<a href="https://thehackernews.com/2022/07/top-mssp-ceos-share-7-must-do-tips-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MSSPs must find ways to balance the need to please existing customers, add new ones, and deliver high-margin services against their internal budget constraints and the need to maintain high employee morale. In an environment where there are thousands of potential alerts each day and cyberattacks are growing rapidly in frequency and sophistication, this isn't an easy balance to maintain.  Customers want airtight security, but adding dozens of security tools to scan for and respond to any potential attack often means that specific analysts become experts in specific tools. It's left to the whole team to manually correlate their findings to discover and respond to multi-layered attacks, and hackers are always finding ways to exploit the gaps in coverage. This is a no-win situation where the analysts are frustrated, customers are dissatisfied, and costs can easily run out of control.  To win in the marketplace, MSSPs must find ways to make their teams highly efficient while driving higher
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENISA provides data related to major telecom security incidents in 2021<a href="https://securityaffairs.co/wordpress/133756/reports/telecom-security-incidents-2021-enisa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ENISA published a report that includes anonymised and aggregated information about major telecom security incidents in 2021. 
+
+
+
+ENISA published a report that provides anonymized and aggregated information about major telecom security incidents in 2021....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai blocked largest DDoS in Europe against one of its customers<a href="https://www.bleepingcomputer.com/news/security/akamai-blocked-largest-ddos-in-europe-against-one-of-its-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The largest distributed denial-of-service (DDoS) attack that Europe has ever seen occurred earlier this month and hit an organization in Eastern Europe.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENISA provides data related to major telecom security incidents in 2021<a href="https://securityaffairs.co/wordpress/133756/reports/telecom-security-incidents-2021-enisa.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every European telecom operator that suffers a security incident, notifies its national authorities which share a summary of these reports to ENISA at the start of every calendar year.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European firm DSIRF behind the attacks with Subzero surveillance malware<a href="https://securityaffairs.co/wordpress/133736/malware/dsirf-behind-subzero-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft linked a private-sector offensive actor (PSOA) to attacks using multiple zero-day exploits for its Subzero malware.
+
+
+
+The Microsoft Threat Intelligence Center (MSTIC) and the Microsoft Security Response Center (MSRC) researchers linked a threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious npm packages steal Discord users’ payment card info<a href="https://www.bleepingcomputer.com/news/security/malicious-npm-packages-steal-discord-users-payment-card-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple npm packages are being used in an ongoing malicious campaign to infect Discord users with malware that steals their payment card information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IPFS: The New Hotbed of Phishing<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/ipfs-the-new-hotbed-of-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These websites have the capability to change their background and logo depending on the user’s domain. The phishing sites are stored in the InterPlanetary File System (IPFS).
+</details>
+<div style="text-align: right" markdown="1">
+Trustwave
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spain police arrested two men accused of cyber attacks on radioactivity alert network (RAR)<a href="https://securityaffairs.co/wordpress/133737/cyber-crime/radioactivity-alert-network-hacker-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spanish police arrested two individuals accused to have hacked the country's radioactivity alert network (RAR) in 2021.
+
+
+
+The Spanish police have arrested two men suspected to be the hackers behind cyberattacks that hit the country's radioactivity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Microsoft blocks Office macros, hackers find new attack vectors<a href="https://www.bleepingcomputer.com/news/security/as-microsoft-blocks-office-macros-hackers-find-new-attack-vectors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers who normally distributed malware via phishing attachments with malicious macros gradually changed tactics after Microsoft Office began blocking them by default, switching to new file types such as ISO, RAR, and Windows Shortcut (LNK) attachments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+With $11.5M In Funding, Naoris Protocol Will Use Blockchain & Decentralization To Plug Web3 Security Gaps<a href="https://www.hackread.com/naoris-protocol-blockchain-decentralization-plug-web3-security-gaps/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By creating a decentralized network of trusted devices that are incentivized to continuously validate each other to ensure no weak points, Naoris Protocol is on a mission to reinvent cybersecurity best practices.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moxa NPort Device Flaws Can Expose Critical Infrastructure to Disruptive Attacks<a href="https://www.securityweek.com/moxa-nport-device-flaws-can-expose-critical-infrastructure-disruptive-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two security holes, tracked as CVE-2022-2043 and CVE-2022-2044 and rated ‘high severity,’ affect Moxa’s NPort 5110 device servers, which are designed for connecting serial devices to Ethernet networks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Human Security merges with PerimeterX to thwart bots and automated fraud<a href="https://techcrunch.com/2022/07/27/human-security-merges-with-perimeterx-to-thwart-bots-and-automated-fraud/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Human Security, a bot mitigation and fraud detection platform for enterprises, is merging with PerimeterX, a company focused on safeguarding web apps from account takeover and automated fraud. The terms of the deal were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Messaging Apps Tapped as Platform for Cybercriminal Activity<a href="https://threatpost.com/messaging-apps-cybercriminals/180303/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Built-in Telegram and Discord services are fertile ground for storing stolen data, hosting malware and using bots for nefarious purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LibreOffice Releases Software Update to Patch 3 New Vulnerabilities<a href="https://thehackernews.com/2022/07/libreoffice-releases-software-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The team behind LibreOffice has released security updates to fix three security flaws in the productivity software, one of which could be exploited to achieve arbitrary code execution on affected systems.  Tracked as  CVE-2022-26305 , the issue has been described as a case of improper certificate validation when checking whether a macro is signed by a trusted author, leading to the execution of rogue code packaged within the macros.   "An adversary could therefore create an arbitrary certificate with a serial number and an issuer string identical to a trusted certificate which LibreOffice would present as belonging to the trusted author, potentially leading to the user to execute arbitrary code contained in macros improperly trusted," LibreOffice said in an advisory.  Also resolved is the use of a static initialization vector ( IV ) during encryption ( CVE-2022-26306 ) that could have weakened the security should a bad actor have access to the user's configuration inform
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Offers $10 Million Reward for Information on North Korean Hackers<a href="https://thehackernews.com/2022/07/us-offers-10-million-reward-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department has announced rewards of up to $10 million for any information that could help disrupt North Korea's cryptocurrency theft, cyber-espionage, and other illicit state-backed activities.  "If you have information on any individuals associated with the North Korean government-linked malicious cyber groups (such as Andariel, APT38, Bluenoroff, Guardians of Peace, Kimsuky, or Lazarus Group) and who are involved in targeting U.S. critical infrastructure in violation of the Computer Fraud and Abuse Act, you may be eligible for a reward," the department  said  in a tweet.  The amount is double the bounty the agency  publicized  in March 2022 for specifics regarding the financial mechanisms employed by state-sponsored actors working on behalf of the North Korean government.   The development comes a week after the Justice Department  disclosed  the seizure of $500,000 worth of Bitcoin from North Korean hackers who extorted digital payments by using a new r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 27, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+With $11.5M In Funding, Naoris Protocol Will Use Blockchain &amp; Decentralization To Plug Web3 Security Gaps<a href="https://www.hackread.com/naoris-protocol-blockchain-decentralization-plug-web3-security-gaps/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By creating a decentralized network of trusted devices that are incentivized to continuously validate each other to ensure no weak points, Naoris Protocol is on a mission to reinvent cybersecurity best practices.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Human Security merges with PerimeterX to thwart bots and automated fraud<a href="https://techcrunch.com/2022/07/27/human-security-merges-with-perimeterx-to-thwart-bots-and-automated-fraud/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Human Security, a bot mitigation and fraud detection platform for enterprises, is merging with PerimeterX, a company focused on safeguarding web apps from account takeover and automated fraud. The terms of the deal were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

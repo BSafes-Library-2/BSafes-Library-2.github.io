@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Exploit Zero-day in PrestaShop<a href="https://cyware.com/news/threat-actors-exploit-zero-day-in-prestashop-a0c75118"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a zero-day vulnerability affecting older versions of PrestaShop websites. The bug can be exploited to harvest customers’ payment information. After the attack, the remote attackers erase their traces that stops the site owner from knowing that they were breached. Experts sugg ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LibreOffice fixed 3 flaws, including a code execution issue<a href="https://securityaffairs.co/wordpress/133775/security/libreoffice-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LibreOffice maintainers addressed three security flaws in their productivity software, including an arbitrary code execution issue.
+
+
+
+LibreOffice is an open-source&nbsp;office productivity software&nbsp;suite, a project of&nbsp;The Document Foundation&nbsp;(TDF). 
+
+
+
+LibreOffice...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LibreOffice addresses security issues with macros, passwords<a href="https://www.bleepingcomputer.com/news/security/libreoffice-addresses-security-issues-with-macros-passwords/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LibreOffice suite has been updated to address several security vulnerabilities related to the execution of macros and the protection of passwords for web connections.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moxa NPort Device Flaws Can Expose Critical Infrastructure to Disruptive Attacks<a href="https://www.securityweek.com/moxa-nport-device-flaws-can-expose-critical-infrastructure-disruptive-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two security holes, tracked as CVE-2022-2043 and CVE-2022-2044 and rated ‘high severity,’ affect Moxa’s NPort 5110 device servers, which are designed for connecting serial devices to Ethernet networks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LibreOffice Releases Software Update to Patch 3 New Vulnerabilities<a href="https://thehackernews.com/2022/07/libreoffice-releases-software-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The team behind LibreOffice has released security updates to fix three security flaws in the productivity software, one of which could be exploited to achieve arbitrary code execution on affected systems.  Tracked as&nbsp; CVE-2022-26305 , the issue has been described as a case of improper certificate validation when checking whether a macro is signed by a trusted author, leading to the execution of rogue code packaged within the macros.   "An adversary could therefore create an arbitrary certificate with a serial number and an issuer string identical to a trusted certificate which LibreOffice would present as belonging to the trusted author, potentially leading to the user to execute arbitrary code contained in macros improperly trusted," LibreOffice said in an advisory.  Also resolved is the use of a static initialization vector ( IV ) during encryption ( CVE-2022-26306 ) that could have weakened the security should a bad actor have access to the user's configuration inform
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

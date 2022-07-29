@@ -8,6 +8,42 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai blocked the largest DDoS attack ever on its European customers<a href="https://securityaffairs.co/wordpress/133780/hacking/largest-ddos-attack-europe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This month Akamai blocked the largest distributed denial-of-service (DDoS) attack that hit an organization in Europe.
+
+
+
+On July 21, 2022, Akamai mitigated the largest DDoS attack that ever hit one of its European customers.
+
+
+
+The attack hit an Akamai...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai blocked largest DDoS in Europe against one of its customers<a href="https://www.bleepingcomputer.com/news/security/akamai-blocked-largest-ddos-in-europe-against-one-of-its-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The largest distributed denial-of-service (DDoS) attack that Europe has ever seen occurred earlier this month and hit an organization in Eastern Europe.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Things to Know About STIFF#BIZON Campaign<a href="https://cyware.com/news/things-to-know-about-stiffbizon-campaign-d7c0f9f2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT37 is targeting high-value organizations in Poland, the Czech Republic, and other European countries, with Konni RAT. The campaign is dubbed STIFF#BIZON. The attacked phishing document is a decoy and seems to be a report from a Russian war correspondent, Olga Bozheva. Researchers have shared som ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky APT Deploys Clever Mail-Stealing Browser Extension Called SHARPEXT<a href="https://www.volexity.com/blog/2022/07/28/sharptongue-deploys-clever-mail-stealing-browser-extension-sharpext/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This actor is believed to be North Korean in origin and is often publicly referred to under the name Kimsuky. The definition of which threat activity comprises Kimsuky is a matter of debate amongst threat intelligence analysts.
+</details>
+<div style="text-align: right" markdown="1">
+Volexity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

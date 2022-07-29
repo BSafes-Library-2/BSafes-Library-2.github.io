@@ -11,6 +11,20 @@ nav_order: 900075
 July 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+U.S. Offers $10 Million Reward for Information on North Korean Hackers<a href="https://thehackernews.com/2022/07/us-offers-10-million-reward-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department has announced rewards of up to $10 million for any information that could help disrupt North Korea's cryptocurrency theft, cyber-espionage, and other illicit state-backed activities.  "If you have information on any individuals associated with the North Korean government-linked malicious cyber groups (such as Andariel, APT38, Bluenoroff, Guardians of Peace, Kimsuky, or Lazarus Group) and who are involved in targeting U.S. critical infrastructure in violation of the Computer Fraud and Abuse Act, you may be eligible for a reward," the department&nbsp; said &nbsp;in a tweet.  The amount is double the bounty the agency&nbsp; publicized &nbsp;in March 2022 for specifics regarding the financial mechanisms employed by state-sponsored actors working on behalf of the North Korean government.   The development comes a week after the Justice Department&nbsp; disclosed &nbsp;the seizure of $500,000 worth of Bitcoin from North Korean hackers who extorted digital payments by using a new r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Hackers Will Still Target Smaller Critical Infrastructure, CISA Director Warns<a href="https://www.nextgov.com/cybersecurity/2022/07/ransomware-hackers-will-still-target-smaller-critical-infrastructure-cisa-director-warns/374953/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
