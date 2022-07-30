@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Delays Blocking 3rd-Party Cookies in Chrome Browser Until 2024<a href="https://thehackernews.com/2022/07/google-delays-blocking-3rd-party.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Wednesday said it's once again delaying its plans to turn off third-party cookies in the Chrome web browser from late 2023 to the second half of 2024.  "The most consistent feedback we've received is the need for more time to evaluate and test the new Privacy Sandbox technologies before deprecating third-party cookies in Chrome," Anthony Chavez, vice president of Privacy Sandbox,&nbsp; said .  In keeping this in mind, the internet and ad tech giant said it's taking a "deliberate approach" and&nbsp; extending the testing window &nbsp;for its ongoing Privacy Sandbox initiatives prior to phasing out third-party cookies.  Cookies are pieces of data planted on a user's computer or other device by the web browser as a website is accessed, with third-party cookies  fueling much of the digital advertising ecosystem and its ability to track users across different sites to show targeted ads.  Privacy Sandbox is Google's umbrella term for a set of technologies
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dahua IP Camera Vulnerability Could Let Attackers Take Full Control Over Devices<a href="https://thehackernews.com/2022/07/dahua-ip-camera-vulnerability-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have been shared about a security vulnerability in Dahua's Open Network Video Interface Forum ( ONVIF ) standard implementation, which, when exploited, can lead to seizing control of IP cameras.&nbsp;  Tracked as CVE-2022-30563 (CVSS score: 7.4), the "vulnerability could be abused by attackers to compromise network cameras by sniffing a previous unencrypted ONVIF interaction and replaying the credentials in a new request towards the camera," Nozomi Networks&nbsp; said &nbsp;in a Thursday report.  The issue, which was&nbsp; addressed &nbsp;in a patch released on June 28, 2022,&nbsp; impacts &nbsp;the following products -   Dahua ASI7XXX: Versions prior to v1.000.0000009.0.R.220620  Dahua IPC-HDBW2XXX: Versions prior to v2.820.0000000.48.R.220614  Dahua IPC-HX2XXX: Versions prior to v2.820.0000000.48.R.220614   ONVIF governs the development and use of an open standard for how IP-based physical security products such as video surveillance cameras and access control systems can communicate with one an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploitation is underway for a critical flaw in Atlassian Confluence Server and Data Center<a href="https://securityaffairs.co/wordpress/133798/hacking/atlassian-cve-2022-26138-actively-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting the recently patched critical flaw in Atlassian Confluence Server and Data Center
+
+
+
+Recenlty Atlassian released security updates to address a critical hardcoded credentials vulnerability in Confluence Server and Data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XSS vulnerabilities in Google Cloud, Google Play could lead to account hijacks<a href="https://portswigger.net/daily-swig/xss-vulnerabilities-in-google-cloud-google-play-could-lead-to-account-hijacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of vulnerabilities in Google Cloud, DevSite, and Google Play could have allowed attackers to achieve cross-site scripting (XSS) attacks, opening the door to account hijacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Critical Atlassian Confluence Vulnerability Under Active Exploitation<a href="https://thehackernews.com/2022/07/latest-critical-atlassian-confluence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A week after Atlassian rolled out patches to contain a critical flaw in its Questions For Confluence app for Confluence Server and Confluence Data Center, the shortcoming has now come under active exploitation in the wild.  The bug in question is&nbsp; CVE-2022-26138 , which concerns the use of a hard-coded password in the app that could be exploited by a remote, unauthenticated attacker to gain unrestricted access to all pages in Confluence.   The real-world exploitation follows the release of the hard-coded credentials on Twitter, prompting the Australian software company to prioritize patches to mitigate potential threats targeting the flaw.  "Unsurprisingly, it didn't take long [...] to observe exploitation once the hard-coded credentials were released, given the high value of Confluence for attackers who often jump on Confluence vulnerabilities to execute ransomware attacks," Rapid7 security researcher Glenn Thorpe&nbsp; said .   It's worth noting that the bug only exists
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

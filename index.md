@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns of critical Confluence bug exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-confluence-bug-exploited-in-attacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This phishing attack uses a countdown clock to panic you into handing over passwords<a href="https://www.zdnet.com/article/this-phishing-attack-uses-a-countdown-clock-to-panic-you-into-handing-over-passwords/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over a Dozen Android Apps on Google Play Store Caught Dropping Banking Malware<a href="https://thehackernews.com/2022/07/over-dozen-android-apps-on-google-play.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft experts linked the Raspberry Robin malware to Evil Corp operation<a href="https://securityaffairs.co/wordpress/133810/cyber-crime/raspberry-robin-linked-evil-corp.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt warns Americans of escalating SMS phishing attacks<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-americans-of-escalating-sms-phishing-attacks/"> Full Text</a>
@@ -122,7 +122,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OneTouchPoint Discloses Data Breach Impacting Over 30 Healthcare Firms<a href="https://www.securityweek.com/onetouchpoint-discloses-data-breach-impacting-over-30-healthcare-firms?&web_view=true"> Full Text</a>
@@ -138,7 +138,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dahua IP Camera Vulnerability Could Let Attackers Take Full Control Over Devices<a href="https://thehackernews.com/2022/07/dahua-ip-camera-vulnerability-could-let.html"> Full Text</a>
@@ -154,7 +154,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Strong Authentication – Robust Identity and Access Management Is a Strategic Choice<a href="https://securityaffairs.co/wordpress/133807/security/strong-authentication.html"> Full Text</a>
@@ -174,7 +174,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit operator abuses Windows Defender to load Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/lockbit-operator-abuses-windows-defender-to-load-cobalt-strike/"> Full Text</a>
@@ -190,7 +190,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft experts linked the Raspberry Robin malware to Evil Corp operation<a href="https://securityaffairs.co/wordpress/133810/cyber-crime/raspberry-robin-linked-evil-corp.html?&web_view=true"> Full Text</a>
@@ -206,7 +206,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warns of Increase in Phishing Attacks Using Decentralized IPFS Network<a href="https://thehackernews.com/2022/07/researchers-warns-of-increase-in.html"> Full Text</a>
@@ -222,7 +222,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploitation is underway for a critical flaw in Atlassian Confluence Server and Data Center<a href="https://securityaffairs.co/wordpress/133798/hacking/atlassian-cve-2022-26138-actively-exploited.html"> Full Text</a>
@@ -242,7 +242,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft links Raspberry Robin malware to Evil Corp attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-links-raspberry-robin-malware-to-evil-corp-attacks/"> Full Text</a>
@@ -258,7 +258,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XSS vulnerabilities in Google Cloud, Google Play could lead to account hijacks<a href="https://portswigger.net/daily-swig/xss-vulnerabilities-in-google-cloud-google-play-could-lead-to-account-hijacks?&web_view=true"> Full Text</a>
@@ -274,7 +274,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Combat the Biggest Security Risks Posed by Machine Identities<a href="https://thehackernews.com/2022/07/how-to-combat-biggest-security-risks_29.html"> Full Text</a>
@@ -290,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware-laced npm packages used to target Discord users<a href="https://securityaffairs.co/wordpress/133795/cyber-crime/malware-npm-packages-discord.html"> Full Text</a>
@@ -310,7 +310,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Billion-record Chinese data leak's host booms<a href="https://www.theregister.com/2022/07/29/breachedforums_popularity_surge/?&web_view=true"> Full Text</a>
@@ -326,7 +326,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spanish Police Arrest 2 Nuclear Power Workers for Cyberattacking the Radiation Alert System<a href="https://thehackernews.com/2022/07/spanish-police-arrest-2-nuclear-power.html"> Full Text</a>
@@ -342,7 +342,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Justice Department Probing Cyber Breach of Federal Court Records System<a href="https://www.reuters.com/world/us/us-justice-dept-probing-cyber-breach-federal-court-management-system-2022-07-28/?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 28, 2022
+July 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest Critical Atlassian Confluence Vulnerability Under Active Exploitation<a href="https://thehackernews.com/2022/07/latest-critical-atlassian-confluence.html"> Full Text</a>

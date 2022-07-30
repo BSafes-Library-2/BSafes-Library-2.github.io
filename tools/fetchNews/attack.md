@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Uncovers Austrian Company Exploiting Windows and Adobe Zero-Day Exploits<a href="https://thehackernews.com/2022/07/microsoft-uncover-austrian-company.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber mercenary that "ostensibly sells general security and information analysis services to commercial customers" used several Windows and Adobe zero-day exploits in limited and highly-targeted attacks against European and Central American entities.  The company, which Microsoft describes as a private-sector offensive actor (PSOA), is an Austria-based outfit called&nbsp; DSIRF &nbsp;that's linked to the development and attempted sale of a piece of cyberweapon referred to as Subzero , which can be used to hack targets' phones, computers, and internet-connected devices.  "Observed victims to date include law firms, banks, and strategic consultancies in countries such as Austria, the United Kingdom, and Panama," the tech giant's cybersecurity teams&nbsp; said &nbsp;in a Wednesday report.  Microsoft is&nbsp; tracking &nbsp;the actor under the moniker KNOTWEED, continuing its trend of naming PSOAs using names given to trees and shrubs. The company previously designated the name&nbsp; SOURG
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European firm DSIRF behind the attacks with Subzero surveillance malware<a href="https://securityaffairs.co/wordpress/133736/malware/dsirf-behind-subzero-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft linked a private-sector offensive actor (PSOA) to attacks using multiple zero-day exploits for its Subzero malware.
+
+
+
+The Microsoft Threat Intelligence Center (MSTIC) and the Microsoft Security Response Center (MSRC) researchers linked a threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Microsoft blocks Office macros, hackers find new attack vectors<a href="https://www.bleepingcomputer.com/news/security/as-microsoft-blocks-office-macros-hackers-find-new-attack-vectors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers who normally distributed malware via phishing attachments with malicious macros gradually changed tactics after Microsoft Office began blocking them by default, switching to new file types such as ISO, RAR, and Windows Shortcut (LNK) attachments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

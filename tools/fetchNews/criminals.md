@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spain police arrested two men accused of cyber attacks on radioactivity alert network (RAR)<a href="https://securityaffairs.co/wordpress/133737/cyber-crime/radioactivity-alert-network-hacker-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spanish police arrested two individuals accused to have hacked the country's radioactivity alert network (RAR) in 2021.
+
+
+
+The Spanish police have arrested two men suspected to be the hackers behind cyberattacks that hit the country's radioactivity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit operator abuses Windows Defender to load Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/lockbit-operator-abuses-windows-defender-to-load-cobalt-strike/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have observed an affiliate of the LockBit 3.0 ransomware operation abusing a Windows Defender command line tool to decrypt and load Cobalt Strike beacons on the target systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+July 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Combat the Biggest Security Risks Posed by Machine Identities<a href="https://thehackernews.com/2022/07/how-to-combat-biggest-security-risks_29.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rise of&nbsp; DevOps culture &nbsp;in enterprises has accelerated product delivery timelines. Automation undoubtedly has its advantages. However,&nbsp; containerization and the rise of cloud software development &nbsp;are exposing organizations to a sprawling new attack surface.  Machine identities vastly outnumber human ones in enterprises these days. Indeed, the rise of machine identities is creating cybersecurity debt, and increasing security risks.&nbsp;  Let's take a look at three of the top security risks which machine identities create – and how you can combat them.  Certificate renewal issues  Machine identities are secured differently from human ones. While human IDs can be verified with login and password credentials, machine IDs use certificates and keys. A huge issue with these types of credentials is they have expiration dates.&nbsp;  Generally, certificates remain valid for two years, but the rapid pace of technological improvement has reduced some lifespans to 13 months. Given that there are
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

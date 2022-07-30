@@ -8,6 +8,24 @@ nav_order: 900072
 
 ## General
 ---
+July 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Strong Authentication – Robust Identity and Access Management Is a Strategic Choice<a href="https://securityaffairs.co/wordpress/133807/security/strong-authentication.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Passwords no longer meet the demands of today’s identity and access requirements. Therefore, strong authentication methods are needed.
+
+
+
+“Usernames and passwords are insufficient and vulnerable means of authentication on their own; therefore, it is essential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

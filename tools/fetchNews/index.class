@@ -34,6 +34,346 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of critical Confluence bug exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-confluence-bug-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added a critical Confluence vulnerability tracked as CVE-2022-26138 to its list of bugs abused in the wild, a flaw that can provide remote attackers with hardcoded credentials following successful exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This phishing attack uses a countdown clock to panic you into handing over passwords<a href="https://www.zdnet.com/article/this-phishing-attack-uses-a-countdown-clock-to-panic-you-into-handing-over-passwords/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sneaky new phishing attack attempts to manipulate victims into entering their username and password by claiming their account will be deleted if they don't - and it uses a countdown timer to pile on the pressure.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over a Dozen Android Apps on Google Play Store Caught Dropping Banking Malware<a href="https://thehackernews.com/2022/07/over-dozen-android-apps-on-google-play.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious campaign leveraged seemingly innocuous Android dropper apps on the Google Play Store to compromise users' devices with  banking   malware .  These 17 dropper apps, collectively dubbed  DawDropper  by Trend Micro, masqueraded as productivity and utility apps such as document scanners, QR code readers, VPN services, and call recorders, among others. All these apps in question have been removed from the app marketplace.   "DawDropper uses Firebase Realtime Database, a third-party cloud service, to evade detection and dynamically obtain a payload download address," the researchers  said . "It also hosts malicious payloads on GitHub."   Droppers are apps designed to sneak past Google's Play Store security checks, following which they are used to download more potent and intrusive malware on a device, in this case,  Octo  (Coper),  Hydra ,  Ermac , and  TeaBot .  Attack chains involved the DawDropper malware establishing connections with a Firebase Re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft experts linked the Raspberry Robin malware to Evil Corp operation<a href="https://securityaffairs.co/wordpress/133810/cyber-crime/raspberry-robin-linked-evil-corp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft linked the recently discovered Raspberry Robin Windows malware to the notorious Evil Corp operation.
+
+
+
+On July 26, 2022, Microsoft researchers discovered that the FakeUpdates malware was being distributed via Raspberry Robin malware. 
+
+
+
+Raspberry...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt warns Americans of escalating SMS phishing attacks<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-americans-of-escalating-sms-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) warned Americans of an increasing wave of SMS (Short Message Service) phishing attacks attempting to steal their personal information and money.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OneTouchPoint Discloses Data Breach Impacting Over 30 Healthcare Firms<a href="https://www.securityweek.com/onetouchpoint-discloses-data-breach-impacting-over-30-healthcare-firms?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a data breach notice on its website, OneTouchPoint lists 34 healthcare insurance carriers and healthcare services providers that have been impacted, but the number appears to be larger.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dahua IP Camera Vulnerability Could Let Attackers Take Full Control Over Devices<a href="https://thehackernews.com/2022/07/dahua-ip-camera-vulnerability-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have been shared about a security vulnerability in Dahua's Open Network Video Interface Forum ( ONVIF ) standard implementation, which, when exploited, can lead to seizing control of IP cameras.   Tracked as CVE-2022-30563 (CVSS score: 7.4), the "vulnerability could be abused by attackers to compromise network cameras by sniffing a previous unencrypted ONVIF interaction and replaying the credentials in a new request towards the camera," Nozomi Networks  said  in a Thursday report.  The issue, which was  addressed  in a patch released on June 28, 2022,  impacts  the following products -   Dahua ASI7XXX: Versions prior to v1.000.0000009.0.R.220620  Dahua IPC-HDBW2XXX: Versions prior to v2.820.0000000.48.R.220614  Dahua IPC-HX2XXX: Versions prior to v2.820.0000000.48.R.220614   ONVIF governs the development and use of an open standard for how IP-based physical security products such as video surveillance cameras and access control systems can communicate with one an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Strong Authentication – Robust Identity and Access Management Is a Strategic Choice<a href="https://securityaffairs.co/wordpress/133807/security/strong-authentication.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Passwords no longer meet the demands of today’s identity and access requirements. Therefore, strong authentication methods are needed.
+
+
+
+“Usernames and passwords are insufficient and vulnerable means of authentication on their own; therefore, it is essential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit operator abuses Windows Defender to load Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/lockbit-operator-abuses-windows-defender-to-load-cobalt-strike/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have observed an affiliate of the LockBit 3.0 ransomware operation abusing a Windows Defender command line tool to decrypt and load Cobalt Strike beacons on the target systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft experts linked the Raspberry Robin malware to Evil Corp operation<a href="https://securityaffairs.co/wordpress/133810/cyber-crime/raspberry-robin-linked-evil-corp.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware uses cmd.exe to read and execute a file stored on the infected external drive, it leverages msiexec.exe for external network communication to a rogue domain used as C2 to download and install a DLL library file.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warns of Increase in Phishing Attacks Using Decentralized IPFS Network<a href="https://thehackernews.com/2022/07/researchers-warns-of-increase-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decentralized file system solution known as IPFS is becoming the new "hotbed" for hosting phishing sites, researchers have warned.  Cybersecurity firm Trustwave SpiderLabs, which disclosed specifics of the attack campaigns, said it identified no less than 3,000 emails containing IPFS phishing URLs as an attack vector in the last three months.  IPFS , short for InterPlanetary File System, is a peer-to-peer (P2P) network to store and share files and data using cryptographic hashes, instead of URLs or filenames, as is observed in a traditional client-server approach. Each hash forms the basis for a unique content identifier ( CID ).  The idea is to create a resilient distributed file system that allows data to be stored across multiple computers. This would allow information to be accessed without having to rely on third parties such as cloud storage providers, effectively making it resistant to censorship.   "Taking down phishing content stored on IPFS can be difficul
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploitation is underway for a critical flaw in Atlassian Confluence Server and Data Center<a href="https://securityaffairs.co/wordpress/133798/hacking/atlassian-cve-2022-26138-actively-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting the recently patched critical flaw in Atlassian Confluence Server and Data Center
+
+
+
+Recenlty Atlassian released security updates to address a critical hardcoded credentials vulnerability in Confluence Server and Data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft links Raspberry Robin malware to Evil Corp attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-links-raspberry-robin-malware-to-evil-corp-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has discovered that an access broker it tracks as DEV-0206 uses the Raspberry Robin Windows worm to deploy a malware downloader on networks where it also found evidence of malicious activity matching Evil Corp tactics.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XSS vulnerabilities in Google Cloud, Google Play could lead to account hijacks<a href="https://portswigger.net/daily-swig/xss-vulnerabilities-in-google-cloud-google-play-could-lead-to-account-hijacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of vulnerabilities in Google Cloud, DevSite, and Google Play could have allowed attackers to achieve cross-site scripting (XSS) attacks, opening the door to account hijacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Combat the Biggest Security Risks Posed by Machine Identities<a href="https://thehackernews.com/2022/07/how-to-combat-biggest-security-risks_29.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rise of  DevOps culture  in enterprises has accelerated product delivery timelines. Automation undoubtedly has its advantages. However,  containerization and the rise of cloud software development  are exposing organizations to a sprawling new attack surface.  Machine identities vastly outnumber human ones in enterprises these days. Indeed, the rise of machine identities is creating cybersecurity debt, and increasing security risks.   Let's take a look at three of the top security risks which machine identities create – and how you can combat them.  Certificate renewal issues  Machine identities are secured differently from human ones. While human IDs can be verified with login and password credentials, machine IDs use certificates and keys. A huge issue with these types of credentials is they have expiration dates.   Generally, certificates remain valid for two years, but the rapid pace of technological improvement has reduced some lifespans to 13 months. Given that there are
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware-laced npm packages used to target Discord users<a href="https://securityaffairs.co/wordpress/133795/cyber-crime/malware-npm-packages-discord.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors used multiple npm packages to target Discord users with malware designed to steal their payment card data.
+
+
+
+A malicious campaign targeting Discord users leverages multiple npm packages to deliver malware that steals their payment card...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Billion-record Chinese data leak's host booms<a href="https://www.theregister.com/2022/07/29/breachedforums_popularity_surge/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popularity of stolen data bazaar BreachForums surged after it was used to sell a giant database of stolen information describing Chinese citizens, threat intelligence firm Cybersixgill said on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish Police Arrest 2 Nuclear Power Workers for Cyberattacking the Radiation Alert System<a href="https://thehackernews.com/2022/07/spanish-police-arrest-2-nuclear-power.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spanish law enforcement officials have announced the arrest of two individuals in connection with a cyberattack on the country's radioactivity alert network (RAR), which took place between March and June 2021.  The act of sabotage is said to have disabled more than one-third of the sensors that are maintained by the Directorate-General for Civil Protection and Emergencies ( DGPCE ) and used to monitor excessive radiation levels across the country.  The reason for the attacks is unknown as yet.   "The two detainees, former workers, attacked the computer system and caused the connection of the sensors to fail, reducing their detection capacity even in the environment of nuclear power plants," the Policía Nacional  said .  The law enforcement probe, dubbed Operation GAMMA, commenced in June 2021 in the aftermath of an attack perpetrated against the RAR network, which is a mesh of 800 gamma radiation detection sensors deployed in various parts of the country to detect surges
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Justice Department Probing Cyber Breach of Federal Court Records System<a href="https://www.reuters.com/world/us/us-justice-dept-probing-cyber-breach-federal-court-management-system-2022-07-28/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department is investigating a cyber breach involving the federal court records management system, the department's top national security attorney told lawmakers on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Critical Atlassian Confluence Vulnerability Under Active Exploitation<a href="https://thehackernews.com/2022/07/latest-critical-atlassian-confluence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A week after Atlassian rolled out patches to contain a critical flaw in its Questions For Confluence app for Confluence Server and Confluence Data Center, the shortcoming has now come under active exploitation in the wild.  The bug in question is  CVE-2022-26138 , which concerns the use of a hard-coded password in the app that could be exploited by a remote, unauthenticated attacker to gain unrestricted access to all pages in Confluence.   The real-world exploitation follows the release of the hard-coded credentials on Twitter, prompting the Australian software company to prioritize patches to mitigate potential threats targeting the flaw.  "Unsurprisingly, it didn't take long [...] to observe exploitation once the hard-coded credentials were released, given the high value of Confluence for attackers who often jump on Confluence vulnerabilities to execute ransomware attacks," Rapid7 security researcher Glenn Thorpe  said .   It's worth noting that the bug only exists
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 28, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

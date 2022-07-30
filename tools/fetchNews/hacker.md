@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Opting New Attack Methods After Microsoft Blocked Macros by Default<a href="https://thehackernews.com/2022/07/hackers-opting-new-attack-methods-after.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With Microsoft taking steps to block Excel 4.0 (XLM or XL4) and Visual Basic for Applications (VBA) macros by default across Office apps, malicious actors are responding by refining their new tactics, techniques, and procedures (TTPs).  "The use of VBA and XL4 Macros decreased approximately 66% from October 2021 through June 2022," Proofpoint&nbsp; said &nbsp;in a report shared with The Hacker News.  In its place, adversaries are increasingly pivoting away from macro-enabled documents to other alternatives, including container files such as ISO and RAR as well as Windows Shortcut (LNK) files in campaigns to distribute malware.  "Threat actors pivoting away from directly distributing macro-based attachments in email represents a significant shift in the threat landscape," Sherrod DeGrippo, vice president of threat research and detection at Proofpoint, said in a statement.   "Threat actors are now adopting new tactics to deliver malware, and the increased use of files suc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors use new attack techniques after Microsoft blocked macros by default<a href="https://securityaffairs.co/wordpress/133764/hacking/attacks-after-microsoft-blocked-macros.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are devising new attack tactics in response to Microsoft's decision to block Macros by default.
+
+
+
+In response to Microsoft's decision steps to block Excel 4.0 (XLM or XL4) and Visual Basic for Applications (VBA) macros by default in Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

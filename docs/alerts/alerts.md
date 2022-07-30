@@ -7,6 +7,32 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds One Known Exploited Vulnerability to Catalog <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/07/29/cisa-adds-one-known-exploited-vulnerability-catalog"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2022 - FCC 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robotext Scams on the Rise <a href="https://www.fcc.gov/robotext-scams-rise"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Robotext scams are on the rise and may even be passing robocalls as a tool for con artists.  
+
+Like robocalls, texts can be spoofed to mask the originating number and make it appear that the text is coming from a number you’re more likely to trust. Spoofers may opt for a local number, or impersonate a government agency, such as the IRS, or a company you’re familiar with. Scammers use these methods to get you to respond to a text.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 21, 2022 - TSA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
