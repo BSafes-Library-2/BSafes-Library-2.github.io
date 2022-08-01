@@ -34,7 +34,307 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia charges dev of Imminent Monitor RAT used by domestic abusers<a href="https://www.bleepingcomputer.com/news/security/australia-charges-dev-of-imminent-monitor-rat-used-by-domestic-abusers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​An Australian man was charged for developing and selling the Imminent Monitor remote access trojan, used to spy on victims' devices remotely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IIS Extensions Used as Backdoors for Exchange Servers<a href="https://cyware.com/news/iis-extensions-used-as-backdoors-for-exchange-servers-aa37db78"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned against threat actors increasingly using malicious IIS web server extensions to backdoor unpatched Exchange servers. Between January and May, the attackers targeted several servers to access victims' email mailboxes, steal credentials and sensitive data, and run commands. IIS modul ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actor claims to have hacked European manufacturer of missiles MBDA<a href="https://securityaffairs.co/wordpress/133881/data-breach/mbda-alleged-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors that go online with the moniker Adrastea claim to have hacked the multinational manufacturer of missiles MBDA.
+
+
+
+MBDA is a European multinational developer and manufacturer of missiles that was the result of the merger of the main French, British and Italian missile...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Huge network of 11,000 fake investment sites targets Europe<a href="https://www.bleepingcomputer.com/news/security/huge-network-of-11-000-fake-investment-sites-targets-europe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered a gigantic network of more than 11,000 domains used to promote numerous fake investment schemes to users in Europe.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DSIRF, Knotweed Jointly Abused Zero-day to Deploy Subzero Malware<a href="https://cyware.com/news/dsirf-knotweed-jointly-abused-zero-day-to-deploy-subzero-malware-47d043b6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft connected the Knotweed threat actor to the Austrian surveillance firm DSIRF that has been targeting entities in Central America and Europe with the Subzero surveillance malware. Microsoft recommends patching the exploited flaws and confirming that Microsoft Defender is updated to det ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+17 Android Apps on Google Play Store, dubbed DawDropper, were serving banking malware<a href="https://securityaffairs.co/wordpress/133853/malware/dawdropper-apps-google-play.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers discovered over a dozen Android Apps on Google Play Store, collectively dubbed DawDropper, that were dropping Banking malware.
+
+
+
+Trend Micro researchers uncovered a malicious campaign that leveraged 17 seemingly harmless Android dropper...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 376 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/133850/breaking-news/security-affairs-newsletter-round-376-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+Reading...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked SharpTongue spies on email accounts with a malicious browser extension<a href="https://securityaffairs.co/wordpress/133837/apt/sharptongue-spy-gmail-aol.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked threat actor SharpTongue is using a malicious extension on Chromium-based web browsers to spy on victims' email accounts.
+
+
+
+North Korea-linked actor SharpTongue has been using a malicious extension on Chromium-based web browsers to spy on victims'...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stop Putting Your Accounts At Risk, and Start Using a Password Manager<a href="https://thehackernews.com/2022/07/stop-putting-your-accounts-at-risk-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Image via Keeper  Right Now, Get 50% Off Keeper, the Most Trusted Name in Password Management.  In one way or another, almost every aspect of our lives is online, so it's no surprise that hackers target everything from email accounts to banks to smart home devices, looking for vulnerabilities to exploit. One of the easiest exploits is cracking a weak password. That's why using a strong, unique password for each individual account is so important. But creating and remembering strong, unique passwords for dozens of accounts is nearly impossible – unless you're using  a top-rated password manager like Keeper .  The Problem With Weak Passwords  Image via Keeper  A strong password  should  be a minimum of 12 characters long, with uppercase and lowercase letters, numbers, and one or more special characters. More importantly, it shouldn't contain dictionary words or personal information like birthdays or names. But the average American has  100 passwords . Maybe that's why  66%  of people in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Links Raspberry Robin USB Worm to Russian Evil Corp Hackers<a href="https://thehackernews.com/2022/07/microsoft-links-raspberry-robin-usb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday disclosed a potential connection between the Raspberry Robin USB-based worm and an infamous Russian cybercrime group tracked as Evil Corp.  The tech giant  said  it observed the  FakeUpdates  (aka SocGholish) malware being delivered via existing Raspberry Robin infections on July 26, 2022.  Raspberry Robin, also called QNAP Worm, is  known  to spread from a compromised system via infected USB devices containing malicious a .LNK files to other devices in the target network.   The campaign, which was first spotted by Red Canary in September 2021, has been elusive in that no later-stage activity has been documented nor has there any concrete link tying it to a known threat actor or group.  The disclosure, therefore, marks the first evidence of post-exploitation actions carried out by the threat actor upon leveraging the malware to gain initial access to a Windows machine.  "The DEV-0206-associated FakeUpdates activity on affected systems has since led to follow-o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook ads push Android adware with 7 million installs on Google Play<a href="https://www.bleepingcomputer.com/news/security/facebook-ads-push-android-adware-with-7-million-installs-on-google-play/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several adware apps promoted aggressively on Facebook as system cleaners and optimizers for Android devices are counting millions of installations on Google Play store.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta, US hospitals sued for using healthcare data to target ads<a href="https://www.bleepingcomputer.com/news/security/meta-us-hospitals-sued-for-using-healthcare-data-to-target-ads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A class action lawsuit has been filed in the Northern District of California against Meta (Facebook), the UCSF Medical Center, and the Dignity Health Medical Foundation, alleging that the organizations are unlawfully collecting sensitive healthcare data about patients for targeted advertising.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reading the “ENISA THREAT LANDSCAPE FOR RANSOMWARE ATTACKS” report<a href="https://securityaffairs.co/wordpress/133827/malware/enisa-threat-landscape-for-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I'm proud to announce the release of the "ENISA THREAT LANDSCAPE FOR RANSOMWARE ATTACKS" report, Enjoy it! 
+
+
+
+Ransomware has become one of the most dangerous threats for organizations worldwide. Cybercriminal organizations and ransomware gangs have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders to patch an actively exploited flaw in Confluence servers<a href="https://securityaffairs.co/wordpress/133819/security/cisa-confluence-cve-2022-26138-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Critical Infrastructure Security Agency (CISA) adds the critical Confluence flaw, tracked as CVE-2022-26138, to its Known Exploited Vulnerabilities Catalog.
+
+
+
+US CISA has added the recently disclosed Confluence vulnerability, tracked as CVE-2022-26138, to...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Using Malicious Browser Extension to Spy on Email Accounts<a href="https://thehackernews.com/2022/07/north-korean-hackers-using-malicious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor operating with interests aligned with North Korea has been deploying a malicious extension on Chromium-based web browsers that's capable of stealing email content from Gmail and AOL.  Cybersecurity firm Volexity attributed the malware to an activity cluster it calls  SharpTongue , which is said to share overlaps with an  adversarial collective  publicly referred to under the name  Kimsuky .  SharpTongue has a history of singling out individuals working for organizations in the U.S., Europe, and South Korea who "work on topics involving North Korea, nuclear issues, weapons systems, and other matters of strategic interest to North Korea," researchers Paul Rascagneres and Thomas Lancaster  said .  Kimsuky 's use of rogue extensions in attacks is not new. In 2018, the actor was seen utilizing a Chrome plugin as part of a campaign called  Stolen Pencil  to infect victims and steal browser cookies and passwords.   But the latest espionage effort is different
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Atlassian Confluence Hard-Coded Credential Bug Exploited in Attacks<a href="https://thehackernews.com/2022/07/cisa-warns-of-atlassian-confluence-hard.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday  added  the recently disclosed Atlassian security flaw to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.  The vulnerability, tracked as  CVE-2022-26138 , concerns the use of hard-coded credentials when the Questions For Confluence app is enabled in Confluence Server and Data Center instances.   "A remote unauthenticated attacker can use these credentials to log into Confluence and access all content accessible to users in the confluence-users group," CISA  notes  in its advisory.   Depending on the page restrictions and the information a company has in Confluence, successful exploitation of the shortcoming could lead to the disclosure of sensitive information.  Although the bug was addressed by the Atlassian software company last week in versions 2.7.38 and 3.0.5, it has since come under active exploitation , cybersecurity firm Rapid7 disclosed this week.   &quo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware abuses Windows Defender to load Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-abuses-windows-defender-to-load-cobalt-strike/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have observed an affiliate of the LockBit 3.0 ransomware operation abusing a Windows Defender command line tool to decrypt and load Cobalt Strike beacons on the target systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns of critical Confluence bug exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-confluence-bug-exploited-in-attacks/"> Full Text</a>
@@ -50,7 +350,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This phishing attack uses a countdown clock to panic you into handing over passwords<a href="https://www.zdnet.com/article/this-phishing-attack-uses-a-countdown-clock-to-panic-you-into-handing-over-passwords/?&web_view=true"> Full Text</a>
@@ -66,7 +366,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over a Dozen Android Apps on Google Play Store Caught Dropping Banking Malware<a href="https://thehackernews.com/2022/07/over-dozen-android-apps-on-google-play.html"> Full Text</a>
@@ -82,7 +382,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft experts linked the Raspberry Robin malware to Evil Corp operation<a href="https://securityaffairs.co/wordpress/133810/cyber-crime/raspberry-robin-linked-evil-corp.html"> Full Text</a>
@@ -106,7 +406,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt warns Americans of escalating SMS phishing attacks<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-americans-of-escalating-sms-phishing-attacks/"> Full Text</a>
@@ -122,7 +422,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OneTouchPoint Discloses Data Breach Impacting Over 30 Healthcare Firms<a href="https://www.securityweek.com/onetouchpoint-discloses-data-breach-impacting-over-30-healthcare-firms?&web_view=true"> Full Text</a>
@@ -138,7 +438,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dahua IP Camera Vulnerability Could Let Attackers Take Full Control Over Devices<a href="https://thehackernews.com/2022/07/dahua-ip-camera-vulnerability-could-let.html"> Full Text</a>
@@ -154,7 +454,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Strong Authentication – Robust Identity and Access Management Is a Strategic Choice<a href="https://securityaffairs.co/wordpress/133807/security/strong-authentication.html"> Full Text</a>
@@ -174,7 +474,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit operator abuses Windows Defender to load Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/lockbit-operator-abuses-windows-defender-to-load-cobalt-strike/"> Full Text</a>
@@ -190,7 +490,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft experts linked the Raspberry Robin malware to Evil Corp operation<a href="https://securityaffairs.co/wordpress/133810/cyber-crime/raspberry-robin-linked-evil-corp.html?&web_view=true"> Full Text</a>
@@ -206,7 +506,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warns of Increase in Phishing Attacks Using Decentralized IPFS Network<a href="https://thehackernews.com/2022/07/researchers-warns-of-increase-in.html"> Full Text</a>
@@ -222,7 +522,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploitation is underway for a critical flaw in Atlassian Confluence Server and Data Center<a href="https://securityaffairs.co/wordpress/133798/hacking/atlassian-cve-2022-26138-actively-exploited.html"> Full Text</a>
@@ -242,7 +542,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft links Raspberry Robin malware to Evil Corp attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-links-raspberry-robin-malware-to-evil-corp-attacks/"> Full Text</a>
@@ -258,7 +558,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XSS vulnerabilities in Google Cloud, Google Play could lead to account hijacks<a href="https://portswigger.net/daily-swig/xss-vulnerabilities-in-google-cloud-google-play-could-lead-to-account-hijacks?&web_view=true"> Full Text</a>
@@ -274,7 +574,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Combat the Biggest Security Risks Posed by Machine Identities<a href="https://thehackernews.com/2022/07/how-to-combat-biggest-security-risks_29.html"> Full Text</a>
@@ -290,7 +590,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware-laced npm packages used to target Discord users<a href="https://securityaffairs.co/wordpress/133795/cyber-crime/malware-npm-packages-discord.html"> Full Text</a>
@@ -310,7 +610,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Billion-record Chinese data leak's host booms<a href="https://www.theregister.com/2022/07/29/breachedforums_popularity_surge/?&web_view=true"> Full Text</a>
@@ -326,7 +626,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spanish Police Arrest 2 Nuclear Power Workers for Cyberattacking the Radiation Alert System<a href="https://thehackernews.com/2022/07/spanish-police-arrest-2-nuclear-power.html"> Full Text</a>
@@ -342,7 +642,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2022
+July 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Justice Department Probing Cyber Breach of Federal Court Records System<a href="https://www.reuters.com/world/us/us-justice-dept-probing-cyber-breach-federal-court-management-system-2022-07-28/?&web_view=true"> Full Text</a>
@@ -358,7 +658,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 28, 2022
+July 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest Critical Atlassian Confluence Vulnerability Under Active Exploitation<a href="https://thehackernews.com/2022/07/latest-critical-atlassian-confluence.html"> Full Text</a>
