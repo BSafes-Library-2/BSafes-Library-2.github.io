@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft experts linked the Raspberry Robin malware to Evil Corp operation<a href="https://securityaffairs.co/wordpress/133810/cyber-crime/raspberry-robin-linked-evil-corp.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware uses cmd.exe to read and execute a file stored on the infected external drive, it leverages msiexec.exe for external network communication to a rogue domain used as C2 to download and install a DLL library file.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish Police Arrest 2 Nuclear Power Workers for Cyberattacking the Radiation Alert System<a href="https://thehackernews.com/2022/07/spanish-police-arrest-2-nuclear-power.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spanish law enforcement officials have announced the arrest of two individuals in connection with a cyberattack on the country's radioactivity alert network (RAR), which took place between March and June 2021.  The act of sabotage is said to have disabled more than one-third of the sensors that are maintained by the Directorate-General for Civil Protection and Emergencies ( DGPCE ) and used to monitor excessive radiation levels across the country.  The reason for the attacks is unknown as yet.   "The two detainees, former workers, attacked the computer system and caused the connection of the sensors to fail, reducing their detection capacity even in the environment of nuclear power plants," the Policía Nacional&nbsp; said .  The law enforcement probe, dubbed Operation GAMMA, commenced in June 2021 in the aftermath of an attack perpetrated against the RAR network, which is a mesh of 800 gamma radiation detection sensors deployed in various parts of the country to detect surges
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

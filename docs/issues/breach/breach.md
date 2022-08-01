@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+July 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actor claims to have hacked European manufacturer of missiles MBDA<a href="https://securityaffairs.co/wordpress/133881/data-breach/mbda-alleged-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors that go online with the moniker Adrastea claim to have hacked the multinational manufacturer of&nbsp;missiles MBDA.
+
+
+
+MBDA&nbsp;is a European multinational developer and manufacturer of&nbsp;missiles&nbsp;that was the result of the&nbsp;merger&nbsp;of the main&nbsp;French,&nbsp;British&nbsp;and&nbsp;Italian&nbsp;missile...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

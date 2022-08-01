@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft links Raspberry Robin malware to Evil Corp attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-links-raspberry-robin-malware-to-evil-corp-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has discovered that an access broker it tracks as DEV-0206 uses the Raspberry Robin Windows worm to deploy a malware downloader on networks where it also found evidence of malicious activity matching&nbsp;Evil Corp tactics.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

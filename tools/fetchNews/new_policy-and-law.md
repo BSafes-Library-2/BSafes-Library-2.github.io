@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia charges dev of Imminent Monitor RAT used by domestic abusers<a href="https://www.bleepingcomputer.com/news/security/australia-charges-dev-of-imminent-monitor-rat-used-by-domestic-abusers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​An Australian man was charged for developing and selling the Imminent Monitor remote access trojan, used to spy on victims' devices remotely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta, US hospitals sued for using healthcare data to target ads<a href="https://www.bleepingcomputer.com/news/security/meta-us-hospitals-sued-for-using-healthcare-data-to-target-ads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A class action lawsuit has been filed in the Northern District of&nbsp;California against Meta (Facebook), the UCSF Medical Center, and the Dignity Health Medical Foundation, alleging that the organizations are unlawfully collecting sensitive healthcare data about patients for targeted advertising.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

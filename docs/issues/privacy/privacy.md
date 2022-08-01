@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked SharpTongue spies on email accounts with a malicious browser extension<a href="https://securityaffairs.co/wordpress/133837/apt/sharptongue-spy-gmail-aol.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked threat actor SharpTongue is using a malicious extension on Chromium-based web browsers to spy on victims' email accounts.
+
+
+
+North Korea-linked actor SharpTongue has been using a malicious extension on Chromium-based web browsers to spy on victims'...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

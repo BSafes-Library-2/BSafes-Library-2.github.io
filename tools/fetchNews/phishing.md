@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This phishing attack uses a countdown clock to panic you into handing over passwords<a href="https://www.zdnet.com/article/this-phishing-attack-uses-a-countdown-clock-to-panic-you-into-handing-over-passwords/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sneaky new phishing attack attempts to manipulate victims into entering their username and password by claiming their account will be deleted if they don't - and it uses a countdown timer to pile on the pressure.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warns of Increase in Phishing Attacks Using Decentralized IPFS Network<a href="https://thehackernews.com/2022/07/researchers-warns-of-increase-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decentralized file system solution known as IPFS is becoming the new "hotbed" for hosting phishing sites, researchers have warned.  Cybersecurity firm Trustwave SpiderLabs, which disclosed specifics of the attack campaigns, said it identified no less than 3,000 emails containing IPFS phishing URLs as an attack vector in the last three months.  IPFS , short for InterPlanetary File System, is a peer-to-peer (P2P) network to store and share files and data using cryptographic hashes, instead of URLs or filenames, as is observed in a traditional client-server approach. Each hash forms the basis for a unique content identifier ( CID ).  The idea is to create a resilient distributed file system that allows data to be stored across multiple computers. This would allow information to be accessed without having to rely on third parties such as cloud storage providers, effectively making it resistant to censorship.   "Taking down phishing content stored on IPFS can be difficul
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

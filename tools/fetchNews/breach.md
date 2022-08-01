@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OneTouchPoint Discloses Data Breach Impacting Over 30 Healthcare Firms<a href="https://www.securityweek.com/onetouchpoint-discloses-data-breach-impacting-over-30-healthcare-firms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a data breach notice on its website, OneTouchPoint lists 34 healthcare insurance carriers and healthcare services providers that have been impacted, but the number appears to be larger.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Billion-record Chinese data leak's host booms<a href="https://www.theregister.com/2022/07/29/breachedforums_popularity_surge/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popularity of stolen data bazaar BreachForums surged after it was used to sell a giant database of stolen information describing Chinese citizens, threat intelligence firm Cybersixgill said on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

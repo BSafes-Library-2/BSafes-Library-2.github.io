@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Links Raspberry Robin USB Worm to Russian Evil Corp Hackers<a href="https://thehackernews.com/2022/07/microsoft-links-raspberry-robin-usb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday disclosed a potential connection between the Raspberry Robin USB-based worm and an infamous Russian cybercrime group tracked as Evil Corp.  The tech giant&nbsp; said &nbsp;it observed the&nbsp; FakeUpdates &nbsp;(aka SocGholish) malware being delivered via existing Raspberry Robin infections on July 26, 2022.  Raspberry Robin, also called QNAP Worm, is&nbsp; known &nbsp;to spread from a compromised system via infected USB devices containing malicious a .LNK files to other devices in the target network.   The campaign, which was first spotted by Red Canary in September 2021, has been elusive in that no later-stage activity has been documented nor has there any concrete link tying it to a known threat actor or group.  The disclosure, therefore, marks the first evidence of post-exploitation actions carried out by the threat actor upon leveraging the malware to gain initial access to a Windows machine.  "The DEV-0206-associated FakeUpdates activity on affected systems has since led to follow-o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Using Malicious Browser Extension to Spy on Email Accounts<a href="https://thehackernews.com/2022/07/north-korean-hackers-using-malicious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor operating with interests aligned with North Korea has been deploying a malicious extension on Chromium-based web browsers that's capable of stealing email content from Gmail and AOL.  Cybersecurity firm Volexity attributed the malware to an activity cluster it calls&nbsp; SharpTongue , which is said to share overlaps with an&nbsp; adversarial collective &nbsp;publicly referred to under the name&nbsp; Kimsuky .  SharpTongue has a history of singling out individuals working for organizations in the U.S., Europe, and South Korea who "work on topics involving North Korea, nuclear issues, weapons systems, and other matters of strategic interest to North Korea," researchers Paul Rascagneres and Thomas Lancaster&nbsp; said .  Kimsuky 's use of rogue extensions in attacks is not new. In 2018, the actor was&nbsp;seen utilizing a Chrome plugin as part of a campaign called&nbsp; Stolen Pencil &nbsp;to infect victims and steal browser cookies and passwords.   But the latest espionage effort is different
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

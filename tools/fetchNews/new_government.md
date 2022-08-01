@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+July 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders to patch an actively exploited flaw in Confluence servers<a href="https://securityaffairs.co/wordpress/133819/security/cisa-confluence-cve-2022-26138-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Critical Infrastructure Security Agency (CISA) adds the critical Confluence&nbsp;flaw, tracked as CVE-2022-26138, to its Known Exploited Vulnerabilities Catalog.
+
+
+
+US CISA has added the recently disclosed Confluence&nbsp;vulnerability, tracked as CVE-2022-26138,&nbsp;to...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Atlassian Confluence Hard-Coded Credential Bug Exploited in Attacks<a href="https://thehackernews.com/2022/07/cisa-warns-of-atlassian-confluence-hard.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday&nbsp; added &nbsp;the recently disclosed Atlassian security flaw to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.  The vulnerability, tracked as&nbsp; CVE-2022-26138 , concerns the use of hard-coded credentials when the Questions For Confluence app is enabled in Confluence Server and Data Center instances.   "A remote unauthenticated attacker can use these credentials to log into Confluence and access all content accessible to users in the confluence-users group," CISA&nbsp; notes &nbsp;in its advisory.   Depending on the page restrictions and the information a company has in Confluence, successful exploitation of the shortcoming could lead to the disclosure of sensitive information.  Although the bug was addressed by the Atlassian software company last week in versions 2.7.38 and 3.0.5, it has since come under active exploitation , cybersecurity firm Rapid7&nbsp;disclosed&nbsp;this week.   &amp;quo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
