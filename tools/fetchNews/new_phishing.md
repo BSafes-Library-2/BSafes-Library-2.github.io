@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blockchain security firm warns of new MetaMask phishing campaign<a href="https://cointelegraph.com/news/blockchain-security-firm-warns-of-new-metamask-phishing-campaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per a post written by Halborn’s technical education specialist Luis Lubeck, the active phishing campaign used emails to target MetaMask users and trick them into giving out their passphrases.
+</details>
+<div style="text-align: right" markdown="1">
+Coin Telegraph
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+August 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Frontier Without Direction? The U.K.’s Latest Position on Responsible Cyber Power<a href="https://www.lawfareblog.com/frontier-without-direction-uks-latest-position-responsible-cyber-power"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. missed an opportunity to clarify its view on non-intervention in international law for peacetime offensive cyber operations, develop perspectives on what states can do in cyberspace, and provide detail on what its own National Cyber Force does.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender Experts for Hunting now generally available<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-experts-for-hunting-now-generally-available/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Defender Experts for Hunting, a new managed security service for Microsoft 365 Defender customers, is now generally available.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Steam, PayPal blocked as Indonesia enforces new Internet regulation<a href="https://www.bleepingcomputer.com/news/security/steam-paypal-blocked-as-indonesia-enforces-new-internet-regulation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Indonesian Ministry of Communication and Information Technology, Kominfo, is now blocking access to internet service and content providers who had not registered on the country's new licensing platform by July 27th, 2022, as the country begins to restrict access to online content providers and services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Attacks Against Critical Infrastructure Quietly Increase<a href="https://www.govtech.com/blogs/lohrmann-on-cybersecurity/cyber-attacks-against-critical-infrastructure-quietly-increase?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Back in June of this year, Trend Micro research revealed that 89 percent of electricity, oil &amp; gas, and manufacturing firms have experienced cyberattacks impacting production and energy supply over the past 12 months.
+</details>
+<div style="text-align: right" markdown="1">
+Government Technology
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

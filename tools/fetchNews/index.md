@@ -34,6 +34,346 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 01, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 3,200 apps leak Twitter API keys, some allowing account hijacks<a href="https://www.bleepingcomputer.com/news/security/over-3-200-apps-leak-twitter-api-keys-some-allowing-account-hijacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered a set of 3,207 mobile apps that are exposing Twitter API keys to the public, potentially enabling a threat actor to take over users' Twitter accounts that are associated with the app.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Actions workflow flaws provided write access to projects including Logstash<a href="https://portswigger.net/daily-swig/github-actions-workflow-flaws-provided-write-access-to-projects-including-logstash?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A research team from dating platform Tinder crafted an automation script that unearthed flaws that enabled the exfiltration of secrets that provide write access to various open source GitHub repositories, including Elastic’s Logstash.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 01, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Nearly 3,200 Mobile Apps Leaking Twitter API Keys<a href="https://thehackernews.com/2022/08/researchers-discover-nearly-3200-mobile.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered a list of 3,207 apps, some of which can be utilized to gain unauthorized access to Twitter accounts.  The takeover is made possible, thanks to a leak of legitimate Consumer Key and Consumer Secret information, respectively, Singapore-based cybersecurity firm CloudSEK said in a report  exclusively shared with The Hacker News.  "Out of 3,207, 230 apps are leaking all four authentication credentials and can be used to fully take over their Twitter Accounts and can perform any critical/sensitive actions," the researchers said.    This can range from reading direct messages to carrying out arbitrary actions such as retweeting, liking and deleting tweets, following any account, removing followers, accessing account settings, and even changing the account profile picture.  Access to the Twitter API  requires  generating the Keys and Access Tokens, which act as the usernames and passwords for the apps as well as the users on whose behalf the API requests w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Frontier Without Direction? The U.K.’s Latest Position on Responsible Cyber Power<a href="https://www.lawfareblog.com/frontier-without-direction-uks-latest-position-responsible-cyber-power"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. missed an opportunity to clarify its view on non-intervention in international law for peacetime offensive cyber operations, develop perspectives on what states can do in cyberspace, and provide detail on what its own National Cyber Force does.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV/BlackCat ransomware gang claims to have stolen data from Creos Luxembourg S.A.<a href="https://securityaffairs.co/wordpress/133899/cyber-crime/alphv-blackcat-ransomware-creos-luxembourg.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ALPHV/BlackCat ransomware gang claims to have breached the European gas pipeline Creos Luxembourg S.A.
+
+
+
+The ALPHV/BlackCat ransomware gang claims to have hacked the European gas pipeline Creos Luxembourg S.A.
+
+
+
+Creos Luxembourg S.A. owns and manages...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 01, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender Experts for Hunting now generally available<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-experts-for-hunting-now-generally-available/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Defender Experts for Hunting, a new managed security service for Microsoft 365 Defender customers, is now generally available.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CompleteFTP path traversal flaw allowed attackers to delete server files<a href="https://portswigger.net/daily-swig/completeftp-path-traversal-flaw-allowed-attackers-to-delete-server-files?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher with the handle rgod discovered a flaw in the HttpFile class that results from the lack of proper validation of a user-supplied path prior to using it in file operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 01, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Key Ways Development Teams Can Increase Their Security Maturity<a href="https://thehackernews.com/2022/08/two-key-ways-development-teams-can.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Now more than ever, organizations need to enable their development teams to build and grow their security skills. Today organizations face a threat landscape where individuals, well-financed syndicates, and state actors are actively trying to exploit errors in software. Yet, according to recent global research, 67% of developers that were interviewed said they were still shipping code they knew contained vulnerabilities.   Helping your development teams progress to achieve security maturity is possible, and ultimately beneficial. It will help ensure secure software development at every stage of the software development lifecycle.  But how can you help your development teams reach security maturity?  We dug deep and leveraged insights from over 400 of our customers to identify traits and behaviors that occur when a development team increases its security maturity. Here we share two of them:  #1: A deep understanding of your gaps  Before creating any maturity program, we first need to u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian man charged with creating and selling the Imminent Monitor spyware<a href="https://securityaffairs.co/wordpress/133893/cyber-crime/imminent-monitor-spyware-author-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Australian national has been charged for the creation and sale of the Imminent Monitor (IM) spyware, which was also used for criminal purposes.
+
+
+
+The 24-year-old Australian national Jacob Wayne John Keen has been charged for his alleged role in the development...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 01, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Steam, PayPal blocked as Indonesia enforces new Internet regulation<a href="https://www.bleepingcomputer.com/news/security/steam-paypal-blocked-as-indonesia-enforces-new-internet-regulation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Indonesian Ministry of Communication and Information Technology, Kominfo, is now blocking access to internet service and content providers who had not registered on the country's new licensing platform by July 27th, 2022, as the country begins to restrict access to online content providers and services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations Warned of Critical Confluence Flaw as Exploitation Continues<a href="https://www.securityweek.com/organizations-warned-critical-confluence-flaw-exploitation-continues?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has instructed government organizations — and advised private sector companies — to address a recently disclosed Confluence vulnerability that has been exploited in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in Dahua IP Cameras allows full take over of the devices<a href="https://securityaffairs.co/wordpress/133877/security/dahua-severe-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability, tracked as CVE-2022-30563, impacting Dahua IP Camera can allow attackers to seize control of IP cameras.
+
+
+
+The CVE-2022-30563 vulnerability impacting Dahua IP Camera can allow attackers to seize control of IP cameras. The issue affects...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 01, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat ransomware claims attack on European gas pipeline<a href="https://www.bleepingcomputer.com/news/security/blackcat-ransomware-claims-attack-on-european-gas-pipeline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group known as ALPHV (aka BlackCat) has assumed over the weekend responsibility for the cyberattack that hit Creos Luxembourg last week, a natural gas pipeline and electricity network operator in the central European country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blockchain security firm warns of new MetaMask phishing campaign<a href="https://cointelegraph.com/news/blockchain-security-firm-warns-of-new-metamask-phishing-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per a post written by Halborn’s technical education specialist Luis Lubeck, the active phishing campaign used emails to target MetaMask users and trick them into giving out their passphrases.
+</details>
+<div style="text-align: right" markdown="1">
+Coin Telegraph
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Federal Communications Commission (FCC) warns of the rise of smishing attacks<a href="https://securityaffairs.co/wordpress/133865/cyber-crime/fcc-warns-smishing-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) warned Americans of the rising threat of smishing (robotexts) attacks.
+
+
+
+The Federal Communications Commission (FCC) issued an alert to warn Americans of the rising threat of smishing (robotexts) attacks aimed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Attacks Against Critical Infrastructure Quietly Increase<a href="https://www.govtech.com/blogs/lohrmann-on-cybersecurity/cyber-attacks-against-critical-infrastructure-quietly-increase?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Back in June of this year, Trend Micro research revealed that 89 percent of electricity, oil & gas, and manufacturing firms have experienced cyberattacks impacting production and energy supply over the past 12 months.
+</details>
+<div style="text-align: right" markdown="1">
+Government Technology
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Generation of the Raccoon Stealer Family Ditches Telegram Network for Command & Control<a href="https://www.zscaler.com/blogs/security-research/raccoon-stealer-v2-latest-generation-raccoon-family?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Raccoon is a malware family that has been sold as malware-as-a-service on underground forums since early 2019. In early July 2022, a new variant of this malware dubbed Raccoon Stealer v2 was released.
+</details>
+<div style="text-align: right" markdown="1">
+Zscaler
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+With cyber sovereignty at stake, it is high time India brings in uniform cybersecurity law<a href="https://www.firstpost.com/opinion/with-cyber-sovereignty-at-stake-it-is-high-time-india-brings-in-uniform-cybersecurity-law-10986921.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India’s digital transformation cannot be fashioned on the foundations of decades-old legal infrastructure like the Information Technology Act 2000 and the National Cyber Security Policy 2013, among others.
+</details>
+<div style="text-align: right" markdown="1">
+First Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Hacker Charged with Creating, Selling Spyware to Cyber Criminals<a href="https://thehackernews.com/2022/07/australian-hacker-charged-with-creating.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 24-year-old Australian national has been charged for his purported role in the creation and sale of spyware for use by domestic violence perpetrators and child sex offenders.  Jacob Wayne John Keen, who currently resides at Frankston, Melbourne, is said to have created the remote access trojan (RAT) when he was 15, while also administering the tool from 2013 until its shutdown in 2019  as part of a coordinated Europol-led exercise.  "The Frankston man engaged with a network of individuals and sold the spyware, named Imminent Monitor  (IM), to more than 14,500 individuals across 128 countries," the Australian Federal Police (AFP)  alleged  in a press release over the weekend.   The defendant has been slapped with six counts of committing a computer offense by developing and supplying the malware, in addition to profiting off its illegal sale.  Another woman, aged 42, who lives in the same home as the accused and is identified as his mother by  The Guardian , has also been c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gootkit Loader Resurfaces with Updated Tactic to Compromise Targeted Computers<a href="https://thehackernews.com/2022/07/gootkit-loader-resurfaces-with-updated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the Gootkit access-as-a-service ( AaaS ) malware have resurfaced with updated techniques to compromise unsuspecting victims.  "In the past, Gootkit used freeware installers to mask malicious files; now it uses legal documents to trick users into downloading these files," Trend Micro researchers Buddy Tancio and Jed Valderama  said  in a write-up last week.   The findings build on a previous report from eSentire, which  disclosed  in January of widespread attacks aimed at employees of accounting and law firms to deploy malware on infected systems.  Gootkit is part of the proliferating underground ecosystem of access brokers, who are known to provide other malicious actors a pathway into corporate networks for a price, paving the way for actual damaging attacks such as ransomware.   The loader utilizes malicious search engine results, a technique called  SEO poisoning , to lure unsuspecting users into visiting compromised websites hosting malware-laced ZIP pac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 31, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

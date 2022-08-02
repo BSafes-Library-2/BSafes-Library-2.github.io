@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat ransomware claims attack on European gas pipeline<a href="https://www.bleepingcomputer.com/news/security/blackcat-ransomware-claims-attack-on-european-gas-pipeline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group known as ALPHV (aka BlackCat) has assumed over the weekend responsibility for the cyberattack that hit Creos Luxembourg last week, a natural gas pipeline and electricity network operator in the central European country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

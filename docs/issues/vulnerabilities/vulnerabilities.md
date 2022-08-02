@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Actions workflow flaws provided write access to projects including Logstash<a href="https://portswigger.net/daily-swig/github-actions-workflow-flaws-provided-write-access-to-projects-including-logstash?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A research team from dating platform Tinder crafted an automation script that unearthed flaws that enabled the exfiltration of secrets that provide write access to various open source GitHub repositories, including Elastic’s Logstash.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CompleteFTP path traversal flaw allowed attackers to delete server files<a href="https://portswigger.net/daily-swig/completeftp-path-traversal-flaw-allowed-attackers-to-delete-server-files?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher with the handle rgod discovered a flaw in the HttpFile class that results from the lack of proper validation of a user-supplied path prior to using it in file operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations Warned of Critical Confluence Flaw as Exploitation Continues<a href="https://www.securityweek.com/organizations-warned-critical-confluence-flaw-exploitation-continues?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has instructed government organizations — and advised private sector companies — to address a recently disclosed Confluence vulnerability that has been exploited in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in Dahua IP Cameras allows full take over of the devices<a href="https://securityaffairs.co/wordpress/133877/security/dahua-severe-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability, tracked as CVE-2022-30563, impacting Dahua IP Camera can allow attackers to seize control of IP cameras.
+
+
+
+The CVE-2022-30563 vulnerability impacting Dahua IP Camera can allow attackers to seize control of IP cameras. The issue affects...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reading the “ENISA THREAT LANDSCAPE FOR RANSOMWARE ATTACKS” report<a href="https://securityaffairs.co/wordpress/133827/malware/enisa-threat-landscape-for-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I'm proud to announce the release of the "ENISA THREAT LANDSCAPE FOR RANSOMWARE ATTACKS" report, Enjoy it! 
+
+
+
+Ransomware has become one of the most dangerous threats for organizations worldwide. Cybercriminal organizations and ransomware gangs have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware abuses Windows Defender to load Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-abuses-windows-defender-to-load-cobalt-strike/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have observed an affiliate of the LockBit 3.0 ransomware operation abusing a Windows Defender command line tool to decrypt and load Cobalt Strike beacons on the target systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

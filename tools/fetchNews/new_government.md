@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+August 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Federal Communications Commission (FCC) warns of the rise of smishing attacks<a href="https://securityaffairs.co/wordpress/133865/cyber-crime/fcc-warns-smishing-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) warned Americans of the rising threat of smishing (robotexts) attacks.
+
+
+
+The Federal Communications Commission (FCC) issued an alert to warn Americans of the rising threat of smishing (robotexts) attacks aimed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

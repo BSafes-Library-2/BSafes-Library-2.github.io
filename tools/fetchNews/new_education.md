@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Key Ways Development Teams Can Increase Their Security Maturity<a href="https://thehackernews.com/2022/08/two-key-ways-development-teams-can.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Now more than ever, organizations need to enable their development teams to build and grow their security skills. Today organizations face a threat landscape where individuals, well-financed syndicates, and state actors are actively trying to exploit errors in software. Yet, according to recent global research, 67% of developers that were interviewed said they were still shipping code they knew contained vulnerabilities.&nbsp;  Helping your development teams progress to achieve security maturity is possible, and ultimately beneficial. It will help ensure secure software development at every stage of the software development lifecycle.  But how can you help your development teams reach security maturity?  We dug deep and leveraged insights from over 400 of our customers to identify traits and behaviors that occur when a development team increases its security maturity. Here we share two of them:  #1: A deep understanding of your gaps  Before creating any maturity program, we first need to u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

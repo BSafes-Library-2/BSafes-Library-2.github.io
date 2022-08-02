@@ -8,6 +8,56 @@ nav_order: 900072
 
 ## General
 ---
+July 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 376 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/133850/breaking-news/security-affairs-newsletter-round-376-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs for free in your email box.
+
+
+
+If you want to also receive for free the newsletter with the&nbsp;international press subscribe&nbsp;here.
+
+
+
+Reading...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stop Putting Your Accounts At Risk, and Start Using a Password Manager<a href="https://thehackernews.com/2022/07/stop-putting-your-accounts-at-risk-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Image via Keeper  Right Now, Get 50% Off Keeper, the Most Trusted Name in Password Management.  In one way or another, almost every aspect of our lives is online, so it's no surprise that hackers target everything from email accounts to banks to smart home devices, looking for vulnerabilities to exploit. One of the easiest exploits is cracking a weak password. That's why using a strong, unique password for each individual account is so important. But creating and remembering strong, unique passwords for dozens of accounts is nearly impossible – unless you're using&nbsp; a top-rated password manager like Keeper .  The Problem With Weak Passwords  Image via Keeper  A strong password&nbsp; should &nbsp;be a minimum of 12 characters long, with uppercase and lowercase letters, numbers, and one or more special characters. More importantly, it shouldn't contain dictionary words or personal information like birthdays or names. But the average American has&nbsp; 100 passwords . Maybe that's why&nbsp; 66% &nbsp;of people in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook ads push Android adware with 7 million installs on Google Play<a href="https://www.bleepingcomputer.com/news/security/facebook-ads-push-android-adware-with-7-million-installs-on-google-play/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several adware apps promoted aggressively on Facebook as system cleaners and optimizers for Android&nbsp;devices are counting millions of installations on Google Play store.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

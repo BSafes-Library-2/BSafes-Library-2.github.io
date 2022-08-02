@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 01, 2022
+August 01, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 3,200 apps leak Twitter API keys, some allowing account hijacks<a href="https://www.bleepingcomputer.com/news/security/over-3-200-apps-leak-twitter-api-keys-some-allowing-account-hijacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Actions workflow flaws provided write access to projects including Logstash<a href="https://portswigger.net/daily-swig/github-actions-workflow-flaws-provided-write-access-to-projects-including-logstash?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 01, 2022
+August 01, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover Nearly 3,200 Mobile Apps Leaking Twitter API Keys<a href="https://thehackernews.com/2022/08/researchers-discover-nearly-3200-mobile.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Frontier Without Direction? The U.K.’s Latest Position on Responsible Cyber Power<a href="https://www.lawfareblog.com/frontier-without-direction-uks-latest-position-responsible-cyber-power"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ALPHV/BlackCat ransomware gang claims to have stolen data from Creos Luxembourg S.A.<a href="https://securityaffairs.co/wordpress/133899/cyber-crime/alphv-blackcat-ransomware-creos-luxembourg.html"> Full Text</a>
@@ -122,7 +122,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 01, 2022
+August 01, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender Experts for Hunting now generally available<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-experts-for-hunting-now-generally-available/"> Full Text</a>
@@ -138,7 +138,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CompleteFTP path traversal flaw allowed attackers to delete server files<a href="https://portswigger.net/daily-swig/completeftp-path-traversal-flaw-allowed-attackers-to-delete-server-files?&web_view=true"> Full Text</a>
@@ -154,7 +154,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 01, 2022
+August 01, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Key Ways Development Teams Can Increase Their Security Maturity<a href="https://thehackernews.com/2022/08/two-key-ways-development-teams-can.html"> Full Text</a>
@@ -170,7 +170,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian man charged with creating and selling the Imminent Monitor spyware<a href="https://securityaffairs.co/wordpress/133893/cyber-crime/imminent-monitor-spyware-author-arrested.html"> Full Text</a>
@@ -190,7 +190,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 01, 2022
+August 01, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Steam, PayPal blocked as Indonesia enforces new Internet regulation<a href="https://www.bleepingcomputer.com/news/security/steam-paypal-blocked-as-indonesia-enforces-new-internet-regulation/"> Full Text</a>
@@ -206,7 +206,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Organizations Warned of Critical Confluence Flaw as Exploitation Continues<a href="https://www.securityweek.com/organizations-warned-critical-confluence-flaw-exploitation-continues?&web_view=true"> Full Text</a>
@@ -222,7 +222,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in Dahua IP Cameras allows full take over of the devices<a href="https://securityaffairs.co/wordpress/133877/security/dahua-severe-flaw.html"> Full Text</a>
@@ -242,7 +242,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 01, 2022
+August 01, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat ransomware claims attack on European gas pipeline<a href="https://www.bleepingcomputer.com/news/security/blackcat-ransomware-claims-attack-on-european-gas-pipeline/"> Full Text</a>
@@ -258,7 +258,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blockchain security firm warns of new MetaMask phishing campaign<a href="https://cointelegraph.com/news/blockchain-security-firm-warns-of-new-metamask-phishing-campaign?&web_view=true"> Full Text</a>
@@ -274,7 +274,7 @@ Coin Telegraph
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Federal Communications Commission (FCC) warns of the rise of smishing attacks<a href="https://securityaffairs.co/wordpress/133865/cyber-crime/fcc-warns-smishing-attacks.html"> Full Text</a>
@@ -294,7 +294,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Attacks Against Critical Infrastructure Quietly Increase<a href="https://www.govtech.com/blogs/lohrmann-on-cybersecurity/cyber-attacks-against-critical-infrastructure-quietly-increase?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Government Technology
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest Generation of the Raccoon Stealer Family Ditches Telegram Network for Command & Control<a href="https://www.zscaler.com/blogs/security-research/raccoon-stealer-v2-latest-generation-raccoon-family?&web_view=true"> Full Text</a>
@@ -326,7 +326,7 @@ Zscaler
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 With cyber sovereignty at stake, it is high time India brings in uniform cybersecurity law<a href="https://www.firstpost.com/opinion/with-cyber-sovereignty-at-stake-it-is-high-time-india-brings-in-uniform-cybersecurity-law-10986921.html?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ First Post
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2022
+July 31, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian Hacker Charged with Creating, Selling Spyware to Cyber Criminals<a href="https://thehackernews.com/2022/07/australian-hacker-charged-with-creating.html"> Full Text</a>
@@ -358,7 +358,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2022
+July 31, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gootkit Loader Resurfaces with Updated Tactic to Compromise Targeted Computers<a href="https://thehackernews.com/2022/07/gootkit-loader-resurfaces-with-updated.html"> Full Text</a>
