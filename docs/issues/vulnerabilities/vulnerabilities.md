@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed critical authentication bypass vulnerability<a href="https://securityaffairs.co/wordpress/133938/security/vmware-critical-flaws-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware patched a critical authentication bypass security flaw, tracked as CVE-2022-31656, impacting local domain users in multiple products.
+
+
+
+VMware has addressed a critical authentication bypass security flaw, tracked as CVE-2022-31656, impacting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'ParseThru' Parameter Smuggling Vulnerability Affects Golang-based Applications<a href="https://thehackernews.com/2022/08/new-parsethru-parameter-smuggling.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered a new vulnerability called&nbsp; ParseThru &nbsp;affecting Golang-based applications that could be abused to gain unauthorized access to cloud-based applications.  "The newly discovered vulnerability allows a threat actor to bypass validations under certain conditions, as a result of the use of unsafe URL parsing methods built in the language," Israeli cybersecurity firm Oxeye said in a report  shared with The Hacker News.  The issue, at its core, has to do with inconsistencies stemming from changes introduced to Golang's URL parsing logic that's implemented in the "net/url" library.   While versions of the programming language prior to 1.17 treated semicolons as a valid query delimiter (e.g., example.com?a=1;b=2&amp;c=3), this behavior has since been modified to throw an error upon finding a query string containing a semicolon.   "The net/url and net/http packages used to accept ";" (semicolon) as a setting separat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware urges admins to patch critical auth bypass bug immediately<a href="https://www.bleepingcomputer.com/news/security/vmware-urges-admins-to-patch-critical-auth-bypass-bug-immediately/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has warned admins today to patch a critical authentication bypass security flaw affecting local domain users in multiple products and enabling unauthenticated attackers to gain admin privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Stole Passwords for Accessing 140,000 Payment Terminals<a href="https://techcrunch.com/2022/08/01/wiseasy-android-payment-passwords/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers had access to dashboards used to remotely manage and control thousands of credit card payment terminals manufactured by digital payments giant Wiseasy, a cybersecurity startup told TechCrunch.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 3.0 affiliate sideloads Cobalt Strike through Windows Defender￼<a href="https://securityaffairs.co/wordpress/133925/cyber-crime/lockbit-3-0-abuse-windows-defender.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An affiliate of the&nbsp;LockBit 3.0&nbsp;RaaS operation has been abusing the Windows Defender command-line tool to deploy Cobalt Strike payloads.
+
+
+
+During a recent investigation, SentinelOne researchers observed threat actors associated with the&nbsp;LockBit 3.0&nbsp;ransomware-as-a-service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

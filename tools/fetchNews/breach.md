@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 3,200 apps leak Twitter API keys, some allowing account hijacks<a href="https://www.bleepingcomputer.com/news/security/over-3-200-apps-leak-twitter-api-keys-some-allowing-account-hijacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered a set of 3,207 mobile apps that are exposing Twitter API keys to the public, potentially enabling a threat actor to take over users' Twitter accounts that are associated with the app.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Nearly 3,200 Mobile Apps Leaking Twitter API Keys<a href="https://thehackernews.com/2022/08/researchers-discover-nearly-3200-mobile.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered a list of 3,207 apps, some of which can be utilized to gain unauthorized access to Twitter accounts.  The takeover is made possible, thanks to a leak of legitimate Consumer Key and Consumer Secret information, respectively, Singapore-based cybersecurity firm CloudSEK said in a report  exclusively shared with The Hacker News.  "Out of 3,207, 230 apps are leaking all four authentication credentials and can be used to fully take over their Twitter Accounts and can perform any critical/sensitive actions," the researchers said.&nbsp;   This can range from reading direct messages to carrying out arbitrary actions such as retweeting, liking and deleting tweets, following any account, removing followers, accessing account settings, and even changing the account profile picture.  Access to the Twitter API&nbsp; requires &nbsp;generating the Keys and Access Tokens, which act as the usernames and passwords for the apps as well as the users on whose behalf the API requests w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

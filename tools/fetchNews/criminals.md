@@ -8,6 +8,42 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV/BlackCat ransomware gang claims to have stolen data from Creos Luxembourg S.A.<a href="https://securityaffairs.co/wordpress/133899/cyber-crime/alphv-blackcat-ransomware-creos-luxembourg.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ALPHV/BlackCat ransomware gang claims to have breached the European gas pipeline Creos Luxembourg S.A.
+
+
+
+The ALPHV/BlackCat ransomware gang claims to have hacked the European gas pipeline Creos Luxembourg S.A.
+
+
+
+Creos Luxembourg S.A. owns and manages...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Hacker Charged with Creating, Selling Spyware to Cyber Criminals<a href="https://thehackernews.com/2022/07/australian-hacker-charged-with-creating.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 24-year-old Australian national has been charged for his purported role in the creation and sale of spyware for use by domestic violence perpetrators and child sex offenders.  Jacob Wayne John Keen, who currently resides at Frankston, Melbourne, is said to have created the remote access trojan (RAT) when he was 15, while also administering the tool from 2013 until its shutdown in 2019  as part of a coordinated Europol-led exercise.  "The Frankston man engaged with a network of individuals and sold the spyware, named Imminent Monitor  (IM), to more than 14,500 individuals across 128 countries," the Australian Federal Police (AFP)&nbsp; alleged &nbsp;in a press release over the weekend.   The defendant has been slapped with six counts of committing a computer offense by developing and supplying the malware, in addition to profiting off its illegal sale.  Another woman, aged 42, who lives in the same home as the accused and is identified as his mother by&nbsp; The Guardian , has also been c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

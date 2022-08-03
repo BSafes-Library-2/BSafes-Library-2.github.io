@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers use new Cobalt Strike-like attack framework<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-cobalt-strike-like-attack-framework/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have observed a new post-exploitation attack framework used in the wild, named Manjusaka, which can be deployed as an alternative to the widely abused Cobalt Strike toolset or parallel to it for redundancy.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Using New Manjusaka Hacking Framework Similar to Cobalt Strike<a href="https://thehackernews.com/2022/08/chinese-hackers-using-new-manjusaka.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed a new offensive framework called Manjusaka that they call a "Chinese sibling of Sliver and Cobalt Strike."  "A fully functional version of the command-and-control (C2), written in GoLang with a User Interface in Simplified Chinese, is freely available and can generate new implants with custom configurations with ease, increasing the likelihood of wider adoption of this framework by malicious actors," Cisco Talos&nbsp; said &nbsp;in a new report.  Sliver &nbsp;and&nbsp; Cobalt Strike &nbsp;are legitimate adversary emulation frameworks that have been used by threat actors to carry out post-exploitation activities such as network reconnaissance, lateral movement, and facilitating the deployment of follow-on payloads.  Written in Rust, Manjusaka -- meaning "cow flower" -- is advertised as an equivalent to the Cobalt Strike framework with capabilities to target both Windows and Linux operating systems. Its developer is believed to be located in the GuangDong
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

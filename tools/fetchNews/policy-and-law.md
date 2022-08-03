@@ -8,6 +8,38 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian man charged with creating and selling the Imminent Monitor&nbsp;spyware<a href="https://securityaffairs.co/wordpress/133893/cyber-crime/imminent-monitor-spyware-author-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Australian national has been charged for the creation and sale of the Imminent Monitor&nbsp;(IM) spyware, which was also used for criminal purposes.
+
+
+
+The 24-year-old Australian national Jacob Wayne John Keen has been charged for his alleged role in the development...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+With cyber sovereignty at stake, it is high time India brings in uniform cybersecurity law<a href="https://www.firstpost.com/opinion/with-cyber-sovereignty-at-stake-it-is-high-time-india-brings-in-uniform-cybersecurity-law-10986921.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India’s digital transformation cannot be fashioned on the foundations of decades-old legal infrastructure like the Information Technology Act 2000 and the National Cyber Security Policy 2013, among others.
+</details>
+<div style="text-align: right" markdown="1">
+First Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

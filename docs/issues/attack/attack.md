@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+August 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Semiconductor manufacturer Semikron hit by LV ransomware attack<a href="https://www.bleepingcomputer.com/news/security/semiconductor-manufacturer-semikron-hit-by-lv-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German power electronics manufacturer Semikron&nbsp;has disclosed that it was hit by a ransomware attack that partially encrypted the company's network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoLang-based 'Manjusaka' Attack Framework Imitates Sliver and Cobalt Strike<a href="https://blog.talosintelligence.com/2022/08/manjusaka-offensive-framework.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered a new attack framework called "Manjusaka" being used in the wild that has the potential to become prevalent across the threat landscape. This framework is advertised as an imitation of Cobalt Strike.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU missile maker MBDA confirms data theft extortion, denies breach<a href="https://www.bleepingcomputer.com/news/security/eu-missile-maker-mbda-confirms-data-theft-extortion-denies-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MBDA, one of the largest missile developers and manufacturers in Europe, has responded to rumors about a cyberattack on its infrastructure saying that claims of a breach of its systems are false.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
