@@ -34,7 +34,375 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 01, 2022
+August 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers use new Cobalt Strike-like attack framework<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-cobalt-strike-like-attack-framework/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have observed a new post-exploitation attack framework used in the wild, named Manjusaka, which can be deployed as an alternative to the widely abused Cobalt Strike toolset or parallel to it for redundancy.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taiwanese Websites Hit with DDoS Attacks Just Prior to Nancy Pelosi Visit<a href="https://www.nbcnews.com/tech/security/taiwanese-websites-hit-ddos-attacks-pelosi-begins-visit-rcna41144?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks hit at least four websites — those of President Tsai Ing-wen, the National Defense Ministry, the Foreign Affairs Ministry and the country’s largest airport, Taiwan Taoyuan International.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Using New Manjusaka Hacking Framework Similar to Cobalt Strike<a href="https://thehackernews.com/2022/08/chinese-hackers-using-new-manjusaka.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed a new offensive framework called Manjusaka that they call a "Chinese sibling of Sliver and Cobalt Strike."  "A fully functional version of the command-and-control (C2), written in GoLang with a User Interface in Simplified Chinese, is freely available and can generate new implants with custom configurations with ease, increasing the likelihood of wider adoption of this framework by malicious actors," Cisco Talos  said  in a new report.  Sliver  and  Cobalt Strike  are legitimate adversary emulation frameworks that have been used by threat actors to carry out post-exploitation activities such as network reconnaissance, lateral movement, and facilitating the deployment of follow-on payloads.  Written in Rust, Manjusaka -- meaning "cow flower" -- is advertised as an equivalent to the Cobalt Strike framework with capabilities to target both Windows and Linux operating systems. Its developer is believed to be located in the GuangDong
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Didi Fined $1.2 Billion for Violating Data Security Laws<a href="https://www.lawfareblog.com/didi-fined-12-billion-violating-data-security-laws"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawfare’s biweekly roundup of U.S.-China technology policy news.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed critical authentication bypass vulnerability<a href="https://securityaffairs.co/wordpress/133938/security/vmware-critical-flaws-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware patched a critical authentication bypass security flaw, tracked as CVE-2022-31656, impacting local domain users in multiple products.
+
+
+
+VMware has addressed a critical authentication bypass security flaw, tracked as CVE-2022-31656, impacting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Semiconductor manufacturer Semikron hit by LV ransomware attack<a href="https://www.bleepingcomputer.com/news/security/semiconductor-manufacturer-semikron-hit-by-lv-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German power electronics manufacturer Semikron has disclosed that it was hit by a ransomware attack that partially encrypted the company's network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Stole Passwords for Accessing 140,000 Payment Terminals<a href="https://techcrunch.com/2022/08/01/wiseasy-android-payment-passwords/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers had access to dashboards used to remotely manage and control thousands of credit card payment terminals manufactured by digital payments giant Wiseasy, a cybersecurity startup told TechCrunch.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'ParseThru' Parameter Smuggling Vulnerability Affects Golang-based Applications<a href="https://thehackernews.com/2022/08/new-parsethru-parameter-smuggling.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered a new vulnerability called  ParseThru  affecting Golang-based applications that could be abused to gain unauthorized access to cloud-based applications.  "The newly discovered vulnerability allows a threat actor to bypass validations under certain conditions, as a result of the use of unsafe URL parsing methods built in the language," Israeli cybersecurity firm Oxeye said in a report  shared with The Hacker News.  The issue, at its core, has to do with inconsistencies stemming from changes introduced to Golang's URL parsing logic that's implemented in the "net/url" library.   While versions of the programming language prior to 1.17 treated semicolons as a valid query delimiter (e.g., example.com?a=1;b=2&c=3), this behavior has since been modified to throw an error upon finding a query string containing a semicolon.   "The net/url and net/http packages used to accept ";" (semicolon) as a setting separat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 3.0 affiliate sideloads Cobalt Strike through Windows Defender￼<a href="https://securityaffairs.co/wordpress/133925/cyber-crime/lockbit-3-0-abuse-windows-defender.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An affiliate of the LockBit 3.0 RaaS operation has been abusing the Windows Defender command-line tool to deploy Cobalt Strike payloads.
+
+
+
+During a recent investigation, SentinelOne researchers observed threat actors associated with the LockBit 3.0 ransomware-as-a-service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wolf in sheep’s clothing: how malware tricks users and antivirus<a href="https://www.bleepingcomputer.com/news/security/wolf-in-sheep-s-clothing-how-malware-tricks-users-and-antivirus/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the primary methods used by malware distributors to infect devices is by deceiving people into downloading and running malicious files, and to achieve this deception, malware authors are using a variety of tricks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Banking Groups Urge Senators to Reject NDAA Provision as Harmful to Cybersecurity<a href="https://www.nextgov.com/cybersecurity/2022/08/banking-groups-urge-senators-reject-ndaa-provision-harmful-cybersecurity/375222/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A provision in annual legislation to authorize spending by the Defense Department could endanger the cybersecurity of critical infrastructure, trade associations for the financial sector argued in a letter to key senators.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is ransomware and how can you defend your business from it?<a href="https://thehackernews.com/2022/08/what-is-ransomware-how-to-defend-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware is a kind of malware used by cybercriminals to stop users from accessing their systems or files; the cybercriminals then threaten to leak, destroy or withhold sensitive information unless a ransom is paid.  Ransomware attacks can target either the data held on computer systems (known as locker ransomware) or devices (crypto-ransomware). In both instances, once a ransom is paid, threat actors typically provide victims with a decryption key or tool to unlock their data or device, though this is not guaranteed.  Oliver Pinson-Roxburgh, CEO of  Defense.com , the all-in-one cybersecurity platform, shares knowledge and advice in this article on how ransomware works, how damaging it can be, and how your business can mitigate ransomware attacks from occurring.  What does a ransomware attack comprise?  There are three key elements to a ransomware attack:  Access  In order to deploy malware to encrypt files and gain control, cybercriminals need to initially gain access to an organiza
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gootkit AaaS malware is still active and uses updated tactics<a href="https://securityaffairs.co/wordpress/133918/malware/gootkit-is-still-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gootkit access-as-a-service (AaaS) malware is back with tactics and fileless delivery of Cobalt Strike beacons.
+
+
+
+Gootkit runs on an access-a-as-a-service model, it is used by different groups to drop additional malicious payloads on the compromised...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile store owner hacked T-Mobile employees to unlock phones<a href="https://www.bleepingcomputer.com/news/security/mobile-store-owner-hacked-t-mobile-employees-to-unlock-phones/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former owner of a T-Mobile retail store in California has been found guilty of a $25 million scheme where he illegally accessed T-Mobile's internal systems to unlock and unblock cell phones.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Not All Vulnerabilities Are Created Equal<a href="https://www.nextgov.com/cybersecurity/2022/08/security-alerts-not-all-vulnerabilities-are-created-equal/375177/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For industries without heavy IT expertise, responding to the myriad vulnerability advisories released by the Cybersecurity and Infrastructure Security Agency is a daunting task.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Abuses Windows Defender to Deploy Cobalt Strike Payload<a href="https://thehackernews.com/2022/08/lockbit-ransomware-abuses-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor associated with the LockBit 3.0  ransomware-as-a-service (RaaS) operation has been observed abusing the Windows Defender command-line tool to decrypt and load Cobalt Strike payloads.   According to a report published by SentinelOne last week, the incident occurred after obtaining initial access via the  Log4Shell vulnerability  against an unpatched VMware Horizon Server.  "Once initial access had been achieved, the threat actors performed a series of enumeration commands and attempted to run multiple post-exploitation tools, including Meterpreter, PowerShell Empire, and a new way to side-load Cobalt Strike," researchers Julio Dantas, James Haughom, and Julien Reisdorffer  said .   LockBit 3.0 (aka LockBit Black), which comes with the tagline "Make Ransomware Great Again!," is the  next iteration  of the prolific  LockBit RaaS family  that emerged in June 2022 to iron out  critical weaknesses  discovered in its predecessor.  It's notable for insti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Austria investigates DSIRF firm for allegedly developing Subzero spyware<a href="https://securityaffairs.co/wordpress/133911/malware/austria-investigates-dsirf-firm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Austria is investigating a report that an Austrian firm DSIRF developed spyware targeting law firms, banks and consultancies.
+
+
+
+At the end of July, Microsoft Threat Intelligence Center (MSTIC) and the Microsoft Security Response Center (MSRC) researchers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware urges admins to patch critical auth bypass bug immediately<a href="https://www.bleepingcomputer.com/news/security/vmware-urges-admins-to-patch-critical-auth-bypass-bug-immediately/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has warned admins today to patch a critical authentication bypass security flaw affecting local domain users in multiple products and enabling unauthenticated attackers to gain admin privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoLang-based 'Manjusaka' Attack Framework Imitates Sliver and Cobalt Strike<a href="https://blog.talosintelligence.com/2022/08/manjusaka-offensive-framework.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered a new attack framework called "Manjusaka" being used in the wild that has the potential to become prevalent across the threat landscape. This framework is advertised as an imitation of Cobalt Strike.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft announces new external attack surface audit tool<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-external-attack-surface-audit-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced a new security product allowing security teams to spot Internet-exposed resources in their organization's environment that attackers could use to breach their networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Austria Probes Claim Spyware Targeted Law Firms, Banks<a href="https://www.securityweek.com/austria-probes-claim-spyware-targeted-law-firms-banks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Austria's interior ministry said it had not received reports of any incidents. "Of course, (intelligence agency) DSN checks the allegations. So far, there is no proof of the use of spy software from the company mentioned," it said in a statement.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU missile maker MBDA confirms data theft extortion, denies breach<a href="https://www.bleepingcomputer.com/news/security/eu-missile-maker-mbda-confirms-data-theft-extortion-denies-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MBDA, one of the largest missile developers and manufacturers in Europe, has responded to rumors about a cyberattack on its infrastructure saying that claims of a breach of its systems are false.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 01, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 3,200 apps leak Twitter API keys, some allowing account hijacks<a href="https://www.bleepingcomputer.com/news/security/over-3-200-apps-leak-twitter-api-keys-some-allowing-account-hijacks/"> Full Text</a>
@@ -50,7 +418,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Actions workflow flaws provided write access to projects including Logstash<a href="https://portswigger.net/daily-swig/github-actions-workflow-flaws-provided-write-access-to-projects-including-logstash?&web_view=true"> Full Text</a>
@@ -66,7 +434,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 01, 2022
+August 01, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover Nearly 3,200 Mobile Apps Leaking Twitter API Keys<a href="https://thehackernews.com/2022/08/researchers-discover-nearly-3200-mobile.html"> Full Text</a>
@@ -82,7 +450,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Frontier Without Direction? The U.K.’s Latest Position on Responsible Cyber Power<a href="https://www.lawfareblog.com/frontier-without-direction-uks-latest-position-responsible-cyber-power"> Full Text</a>
@@ -98,7 +466,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ALPHV/BlackCat ransomware gang claims to have stolen data from Creos Luxembourg S.A.<a href="https://securityaffairs.co/wordpress/133899/cyber-crime/alphv-blackcat-ransomware-creos-luxembourg.html"> Full Text</a>
@@ -122,7 +490,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 01, 2022
+August 01, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender Experts for Hunting now generally available<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-experts-for-hunting-now-generally-available/"> Full Text</a>
@@ -138,7 +506,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CompleteFTP path traversal flaw allowed attackers to delete server files<a href="https://portswigger.net/daily-swig/completeftp-path-traversal-flaw-allowed-attackers-to-delete-server-files?&web_view=true"> Full Text</a>
@@ -154,7 +522,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 01, 2022
+August 01, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Key Ways Development Teams Can Increase Their Security Maturity<a href="https://thehackernews.com/2022/08/two-key-ways-development-teams-can.html"> Full Text</a>
@@ -170,7 +538,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian man charged with creating and selling the Imminent Monitor spyware<a href="https://securityaffairs.co/wordpress/133893/cyber-crime/imminent-monitor-spyware-author-arrested.html"> Full Text</a>
@@ -190,7 +558,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 01, 2022
+August 01, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Steam, PayPal blocked as Indonesia enforces new Internet regulation<a href="https://www.bleepingcomputer.com/news/security/steam-paypal-blocked-as-indonesia-enforces-new-internet-regulation/"> Full Text</a>
@@ -206,7 +574,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Organizations Warned of Critical Confluence Flaw as Exploitation Continues<a href="https://www.securityweek.com/organizations-warned-critical-confluence-flaw-exploitation-continues?&web_view=true"> Full Text</a>
@@ -222,7 +590,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in Dahua IP Cameras allows full take over of the devices<a href="https://securityaffairs.co/wordpress/133877/security/dahua-severe-flaw.html"> Full Text</a>
@@ -242,7 +610,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 01, 2022
+August 01, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat ransomware claims attack on European gas pipeline<a href="https://www.bleepingcomputer.com/news/security/blackcat-ransomware-claims-attack-on-european-gas-pipeline/"> Full Text</a>
@@ -258,7 +626,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blockchain security firm warns of new MetaMask phishing campaign<a href="https://cointelegraph.com/news/blockchain-security-firm-warns-of-new-metamask-phishing-campaign?&web_view=true"> Full Text</a>
@@ -274,7 +642,7 @@ Coin Telegraph
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Federal Communications Commission (FCC) warns of the rise of smishing attacks<a href="https://securityaffairs.co/wordpress/133865/cyber-crime/fcc-warns-smishing-attacks.html"> Full Text</a>
@@ -294,7 +662,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Attacks Against Critical Infrastructure Quietly Increase<a href="https://www.govtech.com/blogs/lohrmann-on-cybersecurity/cyber-attacks-against-critical-infrastructure-quietly-increase?&web_view=true"> Full Text</a>
@@ -310,7 +678,7 @@ Government Technology
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest Generation of the Raccoon Stealer Family Ditches Telegram Network for Command & Control<a href="https://www.zscaler.com/blogs/security-research/raccoon-stealer-v2-latest-generation-raccoon-family?&web_view=true"> Full Text</a>
@@ -326,7 +694,7 @@ Zscaler
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2022
+August 1, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 With cyber sovereignty at stake, it is high time India brings in uniform cybersecurity law<a href="https://www.firstpost.com/opinion/with-cyber-sovereignty-at-stake-it-is-high-time-india-brings-in-uniform-cybersecurity-law-10986921.html?&web_view=true"> Full Text</a>
@@ -342,7 +710,7 @@ First Post
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2022
+July 31, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian Hacker Charged with Creating, Selling Spyware to Cyber Criminals<a href="https://thehackernews.com/2022/07/australian-hacker-charged-with-creating.html"> Full Text</a>
@@ -358,7 +726,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2022
+July 31, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gootkit Loader Resurfaces with Updated Tactic to Compromise Targeted Computers<a href="https://thehackernews.com/2022/07/gootkit-loader-resurfaces-with-updated.html"> Full Text</a>
