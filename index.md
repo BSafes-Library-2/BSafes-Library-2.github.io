@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2022
+August 03, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian organizations attacked with new Woody RAT malware<a href="https://www.bleepingcomputer.com/news/security/russian-organizations-attacked-with-new-woody-rat-malware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2022
+August 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Paid Out $90,000 for Vulnerabilities Patched by Chrome 104<a href="https://www.securityweek.com/google-paid-out-90000-vulnerabilities-patched-chrome-104?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2022
+August 03, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Single-Core CPU Cracked Post-Quantum Encryption Candidate Algorithm in Just an Hour<a href="https://thehackernews.com/2022/08/single-core-cpu-cracked-post-quantum.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2022
+August 3, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Power semiconductor component manufacturer Semikron suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/133975/cyber-crime/semikron-cyber-attack.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2022
+August 03, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloned Atomic Wallet website is pushing Mars Stealer malware<a href="https://www.bleepingcomputer.com/news/security/cloned-atomic-wallet-website-is-pushing-mars-stealer-malware/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2022
+August 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched XSS, CSRF bugs included in latest Jenkins plugin advisory<a href="https://portswigger.net/daily-swig/jenkins-security-unpatched-xss-csrf-bugs-included-in-latest-plugin-advisory?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2022
+August 03, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VirusTotal Reveals Most Impersonated Software in Malware Attacks<a href="https://thehackernews.com/2022/08/virustotal-reveals-most-impersonated.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2022
+August 3, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Manjusaka, a new attack tool similar to Sliver and Cobalt Strike<a href="https://securityaffairs.co/wordpress/133953/hacking/manjusaka-attack-tool.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2022
+August 03, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spanish research agency still recovering after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/spanish-research-agency-still-recovering-after-ransomware-attack/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2022
+August 3, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators introduce bill to ensure resiliency of federal data centers<a href="https://fcw.com/security/2022/08/senators-introduce-bill-ensure-resiliency-federal-data-centers/375219/?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ FCW
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2022
+August 03, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 On-Demand Webinar: New CISO Survey Reveals Top Challenges for Small Cyber Security Teams<a href="https://thehackernews.com/2022/08/on-demand-webinar-new-ciso-survey.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2022
+August 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixed Critical Remote Code Execution flaw in Android<a href="https://securityaffairs.co/wordpress/133956/security/android-critical-flaw-cve-2022-20345.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2022
+August 03, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 11 Smart App Control blocks files used to push malware<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-smart-app-control-blocks-files-used-to-push-malware/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2022
+August 3, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NortonLifeLock, Avast deal gets provisional approval of CMA<a href="https://www.theregister.com/2022/08/03/norton_cma/?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2022
+August 03, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warns of Large-Scale AiTM Attacks Targeting Enterprise Users<a href="https://thehackernews.com/2022/08/researchers-warns-of-large-scale-aitm.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2022
+August 3, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Busting the Myths of Hardware Based Security<a href="https://securityaffairs.co/wordpress/133948/security/busting-the-myths-of-hardware-based-security.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2022
+August 03, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft accounts targeted with new MFA-bypassing phishing kit<a href="https://www.bleepingcomputer.com/news/security/microsoft-accounts-targeted-with-new-mfa-bypassing-phishing-kit/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2022
+August 3, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishers Exploit Unprotected Snapchat, American Express Sites for Malicious Redirects<a href="https://www.inky.com/en/blog/phishers-bounce-lures-off-unprotected-snapchat-amex-sites?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ INKY
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2022
+August 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes critical remote code execution bug in VPN routers<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-critical-remote-code-execution-bug-in-vpn-routers/"> Full Text</a>
@@ -354,7 +354,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2022
+August 3, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German prosecutors issue warrant for Russian government hacker over energy sector attacks<a href="https://therecord.media/german-prosecutors-issue-warrant-for-russian-hacker-over-energy-sector-attacks/?&web_view=true"> Full Text</a>
@@ -370,7 +370,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2022
+August 03, 2022 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine takes down 1,000,000 bots used for disinformation<a href="https://www.bleepingcomputer.com/news/security/ukraine-takes-down-1-000-000-bots-used-for-disinformation/"> Full Text</a>
@@ -386,7 +386,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2022
+August 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nvidia releases security update for unsupported Windows 7 and 8.1 systems<a href="https://www.ghacks.net/2022/08/03/nvidia-releases-security-update-for-unsupported-windows-7-and-8-1-systems/?&web_view=true"> Full Text</a>
@@ -402,7 +402,7 @@ Ghacks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2022
+August 03, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Minimizing the security risks of Single Sign On implementations<a href="https://www.bleepingcomputer.com/news/security/minimizing-the-security-risks-of-single-sign-on-implementations/"> Full Text</a>
@@ -418,7 +418,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2022
+August 3, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolidBit Ransomware Enters the RaaS Scene and Takes Aim at Gamers and Social Media Users<a href="https://www.trendmicro.com/en_us/research/22/h/solidbit-ransomware-enters-the-raas-scene-and-takes-aim-at-gamer.html?&web_view=true"> Full Text</a>
@@ -434,7 +434,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2022
+August 03, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of Solana wallets drained in attack using unknown exploit<a href="https://www.bleepingcomputer.com/news/security/thousands-of-solana-wallets-drained-in-attack-using-unknown-exploit/"> Full Text</a>
@@ -450,7 +450,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2022
+August 3, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Singapore takes formal step towards setting up cyber defence unit<a href="https://www.zdnet.com/article/singapore-takes-formal-step-towards-setting-up-cyber-defence-unit/?&web_view=true"> Full Text</a>
@@ -466,7 +466,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2022
+August 03, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 35,000 code repos not hacked—but clones flood GitHub to serve malware<a href="https://www.bleepingcomputer.com/news/security/35-000-code-repos-not-hacked-but-clones-flood-github-to-serve-malware/"> Full Text</a>
@@ -482,7 +482,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 02, 2022
+August 02, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Releases Patches for Several New Flaws Affecting Multiple Products<a href="https://thehackernews.com/2022/08/vmware-releases-patches-for-several-new.html"> Full Text</a>

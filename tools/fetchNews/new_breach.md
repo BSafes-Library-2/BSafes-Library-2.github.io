@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+August 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Solana wallets drained in attack using unknown exploit<a href="https://www.bleepingcomputer.com/news/security/thousands-of-solana-wallets-drained-in-attack-using-unknown-exploit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An overnight attack on the Solana blockchain platform drained thousands of software wallets of cryptocurrency worth millions of U.S. dollars.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

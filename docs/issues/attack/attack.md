@@ -8,6 +8,66 @@ nav_order: 900015
 
 ## Attack
 ---
+August 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian organizations attacked with new Woody RAT malware<a href="https://www.bleepingcomputer.com/news/security/russian-organizations-attacked-with-new-woody-rat-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unknown attackers target Russian entities with newly discovered malware that allows them to control and steal information from compromised devices remotely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Power semiconductor&nbsp;component manufacturer Semikron suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/133975/cyber-crime/semikron-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Semikron, a German-based independent manufacturer of&nbsp;power semiconductor&nbsp;components, suffered a ransomware cyberattck.
+
+
+
+Semikron is a German-based independent manufacturer of&nbsp;power semiconductor&nbsp;components, it employs more than...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish research agency still recovering after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/spanish-research-agency-still-recovering-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spanish National Research Council (CSIC) last month was hit by a ransomware attack that is now attributed to Russian hackers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warns of Large-Scale AiTM Attacks Targeting Enterprise Users<a href="https://thehackernews.com/2022/08/researchers-warns-of-large-scale-aitm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new, large-scale phishing campaign has been observed using adversary-in-the-middle (AitM) techniques to get around security protections and compromise enterprise email accounts.  "It uses an adversary-in-the-middle (AitM) attack technique capable of bypassing multi-factor authentication," Zscaler researchers Sudeep Singh and Jagadeeswar Ramanukolanu&nbsp; said &nbsp;in a Tuesday report. "The campaign is specifically designed to reach end users in enterprises that use Microsoft's email services."  Prominent targets include fintech, lending, insurance, energy, manufacturing, and federal credit union verticals located in the U.S., U.K., New Zealand, and Australia.   This is not the first time such a phishing attack has come to light. Last month, Microsoft&nbsp; disclosed &nbsp;that over 10,000 organizations had been targeted since September 2021 by means of AitM techniques to breach accounts secured with multi-factor authentication (MFA).  The ongoing campaign, effective June 2022,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

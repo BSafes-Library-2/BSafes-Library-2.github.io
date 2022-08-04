@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+August 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wolf in sheep’s clothing: how malware tricks users and antivirus<a href="https://www.bleepingcomputer.com/news/security/wolf-in-sheep-s-clothing-how-malware-tricks-users-and-antivirus/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the primary methods used by malware distributors to infect devices is by deceiving people into downloading and running malicious files, and to achieve this deception, malware authors are using a variety of tricks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is ransomware and how can you defend your business from it?<a href="https://thehackernews.com/2022/08/what-is-ransomware-how-to-defend-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware is a kind of malware used by cybercriminals to stop users from accessing their systems or files; the cybercriminals then threaten to leak, destroy or withhold sensitive information unless a ransom is paid.  Ransomware attacks can target either the data held on computer systems (known as locker ransomware) or devices (crypto-ransomware). In both instances, once a ransom is paid, threat actors typically provide victims with a decryption key or tool to unlock their data or device, though this is not guaranteed.  Oliver Pinson-Roxburgh, CEO of &nbsp;Defense.com , the all-in-one cybersecurity platform, shares knowledge and advice in this article on how ransomware works, how damaging it can be, and how your business can mitigate ransomware attacks from occurring.  What does a ransomware attack comprise?  There are three key elements to a ransomware attack:  Access  In order to deploy malware to encrypt files and gain control, cybercriminals need to initially gain access to an organiza
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

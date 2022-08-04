@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Abuses Windows Defender to Deploy Cobalt Strike Payload<a href="https://thehackernews.com/2022/08/lockbit-ransomware-abuses-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor associated with the LockBit 3.0  ransomware-as-a-service (RaaS) operation has been observed abusing the Windows Defender command-line tool to decrypt and load Cobalt Strike payloads.&nbsp;  According to a report published by SentinelOne last week, the incident occurred after obtaining initial access via the&nbsp; Log4Shell vulnerability &nbsp;against an unpatched VMware Horizon Server.  "Once initial access had been achieved, the threat actors performed a series of enumeration commands and attempted to run multiple post-exploitation tools, including Meterpreter, PowerShell Empire, and a new way to side-load Cobalt Strike," researchers Julio Dantas, James Haughom, and Julien Reisdorffer&nbsp; said .   LockBit 3.0 (aka LockBit Black), which comes with the tagline "Make Ransomware Great Again!," is the&nbsp; next iteration &nbsp;of the prolific&nbsp; LockBit RaaS family &nbsp;that emerged in June 2022 to iron out&nbsp; critical weaknesses &nbsp;discovered in its predecessor.  It's notable for insti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

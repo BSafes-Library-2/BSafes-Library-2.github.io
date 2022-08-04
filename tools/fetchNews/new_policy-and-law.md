@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators introduce bill to ensure resiliency of federal data centers<a href="https://fcw.com/security/2022/08/senators-introduce-bill-ensure-resiliency-federal-data-centers/375219/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan senators have introduced legislation to establish baseline cybersecurity requirements and new protections against catastrophic weather-related disasters for federal data centers across the country.
+</details>
+<div style="text-align: right" markdown="1">
+FCW
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German prosecutors issue warrant for Russian government hacker over energy sector attacks<a href="https://therecord.media/german-prosecutors-issue-warrant-for-russian-hacker-over-energy-sector-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prosecutors in Germany have issued a warrant for the arrest of Pawel A, a Russian national they accuse of being part of the Berserk Bear hacking group within Russia’s Federal Security Service (FSB), according to German public broadcasters BR and WDR.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

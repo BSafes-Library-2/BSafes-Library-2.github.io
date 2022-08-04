@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft announces new external attack surface audit tool<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-external-attack-surface-audit-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced a new security product allowing security teams to spot Internet-exposed resources in their organization's environment that attackers could use to breach their networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

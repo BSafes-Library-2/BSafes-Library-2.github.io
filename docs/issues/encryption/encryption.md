@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+August 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Single-Core CPU Cracked Post-Quantum Encryption Candidate Algorithm in Just an Hour<a href="https://thehackernews.com/2022/08/single-core-cpu-cracked-post-quantum.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A late-stage candidate encryption algorithm that was meant to withstand decryption by powerful quantum computers in the future has been trivially cracked by using a computer running Intel Xeon CPU in an hour's time.  The algorithm in question is SIKE — short for Supersingular Isogeny Key Encapsulation — which made it to the&nbsp; fourth round &nbsp;of the Post-Quantum Cryptography (PQC) standardization process by the U.S. Department of Commerce's National Institute of Standards and Technology (NIST).  "Ran on a single core, the appended&nbsp; Magma &nbsp; code &nbsp;breaks the Microsoft&nbsp; SIKE challenges &nbsp;$IKEp182 and $IKEp217 in about 4 minutes and 6 minutes, respectively," KU Leuven researchers Wouter Castryck and Thomas Decru&nbsp; said &nbsp;in a new paper.  "A run on the SIKEp434 parameters, previously believed to meet NIST's quantum security level 1, took about 62 minutes, again on a single core."   The code was executed on an Intel&nbsp; Xeon CPU E5-2630v2 &nbsp;at 2.60GHz, which was release
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

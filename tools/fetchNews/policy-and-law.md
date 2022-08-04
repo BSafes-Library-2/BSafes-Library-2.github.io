@@ -8,6 +8,66 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Didi Fined $1.2 Billion for Violating Data Security Laws<a href="https://www.lawfareblog.com/didi-fined-12-billion-violating-data-security-laws"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawfare’s biweekly roundup of U.S.-China technology policy news.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Banking Groups Urge Senators to Reject NDAA Provision as Harmful to Cybersecurity<a href="https://www.nextgov.com/cybersecurity/2022/08/banking-groups-urge-senators-reject-ndaa-provision-harmful-cybersecurity/375222/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A provision in annual legislation to authorize spending by the Defense Department could endanger the cybersecurity of critical infrastructure, trade associations for the financial sector argued in a letter to key senators.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile store owner hacked T-Mobile employees to unlock phones<a href="https://www.bleepingcomputer.com/news/security/mobile-store-owner-hacked-t-mobile-employees-to-unlock-phones/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former owner of a T-Mobile retail store in California has been found guilty of a $25 million scheme where he illegally accessed T-Mobile's internal systems to unlock and unblock cell phones.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Austria investigates DSIRF firm for allegedly developing Subzero spyware<a href="https://securityaffairs.co/wordpress/133911/malware/austria-investigates-dsirf-firm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Austria is investigating a report that an Austrian firm DSIRF developed spyware targeting law firms, banks and consultancies.
+
+
+
+At the end of July, Microsoft Threat Intelligence Center (MSTIC) and the Microsoft Security Response Center (MSRC) researchers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Paid Out $90,000 for Vulnerabilities Patched by Chrome 104<a href="https://www.securityweek.com/google-paid-out-90000-vulnerabilities-patched-chrome-104?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has patched 27 vulnerabilities with the release of Chrome 104 on Tuesday, and the researchers who reported some of these security holes earned thousands of dollars in bug bounties.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched XSS, CSRF bugs included in latest Jenkins plugin advisory<a href="https://portswigger.net/daily-swig/jenkins-security-unpatched-xss-csrf-bugs-included-in-latest-plugin-advisory?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organization’s latest security advisory lists a total of 27 plugin vulnerabilities, five of which were deemed to be ‘high’ impact and the majority of which remain unpatched.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed Critical Remote Code Execution flaw in Android<a href="https://securityaffairs.co/wordpress/133956/security/android-critical-flaw-cve-2022-20345.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google addressed a critical vulnerability in Android OS, tracked as CVE-2022-20345, that can be exploited to achieve remote code execution over Bluetooth.
+
+
+
+Google has fixed a critical vulnerability, tracked as CVE-2022-20345, that affects the Android...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes critical remote code execution bug in VPN routers<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-critical-remote-code-execution-bug-in-vpn-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has fixed critical security vulnerabilities affecting Small Business VPN routers and enabling unauthenticated, remote attackers to execute arbitrary code or commands and trigger denial of service (DoS) conditions on vulnerable devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nvidia releases security update for unsupported Windows 7 and 8.1 systems<a href="https://www.ghacks.net/2022/08/03/nvidia-releases-security-update-for-unsupported-windows-7-and-8-1-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Effective October 2021, Game Ready Driver upgrades, including performance enhancements, new features, and bug fixes, are exclusively available for systems utilizing Windows 10 and Windows 11 as their operating system.
+</details>
+<div style="text-align: right" markdown="1">
+Ghacks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Releases Patches for Several New Flaws Affecting Multiple Products<a href="https://thehackernews.com/2022/08/vmware-releases-patches-for-several-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Virtualization services provider VMware on Tuesday shipped updates to&nbsp; address 10 security flaws &nbsp;affecting multiple products that could be abused by unauthenticated attackers to perform malicious actions.  The issues, tracked from CVE-2022-31656 through CVE-2022-31665 (CVSS scores: 4.7 - 9.8), impact VMware Workspace ONE Access, Workspace ONE Access Connector, Identity Manager, Identity Manager Connector, vRealize Automation, Cloud Foundation, and vRealize Suite Lifecycle Manager.   The most severe of the flaws is CVE-2022-31656 (CVSS score: 9.8), an authentication bypass vulnerability affecting local domain users that could be leveraged by a bad actor with network access to obtain administrative rights.  Also resolved by VMware are three remote code execution vulnerabilities (CVE-2022-31658, CVE-2022-31659, and CVE-2022-31665) related to JDBC and SQL injection that could be weaponized by an adversary with administrator and network access.   Elsewhere, it has also remediated a reflec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

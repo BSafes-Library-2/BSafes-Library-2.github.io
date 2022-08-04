@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+August 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Austria Probes Claim Spyware Targeted Law Firms, Banks<a href="https://www.securityweek.com/austria-probes-claim-spyware-targeted-law-firms-banks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Austria's interior ministry said it had not received reports of any incidents. "Of course, (intelligence agency) DSN checks the allegations. So far, there is no proof of the use of spy software from the company mentioned," it said in a statement.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

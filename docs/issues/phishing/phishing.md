@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft accounts targeted with new MFA-bypassing phishing kit<a href="https://www.bleepingcomputer.com/news/security/microsoft-accounts-targeted-with-new-mfa-bypassing-phishing-kit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new large-scale phishing campaign targeting credentials for Microsoft email services use a custom proxy-based phishing kit to bypass multi-factor authentication.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishers Exploit Unprotected Snapchat, American Express Sites for Malicious Redirects<a href="https://www.inky.com/en/blog/phishers-bounce-lures-off-unprotected-snapchat-amex-sites?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From the website operator’s perspective, the only damage that potentially occurs is harm to the site’s reputation. The victims, however, may lose credentials, data, and possibly money.
+</details>
+<div style="text-align: right" markdown="1">
+INKY
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
