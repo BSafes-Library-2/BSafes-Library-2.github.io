@@ -34,6 +34,470 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian organizations attacked with new Woody RAT malware<a href="https://www.bleepingcomputer.com/news/security/russian-organizations-attacked-with-new-woody-rat-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unknown attackers target Russian entities with newly discovered malware that allows them to control and steal information from compromised devices remotely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Paid Out $90,000 for Vulnerabilities Patched by Chrome 104<a href="https://www.securityweek.com/google-paid-out-90000-vulnerabilities-patched-chrome-104?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has patched 27 vulnerabilities with the release of Chrome 104 on Tuesday, and the researchers who reported some of these security holes earned thousands of dollars in bug bounties.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Single-Core CPU Cracked Post-Quantum Encryption Candidate Algorithm in Just an Hour<a href="https://thehackernews.com/2022/08/single-core-cpu-cracked-post-quantum.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A late-stage candidate encryption algorithm that was meant to withstand decryption by powerful quantum computers in the future has been trivially cracked by using a computer running Intel Xeon CPU in an hour's time.  The algorithm in question is SIKE — short for Supersingular Isogeny Key Encapsulation — which made it to the  fourth round  of the Post-Quantum Cryptography (PQC) standardization process by the U.S. Department of Commerce's National Institute of Standards and Technology (NIST).  "Ran on a single core, the appended  Magma   code  breaks the Microsoft  SIKE challenges  $IKEp182 and $IKEp217 in about 4 minutes and 6 minutes, respectively," KU Leuven researchers Wouter Castryck and Thomas Decru  said  in a new paper.  "A run on the SIKEp434 parameters, previously believed to meet NIST's quantum security level 1, took about 62 minutes, again on a single core."   The code was executed on an Intel  Xeon CPU E5-2630v2  at 2.60GHz, which was release
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Power semiconductor component manufacturer Semikron suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/133975/cyber-crime/semikron-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Semikron, a German-based independent manufacturer of power semiconductor components, suffered a ransomware cyberattck.
+
+
+
+Semikron is a German-based independent manufacturer of power semiconductor components, it employs more than...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloned Atomic Wallet website is pushing Mars Stealer malware<a href="https://www.bleepingcomputer.com/news/security/cloned-atomic-wallet-website-is-pushing-mars-stealer-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fake website impersonating the official portal for the Atomic wallet, a popular decentralized wallet that also operates as a cryptocurrency exchange portal, is, in reality, distributing copies of the Mars Stealer information-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched XSS, CSRF bugs included in latest Jenkins plugin advisory<a href="https://portswigger.net/daily-swig/jenkins-security-unpatched-xss-csrf-bugs-included-in-latest-plugin-advisory?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organization’s latest security advisory lists a total of 27 plugin vulnerabilities, five of which were deemed to be ‘high’ impact and the majority of which remain unpatched.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal Reveals Most Impersonated Software in Malware Attacks<a href="https://thehackernews.com/2022/08/virustotal-reveals-most-impersonated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly mimicking legitimate applications like Skype, Adobe Reader, and VLC Player as a means to abuse trust relationships and increase the likelihood of a successful social engineering attack.  Other most impersonated legitimate apps by icon include 7-Zip, TeamViewer, CCleaner, Microsoft Edge, Steam, Zoom, and WhatsApp, an analysis from VirusTotal has revealed.  "One of the simplest social engineering tricks we've seen involves making a malware sample seem a legitimate program," VirusTotal  said  in a Tuesday report. "The icon of these programs is a critical feature used to convince victims that these programs are legitimate."  It's no surprise that threat actors resort to a variety of approaches to compromise endpoints by tricking unwitting users into downloading and running seemingly innocuous executables.   This, in turn, is primarily achieved by taking advantage of genuine domains in a bid to get around IP-based firewall defenses
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manjusaka, a new attack tool similar to Sliver and Cobalt Strike<a href="https://securityaffairs.co/wordpress/133953/hacking/manjusaka-attack-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a Chinese threat actors using a new offensive framework called Manjusaka which is similar to Cobalt Strike.
+
+
+
+Talos researchers observed a Chinese threat actor using a new offensive framework called Manjusaka (which can be translated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish research agency still recovering after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/spanish-research-agency-still-recovering-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spanish National Research Council (CSIC) last month was hit by a ransomware attack that is now attributed to Russian hackers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators introduce bill to ensure resiliency of federal data centers<a href="https://fcw.com/security/2022/08/senators-introduce-bill-ensure-resiliency-federal-data-centers/375219/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan senators have introduced legislation to establish baseline cybersecurity requirements and new protections against catastrophic weather-related disasters for federal data centers across the country.
+</details>
+<div style="text-align: right" markdown="1">
+FCW
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+On-Demand Webinar: New CISO Survey Reveals Top Challenges for Small Cyber Security Teams<a href="https://thehackernews.com/2022/08/on-demand-webinar-new-ciso-survey.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The only threat more persistent to organizations than cyber criminals? The cyber security skills crisis.   Nearly  60% of enterprises  can't find the staff to protect their data (and reputations!) from new and emerging breeds of cyber-attacks, reports the Information Systems Security Association (ISSA) in its 5th annual global industry study.   The result?  Heavier workloads, unfilled positions, and burnout.   And technology  isn't  easing the burden in many organizations, especially smaller ones. In fact, it's making the problem worse, suggests  Cynet's recent CISO survey .  Big Tech Pushes Small Teams to the Limits  Tech stacks normally supercharge cyber security teams, but in the case of crews of five or fewer — it just leads to overwhelm. For example, it took them an average of 18 months to fully implement and feel proficient in endpoint detection and response (EDR) tools — making the technology yet another barrier to cyber security for the  85% of teams adopting it in 2022 .   Su
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed Critical Remote Code Execution flaw in Android<a href="https://securityaffairs.co/wordpress/133956/security/android-critical-flaw-cve-2022-20345.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google addressed a critical vulnerability in Android OS, tracked as CVE-2022-20345, that can be exploited to achieve remote code execution over Bluetooth.
+
+
+
+Google has fixed a critical vulnerability, tracked as CVE-2022-20345, that affects the Android...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 Smart App Control blocks files used to push malware<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-smart-app-control-blocks-files-used-to-push-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Smart App Control, a Windows 11 security feature that blocks threats at the process level, now comes with support for blocking several new file types threat actors have recently adopted to infect targets with malware in phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NortonLifeLock, Avast deal gets provisional approval of CMA<a href="https://www.theregister.com/2022/08/03/norton_cma/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $8.6 billion merger was announced in August 2021 and, after a gentle probe, the Competition and Markets Authority (CMA) decided that a closer look was needed in March 2022.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warns of Large-Scale AiTM Attacks Targeting Enterprise Users<a href="https://thehackernews.com/2022/08/researchers-warns-of-large-scale-aitm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new, large-scale phishing campaign has been observed using adversary-in-the-middle (AitM) techniques to get around security protections and compromise enterprise email accounts.  "It uses an adversary-in-the-middle (AitM) attack technique capable of bypassing multi-factor authentication," Zscaler researchers Sudeep Singh and Jagadeeswar Ramanukolanu  said  in a Tuesday report. "The campaign is specifically designed to reach end users in enterprises that use Microsoft's email services."  Prominent targets include fintech, lending, insurance, energy, manufacturing, and federal credit union verticals located in the U.S., U.K., New Zealand, and Australia.   This is not the first time such a phishing attack has come to light. Last month, Microsoft  disclosed  that over 10,000 organizations had been targeted since September 2021 by means of AitM techniques to breach accounts secured with multi-factor authentication (MFA).  The ongoing campaign, effective June 2022,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Busting the Myths of Hardware Based Security<a href="https://securityaffairs.co/wordpress/133948/security/busting-the-myths-of-hardware-based-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many experts often overlook hardware based security and its vital importance in establishing a secure workspace.
+
+
+
+When it comes to cybersecurity, everyone likes to talk about software and the dangers that it poses. However, people often overlook hardware-based...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft accounts targeted with new MFA-bypassing phishing kit<a href="https://www.bleepingcomputer.com/news/security/microsoft-accounts-targeted-with-new-mfa-bypassing-phishing-kit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new large-scale phishing campaign targeting credentials for Microsoft email services use a custom proxy-based phishing kit to bypass multi-factor authentication.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishers Exploit Unprotected Snapchat, American Express Sites for Malicious Redirects<a href="https://www.inky.com/en/blog/phishers-bounce-lures-off-unprotected-snapchat-amex-sites?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From the website operator’s perspective, the only damage that potentially occurs is harm to the site’s reputation. The victims, however, may lose credentials, data, and possibly money.
+</details>
+<div style="text-align: right" markdown="1">
+INKY
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes critical remote code execution bug in VPN routers<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-critical-remote-code-execution-bug-in-vpn-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has fixed critical security vulnerabilities affecting Small Business VPN routers and enabling unauthenticated, remote attackers to execute arbitrary code or commands and trigger denial of service (DoS) conditions on vulnerable devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German prosecutors issue warrant for Russian government hacker over energy sector attacks<a href="https://therecord.media/german-prosecutors-issue-warrant-for-russian-hacker-over-energy-sector-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prosecutors in Germany have issued a warrant for the arrest of Pawel A, a Russian national they accuse of being part of the Berserk Bear hacking group within Russia’s Federal Security Service (FSB), according to German public broadcasters BR and WDR.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine takes down 1,000,000 bots used for disinformation<a href="https://www.bleepingcomputer.com/news/security/ukraine-takes-down-1-000-000-bots-used-for-disinformation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian cyber police (SSU) has shut down a massive bot farm of 1,000,000 bots used to spread disinformation on social networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nvidia releases security update for unsupported Windows 7 and 8.1 systems<a href="https://www.ghacks.net/2022/08/03/nvidia-releases-security-update-for-unsupported-windows-7-and-8-1-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Effective October 2021, Game Ready Driver upgrades, including performance enhancements, new features, and bug fixes, are exclusively available for systems utilizing Windows 10 and Windows 11 as their operating system.
+</details>
+<div style="text-align: right" markdown="1">
+Ghacks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Minimizing the security risks of Single Sign On implementations<a href="https://www.bleepingcomputer.com/news/security/minimizing-the-security-risks-of-single-sign-on-implementations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the use of Single Sign On resulted in some organizations adopting stronger password policies, it also created additional security risks. Learn what these risks are and how you can make SSO more secure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolidBit Ransomware Enters the RaaS Scene and Takes Aim at Gamers and Social Media Users<a href="https://www.trendmicro.com/en_us/research/22/h/solidbit-ransomware-enters-the-raas-scene-and-takes-aim-at-gamer.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SolidBit ransomware group appears to be planning to expand its operations through these fraudulent apps and its recruitment of ransomware-as-a-service (RaaS) affiliates.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Solana wallets drained in attack using unknown exploit<a href="https://www.bleepingcomputer.com/news/security/thousands-of-solana-wallets-drained-in-attack-using-unknown-exploit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An overnight attack on the Solana blockchain platform drained thousands of software wallets of cryptocurrency worth millions of U.S. dollars.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore takes formal step towards setting up cyber defence unit<a href="https://www.zdnet.com/article/singapore-takes-formal-step-towards-setting-up-cyber-defence-unit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+First mooted in March, the new digital and intelligence service (DIS) unit would be set up as a fourth service under the Singapore Armed Forces (SAF) and responsible for combating online attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+35,000 code repos not hacked—but clones flood GitHub to serve malware<a href="https://www.bleepingcomputer.com/news/security/35-000-code-repos-not-hacked-but-clones-flood-github-to-serve-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of GitHub repositories were forked (cloned) and altered to include malware, a software engineer discovered.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Releases Patches for Several New Flaws Affecting Multiple Products<a href="https://thehackernews.com/2022/08/vmware-releases-patches-for-several-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Virtualization services provider VMware on Tuesday shipped updates to  address 10 security flaws  affecting multiple products that could be abused by unauthenticated attackers to perform malicious actions.  The issues, tracked from CVE-2022-31656 through CVE-2022-31665 (CVSS scores: 4.7 - 9.8), impact VMware Workspace ONE Access, Workspace ONE Access Connector, Identity Manager, Identity Manager Connector, vRealize Automation, Cloud Foundation, and vRealize Suite Lifecycle Manager.   The most severe of the flaws is CVE-2022-31656 (CVSS score: 9.8), an authentication bypass vulnerability affecting local domain users that could be leveraged by a bad actor with network access to obtain administrative rights.  Also resolved by VMware are three remote code execution vulnerabilities (CVE-2022-31658, CVE-2022-31659, and CVE-2022-31665) related to JDBC and SQL injection that could be weaponized by an adversary with administrator and network access.   Elsewhere, it has also remediated a reflec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 02, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
