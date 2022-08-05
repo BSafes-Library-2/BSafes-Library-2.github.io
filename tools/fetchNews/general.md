@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+On-Demand Webinar: New CISO Survey Reveals Top Challenges for Small Cyber Security Teams<a href="https://thehackernews.com/2022/08/on-demand-webinar-new-ciso-survey.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The only threat more persistent to organizations than cyber criminals? The cyber security skills crisis.&nbsp;  Nearly&nbsp; 60% of enterprises &nbsp;can't find the staff to protect their data (and reputations!) from new and emerging breeds of cyber-attacks, reports the Information Systems Security Association (ISSA) in its 5th annual global industry study.&nbsp;  The result? &nbsp;Heavier workloads, unfilled positions, and burnout.&nbsp;  And technology&nbsp; isn't &nbsp;easing the burden in many organizations, especially smaller ones. In fact, it's making the problem worse, suggests&nbsp; Cynet's recent CISO survey .  Big Tech Pushes Small Teams to the Limits  Tech stacks normally supercharge cyber security teams, but in the case of crews of five or fewer — it just leads to overwhelm. For example, it took them an average of 18 months to fully implement and feel proficient in endpoint detection and response (EDR) tools — making the technology yet another barrier to cyber security for the&nbsp; 85% of teams adopting it in 2022 .&nbsp;  Su
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

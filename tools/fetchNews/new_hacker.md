@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of hackers flock to 'Dark Utilities' C2-as-a-Service<a href="https://www.bleepingcomputer.com/news/security/thousands-of-hackers-flock-to-dark-utilities-c2-as-a-service/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers found a new service called Dark Utilities that provides an easy and inexpensive way for cybercriminals to set up a command and control (C2)&nbsp;center for their malicious operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

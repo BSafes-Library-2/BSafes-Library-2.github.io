@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolidBit Ransomware Enters the RaaS Scene and Takes Aim at Gamers and Social Media Users<a href="https://www.trendmicro.com/en_us/research/22/h/solidbit-ransomware-enters-the-raas-scene-and-takes-aim-at-gamer.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SolidBit ransomware group appears to be planning to expand its operations through these fraudulent apps and its recruitment of ransomware-as-a-service (RaaS) affiliates.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

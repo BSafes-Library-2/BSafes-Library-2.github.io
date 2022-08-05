@@ -8,6 +8,24 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+August 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taiwan Government websites suffered DDoS attacks during the Nancy Pelosi visit<a href="https://securityaffairs.co/wordpress/133997/breaking-news/taiwan-hit-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan government websites were temporarily forced offline by cyber attacks during the visit to Taipei of US House Speaker Nancy Pelosi.
+
+
+
+Major Taiwan government websites were temporarily forced offline by distributed denial of service (DDoS) attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

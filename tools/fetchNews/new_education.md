@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Common Mistakes That May Sabotage Your Security Training<a href="https://thehackernews.com/2022/08/three-common-mistakes-that-may-sabotage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing incidents are on the rise. A report from IBM  shows that phishing was the most popular attack vector in 2021, resulting in one in five employees falling victim to phishing hacking techniques.  The Need for Security Awareness Training&nbsp;  Although technical solutions protect against phishing threats, no solution is 100% effective . Consequently, companies have no choice but to involve their employees in the fight against hackers. This is where security awareness training comes into play.&nbsp;  Security awareness training gives companies the confidence  that their employees will execute the right response when they discover a phishing message in their inbox.  As the saying goes, "knowledge is power," but the effectiveness of knowledge depends heavily on how it is delivered. When it comes to phishing attacks, simulations are among the most effective forms of training because the events in training simulations directly mimic how an employee would react in the event of an actu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

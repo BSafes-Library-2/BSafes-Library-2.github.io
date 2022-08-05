@@ -8,6 +8,38 @@ nav_order: 900053
 
 ## Education
 ---
+August 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Busting the Myths of Hardware Based Security<a href="https://securityaffairs.co/wordpress/133948/security/busting-the-myths-of-hardware-based-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many experts often overlook hardware based security and its vital importance in establishing a secure workspace.
+
+
+
+When it comes to cybersecurity, everyone likes to talk about software and the dangers that it poses. However, people often overlook hardware-based...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Minimizing the security risks of Single Sign On implementations<a href="https://www.bleepingcomputer.com/news/security/minimizing-the-security-risks-of-single-sign-on-implementations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the use of Single Sign On resulted in some organizations adopting stronger password policies, it also created additional security risks. Learn what these risks are and how you can make SSO more secure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

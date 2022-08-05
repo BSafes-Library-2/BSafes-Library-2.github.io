@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 Smart App Control blocks files used to push malware<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-smart-app-control-blocks-files-used-to-push-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Smart App Control, a Windows 11 security feature that blocks threats at the process level, now comes with support for blocking several new file types threat actors have recently adopted to infect targets with malware in phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

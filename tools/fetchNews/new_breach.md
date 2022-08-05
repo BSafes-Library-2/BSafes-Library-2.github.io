@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+August 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Over 280M records comprising UANs, bank account numbers, incomes, and PFs allegedly leaked online<a href="https://ciso.economictimes.indiatimes.com/news/breaking-over-280m-records-including-uan-bank-account-info-and-pii-leaked-online/93333754?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 2, cybersecurity researcher Volodymyr "Bob" Diachenko, during a routine search for public exposures on the internet, found two IPs containing massive amounts of highly sensitive data belonging to Indian citizens.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole $200 million from the Nomad crypto bridge<a href="https://securityaffairs.co/wordpress/133988/hacking/nomad-cyber-heist.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cryptocurrency bridge Nomad is the last victim of a cyber heist, threat actors stole almost $200 million of its funds.
+
+
+
+Another crypto heist made the headlines, threat actors stole nearly $200 million worth of cryptocurrency from the bridge Nomad....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAE-based Retail Chain Spinneys Suffers Customer Data leak<a href="https://securereading.com/uae-spinneys-customer-data-leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers accessed an internal server that comprised customer data, including names, contact numbers, email addresses, delivery addresses, and previous order information.
+</details>
+<div style="text-align: right" markdown="1">
+Secure Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

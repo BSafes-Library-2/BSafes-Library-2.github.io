@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+August 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Zimbra Email Vulnerability to its Exploited Vulnerabilities Catalog<a href="https://thehackernews.com/2022/08/cisa-adds-zimbra-email-vulnerability-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a recently disclosed high-severity vulnerability in the Zimbra email suite to its&nbsp; Known Exploited Vulnerabilities Catalog , citing&nbsp; evidence of active exploitation .  The issue in question is&nbsp; CVE-2022-27924 &nbsp;(CVSS score: 7.5), a command injection flaw in the platform that could lead to the execution of arbitrary Memcached commands and theft of sensitive information.   "Zimbra Collaboration (ZCS) allows an attacker to inject memcached commands into a targeted instance which causes an overwrite of arbitrary cached entries," CISA said.  Specifically, the bug relates to a case of insufficient validation of user input that, if successfully exploited, could enable attackers to steal cleartext credentials from users of targeted Zimbra instances.   The issue was&nbsp; disclosed &nbsp;by SonarSource in June, with&nbsp; patches &nbsp;released by Zimbra on May 10, 2022, in versions 8.8.15 P31.1 and 9.0.0 P24.1.  CISA hasn
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS warns of critical flaws in Emergency Alert System devices<a href="https://www.bleepingcomputer.com/news/security/dhs-warns-of-critical-flaws-in-emergency-alert-system-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) warned that attackers could exploit critical security vulnerabilities in unpatched Emergency Alert System (EAS) encoder/decoder devices to send fake emergency alerts via TV and radio networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

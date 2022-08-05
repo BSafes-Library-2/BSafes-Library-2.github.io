@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2022
+August 5, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Bunch of Android Apps Spread Adware and Other Malware<a href="https://cyware.com/news/a-bunch-of-android-apps-spread-adware-and-other-malware-50101979"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2022
+August 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE vulnerability impacts 29 models of DrayTek routers<a href="https://www.bleepingcomputer.com/news/security/critical-rce-vulnerability-impacts-29-models-of-draytek-routers/"> Full Text</a>
@@ -66,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2022
+August 04, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Zimbra Email Vulnerability to its Exploited Vulnerabilities Catalog<a href="https://thehackernews.com/2022/08/cisa-adds-zimbra-email-vulnerability-to.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2022
+August 4, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Woody RAT used in attacks aimed at Russian entities<a href="https://securityaffairs.co/wordpress/134014/intelligence/woody-rat-targets-russia-orgs.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2022
+August 04, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Traffic Light Protocol standard released after five years<a href="https://www.bleepingcomputer.com/news/security/new-traffic-light-protocol-standard-released-after-five-years/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2022
+August 4, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft links Raspberry Robin Malware to Evil Corp Attacks<a href="https://cyware.com/news/microsoft-links-raspberry-robin-malware-to-evil-corp-attacks-881ab91d"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2022
+August 04, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Who Has Control: The SaaS App Admin Paradox<a href="https://thehackernews.com/2022/08/who-has-control-saas-app-admin-paradox.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2022
+August 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unauthenticated RCE can allow hacking DrayTek Vigor routers without user interaction<a href="https://securityaffairs.co/wordpress/134007/hacking/draytek-vigor-routers-rce.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2022
+August 04, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers try to extort survey firm QuestionPro after alleged data theft<a href="https://www.bleepingcomputer.com/news/security/hackers-try-to-extort-survey-firm-questionpro-after-alleged-data-theft/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2022
+August 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: Over 280M records comprising UANs, bank account numbers, incomes, and PFs allegedly leaked online<a href="https://ciso.economictimes.indiatimes.com/news/breaking-over-280m-records-including-uan-bank-account-info-and-pii-leaked-online/93333754?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2022
+August 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Bug Could Let Hackers Remotely Take Over DrayTek Vigor Routers<a href="https://thehackernews.com/2022/08/critical-rce-bug-could-let-hackers.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2022
+August 4, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Taiwan Government websites suffered DDoS attacks during the Nancy Pelosi visit<a href="https://securityaffairs.co/wordpress/133997/breaking-news/taiwan-hit-cyberattacks.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2022
+August 04, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS warns of critical flaws in Emergency Alert System devices<a href="https://www.bleepingcomputer.com/news/security/dhs-warns-of-critical-flaws-in-emergency-alert-system-devices/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2022
+August 4, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IcedID leverages PrivateLoader. By: Joshua Platt and Jason Reaves<a href="https://medium.com/walmartglobaltech/icedid-leverages-privateloader-7744771bf87f?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Medium
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2022
+August 04, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Woody RAT Malware Being Used to Target Russian Organizations<a href="https://thehackernews.com/2022/08/new-woody-rat-malware-being-used-to.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2022
+August 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers stole $200 million from the Nomad crypto bridge<a href="https://securityaffairs.co/wordpress/133988/hacking/nomad-cyber-heist.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2022
+August 04, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of hackers flock to 'Dark Utilities' C2-as-a-Service<a href="https://www.bleepingcomputer.com/news/security/thousands-of-hackers-flock-to-dark-utilities-c2-as-a-service/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2022
+August 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UAE-based Retail Chain Spinneys Suffers Customer Data leak<a href="https://securereading.com/uae-spinneys-customer-data-leak/?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Secure Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2022
+August 04, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploited Atlassian Confluence Bug to Deploy Ljl Backdoor for Espionage<a href="https://thehackernews.com/2022/08/hackers-exploited-atlassian-confluence.html"> Full Text</a>
@@ -354,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2022
+August 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco addressed critical flaws in Small Business VPN routers<a href="https://securityaffairs.co/wordpress/133984/security/cisco-small-business-vpn-routers-flaws.html"> Full Text</a>
@@ -382,7 +382,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2022
+August 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux malware brute-forces SSH servers to breach networks<a href="https://www.bleepingcomputer.com/news/security/new-linux-malware-brute-forces-ssh-servers-to-breach-networks/"> Full Text</a>
@@ -398,7 +398,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2022
+August 4, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flight of the Bumblebee: Email Lures and File Sharing Services Lead to Malware<a href="https://unit42.paloaltonetworks.com/bumblebee-malware-projector-libra/?&web_view=true"> Full Text</a>
@@ -414,7 +414,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2022
+August 04, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three Common Mistakes That May Sabotage Your Security Training<a href="https://thehackernews.com/2022/08/three-common-mistakes-that-may-sabotage.html"> Full Text</a>
@@ -430,7 +430,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2022
+August 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity agencies reveal last year’s top malware strains<a href="https://www.bleepingcomputer.com/news/security/cybersecurity-agencies-reveal-last-year-s-top-malware-strains/"> Full Text</a>
@@ -446,7 +446,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2022
+August 4, 2022 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New IoT Malware Dubbed RapperBot Brute Forces Into SSH Servers<a href="https://www.fortinet.com/blog/threat-research/rapperbot-malware-discovery?&web_view=true"> Full Text</a>
@@ -462,7 +462,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2022
+August 04, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German Chambers of Industry and Commerce hit by 'massive' cyberattack<a href="https://www.bleepingcomputer.com/news/security/german-chambers-of-industry-and-commerce-hit-by-massive-cyberattack/"> Full Text</a>
@@ -478,7 +478,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2022
+August 4, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Readiness Measurement Firm Axio Raises $23 Million<a href="https://www.securityweek.com/cyber-readiness-measurement-firm-axio-raises-23-million?&web_view=true"> Full Text</a>
@@ -494,7 +494,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2022
+August 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Business Routers Found Vulnerable to Critical Remote Hacking Flaws<a href="https://thehackernews.com/2022/08/cisco-business-routers-found-vulnerable.html"> Full Text</a>

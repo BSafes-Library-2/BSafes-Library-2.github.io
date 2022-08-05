@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+August 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine takes down 1,000,000 bots used for disinformation<a href="https://www.bleepingcomputer.com/news/security/ukraine-takes-down-1-000-000-bots-used-for-disinformation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian cyber police (SSU) has shut down a massive bot farm of 1,000,000 bots used to spread disinformation on social networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+August 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New IoT Malware Dubbed RapperBot Brute Forces Into SSH Servers<a href="https://www.fortinet.com/blog/threat-research/rapperbot-malware-discovery?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RapperBot is designed to function primarily as an SSH brute-forcer with limited DDoS capabilities. As is typical of most IoT malware, it targets ARM, MIPS, SPARC, and x86 architectures.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

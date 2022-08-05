@@ -7,6 +7,42 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2022 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds One Known Exploited Vulnerability to Catalog <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/08/04/cisa-adds-one-known-exploited-vulnerability-catalog"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2022 - CISA, ACSC
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and ACSC Release Top 2021 Malware Strains <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/08/02/cisa-and-acsc-release-top-2021-malware-strains"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and the Australian Cyber Security Centre (ACSC) have published a joint Cybersecurity Advisory on the top malware strains observed in 2021. Malicious cyber actors often use malware to covertly compromise and then gain access to a computer or mobile device. As malicious cyber actors have been using most of these top malware strains for more than five years, organizations have opportunities to better prepare, identify, and mitigate attacks from these strains.  
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2022 - FEMA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emergency Alert System (EAS) Vulnerability <a href="https://content.govdelivery.com/accounts/USDHSFEMA/bulletins/3263326?fbclid=IwAR3yGJpnxVbOhZeRJdHRiA4vA6ZKAidiP3JziwQm9KUv_i4kexZmRB8Uu9o"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We recently became aware of certain vulnerabilities in EAS encoder/decoder devices that, if not updated to most recent software versions, could allow an actor to issue EAS alerts over the host infrastructure (TV, radio, cable network).
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 29, 2022 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

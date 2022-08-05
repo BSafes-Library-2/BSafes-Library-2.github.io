@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NortonLifeLock, Avast deal gets provisional approval of CMA<a href="https://www.theregister.com/2022/08/03/norton_cma/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $8.6 billion merger was announced in August 2021 and, after a gentle probe, the Competition and Markets Authority (CMA) decided that a closer look was needed in March 2022.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
