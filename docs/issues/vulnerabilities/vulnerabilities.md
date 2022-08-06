@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emergency Alert System Flaws Could Let Attackers Transmit Fake Messages<a href="https://thehackernews.com/2022/08/emergency-alert-system-flaws-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Homeland Security (DHS) has warned of critical security vulnerabilities in Emergency Alert System (EAS) encoder/decoder devices.  If left unpatched, the issues could allow an adversary to issue fraudulent emergency alerts over TV, radio, and cable networks.  The August 1 advisory comes courtesy of DHS' Federal Emergency Management Agency (FEMA). CYBIR security researcher Ken Pyle has been credited with discovering the shortcoming.   EAS is a U.S. national&nbsp; public warning system &nbsp;that enables state authorities to disseminate information within 10 minutes during an emergency. Such alerts can interrupt radio and television to broadcast emergency alert information.   Details of the flaw have been kept under wraps to prevent active exploitation by malicious actors, although it's expected to be publicized as a proof-of-concept at the DEF CON conference to be held in Las Vegas next week.   "In short, the vulnerability is public knowledge and will be demons
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chromium site isolation bypass allows wide range of attacks on browsers<a href="https://portswigger.net/daily-swig/chromium-site-isolation-bypass-allows-wide-range-of-attacks-on-browsers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security weakness opens the door to a number of exploits including stealing private information, reading and modifying cookies, and gaining access to microphone and camera feeds.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

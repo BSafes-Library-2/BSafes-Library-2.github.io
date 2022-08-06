@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Readiness Measurement Firm Axio Raises $23 Million<a href="https://www.securityweek.com/cyber-readiness-measurement-firm-axio-raises-23-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York-based cyber readiness and risk management firm Axio has raised $23 million in a Series B funding round led by ISTARI, with participation from existing investors NFP Ventures and IA Capital Group.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

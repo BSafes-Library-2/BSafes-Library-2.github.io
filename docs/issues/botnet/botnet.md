@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+August 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux botnet RapperBot brute-forces SSH servers<a href="https://securityaffairs.co/wordpress/134023/malware/rapperbot-linux-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RapperBot is a new botnet employed in attacks since mid-June 2022 that targets Linux SSH servers with brute-force attacks.
+
+
+
+Researchers from FortiGuard Labs have discovered a new IoT botnet tracked as RapperBot which is active since mid-June 2022....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

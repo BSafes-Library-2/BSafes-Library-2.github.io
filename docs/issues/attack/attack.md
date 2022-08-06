@@ -8,6 +8,62 @@ nav_order: 900015
 
 ## Attack
 ---
+August 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers likely Behind Disruptive Cyberattacks Against Albanian Government<a href="https://thehackernews.com/2022/08/iranian-hackers-likely-behind.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor working to further Iranian goals is said to have been behind a set of disruptive cyberattacks against Albanian government services in mid-July 2022.  Cybersecurity firm Mandiant&nbsp; said &nbsp;the malicious activity against a NATO state represented a "geographic expansion of Iranian disruptive cyber operations."  The&nbsp; July 17 attacks , according to Albania's National Agency of Information Society, forced the government to "temporarily close access to online public services and other government websites" because of a "synchronized and sophisticated cybercriminal attack from outside Albania."  The politically motivated disruptive operation, per Mandiant, entailed the deployment of a new ransomware family called ROADSWEEP that included a ransom note with the text: "Why should our taxes be spent on the benefit of DURRES terrorists?"   A front named HomeLand Justice has since claimed credit for the cyber offensive, with the group also alle
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are actively exploiting password-stealing flaw in Zimbra<a href="https://www.bleepingcomputer.com/news/security/hackers-are-actively-exploiting-password-stealing-flaw-in-zimbra/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has added the Zimbra CVE-2022-27824 flaw to its 'Known Exploited Vulnerabilities Catalog,' indicating that it is actively exploited in attacks by hackers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Disruptive Roadsweep Ransomware Attacks on NATO Member Albania Linked to Iran<a href="https://www.securityweek.com/disruptive-cyberattacks-nato-member-albania-linked-iran?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Albanian government announced in mid-July that it was forced to shut down some public online services due to a cyberattack. Mandiant has investigated the incident, which led to the discovery of a new piece of ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Growing Number of Malware Attacks Leveraging Dark Utilities 'C2-as-a-Service'<a href="https://thehackernews.com/2022/08/a-growing-number-of-malware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nascent service called Dark Utilities  has already attracted 3,000 users for its ability to provide command-and-control (C2) services with the goal of commandeering compromised systems.  "It is marketed as a means to enable remote access, command execution, distributed denial-of-service (DDoS) attacks and cryptocurrency mining operations on infected systems," Cisco Talos&nbsp; said &nbsp;in a report shared with The Hacker News.  Dark Utilities, which emerged in early 2022, is advertised as a "C2-as-a-Service" (C2aaS), offering access to infrastructure hosted on the clearnet as well as the TOR network and associated payloads with support for Windows, Linux, and Python-based implementations for a mere €9.99.   Authenticated users on the platform are presented with a dashboard that makes it possible to generate new payloads tailored to a specific operating system that can then be deployed and executed on victim hosts.  Additionally, users are provided an administrative panel
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

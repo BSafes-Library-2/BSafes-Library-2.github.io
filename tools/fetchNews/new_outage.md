@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+August 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK NHS suffers outage after cyberattack on managed service provider<a href="https://www.bleepingcomputer.com/news/security/uk-nhs-suffers-outage-after-cyberattack-on-managed-service-provider/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+United Kingdom's&nbsp;National Health Service (NHS) 111 emergency services are affected by a major outage triggered by a cyberattack that hit the systems of&nbsp;managed service provider (MSP)&nbsp;Advanced.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

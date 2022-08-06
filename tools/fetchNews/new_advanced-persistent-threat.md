@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook finds new Android malware used by APT hackers<a href="https://www.bleepingcomputer.com/news/security/facebook-finds-new-android-malware-used-by-apt-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta (Facebook) has released its Q2 2022 adversarial threat report, and among the highlights is the discovery of two cyber-espionage clusters connected to hacker groups known as 'Bitter APT' and APT36 (aka 'Transparent Tribe') using new Android malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

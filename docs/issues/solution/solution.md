@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+August 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DuckDuckGo browser now blocks all Microsoft trackers, most of the time<a href="https://www.bleepingcomputer.com/news/security/duckduckgo-browser-now-blocks-all-microsoft-trackers-most-of-the-time/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DuckDuckGo announced today that they will now be blocking all third-party Microsoft tracking scripts in their privacy browser after failing to block them in the past.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sonatype shines a light on typosquatting in PyPI<a href="https://www.theregister.com/2022/08/03/sonatype_typosquatting/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Miscreants making use of typosquatting are being spotted by researchers at Sonatype, emphasizing the need to check that the package is really the one you meant to download.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

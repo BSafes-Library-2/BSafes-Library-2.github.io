@@ -8,6 +8,56 @@ nav_order: 900075
 
 ## Government
 ---
+August 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. CISA and Australia's ACSC Release List of 2021’s Top Malware Strains<a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-216a?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per the advisory, the top malware strains of 2021 include Agent Tesla, AZORult, Formbook, Ursnif, LokiBot, MOUSEISLAND, NanoCore, Qakbot, Remcos, TrickBot and GootLoader.
+</details>
+<div style="text-align: right" markdown="1">
+US CERT
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS warns of critical flaws in Emergency Alert System encoder/decoder devices<a href="https://securityaffairs.co/wordpress/134067/hacking/emergency-alert-system-bugs-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. DHS warns of critical security vulnerabilities in Emergency Alert System (EAS) encoder/decoder devices.
+
+
+
+The Department of Homeland Security (DHS) warned of critical security vulnerabilities in Emergency Alert System (EAS) encoder/decoder...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Zimbra email bug to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/134058/security/zimbra-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Critical Infrastructure Security Agency (CISA) adds a recently disclosed flaw in the Zimbra email suite to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The Cybersecurity &amp; Infrastructure Security Agency (CISA) has added a recently disclosed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

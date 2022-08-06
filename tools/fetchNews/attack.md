@@ -8,6 +8,66 @@ nav_order: 900015
 
 ## Attack
 ---
+August 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Woody RAT used in attacks aimed at Russian entities<a href="https://securityaffairs.co/wordpress/134014/intelligence/woody-rat-targets-russia-orgs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor is targeting Russian organizations with a new remote access trojan called&nbsp;Woody RAT.
+
+
+
+Malwarebytes researchers observed an unknown threat actor targeting Russian organizations with a new remote access trojan called&nbsp;Woody RAT....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Woody RAT Malware Being Used to Target Russian Organizations<a href="https://thehackernews.com/2022/08/new-woody-rat-malware-being-used-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor has been targeting Russian entities with a newly discovered remote access trojan called Woody RAT  for at least a year as part of a spear-phishing campaign.  The advanced custom backdoor is said to be delivered via either of two methods: archive files or Microsoft Office documents leveraging the now-patched "Follina" support diagnostic tool vulnerability ( CVE-2022-30190 ) in Windows.  Like other implants engineered for espionage-oriented operations, Woody RAT sports a wide range of features that enables the threat actor to remotely commandeer and steal sensitive information from the infected systems.  "The earliest versions of this RAT were typically archived into a ZIP file pretending to be a document specific to a Russian group," Malwarebytes researchers Ankur Saini and Hossein Jazi&nbsp; said &nbsp;in a Wednesday report.   "When the Follina vulnerability became known to the world, the threat actor switched to it to distribute the payload.&amp;quo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploited Atlassian Confluence Bug to Deploy Ljl Backdoor for Espionage<a href="https://thehackernews.com/2022/08/hackers-exploited-atlassian-confluence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor is said to have "highly likely" exploited a security flaw in an outdated Atlassian Confluence server to deploy a never-before-seen backdoor against an unnamed organization in the research and technical services sector.  The attack, which transpired over a seven-day-period during the end of May, has been attributed to a threat activity cluster tracked by cybersecurity firm Deepwatch as&nbsp; TAC-040 .  "The evidence indicates that the threat actor executed malicious commands with a parent process of tomcat9.exe in Atlassian's Confluence directory," the company&nbsp; said . "After the initial compromise, the threat actor ran various commands to enumerate the local system, network, and Active Directory environment."   The Atlassian vulnerability suspected to have been exploited is&nbsp; CVE-2022-26134 , an Object-Graph Navigation Language (OGNL) injection flaw that paves the way for arbitrary code execution on a Confluence Server or Data Center instance.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Chambers of Industry and Commerce hit by 'massive' cyberattack<a href="https://www.bleepingcomputer.com/news/security/german-chambers-of-industry-and-commerce-hit-by-massive-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Association of German Chambers of Industry and Commerce (DIHK) was forced to shut down all of its IT systems and switch off digital services, telephones, and email servers, in response to a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

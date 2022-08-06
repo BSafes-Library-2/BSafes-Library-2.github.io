@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers try to extort survey firm QuestionPro after alleged data theft<a href="https://www.bleepingcomputer.com/news/security/hackers-try-to-extort-survey-firm-questionpro-after-alleged-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers attempted to extort the online survey platform QuestionPro after claiming to have stolen the company's database containing respondents' personal information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flight of the Bumblebee: Email Lures and File Sharing Services Lead to Malware<a href="https://unit42.paloaltonetworks.com/bumblebee-malware-projector-libra/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among the threat actors distributing Bumblebee is Projector Libra (aka EXOTIC LILY). It is a criminal group that uses file sharing services to distribute malware after direct email correspondence with a potential victim.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,92 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE vulnerability impacts 29 models of DrayTek routers<a href="https://www.bleepingcomputer.com/news/security/critical-rce-vulnerability-impacts-29-models-of-draytek-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Trellix have discovered a critical unauthenticated remote code execution (RCE) vulnerability impacting 29 models of the DrayTek Vigor series of business routers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unauthenticated RCE can allow hacking DrayTek Vigor routers without user interaction<a href="https://securityaffairs.co/wordpress/134007/hacking/draytek-vigor-routers-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical flaw in multiple models of DrayTek Vigor routers can allow unauthenticated, remote attackers to fully compromise affected devices. 
+
+
+
+Tens of router models from Taiwanese SOHO manufacturer DrayTek are affected by a critical, unauthenticated,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Bug Could Let Hackers Remotely Take Over DrayTek Vigor Routers<a href="https://thehackernews.com/2022/08/critical-rce-bug-could-let-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 29 different router models from DrayTek have been identified as affected by a new critical, unauthenticated remote code execution vulnerability that, if successfully exploited, could lead to full compromise of the devices and unauthorized access to the broader network.  "The attack can be performed without user interaction if the management interface of the device has been configured to be internet facing," Trellix researcher Philippe Laulheret&nbsp; said . "A one-click attack can also be performed from within the LAN in the default device configuration."  Filed under CVE-2022-32548, the vulnerability has received the maximum severity rating of 10.0 on the CVSS scoring system, owing to its ability to completely allow an adversary to seize control of the routers.   At its core, the shortcoming is the result of a buffer overflow flaw in the web management interface ("/cgi-bin/wlogin.cgi"), which can be weaponized by a malicious actor by supplying spec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco addressed critical flaws in Small Business VPN routers<a href="https://securityaffairs.co/wordpress/133984/security/cisco-small-business-vpn-routers-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixes critical remote code execution vulnerability, tracked as CVE-2022-20842, impacting Small Business VPN routers.
+
+
+
+Cisco addressed a critical security vulnerability, tracked as CVE-2022-20842, impacting Small Business VPN routers.
+
+
+
+
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Business Routers Found Vulnerable to Critical Remote Hacking Flaws<a href="https://thehackernews.com/2022/08/cisco-business-routers-found-vulnerable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday rolled out patches to address eight security vulnerabilities , three of which could be weaponized by an unauthenticated attacker to gain remote code execution (RCE) or cause a denial-of-service (DoS) condition on affected devices.  The most critical of the flaws impact Cisco Small Business RV160, RV260, RV340, and RV345 Series routers. Tracked as CVE-2022-20842 (CVSS score: 9.8), the weakness stems from an insufficient validation of user-supplied input to the web-based management interface of the appliances.   "An attacker could exploit this vulnerability by sending crafted HTTP input to an affected device," Cisco said  in an advisory. "A successful exploit could allow the attacker to execute arbitrary code as the root user on the underlying operating system or cause the device to reload, resulting in a DoS condition."  A second shortcoming relates to a command injection vulnerability residing in the routers' web filter database update featur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

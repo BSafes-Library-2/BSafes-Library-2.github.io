@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2022
+August 05, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK NHS suffers outage after cyberattack on managed service provider<a href="https://www.bleepingcomputer.com/news/security/uk-nhs-suffers-outage-after-cyberattack-on-managed-service-provider/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2022
+August 5, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India scraps data protection law, promises better successor<a href="https://www.theregister.com/2022/08/04/india_scraps_data_protection_law/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2022
+August 05, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers likely Behind Disruptive Cyberattacks Against Albanian Government<a href="https://thehackernews.com/2022/08/iranian-hackers-likely-behind.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2022
+August 5, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter confirms zero-day used to access data of 5.4 million accounts<a href="https://securityaffairs.co/wordpress/134087/data-breach/twitter-zero-day-data-leak.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2022
+August 05, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - August 5th 2022 - A look at cyber insurance<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-5th-2022-a-look-at-cyber-insurance/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2022
+August 5, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Neurology Practice Notifies 363,000 Individuals That PHI Was Posted on Dark Web<a href="https://www.bankinfosecurity.com/neuro-practice-tells-363000-that-phi-was-posted-on-dark-web-a-19706?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2022
+August 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emergency Alert System Flaws Could Let Attackers Transmit Fake Messages<a href="https://thehackernews.com/2022/08/emergency-alert-system-flaws-could-let.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2022
+August 5, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The popularity of Dark Utilities ‘C2-as-a-Service’ rapidly increases<a href="https://securityaffairs.co/wordpress/134073/hacking/dark-utilities-c2-as-a-service.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2022
+August 05, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Slack resets passwords after exposing hashes in invitation links<a href="https://www.bleepingcomputer.com/news/security/slack-resets-passwords-after-exposing-hashes-in-invitation-links/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2022
+August 5, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. CISA and Australia's ACSC Release List of 2021’s Top Malware Strains<a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-216a?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ US CERT
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2022
+August 05, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Resolving Availability vs. Security, a Constant Conflict in IT<a href="https://thehackernews.com/2022/08/resolving-availability-vs-security.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2022
+August 5, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS warns of critical flaws in Emergency Alert System encoder/decoder devices<a href="https://securityaffairs.co/wordpress/134067/hacking/emergency-alert-system-bugs-alert.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2022
+August 05, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers are actively exploiting password-stealing flaw in Zimbra<a href="https://www.bleepingcomputer.com/news/security/hackers-are-actively-exploiting-password-stealing-flaw-in-zimbra/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2022
+August 5, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Disruptive Roadsweep Ransomware Attacks on NATO Member Albania Linked to Iran<a href="https://www.securityweek.com/disruptive-cyberattacks-nato-member-albania-linked-iran?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2022
+August 05, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Growing Number of Malware Attacks Leveraging Dark Utilities 'C2-as-a-Service'<a href="https://thehackernews.com/2022/08/a-growing-number-of-malware-attacks.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2022
+August 5, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Zimbra email bug to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/134058/security/zimbra-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2022
+August 05, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter confirms zero-day used to expose data of 5.4 million accounts<a href="https://www.bleepingcomputer.com/news/security/twitter-confirms-zero-day-used-to-expose-data-of-54-million-accounts/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2022
+August 5, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Keyavi Data raises $13 million to meet market demand for self-protecting data technology<a href="https://www.helpnetsecurity.com/2022/08/05/keyavi-data-funding/?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2022
+August 5, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mysterious threat actor TAC-040 used previously undetected Ljl Backdoor<a href="https://securityaffairs.co/wordpress/134033/hacking/tac-040-ljl-backdoor.html"> Full Text</a>
@@ -358,7 +358,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2022
+August 05, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook finds new Android malware used by APT hackers<a href="https://www.bleepingcomputer.com/news/security/facebook-finds-new-android-malware-used-by-apt-hackers/"> Full Text</a>
@@ -374,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2022
+August 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chromium site isolation bypass allows wide range of attacks on browsers<a href="https://portswigger.net/daily-swig/chromium-site-isolation-bypass-allows-wide-range-of-attacks-on-browsers?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2022
+August 5, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux botnet RapperBot brute-forces SSH servers<a href="https://securityaffairs.co/wordpress/134023/malware/rapperbot-linux-botnet.html"> Full Text</a>
@@ -410,7 +410,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2022
+August 05, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DuckDuckGo browser now blocks all Microsoft trackers, most of the time<a href="https://www.bleepingcomputer.com/news/security/duckduckgo-browser-now-blocks-all-microsoft-trackers-most-of-the-time/"> Full Text</a>
@@ -426,7 +426,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2022
+August 5, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sonatype shines a light on typosquatting in PyPI<a href="https://www.theregister.com/2022/08/03/sonatype_typosquatting/?&web_view=true"> Full Text</a>

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Traffic Light Protocol standard released after five years<a href="https://www.bleepingcomputer.com/news/security/new-traffic-light-protocol-standard-released-after-five-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Forum of Incident Response and Security Teams (FIRST) has published TLP 2.0, a new version of its Traffic Light Protocol (TLP) standard, five years after the release of the initial version.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Who Has Control: The SaaS App Admin Paradox<a href="https://thehackernews.com/2022/08/who-has-control-saas-app-admin-paradox.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Imagine this: a company-wide lockout to the company CRM, like Salesforce, because the organization's external admin attempts to disable MFA for themselves. They don't think to consult with the security team and don't consider the security implications, only the ease which they need for their team to use their login.&nbsp;  This CRM, however, defines MFA as a top-tier security setting; for example, Salesforce has a "High Assurance Login Value" configuration and immediately locks out all users as a safety precaution. The entire organization hits a standstill and is frustrated and confused.&nbsp;  Deeply concerning, this is not a one-off event, admins for business-critical SaaS apps often sit outside the security department and have profound control. Untrained and not focused on security measures, these admins are working towards their departmental KPIs. For instance, Hubspot is usually owned by the marketing department, likewise, Salesforce is often owned by the business dep
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
