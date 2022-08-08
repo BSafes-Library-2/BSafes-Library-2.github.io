@@ -8,6 +8,24 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mysterious threat actor TAC-040 used previously undetected Ljl Backdoor<a href="https://securityaffairs.co/wordpress/134033/hacking/tac-040-ljl-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor, tracked as TAC-040, exploited Atlassian Confluence flaw CVE-2022-26134 to deploy previously undetected Ljl Backdoor.
+
+
+
+Cybersecurity firm Deepwatch reported that a threat actor, tracked as TAC-040, has likely exploited the CVE-2022-26134...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

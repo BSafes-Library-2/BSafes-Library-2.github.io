@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resolving Availability vs. Security, a Constant Conflict in IT<a href="https://thehackernews.com/2022/08/resolving-availability-vs-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conflicting business requirements is a common problem – and you find it in every corner of an organization, including in information technology. Resolving these conflicts is a must, but it isn't always easy – though sometimes there is a novel solution that helps.  In IT management there is a constant struggle between security and operations teams. Yes, both teams ultimately want to have secure systems that are harder to breach. However, security can come at the expense of availability – and vice versa. In this article, we'll look at the availability vs. security conflict, and a solution that helps to resolve that conflict.  Ops team focus on availability… security teams lock down  Operations teams will always have stability, and therefore availability, as a top priority. Yes, ops teams will make security a priority too but only as far as it touches on either stability or availability, never as an absolute goal.  It plays out in the "five nines" uptime goal that sets an incredibly high
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

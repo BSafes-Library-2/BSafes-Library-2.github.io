@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keyavi Data raises $13 million to meet market demand for self-protecting data technology<a href="https://www.helpnetsecurity.com/2022/08/05/keyavi-data-funding/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As organizations rely on digital information to run their business, data-centric security is rapidly evolving. Keyavi’s patented technology infuses intelligence directly into data—adding layers of policy-based protection that fortify each file.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

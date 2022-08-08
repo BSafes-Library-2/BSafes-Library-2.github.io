@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GwisinLocker ransomware exclusively targets South Korea<a href="https://securityaffairs.co/wordpress/134105/cyber-crime/gwisinlocker-ransowmare-south-korea.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new family of ransomware, named GwisinLocker, that encrypts Windows and Linux ESXi servers.
+
+
+
+Researchers warn of a new ransomware called GwisinLocker which is able to encrypt Windows and Linux ESXi servers. The ransomware targets...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GwisinLocker ransomware encrypts Windows and Linux ESXi servers<a href="https://www.bleepingcomputer.com/news/security/new-gwisinlocker-ransomware-encrypts-windows-and-linux-esxi-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware family called 'GwisinLocker' targets South Korean healthcare, industrial, and pharmaceutical companies with Windows and Linux encryptors, including support for encrypting VMware ESXi servers and virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

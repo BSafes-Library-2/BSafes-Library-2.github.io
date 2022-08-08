@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 07, 2022
+August 07, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean hackers target crypto experts with fake Coinbase job offers<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-target-crypto-experts-with-fake-coinbase-job-offers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2022
+August 7, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Serious cyberattack hits German Chambers of Industry and Commerce (DIHK)<a href="https://securityaffairs.co/wordpress/134121/hacking/dihk-cyberattack.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 07, 2022
+August 07, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Snapchat, Amex sites abused in Microsoft 365 phishing attacks<a href="https://www.bleepingcomputer.com/news/security/snapchat-amex-sites-abused-in-microsoft-365-phishing-attacks/"> Full Text</a>
@@ -86,7 +86,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2022
+August 7, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 377<a href="https://securityaffairs.co/wordpress/134116/breaking-news/security-affairs-newsletter-round-377-by-pierluigi-paganini-2.html"> Full Text</a>
@@ -110,7 +110,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2022
+August 7, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GwisinLocker ransomware exclusively targets South Korea<a href="https://securityaffairs.co/wordpress/134105/cyber-crime/gwisinlocker-ransowmare-south-korea.html"> Full Text</a>
@@ -130,7 +130,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2022
+August 6, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Slack Bug Exposed Some Users’ Hashed Passwords for 5 Years<a href="https://www.wired.com/story/slack-hashed-passwords-exposed/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2022
+August 06, 2022 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New IoT RapperBot Malware Targeting Linux Servers via SSH Brute-Forcing Attack<a href="https://thehackernews.com/2022/08/new-iot-rapperbot-malware-targeting.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2022
+August 6, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter fixes bug that exposed at least 5.4M accounts<a href="https://techcrunch.com/2022/08/05/twitter-zero-day-vulnerability-millions/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2022
+August 06, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit Twitter Vulnerability to Exposes 5.4 Million Accounts<a href="https://thehackernews.com/2022/08/hackers-exploit-twitter-vulnerability.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2022
+August 06, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Edge gets better security defaults on less popular sites<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-gets-better-security-defaults-on-less-popular-sites/"> Full Text</a>
@@ -210,7 +210,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2022
+August 06, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Slack Resets Passwords After a Bug Exposed Hashed Passwords for Some Users<a href="https://thehackernews.com/2022/08/slack-resets-passwords-after-bug.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2022
+August 06, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New GwisinLocker ransomware encrypts Windows and Linux ESXi servers<a href="https://www.bleepingcomputer.com/news/security/new-gwisinlocker-ransomware-encrypts-windows-and-linux-esxi-servers/"> Full Text</a>
@@ -242,7 +242,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2022
+August 6, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Greek intelligence service used surveillance malware to spy on a journalist, Reuters reports<a href="https://securityaffairs.co/wordpress/134097/intelligence/greek-intelligence-surveillance-malware.html"> Full Text</a>
@@ -262,7 +262,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2022
+August 6, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Slack resets passwords for about 0.5% of its users due to the exposure of salted password hashes<a href="https://securityaffairs.co/wordpress/134094/security/slack-resets-passwords-bug.html"> Full Text</a>

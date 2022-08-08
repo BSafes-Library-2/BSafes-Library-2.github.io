@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+August 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New IoT RapperBot Malware Targeting Linux Servers via SSH Brute-Forcing Attack<a href="https://thehackernews.com/2022/08/new-iot-rapperbot-malware-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new IoT botnet malware dubbed RapperBot  has been observed rapidly evolving its capabilities since it was first discovered in mid-June 2022.  "This family borrows heavily from the original&nbsp; Mirai source code , but what separates it from other IoT malware families is its built-in capability to brute force credentials and gain access to SSH servers instead of Telnet as implemented in Mirai," Fortinet FortiGuard Labs&nbsp; said &nbsp;in a report.  The malware, which gets its name from an embedded URL to a YouTube rap music video in an earlier version, is said to have amassed a growing collection of compromised SSH servers, with over 3,500 unique IP addresses used to scan and brute-force their way into the servers.   RapperBot's current implementation also delineates it from Mirai, allowing it to primarily function as an SSH brute-force tool with limited capabilities to carry out distributed denial-of-service (DDoS) attacks.  The deviation from traditional Mirai behavior is further
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

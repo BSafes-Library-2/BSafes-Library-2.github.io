@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+August 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Greek intelligence service used surveillance malware to spy on a journalist, Reuters reports<a href="https://securityaffairs.co/wordpress/134097/intelligence/greek-intelligence-surveillance-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Greek intelligence admitted it had spied on a journalist, while citizens ask the government to reveal the use of surveillance malware.
+
+
+
+The head of the Greek intelligence told a parliamentary committee that they had spied on a journalist with surveillance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

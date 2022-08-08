@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+August 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter confirms zero-day used to access data of 5.4 million accounts<a href="https://securityaffairs.co/wordpress/134087/data-breach/twitter-zero-day-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter confirmed that the recent data breach that exposed data of 5.4 million accounts was caused by the exploitation of a&nbsp;zero-day flaw.
+
+
+
+At the end of July, a threat actor leaked data of 5.4 million Twitter accounts that were obtained by exploiting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Neurology Practice Notifies 363,000 Individuals That PHI Was Posted on Dark Web<a href="https://www.bankinfosecurity.com/neuro-practice-tells-363000-that-phi-was-posted-on-dark-web-a-19706?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Indiana neurology practice is notifying nearly 363,000 individuals that their sensitive information was compromised in a recent ransomware attack - and that some of their data was posted on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Slack resets passwords after exposing hashes in invitation links<a href="https://www.bleepingcomputer.com/news/security/slack-resets-passwords-after-exposing-hashes-in-invitation-links/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Slack notified roughly 0.5% of its users that&nbsp;it reset their passwords after fixing a bug exposing&nbsp;salted password hashes when creating or revoking shared invitation links for workspaces.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter confirms zero-day used to expose data of 5.4 million accounts<a href="https://www.bleepingcomputer.com/news/security/twitter-confirms-zero-day-used-to-expose-data-of-54-million-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter has confirmed a recent data breach was caused by a&nbsp;now-patched zero-day vulnerability used to link email addresses and phone numbers to users' accounts, allowing a threat actor to compile a list of 5.4 million user account profiles.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

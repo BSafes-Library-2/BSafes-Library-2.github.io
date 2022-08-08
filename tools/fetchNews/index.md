@@ -34,6 +34,254 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 07, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers target crypto experts with fake Coinbase job offers<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-target-crypto-experts-with-fake-coinbase-job-offers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new social engineering campaign by the notorious North Korean Lazarus hacking group has been discovered, with the hackers impersonating Coinbase to target employees in the fintech industry.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Serious cyberattack hits German Chambers of Industry and Commerce (DIHK)<a href="https://securityaffairs.co/wordpress/134121/hacking/dihk-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive cyberattack hit the website of the German Chambers of Industry and Commerce (DIHK) this week.
+
+
+
+A massive attack hit the website of the German Chambers of Industry and Commerce (DIHK) forcing the organization to shut down its IT systems as a precautionary...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 07, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snapchat, Amex sites abused in Microsoft 365 phishing attacks<a href="https://www.bleepingcomputer.com/news/security/snapchat-amex-sites-abused-in-microsoft-365-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers abused open redirects on the websites of Snapchat and American Express in a series of phishing attacks to steal Microsoft 365 credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 377<a href="https://securityaffairs.co/wordpress/134116/breaking-news/security-affairs-newsletter-round-377-by-pierluigi-paganini-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+Greek...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GwisinLocker ransomware exclusively targets South Korea<a href="https://securityaffairs.co/wordpress/134105/cyber-crime/gwisinlocker-ransowmare-south-korea.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new family of ransomware, named GwisinLocker, that encrypts Windows and Linux ESXi servers.
+
+
+
+Researchers warn of a new ransomware called GwisinLocker which is able to encrypt Windows and Linux ESXi servers. The ransomware targets...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Slack Bug Exposed Some Users’ Hashed Passwords for 5 Years<a href="https://www.wired.com/story/slack-hashed-passwords-exposed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Slack has revealed that one of its low-friction features contained a vulnerability, now fixed, that exposed cryptographically scrambled versions of some users' passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2022 -- [IOT](/docs/issues/iot/iot/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New IoT RapperBot Malware Targeting Linux Servers via SSH Brute-Forcing Attack<a href="https://thehackernews.com/2022/08/new-iot-rapperbot-malware-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new IoT botnet malware dubbed RapperBot  has been observed rapidly evolving its capabilities since it was first discovered in mid-June 2022.  "This family borrows heavily from the original  Mirai source code , but what separates it from other IoT malware families is its built-in capability to brute force credentials and gain access to SSH servers instead of Telnet as implemented in Mirai," Fortinet FortiGuard Labs  said  in a report.  The malware, which gets its name from an embedded URL to a YouTube rap music video in an earlier version, is said to have amassed a growing collection of compromised SSH servers, with over 3,500 unique IP addresses used to scan and brute-force their way into the servers.   RapperBot's current implementation also delineates it from Mirai, allowing it to primarily function as an SSH brute-force tool with limited capabilities to carry out distributed denial-of-service (DDoS) attacks.  The deviation from traditional Mirai behavior is further
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter fixes bug that exposed at least 5.4M accounts<a href="https://techcrunch.com/2022/08/05/twitter-zero-day-vulnerability-millions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter says it has fixed a security vulnerability that allowed threat actors to compile information of 5.4 million Twitter accounts, which were listed for sale on a known cybercrime forum.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Twitter Vulnerability to Exposes 5.4 Million Accounts<a href="https://thehackernews.com/2022/08/hackers-exploit-twitter-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter on Friday revealed that a now-patched zero-day bug was used to link phone numbers and emails to user accounts on the social media platform.  "As a result of the vulnerability, if someone submitted an email address or phone number to Twitter's systems, Twitter's systems would tell the person what Twitter account the submitted email addresses or phone number was associated with, if any," the company  said  in an advisory.   Twitter said the bug, which it was  made aware  of in January 2022, stemmed from a code change introduced in June 2021. No passwords were exposed as a result of the incident.  The six-month delay in making this public stems from new evidence last month that an unidentified actor had potentially taken advantage of the flaw before the fix to scrape user information and sell it for profit on  Breach Forums .  Although Twitter didn't reveal the exact number of impacted users, the forum post made by the threat actor shows that the flaw was ex
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Edge gets better security defaults on less popular sites<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-gets-better-security-defaults-on-less-popular-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is rolling out a new update to the Microsoft Edge Stable Channel over the coming days to improve the web browser's security defaults when visiting less popular websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Slack Resets Passwords After a Bug Exposed Hashed Passwords for Some Users<a href="https://thehackernews.com/2022/08/slack-resets-passwords-after-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Slack said it took the step of resetting passwords for about 0.5% of its users after a flaw exposed salted password hashes when creating or revoking shared invitation links for workspaces.  "When a user performed either of these actions, Slack transmitted a hashed version of their password to other workspace members," the enterprise communication and collaboration platform  said  in an alert on 4th August.   Hashing refers to a cryptographic technique that transforms any form of data into a fixed-size output (called a hash value or simply hash).  Salting  is designed to add an extra security layer to the hashing process to make it resistant to brute-force attempts.  The Salesforce-owned company, which reported more than  12 million daily active users  in September 2019, didn't reveal the exact  hashing algorithm  used to safeguard the passwords.  The bug is said to have impacted all users who created or revoked shared invitation links between 17 April 2017 and 17 July 20
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GwisinLocker ransomware encrypts Windows and Linux ESXi servers<a href="https://www.bleepingcomputer.com/news/security/new-gwisinlocker-ransomware-encrypts-windows-and-linux-esxi-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware family called 'GwisinLocker' targets South Korean healthcare, industrial, and pharmaceutical companies with Windows and Linux encryptors, including support for encrypting VMware ESXi servers and virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Greek intelligence service used surveillance malware to spy on a journalist, Reuters reports<a href="https://securityaffairs.co/wordpress/134097/intelligence/greek-intelligence-surveillance-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Greek intelligence admitted it had spied on a journalist, while citizens ask the government to reveal the use of surveillance malware.
+
+
+
+The head of the Greek intelligence told a parliamentary committee that they had spied on a journalist with surveillance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Slack resets passwords for about 0.5% of its users due to the exposure of salted password hashes<a href="https://securityaffairs.co/wordpress/134094/security/slack-resets-passwords-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Slack is resetting passwords for approximately 0.5% of its users after a bug exposed salted password hashes when users created or revoked a shared invitation link for their workspace
+
+
+
+Slack announced that it is resetting passwords for about 0.5% of its users...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 05, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

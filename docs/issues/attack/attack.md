@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+August 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Serious cyberattack hits German Chambers of Industry and Commerce (DIHK)<a href="https://securityaffairs.co/wordpress/134121/hacking/dihk-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive cyberattack hit the website of the German Chambers of Industry and Commerce (DIHK) this week.
+
+
+
+A massive attack hit the website of the German Chambers of Industry and Commerce (DIHK) forcing the organization to shut down its IT systems as a precautionary...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Edge gets better security defaults on less popular sites<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-gets-better-security-defaults-on-less-popular-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is rolling out&nbsp;a new update to the&nbsp;Microsoft Edge Stable Channel over the coming days to improve the web browser's security defaults when visiting less popular websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
