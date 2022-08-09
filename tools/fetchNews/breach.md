@@ -8,6 +8,80 @@ nav_order: 900029
 
 ## Breach
 ---
+August 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Slack Bug Exposed Some Users’ Hashed Passwords for 5 Years<a href="https://www.wired.com/story/slack-hashed-passwords-exposed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Slack has revealed that one of its low-friction features contained a vulnerability, now fixed, that exposed cryptographically scrambled versions of some users' passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter fixes bug that exposed at least 5.4M accounts<a href="https://techcrunch.com/2022/08/05/twitter-zero-day-vulnerability-millions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter says it has fixed a security vulnerability that allowed threat actors to compile information of 5.4 million Twitter accounts, which were listed for sale on a known cybercrime forum.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Twitter Vulnerability to Exposes 5.4 Million Accounts<a href="https://thehackernews.com/2022/08/hackers-exploit-twitter-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter on Friday revealed that a now-patched zero-day bug was used to link phone numbers and emails to user accounts on the social media platform.  "As a result of the vulnerability, if someone submitted an email address or phone number to Twitter's systems, Twitter's systems would tell the person what Twitter account the submitted email addresses or phone number was associated with, if any," the company&nbsp; said &nbsp;in an advisory.   Twitter said the bug, which it was&nbsp; made aware &nbsp;of in January 2022, stemmed from a code change introduced in June 2021. No passwords were exposed as a result of the incident.  The six-month delay in making this public stems from new evidence last month that an unidentified actor had potentially taken advantage of the flaw before the fix to scrape user information and sell it for profit on&nbsp; Breach Forums .  Although Twitter didn't reveal the exact number of impacted users, the forum post made by the threat actor shows that the flaw was ex
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Slack Resets Passwords After a Bug Exposed Hashed Passwords for Some Users<a href="https://thehackernews.com/2022/08/slack-resets-passwords-after-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Slack said it took the step of resetting passwords for about 0.5% of its users after a flaw exposed salted password hashes when creating or revoking shared invitation links for workspaces.  "When a user performed either of these actions, Slack transmitted a hashed version of their password to other workspace members," the enterprise communication and collaboration platform&nbsp; said &nbsp;in an alert on 4th August.   Hashing refers to a cryptographic technique that transforms any form of data into a fixed-size output (called a hash value or simply hash).&nbsp; Salting &nbsp;is designed to add an extra security layer to the hashing process to make it resistant to brute-force attempts.  The Salesforce-owned company, which reported more than&nbsp; 12 million daily active users &nbsp;in September 2019, didn't reveal the exact&nbsp; hashing algorithm &nbsp;used to safeguard the passwords.  The bug is said to have impacted all users who created or revoked shared invitation links between 17 April 2017 and 17 July 20
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Slack resets passwords for about 0.5% of its users due to the exposure of salted password hashes<a href="https://securityaffairs.co/wordpress/134094/security/slack-resets-passwords-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Slack is resetting passwords for approximately 0.5% of its users after a bug exposed salted password hashes when users created or revoked a shared invitation link for their workspace
+
+
+
+Slack announced that it is resetting passwords for about 0.5% of its users...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

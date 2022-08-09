@@ -34,6 +34,394 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 08, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+deBridge Finance crypto platform targeted by Lazarus hackers<a href="https://www.bleepingcomputer.com/news/security/debridge-finance-crypto-platform-targeted-by-lazarus-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers suspected to be from the North Korean Lazarus group tried their luck at stealing cryptocurrency from deBridge Finance, a cross-chain protocol that enables the decentralized transfer of assets between various blockchains.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than 3200 Apps Found Exposing Twitter API Keys<a href="https://cyware.com/news/more-than-3200-apps-found-exposing-twitter-api-keys-1c151b61"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of 3,207 mobile apps were found exposing Twitter API keys to the public, potentially allowing a hacker to take over Twitter accounts associated with the apps. A threat actor with access to a Twitter account could perform actions such as reading direct messages, deleting tweets, accessing acco ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 08, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Orchard Botnet Uses Bitcoin Founder's Account Info to Generate Malicious Domains<a href="https://thehackernews.com/2022/08/new-orchard-botnet-uses-bitcoin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new botnet named Orchard has been observed using Bitcoin creator Satoshi Nakamoto's account transaction information to generate domain names to conceal its command-and-control (C2) infrastructure.  "Because of the uncertainty of Bitcoin transactions, this technique is more unpredictable than using the common time-generated [ domain generation algorithms ], and thus more difficult to defend against," researchers from Qihoo 360's Netlab security team said  in a Friday write-up.  Orchard is said to have undergone three revisions since February 2021, with the botnet primarily used to deploy additional payloads onto a victim's machine and execute commands received from the C2 server.   It's also designed to upload device and user information as well as infect USB storage devices to propagate the malware. Netlab's analysis shows that over 3,000 hosts have been enslaved by the malware to date, most of them located in China.  Orchard has also been subjected to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Orchard botnet uses Bitcoin Transaction info to generate DGA domains<a href="https://securityaffairs.co/wordpress/134155/malware/orchard-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a new botnet named Orchard using Bitcoin creator Satoshi Nakamoto's account information to generate malicious domains.
+
+
+
+360 Netlab researchers recently discovered a new botnet named Orchard that uses Satoshi Nakamoto's Bitcoin account...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 08, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Email marketing firm hacked to steal crypto-focused mailing lists<a href="https://www.bleepingcomputer.com/news/security/email-marketing-firm-hacked-to-steal-crypto-focused-mailing-lists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email marketing firm Klaviyo disclosed a data breach after threat actors gained access to internal systems and downloaded marketing lists for cryptocurrency-related customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Introduction to Industrial Spy Ransomware Group<a href="https://cyware.com/news/an-introduction-to-industrial-spy-ransomware-group-40a58f19"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have dissected the inner workings of a relatively new ransomware threat known as Industrial Spy that started as a data extortion marketplace in April. It has reportedly studied Cuba ransomware briefly before creating its own ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 08, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Benefits of Building a Mature and Diverse Blue Team<a href="https://thehackernews.com/2022/08/the-benefits-of-building-mature-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A few days ago, a friend and I were having a rather engaging conversation that sparked my excitement. We were discussing my prospects of becoming a red teamer as a natural career progression. The reason I got stirred up is not that I want to change either my job or my position, as I am a happy camper being part of Cymulate's blue team.  What upset me was that my friend could not grasp the idea that I wanted to keep working as a blue teamer because, as far as he was concerned, the only natural progression is to move to the red team.   Red teams include many roles ranging from penetration testers to attackers and exploit developers. These roles attract most of the buzz, and the many certifications revolving around these roles (OSCP, OSEP, CEH) make them seem fancy. Movies usually make hackers the heroes, while typically ignoring the defending side, the complexities and challenges of blue teamers' roles are far less known.  While blue teams' defending roles might not sound as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio discloses data breach that impacted customers and employees<a href="https://securityaffairs.co/wordpress/134147/data-breach/twilio-discloses-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Communications company Twilio discloses a data breach after threat actors have stolen employee credentials in an SMS phishing attack.
+
+
+
+Communications company Twilio discloses a data breach, threat actors had access to the data of some of its customers....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 08, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US sanctions crypto mixer Tornado Cash used by North Korean hackers<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-crypto-mixer-tornado-cash-used-by-north-korean-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned Tornado Cash today, a decentralized cryptocurrency mixer service used to launder more than $7 billion since its creation in 2019.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous Source Leaks 4TB of Cellebrite Data Online After Cyberattack<a href="https://www.hackread.com/anonymous-leaks-4tb-cellebrite-data-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is worth noting that as of now, the leaked data is only available to researchers and journalists by requesting Distributed Denial of Secrets (DDoSecrets), a non-profit whistleblower organization.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 08, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Classiscam Scam-as-a-Service Operations in Singapore<a href="https://thehackernews.com/2022/08/researchers-uncover-classiscam-scam-as.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated scam-as-a-service operation dubbed Classiscam  has now infiltrated into Singapore, more than 1.5 years after  expanding to Europe .  "Scammers posing as legitimate buyers approach sellers with the request to purchase goods from their listings and the ultimate aim of stealing payment data," Group-IB  said  in a report shared with The Hacker News.  The cybersecurity firm called the operators a "well-coordinated and technologically advanced scammer criminal network."  Classiscam refers to a  Russia-based cybercrime operation  that was first recorded in summer 2019 but only came under spotlight a year later coinciding with a surge in activity owing to an increase in online shopping in the aftermath of COVID-19 outbreak.  Called the  most widely used fraud scheme  during the pandemic, Classiscam targets people who use marketplaces and services relating to property rentals, hotel bookings, online bank transfers, online retail, ride-sharing, and package de
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LogoKit update – The phishing kit leveraging Open Redirect Vulnerabilities<a href="https://securityaffairs.co/wordpress/134141/hacking/logokit-phishing-open-redirect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LogoKit - Threat actors leveraging Open Redirect Vulnerabilities popular in online services and apps to bypass spam filters in phishing campaigns.
+
+
+
+Resecurity, Inc. (USA), a Los Angeles-based cybersecurity company providing managed threat detection...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 08, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio discloses data breach after SMS phishing attack on employees<a href="https://www.bleepingcomputer.com/news/security/twilio-discloses-data-breach-after-sms-phishing-attack-on-employees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud communications company Twilio says some of its customers' data was accessed by attackers who breached internal systems after stealing employee credentials in an SMS phishing attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Hackers might have figured out your secret Twitter accounts<a href="https://www.theverge.com/2022/8/7/23295873/hackers-secret-twitter-accounts-security-flaw-vulnerability?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter initially patched the issue in January after receiving a report through its bug bounty program, but a hacker managed to exploit the flaw before Twitter even knew about it.
+</details>
+<div style="text-align: right" markdown="1">
+The Verge
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 08, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Cracks Down on Cyber Espionage Operations in South Asia Abusing Facebook<a href="https://thehackernews.com/2022/08/meta-cracks-down-on-cyber-espionage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook parent company Meta disclosed that it took action against two espionage operations in South Asia that leveraged its social media platforms to distribute malware to potential targets.  The first set of activities is what the company described as "persistent and well-resourced" and undertaken by a hacking group tracked under the moniker Bitter APT (aka APT-C-08 or T-APT-17) targeting individuals in New Zealand, India, Pakistan, and the U.K.  "Bitter used various malicious tactics to target people online with social engineering and infect their devices with malware," Meta  said  in its Quarterly Adversarial Threat Report. "They used a mix of link-shortening services, malicious domains, compromised websites, and third-party hosting providers to distribute their malware."  The attacks involved the threat actor creating fictitious personas on the platform, masquerading as attractive young women in a bid to build trust with targets and lure them into cl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers abuse open redirects in Snapchat and Amex in phishing attacks<a href="https://securityaffairs.co/wordpress/134131/cyber-crime/snapchat-amex-open-redirects-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors abuse open redirects on Snapchat and American Express to launch phishing attacks against Microsoft 365 users.
+
+
+
+Attackers abused open redirects on the websites of Snapchat and American Express as part of a phishing campaign targeting Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 08, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7-Eleven stores in Denmark closed due to a cyberattack<a href="https://www.bleepingcomputer.com/news/security/7-eleven-stores-in-denmark-closed-due-to-a-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+7-Eleven stores in Denmark shut down today after a cyberattack disrupted stores' payment and checkout systems throughout the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Adult Site Leaking 14 Million User Details – and It’s Increasing!<a href="https://www.hackread.com/chinese-adult-site-leaking-14-million-user-details/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hjedd, a Chinese adult content and NSFW platform, has been exposing a treasure trove of user data online since at least July 2022. The server was found to be publicly accessible without any security authentication or password.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft is blocking Tutanota email addresses from registering a MS Teams account<a href="https://securityaffairs.co/wordpress/134124/digital-id/microsoft-block-tutanota-email-addresses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is actively blocking Tutanota email addresses from registering a Microsoft Teams account. 
+
+
+
+Tutanota is an end-to-end encrypted email app and a freemium secure email service, as of March 2017, Tutanota's owners claimed to have over 2 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 08, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers use new Windows malware to backdoor govt, defense orgs<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-windows-malware-to-backdoor-govt-defense-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An extensive series of attacks detected in January used new Windows malware to backdoor government entities and organizations in the defense industry from several countries in Eastern Europe.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target social media accounts of small businesses via Instagram scams<a href="https://www.theage.com.au/national/victoria/hackers-target-small-businesses-social-media-accounts-20220804-p5b7bp.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing emails are often sent during the early evening and on weekends when the recipients are likely to be less vigilant. Such emails often claim that a business page had violated copyright laws.
+</details>
+<div style="text-align: right" markdown="1">
+The Age
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 Fixes 21 Vulnerabilities With Quarterly Security Patches<a href="https://www.securityweek.com/f5-fixes-21-vulnerabilities-quarterly-security-patches?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security and application delivery solutions provider F5 has released its quarterly security notification for August 2022, which informs customers about 21 vulnerabilities affecting BIG-IP and other products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks on healthcare organizations negatively impact patient care<a href="https://www.helpnetsecurity.com/2022/08/08/cyberattacks-healthcare-impact/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among other things, a survey by Cynerio and the Ponemon Institute has also revealed that almost half of hospitals have been attacked with ransomware, and that 76% of victimized hospitals were attacked 3 or more times.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 07, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

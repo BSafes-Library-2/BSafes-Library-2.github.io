@@ -8,6 +8,70 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Classiscam Scam-as-a-Service Operations in Singapore<a href="https://thehackernews.com/2022/08/researchers-uncover-classiscam-scam-as.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated scam-as-a-service operation dubbed Classiscam  has now infiltrated into Singapore, more than 1.5 years after&nbsp; expanding to Europe .  "Scammers posing as legitimate buyers approach sellers with the request to purchase goods from their listings and the ultimate aim of stealing payment data," Group-IB&nbsp; said &nbsp;in a report shared with The Hacker News.  The cybersecurity firm called the operators a "well-coordinated and technologically advanced scammer criminal network."  Classiscam refers to a&nbsp; Russia-based cybercrime operation &nbsp;that was first recorded in summer 2019 but only came under spotlight a year later coinciding with a surge in activity owing to an increase in online shopping in the aftermath of COVID-19 outbreak.  Called the&nbsp; most widely used fraud scheme &nbsp;during the pandemic, Classiscam targets people who use marketplaces and services relating to property rentals, hotel bookings, online bank transfers, online retail, ride-sharing, and package de
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LogoKit update – The phishing kit leveraging Open Redirect Vulnerabilities<a href="https://securityaffairs.co/wordpress/134141/hacking/logokit-phishing-open-redirect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LogoKit - Threat actors leveraging Open Redirect Vulnerabilities popular in online services and apps to bypass spam filters in phishing campaigns.
+
+
+
+Resecurity, Inc. (USA), a Los Angeles-based cybersecurity company providing managed threat detection...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio discloses data breach after SMS phishing attack on employees<a href="https://www.bleepingcomputer.com/news/security/twilio-discloses-data-breach-after-sms-phishing-attack-on-employees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud communications company Twilio says some of its customers' data was accessed by attackers who breached internal systems after stealing employee credentials in an SMS phishing attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers abuse open redirects in Snapchat and Amex in phishing attacks<a href="https://securityaffairs.co/wordpress/134131/cyber-crime/snapchat-amex-open-redirects-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors abuse open redirects on Snapchat and American Express to launch phishing attacks against Microsoft 365 users.
+
+
+
+Attackers abused open redirects on the websites of Snapchat and American Express as part of a phishing campaign targeting Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

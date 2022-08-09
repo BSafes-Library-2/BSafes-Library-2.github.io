@@ -8,6 +8,80 @@ nav_order: 900029
 
 ## Breach
 ---
+August 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than 3200 Apps Found Exposing Twitter API Keys<a href="https://cyware.com/news/more-than-3200-apps-found-exposing-twitter-api-keys-1c151b61"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of 3,207 mobile apps were found exposing Twitter API keys to the public, potentially allowing a hacker to take over Twitter accounts associated with the apps. A threat actor with access to a Twitter account could perform actions such as reading direct messages, deleting tweets, accessing acco ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Email marketing firm hacked to steal crypto-focused mailing lists<a href="https://www.bleepingcomputer.com/news/security/email-marketing-firm-hacked-to-steal-crypto-focused-mailing-lists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email marketing firm Klaviyo disclosed a data breach after threat actors gained access to internal systems and downloaded marketing lists for cryptocurrency-related customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio discloses data breach that impacted customers and employees<a href="https://securityaffairs.co/wordpress/134147/data-breach/twilio-discloses-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Communications company Twilio discloses a data breach after threat actors have stolen employee credentials in an SMS phishing attack.
+
+
+
+Communications company Twilio discloses a data breach, threat actors had access to the data of some of its customers....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous Source Leaks 4TB of Cellebrite Data Online After Cyberattack<a href="https://www.hackread.com/anonymous-leaks-4tb-cellebrite-data-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is worth noting that as of now, the leaked data is only available to researchers and journalists by requesting Distributed Denial of Secrets (DDoSecrets), a non-profit whistleblower organization.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Adult Site Leaking 14 Million User Details – and It’s Increasing!<a href="https://www.hackread.com/chinese-adult-site-leaking-14-million-user-details/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hjedd, a Chinese adult content and NSFW platform, has been exposing a treasure trove of user data online since at least July 2022. The server was found to be publicly accessible without any security authentication or password.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

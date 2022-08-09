@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Cracks Down on Cyber Espionage Operations in South Asia Abusing Facebook<a href="https://thehackernews.com/2022/08/meta-cracks-down-on-cyber-espionage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook parent company Meta disclosed that it took action against two espionage operations in South Asia that leveraged its social media platforms to distribute malware to potential targets.  The first set of activities is what the company described as "persistent and well-resourced" and undertaken by a hacking group tracked under the moniker Bitter APT (aka APT-C-08 or T-APT-17) targeting individuals in New Zealand, India, Pakistan, and the U.K.  "Bitter used various malicious tactics to target people online with social engineering and infect their devices with malware," Meta&nbsp; said &nbsp;in its Quarterly Adversarial Threat Report. "They used a mix of link-shortening services, malicious domains, compromised websites, and third-party hosting providers to distribute their malware."  The attacks involved the threat actor creating fictitious personas on the platform, masquerading as attractive young women in a bid to build trust with targets and lure them into cl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

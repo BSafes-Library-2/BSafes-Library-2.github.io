@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+August 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7-Eleven stores in Denmark closed due to a cyberattack<a href="https://www.bleepingcomputer.com/news/security/7-eleven-stores-in-denmark-closed-due-to-a-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+7-Eleven stores in Denmark shut down today after a cyberattack disrupted stores' payment and checkout systems throughout the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

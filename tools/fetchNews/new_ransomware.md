@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Introduction to Industrial Spy Ransomware Group<a href="https://cyware.com/news/an-introduction-to-industrial-spy-ransomware-group-40a58f19"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have dissected the inner workings of a relatively new ransomware threat known as Industrial Spy that started as a data extortion marketplace in April. It has reportedly studied Cuba ransomware briefly before creating its own ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

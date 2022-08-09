@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US sanctions crypto mixer Tornado Cash used by North Korean hackers<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-crypto-mixer-tornado-cash-used-by-north-korean-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned Tornado Cash today, a decentralized cryptocurrency mixer service used to launder more than $7 billion since its creation in 2019.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

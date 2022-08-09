@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 08, 2022
+August 08, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 deBridge Finance crypto platform targeted by Lazarus hackers<a href="https://www.bleepingcomputer.com/news/security/debridge-finance-crypto-platform-targeted-by-lazarus-hackers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2022
+August 8, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More than 3200 Apps Found Exposing Twitter API Keys<a href="https://cyware.com/news/more-than-3200-apps-found-exposing-twitter-api-keys-1c151b61"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 08, 2022
+August 08, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Orchard Botnet Uses Bitcoin Founder's Account Info to Generate Malicious Domains<a href="https://thehackernews.com/2022/08/new-orchard-botnet-uses-bitcoin.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2022
+August 8, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Orchard botnet uses Bitcoin Transaction info to generate DGA domains<a href="https://securityaffairs.co/wordpress/134155/malware/orchard-botnet.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 08, 2022
+August 08, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Email marketing firm hacked to steal crypto-focused mailing lists<a href="https://www.bleepingcomputer.com/news/security/email-marketing-firm-hacked-to-steal-crypto-focused-mailing-lists/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2022
+August 8, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An Introduction to Industrial Spy Ransomware Group<a href="https://cyware.com/news/an-introduction-to-industrial-spy-ransomware-group-40a58f19"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 08, 2022
+August 08, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Benefits of Building a Mature and Diverse Blue Team<a href="https://thehackernews.com/2022/08/the-benefits-of-building-mature-and.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2022
+August 8, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twilio discloses data breach that impacted customers and employees<a href="https://securityaffairs.co/wordpress/134147/data-breach/twilio-discloses-data-breach.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 08, 2022
+August 08, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US sanctions crypto mixer Tornado Cash used by North Korean hackers<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-crypto-mixer-tornado-cash-used-by-north-korean-hackers/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2022
+August 8, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous Source Leaks 4TB of Cellebrite Data Online After Cyberattack<a href="https://www.hackread.com/anonymous-leaks-4tb-cellebrite-data-cyberattack/?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 08, 2022
+August 08, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Classiscam Scam-as-a-Service Operations in Singapore<a href="https://thehackernews.com/2022/08/researchers-uncover-classiscam-scam-as.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2022
+August 8, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LogoKit update – The phishing kit leveraging Open Redirect Vulnerabilities<a href="https://securityaffairs.co/wordpress/134141/hacking/logokit-phishing-open-redirect.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 08, 2022
+August 08, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twilio discloses data breach after SMS phishing attack on employees<a href="https://www.bleepingcomputer.com/news/security/twilio-discloses-data-breach-after-sms-phishing-attack-on-employees/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2022
+August 8, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Hackers might have figured out your secret Twitter accounts<a href="https://www.theverge.com/2022/8/7/23295873/hackers-secret-twitter-accounts-security-flaw-vulnerability?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ The Verge
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 08, 2022
+August 08, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Cracks Down on Cyber Espionage Operations in South Asia Abusing Facebook<a href="https://thehackernews.com/2022/08/meta-cracks-down-on-cyber-espionage.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2022
+August 8, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers abuse open redirects in Snapchat and Amex in phishing attacks<a href="https://securityaffairs.co/wordpress/134131/cyber-crime/snapchat-amex-open-redirects-phishing.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 08, 2022
+August 08, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 7-Eleven stores in Denmark closed due to a cyberattack<a href="https://www.bleepingcomputer.com/news/security/7-eleven-stores-in-denmark-closed-due-to-a-cyberattack/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2022
+August 8, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Adult Site Leaking 14 Million User Details – and It’s Increasing!<a href="https://www.hackread.com/chinese-adult-site-leaking-14-million-user-details/?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2022
+August 8, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft is blocking Tutanota email addresses from registering a MS Teams account<a href="https://securityaffairs.co/wordpress/134124/digital-id/microsoft-block-tutanota-email-addresses.html"> Full Text</a>
@@ -358,7 +358,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 08, 2022
+August 08, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese hackers use new Windows malware to backdoor govt, defense orgs<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-windows-malware-to-backdoor-govt-defense-orgs/"> Full Text</a>
@@ -374,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2022
+August 8, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers target social media accounts of small businesses via Instagram scams<a href="https://www.theage.com.au/national/victoria/hackers-target-small-businesses-social-media-accounts-20220804-p5b7bp.html?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ The Age
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2022
+August 8, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 F5 Fixes 21 Vulnerabilities With Quarterly Security Patches<a href="https://www.securityweek.com/f5-fixes-21-vulnerabilities-quarterly-security-patches?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2022
+August 8, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattacks on healthcare organizations negatively impact patient care<a href="https://www.helpnetsecurity.com/2022/08/08/cyberattacks-healthcare-impact/?&web_view=true"> Full Text</a>

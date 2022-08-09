@@ -8,6 +8,66 @@ nav_order: 900072
 
 ## General
 ---
+August 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Benefits of Building a Mature and Diverse Blue Team<a href="https://thehackernews.com/2022/08/the-benefits-of-building-mature-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A few days ago, a friend and I were having a rather engaging conversation that sparked my excitement. We were discussing my prospects of becoming a red teamer as a natural career progression. The reason I got stirred up is not that I want to change either my job or my position, as I am a happy camper being part of Cymulate's blue team.  What upset me was that my friend could not grasp the idea that I wanted to keep working as a blue teamer because, as far as he was concerned, the only natural progression is to move to the red team.&nbsp;  Red teams include many roles ranging from penetration testers to attackers and exploit developers. These roles attract most of the buzz, and the many certifications revolving around these roles (OSCP, OSEP, CEH) make them seem fancy. Movies usually make hackers the heroes, while typically ignoring the defending side, the complexities and challenges of blue teamers' roles are far less known.  While blue teams' defending roles might not sound as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Hackers might have figured out your secret Twitter accounts<a href="https://www.theverge.com/2022/8/7/23295873/hackers-secret-twitter-accounts-security-flaw-vulnerability?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter initially patched the issue in January after receiving a report through its bug bounty program, but a hacker managed to exploit the flaw before Twitter even knew about it.
+</details>
+<div style="text-align: right" markdown="1">
+The Verge
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft is&nbsp;blocking Tutanota email addresses from registering a MS Teams&nbsp;account<a href="https://securityaffairs.co/wordpress/134124/digital-id/microsoft-block-tutanota-email-addresses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is actively blocking Tutanota email addresses from registering a Microsoft Teams account. 
+
+
+
+Tutanota is an end-to-end encrypted email app and a freemium secure email service, as of March 2017, Tutanota's owners claimed to have over 2 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks on healthcare organizations negatively impact patient care<a href="https://www.helpnetsecurity.com/2022/08/08/cyberattacks-healthcare-impact/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among other things, a survey by Cynerio and the Ponemon Institute has also revealed that almost half of hospitals have been attacked with ransomware, and that 76% of victimized hospitals were attacked 3 or more times.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

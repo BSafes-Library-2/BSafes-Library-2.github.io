@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers target crypto experts with fake Coinbase job offers<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-target-crypto-experts-with-fake-coinbase-job-offers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new social engineering campaign by&nbsp;the notorious North Korean Lazarus hacking group has been discovered, with the hackers impersonating Coinbase to target employees in the fintech industry.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
