@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+August 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of Windows and UnRAR flaws exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-windows-and-unrar-flaws-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two more flaws to its catalog of Known Exploited Vulnerabilities, based on evidence of active exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

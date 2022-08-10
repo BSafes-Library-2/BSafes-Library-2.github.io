@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+deBridge Finance crypto platform targeted by Lazarus hackers<a href="https://www.bleepingcomputer.com/news/security/debridge-finance-crypto-platform-targeted-by-lazarus-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers suspected to be from the North Korean Lazarus group tried their luck at stealing cryptocurrency from deBridge Finance, a cross-chain protocol that enables the decentralized transfer of assets between various blockchains.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

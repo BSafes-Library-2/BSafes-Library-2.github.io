@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How hackers are stealing credit cards from classifieds sites<a href="https://www.bleepingcomputer.com/news/security/how-hackers-are-stealing-credit-cards-from-classifieds-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new credit card stealing campaign is underway in Singapore, snatching the payment details of sellers on classifieds sites through an elaborate phishing trick.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Morocco court in favour of extraditing French cybercrime suspect to US<a href="https://www.france24.com/en/africa/20220808-morocco-court-in-favour-of-us-extradition-of-french-cybercrime-suspect?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French magazine L'Obs reported that the FBI suspects Raoult of belonging to the ShinyHunters hacking group, which has allegedly targeted US companies including Microsoft.
+</details>
+<div style="text-align: right" markdown="1">
+France24
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maui ransomware operation linked to North Korean 'Andariel' hackers<a href="https://www.bleepingcomputer.com/news/security/maui-ransomware-operation-linked-to-north-korean-andariel-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Maui ransomware operation has been linked to the North Korean state-sponsored hacking group 'Andariel,' known for using malicious cyber activities to generate revenue and causing discord in South Korea.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

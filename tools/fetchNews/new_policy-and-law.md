@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Sanctions Virtual Currency Mixer Tornado Cash for Alleged Use in Laundering<a href="https://thehackernews.com/2022/08/us-sanctions-virtual-currency-mixer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department on Monday placed sanctions against crypto mixing service Tornado Cash, citing its use by the North Korea-backed Lazarus Group in the high-profile hacks of Ethereum bridges to launder and cash out the ill-gotten money.  Tornado Cash, which allows users to move cryptocurrency assets between accounts by obfuscating their origin and destination, is estimated to have been used to launder more than $7.6 billion worth of virtual assets since its creation in 2019, the department said.  Thefts, hacks, and fraud account for $1.54 billion of the total assets sent through the mixer, according to blockchain analytics firm&nbsp; Elliptic .  Crypto mixing is akin to shuffling digital currencies through a black box, blending a certain quantity of digital funds in private pools before transferring it to its designated receivers for a fee. The aim is to make transactions anonymous and difficult to trace.   "Despite public assurances otherwise, Tornado Cash has repeatedly fa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

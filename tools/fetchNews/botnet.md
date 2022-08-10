@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+August 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Orchard Botnet Uses Bitcoin Founder's Account Info to Generate Malicious Domains<a href="https://thehackernews.com/2022/08/new-orchard-botnet-uses-bitcoin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new botnet named Orchard has been observed using Bitcoin creator Satoshi Nakamoto's account transaction information to generate domain names to conceal its command-and-control (C2) infrastructure.  "Because of the uncertainty of Bitcoin transactions, this technique is more unpredictable than using the common time-generated [ domain generation algorithms ], and thus more difficult to defend against," researchers from Qihoo 360's Netlab security team said  in a Friday write-up.  Orchard is said to have undergone three revisions since February 2021, with the botnet primarily used to deploy additional payloads onto a victim's machine and execute commands received from the C2 server.   It's also designed to upload device and user information as well as infect USB storage devices to propagate the malware. Netlab's analysis shows that over 3,000 hosts have been enslaved by the malware to date, most of them located in China.  Orchard has also been subjected to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Orchard botnet uses Bitcoin Transaction info to generate DGA domains<a href="https://securityaffairs.co/wordpress/134155/malware/orchard-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a new botnet named Orchard using Bitcoin creator Satoshi Nakamoto's account information to generate malicious domains.
+
+
+
+360 Netlab researchers recently discovered a new botnet named Orchard that uses Satoshi Nakamoto's Bitcoin account...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

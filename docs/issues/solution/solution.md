@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kali Linux 2022.3 adds 5 new tools, updates Linux kernel, and more<a href="https://www.bleepingcomputer.com/news/security/kali-linux-20223-adds-5-new-tools-updates-linux-kernel-and-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Offensive Security has released ​Kali Linux 2022.3, the third version of 2022, with virtual machine improvements, Linux Kernel 5.18.5, new tools to play with, and improved ARM support.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

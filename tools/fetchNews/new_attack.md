@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+August 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese actors behind attacks on industrial enterprises and public institutions<a href="https://securityaffairs.co/wordpress/134180/apt/china-apt-attacks-industrial-enterprises.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked threat actors targeted dozens of industrial enterprises and public institutions in Afghanistan and Europe.
+
+
+
+In January 2022, researchers at Kaspersky ICS CERT uncovered a series of targeted attacks on military industrial enterprises and public...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

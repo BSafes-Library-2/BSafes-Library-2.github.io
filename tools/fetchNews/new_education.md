@@ -8,6 +8,24 @@ nav_order: 900053
 
 ## Education
 ---
+August 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious file analysis – Example 01<a href="https://securityaffairs.co/wordpress/134164/malware/malicious-file-analysis-es-01.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Security Specialist Zoziel Pinto Freire shows an example of malicious file analysis presented during his lecture on BSides-Vitória 2022. 
+
+
+
+My objective with this series of articles is to show examples of malicious file analysis that I presented...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

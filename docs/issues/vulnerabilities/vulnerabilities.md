@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for August 2022 fixed actively exploited zero-day<a href="https://securityaffairs.co/wordpress/134211/security/microsoft-patch-tuesday-august-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday security updates for August 2022 addressed a zero-day attack remote code execution vulnerability in Windows.
+
+
+
+Microsoft Patch Tuesday security updates for August 2022 addressed 118 CVEs in multiple products, including .NET Core,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ICS Patch Tuesday: Siemens, Schneider Electric Fix Only 11 Vulnerabilities<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-schneider-electric-fix-only-11-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens’ four advisories describe seven security holes. The company informed customers that some of its SCALANCE switches, routers, security appliances and wireless communication devices are affected by three vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Exchange ‘Extended Protection’ needed to fully patch new bugs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-extended-protection-needed-to-fully-patch-new-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says that some of the Exchange Server flaws addressed as part of the August 2022 Patch Tuesday also require admins to manually enable&nbsp;Extended Protection on affected servers to fully block attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM Patches High-Severity Vulnerabilities in Cloud, Voice, Security Products<a href="https://www.securityweek.com/ibm-patches-high-severity-vulnerabilities-cloud-voice-security-products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of three vulnerabilities were resolved in IBM Netezza for Cloud Pak for Data, all of which impact the Golang packages that the platform uses. Two of these issues are rated ‘high severity’, with a CVSS score of 7.5.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft patches Windows DogWalk zero-day exploited in attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-windows-dogwalk-zero-day-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released security updates to address a high severity Windows zero-day vulnerability with publicly available exploit code and abused in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft August 2022 Patch Tuesday fixes exploited zero-day, 121 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2022-patch-tuesday-fixes-exploited-zero-day-121-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's August 2022 Patch Tuesday, and with it comes fixes for the actively exploited 'DogWalk' zero-day vulnerability and a total of 121&nbsp;flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware warns of public exploit for critical auth bypass vulnerability<a href="https://www.bleepingcomputer.com/news/security/vmware-warns-of-public-exploit-for-critical-auth-bypass-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code is now publicly available online for a critical authentication bypass security flaw in multiple VMware products that enables&nbsp;attackers to gain admin privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+August 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio Suffers Data Breach After Employees Fall Victim to SMS Phishing Attack<a href="https://thehackernews.com/2022/08/twilio-suffers-data-breach-after.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Customer engagement platform Twilio on Monday disclosed that a "sophisticated" threat actor gained "unauthorized access" using an SMS-based phishing campaign aimed at its staff to gain information on a "limited number" of accounts.  The social-engineering attack was bent on stealing employee credentials, the company said, calling the as-yet-unidentified adversary "well-organized" and "methodical in their actions." The incident came to light on August 4.  "This broad based attack against our employee base succeeded in fooling some employees into providing their credentials," it&nbsp; said &nbsp;in a notice. "The attackers then used the stolen credentials to gain access to some of our internal systems, where they were able to access certain customer data."   The communications giant has&nbsp; 268,000 active customer accounts , and counts companies like Airbnb, Box, Dell, DoorDash, eBay, Glassdoor, Lyft, Salesforce, Stripe, Twitter,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare employees also hit by hackers behind Twilio breach<a href="https://www.bleepingcomputer.com/news/security/cloudflare-employees-also-hit-by-hackers-behind-twilio-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare says some of its employees' credentials&nbsp;were also stolen in an SMS phishing attack very similar to the one that led to Twilio's network being breached last week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Company cheated of $125k in man-in-the-middle cyber attack; 3 held<a href="https://timesofindia.indiatimes.com/city/mumbai/mumbai-business-company-cheated-of-rs-1-crore-in-man-in-the-middle-cyber-attack-3-held/articleshow/93416867.cms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The primary accused created a fake email ID, similar to that of a reputed company that deals in construction and technology, and sent an email to their client posing as the company and asked to deposit the amount in two other bank accounts.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

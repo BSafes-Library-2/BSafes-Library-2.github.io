@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 Fixes 21 Vulnerabilities With Quarterly Security Patches<a href="https://www.securityweek.com/f5-fixes-21-vulnerabilities-quarterly-security-patches?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security and application delivery solutions provider F5 has released its quarterly security notification for August 2022, which informs customers about 21 vulnerabilities affecting BIG-IP and other products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

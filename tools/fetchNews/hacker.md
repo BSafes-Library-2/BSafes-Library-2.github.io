@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers use new Windows malware to backdoor govt, defense orgs<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-windows-malware-to-backdoor-govt-defense-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An extensive series of attacks detected in January used new Windows malware to backdoor&nbsp;government entities and organizations in the defense industry from several countries in Eastern Europe.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target social media accounts of small businesses via Instagram scams<a href="https://www.theage.com.au/national/victoria/hackers-target-small-businesses-social-media-accounts-20220804-p5b7bp.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing emails are often sent during the early evening and on weekends when the recipients are likely to be less vigilant. Such emails often claim that a business page had violated copyright laws.
+</details>
+<div style="text-align: right" markdown="1">
+The Age
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

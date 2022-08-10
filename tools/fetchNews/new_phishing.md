@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snapchat and Amex Abused to Target Microsoft 365 Users<a href="https://cyware.com/news/snapchat-and-amex-abused-to-target-microsoft-365-users-05a8c543"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors were found sending phishing emails that abused open redirects on Amex and Snapchat. The domains act as a temporary landing site from where the victim is redirected to the malicious site.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Common Bank Scams Targeting NFCU, Bank of America, and M&amp;T Bank<a href="https://news.trendmicro.com/2022/08/08/scams-nfcu-bank-of-america-mt/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One thing we can all agree on is the fact that merely the thought of being scammed is scary. However, if there is perhaps one type of scam that, above all others, nobody wants to fall for, it’s a bank scam.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

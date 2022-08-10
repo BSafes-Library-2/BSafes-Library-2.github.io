@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Targeted Dozens of Industrial Enterprises and Public Institutions<a href="https://thehackernews.com/2022/08/chinese-hackers-targeted-dozens-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over a dozen military-industrial complex enterprises and public institutions in Afghanistan and Europe have come under a wave of targeted attacks since January 2022 to steal confidential data by simultaneously making use of six different backdoors.  Russian cybersecurity firm Kaspersky&nbsp; attributed &nbsp;the attacks "with a high degree of confidence" to a China-linked threat actor tracked by&nbsp; Proofpoint &nbsp;as&nbsp; TA428 , citing overlaps in tactics, techniques, and procedures (TTPs).&nbsp;  TA428, also tracked under the names Bronze Dudley, Temp.Hex, and Vicious Panda, has a&nbsp; history &nbsp;of striking entities in Ukraine, Russia, Belarus, and Mongolia. It's believed to share connections with another hacking group called Mustang Panda (aka Bronze President).   Targets of the latest cyber espionage campaign included industrial plants, design bureaus and research institutes, government agencies, ministries and departments in several East European countries and Afghanistan.  Attack chains entail
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

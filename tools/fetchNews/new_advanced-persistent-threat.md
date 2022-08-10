@@ -8,6 +8,42 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 9, 2022 <br>`
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts linked Maui ransomware to North Korean Andariel APT<a href="https://securityaffairs.co/wordpress/134195/malware/maui-ransomware-andariel-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers from Kaspersky linked the Maui ransomware to the North Korea-backed Andariel APT group.
+
+
+
+Kaspersky linked with medium confidence the Maui ransomware operation to the North Korea-backed APT group Andariel, which is considered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US sanctioned crypto mixer Tornado Cash used by North Korea-linked APT<a href="https://securityaffairs.co/wordpress/134168/cyber-crime/us-treasury-sanctioned-tornado-cash.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned the crypto mixer service Tornado Cash used by North Korea.
+
+
+
+The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has sanctioned the crypto mixer service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
