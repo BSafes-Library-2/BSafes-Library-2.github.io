@@ -34,7 +34,483 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New dark web markets claim association with criminal cartels<a href="https://www.bleepingcomputer.com/news/security/new-dark-web-markets-claim-association-with-criminal-cartels/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several new marketplaces have appeared on the dark web, claiming to be the dedicated online portals for notorious criminal cartels from Mexico.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AppOmni receives funding from Cisco Investments to expand SaaS coverage<a href="https://www.helpnetsecurity.com/2022/08/10/appomni-cisco-investments/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AppOmni announced that Cisco Investments has made a strategic investment in the company. This investment will help propel product development and accelerate the company’s roadmap.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Twitter Employee Found Guilty of Spying for Saudi Arabia<a href="https://thehackernews.com/2022/08/former-twitter-employee-found-guilty-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former Twitter employee has been pronounced guilty for his role in digging up private information pertaining to certain Twitter users and turning over that data to Saudi Arabia.  Ahmad Abouammo, 44, was convicted by a jury after a two-week trial in San Francisco federal court, Bloomberg  reported  Tuesday. He faces up to 20 years in prison when sentenced.  The  verdict  comes nearly three years after Abouammo, along with Ali Alzabarah and Ahmed Almutairi (Ahmed Aljbreen) were  indicted in 2019  for acting as "illegal agents" of Saudi Arabia, with the former also charged with destroying, altering, and falsifying records in a federal investigation.   Prosecutors accused Abouammo and Alzabarah, both of whom joined Twitter in 2013, of being enlisted by officials of the Kingdom of Saudi Arabia for  unmasking its critics  on the social media platform.  According to court documents, both individuals leveraged their access to internal systems to unauthorizedly get hold of nonpubli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco was hacked by the Yanluowang ransomware gang<a href="https://securityaffairs.co/wordpress/134278/hacking/yanluowang-ransomware-hacked-cisco.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco discloses a security breach, the Yanluowang ransomware group breached its corporate network in late May and stole internal data.
+
+
+
+Cisco disclosed a security breach, the Yanluowang ransomware group breached its corporate network in late May and stole...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7-Eleven Denmark confirms ransomware attack behind store closures<a href="https://www.bleepingcomputer.com/news/security/7-eleven-denmark-confirms-ransomware-attack-behind-store-closures/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+7-Eleven Denmark has confirmed that a ransomware attack was behind the closure of 175 stores in the country on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Metaverse and Cybersecurity Threats<a href="https://cyware.com/news/metaverse-and-cybersecurity-threats-7ca47ed3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With massive investments made into the metaverse space, it is now necessary to start designing and implementing relevant security measures while the concept is still evolving.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover Details on Maui Ransomware Attack by North Korean Hackers<a href="https://thehackernews.com/2022/08/experts-uncover-details-on-maui.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first ever incident possibly involving the ransomware family known as Maui occurred on April 15, 2021, aimed at an unnamed Japanese housing company.  The disclosure from Kaspersky arrives a month after U.S. cybersecurity and intelligence agencies issued an  advisory  about the use of the ransomware strain by North Korean government-backed hackers to target the healthcare sector since at least May 2021.  Much of the data about its modus operandi came from incident response activities and industry analysis of a Maui sample that revealed a lack of "several key features" typically associated with ransomware-as-a-service (RaaS) operations.  Not only is Maui designed to be manually executed by a remote actor via a command-line interface, it's also notable for not including a ransom note to provide recovery instructions.   Subsequently, the Justice Department  announced  the seizure of $500,000 worth of Bitcoin that were extorted from several organizations, including two he
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Risky Business: Enterprises Can’t Shake Log4j flaw<a href="https://securityaffairs.co/wordpress/134262/hacking/risky-business-enterprises-cant-shake-log4j-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+70% of Large enterprises that previously addressed the Log4j flaw are still struggling to patch Log4j-vulnerable assets.
+
+
+
+INTRODUCTION
+
+
+
+In December 2021 security teams scrambled to find Log4j-vulnerable assets and patch them. Eight months later many...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automotive supplier breached by 3 ransomware gangs in 2 weeks<a href="https://www.bleepingcomputer.com/news/security/automotive-supplier-breached-by-3-ransomware-gangs-in-2-weeks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An automotive supplier had its systems breached and files encrypted by three different ransomware gangs over a two-week span in May, two of the attacks happening within just two hours.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Firm Finds Flaws in Indian Online Insurance Broker<a href="https://www.securityweek.com/security-firm-finds-flaws-indian-online-insurance-broker?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last month, a small cybersecurity firm told a major Indian online insurance brokerage it had found critical vulnerabilities in the company’s internet-facing network that could expose sensitive data from at least 11 million customers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Business of Hackers-for-Hire Threat Actors<a href="https://thehackernews.com/2022/08/the-business-of-hackers-for-hire-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today's web has made hackers' tasks remarkably easy. For the most part, hackers don't even have to hide in the dark recesses of the web to take advantage of people any longer; they can be found right in plain sight on social media sites or forums, professionally advertised with their websites, and may even approach you anonymously through such channels as Twitter.  Cybercrime has entered a new era where people don't steal just for the thrill of doing it anymore. They make it their business to carry out illegal cyber activities in small groups or individually to earn business from online criminals, selling offensive services like spyware as a service or commercial cybersecurity.  For instance, a series of new DDoS for Hire are commoditizing the art of hacking and reducing the barrier to launching  DDoS attacks .  Who are Hackers-for-Hire?   Hackers-for-hire are secret cyber experts or groups who specialize in infiltrating organizations to acquire intelligence in one way
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found 10 malicious packages on PyPI used to steal developers’ data<a href="https://securityaffairs.co/wordpress/134253/malware/pypi-malicious-packages-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+10 packages have been removed from the Python Package Index (PyPI) because they were found harvesting data.
+
+
+
+Check Point researchers have discovered ten malicious packages on the Python Package Index (PyPI). The packages install info-stealers that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti extortion gangs behind surge of BazarCall phishing attacks<a href="https://www.bleepingcomputer.com/news/security/conti-extortion-gangs-behind-surge-of-bazarcall-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least three groups split from the Conti ransomware operation have adopted BazarCall phishing tactics as the primary method to gain initial access to a victim's network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SmokeLoader Actively Spreads by Exploiting Old Vulnerabilities<a href="https://cyware.com/news/smokeloader-actively-spreads-by-exploiting-old-vulnerabilities-66d0567f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers had spotted the mass exploitation of two flaws— CVE-2017-0199 and CVE-2017-11882—that are almost five years old. Although patches are available for both flaws, they continue to be exploited.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Behind Twilio Breach Also Targeted Cloudflare Employees<a href="https://thehackernews.com/2022/08/hackers-behind-twilio-breach-also_10.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web infrastructure company Cloudflare on Tuesday disclosed at least 76 employees and their family members received text messages on their personal and work phones bearing similar characteristics as that of the sophisticated  phishing attack against Twilio .  The attack, which transpired around the same time Twilio was targeted, came from four phone numbers associated with T-Mobile-issued SIM cards and was ultimately unsuccessful.  The text messages pointed to a seemingly legitimate domain containing the keywords "Cloudflare" and "Okta" in an attempt to deceive the employees into handing over their credentials.   The wave of over 100 smishing messages commenced less than 40 minutes after the rogue domain was registered via Porkbun, the company noted, adding the phishing page was designed to relay the credentials entered by unsuspecting users to the attacker via Telegram in real-time.   This also meant that the attack could defeat 2FA roadblocks, as the Time-based On
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers behind Twilio data breach also targeted Cloudflare employees<a href="https://securityaffairs.co/wordpress/134237/hacking/twilio-hackers-hit-cloudflare-employees.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare revealed that at least 76 employees and their family members were targeted by smishing attacks similar to the one that hit Twilio.
+
+
+
+The content delivery network and DDoS mitigation company Cloudflare revealed this week that at least 76 employees...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco hacked by Yanluowang ransomware gang, 2.8GB allegedly stolen<a href="https://www.bleepingcomputer.com/news/security/cisco-hacked-by-yanluowang-ransomware-gang-28gb-allegedly-stolen/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco confirmed today that the Yanluowang ransomware group breached its corporate network in late May and that the actor tried to extort them under the threat of leaking stolen files online.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel Patches Severe Vulnerabilities in Firmware, Management Software<a href="https://www.securityweek.com/intel-patches-severe-vulnerabilities-firmware-management-software?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel on Tuesday published 27 security advisories detailing roughly 60 vulnerabilities across firmware, software libraries, and endpoint and data center management products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds UnRAR and Windows flaws to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/134230/security/cisa-unrar-windows-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Critical Infrastructure Security Agency (CISA) adds vulnerabilities in the UnRAR utility to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The Cybersecurity & Infrastructure Security Agency (CISA) has added a recently disclosed security flaw,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker uses new RAT malware in Cuba Ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/hacker-uses-new-rat-malware-in-cuba-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A member of the Cuba ransomware operation is employing previously unseen tactics, techniques, and procedures (TTPs), including a novel RAT (remote access trojan) and a new local privilege escalation tool.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Information Disclosure Vulnerabilities in BusinessObjects<a href="https://www.securityweek.com/sap-patches-information-disclosure-vulnerabilities-businessobjects?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP released five new and two updated security notes as part of its August 2022 Security Patch Day. Of the five, four address information disclosure vulnerabilities, three of which impact SAP's BusinessObjects Business Intelligence Platform.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware warns of public PoC code for critical auth bypass bug CVE-2022-31656<a href="https://securityaffairs.co/wordpress/134222/security/vmware-poc-code-cve-2022-31656.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware warns of the availability of a proof-of-concept exploit code for a critical authentication bypass flaw in multiple products.
+
+
+
+VMware warns its customers of the availability of a proof-of-concept exploit code for a critical authentication bypass...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes bug allowing RSA private key theft on ASA, FTD devices<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-bug-allowing-rsa-private-key-theft-on-asa-ftd-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a high severity vulnerability affecting its Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Edge deepens defenses against malicious websites with enhanced security mode<a href="https://portswigger.net/daily-swig/microsoft-edge-deepens-defenses-against-malicious-websites-with-enhanced-security-mode?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said these changes provide “defense in depth” by making it harder for malicious sites to leverage unpatched vulnerabilities in order to write to executable code into memory.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attack abuses Microsoft Azure, Google Sites to steal crypto<a href="https://www.bleepingcomputer.com/news/security/phishing-attack-abuses-microsoft-azure-google-sites-to-steal-crypto/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new large-scale phishing campaign targeting Coinbase, MetaMask, Kraken, and Gemini users is abusing Google Sites and Microsoft Azure Web App to create fraudulent sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google now blocks Workspace account hijacking attempts automatically<a href="https://www.bleepingcomputer.com/news/security/google-now-blocks-workspace-account-hijacking-attempts-automatically/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Workspace (formerly G Suite) now comes with stronger protections for risky account actions, automatically blocking hijacking attempts with identity verification prompts and logging them for further investigation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Warning on Active Exploitation of UnRAR Software for Linux Systems<a href="https://thehackernews.com/2022/08/cisa-issues-warning-on-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw in the UnRAR utility to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.  Tracked as CVE-2022-30333 (CVSS score: 7.5), the issue concerns a path traversal vulnerability in the Unix versions of UnRAR that can be triggered upon extracting a maliciously crafted RAR archive.  This means that an adversary could exploit the flaw to drop arbitrary files on a target system that has the utility installed simply by decompressing the file. The vulnerability was  revealed  by SonarSource researcher Simon Scannell in late June.   "RARLAB UnRAR on Linux and UNIX contains a directory traversal vulnerability, allowing an attacker to write to files during an extract (unpack) operation," the agency  said  in an advisory.  Not much is known about the nature of the attacks, but the disclosure is evidence of a growing trend wherein threat acto
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues Patches for 121 Flaws, Including Zero-Day Under Active Attack<a href="https://thehackernews.com/2022/08/microsoft-issues-patches-for-121-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as  121 new security flaws  were patched by Microsoft as part of its Patch Tuesday updates for the month of August, which also includes a fix for a Support Diagnostic Tool vulnerability that the company said is being actively exploited in the wild.  Of the 121 bugs, 17 are rated Critical, 102 are rated Important, one is rated Moderate, and one is rated Low in severity. Two of the issues have been listed as publicly known at the time of the release.  It's worth noting that the 121 security flaws are in addition to  25 shortcomings  the tech giant addressed in its Chromium-based Edge browser late last month and the previous week.  Topping the list of patches is  CVE-2022-34713  (CVSS score: 7.8), a case of remote code execution affecting the Microsoft Windows Support Diagnostic Tool (MSDT), making it the second flaw in the same component after  Follina  (CVE-2022-30190) to be weaponized in  real-world attacks  within three months.   The vulnerability is also said to be a var
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns of Windows and UnRAR flaws exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-windows-and-unrar-flaws-exploited-in-the-wild/"> Full Text</a>
@@ -50,7 +526,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2022
+August 9, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Snapchat and Amex Abused to Target Microsoft 365 Users<a href="https://cyware.com/news/snapchat-and-amex-abused-to-target-microsoft-365-users-05a8c543"> Full Text</a>
@@ -66,7 +542,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2022
+August 09, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twilio Suffers Data Breach After Employees Fall Victim to SMS Phishing Attack<a href="https://thehackernews.com/2022/08/twilio-suffers-data-breach-after.html"> Full Text</a>
@@ -82,7 +558,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2022
+August 9, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patch Tuesday for August 2022 fixed actively exploited zero-day<a href="https://securityaffairs.co/wordpress/134211/security/microsoft-patch-tuesday-august-2022.html"> Full Text</a>
@@ -102,7 +578,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2022
+August 09, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How hackers are stealing credit cards from classifieds sites<a href="https://www.bleepingcomputer.com/news/security/how-hackers-are-stealing-credit-cards-from-classifieds-sites/"> Full Text</a>
@@ -118,7 +594,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2022
+August 9, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ICS Patch Tuesday: Siemens, Schneider Electric Fix Only 11 Vulnerabilities<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-schneider-electric-fix-only-11-vulnerabilities?&web_view=true"> Full Text</a>
@@ -134,7 +610,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2022
+August 09, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Sanctions Virtual Currency Mixer Tornado Cash for Alleged Use in Laundering<a href="https://thehackernews.com/2022/08/us-sanctions-virtual-currency-mixer.html"> Full Text</a>
@@ -150,7 +626,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2022
+August 9, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>`
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts linked Maui ransomware to North Korean Andariel APT<a href="https://securityaffairs.co/wordpress/134195/malware/maui-ransomware-andariel-apt.html"> Full Text</a>
@@ -170,7 +646,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2022
+August 09, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Exchange ‘Extended Protection’ needed to fully patch new bugs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-extended-protection-needed-to-fully-patch-new-bugs/"> Full Text</a>
@@ -186,7 +662,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2022
+August 9, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Woody RAT Targets Russian Entities<a href="https://cyware.com/news/woody-rat-targets-russian-entities-9bbc8c47"> Full Text</a>
@@ -202,7 +678,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2022
+August 09, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Truth About False Positives in Security<a href="https://thehackernews.com/2022/08/the-truth-about-false-positives-in.html"> Full Text</a>
@@ -218,7 +694,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2022
+August 9, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese actors behind attacks on industrial enterprises and public institutions<a href="https://securityaffairs.co/wordpress/134180/apt/china-apt-attacks-industrial-enterprises.html"> Full Text</a>
@@ -238,7 +714,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2022
+August 09, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kali Linux 2022.3 adds 5 new tools, updates Linux kernel, and more<a href="https://www.bleepingcomputer.com/news/security/kali-linux-20223-adds-5-new-tools-updates-linux-kernel-and-more/"> Full Text</a>
@@ -254,7 +730,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2022
+August 9, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IBM Patches High-Severity Vulnerabilities in Cloud, Voice, Security Products<a href="https://www.securityweek.com/ibm-patches-high-severity-vulnerabilities-cloud-voice-security-products?&web_view=true"> Full Text</a>
@@ -270,7 +746,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2022
+August 09, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 10 Credential Stealing Python Libraries Found on PyPI Repository<a href="https://thehackernews.com/2022/08/10-credential-stealing-python-libraries.html"> Full Text</a>
@@ -286,7 +762,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2022
+August 9, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US sanctioned crypto mixer Tornado Cash used by North Korea-linked APT<a href="https://securityaffairs.co/wordpress/134168/cyber-crime/us-treasury-sanctioned-tornado-cash.html"> Full Text</a>
@@ -306,7 +782,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2022
+August 09, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft patches Windows DogWalk zero-day exploited in attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-windows-dogwalk-zero-day-exploited-in-attacks/"> Full Text</a>
@@ -322,7 +798,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2022
+August 9, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Hash-Based Safe Browsing Works in Google Chrome<a href="https://security.googleblog.com/2022/08/how-hash-based-safe-browsing-works-in.html?&web_view=true"> Full Text</a>
@@ -338,7 +814,7 @@ Google
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2022
+August 09, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Targeted Dozens of Industrial Enterprises and Public Institutions<a href="https://thehackernews.com/2022/08/chinese-hackers-targeted-dozens-of.html"> Full Text</a>
@@ -354,7 +830,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2022
+August 9, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious file analysis – Example 01<a href="https://securityaffairs.co/wordpress/134164/malware/malicious-file-analysis-es-01.html"> Full Text</a>
@@ -374,7 +850,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2022
+August 09, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft August 2022 Patch Tuesday fixes exploited zero-day, 121 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2022-patch-tuesday-fixes-exploited-zero-day-121-flaws/"> Full Text</a>
@@ -390,7 +866,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2022
+August 9, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3 Common Bank Scams Targeting NFCU, Bank of America, and M&T Bank<a href="https://news.trendmicro.com/2022/08/08/scams-nfcu-bank-of-america-mt/?&web_view=true"> Full Text</a>
@@ -406,7 +882,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2022
+August 09, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare employees also hit by hackers behind Twilio breach<a href="https://www.bleepingcomputer.com/news/security/cloudflare-employees-also-hit-by-hackers-behind-twilio-breach/"> Full Text</a>
@@ -422,7 +898,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2022
+August 9, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Morocco court in favour of extraditing French cybercrime suspect to US<a href="https://www.france24.com/en/africa/20220808-morocco-court-in-favour-of-us-extradition-of-french-cybercrime-suspect?&web_view=true"> Full Text</a>
@@ -438,7 +914,7 @@ France24
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2022
+August 09, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 10 malicious PyPI packages found stealing developer's credentials<a href="https://www.bleepingcomputer.com/news/security/10-malicious-pypi-packages-found-stealing-developers-credentials/"> Full Text</a>
@@ -454,7 +930,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2022
+August 9, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: Company cheated of $125k in man-in-the-middle cyber attack; 3 held<a href="https://timesofindia.indiatimes.com/city/mumbai/mumbai-business-company-cheated-of-rs-1-crore-in-man-in-the-middle-cyber-attack-3-held/articleshow/93416867.cms?&web_view=true"> Full Text</a>
@@ -470,7 +946,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2022
+August 09, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware warns of public exploit for critical auth bypass vulnerability<a href="https://www.bleepingcomputer.com/news/security/vmware-warns-of-public-exploit-for-critical-auth-bypass-vulnerability/"> Full Text</a>
@@ -486,7 +962,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2022
+August 09, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Maui ransomware operation linked to North Korean 'Andariel' hackers<a href="https://www.bleepingcomputer.com/news/security/maui-ransomware-operation-linked-to-north-korean-andariel-hackers/"> Full Text</a>
@@ -502,7 +978,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2022
+August 09, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers install Dracarys Android malware using modified Signal app<a href="https://www.bleepingcomputer.com/news/security/hackers-install-dracarys-android-malware-using-modified-signal-app/"> Full Text</a>
