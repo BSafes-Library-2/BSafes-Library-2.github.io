@@ -8,6 +8,130 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Risky Business: Enterprises Can’t Shake Log4j flaw<a href="https://securityaffairs.co/wordpress/134262/hacking/risky-business-enterprises-cant-shake-log4j-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+70% of Large enterprises that previously addressed the Log4j flaw are still struggling to patch Log4j-vulnerable assets.
+
+
+
+INTRODUCTION
+
+
+
+In December 2021 security teams scrambled to find Log4j-vulnerable assets and patch them. Eight months later many...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Firm Finds Flaws in Indian Online Insurance Broker<a href="https://www.securityweek.com/security-firm-finds-flaws-indian-online-insurance-broker?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last month, a small cybersecurity firm told a major Indian online insurance brokerage it had found critical vulnerabilities in the company’s internet-facing network that could expose sensitive data from at least 11 million customers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SmokeLoader Actively Spreads by Exploiting Old Vulnerabilities<a href="https://cyware.com/news/smokeloader-actively-spreads-by-exploiting-old-vulnerabilities-66d0567f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers had spotted the mass exploitation of two flaws— CVE-2017-0199 and CVE-2017-11882—that are almost five years old. Although patches are available for both flaws, they continue to be exploited.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel Patches Severe Vulnerabilities in Firmware, Management Software<a href="https://www.securityweek.com/intel-patches-severe-vulnerabilities-firmware-management-software?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel on Tuesday published 27 security advisories detailing roughly 60 vulnerabilities across firmware, software libraries, and endpoint and data center management products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Information Disclosure Vulnerabilities in BusinessObjects<a href="https://www.securityweek.com/sap-patches-information-disclosure-vulnerabilities-businessobjects?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP released five new and two updated security notes as part of its August 2022 Security Patch Day. Of the five, four address information disclosure vulnerabilities, three of which impact SAP's BusinessObjects Business Intelligence Platform.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware warns of public PoC code for critical auth bypass bug CVE-2022-31656<a href="https://securityaffairs.co/wordpress/134222/security/vmware-poc-code-cve-2022-31656.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware warns of the availability of a proof-of-concept exploit code for a critical authentication bypass flaw in multiple products.
+
+
+
+VMware warns its customers of the availability of a proof-of-concept exploit code for a critical authentication bypass...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes bug allowing RSA private key theft on ASA, FTD devices<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-bug-allowing-rsa-private-key-theft-on-asa-ftd-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed a high severity vulnerability&nbsp;affecting its&nbsp;Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues Patches for 121 Flaws, Including Zero-Day Under Active Attack<a href="https://thehackernews.com/2022/08/microsoft-issues-patches-for-121-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as&nbsp; 121 new security flaws &nbsp;were patched by Microsoft as part of its Patch Tuesday updates for the month of August, which also includes a fix for a Support Diagnostic Tool vulnerability that the company said is being actively exploited in the wild.  Of the 121 bugs, 17 are rated Critical, 102 are rated Important, one is rated Moderate, and one is rated Low in severity. Two of the issues have been listed as publicly known at the time of the release.  It's worth noting that the 121 security flaws are in addition to&nbsp; 25 shortcomings &nbsp;the tech giant addressed in its Chromium-based Edge browser late last month and the previous week.  Topping the list of patches is&nbsp; CVE-2022-34713 &nbsp;(CVSS score: 7.8), a case of remote code execution affecting the Microsoft Windows Support Diagnostic Tool (MSDT), making it the second flaw in the same component after&nbsp; Follina &nbsp;(CVE-2022-30190) to be weaponized in&nbsp; real-world attacks &nbsp;within three months.   The vulnerability is also said to be a var
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

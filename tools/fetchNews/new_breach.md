@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automotive supplier breached by 3 ransomware gangs in 2 weeks<a href="https://www.bleepingcomputer.com/news/security/automotive-supplier-breached-by-3-ransomware-gangs-in-2-weeks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An&nbsp;automotive supplier had its systems breached and files encrypted by three different ransomware gangs over a two-week span in May, two of the attacks happening within just two hours.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Behind Twilio Breach Also Targeted Cloudflare Employees<a href="https://thehackernews.com/2022/08/hackers-behind-twilio-breach-also_10.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web infrastructure company Cloudflare on Tuesday disclosed at least 76 employees and their family members received text messages on their personal and work phones bearing similar characteristics as that of the sophisticated&nbsp; phishing attack against Twilio .  The attack, which transpired around the same time Twilio was targeted, came from four phone numbers associated with T-Mobile-issued SIM cards and was ultimately unsuccessful.  The text messages pointed to a seemingly legitimate domain containing the keywords "Cloudflare" and "Okta" in an attempt to deceive the employees into handing over their credentials.   The wave of over 100 smishing messages commenced less than 40 minutes after the rogue domain was registered via Porkbun, the company noted, adding the phishing page was designed to relay the credentials entered by unsuspecting users to the attacker via Telegram in real-time.   This also meant that the attack could defeat 2FA roadblocks, as the Time-based On
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco hacked by Yanluowang ransomware gang, 2.8GB allegedly stolen<a href="https://www.bleepingcomputer.com/news/security/cisco-hacked-by-yanluowang-ransomware-gang-28gb-allegedly-stolen/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco confirmed today that the Yanluowang ransomware group breached its corporate network in late May and that the actor tried to extort them under the threat of leaking stolen files online.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

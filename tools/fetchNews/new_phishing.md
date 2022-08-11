@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attack abuses Microsoft Azure, Google Sites to steal crypto<a href="https://www.bleepingcomputer.com/news/security/phishing-attack-abuses-microsoft-azure-google-sites-to-steal-crypto/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new large-scale phishing campaign targeting Coinbase, MetaMask, Kraken, and Gemini users is abusing Google Sites and Microsoft Azure Web App to create fraudulent sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

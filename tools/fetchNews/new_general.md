@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Metaverse and Cybersecurity Threats<a href="https://cyware.com/news/metaverse-and-cybersecurity-threats-7ca47ed3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With massive investments made into the metaverse space, it is now necessary to start designing and implementing relevant security measures while the concept is still evolving.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google now blocks Workspace account hijacking attempts automatically<a href="https://www.bleepingcomputer.com/news/security/google-now-blocks-workspace-account-hijacking-attempts-automatically/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Workspace (formerly G Suite) now comes with stronger protections for&nbsp;risky account actions, automatically blocking hijacking attempts with identity verification prompts and&nbsp;logging them for further investigation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

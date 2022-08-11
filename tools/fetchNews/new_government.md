@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds UnRAR and Windows flaws to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/134230/security/cisa-unrar-windows-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Critical Infrastructure Security Agency (CISA) adds vulnerabilities in the UnRAR utility to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The Cybersecurity &amp; Infrastructure Security Agency (CISA) has added a recently disclosed security flaw,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Warning on Active Exploitation of UnRAR Software for Linux Systems<a href="https://thehackernews.com/2022/08/cisa-issues-warning-on-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw in the UnRAR utility to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.  Tracked as CVE-2022-30333 (CVSS score: 7.5), the issue concerns a path traversal vulnerability in the Unix versions of UnRAR that can be triggered upon extracting a maliciously crafted RAR archive.  This means that an adversary could exploit the flaw to drop arbitrary files on a target system that has the utility installed simply by decompressing the file. The vulnerability was&nbsp; revealed &nbsp;by SonarSource researcher Simon Scannell in late June.   "RARLAB UnRAR on Linux and UNIX contains a directory traversal vulnerability, allowing an attacker to write to files during an extract (unpack) operation," the agency&nbsp; said &nbsp;in an advisory.  Not much is known about the nature of the attacks, but the disclosure is evidence of a growing trend wherein threat acto
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

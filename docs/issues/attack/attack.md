@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco was hacked by the Yanluowang ransomware gang<a href="https://securityaffairs.co/wordpress/134278/hacking/yanluowang-ransomware-hacked-cisco.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco discloses a security breach, the Yanluowang ransomware group breached its corporate network in late May and stole internal data.
+
+
+
+Cisco disclosed a security breach, the Yanluowang ransomware group breached its corporate network in late May and stole...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover Details on Maui Ransomware Attack by North Korean Hackers<a href="https://thehackernews.com/2022/08/experts-uncover-details-on-maui.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first ever incident possibly involving the ransomware family known as Maui occurred on April 15, 2021, aimed at an unnamed Japanese housing company.  The disclosure from Kaspersky arrives a month after U.S. cybersecurity and intelligence agencies issued an&nbsp; advisory &nbsp;about the use of the ransomware strain by North Korean government-backed hackers to target the healthcare sector since at least May 2021.  Much of the data about its modus operandi came from incident response activities and industry analysis of a Maui sample that revealed a lack of "several key features" typically associated with ransomware-as-a-service (RaaS) operations.  Not only is Maui designed to be manually executed by a remote actor via a command-line interface, it's also notable for not including a ransom note to provide recovery instructions.   Subsequently, the Justice Department&nbsp; announced &nbsp;the seizure of $500,000 worth of Bitcoin that were extorted from several organizations, including two he
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker uses new RAT malware in Cuba Ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/hacker-uses-new-rat-malware-in-cuba-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A member of the Cuba ransomware operation is employing previously unseen tactics, techniques, and procedures (TTPs), including a novel RAT (remote access trojan) and a new local privilege escalation tool.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Business of Hackers-for-Hire Threat Actors<a href="https://thehackernews.com/2022/08/the-business-of-hackers-for-hire-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today's web has made hackers' tasks remarkably easy. For the most part, hackers don't even have to hide in the dark recesses of the web to take advantage of people any longer; they can be found right in plain sight on social media sites or forums, professionally advertised with their websites, and may even approach you anonymously through such channels as Twitter.  Cybercrime has entered a new era where people don't steal just for the thrill of doing it anymore. They make it their business to carry out illegal cyber activities in small groups or individually to earn business from online criminals, selling offensive services like spyware as a service or commercial cybersecurity.  For instance, a series of new DDoS for Hire are commoditizing the art of hacking and reducing the barrier to launching&nbsp; DDoS attacks .  Who are Hackers-for-Hire?&nbsp;  Hackers-for-hire are secret cyber experts or groups who specialize in infiltrating organizations to acquire intelligence in one way
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers behind Twilio data breach also targeted Cloudflare employees<a href="https://securityaffairs.co/wordpress/134237/hacking/twilio-hackers-hit-cloudflare-employees.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare revealed that at least 76 employees and their family members were targeted by smishing attacks similar to the one that hit Twilio.
+
+
+
+The content delivery network and DDoS mitigation company Cloudflare revealed this week that at least 76 employees...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

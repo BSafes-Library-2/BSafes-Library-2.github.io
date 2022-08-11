@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New dark web markets claim association with criminal cartels<a href="https://www.bleepingcomputer.com/news/security/new-dark-web-markets-claim-association-with-criminal-cartels/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several new marketplaces have appeared on the dark web, claiming to be the dedicated online portals for notorious criminal cartels from Mexico.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti extortion gangs behind surge of BazarCall phishing attacks<a href="https://www.bleepingcomputer.com/news/security/conti-extortion-gangs-behind-surge-of-bazarcall-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least three groups split from the Conti ransomware operation have adopted BazarCall phishing tactics as the primary method to gain initial access to a victim's network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

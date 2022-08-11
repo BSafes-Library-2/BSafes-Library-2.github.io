@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7-Eleven Denmark confirms ransomware attack behind store closures<a href="https://www.bleepingcomputer.com/news/security/7-eleven-denmark-confirms-ransomware-attack-behind-store-closures/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+7-Eleven Denmark has confirmed that a ransomware attack was behind the closure of 175 stores in the country on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

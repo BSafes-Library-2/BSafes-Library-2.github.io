@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AppOmni receives funding from Cisco Investments to expand SaaS coverage<a href="https://www.helpnetsecurity.com/2022/08/10/appomni-cisco-investments/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AppOmni announced that Cisco Investments has made a strategic investment in the company. This investment will help propel product development and accelerate the company’s roadmap.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

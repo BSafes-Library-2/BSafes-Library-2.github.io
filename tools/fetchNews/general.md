@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Truth About False Positives in Security<a href="https://thehackernews.com/2022/08/the-truth-about-false-positives-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TL;DR: As weird as it might sound, seeing a few false positives reported by a security scanner is probably a good sign and certainly better than seeing none. Let's explain why.  Introduction  False positives have made a somewhat unexpected appearance in our lives in recent years. I am, of course, referring to the COVID-19 pandemic, which required massive testing campaigns in order to control the spread of the virus. For the record, a false positive is a result that appears positive (for COVID-19 in our case), where it is actually negative (the person is not infected). More commonly, we speak of false alarms.  In computer security, we are also often confronted with false positives. Ask the security team behind any SIEM what their biggest operational challenge is, and chances are that false positives will be mentioned. A recent&nbsp; report &nbsp;estimates that as much as 20% of all the alerts received by security professionals are false positives, making it a big source of fatigue.  Yet the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Hash-Based Safe Browsing Works in Google Chrome<a href="https://security.googleblog.com/2022/08/how-hash-based-safe-browsing-works-in.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Safe Browsing works in different ways depending on the user's preferences. In the most common case, Chrome uses the privacy-conscious Update API from the Safe Browsing service.
+</details>
+<div style="text-align: right" markdown="1">
+Google
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
