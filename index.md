@@ -34,6 +34,470 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt will pay you $10 million for info on Conti ransomware members<a href="https://www.bleepingcomputer.com/news/security/us-govt-will-pay-you-10-million-for-info-on-conti-ransomware-members/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department announced a $10 million reward today for information on five high-ranking Conti ransomware members, including showing the face of one of the members for the first time.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploited crypto platform RenBridge to launder $540 mn<a href="https://ciso.economictimes.indiatimes.com/news/hackers-exploited-crypto-platform-renbridge-to-launder-540-mn/93493649?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than half a billion dollars have been laundered in crypto assets originating from theft, fraud, ransomware and various other types of criminal activity since 2020, a new report has revealed.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Cybercrime Cartel Using 'BazarCall' Phishing Attacks as Initial Attack Vector<a href="https://thehackernews.com/2022/08/conti-cybercrime-cartel-using-bazarcall.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A trio of offshoots from the notorious Conti cybercrime cartel have resorted to the technique of call-back phishing as an initial access vector to breach targeted networks.  "Three autonomous threat groups have since adopted and independently developed their own targeted phishing tactics derived from the call back phishing methodology," cybersecurity firm AdvIntel  said  in a Wednesday report.  These targeted campaigns "substantially increased" attacks against entities in finance, technology, legal, and insurance sectors, the company added.  The actors in question include Silent Ransom, Quantum, and Roy/Zeon, all of which split from Conti after the ransomware-as-a-service (RaaS) cartel  orchestrated its shutdown  in May 2022 following its public support for Russia in the ongoing Russo-Ukrainian conflict.   The advanced social engineering tactic, also called  BazaCall  (aka BazarCall), came under the spotlight in 2020/2021 when it was put to use by operators of the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Defending the Open Internet to Confronting the Reality of a Fragmented Cyberspace: Reflecting Upon Two CFR Reports on U.S. Goals in Cyberspace<a href="https://www.lawfareblog.com/defending-open-internet-confronting-reality-fragmented-cyberspace-reflecting-upon-two-cfr-reports-us"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reading the two reports in tandem is a reminder of how high public expectations were for what Washington could accomplish in cyberspace. It also illustrates how significantly the United States’ position in cyberspace has worsened over the past decade.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks warns of Reflected Amplification DoS issue in PAN-OS<a href="https://securityaffairs.co/wordpress/134295/security/palo-alto-networks-pan-os-dos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks devices running the PAN-OS are abused to launch reflected amplification denial-of-service (DoS) attacks.
+
+
+
+Threat actors are exploiting a vulnerability, tracked as CVE-2022-0028 (CVSS score of 8.6), in Palo Alto Networks devices...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Confirms Network Breach Via Hacked Employee Google Account<a href="https://threatpost.com/cisco-network-breach-google/180385/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking giant says attackers gained initial access to an employee’s VPN client via a compromised Google account. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimbra auth bypass bug exploited to breach over 1,000 servers<a href="https://www.bleepingcomputer.com/news/security/zimbra-auth-bypass-bug-exploited-to-breach-over-1-000-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An authentication bypass Zimbra security vulnerability is being exploited to compromise Zimbra Collaboration Suite (ZCS) email servers worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks Firewalls Targeted for Reflected, Amplified DDoS Attacks<a href="https://www.securityweek.com/palo-alto-networks-firewalls-targeted-reflected-amplified-ddos-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks is working on fixes for a reflected amplification denial-of-service (DoS) vulnerability that impacts PAN-OS, the platform powering its next-gen firewalls.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Confirms It's Been Hacked by Yanluowang Ransomware Gang<a href="https://thehackernews.com/2022/08/cisco-confirms-its-been-hacked-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment major Cisco on Wednesday confirmed it was the victim of a cyberattack on May 24, 2022 after the attackers got hold of an employee's personal Google account that contained passwords synced from their web browser.  "Initial access to the Cisco VPN was achieved via the successful compromise of a Cisco employee's personal Google account," Cisco Talos  said  in a detailed write-up. "The user had enabled password syncing via Google Chrome and had stored their Cisco credentials in their browser, enabling that information to synchronize to their Google account."  The disclosure comes as cybercriminal actors associated with the Yanluowang ransomware gang  published a list of files  from the breach to their data leak site on August 10.  The exfiltrated information, according to Talos, included the contents of a Box cloud storage folder that was associated with the compromised employee's account and is not believed to have included any valuabl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex Twitter employee found guilty of spying for Saudi Arabian government<a href="https://securityaffairs.co/wordpress/134266/intelligence/ex-twitter-employee-guilty.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former Twitter employee was found guilty of spying on certain Twitter users for Saudi Arabia.
+
+
+
+A former Twitter employee, Ahmad Abouammo (44), was found guilty of gathering private information of certain Twitter users and passing them to Saudi Arabia.
+
+
+
+"Ahmad...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside the Hackers’ Toolkit – Podcast<a href="https://threatpost.com/inside-hackers-toolkit/180360/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This edition of the Threatpost podcast is sponsored by Egress.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Zeppelin ransomware may encrypt devices multiple times in attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-zeppelin-ransomware-may-encrypt-devices-multiple-times-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) warned US organizations today that attackers deploying Zeppelin ransomware might encrypt their files multiple times.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Education hammered by exploits and backdoors in 2021 and 2022<a href="https://www.malwarebytes.com/blog/news/2022/08/education-hammered-by-exploits-and-backdoors-in-2021-2022?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Beyond spikes in detections, the education sector has dealt with an onslaught of attacks ranging from spyware and denial of service tools to ransomware. Throughout the year, almost every month has a report of an educational institution under attack.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Behind Cuba Ransomware Attacks Using New RAT Malware<a href="https://thehackernews.com/2022/08/hackers-behind-cuba-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors associated with the Cuba ransomware have been linked to previously undocumented tactics, techniques and procedures (TTPs), including a new remote access trojan called ROMCOM RAT  on compromised systems.  The  new findings  come from Palo Alto Networks' Unit 42 threat intelligence team, which is tracking the double extortion ransomware group under the  constellation-themed moniker   Tropical Scorpius .  Cuba ransomware (aka  COLDDRAW ), which was first detected in December 2019, reemerged on the threat landscape in November 2021 and has been attributed to attacks against 60 entities in five critical infrastructure sectors, amassing at least $43.9 million in ransom payments.  Of the 60 victims listed on its data leak site, 40 are located in the U.S., indicating a not as global distribution of targeted organizations as other ransomware gangs.  "Cuba ransomware is distributed through Hancitor malware, a loader known for dropping or executing stealers, such as Remote
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed a flaw in ASA, FTD devices that can give access to RSA private key<a href="https://securityaffairs.co/wordpress/134287/security/cisco-flaw-asa-ftd.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a high severity flaw, tracked as CVE-2022-20866, affecting Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) software.
+
+
+
+Cisco addressed a high severity vulnerability in its Adaptive Security Appliance (ASA) and Firepower...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK NHS service recovery may take a month after MSP ransomware attack<a href="https://www.bleepingcomputer.com/news/security/uk-nhs-service-recovery-may-take-a-month-after-msp-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Managed service provider (MSP) Advanced confirmed that a ransomware attack on its systems caused the disruption of emergency services (111) from the United Kingdom's National Health Service (NHS).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Hacking of Starlink Terminals Has Begun<a href="https://www.wired.com/story/starlink-internet-dish-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To access the satellite dish’s software, security researcher Lennert Wouters physically stripped down a dish he purchased and created a custom hacking tool that can be attached to the Starlink dish.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What the Zola Hack Can Teach Us About Password Security<a href="https://thehackernews.com/2022/08/what-zola-hack-can-teach-us-about.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password security is only as strong as the password itself. Unfortunately, we are often reminded of the danger of weak, reused, and compromised passwords with major cybersecurity breaches that start with stolen credentials. For example, in May 2022, the popular wedding planning site, Zola, was the victim of a significant cybersecurity breach where hackers used an attack known as  credential stuffing . It resulted in fraudulent activity tied to customer accounts. Let's look at the Zola breach and why it emphasizes the need for organizations to bolster their password security and protect against various types of password attacks.  What happened with the Zola attack?  Instead of going after Zola's core business-critical infrastructure, hackers went after customer accounts with the May attack. Attackers used an age-old technique called  credential stuffing  to compromise several Zola customer accounts. With access to the compromised accounts, they attempted to purchase gift vouche
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Access to hacked corporate networks still strong but sales fall<a href="https://www.bleepingcomputer.com/news/security/access-to-hacked-corporate-networks-still-strong-but-sales-fall/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Statistics collected by cyber-intelligence firm KELA during this year's second quarter show that marketplaces selling initial access to corporate networks have taken a blow.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST post-quantum algorithm candidate’s future uncertain, with second attack proposed<a href="https://www.fedscoop.com/cracked-nist-cryptography-candidate-has-time/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uncertainty surrounds a cracked post-quantum cryptography algorithm being considered by the National Institute of Standards and Technology, now that researchers have potentially discovered a second attack method.
+</details>
+<div style="text-align: right" markdown="1">
+Fed Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Disclosed in Device42 IT Asset Management Software<a href="https://thehackernews.com/2022/08/critical-flaws-disclosed-in-device42-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed multiple severe security vulnerabilities asset management platform  Device42  that, if successfully exploited, could enable a malicious actor to seize control of affected systems.  "By exploiting these issues, an attacker could impersonate other users, obtain admin-level access in the application (by leaking session with an  LFI ) or obtain full access to the appliance files and database (through remote code execution)," Bitdefender  said  in a Wednesday report.   Even more concerningly, an adversary with any level of access within the host network could daisy-chain three of the flaws to bypass authentication protections and achieve remote code execution with the highest privileges.   The issues in question are listed below -   CVE-2022-1399  - Remote Code Execution in scheduled tasks component  CVE-2022-1400  - Hard-coded encryption key IV in Exago WebReportsApi.dll  CVE 2022-1401  - Insufficient validation of provided paths in Exago
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub's new privacy policy sparks backlash over tracking cookies<a href="https://www.bleepingcomputer.com/news/security/githubs-new-privacy-policy-sparks-backlash-over-tracking-cookies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers are furious at GitHub's upcoming privacy policy changes that would allow GitHub to place tracking cookies on some of its subdomains. The Microsoft subsidiary announced this month, it would be adding "non-essential cookies" on some marketing web pages starting in September, and offered a 30-day "comment period."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tenet’s $100 Million Cyber Shutdown Sparks 10 Questions All Boards Must Ask<a href="https://www.forbes.com/sites/noahbarsky/2022/08/10/ouch-tenet-health-shows-100-million-cyber-shutdown-scar/?sh=4c3aa68535b9&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leadership must establish, understand and trust crisis response plans—especially those related to business interruption risks. Substantive answers to these questions help build the resolve, readiness, and fortitude the digital era requires.
+</details>
+<div style="text-align: right" markdown="1">
+Forbes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueSky Ransomware Conducts Faster File Encryption via Multithreading<a href="https://unit42.paloaltonetworks.com/bluesky-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlueSky ransomware predominantly targets Windows hosts and utilizes multithreading to encrypt files faster. The multithreaded architecture of BlueSky bears code similarities with Conti v3, and the network search module is an exact replica of it.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Best Buy Spoof Uses Google Storage to Launch Phishing Attack<a href="https://www.avanan.com/blog/best-buy-spoof-uses-google-storage-to-launch-phishing-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this attack, hackers are spoofing Best Buy. Best Buy is another popular spoofed brand. This one is not the most convincing one researchers have seen, as the logos are lacking, and the email isn’t especially convincing.
+</details>
+<div style="text-align: right" markdown="1">
+Avanan
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patches ‘Dogwalk’ Zero-Day and 17 Critical Flaws<a href="https://threatpost.com/microsoft-patches-dogwalk-zero-day-and-17-critical-flaws/180378/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+August Patch Tuesday tackles 121 CVEs, 17 critical bugs and one zero-day bug exploited in the wild. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Dependabot Now Alerts Developers On Vulnerable GitHub Actions<a href="https://thehackernews.com/2022/08/github-dependabot-now-alerts-developers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud-based code hosting platform GitHub has announced that it will now start sending Dependabot alerts for vulnerable GitHub Actions to help developers fix security issues in CI/CD workflows.  "When a security vulnerability is reported in an action, our team of security researchers will create an advisory to document the vulnerability, which will trigger an alert to impacted repositories," GitHub's Brittany O'Shea and Kate Catlin  said .   GitHub Actions  is a continuous integration and continuous delivery (CI/CD) solution that enables users to automate the software build, test, and deployment pipeline.   Dependabot  is part of the Microsoft-owned subsidiary's continued efforts to secure the  software supply chain  by  notifying  users that their source code depends on a package with a security vulnerability and helping keep all the dependencies up-to-date.  The latest move entails receiving alerts on GitHub Actions and vulnerabilities impacting developer code,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs move to 'callback' social engineering attacks<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-move-to-callback-social-engineering-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least three groups split from the Conti ransomware operation have adopted BazarCall phishing tactics as the primary method to gain initial access to a victim's network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 10, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
