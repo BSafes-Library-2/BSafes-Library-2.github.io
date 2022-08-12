@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Twitter Employee Found Guilty of Spying for Saudi Arabia<a href="https://thehackernews.com/2022/08/former-twitter-employee-found-guilty-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former Twitter employee has been pronounced guilty for his role in digging up private information pertaining to certain Twitter users and turning over that data to Saudi Arabia.  Ahmad Abouammo, 44, was convicted by a jury after a two-week trial in San Francisco federal court, Bloomberg&nbsp; reported &nbsp;Tuesday. He faces up to 20 years in prison when sentenced.  The&nbsp; verdict &nbsp;comes nearly three years after Abouammo, along with Ali Alzabarah and Ahmed Almutairi (Ahmed Aljbreen) were&nbsp; indicted in 2019 &nbsp;for acting as "illegal agents" of Saudi Arabia, with the former also charged with destroying, altering, and falsifying records in a federal investigation.   Prosecutors accused Abouammo and Alzabarah, both of whom joined Twitter in 2013, of being enlisted by officials of the Kingdom of Saudi Arabia for&nbsp; unmasking its critics &nbsp;on the social media platform.  According to court documents, both individuals leveraged their access to internal systems to unauthorizedly get hold of nonpubli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Defending the Open Internet to Confronting the Reality of a Fragmented Cyberspace: Reflecting Upon Two CFR Reports on U.S. Goals in Cyberspace<a href="https://www.lawfareblog.com/defending-open-internet-confronting-reality-fragmented-cyberspace-reflecting-upon-two-cfr-reports-us"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reading the two reports in tandem is a reminder of how high public expectations were for what Washington could accomplish in cyberspace. It also illustrates how significantly the United States’ position in cyberspace has worsened over the past decade.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Education hammered by exploits and backdoors in 2021 and 2022<a href="https://www.malwarebytes.com/blog/news/2022/08/education-hammered-by-exploits-and-backdoors-in-2021-2022?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Beyond spikes in detections, the education sector has dealt with an onslaught of attacks ranging from spyware and denial of service tools to ransomware. Throughout the year, almost every month has a report of an educational institution under attack.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Access to hacked corporate networks still strong but sales fall<a href="https://www.bleepingcomputer.com/news/security/access-to-hacked-corporate-networks-still-strong-but-sales-fall/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Statistics collected by cyber-intelligence firm KELA during this year's second quarter show that marketplaces selling initial access to corporate networks have taken a blow.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimbra auth bypass bug exploited to breach over 1,000 servers<a href="https://www.bleepingcomputer.com/news/security/zimbra-auth-bypass-bug-exploited-to-breach-over-1-000-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An authentication bypass Zimbra security vulnerability is being exploited to compromise&nbsp;Zimbra Collaboration Suite (ZCS) email servers worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed a flaw in ASA, FTD devices that can give access to RSA private key<a href="https://securityaffairs.co/wordpress/134287/security/cisco-flaw-asa-ftd.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a high severity flaw, tracked as CVE-2022-20866, affecting Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) software.
+
+
+
+Cisco addressed a high severity vulnerability in its Adaptive Security Appliance (ASA) and Firepower...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Disclosed in Device42 IT Asset Management Software<a href="https://thehackernews.com/2022/08/critical-flaws-disclosed-in-device42-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed multiple severe security vulnerabilities asset management platform&nbsp; Device42 &nbsp;that, if successfully exploited, could enable a malicious actor to seize control of affected systems.  "By exploiting these issues, an attacker could impersonate other users, obtain admin-level access in the application (by leaking session with an&nbsp; LFI ) or obtain full access to the appliance files and database (through remote code execution)," Bitdefender&nbsp; said &nbsp;in a Wednesday report.   Even more concerningly, an adversary with any level of access within the host network could daisy-chain three of the flaws to bypass authentication protections and achieve remote code execution with the highest privileges.   The issues in question are listed below -   CVE-2022-1399 &nbsp;- Remote Code Execution in scheduled tasks component  CVE-2022-1400 &nbsp;- Hard-coded encryption key IV in Exago WebReportsApi.dll  CVE 2022-1401 &nbsp;- Insufficient validation of provided paths in Exago
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patches ‘Dogwalk’ Zero-Day and 17 Critical Flaws<a href="https://threatpost.com/microsoft-patches-dogwalk-zero-day-and-17-critical-flaws/180378/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+August Patch Tuesday tackles 121 CVEs, 17 critical bugs and one zero-day bug exploited in the wild. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Dependabot Now Alerts Developers On Vulnerable GitHub Actions<a href="https://thehackernews.com/2022/08/github-dependabot-now-alerts-developers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud-based code hosting platform GitHub has announced that it will now start sending Dependabot alerts for vulnerable GitHub Actions to help developers fix security issues in CI/CD workflows.  "When a security vulnerability is reported in an action, our team of security researchers will create an advisory to document the vulnerability, which will trigger an alert to impacted repositories," GitHub's Brittany O'Shea and Kate Catlin&nbsp; said .   GitHub Actions &nbsp;is a continuous integration and continuous delivery (CI/CD) solution that enables users to automate the software build, test, and deployment pipeline.   Dependabot &nbsp;is part of the Microsoft-owned subsidiary's continued efforts to secure the&nbsp; software supply chain &nbsp;by&nbsp; notifying &nbsp;users that their source code depends on a package with a security vulnerability and helping keep all the dependencies up-to-date.  The latest move entails receiving alerts on GitHub Actions and vulnerabilities impacting developer code,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

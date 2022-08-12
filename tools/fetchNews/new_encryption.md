@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST post-quantum algorithm candidate’s future uncertain, with second attack proposed<a href="https://www.fedscoop.com/cracked-nist-cryptography-candidate-has-time/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uncertainty surrounds a cracked post-quantum cryptography algorithm being considered by the National Institute of Standards and Technology, now that researchers have potentially discovered a second attack method.
+</details>
+<div style="text-align: right" markdown="1">
+Fed Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

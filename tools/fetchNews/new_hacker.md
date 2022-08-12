@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside the Hackers’ Toolkit – Podcast<a href="https://threatpost.com/inside-hackers-toolkit/180360/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This edition of the Threatpost podcast is sponsored by Egress.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Hacking of Starlink Terminals Has Begun<a href="https://www.wired.com/story/starlink-internet-dish-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To access the satellite dish’s software, security researcher Lennert Wouters physically stripped down a dish he purchased and created a custom hacking tool that can be attached to the Starlink dish.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

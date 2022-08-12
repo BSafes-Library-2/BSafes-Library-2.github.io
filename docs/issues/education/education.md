@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What the Zola Hack Can Teach Us About Password Security<a href="https://thehackernews.com/2022/08/what-zola-hack-can-teach-us-about.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password security is only as strong as the password itself. Unfortunately, we are often reminded of the danger of weak, reused, and compromised passwords with major cybersecurity breaches that start with stolen credentials. For example, in May 2022, the popular wedding planning site, Zola, was the victim of a significant cybersecurity breach where hackers used an attack known as&nbsp; credential stuffing . It resulted in fraudulent activity tied to customer accounts. Let's look at the Zola breach and why it emphasizes the need for organizations to bolster their password security and protect against various types of password attacks.  What happened with the Zola attack?  Instead of going after Zola's core business-critical infrastructure, hackers went after customer accounts with the May attack. Attackers used an age-old technique called&nbsp; credential stuffing &nbsp;to compromise several Zola customer accounts. With access to the compromised accounts, they attempted to purchase gift vouche
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

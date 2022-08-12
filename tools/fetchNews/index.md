@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt will pay you $10 million for info on Conti ransomware members<a href="https://www.bleepingcomputer.com/news/security/us-govt-will-pay-you-10-million-for-info-on-conti-ransomware-members/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploited crypto platform RenBridge to launder $540 mn<a href="https://ciso.economictimes.indiatimes.com/news/hackers-exploited-crypto-platform-renbridge-to-launder-540-mn/93493649?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti Cybercrime Cartel Using 'BazarCall' Phishing Attacks as Initial Attack Vector<a href="https://thehackernews.com/2022/08/conti-cybercrime-cartel-using-bazarcall.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 From Defending the Open Internet to Confronting the Reality of a Fragmented Cyberspace: Reflecting Upon Two CFR Reports on U.S. Goals in Cyberspace<a href="https://www.lawfareblog.com/defending-open-internet-confronting-reality-fragmented-cyberspace-reflecting-upon-two-cfr-reports-us"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Palo Alto Networks warns of Reflected Amplification DoS issue in PAN-OS<a href="https://securityaffairs.co/wordpress/134295/security/palo-alto-networks-pan-os-dos.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Confirms Network Breach Via Hacked Employee Google Account<a href="https://threatpost.com/cisco-network-breach-google/180385/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zimbra auth bypass bug exploited to breach over 1,000 servers<a href="https://www.bleepingcomputer.com/news/security/zimbra-auth-bypass-bug-exploited-to-breach-over-1-000-servers/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Palo Alto Networks Firewalls Targeted for Reflected, Amplified DDoS Attacks<a href="https://www.securityweek.com/palo-alto-networks-firewalls-targeted-reflected-amplified-ddos-attack?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Confirms It's Been Hacked by Yanluowang Ransomware Gang<a href="https://thehackernews.com/2022/08/cisco-confirms-its-been-hacked-by.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ex Twitter employee found guilty of spying for Saudi Arabian government<a href="https://securityaffairs.co/wordpress/134266/intelligence/ex-twitter-employee-guilty.html"> Full Text</a>
@@ -206,7 +206,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside the Hackers’ Toolkit – Podcast<a href="https://threatpost.com/inside-hackers-toolkit/180360/"> Full Text</a>
@@ -222,7 +222,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Zeppelin ransomware may encrypt devices multiple times in attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-zeppelin-ransomware-may-encrypt-devices-multiple-times-in-attacks/"> Full Text</a>
@@ -238,7 +238,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Education hammered by exploits and backdoors in 2021 and 2022<a href="https://www.malwarebytes.com/blog/news/2022/08/education-hammered-by-exploits-and-backdoors-in-2021-2022?&web_view=true"> Full Text</a>
@@ -254,7 +254,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Behind Cuba Ransomware Attacks Using New RAT Malware<a href="https://thehackernews.com/2022/08/hackers-behind-cuba-ransomware-attacks.html"> Full Text</a>
@@ -270,7 +270,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixed a flaw in ASA, FTD devices that can give access to RSA private key<a href="https://securityaffairs.co/wordpress/134287/security/cisco-flaw-asa-ftd.html"> Full Text</a>
@@ -290,7 +290,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK NHS service recovery may take a month after MSP ransomware attack<a href="https://www.bleepingcomputer.com/news/security/uk-nhs-service-recovery-may-take-a-month-after-msp-ransomware-attack/"> Full Text</a>
@@ -306,7 +306,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Hacking of Starlink Terminals Has Begun<a href="https://www.wired.com/story/starlink-internet-dish-hack/?&web_view=true"> Full Text</a>
@@ -322,7 +322,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What the Zola Hack Can Teach Us About Password Security<a href="https://thehackernews.com/2022/08/what-zola-hack-can-teach-us-about.html"> Full Text</a>
@@ -338,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Access to hacked corporate networks still strong but sales fall<a href="https://www.bleepingcomputer.com/news/security/access-to-hacked-corporate-networks-still-strong-but-sales-fall/"> Full Text</a>
@@ -354,7 +354,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST post-quantum algorithm candidate’s future uncertain, with second attack proposed<a href="https://www.fedscoop.com/cracked-nist-cryptography-candidate-has-time/?&web_view=true"> Full Text</a>
@@ -370,7 +370,7 @@ Fed Scoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaws Disclosed in Device42 IT Asset Management Software<a href="https://thehackernews.com/2022/08/critical-flaws-disclosed-in-device42-it.html"> Full Text</a>
@@ -386,7 +386,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub's new privacy policy sparks backlash over tracking cookies<a href="https://www.bleepingcomputer.com/news/security/githubs-new-privacy-policy-sparks-backlash-over-tracking-cookies/"> Full Text</a>
@@ -402,7 +402,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tenet’s $100 Million Cyber Shutdown Sparks 10 Questions All Boards Must Ask<a href="https://www.forbes.com/sites/noahbarsky/2022/08/10/ouch-tenet-health-shows-100-million-cyber-shutdown-scar/?sh=4c3aa68535b9&web_view=true"> Full Text</a>
@@ -418,7 +418,7 @@ Forbes
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlueSky Ransomware Conducts Faster File Encryption via Multithreading<a href="https://unit42.paloaltonetworks.com/bluesky-ransomware/?&web_view=true"> Full Text</a>
@@ -434,7 +434,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Best Buy Spoof Uses Google Storage to Launch Phishing Attack<a href="https://www.avanan.com/blog/best-buy-spoof-uses-google-storage-to-launch-phishing-attack?&web_view=true"> Full Text</a>
@@ -450,7 +450,7 @@ Avanan
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2022
+August 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patches ‘Dogwalk’ Zero-Day and 17 Critical Flaws<a href="https://threatpost.com/microsoft-patches-dogwalk-zero-day-and-17-critical-flaws/180378/"> Full Text</a>
@@ -466,7 +466,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2022
+August 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Dependabot Now Alerts Developers On Vulnerable GitHub Actions<a href="https://thehackernews.com/2022/08/github-dependabot-now-alerts-developers.html"> Full Text</a>
@@ -482,7 +482,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2022
+August 10, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gangs move to 'callback' social engineering attacks<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-move-to-callback-social-engineering-attacks/"> Full Text</a>

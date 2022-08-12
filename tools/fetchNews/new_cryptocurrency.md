@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploited crypto platform RenBridge to launder $540 mn<a href="https://ciso.economictimes.indiatimes.com/news/hackers-exploited-crypto-platform-renbridge-to-launder-540-mn/93493649?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than half a billion dollars have been laundered in crypto assets originating from theft, fraud, ransomware and various other types of criminal activity since 2020, a new report has revealed.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

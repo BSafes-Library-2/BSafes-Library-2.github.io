@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Confirms Network Breach Via Hacked Employee Google Account<a href="https://threatpost.com/cisco-network-breach-google/180385/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking giant says attackers gained initial access to an employee’s VPN client via a compromised Google account. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

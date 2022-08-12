@@ -8,6 +8,28 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex Twitter employee found guilty of spying for Saudi Arabian government<a href="https://securityaffairs.co/wordpress/134266/intelligence/ex-twitter-employee-guilty.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former Twitter employee was found guilty of spying on certain Twitter users for Saudi Arabia.
+
+
+
+A former Twitter employee, Ahmad Abouammo (44), was found guilty of gathering private information of certain Twitter users and passing them to Saudi Arabia.
+
+
+
+"Ahmad...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks warns of Reflected Amplification DoS issue in PAN-OS<a href="https://securityaffairs.co/wordpress/134295/security/palo-alto-networks-pan-os-dos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks devices running the PAN-OS are abused to launch reflected amplification denial-of-service (DoS) attacks.
+
+
+
+Threat actors are exploiting a vulnerability, tracked as CVE-2022-0028&nbsp;(CVSS score of 8.6), in Palo Alto Networks devices...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks Firewalls Targeted for Reflected, Amplified DDoS Attacks<a href="https://www.securityweek.com/palo-alto-networks-firewalls-targeted-reflected-amplified-ddos-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks is working on fixes for a reflected amplification denial-of-service (DoS) vulnerability that impacts PAN-OS, the platform powering its next-gen firewalls.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
