@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub's new privacy policy sparks backlash over tracking cookies<a href="https://www.bleepingcomputer.com/news/security/githubs-new-privacy-policy-sparks-backlash-over-tracking-cookies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers&nbsp;are furious at GitHub's upcoming privacy&nbsp;policy changes that would allow GitHub to place tracking cookies on some&nbsp;of its subdomains. The Microsoft subsidiary announced this month, it would be adding "non-essential cookies" on some marketing web pages starting in September, and offered a 30-day "comment period."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

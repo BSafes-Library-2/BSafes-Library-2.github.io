@@ -8,6 +8,76 @@ nav_order: 900195
 
 ## Solution
 ---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoTestWAF adds API attack testing via OpenAPI support<a href="https://portswigger.net/daily-swig/gotestwaf-adds-api-attack-testing-via-openapi-support?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Launched in April 2020, the security testing tool simulates OWASP and API exploits to test the detection capabilities of web application firewalls (WAFs), NGWAFs, RASPs, WAAPs, and, now, API security tools.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Testing Default End-to-End Encryption and Encrypted Backups in Messenger<a href="https://thehackernews.com/2022/08/facebook-testing-default-end-to-end.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media company Meta said it will begin testing end-to-end encryption (E2EE) on its Messenger platform this week for select users as the default option, as the company continues to slowly add security layers to its various chat services.  "If you're in the test group, some of your most frequent chats may be automatically end-to-end encrypted, which means you won't have to opt in to the feature," Sara Su, product management director of Messenger Trust,&nbsp; said .  The incremental development comes a year after it&nbsp; turned on E2EE &nbsp;for audio and video calls on the messaging service as well as for one-on-one chats in Instagram, and enabled&nbsp; encrypted chat backups &nbsp;for WhatsApp on Android and iOS.   E2EE is a secure communication mechanism that scrambles data in transit and prevents third-parties from unauthorizedly accessing information sent from one endpoint to another, including Meta.  "This is because with end-to-end encryption, your messages are secured with a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fast and Secure VPN on a Budget? Private Internet Access VPN Has You Covered<a href="https://thehackernews.com/2022/08/fast-and-secure-vpn-on-budget-private.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Back when the internet consisted of a handful of computers networked together across a few research institutions, nobody could have imagined that it would one day form the backbone of a new digital way of life. And that probably explains why none of the researchers who thought up its core technologies — things like packet switching and TCP/IP — gave much consideration to the need to secure the data passing through it.  But by 1989, hackers like Robert Morris had already spotted the security weaknesses of the fledgling global network and started to exploit them. And that was just the beginning. Today, network administrators and individual internet users spend significant amounts of time and money trying to keep their data safe from prying eyes.  The de-facto tool most people use for that purpose is a VPN. It's a software encryption solution that prevents anyone from accessing data traversing the public internet other than its intended recipient. And VPNs make up a data privacy mark
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Cybersecurity Toolkit to Help Protect Upcoming Midterm Elections<a href="https://www.nextgov.com/cybersecurity/2022/08/cisa-releases-cybersecurity-toolkit-help-protect-upcoming-midterm-elections/375716/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA on Wednesday released an election security toolkit to help state and local election officials access a variety of free tools and resources to safeguard their voting systems ahead of the upcoming midterm elections.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel Introduces Protection Against Physical Fault Injection Attacks<a href="https://www.securityweek.com/intel-introduces-protection-against-physical-fault-injection-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Daniel Nemiroff, senior principal engineer at Intel, fault injection attacks allow attackers to execute malicious instructions and potentially leak data through clock pin, electromagnetic, and voltage glitches.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Best Buy Spoof Uses Google Storage to Launch Phishing Attack<a href="https://www.avanan.com/blog/best-buy-spoof-uses-google-storage-to-launch-phishing-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this attack, hackers are spoofing Best Buy. Best Buy is another popular spoofed brand. This one is not the most convincing one researchers have seen, as the logos are lacking, and the email isn’t especially convincing.
+</details>
+<div style="text-align: right" markdown="1">
+Avanan
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

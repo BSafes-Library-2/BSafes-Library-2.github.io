@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - August 12th 2022 - Attacking the defenders<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-12th-2022-attacking-the-defenders/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitter APT and Transparent Tribe Campaigns on Social Media<a href="https://cyware.com/news/bitter-apt-and-transparent-tribe-campaigns-on-social-media-87b29673"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover UEFI Secure Boot Bypass in 3 Microsoft Signed Boot Loaders<a href="https://thehackernews.com/2022/08/researchers-uncover-uefi-secure-boot.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The US offers a $10M rewards for info on the Conti ransomware gang’s members<a href="https://securityaffairs.co/wordpress/134326/cyber-crime/conti-ransomware-reward.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese hackers backdoor chat app with new Linux, macOS malware<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-backdoor-chat-app-with-new-linux-macos-malware/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoNot Team APT Updates its Malware Arsenal<a href="https://cyware.com/news/donot-team-apt-updates-its-malware-arsenal-a5a76e92"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Xiaomi Phones with MediaTek Chips Found Vulnerable to Forged Payments<a href="https://thehackernews.com/2022/08/xiaomi-phones-with-mediatek-chips-found.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of mass exploitation of an RCE flaw in Zimbra Collaboration Suite<a href="https://securityaffairs.co/wordpress/134314/hacking/zimbra-rce-actively-exploited.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous poop gifting site hacked, customers exposed<a href="https://www.bleepingcomputer.com/news/security/anonymous-poop-gifting-site-hacked-customers-exposed/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoTestWAF adds API attack testing via OpenAPI support<a href="https://portswigger.net/daily-swig/gotestwaf-adds-api-attack-testing-via-openapi-support?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Government Offers $10 Million Reward for Information on Conti Ransomware Gang<a href="https://thehackernews.com/2022/08/us-government-offers-10-million-reward.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BazarCall attacks have revolutionized ransomware operations<a href="https://securityaffairs.co/wordpress/134302/cyber-crime/bazarcall-revolutionized-ransomware-operations.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft blocks UEFI bootloaders enabling Windows Secure Boot bypass<a href="https://www.bleepingcomputer.com/news/security/microsoft-blocks-uefi-bootloaders-enabling-windows-secure-boot-bypass/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enterprises Can’t Shake Log4j flaw<a href="https://securityaffairs.co/wordpress/134262/hacking/risky-business-enterprises-cant-shake-log4j-flaw.html?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Testing Default End-to-End Encryption and Encrypted Backups in Messenger<a href="https://thehackernews.com/2022/08/facebook-testing-default-end-to-end.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twilio: 125 customers affected by data breach, no passwords stolen<a href="https://www.bleepingcomputer.com/news/security/twilio-125-customers-affected-by-data-breach-no-passwords-stolen/"> Full Text</a>
@@ -302,7 +302,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC Initiates Privacy and Data Security Rule-Making<a href="https://www.bankinfosecurity.com/ftc-initiates-privacy-data-security-rule-making-a-19778?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Patches High-Severity Vulnerability Affecting ASA and Firepower Solutions<a href="https://thehackernews.com/2022/08/cisco-patches-high-severity.html"> Full Text</a>
@@ -334,7 +334,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Palo Alto Networks: New PAN-OS DDoS flaw exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-new-pan-os-ddos-flaw-exploited-in-attacks/"> Full Text</a>
@@ -350,7 +350,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alleged Business Email Compromise Fraudsters Extradited<a href="https://www.bankinfosecurity.com/alleged-business-email-compromise-fraudsters-extradited-a-19783?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fast and Secure VPN on a Budget? Private Internet Access VPN Has You Covered<a href="https://thehackernews.com/2022/08/fast-and-secure-vpn-on-budget-private.html"> Full Text</a>
@@ -382,7 +382,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Xiaomi phones with MediaTek chips vulnerable to forged payments<a href="https://www.bleepingcomputer.com/news/security/xiaomi-phones-with-mediatek-chips-vulnerable-to-forged-payments/"> Full Text</a>
@@ -398,7 +398,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VA Systems Vulnerable to Cyber Intrusions Due to Lack of Effective Oversight, Report Says<a href="https://www.nextgov.com/cybersecurity/2022/08/va-systems-vulnerable-cyber-intrusions-due-lack-effective-oversight-report-says/375695/?&web_view=true"> Full Text</a>
@@ -414,7 +414,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VileRAT Updated to Target More Cryptocurrency Exchanges<a href="https://cyware.com/news/vilerat-updated-to-target-more-cryptocurrency-exchanges-7afef5f1"> Full Text</a>
@@ -430,7 +430,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Releases Cybersecurity Toolkit to Help Protect Upcoming Midterm Elections<a href="https://www.nextgov.com/cybersecurity/2022/08/cisa-releases-cybersecurity-toolkit-help-protect-upcoming-midterm-elections/375716/?&web_view=true"> Full Text</a>
@@ -446,7 +446,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2022
+August 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intel Introduces Protection Against Physical Fault Injection Attacks<a href="https://www.securityweek.com/intel-introduces-protection-against-physical-fault-injection-attacks?&web_view=true"> Full Text</a>
@@ -462,7 +462,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2022
+August 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of Ongoing Mass Exploitation of Zimbra RCE Vulnerability<a href="https://thehackernews.com/2022/08/researchers-warn-of-ongoing-mass.html"> Full Text</a>

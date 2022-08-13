@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tenet’s $100 Million Cyber Shutdown Sparks 10 Questions All Boards Must Ask<a href="https://www.forbes.com/sites/noahbarsky/2022/08/10/ouch-tenet-health-shows-100-million-cyber-shutdown-scar/?sh=4c3aa68535b9&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leadership must establish, understand and trust crisis response plans—especially those related to business interruption risks. Substantive answers to these questions help build the resolve, readiness, and fortitude the digital era requires.
+</details>
+<div style="text-align: right" markdown="1">
+Forbes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

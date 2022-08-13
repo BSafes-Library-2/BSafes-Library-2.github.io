@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous poop gifting site hacked, customers exposed<a href="https://www.bleepingcomputer.com/news/security/anonymous-poop-gifting-site-hacked-customers-exposed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShitExpress, a web service that lets you send a box of feces along with a personalized message to friends and enemies, has been breached after a "customer" spotted a vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio: 125 customers affected by data breach, no passwords stolen<a href="https://www.bleepingcomputer.com/news/security/twilio-125-customers-affected-by-data-breach-no-passwords-stolen/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud communications giant Twilio, the owner of the highly popular two-factor authentication (2FA) provider Authy, says that&nbsp;it has so far&nbsp;identified 125 customers who had their data accessed during a&nbsp;security breach discovered last week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

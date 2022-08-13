@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitter APT and Transparent Tribe Campaigns on Social Media<a href="https://cyware.com/news/bitter-apt-and-transparent-tribe-campaigns-on-social-media-87b29673"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta recently took down two cyberespionage campaigns across its social media platforms. These campaigns were being operated by Bitter APT and Transparent Tribe threat groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoNot Team APT Updates its Malware Arsenal<a href="https://cyware.com/news/donot-team-apt-updates-its-malware-arsenal-a5a76e92"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morphisec Labs researchers have reported that the group has added new modules to its Windows spyware framework aka YTY, Jaca. These latest samples appear to be used in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2022 <br>`
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - August 12th 2022 - Attacking the defenders<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-12th-2022-attacking-the-defenders/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It was a very busy week for ransomware news and attacks, especially with the disclosure that Cisco was breached by a threat actor affiliated with the Yanluowang ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BazarCall attacks have revolutionized ransomware operations<a href="https://securityaffairs.co/wordpress/134302/cyber-crime/bazarcall-revolutionized-ransomware-operations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware gang is using BazarCall phishing attacks as an initial attack vector to access targeted networks.
+
+
+
+BazarCall attack, aka call back phishing, is an attack vector that utilizes targeted phishing methodology and was first used by the Ryuk...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

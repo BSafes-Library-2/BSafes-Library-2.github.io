@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks: New PAN-OS DDoS flaw exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-new-pan-os-ddos-flaw-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks has issued a security advisory warning of an actively exploited&nbsp;high-severity&nbsp;vulnerability impacting PAN-OS, the operating system used by the company's networking hardware products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

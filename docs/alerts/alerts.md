@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CYBERSECURITY TOOLKIT TO PROTECT ELECTIONS <a href="https://www.cisa.gov/cybersecurity-toolkit-protect-elections"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the lead federal agency responsible for national election security, CISA—through the Joint Cyber Defense Collaborative (JCDC)—has compiled a toolkit of free services and tools intended to help state and local government officials, election officials, and vendors enhance the cybersecurity and cyber resilience of U.S. election infrastructure. This toolkit includes free tools, services, and resources provided by CISA, JCDC members, and others across the cybersecurity community.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 11, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

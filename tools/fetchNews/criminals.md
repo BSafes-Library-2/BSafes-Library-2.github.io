@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt will pay you $10 million for info on Conti ransomware members<a href="https://www.bleepingcomputer.com/news/security/us-govt-will-pay-you-10-million-for-info-on-conti-ransomware-members/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department announced a $10 million reward today for information on five high-ranking Conti ransomware members, including showing the face of one of the members for the first time.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Cybercrime Cartel Using 'BazarCall' Phishing Attacks as Initial Attack Vector<a href="https://thehackernews.com/2022/08/conti-cybercrime-cartel-using-bazarcall.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A trio of offshoots from the notorious Conti cybercrime cartel have resorted to the technique of call-back phishing as an initial access vector to breach targeted networks.  "Three autonomous threat groups have since adopted and independently developed their own targeted phishing tactics derived from the call back phishing methodology," cybersecurity firm AdvIntel&nbsp; said &nbsp;in a Wednesday report.  These targeted campaigns "substantially increased" attacks against entities in finance, technology, legal, and insurance sectors, the company added.  The actors in question include Silent Ransom, Quantum, and Roy/Zeon, all of which split from Conti after the ransomware-as-a-service (RaaS) cartel&nbsp; orchestrated its shutdown &nbsp;in May 2022 following its public support for Russia in the ongoing Russo-Ukrainian conflict.   The advanced social engineering tactic, also called&nbsp; BazaCall &nbsp;(aka BazarCall), came under the spotlight in 2020/2021 when it was put to use by operators of the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs move to 'callback' social engineering attacks<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-move-to-callback-social-engineering-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least three groups split from the Conti ransomware operation have adopted BazarCall phishing tactics as the primary method to gain initial access to a victim's network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

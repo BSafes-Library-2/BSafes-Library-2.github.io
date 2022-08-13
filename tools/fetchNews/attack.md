@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Confirms It's Been Hacked by Yanluowang Ransomware Gang<a href="https://thehackernews.com/2022/08/cisco-confirms-its-been-hacked-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment major Cisco on Wednesday confirmed it was the victim of a cyberattack on May 24, 2022 after the attackers got hold of an employee's personal Google account that contained passwords synced from their web browser.  "Initial access to the Cisco VPN was achieved via the successful compromise of a Cisco employee's personal Google account," Cisco Talos&nbsp; said &nbsp;in a detailed write-up. "The user had enabled password syncing via Google Chrome and had stored their Cisco credentials in their browser, enabling that information to synchronize to their Google account."  The disclosure comes as cybercriminal actors associated with the Yanluowang ransomware gang&nbsp; published a list of files &nbsp;from the breach to their data leak site on August 10.  The exfiltrated information, according to Talos, included the contents of a Box cloud storage folder that was associated with the compromised employee's account and is not believed to have included any valuabl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Behind Cuba Ransomware Attacks Using New RAT Malware<a href="https://thehackernews.com/2022/08/hackers-behind-cuba-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors associated with the Cuba ransomware have been linked to previously undocumented tactics, techniques and procedures (TTPs), including a new remote access trojan called ROMCOM RAT  on compromised systems.  The&nbsp; new findings &nbsp;come from Palo Alto Networks' Unit 42 threat intelligence team, which is tracking the double extortion ransomware group under the&nbsp; constellation-themed moniker &nbsp; Tropical Scorpius .  Cuba ransomware (aka&nbsp; COLDDRAW ), which was first detected in December 2019, reemerged on the threat landscape in November 2021 and has been attributed to attacks against 60 entities in five critical infrastructure sectors, amassing at least $43.9 million in ransom payments.  Of the 60 victims listed on its data leak site, 40 are located in the U.S., indicating a not as global distribution of targeted organizations as other ransomware gangs.  "Cuba ransomware is distributed through Hancitor malware, a loader known for dropping or executing stealers, such as Remote
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK NHS service recovery may take a month after MSP ransomware attack<a href="https://www.bleepingcomputer.com/news/security/uk-nhs-service-recovery-may-take-a-month-after-msp-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Managed service provider (MSP) Advanced confirmed that a ransomware attack on its systems&nbsp;caused the disruption of emergency services (111) from the United Kingdom's National Health Service (NHS).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
