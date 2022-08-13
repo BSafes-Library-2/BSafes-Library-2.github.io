@@ -34,6 +34,450 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - August 12th 2022 - Attacking the defenders<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-12th-2022-attacking-the-defenders/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It was a very busy week for ransomware news and attacks, especially with the disclosure that Cisco was breached by a threat actor affiliated with the Yanluowang ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitter APT and Transparent Tribe Campaigns on Social Media<a href="https://cyware.com/news/bitter-apt-and-transparent-tribe-campaigns-on-social-media-87b29673"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta recently took down two cyberespionage campaigns across its social media platforms. These campaigns were being operated by Bitter APT and Transparent Tribe threat groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover UEFI Secure Boot Bypass in 3 Microsoft Signed Boot Loaders<a href="https://thehackernews.com/2022/08/researchers-uncover-uefi-secure-boot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security feature bypass vulnerability has been uncovered in three signed third-party Unified Extensible Firmware Interface (UEFI) boot loaders that allow bypass of the UEFI Secure Boot feature.  "These vulnerabilities can be exploited by mounting the EFI System Partition and replacing the existing bootloader with the vulnerable one, or modifying a UEFI variable to load the vulnerable loader instead of the existing one," hardware security firm Eclypsium  said  in a report shared with The Hacker News.   The following  vendor-specific boot loaders , which were signed and authenticated by Microsoft, have been found vulnerable to the bypass and have been patched as part of the tech giant's  Patch Tuesday update  released this week -   Eurosoft Boot Loader ( CVE-2022-34301 )  New Horizon Data Systems Inc Boot Loader ( CVE-2022-34302 ), and  Crypto Pro Boot Loader ( CVE-20220-34303 )   Secure Boot is a  security standard  designed to thwart malicious programs from loading whe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The US offers a $10M rewards for info on the Conti ransomware gang’s members<a href="https://securityaffairs.co/wordpress/134326/cyber-crime/conti-ransomware-reward.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department announced a $10 million reward for information related to five individuals associated with the Conti ransomware gang.
+
+
+
+The U.S. State Department announced a $10 million reward for information on five prominent members of the Conti...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers backdoor chat app with new Linux, macOS malware<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-backdoor-chat-app-with-new-linux-macos-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Versions of a cross-platform instant messenger application focused on the Chinese market known as 'MiMi' have been trojanized to deliver a new backdoor (dubbed rshell) that can be used to steal data from Linux and macOS systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoNot Team APT Updates its Malware Arsenal<a href="https://cyware.com/news/donot-team-apt-updates-its-malware-arsenal-a5a76e92"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morphisec Labs researchers have reported that the group has added new modules to its Windows spyware framework aka YTY, Jaca. These latest samples appear to be used in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xiaomi Phones with MediaTek Chips Found Vulnerable to Forged Payments<a href="https://thehackernews.com/2022/08/xiaomi-phones-with-mediatek-chips-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security flaws have been identified in Xiaomi Redmi Note 9T and Redmi Note 11 models, which could be exploited to disable the mobile payment mechanism and even forge transactions via a rogue Android app installed on the devices.  Check Point said it found the flaws in devices powered by MediaTek chipsets during a security analysis of the Chinese handset maker's "Kinibi" Trusted Execution Environment (TEE).  A TEE refers to a  secure enclave  inside the main processor that's used to process and store sensitive information such as cryptographic keys so as to ensure confidentiality and integrity.   Specifically, the Israeli cybersecurity firm discovered that a trusted app on a Xiaomi device can be downgraded due to a lack of version control, enabling an attacker to replace a newer, secure version of an app with an older, vulnerable variant.  "Therefore, an attacker can bypass security fixes made by Xiaomi or MediaTek in trusted apps by downgrading them to unpatched
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of mass exploitation of an RCE flaw in Zimbra Collaboration Suite<a href="https://securityaffairs.co/wordpress/134314/hacking/zimbra-rce-actively-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting an authentication bypass Zimbra flaw, tracked as CVE-2022-27925, to hack Zimbra Collaboration Suite email servers worldwide.
+
+
+
+An authentication bypass affecting Zimbra Collaboration Suite, tracked as CVE-2022-27925, is...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous poop gifting site hacked, customers exposed<a href="https://www.bleepingcomputer.com/news/security/anonymous-poop-gifting-site-hacked-customers-exposed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShitExpress, a web service that lets you send a box of feces along with a personalized message to friends and enemies, has been breached after a "customer" spotted a vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoTestWAF adds API attack testing via OpenAPI support<a href="https://portswigger.net/daily-swig/gotestwaf-adds-api-attack-testing-via-openapi-support?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Launched in April 2020, the security testing tool simulates OWASP and API exploits to test the detection capabilities of web application firewalls (WAFs), NGWAFs, RASPs, WAAPs, and, now, API security tools.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Offers $10 Million Reward for Information on Conti Ransomware Gang<a href="https://thehackernews.com/2022/08/us-government-offers-10-million-reward.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department on Thursday  announced  a $10 million reward for information related to five individuals associated with the Conti ransomware group.  The reward offer, first  reported  by WIRED, is also notable for the fact that it marks the first time the face of a Conti associate, known as "Target," has been unmasked. The four other associates have been referred to as "Tramp," "Dandis," "Professor," and "Reshaev."  The government, besides seeking information about the five operators that could lead to their identification or location, is also calling on people to share details about Conti and its affiliated groups  TrickBot  and  Wizard Spider .   Since its rebrand from Ryuk to Conti, the transnational organized crime group has been linked to hundreds of ransomware incidents over the past two years.  As of January 2022, the Russia-based ransomware-as-a-service (RaaS) operation is estimated to have hit over 1,000 entities, w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BazarCall attacks have revolutionized ransomware operations<a href="https://securityaffairs.co/wordpress/134302/cyber-crime/bazarcall-revolutionized-ransomware-operations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware gang is using BazarCall phishing attacks as an initial attack vector to access targeted networks.
+
+
+
+BazarCall attack, aka call back phishing, is an attack vector that utilizes targeted phishing methodology and was first used by the Ryuk...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft blocks UEFI bootloaders enabling Windows Secure Boot bypass<a href="https://www.bleepingcomputer.com/news/security/microsoft-blocks-uefi-bootloaders-enabling-windows-secure-boot-bypass/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some signed third-party bootloaders for the Unified Extensible Firmware Interface (UEFI) used by Windows could allow attackers to execute unauthorized code in an early stage of the boot process, before the operating system loads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enterprises Can’t Shake Log4j flaw<a href="https://securityaffairs.co/wordpress/134262/hacking/risky-business-enterprises-cant-shake-log4j-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research by CyCognito highlights business continuity risks such as digital asset sprawl, subsidiary risk, and the importance of reducing the time it takes to identify a vulnerable Log4j asset and patch it.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Testing Default End-to-End Encryption and Encrypted Backups in Messenger<a href="https://thehackernews.com/2022/08/facebook-testing-default-end-to-end.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media company Meta said it will begin testing end-to-end encryption (E2EE) on its Messenger platform this week for select users as the default option, as the company continues to slowly add security layers to its various chat services.  "If you're in the test group, some of your most frequent chats may be automatically end-to-end encrypted, which means you won't have to opt in to the feature," Sara Su, product management director of Messenger Trust,  said .  The incremental development comes a year after it  turned on E2EE  for audio and video calls on the messaging service as well as for one-on-one chats in Instagram, and enabled  encrypted chat backups  for WhatsApp on Android and iOS.   E2EE is a secure communication mechanism that scrambles data in transit and prevents third-parties from unauthorizedly accessing information sent from one endpoint to another, including Meta.  "This is because with end-to-end encryption, your messages are secured with a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio: 125 customers affected by data breach, no passwords stolen<a href="https://www.bleepingcomputer.com/news/security/twilio-125-customers-affected-by-data-breach-no-passwords-stolen/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud communications giant Twilio, the owner of the highly popular two-factor authentication (2FA) provider Authy, says that it has so far identified 125 customers who had their data accessed during a security breach discovered last week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Initiates Privacy and Data Security Rule-Making<a href="https://www.bankinfosecurity.com/ftc-initiates-privacy-data-security-rule-making-a-19778?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission today initiated a potentially yearslong attempt to impose new data security and privacy regulations onto the American economy. Agency commissioners voted along party lines to initiate the rule-making process.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches High-Severity Vulnerability Affecting ASA and Firepower Solutions<a href="https://thehackernews.com/2022/08/cisco-patches-high-severity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday released patches to contain multiple flaws in its software that could be abused to leak sensitive information on susceptible appliances.  The issue, assigned the identifier  CVE-2022-20866  (CVSS score: 7.4), has been described as a "logic error" when handling RSA keys on devices running Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software.  Successful exploitation of the flaw could allow an attacker to retrieve the RSA private key by means of a  Lenstra side-channel attack  against the targeted device.  "If an attacker obtains the RSA private key, they could use the key to impersonate a device that is running Cisco ASA Software or Cisco FTD Software or to decrypt the device traffic," Cisco warned in an advisory issued on August 10.   Cisco noted that the flaw impacts only Cisco ASA Software releases 9.16.1 and later and Cisco FTD Software releases 7.0.0 and later. Affected products are listed below -
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks: New PAN-OS DDoS flaw exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-new-pan-os-ddos-flaw-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks has issued a security advisory warning of an actively exploited high-severity vulnerability impacting PAN-OS, the operating system used by the company's networking hardware products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged Business Email Compromise Fraudsters Extradited<a href="https://www.bankinfosecurity.com/alleged-business-email-compromise-fraudsters-extradited-a-19783?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three Nigerian nationals accused of participating in multimillion-dollar business email compromise fraud with a fixation on universities arrived in the United States after extradition from the United Kingdom.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fast and Secure VPN on a Budget? Private Internet Access VPN Has You Covered<a href="https://thehackernews.com/2022/08/fast-and-secure-vpn-on-budget-private.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Back when the internet consisted of a handful of computers networked together across a few research institutions, nobody could have imagined that it would one day form the backbone of a new digital way of life. And that probably explains why none of the researchers who thought up its core technologies — things like packet switching and TCP/IP — gave much consideration to the need to secure the data passing through it.  But by 1989, hackers like Robert Morris had already spotted the security weaknesses of the fledgling global network and started to exploit them. And that was just the beginning. Today, network administrators and individual internet users spend significant amounts of time and money trying to keep their data safe from prying eyes.  The de-facto tool most people use for that purpose is a VPN. It's a software encryption solution that prevents anyone from accessing data traversing the public internet other than its intended recipient. And VPNs make up a data privacy mark
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xiaomi phones with MediaTek chips vulnerable to forged payments<a href="https://www.bleepingcomputer.com/news/security/xiaomi-phones-with-mediatek-chips-vulnerable-to-forged-payments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have found weaknesses in the implementation of the trusted execution environment (TEE) in MediaTek-powered Xiaomi smartphones, which could enable third-party unprivileged apps to disable the payment system or forge payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VA Systems Vulnerable to Cyber Intrusions Due to Lack of Effective Oversight, Report Says<a href="https://www.nextgov.com/cybersecurity/2022/08/va-systems-vulnerable-cyber-intrusions-due-lack-effective-oversight-report-says/375695/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Veterans Affairs Inspector General's office said the agency is "leaving its systems vulnerable to compromise by impostors who may gain access to protected information."
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VileRAT Updated to Target More Cryptocurrency Exchanges<a href="https://cyware.com/news/vilerat-updated-to-target-more-cryptocurrency-exchanges-7afef5f1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the researchers from Securelist, DeathStalker has been updating the features of VileRAT through 2021, with the latest update observed in June 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Cybersecurity Toolkit to Help Protect Upcoming Midterm Elections<a href="https://www.nextgov.com/cybersecurity/2022/08/cisa-releases-cybersecurity-toolkit-help-protect-upcoming-midterm-elections/375716/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA on Wednesday released an election security toolkit to help state and local election officials access a variety of free tools and resources to safeguard their voting systems ahead of the upcoming midterm elections.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel Introduces Protection Against Physical Fault Injection Attacks<a href="https://www.securityweek.com/intel-introduces-protection-against-physical-fault-injection-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Daniel Nemiroff, senior principal engineer at Intel, fault injection attacks allow attackers to execute malicious instructions and potentially leak data through clock pin, electromagnetic, and voltage glitches.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Ongoing Mass Exploitation of Zimbra RCE Vulnerability<a href="https://thehackernews.com/2022/08/researchers-warn-of-ongoing-mass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday  added  two flaws to its  Known Exploited Vulnerabilities Catalog , citing evidence of active exploitation.  The two high-severity issues relate to weaknesses in Zimbra Collaboration, both of which could be chained to achieve unauthenticated remote code execution on affected email servers -   CVE-2022-27925  (CVSS score: 7.2) - Remote code execution (RCE) through mboximport from authenticated user (fixed in  versions  8.8.15 Patch 31 and 9.0.0 Patch 24 released in March)  CVE-2022-37042  - Authentication bypass in MailboxImportServlet (fixed in  versions  8.8.15 Patch 33 and 9.0.0 Patch 26 released in August)    "If you are running a Zimbra version that is older than Zimbra 8.8.15 patch 33 or Zimbra 9.0.0 patch 26 you should update to the latest patch as soon as possible," Zimbra  warned  earlier this week.  CISA has not shared any information on the attacks exploiting the flaws but cybersecurity fi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 11, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
