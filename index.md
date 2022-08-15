@@ -34,6 +34,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 9,000 VNC servers exposed online without a password<a href="https://www.bleepingcomputer.com/news/security/over-9-000-vnc-servers-exposed-online-without-a-password/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered at least 9,000 exposed VNC (virtual network computing) endpoints that can be accessed and used without authentication, allowing threat actors easy access to internal networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tornado Cash Developer Arrested After U.S. Sanctions the Cryptocurrency Mixer<a href="https://thehackernews.com/2022/08/tornado-cash-developer-arrested-after.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dutch authorities on Friday announced the arrest of a software developer in Amsterdam who is alleged to be working for Tornado Cash, days after the U.S. sanctioned the decentralized crypto mixing service.  The 29-year-old individual is "suspected of involvement in concealing criminal financial flows and facilitating money laundering" through the service, the Dutch Fiscal Information and Investigation Service (FIOD)  said  in a statement.  Although FIOD didn't reveal the name of the Tornado Cash engineer, The Block  identified  him as Alexey Pertsev, citing confirmation from his wife. "My husband didn't do anything illegal," she was quoted as saying.   FIOD also alleged that "Tornado Cash has been used to conceal large-scale criminal money flows, including from (online) thefts of cryptocurrencies (so-called crypto hacks and scams)."  The agency, which initiated an investigation into Tornado Cash in June 2022, further hinted it may make more arrests
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in Xiaomi phones using MediaTek Chips could allow to forge transactions<a href="https://securityaffairs.co/wordpress/134331/hacking/xiaomi-phones-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flaws in Xiaomi Redmi Note 9T and Redmi Note 11 models could be exploited to disable the mobile payment mechanism and even forge transactions.
+
+
+
+Check Point researchers discovered the flaws while analyzing the payment system built into Xiaomi smartphones...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI shared a joint advisory to warn of Zeppelin ransomware attacks<a href="https://securityaffairs.co/wordpress/134350/cyber-crime/zeppelin-ransomware-joint-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) and the FBI are warning of Zeppelin ransomware attacks.
+
+
+
+The US Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) have published a joint...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cedar Rapids schools pay ransom in cyber attack<a href="https://www.thegazette.com/k/cedar-rapids-schools-pay-ransom-in-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cedar Rapids school district paid a ransom in hopes of keeping personal data compromised in a cyberattack last month from being released, the school superintendent has told parents.
+</details>
+<div style="text-align: right" markdown="1">
+The Gazette
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SOVA malware adds ransomware feature to encrypt Android devices<a href="https://www.bleepingcomputer.com/news/security/sova-malware-adds-ransomware-feature-to-encrypt-android-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SOVA Android banking trojan continues to evolve with new features, code improvements, and the addition of a new ransomware feature that encrypts files on mobile devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Stolen Algorithms in Commercial Cybersecurity Products<a href="https://www.securityweek.com/researchers-find-stolen-algorithms-commercial-cybersecurity-products?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis conducted by two researchers has revealed that some commercial cybersecurity products rely on algorithms that have been taken from other security tools without authorization.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Backdoored MiMi Chat App to Target Windows, Linux, macOS Users<a href="https://thehackernews.com/2022/08/chinese-hackers-backdoored-mimi-chat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of reports from cybersecurity firms  SEKOIA  and  Trend Micro  sheds light on a new campaign undertaken by a Chinese threat actor named Lucky Mouse  that involves leveraging a trojanized version of a cross-platform messaging app to backdoor systems.  Infection chains leverage a chat application called MiMi, with its installer files compromised to download and install HyperBro samples for the Windows operating system and rshell artifacts for Linux and macOS.  As many as 13 different entities located in Taiwan and the Philippines have been at the receiving end of the attacks, eight of whom have been hit with rshell. The first victim of rshell was reported in mid-July 2021.  Lucky Mouse, also called  APT27 , Bronze Union, Emissary Panda, and Iron Tiger, is known to be active since 2013 and has a history of gaining access to targeted networks in pursuit of its political and military intelligence-collection objectives aligned with China.   The advanced persistent threat actor (APT)
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US unmasks alleged Conti ransomware operative, offers $10M<a href="https://techcrunch.com/2022/08/12/state-conti-ransomware-intelligence/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government said it will offer up to $10 million for information related to five people believed to be high-ranking members of the notorious Russia-backed Conti ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Killnet claims to have breached Lockheed Martin<a href="https://securityaffairs.co/wordpress/134341/hacking/killnet-lockheed-martin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian hacker group Killnet claims to have launched a DDoS attack on the aerospace and defense giant Lockheed Martin. 
+
+
+
+The Moscow Times first reported that the Pro-Russia hacker group Killnet is claiming responsibility for a recent DDoS attack that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Ransomware Comes to the Sophisticated SOVA Android Banking Trojan<a href="https://www.darkreading.com/endpoint/ransomware-sova-android-banking-trojan?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Android banking Trojan SOVA is back in the action and sporting new and updated capabilities with an additional version in development that contains a ransomware module.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three flaws allow attackers to bypass UEFI Secure Boot feature<a href="https://securityaffairs.co/wordpress/134334/hacking/uefi-secure-boot-feature-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a flaw in three signed third-party UEFI boot loaders that allow bypass of the UEFI Secure Boot feature.
+
+
+
+Researchers from hardware security firm Eclypsium have discovered a vulnerability in three signed third-party Unified Extensible...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 12, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
