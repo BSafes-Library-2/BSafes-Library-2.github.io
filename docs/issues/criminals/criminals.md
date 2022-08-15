@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US unmasks alleged Conti ransomware operative, offers $10M<a href="https://techcrunch.com/2022/08/12/state-conti-ransomware-intelligence/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government said it will offer up to $10 million for information related to five people believed to be high-ranking members of the notorious Russia-backed Conti ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

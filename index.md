@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2022
+August 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 9,000 VNC servers exposed online without a password<a href="https://www.bleepingcomputer.com/news/security/over-9-000-vnc-servers-exposed-online-without-a-password/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2022
+August 14, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tornado Cash Developer Arrested After U.S. Sanctions the Cryptocurrency Mixer<a href="https://thehackernews.com/2022/08/tornado-cash-developer-arrested-after.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2022
+August 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in Xiaomi phones using MediaTek Chips could allow to forge transactions<a href="https://securityaffairs.co/wordpress/134331/hacking/xiaomi-phones-flaw.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2022
+August 14, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA, FBI shared a joint advisory to warn of Zeppelin ransomware attacks<a href="https://securityaffairs.co/wordpress/134350/cyber-crime/zeppelin-ransomware-joint-alert.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2022
+August 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cedar Rapids schools pay ransom in cyber attack<a href="https://www.thegazette.com/k/cedar-rapids-schools-pay-ransom-in-cyberattack/?&web_view=true"> Full Text</a>
@@ -122,7 +122,7 @@ The Gazette
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2022
+August 13, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SOVA malware adds ransomware feature to encrypt Android devices<a href="https://www.bleepingcomputer.com/news/security/sova-malware-adds-ransomware-feature-to-encrypt-android-devices/"> Full Text</a>
@@ -138,7 +138,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2022
+August 13, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find Stolen Algorithms in Commercial Cybersecurity Products<a href="https://www.securityweek.com/researchers-find-stolen-algorithms-commercial-cybersecurity-products?&web_view=true"> Full Text</a>
@@ -154,7 +154,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2022
+August 13, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Backdoored MiMi Chat App to Target Windows, Linux, macOS Users<a href="https://thehackernews.com/2022/08/chinese-hackers-backdoored-mimi-chat.html"> Full Text</a>
@@ -170,7 +170,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2022
+August 13, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US unmasks alleged Conti ransomware operative, offers $10M<a href="https://techcrunch.com/2022/08/12/state-conti-ransomware-intelligence/?&web_view=true"> Full Text</a>
@@ -186,7 +186,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2022
+August 13, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Killnet claims to have breached Lockheed Martin<a href="https://securityaffairs.co/wordpress/134341/hacking/killnet-lockheed-martin.html"> Full Text</a>
@@ -206,7 +206,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2022
+August 13, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Novel Ransomware Comes to the Sophisticated SOVA Android Banking Trojan<a href="https://www.darkreading.com/endpoint/ransomware-sova-android-banking-trojan?&web_view=true"> Full Text</a>
@@ -222,7 +222,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2022
+August 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three flaws allow attackers to bypass UEFI Secure Boot feature<a href="https://securityaffairs.co/wordpress/134334/hacking/uefi-secure-boot-feature-flaw.html"> Full Text</a>

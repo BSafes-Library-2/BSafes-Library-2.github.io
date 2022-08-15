@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VileRAT Updated to Target More Cryptocurrency Exchanges<a href="https://cyware.com/news/vilerat-updated-to-target-more-cryptocurrency-exchanges-7afef5f1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the researchers from Securelist, DeathStalker has been updating the features of VileRAT through 2021, with the latest update observed in June 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

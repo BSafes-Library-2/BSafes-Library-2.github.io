@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover UEFI Secure Boot Bypass in 3 Microsoft Signed Boot Loaders<a href="https://thehackernews.com/2022/08/researchers-uncover-uefi-secure-boot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security feature bypass vulnerability has been uncovered in three signed third-party Unified Extensible Firmware Interface (UEFI) boot loaders that allow bypass of the UEFI Secure Boot feature.  "These vulnerabilities can be exploited by mounting the EFI System Partition and replacing the existing bootloader with the vulnerable one, or modifying a UEFI variable to load the vulnerable loader instead of the existing one," hardware security firm Eclypsium&nbsp; said &nbsp;in a report shared with The Hacker News.   The following&nbsp; vendor-specific boot loaders , which were signed and authenticated by Microsoft, have been found vulnerable to the bypass and have been patched as part of the tech giant's&nbsp; Patch Tuesday update &nbsp;released this week -   Eurosoft Boot Loader ( CVE-2022-34301 )  New Horizon Data Systems Inc Boot Loader ( CVE-2022-34302 ), and  Crypto Pro Boot Loader ( CVE-20220-34303 )   Secure Boot is a&nbsp; security standard &nbsp;designed to thwart malicious programs from loading whe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xiaomi Phones with MediaTek Chips Found Vulnerable to Forged Payments<a href="https://thehackernews.com/2022/08/xiaomi-phones-with-mediatek-chips-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security flaws have been identified in Xiaomi Redmi Note 9T and Redmi Note 11 models, which could be exploited to disable the mobile payment mechanism and even forge transactions via a rogue Android app installed on the devices.  Check Point said it found the flaws in devices powered by MediaTek chipsets during a security analysis of the Chinese handset maker's "Kinibi" Trusted Execution Environment (TEE).  A TEE refers to a&nbsp; secure enclave &nbsp;inside the main processor that's used to process and store sensitive information such as cryptographic keys so as to ensure confidentiality and integrity.   Specifically, the Israeli cybersecurity firm discovered that a trusted app on a Xiaomi device can be downgraded due to a lack of version control, enabling an attacker to replace a newer, secure version of an app with an older, vulnerable variant.  "Therefore, an attacker can bypass security fixes made by Xiaomi or MediaTek in trusted apps by downgrading them to unpatched
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of mass exploitation of an RCE flaw in Zimbra Collaboration Suite<a href="https://securityaffairs.co/wordpress/134314/hacking/zimbra-rce-actively-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting an authentication bypass Zimbra flaw,&nbsp;tracked as&nbsp;CVE-2022-27925,&nbsp;to hack Zimbra Collaboration Suite email servers worldwide.
+
+
+
+An authentication bypass affecting Zimbra Collaboration Suite,&nbsp;tracked as&nbsp;CVE-2022-27925,&nbsp;is...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches High-Severity Vulnerability Affecting ASA and Firepower Solutions<a href="https://thehackernews.com/2022/08/cisco-patches-high-severity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday released patches to contain multiple flaws in its software that could be abused to leak sensitive information on susceptible appliances.  The issue, assigned the identifier&nbsp; CVE-2022-20866 &nbsp;(CVSS score: 7.4), has been described as a "logic error" when handling RSA keys on devices running Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software.  Successful exploitation of the flaw could allow an attacker to retrieve the RSA private key by means of a&nbsp; Lenstra side-channel attack &nbsp;against the targeted device.  "If an attacker obtains the RSA private key, they could use the key to impersonate a device that is running Cisco ASA Software or Cisco FTD Software or to decrypt the device traffic," Cisco warned in an advisory issued on August 10.   Cisco noted that the flaw impacts only Cisco ASA Software releases 9.16.1 and later and Cisco FTD Software releases 7.0.0 and later. Affected products are listed below -
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xiaomi phones with MediaTek chips vulnerable to forged payments<a href="https://www.bleepingcomputer.com/news/security/xiaomi-phones-with-mediatek-chips-vulnerable-to-forged-payments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have found weaknesses in the implementation of the trusted execution environment (TEE) in MediaTek-powered Xiaomi smartphones, which could enable third-party unprivileged apps to disable the payment system or forge payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VA Systems Vulnerable to Cyber Intrusions Due to Lack of Effective Oversight, Report Says<a href="https://www.nextgov.com/cybersecurity/2022/08/va-systems-vulnerable-cyber-intrusions-due-lack-effective-oversight-report-says/375695/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Veterans Affairs Inspector General's office said the agency is "leaving its systems vulnerable to compromise by impostors who may gain access to protected information."
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Ongoing Mass Exploitation of Zimbra RCE Vulnerability<a href="https://thehackernews.com/2022/08/researchers-warn-of-ongoing-mass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday&nbsp; added &nbsp;two flaws to its&nbsp; Known Exploited Vulnerabilities Catalog , citing evidence of active exploitation.  The two high-severity issues relate to weaknesses in Zimbra Collaboration, both of which could be chained to achieve unauthenticated remote code execution on affected email servers -   CVE-2022-27925 &nbsp;(CVSS score: 7.2) - Remote code execution (RCE) through mboximport from authenticated user (fixed in&nbsp; versions &nbsp;8.8.15 Patch 31 and 9.0.0 Patch 24 released in March)  CVE-2022-37042 &nbsp;- Authentication bypass in MailboxImportServlet (fixed in&nbsp; versions &nbsp;8.8.15 Patch 33 and 9.0.0 Patch 26 released in August)    "If you are running a Zimbra version that is older than Zimbra 8.8.15 patch 33 or Zimbra 9.0.0 patch 26 you should update to the latest patch as soon as possible," Zimbra&nbsp; warned &nbsp;earlier this week.  CISA has not shared any information on the attacks exploiting the flaws but cybersecurity fi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tornado Cash Developer Arrested After U.S. Sanctions the Cryptocurrency Mixer<a href="https://thehackernews.com/2022/08/tornado-cash-developer-arrested-after.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dutch authorities on Friday announced the arrest of a software developer in Amsterdam who is alleged to be working for Tornado Cash, days after the U.S. sanctioned the decentralized crypto mixing service.  The 29-year-old individual is "suspected of involvement in concealing criminal financial flows and facilitating money laundering" through the service, the Dutch Fiscal Information and Investigation Service (FIOD)&nbsp; said &nbsp;in a statement.  Although FIOD didn't reveal the name of the Tornado Cash engineer, The Block&nbsp; identified &nbsp;him as Alexey Pertsev, citing confirmation from his wife. "My husband didn't do anything illegal," she was quoted as saying.   FIOD also alleged that "Tornado Cash has been used to conceal large-scale criminal money flows, including from (online) thefts of cryptocurrencies (so-called crypto hacks and scams)."  The agency, which initiated an investigation into Tornado Cash in June 2022, further hinted it may make more arrests
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

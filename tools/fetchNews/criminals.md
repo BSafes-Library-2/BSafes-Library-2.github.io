@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The US offers a $10M rewards for info on the Conti ransomware gang’s members<a href="https://securityaffairs.co/wordpress/134326/cyber-crime/conti-ransomware-reward.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department&nbsp;announced&nbsp;a $10 million reward for information related to five individuals associated with the Conti ransomware gang.
+
+
+
+The U.S. State Department announced a $10 million reward for information on five prominent members of the Conti...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Offers $10 Million Reward for Information on Conti Ransomware Gang<a href="https://thehackernews.com/2022/08/us-government-offers-10-million-reward.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department on Thursday&nbsp; announced &nbsp;a $10 million reward for information related to five individuals associated with the Conti ransomware group.  The reward offer, first&nbsp; reported &nbsp;by WIRED, is also notable for the fact that it marks the first time the face of a Conti associate, known as "Target," has been unmasked. The four other associates have been referred to as "Tramp," "Dandis," "Professor," and "Reshaev."  The government, besides seeking information about the five operators that could lead to their identification or location, is also calling on people to share details about Conti and its affiliated groups&nbsp; TrickBot &nbsp;and&nbsp; Wizard Spider .   Since its rebrand from Ryuk to Conti, the transnational organized crime group has been linked to hundreds of ransomware incidents over the past two years.  As of January 2022, the Russia-based ransomware-as-a-service (RaaS) operation is estimated to have hit over 1,000 entities, w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged Business Email Compromise Fraudsters Extradited<a href="https://www.bankinfosecurity.com/alleged-business-email-compromise-fraudsters-extradited-a-19783?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three Nigerian nationals accused of participating in multimillion-dollar business email compromise fraud with a fixation on universities arrived in the United States after extradition from the United Kingdom.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

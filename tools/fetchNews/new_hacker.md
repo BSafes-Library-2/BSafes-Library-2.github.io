@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Backdoored MiMi Chat App to Target Windows, Linux, macOS Users<a href="https://thehackernews.com/2022/08/chinese-hackers-backdoored-mimi-chat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of reports from cybersecurity firms&nbsp; SEKOIA &nbsp;and&nbsp; Trend Micro &nbsp;sheds light on a new campaign undertaken by a Chinese threat actor named Lucky Mouse  that involves leveraging a trojanized version of a cross-platform messaging app to backdoor systems.  Infection chains leverage a chat application called MiMi, with its installer files compromised to download and install HyperBro samples for the Windows operating system and rshell artifacts for Linux and macOS.  As many as 13 different entities located in Taiwan and the Philippines have been at the receiving end of the attacks, eight of whom have been hit with rshell. The first victim of rshell was reported in mid-July 2021.  Lucky Mouse, also called&nbsp; APT27 , Bronze Union, Emissary Panda, and Iron Tiger, is known to be active since 2013 and has a history of gaining access to targeted networks in pursuit of its political and military intelligence-collection objectives aligned with China.   The advanced persistent threat actor (APT)
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
