@@ -34,6 +34,466 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers attack UK water supplier with 1.6 million customers<a href="https://www.bleepingcomputer.com/news/security/hackers-attack-uk-water-supplier-with-16-million-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Staffordshire Water, a company supplying 330 million liters of drinking water to 1.6 consumers daily, has issued a statement confirming IT disruption from a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Secure Boot fix sends PCs into BitLocker Recovery<a href="https://www.theregister.co.uk/2022/08/15/bitlocker_microsoft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issues are related to KB5012170, which is designed to plug some Secure Boot holes. The problem occurs on boot, and brings up the BitLocker Recovery screen into which a user is supposed to enter a key.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Gamaredon APT continues to target Ukraine<a href="https://securityaffairs.co/wordpress/134438/apt/gamaredon-continues-target-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked Gamaredon APT group targets Ukrainian entities with PowerShell info-stealer malware dubbed GammaLoad.
+
+
+
+Russia-linked Gamaredon APT group (aka Shuckworm, Actinium, Armageddon, Primitive Bear, and Trident Ursa) targets Ukrainian entities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid7: Cisco ASA and ASDM flaws went unpatched for months<a href="https://www.techtarget.com/searchsecurity/news/252523750/Rapid7-Cisco-ASA-and-ASDM-flaws-went-unpatched-for-months?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities discovered in Cisco software may lead to a variety of threats, including supply chain attacks, Rapid7 lead researcher Jake Baines warned during a Black Hat USA 2022 session.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phone numbers of 1,900 Signal users exposed as a result of Twilio security breach<a href="https://securityaffairs.co/wordpress/134428/mobile-2/twilio-hack-signal-impacy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For about 1,900 users, Twilio hackers could have attempted to re-register their number to another device or learned that their number was registered to Signal.
+
+
+
+Communication company Twilio provides Signal with phone number verification services, and recent...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta: New Ransomware Threat Aiming for the Big League<a href="https://www.csoonline.com/article/3669256/black-basta-new-ransomware-threat-aiming-for-the-big-league.html#tk.rss_all?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang behind Black Basta has reached a high level of success in a short time through its double extortion techniques and is possibly an offshoot of Conti and REvil. It has claimed responsibility for compromising at least 50 organizations so far.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian State Hackers Continue to Attack Ukrainian Entities with Infostealer Malware<a href="https://thehackernews.com/2022/08/russian-state-hackers-continue-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian state-sponsored actors are continuing to strike Ukrainian entities with information-stealing malware as part of what's suspected to be an espionage operation.  Symantec, a division of Broadcom Software,  attributed  the malicious campaign to a threat actor tracked  Shuckworm , also known as  Actinium ,  Armageddon , Gamaredon, Primitive Bear, and Trident Ursa. The findings have been  corroborated  by the Computer Emergency Response Team of Ukraine (CERT-UA).  The threat actor, active since at least 2013, is known for explicitly singling out public and private entities in Ukraine. The attacks have since ratcheted up in the wake of Russia's military invasion in late 2022.   The latest set of attacks are said to have commenced on July 15, 2022, and ongoing as recently as August 8, with the infection chains leveraging phishing emails disguised as newsletters and combat orders, ultimately leading to the deployment of a PowerShell stealer malware dubbed  GammaLoad.PS1_v2 .
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Argentina's Judiciary of Córdoba hit by PLAY ransomware attack<a href="https://www.bleepingcomputer.com/news/security/argentinas-judiciary-of-c-rdoba-hit-by-play-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Argentina's Judiciary of Córdoba has shut down its IT systems after suffering a ransomware attack, reportedly at the hands of the new 'Play' ransomware operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 1,900 Signal Messenger Accounts Potentially Compromised in Twilio Hack<a href="https://thehackernews.com/2022/08/nearly-1900-signal-messenger-accounts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular end-to-end encrypted messaging service Signal on Monday disclosed the cyberattack aimed at Twilio earlier this month may have exposed the phone numbers of roughly 1,900 users.  "For about 1,900 users, an attacker could have attempted to re-register their number to another device or learned that their number was registered to Signal," the company  said . "All users can rest assured that their message history, contact lists, profile information, whom they'd blocked, and other personal data remain private and secure and were not affected."  Signal, which uses Twilio to send SMS verification codes to users registering with the app, said it's in the process of alerting the affected users directly and prompting them to re-register the service on their devices.   The development comes less than a week after Twilio  revealed  that data associated with about 125 customer accounts were accessed by malicious actors through a phishing attack that duped the comp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Monero hard fork makes hackers' favorite coin even more private<a href="https://www.bleepingcomputer.com/news/security/monero-hard-fork-makes-hackers-favorite-coin-even-more-private/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Monero, the privacy-oriented decentralized cryptocurrency project, underwent a planned hard fork event on Saturday, introducing new features to boost its privacy and security.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credential Theft Is (Still) A Top Attack Method<a href="https://thehackernews.com/2022/08/credential-theft-is-still-top-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Credential theft is clearly still a problem. Even after years of warnings, changing password requirements, and multiple forms of authentication,  password  stealing remains a top attack method used by cyber criminals.  The latest  report  from the Ponemon Institute shares that 54% of security incidents were caused by credential theft, followed by ransomware and DDoS attacks. 59% of organizations aren't revoking credentials that are no longer needed, meaning passwords can go unattended and dormant like a sitting duck (similar to what happened with Colonial Pipeline). And  Verizon's Data Breach Investigations Report  cites that nearly 50% of all data breaches were caused by stolen credentials.  The stats don't lie. Cybercriminals are advancing, there's no doubt, but if there's an option to take the path of least resistance, they'll take it. Too often, that means compromising passwords and exploiting vulnerable access points.   Credential Theft and Critical Access
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disrupts SEABORGIUM ’s ongoing phishing operations<a href="https://securityaffairs.co/wordpress/134414/apt/seaborgiums-targets-nato.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft disrupted a hacking operation linked conducted by Russia-linked APT SEABORGIUM aimed at NATO countries.
+
+
+
+The Microsoft Threat Intelligence Center (MSTIC) has disrupted activity by SEABORGIUM (aka ColdRiver, TA446), a Russia-linked threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PyPi packages aim DDoS attacks at Counter-Strike servers<a href="https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-aim-ddos-attacks-at-counter-strike-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A dozen malicious Python packages were uploaded to the PyPi repository this weekend in a typosquatting attack that performs DDoS attacks on a Counter-Strike 1.6 server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Groups Refine Shakedown and Monetization Models<a href="https://www.bankinfosecurity.com/ransomware-groups-refine-shakedown-monetization-models-a-19790?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware-wielding attackers continue to seek new ways to maximize profits with minimal effort. Some of their top tactics include tapping initial access brokers, working with botnet operators and testing new monetization models.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SOVA Android Banking Trojan Returns With New Capabilities and Targets<a href="https://thehackernews.com/2022/08/sova-android-banking-trojan-returns-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SOVA Android banking trojan is continuing to be actively developed with upgraded capabilities to target no less than 200 mobile applications, including banking apps and crypto exchanges and wallets, up from 90 apps when it started out.  That's according to the latest findings from Italian cybersecurity firm Cleafy, which found newer versions of the malware sporting functionality to intercept two-factor authentication (2FA) codes, steal cookies, and expand its targeting to cover Australia, Brazil, China, India, the Philippines, and the U.K.  SOVA, meaning Owl in Russian, came to light in  September 2021  when it was observed striking financial and shopping apps from the U.S. and Spain for harvesting credentials through overlay attacks by taking advantage of Android's Accessibility services.   In less than a year, the trojan has also acted as a foundation for another Android malware called  MaliBot  that's designed to target online banking and cryptocurrency wallet custo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VNC instances exposed to Internet pose critical infrastructures at risk<a href="https://securityaffairs.co/wordpress/134408/hacking/vnc-critical-infrastructures-at-risk.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from threat intelligence firm Cyble reported a surge in attacks targeting virtual network computing (VNC).
+
+
+
+Virtual Network Computing (VNC) is a graphical desktop-sharing system that leverages the Remote Frame Buffer (RFB) protocol to control...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio hack exposed Signal phone numbers of 1,900 users<a href="https://www.bleepingcomputer.com/news/security/twilio-hack-exposed-signal-phone-numbers-of-1-900-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phone numbers of close to 1,900 Signal users were exposed in the data breach Twilio cloud communications company suffered at the beginning of the month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Almost 2,000 data breaches reported for the first half of 2022<a href="https://www.techrepublic.com/article/almost-2000-data-breaches-reported-for-the-first-half-of-2022/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A successful data breach can impact an organization not just by compromising sensitive information but by serving as a prelude to ransomware and more devastating cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SOVA Android malware now also encrypts victims’ files<a href="https://securityaffairs.co/wordpress/134392/malware/sova-android-malware-v5.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from Cleafy reported that the SOVA Android banking malware is back and is rapidly evolving.
+
+
+
+The SOVA Android banking trojan was improved, it has a new ransomware feature that encrypts files on Android devices, Cleafy researchers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disrupts Russian hackers' operation on NATO targets<a href="https://www.bleepingcomputer.com/news/security/microsoft-disrupts-russian-hackers-operation-on-nato-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Threat Intelligence Center (MSTIC) has disrupted a hacking and social engineering operation linked to a Russian threat actor tracked as SEABORGIUM that targets propland organizations in NATO countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Shuckworm Hacker Group Maintains Focus on Ukraine<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/russia-ukraine-shuckworm?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shuckworm (aka Gamaredon, Armageddon) is a Russia-linked group that has almost exclusively focused its operations on Ukraine since it first appeared in 2014. It is generally considered to be a state-sponsored espionage operation.
+</details>
+<div style="text-align: right" markdown="1">
+Symantec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new PyPI Package was found delivering fileless Linux Malware<a href="https://securityaffairs.co/wordpress/134381/security/pypi-package-fileless-linux-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security Researchers discovered a new PyPI Package designed to drop fileless cryptominer to Linux systems.
+
+
+
+Sonatype researchers have discovered a new PyPI package named 'secretslib' that drops fileless cryptominer to the memory of Linux machine systems....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers target Ukraine with default Word template hijacker<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-target-ukraine-with-default-word-template-hijacker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts monitoring cyberattacks on Ukraine report that the operations of the notorious Russian state-backed hacking group 'Gamaredon' continue to heavily target the war-torn country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iron Tiger APT is behind a supply chain attack that employed messaging app MiMi<a href="https://securityaffairs.co/wordpress/134366/apt/iron-tiger-apt-is-behind-a-supply-chain-attack-that-employed-messaging-app-mimi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked threat actors Iron Tiger backdoored a version of the cross-platform messaging app MiMi to infect systems.
+
+
+
+Trend Micro researchers uncovered a new campaign conducted by a China-linked threat actor Iron Tiger that employed a  backdoored...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows KB5012170 Secure Boot DBX update may fail with 0x800f0922 error<a href="https://www.bleepingcomputer.com/news/security/windows-kb5012170-secure-boot-dbx-update-may-fail-with-0x800f0922-error/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users may see a 0x800f0922 error when trying to install security update KB5012170 on the currently supported Windows operating system for consumers and the enterprise-class Server version.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Callback phishing attacks see massive 625% growth since Q1 2021<a href="https://www.bleepingcomputer.com/news/security/callback-phishing-attacks-see-massive-625-percent-growth-since-q1-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing is constantly evolving to bypass user training and email protections, and as threat actors adopt new tactics with better success ratios, quarterly stats reflect interesting threat trends on multiple fronts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Uncovered PyPI Package Drops Fileless Cryptominer to Linux Systems<a href="https://thehackernews.com/2022/08/newly-uncovered-pypi-package-drops.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-removed rogue package pushed to the official third-party software repository for Python has been found to deploy cryptominers on Linux systems.  The module, named " secretslib " and  downloaded 93 times  prior to its deletion, was released to the Python Package Index (PyPI) on August 6, 2022 and is described as "secrets matching and verification made easy."   "On a closer inspection though, the package covertly runs cryptominers on your Linux machine in-memory (directly from your RAM), a technique largely employed by fileless malware and crypters," Sonatype researcher Ax Sharma  disclosed  in a report last week.  It achieves this by executing a Linux executable file retrieved from a remote server post installation, whose main task is to drop an  ELF  file (" memfd ") directly in memory that functions as a Monero cryptominer, after which it gets deleted by the "secretslib" package.   "The malicious activity leaves little to n
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
