@@ -8,6 +8,56 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 9,000 VNC servers exposed online without a password<a href="https://www.bleepingcomputer.com/news/security/over-9-000-vnc-servers-exposed-online-without-a-password/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered at least 9,000 exposed VNC (virtual network computing) endpoints that can be accessed and used without authentication, allowing threat actors easy access to internal networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in Xiaomi phones using MediaTek Chips could allow to forge transactions<a href="https://securityaffairs.co/wordpress/134331/hacking/xiaomi-phones-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flaws in Xiaomi&nbsp;Redmi Note&nbsp;9T and Redmi Note 11 models could be exploited to disable the mobile payment mechanism and even forge transactions.
+
+
+
+Check Point researchers discovered the flaws while analyzing the payment system built into Xiaomi smartphones...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three flaws allow attackers to bypass UEFI Secure Boot feature<a href="https://securityaffairs.co/wordpress/134334/hacking/uefi-secure-boot-feature-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a flaw in three signed third-party UEFI boot loaders that allow bypass of the UEFI Secure Boot feature.
+
+
+
+Researchers from hardware security firm Eclypsium have discovered a vulnerability in three signed third-party Unified Extensible...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

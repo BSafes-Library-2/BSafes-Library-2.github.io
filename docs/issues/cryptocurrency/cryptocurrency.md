@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Monero hard fork makes hackers' favorite coin even more private<a href="https://www.bleepingcomputer.com/news/security/monero-hard-fork-makes-hackers-favorite-coin-even-more-private/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Monero, the privacy-oriented decentralized cryptocurrency project, underwent a planned hard fork event on Saturday, introducing new features to boost its privacy and security.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disrupts SEABORGIUM ’s ongoing phishing operations<a href="https://securityaffairs.co/wordpress/134414/apt/seaborgiums-targets-nato.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft disrupted a hacking operation linked conducted by Russia-linked APT SEABORGIUM aimed at NATO countries.
+
+
+
+The Microsoft Threat Intelligence Center (MSTIC) has disrupted activity by SEABORGIUM (aka ColdRiver, TA446), a Russia-linked threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Callback phishing attacks see massive 625% growth since Q1 2021<a href="https://www.bleepingcomputer.com/news/security/callback-phishing-attacks-see-massive-625-percent-growth-since-q1-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing is constantly evolving to bypass user training and email protections, and as threat actors adopt new tactics with better success ratios, quarterly stats reflect interesting threat trends on multiple fronts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

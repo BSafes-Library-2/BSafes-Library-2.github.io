@@ -8,6 +8,42 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Gamaredon APT continues to target Ukraine<a href="https://securityaffairs.co/wordpress/134438/apt/gamaredon-continues-target-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked Gamaredon APT group targets Ukrainian entities with PowerShell info-stealer malware dubbed&nbsp;GammaLoad.
+
+
+
+Russia-linked Gamaredon APT group (aka Shuckworm, Actinium,&nbsp;Armageddon, Primitive Bear, and Trident Ursa) targets Ukrainian entities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iron Tiger APT is behind a supply chain attack that employed messaging app MiMi<a href="https://securityaffairs.co/wordpress/134366/apt/iron-tiger-apt-is-behind-a-supply-chain-attack-that-employed-messaging-app-mimi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked threat actors Iron Tiger&nbsp;backdoored a version of the cross-platform messaging app MiMi to infect systems.
+
+
+
+Trend Micro&nbsp;researchers uncovered a new campaign conducted by a China-linked threat actor Iron Tiger that employed a &nbsp;backdoored...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

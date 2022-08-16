@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+August 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Killnet claims to have breached Lockheed Martin<a href="https://securityaffairs.co/wordpress/134341/hacking/killnet-lockheed-martin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian hacker group Killnet claims to have launched a DDoS attack on the aerospace and defense giant Lockheed Martin.&nbsp;
+
+
+
+The Moscow Times first reported that the Pro-Russia hacker group Killnet is claiming responsibility for a recent DDoS attack that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

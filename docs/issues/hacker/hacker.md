@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disrupts Russian hackers' operation on NATO targets<a href="https://www.bleepingcomputer.com/news/security/microsoft-disrupts-russian-hackers-operation-on-nato-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Threat Intelligence Center (MSTIC) has disrupted a hacking and social engineering operation linked to a Russian threat actor tracked as SEABORGIUM that targets propland organizations in NATO countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Shuckworm Hacker Group Maintains Focus on Ukraine<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/russia-ukraine-shuckworm?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shuckworm (aka Gamaredon, Armageddon) is a Russia-linked group that has almost exclusively focused its operations on Ukraine since it first appeared in 2014. It is generally considered to be a state-sponsored espionage operation.
+</details>
+<div style="text-align: right" markdown="1">
+Symantec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

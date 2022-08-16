@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phone numbers of 1,900 Signal users exposed as a result of Twilio security breach<a href="https://securityaffairs.co/wordpress/134428/mobile-2/twilio-hack-signal-impacy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For about 1,900 users, Twilio hackers could have attempted to re-register their number to another device or learned that their number was registered to Signal.
+
+
+
+Communication company Twilio provides Signal with phone number verification services, and recent...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 1,900 Signal Messenger Accounts Potentially Compromised in Twilio Hack<a href="https://thehackernews.com/2022/08/nearly-1900-signal-messenger-accounts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular end-to-end encrypted messaging service Signal on Monday disclosed the cyberattack aimed at Twilio earlier this month may have exposed the phone numbers of roughly 1,900 users.  "For about 1,900 users, an attacker could have attempted to re-register their number to another device or learned that their number was registered to Signal," the company&nbsp; said . "All users can rest assured that their message history, contact lists, profile information, whom they'd blocked, and other personal data remain private and secure and were not affected."  Signal, which uses Twilio to send SMS verification codes to users registering with the app, said it's in the process of alerting the affected users directly and prompting them to re-register the service on their devices.   The development comes less than a week after Twilio&nbsp; revealed &nbsp;that data associated with about 125 customer accounts were accessed by malicious actors through a phishing attack that duped the comp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio hack exposed Signal phone numbers of 1,900 users<a href="https://www.bleepingcomputer.com/news/security/twilio-hack-exposed-signal-phone-numbers-of-1-900-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phone numbers of close to 1,900 Signal users were exposed in the data breach Twilio cloud communications company suffered at the beginning of the month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

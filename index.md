@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers attack UK water supplier with 1.6 million customers<a href="https://www.bleepingcomputer.com/news/security/hackers-attack-uk-water-supplier-with-16-million-customers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Secure Boot fix sends PCs into BitLocker Recovery<a href="https://www.theregister.co.uk/2022/08/15/bitlocker_microsoft/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Gamaredon APT continues to target Ukraine<a href="https://securityaffairs.co/wordpress/134438/apt/gamaredon-continues-target-ukraine.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rapid7: Cisco ASA and ASDM flaws went unpatched for months<a href="https://www.techtarget.com/searchsecurity/news/252523750/Rapid7-Cisco-ASA-and-ASDM-flaws-went-unpatched-for-months?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phone numbers of 1,900 Signal users exposed as a result of Twilio security breach<a href="https://securityaffairs.co/wordpress/134428/mobile-2/twilio-hack-signal-impacy.html"> Full Text</a>
@@ -122,7 +122,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta: New Ransomware Threat Aiming for the Big League<a href="https://www.csoonline.com/article/3669256/black-basta-new-ransomware-threat-aiming-for-the-big-league.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -138,7 +138,7 @@ CSO Online
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian State Hackers Continue to Attack Ukrainian Entities with Infostealer Malware<a href="https://thehackernews.com/2022/08/russian-state-hackers-continue-to.html"> Full Text</a>
@@ -154,7 +154,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Argentina's Judiciary of Córdoba hit by PLAY ransomware attack<a href="https://www.bleepingcomputer.com/news/security/argentinas-judiciary-of-c-rdoba-hit-by-play-ransomware-attack/"> Full Text</a>
@@ -170,7 +170,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly 1,900 Signal Messenger Accounts Potentially Compromised in Twilio Hack<a href="https://thehackernews.com/2022/08/nearly-1900-signal-messenger-accounts.html"> Full Text</a>
@@ -186,7 +186,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Monero hard fork makes hackers' favorite coin even more private<a href="https://www.bleepingcomputer.com/news/security/monero-hard-fork-makes-hackers-favorite-coin-even-more-private/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Credential Theft Is (Still) A Top Attack Method<a href="https://thehackernews.com/2022/08/credential-theft-is-still-top-attack.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft disrupts SEABORGIUM ’s ongoing phishing operations<a href="https://securityaffairs.co/wordpress/134414/apt/seaborgiums-targets-nato.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious PyPi packages aim DDoS attacks at Counter-Strike servers<a href="https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-aim-ddos-attacks-at-counter-strike-servers/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Groups Refine Shakedown and Monetization Models<a href="https://www.bankinfosecurity.com/ransomware-groups-refine-shakedown-monetization-models-a-19790?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SOVA Android Banking Trojan Returns With New Capabilities and Targets<a href="https://thehackernews.com/2022/08/sova-android-banking-trojan-returns-new.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VNC instances exposed to Internet pose critical infrastructures at risk<a href="https://securityaffairs.co/wordpress/134408/hacking/vnc-critical-infrastructures-at-risk.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twilio hack exposed Signal phone numbers of 1,900 users<a href="https://www.bleepingcomputer.com/news/security/twilio-hack-exposed-signal-phone-numbers-of-1-900-users/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Almost 2,000 data breaches reported for the first half of 2022<a href="https://www.techrepublic.com/article/almost-2000-data-breaches-reported-for-the-first-half-of-2022/?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Tech Republic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SOVA Android malware now also encrypts victims’ files<a href="https://securityaffairs.co/wordpress/134392/malware/sova-android-malware-v5.html"> Full Text</a>
@@ -358,7 +358,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft disrupts Russian hackers' operation on NATO targets<a href="https://www.bleepingcomputer.com/news/security/microsoft-disrupts-russian-hackers-operation-on-nato-targets/"> Full Text</a>
@@ -374,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Shuckworm Hacker Group Maintains Focus on Ukraine<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/russia-ukraine-shuckworm?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Symantec
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new PyPI Package was found delivering fileless Linux Malware<a href="https://securityaffairs.co/wordpress/134381/security/pypi-package-fileless-linux-malware.html"> Full Text</a>
@@ -410,7 +410,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian hackers target Ukraine with default Word template hijacker<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-target-ukraine-with-default-word-template-hijacker/"> Full Text</a>
@@ -426,7 +426,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iron Tiger APT is behind a supply chain attack that employed messaging app MiMi<a href="https://securityaffairs.co/wordpress/134366/apt/iron-tiger-apt-is-behind-a-supply-chain-attack-that-employed-messaging-app-mimi.html"> Full Text</a>
@@ -446,7 +446,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows KB5012170 Secure Boot DBX update may fail with 0x800f0922 error<a href="https://www.bleepingcomputer.com/news/security/windows-kb5012170-secure-boot-dbx-update-may-fail-with-0x800f0922-error/"> Full Text</a>
@@ -462,7 +462,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Callback phishing attacks see massive 625% growth since Q1 2021<a href="https://www.bleepingcomputer.com/news/security/callback-phishing-attacks-see-massive-625-percent-growth-since-q1-2021/"> Full Text</a>
@@ -478,7 +478,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2022
+August 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newly Uncovered PyPI Package Drops Fileless Cryptominer to Linux Systems<a href="https://thehackernews.com/2022/08/newly-uncovered-pypi-package-drops.html"> Full Text</a>

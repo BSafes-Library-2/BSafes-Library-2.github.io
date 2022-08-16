@@ -8,6 +8,62 @@ nav_order: 900015
 
 ## Attack
 ---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers attack UK water supplier with 1.6 million customers<a href="https://www.bleepingcomputer.com/news/security/hackers-attack-uk-water-supplier-with-16-million-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Staffordshire Water, a company supplying 330 million liters of drinking water to 1.6 consumers daily, has issued a statement confirming IT disruption from a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian State Hackers Continue to Attack Ukrainian Entities with Infostealer Malware<a href="https://thehackernews.com/2022/08/russian-state-hackers-continue-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian state-sponsored actors are continuing to strike Ukrainian entities with information-stealing malware as part of what's suspected to be an espionage operation.  Symantec, a division of Broadcom Software,&nbsp; attributed &nbsp;the malicious campaign to a threat actor tracked&nbsp; Shuckworm , also known as&nbsp; Actinium ,&nbsp; Armageddon , Gamaredon, Primitive Bear, and Trident Ursa. The findings have been&nbsp; corroborated &nbsp;by the Computer Emergency Response Team of Ukraine (CERT-UA).  The threat actor, active since at least 2013, is known for explicitly singling out public and private entities in Ukraine. The attacks have since ratcheted up in the wake of Russia's military invasion in late 2022.   The latest set of attacks are said to have commenced on July 15, 2022, and ongoing as recently as August 8, with the infection chains leveraging phishing emails disguised as newsletters and combat orders, ultimately leading to the deployment of a PowerShell stealer malware dubbed&nbsp; GammaLoad.PS1_v2 .
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Argentina's Judiciary of Córdoba hit by PLAY ransomware attack<a href="https://www.bleepingcomputer.com/news/security/argentinas-judiciary-of-c-rdoba-hit-by-play-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Argentina's Judiciary of Córdoba has shut down its IT systems after suffering a ransomware attack, reportedly at the hands of the new 'Play' ransomware operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers target Ukraine with default Word template hijacker<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-target-ukraine-with-default-word-template-hijacker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts monitoring cyberattacks on Ukraine report that the operations of the notorious Russian state-backed hacking group 'Gamaredon' continue to heavily target the war-torn country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

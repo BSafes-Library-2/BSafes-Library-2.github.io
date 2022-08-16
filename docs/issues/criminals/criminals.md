@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Groups Refine Shakedown and Monetization Models<a href="https://www.bankinfosecurity.com/ransomware-groups-refine-shakedown-monetization-models-a-19790?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware-wielding attackers continue to seek new ways to maximize profits with minimal effort. Some of their top tactics include tapping initial access brokers, working with botnet operators and testing new monetization models.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

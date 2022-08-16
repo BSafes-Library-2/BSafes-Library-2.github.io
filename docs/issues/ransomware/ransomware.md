@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta: New Ransomware Threat Aiming for the Big League<a href="https://www.csoonline.com/article/3669256/black-basta-new-ransomware-threat-aiming-for-the-big-league.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang behind Black Basta has reached a high level of success in a short time through its double extortion techniques and is possibly an offshoot of Conti and REvil. It has claimed responsibility for compromising at least 50 organizations so far.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
