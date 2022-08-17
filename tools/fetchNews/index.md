@@ -34,6 +34,414 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple security updates fix 2 zero-days used to hack iPhones, Macs<a href="https://www.bleepingcomputer.com/news/security/apple-security-updates-fix-2-zero-days-used-to-hack-iphones-macs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released emergency security updates today to fix two zero-day vulnerabilities previously exploited by attackers to hack iPhones, iPads, or Macs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Analysis Leads to Discovery of Vulnerabilities in 18 Electron Applications<a href="https://www.securityweek.com/security-analysis-leads-discovery-vulnerabilities-18-electron-applications?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The research project targeting Electron apps has been dubbed ElectroVolt and the findings were presented last week at the Black Hat conference. Nearly all of the exploits, many of which involve chaining several flaws, can lead to RCE attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Developing BugDrop Malware to Bypass Android Security Features<a href="https://thehackernews.com/2022/08/cybercriminals-developing-bugdrop.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a sign that malicious actors continue to find ways to work around Google Play Store security protections, researchers have spotted a previously undocumented Android dropper trojan that's currently in development.  "This new malware tries to abuse devices using a novel technique, not seen before in Android malware, to spread the extremely dangerous  Xenomorph  banking trojan, allowing criminals to perform On-Device Fraud on victim's devices," ThreatFabric's Han Sahin said in a statement shared with The Hacker News.  Dubbed  BugDrop  by the Dutch security firm, the  dropper app  is explicitly designed to defeat new features introduced in the upcoming version of Android that aim to make it difficult for malware to request Accessibility Services privileges from victims.   ThreatFabric attributed the dropper to a cybercriminal group known as "Hadoken Security," which is also behind the creation and distribution of the  Xenomorph and Gymdrop  Android malwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked RedAlpha behind multi-year credential theft campaign<a href="https://securityaffairs.co/wordpress/134519/apt/redalpha-china-credential-theft-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked APT group named RedAlpha is behind a long-running mass credential theft campaign aimed at organizations worldwide.
+
+
+
+Recorded Future researchers attributed a long-running mass credential theft campaign to a Chinese nation-state actor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte ransomware gang is back with new extortion tactics<a href="https://www.bleepingcomputer.com/news/security/blackbyte-ransomware-gang-is-back-with-new-extortion-tactics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackByte ransomware is back with version 2.0 of their operation, including a new data leak site utilizing new extortion techniques borrowed from LockBit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedAlpha Conducts Multi-Year Credential Theft Campaign Targeting Critical Entities Globally<a href="https://www.recordedfuture.com/redalpha-credential-theft-campaign-targeting-humanitarian-thinktank?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese state-sponsored threat activity group RedAlpha has been registering and weaponizing hundreds of domains spoofing global organizations to target government organizations and think tanks globally.
+</details>
+<div style="text-align: right" markdown="1">
+Recorded Future
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Google Chrome Zero-Day Vulnerability Being Exploited in the Wild<a href="https://thehackernews.com/2022/08/new-google-chrome-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday rolled out patches for Chrome browser for desktops to contain an actively exploited high-severity zero-day flaw in the wild.  Tracked as  CVE-2022-2856 , the issue has been described as a case of insufficient validation of untrusted input in  Intents . Security researchers Ashley Shen and Christian Resell of Google Threat Analysis Group have been credited with reporting the flaw on July 19, 2022.  As is typically the case, the tech giant has refrained from sharing additional specifics about the shortcoming until a majority of the users are updated. "Google is aware that an exploit for CVE-2022-2856 exists in the wild," it  acknowledged  in a terse statement.  The latest update further addresses 10 other security flaws, most of which relate to use-after-free bugs in various components such as FedCM, SwiftShader, ANGLE, and Blink, among others. Also fixed is a heap buffer overflow vulnerability in Downloads.   The development marks the fifth zero-day vulnerab
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugdrop dropper includes features to circumvent Google’s security Controls<a href="https://securityaffairs.co/wordpress/134508/malware/bugdrop-android-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered a previously undocumented Android dropper, dubbed BugDrop, that's still under development.
+
+
+
+Recently, researchers from ThreatFabric discovered a previously undetected Android dropper, dubbed BugDrop, which is under active...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers use signed macOS malware to target IT job seekers<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-signed-macos-malware-to-target-it-job-seekers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers from the Lazarus group have been using a signed malicious executable for macOS to impersonate Coinbase and lure in employees in the financial technology sector.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Employees Exposed Own Company’s Internal Logins<a href="https://www.vice.com/en/article/m7gb43/microsoft-employees-exposed-login-credentials-azure-github?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft refused to elaborate on what systems the credentials were protecting when asked multiple times by Motherboard. But generally speaking, an attacker may have an opportunity to move on to gain initial access to an internal system.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Link Multi-Year Mass Credential Theft Campaign to Chinese Hackers<a href="https://thehackernews.com/2022/08/researchers-link-multi-year-mass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese state-sponsored threat activity group named RedAlpha  has been attributed to a multi-year mass credential theft campaign aimed at global humanitarian, think tank, and government organizations.  "In this activity, RedAlpha very likely sought to gain access to email accounts and other online communications of targeted individuals and organizations," Recorded Future  disclosed  in a new report.   A lesser-known threat actor, RedAlpha was first  documented  by Citizen Lab in January 2018 and has a history of conducting cyber espionage and surveillance operations directed against the Tibetan community, some in India, to facilitate intelligence collection through the deployment of the NjRAT backdoor .   "The campaigns [...] combine light reconnaissance, selective targeting, and diverse malicious tooling," Recorded Future  noted  at the time.  Since then, malicious activities undertaken by the group have involved weaponizing as many as 350 domains that spoof leg
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed a new Chrome Zero-Day actively exploited in the wild<a href="https://securityaffairs.co/wordpress/134501/security/google-fifth-chrome-zero-day-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google addressed a dozen vulnerabilities in the Chrome browser, including the fifth Chrome zero-day flaw exploited this year.
+
+
+
+Google this week released security updates to address a dozen vulnerabilities in its Chrome browser for desktops including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PyPi packages turn Discord into password-stealing malware<a href="https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-turn-discord-into-password-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A dozen malicious PyPi packages have been discovered installing malware that modifies the Discord client to become an information-sealing backdoor and stealing data from web browsers and Roblox.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Group Targeting Israeli Shipping and Other Key Sectors<a href="https://www.securityweek.com/iranian-group-targeting-israeli-shipping-and-other-key-sectors?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One possible phishing lure used by the attackers is likely to have been a .xls file disguised as a job offer but designed to install Sugardump – one of two unique tools being used by the threat group.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lean Security 101: 3 Tips for Building Your Framework<a href="https://thehackernews.com/2022/08/lean-security-101-3-tips-for-building.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cobalt, Lazarus, MageCart, Evil, Revil — cybercrime syndicates spring up so fast it's hard to keep track. Until…they infiltrate  your  system. But you know what's even more overwhelming than rampant cybercrime?  Building your organization's security framework.   CIS, NIST, PCI DSS, HIPAA, HITrust, and the list goes on. Even if you had the resources to implement every relevant industry standard and control to a tee, you still couldn't keep your company from getting caught up in the next SolarWinds. Because textbook security and check-the-box compliance won't cut it. You've got to be strategic ( especially when manpower is limited! ). And lean.  Learn the ropes now.   3 Pro Tips for Building Your Lean Security Framework  Without a framework in place, you're either navigating the cyber-risk universe with blinders on — or buried so deep in false positives you couldn't spot a complex attack until it's already laterally advancing.  But why build your secu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked APT targets Job Seekers with macOS malware<a href="https://securityaffairs.co/wordpress/134491/malware/north-korea-mac-malware-m1.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked Lazarus Group has been observed targeting job seekers with macOS malware working also on Intel and M1 chipsets.
+
+
+
+ESET researchers continue to monitor a cyberespionage campaign, tracked as "Operation In(ter)ception," that has been...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware devs already bypassed Android 13's new security feature<a href="https://www.bleepingcomputer.com/news/security/malware-devs-already-bypassed-android-13s-new-security-feature/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Android malware developers are already adjusting their tactics to bypass a new 'Restricted settings' security feature introduced by Google in the newly released Android 13.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Five Patch Management & Process Best Practices<a href="https://www.trendmicro.com/en_us/ciso/22/h/patch-management-process-best-practices.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What does a successful patch management strategy look like? It starts with a risk-based approach to stay up-to-date with new vulnerabilities while preventing bottlenecks in security workflows.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Browser Extensions Targeted Over a Million Users So Far This Year<a href="https://thehackernews.com/2022/08/malicious-browser-extensions-targeted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 1.31 million users attempted to install malicious or unwanted web browser extensions at least once, new findings from cybersecurity firm Kaspersky show.  "From January 2020 to June 2022, more than 4.3 million unique users were attacked by adware hiding in browser extensions, which is approximately 70% of all users affected by malicious and unwanted add-ons," the company  said .  As many as 1,311,557 users fall under this category in the first half of 2022, per Kaspersky's telemetry data. In comparison, the number of such users peaked in 2020 at 3,660,236, followed by 1,823,263 unique users in 2021.  The most prevalent threat is a family of adware called WebSearch, which masquerade as PDF viewers and other utilities, and comes with capabilities to collect and analyze search queries and redirect users to affiliate links.   WebSearch is also notable for modifying the browser's start page, which contains a search engine and a number of links to third-party sour
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ÆPIC Leak is the first CPU flaw able to architecturally disclose sensitive data<a href="https://securityaffairs.co/wordpress/134478/security/aepic-leak-architecturally-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a new flaw, dubbed ÆPIC, in Intel CPUs that enables attackers to obtain encryption keys and other secret information from the processors.
+
+
+
+The ÆPIC Leak (CVE-2022-21233) is the first architecturally CPU bug that could lead...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes fifth Chrome zero-day bug exploited this year<a href="https://www.bleepingcomputer.com/news/security/google-fixes-fifth-chrome-zero-day-bug-exploited-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released a security update for Chrome browser that addresses close to a dozen vulnerabilities, including a zero-day flaw that is being exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom fixed two flaws in macOS App that were disclosed at DEF CON￼<a href="https://securityaffairs.co/wordpress/134468/security/zoom-macos-app-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoom addressed two high-severity vulnerabilities in its macOS app that were disclosed at the DEF CON conference. 
+
+
+
+Zoom last week released macOS updates to fix two high-severity flaws in its macOS app that were disclosed at the DEF CON conference....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea Hackers Spotted Targeting Job Seekers with macOS Malware<a href="https://thehackernews.com/2022/08/north-korea-hackers-spotted-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-backed Lazarus Group has been observed targeting job seekers with malware capable of executing on Apple Macs with Intel and M1 chipsets.  Slovak cybersecurity firm ESET linked it to a campaign dubbed " Operation In(ter)ception " that was first disclosed in June 2020 and involved using social engineering tactics to trick employees working in the aerospace and military sectors into opening decoy job offer documents.  The latest attack is no different in that a job description for the Coinbase cryptocurrency exchange platform was used as a launchpad to drop a signed Mach-O executable. ESET's analysis comes from a sample of the binary that was uploaded to VirusTotal from Brazil on August 11, 2022.   "Malware is compiled for both Intel and Apple Silicon," the company  said  in a series of tweets. "It drops three files: a decoy PDF document ' Coinbase_online_careers_2022_07.pdf ', a bundle  'FinderFontsUpdater.app ,' and a downloa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RubyGems Makes Multi-Factor Authentication Mandatory for Top Package Maintainers<a href="https://thehackernews.com/2022/08/rubygems-makes-multi-factor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RubyGems, the official package manager for the Ruby programming language, has become the latest platform to mandate multi-factor authentication (MFA) for popular package maintainers, following the footsteps of  NPM  and  PyPI .  To that end, owners of gems with over 180 million total downloads are mandated to turn on MFA effective August 15, 2022.   "Users in this category who do not have MFA enabled on the UI and API or UI and gem sign-in level will not be able to edit their profile on the web, perform privileged actions (i.e. push and yank gems, or add and remove gem owners), or sign in on the command line until they configure MFA," RubyGems  noted .  What's more, gem maintainers who cross 165 million cumulative downloads are expected to receive reminders to turn on MFA until the download count touches the 180 million thresholds, at which point it will be made mandatory.  The development is seen as an attempt by package ecosystems to  bolster the software supply chain
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

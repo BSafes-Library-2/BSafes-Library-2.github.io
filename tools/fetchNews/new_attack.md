@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedAlpha Conducts Multi-Year Credential Theft Campaign Targeting Critical Entities Globally<a href="https://www.recordedfuture.com/redalpha-credential-theft-campaign-targeting-humanitarian-thinktank?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese state-sponsored threat activity group RedAlpha has been registering and weaponizing hundreds of domains spoofing global organizations to target government organizations and think tanks globally.
+</details>
+<div style="text-align: right" markdown="1">
+Recorded Future
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers use signed macOS malware to target IT job seekers<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-signed-macos-malware-to-target-it-job-seekers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers from the Lazarus group have been using a signed malicious executable for macOS to impersonate Coinbase and lure in employees in the financial technology sector.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

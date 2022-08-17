@@ -11,6 +11,76 @@ nav_order: 900220
 August 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Exploit out for critical Realtek flaw affecting many networking devices<a href="https://www.bleepingcomputer.com/news/security/exploit-out-for-critical-realtek-flaw-affecting-many-networking-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploit code has been released for a critical vulnerability affecting networking devices with Realtek's RTL819x system on a chip (SoC), which are estimated to be in the millions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Users of Zoom on Macs Told to Update App as Company Issues Security Fix<a href="https://www.theguardian.com/technology/2022/aug/16/users-of-zoom-on-macs-told-to-update-app-as-company-issues-security-fix?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoom disclosed the details about the sensitive security gaps that were affecting both the standard and IT admin versions of the application. The bugs could be exploited in Zoom’s update process.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ÆPIC and SQUIP Vulnerabilities Found in Intel and AMD Processors<a href="https://thehackernews.com/2022/08/pic-and-squip-vulnerabilities-found-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of researchers has revealed details of a new vulnerability affecting Intel CPUs that enables attackers to obtain encryption keys and other secret information from the processors.  Dubbed&nbsp; ÆPIC Leak , the weakness is the first-of-its-kind to architecturally disclose sensitive data in a manner that's akin to an "uninitialized memory read in the CPU itself."  "In contrast to transient execution attacks like&nbsp; Meltdown and Spectre ,&nbsp; ÆPIC Leak &nbsp;is an architectural bug: the sensitive data gets directly disclosed without relying on any (noisy) side channel," the academics said.  The study was conducted by researchers from the Sapienza University of Rome, the Graz University of Technology, Amazon Web Services, and the CISPA Helmholtz Center for Information Security.  The vulnerability ( CVE-2022-21233 , CVSS score: 6.0), which affects CPUs with Sunny Cover microarchitecture, is rooted in a component called Advanced Programmable Interrupt Controller ( APIC ), wh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RTLS systems vulnerable to MiTM attacks, location manipulation<a href="https://www.bleepingcomputer.com/news/security/rtls-systems-vulnerable-to-mitm-attacks-location-manipulation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered multiple vulnerabilities impacting UWB (ultra-wideband) RTLS (real-time locating systems), enabling threat actors to conduct man-in-the-middle attacks and manipulate tag geo-location data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secure Boot Bypass Flaws Affect Bootloaders of Many Devices Made in Past Decade<a href="https://www.securityweek.com/secure-boot-bypass-flaws-affect-bootloaders-many-devices-made-past-decade?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Secure Boot is a mechanism designed to protect a device’s boot process from attacks, and bypassing it can allow an attacker to execute arbitrary code before the operating system loads.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Secure Boot fix sends PCs into BitLocker Recovery<a href="https://www.theregister.co.uk/2022/08/15/bitlocker_microsoft/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

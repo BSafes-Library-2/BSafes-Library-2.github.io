@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Developing BugDrop Malware to Bypass Android Security Features<a href="https://thehackernews.com/2022/08/cybercriminals-developing-bugdrop.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a sign that malicious actors continue to find ways to work around Google Play Store security protections, researchers have spotted a previously undocumented Android dropper trojan that's currently in development.  "This new malware tries to abuse devices using a novel technique, not seen before in Android malware, to spread the extremely dangerous&nbsp; Xenomorph &nbsp;banking trojan, allowing criminals to perform On-Device Fraud on victim's devices," ThreatFabric's Han Sahin said in a statement shared with The Hacker News.  Dubbed&nbsp; BugDrop &nbsp;by the Dutch security firm, the&nbsp; dropper app &nbsp;is explicitly designed to defeat new features introduced in the upcoming version of Android that aim to make it difficult for malware to request Accessibility Services privileges from victims.   ThreatFabric attributed the dropper to a cybercriminal group known as "Hadoken Security," which is also behind the creation and distribution of the&nbsp; Xenomorph and Gymdrop &nbsp;Android malwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte ransomware gang is back with new extortion tactics<a href="https://www.bleepingcomputer.com/news/security/blackbyte-ransomware-gang-is-back-with-new-extortion-tactics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackByte ransomware is back with version 2.0&nbsp;of their operation, including a new data leak site utilizing new extortion techniques borrowed from LockBit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

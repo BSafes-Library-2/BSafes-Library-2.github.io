@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Group Targeting Israeli Shipping and Other Key Sectors<a href="https://www.securityweek.com/iranian-group-targeting-israeli-shipping-and-other-key-sectors?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One possible phishing lure used by the attackers is likely to have been a .xls file disguised as a job offer but designed to install Sugardump – one of two unique tools being used by the threat group.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

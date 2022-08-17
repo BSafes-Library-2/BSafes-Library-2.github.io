@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unified Threat Management: The All-in-One Cybersecurity Solution<a href="https://thehackernews.com/2022/08/unified-threat-management-all-in-one.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UTM (Unified threat management) is thought to be an all-in-one solution for cybersecurity. In general, it is a versatile software or hardware firewall solution integrated with IPS (Intrusion Prevention System) and other security services. A universal gateway allows the user to manage network security with one comprehensive solution, which makes the task much easier. In addition, compared to a conventional firewall, such systems are capable of detecting and blocking more sophisticated attacks. SafeDNS has recently released such a solution, and this is what this article is going to be about.  Who needs UTMs?  Most of all, UTMs are valued by SMEs - the all-in-one solution makes it simple to manage all their cybersecurity solutions and services. This also cuts down a lot of communications between vendors, since UTMs are easily supported by one IT team. This leads to another upside of the system - it can be cost-effective, as there is no need to pay a bunch of vendors &amp; extra for tech
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

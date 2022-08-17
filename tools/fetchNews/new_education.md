@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lean Security 101: 3 Tips for Building Your Framework<a href="https://thehackernews.com/2022/08/lean-security-101-3-tips-for-building.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cobalt, Lazarus, MageCart, Evil, Revil — cybercrime syndicates spring up so fast it's hard to keep track. Until…they infiltrate&nbsp; your&nbsp; system. But you know what's even more overwhelming than rampant cybercrime?  Building your organization's security framework.&nbsp;  CIS, NIST, PCI DSS, HIPAA, HITrust, and the list goes on. Even if you had the resources to implement every relevant industry standard and control to a tee, you still couldn't keep your company from getting caught up in the next SolarWinds. Because textbook security and check-the-box compliance won't cut it. You've got to be strategic ( especially when manpower is limited! ). And lean.  Learn the ropes now.&nbsp;  3 Pro Tips for Building Your Lean Security Framework  Without a framework in place, you're either navigating the cyber-risk universe with blinders on — or buried so deep in false positives you couldn't spot a complex attack until it's already laterally advancing.  But why build your secu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Five Patch Management &amp; Process Best Practices<a href="https://www.trendmicro.com/en_us/ciso/22/h/patch-management-process-best-practices.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What does a successful patch management strategy look like? It starts with a risk-based approach to stay up-to-date with new vulnerabilities while preventing bottlenecks in security workflows.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
