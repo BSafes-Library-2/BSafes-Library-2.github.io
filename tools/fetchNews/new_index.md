@@ -37,6 +37,282 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 16, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Exploit out for critical Realtek flaw affecting many networking devices<a href="https://www.bleepingcomputer.com/news/security/exploit-out-for-critical-realtek-flaw-affecting-many-networking-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploit code has been released for a critical vulnerability affecting networking devices with Realtek's RTL819x system on a chip (SoC), which are estimated to be in the millions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Users of Zoom on Macs Told to Update App as Company Issues Security Fix<a href="https://www.theguardian.com/technology/2022/aug/16/users-of-zoom-on-macs-told-to-update-app-as-company-issues-security-fix?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoom disclosed the details about the sensitive security gaps that were affecting both the standard and IT admin versions of the application. The bugs could be exploited in Zoom’s update process.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ÆPIC and SQUIP Vulnerabilities Found in Intel and AMD Processors<a href="https://thehackernews.com/2022/08/pic-and-squip-vulnerabilities-found-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of researchers has revealed details of a new vulnerability affecting Intel CPUs that enables attackers to obtain encryption keys and other secret information from the processors.  Dubbed  ÆPIC Leak , the weakness is the first-of-its-kind to architecturally disclose sensitive data in a manner that's akin to an "uninitialized memory read in the CPU itself."  "In contrast to transient execution attacks like  Meltdown and Spectre ,  ÆPIC Leak  is an architectural bug: the sensitive data gets directly disclosed without relying on any (noisy) side channel," the academics said.  The study was conducted by researchers from the Sapienza University of Rome, the Graz University of Technology, Amazon Web Services, and the CISPA Helmholtz Center for Information Security.  The vulnerability ( CVE-2022-21233 , CVSS score: 6.0), which affects CPUs with Sunny Cover microarchitecture, is rooted in a component called Advanced Programmable Interrupt Controller ( APIC ), wh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop gang targeted UK drinking water supplier South Staffordshire Water<a href="https://securityaffairs.co/wordpress/134450/cyber-crime/south-staffordshire-water-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack disrupted the IT operations of South Staffordshire Water, a company supplying drinking water to 1.6M consumers daily.
+
+
+
+South Staffordshire Water has issued a statement confirming the security breach, the company pointed out that the attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RTLS systems vulnerable to MiTM attacks, location manipulation<a href="https://www.bleepingcomputer.com/news/security/rtls-systems-vulnerable-to-mitm-attacks-location-manipulation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered multiple vulnerabilities impacting UWB (ultra-wideband) RTLS (real-time locating systems), enabling threat actors to conduct man-in-the-middle attacks and manipulate tag geo-location data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secure Boot Bypass Flaws Affect Bootloaders of Many Devices Made in Past Decade<a href="https://www.securityweek.com/secure-boot-bypass-flaws-affect-bootloaders-many-devices-made-past-decade?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Secure Boot is a mechanism designed to protect a device’s boot process from attacks, and bypassing it can allow an attacker to execute arbitrary code before the operating system loads.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Evil PLC Attack Weaponizes PLCs to Breach OT and Enterprise Networks<a href="https://thehackernews.com/2022/08/new-evil-plc-attack-weaponizes-plcs-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have elaborated a novel attack technique that weaponizes programmable logic controllers ( PLCs ) to gain an initial foothold in engineering workstations and subsequently invade the operational technology (OT) networks.  Dubbed " Evil PLC " attack by industrial security firm Claroty, the issue impacts engineering workstation software from Rockwell Automation, Schneider Electric, GE, B&R, Xinje, OVARRO, and Emerson.  Programmable logic controllers are a crucial component of industrial devices that control manufacturing processes in critical infrastructure sectors. PLCs, besides orchestrating the automation tasks, are also configured to start and stop processes and generate alarms.  It's hence not surprising that the entrenched access provided by PLCs have made the machines a focus of sophisticated attacks for more than a decade, starting from  Stuxnet to PIPEDREAM  (aka INCONTROLLER), with the goal of causing physical disruptions.    "The
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious browser extensions targeted almost 7 million people<a href="https://www.bleepingcomputer.com/news/security/malicious-browser-extensions-targeted-almost-7-million-people/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost 7 million users have attempted to install malicious browser extensions since 2020, with 70% of those extensions used as adware to target users with advertisements.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Shuts Down Accounts Linked to Russian Spies<a href="https://www.theregister.co.uk/2022/08/16/microsoft_russian_spies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The criminals make contact with their targets via email, and for this, they register new accounts with different consumer email providers, and they use email addresses or alias designed to look like a legitimate person.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unified Threat Management: The All-in-One Cybersecurity Solution<a href="https://thehackernews.com/2022/08/unified-threat-management-all-in-one.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UTM (Unified threat management) is thought to be an all-in-one solution for cybersecurity. In general, it is a versatile software or hardware firewall solution integrated with IPS (Intrusion Prevention System) and other security services. A universal gateway allows the user to manage network security with one comprehensive solution, which makes the task much easier. In addition, compared to a conventional firewall, such systems are capable of detecting and blocking more sophisticated attacks. SafeDNS has recently released such a solution, and this is what this article is going to be about.  Who needs UTMs?  Most of all, UTMs are valued by SMEs - the all-in-one solution makes it simple to manage all their cybersecurity solutions and services. This also cuts down a lot of communications between vendors, since UTMs are easily supported by one IT team. This leads to another upside of the system - it can be cost-effective, as there is no need to pay a bunch of vendors & extra for tech
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New MailChimp breach exposed DigitalOcean customer email addresses<a href="https://www.bleepingcomputer.com/news/security/new-mailchimp-breach-exposed-digitalocean-customer-email-addresses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DigitalOcean is warning customers that a recent MailChimp security breach exposed the email addresses of some customers, with a small number receiving unauthorized password resets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cyberspies Use Supply Chain Attack to Deliver Windows, macOS Malware<a href="https://www.securityweek.com/chinese-cyberspies-use-supply-chain-attack-deliver-windows-macos-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-backed Iron Tiger APT compromised the servers of MiMi – an instant messaging application available on Windows, macOS, Android, and iOS chat applications, for a supply chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns About Phishing Attacks by Russia-linked Hackers<a href="https://thehackernews.com/2022/08/microsoft-warns-about-phishing-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday revealed it took steps to disrupt phishing operations undertaken by a "highly persistent threat actor" whose objectives align closely with Russian state interests.  The company is tracking the espionage-oriented activity cluster under its chemical element-themed moniker  SEABORGIUM , which it said overlaps with a hacking group also known as  Callisto ,  COLDRIVER , and TA446.  "SEABORGIUM intrusions have also been linked to hack-and-leak campaigns, where stolen and leaked data is used to shape narratives in targeted countries," Microsoft's threat hunting teams  said . "Its campaigns involve persistent phishing and credential theft campaigns leading to intrusions and data theft."   Attacks launched by the adversarial collective are known to target the same organizations using consistent methodologies applied over long periods of time, enabling it to infiltrate the victims' social networks through a combination of impersonation,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Benefits of Making Password Strength More Transparent<a href="https://www.bleepingcomputer.com/news/security/the-benefits-of-making-password-strength-more-transparent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is in the process of developing a password strength indicator for its Chrome browser. The good news is that there is an easy way of starting users down the road to using strong passwords even before the new version of Chrome is released.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BharatPay Data Breach: Personal data, Transaction Details of 37,000 Users Leaked Online - ET CISO<a href="https://ciso.economictimes.indiatimes.com/news/bharatpay-finance-services-breached-personal-data-transaction-details-of-37000-users-leaked-online/93586873?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BharatPay, an Indian finance service, leaked PII and sensitive financial data of users. Researchers found that transaction data and API keys of online bill payment facilitators such as Patchway Recharge and Mr. Robotics were also exposed.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CS:GO trading site hacked to steal $6 million worth of skins<a href="https://www.bleepingcomputer.com/news/security/cs-go-trading-site-hacked-to-steal-6-million-worth-of-skins/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CS.MONEY, one of the largest platforms for trading CS:GO skins, has taken its website offline after a cyberattack allowed hackers to loot 20,000 items worth approximately $6,000,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers attack UK water supplier but extort wrong company<a href="https://www.bleepingcomputer.com/news/security/hackers-attack-uk-water-supplier-but-extort-wrong-company/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Staffordshire Water, a company supplying 330 million liters of drinking water to 1.6 consumers daily, has issued a statement confirming IT disruption from a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers attack UK water supplier with 1.6 million customers<a href="https://www.bleepingcomputer.com/news/security/hackers-attack-uk-water-supplier-with-16-million-customers/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Secure Boot fix sends PCs into BitLocker Recovery<a href="https://www.theregister.co.uk/2022/08/15/bitlocker_microsoft/?&web_view=true"> Full Text</a>
@@ -66,7 +342,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Gamaredon APT continues to target Ukraine<a href="https://securityaffairs.co/wordpress/134438/apt/gamaredon-continues-target-ukraine.html"> Full Text</a>
@@ -86,7 +362,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rapid7: Cisco ASA and ASDM flaws went unpatched for months<a href="https://www.techtarget.com/searchsecurity/news/252523750/Rapid7-Cisco-ASA-and-ASDM-flaws-went-unpatched-for-months?&web_view=true"> Full Text</a>
@@ -102,7 +378,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phone numbers of 1,900 Signal users exposed as a result of Twilio security breach<a href="https://securityaffairs.co/wordpress/134428/mobile-2/twilio-hack-signal-impacy.html"> Full Text</a>
@@ -122,7 +398,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta: New Ransomware Threat Aiming for the Big League<a href="https://www.csoonline.com/article/3669256/black-basta-new-ransomware-threat-aiming-for-the-big-league.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -138,7 +414,7 @@ CSO Online
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian State Hackers Continue to Attack Ukrainian Entities with Infostealer Malware<a href="https://thehackernews.com/2022/08/russian-state-hackers-continue-to.html"> Full Text</a>
@@ -154,7 +430,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Argentina's Judiciary of Córdoba hit by PLAY ransomware attack<a href="https://www.bleepingcomputer.com/news/security/argentinas-judiciary-of-c-rdoba-hit-by-play-ransomware-attack/"> Full Text</a>
@@ -170,7 +446,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly 1,900 Signal Messenger Accounts Potentially Compromised in Twilio Hack<a href="https://thehackernews.com/2022/08/nearly-1900-signal-messenger-accounts.html"> Full Text</a>
@@ -186,7 +462,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Monero hard fork makes hackers' favorite coin even more private<a href="https://www.bleepingcomputer.com/news/security/monero-hard-fork-makes-hackers-favorite-coin-even-more-private/"> Full Text</a>
@@ -202,7 +478,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Credential Theft Is (Still) A Top Attack Method<a href="https://thehackernews.com/2022/08/credential-theft-is-still-top-attack.html"> Full Text</a>
@@ -218,7 +494,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft disrupts SEABORGIUM ’s ongoing phishing operations<a href="https://securityaffairs.co/wordpress/134414/apt/seaborgiums-targets-nato.html"> Full Text</a>
@@ -238,7 +514,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious PyPi packages aim DDoS attacks at Counter-Strike servers<a href="https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-aim-ddos-attacks-at-counter-strike-servers/"> Full Text</a>
@@ -254,7 +530,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Groups Refine Shakedown and Monetization Models<a href="https://www.bankinfosecurity.com/ransomware-groups-refine-shakedown-monetization-models-a-19790?&web_view=true"> Full Text</a>
@@ -270,7 +546,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SOVA Android Banking Trojan Returns With New Capabilities and Targets<a href="https://thehackernews.com/2022/08/sova-android-banking-trojan-returns-new.html"> Full Text</a>
@@ -286,7 +562,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VNC instances exposed to Internet pose critical infrastructures at risk<a href="https://securityaffairs.co/wordpress/134408/hacking/vnc-critical-infrastructures-at-risk.html"> Full Text</a>
@@ -306,7 +582,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twilio hack exposed Signal phone numbers of 1,900 users<a href="https://www.bleepingcomputer.com/news/security/twilio-hack-exposed-signal-phone-numbers-of-1-900-users/"> Full Text</a>
@@ -322,7 +598,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Almost 2,000 data breaches reported for the first half of 2022<a href="https://www.techrepublic.com/article/almost-2000-data-breaches-reported-for-the-first-half-of-2022/?&web_view=true"> Full Text</a>
@@ -338,7 +614,7 @@ Tech Republic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SOVA Android malware now also encrypts victims’ files<a href="https://securityaffairs.co/wordpress/134392/malware/sova-android-malware-v5.html"> Full Text</a>
@@ -358,7 +634,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft disrupts Russian hackers' operation on NATO targets<a href="https://www.bleepingcomputer.com/news/security/microsoft-disrupts-russian-hackers-operation-on-nato-targets/"> Full Text</a>
@@ -374,7 +650,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Shuckworm Hacker Group Maintains Focus on Ukraine<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/russia-ukraine-shuckworm?&web_view=true"> Full Text</a>
@@ -390,7 +666,7 @@ Symantec
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new PyPI Package was found delivering fileless Linux Malware<a href="https://securityaffairs.co/wordpress/134381/security/pypi-package-fileless-linux-malware.html"> Full Text</a>
@@ -410,7 +686,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian hackers target Ukraine with default Word template hijacker<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-target-ukraine-with-default-word-template-hijacker/"> Full Text</a>
@@ -426,7 +702,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iron Tiger APT is behind a supply chain attack that employed messaging app MiMi<a href="https://securityaffairs.co/wordpress/134366/apt/iron-tiger-apt-is-behind-a-supply-chain-attack-that-employed-messaging-app-mimi.html"> Full Text</a>
@@ -446,7 +722,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows KB5012170 Secure Boot DBX update may fail with 0x800f0922 error<a href="https://www.bleepingcomputer.com/news/security/windows-kb5012170-secure-boot-dbx-update-may-fail-with-0x800f0922-error/"> Full Text</a>
@@ -462,7 +738,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2022
+August 15, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Callback phishing attacks see massive 625% growth since Q1 2021<a href="https://www.bleepingcomputer.com/news/security/callback-phishing-attacks-see-massive-625-percent-growth-since-q1-2021/"> Full Text</a>
@@ -478,7 +754,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2022
+August 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newly Uncovered PyPI Package Drops Fileless Cryptominer to Linux Systems<a href="https://thehackernews.com/2022/08/newly-uncovered-pypi-package-drops.html"> Full Text</a>
