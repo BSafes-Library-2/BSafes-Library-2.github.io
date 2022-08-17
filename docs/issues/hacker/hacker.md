@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cyberspies Use Supply Chain Attack to Deliver Windows, macOS Malware<a href="https://www.securityweek.com/chinese-cyberspies-use-supply-chain-attack-deliver-windows-macos-malware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-backed Iron Tiger APT compromised the servers of MiMi – an instant messaging application available on Windows, macOS, Android, and iOS chat applications, for a supply chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credential Theft Is (Still) A Top Attack Method<a href="https://thehackernews.com/2022/08/credential-theft-is-still-top-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Credential theft is clearly still a problem. Even after years of warnings, changing password requirements, and multiple forms of authentication,&nbsp; password &nbsp;stealing remains a top attack method used by cyber criminals.  The latest&nbsp; report &nbsp;from the Ponemon Institute shares that 54% of security incidents were caused by credential theft, followed by ransomware and DDoS attacks. 59% of organizations aren't revoking credentials that are no longer needed, meaning passwords can go unattended and dormant like a sitting duck (similar to what happened with Colonial Pipeline). And&nbsp; Verizon's Data Breach Investigations Report &nbsp;cites that nearly 50% of all data breaches were caused by stolen credentials.  The stats don't lie. Cybercriminals are advancing, there's no doubt, but if there's an option to take the path of least resistance, they'll take it. Too often, that means compromising passwords and exploiting vulnerable access points.&nbsp;  Credential Theft and Critical Access
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Almost 2,000 data breaches reported for the first half of 2022<a href="https://www.techrepublic.com/article/almost-2000-data-breaches-reported-for-the-first-half-of-2022/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A successful data breach can impact an organization not just by compromising sensitive information but by serving as a prelude to ransomware and more devastating cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

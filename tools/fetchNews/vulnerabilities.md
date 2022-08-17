@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Secure Boot fix sends PCs into BitLocker Recovery<a href="https://www.theregister.co.uk/2022/08/15/bitlocker_microsoft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issues are related to KB5012170, which is designed to plug some Secure Boot holes. The problem occurs on boot, and brings up the BitLocker Recovery screen into which a user is supposed to enter a key.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid7: Cisco ASA and ASDM flaws went unpatched for months<a href="https://www.techtarget.com/searchsecurity/news/252523750/Rapid7-Cisco-ASA-and-ASDM-flaws-went-unpatched-for-months?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities discovered in Cisco software may lead to a variety of threats, including supply chain attacks, Rapid7 lead researcher Jake Baines warned during a Black Hat USA 2022 session.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VNC instances exposed to Internet pose critical infrastructures at risk<a href="https://securityaffairs.co/wordpress/134408/hacking/vnc-critical-infrastructures-at-risk.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from threat intelligence firm Cyble reported a surge in attacks targeting virtual network computing (VNC).
+
+
+
+Virtual Network Computing (VNC)&nbsp;is a graphical desktop-sharing system that leverages the Remote Frame Buffer (RFB) protocol to control...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows KB5012170 Secure Boot DBX update may fail with 0x800f0922 error<a href="https://www.bleepingcomputer.com/news/security/windows-kb5012170-secure-boot-dbx-update-may-fail-with-0x800f0922-error/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users may see a 0x800f0922 error when trying to install security update KB5012170 on the currently supported Windows operating system for consumers and the enterprise-class Server version.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

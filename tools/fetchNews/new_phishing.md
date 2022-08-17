@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns About Phishing Attacks by Russia-linked Hackers<a href="https://thehackernews.com/2022/08/microsoft-warns-about-phishing-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday revealed it took steps to disrupt phishing operations undertaken by a "highly persistent threat actor" whose objectives align closely with Russian state interests.  The company is tracking the espionage-oriented activity cluster under its chemical element-themed moniker&nbsp; SEABORGIUM , which it said overlaps with a hacking group also known as&nbsp; Callisto ,&nbsp; COLDRIVER , and TA446.  "SEABORGIUM intrusions have also been linked to hack-and-leak campaigns, where stolen and leaked data is used to shape narratives in targeted countries," Microsoft's threat hunting teams&nbsp; said . "Its campaigns involve persistent phishing and credential theft campaigns leading to intrusions and data theft."   Attacks launched by the adversarial collective are known to target the same organizations using consistent methodologies applied over long periods of time, enabling it to infiltrate the victims' social networks through a combination of impersonation,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

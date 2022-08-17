@@ -11,6 +11,34 @@ nav_order: 900015
 August 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Evil PLC Attack Weaponizes PLCs to Breach OT and Enterprise Networks<a href="https://thehackernews.com/2022/08/new-evil-plc-attack-weaponizes-plcs-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have elaborated a novel attack technique that weaponizes programmable logic controllers ( PLCs ) to gain an initial foothold in engineering workstations and subsequently invade the operational technology (OT) networks.  Dubbed " Evil PLC " attack by industrial security firm Claroty, the issue impacts engineering workstation software from Rockwell Automation, Schneider Electric, GE, B&amp;R, Xinje, OVARRO, and Emerson.  Programmable logic controllers are a crucial component of industrial devices that control manufacturing processes in critical infrastructure sectors. PLCs, besides orchestrating the automation tasks, are also configured to start and stop processes and generate alarms.  It's hence not surprising that the entrenched access provided by PLCs have made the machines a focus of sophisticated attacks for more than a decade, starting from&nbsp; Stuxnet to PIPEDREAM &nbsp;(aka INCONTROLLER), with the goal of causing physical disruptions.&nbsp;   "The
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers attack UK water supplier but extort wrong company<a href="https://www.bleepingcomputer.com/news/security/hackers-attack-uk-water-supplier-but-extort-wrong-company/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Staffordshire Water, a company supplying 330 million liters of drinking water to 1.6 consumers daily, has issued a statement confirming IT disruption from a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers attack UK water supplier with 1.6 million customers<a href="https://www.bleepingcomputer.com/news/security/hackers-attack-uk-water-supplier-with-16-million-customers/"> Full Text</a>
 </p>
 <details>

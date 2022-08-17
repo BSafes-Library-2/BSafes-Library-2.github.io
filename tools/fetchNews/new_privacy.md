@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Shuts Down Accounts Linked to Russian Spies<a href="https://www.theregister.co.uk/2022/08/16/microsoft_russian_spies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The criminals make contact with their targets via email, and for this, they register new accounts with different consumer email providers, and they use email addresses or alias designed to look like a legitimate person.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

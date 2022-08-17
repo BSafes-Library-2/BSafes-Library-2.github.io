@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit out for critical Realtek flaw affecting many networking devices<a href="https://www.bleepingcomputer.com/news/security/exploit-out-for-critical-realtek-flaw-affecting-many-networking-devices/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Users of Zoom on Macs Told to Update App as Company Issues Security Fix<a href="https://www.theguardian.com/technology/2022/aug/16/users-of-zoom-on-macs-told-to-update-app-as-company-issues-security-fix?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Guardian
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ÆPIC and SQUIP Vulnerabilities Found in Intel and AMD Processors<a href="https://thehackernews.com/2022/08/pic-and-squip-vulnerabilities-found-in.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop gang targeted UK drinking water supplier South Staffordshire Water<a href="https://securityaffairs.co/wordpress/134450/cyber-crime/south-staffordshire-water-cyberattack.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RTLS systems vulnerable to MiTM attacks, location manipulation<a href="https://www.bleepingcomputer.com/news/security/rtls-systems-vulnerable-to-mitm-attacks-location-manipulation/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Secure Boot Bypass Flaws Affect Bootloaders of Many Devices Made in Past Decade<a href="https://www.securityweek.com/secure-boot-bypass-flaws-affect-bootloaders-many-devices-made-past-decade?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Evil PLC Attack Weaponizes PLCs to Breach OT and Enterprise Networks<a href="https://thehackernews.com/2022/08/new-evil-plc-attack-weaponizes-plcs-to.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious browser extensions targeted almost 7 million people<a href="https://www.bleepingcomputer.com/news/security/malicious-browser-extensions-targeted-almost-7-million-people/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Shuts Down Accounts Linked to Russian Spies<a href="https://www.theregister.co.uk/2022/08/16/microsoft_russian_spies/?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unified Threat Management: The All-in-One Cybersecurity Solution<a href="https://thehackernews.com/2022/08/unified-threat-management-all-in-one.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New MailChimp breach exposed DigitalOcean customer email addresses<a href="https://www.bleepingcomputer.com/news/security/new-mailchimp-breach-exposed-digitalocean-customer-email-addresses/"> Full Text</a>
@@ -214,7 +214,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Cyberspies Use Supply Chain Attack to Deliver Windows, macOS Malware<a href="https://www.securityweek.com/chinese-cyberspies-use-supply-chain-attack-deliver-windows-macos-malware?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns About Phishing Attacks by Russia-linked Hackers<a href="https://thehackernews.com/2022/08/microsoft-warns-about-phishing-attacks.html"> Full Text</a>
@@ -246,7 +246,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Benefits of Making Password Strength More Transparent<a href="https://www.bleepingcomputer.com/news/security/the-benefits-of-making-password-strength-more-transparent/"> Full Text</a>
@@ -262,7 +262,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BharatPay Data Breach: Personal data, Transaction Details of 37,000 Users Leaked Online - ET CISO<a href="https://ciso.economictimes.indiatimes.com/news/bharatpay-finance-services-breached-personal-data-transaction-details-of-37000-users-leaked-online/93586873?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CS:GO trading site hacked to steal $6 million worth of skins<a href="https://www.bleepingcomputer.com/news/security/cs-go-trading-site-hacked-to-steal-6-million-worth-of-skins/"> Full Text</a>
@@ -294,7 +294,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers attack UK water supplier but extort wrong company<a href="https://www.bleepingcomputer.com/news/security/hackers-attack-uk-water-supplier-but-extort-wrong-company/"> Full Text</a>

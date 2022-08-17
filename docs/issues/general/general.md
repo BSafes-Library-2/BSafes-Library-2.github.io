@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Benefits of Making Password Strength More Transparent<a href="https://www.bleepingcomputer.com/news/security/the-benefits-of-making-password-strength-more-transparent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is in the process of developing a password strength indicator for its Chrome browser. The good news is that there is an easy way of starting users down the road to using strong passwords even before the new version of Chrome is released.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

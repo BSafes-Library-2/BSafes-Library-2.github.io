@@ -11,6 +11,48 @@ nav_order: 900029
 August 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New MailChimp breach exposed DigitalOcean customer email addresses<a href="https://www.bleepingcomputer.com/news/security/new-mailchimp-breach-exposed-digitalocean-customer-email-addresses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DigitalOcean is warning customers that a recent MailChimp security breach exposed the email addresses of some customers, with a small number receiving unauthorized password resets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BharatPay Data Breach: Personal data, Transaction Details of 37,000 Users Leaked Online - ET CISO<a href="https://ciso.economictimes.indiatimes.com/news/bharatpay-finance-services-breached-personal-data-transaction-details-of-37000-users-leaked-online/93586873?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BharatPay, an Indian finance service, leaked PII and sensitive financial data of users. Researchers found that transaction data and API keys of online bill payment facilitators such as Patchway Recharge and Mr. Robotics were also exposed.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CS:GO trading site hacked to steal $6 million worth of skins<a href="https://www.bleepingcomputer.com/news/security/cs-go-trading-site-hacked-to-steal-6-million-worth-of-skins/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CS.MONEY, one of the largest platforms for trading CS:GO skins, has taken its website offline after a cyberattack allowed hackers to loot 20,000 items worth approximately $6,000,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Phone numbers of 1,900 Signal users exposed as a result of Twilio security breach<a href="https://securityaffairs.co/wordpress/134428/mobile-2/twilio-hack-signal-impacy.html"> Full Text</a>
 </p>
 <details>

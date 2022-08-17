@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop gang targeted UK drinking water supplier South Staffordshire Water<a href="https://securityaffairs.co/wordpress/134450/cyber-crime/south-staffordshire-water-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack disrupted the IT operations of South Staffordshire Water, a company supplying drinking water to 1.6M consumers daily.
+
+
+
+South Staffordshire Water has issued a statement confirming the security breach, the company pointed out that the attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
