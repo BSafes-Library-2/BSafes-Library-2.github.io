@@ -34,7 +34,395 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit claims ransomware attack on security giant Entrust<a href="https://www.bleepingcomputer.com/news/security/lockbit-claims-ransomware-attack-on-security-giant-entrust/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware gang has claimed responsibility for the June cyberattack on digital security giant Entrust.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Cyber Attacks on Ukraine driven by Government Groups<a href="https://www.techtarget.com/searchsecurity/news/252523950/Russian-cyber-attacks-on-Ukraine-driven-by-government-groups?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia's nation-state crews have been breaking into Ukrainian networks and attempting to disrupt or even destroy vulnerable systems. A bevy of attacks and malware samples can all be tied back to Kremlin-backed hacking groups.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Evasive DarkTortilla Crypter Used to Deliver Malware<a href="https://thehackernews.com/2022/08/researchers-detail-evasive-darktortilla.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A .NET-based evasive crypter named  DarkTortilla  has been used by threat actors to distribute a broad array of commodity malware as well as targeted payloads like Cobalt Strike and Metasploit, likely  since 2015 .  "It can also deliver 'add-on packages' such as additional malicious payloads, benign decoy documents, and executables," cybersecurity firm Secureworks  said  in a Wednesday report. "It features robust anti-analysis and anti-tamper controls that can make detection, analysis, and eradication challenging."  Malware delivered by the crypter includes information steakers and remote access trojans (RATs) such as Agent Tesla, AsyncRat, NanoCore, and RedLine Stealer. "DarkTortilla has versatility that similar malware does not," the researchers noted.   Crypters are  software tools  that use a  combination  of encryption, obfuscation, and code manipulation of malware so as to  bypass detection  by security solutions.  The delivery of DarkTortil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Safari 15.6.1 addresses a zero-day flaw actively exploited in the wild<a href="https://securityaffairs.co/wordpress/134553/security/safari-15-6-1-fixes-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released Safari 15.6.1 for macOS Big Sur and Catalina to address a zero-day vulnerability actively exploited in the wild.
+
+
+
+Safari 15.6.1 for macOS Big Sur and Catalina addressed an actively exploited zero-day vulnerability tracked as CVE-2022-32893....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple releases Safari 15.6.1 to fix zero-day bug used in attacks<a href="https://www.bleepingcomputer.com/news/security/apple-releases-safari-1561-to-fix-zero-day-bug-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released Safari 15.6.1 for macOS Big Sur and Catalina to fix a zero-day vulnerability exploited in the wild to hack Macs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+81% of Malware Seen on USB Drives in Industrial Facilities Can Disrupt ICS: Honeywell<a href="https://www.securityweek.com/81-malware-seen-usb-drives-industrial-facilities-can-disrupt-ics-honeywell?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The percentage of industrial-specific malware has increased to 32%, from 30% in the 2021 report and 11% in the 2020 report. The percentage of malware designed to propagate over USB or to specifically exploit USB for infection has also increased.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-backed APT41 Hackers Targeted 13 Organisations Worldwide Last Year<a href="https://thehackernews.com/2022/08/china-backed-apt41-hackers-targeted-13.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese advanced persistent threat (APT) actor tracked as Winnti (aka APT41) has targeted at least 13 organizations geographically spanning across the U.S, Taiwan, India, Vietnam, and China against the backdrop of four different campaigns in 2021.  "The targeted industries included the public sector, manufacturing, healthcare, logistics, hospitality, education, as well as the media and aviation," cybersecurity firm Group-IB  said  in a report shared with The Hacker News.   This also included the attack on Air India that came to light in June 2021 as part of a campaign codenamed  ColunmTK . The other three campaigns have been assigned the monikers DelayLinkTK, Mute-Pond, and Gentle-Voice based on the domain names used in the attacks.  APT41, also known as Barium, Bronze Atlas, Double Dragon, Wicked Panda, or Winnti, is a  prolific   Chinese   cyber threat group  that's known to carry out state-sponsored espionage activity in parallel with financially motivated operati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google blocked the largest Layer 7 DDoS reported to date<a href="https://securityaffairs.co/wordpress/134542/hacking/google-blocked-largest-ever-https-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced to have blocked the largest ever HTTPs DDoS attack, which reached 46 million requests per second (RPS).
+
+
+
+Google announced to have blocked the largest ever HTTPs DDoS attack that hit one of its Cloud Armor customers. The IT giant revealed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android malware apps with 2 million installs found on Google Play<a href="https://www.bleepingcomputer.com/news/security/android-malware-apps-with-2-million-installs-found-on-google-play/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new batch of thirty-five Android malware apps that display unwanted advertisements was found on the Google Play Store, with the apps installed over 2 million times on victims' mobile devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT41 Group: 4 Malicious Campaigns, 13 Victims, New Tools and Techniques<a href="https://www.helpnetsecurity.com/2022/08/18/apt41-group/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB researchers emphasize that the group usually used certain servers exclusively to host the Cobalt Strike framework, while they exploited others only for active scanning through Acunetix.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Bumblebee Loader to Compromise Active Directory Services<a href="https://thehackernews.com/2022/08/hackers-using-bumblebee-loader-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware loader known as Bumblebee is being increasingly co-opted by threat actors associated with BazarLoader, TrickBot, and IcedID in their campaigns to breach target networks for post-exploitation activities.  "Bumblebee operators conduct intensive reconnaissance activities and redirect the output of executed commands to files for exfiltration," Cybereason researchers Meroujan Antonyan and Alon Laufer  said  in a technical write-up.   Bumblebee  first came to light in March 2022 when Google's Threat Analysis Group (TAG) unmasked the activities of an initial access broker dubbed  Exotic Lily  with ties to the  TrickBot  and the larger  Conti  collectives.   Typically delivered via initial access acquired through spear-phishing campaigns, the modus operandi has since been tweaked by eschewing macro-laced documents in favor of ISO and LNK files, primarily in response to Microsoft's decision to  block macros by default .   "Distribution of the malware is done
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte ransomware v2 is out with new extortion novelties<a href="https://securityaffairs.co/wordpress/134531/cyber-crime/blackbyte-ransomware-v2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the BlackByte ransomware appeared in the threat landscape, version 2.0 uses extortion techniques similar to LockBit ones.
+
+
+
+BlackByte ransomware Version 2.0 appeared in the threat landscape after a short break, the latest version has a new data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Janet Jackson's music video is now a vulnerability for crashing hard disks<a href="https://www.bleepingcomputer.com/news/security/janet-jacksons-music-video-is-now-a-vulnerability-for-crashing-hard-disks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Janet Jackson's Rhythm Nation music video of 1989 has officially been declared a security vulnerability as it freezes some models of hard drives on older computers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Majority of Americans Have Been Targeted by Online Scammers<a href="https://blog.avast.com/majority-americans-targeted-scammers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The best way to avoid falling for a rental scam is to use the smell test: If it smells fishy, it’s probably fishy. Clues like weird grammar, refusing to talk on the phone, and unnecessary demand for money should be seen as suspicious attempts.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Penetration Testing or Vulnerability Scanning? What's the Difference?<a href="https://thehackernews.com/2022/08/penetration-testing-or-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pentesting and vulnerability scanning are often confused for the same service. The problem is, business owners often use one when they really need the other. Let's dive in and explain the differences.  People frequently confuse penetration testing and vulnerability scanning, and it's easy to see why. Both look for weaknesses in your IT infrastructure by exploring your systems in the same way an actual hacker would. However, there is a very important distinction between the two - and when each is the better option.  Manual or automated?  Penetration testing is a  manual  security assessment where cyber security professional attempts to find a way to break into your systems. It's a hands-on, in-depth test to evaluate security controls across a variety of systems, including web application, network and cloud environments. This kind of testing could take several weeks to complete, and due to its complexity and cost, is commonly carried out once a year.  Vulnerability scanning,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixed two new zero-day flaws exploited by threat actors<a href="https://securityaffairs.co/wordpress/134527/security/apple-zero-day-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple addressed two zero-day vulnerabilities, exploited by threat actors, affecting iOS, iPadOS, and macOS devices.
+
+
+
+Apple this week released security updates for iOS, iPadOS, and macOS platforms to address two zero-day vulnerabilities exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google blocks largest HTTPS DDoS attack 'reported to date'<a href="https://www.bleepingcomputer.com/news/security/google-blocks-largest-https-ddos-attack-reported-to-date/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Google Cloud Armor customer was hit with a distributed denial-of-service (DDoS) attack over the HTTPS protocol that reached 46 million requests per second (RPS), making it the largest ever recorded of its kind.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fugitive Arrested After 3 Years on Charges Related to BEC Scheme<a href="https://www.securityweek.com/fugitive-arrested-after-3-years-charges-related-bec-scheme?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using the illegally obtained personal information, conspirators would obtain counterfeit checks on behalf of their victims, along with details on the victims’ bank accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC exploit code for critical Realtek RCE flaw released online<a href="https://securityaffairs.co/wordpress/134515/breaking-news/realtek-rce-poc-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploit code for a critical vulnerability affecting networking devices using Realtek RTL819x system on a chip released online.
+
+
+
+The PoC exploit code for a critical stack-based buffer overflow issue, tracked as CVE-2022-27255 (CVSS 9.8), affecting networking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winnti hackers split Cobalt Strike into 154 pieces to evade detection<a href="https://www.bleepingcomputer.com/news/security/winnti-hackers-split-cobalt-strike-into-154-pieces-to-evade-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​The Chinese Winnti hacking group, also known as 'APT41' or 'Wicked Spider,' targeted at least 80 organizations last year and successfully breached the networks of at least thirteen.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NOAA Evaluating Multi-factor Authentication for Apps and Devices<a href="https://www.fedscoop.com/noaa-evaluating-multi-factor-authentication-solutions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NOAA is exploring multi-factor authentication beyond its network as it looks to strengthen cybersecurity in accordance with the federal zero trust strategy, according to its chief information officer.
+</details>
+<div style="text-align: right" markdown="1">
+Fed Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon fixes Ring Android app flaw exposing camera recordings<a href="https://www.bleepingcomputer.com/news/security/amazon-fixes-ring-android-app-flaw-exposing-camera-recordings/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon has fixed a high-severity vulnerability in the Amazon Ring app for Android that could have allowed hackers to download customers' saved camera recordings.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases Security Updates to Patch Two New Zero-Day Vulnerabilities<a href="https://thehackernews.com/2022/08/apple-releases-security-updates-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Wednesday released security updates for  iOS, iPadOS , and  macOS  platforms to remediate two zero-day vulnerabilities previously exploited by threat actors to compromise its devices.  The list of issues is below -   CVE-2022-32893  - An out-of-bounds issue in WebKit which could lead to the execution of arbitrary code by processing a specially crafted web content  CVE-2022-32894  - An out-of-bounds issue in the operating system's Kernel that could be abused by a malicious application to execute arbitrary code with the highest privileges   Apple said it addressed both the issues with improved bounds checking, adding it's aware the vulnerabilities "may have been actively exploited."  The company did not disclose any additional information regarding these attacks or the identities of the threat actors perpetrating them, although it's likely that they were abused as part of highly-targeted intrusions.   The latest update brings the total number of zero-days
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple security updates fix 2 zero-days used to hack iPhones, Macs<a href="https://www.bleepingcomputer.com/news/security/apple-security-updates-fix-2-zero-days-used-to-hack-iphones-macs/"> Full Text</a>
@@ -50,7 +438,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Analysis Leads to Discovery of Vulnerabilities in 18 Electron Applications<a href="https://www.securityweek.com/security-analysis-leads-discovery-vulnerabilities-18-electron-applications?&web_view=true"> Full Text</a>
@@ -66,7 +454,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Developing BugDrop Malware to Bypass Android Security Features<a href="https://thehackernews.com/2022/08/cybercriminals-developing-bugdrop.html"> Full Text</a>
@@ -82,7 +470,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked RedAlpha behind multi-year credential theft campaign<a href="https://securityaffairs.co/wordpress/134519/apt/redalpha-china-credential-theft-campaign.html"> Full Text</a>
@@ -102,7 +490,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackByte ransomware gang is back with new extortion tactics<a href="https://www.bleepingcomputer.com/news/security/blackbyte-ransomware-gang-is-back-with-new-extortion-tactics/"> Full Text</a>
@@ -118,7 +506,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedAlpha Conducts Multi-Year Credential Theft Campaign Targeting Critical Entities Globally<a href="https://www.recordedfuture.com/redalpha-credential-theft-campaign-targeting-humanitarian-thinktank?&web_view=true"> Full Text</a>
@@ -134,7 +522,7 @@ Recorded Future
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Google Chrome Zero-Day Vulnerability Being Exploited in the Wild<a href="https://thehackernews.com/2022/08/new-google-chrome-zero-day.html"> Full Text</a>
@@ -150,7 +538,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bugdrop dropper includes features to circumvent Google’s security Controls<a href="https://securityaffairs.co/wordpress/134508/malware/bugdrop-android-malware.html"> Full Text</a>
@@ -170,7 +558,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean hackers use signed macOS malware to target IT job seekers<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-signed-macos-malware-to-target-it-job-seekers/"> Full Text</a>
@@ -186,7 +574,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Employees Exposed Own Company’s Internal Logins<a href="https://www.vice.com/en/article/m7gb43/microsoft-employees-exposed-login-credentials-azure-github?&web_view=true"> Full Text</a>
@@ -202,7 +590,7 @@ Vice
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Link Multi-Year Mass Credential Theft Campaign to Chinese Hackers<a href="https://thehackernews.com/2022/08/researchers-link-multi-year-mass.html"> Full Text</a>
@@ -218,7 +606,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixed a new Chrome Zero-Day actively exploited in the wild<a href="https://securityaffairs.co/wordpress/134501/security/google-fifth-chrome-zero-day-exploited.html"> Full Text</a>
@@ -238,7 +626,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious PyPi packages turn Discord into password-stealing malware<a href="https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-turn-discord-into-password-stealing-malware/"> Full Text</a>
@@ -254,7 +642,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Group Targeting Israeli Shipping and Other Key Sectors<a href="https://www.securityweek.com/iranian-group-targeting-israeli-shipping-and-other-key-sectors?&web_view=true"> Full Text</a>
@@ -270,7 +658,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lean Security 101: 3 Tips for Building Your Framework<a href="https://thehackernews.com/2022/08/lean-security-101-3-tips-for-building.html"> Full Text</a>
@@ -286,7 +674,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked APT targets Job Seekers with macOS malware<a href="https://securityaffairs.co/wordpress/134491/malware/north-korea-mac-malware-m1.html"> Full Text</a>
@@ -306,7 +694,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware devs already bypassed Android 13's new security feature<a href="https://www.bleepingcomputer.com/news/security/malware-devs-already-bypassed-android-13s-new-security-feature/"> Full Text</a>
@@ -322,7 +710,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top Five Patch Management & Process Best Practices<a href="https://www.trendmicro.com/en_us/ciso/22/h/patch-management-process-best-practices.html?&web_view=true"> Full Text</a>
@@ -338,7 +726,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Browser Extensions Targeted Over a Million Users So Far This Year<a href="https://thehackernews.com/2022/08/malicious-browser-extensions-targeted.html"> Full Text</a>
@@ -354,7 +742,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ÆPIC Leak is the first CPU flaw able to architecturally disclose sensitive data<a href="https://securityaffairs.co/wordpress/134478/security/aepic-leak-architecturally-flaw.html"> Full Text</a>
@@ -374,7 +762,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixes fifth Chrome zero-day bug exploited this year<a href="https://www.bleepingcomputer.com/news/security/google-fixes-fifth-chrome-zero-day-bug-exploited-this-year/"> Full Text</a>
@@ -390,7 +778,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoom fixed two flaws in macOS App that were disclosed at DEF CON￼<a href="https://securityaffairs.co/wordpress/134468/security/zoom-macos-app-flaws.html"> Full Text</a>
@@ -410,7 +798,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea Hackers Spotted Targeting Job Seekers with macOS Malware<a href="https://thehackernews.com/2022/08/north-korea-hackers-spotted-targeting.html"> Full Text</a>
@@ -426,7 +814,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2022
+August 16, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RubyGems Makes Multi-Factor Authentication Mandatory for Top Package Maintainers<a href="https://thehackernews.com/2022/08/rubygems-makes-multi-factor.html"> Full Text</a>
