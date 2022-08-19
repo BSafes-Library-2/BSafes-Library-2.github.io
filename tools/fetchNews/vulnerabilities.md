@@ -8,6 +8,116 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple security updates fix 2 zero-days used to hack iPhones, Macs<a href="https://www.bleepingcomputer.com/news/security/apple-security-updates-fix-2-zero-days-used-to-hack-iphones-macs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released emergency security updates today to fix two zero-day vulnerabilities previously exploited by attackers to hack iPhones, iPads, or Macs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Analysis Leads to Discovery of Vulnerabilities in 18 Electron Applications<a href="https://www.securityweek.com/security-analysis-leads-discovery-vulnerabilities-18-electron-applications?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The research project targeting Electron apps has been dubbed ElectroVolt and the findings were presented last week at the Black Hat conference. Nearly all of the exploits, many of which involve chaining several flaws, can lead to RCE attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Google Chrome Zero-Day Vulnerability Being Exploited in the Wild<a href="https://thehackernews.com/2022/08/new-google-chrome-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday rolled out patches for Chrome browser for desktops to contain an actively exploited high-severity zero-day flaw in the wild.  Tracked as&nbsp; CVE-2022-2856 , the issue has been described as a case of insufficient validation of untrusted input in&nbsp; Intents . Security researchers Ashley Shen and Christian Resell of Google Threat Analysis Group have been credited with reporting the flaw on July 19, 2022.  As is typically the case, the tech giant has refrained from sharing additional specifics about the shortcoming until a majority of the users are updated. "Google is aware that an exploit for CVE-2022-2856 exists in the wild," it&nbsp; acknowledged &nbsp;in a terse statement.  The latest update further addresses 10 other security flaws, most of which relate to use-after-free bugs in various components such as FedCM, SwiftShader, ANGLE, and Blink, among others. Also fixed is a heap buffer overflow vulnerability in Downloads.   The development marks the fifth zero-day vulnerab
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed a new Chrome Zero-Day actively exploited in the wild<a href="https://securityaffairs.co/wordpress/134501/security/google-fifth-chrome-zero-day-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google addressed a dozen vulnerabilities in the Chrome browser, including the fifth Chrome zero-day flaw exploited this year.
+
+
+
+Google this week released security updates to address a dozen vulnerabilities in its Chrome browser for desktops including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ÆPIC Leak is the first CPU flaw able to&nbsp;architecturally&nbsp;disclose sensitive data<a href="https://securityaffairs.co/wordpress/134478/security/aepic-leak-architecturally-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a new flaw, dubbed ÆPIC, in Intel CPUs that enables attackers to obtain encryption keys and other secret information from the processors.
+
+
+
+The&nbsp;ÆPIC Leak (CVE-2022-21233) is the first architecturally CPU bug that could lead...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes fifth Chrome zero-day bug exploited this year<a href="https://www.bleepingcomputer.com/news/security/google-fixes-fifth-chrome-zero-day-bug-exploited-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released a security update&nbsp;for Chrome browser that addresses close to a dozen&nbsp;vulnerabilities, including a zero-day flaw that is being exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom fixed two flaws in macOS App that were disclosed at DEF CON￼<a href="https://securityaffairs.co/wordpress/134468/security/zoom-macos-app-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoom addressed two high-severity vulnerabilities in its macOS app that were disclosed at the DEF CON conference. 
+
+
+
+Zoom last week released macOS updates to fix two high-severity flaws in its macOS app that were disclosed at the DEF CON conference....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

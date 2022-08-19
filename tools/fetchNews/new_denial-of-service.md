@@ -8,6 +8,38 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google blocked the largest Layer 7 DDoS reported to date<a href="https://securityaffairs.co/wordpress/134542/hacking/google-blocked-largest-ever-https-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced to have blocked the largest ever HTTPs DDoS attack, which reached 46 million requests per second (RPS).
+
+
+
+Google announced to have blocked the largest ever HTTPs DDoS attack that hit one of its Cloud Armor customers. The IT giant revealed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google blocks largest HTTPS DDoS attack 'reported to date'<a href="https://www.bleepingcomputer.com/news/security/google-blocks-largest-https-ddos-attack-reported-to-date/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Google Cloud Armor customer was hit with a distributed denial-of-service (DDoS) attack over the HTTPS protocol that reached 46 million requests per second (RPS), making it the largest ever recorded of its kind.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

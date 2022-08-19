@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Employees Exposed Own Company’s Internal Logins<a href="https://www.vice.com/en/article/m7gb43/microsoft-employees-exposed-login-credentials-azure-github?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft refused to elaborate on what systems the credentials were protecting when asked multiple times by Motherboard. But generally speaking, an attacker may have an opportunity to move on to gain initial access to an internal system.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

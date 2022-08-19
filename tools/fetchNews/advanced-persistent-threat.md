@@ -8,6 +8,42 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked RedAlpha behind multi-year credential theft campaign<a href="https://securityaffairs.co/wordpress/134519/apt/redalpha-china-credential-theft-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked APT group named&nbsp;RedAlpha&nbsp;is behind a long-running mass credential theft campaign aimed at organizations worldwide.
+
+
+
+Recorded Future researchers attributed a long-running mass credential theft campaign to a Chinese nation-state actor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked APT targets Job Seekers with macOS malware<a href="https://securityaffairs.co/wordpress/134491/malware/north-korea-mac-malware-m1.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked Lazarus Group has been observed targeting job seekers with macOS malware working also on Intel and M1 chipsets.
+
+
+
+ESET researchers continue to monitor a cyberespionage campaign, tracked as "Operation In(ter)ception," that has been...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

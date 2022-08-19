@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Penetration Testing or Vulnerability Scanning? What's the Difference?<a href="https://thehackernews.com/2022/08/penetration-testing-or-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pentesting and vulnerability scanning are often confused for the same service. The problem is, business owners often use one when they really need the other. Let's dive in and explain the differences.  People frequently confuse penetration testing and vulnerability scanning, and it's easy to see why. Both look for weaknesses in your IT infrastructure by exploring your systems in the same way an actual hacker would. However, there is a very important distinction between the two - and when each is the better option.  Manual or automated?  Penetration testing is a&nbsp; manual&nbsp; security assessment where cyber security professional attempts to find a way to break into your systems. It's a hands-on, in-depth test to evaluate security controls across a variety of systems, including web application, network and cloud environments. This kind of testing could take several weeks to complete, and due to its complexity and cost, is commonly carried out once a year.  Vulnerability scanning,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Link Multi-Year Mass Credential Theft Campaign to Chinese Hackers<a href="https://thehackernews.com/2022/08/researchers-link-multi-year-mass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese state-sponsored threat activity group named RedAlpha  has been attributed to a multi-year mass credential theft campaign aimed at global humanitarian, think tank, and government organizations.  "In this activity, RedAlpha very likely sought to gain access to email accounts and other online communications of targeted individuals and organizations," Recorded Future&nbsp; disclosed &nbsp;in a new report.&nbsp;  A lesser-known threat actor, RedAlpha was first&nbsp; documented &nbsp;by Citizen Lab in January 2018 and has a history of conducting cyber espionage and surveillance operations directed against the Tibetan community, some in India, to facilitate intelligence collection through the deployment of the NjRAT backdoor .   "The campaigns [...] combine light reconnaissance, selective targeting, and diverse malicious tooling," Recorded Future&nbsp; noted &nbsp;at the time.  Since then, malicious activities undertaken by the group have involved weaponizing as many as 350 domains that spoof leg
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea Hackers Spotted Targeting Job Seekers with macOS Malware<a href="https://thehackernews.com/2022/08/north-korea-hackers-spotted-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-backed Lazarus Group has been observed targeting job seekers with malware capable of executing on Apple Macs with Intel and M1 chipsets.  Slovak cybersecurity firm ESET linked it to a campaign dubbed " Operation In(ter)ception " that was first disclosed in June 2020 and involved using social engineering tactics to trick employees working in the aerospace and military sectors into opening decoy job offer documents.  The latest attack is no different in that a job description for the Coinbase cryptocurrency exchange platform was used as a launchpad to drop a signed Mach-O executable. ESET's analysis comes from a sample of the binary that was uploaded to VirusTotal from Brazil on August 11, 2022.   "Malware is compiled for both Intel and Apple Silicon," the company&nbsp; said &nbsp;in a series of tweets. "It drops three files: a decoy PDF document ' Coinbase_online_careers_2022_07.pdf ', a bundle&nbsp; 'FinderFontsUpdater.app ,' and a downloa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

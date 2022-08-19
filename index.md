@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit claims ransomware attack on security giant Entrust<a href="https://www.bleepingcomputer.com/news/security/lockbit-claims-ransomware-attack-on-security-giant-entrust/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Cyber Attacks on Ukraine driven by Government Groups<a href="https://www.techtarget.com/searchsecurity/news/252523950/Russian-cyber-attacks-on-Ukraine-driven-by-government-groups?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detail Evasive DarkTortilla Crypter Used to Deliver Malware<a href="https://thehackernews.com/2022/08/researchers-detail-evasive-darktortilla.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Safari 15.6.1 addresses a zero-day flaw actively exploited in the wild<a href="https://securityaffairs.co/wordpress/134553/security/safari-15-6-1-fixes-zero-day.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple releases Safari 15.6.1 to fix zero-day bug used in attacks<a href="https://www.bleepingcomputer.com/news/security/apple-releases-safari-1561-to-fix-zero-day-bug-used-in-attacks/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 81% of Malware Seen on USB Drives in Industrial Facilities Can Disrupt ICS: Honeywell<a href="https://www.securityweek.com/81-malware-seen-usb-drives-industrial-facilities-can-disrupt-ics-honeywell?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-backed APT41 Hackers Targeted 13 Organisations Worldwide Last Year<a href="https://thehackernews.com/2022/08/china-backed-apt41-hackers-targeted-13.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google blocked the largest Layer 7 DDoS reported to date<a href="https://securityaffairs.co/wordpress/134542/hacking/google-blocked-largest-ever-https-ddos.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android malware apps with 2 million installs found on Google Play<a href="https://www.bleepingcomputer.com/news/security/android-malware-apps-with-2-million-installs-found-on-google-play/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT41 Group: 4 Malicious Campaigns, 13 Victims, New Tools and Techniques<a href="https://www.helpnetsecurity.com/2022/08/18/apt41-group/?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Bumblebee Loader to Compromise Active Directory Services<a href="https://thehackernews.com/2022/08/hackers-using-bumblebee-loader-to.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackByte ransomware v2 is out with new extortion novelties<a href="https://securityaffairs.co/wordpress/134531/cyber-crime/blackbyte-ransomware-v2.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Janet Jackson's music video is now a vulnerability for crashing hard disks<a href="https://www.bleepingcomputer.com/news/security/janet-jacksons-music-video-is-now-a-vulnerability-for-crashing-hard-disks/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Majority of Americans Have Been Targeted by Online Scammers<a href="https://blog.avast.com/majority-americans-targeted-scammers?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Avast
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Penetration Testing or Vulnerability Scanning? What's the Difference?<a href="https://thehackernews.com/2022/08/penetration-testing-or-vulnerability.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixed two new zero-day flaws exploited by threat actors<a href="https://securityaffairs.co/wordpress/134527/security/apple-zero-day-flaws-2.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google blocks largest HTTPS DDoS attack 'reported to date'<a href="https://www.bleepingcomputer.com/news/security/google-blocks-largest-https-ddos-attack-reported-to-date/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fugitive Arrested After 3 Years on Charges Related to BEC Scheme<a href="https://www.securityweek.com/fugitive-arrested-after-3-years-charges-related-bec-scheme?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC exploit code for critical Realtek RCE flaw released online<a href="https://securityaffairs.co/wordpress/134515/breaking-news/realtek-rce-poc-exploit.html"> Full Text</a>
@@ -358,7 +358,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Winnti hackers split Cobalt Strike into 154 pieces to evade detection<a href="https://www.bleepingcomputer.com/news/security/winnti-hackers-split-cobalt-strike-into-154-pieces-to-evade-detection/"> Full Text</a>
@@ -374,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NOAA Evaluating Multi-factor Authentication for Apps and Devices<a href="https://www.fedscoop.com/noaa-evaluating-multi-factor-authentication-solutions/?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Fed Scoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon fixes Ring Android app flaw exposing camera recordings<a href="https://www.bleepingcomputer.com/news/security/amazon-fixes-ring-android-app-flaw-exposing-camera-recordings/"> Full Text</a>
@@ -406,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2022
+August 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Releases Security Updates to Patch Two New Zero-Day Vulnerabilities<a href="https://thehackernews.com/2022/08/apple-releases-security-updates-to.html"> Full Text</a>

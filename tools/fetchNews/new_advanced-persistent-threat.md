@@ -8,6 +8,48 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-backed APT41 Hackers Targeted 13 Organisations Worldwide Last Year<a href="https://thehackernews.com/2022/08/china-backed-apt41-hackers-targeted-13.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese advanced persistent threat (APT) actor tracked as Winnti (aka APT41) has targeted at least 13 organizations geographically spanning across the U.S, Taiwan, India, Vietnam, and China against the backdrop of four different campaigns in 2021.  "The targeted industries included the public sector, manufacturing, healthcare, logistics, hospitality, education, as well as the media and aviation," cybersecurity firm Group-IB&nbsp; said &nbsp;in a report shared with The Hacker News.   This also included the attack on Air India that came to light in June 2021 as part of a campaign codenamed&nbsp; ColunmTK . The other three campaigns have been assigned the monikers DelayLinkTK, Mute-Pond, and Gentle-Voice based on the domain names used in the attacks.  APT41, also known as Barium, Bronze Atlas, Double Dragon, Wicked Panda, or Winnti, is a&nbsp; prolific &nbsp; Chinese &nbsp; cyber threat group &nbsp;that's known to carry out state-sponsored espionage activity in parallel with financially motivated operati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT41 Group: 4 Malicious Campaigns, 13 Victims, New Tools and Techniques<a href="https://www.helpnetsecurity.com/2022/08/18/apt41-group/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB researchers emphasize that the group usually used certain servers exclusively to host the Cobalt Strike framework, while they exploited others only for active scanning through Acunetix.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winnti hackers split Cobalt Strike into 154 pieces to evade detection<a href="https://www.bleepingcomputer.com/news/security/winnti-hackers-split-cobalt-strike-into-154-pieces-to-evade-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​The Chinese Winnti hacking group, also known as 'APT41' or 'Wicked Spider,' targeted at least 80 organizations last year and successfully breached the networks of at least thirteen.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

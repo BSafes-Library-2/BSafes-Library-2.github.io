@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte ransomware v2 is out with new extortion novelties<a href="https://securityaffairs.co/wordpress/134531/cyber-crime/blackbyte-ransomware-v2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the BlackByte ransomware appeared in the threat landscape, version 2.0&nbsp;uses extortion techniques similar to LockBit ones.
+
+
+
+BlackByte ransomware Version 2.0 appeared in the threat landscape after a short break, the latest version has a new data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

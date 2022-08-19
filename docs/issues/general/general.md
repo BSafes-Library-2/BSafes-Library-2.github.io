@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+81% of Malware Seen on USB Drives in Industrial Facilities Can Disrupt ICS: Honeywell<a href="https://www.securityweek.com/81-malware-seen-usb-drives-industrial-facilities-can-disrupt-ics-honeywell?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The percentage of industrial-specific malware has increased to 32%, from 30% in the 2021 report and 11% in the 2020 report. The percentage of malware designed to propagate over USB or to specifically exploit USB for infection has also increased.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Majority of Americans Have Been Targeted by Online Scammers<a href="https://blog.avast.com/majority-americans-targeted-scammers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The best way to avoid falling for a rental scam is to use the smell test: If it smells fishy, it’s probably fishy. Clues like weird grammar, refusing to talk on the phone, and unnecessary demand for money should be seen as suspicious attempts.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NOAA Evaluating Multi-factor Authentication for Apps and Devices<a href="https://www.fedscoop.com/noaa-evaluating-multi-factor-authentication-solutions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NOAA is exploring multi-factor authentication beyond its network as it looks to strengthen cybersecurity in accordance with the federal zero trust strategy, according to its chief information officer.
+</details>
+<div style="text-align: right" markdown="1">
+Fed Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

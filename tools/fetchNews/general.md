@@ -11,6 +11,20 @@ nav_order: 900072
 August 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+RubyGems Makes Multi-Factor Authentication Mandatory for Top Package Maintainers<a href="https://thehackernews.com/2022/08/rubygems-makes-multi-factor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RubyGems, the official package manager for the Ruby programming language, has become the latest platform to mandate multi-factor authentication (MFA) for popular package maintainers, following the footsteps of&nbsp; NPM &nbsp;and&nbsp; PyPI .  To that end, owners of gems with over 180 million total downloads are mandated to turn on MFA effective August 15, 2022.   "Users in this category who do not have MFA enabled on the UI and API or UI and gem sign-in level will not be able to edit their profile on the web, perform privileged actions (i.e. push and yank gems, or add and remove gem owners), or sign in on the command line until they configure MFA," RubyGems&nbsp; noted .  What's more, gem maintainers who cross 165 million cumulative downloads are expected to receive reminders to turn on MFA until the download count touches the 180 million thresholds, at which point it will be made mandatory.  The development is seen as an attempt by package ecosystems to&nbsp; bolster the software supply chain
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The Benefits of Making Password Strength More Transparent<a href="https://www.bleepingcomputer.com/news/security/the-benefits-of-making-password-strength-more-transparent/"> Full Text</a>
 </p>
 <details>
