@@ -8,6 +8,56 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in Amazon Ring could expose user’s camera recordings<a href="https://securityaffairs.co/wordpress/134588/hacking/amazon-ring-vulnerability-camera-recordings.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon addressed a high-severity flaw in its Ring app for Android that could have exposed sensitive information and camera recordings.
+
+
+
+In May, Amazon fixed a high-severity vulnerability in its Ring app for Android that could have allowed a malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes High-Severity bug in Secure Web Appliance<a href="https://securityaffairs.co/wordpress/134580/security/cisco-secure-web-appliance-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a high-severity escalation of privilege vulnerability (CVE-2022-20871) in AsyncOS for Cisco Secure Web Appliance.
+
+
+
+Cisco&nbsp;Secure&nbsp;Web&nbsp;Appliance&nbsp;(formerly&nbsp;Secure&nbsp;Web&nbsp;Appliance&nbsp;(WSA)) offers protection...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches Chrome’s Fifth Zero-Day of the Year<a href="https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

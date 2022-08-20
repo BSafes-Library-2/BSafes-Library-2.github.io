@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Bumblebee Loader to Compromise Active Directory Services<a href="https://thehackernews.com/2022/08/hackers-using-bumblebee-loader-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware loader known as Bumblebee is being increasingly co-opted by threat actors associated with BazarLoader, TrickBot, and IcedID in their campaigns to breach target networks for post-exploitation activities.  "Bumblebee operators conduct intensive reconnaissance activities and redirect the output of executed commands to files for exfiltration," Cybereason researchers Meroujan Antonyan and Alon Laufer&nbsp; said &nbsp;in a technical write-up.   Bumblebee &nbsp;first came to light in March 2022 when Google's Threat Analysis Group (TAG) unmasked the activities of an initial access broker dubbed&nbsp; Exotic Lily &nbsp;with ties to the&nbsp; TrickBot &nbsp;and the larger&nbsp; Conti &nbsp;collectives.   Typically delivered via initial access acquired through spear-phishing campaigns, the modus operandi has since been tweaked by eschewing macro-laced documents in favor of ISO and LNK files, primarily in response to Microsoft's decision to&nbsp; block macros by default .   "Distribution of the malware is done
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

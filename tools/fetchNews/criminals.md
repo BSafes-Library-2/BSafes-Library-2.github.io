@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fugitive Arrested After 3 Years on Charges Related to BEC Scheme<a href="https://www.securityweek.com/fugitive-arrested-after-3-years-charges-related-bec-scheme?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using the illegally obtained personal information, conspirators would obtain counterfeit checks on behalf of their victims, along with details on the victims’ bank accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

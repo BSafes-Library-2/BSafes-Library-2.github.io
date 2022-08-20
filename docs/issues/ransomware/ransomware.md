@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - August 19th 2022 - Evolving extortion tactics<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-19th-2022-evolving-extortion-tactics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bringing you the latest ransomware news, including new research, tactics, and cyberattacks. We also saw the return of the BlackByte ransomware operation, who has started to use new extortion tactics.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

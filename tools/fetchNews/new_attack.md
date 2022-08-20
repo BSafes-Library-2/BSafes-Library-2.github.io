@@ -8,6 +8,70 @@ nav_order: 900015
 
 ## Attack
 ---
+August 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Whitworth University Still Recovering from Ransomware Attack<a href="https://www.govtech.com/education/higher-ed/whitworth-university-still-recovering-from-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Whitworth University is taking steps to shore up its cyber defenses following a reported ransomware attack that has left the university's network crippled since late last month.
+</details>
+<div style="text-align: right" markdown="1">
+Government Technology
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bumblebee attacks, from initial access to the compromise of Active Directory Services<a href="https://securityaffairs.co/wordpress/134569/malware/bumblebee-attack-chain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using the Bumblebee loader to compromise Active Directory services as part of post-exploitation activities.
+
+
+
+The&nbsp;Cybereason Global Security Operations Center (GSOC) Team&nbsp;analyzed a cyberattack that involved the&nbsp;Bumblebee...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Vulnerability Exploited in Attacks After Details Disclosed at Hacker Conferences<a href="https://www.securityweek.com/sap-vulnerability-exploited-attacks-after-details-disclosed-hacker-conferences?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SAP vulnerability added to CISA’s list, tracked as CVE-2022-22536, was patched by the vendor in February in NetWeaver Application Server ABAP, NetWeaver Application Server Java, ABAP Platform, Content Server 7.53 and Web Dispatcher.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Estonia blocked cyberattacks claimed by Pro-Russia Killnet group<a href="https://securityaffairs.co/wordpress/134560/cyber-warfare-2/estonia-blocked-cyberattacks-killnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Estonia announced to have blocked a wave of cyber attacks conducted by Russian hackers against local institutions.
+
+
+
+Undersecretary for Digital Transformation Luukas Ilves announced that Estonia was hit by the most extensive wave of DDoS attacks it has faced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

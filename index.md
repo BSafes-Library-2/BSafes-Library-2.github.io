@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2022
+August 20, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto hackers have stolen nearly $2 billion this year—Here's why it's a growing problem<a href="https://www.cnbc.com/2022/08/19/crypto-hackers-stole-billions-why-its-a-growing-problem.html?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ CNBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2022
+August 20, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean hacker group Lazarus targeting Mac users with fake job ads<a href="https://www.independent.co.uk/news/world/americas/crime/north-korean-lazarus-hackers-mac-b2148846.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Independent
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2022
+August 20, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns of Proxies and Configurations Used in Credential Stuffing Attacks<a href="https://www.securityweek.com/fbi-warns-proxies-and-configurations-used-credential-stuffing-attacks?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2022
+August 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Whitworth University Still Recovering from Ransomware Attack<a href="https://www.govtech.com/education/higher-ed/whitworth-university-still-recovering-from-ransomware-attack?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Government Technology
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2022
+August 20, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok Browser Can Track Users’ Keystrokes, According to New Research<a href="https://www.nytimes.com/2022/08/19/technology/tiktok-browser-tracking.html?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - August 19th 2022 - Evolving extortion tactics<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-19th-2022-evolving-extortion-tactics/"> Full Text</a>
@@ -130,7 +130,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoNot Team Hackers Updated its Malware Toolkit with Improved Capabilities<a href="https://thehackernews.com/2022/08/donot-team-hackers-updated-its-malware.html"> Full Text</a>
@@ -146,7 +146,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Cozy Bear uses evasive techniques to target Microsoft 365 users<a href="https://securityaffairs.co/wordpress/134609/apt/cozy-bear-targets-microsoft-365-users.html"> Full Text</a>
@@ -166,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 241 npm and PyPI packages caught dropping Linux cryptominers<a href="https://www.bleepingcomputer.com/news/security/241-npm-and-pypi-packages-caught-dropping-linux-cryptominers/"> Full Text</a>
@@ -182,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrime Group TA558 Targeting Hospitality, Hotel, and Travel Organizations<a href="https://thehackernews.com/2022/08/cybercrime-group-ta558-targeting.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA added SAP flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/134603/security/cisa-sap-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Grandoreiro banking malware targets manufacturers in Spain, Mexico<a href="https://www.bleepingcomputer.com/news/security/grandoreiro-banking-malware-targets-manufacturers-in-spain-mexico/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Cloud Blocks Record DDoS attack of 46 Million Requests Per Second<a href="https://thehackernews.com/2022/08/google-cloud-blocks-record-ddos-attack.html"> Full Text</a>
@@ -250,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in Amazon Ring could expose user’s camera recordings<a href="https://securityaffairs.co/wordpress/134588/hacking/amazon-ring-vulnerability-camera-recordings.html"> Full Text</a>
@@ -270,7 +270,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New tool checks if a mobile app's browser is a privacy risk<a href="https://www.bleepingcomputer.com/news/security/new-tool-checks-if-a-mobile-apps-browser-is-a-privacy-risk/"> Full Text</a>
@@ -286,7 +286,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Amazon Ring Vulnerability Could Have Exposed All Your Camera Recordings<a href="https://thehackernews.com/2022/08/new-amazon-ring-vulnerability-could.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes High-Severity bug in Secure Web Appliance<a href="https://securityaffairs.co/wordpress/134580/security/cisco-secure-web-appliance-flaw.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds 7 vulnerabilities to list of bugs exploited by hackers<a href="https://www.bleepingcomputer.com/news/security/cisa-adds-7-vulnerabilities-to-list-of-bugs-exploited-by-hackers/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bumblebee attacks, from initial access to the compromise of Active Directory Services<a href="https://securityaffairs.co/wordpress/134569/malware/bumblebee-attack-chain.html"> Full Text</a>
@@ -358,7 +358,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian APT29 hackers abuse Azure services to hack Microsoft 365 users<a href="https://www.bleepingcomputer.com/news/security/russian-apt29-hackers-abuse-azure-services-to-hack-microsoft-365-users/"> Full Text</a>
@@ -374,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP Vulnerability Exploited in Attacks After Details Disclosed at Hacker Conferences<a href="https://www.securityweek.com/sap-vulnerability-exploited-attacks-after-details-disclosed-hacker-conferences?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Estonia blocked cyberattacks claimed by Pro-Russia Killnet group<a href="https://securityaffairs.co/wordpress/134560/cyber-warfare-2/estonia-blocked-cyberattacks-killnet.html"> Full Text</a>
@@ -410,7 +410,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spyware Hunters Are Expanding Their Toolset<a href="https://www.wired.com/story/spyware-hunting-tools-mac-pc-black-hat/?&web_view=true"> Full Text</a>
@@ -426,7 +426,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 S. Korea, US Agree to Upgrade Cyber Cooperation, Regularize Cyber Exercises<a href="https://www.koreaherald.com/view.php?ud=20220818000752&web_view=true"> Full Text</a>
@@ -442,7 +442,7 @@ Korea Herald
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Patches Chrome’s Fifth Zero-Day of the Year<a href="https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/"> Full Text</a>

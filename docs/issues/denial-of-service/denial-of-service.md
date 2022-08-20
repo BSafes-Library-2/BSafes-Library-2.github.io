@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+August 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Cloud Blocks Record DDoS attack of 46 Million Requests Per Second<a href="https://thehackernews.com/2022/08/google-cloud-blocks-record-ddos-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's cloud division on Thursday disclosed it mitigated a series of HTTPS distributed denial-of-service (DDoS) attacks which peaked at 46 million requests per second (RPS), making it the largest such recorded to date.  The attack, which occurred on June 1, targeting an unnamed Google Cloud Armor customer, is 76% larger than the&nbsp; 26 million RPS DDoS attack &nbsp;repealed by Cloudflare earlier this June.   "To give a sense of the scale of the attack, that is like receiving all the daily requests to Wikipedia (one of the top 10 trafficked websites in the world) in just 10 seconds," Google Cloud's Emil Kiner and Satya Konduru&nbsp; said .  It's said to have started around 9:45 a.m. PT with 10,000 RPS, before growing to 100,000 RPS eight minutes later and further ramping up within two minutes to hit a high of 46 million RPS at 10:18 a.m. PT. In all, the DDoS assault lasted for a total of 69 minutes.   Google said that the unexpectedly high volume of traffic originated from 5
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

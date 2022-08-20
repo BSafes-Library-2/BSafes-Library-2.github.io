@@ -8,6 +8,116 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Safari 15.6.1 addresses a zero-day flaw actively exploited in the wild<a href="https://securityaffairs.co/wordpress/134553/security/safari-15-6-1-fixes-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released Safari 15.6.1 for macOS Big Sur and Catalina to address a zero-day vulnerability actively exploited in the wild.
+
+
+
+Safari 15.6.1 for macOS Big Sur and Catalina addressed an actively exploited zero-day vulnerability tracked as CVE-2022-32893....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple releases Safari 15.6.1 to fix zero-day bug used in attacks<a href="https://www.bleepingcomputer.com/news/security/apple-releases-safari-1561-to-fix-zero-day-bug-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released Safari 15.6.1 for macOS Big Sur and Catalina to fix a zero-day vulnerability exploited in the wild to hack Macs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Janet Jackson's music video is now a vulnerability for crashing hard disks<a href="https://www.bleepingcomputer.com/news/security/janet-jacksons-music-video-is-now-a-vulnerability-for-crashing-hard-disks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Janet Jackson's Rhythm Nation music video of 1989 has officially been declared a security vulnerability as it freezes some models of hard drives on older computers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple&nbsp;fixed two new zero-day flaws exploited by threat actors<a href="https://securityaffairs.co/wordpress/134527/security/apple-zero-day-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple addressed two zero-day vulnerabilities, exploited by threat actors, affecting iOS, iPadOS, and&nbsp;macOS&nbsp;devices.
+
+
+
+Apple this week released security updates for&nbsp;iOS, iPadOS, and&nbsp;macOS&nbsp;platforms to address two zero-day vulnerabilities exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC exploit code for critical Realtek RCE flaw released online<a href="https://securityaffairs.co/wordpress/134515/breaking-news/realtek-rce-poc-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploit code for a critical vulnerability affecting networking devices using Realtek RTL819x system on a chip released online.
+
+
+
+The PoC exploit code for a critical stack-based buffer overflow issue, tracked as CVE-2022-27255 (CVSS 9.8), affecting networking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon fixes Ring Android app flaw exposing camera recordings<a href="https://www.bleepingcomputer.com/news/security/amazon-fixes-ring-android-app-flaw-exposing-camera-recordings/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon has fixed a high-severity vulnerability in the Amazon Ring app for Android that could have allowed hackers to download customers' saved camera recordings.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases Security Updates to Patch Two New Zero-Day Vulnerabilities<a href="https://thehackernews.com/2022/08/apple-releases-security-updates-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Wednesday released security updates for&nbsp; iOS, iPadOS , and&nbsp; macOS &nbsp;platforms to remediate two zero-day vulnerabilities previously exploited by threat actors to compromise its devices.  The list of issues is below -   CVE-2022-32893 &nbsp;- An out-of-bounds issue in WebKit which could lead to the execution of arbitrary code by processing a specially crafted web content  CVE-2022-32894 &nbsp;- An out-of-bounds issue in the operating system's Kernel that could be abused by a malicious application to execute arbitrary code with the highest privileges   Apple said it addressed both the issues with improved bounds checking, adding it's aware the vulnerabilities "may have been actively exploited."  The company did not disclose any additional information regarding these attacks or the identities of the threat actors perpetrating them, although it's likely that they were abused as part of highly-targeted intrusions.   The latest update brings the total number of zero-days
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

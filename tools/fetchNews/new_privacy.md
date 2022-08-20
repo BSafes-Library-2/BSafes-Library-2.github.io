@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+August 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Browser Can Track Users’ Keystrokes, According to New Research<a href="https://www.nytimes.com/2022/08/19/technology/tiktok-browser-tracking.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The web browser used within the TikTok app can track every keystroke made by its users, according to new research that is surfacing as the Chinese-owned video app grapples with U.S. lawmakers’ concerns over its data practices.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Amazon Ring Vulnerability Could Have Exposed All Your Camera Recordings<a href="https://thehackernews.com/2022/08/new-amazon-ring-vulnerability-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Retail giant Amazon patched a high-severity security issue in its Ring app for Android in May that could have enabled a rogue application installed on a user's device to access sensitive information and camera recordings.  The Ring app for Android has over 10 million downloads and enables users to monitor video feeds from smart home devices such as video doorbells, security cameras, and alarm systems. Amazon acquired the doorbell maker for about $1 billion in 2018.  Application security firm Checkmarx&nbsp; explained &nbsp;it identified a cross-site scripting (XSS) flaw that it said could be weaponized as part of an attack chain to trick victims into installing a malicious app.   The app can then be used to get hold of the user's Authorization Token, that can be subsequently leveraged to extract the session cookie by sending this information alongside the device's hardware ID, which is also encoded in the token, to the endpoint "ring[.]com/mobile/authorize."  Armed with th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
