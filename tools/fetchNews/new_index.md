@@ -34,7 +34,283 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An encrypted ZIP file can have two correct passwords — here's why<a href="https://www.bleepingcomputer.com/news/security/an-encrypted-zip-file-can-have-two-correct-passwords-heres-why/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password-protected ZIP archives are common means of compressing and sharing sets of files—from sensitive documents to malware samples to even malware (phishing "invoices" in emails). But, did you know it is possible for an encrypted ZIP file to have two correct passwords, with both producing the same outcome on extraction?
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake DDoS protection pages on compromised WordPress sites lead to malware infections<a href="https://securityaffairs.co/wordpress/134686/hacking/fake-ddos-protection-pages-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors compromise WordPress sites to display fake Cloudflare DDoS protection pages to distribute malware.
+
+
+
+DDoS Protection pages are associated with browser checks performed by WAF/CDN services which verify if the site visitor is a human or a bot.
+
+
+
+Recently...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target hotel and travel companies with fake reservations<a href="https://www.bleepingcomputer.com/news/security/hackers-target-hotel-and-travel-companies-with-fake-reservations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker tracked as TA558 has upped their activity this year, running phishing campaigns that target multiple hotels and firms in the hospitality and travel space.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are stealing funds from General Bytes Bitcoin ATM<a href="https://securityaffairs.co/wordpress/134664/hacking/general-bytes-bitcoin-atm-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have exploited a zero-day vulnerability in the General Bytes Bitcoin ATM servers to steal BTC from multiple customers. 
+
+
+
+Threat actors have exploited a zero-day flaw in General Bytes Bitcoin ATM servers that allowed them to hijack transactions...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Grandoreiro banking malware targets Mexico and Spain<a href="https://securityaffairs.co/wordpress/134651/cyber-crime/grandoreiro-targest-mexico-spain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Grandoreiro banking malware campaign is targeting organizations in Mexico and Spain, Zscaler reported.
+
+
+
+Zscaler ThreatLabz researchers observed a Grandoreiro banking malware campaign targeting organizations in the Spanish-speaking nations of Mexico...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White hat hackers broadcasted talks and hacker movies through a decommissioned satellite<a href="https://securityaffairs.co/wordpress/134637/hacking/hackers-take-control-decommissioned-satellite.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers took control of a decommissioned satellite and broadcasted hacking conference talks and hacker movies. 
+
+
+
+During the latest edition of the DEF CON hacking conference held in Las Vegas, the group of white hat hackers Shadytel demonstrated how to take...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Grandoreiro Banking Malware Campaign Targeting Spanish Manufacturers<a href="https://thehackernews.com/2022/08/new-grandoreiro-banking-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations in the Spanish-speaking nations of Mexico and Spain are in the crosshairs of a new campaign designed to deliver the  Grandoreiro  banking trojan.   "In this campaign, the threat actors impersonate government officials from the Attorney General's Office of Mexico City and from the Public Ministry in the form of spear-phishing emails in order to lure victims to download and execute 'Grandoreiro,' a prolific banking trojan that has been active since at least 2016, and that specifically targets users in Latin America," Zscaler  said  in a report.  The ongoing attacks, which commenced in June 2022, have been observed to target automotive, civil and industrial construction, logistics, and machinery sectors via multiple infection chains in Mexico and chemicals manufacturing industries in Spain.   Attack chains entail leveraging spear-phishing emails written in Spanish to trick potential victims into clicking on an embedded link that retrieves a ZIP archive
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Become a Cybersecurity Expert with 18 New Online Courses @ 98% OFF<a href="https://thehackernews.com/2022/08/become-cybersecurity-expert-with-18-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With more data stored in the cloud than ever before, now is a good time to  get into cybersecurity . Many top corporations are looking for new talent, and even junior professionals can earn $80,000 or more. The only barrier to entry is education. How do you learn about security protocols and white hat hacking?  Enter the  All-In-One 2022 Super-Sized Ethical Hacking Bundle . This collection of 18 courses provides the perfect launchpad for your new career, and readers of The Hacker News can currently grab it at a massive discount.  Reader Offer —  This collection of 18 courses is worth $3,284. But for a limited time, you can get lifetime access to all the training  for only $42.99 !  Knowledge is everything in the world of cybersecurity. The more skills you acquire, the more doors will open within the industry.   This bundle helps you fill your résumé, with 1,686 individual tutorials covering a wide range of topics. You don't need any technical background in order to take the course
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal crypto from Bitcoin ATMs by exploiting zero-day bug<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-crypto-from-bitcoin-atms-by-exploiting-zero-day-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have exploited a zero-day vulnerability in General Bytes Bitcoin ATM servers to steal cryptocurrency from customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds 7 New Actively Exploited Vulnerabilities to Catalog<a href="https://thehackernews.com/2022/08/cisa-adds-7-new-actively-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday moved to add a  critical SAP security flaw  to its  Known Exploited Vulnerabilities Catalog , based on evidence of active exploitation.  The issue in question is  CVE-2022-22536 , which has received the highest possible risk score of 10.0 on the CVSS vulnerability scoring system and was addressed by SAP as part of its Patch Tuesday updates for February 2022.   Described as an HTTP request smuggling vulnerability, the shortcoming impacts the following product versions -   SAP Web Dispatcher (Versions - 7.49, 7.53, 7.77, 7.81, 7.85, 7.22EXT, 7.86, 7.87)  SAP Content Server (Version - 7.53)  SAP NetWeaver and ABAP Platform (Versions - KERNEL 7.22, 8.04, 7.49, 7.53, 7.77, 7.81, 7.85, 7.86, 7.87, KRNL64UC 8.04, 7.22, 7.22EXT, 7.49, 7.53, KRNL64NUC 7.22, 7.22EXT, 7.49)   "An unauthenticated attacker can prepend a victim's request with arbitrary data, allowing for function execution impersonating the victim
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress sites hacked with fake Cloudflare DDoS alerts pushing malware<a href="https://www.bleepingcomputer.com/news/security/wordpress-sites-hacked-with-fake-cloudflare-ddos-alerts-pushing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress sites are being hacked to display fake Cloudflare DDoS protection pages to distribute malware that installs the NetSupport RAT and the RaccoonStealer password-stealing Trojan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia's 'Oculus' to use AI to scan sites for banned information<a href="https://www.bleepingcomputer.com/news/security/russias-oculus-to-use-ai-to-scan-sites-for-banned-information/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia's internet watchdog Roskomnadzor is developing a neural network that will use artificial intelligence to scan websites for prohibited information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 380<a href="https://securityaffairs.co/wordpress/134646/breaking-news/security-affairs-newsletter-round-380.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+CISA...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA added 7 new flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/134633/hacking/cisa-7-news-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added 7 new flaws to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) this week added seven new flaws to its Known Exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA558 cybercrime group targets hospitality and travel orgs<a href="https://securityaffairs.co/wordpress/134622/cyber-crime/ta558-targets-hospitality-travel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA558 cybercrime group is behind a malware campaign targeting hospitality, hotel, and travel organizations in Latin America
+
+
+
+Researchers from Proofpoint are monitoring a malware campaign conducted by a cybercrime group,  tracked as TA558, that is targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto hackers have stolen nearly $2 billion this year—Here's why it's a growing problem<a href="https://www.cnbc.com/2022/08/19/crypto-hackers-stole-billions-why-its-a-growing-problem.html?&web_view=true"> Full Text</a>
@@ -50,7 +326,7 @@ CNBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2022
+August 20, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean hacker group Lazarus targeting Mac users with fake job ads<a href="https://www.independent.co.uk/news/world/americas/crime/north-korean-lazarus-hackers-mac-b2148846.html?&web_view=true"> Full Text</a>
@@ -66,7 +342,7 @@ Independent
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2022
+August 20, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns of Proxies and Configurations Used in Credential Stuffing Attacks<a href="https://www.securityweek.com/fbi-warns-proxies-and-configurations-used-credential-stuffing-attacks?&web_view=true"> Full Text</a>
@@ -82,7 +358,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2022
+August 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Whitworth University Still Recovering from Ransomware Attack<a href="https://www.govtech.com/education/higher-ed/whitworth-university-still-recovering-from-ransomware-attack?&web_view=true"> Full Text</a>
@@ -98,7 +374,7 @@ Government Technology
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2022
+August 20, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok Browser Can Track Users’ Keystrokes, According to New Research<a href="https://www.nytimes.com/2022/08/19/technology/tiktok-browser-tracking.html?&web_view=true"> Full Text</a>
@@ -114,7 +390,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - August 19th 2022 - Evolving extortion tactics<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-19th-2022-evolving-extortion-tactics/"> Full Text</a>
@@ -130,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoNot Team Hackers Updated its Malware Toolkit with Improved Capabilities<a href="https://thehackernews.com/2022/08/donot-team-hackers-updated-its-malware.html"> Full Text</a>
@@ -146,7 +422,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Cozy Bear uses evasive techniques to target Microsoft 365 users<a href="https://securityaffairs.co/wordpress/134609/apt/cozy-bear-targets-microsoft-365-users.html"> Full Text</a>
@@ -166,7 +442,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 241 npm and PyPI packages caught dropping Linux cryptominers<a href="https://www.bleepingcomputer.com/news/security/241-npm-and-pypi-packages-caught-dropping-linux-cryptominers/"> Full Text</a>
@@ -182,7 +458,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrime Group TA558 Targeting Hospitality, Hotel, and Travel Organizations<a href="https://thehackernews.com/2022/08/cybercrime-group-ta558-targeting.html"> Full Text</a>
@@ -198,7 +474,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA added SAP flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/134603/security/cisa-sap-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -218,7 +494,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Grandoreiro banking malware targets manufacturers in Spain, Mexico<a href="https://www.bleepingcomputer.com/news/security/grandoreiro-banking-malware-targets-manufacturers-in-spain-mexico/"> Full Text</a>
@@ -234,7 +510,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Cloud Blocks Record DDoS attack of 46 Million Requests Per Second<a href="https://thehackernews.com/2022/08/google-cloud-blocks-record-ddos-attack.html"> Full Text</a>
@@ -250,7 +526,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in Amazon Ring could expose user’s camera recordings<a href="https://securityaffairs.co/wordpress/134588/hacking/amazon-ring-vulnerability-camera-recordings.html"> Full Text</a>
@@ -270,7 +546,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New tool checks if a mobile app's browser is a privacy risk<a href="https://www.bleepingcomputer.com/news/security/new-tool-checks-if-a-mobile-apps-browser-is-a-privacy-risk/"> Full Text</a>
@@ -286,7 +562,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Amazon Ring Vulnerability Could Have Exposed All Your Camera Recordings<a href="https://thehackernews.com/2022/08/new-amazon-ring-vulnerability-could.html"> Full Text</a>
@@ -302,7 +578,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes High-Severity bug in Secure Web Appliance<a href="https://securityaffairs.co/wordpress/134580/security/cisco-secure-web-appliance-flaw.html"> Full Text</a>
@@ -322,7 +598,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds 7 vulnerabilities to list of bugs exploited by hackers<a href="https://www.bleepingcomputer.com/news/security/cisa-adds-7-vulnerabilities-to-list-of-bugs-exploited-by-hackers/"> Full Text</a>
@@ -338,7 +614,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bumblebee attacks, from initial access to the compromise of Active Directory Services<a href="https://securityaffairs.co/wordpress/134569/malware/bumblebee-attack-chain.html"> Full Text</a>
@@ -358,7 +634,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian APT29 hackers abuse Azure services to hack Microsoft 365 users<a href="https://www.bleepingcomputer.com/news/security/russian-apt29-hackers-abuse-azure-services-to-hack-microsoft-365-users/"> Full Text</a>
@@ -374,7 +650,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP Vulnerability Exploited in Attacks After Details Disclosed at Hacker Conferences<a href="https://www.securityweek.com/sap-vulnerability-exploited-attacks-after-details-disclosed-hacker-conferences?&web_view=true"> Full Text</a>
@@ -390,7 +666,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Estonia blocked cyberattacks claimed by Pro-Russia Killnet group<a href="https://securityaffairs.co/wordpress/134560/cyber-warfare-2/estonia-blocked-cyberattacks-killnet.html"> Full Text</a>
@@ -410,7 +686,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spyware Hunters Are Expanding Their Toolset<a href="https://www.wired.com/story/spyware-hunting-tools-mac-pc-black-hat/?&web_view=true"> Full Text</a>
@@ -426,7 +702,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
+August 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 S. Korea, US Agree to Upgrade Cyber Cooperation, Regularize Cyber Exercises<a href="https://www.koreaherald.com/view.php?ud=20220818000752&web_view=true"> Full Text</a>
@@ -442,7 +718,7 @@ Korea Herald
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2022
+August 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Patches Chrome’s Fifth Zero-Day of the Year<a href="https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/"> Full Text</a>
