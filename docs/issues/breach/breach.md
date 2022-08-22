@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+August 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress sites hacked with fake Cloudflare DDoS alerts pushing malware<a href="https://www.bleepingcomputer.com/news/security/wordpress-sites-hacked-with-fake-cloudflare-ddos-alerts-pushing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress sites are being hacked to display fake Cloudflare DDoS&nbsp;protection pages to distribute malware that installs the NetSupport RAT and the RaccoonStealer&nbsp;password-stealing Trojan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

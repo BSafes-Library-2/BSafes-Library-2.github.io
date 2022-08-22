@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+August 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An encrypted ZIP file can have two correct passwords — here's why<a href="https://www.bleepingcomputer.com/news/security/an-encrypted-zip-file-can-have-two-correct-passwords-heres-why/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password-protected ZIP archives are common means of compressing and&nbsp;sharing sets of files—from sensitive documents to malware samples to even malware (phishing "invoices" in emails). But, did you know it is possible for an encrypted ZIP file to have two correct passwords, with both producing the same outcome on extraction?
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Become a Cybersecurity Expert with 18 New Online Courses @ 98% OFF<a href="https://thehackernews.com/2022/08/become-cybersecurity-expert-with-18-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With more data stored in the cloud than ever before, now is a good time to&nbsp; get into cybersecurity . Many top corporations are looking for new talent, and even junior professionals can earn $80,000 or more. The only barrier to entry is education. How do you learn about security protocols and white hat hacking?  Enter the&nbsp; All-In-One 2022 Super-Sized Ethical Hacking Bundle . This collection of 18 courses provides the perfect launchpad for your new career, and readers of The Hacker News can currently grab it at a massive discount.  Reader Offer — &nbsp;This collection of 18 courses is worth $3,284. But for a limited time, you can get lifetime access to all the training&nbsp; for only $42.99 !  Knowledge is everything in the world of cybersecurity. The more skills you acquire, the more doors will open within the industry.&nbsp;  This bundle helps you fill your résumé, with 1,686 individual tutorials covering a wide range of topics. You don't need any technical background in order to take the course
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

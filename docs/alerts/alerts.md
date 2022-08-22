@@ -19,6 +19,18 @@ KNOWN EXPLOITED VULNERABILITIES CATALOG
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2022 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proxies and Configurations Used for Credential Stuffing Attacks on Online Customer Accounts <a href="https://publications.bsafes.com/docs/fbi/pin-2022-08-18-001-proxies-and-configurations-used-for-credential-stuffing-attacks-on-online-customer-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is highlighting significant details about proxies and configurations used by cyber criminals to mask and automate credential stuffing attacks on US companies, resulting in financial losses associated with fraudulent purchases, customer notifications, system downtime and remediation, as well as reputational damage. Credential stuffing attacks, commonly referred to as account cracking, apply valid username and password combinations, also known as user credentials or “combo lists”, from previously compromised online resources or data leaks.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 13, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,28 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake DDoS protection pages on compromised WordPress sites lead to malware infections<a href="https://securityaffairs.co/wordpress/134686/hacking/fake-ddos-protection-pages-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors compromise WordPress sites to display fake Cloudflare DDoS&nbsp;protection pages to distribute malware.
+
+
+
+DDoS Protection pages are associated with browser checks performed by WAF/CDN services which verify if the site visitor is a human or a bot.
+
+
+
+Recently...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

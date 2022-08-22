@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto hackers have stolen nearly $2 billion this year—Here's why it's a growing problem<a href="https://www.cnbc.com/2022/08/19/crypto-hackers-stole-billions-why-its-a-growing-problem.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per a report by Chainalysis, cybercriminals have already stolen nearly $2 billion worth of cryptocurrency in 2022 which is a spike of nearly 60% compared to a year ago.
+</details>
+<div style="text-align: right" markdown="1">
+CNBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Group TA558 Targeting Hospitality, Hotel, and Travel Organizations<a href="https://thehackernews.com/2022/08/cybercrime-group-ta558-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated cybercrime group has been linked to an ongoing wave of attacks aimed at hospitality, hotel, and travel organizations in Latin America with the goal of installing malware on compromised systems.  Enterprise security firm Proofpoint, which is tracking the group under the name TA558 dating all the way back to April 2018, called it a "small crime threat actor."  "Since 2018, this group has used consistent tactics, techniques, and procedures to attempt to install a variety of malware including Loda RAT, Vjw0rm, and Revenge RAT," the company's threat research team&nbsp; said &nbsp;in a new report.  The group has been operational at a higher tempo in 2022 than usual, with intrusions mainly geared towards Portuguese and Spanish speakers in Latin America, and to a lesser extent in Western Europe and North America.   Phishing campaigns mounted by the group involve sending malicious spam messages with reservation-themed lures such as hotel bookings that cont
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

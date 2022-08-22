@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hacker group Lazarus targeting Mac users with fake job ads<a href="https://www.independent.co.uk/news/world/americas/crime/north-korean-lazarus-hackers-mac-b2148846.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware in the messages uses three files to compromise computers — a decoy PDF to make users think they've downloaded a legitimate attachment, a fake "font updater" app, and a downloader labeled "safarifontagent”.
+</details>
+<div style="text-align: right" markdown="1">
+Independent
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoNot Team Hackers Updated its Malware Toolkit with Improved Capabilities<a href="https://thehackernews.com/2022/08/donot-team-hackers-updated-its-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Donot Team  threat actor has updated its Jaca  Windows malware toolkit with improved capabilities, including a revamped stealer module designed to plunder information from Google Chrome and Mozilla Firefox browsers.  The improvements also include a new infection chain that incorporates previously undocumented components to the modular framework, Morphisec researchers Hido Cohen and Arnold Osipov&nbsp; disclosed &nbsp;in a report published last week.  Also known as APT-C-35 and Viceroy Tiger, the Donot Team is known for setting its sights on defense, diplomatic, government, and military entities in India, Pakistan, Sri Lanka, and Bangladesh, among others at least since 2016.  Evidence unearthed by Amnesty International in October 2021&nbsp; connected &nbsp;the group's attack infrastructure to an Indian cybersecurity company called Innefu Labs.   Spear-phishing campaigns containing malicious Microsoft Office documents are the preferred delivery pathway for malware, followed by taking advantage of m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

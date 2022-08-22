@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Cozy Bear uses evasive techniques to target Microsoft 365 users<a href="https://securityaffairs.co/wordpress/134609/apt/cozy-bear-targets-microsoft-365-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT group Cozy Bear continues to target Microsoft 365 accounts in NATO countries for cyberespionage purposes.
+
+
+
+Mandiant researchers reported that the Russia-linked Cozy Bear cyberespionage group (aka APT29, CozyDuke,&nbsp;and Nobelium),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT29 hackers abuse Azure services to hack Microsoft 365 users<a href="https://www.bleepingcomputer.com/news/security/russian-apt29-hackers-abuse-azure-services-to-hack-microsoft-365-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The state-backed Russian cyberespionage group Cozy Bear has been particularly prolific in 2022, targeting Microsoft 365 accounts in NATO countries and attempting to access foreign policy information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+August 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New tool checks if a mobile app's browser is a privacy risk<a href="https://www.bleepingcomputer.com/news/security/new-tool-checks-if-a-mobile-apps-browser-is-a-privacy-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new online tool&nbsp;named 'InAppBrowser' lets you analyze the behavior of in-app browsers embedded within mobile apps and determine if they inject privacy-threatening JavaScript into websites you visit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spyware Hunters Are Expanding Their Toolset<a href="https://www.wired.com/story/spyware-hunting-tools-mac-pc-black-hat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers specifically announced new detection algorithms based on their findings for the open source memory forensics framework Volatility. Memory forensics was very different five or six years ago.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

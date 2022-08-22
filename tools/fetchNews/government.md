@@ -8,6 +8,66 @@ nav_order: 900075
 
 ## Government
 ---
+August 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Proxies and Configurations Used in Credential Stuffing Attacks<a href="https://www.securityweek.com/fbi-warns-proxies-and-configurations-used-credential-stuffing-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) has raised an alarm for cybercriminals using proxies and configurations to hide and automate credential stuffing attacks against companies in the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA added SAP flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/134603/security/cisa-sap-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added a critical SAP flaw to its Known Exploited Vulnerabilities Catalog after its details were disclosed at the Black Hat and Def Con conferences.
+
+
+
+The US Cybersecurity and Infrastructure Security Agency (CISA) added a critical SAP vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 7 vulnerabilities to list of bugs exploited by hackers<a href="https://www.bleepingcomputer.com/news/security/cisa-adds-7-vulnerabilities-to-list-of-bugs-exploited-by-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added seven vulnerabilities to its list of bugs actively exploited by hackers, with the new flaws disclosed by Apple. Microsoft, SAP, and Google.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+S. Korea, US Agree to Upgrade Cyber Cooperation, Regularize Cyber Exercises<a href="https://www.koreaherald.com/view.php?ud=20220818000752&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Both sides discussed recent cyber threats, countermeasures and ways to develop cyber cooperation between Seoul and Washington. The cyber commands also signed a memorandum of understanding on “cooperation and development in cyberspace operations.
+</details>
+<div style="text-align: right" markdown="1">
+Korea Herald
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target hotel and travel companies with fake reservations<a href="https://www.bleepingcomputer.com/news/security/hackers-target-hotel-and-travel-companies-with-fake-reservations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker tracked as TA558 has upped their activity this year, running phishing campaigns that target multiple hotels and firms in the hospitality and travel space.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White hat hackers broadcasted talks and hacker movies through a decommissioned satellite<a href="https://securityaffairs.co/wordpress/134637/hacking/hackers-take-control-decommissioned-satellite.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers took control of a decommissioned satellite and broadcasted hacking conference talks and hacker movies.&nbsp;
+
+
+
+During the latest edition of the DEF CON hacking conference held in Las Vegas, the group of white hat hackers Shadytel demonstrated how to take...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
