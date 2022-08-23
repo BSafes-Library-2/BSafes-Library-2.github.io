@@ -11,6 +11,20 @@ nav_order: 900031
 August 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers Stole Crypto from Bitcoin ATMs by Exploiting Zero-Day Vulnerability<a href="https://thehackernews.com/2022/08/hackers-stole-crypto-from-bitcoin-atms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitcoin ATM manufacturer General Bytes confirmed that it was a victim of a cyberattack that exploited a previously unknown flaw in its software to plunder cryptocurrency from its users.  "The attacker was able to create an admin user remotely via CAS administrative interface via a URL call on the page that is used for the default installation on the server and creating the first administration user," the company&nbsp; said &nbsp;in an advisory last week. "This vulnerability has been present in CAS software since version 2020-12-08."   It's not immediately clear how many servers were breached using this flaw and how much cryptocurrency was stolen.  CAS is short for&nbsp; Crypto Application Server , a self-hosted product from General Bytes that enables companies to manage Bitcoin ATM ( BATM ) machines from a central location via a web browser on a desktop or a mobile device.  The zero-day flaw, which concerned a bug in the CAS admin interface, has been mitigated in two server p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Threat actors are stealing funds from General Bytes Bitcoin ATM<a href="https://securityaffairs.co/wordpress/134664/hacking/general-bytes-bitcoin-atm-zero-day.html"> Full Text</a>
 </p>
 <details>

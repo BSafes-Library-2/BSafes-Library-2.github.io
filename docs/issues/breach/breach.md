@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+August 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured Meta Pixel exposed healthcare data of 1.3M patients<a href="https://www.bleepingcomputer.com/news/security/misconfigured-meta-pixel-exposed-healthcare-data-of-13m-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. healthcare provider Novant Health has disclosed a data breach impacting 1,362,296 individuals who have had their sensitive information mistakenly collected by the Meta Pixel&nbsp;ad tracking script.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Luxury Textile Company Sferra Discloses Data Breach Affecting Employee Information<a href="https://www.securityweek.com/textile-company-sferra-discloses-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Founded in 1891, Sferra designs and sells Italian-made luxury linen products, including luxury sheets, table linens, and bedding collections, as well as decorative home accessories.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Greek natural gas operator suffers ransomware-related data breach<a href="https://www.bleepingcomputer.com/news/security/greek-natural-gas-operator-suffers-ransomware-related-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Greece's largest natural gas distributor&nbsp;DESFA&nbsp;confirmed on Saturday that they suffered a limited scope data breach and IT system outage following a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Many Media Industry Vendors Slow to Patch Critical Vulnerabilities: Study<a href="https://www.securityweek.com/many-media-industry-vendors-slow-patch-critical-vulnerabilities-study?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybersecurity analysis of hundreds of media industry vendors showed that many companies are slow to patch critical vulnerabilities, according to MDR and third-party risk management provider BlueVoyant.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

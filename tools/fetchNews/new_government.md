@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+August 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA is warning of high-severity PAN-OS DDoS flaw used in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-is-warning-of-high-severity-pan-os-ddos-flaw-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent vulnerability found in Palo Alto Networks' PAN-OS has been added to the catalog of Known Exploitable Vulnerabilities from the U.S. Cybersecurity and Infrastructure Security Agency (CISA).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of residential proxies used in credential stuffing attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-residential-proxies-used-in-credential-stuffing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warns of a rising trend of cybercriminals using residential proxies to conduct large-scale credential stuffing attacks without being tracked, flagged, or blocked.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Cyber Command deploys defensive operators to Croatia to hunt for malicious cyber activity<a href="https://www.helpnetsecurity.com/2022/08/19/u-s-cyber-command-croatia/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“This kind of partnership in cybersecurity is essential in today’s world as it expands our reach and capabilities,” said Director of the Croatian Security and Intelligence Agency Daniel Marki?.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

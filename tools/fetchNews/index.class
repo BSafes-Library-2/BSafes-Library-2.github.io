@@ -34,6 +34,430 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit leak sites hit by mysterious DDoS attack after Entrust hack<a href="https://securityaffairs.co/wordpress/134707/cyber-crime/lockbit-hacked-entrust.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware gang claims to have hacked the IT giant Entrust and started leaking the stolen files.
+
+
+
+Entrust Corp., provides software and hardware used to issue financial cards, e-passport production, user authentication for those looking to access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 80,000 exploitable Hikvision cameras exposed online<a href="https://www.bleepingcomputer.com/news/security/over-80-000-exploitable-hikvision-cameras-exposed-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered over 80,000 Hikvision cameras vulnerable to a critical command injection flaw that's easily exploitable via specially crafted messages sent to the vulnerable web server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Many Media Industry Vendors Slow to Patch Critical Vulnerabilities: Study<a href="https://www.securityweek.com/many-media-industry-vendors-slow-patch-critical-vulnerabilities-study?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybersecurity analysis of hundreds of media industry vendors showed that many companies are slow to patch critical vulnerabilities, according to MDR and third-party risk management provider BlueVoyant.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Counterfeit Phones with Backdoor to Hack WhatsApp Accounts<a href="https://thehackernews.com/2022/08/researchers-find-counterfeit-phones.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Budget Android device models that are counterfeit versions associated with popular smartphone brands are harboring multiple trojans designed to target WhatsApp and WhatsApp Business messaging apps.  The trojans, which Doctor Web first came across in July 2022, were discovered in the system partition of at least four different smartphones: P48pro, radmi note 8, Note30u, and Mate40, was  "These incidents are united by the fact that the attacked devices were copycats of famous brand-name models," the cybersecurity firm  said  in a report published today.  "Moreover, instead of having one of the latest OS versions installed on them with the corresponding information displayed in the device details (for example, Android 10), they had the long outdated 4.4.2 version."   Specifically, the tampering concerns two files "/system/lib/libcutils.so" and "/system/lib/libmtd.so" that are modified in such a manner that when the libcutils.so system library is us
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA is warning of high-severity PAN-OS DDoS flaw used in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-is-warning-of-high-severity-pan-os-ddos-flaw-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent vulnerability found in Palo Alto Networks' PAN-OS has been added to the catalog of Known Exploitable Vulnerabilities from the U.S. Cybersecurity and Infrastructure Security Agency (CISA).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: How we unearthed a critical flaw in ChromeOS, and how Google fixed it<a href="https://www.zdnet.com/article/microsoft-how-we-unearthed-a-critical-flaw-in-chromeos-and-how-google-fixed-it/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ChromeOS is considered secure compared to legacy Windows and MacOS, but Microsoft recently discovered a nasty, remotely exploitable bug in ChromeOS's audio server with a severity score of 9.8 out of 10.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+"As Nasty as Dirty Pipe" — 8 Year Old Linux Kernel Vulnerability Uncovered<a href="https://thehackernews.com/2022/08/as-nasty-as-dirty-pipe-8-year-old-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details of an eight-year-old security vulnerability in the Linux kernel have emerged that the researchers say is "as nasty as Dirty Pipe."  Dubbed  DirtyCred  by a group of academics from Northwestern University, the security weakness exploits a previously unknown flaw ( CVE-2022-2588 ) to escalate privileges to the maximum level.  "DirtyCred is a kernel exploitation concept that swaps unprivileged  kernel credentials  with privileged ones to escalate privilege," researchers Zhenpeng Lin, Yuhang Wu, and Xinyu Xing noted. "Instead of overwriting any critical data fields on kernel heap, DirtyCred abuses the heap memory reuse mechanism to get privileged."   This entails three steps -   Free an in-use unprivileged credential with the vulnerability  Allocate privileged credentials in the freed memory slot by triggering a privileged userspace process such as su, mount, or sshd  Operate as a privileged user   The novel exploitation method, according to the resea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Cybersecurity in Context: A Policy-Oriented Comparative Analysis<a href="https://securityaffairs.co/wordpress/134731/security/european-cybersecurity-in-context.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I'm proud to have contributed to the "European Cybersecurity in Context: A Policy-Oriented Comparative Analysis"
+
+
+
+Worldwide connectivity has unleashed global digitalisation, creating cross-border social networks for communicating and spreading information....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of residential proxies used in credential stuffing attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-residential-proxies-used-in-credential-stuffing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warns of a rising trend of cybercriminals using residential proxies to conduct large-scale credential stuffing attacks without being tracked, flagged, or blocked.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Cyber Command deploys defensive operators to Croatia to hunt for malicious cyber activity<a href="https://www.helpnetsecurity.com/2022/08/19/u-s-cyber-command-croatia/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“This kind of partnership in cybersecurity is essential in today’s world as it expands our reach and capabilities,” said Director of the Croatian Security and Intelligence Agency Daniel Marki?.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meet Borat RAT, a New Unique Triple Threat<a href="https://thehackernews.com/2022/08/meet-borat-rat-new-unique-triple-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlanta-based cyber risk intelligence company, Cyble discovered a new Remote Access Trojan (RAT) malware. What makes this particular RAT malware distinct enough to be named after the  comic creation of Sacha Baron Cohen ?  RAT malware typically helps cybercriminals gain complete control of a victim's system, permitting them to access network resources, files, and power to toggle the mouse and keyboard. Borat RAT malware goes beyond the standard features and enables threat actors to deploy ransomware and  DDoS attacks . It also increases the number of threat actors who can launch attacks, sometimes appealing to the lowest common denominator. The added functionality of carrying out DDoS attacks makes it insidious and a risk to today's digital organizations.  Ransomware has been the most common top attack type for over  three years . According to an IBM report, REvil was the most common ransomware strain, consisting of about  37%  of all ransomware attacks. Borat RAT is a unique
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8-year-old Linux Kernel flaw DirtyCred is nasty as Dirty Pipe<a href="https://securityaffairs.co/wordpress/134719/security/linux-dirtycred-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers shared details of an eight-year-old flaw dubbed DirtyCred, defined as nasty as Dirty Pipe, in the Linux kernel.
+
+
+
+Researchers from Northwestern University (Zhenpeng Lin  |  PhD Student,Yuhang Wu  |  PhD Student, Xinyu Xing  |  Associate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured Meta Pixel exposed healthcare data of 1.3M patients<a href="https://www.bleepingcomputer.com/news/security/misconfigured-meta-pixel-exposed-healthcare-data-of-13m-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. healthcare provider Novant Health has disclosed a data breach impacting 1,362,296 individuals who have had their sensitive information mistakenly collected by the Meta Pixel ad tracking script.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Luxury Textile Company Sferra Discloses Data Breach Affecting Employee Information<a href="https://www.securityweek.com/textile-company-sferra-discloses-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Founded in 1891, Sferra designs and sells Italian-made luxury linen products, including luxury sheets, table linens, and bedding collections, as well as decorative home accessories.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RTLS Systems Found Vulnerable to MiTM Attacks and Location Tampering<a href="https://thehackernews.com/2022/08/rtls-systems-found-vulnerable-to-mitm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed multiple vulnerabilities impacting Ultra-wideband (UWB) Real-time Locating Systems ( RTLS ), enabling threat actors to launch adversary-in-the-middle (AitM) attacks and tamper with location data.  "The zero-days found specifically pose a security risk for workers in industrial environments," cybersecurity firm Nozomi Networks  disclosed  in a technical write-up last week. "If a threat actor exploits these vulnerabilities, they have the ability to tamper with safety zones designated by RTLS to protect workers in hazardous areas."   RTLS is used to automatically identify and track the location of objects or people in real-time, usually within a confined indoor area. This is achieved by making use of tags that are attached to assets, which broadcast USB signals to fixed reference points called anchors that then determine their location.  But flaws identified in RTLS solutions –  Sewio Indoor Tracking RTLS UWB Wi-Fi Kit  and  Avalue Renity Ar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group-IB CEO will remain in jail – complaint denied<a href="https://securityaffairs.co/wordpress/134714/cyber-crime/group-ib-ceo-ramains-jail.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 18, a Russian judge decided that Ilya Sachkov, founder and CEO of the Russian-led Group-IB, will remain in jail.
+
+
+
+Ilya Sachkov, founder and CEO of the Russian-led Group-IB will remain in jail following the judge’s decision on August 18th...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Greek natural gas operator suffers ransomware-related data breach<a href="https://www.bleepingcomputer.com/news/security/greek-natural-gas-operator-suffers-ransomware-related-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Greece's largest natural gas distributor DESFA confirmed on Saturday that they suffered a limited scope data breach and IT system outage following a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TXOne Networks Scores $70M Series B Investment<a href="https://www.securityweek.com/txone-networks-scores-70m-series-b-investment?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company offers security gateways, endpoint agents, and network segmentation solutions designed to help organizations secure, control, and monitor equipment and operational technology (OT).
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Escanor Malware delivered in Weaponized Microsoft Office Documents<a href="https://securityaffairs.co/wordpress/134697/malware/escanor-malware-ms-docs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new RAT (Remote Administration Tool) advertised in Dark Web and Telegram called Escanor
+
+
+
+Resecurity, a Los Angeles-based cybersecurity company protecting Fortune 500 worldwide, identified a new RAT (Remote Administration Tool)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware blames Entrust for DDoS attacks on leak sites<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-blames-entrust-for-ddos-attacks-on-leak-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware operation's data leak sites have been shut down over the weekend due to a DDoS attack telling them to remove Entrust's allegedly stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Escanor malware delivered in weaponized Microsoft Office documents<a href="https://www.helpnetsecurity.com/2022/08/22/escanor-malware-delivered-in-weaponized-microsoft-office-documents/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors offer Android-based and PC-based versions of RAT, along with HVNC module and exploit builder to weaponize Microsoft Office and Adobe PDF documents to deliver malicious code.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Donot Team cyberespionage group updates its Windows malware framework<a href="https://securityaffairs.co/wordpress/134674/apt/donot-team-improves-jaca-framework.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Donot Team threat actor, aka APT-C-35, has added new capabilities to its Jaca Windows malware framework.
+
+
+
+The Donot Team has been active since 2016, it focuses on government and military organizations, ministries of foreign affairs, and embassies...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PayPal Phishing Scam Uses Invoices Sent Via PayPal – Krebs on Security<a href="https://krebsonsecurity.com/2022/08/paypal-phishing-scam-uses-invoices-sent-via-paypal/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the phishing message attached to the invoice is somewhat awkwardly worded, there are many convincing aspects of this hybrid scam. For starters, all of the links in the email lead to paypal.com.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Disk wiping malware knows no borders<a href="https://www.helpnetsecurity.com/2022/08/22/ransomware-threat-more-variants/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet announced the latest semiannual FortiGuard Labs Global Threat Landscape Report which revealed that ransomware threat continues to adapt with more variants enabled by Ransomware-as-a-Service (RaaS).
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Stole Crypto from Bitcoin ATMs by Exploiting Zero-Day Vulnerability<a href="https://thehackernews.com/2022/08/hackers-stole-crypto-from-bitcoin-atms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitcoin ATM manufacturer General Bytes confirmed that it was a victim of a cyberattack that exploited a previously unknown flaw in its software to plunder cryptocurrency from its users.  "The attacker was able to create an admin user remotely via CAS administrative interface via a URL call on the page that is used for the default installation on the server and creating the first administration user," the company  said  in an advisory last week. "This vulnerability has been present in CAS software since version 2020-12-08."   It's not immediately clear how many servers were breached using this flaw and how much cryptocurrency was stolen.  CAS is short for  Crypto Application Server , a self-hosted product from General Bytes that enables companies to manage Bitcoin ATM ( BATM ) machines from a central location via a web browser on a desktop or a mobile device.  The zero-day flaw, which concerned a bug in the CAS admin interface, has been mitigated in two server p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 21, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

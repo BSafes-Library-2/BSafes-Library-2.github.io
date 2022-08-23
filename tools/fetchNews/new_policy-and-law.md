@@ -8,6 +8,42 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Cybersecurity in Context: A Policy-Oriented Comparative Analysis<a href="https://securityaffairs.co/wordpress/134731/security/european-cybersecurity-in-context.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I'm proud to have contributed to the "European Cybersecurity in Context: A Policy-Oriented Comparative Analysis"
+
+
+
+Worldwide connectivity has unleashed global digitalisation, creating cross-border social networks for communicating and spreading information....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group-IB CEO will remain in jail – complaint denied<a href="https://securityaffairs.co/wordpress/134714/cyber-crime/group-ib-ceo-ramains-jail.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 18, a Russian judge decided that Ilya Sachkov, founder and CEO of the Russian-led Group-IB, will remain in jail.
+
+
+
+Ilya Sachkov, founder and CEO of the Russian-led Group-IB will remain in jail following the judge’s decision on August 18th...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

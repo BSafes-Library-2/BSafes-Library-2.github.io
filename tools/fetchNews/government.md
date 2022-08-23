@@ -11,6 +11,38 @@ nav_order: 900075
 August 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds 7 New Actively Exploited Vulnerabilities to Catalog<a href="https://thehackernews.com/2022/08/cisa-adds-7-new-actively-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday moved to add a&nbsp; critical SAP security flaw &nbsp;to its&nbsp; Known Exploited Vulnerabilities Catalog , based on evidence of active exploitation.  The issue in question is&nbsp; CVE-2022-22536 , which has received the highest possible risk score of 10.0 on the CVSS vulnerability scoring system and was addressed by SAP as part of its Patch Tuesday updates for February 2022.   Described as an HTTP request smuggling vulnerability, the shortcoming impacts the following product versions -   SAP Web Dispatcher (Versions - 7.49, 7.53, 7.77, 7.81, 7.85, 7.22EXT, 7.86, 7.87)  SAP Content Server (Version - 7.53)  SAP NetWeaver and ABAP Platform (Versions - KERNEL 7.22, 8.04, 7.49, 7.53, 7.77, 7.81, 7.85, 7.86, 7.87, KRNL64UC 8.04, 7.22, 7.22EXT, 7.49, 7.53, KRNL64NUC 7.22, 7.22EXT, 7.49)   "An unauthenticated attacker can prepend a victim's request with arbitrary data, allowing for function execution impersonating the victim
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA added 7 new flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/134633/hacking/cisa-7-news-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added 7 new flaws to its&nbsp;Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) this week added seven new flaws to its&nbsp;Known Exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns of Proxies and Configurations Used in Credential Stuffing Attacks<a href="https://www.securityweek.com/fbi-warns-proxies-and-configurations-used-credential-stuffing-attacks?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

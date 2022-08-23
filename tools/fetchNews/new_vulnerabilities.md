@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 80,000 exploitable Hikvision cameras exposed online<a href="https://www.bleepingcomputer.com/news/security/over-80-000-exploitable-hikvision-cameras-exposed-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered over 80,000 Hikvision cameras vulnerable to a critical command injection flaw that's easily exploitable via specially crafted messages sent to the vulnerable web server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: How we unearthed a critical flaw in ChromeOS, and how Google fixed it<a href="https://www.zdnet.com/article/microsoft-how-we-unearthed-a-critical-flaw-in-chromeos-and-how-google-fixed-it/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ChromeOS is considered secure compared to legacy Windows and MacOS, but Microsoft recently discovered a nasty, remotely exploitable bug in ChromeOS's audio server with a severity score of 9.8 out of 10.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+"As Nasty as Dirty Pipe" — 8 Year Old Linux Kernel Vulnerability Uncovered<a href="https://thehackernews.com/2022/08/as-nasty-as-dirty-pipe-8-year-old-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details of an eight-year-old security vulnerability in the Linux kernel have emerged that the researchers say is "as nasty as Dirty Pipe."  Dubbed&nbsp; DirtyCred &nbsp;by a group of academics from Northwestern University, the security weakness exploits a previously unknown flaw ( CVE-2022-2588 ) to escalate privileges to the maximum level.  "DirtyCred is a kernel exploitation concept that swaps unprivileged&nbsp; kernel credentials &nbsp;with privileged ones to escalate privilege," researchers Zhenpeng Lin, Yuhang Wu, and Xinyu Xing noted. "Instead of overwriting any critical data fields on kernel heap, DirtyCred abuses the heap memory reuse mechanism to get privileged."   This entails three steps -   Free an in-use unprivileged credential with the vulnerability  Allocate privileged credentials in the freed memory slot by triggering a privileged userspace process such as su, mount, or sshd  Operate as a privileged user   The novel exploitation method, according to the resea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8-year-old Linux Kernel flaw DirtyCred is nasty as Dirty Pipe<a href="https://securityaffairs.co/wordpress/134719/security/linux-dirtycred-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers shared details of an eight-year-old flaw dubbed DirtyCred, defined as nasty as Dirty Pipe, in the Linux kernel.
+
+
+
+Researchers from Northwestern University (Zhenpeng Lin&nbsp;&nbsp;|&nbsp;&nbsp;PhD Student,Yuhang Wu&nbsp;&nbsp;|&nbsp;&nbsp;PhD Student, Xinyu Xing&nbsp;&nbsp;|&nbsp;&nbsp;Associate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RTLS Systems Found Vulnerable to MiTM Attacks and Location Tampering<a href="https://thehackernews.com/2022/08/rtls-systems-found-vulnerable-to-mitm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed multiple vulnerabilities impacting Ultra-wideband (UWB) Real-time Locating Systems ( RTLS ), enabling threat actors to launch adversary-in-the-middle (AitM) attacks and tamper with location data.  "The zero-days found specifically pose a security risk for workers in industrial environments," cybersecurity firm Nozomi Networks&nbsp; disclosed &nbsp;in a technical write-up last week. "If a threat actor exploits these vulnerabilities, they have the ability to tamper with safety zones designated by RTLS to protect workers in hazardous areas."   RTLS is used to automatically identify and track the location of objects or people in real-time, usually within a confined indoor area. This is achieved by making use of tags that are attached to assets, which broadcast USB signals to fixed reference points called anchors that then determine their location.  But flaws identified in RTLS solutions –&nbsp; Sewio Indoor Tracking RTLS UWB Wi-Fi Kit &nbsp;and&nbsp; Avalue Renity Ar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

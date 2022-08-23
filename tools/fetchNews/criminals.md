@@ -8,6 +8,42 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are stealing funds from General Bytes Bitcoin ATM<a href="https://securityaffairs.co/wordpress/134664/hacking/general-bytes-bitcoin-atm-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have exploited a zero-day vulnerability in the General Bytes Bitcoin ATM servers to steal BTC from multiple customers. 
+
+
+
+Threat actors have exploited a zero-day flaw in General Bytes Bitcoin ATM servers that allowed them to hijack transactions...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA558 cybercrime group targets hospitality and travel&nbsp;orgs<a href="https://securityaffairs.co/wordpress/134622/cyber-crime/ta558-targets-hospitality-travel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA558 cybercrime group is behind a malware campaign targeting hospitality, hotel, and travel organizations in Latin America
+
+
+
+Researchers from Proofpoint are monitoring a malware campaign conducted by a cybercrime group,  tracked as TA558, that is targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

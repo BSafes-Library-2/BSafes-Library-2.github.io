@@ -11,6 +11,20 @@ nav_order: 900015
 August 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Grandoreiro Banking Malware Campaign Targeting Spanish Manufacturers<a href="https://thehackernews.com/2022/08/new-grandoreiro-banking-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations in the Spanish-speaking nations of Mexico and Spain are in the crosshairs of a new campaign designed to deliver the&nbsp; Grandoreiro &nbsp;banking trojan.&nbsp;  "In this campaign, the threat actors impersonate government officials from the Attorney General's Office of Mexico City and from the Public Ministry in the form of spear-phishing emails in order to lure victims to download and execute 'Grandoreiro,' a prolific banking trojan that has been active since at least 2016, and that specifically targets users in Latin America," Zscaler&nbsp; said &nbsp;in a report.  The ongoing attacks, which commenced in June 2022, have been observed to target automotive, civil and industrial construction, logistics, and machinery sectors via multiple infection chains in Mexico and chemicals manufacturing industries in Spain.   Attack chains entail leveraging spear-phishing emails written in Spanish to trick potential victims into clicking on an embedded link that retrieves a ZIP archive
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Whitworth University Still Recovering from Ransomware Attack<a href="https://www.govtech.com/education/higher-ed/whitworth-university-still-recovering-from-ransomware-attack?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

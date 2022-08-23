@@ -8,6 +8,38 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit leak sites hit by mysterious DDoS attack after Entrust hack<a href="https://securityaffairs.co/wordpress/134707/cyber-crime/lockbit-hacked-entrust.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware gang claims to have hacked the IT giant Entrust and started leaking the stolen files.
+
+
+
+Entrust Corp., provides software and hardware used to issue financial cards, e-passport production, user authentication for those looking to access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware blames Entrust for DDoS attacks on leak sites<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-blames-entrust-for-ddos-attacks-on-leak-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware operation's data leak sites have been shut down over the weekend due to a DDoS attack telling them to remove Entrust's allegedly stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
