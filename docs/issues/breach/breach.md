@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ETHERLED: Air-gapped systems leak data via network card LEDs<a href="https://www.bleepingcomputer.com/news/security/etherled-air-gapped-systems-leak-data-via-network-card-leds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli researcher Mordechai Guri has discovered a new method to exfiltrate data from air-gapped systems using the LED indicators on network cards.&nbsp;Dubbed 'ETHERLED', the method turns the blinking lights into Morse code signals that can be decoded by an attacker.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ragnar Locker Ransomware Claims to Breach Greek Natural Gas Operator DESFA<a href="https://therecord.media/greek-gas-operator-refuses-to-negotiate-with-ransomware-group-after-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Saturday, DESFA confirmed that its IT infrastructure was hit by a cyberattack and that it had a “confirmed impact on the availability of some systems and possible leakage of a number of directories and files.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

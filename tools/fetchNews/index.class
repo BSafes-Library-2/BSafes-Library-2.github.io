@@ -34,6 +34,378 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pirated 3DMark benchmark tool delivering info-stealer malware<a href="https://www.bleepingcomputer.com/news/security/pirated-3dmark-benchmark-tool-delivering-info-stealer-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered multiple ongoing malware distribution campaigns that target internet users who seek to download copies of pirated software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Java libraries are full of deserialization security bugs<a href="https://www.theregister.com/2022/08/22/java_library_flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Serialization is used to convert a data object in memory into a series of bytes for storage or transmission. Deserialization reverses that process by turning a data stream back into an object in memory.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Uncovers Tool Used by Iranian Hackers to Steal Data from Email Accounts<a href="https://thehackernews.com/2022/08/google-uncovers-tool-used-by-iranian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian government-backed actor known as Charming Kitten has added a new tool to its malware arsenal that allows it to retrieve user data from Gmail, Yahoo!, and Microsoft Outlook accounts.  Dubbed  HYPERSCRAPE  by Google Threat Analysis Group (TAG), the actively in-development malicious software is said to have been used against less than two dozen accounts in Iran, with the oldest known sample dating back to 2020. The tool was first discovered in December 2021.  Charming Kitten, a prolific advanced persistent threat (APT), is believed to be  associated  with Iran's Islamic Revolutionary Guard Corps (IRGC) and has a history of conducting espionage aligned with the interests of the government.   Tracked as APT35, Cobalt Illusion, ITG18, Phosphorus, TA453, and Yellow Garuda, elements of the group have also carried out ransomware attacks, suggesting that the threat actor's motives are both espionage and financially driven.  "HYPERSCRAPE requires the victim's account
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft publicly discloses details on critical ChromeOS flaw<a href="https://securityaffairs.co/wordpress/134782/security/critical-chromeos-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft shared technical details of a critical ChromeOS flaw that could be exploited to trigger a DoS condition or for remote code execution.
+
+
+
+Microsoft shared details of a critical ChromeOS vulnerability tracked as CVE-2022-2587 (CVSS score of 9.8)....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Carbon Black causing BSOD crashes on Windows<a href="https://www.bleepingcomputer.com/news/security/vmware-carbon-black-causing-bsod-crashes-on-windows/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows servers and workstations at dozens of organizations started to crash earlier today because of an issue caused by certain versions of VMware's Carbon Black endpoint security solution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Hospital Center Targeted by Cyberattack, Services Severely Disrupted<a href="https://www.tellerreport.com/tech/2022-08-22-essonne--a-hospital-center-targeted-by-a-cyberattack--its-services-severely-disrupted.BJzSzR6x1j.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This attack makes "for the time being inaccessible all the hospital's business software, the storage systems (in particular medical imaging) and the information system relating to patient admissions," indicated the establishment in a statement.
+</details>
+<div style="text-align: right" markdown="1">
+Teller Report
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XCSSET Malware Updates with Python 3 to Target macOS Monterey Users<a href="https://thehackernews.com/2022/08/xcsset-malware-updates-with-python-3-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the XCSSET macOS malware have upped the stakes by making iterative improvements that add support for macOS Monterey by upgrading its source code components to Python 3.  "The malware authors have changed from hiding the primary executable in a fake Xcode.app in the initial versions in 2020 to a fake Mail.app in 2021 and now to a fake Notes.app in 2022," SentinelOne researchers Phil Stokes and Dinesh Devadoss  said  in a report.  XCSSET, first  documented  by Trend Micro in 2020, has many moving parts that allow it to  harvest sensitive information  from Apple Notes, WeChat, Skype, and Telegram; inject malicious JavaScript code into various websites; and dump cookies from Safari web browser.   Infection chains entail using a dropper to compromise users' Xcode projects with the backdoor, with the latter also taking steps to evade detection by masquerading as either system software or the Google Chrome web browser application.  The primary executable is an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab fixed a critical Remote Code Execution (RCE) bug in CE and EE releases<a href="https://securityaffairs.co/wordpress/134769/security/gitlab-rce-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DevOps platform GitLab fixed a critical remote code execution flaw in its GitLab Community Edition (CE) and Enterprise Edition (EE) releases.
+
+
+
+DevOps platform GitLab has released security updates to fix a critical remote code execution vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attacks abusing SaaS platforms see a massive 1,100% growth<a href="https://www.bleepingcomputer.com/news/security/phishing-attacks-abusing-saas-platforms-see-a-massive-1-100-percent-growth/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly abusing legitimate software-as-a-service (SaaS) platforms like website builders and personal branding spaces to create malicious phishing websites that steal login credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian UNC3890 Targets Israel’s Key Sectors<a href="https://cyware.com/news/iranian-unc3890-targets-israels-key-sectors-913619a8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian threat group UNC3890 was found targeting Israeli shipping, government, healthcare, aviation, and energy sectors via watering hole attacks and credential harvesting attacks. Additionally, the researchers have discovered a UNC3890 server loaded with scraped Facebook and Instagram informati ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rise of Data Exfiltration and Why It Is a Greater Risk Than Ransomware<a href="https://thehackernews.com/2022/08/the-rise-of-data-exfiltration-and-why.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware is the de facto threat organizations have faced over the past few years. Threat actors were making easy money by exploiting the high valuation of cryptocurrencies and their victims' lack of adequate preparation.   Think about bad security policies, untested backups, patch management practices not up-to-par, and so forth. It resulted in easy growth for ransomware extortion, a crime that multiple threat actors around the world perpetrate.   Something's changed, though. Crypto valuations have dropped, reducing the monetary appeal of ransomware attacks due to organizations mounting a formidable defense against ransomware.  Threat actors have been searching for another opportunity – and found one. It's called data exfiltration, or exfil, a type of espionage causing headaches at organizations worldwide. Let's take a look.  The threat to reveal confidential information  Information exfiltration is rapidly becoming more prevalent. Earlier this year, incidents at Nvi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 80,000 Hikvision cameras can be easily hacked<a href="https://securityaffairs.co/wordpress/134756/security/hikvision-cameras-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that over 80,000 Hikvision cameras are vulnerable to a critical command injection vulnerability.
+
+
+
+Security researchers from CYFIRMA have discovered over 80,000 Hikvision cameras affected by a critical command injection vulnerability tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French hospital hit by $10M ransomware attack, sends patients elsewhere<a href="https://www.bleepingcomputer.com/news/security/french-hospital-hit-by-10m-ransomware-attack-sends-patients-elsewhere/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Center Hospitalier Sud Francilien (CHSF), a 1000-bed hospital located 28km from the center of Paris, suffered a cyberattack on Sunday, which has resulted in the medical center referring patients to other establishments and postponing appointments for surgeries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Tale of PivNoxy and Chinoxy Puppeteer<a href="https://www.fortinet.com/blog/threat-research/pivnoxy-and-chinoxy-puppeteer-analysis?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, a simple and short email with a suspicious RTF attachment was sent to a telecommunications agency in South Asia. The email was disguised as having come from a Pakistan government division and delivered the PivNoxy malware.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Iranian Hackers Targeted Several Israeli Organizations for Espionage<a href="https://thehackernews.com/2022/08/suspected-iranian-hackers-targeted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected Iranian threat activity cluster has been linked to attacks aimed at Israeli shipping, government, energy, and healthcare organizations as part of an espionage-focused campaign that commenced in late 2020.  Cybersecurity firm Mandiant is tracking the group under its uncategorized moniker  UNC3890 , which is believed to conduct operations that align with Iranian interests.  "The collected data may be leveraged to support various activities, from hack-and-leak, to enabling kinetic warfare attacks like those that have plagued the shipping industry in recent years," the company's Israel Research Team  noted .   Intrusions mounted by the group lead to the deployment of two proprietary pieces of malware: a "small but efficient" backdoor named SUGARUSH and a browser credential stealer called SUGARDUMP that exfiltrates password information to an email address associated with Gmail, ProtonMail, Yahoo, and Yandex.  Also employed is a network of command-and-con
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Palo Alto Networks PAN-OS to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/134749/security/palo-alto-networks-pan-os-flaw-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cybersecurity and Infrastructure Security Agency (CISA) added a flaw, tracked as CVE-2022-0028, affecting Palo Alto Networks PAN-OS to its Known Exploited Vulnerabilities Catalog
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Donut Leaks' extortion gang linked to recent ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/new-donut-leaks-extortion-gang-linked-to-recent-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new data extortion group named 'Donut Leaks' is linked to recent cyberattacks, including those on Greek natural gas company DESFA, UK architectural firm Sheppard Robson, and multinational construction company Sando.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defending against the new ransomware landscape<a href="https://www.microsoft.com/security/blog/2022/08/22/cyber-signals-defend-against-the-new-ransomware-landscape/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The endless list of stolen credentials available online means that without basic defenses like multifactor authentication (MFA), organizations are at a disadvantage in combating ransomware’s infiltration routes before the malware deployment stage.
+</details>
+<div style="text-align: right" markdown="1">
+Microsoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Counterfeit versions of popular mobile devices target WhatsApp and WhatsApp Business<a href="https://securityaffairs.co/wordpress/134735/malware/counterfeit-versions-mobile-devices-target-whatsapp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found backdoors in budget Android device models designed to target WhatsApp and WhatsApp Business messaging apps.
+
+
+
+Researchers from Doctor Web discovered backdoors in the system partition of budget Android device models that are counterfeit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ETHERLED: Air-gapped systems leak data via network card LEDs<a href="https://www.bleepingcomputer.com/news/security/etherled-air-gapped-systems-leak-data-via-network-card-leds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli researcher Mordechai Guri has discovered a new method to exfiltrate data from air-gapped systems using the LED indicators on network cards. Dubbed 'ETHERLED', the method turns the blinking lights into Morse code signals that can be decoded by an attacker.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ragnar Locker Ransomware Claims to Breach Greek Natural Gas Operator DESFA<a href="https://therecord.media/greek-gas-operator-refuses-to-negotiate-with-ransomware-group-after-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Saturday, DESFA confirmed that its IT infrastructure was hit by a cyberattack and that it had a “confirmed impact on the availability of some systems and possible leakage of a number of directories and files.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptojackers growing in numbers and sophistication<a href="https://www.malwarebytes.com/blog/news/2022/08/cryptojackers-are-growing-in-numbers-and-sophistication?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the most abused tools for cryptomining is notepad.exe. Using techniques like process hollowing to inject malicious code into legitimate processes like notepad.exe, the cryptomining malware tries to stay below the radar.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 23, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

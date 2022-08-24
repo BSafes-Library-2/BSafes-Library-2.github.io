@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Tale of PivNoxy and Chinoxy Puppeteer<a href="https://www.fortinet.com/blog/threat-research/pivnoxy-and-chinoxy-puppeteer-analysis?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, a simple and short email with a suspicious RTF attachment was sent to a telecommunications agency in South Asia. The email was disguised as having come from a Pakistan government division and delivered the PivNoxy malware.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

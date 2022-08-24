@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pirated 3DMark benchmark tool delivering info-stealer malware<a href="https://www.bleepingcomputer.com/news/security/pirated-3dmark-benchmark-tool-delivering-info-stealer-malware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Java libraries are full of deserialization security bugs<a href="https://www.theregister.com/2022/08/22/java_library_flaws/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Uncovers Tool Used by Iranian Hackers to Steal Data from Email Accounts<a href="https://thehackernews.com/2022/08/google-uncovers-tool-used-by-iranian.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft publicly discloses details on critical ChromeOS flaw<a href="https://securityaffairs.co/wordpress/134782/security/critical-chromeos-flaw.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Carbon Black causing BSOD crashes on Windows<a href="https://www.bleepingcomputer.com/news/security/vmware-carbon-black-causing-bsod-crashes-on-windows/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French Hospital Center Targeted by Cyberattack, Services Severely Disrupted<a href="https://www.tellerreport.com/tech/2022-08-22-essonne--a-hospital-center-targeted-by-a-cyberattack--its-services-severely-disrupted.BJzSzR6x1j.html?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Teller Report
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XCSSET Malware Updates with Python 3 to Target macOS Monterey Users<a href="https://thehackernews.com/2022/08/xcsset-malware-updates-with-python-3-to.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitLab fixed a critical Remote Code Execution (RCE) bug in CE and EE releases<a href="https://securityaffairs.co/wordpress/134769/security/gitlab-rce-bug.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing attacks abusing SaaS platforms see a massive 1,100% growth<a href="https://www.bleepingcomputer.com/news/security/phishing-attacks-abusing-saas-platforms-see-a-massive-1-100-percent-growth/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian UNC3890 Targets Israel’s Key Sectors<a href="https://cyware.com/news/iranian-unc3890-targets-israels-key-sectors-913619a8"> Full Text</a>
@@ -202,7 +202,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Rise of Data Exfiltration and Why It Is a Greater Risk Than Ransomware<a href="https://thehackernews.com/2022/08/the-rise-of-data-exfiltration-and-why.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 80,000 Hikvision cameras can be easily hacked<a href="https://securityaffairs.co/wordpress/134756/security/hikvision-cameras-vulnerability.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French hospital hit by $10M ransomware attack, sends patients elsewhere<a href="https://www.bleepingcomputer.com/news/security/french-hospital-hit-by-10m-ransomware-attack-sends-patients-elsewhere/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Tale of PivNoxy and Chinoxy Puppeteer<a href="https://www.fortinet.com/blog/threat-research/pivnoxy-and-chinoxy-puppeteer-analysis?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Suspected Iranian Hackers Targeted Several Israeli Organizations for Espionage<a href="https://thehackernews.com/2022/08/suspected-iranian-hackers-targeted.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Palo Alto Networks PAN-OS to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/134749/security/palo-alto-networks-pan-os-flaw-2.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'Donut Leaks' extortion gang linked to recent ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/new-donut-leaks-extortion-gang-linked-to-recent-ransomware-attacks/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Defending against the new ransomware landscape<a href="https://www.microsoft.com/security/blog/2022/08/22/cyber-signals-defend-against-the-new-ransomware-landscape/?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Microsoft
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Counterfeit versions of popular mobile devices target WhatsApp and WhatsApp Business<a href="https://securityaffairs.co/wordpress/134735/malware/counterfeit-versions-mobile-devices-target-whatsapp.html"> Full Text</a>
@@ -358,7 +358,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ETHERLED: Air-gapped systems leak data via network card LEDs<a href="https://www.bleepingcomputer.com/news/security/etherled-air-gapped-systems-leak-data-via-network-card-leds/"> Full Text</a>
@@ -374,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ragnar Locker Ransomware Claims to Breach Greek Natural Gas Operator DESFA<a href="https://therecord.media/greek-gas-operator-refuses-to-negotiate-with-ransomware-group-after-attack/?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptojackers growing in numbers and sophistication<a href="https://www.malwarebytes.com/blog/news/2022/08/cryptojackers-are-growing-in-numbers-and-sophistication?&web_view=true"> Full Text</a>

@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Uncovers Tool Used by Iranian Hackers to Steal Data from Email Accounts<a href="https://thehackernews.com/2022/08/google-uncovers-tool-used-by-iranian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian government-backed actor known as Charming Kitten has added a new tool to its malware arsenal that allows it to retrieve user data from Gmail, Yahoo!, and Microsoft Outlook accounts.  Dubbed&nbsp; HYPERSCRAPE &nbsp;by Google Threat Analysis Group (TAG), the actively in-development malicious software is said to have been used against less than two dozen accounts in Iran, with the oldest known sample dating back to 2020. The tool was first discovered in December 2021.  Charming Kitten, a prolific advanced persistent threat (APT), is believed to be&nbsp; associated &nbsp;with Iran's Islamic Revolutionary Guard Corps (IRGC) and has a history of conducting espionage aligned with the interests of the government.   Tracked as APT35, Cobalt Illusion, ITG18, Phosphorus, TA453, and Yellow Garuda, elements of the group have also carried out ransomware attacks, suggesting that the threat actor's motives are both espionage and financially driven.  "HYPERSCRAPE requires the victim's account
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian UNC3890 Targets Israel’s Key Sectors<a href="https://cyware.com/news/iranian-unc3890-targets-israels-key-sectors-913619a8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian threat group UNC3890 was found targeting Israeli shipping, government, healthcare, aviation, and energy sectors via watering hole attacks and credential harvesting attacks. Additionally, the researchers have discovered a UNC3890 server loaded with scraped Facebook and Instagram informati ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Iranian Hackers Targeted Several Israeli Organizations for Espionage<a href="https://thehackernews.com/2022/08/suspected-iranian-hackers-targeted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected Iranian threat activity cluster has been linked to attacks aimed at Israeli shipping, government, energy, and healthcare organizations as part of an espionage-focused campaign that commenced in late 2020.  Cybersecurity firm Mandiant is tracking the group under its uncategorized moniker&nbsp; UNC3890 , which is believed to conduct operations that align with Iranian interests.  "The collected data may be leveraged to support various activities, from hack-and-leak, to enabling kinetic warfare attacks like those that have plagued the shipping industry in recent years," the company's Israel Research Team&nbsp; noted .   Intrusions mounted by the group lead to the deployment of two proprietary pieces of malware: a "small but efficient" backdoor named SUGARUSH and a browser credential stealer called SUGARDUMP that exfiltrates password information to an email address associated with Gmail, ProtonMail, Yahoo, and Yandex.  Also employed is a network of command-and-con
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

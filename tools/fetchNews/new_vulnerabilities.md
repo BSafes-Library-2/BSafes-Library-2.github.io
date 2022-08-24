@@ -8,6 +8,88 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Java libraries are full of deserialization security bugs<a href="https://www.theregister.com/2022/08/22/java_library_flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Serialization is used to convert a data object in memory into a series of bytes for storage or transmission. Deserialization reverses that process by turning a data stream back into an object in memory.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft publicly discloses details on critical ChromeOS flaw<a href="https://securityaffairs.co/wordpress/134782/security/critical-chromeos-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft shared technical details of a critical ChromeOS flaw that could be exploited to trigger a DoS condition or for remote code execution.
+
+
+
+Microsoft shared details of a critical ChromeOS vulnerability tracked as CVE-2022-2587 (CVSS score of 9.8)....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Carbon Black causing BSOD crashes on Windows<a href="https://www.bleepingcomputer.com/news/security/vmware-carbon-black-causing-bsod-crashes-on-windows/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows servers and workstations at dozens of organizations started to crash earlier today because of an issue caused by certain versions of VMware's Carbon Black endpoint security solution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab fixed a critical Remote Code Execution (RCE) bug in CE and EE releases<a href="https://securityaffairs.co/wordpress/134769/security/gitlab-rce-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DevOps platform GitLab fixed a critical remote code execution flaw in its GitLab Community Edition (CE) and Enterprise Edition (EE) releases.
+
+
+
+DevOps platform GitLab has released security updates to fix a critical remote code execution vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 80,000 Hikvision cameras can be easily hacked<a href="https://securityaffairs.co/wordpress/134756/security/hikvision-cameras-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that over 80,000 Hikvision cameras are vulnerable to a critical command injection vulnerability.
+
+
+
+Security researchers from CYFIRMA have discovered over 80,000 Hikvision cameras affected by a critical command injection vulnerability tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rise of Data Exfiltration and Why It Is a Greater Risk Than Ransomware<a href="https://thehackernews.com/2022/08/the-rise-of-data-exfiltration-and-why.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware is the de facto threat organizations have faced over the past few years. Threat actors were making easy money by exploiting the high valuation of cryptocurrencies and their victims' lack of adequate preparation.&nbsp;  Think about bad security policies, untested backups, patch management practices not up-to-par, and so forth. It resulted in easy growth for ransomware extortion, a crime that multiple threat actors around the world perpetrate.&nbsp;  Something's changed, though. Crypto valuations have dropped, reducing the monetary appeal of ransomware attacks due to organizations mounting a formidable defense against ransomware.  Threat actors have been searching for another opportunity – and found one. It's called data exfiltration, or exfil, a type of espionage causing headaches at organizations worldwide. Let's take a look.  The threat to reveal confidential information  Information exfiltration is rapidly becoming more prevalent. Earlier this year, incidents at Nvi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defending against the new ransomware landscape<a href="https://www.microsoft.com/security/blog/2022/08/22/cyber-signals-defend-against-the-new-ransomware-landscape/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The endless list of stolen credentials available online means that without basic defenses like multifactor authentication (MFA), organizations are at a disadvantage in combating ransomware’s infiltration routes before the malware deployment stage.
+</details>
+<div style="text-align: right" markdown="1">
+Microsoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
