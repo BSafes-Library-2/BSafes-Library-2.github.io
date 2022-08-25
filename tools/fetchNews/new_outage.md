@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum ransomware attack disrupts govt agency in Dominican Republic<a href="https://www.bleepingcomputer.com/news/security/quantum-ransomware-attack-disrupts-govt-agency-in-dominican-republic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dominican Republic's Instituto Agrario Dominicano has suffered a Quantum ransomware attack that encrypted multiple services and workstations throughout the government agency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

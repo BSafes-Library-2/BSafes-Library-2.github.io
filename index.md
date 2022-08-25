@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quantum ransomware attack disrupts govt agency in Dominican Republic<a href="https://www.bleepingcomputer.com/news/security/quantum-ransomware-attack-disrupts-govt-agency-in-dominican-republic/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Employee Data Exposed After North Dakota Phishing Attack<a href="https://www.govtech.com/security/employee-data-exposed-after-north-dakota-phishing-attack?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Government Technology
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto Miners Using Tox P2P Messenger as Command and Control Server<a href="https://thehackernews.com/2022/08/crypto-miners-using-tox-p2p-messenger.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Plex discloses data breach and urges password reset<a href="https://securityaffairs.co/wordpress/134814/data-breach/plex-data-breach.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitLab ‘strongly recommends’ patching critical RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/gitlab-strongly-recommends-patching-critical-rce-vulnerability/"> Full Text</a>
@@ -122,7 +122,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lamoille Health Partners Experiences Ransomware Attack Leading to Data Breach Involving Patient Information<a href="https://www.jdsupra.com/legalnews/lamoille-health-partners-experiences-3009135/?&web_view=true"> Full Text</a>
@@ -138,7 +138,7 @@ JD Supra
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Air-Gapped Devices Can Send Covert Morse Signals via Network Card LEDs<a href="https://thehackernews.com/2022/08/air-gapped-devices-can-send-covert.html"> Full Text</a>
@@ -154,7 +154,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AiTM phishing campaign also targets G Suite users<a href="https://securityaffairs.co/wordpress/134796/cyber-crime/aitm-phishing-g-suite.html"> Full Text</a>
@@ -174,7 +174,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomEXX claims ransomware attack on Sea-Doo, Ski-Doo maker<a href="https://www.bleepingcomputer.com/news/security/ransomexx-claims-ransomware-attack-on-sea-doo-ski-doo-maker/"> Full Text</a>
@@ -190,7 +190,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 True crime shows might be the biggest educational tool for cybercrime awareness<a href="https://www.csoonline.com/article/3670736/true-crime-shows-might-be-the-biggest-educational-tool-for-cybercrime-awareness.html?&web_view=true"> Full Text</a>
@@ -206,7 +206,7 @@ CSO Online
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Guide: How Service Providers can Deliver vCISO Services at Scale<a href="https://thehackernews.com/2022/08/guide-how-service-providers-can-deliver.html"> Full Text</a>
@@ -222,7 +222,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixed a privilege escalation issue in VMware Tools<a href="https://securityaffairs.co/wordpress/134791/security/vmware-vmware-tools-flaw.html"> Full Text</a>
@@ -242,7 +242,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers use AiTM attack to monitor Microsoft 365 accounts for BEC scams<a href="https://www.bleepingcomputer.com/news/security/hackers-use-aitm-attack-to-monitor-microsoft-365-accounts-for-bec-scams/"> Full Text</a>
@@ -258,7 +258,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ex-Twitter exec blows the whistle, alleging reckless and negligent cybersecurity policies<a href="https://edition.cnn.com/2022/08/23/tech/twitter-whistleblower-peiter-zatko-security/index.html?&web_view=true"> Full Text</a>
@@ -274,7 +274,7 @@ CNN Money
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Fake DDoS Protection Pages to Distribute Malware<a href="https://thehackernews.com/2022/08/hackers-using-fake-ddos-protection.html"> Full Text</a>
@@ -290,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 France hospital Center Hospitalier Sud Francilien suffered ransomware attack<a href="https://securityaffairs.co/wordpress/134771/cyber-crime/center-hospitalier-sud-francilien-ransomware.html"> Full Text</a>
@@ -310,7 +310,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Highlighting What should be Patched First at the Endpoint<a href="https://www.bleepingcomputer.com/news/security/highlighting-what-should-be-patched-first-at-the-endpoint/"> Full Text</a>
@@ -326,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber is a team sport–here's how the public and private sectors can play together<a href="https://fcw.com/comment/2022/08/cyber-team-sportheres-how-public-and-private-sectors-can-play-together/376131/?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ FCW
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of AiTM Attack Targeting Google G-Suite Enterprise Users<a href="https://thehackernews.com/2022/08/researchers-warn-of-aitm-attack.html"> Full Text</a>
@@ -358,7 +358,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Plex warns users to reset passwords after a data breach<a href="https://www.bleepingcomputer.com/news/security/plex-warns-users-to-reset-passwords-after-a-data-breach/"> Full Text</a>
@@ -374,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IBM Patches Severe Vulnerabilities in MQ Messaging Middleware<a href="https://www.securityweek.com/ibm-patches-severe-vulnerabilities-mq-messaging-middleware?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitLab Issues Patch for Critical Flaw in its Community and Enterprise Software<a href="https://thehackernews.com/2022/08/gitlab-issues-patch-for-critical-flaw.html"> Full Text</a>
@@ -406,7 +406,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Chrome extension 'Internet Download Manager' has 200,000 installs<a href="https://www.bleepingcomputer.com/news/security/fake-chrome-extension-internet-download-manager-has-200-000-installs/"> Full Text</a>
@@ -422,7 +422,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
+August 24, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'BianLian' Ransomware Variant on the Rise<a href="https://www.darkreading.com/cloud/new-bianlian-ransomware-variant-on-the-rise?&web_view=true"> Full Text</a>

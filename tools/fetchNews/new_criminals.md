@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+True crime shows might be the biggest educational tool for cybercrime awareness<a href="https://www.csoonline.com/article/3670736/true-crime-shows-might-be-the-biggest-educational-tool-for-cybercrime-awareness.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular cultural depictions of fraud and cybercrime are raising awareness of the dangers posed to personally identifiable information by bad actors, according to a new study.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

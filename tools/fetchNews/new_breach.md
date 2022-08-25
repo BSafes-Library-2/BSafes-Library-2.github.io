@@ -8,6 +8,70 @@ nav_order: 900029
 
 ## Breach
 ---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Employee Data Exposed After North Dakota Phishing Attack<a href="https://www.govtech.com/security/employee-data-exposed-after-north-dakota-phishing-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Workforce Safety &amp; Insurance employee opened a malicious email attachment — an incident that led to cyber attackers accessing personal data on 182 individuals who had been seeking injured employee claims.
+</details>
+<div style="text-align: right" markdown="1">
+Government Technology
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Plex discloses data breach and urges password reset<a href="https://securityaffairs.co/wordpress/134814/data-breach/plex-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The streaming media platform Plex is urging its users to reset passwords after threat actors gained access to its database.
+
+
+
+Plex&nbsp;is an American&nbsp;streaming media&nbsp;service and a&nbsp;client–server&nbsp;media player&nbsp;platform.
+
+
+
+The company disclosed a data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lamoille Health Partners Experiences Ransomware Attack Leading to Data Breach Involving Patient Information<a href="https://www.jdsupra.com/legalnews/lamoille-health-partners-experiences-3009135/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the breached information varies depending on the individual, it may include name, address, date of birth, Social Security number, health insurance information, and any medical treatment information that was provided to Lamoille Health Partners.
+</details>
+<div style="text-align: right" markdown="1">
+JD Supra
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Plex warns users to reset passwords after a data breach<a href="https://www.bleepingcomputer.com/news/security/plex-warns-users-to-reset-passwords-after-a-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Plex&nbsp;media streaming platform is sending password reset notices to many of its users in response to discovering unauthorized access to one of its databases.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

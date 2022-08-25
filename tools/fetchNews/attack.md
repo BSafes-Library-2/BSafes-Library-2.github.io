@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French hospital hit by $10M ransomware attack, sends patients elsewhere<a href="https://www.bleepingcomputer.com/news/security/french-hospital-hit-by-10m-ransomware-attack-sends-patients-elsewhere/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Center Hospitalier Sud Francilien (CHSF), a 1000-bed hospital located 28km from the center of Paris, suffered a cyberattack on Sunday, which has resulted in the medical center referring patients to other establishments and postponing appointments for surgeries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

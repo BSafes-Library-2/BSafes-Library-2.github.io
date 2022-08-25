@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Donut Leaks' extortion gang linked to recent ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/new-donut-leaks-extortion-gang-linked-to-recent-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new data extortion group named 'Donut Leaks' is linked to recent cyberattacks, including those on Greek natural gas company DESFA, UK architectural firm Sheppard Robson, and multinational construction company Sando.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

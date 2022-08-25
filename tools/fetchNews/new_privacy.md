@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex-Twitter exec blows the whistle, alleging reckless and negligent cybersecurity policies<a href="https://edition.cnn.com/2022/08/23/tech/twitter-whistleblower-peiter-zatko-security/index.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The disclosure also alleges that some of the company's senior-most executives have been trying to cover up Twitter's serious vulnerabilities, and that one or more current employees may be working for a foreign intelligence service.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

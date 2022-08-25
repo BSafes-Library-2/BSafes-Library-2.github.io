@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guide: How Service Providers can Deliver vCISO Services at Scale<a href="https://thehackernews.com/2022/08/guide-how-service-providers-can-deliver.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From ransomware to breaches, from noncompliance penalties to reputational damage – cyberthreats pose an existential risk to any business. But for SMEs and SMBs, the danger is compounded. These companies realize they&nbsp; need &nbsp;an in-house Chief Information Security Officer (CISO) – someone who can assess risks and vulnerabilities, create and execute a comprehensive cybersecurity plan, ensure compliance and safeguard business continuity. Yet unlike large enterprises, most don't have the budget to bring a full-time experienced CISO on board.  To bridge this gap, managed service providers (MSPs), managed security service providers (MSSPs), and consulting firms offer virtual CISO (vCISO), or 'CISO-as-a-service' services. The model is simple: instead of hiring a full-time CISO, SMEs and SMBs pay a subscription or a retainer to gain access to expert cyber assistance in the form of a virtual CISO. Staffed by seasoned veteran executives, vCISOs offer C-level assistance in devising and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

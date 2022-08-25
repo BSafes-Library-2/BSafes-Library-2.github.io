@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Hospital Center Targeted by Cyberattack, Services Severely Disrupted<a href="https://www.tellerreport.com/tech/2022-08-22-essonne--a-hospital-center-targeted-by-a-cyberattack--its-services-severely-disrupted.BJzSzR6x1j.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This attack makes "for the time being inaccessible all the hospital's business software, the storage systems (in particular medical imaging) and the information system relating to patient admissions," indicated the establishment in a statement.
+</details>
+<div style="text-align: right" markdown="1">
+Teller Report
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

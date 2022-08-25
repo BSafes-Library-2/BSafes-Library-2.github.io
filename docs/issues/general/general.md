@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Highlighting What should be Patched First at the Endpoint<a href="https://www.bleepingcomputer.com/news/security/highlighting-what-should-be-patched-first-at-the-endpoint/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs has released its Global Threat Landscape Report for the first half of 2022. This valuable report offers insights on the world's cyberthreats for the first six months of the year by examining the compiled data gathered from Fortinet's global array of sensors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber is a team sport–here's how the public and private sectors can play together<a href="https://fcw.com/comment/2022/08/cyber-team-sportheres-how-public-and-private-sectors-can-play-together/376131/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For outsiders looking in, it almost looks like the government isn't trying to improve its security posture; however, the reality is that it's difficult for security leaders to keep up with an evolving cyber threat landscape.
+</details>
+<div style="text-align: right" markdown="1">
+FCW
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

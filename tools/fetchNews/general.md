@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attacks abusing SaaS platforms see a massive 1,100% growth<a href="https://www.bleepingcomputer.com/news/security/phishing-attacks-abusing-saas-platforms-see-a-massive-1-100-percent-growth/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly abusing legitimate software-as-a-service (SaaS) platforms like website builders and personal branding spaces to create malicious phishing websites that steal login credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptojackers growing in numbers and sophistication<a href="https://www.malwarebytes.com/blog/news/2022/08/cryptojackers-are-growing-in-numbers-and-sophistication?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the most abused tools for cryptomining is notepad.exe. Using techniques like process hollowing to inject malicious code into legitimate processes like notepad.exe, the cryptomining malware tries to stay below the radar.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

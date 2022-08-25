@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomEXX claims ransomware attack on Sea-Doo, Ski-Doo maker<a href="https://www.bleepingcomputer.com/news/security/ransomexx-claims-ransomware-attack-on-sea-doo-ski-doo-maker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RansomEXX ransomware gang is claiming responsibility for the cyberattack against Bombardier Recreational Products (BRP), disclosed by the company on August 8, 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France hospital Center Hospitalier Sud Francilien suffered ransomware attack<a href="https://securityaffairs.co/wordpress/134771/cyber-crime/center-hospitalier-sud-francilien-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A French hospital, the Center Hospitalier Sud Francilien (CHSF), suffered a cyberattack on Sunday and was forced to refer patients to other structures.
+
+
+
+The Center Hospitalier Sud Francilien (CHSF), a hospital&nbsp;southeast of Paris,&nbsp;has suffered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of AiTM Attack Targeting Google G-Suite Enterprise Users<a href="https://thehackernews.com/2022/08/researchers-warn-of-aitm-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind a large-scale adversary-in-the-middle (AiTM)&nbsp; phishing campaign &nbsp;targeting enterprise users of Microsoft email services have also set their sights on Google Workspace users.  "This campaign specifically targeted chief executives and other senior members of various organizations which use [Google Workspace]," Zscaler researchers Sudeep Singh and Jagadeeswar Ramanukolanu&nbsp; detailed &nbsp;in a report published this month.   The AiTM phishing attacks are said to have commenced in mid-July 2022, following a similar modus operandi as that of a&nbsp; social engineering campaign &nbsp;designed to siphon users' Microsoft credentials and even bypass multi-factor authentication.  The low-volume Gmail AiTM phishing campaign also entails using the compromised emails of chief executives to conduct further social engineering, with the attacks also utilizing several compromised domains as an intermediate URL redirector to take the victims to the final landing page.   Attack cha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
