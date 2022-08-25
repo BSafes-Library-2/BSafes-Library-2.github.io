@@ -34,7 +34,411 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum ransomware attack disrupts govt agency in Dominican Republic<a href="https://www.bleepingcomputer.com/news/security/quantum-ransomware-attack-disrupts-govt-agency-in-dominican-republic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dominican Republic's Instituto Agrario Dominicano has suffered a Quantum ransomware attack that encrypted multiple services and workstations throughout the government agency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Employee Data Exposed After North Dakota Phishing Attack<a href="https://www.govtech.com/security/employee-data-exposed-after-north-dakota-phishing-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Workforce Safety & Insurance employee opened a malicious email attachment — an incident that led to cyber attackers accessing personal data on 182 individuals who had been seeking injured employee claims.
+</details>
+<div style="text-align: right" markdown="1">
+Government Technology
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Miners Using Tox P2P Messenger as Command and Control Server<a href="https://thehackernews.com/2022/08/crypto-miners-using-tox-p2p-messenger.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have begun to use the Tox peer-to-peer instant messaging service as a command-and-control method, marking a shift from its earlier role as a contact method for ransomware negotiations.  The findings from Uptycs, which analyzed an Executable and Linkable Format (ELF) artifact (" 72client ") that functions as a bot and can run scripts on the compromised host using the Tox protocol.  Tox is a  serverless protocol  for online communications that offers end-to-end encryption (E2EE) protections by making use of the Networking and Cryptography library ( NaCl , pronounced "salt") for encryption and authentication.   "The binary found in the wild is a stripped but dynamic executable, making decompilation easier," researchers Siddharth Sharma and Nischay Hedge  said . "The entire binary appears to be written in C, and has only  statically linked  the c-toxcore library."  It's worth noting that c-toxcore is a  reference implementation  of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Plex discloses data breach and urges password reset<a href="https://securityaffairs.co/wordpress/134814/data-breach/plex-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The streaming media platform Plex is urging its users to reset passwords after threat actors gained access to its database.
+
+
+
+Plex is an American streaming media service and a client–server media player platform.
+
+
+
+The company disclosed a data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab ‘strongly recommends’ patching critical RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/gitlab-strongly-recommends-patching-critical-rce-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab is urging users to install a security update for branches 15.1, 15.2, and 15.3 of its community and enterprise editions to fix a critical vulnerability that could enable an attacker to perform remote command execution via Github import.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lamoille Health Partners Experiences Ransomware Attack Leading to Data Breach Involving Patient Information<a href="https://www.jdsupra.com/legalnews/lamoille-health-partners-experiences-3009135/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the breached information varies depending on the individual, it may include name, address, date of birth, Social Security number, health insurance information, and any medical treatment information that was provided to Lamoille Health Partners.
+</details>
+<div style="text-align: right" markdown="1">
+JD Supra
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air-Gapped Devices Can Send Covert Morse Signals via Network Card LEDs<a href="https://thehackernews.com/2022/08/air-gapped-devices-can-send-covert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher who has a long line of work demonstrating novel data exfiltration methods from air-gapped systems has come up with yet another technique that involves sending Morse code signals via LEDs on network interface cards ( NICs ).  The approach, codenamed  ETHERLED , comes from Dr. Mordechai Guri , the head of R&D in the Cyber Security Research Center in the Ben Gurion University of the Negev in Israel, who recently outlined  GAIROSCOPE , a method for transmitting data ultrasonically to smartphone gyroscopes.   "Malware installed on the device could programmatically control the status LED by blinking or alternating its colors, using documented methods or undocumented firmware commands," Dr. Guri said.  "Information can be encoded via simple encoding such as Morse code and modulated over these optical signals. An attacker can intercept and decode these signals from tens to hundreds of meters away."   A network interface card, also known as a netwo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AiTM phishing campaign also targets G Suite users<a href="https://securityaffairs.co/wordpress/134796/cyber-crime/aitm-phishing-g-suite.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind a large-scale adversary-in-the-middle (AiTM) phishing campaign now target Google G Suite users
+
+
+
+The threat actors behind a large-scale adversary-in-the-middle (AiTM) phishing campaign targeting enterprise...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomEXX claims ransomware attack on Sea-Doo, Ski-Doo maker<a href="https://www.bleepingcomputer.com/news/security/ransomexx-claims-ransomware-attack-on-sea-doo-ski-doo-maker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RansomEXX ransomware gang is claiming responsibility for the cyberattack against Bombardier Recreational Products (BRP), disclosed by the company on August 8, 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+True crime shows might be the biggest educational tool for cybercrime awareness<a href="https://www.csoonline.com/article/3670736/true-crime-shows-might-be-the-biggest-educational-tool-for-cybercrime-awareness.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular cultural depictions of fraud and cybercrime are raising awareness of the dangers posed to personally identifiable information by bad actors, according to a new study.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guide: How Service Providers can Deliver vCISO Services at Scale<a href="https://thehackernews.com/2022/08/guide-how-service-providers-can-deliver.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From ransomware to breaches, from noncompliance penalties to reputational damage – cyberthreats pose an existential risk to any business. But for SMEs and SMBs, the danger is compounded. These companies realize they  need  an in-house Chief Information Security Officer (CISO) – someone who can assess risks and vulnerabilities, create and execute a comprehensive cybersecurity plan, ensure compliance and safeguard business continuity. Yet unlike large enterprises, most don't have the budget to bring a full-time experienced CISO on board.  To bridge this gap, managed service providers (MSPs), managed security service providers (MSSPs), and consulting firms offer virtual CISO (vCISO), or 'CISO-as-a-service' services. The model is simple: instead of hiring a full-time CISO, SMEs and SMBs pay a subscription or a retainer to gain access to expert cyber assistance in the form of a virtual CISO. Staffed by seasoned veteran executives, vCISOs offer C-level assistance in devising and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed a privilege escalation issue in VMware Tools<a href="https://securityaffairs.co/wordpress/134791/security/vmware-vmware-tools-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware this week released patches to address an important-severity vulnerability in the VMware Tools suite of utilities.
+
+
+
+The virtualization giant VMware this week released patches to address an important-severity flaw, tracked as CVE-2022-31676, which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use AiTM attack to monitor Microsoft 365 accounts for BEC scams<a href="https://www.bleepingcomputer.com/news/security/hackers-use-aitm-attack-to-monitor-microsoft-365-accounts-for-bec-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new business email compromise (BEC) campaign has been discovered combining sophisticated spear-phishing with Adversary-in-The-Middle (AiTM) tactics to hack corporate executives' Microsoft 365 accounts, even those protected by MFA.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex-Twitter exec blows the whistle, alleging reckless and negligent cybersecurity policies<a href="https://edition.cnn.com/2022/08/23/tech/twitter-whistleblower-peiter-zatko-security/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The disclosure also alleges that some of the company's senior-most executives have been trying to cover up Twitter's serious vulnerabilities, and that one or more current employees may be working for a foreign intelligence service.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Fake DDoS Protection Pages to Distribute Malware<a href="https://thehackernews.com/2022/08/hackers-using-fake-ddos-protection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress sites are being hacked to display fraudulent Cloudflare DDoS protection pages that lead to the delivery of malware such as NetSupport RAT and Raccoon Stealer.  "A recent surge in JavaScript injections targeting WordPress sites has resulted in fake DDoS prevent prompts which lead victims to download remote access trojan malware," Sucuri's Ben Martin  said  in a write-up published last week.  Distributed denial-of-service (DDoS) protection pages are essential browser verification checks designed to deter bot-driven unwanted and malicious traffic from eating up bandwidth and taking down websites.  The new attack vector involves hijacking WordPress sites to display fake DDoS protection pop-ups that, when clicked, ultimately lead to the download of a malicious ISO file ("security_install.iso") to the victim's systems.   This is achieved by injecting three lines of code into a JavaScript file ("jquery.min.js"), or alternatively into the active
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France hospital Center Hospitalier Sud Francilien suffered ransomware attack<a href="https://securityaffairs.co/wordpress/134771/cyber-crime/center-hospitalier-sud-francilien-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A French hospital, the Center Hospitalier Sud Francilien (CHSF), suffered a cyberattack on Sunday and was forced to refer patients to other structures.
+
+
+
+The Center Hospitalier Sud Francilien (CHSF), a hospital southeast of Paris, has suffered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Highlighting What should be Patched First at the Endpoint<a href="https://www.bleepingcomputer.com/news/security/highlighting-what-should-be-patched-first-at-the-endpoint/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs has released its Global Threat Landscape Report for the first half of 2022. This valuable report offers insights on the world's cyberthreats for the first six months of the year by examining the compiled data gathered from Fortinet's global array of sensors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber is a team sport–here's how the public and private sectors can play together<a href="https://fcw.com/comment/2022/08/cyber-team-sportheres-how-public-and-private-sectors-can-play-together/376131/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For outsiders looking in, it almost looks like the government isn't trying to improve its security posture; however, the reality is that it's difficult for security leaders to keep up with an evolving cyber threat landscape.
+</details>
+<div style="text-align: right" markdown="1">
+FCW
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of AiTM Attack Targeting Google G-Suite Enterprise Users<a href="https://thehackernews.com/2022/08/researchers-warn-of-aitm-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind a large-scale adversary-in-the-middle (AiTM)  phishing campaign  targeting enterprise users of Microsoft email services have also set their sights on Google Workspace users.  "This campaign specifically targeted chief executives and other senior members of various organizations which use [Google Workspace]," Zscaler researchers Sudeep Singh and Jagadeeswar Ramanukolanu  detailed  in a report published this month.   The AiTM phishing attacks are said to have commenced in mid-July 2022, following a similar modus operandi as that of a  social engineering campaign  designed to siphon users' Microsoft credentials and even bypass multi-factor authentication.  The low-volume Gmail AiTM phishing campaign also entails using the compromised emails of chief executives to conduct further social engineering, with the attacks also utilizing several compromised domains as an intermediate URL redirector to take the victims to the final landing page.   Attack cha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Plex warns users to reset passwords after a data breach<a href="https://www.bleepingcomputer.com/news/security/plex-warns-users-to-reset-passwords-after-a-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Plex media streaming platform is sending password reset notices to many of its users in response to discovering unauthorized access to one of its databases.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM Patches Severe Vulnerabilities in MQ Messaging Middleware<a href="https://www.securityweek.com/ibm-patches-severe-vulnerabilities-mq-messaging-middleware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM this week announced patches for high-severity vulnerabilities in IBM MQ, warning that attackers could exploit them to bypass security restrictions or access sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab Issues Patch for Critical Flaw in its Community and Enterprise Software<a href="https://thehackernews.com/2022/08/gitlab-issues-patch-for-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DevOps platform GitLab this week issued patches to address a critical security flaw in its software that could lead to arbitrary code execution on affected systems.  Tracked as  CVE-2022-2884 , the issue is rated 9.9 on the CVSS vulnerability scoring system and impacts all versions of GitLab Community Edition (CE) and Enterprise Edition (EE) starting from 11.3.4 before 15.1.5, 15.2 before 15.2.3, and 15.3 before 15.3.1.  At its core, the security weakness is a case of authenticated remote code execution that can be triggered via the GitHub import API. GitLab credited  yvvdwf  with discovering and reporting the flaw.   While the issue has been resolved in versions 15.3.1, 15.2.3, 15.1.5, users also have the option of securing against the flaw by temporarily disabling the GitHub import option -   Click "Menu" -> "Admin"  Click "Settings" -> "General"  Expand the "Visibility and access controls" tab  Under "Import sources"
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Chrome extension 'Internet Download Manager' has 200,000 installs<a href="https://www.bleepingcomputer.com/news/security/fake-chrome-extension-internet-download-manager-has-200-000-installs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome extension 'Internet Download Manager' installed by more than 200,000 users is adware. The extension has been sitting on the Chrome Web Store since at least June 2019, according to the earliest reviews posted by users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'BianLian' Ransomware Variant on the Rise<a href="https://www.darkreading.com/cloud/new-bianlian-ransomware-variant-on-the-rise?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers using BianLian typically demand unusually high ransoms, and they utilize a unique encryption style that divides the file content into chunks of 10 bytes to evade detection by antivirus products, the researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pirated 3DMark benchmark tool delivering info-stealer malware<a href="https://www.bleepingcomputer.com/news/security/pirated-3dmark-benchmark-tool-delivering-info-stealer-malware/"> Full Text</a>
@@ -50,7 +454,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Java libraries are full of deserialization security bugs<a href="https://www.theregister.com/2022/08/22/java_library_flaws/?&web_view=true"> Full Text</a>
@@ -66,7 +470,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Uncovers Tool Used by Iranian Hackers to Steal Data from Email Accounts<a href="https://thehackernews.com/2022/08/google-uncovers-tool-used-by-iranian.html"> Full Text</a>
@@ -82,7 +486,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft publicly discloses details on critical ChromeOS flaw<a href="https://securityaffairs.co/wordpress/134782/security/critical-chromeos-flaw.html"> Full Text</a>
@@ -102,7 +506,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Carbon Black causing BSOD crashes on Windows<a href="https://www.bleepingcomputer.com/news/security/vmware-carbon-black-causing-bsod-crashes-on-windows/"> Full Text</a>
@@ -118,7 +522,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French Hospital Center Targeted by Cyberattack, Services Severely Disrupted<a href="https://www.tellerreport.com/tech/2022-08-22-essonne--a-hospital-center-targeted-by-a-cyberattack--its-services-severely-disrupted.BJzSzR6x1j.html?&web_view=true"> Full Text</a>
@@ -134,7 +538,7 @@ Teller Report
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XCSSET Malware Updates with Python 3 to Target macOS Monterey Users<a href="https://thehackernews.com/2022/08/xcsset-malware-updates-with-python-3-to.html"> Full Text</a>
@@ -150,7 +554,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitLab fixed a critical Remote Code Execution (RCE) bug in CE and EE releases<a href="https://securityaffairs.co/wordpress/134769/security/gitlab-rce-bug.html"> Full Text</a>
@@ -170,7 +574,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing attacks abusing SaaS platforms see a massive 1,100% growth<a href="https://www.bleepingcomputer.com/news/security/phishing-attacks-abusing-saas-platforms-see-a-massive-1-100-percent-growth/"> Full Text</a>
@@ -186,7 +590,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian UNC3890 Targets Israel’s Key Sectors<a href="https://cyware.com/news/iranian-unc3890-targets-israels-key-sectors-913619a8"> Full Text</a>
@@ -202,7 +606,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Rise of Data Exfiltration and Why It Is a Greater Risk Than Ransomware<a href="https://thehackernews.com/2022/08/the-rise-of-data-exfiltration-and-why.html"> Full Text</a>
@@ -218,7 +622,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 80,000 Hikvision cameras can be easily hacked<a href="https://securityaffairs.co/wordpress/134756/security/hikvision-cameras-vulnerability.html"> Full Text</a>
@@ -238,7 +642,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French hospital hit by $10M ransomware attack, sends patients elsewhere<a href="https://www.bleepingcomputer.com/news/security/french-hospital-hit-by-10m-ransomware-attack-sends-patients-elsewhere/"> Full Text</a>
@@ -254,7 +658,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Tale of PivNoxy and Chinoxy Puppeteer<a href="https://www.fortinet.com/blog/threat-research/pivnoxy-and-chinoxy-puppeteer-analysis?&web_view=true"> Full Text</a>
@@ -270,7 +674,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Suspected Iranian Hackers Targeted Several Israeli Organizations for Espionage<a href="https://thehackernews.com/2022/08/suspected-iranian-hackers-targeted.html"> Full Text</a>
@@ -286,7 +690,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Palo Alto Networks PAN-OS to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/134749/security/palo-alto-networks-pan-os-flaw-2.html"> Full Text</a>
@@ -306,7 +710,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'Donut Leaks' extortion gang linked to recent ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/new-donut-leaks-extortion-gang-linked-to-recent-ransomware-attacks/"> Full Text</a>
@@ -322,7 +726,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Defending against the new ransomware landscape<a href="https://www.microsoft.com/security/blog/2022/08/22/cyber-signals-defend-against-the-new-ransomware-landscape/?&web_view=true"> Full Text</a>
@@ -338,7 +742,7 @@ Microsoft
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Counterfeit versions of popular mobile devices target WhatsApp and WhatsApp Business<a href="https://securityaffairs.co/wordpress/134735/malware/counterfeit-versions-mobile-devices-target-whatsapp.html"> Full Text</a>
@@ -358,7 +762,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ETHERLED: Air-gapped systems leak data via network card LEDs<a href="https://www.bleepingcomputer.com/news/security/etherled-air-gapped-systems-leak-data-via-network-card-leds/"> Full Text</a>
@@ -374,7 +778,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ragnar Locker Ransomware Claims to Breach Greek Natural Gas Operator DESFA<a href="https://therecord.media/greek-gas-operator-refuses-to-negotiate-with-ransomware-group-after-attack/?&web_view=true"> Full Text</a>
@@ -390,7 +794,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
+August 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptojackers growing in numbers and sophistication<a href="https://www.malwarebytes.com/blog/news/2022/08/cryptojackers-are-growing-in-numbers-and-sophistication?&web_view=true"> Full Text</a>
