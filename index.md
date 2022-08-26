@@ -34,6 +34,394 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How 'Kimsuky' hackers ensure their malware only reach valid targets<a href="https://www.bleepingcomputer.com/news/security/how-kimsuky-hackers-ensure-their-malware-only-reach-valid-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean 'Kimsuky' threat actors are going to great lengths to ensure that their malicious payloads are only downloaded by valid targets and not on the systems of security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Twilio, Cloudflare Attacked in Campaign That Hit Over 130 Organizations<a href="https://www.securityweek.com/twilio-cloudflare-attacked-part-campaign-hit-over-130-organizations?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks disclosed recently by Twilio and Cloudflare were part of a massive phishing campaign that targeted at least 130 other organizations, according to cybersecurity company Group-IB.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta Hackers Behind Twilio and Cloudflare Breach Hit Over 130 Organizations<a href="https://thehackernews.com/2022/08/okta-hackers-behind-twilio-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the attacks on  Twilio  and  Cloudflare  earlier this month has been linked to a broader phishing campaign aimed at 136 organizations that resulted in a cumulative compromise of 9,931 accounts.  The activity has been condemned  0ktapus  by Group-IB because the initial goal of the attacks was to "obtain Okta identity credentials and two-factor authentication (2FA) codes from users of the targeted organizations."  Calling the attacks well designed and executed, the Singapore-headquartered company said the adversary singled out employees of companies that are customers of identity services provider Okta.   The modus operandi involved sending targets text messages containing links to phishing sites that impersonated the Okta authentication page of the respective targeted entities.  "This case is of interest because despite using low-skill methods it was able to compromise a large number of well-known organizations," Group-IB  said . "Furthe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Should Uncle Sam Worry About ‘Foreign’ Open-Source Software? Geographic Known Unknowns and Open-Source Software Security<a href="https://www.lawfareblog.com/should-uncle-sam-worry-about-foreign-open-source-software-geographic-known-unknowns-and-open-source"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avoiding “foreign” open-source software appears impossible and is unlikely to improve security.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass data breach: threat actors stole a portion of source code<a href="https://securityaffairs.co/wordpress/134858/data-breach/lastpass-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password management software firm LastPass has suffered a data breach, threat actors have stole source code and other data.
+
+
+
+Password management software firm LastPass disclosed a security breach, threat actors had access to portions of the company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass developer systems hacked to steal source code<a href="https://www.bleepingcomputer.com/news/security/lastpass-developer-systems-hacked-to-steal-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password management firm LastPass was hacked two weeks ago, enabling threat actors to steal the company's source code and proprietary technical information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are attempting to steal millions of dollars from businesses by bypassing multi-factor authentication<a href="https://www.zdnet.com/article/hackers-are-attempting-to-steal-millions-of-dollars-from-businesses-by-bypassing-multi-factor-authentication/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers change the bank details so that they receive the payment if the transfer is approved. Researchers say the attackers behind this campaign are attempting to steal millions of dollars in each transaction.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Uncovers New Post-Compromise Malware Used by Nobelium Hackers<a href="https://thehackernews.com/2022/08/microsoft-uncovers-new-post-compromise.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the SolarWinds supply chain attack has been linked to yet another "highly targeted" post-exploitation malware that could be used to maintain persistent access to compromised environments.  Dubbed  MagicWeb  by Microsoft's threat intelligence teams, the development reiterates Nobelium's commitment to developing and maintaining purpose-built capabilities.  Nobelium is the tech giant's moniker for a cluster of activities that came to light with the  sophisticated attack targeting SolarWinds  in December 2020, and which overlaps with the Russian nation-state hacking group widely known as  APT29 , Cozy Bear, or The Dukes.   "Nobelium remains highly active, executing multiple campaigns in parallel targeting government organizations, non-governmental organizations (NGOs), intergovernmental organizations (IGOs), and think tanks across the US, Europe, and Central Asia," Microsoft  said .  MagicWeb, which shares similarities with another t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nobelium APT uses new Post-Compromise malware MagicWeb<a href="https://securityaffairs.co/wordpress/134838/apt/nobelium-magicweb-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT group Nobelium is behind a new sophisticated post-exploitation malware tracked by Microsoft as MagicWeb.
+
+
+
+Microsoft security researchers discovered a post-compromise malware, tracked as MagicWeb, which is used by the Russia-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers abuse Genshin Impact anti-cheat system to disable antivirus<a href="https://www.bleepingcomputer.com/news/security/hackers-abuse-genshin-impact-anti-cheat-system-to-disable-antivirus/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are abusing an anti-cheat system driver for the immensely popular Genshin Impact game to disable antivirus software while conducting ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CFO Spoofed in Convincing Business Email Compromise Scam<a href="https://www.avanan.com/blog/cfo-spoofed-in-convincing-business-email-compromise-scam?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The targeted users are presented with a phishing email from the CFO of a major corporation. The CFO asks the recipient of the email to make a payment to an insurance company.
+</details>
+<div style="text-align: right" markdown="1">
+Avanan
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Spending Billions on Cybersecurity<a href="https://thehackernews.com/2022/08/us-government-spending-billions-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In recent months, the House of Representatives has been hard at work drafting various spending bills for the 2023 fiscal year. While these bills provide funding for a vast array of government programs and agencies, there was one thing that really stands out. Collectively, the bills that are making their way through the house  allocate a staggering $15.6 billion to cybersecurity spending .  As you could probably guess, the lion's share of this spending ($11.2 billion) is being allocated to the Department of Defense. It is worth noting, however, that nearly $3 billion is going to the Cyber Security and Infrastructure Security Agency (CISA).  Although it may be tempting to think of these cybersecurity budget allocations as just another example of excessive government spending, it's worth considering what a $15.6 billion cash infusion will mean for the IT security industry. It's equally important to consider why the US government finds it necessary to ramp up its cybersecurity
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GAIROSCOPE attack allows to exfiltrate data from Air-Gapped systems via ultrasonic tones<a href="https://securityaffairs.co/wordpress/134825/hacking/gairoscope-air-gapped-system-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GAIROSCOPE: An Israeli researcher demonstrated how to exfiltrate data from air-gapped systems using ultrasonic tones and smartphone gyroscopes.
+
+
+
+The popular researcher Mordechai Guri from the Ben-Gurion University of the Negev in Israel devise an attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Russian malware hijacks ADFS to log in as anyone in Windows<a href="https://www.bleepingcomputer.com/news/security/microsoft-russian-malware-hijacks-adfs-to-log-in-as-anyone-in-windows/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has discovered a new malware used by the Russian hacker group APT29 (a.k.a. NOBELIUM, Cozy Bear) that enables authentication as anyone in a compromised network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Golang Ransomware Agenda Customizes Attacks Against Organizations in Asia and Africa<a href="https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers revealed that the new ransomware in question targeted enterprises in Asia and Africa. Based on dark web posts by a user named “Qilin,” and through ransom notes, the ransomware is called “Agenda.”
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Kimusky Infra Targeting South Korean Politicians and Diplomats<a href="https://thehackernews.com/2022/08/researchers-uncover-kimusky-infra.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean nation-state group Kimusky has been linked to a new set of malicious activities directed against political and diplomatic entities located in its southern counterpart in early 2022.  Russian cybersecurity firm Kaspersky codenamed the cluster  GoldDragon , with the infection chains leading to the deployment of Windows malware designed to file lists, user keystrokes, and stored web browser login credentials.  Included among the potential victims are South Korean university professors, think tank researchers, and government officials.    Kimsuky , also known as Black Banshee, Thallium, and Velvet Chollima, is the name given to a prolific North Korean advanced persistent threat (APT) group that targets entities globally, but with a primary focus on South Korea, to gain intelligence on various topics of interest to the regime.  Known to be operating since 2012, the group has a history of employing social engineering tactics, spear-phishing, and watering hole attacks to exf
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are using the Tox P2P messenger as C2 server<a href="https://securityaffairs.co/wordpress/134806/malware/tox-p2p-c2-server.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using the Tox peer-to-peer instant messaging service as a command-and-control server, Uptycs researchers reported. 
+
+
+
+Tox is a peer-to-peer serverless instant messaging services that uses NaCl for encryption and decryption.
+
+
+
+Uptycs...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio hackers hit over 130 orgs in massive Okta phishing attack<a href="https://www.bleepingcomputer.com/news/security/twilio-hackers-hit-over-130-orgs-in-massive-okta-phishing-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have discovered the phishing kit responsible for thousands of attacks against 136 high-profile organizations that have compromised 9,931 accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Patches High-Severity Vulnerabilities in Firefox, Thunderbird<a href="https://www.securityweek.com/mozilla-patches-high-severity-vulnerabilities-firefox-thunderbird-0?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Firefox 104 — as well as Firefox ESR 91.13 and 102.2 — patches a high-severity address bar spoofing issue related to XSLT error handling. The flaw, tracked as CVE-2022-38472, could be exploited for phishing.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Repository Warns Python Project Maintainers About Ongoing Phishing Attacks<a href="https://thehackernews.com/2022/08/pypi-repository-warns-python-project.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python Package Index, PyPI, on Wednesday sounded the alarm about an ongoing phishing campaign that aims to steal developer credentials and inject malicious updates to legitimate packages.  "This is the first known phishing attack against PyPI," the maintainers of the official third-party software repository  said  in a series of tweets.  The social engineering attack entails sending security-themed messages that create a false sense of urgency by informing recipients that Google is implementing a mandatory validation process on all packages and that they need to click on a link to complete the validation before September, or risk getting their PyPI modules removed.   Should an unsuspecting developer fall for the scheme, users are directed to a lookalike landing page that mimics PyPI's login page and is hosted on Google Sites, from where the entered credentials are captured and abused to unauthorizedly access the accounts and compromise the packages to include malware
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers adopt Sliver toolkit as a Cobalt Strike alternative<a href="https://www.bleepingcomputer.com/news/security/hackers-adopt-sliver-toolkit-as-a-cobalt-strike-alternative/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are dumping the Cobalt Strike penetration testing suite in favor of similar frameworks that are less known. After Brute Ratel, the open-source, cross-platform kit called Sliver is becoming an attractive alternative.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This company paid a ransom demand. Hackers leaked its data anyway<a href="https://www.zdnet.com/article/this-company-paid-a-ransom-demand-hackers-leaked-its-data-anyway/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stealing sensitive data has become a common part of ransomware attacks. Criminals leverage it as part of their extortion attempts, threatening to release it if a ransom isn't received.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI packages hijacked after developers fall for phishing emails<a href="https://www.bleepingcomputer.com/news/security/pypi-packages-hijacked-after-developers-fall-for-phishing-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign caught yesterday was seen targeting maintainers of Python packages published to the PyPI registry. Python packages 'exotel' and 'spam' are among hundreds seen laced with malware after attackers successfully compromised accounts of maintainers who fell for the phishing email. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 24, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
