@@ -34,6 +34,366 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The number of companies caught up in the Twilio hack keeps growing<a href="https://arstechnica.com/information-technology/2022/08/the-number-of-companies-caught-up-in-the-twilio-hack-keeps-growing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three new companies—authentication service Authy, password manager LastPass, and food delivery service DoorDash—said in recent days that the Twilio compromise led to them being hacked.
+</details>
+<div style="text-align: right" markdown="1">
+ARS Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Exploiting Unpatched Log4j 2 Bugs to Target Israeli Organizations<a href="https://thehackernews.com/2022/08/iranian-hackers-exploiting-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian state-sponsored actors are leaving no stone unturned to exploit unpatched systems running Log4j to target Israeli entities, indicating the vulnerability's  long tail  for remediation.  Microsoft attributed the latest set of activities to the  umbrella threat group  tracked as  MuddyWater  (aka Cobalt Ulster, Mercury, Seedworm, or Static Kitten), which is  linked  to the Iranian intelligence apparatus, the Ministry of Intelligence and Security (MOIS).   The attacks are notable for using SysAid Server instances unsecured against the  Log4Shell flaw  as a vector for initial access,  marking  a  departure  from the actors' pattern of leveraging VMware applications for breaching target environments.  "After gaining access, Mercury establishes persistence, dumps credentials, and moves laterally within the targeted organization using both custom and well-known hacking tools, as well as built-in operating system tools for its hands-on-keyboard attack," Microsoft  said .   The tech gia
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unprecedented cyber attack hit State Infrastructure of Montenegro<a href="https://securityaffairs.co/wordpress/134900/cyber-warfare-2/montenegro-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The state Infrastructure of Montenegro was hit by a massive and "unprecedented" cyber attack, authorities announced.
+
+
+
+An unprecedented cyber attack hit the Government digital infrastructure in Montenegro, the government has timely adopted measures...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Ships Urgent Patch for Critical Bitbucket Vulnerability<a href="https://www.securityweek.com/atlassian-ships-urgent-patch-critical-bitbucket-vulnerability?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian’s security response team has issued an urgent advisory to warn of a critical command injection flaw in its Bitbucket Server and Data Center product. The vulnerability carries a CVSS severity score of 9.9 out of 10.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability Discovered in Atlassian Bitbucket Server and Data Center<a href="https://thehackernews.com/2022/08/critical-vulnerability-discovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has rolled out fixes for a  critical security flaw  in Bitbucket Server and Data Center that could lead to the execution of malicious code on vulnerable installations.  Tracked as  CVE-2022-36804  (CVSS score: 9.9), the issue has been characterized as a command injection vulnerability in multiple endpoints that could be exploited via specially crafted HTTP requests.   "An attacker with access to a public Bitbucket repository or with read permissions to a private one can execute arbitrary code by sending a malicious HTTP request," Atlassian  said  in an advisory.  The shortcoming, discovered and reported by security researcher  @TheGrandPew  impacts all versions of Bitbucket Server and Datacenter released after 6.10.17, inclusive of 7.0.0 and newer -   Bitbucket Server and Datacenter 7.6  Bitbucket Server and Datacenter 7.17  Bitbucket Server and Datacenter 7.21  Bitbucket Server and Datacenter 8.0  Bitbucket Server and Datacenter 8.1  Bitbucket Server and Datacenter 8.2, and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actor abuses Genshin Impact Anti-Cheat driver to disable antivirus<a href="https://securityaffairs.co/wordpress/134884/malware/anti-cheat-driver-disable-antivirus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors abused a vulnerable anti-cheat driver for the Genshin Impact video game to disable antivirus software.
+
+
+
+Threat actors abused a vulnerable anti-cheat driver, named mhyprot2.sys, for the Genshin Impact video game to disable antivirus software....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - August 26th 2022 - Fighting back<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-26th-2022-fighting-back/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We saw a bit of ransomware drama this week, mostly centered around LockBit, who saw their data leak sites taken down by a DDoS attack after they started leaking the allegedly stolen Entrust data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoorDash discloses new data breach tied to Twilio hackers<a href="https://www.bleepingcomputer.com/news/security/doordash-discloses-new-data-breach-tied-to-twilio-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Food delivery firm DoorDash has disclosed a data breach exposing customer and employee data that is linked to the recent cyberattack on Twilio.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Bitbucket Server vulnerable to critical RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/atlassian-bitbucket-server-vulnerable-to-critical-rce-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has published a security advisory warning Bitbucket Server and Data Center users of a critical security flaw that attackers could leverage to execute arbitrary code on vulnerable instances.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Stole Crypto from Bitcoin ATMs<a href="https://cyware.com/news/attackers-stole-crypto-from-bitcoin-atms-f3ec6501"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers abused a zero-day vulnerability in General Bytes Bitcoin ATM servers, allowing them to hijack transactions related to fund withdrawal and deposits. It's not known how many servers were attacked using the flaw and how much cryptocurrency was stolen. The ATM maker has provided steps to perfor ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Breach LastPass Developer System to Steal Source Code<a href="https://thehackernews.com/2022/08/hackers-breach-lastpass-developer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password management service LastPass confirmed a security incident that resulted in the theft of certain source code and technical information.  The security breach is said to have occurred two weeks ago, targeting its development environment. No customer data or encrypted passwords were accessed, although the company provided no further details regarding the hack and what source code was stolen.   "An unauthorized party gained access to portions of the LastPass development environment through a single compromised developer account and took portions of source code and some proprietary LastPass technical information," LastPass CEO Karim Toubba  said .  Amidst ongoing investigation into the incident, the company said it has engaged the services of a leading cybersecurity and forensics firm and that it has implemented additional countermeasures.   LastPass, however, didn't elaborate on the exact mitigation techniques that it used to strengthen its environment. It also reiterated that the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaw impacts Atlassian Bitbucket Server and Data Center<a href="https://securityaffairs.co/wordpress/134896/hacking/atlassian-bitbucket-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian addressed a critical vulnerability in Bitbucket Server and Data Center that could lead to malicious code execution on vulnerable instances.
+
+
+
+Atlassian fixed a critical flaw in Bitbucket Server and Data Center, tracked as CVE-2022-36804 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio breach let hackers gain access to Authy 2FA accounts<a href="https://www.bleepingcomputer.com/news/security/twilio-breach-let-hackers-gain-access-to-authy-2fa-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twilio's investigation into the attack on August 4 reveals that hackers gained access to some Authy user accounts and registered unauthorized devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Iranian attackers are using Log4Shell to target organizations in Israel<a href="https://www.zdnet.com/article/microsoft-iranian-attackers-using-log4shell-to-attack-organizations-in-israel/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the threat appears to be targeted exclusively at organizations based in Israel, Microsoft is urging all organizations to check whether SysAid is present on the network and apply the firm's patches for the Log4j flaws.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Groups Increasingly Adopting Sliver Command-and-Control Framework<a href="https://thehackernews.com/2022/08/cybercrime-groups-increasingly-adopting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nation-state threat actors are  increasingly adopting  and integrating the Sliver  command-and-control (C2) framework in their intrusion campaigns as a replacement for Cobalt Strike.  "Given Cobalt Strike's popularity as an attack tool, defenses against it have also improved over time," Microsoft security experts  said . "Sliver thus presents an attractive alternative for actors looking for a lesser-known toolset with a low barrier for entry."  Sliver, first made public in late 2019 by cybersecurity company BishopFox, is a Go-based  open source C2 platform  that supports user-developed extensions, custom implant generation, and other commandeering options.   "A C2 framework usually includes a server that accepts connections from implants on a compromised system, and a client application that allows the C2 operators to interact with the implants and launch malicious commands," Microsoft said.  Besides facilitating long-term access to infected hosts, the cross-platform kit is also known
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked Mercury APT exploited Log4Shell in SysAid Apps for initial access<a href="https://securityaffairs.co/wordpress/134876/apt/mercury-exploit-log4shell-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iran-linked Mercury APT group exploited the Log4Shell vulnerability in SysAid applications for initial access to the targeted organizations.
+
+
+
+The Log4Shell flaw (CVE-2021-44228) made the headlines in December after Chinese security researcher...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Iranian hackers still exploiting Log4j bugs against Israel<a href="https://www.bleepingcomputer.com/news/security/microsoft-iranian-hackers-still-exploiting-log4j-bugs-against-israel/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers continue to exploit the Log4j vulnerability in vulnerable applications, as shown by the Iranian 'MuddyWater' threat actor who was found targeting Israeli organizations using the SysAid software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Vulnerability in ​​Delta Electronics ICS Software Exploited in Attacks<a href="https://www.securityweek.com/cisa-vulnerability-delta-ics-software-exploited-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability affecting industrial automation software from Delta Electronics appears to have been exploited in attacks, and the US CISA is urging organizations to take action as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoldDragon campaign: North-Korea linked Kimsuky APT adopts victim verification technique<a href="https://securityaffairs.co/wordpress/134864/apt/kimsuky-golddragon-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked Kimsuky APT is behind a new campaign, tracked as GoldDragon, targeting political and diplomatic entities in South Korea in early 2022.
+
+
+
+Researchers from Kaspersky attribute a series of attacks, tracked as GoldDragon, against...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Open Sources 'Paranoid' Crypto Testing Library<a href="https://www.securityweek.com/google-open-sources-paranoid-crypto-testing-library?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Paranoid contains implementations and optimizations extracted from existing crypto-related literature, which “showed that the generation of these artifacts was flawed in some cases,” Google explains.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+0ktapus phishing campaign: Twilio hackers targeted other 136 organizations<a href="https://securityaffairs.co/wordpress/134851/hacking/0ktapus-phishing-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind Twilio and Cloudflare attacks have been linked to a phishing campaign that targeted other 136 organizations.
+
+
+
+The threat actors behind the attacks on Twilio and Cloudflare have been linked to a large-scale phishing campaign...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 25, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
